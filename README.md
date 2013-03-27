@@ -36,11 +36,11 @@ IDs are in the format `ocd-location/country:<country_code>[/<type>:<type_id>]+`
 
 ## Repository Layout
 
-* The ``identifiers`` directory is laid out by country, within each is one or more CSV file
+* The `identifiers` directory is laid out by country, within each is one or more CSV file
     * CSV files can be named descriptively, but a recommended convention is to name them according to the piece of the hierarchy that they cover.  For example:
-        * `state-nc` could cover the entire state of North Carolina
-        * `state-nc-counties` could cover just counties (and their subdivisions) for North Carolina
-        * `state-ny-city-nyc` could cover just subdivisions of New York City
+        * `state-nc.csv` could cover the entire state of North Carolina
+        * `state-nc-counties.csv` could cover just counties (and their subdivisions) for North Carolina
+        * `state-ny-city-nyc.csv` could cover just subdivisions of New York City
     * Each CSV file should have with two columns: ocd-division id and common name.  These files should not have header rows so that all of the CSV files within a directory can be concatenated together.
 * ``types.md`` is a registry of defined types.  When creating a new file, the registry of types should be consulted.
 
