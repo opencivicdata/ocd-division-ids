@@ -29,8 +29,9 @@ class TabDelimited(csv.Dialect):
 TYPES = {
     'county': {
         'url': 'http://www.census.gov/geo/www/gazetteer/files/counties_list_{fips}.txt',
-        'endings': (' County',),
-        'row_test': lambda: True
+        'endings': (' County', ' City and Borough', ' Borough', ' Census Area',
+                    ' Municipality', ' Parish', ' city'),
+        'row_test': lambda row: row['USPS'] != 'DC'
     },
     'place': {
         'url': 'http://www.census.gov/geo/www/gazetteer/files/2010_place_list_{fips}.txt',
@@ -76,7 +77,8 @@ def process_file(state, entity_type, filehandle):
                     subtype = ending.replace(' ', '_').lower()
                     break
             else:
-                if 'Anaconda' not in name:
+                if ('Anaconda' not in name and
+                    'Carson City' != name):
                     raise ValueError('unknown ending: ' + name)
 
             name = name.lower().replace(' ', '_')
@@ -85,7 +87,7 @@ def process_file(state, entity_type, filehandle):
 
     for name, subtype in places:
         if seen[name] != 1:
-            name += '_' + subtype.lower()
+            name += subtype.lower()
         print(make_id(state=state.lower(), **{entity_type: name}))
 
 
@@ -99,8 +101,12 @@ if __name__ == '__main__':
     args = parser.parse_args()
 
     state = args.state.lower()
-    fips = us.states.lookup(args.state).fips
 
-    data = urllib2.urlopen(TYPES[args.type]['url'].format(fips=fips))
+    if state == 'all':
+        all_fips = [(state.abbr.lower(), state.fips) for state in us.STATES]
+    else:
+        all_fips = [(state, us.states.lookup(args.state).fips)]
 
-    process_file(state, args.type, data)
+    for state, fips in all_fips:
+        data = urllib2.urlopen(TYPES[args.type]['url'].format(fips=fips))
+        process_file(state, args.type, data)
