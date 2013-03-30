@@ -13,6 +13,7 @@ class TabDelimited(csv.Dialect):
     delimiter = '\t'
     quoting = csv.QUOTE_NONE
     lineterminator = '\n\r'
+    skipinitialspace = True
 
 
 TYPES = {
@@ -53,9 +54,9 @@ def make_id(state, **kwargs):
 
 def process_file(state, entity_type, filehandle):
     rows = csv.DictReader(filehandle, dialect=TabDelimited)
-    seen = collections.Counter()
     funcstat_count = collections.Counter()
-    places = []
+    ids = {}
+    duplicates = collections.defaultdict(list)
 
     # function to extract funcstat value
     funcstat_func = TYPES[entity_type]['funcstat']
@@ -79,25 +80,37 @@ def process_file(state, entity_type, filehandle):
                                  'Carson City',
                                 )):
                     raise ValueError('unknown ending: ' + name)
+                subtype = None
 
             name = name.lower().replace(' ', '_')
-            seen[name] += 1
-            places.append((name, subtype))
+
+            id = make_id(state=state.lower(), **{entity_type: name})
+            if id in ids:
+                duplicates[id].append(row)
+                duplicates[id].append(ids.pop(id))
+            elif id in duplicates:
+                duplicates[id].append(row)
+            else:
+                ids[id] = row
         elif funcstat in ('I', 'F', 'N', 'S', 'C'):
             # inactive/fictitious/nonfunctioning/statistical/consolidated
             pass
         else:
+            # unhandled FUNCSTAT type
             raise Exception(row)
 
-
-    for name, subtype in places:
-        if seen[name] != 1:
-            name += subtype.lower()
-        print(make_id(state=state.lower(), **{entity_type: name}))
+    for id in sorted(ids):
+        print(id)
 
     print(state, ' | '.join('{0}: {1}'.format(k,v)
                             for k,v in funcstat_count.most_common()),
           file=sys.stderr)
+    #if duplicates:
+    for id, sources in duplicates.iteritems():
+        print(state, 'duplicate', id, file=sys.stderr)
+        for source in sources:
+            print('    ', source['NAME'], funcstat_func(source), source['GEOID'],
+                  file=sys.stderr)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
