@@ -9,17 +9,6 @@ import collections
 
 import us
 
-""" List of FUNCSTAT codes:
-    A - active government
-    B - partially consolidated government
-    C - fully consolidated government
-    F - ficticious entities created to fulfill
-    G - subordinate government
-    I - inactive government
-    N - nonfunctioning entity
-    S - statistical entity
-"""
-
 class TabDelimited(csv.Dialect):
     delimiter = '\t'
     quoting = csv.QUOTE_NONE
@@ -31,19 +20,21 @@ TYPES = {
         'url': 'http://www.census.gov/geo/www/gazetteer/files/counties_list_{fips}.txt',
         'endings': (' County', ' City and Borough', ' Borough', ' Census Area',
                     ' Municipality', ' Parish', ' city'),
-        'row_test': lambda row: row['USPS'] != 'DC'
+        'funcstat': lambda row: 'F' if row['USPS'] == 'DC' else 'A'
     },
     'place': {
         'url': 'http://www.census.gov/geo/www/gazetteer/files/2010_place_list_{fips}.txt',
-        'endings': (' CDP', ' municipality', ' city', ' town', ' village',
-                    ' borough', ' city and borough'),
-        'row_test': lambda row: row['FUNCSTAT'] == 'A'
+        'endings': (' municipality', ' city', ' town', ' village',
+                    ' borough', ' city and borough', ' unified government',
+                    ' urban county', ' metropolitan government',
+                    ' corporation'),
+        'funcstat': lambda row: row['FUNCSTAT']
     },
     'subdiv': {
         'url': 'http://www.census.gov/geo/www/gazetteer/files/county_sub_list_{fips}.txt',
         'endings': (' CDP', ' municipality', ' city', ' town', ' village',
                     ' borough', ' city and borough'),
-        'row_test': lambda row: row['FUNCSTAT10'] == 'A'
+        'funcstat': lambda row: row['FUNCSTAT10']
     }
 }
 
@@ -58,17 +49,23 @@ def make_id(state, **kwargs):
     return 'ocd-division/country:us/state:{state}/{type}:{type_id}'.format(
         state=state, type=type, type_id=type_id)
 
+# http://www.census.gov/geo/reference/gtc/gtc_area_attr.html#status
 
 def process_file(state, entity_type, filehandle):
     rows = csv.DictReader(filehandle, dialect=TabDelimited)
     seen = collections.Counter()
+    funcstat_count = collections.Counter()
     places = []
 
-    row_test = TYPES[entity_type]['row_test']
+    # function to extract funcstat value
+    funcstat_func = TYPES[entity_type]['funcstat']
 
     for row in rows:
-        if row['USPS'].lower() == state and row_test(row):
+        funcstat = funcstat_func(row)
+        funcstat_count[funcstat] += 1
 
+        # active government
+        if funcstat in ('A', 'B'):
             name = row['NAME']
 
             for ending in TYPES[entity_type]['endings']:
@@ -77,19 +74,30 @@ def process_file(state, entity_type, filehandle):
                     subtype = ending.replace(' ', '_').lower()
                     break
             else:
-                if ('Anaconda' not in name and
-                    'Carson City' != name):
+                if (name not in ('Anaconda-Deer Lodge County',
+                                 'Hartsville/Trousdale County',
+                                 'Carson City',
+                                )):
                     raise ValueError('unknown ending: ' + name)
 
             name = name.lower().replace(' ', '_')
             seen[name] += 1
             places.append((name, subtype))
+        elif funcstat in ('I', 'F', 'N', 'S', 'C'):
+            # inactive/fictitious/nonfunctioning/statistical/consolidated
+            pass
+        else:
+            raise Exception(row)
+
 
     for name, subtype in places:
         if seen[name] != 1:
             name += subtype.lower()
         print(make_id(state=state.lower(), **{entity_type: name}))
 
+    print(state, ' | '.join('{0}: {1}'.format(k,v)
+                            for k,v in funcstat_count.most_common()),
+          file=sys.stderr)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(
