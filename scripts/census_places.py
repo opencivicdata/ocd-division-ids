@@ -34,7 +34,8 @@ TYPES = {
     'subdiv': {
         'url': 'http://www.census.gov/geo/www/gazetteer/files/county_sub_list_{fips}.txt',
         'endings': (' CDP', ' municipality', ' city', ' town', ' village',
-                    ' borough', ' city and borough'),
+                    ' borough', ' city and borough', ' township',
+                    ' plantation'),
         'funcstat': lambda row: row['FUNCSTAT10']
     }
 }
@@ -46,7 +47,9 @@ def make_id(state, **kwargs):
     type, type_id = kwargs.items()[0]
     if not re.match('^[a-z]+$', type):
         raise ValueError('type must match [a-z]+ [%s]' % type)
-    type_id = re.sub('[^a-z0-9~_.-]', '~', type_id.replace(' ', '-'))
+    type_id = type_id.lower()
+    type_id = re.sub('\.? ', '_', type_id)
+    type_id = re.sub('[^a-z0-9~_.-]', '~', type_id)
     return 'ocd-division/country:us/state:{state}/{type}:{type_id}'.format(
         state=state, type=type, type_id=type_id)
 
@@ -66,7 +69,7 @@ def process_file(state, entity_type, filehandle):
         funcstat_count[funcstat] += 1
 
         # active government
-        if funcstat in ('A', 'B'):
+        if funcstat in ('A', 'B', 'G'):
             name = row['NAME']
 
             for ending in TYPES[entity_type]['endings']:
@@ -78,11 +81,9 @@ def process_file(state, entity_type, filehandle):
                 if (name not in ('Anaconda-Deer Lodge County',
                                  'Hartsville/Trousdale County',
                                  'Carson City',
-                                )):
+                                ) and not name.startswith('Township ')):
                     raise ValueError('unknown ending: ' + name)
                 subtype = None
-
-            name = name.lower().replace(' ', '_')
 
             id = make_id(state=state.lower(), **{entity_type: name})
             if id in ids:
