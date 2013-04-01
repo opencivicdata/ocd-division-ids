@@ -16,30 +16,80 @@ class TabDelimited(csv.Dialect):
     skipinitialspace = True
 
 
+TYPE_MAPPING = {
+    # counties
+    ' County': 'county',
+    # louisiana
+    ' Parish': 'parish',
+    # independent cities
+    ' city': 'place',
+    # alaska
+    #' City and Borough': 'borough',
+    ' Borough': 'borough',
+    ' Municipality': 'borough',
+    ' Census Area': 'censusarea',
+
+    # places
+    ' municipality': 'place',
+    ' borough': 'place',
+    ' city': 'place',
+    ' town': 'place',
+    ' village': 'place',
+
+    # subdivs
+    ' township': 'place',
+    ' plantation': 'place',
+}
+
+
 TYPES = {
     'county': {
         'url': 'http://www.census.gov/geo/www/gazetteer/files/counties_list_{fips}.txt',
-        'endings': (' County', ' City and Borough', ' Borough', ' Census Area',
-                    ' Municipality', ' Parish', ' city'),
         'funcstat': lambda row: 'F' if row['USPS'] == 'DC' else 'A'
     },
     'place': {
         'url': 'http://www.census.gov/geo/www/gazetteer/files/2010_place_list_{fips}.txt',
-        'endings': (' municipality', ' city', ' town', ' village',
-                    ' borough', ' city and borough', ' unified government',
-                    ' urban county', ' metropolitan government',
-                    ' corporation'),
         'funcstat': lambda row: row['FUNCSTAT']
     },
     'subdiv': {
         'url': 'http://www.census.gov/geo/www/gazetteer/files/county_sub_list_{fips}.txt',
-        'endings': (' CDP', ' municipality', ' city', ' town', ' village',
-                    ' borough', ' city and borough', ' township',
-                    ' plantation'),
         'funcstat': lambda row: row['FUNCSTAT10']
     }
 }
 
+OVERRIDES = {
+    # Alaska lists these twice (lower case = place, upper case=borough)
+    'Wrangell city and borough': ('Wrangell', 'place'),
+    'Sitka city and borough': ('Sitka', 'place'),
+    'Juneau city and borough': ('Juneau', 'place'),
+    'Wrangell City and Borough': ('Wrangell', 'borough'),
+    'Sitka City and Borough': ('Sitka', 'borough'),
+    'Juneau City and Borough': ('Juneau', 'borough'),
+    'Yakutat City and Borough': ('Yakutat', 'borough'),
+
+    # places that don't obey the usual naming rules
+    'Carson City': ('Carson City', 'place'),
+    'Lexington-Fayette urban county': ('Lexington', 'place'),
+    'Lynchburg, Moore County metropolitan government': ('Lynchburg', 'place'),
+    'Cusseta-Chattahoochee County unified government': ('Cusseta', 'place'),
+    'Georgetown-Quitman County unified government': ('Georgetown', 'place'),
+    'Webster County unified government': ('Webster County ', 'place'),
+    'Ranson corporation': ('Ranson', 'place'),
+
+    # kansas
+    'Township 1': ('Township 1', 'place'),
+    'Township 2': ('Township 2', 'place'),
+    'Township 3': ('Township 3', 'place'),
+    'Township 4': ('Township 4', 'place'),
+    'Township 5': ('Township 5', 'place'),
+    'Township 6': ('Township 6', 'place'),
+    'Township 7': ('Township 7', 'place'),
+    'Township 8': ('Township 8', 'place'),
+    'Township 9': ('Township 9', 'place'),
+    'Township 10': ('Township 10', 'place'),
+    'Township 11': ('Township 11', 'place'),
+    'Township 12': ('Township 12', 'place'),
+}
 
 def make_id(state, **kwargs):
     if len(kwargs) > 1:
@@ -55,9 +105,10 @@ def make_id(state, **kwargs):
 
 # http://www.census.gov/geo/reference/gtc/gtc_area_attr.html#status
 
-def process_file(state, entity_type, filehandle):
+def process_file(state, entity_type, filehandle, csvfile=None):
     rows = csv.DictReader(filehandle, dialect=TabDelimited)
     funcstat_count = collections.Counter()
+    type_count = collections.Counter()
     ids = {}
     duplicates = collections.defaultdict(list)
 
@@ -72,20 +123,19 @@ def process_file(state, entity_type, filehandle):
         if funcstat in ('A', 'B', 'G'):
             name = row['NAME']
 
-            for ending in TYPES[entity_type]['endings']:
-                if name.endswith(ending):
-                    name = name.replace(ending, '')
-                    subtype = ending.replace(' ', '_').lower()
-                    break
+            if name in OVERRIDES:
+                name, subtype = OVERRIDES[name]
             else:
-                if (name not in ('Anaconda-Deer Lodge County',
-                                 'Hartsville/Trousdale County',
-                                 'Carson City',
-                                ) and not name.startswith('Township ')):
+                for ending, subtype in TYPE_MAPPING.iteritems():
+                    if name.endswith(ending):
+                        name = name.replace(ending, '')
+                        break
+                else:
                     raise ValueError('unknown ending: ' + name)
-                subtype = None
 
-            id = make_id(state=state.lower(), **{entity_type: name})
+            type_count[subtype] += 1
+
+            id = make_id(state=state.lower(), **{subtype: name})
             if id in ids:
                 duplicates[id].append(row)
                 duplicates[id].append(ids.pop(id))
@@ -100,11 +150,18 @@ def process_file(state, entity_type, filehandle):
             # unhandled FUNCSTAT type
             raise Exception(row)
 
-    for id in sorted(ids):
-        print(id)
+    if csvfile:
+        for id, row in sorted(ids.iteritems()):
+            csvfile.writerow((row['NAME'], id))
+    else:
+        for id, row in sorted(ids.iteritems()):
+            print(row['NAME'], id)
 
     print(state, ' | '.join('{0}: {1}'.format(k,v)
                             for k,v in funcstat_count.most_common()),
+          file=sys.stderr)
+    print(state, ' | '.join('{0}: {1}'.format(k,v)
+                            for k,v in type_count.most_common()),
           file=sys.stderr)
     #if duplicates:
     for id, sources in duplicates.iteritems():
@@ -120,9 +177,16 @@ if __name__ == '__main__':
                         help='state to extract')
     parser.add_argument('type', type=str, default=None,
                         help='type of data to process')
+    parser.add_argument('--csv', action='store_true',
+                        help='output in csv format')
     args = parser.parse_args()
 
     state = args.state.lower()
+
+    if args.csv:
+        csvfile = csv.writer(sys.stdout)
+    else:
+        csvfile = None
 
     if state == 'all':
         all_fips = [(state.abbr.lower(), state.fips) for state in us.STATES]
@@ -131,4 +195,4 @@ if __name__ == '__main__':
 
     for state, fips in all_fips:
         data = urllib2.urlopen(TYPES[args.type]['url'].format(fips=fips))
-        process_file(state, args.type, data)
+        process_file(state, args.type, data, csvfile)
