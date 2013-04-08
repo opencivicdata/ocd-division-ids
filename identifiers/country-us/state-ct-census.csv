@@ -6,38 +6,11 @@ New Haven County,ocd-division/country:us/state:ct/county:new_haven
 New London County,ocd-division/country:us/state:ct/county:new_london
 Tolland County,ocd-division/country:us/state:ct/county:tolland
 Windham County,ocd-division/country:us/state:ct/county:windham
-Ansonia city,ocd-division/country:us/state:ct/place:ansonia
-Bantam borough,ocd-division/country:us/state:ct/place:bantam
-Bridgeport city,ocd-division/country:us/state:ct/place:bridgeport
-Bristol city,ocd-division/country:us/state:ct/place:bristol
-Danbury city,ocd-division/country:us/state:ct/place:danbury
-Danielson borough,ocd-division/country:us/state:ct/place:danielson
-Derby city,ocd-division/country:us/state:ct/place:derby
-Fenwick borough,ocd-division/country:us/state:ct/place:fenwick
-Groton city,ocd-division/country:us/state:ct/place:groton
-Groton Long Point borough,ocd-division/country:us/state:ct/place:groton_long_point
-Hartford city,ocd-division/country:us/state:ct/place:hartford
-Jewett City borough,ocd-division/country:us/state:ct/place:jewett_city
-Litchfield borough,ocd-division/country:us/state:ct/place:litchfield
-Meriden city,ocd-division/country:us/state:ct/place:meriden
-Middletown city,ocd-division/country:us/state:ct/place:middletown
-Naugatuck borough,ocd-division/country:us/state:ct/place:naugatuck
-New Britain city,ocd-division/country:us/state:ct/place:new_britain
-New Haven city,ocd-division/country:us/state:ct/place:new_haven
-New London city,ocd-division/country:us/state:ct/place:new_london
-Newtown borough,ocd-division/country:us/state:ct/place:newtown
-Norwalk city,ocd-division/country:us/state:ct/place:norwalk
-Norwich city,ocd-division/country:us/state:ct/place:norwich
-Shelton city,ocd-division/country:us/state:ct/place:shelton
-Stamford city,ocd-division/country:us/state:ct/place:stamford
-Stonington borough,ocd-division/country:us/state:ct/place:stonington
-Torrington city,ocd-division/country:us/state:ct/place:torrington
-Waterbury city,ocd-division/country:us/state:ct/place:waterbury
-West Haven city,ocd-division/country:us/state:ct/place:west_haven
-Woodmont borough,ocd-division/country:us/state:ct/place:woodmont
 Andover town,ocd-division/country:us/state:ct/place:andover
+Ansonia city,ocd-division/country:us/state:ct/place:ansonia
 Ashford town,ocd-division/country:us/state:ct/place:ashford
 Avon town,ocd-division/country:us/state:ct/place:avon
+Bantam borough,ocd-division/country:us/state:ct/place:bantam
 Barkhamsted town,ocd-division/country:us/state:ct/place:barkhamsted
 Beacon Falls town,ocd-division/country:us/state:ct/place:beacon_falls
 Berlin town,ocd-division/country:us/state:ct/place:berlin
@@ -48,7 +21,9 @@ Bloomfield town,ocd-division/country:us/state:ct/place:bloomfield
 Bolton town,ocd-division/country:us/state:ct/place:bolton
 Bozrah town,ocd-division/country:us/state:ct/place:bozrah
 Branford town,ocd-division/country:us/state:ct/place:branford
+Bridgeport city,ocd-division/country:us/state:ct/place:bridgeport
 Bridgewater town,ocd-division/country:us/state:ct/place:bridgewater
+Bristol city,ocd-division/country:us/state:ct/place:bristol
 Brookfield town,ocd-division/country:us/state:ct/place:brookfield
 Brooklyn town,ocd-division/country:us/state:ct/place:brooklyn
 Burlington town,ocd-division/country:us/state:ct/place:burlington
@@ -65,8 +40,11 @@ Columbia town,ocd-division/country:us/state:ct/place:columbia
 Cornwall town,ocd-division/country:us/state:ct/place:cornwall
 Coventry town,ocd-division/country:us/state:ct/place:coventry
 Cromwell town,ocd-division/country:us/state:ct/place:cromwell
+Danbury city,ocd-division/country:us/state:ct/place:danbury
+Danielson borough,ocd-division/country:us/state:ct/place:danielson
 Darien town,ocd-division/country:us/state:ct/place:darien
 Deep River town,ocd-division/country:us/state:ct/place:deep_river
+Derby city,ocd-division/country:us/state:ct/place:derby
 Durham town,ocd-division/country:us/state:ct/place:durham
 East Granby town,ocd-division/country:us/state:ct/place:east_granby
 East Haddam town,ocd-division/country:us/state:ct/place:east_haddam
@@ -82,48 +60,63 @@ Enfield town,ocd-division/country:us/state:ct/place:enfield
 Essex town,ocd-division/country:us/state:ct/place:essex
 Fairfield town,ocd-division/country:us/state:ct/place:fairfield
 Farmington town,ocd-division/country:us/state:ct/place:farmington
+Fenwick borough,ocd-division/country:us/state:ct/place:fenwick
 Franklin town,ocd-division/country:us/state:ct/place:franklin
 Glastonbury town,ocd-division/country:us/state:ct/place:glastonbury
 Goshen town,ocd-division/country:us/state:ct/place:goshen
 Granby town,ocd-division/country:us/state:ct/place:granby
 Greenwich town,ocd-division/country:us/state:ct/place:greenwich
 Griswold town,ocd-division/country:us/state:ct/place:griswold
-Groton town,ocd-division/country:us/state:ct/place:groton
+Groton city,ocd-division/country:us/state:ct/place:groton_city
+Groton Long Point borough,ocd-division/country:us/state:ct/place:groton_long_point
+Groton town,ocd-division/country:us/state:ct/place:groton_town
 Guilford town,ocd-division/country:us/state:ct/place:guilford
 Haddam town,ocd-division/country:us/state:ct/place:haddam
 Hamden town,ocd-division/country:us/state:ct/place:hamden
 Hampton town,ocd-division/country:us/state:ct/place:hampton
+Hartford city,ocd-division/country:us/state:ct/place:hartford
 Hartland town,ocd-division/country:us/state:ct/place:hartland
 Harwinton town,ocd-division/country:us/state:ct/place:harwinton
 Hebron town,ocd-division/country:us/state:ct/place:hebron
+Jewett City borough,ocd-division/country:us/state:ct/place:jewett_city
 Kent town,ocd-division/country:us/state:ct/place:kent
 Killingly town,ocd-division/country:us/state:ct/place:killingly
 Killingworth town,ocd-division/country:us/state:ct/place:killingworth
 Lebanon town,ocd-division/country:us/state:ct/place:lebanon
 Ledyard town,ocd-division/country:us/state:ct/place:ledyard
 Lisbon town,ocd-division/country:us/state:ct/place:lisbon
-Litchfield town,ocd-division/country:us/state:ct/place:litchfield
+Litchfield borough,ocd-division/country:us/state:ct/place:litchfield_borough
+Litchfield town,ocd-division/country:us/state:ct/place:litchfield_town
 Lyme town,ocd-division/country:us/state:ct/place:lyme
 Madison town,ocd-division/country:us/state:ct/place:madison
 Manchester town,ocd-division/country:us/state:ct/place:manchester
 Mansfield town,ocd-division/country:us/state:ct/place:mansfield
 Marlborough town,ocd-division/country:us/state:ct/place:marlborough
+Meriden city,ocd-division/country:us/state:ct/place:meriden
 Middlebury town,ocd-division/country:us/state:ct/place:middlebury
 Middlefield town,ocd-division/country:us/state:ct/place:middlefield
+Middletown city,ocd-division/country:us/state:ct/place:middletown
 Monroe town,ocd-division/country:us/state:ct/place:monroe
 Montville town,ocd-division/country:us/state:ct/place:montville
 Morris town,ocd-division/country:us/state:ct/place:morris
+Naugatuck borough,ocd-division/country:us/state:ct/place:naugatuck
+New Britain city,ocd-division/country:us/state:ct/place:new_britain
 New Canaan town,ocd-division/country:us/state:ct/place:new_canaan
 New Fairfield town,ocd-division/country:us/state:ct/place:new_fairfield
 New Hartford town,ocd-division/country:us/state:ct/place:new_hartford
+New Haven city,ocd-division/country:us/state:ct/place:new_haven
+New London city,ocd-division/country:us/state:ct/place:new_london
 New Milford town,ocd-division/country:us/state:ct/place:new_milford
 Newington town,ocd-division/country:us/state:ct/place:newington
-Newtown town,ocd-division/country:us/state:ct/place:newtown
+Newtown borough,ocd-division/country:us/state:ct/place:newtown_borough
+Newtown town,ocd-division/country:us/state:ct/place:newtown_town
 Norfolk town,ocd-division/country:us/state:ct/place:norfolk
 North Branford town,ocd-division/country:us/state:ct/place:north_branford
 North Canaan town,ocd-division/country:us/state:ct/place:north_canaan
 North Haven town,ocd-division/country:us/state:ct/place:north_haven
 North Stonington town,ocd-division/country:us/state:ct/place:north_stonington
+Norwalk city,ocd-division/country:us/state:ct/place:norwalk
+Norwich city,ocd-division/country:us/state:ct/place:norwich
 Old Lyme town,ocd-division/country:us/state:ct/place:old_lyme
 Old Saybrook town,ocd-division/country:us/state:ct/place:old_saybrook
 Orange town,ocd-division/country:us/state:ct/place:orange
@@ -145,6 +138,7 @@ Salisbury town,ocd-division/country:us/state:ct/place:salisbury
 Scotland town,ocd-division/country:us/state:ct/place:scotland
 Seymour town,ocd-division/country:us/state:ct/place:seymour
 Sharon town,ocd-division/country:us/state:ct/place:sharon
+Shelton city,ocd-division/country:us/state:ct/place:shelton
 Sherman town,ocd-division/country:us/state:ct/place:sherman
 Simsbury town,ocd-division/country:us/state:ct/place:simsbury
 Somers town,ocd-division/country:us/state:ct/place:somers
@@ -153,13 +147,16 @@ Southbury town,ocd-division/country:us/state:ct/place:southbury
 Southington town,ocd-division/country:us/state:ct/place:southington
 Sprague town,ocd-division/country:us/state:ct/place:sprague
 Stafford town,ocd-division/country:us/state:ct/place:stafford
+Stamford city,ocd-division/country:us/state:ct/place:stamford
 Sterling town,ocd-division/country:us/state:ct/place:sterling
-Stonington town,ocd-division/country:us/state:ct/place:stonington
+Stonington borough,ocd-division/country:us/state:ct/place:stonington_borough
+Stonington town,ocd-division/country:us/state:ct/place:stonington_town
 Stratford town,ocd-division/country:us/state:ct/place:stratford
 Suffield town,ocd-division/country:us/state:ct/place:suffield
 Thomaston town,ocd-division/country:us/state:ct/place:thomaston
 Thompson town,ocd-division/country:us/state:ct/place:thompson
 Tolland town,ocd-division/country:us/state:ct/place:tolland
+Torrington city,ocd-division/country:us/state:ct/place:torrington
 Trumbull town,ocd-division/country:us/state:ct/place:trumbull
 Union town,ocd-division/country:us/state:ct/place:union
 Vernon town,ocd-division/country:us/state:ct/place:vernon
@@ -167,9 +164,11 @@ Voluntown town,ocd-division/country:us/state:ct/place:voluntown
 Wallingford town,ocd-division/country:us/state:ct/place:wallingford
 Warren town,ocd-division/country:us/state:ct/place:warren
 Washington town,ocd-division/country:us/state:ct/place:washington
+Waterbury city,ocd-division/country:us/state:ct/place:waterbury
 Waterford town,ocd-division/country:us/state:ct/place:waterford
 Watertown town,ocd-division/country:us/state:ct/place:watertown
 West Hartford town,ocd-division/country:us/state:ct/place:west_hartford
+West Haven city,ocd-division/country:us/state:ct/place:west_haven
 Westbrook town,ocd-division/country:us/state:ct/place:westbrook
 Weston town,ocd-division/country:us/state:ct/place:weston
 Westport town,ocd-division/country:us/state:ct/place:westport
@@ -183,4 +182,5 @@ Windsor Locks town,ocd-division/country:us/state:ct/place:windsor_locks
 Wolcott town,ocd-division/country:us/state:ct/place:wolcott
 Woodbridge town,ocd-division/country:us/state:ct/place:woodbridge
 Woodbury town,ocd-division/country:us/state:ct/place:woodbury
+Woodmont borough,ocd-division/country:us/state:ct/place:woodmont
 Woodstock town,ocd-division/country:us/state:ct/place:woodstock
