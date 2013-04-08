@@ -12,54 +12,11 @@ Rutland County,ocd-division/country:us/state:vt/county:rutland
 Washington County,ocd-division/country:us/state:vt/county:washington
 Windham County,ocd-division/country:us/state:vt/county:windham
 Windsor County,ocd-division/country:us/state:vt/county:windsor
-Albany village,ocd-division/country:us/state:vt/place:albany
-Alburg village,ocd-division/country:us/state:vt/place:alburg
-Barre city,ocd-division/country:us/state:vt/place:barre
-Barton village,ocd-division/country:us/state:vt/place:barton
-Bellows Falls village,ocd-division/country:us/state:vt/place:bellows_falls
-Burlington city,ocd-division/country:us/state:vt/place:burlington
-Cabot village,ocd-division/country:us/state:vt/place:cabot
-Cambridge village,ocd-division/country:us/state:vt/place:cambridge
-Derby Center village,ocd-division/country:us/state:vt/place:derby_center
-Derby Line village,ocd-division/country:us/state:vt/place:derby_line
-Enosburg Falls village,ocd-division/country:us/state:vt/place:enosburg_falls
-Essex Junction village,ocd-division/country:us/state:vt/place:essex_junction
-Hyde Park village,ocd-division/country:us/state:vt/place:hyde_park
-Jacksonville village,ocd-division/country:us/state:vt/place:jacksonville
-Jeffersonville village,ocd-division/country:us/state:vt/place:jeffersonville
-Johnson village,ocd-division/country:us/state:vt/place:johnson
-Ludlow village,ocd-division/country:us/state:vt/place:ludlow
-Lyndonville village,ocd-division/country:us/state:vt/place:lyndonville
-Manchester village,ocd-division/country:us/state:vt/place:manchester
-Marshfield village,ocd-division/country:us/state:vt/place:marshfield
-Montpelier city,ocd-division/country:us/state:vt/place:montpelier
-Morrisville village,ocd-division/country:us/state:vt/place:morrisville
-Newbury village,ocd-division/country:us/state:vt/place:newbury
-Newfane village,ocd-division/country:us/state:vt/place:newfane
-Newport city,ocd-division/country:us/state:vt/place:newport
-North Bennington village,ocd-division/country:us/state:vt/place:north_bennington
-North Troy village,ocd-division/country:us/state:vt/place:north_troy
-North Westminster village,ocd-division/country:us/state:vt/place:north_westminster
-Northfield village,ocd-division/country:us/state:vt/place:northfield
-Old Bennington village,ocd-division/country:us/state:vt/place:old_bennington
-Orleans village,ocd-division/country:us/state:vt/place:orleans
-Perkinsville village,ocd-division/country:us/state:vt/place:perkinsville
-Poultney village,ocd-division/country:us/state:vt/place:poultney
-Rutland city,ocd-division/country:us/state:vt/place:rutland
-Saxtons River village,ocd-division/country:us/state:vt/place:saxtons_river
-South Burlington city,ocd-division/country:us/state:vt/place:south_burlington
-St. Albans city,ocd-division/country:us/state:vt/place:st_albans
-Swanton village,ocd-division/country:us/state:vt/place:swanton
-Vergennes city,ocd-division/country:us/state:vt/place:vergennes
-Waterbury village,ocd-division/country:us/state:vt/place:waterbury
-Wells River village,ocd-division/country:us/state:vt/place:wells_river
-West Burke village,ocd-division/country:us/state:vt/place:west_burke
-Westminster village,ocd-division/country:us/state:vt/place:westminster
-Winooski city,ocd-division/country:us/state:vt/place:winooski
-Woodstock village,ocd-division/country:us/state:vt/place:woodstock
 Addison town,ocd-division/country:us/state:vt/place:addison
-Albany town,ocd-division/country:us/state:vt/place:albany
-Alburg town,ocd-division/country:us/state:vt/place:alburg
+Albany town,ocd-division/country:us/state:vt/place:albany_town
+Albany village,ocd-division/country:us/state:vt/place:albany_village
+Alburg town,ocd-division/country:us/state:vt/place:alburg_town
+Alburg village,ocd-division/country:us/state:vt/place:alburg_village
 Andover town,ocd-division/country:us/state:vt/place:andover
 Arlington town,ocd-division/country:us/state:vt/place:arlington
 Athens town,ocd-division/country:us/state:vt/place:athens
@@ -67,8 +24,11 @@ Bakersfield town,ocd-division/country:us/state:vt/place:bakersfield
 Baltimore town,ocd-division/country:us/state:vt/place:baltimore
 Barnard town,ocd-division/country:us/state:vt/place:barnard
 Barnet town,ocd-division/country:us/state:vt/place:barnet
-Barre town,ocd-division/country:us/state:vt/place:barre
-Barton town,ocd-division/country:us/state:vt/place:barton
+Barre city,ocd-division/country:us/state:vt/place:barre_city
+Barre town,ocd-division/country:us/state:vt/place:barre_town
+Barton town,ocd-division/country:us/state:vt/place:barton_town
+Barton village,ocd-division/country:us/state:vt/place:barton_village
+Bellows Falls village,ocd-division/country:us/state:vt/place:bellows_falls
 Belvidere town,ocd-division/country:us/state:vt/place:belvidere
 Bennington town,ocd-division/country:us/state:vt/place:bennington
 Benson town,ocd-division/country:us/state:vt/place:benson
@@ -90,9 +50,12 @@ Brookline town,ocd-division/country:us/state:vt/place:brookline
 Brownington town,ocd-division/country:us/state:vt/place:brownington
 Brunswick town,ocd-division/country:us/state:vt/place:brunswick
 Burke town,ocd-division/country:us/state:vt/place:burke
-Cabot town,ocd-division/country:us/state:vt/place:cabot
+Burlington city,ocd-division/country:us/state:vt/place:burlington
+Cabot town,ocd-division/country:us/state:vt/place:cabot_town
+Cabot village,ocd-division/country:us/state:vt/place:cabot_village
 Calais town,ocd-division/country:us/state:vt/place:calais
-Cambridge town,ocd-division/country:us/state:vt/place:cambridge
+Cambridge town,ocd-division/country:us/state:vt/place:cambridge_town
+Cambridge village,ocd-division/country:us/state:vt/place:cambridge_village
 Canaan town,ocd-division/country:us/state:vt/place:canaan
 Castleton town,ocd-division/country:us/state:vt/place:castleton
 Cavendish town,ocd-division/country:us/state:vt/place:cavendish
@@ -111,6 +74,8 @@ Craftsbury town,ocd-division/country:us/state:vt/place:craftsbury
 Danby town,ocd-division/country:us/state:vt/place:danby
 Danville town,ocd-division/country:us/state:vt/place:danville
 Derby town,ocd-division/country:us/state:vt/place:derby
+Derby Center village,ocd-division/country:us/state:vt/place:derby_center
+Derby Line village,ocd-division/country:us/state:vt/place:derby_line
 Dorset town,ocd-division/country:us/state:vt/place:dorset
 Dover town,ocd-division/country:us/state:vt/place:dover
 Dummerston town,ocd-division/country:us/state:vt/place:dummerston
@@ -120,7 +85,9 @@ East Montpelier town,ocd-division/country:us/state:vt/place:east_montpelier
 Eden town,ocd-division/country:us/state:vt/place:eden
 Elmore town,ocd-division/country:us/state:vt/place:elmore
 Enosburg town,ocd-division/country:us/state:vt/place:enosburg
+Enosburg Falls village,ocd-division/country:us/state:vt/place:enosburg_falls
 Essex town,ocd-division/country:us/state:vt/place:essex
+Essex Junction village,ocd-division/country:us/state:vt/place:essex_junction
 Fair Haven town,ocd-division/country:us/state:vt/place:fair_haven
 Fairfax town,ocd-division/country:us/state:vt/place:fairfax
 Fairfield town,ocd-division/country:us/state:vt/place:fairfield
@@ -150,14 +117,18 @@ Hinesburg town,ocd-division/country:us/state:vt/place:hinesburg
 Holland town,ocd-division/country:us/state:vt/place:holland
 Hubbardton town,ocd-division/country:us/state:vt/place:hubbardton
 Huntington town,ocd-division/country:us/state:vt/place:huntington
-Hyde Park town,ocd-division/country:us/state:vt/place:hyde_park
+Hyde Park town,ocd-division/country:us/state:vt/place:hyde_park_town
+Hyde Park village,ocd-division/country:us/state:vt/place:hyde_park_village
 Ira town,ocd-division/country:us/state:vt/place:ira
 Irasburg town,ocd-division/country:us/state:vt/place:irasburg
 Isle La Motte town,ocd-division/country:us/state:vt/place:isle_la_motte
+Jacksonville village,ocd-division/country:us/state:vt/place:jacksonville
 Jamaica town,ocd-division/country:us/state:vt/place:jamaica
 Jay town,ocd-division/country:us/state:vt/place:jay
+Jeffersonville village,ocd-division/country:us/state:vt/place:jeffersonville
 Jericho town,ocd-division/country:us/state:vt/place:jericho
-Johnson town,ocd-division/country:us/state:vt/place:johnson
+Johnson town,ocd-division/country:us/state:vt/place:johnson_town
+Johnson village,ocd-division/country:us/state:vt/place:johnson_village
 Killington town,ocd-division/country:us/state:vt/place:killington
 Kirby town,ocd-division/country:us/state:vt/place:kirby
 Landgrove town,ocd-division/country:us/state:vt/place:landgrove
@@ -166,13 +137,17 @@ Lemington town,ocd-division/country:us/state:vt/place:lemington
 Lincoln town,ocd-division/country:us/state:vt/place:lincoln
 Londonderry town,ocd-division/country:us/state:vt/place:londonderry
 Lowell town,ocd-division/country:us/state:vt/place:lowell
-Ludlow town,ocd-division/country:us/state:vt/place:ludlow
+Ludlow town,ocd-division/country:us/state:vt/place:ludlow_town
+Ludlow village,ocd-division/country:us/state:vt/place:ludlow_village
 Lunenburg town,ocd-division/country:us/state:vt/place:lunenburg
 Lyndon town,ocd-division/country:us/state:vt/place:lyndon
+Lyndonville village,ocd-division/country:us/state:vt/place:lyndonville
 Maidstone town,ocd-division/country:us/state:vt/place:maidstone
-Manchester town,ocd-division/country:us/state:vt/place:manchester
+Manchester town,ocd-division/country:us/state:vt/place:manchester_town
+Manchester village,ocd-division/country:us/state:vt/place:manchester_village
 Marlboro town,ocd-division/country:us/state:vt/place:marlboro
-Marshfield town,ocd-division/country:us/state:vt/place:marshfield
+Marshfield town,ocd-division/country:us/state:vt/place:marshfield_town
+Marshfield village,ocd-division/country:us/state:vt/place:marshfield_village
 Mendon town,ocd-division/country:us/state:vt/place:mendon
 Middlebury town,ocd-division/country:us/state:vt/place:middlebury
 Middlesex town,ocd-division/country:us/state:vt/place:middlesex
@@ -180,32 +155,45 @@ Middletown Springs town,ocd-division/country:us/state:vt/place:middletown_spring
 Milton town,ocd-division/country:us/state:vt/place:milton
 Monkton town,ocd-division/country:us/state:vt/place:monkton
 Montgomery town,ocd-division/country:us/state:vt/place:montgomery
+Montpelier city,ocd-division/country:us/state:vt/place:montpelier
 Moretown town,ocd-division/country:us/state:vt/place:moretown
 Morgan town,ocd-division/country:us/state:vt/place:morgan
 Morristown town,ocd-division/country:us/state:vt/place:morristown
+Morrisville village,ocd-division/country:us/state:vt/place:morrisville
 Mount Holly town,ocd-division/country:us/state:vt/place:mount_holly
 Mount Tabor town,ocd-division/country:us/state:vt/place:mount_tabor
 New Haven town,ocd-division/country:us/state:vt/place:new_haven
 Newark town,ocd-division/country:us/state:vt/place:newark
-Newbury town,ocd-division/country:us/state:vt/place:newbury
-Newfane town,ocd-division/country:us/state:vt/place:newfane
-Newport town,ocd-division/country:us/state:vt/place:newport
+Newbury town,ocd-division/country:us/state:vt/place:newbury_town
+Newbury village,ocd-division/country:us/state:vt/place:newbury_village
+Newfane town,ocd-division/country:us/state:vt/place:newfane_town
+Newfane village,ocd-division/country:us/state:vt/place:newfane_village
+Newport city,ocd-division/country:us/state:vt/place:newport_city
+Newport town,ocd-division/country:us/state:vt/place:newport_town
+North Bennington village,ocd-division/country:us/state:vt/place:north_bennington
 North Hero town,ocd-division/country:us/state:vt/place:north_hero
-Northfield town,ocd-division/country:us/state:vt/place:northfield
+North Troy village,ocd-division/country:us/state:vt/place:north_troy
+North Westminster village,ocd-division/country:us/state:vt/place:north_westminster
+Northfield town,ocd-division/country:us/state:vt/place:northfield_town
+Northfield village,ocd-division/country:us/state:vt/place:northfield_village
 Norton town,ocd-division/country:us/state:vt/place:norton
 Norwich town,ocd-division/country:us/state:vt/place:norwich
+Old Bennington village,ocd-division/country:us/state:vt/place:old_bennington
 Orange town,ocd-division/country:us/state:vt/place:orange
+Orleans village,ocd-division/country:us/state:vt/place:orleans
 Orwell town,ocd-division/country:us/state:vt/place:orwell
 Panton town,ocd-division/country:us/state:vt/place:panton
 Pawlet town,ocd-division/country:us/state:vt/place:pawlet
 Peacham town,ocd-division/country:us/state:vt/place:peacham
+Perkinsville village,ocd-division/country:us/state:vt/place:perkinsville
 Peru town,ocd-division/country:us/state:vt/place:peru
 Pittsfield town,ocd-division/country:us/state:vt/place:pittsfield
 Pittsford town,ocd-division/country:us/state:vt/place:pittsford
 Plainfield town,ocd-division/country:us/state:vt/place:plainfield
 Plymouth town,ocd-division/country:us/state:vt/place:plymouth
 Pomfret town,ocd-division/country:us/state:vt/place:pomfret
-Poultney town,ocd-division/country:us/state:vt/place:poultney
+Poultney town,ocd-division/country:us/state:vt/place:poultney_town
+Poultney village,ocd-division/country:us/state:vt/place:poultney_village
 Pownal town,ocd-division/country:us/state:vt/place:pownal
 Proctor town,ocd-division/country:us/state:vt/place:proctor
 Putney town,ocd-division/country:us/state:vt/place:putney
@@ -220,10 +208,12 @@ Rockingham town,ocd-division/country:us/state:vt/place:rockingham
 Roxbury town,ocd-division/country:us/state:vt/place:roxbury
 Royalton town,ocd-division/country:us/state:vt/place:royalton
 Rupert town,ocd-division/country:us/state:vt/place:rupert
-Rutland town,ocd-division/country:us/state:vt/place:rutland
+Rutland city,ocd-division/country:us/state:vt/place:rutland_city
+Rutland town,ocd-division/country:us/state:vt/place:rutland_town
 Ryegate town,ocd-division/country:us/state:vt/place:ryegate
 Salisbury town,ocd-division/country:us/state:vt/place:salisbury
 Sandgate town,ocd-division/country:us/state:vt/place:sandgate
+Saxtons River village,ocd-division/country:us/state:vt/place:saxtons_river
 Searsburg town,ocd-division/country:us/state:vt/place:searsburg
 Shaftsbury town,ocd-division/country:us/state:vt/place:shaftsbury
 Sharon town,ocd-division/country:us/state:vt/place:sharon
@@ -232,9 +222,11 @@ Shelburne town,ocd-division/country:us/state:vt/place:shelburne
 Sheldon town,ocd-division/country:us/state:vt/place:sheldon
 Shoreham town,ocd-division/country:us/state:vt/place:shoreham
 Shrewsbury town,ocd-division/country:us/state:vt/place:shrewsbury
+South Burlington city,ocd-division/country:us/state:vt/place:south_burlington
 South Hero town,ocd-division/country:us/state:vt/place:south_hero
 Springfield town,ocd-division/country:us/state:vt/place:springfield
-St. Albans town,ocd-division/country:us/state:vt/place:st_albans
+St. Albans city,ocd-division/country:us/state:vt/place:st_albans_city
+St. Albans town,ocd-division/country:us/state:vt/place:st_albans_town
 St. George town,ocd-division/country:us/state:vt/place:st_george
 St. Johnsbury town,ocd-division/country:us/state:vt/place:st_johnsbury
 Stamford town,ocd-division/country:us/state:vt/place:stamford
@@ -247,7 +239,8 @@ Stratton town,ocd-division/country:us/state:vt/place:stratton
 Sudbury town,ocd-division/country:us/state:vt/place:sudbury
 Sunderland town,ocd-division/country:us/state:vt/place:sunderland
 Sutton town,ocd-division/country:us/state:vt/place:sutton
-Swanton town,ocd-division/country:us/state:vt/place:swanton
+Swanton town,ocd-division/country:us/state:vt/place:swanton_town
+Swanton village,ocd-division/country:us/state:vt/place:swanton_village
 Thetford town,ocd-division/country:us/state:vt/place:thetford
 Tinmouth town,ocd-division/country:us/state:vt/place:tinmouth
 Topsham town,ocd-division/country:us/state:vt/place:topsham
@@ -255,6 +248,7 @@ Townshend town,ocd-division/country:us/state:vt/place:townshend
 Troy town,ocd-division/country:us/state:vt/place:troy
 Tunbridge town,ocd-division/country:us/state:vt/place:tunbridge
 Underhill town,ocd-division/country:us/state:vt/place:underhill
+Vergennes city,ocd-division/country:us/state:vt/place:vergennes
 Vernon town,ocd-division/country:us/state:vt/place:vernon
 Vershire town,ocd-division/country:us/state:vt/place:vershire
 Victory town,ocd-division/country:us/state:vt/place:victory
@@ -265,18 +259,22 @@ Waltham town,ocd-division/country:us/state:vt/place:waltham
 Wardsboro town,ocd-division/country:us/state:vt/place:wardsboro
 Warren town,ocd-division/country:us/state:vt/place:warren
 Washington town,ocd-division/country:us/state:vt/place:washington
-Waterbury town,ocd-division/country:us/state:vt/place:waterbury
+Waterbury town,ocd-division/country:us/state:vt/place:waterbury_town
+Waterbury village,ocd-division/country:us/state:vt/place:waterbury_village
 Waterford town,ocd-division/country:us/state:vt/place:waterford
 Waterville town,ocd-division/country:us/state:vt/place:waterville
 Weathersfield town,ocd-division/country:us/state:vt/place:weathersfield
 Wells town,ocd-division/country:us/state:vt/place:wells
+Wells River village,ocd-division/country:us/state:vt/place:wells_river
+West Burke village,ocd-division/country:us/state:vt/place:west_burke
 West Fairlee town,ocd-division/country:us/state:vt/place:west_fairlee
 West Haven town,ocd-division/country:us/state:vt/place:west_haven
 West Rutland town,ocd-division/country:us/state:vt/place:west_rutland
 West Windsor town,ocd-division/country:us/state:vt/place:west_windsor
 Westfield town,ocd-division/country:us/state:vt/place:westfield
 Westford town,ocd-division/country:us/state:vt/place:westford
-Westminster town,ocd-division/country:us/state:vt/place:westminster
+Westminster town,ocd-division/country:us/state:vt/place:westminster_town
+Westminster village,ocd-division/country:us/state:vt/place:westminster_village
 Westmore town,ocd-division/country:us/state:vt/place:westmore
 Weston town,ocd-division/country:us/state:vt/place:weston
 Weybridge town,ocd-division/country:us/state:vt/place:weybridge
@@ -289,8 +287,10 @@ Wilmington town,ocd-division/country:us/state:vt/place:wilmington
 Windham town,ocd-division/country:us/state:vt/place:windham
 Windsor town,ocd-division/country:us/state:vt/place:windsor
 Winhall town,ocd-division/country:us/state:vt/place:winhall
+Winooski city,ocd-division/country:us/state:vt/place:winooski
 Wolcott town,ocd-division/country:us/state:vt/place:wolcott
 Woodbury town,ocd-division/country:us/state:vt/place:woodbury
 Woodford town,ocd-division/country:us/state:vt/place:woodford
-Woodstock town,ocd-division/country:us/state:vt/place:woodstock
+Woodstock town,ocd-division/country:us/state:vt/place:woodstock_town
+Woodstock village,ocd-division/country:us/state:vt/place:woodstock_village
 Worcester town,ocd-division/country:us/state:vt/place:worcester
