@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 from __future__ import print_function
 import re
+import os
 import sys
 import csv
 import urllib2
@@ -44,15 +45,19 @@ TYPE_MAPPING = {
 
 TYPES = {
     'county': {
-        'url': 'http://www.census.gov/geo/www/gazetteer/files/counties_list_{fips}.txt',
+        'url': 'http://www.census.gov/geo/maps-data/data/docs/gazetteer/counties_list_{fips}.txt',
+        'localfile': os.path.join(os.path.dirname(__file__), 'source-data/Gaz_counties_national.txt'),
         'funcstat': lambda row: 'F' if row['USPS'] == 'DC' else 'A'
     },
     'place': {
-        'url': 'http://www.census.gov/geo/www/gazetteer/files/2010_place_list_{fips}.txt',
+        'url': 'http://www.census.gov/geo/maps-data/data/docs/gazetteer/2010_place_list_{fips}.txt',
+        'localfile': os.path.join(os.path.dirname(__file__), 'source-data/Gaz_places_national.txt'),
         'funcstat': lambda row: row['FUNCSTAT']
     },
     'subdiv': {
-        'url': 'http://www.census.gov/geo/www/gazetteer/files/county_sub_list_{fips}.txt',
+        'url': 'http://www.census.gov/geo/maps-data/data/docs/gazetteer/county_sub_list_{fips}.txt',
+        'localfile': os.path.join(os.path.dirname(__file__), 'source-data/Gaz_cousubs_national.txt'),
+
         'funcstat': lambda row: row['FUNCSTAT10']
     }
 }
@@ -116,6 +121,10 @@ def process_file(state, entity_type, filehandle, csvfile=None):
     funcstat_func = TYPES[entity_type]['funcstat']
 
     for row in rows:
+        # skip any rows not from this state
+        if row['USPS'].lower() != state.lower():
+            continue
+
         funcstat = funcstat_func(row)
         funcstat_count[funcstat] += 1
 
@@ -194,5 +203,6 @@ if __name__ == '__main__':
         all_fips = [(state, us.states.lookup(args.state).fips)]
 
     for state, fips in all_fips:
-        data = urllib2.urlopen(TYPES[args.type]['url'].format(fips=fips))
+        #data = urllib2.urlopen(TYPES[args.type]['url'].format(fips=fips))
+        data = open(TYPES[args.type]['localfile'])
         process_file(state, args.type, data, csvfile)
