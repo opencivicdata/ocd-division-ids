@@ -110,7 +110,7 @@ def make_id(state, **kwargs):
 
 # http://www.census.gov/geo/reference/gtc/gtc_area_attr.html#status
 
-def process_file(state, entity_type, filehandle, csvfile=None):
+def process_file(state, entity_type, filehandle, csvfile, geocsv):
     rows = csv.DictReader(filehandle, dialect=TabDelimited)
     funcstat_count = collections.Counter()
     type_count = collections.Counter()
@@ -159,12 +159,10 @@ def process_file(state, entity_type, filehandle, csvfile=None):
             # unhandled FUNCSTAT type
             raise Exception(row)
 
-    if csvfile:
-        for id, row in sorted(ids.iteritems()):
-            csvfile.writerow((row['NAME'], id))
-    else:
-        for id, row in sorted(ids.iteritems()):
-            print(row['NAME'], id)
+    for id, row in sorted(ids.iteritems()):
+        csvfile.writerow((row['NAME'], id))
+        if geocsv:
+            geocsv.writerow((id, row['GEOID']))
 
     print(state, ' | '.join('{0}: {1}'.format(k,v)
                             for k,v in funcstat_count.most_common()),
@@ -184,25 +182,32 @@ if __name__ == '__main__':
         description='Generate OCD ids from Census place files')
     parser.add_argument('state', type=str, default=None,
                         help='state to extract')
-    parser.add_argument('type', type=str, default=None,
-                        help='type of data to process')
-    parser.add_argument('--csv', action='store_true',
-                        help='output in csv format')
+    parser.add_argument('types', type=str, nargs='+', default=None,
+                        help='types of data to process')
+    parser.add_argument('--csv', help='name of CSV file')
+    parser.add_argument('--geo', help='write a CSV file of Geo IDs')
     args = parser.parse_args()
 
     state = args.state.lower()
 
     if args.csv:
-        csvfile = csv.writer(sys.stdout)
+        csvfile = csv.writer(open(args.csv, 'w'))
     else:
-        csvfile = None
+        csvfile = csv.writer(sys.stdout)
+
+    if args.geo:
+        geocsv = csv.writer(open(args.geo, 'w'))
+    else:
+        geocsv = None
 
     if state == 'all':
         all_fips = [(state.abbr.lower(), state.fips) for state in us.STATES]
     else:
         all_fips = [(state, us.states.lookup(args.state).fips)]
 
-    for state, fips in all_fips:
-        #data = urllib2.urlopen(TYPES[args.type]['url'].format(fips=fips))
-        data = open(TYPES[args.type]['localfile'])
-        process_file(state, args.type, data, csvfile)
+    for type in args.types:
+        for state, fips in all_fips:
+            #data = urllib2.urlopen(TYPES[args.type]['url'].format(fips=fips))
+            data = open(TYPES[type]['localfile'])
+            process_file(state, type, data, csvfile, geocsv)
+
