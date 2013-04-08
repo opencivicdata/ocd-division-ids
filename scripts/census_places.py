@@ -110,55 +110,68 @@ def make_id(state, **kwargs):
 
 # http://www.census.gov/geo/reference/gtc/gtc_area_attr.html#status
 
-def process_file(state, entity_type, filehandle, csvfile, geocsv):
-    rows = csv.DictReader(filehandle, dialect=TabDelimited)
+def process_file(state, types, csvfile, geocsv):
     funcstat_count = collections.Counter()
     type_count = collections.Counter()
     ids = {}
     duplicates = collections.defaultdict(list)
 
-    # function to extract funcstat value
-    funcstat_func = TYPES[entity_type]['funcstat']
+    for entity_type in types:
+        data = open(TYPES[entity_type]['localfile'])
+        rows = csv.DictReader(data, dialect=TabDelimited)
+        # function to extract funcstat value
+        funcstat_func = TYPES[entity_type]['funcstat']
 
-    for row in rows:
-        # skip any rows not from this state
-        if row['USPS'].lower() != state.lower():
-            continue
+        for row in rows:
+            # skip any rows not from this state
+            if row['USPS'].lower() != state.lower():
+                continue
 
-        funcstat = funcstat_func(row)
-        funcstat_count[funcstat] += 1
+            row['_FUNCSTAT'] = funcstat = funcstat_func(row)
+            funcstat_count[funcstat] += 1
 
-        # active government
-        if funcstat in ('A', 'B', 'G'):
-            name = row['NAME']
+            # active government
+            if funcstat in ('A', 'B', 'G'):
+                name = row['NAME']
 
-            if name in OVERRIDES:
-                name, subtype = OVERRIDES[name]
-            else:
-                for ending, subtype in TYPE_MAPPING.iteritems():
-                    if name.endswith(ending):
-                        name = name.replace(ending, '')
-                        break
+                if name in OVERRIDES:
+                    name, subtype = OVERRIDES[name]
                 else:
-                    raise ValueError('unknown ending: ' + name)
+                    for ending, subtype in TYPE_MAPPING.iteritems():
+                        if name.endswith(ending):
+                            name = name.replace(ending, '')
+                            break
+                    else:
+                        raise ValueError('unknown ending: ' + name)
 
-            type_count[subtype] += 1
+                type_count[subtype] += 1
 
-            id = make_id(state=state.lower(), **{subtype: name})
-            if id in ids:
-                duplicates[id].append(row)
-                duplicates[id].append(ids.pop(id))
-            elif id in duplicates:
-                duplicates[id].append(row)
+                id = make_id(state=state.lower(), **{subtype: name})
+                if id in ids:
+                    id1 = make_id(state=state.lower(),
+                                  **{subtype: row['NAME']})
+                    row2 = ids.pop(id)
+                    id2 = make_id(state=state.lower(),
+                                  **{subtype: row2['NAME']})
+                    if id1 != id2:
+                        ids[id1] = row
+                        ids[id2] = row2
+                    else:
+                        duplicates[id].append(row)
+                        duplicates[id].append(row2)
+                elif id in duplicates:
+                    duplicates[id].append(row)
+                else:
+                    ids[id] = row
+
+            elif funcstat in ('I', 'F', 'N', 'S', 'C'):
+                # inactive/fictitious/nonfunctioning/statistical/consolidated
+                pass
             else:
-                ids[id] = row
-        elif funcstat in ('I', 'F', 'N', 'S', 'C'):
-            # inactive/fictitious/nonfunctioning/statistical/consolidated
-            pass
-        else:
-            # unhandled FUNCSTAT type
-            raise Exception(row)
+                # unhandled FUNCSTAT type
+                raise Exception(row)
 
+    # write ids out
     for id, row in sorted(ids.iteritems()):
         csvfile.writerow((row['NAME'], id))
         if geocsv:
@@ -174,8 +187,8 @@ def process_file(state, entity_type, filehandle, csvfile, geocsv):
     for id, sources in duplicates.iteritems():
         print(state, 'duplicate', id, file=sys.stderr)
         for source in sources:
-            print('    ', source['NAME'], funcstat_func(source), source['GEOID'],
-                  file=sys.stderr)
+            print('    ', source['NAME'], source['_FUNCSTAT'],
+                  source['GEOID'], file=sys.stderr)
 
 if __name__ == '__main__':
     CONST = '~~~const~~~'
@@ -184,7 +197,7 @@ if __name__ == '__main__':
         description='Generate OCD ids from Census place files')
     parser.add_argument('state', type=str, default=None,
                         help='state to extract')
-    parser.add_argument('types', type=str, nargs='+', default=None,
+    parser.add_argument('types', type=str, nargs='*', default=TYPES.keys(),
                         help='types of data to process')
     parser.add_argument('--csv', help='name of CSV file', nargs='?',
                         const=CONST)
@@ -214,9 +227,6 @@ if __name__ == '__main__':
     else:
         all_fips = [(state, us.states.lookup(args.state).fips)]
 
-    for type in args.types:
-        for state, fips in all_fips:
-            #data = urllib2.urlopen(TYPES[args.type]['url'].format(fips=fips))
-            data = open(TYPES[type]['localfile'])
-            process_file(state, type, data, csvfile, geocsv)
+    for state, fips in all_fips:
+        process_file(state, args.types, csvfile, geocsv)
 
