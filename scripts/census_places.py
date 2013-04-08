@@ -178,17 +178,26 @@ def process_file(state, entity_type, filehandle, csvfile, geocsv):
                   file=sys.stderr)
 
 if __name__ == '__main__':
+    CONST = '~~~const~~~'
+
     parser = argparse.ArgumentParser(
         description='Generate OCD ids from Census place files')
     parser.add_argument('state', type=str, default=None,
                         help='state to extract')
     parser.add_argument('types', type=str, nargs='+', default=None,
                         help='types of data to process')
-    parser.add_argument('--csv', help='name of CSV file')
-    parser.add_argument('--geo', help='write a CSV file of Geo IDs')
+    parser.add_argument('--csv', help='name of CSV file', nargs='?',
+                        const=CONST)
+    parser.add_argument('--geo', help='write a CSV file of Geo IDs', nargs='?',
+                        const=CONST)
     args = parser.parse_args()
 
     state = args.state.lower()
+
+    if args.csv == CONST:
+        args.csv = 'identifiers/country-us/state-{0}-census.csv'.format(state)
+    if args.geo == CONST:
+        args.geo = 'mappings/country-us/state-{0}-id_to_censusgeo.csv'.format(state)
 
     if args.csv:
         csvfile = csv.writer(open(args.csv, 'w'))
