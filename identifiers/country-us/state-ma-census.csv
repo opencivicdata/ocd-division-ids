@@ -12,64 +12,13 @@ Norfolk County,ocd-division/country:us/state:ma/county:norfolk
 Plymouth County,ocd-division/country:us/state:ma/county:plymouth
 Suffolk County,ocd-division/country:us/state:ma/county:suffolk
 Worcester County,ocd-division/country:us/state:ma/county:worcester
-Agawam Town city,ocd-division/country:us/state:ma/place:agawam_town
-Amesbury Town city,ocd-division/country:us/state:ma/place:amesbury_town
-Attleboro city,ocd-division/country:us/state:ma/place:attleboro
-Barnstable Town city,ocd-division/country:us/state:ma/place:barnstable_town
-Beverly city,ocd-division/country:us/state:ma/place:beverly
-Boston city,ocd-division/country:us/state:ma/place:boston
-Braintree Town city,ocd-division/country:us/state:ma/place:braintree_town
-Brockton city,ocd-division/country:us/state:ma/place:brockton
-Cambridge city,ocd-division/country:us/state:ma/place:cambridge
-Chelsea city,ocd-division/country:us/state:ma/place:chelsea
-Chicopee city,ocd-division/country:us/state:ma/place:chicopee
-Easthampton Town city,ocd-division/country:us/state:ma/place:easthampton_town
-Everett city,ocd-division/country:us/state:ma/place:everett
-Fall River city,ocd-division/country:us/state:ma/place:fall_river
-Fitchburg city,ocd-division/country:us/state:ma/place:fitchburg
-Franklin Town city,ocd-division/country:us/state:ma/place:franklin_town
-Gardner city,ocd-division/country:us/state:ma/place:gardner
-Gloucester city,ocd-division/country:us/state:ma/place:gloucester
-Greenfield Town city,ocd-division/country:us/state:ma/place:greenfield_town
-Haverhill city,ocd-division/country:us/state:ma/place:haverhill
-Holyoke city,ocd-division/country:us/state:ma/place:holyoke
-Lawrence city,ocd-division/country:us/state:ma/place:lawrence
-Leominster city,ocd-division/country:us/state:ma/place:leominster
-Lowell city,ocd-division/country:us/state:ma/place:lowell
-Lynn city,ocd-division/country:us/state:ma/place:lynn
-Malden city,ocd-division/country:us/state:ma/place:malden
-Marlborough city,ocd-division/country:us/state:ma/place:marlborough
-Medford city,ocd-division/country:us/state:ma/place:medford
-Melrose city,ocd-division/country:us/state:ma/place:melrose
-Methuen Town city,ocd-division/country:us/state:ma/place:methuen_town
-New Bedford city,ocd-division/country:us/state:ma/place:new_bedford
-Newburyport city,ocd-division/country:us/state:ma/place:newburyport
-Newton city,ocd-division/country:us/state:ma/place:newton
-North Adams city,ocd-division/country:us/state:ma/place:north_adams
-Northampton city,ocd-division/country:us/state:ma/place:northampton
-Palmer Town city,ocd-division/country:us/state:ma/place:palmer_town
-Peabody city,ocd-division/country:us/state:ma/place:peabody
-Pittsfield city,ocd-division/country:us/state:ma/place:pittsfield
-Quincy city,ocd-division/country:us/state:ma/place:quincy
-Revere city,ocd-division/country:us/state:ma/place:revere
-Salem city,ocd-division/country:us/state:ma/place:salem
-Somerville city,ocd-division/country:us/state:ma/place:somerville
-Southbridge Town city,ocd-division/country:us/state:ma/place:southbridge_town
-Springfield city,ocd-division/country:us/state:ma/place:springfield
-Taunton city,ocd-division/country:us/state:ma/place:taunton
-Waltham city,ocd-division/country:us/state:ma/place:waltham
-Watertown Town city,ocd-division/country:us/state:ma/place:watertown_town
-West Springfield Town city,ocd-division/country:us/state:ma/place:west_springfield_town
-Westfield city,ocd-division/country:us/state:ma/place:westfield
-Weymouth Town city,ocd-division/country:us/state:ma/place:weymouth_town
-Winthrop Town city,ocd-division/country:us/state:ma/place:winthrop_town
-Woburn city,ocd-division/country:us/state:ma/place:woburn
-Worcester city,ocd-division/country:us/state:ma/place:worcester
 Abington town,ocd-division/country:us/state:ma/place:abington
 Acton town,ocd-division/country:us/state:ma/place:acton
 Acushnet town,ocd-division/country:us/state:ma/place:acushnet
 Adams town,ocd-division/country:us/state:ma/place:adams
+Agawam Town city,ocd-division/country:us/state:ma/place:agawam_town
 Alford town,ocd-division/country:us/state:ma/place:alford
+Amesbury Town city,ocd-division/country:us/state:ma/place:amesbury_town
 Amherst town,ocd-division/country:us/state:ma/place:amherst
 Andover town,ocd-division/country:us/state:ma/place:andover
 Aquinnah town,ocd-division/country:us/state:ma/place:aquinnah
@@ -79,9 +28,11 @@ Ashby town,ocd-division/country:us/state:ma/place:ashby
 Ashfield town,ocd-division/country:us/state:ma/place:ashfield
 Ashland town,ocd-division/country:us/state:ma/place:ashland
 Athol town,ocd-division/country:us/state:ma/place:athol
+Attleboro city,ocd-division/country:us/state:ma/place:attleboro
 Auburn town,ocd-division/country:us/state:ma/place:auburn
 Avon town,ocd-division/country:us/state:ma/place:avon
 Ayer town,ocd-division/country:us/state:ma/place:ayer
+Barnstable Town city,ocd-division/country:us/state:ma/place:barnstable_town
 Barre town,ocd-division/country:us/state:ma/place:barre
 Becket town,ocd-division/country:us/state:ma/place:becket
 Bedford town,ocd-division/country:us/state:ma/place:bedford
@@ -91,21 +42,26 @@ Belmont town,ocd-division/country:us/state:ma/place:belmont
 Berkley town,ocd-division/country:us/state:ma/place:berkley
 Berlin town,ocd-division/country:us/state:ma/place:berlin
 Bernardston town,ocd-division/country:us/state:ma/place:bernardston
+Beverly city,ocd-division/country:us/state:ma/place:beverly
 Billerica town,ocd-division/country:us/state:ma/place:billerica
 Blackstone town,ocd-division/country:us/state:ma/place:blackstone
 Blandford town,ocd-division/country:us/state:ma/place:blandford
 Bolton town,ocd-division/country:us/state:ma/place:bolton
+Boston city,ocd-division/country:us/state:ma/place:boston
 Bourne town,ocd-division/country:us/state:ma/place:bourne
 Boxborough town,ocd-division/country:us/state:ma/place:boxborough
 Boxford town,ocd-division/country:us/state:ma/place:boxford
 Boylston town,ocd-division/country:us/state:ma/place:boylston
+Braintree Town city,ocd-division/country:us/state:ma/place:braintree_town
 Brewster town,ocd-division/country:us/state:ma/place:brewster
 Bridgewater town,ocd-division/country:us/state:ma/place:bridgewater
 Brimfield town,ocd-division/country:us/state:ma/place:brimfield
+Brockton city,ocd-division/country:us/state:ma/place:brockton
 Brookfield town,ocd-division/country:us/state:ma/place:brookfield
 Brookline town,ocd-division/country:us/state:ma/place:brookline
 Buckland town,ocd-division/country:us/state:ma/place:buckland
 Burlington town,ocd-division/country:us/state:ma/place:burlington
+Cambridge city,ocd-division/country:us/state:ma/place:cambridge
 Canton town,ocd-division/country:us/state:ma/place:canton
 Carlisle town,ocd-division/country:us/state:ma/place:carlisle
 Carver town,ocd-division/country:us/state:ma/place:carver
@@ -113,9 +69,11 @@ Charlemont town,ocd-division/country:us/state:ma/place:charlemont
 Charlton town,ocd-division/country:us/state:ma/place:charlton
 Chatham town,ocd-division/country:us/state:ma/place:chatham
 Chelmsford town,ocd-division/country:us/state:ma/place:chelmsford
+Chelsea city,ocd-division/country:us/state:ma/place:chelsea
 Cheshire town,ocd-division/country:us/state:ma/place:cheshire
 Chester town,ocd-division/country:us/state:ma/place:chester
 Chesterfield town,ocd-division/country:us/state:ma/place:chesterfield
+Chicopee city,ocd-division/country:us/state:ma/place:chicopee
 Chilmark town,ocd-division/country:us/state:ma/place:chilmark
 Clarksburg town,ocd-division/country:us/state:ma/place:clarksburg
 Clinton town,ocd-division/country:us/state:ma/place:clinton
@@ -141,25 +99,33 @@ East Bridgewater town,ocd-division/country:us/state:ma/place:east_bridgewater
 East Brookfield town,ocd-division/country:us/state:ma/place:east_brookfield
 East Longmeadow town,ocd-division/country:us/state:ma/place:east_longmeadow
 Eastham town,ocd-division/country:us/state:ma/place:eastham
+Easthampton Town city,ocd-division/country:us/state:ma/place:easthampton_town
 Easton town,ocd-division/country:us/state:ma/place:easton
 Edgartown town,ocd-division/country:us/state:ma/place:edgartown
 Egremont town,ocd-division/country:us/state:ma/place:egremont
 Erving town,ocd-division/country:us/state:ma/place:erving
 Essex town,ocd-division/country:us/state:ma/place:essex
+Everett city,ocd-division/country:us/state:ma/place:everett
 Fairhaven town,ocd-division/country:us/state:ma/place:fairhaven
+Fall River city,ocd-division/country:us/state:ma/place:fall_river
 Falmouth town,ocd-division/country:us/state:ma/place:falmouth
+Fitchburg city,ocd-division/country:us/state:ma/place:fitchburg
 Florida town,ocd-division/country:us/state:ma/place:florida
 Foxborough town,ocd-division/country:us/state:ma/place:foxborough
 Framingham town,ocd-division/country:us/state:ma/place:framingham
+Franklin Town city,ocd-division/country:us/state:ma/place:franklin_town
 Freetown town,ocd-division/country:us/state:ma/place:freetown
+Gardner city,ocd-division/country:us/state:ma/place:gardner
 Georgetown town,ocd-division/country:us/state:ma/place:georgetown
 Gill town,ocd-division/country:us/state:ma/place:gill
+Gloucester city,ocd-division/country:us/state:ma/place:gloucester
 Goshen town,ocd-division/country:us/state:ma/place:goshen
 Gosnold town,ocd-division/country:us/state:ma/place:gosnold
 Grafton town,ocd-division/country:us/state:ma/place:grafton
 Granby town,ocd-division/country:us/state:ma/place:granby
 Granville town,ocd-division/country:us/state:ma/place:granville
 Great Barrington town,ocd-division/country:us/state:ma/place:great_barrington
+Greenfield Town city,ocd-division/country:us/state:ma/place:greenfield_town
 Groton town,ocd-division/country:us/state:ma/place:groton
 Groveland town,ocd-division/country:us/state:ma/place:groveland
 Hadley town,ocd-division/country:us/state:ma/place:hadley
@@ -173,6 +139,7 @@ Hardwick town,ocd-division/country:us/state:ma/place:hardwick
 Harvard town,ocd-division/country:us/state:ma/place:harvard
 Harwich town,ocd-division/country:us/state:ma/place:harwich
 Hatfield town,ocd-division/country:us/state:ma/place:hatfield
+Haverhill city,ocd-division/country:us/state:ma/place:haverhill
 Hawley town,ocd-division/country:us/state:ma/place:hawley
 Heath town,ocd-division/country:us/state:ma/place:heath
 Hingham town,ocd-division/country:us/state:ma/place:hingham
@@ -181,6 +148,7 @@ Holbrook town,ocd-division/country:us/state:ma/place:holbrook
 Holden town,ocd-division/country:us/state:ma/place:holden
 Holland town,ocd-division/country:us/state:ma/place:holland
 Holliston town,ocd-division/country:us/state:ma/place:holliston
+Holyoke city,ocd-division/country:us/state:ma/place:holyoke
 Hopedale town,ocd-division/country:us/state:ma/place:hopedale
 Hopkinton town,ocd-division/country:us/state:ma/place:hopkinton
 Hubbardston town,ocd-division/country:us/state:ma/place:hubbardston
@@ -192,30 +160,39 @@ Kingston town,ocd-division/country:us/state:ma/place:kingston
 Lakeville town,ocd-division/country:us/state:ma/place:lakeville
 Lancaster town,ocd-division/country:us/state:ma/place:lancaster
 Lanesborough town,ocd-division/country:us/state:ma/place:lanesborough
+Lawrence city,ocd-division/country:us/state:ma/place:lawrence
 Lee town,ocd-division/country:us/state:ma/place:lee
 Leicester town,ocd-division/country:us/state:ma/place:leicester
 Lenox town,ocd-division/country:us/state:ma/place:lenox
+Leominster city,ocd-division/country:us/state:ma/place:leominster
 Leverett town,ocd-division/country:us/state:ma/place:leverett
 Lexington town,ocd-division/country:us/state:ma/place:lexington
 Leyden town,ocd-division/country:us/state:ma/place:leyden
 Lincoln town,ocd-division/country:us/state:ma/place:lincoln
 Littleton town,ocd-division/country:us/state:ma/place:littleton
 Longmeadow town,ocd-division/country:us/state:ma/place:longmeadow
+Lowell city,ocd-division/country:us/state:ma/place:lowell
 Ludlow town,ocd-division/country:us/state:ma/place:ludlow
 Lunenburg town,ocd-division/country:us/state:ma/place:lunenburg
+Lynn city,ocd-division/country:us/state:ma/place:lynn
 Lynnfield town,ocd-division/country:us/state:ma/place:lynnfield
+Malden city,ocd-division/country:us/state:ma/place:malden
 Manchester-by-the-Sea town,ocd-division/country:us/state:ma/place:manchester-by-the-sea
 Mansfield town,ocd-division/country:us/state:ma/place:mansfield
 Marblehead town,ocd-division/country:us/state:ma/place:marblehead
 Marion town,ocd-division/country:us/state:ma/place:marion
+Marlborough city,ocd-division/country:us/state:ma/place:marlborough
 Marshfield town,ocd-division/country:us/state:ma/place:marshfield
 Mashpee town,ocd-division/country:us/state:ma/place:mashpee
 Mattapoisett town,ocd-division/country:us/state:ma/place:mattapoisett
 Maynard town,ocd-division/country:us/state:ma/place:maynard
 Medfield town,ocd-division/country:us/state:ma/place:medfield
+Medford city,ocd-division/country:us/state:ma/place:medford
 Medway town,ocd-division/country:us/state:ma/place:medway
+Melrose city,ocd-division/country:us/state:ma/place:melrose
 Mendon town,ocd-division/country:us/state:ma/place:mendon
 Merrimac town,ocd-division/country:us/state:ma/place:merrimac
+Methuen Town city,ocd-division/country:us/state:ma/place:methuen_town
 Middleborough town,ocd-division/country:us/state:ma/place:middleborough
 Middlefield town,ocd-division/country:us/state:ma/place:middlefield
 Middleton town,ocd-division/country:us/state:ma/place:middleton
@@ -235,15 +212,20 @@ Nantucket town,ocd-division/country:us/state:ma/place:nantucket
 Natick town,ocd-division/country:us/state:ma/place:natick
 Needham town,ocd-division/country:us/state:ma/place:needham
 New Ashford town,ocd-division/country:us/state:ma/place:new_ashford
+New Bedford city,ocd-division/country:us/state:ma/place:new_bedford
 New Braintree town,ocd-division/country:us/state:ma/place:new_braintree
 New Marlborough town,ocd-division/country:us/state:ma/place:new_marlborough
 New Salem town,ocd-division/country:us/state:ma/place:new_salem
 Newbury town,ocd-division/country:us/state:ma/place:newbury
+Newburyport city,ocd-division/country:us/state:ma/place:newburyport
+Newton city,ocd-division/country:us/state:ma/place:newton
 Norfolk town,ocd-division/country:us/state:ma/place:norfolk
+North Adams city,ocd-division/country:us/state:ma/place:north_adams
 North Andover town,ocd-division/country:us/state:ma/place:north_andover
 North Attleborough town,ocd-division/country:us/state:ma/place:north_attleborough
 North Brookfield town,ocd-division/country:us/state:ma/place:north_brookfield
 North Reading town,ocd-division/country:us/state:ma/place:north_reading
+Northampton city,ocd-division/country:us/state:ma/place:northampton
 Northborough town,ocd-division/country:us/state:ma/place:northborough
 Northbridge town,ocd-division/country:us/state:ma/place:northbridge
 Northfield town,ocd-division/country:us/state:ma/place:northfield
@@ -256,23 +238,28 @@ Orange town,ocd-division/country:us/state:ma/place:orange
 Orleans town,ocd-division/country:us/state:ma/place:orleans
 Otis town,ocd-division/country:us/state:ma/place:otis
 Oxford town,ocd-division/country:us/state:ma/place:oxford
+Palmer Town city,ocd-division/country:us/state:ma/place:palmer_town
 Paxton town,ocd-division/country:us/state:ma/place:paxton
+Peabody city,ocd-division/country:us/state:ma/place:peabody
 Pelham town,ocd-division/country:us/state:ma/place:pelham
 Pembroke town,ocd-division/country:us/state:ma/place:pembroke
 Pepperell town,ocd-division/country:us/state:ma/place:pepperell
 Peru town,ocd-division/country:us/state:ma/place:peru
 Petersham town,ocd-division/country:us/state:ma/place:petersham
 Phillipston town,ocd-division/country:us/state:ma/place:phillipston
+Pittsfield city,ocd-division/country:us/state:ma/place:pittsfield
 Plainfield town,ocd-division/country:us/state:ma/place:plainfield
 Plainville town,ocd-division/country:us/state:ma/place:plainville
 Plymouth town,ocd-division/country:us/state:ma/place:plymouth
 Plympton town,ocd-division/country:us/state:ma/place:plympton
 Princeton town,ocd-division/country:us/state:ma/place:princeton
 Provincetown town,ocd-division/country:us/state:ma/place:provincetown
+Quincy city,ocd-division/country:us/state:ma/place:quincy
 Randolph town,ocd-division/country:us/state:ma/place:randolph
 Raynham town,ocd-division/country:us/state:ma/place:raynham
 Reading town,ocd-division/country:us/state:ma/place:reading
 Rehoboth town,ocd-division/country:us/state:ma/place:rehoboth
+Revere city,ocd-division/country:us/state:ma/place:revere
 Richmond town,ocd-division/country:us/state:ma/place:richmond
 Rochester town,ocd-division/country:us/state:ma/place:rochester
 Rockland town,ocd-division/country:us/state:ma/place:rockland
@@ -282,6 +269,7 @@ Rowley town,ocd-division/country:us/state:ma/place:rowley
 Royalston town,ocd-division/country:us/state:ma/place:royalston
 Russell town,ocd-division/country:us/state:ma/place:russell
 Rutland town,ocd-division/country:us/state:ma/place:rutland
+Salem city,ocd-division/country:us/state:ma/place:salem
 Salisbury town,ocd-division/country:us/state:ma/place:salisbury
 Sandisfield town,ocd-division/country:us/state:ma/place:sandisfield
 Sandwich town,ocd-division/country:us/state:ma/place:sandwich
@@ -297,11 +285,14 @@ Shirley town,ocd-division/country:us/state:ma/place:shirley
 Shrewsbury town,ocd-division/country:us/state:ma/place:shrewsbury
 Shutesbury town,ocd-division/country:us/state:ma/place:shutesbury
 Somerset town,ocd-division/country:us/state:ma/place:somerset
+Somerville city,ocd-division/country:us/state:ma/place:somerville
 South Hadley town,ocd-division/country:us/state:ma/place:south_hadley
 Southampton town,ocd-division/country:us/state:ma/place:southampton
 Southborough town,ocd-division/country:us/state:ma/place:southborough
+Southbridge Town city,ocd-division/country:us/state:ma/place:southbridge_town
 Southwick town,ocd-division/country:us/state:ma/place:southwick
 Spencer town,ocd-division/country:us/state:ma/place:spencer
+Springfield city,ocd-division/country:us/state:ma/place:springfield
 Sterling town,ocd-division/country:us/state:ma/place:sterling
 Stockbridge town,ocd-division/country:us/state:ma/place:stockbridge
 Stoneham town,ocd-division/country:us/state:ma/place:stoneham
@@ -313,6 +304,7 @@ Sunderland town,ocd-division/country:us/state:ma/place:sunderland
 Sutton town,ocd-division/country:us/state:ma/place:sutton
 Swampscott town,ocd-division/country:us/state:ma/place:swampscott
 Swansea town,ocd-division/country:us/state:ma/place:swansea
+Taunton city,ocd-division/country:us/state:ma/place:taunton
 Templeton town,ocd-division/country:us/state:ma/place:templeton
 Tewksbury town,ocd-division/country:us/state:ma/place:tewksbury
 Tisbury town,ocd-division/country:us/state:ma/place:tisbury
@@ -327,11 +319,13 @@ Uxbridge town,ocd-division/country:us/state:ma/place:uxbridge
 Wakefield town,ocd-division/country:us/state:ma/place:wakefield
 Wales town,ocd-division/country:us/state:ma/place:wales
 Walpole town,ocd-division/country:us/state:ma/place:walpole
+Waltham city,ocd-division/country:us/state:ma/place:waltham
 Ware town,ocd-division/country:us/state:ma/place:ware
 Wareham town,ocd-division/country:us/state:ma/place:wareham
 Warren town,ocd-division/country:us/state:ma/place:warren
 Warwick town,ocd-division/country:us/state:ma/place:warwick
 Washington town,ocd-division/country:us/state:ma/place:washington
+Watertown Town city,ocd-division/country:us/state:ma/place:watertown_town
 Wayland town,ocd-division/country:us/state:ma/place:wayland
 Webster town,ocd-division/country:us/state:ma/place:webster
 Wellesley town,ocd-division/country:us/state:ma/place:wellesley
@@ -342,15 +336,18 @@ West Boylston town,ocd-division/country:us/state:ma/place:west_boylston
 West Bridgewater town,ocd-division/country:us/state:ma/place:west_bridgewater
 West Brookfield town,ocd-division/country:us/state:ma/place:west_brookfield
 West Newbury town,ocd-division/country:us/state:ma/place:west_newbury
+West Springfield Town city,ocd-division/country:us/state:ma/place:west_springfield_town
 West Stockbridge town,ocd-division/country:us/state:ma/place:west_stockbridge
 West Tisbury town,ocd-division/country:us/state:ma/place:west_tisbury
 Westborough town,ocd-division/country:us/state:ma/place:westborough
+Westfield city,ocd-division/country:us/state:ma/place:westfield
 Westford town,ocd-division/country:us/state:ma/place:westford
 Westhampton town,ocd-division/country:us/state:ma/place:westhampton
 Westminster town,ocd-division/country:us/state:ma/place:westminster
 Weston town,ocd-division/country:us/state:ma/place:weston
 Westport town,ocd-division/country:us/state:ma/place:westport
 Westwood town,ocd-division/country:us/state:ma/place:westwood
+Weymouth Town city,ocd-division/country:us/state:ma/place:weymouth_town
 Whately town,ocd-division/country:us/state:ma/place:whately
 Whitman town,ocd-division/country:us/state:ma/place:whitman
 Wilbraham town,ocd-division/country:us/state:ma/place:wilbraham
@@ -360,6 +357,9 @@ Wilmington town,ocd-division/country:us/state:ma/place:wilmington
 Winchendon town,ocd-division/country:us/state:ma/place:winchendon
 Winchester town,ocd-division/country:us/state:ma/place:winchester
 Windsor town,ocd-division/country:us/state:ma/place:windsor
+Winthrop Town city,ocd-division/country:us/state:ma/place:winthrop_town
+Woburn city,ocd-division/country:us/state:ma/place:woburn
+Worcester city,ocd-division/country:us/state:ma/place:worcester
 Worthington town,ocd-division/country:us/state:ma/place:worthington
 Wrentham town,ocd-division/country:us/state:ma/place:wrentham
 Yarmouth town,ocd-division/country:us/state:ma/place:yarmouth

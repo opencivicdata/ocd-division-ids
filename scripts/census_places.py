@@ -96,7 +96,7 @@ OVERRIDES = {
     'Township 12': ('Township 12', 'place'),
 }
 
-def make_id(state, **kwargs):
+def make_id(parent=None, **kwargs):
     if len(kwargs) > 1:
         raise ValueError('only one kwarg is allowed for make_id')
     type, type_id = kwargs.items()[0]
@@ -105,16 +105,39 @@ def make_id(state, **kwargs):
     type_id = type_id.lower()
     type_id = re.sub('\.? ', '_', type_id)
     type_id = re.sub('[^a-z0-9~_.-]', '~', type_id)
-    return 'ocd-division/country:us/state:{state}/{type}:{type_id}'.format(
-        state=state, type=type, type_id=type_id)
+    if parent:
+        return '{parent}/{type}:{type_id}'.format(parent=parent, type=type,
+                                                  type_id=type_id)
+    else:
+        return 'ocd-division/country:us/{type}:{type_id}'.format(
+            type=type, type_id=type_id)
+
 
 # http://www.census.gov/geo/reference/gtc/gtc_area_attr.html#status
 
 def process_file(state, types, csvfile, geocsv):
     funcstat_count = collections.Counter()
     type_count = collections.Counter()
+    # map id to row it came from
     ids = {}
+    # map geoid to id
+    counties = {}
+    # list of rows that produced an id
     duplicates = collections.defaultdict(list)
+
+    # list of rules for how to handle subdivsA
+    #   prefix - these are strictly within counties and need to be id'd as such
+    #   town - these are the equivalent of places
+    subdiv_rule = {
+        'ct': 'town',
+        'ma': 'town',
+        'il': 'prefix',
+        'in': 'prefix',
+        'ks': 'prefix',
+    }.get(state.lower())
+
+    parent_id = make_id(state=state.lower())
+
 
     for entity_type in types:
         data = open(TYPES[entity_type]['localfile'])
@@ -132,6 +155,10 @@ def process_file(state, types, csvfile, geocsv):
 
             # active government
             if funcstat in ('A', 'B'):
+                if entity_type == 'subdiv' and not subdiv_rule:
+                    raise Exception('unexpected subdiv in {0}: {1}'.format(
+                        state, row))
+
                 name = row['NAME']
 
                 if name in OVERRIDES:
@@ -146,13 +173,22 @@ def process_file(state, types, csvfile, geocsv):
 
                 type_count[subtype] += 1
 
-                id = make_id(state=state.lower(), **{subtype: name})
+                if entity_type == 'subdiv' and subdiv_rule == 'prefix':
+                    # find county id
+                    for geoid, countyid in counties.iteritems():
+                        if row['GEOID'].startswith(geoid):
+                            id = make_id(parent=countyid, **{subtype: name})
+                            break
+                    else:
+                        raise Exception('{0} had no parent county'.format(row))
+                elif entity_type != 'subdiv' or subdiv_rule == 'town':
+                    id = make_id(parent=parent_id, **{subtype: name})
+
+                # check for duplicates
                 if id in ids:
-                    id1 = make_id(state=state.lower(),
-                                  **{subtype: row['NAME']})
+                    id1 = make_id(parent=parent_id, **{subtype: row['NAME']})
                     row2 = ids.pop(id)
-                    id2 = make_id(state=state.lower(),
-                                  **{subtype: row2['NAME']})
+                    id2 = make_id(parent=parent_id, **{subtype: row2['NAME']})
                     if id1 != id2:
                         ids[id1] = row
                         ids[id2] = row2
@@ -163,11 +199,11 @@ def process_file(state, types, csvfile, geocsv):
                     duplicates[id].append(row)
                 else:
                     ids[id] = row
+                    if entity_type == 'county':
+                        counties[row['GEOID']] = id
 
-            elif funcstat in ('I', 'F', 'N', 'S', 'C', 'G'):
+            elif funcstat not in ('I', 'F', 'N', 'S', 'C', 'G'):
                 # inactive/fictitious/nonfunctioning/statistical/consolidated
-                pass
-            else:
                 # unhandled FUNCSTAT type
                 raise Exception(row)
 
