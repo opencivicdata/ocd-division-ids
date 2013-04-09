@@ -8,19 +8,6 @@ ocd-division/country:us/state:nh/county:merrimack,33013
 ocd-division/country:us/state:nh/county:rockingham,33015
 ocd-division/country:us/state:nh/county:strafford,33017
 ocd-division/country:us/state:nh/county:sullivan,33019
-ocd-division/country:us/state:nh/place:berlin,3305140
-ocd-division/country:us/state:nh/place:claremont,3312900
-ocd-division/country:us/state:nh/place:concord,3314200
-ocd-division/country:us/state:nh/place:dover,3318820
-ocd-division/country:us/state:nh/place:franklin,3327380
-ocd-division/country:us/state:nh/place:keene,3339300
-ocd-division/country:us/state:nh/place:laconia,3340180
-ocd-division/country:us/state:nh/place:lebanon,3341300
-ocd-division/country:us/state:nh/place:manchester,3345140
-ocd-division/country:us/state:nh/place:nashua,3350260
-ocd-division/country:us/state:nh/place:portsmouth,3362900
-ocd-division/country:us/state:nh/place:rochester,3365140
-ocd-division/country:us/state:nh/place:somersworth,3369940
 ocd-division/country:us/state:nh/place:acworth,3301900260
 ocd-division/country:us/state:nh/place:albany,3300300420
 ocd-division/country:us/state:nh/place:alexandria,3300900580
@@ -41,6 +28,7 @@ ocd-division/country:us/state:nh/place:bedford,3301104500
 ocd-division/country:us/state:nh/place:belmont,3300104740
 ocd-division/country:us/state:nh/place:bennington,3301104900
 ocd-division/country:us/state:nh/place:benton,3300905060
+ocd-division/country:us/state:nh/place:berlin,3305140
 ocd-division/country:us/state:nh/place:bethlehem,3300905460
 ocd-division/country:us/state:nh/place:boscawen,3301306260
 ocd-division/country:us/state:nh/place:bow,3301306500
@@ -61,9 +49,11 @@ ocd-division/country:us/state:nh/place:chatham,3300311780
 ocd-division/country:us/state:nh/place:chester,3301512100
 ocd-division/country:us/state:nh/place:chesterfield,3300512260
 ocd-division/country:us/state:nh/place:chichester,3301312420
+ocd-division/country:us/state:nh/place:claremont,3312900
 ocd-division/country:us/state:nh/place:clarksville,3300713220
 ocd-division/country:us/state:nh/place:colebrook,3300713780
 ocd-division/country:us/state:nh/place:columbia,3300713940
+ocd-division/country:us/state:nh/place:concord,3314200
 ocd-division/country:us/state:nh/place:conway,3300314660
 ocd-division/country:us/state:nh/place:cornish,3301915060
 ocd-division/country:us/state:nh/place:croydon,3301916340
@@ -74,6 +64,7 @@ ocd-division/country:us/state:nh/place:deerfield,3301517460
 ocd-division/country:us/state:nh/place:deering,3301117780
 ocd-division/country:us/state:nh/place:derry,3301517940
 ocd-division/country:us/state:nh/place:dorchester,3300918740
+ocd-division/country:us/state:nh/place:dover,3318820
 ocd-division/country:us/state:nh/place:dublin,3300519140
 ocd-division/country:us/state:nh/place:dummer,3300719300
 ocd-division/country:us/state:nh/place:dunbarton,3301319460
@@ -92,6 +83,7 @@ ocd-division/country:us/state:nh/place:farmington,3301726020
 ocd-division/country:us/state:nh/place:fitzwilliam,3300526500
 ocd-division/country:us/state:nh/place:francestown,3301127140
 ocd-division/country:us/state:nh/place:franconia,3300927300
+ocd-division/country:us/state:nh/place:franklin,3327380
 ocd-division/country:us/state:nh/place:freedom,3300327700
 ocd-division/country:us/state:nh/place:fremont,3301527940
 ocd-division/country:us/state:nh/place:gilford,3300128740
@@ -127,11 +119,14 @@ ocd-division/country:us/state:nh/place:hudson,3301137940
 ocd-division/country:us/state:nh/place:jackson,3300338260
 ocd-division/country:us/state:nh/place:jaffrey,3300538500
 ocd-division/country:us/state:nh/place:jefferson,3300738820
+ocd-division/country:us/state:nh/place:keene,3339300
 ocd-division/country:us/state:nh/place:kensington,3301539780
 ocd-division/country:us/state:nh/place:kingston,3301540100
+ocd-division/country:us/state:nh/place:laconia,3340180
 ocd-division/country:us/state:nh/place:lancaster,3300740420
 ocd-division/country:us/state:nh/place:landaff,3300940660
 ocd-division/country:us/state:nh/place:langdon,3301940900
+ocd-division/country:us/state:nh/place:lebanon,3341300
 ocd-division/country:us/state:nh/place:lee,3301741460
 ocd-division/country:us/state:nh/place:lempster,3301941700
 ocd-division/country:us/state:nh/place:lincoln,3300941860
@@ -145,6 +140,7 @@ ocd-division/country:us/state:nh/place:lyme,3300944260
 ocd-division/country:us/state:nh/place:lyndeborough,3301144580
 ocd-division/country:us/state:nh/place:madbury,3301744820
 ocd-division/country:us/state:nh/place:madison,3300345060
+ocd-division/country:us/state:nh/place:manchester,3345140
 ocd-division/country:us/state:nh/place:marlborough,3300545460
 ocd-division/country:us/state:nh/place:marlow,3300545700
 ocd-division/country:us/state:nh/place:mason,3301146260
@@ -157,6 +153,7 @@ ocd-division/country:us/state:nh/place:milton,3301748660
 ocd-division/country:us/state:nh/place:monroe,3300948980
 ocd-division/country:us/state:nh/place:mont_vernon,3301149140
 ocd-division/country:us/state:nh/place:moultonborough,3300349380
+ocd-division/country:us/state:nh/place:nashua,3350260
 ocd-division/country:us/state:nh/place:nelson,3300550580
 ocd-division/country:us/state:nh/place:new_boston,3301150740
 ocd-division/country:us/state:nh/place:new_castle,3301550980
@@ -187,10 +184,12 @@ ocd-division/country:us/state:nh/place:pittsfield,3301361940
 ocd-division/country:us/state:nh/place:plainfield,3301962340
 ocd-division/country:us/state:nh/place:plaistow,3301562500
 ocd-division/country:us/state:nh/place:plymouth,3300962660
+ocd-division/country:us/state:nh/place:portsmouth,3362900
 ocd-division/country:us/state:nh/place:randolph,3300763860
 ocd-division/country:us/state:nh/place:raymond,3301564020
 ocd-division/country:us/state:nh/place:richmond,3300564420
 ocd-division/country:us/state:nh/place:rindge,3300564580
+ocd-division/country:us/state:nh/place:rochester,3365140
 ocd-division/country:us/state:nh/place:rollinsford,3301765540
 ocd-division/country:us/state:nh/place:roxbury,3300565700
 ocd-division/country:us/state:nh/place:rumney,3300965940
@@ -203,6 +202,7 @@ ocd-division/country:us/state:nh/place:sandwich,3300367780
 ocd-division/country:us/state:nh/place:seabrook,3301568260
 ocd-division/country:us/state:nh/place:sharon,3301168820
 ocd-division/country:us/state:nh/place:shelburne,3300768980
+ocd-division/country:us/state:nh/place:somersworth,3369940
 ocd-division/country:us/state:nh/place:south_hampton,3301571140
 ocd-division/country:us/state:nh/place:springfield,3301972740
 ocd-division/country:us/state:nh/place:stark,3300773060

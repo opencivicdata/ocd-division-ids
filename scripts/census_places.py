@@ -125,15 +125,30 @@ def process_file(state, types, csvfile, geocsv):
     # list of rows that produced an id
     duplicates = collections.defaultdict(list)
 
-    # list of rules for how to handle subdivsA
+    # list of rules for how to handle subdivs
     #   prefix - these are strictly within counties and need to be id'd as such
     #   town - these are the equivalent of places
     subdiv_rule = {
         'ct': 'town',
-        'ma': 'town',
         'il': 'prefix',
         'in': 'prefix',
         'ks': 'prefix',
+        'ma': 'town',
+        'me': 'town',
+        'mi': 'prefix',
+        'mn': 'prefix',
+        'mo': 'prefix',
+        'nd': 'prefix',
+        'ne': 'prefix',
+        'nh': 'town',
+        'nj': 'prefix',
+        'ny': 'town',
+        'oh': 'prefix',
+        'pa': 'prefix',
+        'ri': 'town',
+        'sd': 'prefix',
+        'vt': 'town',
+        'wi': 'prefix',
     }.get(state.lower())
 
     parent_id = make_id(state=state.lower())
