@@ -182,9 +182,10 @@ def process_state(state, csvfile, geocsv):
                             break
                     else:
                         # skip independent cities indicated at county level
-                        if not (entity_type == 'county' and
-                                (name.endswith(' city') or
-                                 name == 'Carson City')):
+                        if (entity_type == 'county' and
+                            (name.endswith(' city') or name == 'Carson City')):
+                            continue
+                        else:
                             raise ValueError('unknown ending: ' + name)
 
                 type_count[subtype] += 1
@@ -259,7 +260,7 @@ if __name__ == '__main__':
     if args.state == 'all':
         all_fips = [(state.abbr.lower(), state.fips) for state in us.STATES]
     else:
-        all_fips = [(state, us.states.lookup(args.state).fips)]
+        all_fips = [(args.state, us.states.lookup(args.state).fips)]
 
     for state, fips in all_fips:
         if args.csv == CONST:

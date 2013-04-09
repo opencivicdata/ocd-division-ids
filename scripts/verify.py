@@ -21,10 +21,13 @@ if __name__ == '__main__':
     seen_parents = set()
     types = collections.Counter()
 
+    duplicates = 0
+
     for filename in glob.glob('identifiers/country-{0}/*.csv'.format(country)):
         for name, id_ in csv.reader(open(filename)):
             # check for dupes
             if id_ in ids:
+                duplicates += 1
                 print('Duplicate ID {0} seen in {1}, and {2}'.format(
                     id_, ', '.join(ids[id_]), filename))
             ids[id_].append(filename)
@@ -37,12 +40,13 @@ if __name__ == '__main__':
             type_ = endpiece.split(':')[0]
             types[type_] += 1
 
+    if not duplicates:
+        print('no duplicates')
+
     seen_parents -= set(ids.keys())
     print('{0} unknown parents'.format(len(seen_parents)))
     for parent in seen_parents:
         print('   ', parent)
-
-    print('\n\n\n\n')
 
     for type_, count in types.most_common():
         print(type_, count)
