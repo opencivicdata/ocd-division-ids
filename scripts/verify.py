@@ -20,11 +20,14 @@ if __name__ == '__main__':
     ids = collections.defaultdict(list)
     seen_parents = set()
     types = collections.Counter()
+    all_rows = []
 
     duplicates = 0
 
     for filename in glob.glob('identifiers/country-{0}/*.csv'.format(country)):
-        for name, id_ in csv.reader(open(filename)):
+        for id_, name in csv.reader(open(filename)):
+            all_rows.append((id_, name))
+
             # check for dupes
             if id_ in ids:
                 duplicates += 1
@@ -34,7 +37,8 @@ if __name__ == '__main__':
 
             # check parents
             parent, endpiece = id_.rsplit('/', 1)
-            seen_parents.add(parent)
+            if parent != 'ocd-division':
+                seen_parents.add(parent)
 
             # count types
             type_ = endpiece.split(':')[0]
@@ -50,3 +54,10 @@ if __name__ == '__main__':
 
     for type_, count in types.most_common():
         print(type_, count)
+
+    # write output file
+    if not duplicates and not seen_parents:
+        with open('identifiers/country-us.csv', 'w') as out:
+            out = csv.writer(out)
+            for row in all_rows:
+                out.writerow(row)

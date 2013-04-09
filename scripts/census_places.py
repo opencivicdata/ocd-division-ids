@@ -226,7 +226,7 @@ def process_state(state, csvfile, geocsv):
 
     # write ids out
     for id, row in sorted(ids.iteritems()):
-        csvfile.writerow((row['NAME'], id))
+        csvfile.writerow((id, row['NAME']))
         if geocsv:
             geocsv.writerow((id, row['GEOID']))
 

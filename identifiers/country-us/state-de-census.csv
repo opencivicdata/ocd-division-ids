@@ -1,60 +1,60 @@
-Kent County,ocd-division/country:us/state:de/county:kent
-New Castle County,ocd-division/country:us/state:de/county:new_castle
-Sussex County,ocd-division/country:us/state:de/county:sussex
-Arden village,ocd-division/country:us/state:de/place:arden
-Ardencroft village,ocd-division/country:us/state:de/place:ardencroft
-Ardentown village,ocd-division/country:us/state:de/place:ardentown
-Bellefonte town,ocd-division/country:us/state:de/place:bellefonte
-Bethany Beach town,ocd-division/country:us/state:de/place:bethany_beach
-Bethel town,ocd-division/country:us/state:de/place:bethel
-Blades town,ocd-division/country:us/state:de/place:blades
-Bowers town,ocd-division/country:us/state:de/place:bowers
-Bridgeville town,ocd-division/country:us/state:de/place:bridgeville
-Camden town,ocd-division/country:us/state:de/place:camden
-Cheswold town,ocd-division/country:us/state:de/place:cheswold
-Clayton town,ocd-division/country:us/state:de/place:clayton
-Dagsboro town,ocd-division/country:us/state:de/place:dagsboro
-Delaware City city,ocd-division/country:us/state:de/place:delaware_city
-Delmar town,ocd-division/country:us/state:de/place:delmar
-Dewey Beach town,ocd-division/country:us/state:de/place:dewey_beach
-Dover city,ocd-division/country:us/state:de/place:dover
-Ellendale town,ocd-division/country:us/state:de/place:ellendale
-Elsmere town,ocd-division/country:us/state:de/place:elsmere
-Farmington town,ocd-division/country:us/state:de/place:farmington
-Felton town,ocd-division/country:us/state:de/place:felton
-Fenwick Island town,ocd-division/country:us/state:de/place:fenwick_island
-Frankford town,ocd-division/country:us/state:de/place:frankford
-Frederica town,ocd-division/country:us/state:de/place:frederica
-Georgetown town,ocd-division/country:us/state:de/place:georgetown
-Greenwood town,ocd-division/country:us/state:de/place:greenwood
-Harrington city,ocd-division/country:us/state:de/place:harrington
-Hartly town,ocd-division/country:us/state:de/place:hartly
-Henlopen Acres town,ocd-division/country:us/state:de/place:henlopen_acres
-Houston town,ocd-division/country:us/state:de/place:houston
-Kenton town,ocd-division/country:us/state:de/place:kenton
-Laurel town,ocd-division/country:us/state:de/place:laurel
-Leipsic town,ocd-division/country:us/state:de/place:leipsic
-Lewes city,ocd-division/country:us/state:de/place:lewes
-Little Creek town,ocd-division/country:us/state:de/place:little_creek
-Magnolia town,ocd-division/country:us/state:de/place:magnolia
-Middletown town,ocd-division/country:us/state:de/place:middletown
-Milford city,ocd-division/country:us/state:de/place:milford
-Millsboro town,ocd-division/country:us/state:de/place:millsboro
-Millville town,ocd-division/country:us/state:de/place:millville
-Milton town,ocd-division/country:us/state:de/place:milton
-New Castle city,ocd-division/country:us/state:de/place:new_castle
-Newark city,ocd-division/country:us/state:de/place:newark
-Newport town,ocd-division/country:us/state:de/place:newport
-Ocean View town,ocd-division/country:us/state:de/place:ocean_view
-Odessa town,ocd-division/country:us/state:de/place:odessa
-Rehoboth Beach city,ocd-division/country:us/state:de/place:rehoboth_beach
-Seaford city,ocd-division/country:us/state:de/place:seaford
-Selbyville town,ocd-division/country:us/state:de/place:selbyville
-Slaughter Beach town,ocd-division/country:us/state:de/place:slaughter_beach
-Smyrna town,ocd-division/country:us/state:de/place:smyrna
-South Bethany town,ocd-division/country:us/state:de/place:south_bethany
-Townsend town,ocd-division/country:us/state:de/place:townsend
-Viola town,ocd-division/country:us/state:de/place:viola
-Wilmington city,ocd-division/country:us/state:de/place:wilmington
-Woodside town,ocd-division/country:us/state:de/place:woodside
-Wyoming town,ocd-division/country:us/state:de/place:wyoming
+ocd-division/country:us/state:de/county:kent,Kent County
+ocd-division/country:us/state:de/county:new_castle,New Castle County
+ocd-division/country:us/state:de/county:sussex,Sussex County
+ocd-division/country:us/state:de/place:arden,Arden village
+ocd-division/country:us/state:de/place:ardencroft,Ardencroft village
+ocd-division/country:us/state:de/place:ardentown,Ardentown village
+ocd-division/country:us/state:de/place:bellefonte,Bellefonte town
+ocd-division/country:us/state:de/place:bethany_beach,Bethany Beach town
+ocd-division/country:us/state:de/place:bethel,Bethel town
+ocd-division/country:us/state:de/place:blades,Blades town
+ocd-division/country:us/state:de/place:bowers,Bowers town
+ocd-division/country:us/state:de/place:bridgeville,Bridgeville town
+ocd-division/country:us/state:de/place:camden,Camden town
+ocd-division/country:us/state:de/place:cheswold,Cheswold town
+ocd-division/country:us/state:de/place:clayton,Clayton town
+ocd-division/country:us/state:de/place:dagsboro,Dagsboro town
+ocd-division/country:us/state:de/place:delaware_city,Delaware City city
+ocd-division/country:us/state:de/place:delmar,Delmar town
+ocd-division/country:us/state:de/place:dewey_beach,Dewey Beach town
+ocd-division/country:us/state:de/place:dover,Dover city
+ocd-division/country:us/state:de/place:ellendale,Ellendale town
+ocd-division/country:us/state:de/place:elsmere,Elsmere town
+ocd-division/country:us/state:de/place:farmington,Farmington town
+ocd-division/country:us/state:de/place:felton,Felton town
+ocd-division/country:us/state:de/place:fenwick_island,Fenwick Island town
+ocd-division/country:us/state:de/place:frankford,Frankford town
+ocd-division/country:us/state:de/place:frederica,Frederica town
+ocd-division/country:us/state:de/place:georgetown,Georgetown town
+ocd-division/country:us/state:de/place:greenwood,Greenwood town
+ocd-division/country:us/state:de/place:harrington,Harrington city
+ocd-division/country:us/state:de/place:hartly,Hartly town
+ocd-division/country:us/state:de/place:henlopen_acres,Henlopen Acres town
+ocd-division/country:us/state:de/place:houston,Houston town
+ocd-division/country:us/state:de/place:kenton,Kenton town
+ocd-division/country:us/state:de/place:laurel,Laurel town
+ocd-division/country:us/state:de/place:leipsic,Leipsic town
+ocd-division/country:us/state:de/place:lewes,Lewes city
+ocd-division/country:us/state:de/place:little_creek,Little Creek town
+ocd-division/country:us/state:de/place:magnolia,Magnolia town
+ocd-division/country:us/state:de/place:middletown,Middletown town
+ocd-division/country:us/state:de/place:milford,Milford city
+ocd-division/country:us/state:de/place:millsboro,Millsboro town
+ocd-division/country:us/state:de/place:millville,Millville town
+ocd-division/country:us/state:de/place:milton,Milton town
+ocd-division/country:us/state:de/place:new_castle,New Castle city
+ocd-division/country:us/state:de/place:newark,Newark city
+ocd-division/country:us/state:de/place:newport,Newport town
+ocd-division/country:us/state:de/place:ocean_view,Ocean View town
+ocd-division/country:us/state:de/place:odessa,Odessa town
+ocd-division/country:us/state:de/place:rehoboth_beach,Rehoboth Beach city
+ocd-division/country:us/state:de/place:seaford,Seaford city
+ocd-division/country:us/state:de/place:selbyville,Selbyville town
+ocd-division/country:us/state:de/place:slaughter_beach,Slaughter Beach town
+ocd-division/country:us/state:de/place:smyrna,Smyrna town
+ocd-division/country:us/state:de/place:south_bethany,South Bethany town
+ocd-division/country:us/state:de/place:townsend,Townsend town
+ocd-division/country:us/state:de/place:viola,Viola town
+ocd-division/country:us/state:de/place:wilmington,Wilmington city
+ocd-division/country:us/state:de/place:woodside,Woodside town
+ocd-division/country:us/state:de/place:wyoming,Wyoming town
