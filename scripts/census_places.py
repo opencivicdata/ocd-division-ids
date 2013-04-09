@@ -17,84 +17,80 @@ class TabDelimited(csv.Dialect):
     skipinitialspace = True
 
 
-TYPE_MAPPING = {
-    # counties
-    ' County': 'county',
-    # louisiana
-    ' Parish': 'parish',
-    # independent cities
-    ' city': 'place',
-    # alaska
-    #' City and Borough': 'borough',
-    ' Borough': 'borough',
-    ' Municipality': 'borough',
-    ' Census Area': 'censusarea',
-
-    # places
-    ' municipality': 'place',
-    ' borough': 'place',
-    ' city': 'place',
-    ' town': 'place',
-    ' village': 'place',
-
-    # subdivs
-    ' township': 'place',
-    ' plantation': 'place',
-}
-
-
 TYPES = {
     'county': {
         'url': 'http://www.census.gov/geo/maps-data/data/docs/gazetteer/counties_list_{fips}.txt',
         'localfile': os.path.join(os.path.dirname(__file__), 'source-data/Gaz_counties_national.txt'),
-        'funcstat': lambda row: 'F' if row['USPS'] == 'DC' else 'A'
+        'funcstat': lambda row: 'F' if row['USPS'] == 'DC' else 'A',
+        'type_mapping': {
+            ' County': 'county',
+            ' Parish': 'parish',
+            ' Borough': 'borough',
+            ' Municipality': 'borough',
+            ' Census Area': 'censusarea',
+        },
+        'overrides': {
+            'Wrangell City and Borough': ('Wrangell', 'borough'),
+            'Sitka City and Borough': ('Sitka', 'borough'),
+            'Juneau City and Borough': ('Juneau', 'borough'),
+            'Yakutat City and Borough': ('Yakutat', 'borough'),
+        }
     },
     'place': {
         'url': 'http://www.census.gov/geo/maps-data/data/docs/gazetteer/2010_place_list_{fips}.txt',
         'localfile': os.path.join(os.path.dirname(__file__), 'source-data/Gaz_places_national.txt'),
-        'funcstat': lambda row: row['FUNCSTAT']
+        'funcstat': lambda row: row['FUNCSTAT'],
+        'type_mapping': {
+            ' municipality': 'place',
+            ' borough': 'place',
+            ' city': 'place',
+            ' town': 'place',
+            ' village': 'place',
+        },
+        'overrides': {
+            'Wrangell city and borough': ('Wrangell', 'place'),
+            'Sitka city and borough': ('Sitka', 'place'),
+            'Juneau city and borough': ('Juneau', 'place'),
+            'Lexington-Fayette urban county': ('Lexington', 'place'),
+            'Lynchburg, Moore County metropolitan government': ('Lynchburg', 'place'),
+            'Cusseta-Chattahoochee County unified government': ('Cusseta', 'place'),
+            'Georgetown-Quitman County unified government': ('Georgetown', 'place'),
+            'Anaconda-Deer Lodge County': ('Anaconda', 'place'),
+            'Hartsville/Trousdale County': ('Hartsville', 'place'),
+            'Webster County unified government': ('Webster County ', 'place'),
+            'Ranson corporation': ('Ranson', 'place'),
+            'Carson City': ('Carson City', 'place'),
+        }
     },
     'subdiv': {
         'url': 'http://www.census.gov/geo/maps-data/data/docs/gazetteer/county_sub_list_{fips}.txt',
         'localfile': os.path.join(os.path.dirname(__file__), 'source-data/Gaz_cousubs_national.txt'),
 
-        'funcstat': lambda row: row['FUNCSTAT10']
+        'funcstat': lambda row: row['FUNCSTAT10'],
+        'type_mapping': {
+            ' town': 'place',
+            ' village': 'place',
+            ' township': 'place',
+            ' plantation': 'place',
+        },
+        'overrides': {
+            'Township 1': ('Township 1', 'place'),
+            'Township 2': ('Township 2', 'place'),
+            'Township 3': ('Township 3', 'place'),
+            'Township 4': ('Township 4', 'place'),
+            'Township 5': ('Township 5', 'place'),
+            'Township 6': ('Township 6', 'place'),
+            'Township 7': ('Township 7', 'place'),
+            'Township 8': ('Township 8', 'place'),
+            'Township 9': ('Township 9', 'place'),
+            'Township 10': ('Township 10', 'place'),
+            'Township 11': ('Township 11', 'place'),
+            'Township 12': ('Township 12', 'place'),
+        }
     }
 }
 
-OVERRIDES = {
-    # Alaska lists these twice (lower case = place, upper case=borough)
-    'Wrangell city and borough': ('Wrangell', 'place'),
-    'Sitka city and borough': ('Sitka', 'place'),
-    'Juneau city and borough': ('Juneau', 'place'),
-    'Wrangell City and Borough': ('Wrangell', 'borough'),
-    'Sitka City and Borough': ('Sitka', 'borough'),
-    'Juneau City and Borough': ('Juneau', 'borough'),
-    'Yakutat City and Borough': ('Yakutat', 'borough'),
 
-    # places that don't obey the usual naming rules
-    'Carson City': ('Carson City', 'place'),
-    'Lexington-Fayette urban county': ('Lexington', 'place'),
-    'Lynchburg, Moore County metropolitan government': ('Lynchburg', 'place'),
-    'Cusseta-Chattahoochee County unified government': ('Cusseta', 'place'),
-    'Georgetown-Quitman County unified government': ('Georgetown', 'place'),
-    'Webster County unified government': ('Webster County ', 'place'),
-    'Ranson corporation': ('Ranson', 'place'),
-
-    # kansas
-    'Township 1': ('Township 1', 'place'),
-    'Township 2': ('Township 2', 'place'),
-    'Township 3': ('Township 3', 'place'),
-    'Township 4': ('Township 4', 'place'),
-    'Township 5': ('Township 5', 'place'),
-    'Township 6': ('Township 6', 'place'),
-    'Township 7': ('Township 7', 'place'),
-    'Township 8': ('Township 8', 'place'),
-    'Township 9': ('Township 9', 'place'),
-    'Township 10': ('Township 10', 'place'),
-    'Township 11': ('Township 11', 'place'),
-    'Township 12': ('Township 12', 'place'),
-}
 
 def make_id(parent=None, **kwargs):
     if len(kwargs) > 1:
@@ -115,7 +111,7 @@ def make_id(parent=None, **kwargs):
 
 # http://www.census.gov/geo/reference/gtc/gtc_area_attr.html#status
 
-def process_file(state, types, csvfile, geocsv):
+def process_state(state, csvfile, geocsv):
     funcstat_count = collections.Counter()
     type_count = collections.Counter()
     # map id to row it came from
@@ -154,11 +150,12 @@ def process_file(state, types, csvfile, geocsv):
     parent_id = make_id(state=state.lower())
 
 
-    for entity_type in types:
+    for entity_type in TYPES:
         data = open(TYPES[entity_type]['localfile'])
         rows = csv.DictReader(data, dialect=TabDelimited)
         # function to extract funcstat value
         funcstat_func = TYPES[entity_type]['funcstat']
+        overrides = TYPES[entity_type]['overrides']
 
         for row in rows:
             # skip any rows not from this state
@@ -176,15 +173,19 @@ def process_file(state, types, csvfile, geocsv):
 
                 name = row['NAME']
 
-                if name in OVERRIDES:
-                    name, subtype = OVERRIDES[name]
+                if name in overrides:
+                    name, subtype = overrides[name]
                 else:
-                    for ending, subtype in TYPE_MAPPING.iteritems():
+                    for ending, subtype in TYPES[entity_type]['type_mapping'].iteritems():
                         if name.endswith(ending):
                             name = name.replace(ending, '')
                             break
                     else:
-                        raise ValueError('unknown ending: ' + name)
+                        # skip independent cities indicated at county level
+                        if not (entity_type == 'county' and
+                                (name.endswith(' city') or
+                                 name == 'Carson City')):
+                            raise ValueError('unknown ending: ' + name)
 
                 type_count[subtype] += 1
 
@@ -241,6 +242,7 @@ def process_file(state, types, csvfile, geocsv):
             print('    ', source['NAME'], source['_FUNCSTAT'],
                   source['GEOID'], file=sys.stderr)
 
+
 if __name__ == '__main__':
     CONST = '~~~const~~~'
 
@@ -248,36 +250,35 @@ if __name__ == '__main__':
         description='Generate OCD ids from Census place files')
     parser.add_argument('state', type=str, default=None,
                         help='state to extract')
-    parser.add_argument('types', type=str, nargs='*', default=TYPES.keys(),
-                        help='types of data to process')
     parser.add_argument('--csv', help='name of CSV file', nargs='?',
                         const=CONST)
     parser.add_argument('--geo', help='write a CSV file of Geo IDs', nargs='?',
                         const=CONST)
     args = parser.parse_args()
 
-    state = args.state.lower()
-
-    if args.csv == CONST:
-        args.csv = 'identifiers/country-us/state-{0}-census.csv'.format(state)
-    if args.geo == CONST:
-        args.geo = 'mappings/country-us/state-{0}-id_to_censusgeo.csv'.format(state)
-
-    if args.csv:
-        csvfile = csv.writer(open(args.csv, 'w'))
-    else:
-        csvfile = csv.writer(sys.stdout)
-
-    if args.geo:
-        geocsv = csv.writer(open(args.geo, 'w'))
-    else:
-        geocsv = None
-
-    if state == 'all':
+    if args.state == 'all':
         all_fips = [(state.abbr.lower(), state.fips) for state in us.STATES]
     else:
         all_fips = [(state, us.states.lookup(args.state).fips)]
 
     for state, fips in all_fips:
-        process_file(state, args.types, csvfile, geocsv)
+        if args.csv == CONST:
+            csvfile = 'identifiers/country-us/state-{0}-census.csv'.format(state)
+        else:
+            csvfile = args.csv
+        if csvfile:
+            csvfile = csv.writer(open(csvfile, 'w'))
+        else:
+            csvfile = csv.writer(sys.stdout)
+
+        if args.geo == CONST:
+            geofile = 'mappings/country-us/state-{0}-id_to_censusgeo.csv'.format(state)
+        else:
+            geofile = args.geo
+        if geofile:
+            geocsv = csv.writer(open(geofile, 'w'))
+        else:
+            geocsv = None
+
+        process_state(state, csvfile, geocsv)
 
