@@ -59,5 +59,5 @@ if __name__ == '__main__':
     if not duplicates and not seen_parents:
         with open('identifiers/country-us.csv', 'w') as out:
             out = csv.writer(out)
-            for row in all_rows:
+            for row in sorted(all_rows):
                 out.writerow(row)
