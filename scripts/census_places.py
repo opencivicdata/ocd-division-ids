@@ -131,7 +131,7 @@ def process_file(state, types, csvfile, geocsv):
             funcstat_count[funcstat] += 1
 
             # active government
-            if funcstat in ('A', 'B', 'G'):
+            if funcstat in ('A', 'B'):
                 name = row['NAME']
 
                 if name in OVERRIDES:
@@ -164,7 +164,7 @@ def process_file(state, types, csvfile, geocsv):
                 else:
                     ids[id] = row
 
-            elif funcstat in ('I', 'F', 'N', 'S', 'C'):
+            elif funcstat in ('I', 'F', 'N', 'S', 'C', 'G'):
                 # inactive/fictitious/nonfunctioning/statistical/consolidated
                 pass
             else:
