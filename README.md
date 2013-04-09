@@ -30,18 +30,19 @@ IDs are in the format `ocd-location/country:<country_code>[/<type>:<type_id>]+`
 
 * IDs should not attempt to capture the full hierarchy of all entities, but enough to be uniquely descriptive.  (e.g. If there are school districts at the county and city level, county & city are important disambiguators and should be included in the identifier)
 * Whenever possible, all geographic ids of a given type should be defined at the same time, for example all state geographies should be defined up front.  Similarly, all cities within North Carolina should be defined at once to avoid accidentally choosing a conflicting name.
-* If a set of commonly accepted identifiers for a type already exists (such as postal code for US states) it should be used.  Numeric ids (such as county FIPS codes) should not be used if textual names are clear and unambiguous, but may be appended to help resolve ambiguities.
+* If a set of commonly accepted identifiers for a type already exists (such as postal code for US states) it should be used.  Numeric ids (such as county FIPS codes) should not be used if textual names are clear and unambiguous, but may be appended to help resolve ambiguities on a per-case basis.
 * Judgement should be used to not to grow the set of types unnecessarily.  A list of existing types should be published and new ids making use of an undefined type_id should be appropriately justified.
     * For example: It is recommended that separate types are not created for 'town', 'city', 'village' unless the parent jurisdiction has clear-cut differences between these types that are useful.  In the United States this is not the case so the Census-recommended term 'place' is used instead.
 
 
 ## Repository Layout
 
-* The `identifiers` directory is laid out by country, within each is one or more CSV file
-    * CSV files can be named descriptively, but a recommended convention is to name them according to the piece of the hierarchy that they cover.  For example:
-        * `state-nc.csv` could cover the entire state of North Carolina
-        * `state-nc-counties.csv` could cover just counties (and their subdivisions) for North Carolina
-        * `state-ny-city-nyc.csv` could cover just subdivisions of New York City
+(The below are merely a suggested convention, a mechanism will exist for publishing all data regardless of the names of CSV files, etc.)
+
+* The `identifiers` directory is laid out by country, within each is one or more CSV files
+    * CSV files can be named descriptively, but a recommended convention is to name them according to the source data.  For example:
+        * `state-nc-census.csv` covers census defined entities.
+        * `state-nc-education.csv` could cover just board of education data for NC.
     * Each CSV file should have with two columns: ocd-division id and common name.  These files should not have header rows so that all of the CSV files within a directory can be concatenated together.
 * ``types.md`` is a registry of defined types.  When creating a new file, the registry of types should be consulted.
 
@@ -68,6 +69,6 @@ IDs are in the format `ocd-location/country:<country_code>[/<type>:<type_id>]+`
 * Washington DC, ANC 4A, section 08  _note: this is a strict subset of the ANC for purposes of representation_
   * ocd-division/country:us/district:dc/anc:4a/section:8
 * New York City, City Council District 36 (happens to be in Brooklyn- but not significant to include in id)
-  * ocd-division/country:us/state:ny/place:newyork/councildistrict:36
+  * ocd-division/country:us/state:ny/place:new_york/councildistrict:36
 * Canadian Federal Electoral District 13004 aka [Fundy Royal](http://en.wikipedia.org/wiki/Fundy_Royal) (known as Royal from 1914-1966, Fundy-Royal from 1966-2003, and Fundy from 2003-2004- hence the use of a numeric identifier assigned by the government)
   * ocd-division/country:ca/fed:13004
