@@ -34,7 +34,8 @@ TYPES = {
             'Sitka City and Borough': ('Sitka', 'borough'),
             'Juneau City and Borough': ('Juneau', 'borough'),
             'Yakutat City and Borough': ('Yakutat', 'borough'),
-        }
+        },
+        'id_overrides': { }
     },
     'place': {
         'url': 'http://www.census.gov/geo/maps-data/data/docs/gazetteer/2010_place_list_{fips}.txt',
@@ -60,6 +61,10 @@ TYPES = {
             'Webster County unified government': ('Webster County ', 'place'),
             'Ranson corporation': ('Ranson', 'place'),
             'Carson City': ('Carson City', 'place'),
+        },
+        'id_overrides': {
+            '2756680': ('St. Anthony (Hennepin/Ramsey Counties)', 'place'),
+            '2756698': ('St. Anthony (Stearns County)', 'place'),
         }
     },
     'subdiv': {
@@ -86,7 +91,8 @@ TYPES = {
             'Township 10': ('Township 10', 'place'),
             'Township 11': ('Township 11', 'place'),
             'Township 12': ('Township 12', 'place'),
-        }
+        },
+        'id_overrides': { }
     }
 }
 
@@ -156,6 +162,7 @@ def process_state(state, csvfile, geocsv):
         # function to extract funcstat value
         funcstat_func = TYPES[entity_type]['funcstat']
         overrides = TYPES[entity_type]['overrides']
+        id_overrides = TYPES[entity_type]['id_overrides']
 
         for row in rows:
             # skip any rows not from this state
@@ -175,6 +182,8 @@ def process_state(state, csvfile, geocsv):
 
                 if name in overrides:
                     name, subtype = overrides[name]
+                elif row['GEOID'] in id_overrides:
+                    name, subtype = id_overrides[row['GEOID']]
                 else:
                     for ending, subtype in TYPES[entity_type]['type_mapping'].iteritems():
                         if name.endswith(ending):
