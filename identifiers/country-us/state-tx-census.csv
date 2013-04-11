@@ -849,6 +849,8 @@ ocd-division/country:us/state:tx/place:lake_tanglewood,Lake Tanglewood village
 ocd-division/country:us/state:tx/place:lake_worth,Lake Worth city
 ocd-division/country:us/state:tx/place:lakeport,Lakeport city
 ocd-division/country:us/state:tx/place:lakeside_city,Lakeside City town
+ocd-division/country:us/state:tx/place:lakeside_~san_patricio_county~,Lakeside town
+ocd-division/country:us/state:tx/place:lakeside_~tarrant_county~,Lakeside town
 ocd-division/country:us/state:tx/place:lakeview,Lakeview town
 ocd-division/country:us/state:tx/place:lakeway,Lakeway city
 ocd-division/country:us/state:tx/place:lakewood_village,Lakewood Village city
@@ -1036,6 +1038,8 @@ ocd-division/country:us/state:tx/place:oak_grove,Oak Grove town
 ocd-division/country:us/state:tx/place:oak_leaf,Oak Leaf city
 ocd-division/country:us/state:tx/place:oak_point,Oak Point city
 ocd-division/country:us/state:tx/place:oak_ridge_north,Oak Ridge North city
+ocd-division/country:us/state:tx/place:oak_ridge_~cooke_county~,Oak Ridge town
+ocd-division/country:us/state:tx/place:oak_ridge_~kaufman_county~,Oak Ridge town
 ocd-division/country:us/state:tx/place:oak_valley,Oak Valley town
 ocd-division/country:us/state:tx/place:oakwood,Oakwood town
 ocd-division/country:us/state:tx/place:odem,Odem city
@@ -1151,6 +1155,8 @@ ocd-division/country:us/state:tx/place:red_oak,Red Oak city
 ocd-division/country:us/state:tx/place:redwater,Redwater city
 ocd-division/country:us/state:tx/place:refugio,Refugio town
 ocd-division/country:us/state:tx/place:reklaw,Reklaw city
+ocd-division/country:us/state:tx/place:reno_~lamar_county~,Reno city
+ocd-division/country:us/state:tx/place:reno_~parker_county~,Reno city
 ocd-division/country:us/state:tx/place:retreat,Retreat town
 ocd-division/country:us/state:tx/place:rhome,Rhome city
 ocd-division/country:us/state:tx/place:rice,Rice city
