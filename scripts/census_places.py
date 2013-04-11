@@ -265,10 +265,11 @@ def process_state(state, csvfile, geocsv):
           file=sys.stderr)
     #if duplicates:
     for id, sources in duplicates.iteritems():
-        print(state, 'duplicate', id, file=sys.stderr)
+        error = '{0} duplicate {1}\n'.format(
+            state, id)
         for source in sources:
-            print('    ', source['NAME'], source['_FUNCSTAT'],
-                  source['GEOID'], file=sys.stderr)
+            error += '    {NAME} {_FUNCSTAT} {GEOID}'.format(**source)
+        raise Exception(error)
 
 
 if __name__ == '__main__':
