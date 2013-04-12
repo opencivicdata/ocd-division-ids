@@ -301,7 +301,7 @@ if __name__ == '__main__':
             csvfile = csv.writer(sys.stdout)
 
         if args.geo == CONST:
-            geofile = 'mappings/country-us/state-{0}-id_to_censusgeo.csv'.format(state)
+            geofile = 'mappings/us-census-geoids/{0}.csv'.format(state)
         else:
             geofile = args.geo
         if geofile:
