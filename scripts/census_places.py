@@ -4,7 +4,7 @@ import re
 import os
 import sys
 import csv
-import urllib2
+import codecs
 import argparse
 import collections
 
@@ -119,12 +119,12 @@ TYPES = {
 def make_id(parent=None, **kwargs):
     if len(kwargs) > 1:
         raise ValueError('only one kwarg is allowed for make_id')
-    type, type_id = kwargs.items()[0]
+    type, type_id = list(kwargs.items())[0]
     if not re.match('^[a-z]+$', type):
         raise ValueError('type must match [a-z]+ [%s]' % type)
     type_id = type_id.lower()
     type_id = re.sub('\.? ', '_', type_id)
-    type_id = re.sub('[^a-z0-9~_.-]', '~', type_id)
+    type_id = re.sub('[^\w0-9~_.-]', '~', type_id, re.UNICODE)
     if parent:
         return '{parent}/{type}:{type_id}'.format(parent=parent, type=type,
                                                   type_id=type_id)
@@ -175,7 +175,7 @@ def process_state(state, csvfile, geocsv):
 
 
     for entity_type in TYPES:
-        data = open(TYPES[entity_type]['localfile'])
+        data = codecs.open(TYPES[entity_type]['localfile'], encoding='latin1')
         rows = csv.DictReader(data, dialect=TabDelimited)
         # function to extract funcstat value
         funcstat_func = TYPES[entity_type]['funcstat']
@@ -203,7 +203,7 @@ def process_state(state, csvfile, geocsv):
                 elif row['GEOID'] in id_overrides:
                     name, subtype = id_overrides[row['GEOID']]
                 else:
-                    for ending, subtype in TYPES[entity_type]['type_mapping'].iteritems():
+                    for ending, subtype in TYPES[entity_type]['type_mapping'].items():
                         if name.endswith(ending):
                             name = name.replace(ending, '')
                             break
@@ -219,7 +219,7 @@ def process_state(state, csvfile, geocsv):
 
                 if entity_type == 'subdiv' and subdiv_rule == 'prefix':
                     # find county id
-                    for geoid, countyid in counties.iteritems():
+                    for geoid, countyid in counties.items():
                         if row['GEOID'].startswith(geoid):
                             id = make_id(parent=countyid, **{subtype: name})
                             break
@@ -252,7 +252,7 @@ def process_state(state, csvfile, geocsv):
                 raise Exception(row)
 
     # write ids out
-    for id, row in sorted(ids.iteritems()):
+    for id, row in sorted(ids.items()):
         csvfile.writerow((id, row['NAME']))
         if geocsv:
             geocsv.writerow((id, row['GEOID']))
@@ -264,7 +264,7 @@ def process_state(state, csvfile, geocsv):
                             for k,v in type_count.most_common()),
           file=sys.stderr)
     #if duplicates:
-    for id, sources in duplicates.iteritems():
+    for id, sources in duplicates.items():
         error = '{0} duplicate {1}\n'.format(
             state, id)
         for source in sources:
