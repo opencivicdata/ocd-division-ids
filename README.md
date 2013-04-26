@@ -69,6 +69,6 @@ IDs are in the format `ocd-location/country:<country_code>[/<type>:<type_id>]+`
 * Washington DC, ANC 4A, section 08  _note: this is a strict subset of the ANC for purposes of representation_
   * ocd-division/country:us/district:dc/anc:4a/section:8
 * New York City, City Council District 36 (happens to be in Brooklyn- but not significant to include in id)
-  * ocd-division/country:us/state:ny/place:new_york/councildistrict:36
+  * ocd-division/country:us/state:ny/place:new_york/council_district:36
 * Canadian Federal Electoral District 13004 aka [Fundy Royal](http://en.wikipedia.org/wiki/Fundy_Royal) (known as Royal from 1914-1966, Fundy-Royal from 1966-2003, and Fundy from 2003-2004- hence the use of a numeric identifier assigned by the government)
   * ocd-division/country:ca/fed:13004
