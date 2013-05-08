@@ -27,7 +27,7 @@ TYPES = {
             ' Parish': 'parish',
             ' Borough': 'borough',
             ' Municipality': 'borough',
-            ' Census Area': 'censusarea',
+            ' Census Area': 'census_area',
         },
         'overrides': {
             'Wrangell City and Borough': ('Wrangell', 'borough'),
@@ -120,7 +120,7 @@ def make_id(parent=None, **kwargs):
     if len(kwargs) > 1:
         raise ValueError('only one kwarg is allowed for make_id')
     type, type_id = list(kwargs.items())[0]
-    if not re.match('^[a-z]+$', type):
+    if not re.match('^[a-z_]+$', type):
         raise ValueError('type must match [a-z]+ [%s]' % type)
     type_id = type_id.lower()
     type_id = re.sub('\.? ', '_', type_id)

@@ -16,17 +16,17 @@ ocd-division/country:us/state:ak/borough:sitka,Sitka City and Borough
 ocd-division/country:us/state:ak/borough:skagway,Skagway Municipality
 ocd-division/country:us/state:ak/borough:wrangell,Wrangell City and Borough
 ocd-division/country:us/state:ak/borough:yakutat,Yakutat City and Borough
-ocd-division/country:us/state:ak/censusarea:aleutians_west,Aleutians West Census Area
-ocd-division/country:us/state:ak/censusarea:bethel,Bethel Census Area
-ocd-division/country:us/state:ak/censusarea:dillingham,Dillingham Census Area
-ocd-division/country:us/state:ak/censusarea:hoonah-angoon,Hoonah-Angoon Census Area
-ocd-division/country:us/state:ak/censusarea:nome,Nome Census Area
-ocd-division/country:us/state:ak/censusarea:petersburg,Petersburg Census Area
-ocd-division/country:us/state:ak/censusarea:prince_of_wales-hyder,Prince of Wales-Hyder Census Area
-ocd-division/country:us/state:ak/censusarea:southeast_fairbanks,Southeast Fairbanks Census Area
-ocd-division/country:us/state:ak/censusarea:valdez-cordova,Valdez-Cordova Census Area
-ocd-division/country:us/state:ak/censusarea:wade_hampton,Wade Hampton Census Area
-ocd-division/country:us/state:ak/censusarea:yukon-koyukuk,Yukon-Koyukuk Census Area
+ocd-division/country:us/state:ak/census_area:aleutians_west,Aleutians West Census Area
+ocd-division/country:us/state:ak/census_area:bethel,Bethel Census Area
+ocd-division/country:us/state:ak/census_area:dillingham,Dillingham Census Area
+ocd-division/country:us/state:ak/census_area:hoonah-angoon,Hoonah-Angoon Census Area
+ocd-division/country:us/state:ak/census_area:nome,Nome Census Area
+ocd-division/country:us/state:ak/census_area:petersburg,Petersburg Census Area
+ocd-division/country:us/state:ak/census_area:prince_of_wales-hyder,Prince of Wales-Hyder Census Area
+ocd-division/country:us/state:ak/census_area:southeast_fairbanks,Southeast Fairbanks Census Area
+ocd-division/country:us/state:ak/census_area:valdez-cordova,Valdez-Cordova Census Area
+ocd-division/country:us/state:ak/census_area:wade_hampton,Wade Hampton Census Area
+ocd-division/country:us/state:ak/census_area:yukon-koyukuk,Yukon-Koyukuk Census Area
 ocd-division/country:us/state:ak/place:adak,Adak city
 ocd-division/country:us/state:ak/place:akhiok,Akhiok city
 ocd-division/country:us/state:ak/place:akiak,Akiak city
