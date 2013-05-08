@@ -272,6 +272,44 @@ def process_state(state, csvfile, geocsv):
         raise Exception(error)
 
 
+def _ordinal(value):
+    if value == 0:
+        return 'At-Large'
+
+    if (value % 100) // 10 != 1:
+        if value % 10 == 1:
+            ordval = 'st'
+        elif value % 10 == 2:
+            ordval = 'nd'
+        elif value % 10 == 3:
+            ordval = 'rd'
+        else:
+            ordval = 'th'
+    else:
+        ordval = 'th'
+
+    return '{0}{1}'.format(value, ordval)
+
+
+def process_national_zip(csvfile, geocsv):
+    url = 'http://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_cd111_national.zip'
+    localfile = os.path.join('Gaz_cd111_national.txt')
+    data = open(localfile)
+    rows = csv.DictReader(data, dialect=TabDelimited)
+    for row in rows:
+        fips = row['GEOID'][:2]
+        number = int(row['GEOID'][2:])
+        state = us.states.lookup(fips)
+        if number == 98:
+            number = 0
+        id = make_id(cd=str(number), parent=make_id(state=state.abbr.lower()))
+        name = "{0}'{1} {2} congressional district".format(
+            state.name, '' if state.name.endswith('s') else 's', _ordinal(number))
+
+        csvfile.writerow((id, name))
+        geocsv.writerow((id, row['GEOID']))
+
+
 if __name__ == '__main__':
     CONST = '~~~const~~~'
 
@@ -287,6 +325,9 @@ if __name__ == '__main__':
 
     if args.state == 'all':
         all_fips = [(state.abbr.lower(), state.fips) for state in us.STATES]
+        national_csvfile = csv.writer(open('identifiers/country-us/us-congressional-districts.csv', 'w'))
+        national_geofile = csv.writer(open('mappings/us-census-geoids/us-congressional-districts.csv', 'w'))
+        process_national_zip(national_csvfile, national_geofile)
     else:
         all_fips = [(args.state, us.states.lookup(args.state).fips)]
 
