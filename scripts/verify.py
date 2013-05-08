@@ -73,12 +73,12 @@ if __name__ == '__main__':
                 print('unexpected geoid for', id_)
             all_geo_rows.append((id_, geoid))
 
-    unknown_ids = set(ids.keys()) - seen_in_geoid
-    if not unknown_ids:
-        print('no missing geoids!')
-    else:
-        for id in sorted(unknown_ids):
-            print('missing geoid for id', id)
+    #unknown_ids = set(ids.keys()) - seen_in_geoid
+    #if not unknown_ids:
+    #    print('no missing geoids!')
+    #else:
+    #    for id in sorted(unknown_ids):
+    #        print('missing geoid for id', id)
 
     with open('mappings/us-census-geoids.csv', 'w') as out:
         out = csv.writer(out)
