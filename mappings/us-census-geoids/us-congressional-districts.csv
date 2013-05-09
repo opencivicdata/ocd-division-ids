@@ -5,7 +5,7 @@ ocd-division/country:us/state:al/cd:4,0104
 ocd-division/country:us/state:al/cd:5,0105
 ocd-division/country:us/state:al/cd:6,0106
 ocd-division/country:us/state:al/cd:7,0107
-ocd-division/country:us/state:ak/cd:0,0200
+ocd-division/country:us/state:ak/cd:at-large,0200
 ocd-division/country:us/state:az/cd:1,0401
 ocd-division/country:us/state:az/cd:2,0402
 ocd-division/country:us/state:az/cd:3,0403
@@ -83,8 +83,8 @@ ocd-division/country:us/state:ct/cd:2,0902
 ocd-division/country:us/state:ct/cd:3,0903
 ocd-division/country:us/state:ct/cd:4,0904
 ocd-division/country:us/state:ct/cd:5,0905
-ocd-division/country:us/state:de/cd:0,1000
-ocd-division/country:us/state:dc/cd:0,1198
+ocd-division/country:us/state:de/cd:at-large,1000
+ocd-division/country:us/state:dc/cd:at-large,1198
 ocd-division/country:us/state:fl/cd:1,1201
 ocd-division/country:us/state:fl/cd:2,1202
 ocd-division/country:us/state:fl/cd:3,1203
@@ -233,7 +233,7 @@ ocd-division/country:us/state:mo/cd:6,2906
 ocd-division/country:us/state:mo/cd:7,2907
 ocd-division/country:us/state:mo/cd:8,2908
 ocd-division/country:us/state:mo/cd:9,2909
-ocd-division/country:us/state:mt/cd:0,3000
+ocd-division/country:us/state:mt/cd:at-large,3000
 ocd-division/country:us/state:ne/cd:1,3101
 ocd-division/country:us/state:ne/cd:2,3102
 ocd-division/country:us/state:ne/cd:3,3103
@@ -300,7 +300,7 @@ ocd-division/country:us/state:nc/cd:10,3710
 ocd-division/country:us/state:nc/cd:11,3711
 ocd-division/country:us/state:nc/cd:12,3712
 ocd-division/country:us/state:nc/cd:13,3713
-ocd-division/country:us/state:nd/cd:0,3800
+ocd-division/country:us/state:nd/cd:at-large,3800
 ocd-division/country:us/state:oh/cd:1,3901
 ocd-division/country:us/state:oh/cd:2,3902
 ocd-division/country:us/state:oh/cd:3,3903
@@ -356,7 +356,7 @@ ocd-division/country:us/state:sc/cd:3,4503
 ocd-division/country:us/state:sc/cd:4,4504
 ocd-division/country:us/state:sc/cd:5,4505
 ocd-division/country:us/state:sc/cd:6,4506
-ocd-division/country:us/state:sd/cd:0,4600
+ocd-division/country:us/state:sd/cd:at-large,4600
 ocd-division/country:us/state:tn/cd:1,4701
 ocd-division/country:us/state:tn/cd:2,4702
 ocd-division/country:us/state:tn/cd:3,4703
@@ -401,7 +401,7 @@ ocd-division/country:us/state:tx/cd:32,4832
 ocd-division/country:us/state:ut/cd:1,4901
 ocd-division/country:us/state:ut/cd:2,4902
 ocd-division/country:us/state:ut/cd:3,4903
-ocd-division/country:us/state:vt/cd:0,5000
+ocd-division/country:us/state:vt/cd:at-large,5000
 ocd-division/country:us/state:va/cd:1,5101
 ocd-division/country:us/state:va/cd:2,5102
 ocd-division/country:us/state:va/cd:3,5103
@@ -433,5 +433,5 @@ ocd-division/country:us/state:wi/cd:5,5505
 ocd-division/country:us/state:wi/cd:6,5506
 ocd-division/country:us/state:wi/cd:7,5507
 ocd-division/country:us/state:wi/cd:8,5508
-ocd-division/country:us/state:wy/cd:0,5600
-ocd-division/country:us/state:pr/cd:0,7298
+ocd-division/country:us/state:wy/cd:at-large,5600
+ocd-division/country:us/state:pr/cd:at-large,7298

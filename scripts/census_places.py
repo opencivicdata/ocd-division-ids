@@ -293,7 +293,7 @@ def _ordinal(value):
 
 def process_national_zip(csvfile, geocsv):
     url = 'http://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_cd111_national.zip'
-    localfile = os.path.join('Gaz_cd111_national.txt')
+    localfile = os.path.join(os.path.dirname(__file__), 'source-data/Gaz_cd111_national.txt')
     data = open(localfile)
     rows = csv.DictReader(data, dialect=TabDelimited)
     for row in rows:
@@ -302,7 +302,8 @@ def process_national_zip(csvfile, geocsv):
         state = us.states.lookup(fips)
         if number == 98:
             number = 0
-        id = make_id(cd=str(number), parent=make_id(state=state.abbr.lower()))
+        id = make_id(cd=str(number) if number != 0 else 'at-large',
+                     parent=make_id(state=state.abbr.lower()))
         name = "{0}'{1} {2} congressional district".format(
             state.name, '' if state.name.endswith('s') else 's', _ordinal(number))
 
