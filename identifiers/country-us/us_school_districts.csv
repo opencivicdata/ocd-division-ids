@@ -1,9 +1,9 @@
 ocd-division/country:us/state:ak/borough:aleutians_east/school_district:aleutians_east_borough_school_district,aleutians east borough school district
 ocd-division/country:us/state:ak/census_area:aleutians_west/school_district:pribilof_school_district,pribilof school district
 ocd-division/country:us/state:ak/census_area:aleutians_west/school_district:unalaska_city_school_district,unalaska city school district
-ocd-division/country:us/state:ak/borough:anchorage_municipality/school_district:aleutian_region_school_district,aleutian region school district
-ocd-division/country:us/state:ak/borough:anchorage_municipality/school_district:anchorage_school_district,anchorage school district
-ocd-division/country:us/state:ak/borough:anchorage_municipality/school_district:chugach_school_district,chugach school district
+ocd-division/country:us/state:ak/borough:anchorage/school_district:aleutian_region_school_district,aleutian region school district
+ocd-division/country:us/state:ak/borough:anchorage/school_district:anchorage_school_district,anchorage school district
+ocd-division/country:us/state:ak/borough:anchorage/school_district:chugach_school_district,chugach school district
 ocd-division/country:us/state:ak/census_area:bethel/school_district:kuspuk_school_district,kuspuk school district
 ocd-division/country:us/state:ak/census_area:bethel/school_district:lower_kuskokwim_school_district,lower kuskokwim school district
 ocd-division/country:us/state:ak/census_area:bethel/school_district:yupiit_school_district,yupiit school district
@@ -44,7 +44,7 @@ ocd-division/country:us/state:ak/census_area:valdez-cordova/school_district:cord
 ocd-division/country:us/state:ak/census_area:valdez-cordova/school_district:valdez_city_school_district,valdez city school district
 ocd-division/country:us/state:ak/census_area:wade_hampton/school_district:kashunamiut_school_district,kashunamiut school district
 ocd-division/country:us/state:ak/census_area:wade_hampton/school_district:lower_yukon_school_district,lower yukon school district
-ocd-division/country:us/state:ak/census_area:wade_hampton/school_district:saint_mary's_school_district,saint mary's school district
+ocd-division/country:us/state:ak/census_area:wade_hampton/school_district:saint_mary~s_school_district,saint mary's school district
 ocd-division/country:us/state:ak/borough:wrangell/school_district:wrangell_public_school_district,wrangell public school district
 ocd-division/country:us/state:ak/borough:yakutat/school_district:yakutat_school_district,yakutat school district
 ocd-division/country:us/state:ak/census_area:yukon-koyukuk/school_district:galena_city_school_district,galena city school district
@@ -175,7 +175,7 @@ ocd-division/country:us/state:al/county:mobile/school_district:wilmer_hall,wilme
 ocd-division/country:us/state:al/county:monroe/school_district:monroe_county,monroe county
 ocd-division/country:us/state:al/county:montgomery/school_district:alabama_correctional_facilities,alabama correctional facilities
 ocd-division/country:us/state:al/county:montgomery/school_district:alabama_youth_services,alabama youth services
-ocd-division/country:us/state:al/county:montgomery/school_district:brantwood_children's_home,brantwood children's home
+ocd-division/country:us/state:al/county:montgomery/school_district:brantwood_children~s_home,brantwood children's home
 ocd-division/country:us/state:al/county:montgomery/school_district:montgomery_county,montgomery county
 ocd-division/country:us/state:al/county:morgan/school_district:decatur_city,decatur city
 ocd-division/country:us/state:al/county:morgan/school_district:hartselle_city,hartselle city
@@ -190,8 +190,8 @@ ocd-division/country:us/state:al/county:russell/school_district:phenix_city,phen
 ocd-division/country:us/state:al/county:russell/school_district:russell_county,russell county
 ocd-division/country:us/state:al/county:shelby/school_district:developing_alabama_youth_prog,developing alabama youth prog
 ocd-division/country:us/state:al/county:shelby/school_district:shelby_county,shelby county
-ocd-division/country:us/state:al/county:st._clair/school_district:pell_city,pell city
-ocd-division/country:us/state:al/county:st._clair/school_district:st_clair_county,st clair county
+ocd-division/country:us/state:al/county:st_clair/school_district:pell_city,pell city
+ocd-division/country:us/state:al/county:st_clair/school_district:st_clair_county,st clair county
 ocd-division/country:us/state:al/county:sumter/school_district:sumter_county,sumter county
 ocd-division/country:us/state:al/county:talladega/school_district:al_inst_deaf_and_blind,al inst deaf and blind
 ocd-division/country:us/state:al/county:talladega/school_district:sylacauga_city,sylacauga city
@@ -442,10 +442,10 @@ ocd-division/country:us/state:ar/county:sevier/school_district:dequeen~mena_educ
 ocd-division/country:us/state:ar/county:sevier/school_district:horatio_school_district,horatio school district
 ocd-division/country:us/state:ar/county:sharp/school_district:cave_city_school_district,cave city school district
 ocd-division/country:us/state:ar/county:sharp/school_district:highland_school_district,highland school district
-ocd-division/country:us/state:ar/county:st._francis/school_district:east_arkansas_career_center,east arkansas career center
-ocd-division/country:us/state:ar/county:st._francis/school_district:forrest_city_school_district,forrest city school district
-ocd-division/country:us/state:ar/county:st._francis/school_district:hughes_school_district,hughes school district
-ocd-division/country:us/state:ar/county:st._francis/school_district:palestine-wheatley_sch._dist,palestine-wheatley sch. dist
+ocd-division/country:us/state:ar/county:st_francis/school_district:east_arkansas_career_center,east arkansas career center
+ocd-division/country:us/state:ar/county:st_francis/school_district:forrest_city_school_district,forrest city school district
+ocd-division/country:us/state:ar/county:st_francis/school_district:hughes_school_district,hughes school district
+ocd-division/country:us/state:ar/county:st_francis/school_district:palestine-wheatley_sch._dist,palestine-wheatley sch. dist
 ocd-division/country:us/state:ar/county:stone/school_district:mountain_view_school_district,mountain view school district
 ocd-division/country:us/state:ar/county:union/school_district:el_dorado_school_district,el dorado school district
 ocd-division/country:us/state:ar/county:union/school_district:junction_city_school_district,junction city school district
@@ -533,7 +533,7 @@ ocd-division/country:us/state:az/county:coconino/school_district:flagstaff_junio
 ocd-division/country:us/state:az/county:coconino/school_district:flagstaff_unified_district,flagstaff unified district
 ocd-division/country:us/state:az/county:coconino/school_district:fredonia-moccasin_unified_district,fredonia-moccasin unified district
 ocd-division/country:us/state:az/county:coconino/school_district:grand_canyon_unified_district,grand canyon unified district
-ocd-division/country:us/state:az/county:coconino/school_district:haven_montessori_children's_house_inc,haven montessori children's house  inc
+ocd-division/country:us/state:az/county:coconino/school_district:haven_montessori_children~s_house_inc,haven montessori children's house  inc
 ocd-division/country:us/state:az/county:coconino/school_district:maine_consolidated_school_district,maine consolidated school district
 ocd-division/country:us/state:az/county:coconino/school_district:montessori_charter_school_of_flagstaff_inc,montessori charter school of flagstaff  inc
 ocd-division/country:us/state:az/county:coconino/school_district:mountain_school_inc,mountain school  inc
@@ -589,7 +589,7 @@ ocd-division/country:us/state:az/county:la_paz/school_district:parker_unified_sc
 ocd-division/country:us/state:az/county:la_paz/school_district:quartzsite_elementary_district,quartzsite elementary district
 ocd-division/country:us/state:az/county:la_paz/school_district:salome_consolidated_elementary_district,salome consolidated elementary district
 ocd-division/country:us/state:az/county:la_paz/school_district:wenden_elementary_district,wenden elementary district
-ocd-division/country:us/state:az/county:lake/school_district:ombudsman_educational_services,ombudsman educational services
+ocd-division/country:us/state:il/county:lake/school_district:ombudsman_educational_services,ombudsman educational services
 ocd-division/country:us/state:az/county:maricopa/school_district:academy_of_excellence_inc,academy of excellence  inc
 ocd-division/country:us/state:az/county:maricopa/school_district:academy_with_community_partners_inc,academy with community partners  inc
 ocd-division/country:us/state:az/county:maricopa/school_district:accelerated_learning_center_inc,accelerated learning center  inc
@@ -879,7 +879,7 @@ ocd-division/country:us/state:az/county:maricopa/school_district:west_gilbert_ch
 ocd-division/country:us/state:az/county:maricopa/school_district:west_gilbert_charter_middle_school_inc,west gilbert charter middle school  inc
 ocd-division/country:us/state:az/county:maricopa/school_district:west_valley_arts_and_technology_academy_inc,west valley arts and technology academy  inc
 ocd-division/country:us/state:az/county:maricopa/school_district:west-mec_-_western_maricopa_education_center,west-mec - western maricopa education center
-ocd-division/country:us/state:az/county:maricopa/school_district:westwind_children's_services,westwind children's services
+ocd-division/country:us/state:az/county:maricopa/school_district:westwind_children~s_services,westwind children's services
 ocd-division/country:us/state:az/county:maricopa/school_district:westwind_middle_school_academy,westwind middle school academy
 ocd-division/country:us/state:az/county:maricopa/school_district:wickenburg_unified_district,wickenburg unified district
 ocd-division/country:us/state:az/county:maricopa/school_district:wilson_elementary_district,wilson elementary district
@@ -929,7 +929,7 @@ ocd-division/country:us/state:az/county:navajo/school_district:snowflake_unified
 ocd-division/country:us/state:az/county:navajo/school_district:successful_beginnings_charter_school,successful beginnings charter school
 ocd-division/country:us/state:az/county:navajo/school_district:whiteriver_unified_district,whiteriver unified district
 ocd-division/country:us/state:az/county:navajo/school_district:winslow_unified_district,winslow unified district
-ocd-division/country:us/state:az/county:pima/school_district:a_child's_view_school_inc,a child's view school  inc
+ocd-division/country:us/state:az/county:pima/school_district:a_child~s_view_school_inc,a child's view school  inc
 ocd-division/country:us/state:az/county:pima/school_district:academy_del_sol_inc,academy del sol  inc
 ocd-division/country:us/state:az/county:pima/school_district:academy_of_math_and_science_inc,academy of math and science  inc
 ocd-division/country:us/state:az/county:pima/school_district:academy_of_tucson_inc,academy of tucson  inc
@@ -948,7 +948,7 @@ ocd-division/country:us/state:az/county:pima/school_district:canyon_rose_academy
 ocd-division/country:us/state:az/county:pima/school_district:carden_of_tucson_inc,carden of tucson  inc
 ocd-division/country:us/state:az/county:pima/school_district:catalina_foothills_unified_district,catalina foothills unified district
 ocd-division/country:us/state:az/county:pima/school_district:cesar_chavez_learning_community_inc,cesar chavez learning community  inc
-ocd-division/country:us/state:az/county:pima/school_district:children's_success_academy_inc,children's success academy  inc
+ocd-division/country:us/state:az/county:pima/school_district:children~s_success_academy_inc,children's success academy  inc
 ocd-division/country:us/state:az/county:pima/school_district:compass_high_school_inc,compass high school  inc
 ocd-division/country:us/state:az/county:pima/school_district:continental_elementary_district,continental elementary district
 ocd-division/country:us/state:az/county:pima/school_district:cplc_community_schools_dba_hiaki_high_school,cplc community schools dba hiaki high school
@@ -981,7 +981,7 @@ ocd-division/country:us/state:az/county:pima/school_district:mountain_rose_acade
 ocd-division/country:us/state:az/county:pima/school_district:multidimensional_literacy_corp.,multidimensional literacy corp.
 ocd-division/country:us/state:az/county:pima/school_district:new_west_school,new west school
 ocd-division/country:us/state:az/county:pima/school_district:nosotros_inc,nosotros  inc
-ocd-division/country:us/state:az/county:pima/school_district:old_pueblo_children's_academy,old pueblo children's academy
+ocd-division/country:us/state:az/county:pima/school_district:old_pueblo_children~s_academy,old pueblo children's academy
 ocd-division/country:us/state:az/county:pima/school_district:pima_accommodation_district,pima accommodation district
 ocd-division/country:us/state:az/county:pima/school_district:pima_county_board_of_supervisors,pima county board of supervisors
 ocd-division/country:us/state:az/county:pima/school_district:pima_county_jted,pima county jted
@@ -1010,7 +1010,7 @@ ocd-division/country:us/state:az/county:pima/school_district:tucson_youth_develo
 ocd-division/country:us/state:az/county:pima/school_district:vail_unified_district,vail unified district
 ocd-division/country:us/state:az/county:pima/school_district:vision_charter_school_inc,vision charter school  inc
 ocd-division/country:us/state:az/county:pima/school_district:wildcat_secondary_school,wildcat secondary school
-ocd-division/country:us/state:az/county:pinal/school_district:akimel_o'otham_pee_posh_charter_school_inc,akimel o'otham pee posh charter school  inc
+ocd-division/country:us/state:az/county:pinal/school_district:akimel_o~otham_pee_posh_charter_school_inc,akimel o'otham pee posh charter school  inc
 ocd-division/country:us/state:az/county:pinal/school_district:apache_junction_unified_district,apache junction unified district
 ocd-division/country:us/state:az/county:pinal/school_district:casa_grande_elementary_district,casa grande elementary district
 ocd-division/country:us/state:az/county:pinal/school_district:casa_grande_union_high_school_district,casa grande union high school district
@@ -1026,7 +1026,7 @@ ocd-division/country:us/state:az/county:pinal/school_district:j_o_combs_unified_
 ocd-division/country:us/state:az/county:pinal/school_district:legacy_traditional_charter_school,legacy traditional charter school
 ocd-division/country:us/state:az/county:pinal/school_district:mammoth-san_manuel_unified_district,mammoth-san manuel unified district
 ocd-division/country:us/state:az/county:pinal/school_district:maricopa_unified_school_district,maricopa unified school district
-ocd-division/country:us/state:az/county:pinal/school_district:mary_c_o'brien_accommodation_district,mary c o'brien accommodation district
+ocd-division/country:us/state:az/county:pinal/school_district:mary_c_o~brien_accommodation_district,mary c o'brien accommodation district
 ocd-division/country:us/state:az/county:pinal/school_district:opportunities_for_youth_inc,opportunities for youth  inc
 ocd-division/country:us/state:az/county:pinal/school_district:oracle_elementary_district,oracle elementary district
 ocd-division/country:us/state:az/county:pinal/school_district:picacho_elementary_district,picacho elementary district
@@ -1042,7 +1042,7 @@ ocd-division/country:us/state:az/county:pinal/school_district:stanfield_elementa
 ocd-division/country:us/state:az/county:pinal/school_district:superior_unified_school_district,superior unified school district
 ocd-division/country:us/state:az/county:pinal/school_district:toltec_elementary_district,toltec elementary district
 ocd-division/country:us/state:az/county:pinal/school_district:vechij_himdag_alternative_school_inc,vechij himdag alternative school  inc
-ocd-division/country:us/state:az/county:san_diego/school_district:arizona_school_for_integrated_academics_and_technologies,arizona school for integrated academics and technologies
+ocd-division/country:us/state:ca/county:san_diego/school_district:arizona_school_for_integrated_academics_and_technologies,arizona school for integrated academics and technologies
 ocd-division/country:us/state:az/county:santa_cruz/school_district:mexicayotl_academy_inc,mexicayotl academy  inc
 ocd-division/country:us/state:az/county:santa_cruz/school_district:nogales_unified_district,nogales unified district
 ocd-division/country:us/state:az/county:santa_cruz/school_district:patagonia_elementary_district,patagonia elementary district
@@ -1503,7 +1503,7 @@ ocd-division/country:us/state:ca/county:los_angeles/school_district:sbe_-_ingeni
 ocd-division/country:us/state:ca/county:los_angeles/school_district:sbe_-_lifeline_education_charter,sbe - lifeline education charter
 ocd-division/country:us/state:ca/county:los_angeles/school_district:sbe_-_new_west_charter_middle,sbe - new west charter middle
 ocd-division/country:us/state:ca/county:los_angeles/school_district:sbe_-_the_school_of_arts_and_enterprise,sbe - the school of arts and enterprise
-ocd-division/country:us/state:ca/county:los_angeles/school_district:sbe_-_today's_fresh_start_charter,sbe - today's fresh start charter
+ocd-division/country:us/state:ca/county:los_angeles/school_district:sbe_-_today~s_fresh_start_charter,sbe - today's fresh start charter
 ocd-division/country:us/state:ca/county:los_angeles/school_district:south_pasadena_unified,south pasadena unified
 ocd-division/country:us/state:ca/county:los_angeles/school_district:south_whittier_elementary,south whittier elementary
 ocd-division/country:us/state:ca/county:los_angeles/school_district:southeast_rop,southeast rop
@@ -2782,9 +2782,9 @@ ocd-division/country:us/state:fl/county:putnam/school_district:putnam,putnam
 ocd-division/country:us/state:fl/county:santa_rosa/school_district:santa_rosa,santa rosa
 ocd-division/country:us/state:fl/county:sarasota/school_district:sarasota,sarasota
 ocd-division/country:us/state:fl/county:seminole/school_district:seminole,seminole
-ocd-division/country:us/state:fl/county:st._johns/school_district:deaf~blind,deaf/blind
-ocd-division/country:us/state:fl/county:st._johns/school_district:st._johns,st. johns
-ocd-division/country:us/state:fl/county:st._lucie/school_district:st._lucie,st. lucie
+ocd-division/country:us/state:fl/county:st_johns/school_district:deaf~blind,deaf/blind
+ocd-division/country:us/state:fl/county:st_johns/school_district:st._johns,st. johns
+ocd-division/country:us/state:fl/county:st_lucie/school_district:st._lucie,st. lucie
 ocd-division/country:us/state:fl/county:sumter/school_district:sumter,sumter
 ocd-division/country:us/state:fl/county:suwannee/school_district:suwannee,suwannee
 ocd-division/country:us/state:fl/county:taylor/school_district:taylor,taylor
@@ -3251,9 +3251,9 @@ ocd-division/country:us/state:ia/county:montgomery/school_district:villisca_comm
 ocd-division/country:us/state:ia/county:muscatine/school_district:muscatine_comm_school_district,muscatine comm school district
 ocd-division/country:us/state:ia/county:muscatine/school_district:west_liberty_comm_school_district,west liberty comm school district
 ocd-division/country:us/state:ia/county:muscatine/school_district:wilton_comm_school_district,wilton comm school district
-ocd-division/country:us/state:ia/county:o'brien/school_district:hartley-melvin-sanborn_comm_school_district,hartley-melvin-sanborn comm school district
-ocd-division/country:us/state:ia/county:o'brien/school_district:sheldon_comm_school_district,sheldon comm school district
-ocd-division/country:us/state:ia/county:o'brien/school_district:south_o'brien_comm_school_district,south o'brien comm school district
+ocd-division/country:us/state:ia/county:o~brien/school_district:hartley-melvin-sanborn_comm_school_district,hartley-melvin-sanborn comm school district
+ocd-division/country:us/state:ia/county:o~brien/school_district:sheldon_comm_school_district,sheldon comm school district
+ocd-division/country:us/state:ia/county:o~brien/school_district:south_o~brien_comm_school_district,south o'brien comm school district
 ocd-division/country:us/state:ia/county:osceola/school_district:sibley-ocheyedan_comm_school_district,sibley-ocheyedan comm school district
 ocd-division/country:us/state:ia/county:page/school_district:clarinda_comm_school_district,clarinda comm school district
 ocd-division/country:us/state:ia/county:page/school_district:essex_comm_school_district,essex comm school district
@@ -4335,36 +4335,36 @@ ocd-division/country:us/state:il/county:shelby/school_district:cowden-herrick_cu
 ocd-division/country:us/state:il/county:shelby/school_district:shelbyville_cusd_4,shelbyville cusd 4
 ocd-division/country:us/state:il/county:shelby/school_district:stewardson-strasburg_cud_5a,stewardson-strasburg cud 5a
 ocd-division/country:us/state:il/county:shelby/school_district:windsor_cusd_1,windsor cusd 1
-ocd-division/country:us/state:il/county:st._clair/school_district:belle_valley_sd_119,belle valley sd 119
-ocd-division/country:us/state:il/county:st._clair/school_district:belleville_area_special_services,belleville area special services
-ocd-division/country:us/state:il/county:st._clair/school_district:belleville_sd_118,belleville sd 118
-ocd-division/country:us/state:il/county:st._clair/school_district:belleville_twp_hsd_201,belleville twp hsd 201
-ocd-division/country:us/state:il/county:st._clair/school_district:brooklyn_ud_188,brooklyn ud 188
-ocd-division/country:us/state:il/county:st._clair/school_district:cahokia_cusd_187,cahokia cusd 187
-ocd-division/country:us/state:il/county:st._clair/school_district:central_sd_104,central sd 104
-ocd-division/country:us/state:il/county:st._clair/school_district:collinsville_area_career_ctr,collinsville area career ctr
-ocd-division/country:us/state:il/county:st._clair/school_district:dupo_cusd_196,dupo cusd 196
-ocd-division/country:us/state:il/county:st._clair/school_district:east_st_louis_sd_189,east st louis sd 189
-ocd-division/country:us/state:il/county:st._clair/school_district:freeburg_ccsd_70,freeburg ccsd 70
-ocd-division/country:us/state:il/county:st._clair/school_district:freeburg_chsd_77,freeburg chsd 77
-ocd-division/country:us/state:il/county:st._clair/school_district:grant_ccsd_110,grant ccsd 110
-ocd-division/country:us/state:il/county:st._clair/school_district:harmony_emge_sd_175,harmony emge sd 175
-ocd-division/country:us/state:il/county:st._clair/school_district:high_mount_sd_116,high mount sd 116
-ocd-division/country:us/state:il/county:st._clair/school_district:lebanon_cusd_9,lebanon cusd 9
-ocd-division/country:us/state:il/county:st._clair/school_district:marissa_cusd_40,marissa cusd 40
-ocd-division/country:us/state:il/county:st._clair/school_district:mascoutah_cud_19,mascoutah cud 19
-ocd-division/country:us/state:il/county:st._clair/school_district:millstadt_ccsd_160,millstadt ccsd 160
-ocd-division/country:us/state:il/county:st._clair/school_district:new_athens_cusd_60,new athens cusd 60
-ocd-division/country:us/state:il/county:st._clair/school_district:o_fallon_ccsd_90,o fallon ccsd 90
-ocd-division/country:us/state:il/county:st._clair/school_district:o_fallon_twp_hsd_203,o fallon twp hsd 203
-ocd-division/country:us/state:il/county:st._clair/school_district:pontiac-w_holliday_sd_105,pontiac-w holliday sd 105
-ocd-division/country:us/state:il/county:st._clair/school_district:shiloh_village_sd_85,shiloh village sd 85
-ocd-division/country:us/state:il/county:st._clair/school_district:signal_hill_sd_181,signal hill sd 181
-ocd-division/country:us/state:il/county:st._clair/school_district:smithton_ccsd_130,smithton ccsd 130
-ocd-division/country:us/state:il/county:st._clair/school_district:st_clair_roe,st clair roe
-ocd-division/country:us/state:il/county:st._clair/school_district:st_libory_cons_sd_30,st libory cons sd 30
-ocd-division/country:us/state:il/county:st._clair/school_district:whiteside_sd_115,whiteside sd 115
-ocd-division/country:us/state:il/county:st._clair/school_district:wolf_branch_sd_113,wolf branch sd 113
+ocd-division/country:us/state:il/county:st_clair/school_district:belle_valley_sd_119,belle valley sd 119
+ocd-division/country:us/state:il/county:st_clair/school_district:belleville_area_special_services,belleville area special services
+ocd-division/country:us/state:il/county:st_clair/school_district:belleville_sd_118,belleville sd 118
+ocd-division/country:us/state:il/county:st_clair/school_district:belleville_twp_hsd_201,belleville twp hsd 201
+ocd-division/country:us/state:il/county:st_clair/school_district:brooklyn_ud_188,brooklyn ud 188
+ocd-division/country:us/state:il/county:st_clair/school_district:cahokia_cusd_187,cahokia cusd 187
+ocd-division/country:us/state:il/county:st_clair/school_district:central_sd_104,central sd 104
+ocd-division/country:us/state:il/county:st_clair/school_district:collinsville_area_career_ctr,collinsville area career ctr
+ocd-division/country:us/state:il/county:st_clair/school_district:dupo_cusd_196,dupo cusd 196
+ocd-division/country:us/state:il/county:st_clair/school_district:east_st_louis_sd_189,east st louis sd 189
+ocd-division/country:us/state:il/county:st_clair/school_district:freeburg_ccsd_70,freeburg ccsd 70
+ocd-division/country:us/state:il/county:st_clair/school_district:freeburg_chsd_77,freeburg chsd 77
+ocd-division/country:us/state:il/county:st_clair/school_district:grant_ccsd_110,grant ccsd 110
+ocd-division/country:us/state:il/county:st_clair/school_district:harmony_emge_sd_175,harmony emge sd 175
+ocd-division/country:us/state:il/county:st_clair/school_district:high_mount_sd_116,high mount sd 116
+ocd-division/country:us/state:il/county:st_clair/school_district:lebanon_cusd_9,lebanon cusd 9
+ocd-division/country:us/state:il/county:st_clair/school_district:marissa_cusd_40,marissa cusd 40
+ocd-division/country:us/state:il/county:st_clair/school_district:mascoutah_cud_19,mascoutah cud 19
+ocd-division/country:us/state:il/county:st_clair/school_district:millstadt_ccsd_160,millstadt ccsd 160
+ocd-division/country:us/state:il/county:st_clair/school_district:new_athens_cusd_60,new athens cusd 60
+ocd-division/country:us/state:il/county:st_clair/school_district:o_fallon_ccsd_90,o fallon ccsd 90
+ocd-division/country:us/state:il/county:st_clair/school_district:o_fallon_twp_hsd_203,o fallon twp hsd 203
+ocd-division/country:us/state:il/county:st_clair/school_district:pontiac-w_holliday_sd_105,pontiac-w holliday sd 105
+ocd-division/country:us/state:il/county:st_clair/school_district:shiloh_village_sd_85,shiloh village sd 85
+ocd-division/country:us/state:il/county:st_clair/school_district:signal_hill_sd_181,signal hill sd 181
+ocd-division/country:us/state:il/county:st_clair/school_district:smithton_ccsd_130,smithton ccsd 130
+ocd-division/country:us/state:il/county:st_clair/school_district:st_clair_roe,st clair roe
+ocd-division/country:us/state:il/county:st_clair/school_district:st_libory_cons_sd_30,st libory cons sd 30
+ocd-division/country:us/state:il/county:st_clair/school_district:whiteside_sd_115,whiteside sd 115
+ocd-division/country:us/state:il/county:st_clair/school_district:wolf_branch_sd_113,wolf branch sd 113
 ocd-division/country:us/state:il/county:stark/school_district:bradford_cusd_1,bradford cusd 1
 ocd-division/country:us/state:il/county:stark/school_district:henry-stark_county_spec_ed_dist,henry-stark county spec ed dist
 ocd-division/country:us/state:il/county:stark/school_district:neponset_ccsd_307,neponset ccsd 307
@@ -4836,13 +4836,13 @@ ocd-division/country:us/state:in/county:shelby/school_district:shelbyville_centr
 ocd-division/country:us/state:in/county:shelby/school_district:southwestern_con_sch_shelby_co,southwestern con sch shelby co
 ocd-division/country:us/state:in/county:spencer/school_district:north_spencer_county_sch_corp,north spencer county sch corp
 ocd-division/country:us/state:in/county:spencer/school_district:south_spencer_county_sch_corp,south spencer county sch corp
-ocd-division/country:us/state:in/county:st._joseph/school_district:john_glenn_school_corporation,john glenn school corporation
-ocd-division/country:us/state:in/county:st._joseph/school_district:penn-harris-madison_sch_corp,penn-harris-madison sch corp
-ocd-division/country:us/state:in/county:st._joseph/school_district:school_city_of_mishawaka,school city of mishawaka
-ocd-division/country:us/state:in/county:st._joseph/school_district:south_bend_community_sch_corp,south bend community sch corp
-ocd-division/country:us/state:in/county:st._joseph/school_district:union-north_united_school_corp,union-north united school corp
-ocd-division/country:us/state:in/county:st._joseph/school_district:veritas_academy,veritas academy
-ocd-division/country:us/state:in/county:st._joseph/school_district:xavier_school_of_excellence,xavier school of excellence
+ocd-division/country:us/state:in/county:st_joseph/school_district:john_glenn_school_corporation,john glenn school corporation
+ocd-division/country:us/state:in/county:st_joseph/school_district:penn-harris-madison_sch_corp,penn-harris-madison sch corp
+ocd-division/country:us/state:in/county:st_joseph/school_district:school_city_of_mishawaka,school city of mishawaka
+ocd-division/country:us/state:in/county:st_joseph/school_district:south_bend_community_sch_corp,south bend community sch corp
+ocd-division/country:us/state:in/county:st_joseph/school_district:union-north_united_school_corp,union-north united school corp
+ocd-division/country:us/state:in/county:st_joseph/school_district:veritas_academy,veritas academy
+ocd-division/country:us/state:in/county:st_joseph/school_district:xavier_school_of_excellence,xavier school of excellence
 ocd-division/country:us/state:in/county:starke/school_district:knox_community_school_corp,knox community school corp
 ocd-division/country:us/state:in/county:starke/school_district:north_judson-san_pierre_sch_corp,north judson-san pierre sch corp
 ocd-division/country:us/state:in/county:starke/school_district:oregon-davis_school_corp,oregon-davis school corp
@@ -5365,132 +5365,132 @@ ocd-division/country:us/state:ky/county:whitley/school_district:whitley_county,w
 ocd-division/country:us/state:ky/county:whitley/school_district:williamsburg_independent,williamsburg independent
 ocd-division/country:us/state:ky/county:wolfe/school_district:wolfe_county,wolfe county
 ocd-division/country:us/state:ky/county:woodford/school_district:woodford_county,woodford county
-ocd-division/country:us/state:la/county:acadia_parish/school_district:acadia_parish,acadia parish
-ocd-division/country:us/state:la/county:allen_parish/school_district:allen_parish,allen parish
-ocd-division/country:us/state:la/county:ascension_parish/school_district:ascension_parish,ascension parish
-ocd-division/country:us/state:la/county:assumption_parish/school_district:assumption_parish,assumption parish
-ocd-division/country:us/state:la/county:avoyelles_parish/school_district:avoyelles_parish,avoyelles parish
-ocd-division/country:us/state:la/county:avoyelles_parish/school_district:avoyelles_public_charter_school,avoyelles public charter school
-ocd-division/country:us/state:la/county:beauregard_parish/school_district:beauregard_parish,beauregard parish
-ocd-division/country:us/state:la/county:bienville_parish/school_district:bienville_parish,bienville parish
-ocd-division/country:us/state:la/county:bossier_parish/school_district:bossier_parish,bossier parish
-ocd-division/country:us/state:la/county:caddo_parish/school_district:caddo_parish,caddo parish
-ocd-division/country:us/state:la/county:caddo_parish/school_district:rsd-shreveport_charter_school_inc,rsd-shreveport charter school  inc
-ocd-division/country:us/state:la/county:calcasieu_parish/school_district:calcasieu_parish,calcasieu parish
-ocd-division/country:us/state:la/county:caldwell_parish/school_district:caldwell_parish,caldwell parish
-ocd-division/country:us/state:la/county:cameron_parish/school_district:cameron_parish,cameron parish
-ocd-division/country:us/state:la/county:catahoula_parish/school_district:catahoula_parish,catahoula parish
-ocd-division/country:us/state:la/county:claiborne_parish/school_district:claiborne_parish,claiborne parish
-ocd-division/country:us/state:la/county:concordia_parish/school_district:concordia_parish,concordia parish
-ocd-division/country:us/state:la/county:de_soto_parish/school_district:desoto_parish,desoto parish
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:central_community_school_district,central community school district
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:city_of_baker_school_district,city of baker school district
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:community_school_for_apprenticeship_learning_inc,community school for apprenticeship learning  inc
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:east_baton_rouge_parish,east baton rouge parish
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:la_schools_for_the_deaf_and_the_visually_impaired,la schools for the deaf and the visually impaired
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:lsu_laboratory_school,lsu laboratory school
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:office_of_juvenile_justice,office of juvenile justice
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:rsd-100_black_men_capitol_charter_initiative,rsd-100 black men capitol charter initiative
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:rsd-advance_baton_rouge,rsd-advance baton rouge
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:rsd-crestworth_learning_academy_inc,rsd-crestworth learning academy  inc
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:school_for_a_new_millennium_inc,school for a new millennium  inc
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:southern_university_lab_school,southern university lab school
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:special_school_district,special school district
-ocd-division/country:us/state:la/county:east_baton_rouge_parish/school_district:zachary_community_school_district,zachary community school district
-ocd-division/country:us/state:la/county:east_carroll_parish/school_district:east_carroll_parish,east carroll parish
-ocd-division/country:us/state:la/county:east_feliciana_parish/school_district:east_feliciana_parish,east feliciana parish
-ocd-division/country:us/state:la/county:evangeline_parish/school_district:evangeline_parish,evangeline parish
-ocd-division/country:us/state:la/county:franklin_parish/school_district:franklin_parish,franklin parish
-ocd-division/country:us/state:la/county:grant_parish/school_district:grant_parish,grant parish
-ocd-division/country:us/state:la/county:iberia_parish/school_district:iberia_parish,iberia parish
-ocd-division/country:us/state:la/county:iberville_parish/school_district:iberville_parish,iberville parish
-ocd-division/country:us/state:la/county:jackson_parish/school_district:jackson_parish,jackson parish
-ocd-division/country:us/state:la/county:jefferson_davis_parish/school_district:jefferson_davis_parish,jefferson davis parish
-ocd-division/country:us/state:la/county:jefferson_parish/school_district:jefferson_parish,jefferson parish
-ocd-division/country:us/state:la/county:la_salle_parish/school_district:lasalle_parish,lasalle parish
-ocd-division/country:us/state:la/county:lafayette_parish/school_district:lafayette_parish,lafayette parish
-ocd-division/country:us/state:la/county:lafourche_parish/school_district:amikids_inc,amikids  inc
-ocd-division/country:us/state:la/county:lafourche_parish/school_district:lafourche_parish,lafourche parish
-ocd-division/country:us/state:la/county:lafourche_parish/school_district:the_max_charter_school,the max charter school
-ocd-division/country:us/state:la/county:lincoln_parish/school_district:a.e._phillips_laboratory_school,a.e. phillips laboratory school
-ocd-division/country:us/state:la/county:lincoln_parish/school_district:grambling_state_lab_schools,grambling state lab schools
-ocd-division/country:us/state:la/county:lincoln_parish/school_district:howard_school,howard school
-ocd-division/country:us/state:la/county:lincoln_parish/school_district:lincoln_parish,lincoln parish
-ocd-division/country:us/state:la/county:livingston_parish/school_district:livingston_parish,livingston parish
-ocd-division/country:us/state:la/county:madison_parish/school_district:madison_parish,madison parish
-ocd-division/country:us/state:la/county:morehouse_parish/school_district:morehouse_parish,morehouse parish
-ocd-division/country:us/state:la/county:natchitoches_parish/school_district:louisiana_school_for_math_science_and_the_arts,louisiana school for math science & the arts
-ocd-division/country:us/state:la/county:natchitoches_parish/school_district:natchitoches_parish,natchitoches parish
-ocd-division/country:us/state:la/county:orleans_parish/school_district:international_school_of_louisiana,international school of louisiana
-ocd-division/country:us/state:la/county:orleans_parish/school_district:milestone_sabis_academy_of_new_orleans,milestone sabis academy of new orleans
-ocd-division/country:us/state:la/county:orleans_parish/school_district:new_orleans_center_for_creative_arts,new orleans center for creative arts
-ocd-division/country:us/state:la/county:orleans_parish/school_district:orleans_parish,orleans parish
-ocd-division/country:us/state:la/county:orleans_parish/school_district:recovery_school_district-lde,recovery school district-lde
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-advocacy_for_science_and_math_education,rsd-advocacy for science and math education
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-advocacy_for_the_arts_and_tech_in_n.o._inc,rsd-advocacy for the arts & tech in n.o.  inc
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-akili_academy_of_new_orleans,rsd-akili academy of new orleans
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-algiers_charter_schools_association_acsa,rsd-algiers charter schools association (acsa)
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-arise_academy,rsd-arise academy
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-benjamin_e._mays_preparatory_school,rsd-benjamin e. mays preparatory school
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-broadmoor_charter_school_board,rsd-broadmoor charter school board
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-choice_foundation,rsd-choice foundation
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-dryades_ymca,rsd-dryades ymca
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-firstline_schools_inc,rsd-firstline schools  inc
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-friends_of_king,rsd-friends of king
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-intercultural_charter_school_board_inc,rsd-intercultural charter school board  inc
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-knowledge_is_power_program_kipp_n.o.,rsd-knowledge is power program (kipp) n.o.
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-lagniappe_academies_of_new_orleans,rsd-lagniappe academies of new orleans
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-miller-mccoy_academy_for_math_and_business,rsd-miller-mccoy academy for math and business
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-morris_jeff_community_school,rsd-morris jeff community school
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-new_orleans_charter_schools_foundation,rsd-new orleans charter schools foundation
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-new_orleans_college_preparatory_academies,rsd-new orleans college preparatory academies
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-nola_180,rsd-nola 180
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-pelican_educational_foundation,rsd-pelican educational foundation
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-pride_college_preparatory_academy,rsd-pride college preparatory academy
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-renew_schools,rsd-renew schools
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-sojourner_truth_academy_inc,rsd-sojourner truth academy  inc
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-spirit_of_excellence_academy,rsd-spirit of excellence academy
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-success_preparatory_academy,rsd-success preparatory academy
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-suno_institute_for_academic_excellence,rsd-suno institute for academic excellence
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-treme_charter_schools_association,rsd-treme charter schools association
-ocd-division/country:us/state:la/county:orleans_parish/school_district:rsd-uno_new_beginnings_schools_foundation,rsd-uno new beginnings schools foundation
-ocd-division/country:us/state:la/county:orleans_parish/school_district:voices_for_international_business_and_education,voices for international business & education
-ocd-division/country:us/state:la/county:ouachita_parish/school_district:city_of_monroe_school_district,city of monroe school district
-ocd-division/country:us/state:la/county:ouachita_parish/school_district:new_vision_learning_academy,new vision learning academy
-ocd-division/country:us/state:la/county:ouachita_parish/school_district:ouachita_parish,ouachita parish
-ocd-division/country:us/state:la/county:plaquemines_parish/school_district:belle_chasse_academy_inc,belle chasse academy  inc
-ocd-division/country:us/state:la/county:plaquemines_parish/school_district:plaquemines_parish,plaquemines parish
-ocd-division/country:us/state:la/county:pointe_coupee_parish/school_district:pointe_coupee_parish,pointe coupee parish
-ocd-division/country:us/state:la/county:rapides_parish/school_district:louisiana_special_education_center,louisiana special education center
-ocd-division/country:us/state:la/county:rapides_parish/school_district:rapides_parish,rapides parish
-ocd-division/country:us/state:la/county:red_river_parish/school_district:red_river_parish,red river parish
-ocd-division/country:us/state:la/county:richland_parish/school_district:delhi_charter_school,delhi charter school
-ocd-division/country:us/state:la/county:richland_parish/school_district:richland_parish,richland parish
-ocd-division/country:us/state:la/county:sabine_parish/school_district:sabine_parish,sabine parish
-ocd-division/country:us/state:la/county:st._bernard_parish/school_district:st._bernard_parish,st. bernard parish
-ocd-division/country:us/state:la/county:st._charles_parish/school_district:st._charles_parish,st. charles parish
-ocd-division/country:us/state:la/county:st._helena_parish/school_district:st._helena_parish,st. helena parish
-ocd-division/country:us/state:la/county:st._james_parish/school_district:st._james_parish,st. james parish
-ocd-division/country:us/state:la/county:st._john_the_baptist_parish/school_district:st._john_the_baptist_parish,st. john the baptist parish
-ocd-division/country:us/state:la/county:st._landry_parish/school_district:st._landry_parish,st. landry parish
-ocd-division/country:us/state:la/county:st._martin_parish/school_district:st._martin_parish,st. martin parish
-ocd-division/country:us/state:la/county:st._mary_parish/school_district:st._mary_parish,st. mary parish
-ocd-division/country:us/state:la/county:st._mary_parish/school_district:v._b._glencoe_charter_school,v. b. glencoe charter school
-ocd-division/country:us/state:la/county:st._tammany_parish/school_district:st._tammany_parish,st. tammany parish
-ocd-division/country:us/state:la/county:tangipahoa_parish/school_district:tangipahoa_parish,tangipahoa parish
-ocd-division/country:us/state:la/county:tensas_parish/school_district:tensas_parish,tensas parish
-ocd-division/country:us/state:la/county:terrebonne_parish/school_district:terrebonne_parish,terrebonne parish
-ocd-division/country:us/state:la/county:union_parish/school_district:d'arbonne_woods_charter_school,d'arbonne woods charter school
-ocd-division/country:us/state:la/county:union_parish/school_district:union_parish,union parish
-ocd-division/country:us/state:la/county:vermilion_parish/school_district:vermilion_parish,vermilion parish
-ocd-division/country:us/state:la/county:vernon_parish/school_district:vernon_parish,vernon parish
-ocd-division/country:us/state:la/county:washington_parish/school_district:city_of_bogalusa_school_district,city of bogalusa school district
-ocd-division/country:us/state:la/county:washington_parish/school_district:washington_parish,washington parish
-ocd-division/country:us/state:la/county:webster_parish/school_district:webster_parish,webster parish
-ocd-division/country:us/state:la/county:west_baton_rouge_parish/school_district:west_baton_rouge_parish,west baton rouge parish
-ocd-division/country:us/state:la/county:west_carroll_parish/school_district:west_carroll_parish,west carroll parish
-ocd-division/country:us/state:la/county:west_feliciana_parish/school_district:west_feliciana_parish,west feliciana parish
-ocd-division/country:us/state:la/county:winn_parish/school_district:winn_parish,winn parish
+ocd-division/country:us/state:la/parish:acadia/school_district:acadia_parish,acadia parish
+ocd-division/country:us/state:la/parish:allen/school_district:allen_parish,allen parish
+ocd-division/country:us/state:la/parish:ascension/school_district:ascension_parish,ascension parish
+ocd-division/country:us/state:la/parish:assumption/school_district:assumption_parish,assumption parish
+ocd-division/country:us/state:la/parish:avoyelles/school_district:avoyelles_parish,avoyelles parish
+ocd-division/country:us/state:la/parish:avoyelles/school_district:avoyelles_public_charter_school,avoyelles public charter school
+ocd-division/country:us/state:la/parish:beauregard/school_district:beauregard_parish,beauregard parish
+ocd-division/country:us/state:la/parish:bienville/school_district:bienville_parish,bienville parish
+ocd-division/country:us/state:la/parish:bossier/school_district:bossier_parish,bossier parish
+ocd-division/country:us/state:la/parish:caddo/school_district:caddo_parish,caddo parish
+ocd-division/country:us/state:la/parish:caddo/school_district:rsd-shreveport_charter_school_inc,rsd-shreveport charter school  inc
+ocd-division/country:us/state:la/parish:calcasieu/school_district:calcasieu_parish,calcasieu parish
+ocd-division/country:us/state:la/parish:caldwell/school_district:caldwell_parish,caldwell parish
+ocd-division/country:us/state:la/parish:cameron/school_district:cameron_parish,cameron parish
+ocd-division/country:us/state:la/parish:catahoula/school_district:catahoula_parish,catahoula parish
+ocd-division/country:us/state:la/parish:claiborne/school_district:claiborne_parish,claiborne parish
+ocd-division/country:us/state:la/parish:concordia/school_district:concordia_parish,concordia parish
+ocd-division/country:us/state:la/parish:de_soto/school_district:desoto_parish,desoto parish
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:central_community_school_district,central community school district
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:city_of_baker_school_district,city of baker school district
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:community_school_for_apprenticeship_learning_inc,community school for apprenticeship learning  inc
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:east_baton_rouge_parish,east baton rouge parish
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:la_schools_for_the_deaf_and_the_visually_impaired,la schools for the deaf and the visually impaired
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:lsu_laboratory_school,lsu laboratory school
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:office_of_juvenile_justice,office of juvenile justice
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:rsd-100_black_men_capitol_charter_initiative,rsd-100 black men capitol charter initiative
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:rsd-advance_baton_rouge,rsd-advance baton rouge
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:rsd-crestworth_learning_academy_inc,rsd-crestworth learning academy  inc
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:school_for_a_new_millennium_inc,school for a new millennium  inc
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:southern_university_lab_school,southern university lab school
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:special_school_district,special school district
+ocd-division/country:us/state:la/parish:east_baton_rouge/school_district:zachary_community_school_district,zachary community school district
+ocd-division/country:us/state:la/parish:east_carroll/school_district:east_carroll_parish,east carroll parish
+ocd-division/country:us/state:la/parish:east_feliciana/school_district:east_feliciana_parish,east feliciana parish
+ocd-division/country:us/state:la/parish:evangeline/school_district:evangeline_parish,evangeline parish
+ocd-division/country:us/state:la/parish:franklin/school_district:franklin_parish,franklin parish
+ocd-division/country:us/state:la/parish:grant/school_district:grant_parish,grant parish
+ocd-division/country:us/state:la/parish:iberia/school_district:iberia_parish,iberia parish
+ocd-division/country:us/state:la/parish:iberville/school_district:iberville_parish,iberville parish
+ocd-division/country:us/state:la/parish:jackson/school_district:jackson_parish,jackson parish
+ocd-division/country:us/state:la/parish:jefferson_davis/school_district:jefferson_davis_parish,jefferson davis parish
+ocd-division/country:us/state:la/parish:jefferson/school_district:jefferson_parish,jefferson parish
+ocd-division/country:us/state:la/parish:la_salle/school_district:lasalle_parish,lasalle parish
+ocd-division/country:us/state:la/parish:lafayette/school_district:lafayette_parish,lafayette parish
+ocd-division/country:us/state:la/parish:lafourche/school_district:amikids_inc,amikids  inc
+ocd-division/country:us/state:la/parish:lafourche/school_district:lafourche_parish,lafourche parish
+ocd-division/country:us/state:la/parish:lafourche/school_district:the_max_charter_school,the max charter school
+ocd-division/country:us/state:la/parish:lincoln/school_district:a.e._phillips_laboratory_school,a.e. phillips laboratory school
+ocd-division/country:us/state:la/parish:lincoln/school_district:grambling_state_lab_schools,grambling state lab schools
+ocd-division/country:us/state:la/parish:lincoln/school_district:howard_school,howard school
+ocd-division/country:us/state:la/parish:lincoln/school_district:lincoln_parish,lincoln parish
+ocd-division/country:us/state:la/parish:livingston/school_district:livingston_parish,livingston parish
+ocd-division/country:us/state:la/parish:madison/school_district:madison_parish,madison parish
+ocd-division/country:us/state:la/parish:morehouse/school_district:morehouse_parish,morehouse parish
+ocd-division/country:us/state:la/parish:natchitoches/school_district:louisiana_school_for_math_science_and_the_arts,louisiana school for math science & the arts
+ocd-division/country:us/state:la/parish:natchitoches/school_district:natchitoches_parish,natchitoches parish
+ocd-division/country:us/state:la/parish:orleans/school_district:international_school_of_louisiana,international school of louisiana
+ocd-division/country:us/state:la/parish:orleans/school_district:milestone_sabis_academy_of_new_orleans,milestone sabis academy of new orleans
+ocd-division/country:us/state:la/parish:orleans/school_district:new_orleans_center_for_creative_arts,new orleans center for creative arts
+ocd-division/country:us/state:la/parish:orleans/school_district:orleans_parish,orleans parish
+ocd-division/country:us/state:la/parish:orleans/school_district:recovery_school_district-lde,recovery school district-lde
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-advocacy_for_science_and_math_education,rsd-advocacy for science and math education
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-advocacy_for_the_arts_and_tech_in_n.o._inc,rsd-advocacy for the arts & tech in n.o.  inc
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-akili_academy_of_new_orleans,rsd-akili academy of new orleans
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-algiers_charter_schools_association_acsa,rsd-algiers charter schools association (acsa)
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-arise_academy,rsd-arise academy
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-benjamin_e._mays_preparatory_school,rsd-benjamin e. mays preparatory school
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-broadmoor_charter_school_board,rsd-broadmoor charter school board
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-choice_foundation,rsd-choice foundation
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-dryades_ymca,rsd-dryades ymca
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-firstline_schools_inc,rsd-firstline schools  inc
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-friends_of_king,rsd-friends of king
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-intercultural_charter_school_board_inc,rsd-intercultural charter school board  inc
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-knowledge_is_power_program_kipp_n.o.,rsd-knowledge is power program (kipp) n.o.
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-lagniappe_academies_of_new_orleans,rsd-lagniappe academies of new orleans
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-miller-mccoy_academy_for_math_and_business,rsd-miller-mccoy academy for math and business
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-morris_jeff_community_school,rsd-morris jeff community school
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-new_orleans_charter_schools_foundation,rsd-new orleans charter schools foundation
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-new_orleans_college_preparatory_academies,rsd-new orleans college preparatory academies
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-nola_180,rsd-nola 180
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-pelican_educational_foundation,rsd-pelican educational foundation
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-pride_college_preparatory_academy,rsd-pride college preparatory academy
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-renew_schools,rsd-renew schools
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-sojourner_truth_academy_inc,rsd-sojourner truth academy  inc
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-spirit_of_excellence_academy,rsd-spirit of excellence academy
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-success_preparatory_academy,rsd-success preparatory academy
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-suno_institute_for_academic_excellence,rsd-suno institute for academic excellence
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-treme_charter_schools_association,rsd-treme charter schools association
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-uno_new_beginnings_schools_foundation,rsd-uno new beginnings schools foundation
+ocd-division/country:us/state:la/parish:orleans/school_district:voices_for_international_business_and_education,voices for international business & education
+ocd-division/country:us/state:la/parish:ouachita/school_district:city_of_monroe_school_district,city of monroe school district
+ocd-division/country:us/state:la/parish:ouachita/school_district:new_vision_learning_academy,new vision learning academy
+ocd-division/country:us/state:la/parish:ouachita/school_district:ouachita_parish,ouachita parish
+ocd-division/country:us/state:la/parish:plaquemines/school_district:belle_chasse_academy_inc,belle chasse academy  inc
+ocd-division/country:us/state:la/parish:plaquemines/school_district:plaquemines_parish,plaquemines parish
+ocd-division/country:us/state:la/parish:pointe_coupee/school_district:pointe_coupee_parish,pointe coupee parish
+ocd-division/country:us/state:la/parish:rapides/school_district:louisiana_special_education_center,louisiana special education center
+ocd-division/country:us/state:la/parish:rapides/school_district:rapides_parish,rapides parish
+ocd-division/country:us/state:la/parish:red_river/school_district:red_river_parish,red river parish
+ocd-division/country:us/state:la/parish:richland/school_district:delhi_charter_school,delhi charter school
+ocd-division/country:us/state:la/parish:richland/school_district:richland_parish,richland parish
+ocd-division/country:us/state:la/parish:sabine/school_district:sabine_parish,sabine parish
+ocd-division/country:us/state:la/parish:st_bernard/school_district:st._bernard_parish,st. bernard parish
+ocd-division/country:us/state:la/parish:st_charles/school_district:st._charles_parish,st. charles parish
+ocd-division/country:us/state:la/parish:st_helena/school_district:st._helena_parish,st. helena parish
+ocd-division/country:us/state:la/parish:st_james/school_district:st._james_parish,st. james parish
+ocd-division/country:us/state:la/parish:st_john_the_baptist/school_district:st._john_the_baptist_parish,st. john the baptist parish
+ocd-division/country:us/state:la/parish:st_landry/school_district:st._landry_parish,st. landry parish
+ocd-division/country:us/state:la/parish:st_martin/school_district:st._martin_parish,st. martin parish
+ocd-division/country:us/state:la/parish:st_mary/school_district:st._mary_parish,st. mary parish
+ocd-division/country:us/state:la/parish:st_mary/school_district:v._b._glencoe_charter_school,v. b. glencoe charter school
+ocd-division/country:us/state:la/parish:st_tammany/school_district:st._tammany_parish,st. tammany parish
+ocd-division/country:us/state:la/parish:tangipahoa/school_district:tangipahoa_parish,tangipahoa parish
+ocd-division/country:us/state:la/parish:tensas/school_district:tensas_parish,tensas parish
+ocd-division/country:us/state:la/parish:terrebonne/school_district:terrebonne_parish,terrebonne parish
+ocd-division/country:us/state:la/parish:union/school_district:d~arbonne_woods_charter_school,d'arbonne woods charter school
+ocd-division/country:us/state:la/parish:union/school_district:union_parish,union parish
+ocd-division/country:us/state:la/parish:vermilion/school_district:vermilion_parish,vermilion parish
+ocd-division/country:us/state:la/parish:vernon/school_district:vernon_parish,vernon parish
+ocd-division/country:us/state:la/parish:washington/school_district:city_of_bogalusa_school_district,city of bogalusa school district
+ocd-division/country:us/state:la/parish:washington/school_district:washington_parish,washington parish
+ocd-division/country:us/state:la/parish:webster/school_district:webster_parish,webster parish
+ocd-division/country:us/state:la/parish:west_baton_rouge/school_district:west_baton_rouge_parish,west baton rouge parish
+ocd-division/country:us/state:la/parish:west_carroll/school_district:west_carroll_parish,west carroll parish
+ocd-division/country:us/state:la/parish:west_feliciana/school_district:west_feliciana_parish,west feliciana parish
+ocd-division/country:us/state:la/parish:winn/school_district:winn_parish,winn parish
 ocd-division/country:us/state:ma/county:barnstable/school_district:barnstable,barnstable
 ocd-division/country:us/state:ma/county:barnstable/school_district:barnstable_community_horace_mann_charter_public_district,barnstable community horace mann charter public (district)
 ocd-division/country:us/state:ma/county:barnstable/school_district:barnstable_horace_mann_charter_district,barnstable horace mann charter (district)
@@ -5557,7 +5557,7 @@ ocd-division/country:us/state:ma/county:bristol/school_district:swansea,swansea
 ocd-division/country:us/state:ma/county:bristol/school_district:taunton,taunton
 ocd-division/country:us/state:ma/county:bristol/school_district:westport,westport
 ocd-division/country:us/state:ma/county:dukes/school_district:edgartown,edgartown
-ocd-division/country:us/state:ma/county:dukes/school_district:martha's_vineyard_charter_district,martha's vineyard charter (district)
+ocd-division/country:us/state:ma/county:dukes/school_district:martha~s_vineyard_charter_district,martha's vineyard charter (district)
 ocd-division/country:us/state:ma/county:dukes/school_district:marthas_vineyard,marthas vineyard
 ocd-division/country:us/state:ma/county:dukes/school_district:oak_bluffs,oak bluffs
 ocd-division/country:us/state:ma/county:dukes/school_district:tisbury,tisbury
@@ -5887,8 +5887,8 @@ ocd-division/country:us/state:ma/county:worcester/school_district:winchendon,win
 ocd-division/country:us/state:ma/county:worcester/school_district:worcester,worcester
 ocd-division/country:us/state:md/county:allegany/school_district:allegany_county_public_schools,allegany county public schools
 ocd-division/country:us/state:md/county:anne_arundel/school_district:anne_arundel_county_public_schools,anne arundel county public schools
-ocd-division/country:us/state:md/county:baltimore_city/school_district:baltimore_city_public_schools,baltimore city public schools
-ocd-division/country:us/state:md/county:baltimore_city/school_district:seed_school_of_maryland,seed school of maryland
+ocd-division/country:us/state:md/place:baltimore/school_district:baltimore_city_public_schools,baltimore city public schools
+ocd-division/country:us/state:md/place:baltimore/school_district:seed_school_of_maryland,seed school of maryland
 ocd-division/country:us/state:md/county:baltimore/school_district:baltimore_county_public_schools,baltimore county public schools
 ocd-division/country:us/state:md/county:calvert/school_district:calvert_county_public_schools,calvert county public schools
 ocd-division/country:us/state:md/county:caroline/school_district:caroline_county_public_schools,caroline county public schools
@@ -5902,10 +5902,10 @@ ocd-division/country:us/state:md/county:harford/school_district:harford_county_p
 ocd-division/country:us/state:md/county:howard/school_district:howard_county_public_schools,howard county public schools
 ocd-division/country:us/state:md/county:kent/school_district:kent_county_public_schools,kent county public schools
 ocd-division/country:us/state:md/county:montgomery/school_district:montgomery_county_public_schools,montgomery county public schools
-ocd-division/country:us/state:md/county:prince_george's/school_district:prince_george's_county_public_schools,prince george's county public schools
-ocd-division/country:us/state:md/county:queen_anne's/school_district:queen_anne's_county_public_schools,queen anne's county public schools
+ocd-division/country:us/state:md/county:prince_george~s/school_district:prince_george~s_county_public_schools,prince george's county public schools
+ocd-division/country:us/state:md/county:queen_anne~s/school_district:queen_anne~s_county_public_schools,queen anne's county public schools
 ocd-division/country:us/state:md/county:somerset/school_district:somerset_county_public_schools,somerset county public schools
-ocd-division/country:us/state:md/county:st._mary's/school_district:st._mary's_county_public_schools,st. mary's county public schools
+ocd-division/country:us/state:md/county:st_mary~s/school_district:st._mary~s_county_public_schools,st. mary's county public schools
 ocd-division/country:us/state:md/county:talbot/school_district:talbot_county_public_schools,talbot county public schools
 ocd-division/country:us/state:md/county:washington/school_district:washington_county_public_schools,washington county public schools
 ocd-division/country:us/state:md/county:wicomico/school_district:wicomico_county_public_schools,wicomico county public schools
@@ -6188,7 +6188,7 @@ ocd-division/country:us/state:mi/county:arenac/school_district:au_gres-sims_scho
 ocd-division/country:us/state:mi/county:arenac/school_district:standish-sterling_community_schools,standish-sterling community schools
 ocd-division/country:us/state:mi/county:baraga/school_district:arvon_township_school_district,arvon township school district
 ocd-division/country:us/state:mi/county:baraga/school_district:baraga_area_schools,baraga area schools
-ocd-division/country:us/state:mi/county:baraga/school_district:l'anse_area_schools,l'anse area schools
+ocd-division/country:us/state:mi/county:baraga/school_district:l~anse_area_schools,l'anse area schools
 ocd-division/country:us/state:mi/county:barry/school_district:barry_isd,barry isd
 ocd-division/country:us/state:mi/county:barry/school_district:delton-kellogg_school_district,delton-kellogg school district
 ocd-division/country:us/state:mi/county:barry/school_district:hastings_area_school_district,hastings area school district
@@ -6578,7 +6578,7 @@ ocd-division/country:us/state:mi/county:macomb/school_district:fraser_public_sch
 ocd-division/country:us/state:mi/county:macomb/school_district:global_preparatory_academy,global preparatory academy
 ocd-division/country:us/state:mi/county:macomb/school_district:great_oaks_academy,great oaks academy
 ocd-division/country:us/state:mi/county:macomb/school_district:huron_academy,huron academy
-ocd-division/country:us/state:mi/county:macomb/school_district:l'anse_creuse_public_schools,l'anse creuse public schools
+ocd-division/country:us/state:mi/county:macomb/school_district:l~anse_creuse_public_schools,l'anse creuse public schools
 ocd-division/country:us/state:mi/county:macomb/school_district:lake_shore_public_schools_macomb,lake shore public schools (macomb)
 ocd-division/country:us/state:mi/county:macomb/school_district:lakeview_public_schools_macomb,lakeview public schools (macomb)
 ocd-division/country:us/state:mi/county:macomb/school_district:macomb_academy,macomb academy
@@ -6809,36 +6809,36 @@ ocd-division/country:us/state:mi/county:shiawassee/school_district:new_lothrop_a
 ocd-division/country:us/state:mi/county:shiawassee/school_district:owosso_public_schools,owosso public schools
 ocd-division/country:us/state:mi/county:shiawassee/school_district:perry_public_school_district,perry public school district
 ocd-division/country:us/state:mi/county:shiawassee/school_district:shiawassee_regional_esd,shiawassee regional esd
-ocd-division/country:us/state:mi/county:st._clair/school_district:academic_transitional_academy,academic transitional academy
-ocd-division/country:us/state:mi/county:st._clair/school_district:algonac_community_school_district,algonac community school district
-ocd-division/country:us/state:mi/county:st._clair/school_district:anchor_bay_school_district,anchor bay school district
-ocd-division/country:us/state:mi/county:st._clair/school_district:blue_water_learning_academy,blue water learning academy
-ocd-division/country:us/state:mi/county:st._clair/school_district:capac_community_school_district,capac community school district
-ocd-division/country:us/state:mi/county:st._clair/school_district:east_china_school_district,east china school district
-ocd-division/country:us/state:mi/county:st._clair/school_district:health_careers_academy_of_st._clair_county,health careers academy of st. clair county
-ocd-division/country:us/state:mi/county:st._clair/school_district:hospitality_academy_of_st._clair_county,hospitality academy of st. clair county
-ocd-division/country:us/state:mi/county:st._clair/school_district:industrial_technology_academy,industrial technology academy
-ocd-division/country:us/state:mi/county:st._clair/school_district:information_technology_academy_of_st._clair,information technology academy of st. clair
-ocd-division/country:us/state:mi/county:st._clair/school_district:landmark_academy,landmark academy
-ocd-division/country:us/state:mi/county:st._clair/school_district:marysville_public_schools,marysville public schools
-ocd-division/country:us/state:mi/county:st._clair/school_district:port_huron_area_school_district,port huron area school district
-ocd-division/country:us/state:mi/county:st._clair/school_district:st_clair_co._academy_of_style,st clair co. academy of style
-ocd-division/country:us/state:mi/county:st._clair/school_district:st._clair_county_career_prep_academy,st. clair county career prep academy
-ocd-division/country:us/state:mi/county:st._clair/school_district:st._clair_county_intervention_academy,st. clair county intervention academy
-ocd-division/country:us/state:mi/county:st._clair/school_district:st._clair_county_learning_academy,st. clair county learning academy
-ocd-division/country:us/state:mi/county:st._clair/school_district:st._clair_county_resa,st. clair county resa
-ocd-division/country:us/state:mi/county:st._clair/school_district:virtual_learning_academy_of_st._clair_county,virtual learning academy of st. clair county
-ocd-division/country:us/state:mi/county:st._clair/school_district:yale_public_schools,yale public schools
-ocd-division/country:us/state:mi/county:st._joseph/school_district:burr_oak_community_school_district,burr oak community school district
-ocd-division/country:us/state:mi/county:st._joseph/school_district:centreville_public_schools,centreville public schools
-ocd-division/country:us/state:mi/county:st._joseph/school_district:colon_community_school_district,colon community school district
-ocd-division/country:us/state:mi/county:st._joseph/school_district:constantine_public_school_district,constantine public school district
-ocd-division/country:us/state:mi/county:st._joseph/school_district:mendon_community_school_district,mendon community school district
-ocd-division/country:us/state:mi/county:st._joseph/school_district:nottawa_community_school,nottawa community school
-ocd-division/country:us/state:mi/county:st._joseph/school_district:st._joseph_county_isd,st. joseph county isd
-ocd-division/country:us/state:mi/county:st._joseph/school_district:sturgis_public_schools,sturgis public schools
-ocd-division/country:us/state:mi/county:st._joseph/school_district:three_rivers_community_schools,three rivers community schools
-ocd-division/country:us/state:mi/county:st._joseph/school_district:white_pigeon_community_schools,white pigeon community schools
+ocd-division/country:us/state:mi/county:st_clair/school_district:academic_transitional_academy,academic transitional academy
+ocd-division/country:us/state:mi/county:st_clair/school_district:algonac_community_school_district,algonac community school district
+ocd-division/country:us/state:mi/county:st_clair/school_district:anchor_bay_school_district,anchor bay school district
+ocd-division/country:us/state:mi/county:st_clair/school_district:blue_water_learning_academy,blue water learning academy
+ocd-division/country:us/state:mi/county:st_clair/school_district:capac_community_school_district,capac community school district
+ocd-division/country:us/state:mi/county:st_clair/school_district:east_china_school_district,east china school district
+ocd-division/country:us/state:mi/county:st_clair/school_district:health_careers_academy_of_st._clair_county,health careers academy of st. clair county
+ocd-division/country:us/state:mi/county:st_clair/school_district:hospitality_academy_of_st._clair_county,hospitality academy of st. clair county
+ocd-division/country:us/state:mi/county:st_clair/school_district:industrial_technology_academy,industrial technology academy
+ocd-division/country:us/state:mi/county:st_clair/school_district:information_technology_academy_of_st._clair,information technology academy of st. clair
+ocd-division/country:us/state:mi/county:st_clair/school_district:landmark_academy,landmark academy
+ocd-division/country:us/state:mi/county:st_clair/school_district:marysville_public_schools,marysville public schools
+ocd-division/country:us/state:mi/county:st_clair/school_district:port_huron_area_school_district,port huron area school district
+ocd-division/country:us/state:mi/county:st_clair/school_district:st_clair_co._academy_of_style,st clair co. academy of style
+ocd-division/country:us/state:mi/county:st_clair/school_district:st._clair_county_career_prep_academy,st. clair county career prep academy
+ocd-division/country:us/state:mi/county:st_clair/school_district:st._clair_county_intervention_academy,st. clair county intervention academy
+ocd-division/country:us/state:mi/county:st_clair/school_district:st._clair_county_learning_academy,st. clair county learning academy
+ocd-division/country:us/state:mi/county:st_clair/school_district:st._clair_county_resa,st. clair county resa
+ocd-division/country:us/state:mi/county:st_clair/school_district:virtual_learning_academy_of_st._clair_county,virtual learning academy of st. clair county
+ocd-division/country:us/state:mi/county:st_clair/school_district:yale_public_schools,yale public schools
+ocd-division/country:us/state:mi/county:st_joseph/school_district:burr_oak_community_school_district,burr oak community school district
+ocd-division/country:us/state:mi/county:st_joseph/school_district:centreville_public_schools,centreville public schools
+ocd-division/country:us/state:mi/county:st_joseph/school_district:colon_community_school_district,colon community school district
+ocd-division/country:us/state:mi/county:st_joseph/school_district:constantine_public_school_district,constantine public school district
+ocd-division/country:us/state:mi/county:st_joseph/school_district:mendon_community_school_district,mendon community school district
+ocd-division/country:us/state:mi/county:st_joseph/school_district:nottawa_community_school,nottawa community school
+ocd-division/country:us/state:mi/county:st_joseph/school_district:st._joseph_county_isd,st. joseph county isd
+ocd-division/country:us/state:mi/county:st_joseph/school_district:sturgis_public_schools,sturgis public schools
+ocd-division/country:us/state:mi/county:st_joseph/school_district:three_rivers_community_schools,three rivers community schools
+ocd-division/country:us/state:mi/county:st_joseph/school_district:white_pigeon_community_schools,white pigeon community schools
 ocd-division/country:us/state:mi/county:tuscola/school_district:akron-fairgrove_schools,akron-fairgrove schools
 ocd-division/country:us/state:mi/county:tuscola/school_district:caro_community_schools,caro community schools
 ocd-division/country:us/state:mi/county:tuscola/school_district:cass_city_public_schools,cass city public schools
@@ -7390,7 +7390,7 @@ ocd-division/country:us/state:mn/county:ramsey/school_district:mounds_view_publi
 ocd-division/country:us/state:mn/county:ramsey/school_district:n.e._metro_intermediate_dist_916,n.e. metro intermediate dist 916
 ocd-division/country:us/state:mn/county:ramsey/school_district:north_st_paul-maplewood_school_dist,north st paul-maplewood school dist
 ocd-division/country:us/state:mn/county:ramsey/school_district:nova_classical_academy,nova classical academy
-ocd-division/country:us/state:mn/county:ramsey/school_district:river's_edge_academy,river's edge academy
+ocd-division/country:us/state:mn/county:ramsey/school_district:river~s_edge_academy,river's edge academy
 ocd-division/country:us/state:mn/county:ramsey/school_district:roseville_public_school_district,roseville public school district
 ocd-division/country:us/state:mn/county:ramsey/school_district:st_paul_conservatory_performing_art,st paul conservatory performing art
 ocd-division/country:us/state:mn/county:ramsey/school_district:st._paul_city_school,st. paul city school
@@ -7442,27 +7442,27 @@ ocd-division/country:us/state:mn/county:sibley/school_district:g.f.w.,g.f.w.
 ocd-division/country:us/state:mn/county:sibley/school_district:green_isle_community_school,green isle community school
 ocd-division/country:us/state:mn/county:sibley/school_district:minnesota_new_country_school,minnesota new country school
 ocd-division/country:us/state:mn/county:sibley/school_district:sibley_east_school_district,sibley east school district
-ocd-division/country:us/state:mn/county:st._louis/school_district:chisholm_public_school_district,chisholm public school district
-ocd-division/country:us/state:mn/county:st._louis/school_district:duluth_public_school_district,duluth public school district
-ocd-division/country:us/state:mn/county:st._louis/school_district:duluth_public_schools_academy,duluth public schools academy
-ocd-division/country:us/state:mn/county:st._louis/school_district:east_range_academy_of_techandscience,east range academy of tech&science
-ocd-division/country:us/state:mn/county:st._louis/school_district:east_range_sec._technical_center,east range sec. technical center
-ocd-division/country:us/state:mn/county:st._louis/school_district:ely_public_school_district,ely public school district
-ocd-division/country:us/state:mn/county:st._louis/school_district:eveleth-gilbert_school_district,eveleth-gilbert school district
-ocd-division/country:us/state:mn/county:st._louis/school_district:floodwood_public_school_district,floodwood public school district
-ocd-division/country:us/state:mn/county:st._louis/school_district:harbor_city_international_charter,harbor city international charter
-ocd-division/country:us/state:mn/county:st._louis/school_district:hermantown_public_school_district,hermantown public school district
-ocd-division/country:us/state:mn/county:st._louis/school_district:hibbing_public_school_district,hibbing public school district
-ocd-division/country:us/state:mn/county:st._louis/school_district:lake_superior_high_school,lake superior high school
-ocd-division/country:us/state:mn/county:st._louis/school_district:mesabi_east_school_district,mesabi east school district
-ocd-division/country:us/state:mn/county:st._louis/school_district:mountain_iron-buhl_school_district,mountain iron-buhl school district
-ocd-division/country:us/state:mn/county:st._louis/school_district:nett_lake_public_school_district,nett lake public school district
-ocd-division/country:us/state:mn/county:st._louis/school_district:north_shore_community_school,north shore community school
-ocd-division/country:us/state:mn/county:st._louis/school_district:northland_learning_center,northland learning center
-ocd-division/country:us/state:mn/county:st._louis/school_district:proctor_public_school_district,proctor public school district
-ocd-division/country:us/state:mn/county:st._louis/school_district:region_3_-_northeast_service_coop,region 3 - northeast service coop
-ocd-division/country:us/state:mn/county:st._louis/school_district:st._louis_county_school_district,st. louis county school district
-ocd-division/country:us/state:mn/county:st._louis/school_district:virginia_public_school_district,virginia public school district
+ocd-division/country:us/state:mn/county:st_louis/school_district:chisholm_public_school_district,chisholm public school district
+ocd-division/country:us/state:mn/county:st_louis/school_district:duluth_public_school_district,duluth public school district
+ocd-division/country:us/state:mn/county:st_louis/school_district:duluth_public_schools_academy,duluth public schools academy
+ocd-division/country:us/state:mn/county:st_louis/school_district:east_range_academy_of_techandscience,east range academy of tech&science
+ocd-division/country:us/state:mn/county:st_louis/school_district:east_range_sec._technical_center,east range sec. technical center
+ocd-division/country:us/state:mn/county:st_louis/school_district:ely_public_school_district,ely public school district
+ocd-division/country:us/state:mn/county:st_louis/school_district:eveleth-gilbert_school_district,eveleth-gilbert school district
+ocd-division/country:us/state:mn/county:st_louis/school_district:floodwood_public_school_district,floodwood public school district
+ocd-division/country:us/state:mn/county:st_louis/school_district:harbor_city_international_charter,harbor city international charter
+ocd-division/country:us/state:mn/county:st_louis/school_district:hermantown_public_school_district,hermantown public school district
+ocd-division/country:us/state:mn/county:st_louis/school_district:hibbing_public_school_district,hibbing public school district
+ocd-division/country:us/state:mn/county:st_louis/school_district:lake_superior_high_school,lake superior high school
+ocd-division/country:us/state:mn/county:st_louis/school_district:mesabi_east_school_district,mesabi east school district
+ocd-division/country:us/state:mn/county:st_louis/school_district:mountain_iron-buhl_school_district,mountain iron-buhl school district
+ocd-division/country:us/state:mn/county:st_louis/school_district:nett_lake_public_school_district,nett lake public school district
+ocd-division/country:us/state:mn/county:st_louis/school_district:north_shore_community_school,north shore community school
+ocd-division/country:us/state:mn/county:st_louis/school_district:northland_learning_center,northland learning center
+ocd-division/country:us/state:mn/county:st_louis/school_district:proctor_public_school_district,proctor public school district
+ocd-division/country:us/state:mn/county:st_louis/school_district:region_3_-_northeast_service_coop,region 3 - northeast service coop
+ocd-division/country:us/state:mn/county:st_louis/school_district:st._louis_county_school_district,st. louis county school district
+ocd-division/country:us/state:mn/county:st_louis/school_district:virginia_public_school_district,virginia public school district
 ocd-division/country:us/state:mn/county:stearns/school_district:albany_public_school_district,albany public school district
 ocd-division/country:us/state:mn/county:stearns/school_district:belgrade-brooten-elrosa_school_dist,belgrade-brooten-elrosa school dist
 ocd-division/country:us/state:mn/county:stearns/school_district:benton-stearns_ed._district,benton-stearns ed. district
@@ -7795,7 +7795,7 @@ ocd-division/country:us/state:mo/county:jackson/school_district:independence_30,
 ocd-division/country:us/state:mo/county:jackson/school_district:kansas_city_33,kansas city 33
 ocd-division/country:us/state:mo/county:jackson/school_district:kipp:_endeavor_academy,kipp: endeavor academy
 ocd-division/country:us/state:mo/county:jackson/school_district:lee_a._tolbert_com._academy,lee a. tolbert com. academy
-ocd-division/country:us/state:mo/county:jackson/school_district:lee's_summit_r-vii,lee's summit r-vii
+ocd-division/country:us/state:mo/county:jackson/school_district:lee~s_summit_r-vii,lee's summit r-vii
 ocd-division/country:us/state:mo/county:jackson/school_district:lone_jack_c-6,lone jack c-6
 ocd-division/country:us/state:mo/county:jackson/school_district:oak_grove_r-vi,oak grove r-vi
 ocd-division/country:us/state:mo/county:jackson/school_district:pathway_academy,pathway academy
@@ -8011,61 +8011,61 @@ ocd-division/country:us/state:mo/county:shannon/school_district:mountain_view-bi
 ocd-division/country:us/state:mo/county:shannon/school_district:winona_r-iii,winona r-iii
 ocd-division/country:us/state:mo/county:shelby/school_district:north_shelby,north shelby
 ocd-division/country:us/state:mo/county:shelby/school_district:shelby_co._r-iv,shelby co. r-iv
-ocd-division/country:us/state:mo/county:st._charles/school_district:francis_howell_r-iii,francis howell r-iii
-ocd-division/country:us/state:mo/county:st._charles/school_district:ft._zumwalt_r-ii,ft. zumwalt r-ii
-ocd-division/country:us/state:mo/county:st._charles/school_district:orchard_farm_r-v,orchard farm r-v
-ocd-division/country:us/state:mo/county:st._charles/school_district:st._charles_r-vi,st. charles r-vi
-ocd-division/country:us/state:mo/county:st._charles/school_district:wentzville_r-iv,wentzville r-iv
-ocd-division/country:us/state:mo/county:st._clair/school_district:appleton_city_r-ii,appleton city r-ii
-ocd-division/country:us/state:mo/county:st._clair/school_district:hudson_r-ix,hudson r-ix
-ocd-division/country:us/state:mo/county:st._clair/school_district:osceola,osceola
-ocd-division/country:us/state:mo/county:st._clair/school_district:roscoe_c-1,roscoe c-1
-ocd-division/country:us/state:mo/county:st._francois/school_district:bismarck_r-v,bismarck r-v
-ocd-division/country:us/state:mo/county:st._francois/school_district:central_r-iii,central r-iii
-ocd-division/country:us/state:mo/county:st._francois/school_district:farmington_r-vii,farmington r-vii
-ocd-division/country:us/state:mo/county:st._francois/school_district:north_st._francois_co._r-i,north st. francois co. r-i
-ocd-division/country:us/state:mo/county:st._francois/school_district:west_st._francois_co._r-iv,west st. francois co. r-iv
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:carondelet_leadership_academy,carondelet leadership academy
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:city_garden_montessori,city garden montessori
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:confluence_academies,confluence academies
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:construction_careers_center,construction careers center
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:gateway_science_acad~st_louis,gateway science acad/st louis
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:grand_center_arts_academy,grand center arts academy
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:imagine_acad._academic_success,imagine acad. academic success
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:imagine_academy_es_and_math,imagine academy es and math
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:imagine_academy_of_careers,imagine academy of careers
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:kipp_st_louis,kipp st louis
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:lift_for_life_academy,lift for life academy
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:mo_school_for_the_blind,mo school for the blind
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:north_side_community_school,north side community school
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:shearwater_education_foundatn,shearwater education foundatn
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:st_louis_lang_immersion_school,st louis lang immersion school
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:st._louis_charter_school,st. louis charter school
-ocd-division/country:us/state:mo/county:st._louis_city/school_district:st._louis_city,st. louis city
-ocd-division/country:us/state:mo/county:st._louis/school_district:affton_101,affton 101
-ocd-division/country:us/state:mo/county:st._louis/school_district:bayless,bayless
-ocd-division/country:us/state:mo/county:st._louis/school_district:brentwood,brentwood
-ocd-division/country:us/state:mo/county:st._louis/school_district:clayton,clayton
-ocd-division/country:us/state:mo/county:st._louis/school_district:ferguson-florissant_r-ii,ferguson-florissant r-ii
-ocd-division/country:us/state:mo/county:st._louis/school_district:hancock_place,hancock place
-ocd-division/country:us/state:mo/county:st._louis/school_district:hazelwood,hazelwood
-ocd-division/country:us/state:mo/county:st._louis/school_district:jennings,jennings
-ocd-division/country:us/state:mo/county:st._louis/school_district:kirkwood_r-vii,kirkwood r-vii
-ocd-division/country:us/state:mo/county:st._louis/school_district:ladue,ladue
-ocd-division/country:us/state:mo/county:st._louis/school_district:lindbergh_schools,lindbergh schools
-ocd-division/country:us/state:mo/county:st._louis/school_district:maplewood-richmond_heights,maplewood-richmond heights
-ocd-division/country:us/state:mo/county:st._louis/school_district:mehlville_r-ix,mehlville r-ix
-ocd-division/country:us/state:mo/county:st._louis/school_district:normandy,normandy
-ocd-division/country:us/state:mo/county:st._louis/school_district:parkway_c-2,parkway c-2
-ocd-division/country:us/state:mo/county:st._louis/school_district:pattonville_r-iii,pattonville r-iii
-ocd-division/country:us/state:mo/county:st._louis/school_district:ritenour,ritenour
-ocd-division/country:us/state:mo/county:st._louis/school_district:riverview_gardens,riverview gardens
-ocd-division/country:us/state:mo/county:st._louis/school_district:rockwood_r-vi,rockwood r-vi
-ocd-division/country:us/state:mo/county:st._louis/school_district:specl._sch._dst._st._louis_co.,specl. sch. dst. st. louis co.
-ocd-division/country:us/state:mo/county:st._louis/school_district:university_city,university city
-ocd-division/country:us/state:mo/county:st._louis/school_district:valley_park,valley park
-ocd-division/country:us/state:mo/county:st._louis/school_district:webster_groves,webster groves
-ocd-division/country:us/state:mo/county:ste._genevieve/school_district:ste._genevieve_co._r-ii,ste. genevieve co. r-ii
+ocd-division/country:us/state:mo/county:st_charles/school_district:francis_howell_r-iii,francis howell r-iii
+ocd-division/country:us/state:mo/county:st_charles/school_district:ft._zumwalt_r-ii,ft. zumwalt r-ii
+ocd-division/country:us/state:mo/county:st_charles/school_district:orchard_farm_r-v,orchard farm r-v
+ocd-division/country:us/state:mo/county:st_charles/school_district:st._charles_r-vi,st. charles r-vi
+ocd-division/country:us/state:mo/county:st_charles/school_district:wentzville_r-iv,wentzville r-iv
+ocd-division/country:us/state:mo/county:st_clair/school_district:appleton_city_r-ii,appleton city r-ii
+ocd-division/country:us/state:mo/county:st_clair/school_district:hudson_r-ix,hudson r-ix
+ocd-division/country:us/state:mo/county:st_clair/school_district:osceola,osceola
+ocd-division/country:us/state:mo/county:st_clair/school_district:roscoe_c-1,roscoe c-1
+ocd-division/country:us/state:mo/county:st_francois/school_district:bismarck_r-v,bismarck r-v
+ocd-division/country:us/state:mo/county:st_francois/school_district:central_r-iii,central r-iii
+ocd-division/country:us/state:mo/county:st_francois/school_district:farmington_r-vii,farmington r-vii
+ocd-division/country:us/state:mo/county:st_francois/school_district:north_st._francois_co._r-i,north st. francois co. r-i
+ocd-division/country:us/state:mo/county:st_francois/school_district:west_st._francois_co._r-iv,west st. francois co. r-iv
+ocd-division/country:us/state:mo/place:st_louis/school_district:carondelet_leadership_academy,carondelet leadership academy
+ocd-division/country:us/state:mo/place:st_louis/school_district:city_garden_montessori,city garden montessori
+ocd-division/country:us/state:mo/place:st_louis/school_district:confluence_academies,confluence academies
+ocd-division/country:us/state:mo/place:st_louis/school_district:construction_careers_center,construction careers center
+ocd-division/country:us/state:mo/place:st_louis/school_district:gateway_science_acad~st_louis,gateway science acad/st louis
+ocd-division/country:us/state:mo/place:st_louis/school_district:grand_center_arts_academy,grand center arts academy
+ocd-division/country:us/state:mo/place:st_louis/school_district:imagine_acad._academic_success,imagine acad. academic success
+ocd-division/country:us/state:mo/place:st_louis/school_district:imagine_academy_es_and_math,imagine academy es and math
+ocd-division/country:us/state:mo/place:st_louis/school_district:imagine_academy_of_careers,imagine academy of careers
+ocd-division/country:us/state:mo/place:st_louis/school_district:kipp_st_louis,kipp st louis
+ocd-division/country:us/state:mo/place:st_louis/school_district:lift_for_life_academy,lift for life academy
+ocd-division/country:us/state:mo/place:st_louis/school_district:mo_school_for_the_blind,mo school for the blind
+ocd-division/country:us/state:mo/place:st_louis/school_district:north_side_community_school,north side community school
+ocd-division/country:us/state:mo/place:st_louis/school_district:shearwater_education_foundatn,shearwater education foundatn
+ocd-division/country:us/state:mo/place:st_louis/school_district:st_louis_lang_immersion_school,st louis lang immersion school
+ocd-division/country:us/state:mo/place:st_louis/school_district:st._louis_charter_school,st. louis charter school
+ocd-division/country:us/state:mo/place:st_louis/school_district:st._louis_city,st. louis city
+ocd-division/country:us/state:mo/county:st_louis/school_district:affton_101,affton 101
+ocd-division/country:us/state:mo/county:st_louis/school_district:bayless,bayless
+ocd-division/country:us/state:mo/county:st_louis/school_district:brentwood,brentwood
+ocd-division/country:us/state:mo/county:st_louis/school_district:clayton,clayton
+ocd-division/country:us/state:mo/county:st_louis/school_district:ferguson-florissant_r-ii,ferguson-florissant r-ii
+ocd-division/country:us/state:mo/county:st_louis/school_district:hancock_place,hancock place
+ocd-division/country:us/state:mo/county:st_louis/school_district:hazelwood,hazelwood
+ocd-division/country:us/state:mo/county:st_louis/school_district:jennings,jennings
+ocd-division/country:us/state:mo/county:st_louis/school_district:kirkwood_r-vii,kirkwood r-vii
+ocd-division/country:us/state:mo/county:st_louis/school_district:ladue,ladue
+ocd-division/country:us/state:mo/county:st_louis/school_district:lindbergh_schools,lindbergh schools
+ocd-division/country:us/state:mo/county:st_louis/school_district:maplewood-richmond_heights,maplewood-richmond heights
+ocd-division/country:us/state:mo/county:st_louis/school_district:mehlville_r-ix,mehlville r-ix
+ocd-division/country:us/state:mo/county:st_louis/school_district:normandy,normandy
+ocd-division/country:us/state:mo/county:st_louis/school_district:parkway_c-2,parkway c-2
+ocd-division/country:us/state:mo/county:st_louis/school_district:pattonville_r-iii,pattonville r-iii
+ocd-division/country:us/state:mo/county:st_louis/school_district:ritenour,ritenour
+ocd-division/country:us/state:mo/county:st_louis/school_district:riverview_gardens,riverview gardens
+ocd-division/country:us/state:mo/county:st_louis/school_district:rockwood_r-vi,rockwood r-vi
+ocd-division/country:us/state:mo/county:st_louis/school_district:specl._sch._dst._st._louis_co.,specl. sch. dst. st. louis co.
+ocd-division/country:us/state:mo/county:st_louis/school_district:university_city,university city
+ocd-division/country:us/state:mo/county:st_louis/school_district:valley_park,valley park
+ocd-division/country:us/state:mo/county:st_louis/school_district:webster_groves,webster groves
+ocd-division/country:us/state:mo/county:ste_genevieve/school_district:ste._genevieve_co._r-ii,ste. genevieve co. r-ii
 ocd-division/country:us/state:mo/county:stoddard/school_district:advance_r-iv,advance r-iv
 ocd-division/country:us/state:mo/county:stoddard/school_district:bell_city_r-ii,bell city r-ii
 ocd-division/country:us/state:mo/county:stoddard/school_district:bernie_r-xiii,bernie r-xiii
@@ -8876,7 +8876,7 @@ ocd-division/country:us/state:nc/county:johnston/school_district:johnston_county
 ocd-division/country:us/state:nc/county:johnston/school_district:neuse_charter_school,neuse charter school
 ocd-division/country:us/state:nc/county:jones/school_district:jones_county_schools,jones county schools
 ocd-division/country:us/state:nc/county:lee/school_district:lee_county_schools,lee county schools
-ocd-division/country:us/state:nc/county:lenoir/school_district:children's_village_academy,children's village academy
+ocd-division/country:us/state:nc/county:lenoir/school_district:children~s_village_academy,children's village academy
 ocd-division/country:us/state:nc/county:lenoir/school_district:kinston_charter_acad,kinston charter acad
 ocd-division/country:us/state:nc/county:lenoir/school_district:lenoir_county_public_schools,lenoir county public schools
 ocd-division/country:us/state:nc/county:lincoln/school_district:lincoln_charter,lincoln charter
@@ -8894,7 +8894,7 @@ ocd-division/country:us/state:nc/county:mecklenburg/school_district:kennedy_char
 ocd-division/country:us/state:nc/county:mecklenburg/school_district:kipp:_charlotte,kipp: charlotte
 ocd-division/country:us/state:nc/county:mecklenburg/school_district:lake_norman_charter,lake norman charter
 ocd-division/country:us/state:nc/county:mecklenburg/school_district:metrolina_reg_scholars_academy,metrolina reg scholars academy
-ocd-division/country:us/state:nc/county:mecklenburg/school_district:queen's_grant_community,queen's grant community
+ocd-division/country:us/state:nc/county:mecklenburg/school_district:queen~s_grant_community,queen's grant community
 ocd-division/country:us/state:nc/county:mecklenburg/school_district:socrates_academy,socrates academy
 ocd-division/country:us/state:nc/county:mecklenburg/school_district:sugar_creek_charter,sugar creek charter
 ocd-division/country:us/state:nc/county:mitchell/school_district:mitchell_county_schools,mitchell county schools
@@ -9346,7 +9346,7 @@ ocd-division/country:us/state:ne/county:hitchcock/school_district:educational_se
 ocd-division/country:us/state:ne/county:hitchcock/school_district:hitchcock_co_sch_system,hitchcock co sch system
 ocd-division/country:us/state:ne/county:holt/school_district:chambers_public_schools,chambers public schools
 ocd-division/country:us/state:ne/county:holt/school_district:ewing_public_schools,ewing public schools
-ocd-division/country:us/state:ne/county:holt/school_district:o'neill_public_schools,o'neill public schools
+ocd-division/country:us/state:ne/county:holt/school_district:o~neill_public_schools,o'neill public schools
 ocd-division/country:us/state:ne/county:holt/school_district:stuart_public_schools,stuart public schools
 ocd-division/country:us/state:ne/county:holt/school_district:west_holt_public_schools,west holt public schools
 ocd-division/country:us/state:ne/county:hooker/school_district:mullen_public_schools,mullen public schools
@@ -9504,8 +9504,8 @@ ocd-division/country:us/state:nh/county:carroll/school_district:conway_school_di
 ocd-division/country:us/state:nh/county:carroll/school_district:eaton_school_district,eaton school district
 ocd-division/country:us/state:nh/county:carroll/school_district:freedom_school_district,freedom school district
 ocd-division/country:us/state:nh/county:carroll/school_district:governor_wentworth_reg_school_district,governor wentworth reg school district
-ocd-division/country:us/state:nh/county:carroll/school_district:hale's_location_district,hale's location district
-ocd-division/country:us/state:nh/county:carroll/school_district:hart's_location_school_district,hart's location school district
+ocd-division/country:us/state:nh/county:carroll/school_district:hale~s_location_district,hale's location district
+ocd-division/country:us/state:nh/county:carroll/school_district:hart~s_location_school_district,hart's location school district
 ocd-division/country:us/state:nh/county:carroll/school_district:jackson_school_district,jackson school district
 ocd-division/country:us/state:nh/county:carroll/school_district:madison_school_district,madison school district
 ocd-division/country:us/state:nh/county:carroll/school_district:moultonborough_school_district,moultonborough school district
@@ -10380,10 +10380,10 @@ ocd-division/country:us/state:nm/county:curry/school_district:grady_municipal_sc
 ocd-division/country:us/state:nm/county:curry/school_district:melrose_public_schools,melrose public schools
 ocd-division/country:us/state:nm/county:curry/school_district:texico_municipal_schools,texico municipal schools
 ocd-division/country:us/state:nm/county:de_baca/school_district:fort_sumner_municipal_schools,fort sumner municipal schools
-ocd-division/country:us/state:nm/county:do�a_ana/school_district:alma_d'arte_charter,alma d'arte charter
-ocd-division/country:us/state:nm/county:do�a_ana/school_district:gadsden_independent_schools,gadsden independent schools
-ocd-division/country:us/state:nm/county:do�a_ana/school_district:hatch_valley_public_schools,hatch valley public schools
-ocd-division/country:us/state:nm/county:do�a_ana/school_district:las_cruces_public_schools,las cruces public schools
+ocd-division/country:us/state:nm/county:doña_ana/school_district:alma_d~arte_charter,alma d'arte charter
+ocd-division/country:us/state:nm/county:doña_ana/school_district:gadsden_independent_schools,gadsden independent schools
+ocd-division/country:us/state:nm/county:doña_ana/school_district:hatch_valley_public_schools,hatch valley public schools
+ocd-division/country:us/state:nm/county:doña_ana/school_district:las_cruces_public_schools,las cruces public schools
 ocd-division/country:us/state:nm/county:eddy/school_district:artesia_public_schools,artesia public schools
 ocd-division/country:us/state:nm/county:eddy/school_district:carlsbad_municipal_schools,carlsbad municipal schools
 ocd-division/country:us/state:nm/county:eddy/school_district:loving_municipal_schools,loving municipal schools
@@ -10466,8 +10466,8 @@ ocd-division/country:us/state:nm/county:union/school_district:des_moines_municip
 ocd-division/country:us/state:nm/county:valencia/school_district:belen_consolidated_schools,belen consolidated schools
 ocd-division/country:us/state:nm/county:valencia/school_district:los_lunas_public_schools,los lunas public schools
 ocd-division/country:us/state:nm/county:valencia/school_district:school_of_dreams_academy,school of dreams academy
-ocd-division/country:us/state:nv/county:carson_city/school_district:carson_city_school_district,carson city school district
-ocd-division/country:us/state:nv/county:carson_city/school_district:state-sponsored_charter_schools,state-sponsored charter schools
+ocd-division/country:us/state:nv/place:carson_city/school_district:carson_city_school_district,carson city school district
+ocd-division/country:us/state:nv/place:carson_city/school_district:state-sponsored_charter_schools,state-sponsored charter schools
 ocd-division/country:us/state:nv/county:churchill/school_district:churchill_county_school_district,churchill county school district
 ocd-division/country:us/state:nv/county:clark/school_district:clark_county_school_district,clark county school district
 ocd-division/country:us/state:nv/county:douglas/school_district:douglas_county_school_district,douglas county school district
@@ -10955,7 +10955,7 @@ ocd-division/country:us/state:ny/county:nassau/school_district:plainedge_union_f
 ocd-division/country:us/state:ny/county:nassau/school_district:plainview-old_bethpage_central_school_district,plainview-old bethpage central school district
 ocd-division/country:us/state:ny/county:nassau/school_district:port_washington_union_free_school_district,port washington union free school district
 ocd-division/country:us/state:ny/county:nassau/school_district:rockville_centre_union_free_school_district,rockville centre union free school district
-ocd-division/country:us/state:ny/county:nassau/school_district:roosevelt_children's_academy_charter_school,roosevelt children's academy charter school
+ocd-division/country:us/state:ny/county:nassau/school_district:roosevelt_children~s_academy_charter_school,roosevelt children's academy charter school
 ocd-division/country:us/state:ny/county:nassau/school_district:roosevelt_union_free_school_district,roosevelt union free school district
 ocd-division/country:us/state:ny/county:nassau/school_district:roslyn_union_free_school_district,roslyn union free school district
 ocd-division/country:us/state:ny/county:nassau/school_district:seaford_union_free_school_district,seaford union free school district
@@ -10976,8 +10976,8 @@ ocd-division/country:us/state:ny/county:new_york/school_district:dream_charter_s
 ocd-division/country:us/state:ny/county:new_york/school_district:future_leaders_institute_charter_school,future leaders institute charter school
 ocd-division/country:us/state:ny/county:new_york/school_district:girls_preparatory_charter_school_of_new_york,girls preparatory charter school of new york
 ocd-division/country:us/state:ny/county:new_york/school_district:harbor_science_and_arts_charter_school,harbor science and arts charter school
-ocd-division/country:us/state:ny/county:new_york/school_district:harlem_children's_zone_promise_academy_charter_school,harlem children's zone promise academy charter school
-ocd-division/country:us/state:ny/county:new_york/school_district:harlem_children's_zone_promise_academy_ii_charter_school,harlem children's zone promise academy ii charter school
+ocd-division/country:us/state:ny/county:new_york/school_district:harlem_children~s_zone_promise_academy_charter_school,harlem children's zone promise academy charter school
+ocd-division/country:us/state:ny/county:new_york/school_district:harlem_children~s_zone_promise_academy_ii_charter_school,harlem children's zone promise academy ii charter school
 ocd-division/country:us/state:ny/county:new_york/school_district:harlem_day_charter_school,harlem day charter school
 ocd-division/country:us/state:ny/county:new_york/school_district:harlem_link_charter_school,harlem link charter school
 ocd-division/country:us/state:ny/county:new_york/school_district:harlem_success_academy_charter_school,harlem success academy charter school
@@ -11195,24 +11195,24 @@ ocd-division/country:us/state:ny/county:seneca/school_district:romulus_central_s
 ocd-division/country:us/state:ny/county:seneca/school_district:seneca_falls_central_school_district,seneca falls central school district
 ocd-division/country:us/state:ny/county:seneca/school_district:south_seneca_central_school_district,south seneca central school district
 ocd-division/country:us/state:ny/county:seneca/school_district:waterloo_central_school_district,waterloo central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:brasher_falls_central_school_district,brasher falls central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:canton_central_school_district,canton central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:clifton-fine_central_school_district,clifton-fine central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:colton-pierrepont_central_school_district,colton-pierrepont central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:edwards-knox_central_school_district,edwards-knox central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:gouverneur_central_school_district,gouverneur central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:hammond_central_school_district,hammond central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:hermon-dekalb_central_school_district,hermon-dekalb central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:heuvelton_central_school_district,heuvelton central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:lisbon_central_school_district,lisbon central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:madrid-waddington_central_school_district,madrid-waddington central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:massena_central_school_district,massena central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:morristown_central_school_district,morristown central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:norwood-norfolk_central_school_district,norwood-norfolk central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:ogdensburg_city_school_district,ogdensburg city school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:parishville-hopkinton_central_school_district,parishville-hopkinton central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:potsdam_central_school_district,potsdam central school district
-ocd-division/country:us/state:ny/county:st._lawrence/school_district:saint_lawrence-lewis_boces,saint lawrence-lewis boces
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:brasher_falls_central_school_district,brasher falls central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:canton_central_school_district,canton central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:clifton-fine_central_school_district,clifton-fine central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:colton-pierrepont_central_school_district,colton-pierrepont central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:edwards-knox_central_school_district,edwards-knox central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:gouverneur_central_school_district,gouverneur central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:hammond_central_school_district,hammond central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:hermon-dekalb_central_school_district,hermon-dekalb central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:heuvelton_central_school_district,heuvelton central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:lisbon_central_school_district,lisbon central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:madrid-waddington_central_school_district,madrid-waddington central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:massena_central_school_district,massena central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:morristown_central_school_district,morristown central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:norwood-norfolk_central_school_district,norwood-norfolk central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:ogdensburg_city_school_district,ogdensburg city school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:parishville-hopkinton_central_school_district,parishville-hopkinton central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:potsdam_central_school_district,potsdam central school district
+ocd-division/country:us/state:ny/county:st_lawrence/school_district:saint_lawrence-lewis_boces,saint lawrence-lewis boces
 ocd-division/country:us/state:ny/county:steuben/school_district:addison_central_school_district,addison central school district
 ocd-division/country:us/state:ny/county:steuben/school_district:arkport_central_school_district,arkport central school district
 ocd-division/country:us/state:ny/county:steuben/school_district:avoca_central_school_district,avoca central school district
@@ -14406,7 +14406,7 @@ ocd-division/country:us/state:tx/county:bee/school_district:beeville_isd,beevill
 ocd-division/country:us/state:tx/county:bee/school_district:pawnee_isd,pawnee isd
 ocd-division/country:us/state:tx/county:bee/school_district:pettus_isd,pettus isd
 ocd-division/country:us/state:tx/county:bee/school_district:skidmore-tynan_isd,skidmore-tynan isd
-ocd-division/country:us/state:tx/county:bee/school_district:st_mary's_academy_charter_school,st mary's academy charter school
+ocd-division/country:us/state:tx/county:bee/school_district:st_mary~s_academy_charter_school,st mary's academy charter school
 ocd-division/country:us/state:tx/county:bell/school_district:academy_isd,academy isd
 ocd-division/country:us/state:tx/county:bell/school_district:bartlett_isd,bartlett isd
 ocd-division/country:us/state:tx/county:bell/school_district:belton_isd,belton isd
@@ -14877,7 +14877,7 @@ ocd-division/country:us/state:tx/county:harris/school_district:alief_montessori_
 ocd-division/country:us/state:tx/county:harris/school_district:amigos_por_vida-friends_for_life_pub_chtr_sch,amigos por vida-friends for life pub chtr sch
 ocd-division/country:us/state:tx/county:harris/school_district:aristoi_classical_academy,aristoi classical academy
 ocd-division/country:us/state:tx/county:harris/school_district:beatrice_mayes_institute_charter_school,beatrice mayes institute charter school
-ocd-division/country:us/state:tx/county:harris/school_district:benji's_special_educational_academy_charter_school,benji's special educational academy charter school
+ocd-division/country:us/state:tx/county:harris/school_district:benji~s_special_educational_academy_charter_school,benji's special educational academy charter school
 ocd-division/country:us/state:tx/county:harris/school_district:calvin_nelms_charter_schools,calvin nelms charter schools
 ocd-division/country:us/state:tx/county:harris/school_district:channelview_isd,channelview isd
 ocd-division/country:us/state:tx/county:harris/school_district:children_first_academy_of_houston,children first academy of houston
@@ -14901,7 +14901,7 @@ ocd-division/country:us/state:tx/county:harris/school_district:houston_heights_l
 ocd-division/country:us/state:tx/county:harris/school_district:houston_isd,houston isd
 ocd-division/country:us/state:tx/county:harris/school_district:huffman_isd,huffman isd
 ocd-division/country:us/state:tx/county:harris/school_district:humble_isd,humble isd
-ocd-division/country:us/state:tx/county:harris/school_district:jamie's_house_charter_school,jamie's house charter school
+ocd-division/country:us/state:tx/county:harris/school_district:jamie~s_house_charter_school,jamie's house charter school
 ocd-division/country:us/state:tx/county:harris/school_district:juan_b_galaviz_charter_school,juan b galaviz charter school
 ocd-division/country:us/state:tx/county:harris/school_district:kipp_inc_charter,kipp inc charter
 ocd-division/country:us/state:tx/county:harris/school_district:kipp_southeast_houston,kipp southeast houston
@@ -15103,7 +15103,7 @@ ocd-division/country:us/state:tx/county:kleberg/school_district:ricardo_isd,rica
 ocd-division/country:us/state:tx/county:kleberg/school_district:riviera_isd,riviera isd
 ocd-division/country:us/state:tx/county:kleberg/school_district:santa_gertrudis_isd,santa gertrudis isd
 ocd-division/country:us/state:tx/county:knox/school_district:benjamin_isd,benjamin isd
-ocd-division/country:us/state:tx/county:knox/school_district:knox_city-o'brien_cisd,knox city-o'brien cisd
+ocd-division/country:us/state:tx/county:knox/school_district:knox_city-o~brien_cisd,knox city-o'brien cisd
 ocd-division/country:us/state:tx/county:knox/school_district:munday_cisd,munday cisd
 ocd-division/country:us/state:tx/county:la_salle/school_district:cotulla_isd,cotulla isd
 ocd-division/country:us/state:tx/county:lamar/school_district:chisum_isd,chisum isd
@@ -15162,7 +15162,7 @@ ocd-division/country:us/state:tx/county:lubbock/school_district:shallowater_isd,
 ocd-division/country:us/state:tx/county:lubbock/school_district:slaton_isd,slaton isd
 ocd-division/country:us/state:tx/county:lubbock/school_district:south_plains,south plains
 ocd-division/country:us/state:tx/county:lynn/school_district:new_home_isd,new home isd
-ocd-division/country:us/state:tx/county:lynn/school_district:o'donnell_isd,o'donnell isd
+ocd-division/country:us/state:tx/county:lynn/school_district:o~donnell_isd,o'donnell isd
 ocd-division/country:us/state:tx/county:lynn/school_district:tahoka_isd,tahoka isd
 ocd-division/country:us/state:tx/county:lynn/school_district:wilson_isd,wilson isd
 ocd-division/country:us/state:tx/county:madison/school_district:madisonville_cisd,madisonville cisd
@@ -15204,7 +15204,7 @@ ocd-division/country:us/state:tx/county:mclennan/school_district:waco_charter_sc
 ocd-division/country:us/state:tx/county:mclennan/school_district:waco_isd,waco isd
 ocd-division/country:us/state:tx/county:mclennan/school_district:west_isd,west isd
 ocd-division/country:us/state:tx/county:mcmullen/school_district:mcmullen_county_isd,mcmullen county isd
-ocd-division/country:us/state:tx/county:medina/school_district:d'hanis_isd,d'hanis isd
+ocd-division/country:us/state:tx/county:medina/school_district:d~hanis_isd,d'hanis isd
 ocd-division/country:us/state:tx/county:medina/school_district:devine_isd,devine isd
 ocd-division/country:us/state:tx/county:medina/school_district:hondo_isd,hondo isd
 ocd-division/country:us/state:tx/county:medina/school_district:medina_valley_isd,medina valley isd
@@ -15731,9 +15731,9 @@ ocd-division/country:us/state:va/county:accomack/school_district:accomack_co_pbl
 ocd-division/country:us/state:va/county:albemarle/school_district:charlottesville-albemarle_tech,charlottesville-albemarle tech
 ocd-division/country:us/state:va/county:albemarle/school_district:piedmont_regional_ed.,piedmont regional ed.
 ocd-division/country:us/state:va/county:albemarle/school_district:university_of_va,university of va
-ocd-division/country:us/state:va/county:alexandria_city/school_district:alexandria_city_pblc_schs,alexandria city pblc schs
+ocd-division/country:us/state:va/place:alexandria/school_district:alexandria_city_pblc_schs,alexandria city pblc schs
 ocd-division/country:us/state:va/county:alleghany/school_district:alleghany_co_pblc_schs,alleghany co pblc schs
-ocd-division/country:us/state:va/county:alleghany/school_district:jackson_river_governor's_school,jackson river governor's school
+ocd-division/country:us/state:va/county:alleghany/school_district:jackson_river_governor~s_school,jackson river governor's school
 ocd-division/country:us/state:va/county:alleghany/school_district:jackson_river_tech_ctr,jackson river tech ctr
 ocd-division/country:us/state:va/county:amelia/school_district:amelia_co_pblc_schs,amelia co pblc schs
 ocd-division/country:us/state:va/county:amelia/school_district:amelia-nottoway_voc_ctr,amelia-nottoway voc ctr
@@ -15749,19 +15749,19 @@ ocd-division/country:us/state:va/county:augusta/school_district:shenandoah_valle
 ocd-division/country:us/state:va/county:augusta/school_district:valley_vocational_tech,valley vocational tech
 ocd-division/country:us/state:va/county:augusta/school_district:w._wilson_rehab,w. wilson rehab
 ocd-division/country:us/state:va/county:bath/school_district:bath_co_pblc_schs,bath co pblc schs
-ocd-division/country:us/state:va/county:bedford_city/school_district:bedford_city_pblc_schs,bedford city pblc schs
-ocd-division/country:us/state:va/county:bedford_city/school_district:bedford_co_pblc_schs,bedford co pblc schs
+ocd-division/country:us/state:va/place:bedford/school_district:bedford_city_pblc_schs,bedford city pblc schs
+ocd-division/country:us/state:va/place:bedford/school_district:bedford_co_pblc_schs,bedford co pblc schs
 ocd-division/country:us/state:va/county:bland/school_district:bland_co_pblc_schs,bland co pblc schs
 ocd-division/country:us/state:va/county:botetourt/school_district:botetourt_co_pblc_schs,botetourt co pblc schs
 ocd-division/country:us/state:va/county:botetourt/school_district:roanoke_valley_regional_board,roanoke valley regional board
-ocd-division/country:us/state:va/county:bristol_city/school_district:bristol_city_pblc_schs,bristol city pblc schs
-ocd-division/country:us/state:va/county:bristol_city/school_district:crossroads_alternative~bristol_city,crossroads alternative/bristol city
+ocd-division/country:us/state:va/place:bristol/school_district:bristol_city_pblc_schs,bristol city pblc schs
+ocd-division/country:us/state:va/place:bristol/school_district:crossroads_alternative~bristol_city,crossroads alternative/bristol city
 ocd-division/country:us/state:va/county:brunswick/school_district:brunswick_co_pblc_schs,brunswick co pblc schs
 ocd-division/country:us/state:va/county:brunswick/school_district:southside_l.i.n.k._project~brunswick_co,southside l.i.n.k. project/brunswick co
 ocd-division/country:us/state:va/county:buchanan/school_district:buchanan_co_pblc_schs,buchanan co pblc schs
 ocd-division/country:us/state:va/county:buckingham/school_district:buckingham_co_pblc_schs,buckingham co pblc schs
-ocd-division/country:us/state:va/county:buena_vista_city/school_district:buena_vista_city_pblc_schs,buena vista city pblc schs
-ocd-division/country:us/state:va/county:buena_vista_city/school_district:reg_alt_ed_center~buena_vista,reg alt ed center/buena vista
+ocd-division/country:us/state:va/place:buena_vista/school_district:buena_vista_city_pblc_schs,buena vista city pblc schs
+ocd-division/country:us/state:va/place:buena_vista/school_district:reg_alt_ed_center~buena_vista,reg alt ed center/buena vista
 ocd-division/country:us/state:va/county:campbell/school_district:campbell_co_pblc_schs,campbell co pblc schs
 ocd-division/country:us/state:va/county:caroline/school_district:caroline_co_pblc_schs,caroline co pblc schs
 ocd-division/country:us/state:va/county:carroll/school_district:carroll_co_pblc_schs,carroll co pblc schs
@@ -15770,45 +15770,45 @@ ocd-division/country:us/state:va/county:carroll/school_district:s.west_va_trn_ct
 ocd-division/country:us/state:va/county:charles_city/school_district:charles_city_co_pblc_schs,charles city co pblc schs
 ocd-division/country:us/state:va/county:charlotte/school_district:charlotte_co_pblc_schs,charlotte co pblc schs
 ocd-division/country:us/state:va/county:charlotte/school_district:gov_sch_global_economics~tech,gov sch global economics/tech
-ocd-division/country:us/state:va/county:charlottesville_city/school_district:albemarle_co_pblc_schs,albemarle co pblc schs
-ocd-division/country:us/state:va/county:charlottesville_city/school_district:charlottesville_cty_pblc_schs,charlottesville cty pblc schs
-ocd-division/country:us/state:va/county:chesapeake_city/school_district:chesapeake_city_pblc_schs,chesapeake city pblc schs
-ocd-division/country:us/state:va/county:chesapeake_city/school_district:s.east_va_trn_ct,s.east va trn ct
+ocd-division/country:us/state:va/place:charlottesville/school_district:albemarle_co_pblc_schs,albemarle co pblc schs
+ocd-division/country:us/state:va/place:charlottesville/school_district:charlottesville_cty_pblc_schs,charlottesville cty pblc schs
+ocd-division/country:us/state:va/place:chesapeake/school_district:chesapeake_city_pblc_schs,chesapeake city pblc schs
+ocd-division/country:us/state:va/place:chesapeake/school_district:s.east_va_trn_ct,s.east va trn ct
 ocd-division/country:us/state:va/county:chesterfield/school_district:chesterfield_co_pblc_schs,chesterfield co pblc schs
 ocd-division/country:us/state:va/county:clarke/school_district:clarke_co_pblc_schs,clarke co pblc schs
-ocd-division/country:us/state:va/county:colonial_heights_city/school_district:colonial_heights_city_pblc_schs,colonial heights city pblc schs
-ocd-division/country:us/state:va/county:covington_city/school_district:covington_city_pblc_schs,covington city pblc schs
+ocd-division/country:us/state:va/place:colonial_heights/school_district:colonial_heights_city_pblc_schs,colonial heights city pblc schs
+ocd-division/country:us/state:va/place:covington/school_district:covington_city_pblc_schs,covington city pblc schs
 ocd-division/country:us/state:va/county:craig/school_district:craig_co_pblc_schs,craig co pblc schs
 ocd-division/country:us/state:va/county:culpeper/school_district:culpeper_co_pblc_schs,culpeper co pblc schs
 ocd-division/country:us/state:va/county:cumberland/school_district:cumberland_co_pblc_schs,cumberland co pblc schs
-ocd-division/country:us/state:va/county:danville_city/school_district:danville_city_pblc_schs,danville city pblc schs
+ocd-division/country:us/state:va/place:danville/school_district:danville_city_pblc_schs,danville city pblc schs
 ocd-division/country:us/state:va/county:dickenson/school_district:dickenson_co_pblc_schs,dickenson co pblc schs
 ocd-division/country:us/state:va/county:dinwiddie/school_district:central_st_hosp,central st hosp
 ocd-division/country:us/state:va/county:dinwiddie/school_district:dinwiddie_co_pblc_schs,dinwiddie co pblc schs
 ocd-division/country:us/state:va/county:dinwiddie/school_district:s.side_va_trn_ct,s.side va trn ct
-ocd-division/country:us/state:va/county:emporia_city/school_district:emporia,emporia
-ocd-division/country:us/state:va/county:emporia_city/school_district:greensville_co_pblc_schs,greensville co pblc schs
+ocd-division/country:us/state:va/place:emporia/school_district:emporia,emporia
+ocd-division/country:us/state:va/place:emporia/school_district:greensville_co_pblc_schs,greensville co pblc schs
 ocd-division/country:us/state:va/county:essex/school_district:chesapeake_bay_gov_sch,chesapeake bay gov sch
 ocd-division/country:us/state:va/county:essex/school_district:essex_co_pblc_schs,essex co pblc schs
-ocd-division/country:us/state:va/county:fairfax_city/school_district:fairfax_city_pblc_schs,fairfax city pblc schs
+ocd-division/country:us/state:va/place:fairfax/school_district:fairfax_city_pblc_schs,fairfax city pblc schs
 ocd-division/country:us/state:va/county:fairfax/school_district:fairfax_co_pblc_schs,fairfax co pblc schs
 ocd-division/country:us/state:va/county:fairfax/school_district:fairfax-falls_church_comm_svcs_bd,fairfax-falls church comm svcs bd
 ocd-division/country:us/state:va/county:fairfax/school_district:n._va._trn_ct,n. va. trn ct
 ocd-division/country:us/state:va/county:fairfax/school_district:transition_support_resource_ctr~fairfax,transition support resource ctr/fairfax
-ocd-division/country:us/state:va/county:falls_church_city/school_district:falls_church_city_pblc_schs,falls church city pblc schs
+ocd-division/country:us/state:va/place:falls_church/school_district:falls_church_city_pblc_schs,falls church city pblc schs
 ocd-division/country:us/state:va/county:fauquier/school_district:fauquier_co_pblc_schs,fauquier co pblc schs
-ocd-division/country:us/state:va/county:fauquier/school_district:mountain_vista_governor's_sch,mountain vista governor's sch
+ocd-division/country:us/state:va/county:fauquier/school_district:mountain_vista_governor~s_sch,mountain vista governor's sch
 ocd-division/country:us/state:va/county:fauquier/school_district:the_regional_community_alternative_ed_continuum,the regional community alternative ed continuum
 ocd-division/country:us/state:va/county:floyd/school_district:floyd_co_pblc_schs,floyd co pblc schs
 ocd-division/country:us/state:va/county:fluvanna/school_district:blue_ridge_gov_school,blue ridge gov school
 ocd-division/country:us/state:va/county:fluvanna/school_district:fluvanna_co_pblc_schs,fluvanna co pblc schs
 ocd-division/country:us/state:va/county:fluvanna/school_district:project_return~fluvanna_co,project return/fluvanna co
-ocd-division/country:us/state:va/county:franklin_city/school_district:franklin_city_pblc_schs,franklin city pblc schs
+ocd-division/country:us/state:va/place:franklin/school_district:franklin_city_pblc_schs,franklin city pblc schs
 ocd-division/country:us/state:va/county:franklin/school_district:franklin_co_pblc_schs,franklin co pblc schs
 ocd-division/country:us/state:va/county:frederick/school_district:northwestern_reg_ed_pgm,northwestern reg ed pgm
-ocd-division/country:us/state:va/county:fredericksburg_city/school_district:fredericksburg_city_pblc_schs,fredericksburg city pblc schs
-ocd-division/country:us/state:va/county:galax_city/school_district:coop_ctrs_for_exceptional_children,coop ctrs for exceptional children
-ocd-division/country:us/state:va/county:galax_city/school_district:galax_city_pblc_schs,galax city pblc schs
+ocd-division/country:us/state:va/place:fredericksburg/school_district:fredericksburg_city_pblc_schs,fredericksburg city pblc schs
+ocd-division/country:us/state:va/place:galax/school_district:coop_ctrs_for_exceptional_children,coop ctrs for exceptional children
+ocd-division/country:us/state:va/place:galax/school_district:galax_city_pblc_schs,galax city pblc schs
 ocd-division/country:us/state:va/county:giles/school_district:giles_co_pblc_schs,giles co pblc schs
 ocd-division/country:us/state:va/county:gloucester/school_district:gloucester_co_pblc_schs,gloucester co pblc schs
 ocd-division/country:us/state:va/county:gloucester/school_district:mid_peninsula_reg_spec_ed_ctr,mid peninsula reg spec ed ctr
@@ -15816,21 +15816,21 @@ ocd-division/country:us/state:va/county:goochland/school_district:goochland_co_p
 ocd-division/country:us/state:va/county:grayson/school_district:grayson_co_pblc_schs,grayson co pblc schs
 ocd-division/country:us/state:va/county:greene/school_district:greene_co_pblc_schs,greene co pblc schs
 ocd-division/country:us/state:va/county:halifax/school_district:halifax_co_pblc_schs,halifax co pblc schs
-ocd-division/country:us/state:va/county:hampton_city/school_district:hampton_city_pblc_schs,hampton city pblc schs
-ocd-division/country:us/state:va/county:hampton_city/school_district:new_horizons_career_and_tech_ctr,new horizons career & tech ctr
-ocd-division/country:us/state:va/county:hampton_city/school_district:new_horizons_gov_school,new horizons gov school
-ocd-division/country:us/state:va/county:hampton_city/school_district:new_horizons_regional_educ_ctr-spec_ed,new horizons regional educ ctr-spec ed
+ocd-division/country:us/state:va/place:hampton/school_district:hampton_city_pblc_schs,hampton city pblc schs
+ocd-division/country:us/state:va/place:hampton/school_district:new_horizons_career_and_tech_ctr,new horizons career & tech ctr
+ocd-division/country:us/state:va/place:hampton/school_district:new_horizons_gov_school,new horizons gov school
+ocd-division/country:us/state:va/place:hampton/school_district:new_horizons_regional_educ_ctr-spec_ed,new horizons regional educ ctr-spec ed
 ocd-division/country:us/state:va/county:hanover/school_district:hanover_co_pblc_schs,hanover co pblc schs
-ocd-division/country:us/state:va/county:harrisonburg_city/school_district:harrisonburg_city_pblc_schs,harrisonburg city pblc schs
-ocd-division/country:us/state:va/county:harrisonburg_city/school_district:massanutten_tech_ctr,massanutten tech ctr
-ocd-division/country:us/state:va/county:harrisonburg_city/school_district:rockingham_co_pblc_schs,rockingham co pblc schs
+ocd-division/country:us/state:va/place:harrisonburg/school_district:harrisonburg_city_pblc_schs,harrisonburg city pblc schs
+ocd-division/country:us/state:va/place:harrisonburg/school_district:massanutten_tech_ctr,massanutten tech ctr
+ocd-division/country:us/state:va/place:harrisonburg/school_district:rockingham_co_pblc_schs,rockingham co pblc schs
 ocd-division/country:us/state:va/county:henrico/school_district:henrico_co_pblc_schs,henrico co pblc schs
 ocd-division/country:us/state:va/county:henry/school_district:breaking_barriers_alternative_ed~henry_co,breaking barriers alternative ed/henry co
 ocd-division/country:us/state:va/county:henry/school_district:henry_co_pblc_schs,henry co pblc schs
 ocd-division/country:us/state:va/county:henry/school_district:henry_co~martinsville_reg_pgm,henry co/martinsville reg pgm
 ocd-division/country:us/state:va/county:henry/school_district:piedmont_gov_sch_for_math~sci~tech,piedmont gov sch for math/sci/tech
 ocd-division/country:us/state:va/county:highland/school_district:highland_co_pblc_schs,highland co pblc schs
-ocd-division/country:us/state:va/county:hopewell_city/school_district:hopewell_city_pblc_schs,hopewell city pblc schs
+ocd-division/country:us/state:va/place:hopewell/school_district:hopewell_city_pblc_schs,hopewell city pblc schs
 ocd-division/country:us/state:va/county:isle_of_wight/school_district:isle_of_wight_co_pblc_schs,isle of wight co pblc schs
 ocd-division/country:us/state:va/county:james_city/school_district:eastern_st_hosp,eastern st hosp
 ocd-division/country:us/state:va/county:james_city/school_district:james_city_county,james city county
@@ -15842,19 +15842,19 @@ ocd-division/country:us/state:va/county:king_william/school_district:regional_al
 ocd-division/country:us/state:va/county:king_william/school_district:west_point_pblc_schs,west point pblc schs
 ocd-division/country:us/state:va/county:lancaster/school_district:lancaster_co_pblc_schs,lancaster co pblc schs
 ocd-division/country:us/state:va/county:lee/school_district:lee_co_pblc_schs,lee co pblc schs
-ocd-division/country:us/state:va/county:lexington_city/school_district:lexington_city_pblc_schs,lexington city pblc schs
+ocd-division/country:us/state:va/place:lexington/school_district:lexington_city_pblc_schs,lexington city pblc schs
 ocd-division/country:us/state:va/county:loudoun/school_district:loudoun_co_pblc_schs,loudoun co pblc schs
 ocd-division/country:us/state:va/county:louisa/school_district:louisa_co_pblc_schs,louisa co pblc schs
 ocd-division/country:us/state:va/county:lunenburg/school_district:lunenburg_co_pblc_schs,lunenburg co pblc schs
-ocd-division/country:us/state:va/county:lynchburg_city/school_district:central_virginia_gov_sch_for_sci~tech,central virginia gov sch for sci/tech
-ocd-division/country:us/state:va/county:lynchburg_city/school_district:laurel_regional,laurel regional
-ocd-division/country:us/state:va/county:lynchburg_city/school_district:lynchburg_city_pblc_schs,lynchburg city pblc schs
-ocd-division/country:us/state:va/county:lynchburg_city/school_district:lynchburg_city_secondary_alternative,lynchburg city secondary alternative
+ocd-division/country:us/state:va/place:lynchburg/school_district:central_virginia_gov_sch_for_sci~tech,central virginia gov sch for sci/tech
+ocd-division/country:us/state:va/place:lynchburg/school_district:laurel_regional,laurel regional
+ocd-division/country:us/state:va/place:lynchburg/school_district:lynchburg_city_pblc_schs,lynchburg city pblc schs
+ocd-division/country:us/state:va/place:lynchburg/school_district:lynchburg_city_secondary_alternative,lynchburg city secondary alternative
 ocd-division/country:us/state:va/county:madison/school_district:madison_co_pblc_schs,madison co pblc schs
-ocd-division/country:us/state:va/county:manassas_city/school_district:manassas_city_pblc_schs,manassas city pblc schs
-ocd-division/country:us/state:va/county:manassas_park_city/school_district:manassas_park_city_pblc_schs,manassas park city pblc schs
-ocd-division/country:us/state:va/county:manassas_park_city/school_district:new_dominion_alt._ctr.~prince_william_co.,new dominion alt. ctr./prince william co.
-ocd-division/country:us/state:va/county:martinsville_city/school_district:martinsville_city_pblc_schs,martinsville city pblc schs
+ocd-division/country:us/state:va/place:manassas/school_district:manassas_city_pblc_schs,manassas city pblc schs
+ocd-division/country:us/state:va/place:manassas_park/school_district:manassas_park_city_pblc_schs,manassas park city pblc schs
+ocd-division/country:us/state:va/place:manassas_park/school_district:new_dominion_alt._ctr.~prince_william_co.,new dominion alt. ctr./prince william co.
+ocd-division/country:us/state:va/place:martinsville/school_district:martinsville_city_pblc_schs,martinsville city pblc schs
 ocd-division/country:us/state:va/county:mathews/school_district:mathews_co_pblc_schs,mathews co pblc schs
 ocd-division/country:us/state:va/county:mecklenburg/school_district:mecklenburg_co_pblc_schs,mecklenburg co pblc schs
 ocd-division/country:us/state:va/county:middlesex/school_district:middlesex_co_pblc_schs,middlesex co pblc schs
@@ -15862,29 +15862,29 @@ ocd-division/country:us/state:va/county:montgomery/school_district:alt_ed_prgm~b
 ocd-division/country:us/state:va/county:montgomery/school_district:montgomery_co_pblc_schs,montgomery co pblc schs
 ocd-division/country:us/state:va/county:nelson/school_district:nelson_co_pblc_schs,nelson co pblc schs
 ocd-division/country:us/state:va/county:new_kent/school_district:new_kent_co_pblc_schs,new kent co pblc schs
-ocd-division/country:us/state:va/county:newport_news_city/school_district:enterprise_academy~newport_news_city,enterprise academy/newport news city
-ocd-division/country:us/state:va/county:newport_news_city/school_district:newport_news_city_pblc_schs,newport news city pblc schs
-ocd-division/country:us/state:va/county:norfolk_city/school_district:governor's_school_for_the_arts,governor's school for the arts
-ocd-division/country:us/state:va/county:norfolk_city/school_district:kings_daughters,kings daughters
-ocd-division/country:us/state:va/county:norfolk_city/school_district:norfolk_city_pblc_schs,norfolk city pblc schs
-ocd-division/country:us/state:va/county:norfolk_city/school_district:southeastern_coop_ed_pgm,southeastern coop ed pgm
-ocd-division/country:us/state:va/county:norfolk_city/school_district:tidewater_regional_alternative_ed_project,tidewater regional alternative ed project
+ocd-division/country:us/state:va/place:newport_news/school_district:enterprise_academy~newport_news_city,enterprise academy/newport news city
+ocd-division/country:us/state:va/place:newport_news/school_district:newport_news_city_pblc_schs,newport news city pblc schs
+ocd-division/country:us/state:va/place:norfolk/school_district:governor~s_school_for_the_arts,governor's school for the arts
+ocd-division/country:us/state:va/place:norfolk/school_district:kings_daughters,kings daughters
+ocd-division/country:us/state:va/place:norfolk/school_district:norfolk_city_pblc_schs,norfolk city pblc schs
+ocd-division/country:us/state:va/place:norfolk/school_district:southeastern_coop_ed_pgm,southeastern coop ed pgm
+ocd-division/country:us/state:va/place:norfolk/school_district:tidewater_regional_alternative_ed_project,tidewater regional alternative ed project
 ocd-division/country:us/state:va/county:northampton/school_district:northampton_co_pblc_schs,northampton co pblc schs
 ocd-division/country:us/state:va/county:northampton/school_district:project_renew~northampton_co,project renew/northampton co
 ocd-division/country:us/state:va/county:northumberland/school_district:northern_neck_regional,northern neck regional
 ocd-division/country:us/state:va/county:northumberland/school_district:northumberland_co_pblc_schs,northumberland co pblc schs
-ocd-division/country:us/state:va/county:norton_city/school_district:norton_city_pblc_schs,norton city pblc schs
+ocd-division/country:us/state:va/place:norton/school_district:norton_city_pblc_schs,norton city pblc schs
 ocd-division/country:us/state:va/county:nottoway/school_district:nottoway_co_pblc_schs,nottoway co pblc schs
 ocd-division/country:us/state:va/county:orange/school_district:orange_co_pblc_schs,orange co pblc schs
 ocd-division/country:us/state:va/county:page/school_district:page_co_pblc_schs,page co pblc schs
 ocd-division/country:us/state:va/county:patrick/school_district:patrick_co_pblc_schs,patrick co pblc schs
-ocd-division/country:us/state:va/county:petersburg_city/school_district:appomattox_regional_gov_sch,appomattox regional gov sch
-ocd-division/country:us/state:va/county:petersburg_city/school_district:petersburg_city_pblc_schs,petersburg city pblc schs
-ocd-division/country:us/state:va/county:petersburg_city/school_district:petersburg_regional_alternative,petersburg regional alternative
+ocd-division/country:us/state:va/place:petersburg/school_district:appomattox_regional_gov_sch,appomattox regional gov sch
+ocd-division/country:us/state:va/place:petersburg/school_district:petersburg_city_pblc_schs,petersburg city pblc schs
+ocd-division/country:us/state:va/place:petersburg/school_district:petersburg_regional_alternative,petersburg regional alternative
 ocd-division/country:us/state:va/county:pittsylvania/school_district:pittsylvania_co_pblc_schs,pittsylvania co pblc schs
 ocd-division/country:us/state:va/county:pittsylvania/school_district:regional_alternative~pittslvania_co,regional alternative/pittslvania co
-ocd-division/country:us/state:va/county:poquoson_city/school_district:poquoson_city_pblc_schs,poquoson city pblc schs
-ocd-division/country:us/state:va/county:portsmouth_city/school_district:portsmouth_city_pblc_schs,portsmouth city pblc schs
+ocd-division/country:us/state:va/place:poquoson/school_district:poquoson_city_pblc_schs,poquoson city pblc schs
+ocd-division/country:us/state:va/place:portsmouth/school_district:portsmouth_city_pblc_schs,portsmouth city pblc schs
 ocd-division/country:us/state:va/county:powhatan/school_district:powhatan_co_pblc_schs,powhatan co pblc schs
 ocd-division/country:us/state:va/county:powhatan/school_district:project_return~powhatan_co,project return/powhatan co
 ocd-division/country:us/state:va/county:prince_edward/school_district:prince_edward_co_pblc_schs,prince edward co pblc schs
@@ -15892,58 +15892,58 @@ ocd-division/country:us/state:va/county:prince_george/school_district:prince_geo
 ocd-division/country:us/state:va/county:prince_george/school_district:rowanty_vocational_tech_ctr,rowanty vocational tech ctr
 ocd-division/country:us/state:va/county:prince_william/school_district:n_virginia_reg_spec_ed_pgm,n virginia reg spec ed pgm
 ocd-division/country:us/state:va/county:prince_william/school_district:prince_william_co_pblc_schs,prince william co pblc schs
-ocd-division/country:us/state:va/county:prince_william/school_district:the_governor's_school_@_innovation_park,the governor's school @ innovation park
+ocd-division/country:us/state:va/county:prince_william/school_district:the_governor~s_school_@_innovation_park,the governor's school @ innovation park
 ocd-division/country:us/state:va/county:pulaski/school_district:pulaski_co_pblc_schs,pulaski co pblc schs
 ocd-division/country:us/state:va/county:pulaski/school_district:southwest_virginia_gov_sch,southwest virginia gov sch
-ocd-division/country:us/state:va/county:radford_city/school_district:radford_city_pblc_schs,radford city pblc schs
+ocd-division/country:us/state:va/place:radford/school_district:radford_city_pblc_schs,radford city pblc schs
 ocd-division/country:us/state:va/county:rappahannock/school_district:rappahannock_co_pblc_schs,rappahannock co pblc schs
-ocd-division/country:us/state:va/county:richmond_city/school_district:department_of_correctional_education,department of correctional education
-ocd-division/country:us/state:va/county:richmond_city/school_district:doe_sop_educ_programs,doe sop educ programs
-ocd-division/country:us/state:va/county:richmond_city/school_district:maggie_l._walker_gov_sch,maggie l. walker gov sch
-ocd-division/country:us/state:va/county:richmond_city/school_district:mcv~va_treatment_ctr,mcv/va treatment ctr
-ocd-division/country:us/state:va/county:richmond_city/school_district:medical_college_of_va,medical college of va
-ocd-division/country:us/state:va/county:richmond_city/school_district:metro_richmond_alternative_ed,metro richmond alternative ed
-ocd-division/country:us/state:va/county:richmond_city/school_district:richmond_city_pblc_schs,richmond city pblc schs
+ocd-division/country:us/state:va/place:richmond/school_district:department_of_correctional_education,department of correctional education
+ocd-division/country:us/state:va/place:richmond/school_district:doe_sop_educ_programs,doe sop educ programs
+ocd-division/country:us/state:va/place:richmond/school_district:maggie_l._walker_gov_sch,maggie l. walker gov sch
+ocd-division/country:us/state:va/place:richmond/school_district:mcv~va_treatment_ctr,mcv/va treatment ctr
+ocd-division/country:us/state:va/place:richmond/school_district:medical_college_of_va,medical college of va
+ocd-division/country:us/state:va/place:richmond/school_district:metro_richmond_alternative_ed,metro richmond alternative ed
+ocd-division/country:us/state:va/place:richmond/school_district:richmond_city_pblc_schs,richmond city pblc schs
 ocd-division/country:us/state:va/county:richmond/school_district:northern_neck_regional_alternative_ed,northern neck regional alternative ed
 ocd-division/country:us/state:va/county:richmond/school_district:northern_neck_technical_ctr,northern neck technical ctr
 ocd-division/country:us/state:va/county:richmond/school_district:richmond_co_pblc_schs,richmond co pblc schs
-ocd-division/country:us/state:va/county:roanoke_city/school_district:reg_alternative_plus_self_project~roanoke_city,reg alternative plus self project/roanoke city
-ocd-division/country:us/state:va/county:roanoke_city/school_district:roanoke_city_pblc_schs,roanoke city pblc schs
-ocd-division/country:us/state:va/county:roanoke_city/school_district:roanoke_valley_gov_sch,roanoke valley gov sch
+ocd-division/country:us/state:va/place:roanoke/school_district:reg_alternative_plus_self_project~roanoke_city,reg alternative plus self project/roanoke city
+ocd-division/country:us/state:va/place:roanoke/school_district:roanoke_city_pblc_schs,roanoke city pblc schs
+ocd-division/country:us/state:va/place:roanoke/school_district:roanoke_valley_gov_sch,roanoke valley gov sch
 ocd-division/country:us/state:va/county:roanoke/school_district:roanoke_co_pblc_schs,roanoke co pblc schs
 ocd-division/country:us/state:va/county:rockbridge/school_district:rockbridge_co_pblc_schs,rockbridge co pblc schs
 ocd-division/country:us/state:va/county:russell/school_district:project_bridge~russell_co,project bridge/russell co
 ocd-division/country:us/state:va/county:russell/school_district:russell_co_pblc_schs,russell co pblc schs
-ocd-division/country:us/state:va/county:salem_city/school_district:salem_city_pblc_schs,salem city pblc schs
+ocd-division/country:us/state:va/place:salem/school_district:salem_city_pblc_schs,salem city pblc schs
 ocd-division/country:us/state:va/county:scott/school_district:renaissance~scott_co,renaissance/scott co
 ocd-division/country:us/state:va/county:scott/school_district:scott_co_pblc_schs,scott co pblc schs
-ocd-division/country:us/state:va/county:shenandoah/school_district:massanutten_governor's_sch,massanutten governor's sch
+ocd-division/country:us/state:va/county:shenandoah/school_district:massanutten_governor~s_sch,massanutten governor's sch
 ocd-division/country:us/state:va/county:shenandoah/school_district:shenandoah_co_pblc_schs,shenandoah co pblc schs
 ocd-division/country:us/state:va/county:smyth/school_district:smyth_co_pblc_schs,smyth co pblc schs
 ocd-division/country:us/state:va/county:smyth/school_district:sw_va_mental_health_institute,sw va mental health institute
 ocd-division/country:us/state:va/county:southampton/school_district:southampton_co_pblc_schs,southampton co pblc schs
-ocd-division/country:us/state:va/county:spotsylvania/school_district:commonwealth_governor's_school,commonwealth governor's school
+ocd-division/country:us/state:va/county:spotsylvania/school_district:commonwealth_governor~s_school,commonwealth governor's school
 ocd-division/country:us/state:va/county:spotsylvania/school_district:spotsylvania_co_pblc_schs,spotsylvania co pblc schs
 ocd-division/country:us/state:va/county:stafford/school_district:regional_alternative_ed~stafford_co,regional alternative ed/stafford co
 ocd-division/country:us/state:va/county:stafford/school_district:stafford_co_pblc_schs,stafford co pblc schs
-ocd-division/country:us/state:va/county:staunton_city/school_district:commonwealth_ctr_for_children_and_adolescents,commonwealth ctr for children & adolescents
-ocd-division/country:us/state:va/county:staunton_city/school_district:staunton_city_pblc_schs,staunton city pblc schs
-ocd-division/country:us/state:va/county:staunton_city/school_district:vsdb-staunton,vsdb-staunton
-ocd-division/country:us/state:va/county:staunton_city/school_district:western_st_hosp,western st hosp
-ocd-division/country:us/state:va/county:suffolk_city/school_district:suffolk_city_pblc_schs,suffolk city pblc schs
-ocd-division/country:us/state:va/county:suffolk_city/school_district:the_pruden_ctr._for_industry_and_tech.,the pruden ctr. for industry and tech.
+ocd-division/country:us/state:va/place:staunton/school_district:commonwealth_ctr_for_children_and_adolescents,commonwealth ctr for children & adolescents
+ocd-division/country:us/state:va/place:staunton/school_district:staunton_city_pblc_schs,staunton city pblc schs
+ocd-division/country:us/state:va/place:staunton/school_district:vsdb-staunton,vsdb-staunton
+ocd-division/country:us/state:va/place:staunton/school_district:western_st_hosp,western st hosp
+ocd-division/country:us/state:va/place:suffolk/school_district:suffolk_city_pblc_schs,suffolk city pblc schs
+ocd-division/country:us/state:va/place:suffolk/school_district:the_pruden_ctr._for_industry_and_tech.,the pruden ctr. for industry and tech.
 ocd-division/country:us/state:va/county:surry/school_district:surry_co_pblc_schs,surry co pblc schs
 ocd-division/country:us/state:va/county:sussex/school_district:sussex_co_pblc_schs,sussex co pblc schs
 ocd-division/country:us/state:va/county:tazewell/school_district:tazewell_co_pblc_schs,tazewell co pblc schs
-ocd-division/country:us/state:va/county:virginia_beach_city/school_district:va_beach_city_pblc_schs,va beach city pblc schs
+ocd-division/country:us/state:va/place:virginia_beach/school_district:va_beach_city_pblc_schs,va beach city pblc schs
 ocd-division/country:us/state:va/county:warren/school_district:warren_co_pblc_schs,warren co pblc schs
 ocd-division/country:us/state:va/county:washington/school_district:a._linwood_holton_gov_sch,a. linwood holton gov sch
 ocd-division/country:us/state:va/county:washington/school_district:washington_co_pblc_schs,washington co pblc schs
-ocd-division/country:us/state:va/county:waynesboro_city/school_district:waynesboro_city_pblc_schs,waynesboro city pblc schs
+ocd-division/country:us/state:va/place:waynesboro/school_district:waynesboro_city_pblc_schs,waynesboro city pblc schs
 ocd-division/country:us/state:va/county:westmoreland/school_district:colonial_beach_pblc_schs,colonial beach pblc schs
 ocd-division/country:us/state:va/county:westmoreland/school_district:westmoreland_co_pblc_schs,westmoreland co pblc schs
-ocd-division/country:us/state:va/county:winchester_city/school_district:frederick_co_pblc_schs,frederick co pblc schs
-ocd-division/country:us/state:va/county:winchester_city/school_district:winchester_city_pblc_schs,winchester city pblc schs
+ocd-division/country:us/state:va/place:winchester/school_district:frederick_co_pblc_schs,frederick co pblc schs
+ocd-division/country:us/state:va/place:winchester/school_district:winchester_city_pblc_schs,winchester city pblc schs
 ocd-division/country:us/state:va/county:wise/school_district:regional_learning_academy~wise_co,regional learning academy/wise co
 ocd-division/country:us/state:va/county:wise/school_district:wise_co_pblc_schs,wise co pblc schs
 ocd-division/country:us/state:va/county:wythe/school_district:regional_alternative~wythe_co,regional alternative/wythe co
@@ -16051,7 +16051,7 @@ ocd-division/country:us/state:vt/county:chittenden/school_district:winooski_scho
 ocd-division/country:us/state:vt/county:chittenden/school_district:winooski_supervisory_district,winooski supervisory district
 ocd-division/country:us/state:vt/county:chittenden/school_district:woodside_juvenile_rehabilitation_center,woodside juvenile rehabilitation center
 ocd-division/country:us/state:vt/county:essex/school_district:averill,averill
-ocd-division/country:us/state:vt/county:essex/school_district:avery's_gore,avery's gore
+ocd-division/country:us/state:vt/county:essex/school_district:avery~s_gore,avery's gore
 ocd-division/country:us/state:vt/county:essex/school_district:bloomfield_school_district,bloomfield school district
 ocd-division/country:us/state:vt/county:essex/school_district:brighton_school_district,brighton school district
 ocd-division/country:us/state:vt/county:essex/school_district:brunswick_school_district,brunswick school district
@@ -16069,8 +16069,8 @@ ocd-division/country:us/state:vt/county:essex/school_district:lunenburg_school_d
 ocd-division/country:us/state:vt/county:essex/school_district:maidstone_school_district,maidstone school district
 ocd-division/country:us/state:vt/county:essex/school_district:norton_school_district,norton school district
 ocd-division/country:us/state:vt/county:essex/school_district:victory_school_district,victory school district
-ocd-division/country:us/state:vt/county:essex/school_district:warner's_grant,warner's grant
-ocd-division/country:us/state:vt/county:essex/school_district:warren's_grant,warren's grant
+ocd-division/country:us/state:vt/county:essex/school_district:warner~s_grant,warner's grant
+ocd-division/country:us/state:vt/county:essex/school_district:warren~s_grant,warren's grant
 ocd-division/country:us/state:vt/county:franklin/school_district:bakersfield_school_district,bakersfield school district
 ocd-division/country:us/state:vt/county:franklin/school_district:bellows_free_academy_union_high_school_~48,bellows free academy union high school #48
 ocd-division/country:us/state:vt/county:franklin/school_district:berkshire_school_district,berkshire school district
@@ -16844,7 +16844,7 @@ ocd-division/country:us/state:wi/county:milwaukee/school_district:franklin_publi
 ocd-division/country:us/state:wi/county:milwaukee/school_district:glendale-river_hills_school_district,glendale-river hills school district
 ocd-division/country:us/state:wi/county:milwaukee/school_district:greendale_school_district,greendale school district
 ocd-division/country:us/state:wi/county:milwaukee/school_district:greenfield_school_district,greenfield school district
-ocd-division/country:us/state:wi/county:milwaukee/school_district:king's_academy_agency,king's academy agency
+ocd-division/country:us/state:wi/county:milwaukee/school_district:king~s_academy_agency,king's academy agency
 ocd-division/country:us/state:wi/county:milwaukee/school_district:maple_dale-indian_hill_school_district,maple dale-indian hill school district
 ocd-division/country:us/state:wi/county:milwaukee/school_district:milwaukee_academy_of_science_agency,milwaukee academy of science agency
 ocd-division/country:us/state:wi/county:milwaukee/school_district:milwaukee_college_preparatory_school_agency,milwaukee college preparatory school agency
@@ -16964,12 +16964,12 @@ ocd-division/country:us/state:wi/county:sheboygan/school_district:plymouth_joint
 ocd-division/country:us/state:wi/county:sheboygan/school_district:random_lake_school_district,random lake school district
 ocd-division/country:us/state:wi/county:sheboygan/school_district:sheboygan_area_school_district,sheboygan area school district
 ocd-division/country:us/state:wi/county:sheboygan/school_district:sheboygan_falls_school_district,sheboygan falls school district
-ocd-division/country:us/state:wi/county:st._croix/school_district:baldwin-woodville_area_school_district,baldwin-woodville area school district
-ocd-division/country:us/state:wi/county:st._croix/school_district:glenwood_city_school_district,glenwood city school district
-ocd-division/country:us/state:wi/county:st._croix/school_district:hudson_school_district,hudson school district
-ocd-division/country:us/state:wi/county:st._croix/school_district:new_richmond_school_district,new richmond school district
-ocd-division/country:us/state:wi/county:st._croix/school_district:saint_croix_central_school_district,saint croix central school district
-ocd-division/country:us/state:wi/county:st._croix/school_district:somerset_school_district,somerset school district
+ocd-division/country:us/state:wi/county:st_croix/school_district:baldwin-woodville_area_school_district,baldwin-woodville area school district
+ocd-division/country:us/state:wi/county:st_croix/school_district:glenwood_city_school_district,glenwood city school district
+ocd-division/country:us/state:wi/county:st_croix/school_district:hudson_school_district,hudson school district
+ocd-division/country:us/state:wi/county:st_croix/school_district:new_richmond_school_district,new richmond school district
+ocd-division/country:us/state:wi/county:st_croix/school_district:saint_croix_central_school_district,saint croix central school district
+ocd-division/country:us/state:wi/county:st_croix/school_district:somerset_school_district,somerset school district
 ocd-division/country:us/state:wi/county:taylor/school_district:gilman_school_district,gilman school district
 ocd-division/country:us/state:wi/county:taylor/school_district:medford_area_public_school_district,medford area public school district
 ocd-division/country:us/state:wi/county:taylor/school_district:rib_lake_school_district,rib lake school district
@@ -17140,7 +17140,7 @@ ocd-division/country:us/state:wy/county:fremont/school_district:fremont_county_s
 ocd-division/country:us/state:wy/county:fremont/school_district:fremont_county_school_district_~25,fremont county school district #25
 ocd-division/country:us/state:wy/county:fremont/school_district:fremont_county_school_district_~38,fremont county school district #38
 ocd-division/country:us/state:wy/county:goshen/school_district:goshen_county_school_district_~1,goshen county school district #1
-ocd-division/country:us/state:wy/county:goshen/school_district:saint_joseph's_children's_home_-_administration_office,saint joseph's children's home - administration office
+ocd-division/country:us/state:wy/county:goshen/school_district:saint_joseph~s_children~s_home_-_administration_office,saint joseph's children's home - administration office
 ocd-division/country:us/state:wy/county:hot_springs/school_district:hot_springs_county_school_district_~1,hot springs county school district #1
 ocd-division/country:us/state:wy/county:hot_springs/school_district:northwest_wyoming_boces,northwest wyoming boces
 ocd-division/country:us/state:wy/county:johnson/school_district:johnson_county_school_district_~1,johnson county school district #1
