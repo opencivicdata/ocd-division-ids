@@ -5887,8 +5887,8 @@ ocd-division/country:us/state:ma/county:worcester/school_district:winchendon,win
 ocd-division/country:us/state:ma/county:worcester/school_district:worcester,worcester
 ocd-division/country:us/state:md/county:allegany/school_district:allegany_county_public_schools,allegany county public schools
 ocd-division/country:us/state:md/county:anne_arundel/school_district:anne_arundel_county_public_schools,anne arundel county public schools
-ocd-division/country:us/state:md/county:baltimore_city/school_district:baltimore_city_public_schools,baltimore city public schools
-ocd-division/country:us/state:md/county:baltimore_city/school_district:seed_school_of_maryland,seed school of maryland
+ocd-division/country:us/state:md/place:baltimore/school_district:baltimore_city_public_schools,baltimore city public schools
+ocd-division/country:us/state:md/place:baltimore/school_district:seed_school_of_maryland,seed school of maryland
 ocd-division/country:us/state:md/county:baltimore/school_district:baltimore_county_public_schools,baltimore county public schools
 ocd-division/country:us/state:md/county:calvert/school_district:calvert_county_public_schools,calvert county public schools
 ocd-division/country:us/state:md/county:caroline/school_district:caroline_county_public_schools,caroline county public schools
@@ -5903,7 +5903,7 @@ ocd-division/country:us/state:md/county:howard/school_district:howard_county_pub
 ocd-division/country:us/state:md/county:kent/school_district:kent_county_public_schools,kent county public schools
 ocd-division/country:us/state:md/county:montgomery/school_district:montgomery_county_public_schools,montgomery county public schools
 ocd-division/country:us/state:md/county:prince_george~s/school_district:prince_george's_county_public_schools,prince george's county public schools
-ocd-division/country:us/state:md/county:queen_anne's/school_district:queen_anne's_county_public_schools,queen anne's county public schools
+ocd-division/country:us/state:md/county:queen_anne~s/school_district:queen_anne's_county_public_schools,queen anne's county public schools
 ocd-division/country:us/state:md/county:somerset/school_district:somerset_county_public_schools,somerset county public schools
 ocd-division/country:us/state:md/county:st_mary~s/school_district:st_mary~s_county_public_schools,st mary's county public schools
 ocd-division/country:us/state:md/county:talbot/school_district:talbot_county_public_schools,talbot county public schools
@@ -8025,23 +8025,23 @@ ocd-division/country:us/state:mo/county:st_francois/school_district:central_r-ii
 ocd-division/country:us/state:mo/county:st_francois/school_district:farmington_r-vii,farmington r-vii
 ocd-division/country:us/state:mo/county:st_francois/school_district:north_st_francois_co._r-i,north st francois co. r-i
 ocd-division/country:us/state:mo/county:st_francois/school_district:west_st_francois_co._r-iv,west st francois co. r-iv
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:carondelet_leadership_academy,carondelet leadership academy
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:city_garden_montessori,city garden montessori
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:confluence_academies,confluence academies
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:construction_careers_center,construction careers center
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:gateway_science_acad~st_louis,gateway science acad/st louis
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:grand_center_arts_academy,grand center arts academy
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:imagine_acad._academic_success,imagine acad. academic success
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:imagine_academy_es_and_math,imagine academy es and math
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:imagine_academy_of_careers,imagine academy of careers
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:kipp_st_louis,kipp st louis
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:lift_for_life_academy,lift for life academy
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:mo_school_for_the_blind,mo school for the blind
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:north_side_community_school,north side community school
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:shearwater_education_foundatn,shearwater education foundatn
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:st_louis_lang_immersion_school,st louis lang immersion school
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:st_louis_charter_school,st louis charter school
-ocd-division/country:us/state:mo/county:st_louis_city/school_district:st_louis_city,st louis city
+ocd-division/country:us/state:mo/place:st_louis/school_district:carondelet_leadership_academy,carondelet leadership academy
+ocd-division/country:us/state:mo/place:st_louis/school_district:city_garden_montessori,city garden montessori
+ocd-division/country:us/state:mo/place:st_louis/school_district:confluence_academies,confluence academies
+ocd-division/country:us/state:mo/place:st_louis/school_district:construction_careers_center,construction careers center
+ocd-division/country:us/state:mo/place:st_louis/school_district:gateway_science_acad~st_louis,gateway science acad/st louis
+ocd-division/country:us/state:mo/place:st_louis/school_district:grand_center_arts_academy,grand center arts academy
+ocd-division/country:us/state:mo/place:st_louis/school_district:imagine_acad._academic_success,imagine acad. academic success
+ocd-division/country:us/state:mo/place:st_louis/school_district:imagine_academy_es_and_math,imagine academy es and math
+ocd-division/country:us/state:mo/place:st_louis/school_district:imagine_academy_of_careers,imagine academy of careers
+ocd-division/country:us/state:mo/place:st_louis/school_district:kipp_st_louis,kipp st louis
+ocd-division/country:us/state:mo/place:st_louis/school_district:lift_for_life_academy,lift for life academy
+ocd-division/country:us/state:mo/place:st_louis/school_district:mo_school_for_the_blind,mo school for the blind
+ocd-division/country:us/state:mo/place:st_louis/school_district:north_side_community_school,north side community school
+ocd-division/country:us/state:mo/place:st_louis/school_district:shearwater_education_foundatn,shearwater education foundatn
+ocd-division/country:us/state:mo/place:st_louis/school_district:st_louis_lang_immersion_school,st louis lang immersion school
+ocd-division/country:us/state:mo/place:st_louis/school_district:st_louis_charter_school,st louis charter school
+ocd-division/country:us/state:mo/place:st_louis/school_district:st_louis_city,st louis city
 ocd-division/country:us/state:mo/county:st_louis/school_district:affton_101,affton 101
 ocd-division/country:us/state:mo/county:st_louis/school_district:bayless,bayless
 ocd-division/country:us/state:mo/county:st_louis/school_district:brentwood,brentwood
@@ -10466,8 +10466,8 @@ ocd-division/country:us/state:nm/county:union/school_district:des_moines_municip
 ocd-division/country:us/state:nm/county:valencia/school_district:belen_consolidated_schools,belen consolidated schools
 ocd-division/country:us/state:nm/county:valencia/school_district:los_lunas_public_schools,los lunas public schools
 ocd-division/country:us/state:nm/county:valencia/school_district:school_of_dreams_academy,school of dreams academy
-ocd-division/country:us/state:nv/county:carson_city/school_district:carson_city_school_district,carson city school district
-ocd-division/country:us/state:nv/county:carson_city/school_district:state-sponsored_charter_schools,state-sponsored charter schools
+ocd-division/country:us/state:nv/place:carson_city/school_district:carson_city_school_district,carson city school district
+ocd-division/country:us/state:nv/place:carson_city/school_district:state-sponsored_charter_schools,state-sponsored charter schools
 ocd-division/country:us/state:nv/county:churchill/school_district:churchill_county_school_district,churchill county school district
 ocd-division/country:us/state:nv/county:clark/school_district:clark_county_school_district,clark county school district
 ocd-division/country:us/state:nv/county:douglas/school_district:douglas_county_school_district,douglas county school district
@@ -15731,7 +15731,7 @@ ocd-division/country:us/state:va/county:accomack/school_district:accomack_co_pbl
 ocd-division/country:us/state:va/county:albemarle/school_district:charlottesville-albemarle_tech,charlottesville-albemarle tech
 ocd-division/country:us/state:va/county:albemarle/school_district:piedmont_regional_ed.,piedmont regional ed.
 ocd-division/country:us/state:va/county:albemarle/school_district:university_of_va,university of va
-ocd-division/country:us/state:va/county:alexandria_city/school_district:alexandria_city_pblc_schs,alexandria city pblc schs
+ocd-division/country:us/state:va/place:alexandria/school_district:alexandria_city_pblc_schs,alexandria city pblc schs
 ocd-division/country:us/state:va/county:alleghany/school_district:alleghany_co_pblc_schs,alleghany co pblc schs
 ocd-division/country:us/state:va/county:alleghany/school_district:jackson_river_governor~s_school,jackson river governor's school
 ocd-division/country:us/state:va/county:alleghany/school_district:jackson_river_tech_ctr,jackson river tech ctr
@@ -15749,19 +15749,19 @@ ocd-division/country:us/state:va/county:augusta/school_district:shenandoah_valle
 ocd-division/country:us/state:va/county:augusta/school_district:valley_vocational_tech,valley vocational tech
 ocd-division/country:us/state:va/county:augusta/school_district:w._wilson_rehab,w. wilson rehab
 ocd-division/country:us/state:va/county:bath/school_district:bath_co_pblc_schs,bath co pblc schs
-ocd-division/country:us/state:va/county:bedford_city/school_district:bedford_city_pblc_schs,bedford city pblc schs
-ocd-division/country:us/state:va/county:bedford_city/school_district:bedford_co_pblc_schs,bedford co pblc schs
+ocd-division/country:us/state:va/place:bedford/school_district:bedford_city_pblc_schs,bedford city pblc schs
+ocd-division/country:us/state:va/place:bedford/school_district:bedford_co_pblc_schs,bedford co pblc schs
 ocd-division/country:us/state:va/county:bland/school_district:bland_co_pblc_schs,bland co pblc schs
 ocd-division/country:us/state:va/county:botetourt/school_district:botetourt_co_pblc_schs,botetourt co pblc schs
 ocd-division/country:us/state:va/county:botetourt/school_district:roanoke_valley_regional_board,roanoke valley regional board
-ocd-division/country:us/state:va/county:bristol_city/school_district:bristol_city_pblc_schs,bristol city pblc schs
-ocd-division/country:us/state:va/county:bristol_city/school_district:crossroads_alternative~bristol_city,crossroads alternative/bristol city
+ocd-division/country:us/state:va/place:bristol/school_district:bristol_city_pblc_schs,bristol city pblc schs
+ocd-division/country:us/state:va/place:bristol/school_district:crossroads_alternative~bristol_city,crossroads alternative/bristol city
 ocd-division/country:us/state:va/county:brunswick/school_district:brunswick_co_pblc_schs,brunswick co pblc schs
 ocd-division/country:us/state:va/county:brunswick/school_district:southside_l.i.n.k._project~brunswick_co,southside l.i.n.k. project/brunswick co
 ocd-division/country:us/state:va/county:buchanan/school_district:buchanan_co_pblc_schs,buchanan co pblc schs
 ocd-division/country:us/state:va/county:buckingham/school_district:buckingham_co_pblc_schs,buckingham co pblc schs
-ocd-division/country:us/state:va/county:buena_vista_city/school_district:buena_vista_city_pblc_schs,buena vista city pblc schs
-ocd-division/country:us/state:va/county:buena_vista_city/school_district:reg_alt_ed_center~buena_vista,reg alt ed center/buena vista
+ocd-division/country:us/state:va/place:buena_vista/school_district:buena_vista_city_pblc_schs,buena vista city pblc schs
+ocd-division/country:us/state:va/place:buena_vista/school_district:reg_alt_ed_center~buena_vista,reg alt ed center/buena vista
 ocd-division/country:us/state:va/county:campbell/school_district:campbell_co_pblc_schs,campbell co pblc schs
 ocd-division/country:us/state:va/county:caroline/school_district:caroline_co_pblc_schs,caroline co pblc schs
 ocd-division/country:us/state:va/county:carroll/school_district:carroll_co_pblc_schs,carroll co pblc schs
@@ -15770,32 +15770,32 @@ ocd-division/country:us/state:va/county:carroll/school_district:s.west_va_trn_ct
 ocd-division/country:us/state:va/county:charles_city/school_district:charles_city_co_pblc_schs,charles city co pblc schs
 ocd-division/country:us/state:va/county:charlotte/school_district:charlotte_co_pblc_schs,charlotte co pblc schs
 ocd-division/country:us/state:va/county:charlotte/school_district:gov_sch_global_economics~tech,gov sch global economics/tech
-ocd-division/country:us/state:va/county:charlottesville_city/school_district:albemarle_co_pblc_schs,albemarle co pblc schs
-ocd-division/country:us/state:va/county:charlottesville_city/school_district:charlottesville_cty_pblc_schs,charlottesville cty pblc schs
-ocd-division/country:us/state:va/county:chesapeake_city/school_district:chesapeake_city_pblc_schs,chesapeake city pblc schs
-ocd-division/country:us/state:va/county:chesapeake_city/school_district:s.east_va_trn_ct,s.east va trn ct
+ocd-division/country:us/state:va/place:charlottesville/school_district:albemarle_co_pblc_schs,albemarle co pblc schs
+ocd-division/country:us/state:va/place:charlottesville/school_district:charlottesville_cty_pblc_schs,charlottesville cty pblc schs
+ocd-division/country:us/state:va/place:chesapeake/school_district:chesapeake_city_pblc_schs,chesapeake city pblc schs
+ocd-division/country:us/state:va/place:chesapeake/school_district:s.east_va_trn_ct,s.east va trn ct
 ocd-division/country:us/state:va/county:chesterfield/school_district:chesterfield_co_pblc_schs,chesterfield co pblc schs
 ocd-division/country:us/state:va/county:clarke/school_district:clarke_co_pblc_schs,clarke co pblc schs
-ocd-division/country:us/state:va/county:colonial_heights_city/school_district:colonial_heights_city_pblc_schs,colonial heights city pblc schs
-ocd-division/country:us/state:va/county:covington_city/school_district:covington_city_pblc_schs,covington city pblc schs
+ocd-division/country:us/state:va/place:colonial_heights/school_district:colonial_heights_city_pblc_schs,colonial heights city pblc schs
+ocd-division/country:us/state:va/place:covington/school_district:covington_city_pblc_schs,covington city pblc schs
 ocd-division/country:us/state:va/county:craig/school_district:craig_co_pblc_schs,craig co pblc schs
 ocd-division/country:us/state:va/county:culpeper/school_district:culpeper_co_pblc_schs,culpeper co pblc schs
 ocd-division/country:us/state:va/county:cumberland/school_district:cumberland_co_pblc_schs,cumberland co pblc schs
-ocd-division/country:us/state:va/county:danville_city/school_district:danville_city_pblc_schs,danville city pblc schs
+ocd-division/country:us/state:va/place:danville/school_district:danville_city_pblc_schs,danville city pblc schs
 ocd-division/country:us/state:va/county:dickenson/school_district:dickenson_co_pblc_schs,dickenson co pblc schs
 ocd-division/country:us/state:va/county:dinwiddie/school_district:central_st_hosp,central st hosp
 ocd-division/country:us/state:va/county:dinwiddie/school_district:dinwiddie_co_pblc_schs,dinwiddie co pblc schs
 ocd-division/country:us/state:va/county:dinwiddie/school_district:s.side_va_trn_ct,s.side va trn ct
-ocd-division/country:us/state:va/county:emporia_city/school_district:emporia,emporia
-ocd-division/country:us/state:va/county:emporia_city/school_district:greensville_co_pblc_schs,greensville co pblc schs
+ocd-division/country:us/state:va/place:emporia/school_district:emporia,emporia
+ocd-division/country:us/state:va/place:emporia/school_district:greensville_co_pblc_schs,greensville co pblc schs
 ocd-division/country:us/state:va/county:essex/school_district:chesapeake_bay_gov_sch,chesapeake bay gov sch
 ocd-division/country:us/state:va/county:essex/school_district:essex_co_pblc_schs,essex co pblc schs
-ocd-division/country:us/state:va/county:fairfax_city/school_district:fairfax_city_pblc_schs,fairfax city pblc schs
+ocd-division/country:us/state:va/place:fairfax/school_district:fairfax_city_pblc_schs,fairfax city pblc schs
 ocd-division/country:us/state:va/county:fairfax/school_district:fairfax_co_pblc_schs,fairfax co pblc schs
 ocd-division/country:us/state:va/county:fairfax/school_district:fairfax-falls_church_comm_svcs_bd,fairfax-falls church comm svcs bd
 ocd-division/country:us/state:va/county:fairfax/school_district:n._va._trn_ct,n. va. trn ct
 ocd-division/country:us/state:va/county:fairfax/school_district:transition_support_resource_ctr~fairfax,transition support resource ctr/fairfax
-ocd-division/country:us/state:va/county:falls_church_city/school_district:falls_church_city_pblc_schs,falls church city pblc schs
+ocd-division/country:us/state:va/place:falls_church/school_district:falls_church_city_pblc_schs,falls church city pblc schs
 ocd-division/country:us/state:va/county:fauquier/school_district:fauquier_co_pblc_schs,fauquier co pblc schs
 ocd-division/country:us/state:va/county:fauquier/school_district:mountain_vista_governor~s_sch,mountain vista governor's sch
 ocd-division/country:us/state:va/county:fauquier/school_district:the_regional_community_alternative_ed_continuum,the regional community alternative ed continuum
@@ -15803,12 +15803,12 @@ ocd-division/country:us/state:va/county:floyd/school_district:floyd_co_pblc_schs
 ocd-division/country:us/state:va/county:fluvanna/school_district:blue_ridge_gov_school,blue ridge gov school
 ocd-division/country:us/state:va/county:fluvanna/school_district:fluvanna_co_pblc_schs,fluvanna co pblc schs
 ocd-division/country:us/state:va/county:fluvanna/school_district:project_return~fluvanna_co,project return/fluvanna co
-ocd-division/country:us/state:va/county:franklin_city/school_district:franklin_city_pblc_schs,franklin city pblc schs
+ocd-division/country:us/state:va/place:franklin/school_district:franklin_city_pblc_schs,franklin city pblc schs
 ocd-division/country:us/state:va/county:franklin/school_district:franklin_co_pblc_schs,franklin co pblc schs
 ocd-division/country:us/state:va/county:frederick/school_district:northwestern_reg_ed_pgm,northwestern reg ed pgm
-ocd-division/country:us/state:va/county:fredericksburg_city/school_district:fredericksburg_city_pblc_schs,fredericksburg city pblc schs
-ocd-division/country:us/state:va/county:galax_city/school_district:coop_ctrs_for_exceptional_children,coop ctrs for exceptional children
-ocd-division/country:us/state:va/county:galax_city/school_district:galax_city_pblc_schs,galax city pblc schs
+ocd-division/country:us/state:va/place:fredericksburg/school_district:fredericksburg_city_pblc_schs,fredericksburg city pblc schs
+ocd-division/country:us/state:va/place:galax/school_district:coop_ctrs_for_exceptional_children,coop ctrs for exceptional children
+ocd-division/country:us/state:va/place:galax/school_district:galax_city_pblc_schs,galax city pblc schs
 ocd-division/country:us/state:va/county:giles/school_district:giles_co_pblc_schs,giles co pblc schs
 ocd-division/country:us/state:va/county:gloucester/school_district:gloucester_co_pblc_schs,gloucester co pblc schs
 ocd-division/country:us/state:va/county:gloucester/school_district:mid_peninsula_reg_spec_ed_ctr,mid peninsula reg spec ed ctr
@@ -15816,21 +15816,21 @@ ocd-division/country:us/state:va/county:goochland/school_district:goochland_co_p
 ocd-division/country:us/state:va/county:grayson/school_district:grayson_co_pblc_schs,grayson co pblc schs
 ocd-division/country:us/state:va/county:greene/school_district:greene_co_pblc_schs,greene co pblc schs
 ocd-division/country:us/state:va/county:halifax/school_district:halifax_co_pblc_schs,halifax co pblc schs
-ocd-division/country:us/state:va/county:hampton_city/school_district:hampton_city_pblc_schs,hampton city pblc schs
-ocd-division/country:us/state:va/county:hampton_city/school_district:new_horizons_career_and_tech_ctr,new horizons career & tech ctr
-ocd-division/country:us/state:va/county:hampton_city/school_district:new_horizons_gov_school,new horizons gov school
-ocd-division/country:us/state:va/county:hampton_city/school_district:new_horizons_regional_educ_ctr-spec_ed,new horizons regional educ ctr-spec ed
+ocd-division/country:us/state:va/place:hampton/school_district:hampton_city_pblc_schs,hampton city pblc schs
+ocd-division/country:us/state:va/place:hampton/school_district:new_horizons_career_and_tech_ctr,new horizons career & tech ctr
+ocd-division/country:us/state:va/place:hampton/school_district:new_horizons_gov_school,new horizons gov school
+ocd-division/country:us/state:va/place:hampton/school_district:new_horizons_regional_educ_ctr-spec_ed,new horizons regional educ ctr-spec ed
 ocd-division/country:us/state:va/county:hanover/school_district:hanover_co_pblc_schs,hanover co pblc schs
-ocd-division/country:us/state:va/county:harrisonburg_city/school_district:harrisonburg_city_pblc_schs,harrisonburg city pblc schs
-ocd-division/country:us/state:va/county:harrisonburg_city/school_district:massanutten_tech_ctr,massanutten tech ctr
-ocd-division/country:us/state:va/county:harrisonburg_city/school_district:rockingham_co_pblc_schs,rockingham co pblc schs
+ocd-division/country:us/state:va/place:harrisonburg/school_district:harrisonburg_city_pblc_schs,harrisonburg city pblc schs
+ocd-division/country:us/state:va/place:harrisonburg/school_district:massanutten_tech_ctr,massanutten tech ctr
+ocd-division/country:us/state:va/place:harrisonburg/school_district:rockingham_co_pblc_schs,rockingham co pblc schs
 ocd-division/country:us/state:va/county:henrico/school_district:henrico_co_pblc_schs,henrico co pblc schs
 ocd-division/country:us/state:va/county:henry/school_district:breaking_barriers_alternative_ed~henry_co,breaking barriers alternative ed/henry co
 ocd-division/country:us/state:va/county:henry/school_district:henry_co_pblc_schs,henry co pblc schs
 ocd-division/country:us/state:va/county:henry/school_district:henry_co~martinsville_reg_pgm,henry co/martinsville reg pgm
 ocd-division/country:us/state:va/county:henry/school_district:piedmont_gov_sch_for_math~sci~tech,piedmont gov sch for math/sci/tech
 ocd-division/country:us/state:va/county:highland/school_district:highland_co_pblc_schs,highland co pblc schs
-ocd-division/country:us/state:va/county:hopewell_city/school_district:hopewell_city_pblc_schs,hopewell city pblc schs
+ocd-division/country:us/state:va/place:hopewell/school_district:hopewell_city_pblc_schs,hopewell city pblc schs
 ocd-division/country:us/state:va/county:isle_of_wight/school_district:isle_of_wight_co_pblc_schs,isle of wight co pblc schs
 ocd-division/country:us/state:va/county:james_city/school_district:eastern_st_hosp,eastern st hosp
 ocd-division/country:us/state:va/county:james_city/school_district:james_city_county,james city county
@@ -15842,19 +15842,19 @@ ocd-division/country:us/state:va/county:king_william/school_district:regional_al
 ocd-division/country:us/state:va/county:king_william/school_district:west_point_pblc_schs,west point pblc schs
 ocd-division/country:us/state:va/county:lancaster/school_district:lancaster_co_pblc_schs,lancaster co pblc schs
 ocd-division/country:us/state:va/county:lee/school_district:lee_co_pblc_schs,lee co pblc schs
-ocd-division/country:us/state:va/county:lexington_city/school_district:lexington_city_pblc_schs,lexington city pblc schs
+ocd-division/country:us/state:va/place:lexington/school_district:lexington_city_pblc_schs,lexington city pblc schs
 ocd-division/country:us/state:va/county:loudoun/school_district:loudoun_co_pblc_schs,loudoun co pblc schs
 ocd-division/country:us/state:va/county:louisa/school_district:louisa_co_pblc_schs,louisa co pblc schs
 ocd-division/country:us/state:va/county:lunenburg/school_district:lunenburg_co_pblc_schs,lunenburg co pblc schs
-ocd-division/country:us/state:va/county:lynchburg_city/school_district:central_virginia_gov_sch_for_sci~tech,central virginia gov sch for sci/tech
-ocd-division/country:us/state:va/county:lynchburg_city/school_district:laurel_regional,laurel regional
-ocd-division/country:us/state:va/county:lynchburg_city/school_district:lynchburg_city_pblc_schs,lynchburg city pblc schs
-ocd-division/country:us/state:va/county:lynchburg_city/school_district:lynchburg_city_secondary_alternative,lynchburg city secondary alternative
+ocd-division/country:us/state:va/place:lynchburg/school_district:central_virginia_gov_sch_for_sci~tech,central virginia gov sch for sci/tech
+ocd-division/country:us/state:va/place:lynchburg/school_district:laurel_regional,laurel regional
+ocd-division/country:us/state:va/place:lynchburg/school_district:lynchburg_city_pblc_schs,lynchburg city pblc schs
+ocd-division/country:us/state:va/place:lynchburg/school_district:lynchburg_city_secondary_alternative,lynchburg city secondary alternative
 ocd-division/country:us/state:va/county:madison/school_district:madison_co_pblc_schs,madison co pblc schs
-ocd-division/country:us/state:va/county:manassas_city/school_district:manassas_city_pblc_schs,manassas city pblc schs
-ocd-division/country:us/state:va/county:manassas_park_city/school_district:manassas_park_city_pblc_schs,manassas park city pblc schs
-ocd-division/country:us/state:va/county:manassas_park_city/school_district:new_dominion_alt._ctr.~prince_william_co.,new dominion alt. ctr./prince william co.
-ocd-division/country:us/state:va/county:martinsville_city/school_district:martinsville_city_pblc_schs,martinsville city pblc schs
+ocd-division/country:us/state:va/place:manassas/school_district:manassas_city_pblc_schs,manassas city pblc schs
+ocd-division/country:us/state:va/place:manassas_park/school_district:manassas_park_city_pblc_schs,manassas park city pblc schs
+ocd-division/country:us/state:va/place:manassas_park/school_district:new_dominion_alt._ctr.~prince_william_co.,new dominion alt. ctr./prince william co.
+ocd-division/country:us/state:va/place:martinsville/school_district:martinsville_city_pblc_schs,martinsville city pblc schs
 ocd-division/country:us/state:va/county:mathews/school_district:mathews_co_pblc_schs,mathews co pblc schs
 ocd-division/country:us/state:va/county:mecklenburg/school_district:mecklenburg_co_pblc_schs,mecklenburg co pblc schs
 ocd-division/country:us/state:va/county:middlesex/school_district:middlesex_co_pblc_schs,middlesex co pblc schs
@@ -15862,29 +15862,29 @@ ocd-division/country:us/state:va/county:montgomery/school_district:alt_ed_prgm~b
 ocd-division/country:us/state:va/county:montgomery/school_district:montgomery_co_pblc_schs,montgomery co pblc schs
 ocd-division/country:us/state:va/county:nelson/school_district:nelson_co_pblc_schs,nelson co pblc schs
 ocd-division/country:us/state:va/county:new_kent/school_district:new_kent_co_pblc_schs,new kent co pblc schs
-ocd-division/country:us/state:va/county:newport_news_city/school_district:enterprise_academy~newport_news_city,enterprise academy/newport news city
-ocd-division/country:us/state:va/county:newport_news_city/school_district:newport_news_city_pblc_schs,newport news city pblc schs
-ocd-division/country:us/state:va/county:norfolk_city/school_district:governor~s_school_for_the_arts,governor's school for the arts
-ocd-division/country:us/state:va/county:norfolk_city/school_district:kings_daughters,kings daughters
-ocd-division/country:us/state:va/county:norfolk_city/school_district:norfolk_city_pblc_schs,norfolk city pblc schs
-ocd-division/country:us/state:va/county:norfolk_city/school_district:southeastern_coop_ed_pgm,southeastern coop ed pgm
-ocd-division/country:us/state:va/county:norfolk_city/school_district:tidewater_regional_alternative_ed_project,tidewater regional alternative ed project
+ocd-division/country:us/state:va/place:newport_news/school_district:enterprise_academy~newport_news_city,enterprise academy/newport news city
+ocd-division/country:us/state:va/place:newport_news/school_district:newport_news_city_pblc_schs,newport news city pblc schs
+ocd-division/country:us/state:va/place:norfolk/school_district:governor~s_school_for_the_arts,governor's school for the arts
+ocd-division/country:us/state:va/place:norfolk/school_district:kings_daughters,kings daughters
+ocd-division/country:us/state:va/place:norfolk/school_district:norfolk_city_pblc_schs,norfolk city pblc schs
+ocd-division/country:us/state:va/place:norfolk/school_district:southeastern_coop_ed_pgm,southeastern coop ed pgm
+ocd-division/country:us/state:va/place:norfolk/school_district:tidewater_regional_alternative_ed_project,tidewater regional alternative ed project
 ocd-division/country:us/state:va/county:northampton/school_district:northampton_co_pblc_schs,northampton co pblc schs
 ocd-division/country:us/state:va/county:northampton/school_district:project_renew~northampton_co,project renew/northampton co
 ocd-division/country:us/state:va/county:northumberland/school_district:northern_neck_regional,northern neck regional
 ocd-division/country:us/state:va/county:northumberland/school_district:northumberland_co_pblc_schs,northumberland co pblc schs
-ocd-division/country:us/state:va/county:norton_city/school_district:norton_city_pblc_schs,norton city pblc schs
+ocd-division/country:us/state:va/place:norton/school_district:norton_city_pblc_schs,norton city pblc schs
 ocd-division/country:us/state:va/county:nottoway/school_district:nottoway_co_pblc_schs,nottoway co pblc schs
 ocd-division/country:us/state:va/county:orange/school_district:orange_co_pblc_schs,orange co pblc schs
 ocd-division/country:us/state:va/county:page/school_district:page_co_pblc_schs,page co pblc schs
 ocd-division/country:us/state:va/county:patrick/school_district:patrick_co_pblc_schs,patrick co pblc schs
-ocd-division/country:us/state:va/county:petersburg_city/school_district:appomattox_regional_gov_sch,appomattox regional gov sch
-ocd-division/country:us/state:va/county:petersburg_city/school_district:petersburg_city_pblc_schs,petersburg city pblc schs
-ocd-division/country:us/state:va/county:petersburg_city/school_district:petersburg_regional_alternative,petersburg regional alternative
+ocd-division/country:us/state:va/place:petersburg/school_district:appomattox_regional_gov_sch,appomattox regional gov sch
+ocd-division/country:us/state:va/place:petersburg/school_district:petersburg_city_pblc_schs,petersburg city pblc schs
+ocd-division/country:us/state:va/place:petersburg/school_district:petersburg_regional_alternative,petersburg regional alternative
 ocd-division/country:us/state:va/county:pittsylvania/school_district:pittsylvania_co_pblc_schs,pittsylvania co pblc schs
 ocd-division/country:us/state:va/county:pittsylvania/school_district:regional_alternative~pittslvania_co,regional alternative/pittslvania co
-ocd-division/country:us/state:va/county:poquoson_city/school_district:poquoson_city_pblc_schs,poquoson city pblc schs
-ocd-division/country:us/state:va/county:portsmouth_city/school_district:portsmouth_city_pblc_schs,portsmouth city pblc schs
+ocd-division/country:us/state:va/place:poquoson/school_district:poquoson_city_pblc_schs,poquoson city pblc schs
+ocd-division/country:us/state:va/place:portsmouth/school_district:portsmouth_city_pblc_schs,portsmouth city pblc schs
 ocd-division/country:us/state:va/county:powhatan/school_district:powhatan_co_pblc_schs,powhatan co pblc schs
 ocd-division/country:us/state:va/county:powhatan/school_district:project_return~powhatan_co,project return/powhatan co
 ocd-division/country:us/state:va/county:prince_edward/school_district:prince_edward_co_pblc_schs,prince edward co pblc schs
@@ -15895,26 +15895,26 @@ ocd-division/country:us/state:va/county:prince_william/school_district:prince_wi
 ocd-division/country:us/state:va/county:prince_william/school_district:the_governor~s_school_@_innovation_park,the governor's school @ innovation park
 ocd-division/country:us/state:va/county:pulaski/school_district:pulaski_co_pblc_schs,pulaski co pblc schs
 ocd-division/country:us/state:va/county:pulaski/school_district:southwest_virginia_gov_sch,southwest virginia gov sch
-ocd-division/country:us/state:va/county:radford_city/school_district:radford_city_pblc_schs,radford city pblc schs
+ocd-division/country:us/state:va/place:radford/school_district:radford_city_pblc_schs,radford city pblc schs
 ocd-division/country:us/state:va/county:rappahannock/school_district:rappahannock_co_pblc_schs,rappahannock co pblc schs
-ocd-division/country:us/state:va/county:richmond_city/school_district:department_of_correctional_education,department of correctional education
-ocd-division/country:us/state:va/county:richmond_city/school_district:doe_sop_educ_programs,doe sop educ programs
-ocd-division/country:us/state:va/county:richmond_city/school_district:maggie_l._walker_gov_sch,maggie l. walker gov sch
-ocd-division/country:us/state:va/county:richmond_city/school_district:mcv~va_treatment_ctr,mcv/va treatment ctr
-ocd-division/country:us/state:va/county:richmond_city/school_district:medical_college_of_va,medical college of va
-ocd-division/country:us/state:va/county:richmond_city/school_district:metro_richmond_alternative_ed,metro richmond alternative ed
-ocd-division/country:us/state:va/county:richmond_city/school_district:richmond_city_pblc_schs,richmond city pblc schs
+ocd-division/country:us/state:va/place:richmond/school_district:department_of_correctional_education,department of correctional education
+ocd-division/country:us/state:va/place:richmond/school_district:doe_sop_educ_programs,doe sop educ programs
+ocd-division/country:us/state:va/place:richmond/school_district:maggie_l._walker_gov_sch,maggie l. walker gov sch
+ocd-division/country:us/state:va/place:richmond/school_district:mcv~va_treatment_ctr,mcv/va treatment ctr
+ocd-division/country:us/state:va/place:richmond/school_district:medical_college_of_va,medical college of va
+ocd-division/country:us/state:va/place:richmond/school_district:metro_richmond_alternative_ed,metro richmond alternative ed
+ocd-division/country:us/state:va/place:richmond/school_district:richmond_city_pblc_schs,richmond city pblc schs
 ocd-division/country:us/state:va/county:richmond/school_district:northern_neck_regional_alternative_ed,northern neck regional alternative ed
 ocd-division/country:us/state:va/county:richmond/school_district:northern_neck_technical_ctr,northern neck technical ctr
 ocd-division/country:us/state:va/county:richmond/school_district:richmond_co_pblc_schs,richmond co pblc schs
-ocd-division/country:us/state:va/county:roanoke_city/school_district:reg_alternative_plus_self_project~roanoke_city,reg alternative plus self project/roanoke city
-ocd-division/country:us/state:va/county:roanoke_city/school_district:roanoke_city_pblc_schs,roanoke city pblc schs
-ocd-division/country:us/state:va/county:roanoke_city/school_district:roanoke_valley_gov_sch,roanoke valley gov sch
+ocd-division/country:us/state:va/place:roanoke/school_district:reg_alternative_plus_self_project~roanoke_city,reg alternative plus self project/roanoke city
+ocd-division/country:us/state:va/place:roanoke/school_district:roanoke_city_pblc_schs,roanoke city pblc schs
+ocd-division/country:us/state:va/place:roanoke/school_district:roanoke_valley_gov_sch,roanoke valley gov sch
 ocd-division/country:us/state:va/county:roanoke/school_district:roanoke_co_pblc_schs,roanoke co pblc schs
 ocd-division/country:us/state:va/county:rockbridge/school_district:rockbridge_co_pblc_schs,rockbridge co pblc schs
 ocd-division/country:us/state:va/county:russell/school_district:project_bridge~russell_co,project bridge/russell co
 ocd-division/country:us/state:va/county:russell/school_district:russell_co_pblc_schs,russell co pblc schs
-ocd-division/country:us/state:va/county:salem_city/school_district:salem_city_pblc_schs,salem city pblc schs
+ocd-division/country:us/state:va/place:salem/school_district:salem_city_pblc_schs,salem city pblc schs
 ocd-division/country:us/state:va/county:scott/school_district:renaissance~scott_co,renaissance/scott co
 ocd-division/country:us/state:va/county:scott/school_district:scott_co_pblc_schs,scott co pblc schs
 ocd-division/country:us/state:va/county:shenandoah/school_district:massanutten_governor~s_sch,massanutten governor's sch
@@ -15926,24 +15926,24 @@ ocd-division/country:us/state:va/county:spotsylvania/school_district:commonwealt
 ocd-division/country:us/state:va/county:spotsylvania/school_district:spotsylvania_co_pblc_schs,spotsylvania co pblc schs
 ocd-division/country:us/state:va/county:stafford/school_district:regional_alternative_ed~stafford_co,regional alternative ed/stafford co
 ocd-division/country:us/state:va/county:stafford/school_district:stafford_co_pblc_schs,stafford co pblc schs
-ocd-division/country:us/state:va/county:staunton_city/school_district:commonwealth_ctr_for_children_and_adolescents,commonwealth ctr for children & adolescents
-ocd-division/country:us/state:va/county:staunton_city/school_district:staunton_city_pblc_schs,staunton city pblc schs
-ocd-division/country:us/state:va/county:staunton_city/school_district:vsdb-staunton,vsdb-staunton
-ocd-division/country:us/state:va/county:staunton_city/school_district:western_st_hosp,western st hosp
-ocd-division/country:us/state:va/county:suffolk_city/school_district:suffolk_city_pblc_schs,suffolk city pblc schs
-ocd-division/country:us/state:va/county:suffolk_city/school_district:the_pruden_ctr._for_industry_and_tech.,the pruden ctr. for industry and tech.
+ocd-division/country:us/state:va/place:staunton/school_district:commonwealth_ctr_for_children_and_adolescents,commonwealth ctr for children & adolescents
+ocd-division/country:us/state:va/place:staunton/school_district:staunton_city_pblc_schs,staunton city pblc schs
+ocd-division/country:us/state:va/place:staunton/school_district:vsdb-staunton,vsdb-staunton
+ocd-division/country:us/state:va/place:staunton/school_district:western_st_hosp,western st hosp
+ocd-division/country:us/state:va/place:suffolk/school_district:suffolk_city_pblc_schs,suffolk city pblc schs
+ocd-division/country:us/state:va/place:suffolk/school_district:the_pruden_ctr._for_industry_and_tech.,the pruden ctr. for industry and tech.
 ocd-division/country:us/state:va/county:surry/school_district:surry_co_pblc_schs,surry co pblc schs
 ocd-division/country:us/state:va/county:sussex/school_district:sussex_co_pblc_schs,sussex co pblc schs
 ocd-division/country:us/state:va/county:tazewell/school_district:tazewell_co_pblc_schs,tazewell co pblc schs
-ocd-division/country:us/state:va/county:virginia_beach_city/school_district:va_beach_city_pblc_schs,va beach city pblc schs
+ocd-division/country:us/state:va/place:virginia_beach/school_district:va_beach_city_pblc_schs,va beach city pblc schs
 ocd-division/country:us/state:va/county:warren/school_district:warren_co_pblc_schs,warren co pblc schs
 ocd-division/country:us/state:va/county:washington/school_district:a._linwood_holton_gov_sch,a. linwood holton gov sch
 ocd-division/country:us/state:va/county:washington/school_district:washington_co_pblc_schs,washington co pblc schs
-ocd-division/country:us/state:va/county:waynesboro_city/school_district:waynesboro_city_pblc_schs,waynesboro city pblc schs
+ocd-division/country:us/state:va/place:waynesboro/school_district:waynesboro_city_pblc_schs,waynesboro city pblc schs
 ocd-division/country:us/state:va/county:westmoreland/school_district:colonial_beach_pblc_schs,colonial beach pblc schs
 ocd-division/country:us/state:va/county:westmoreland/school_district:westmoreland_co_pblc_schs,westmoreland co pblc schs
-ocd-division/country:us/state:va/county:winchester_city/school_district:frederick_co_pblc_schs,frederick co pblc schs
-ocd-division/country:us/state:va/county:winchester_city/school_district:winchester_city_pblc_schs,winchester city pblc schs
+ocd-division/country:us/state:va/place:winchester/school_district:frederick_co_pblc_schs,frederick co pblc schs
+ocd-division/country:us/state:va/place:winchester/school_district:winchester_city_pblc_schs,winchester city pblc schs
 ocd-division/country:us/state:va/county:wise/school_district:regional_learning_academy~wise_co,regional learning academy/wise co
 ocd-division/country:us/state:va/county:wise/school_district:wise_co_pblc_schs,wise co pblc schs
 ocd-division/country:us/state:va/county:wythe/school_district:regional_alternative~wythe_co,regional alternative/wythe co

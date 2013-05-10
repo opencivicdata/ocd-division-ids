@@ -50,7 +50,7 @@ if __name__ == '__main__':
 
     seen_parents -= set(ids.keys())
     print('{0} unknown parents'.format(len(seen_parents)))
-    for parent in seen_parents:
+    for parent in sorted(seen_parents):
         print('   ', parent)
 
     for type_, count in types.most_common():
