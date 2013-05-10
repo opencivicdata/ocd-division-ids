@@ -9,6 +9,9 @@ import argparse
 import collections
 
 
+VALID_ID = re.compile('ocd-division/country:\w\w(/\w+:[a-z._~-])*')
+
+
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='verify published CSV files')
     parser.add_argument('country', type=str, default=None,
@@ -19,6 +22,7 @@ if __name__ == '__main__':
 
     ids = collections.defaultdict(list)
     seen_parents = set()
+    invalid_ids = set()
     types = collections.Counter()
     all_rows = []
 
@@ -36,6 +40,9 @@ if __name__ == '__main__':
                     id_, ', '.join(ids[id_]), filename))
             ids[id_].append(filename)
 
+            if not VALID_ID.match(id_):
+                invalid_ids.add(id_)
+
             # check parents
             parent, endpiece = id_.rsplit('/', 1)
             if parent != 'ocd-division':
@@ -46,15 +53,20 @@ if __name__ == '__main__':
             types[type_] += 1
 
     if not duplicates:
-        print('no duplicates')
+        print('0 duplicates')
 
     seen_parents -= set(ids.keys())
     print('{0} unknown parents'.format(len(seen_parents)))
     for parent in sorted(seen_parents):
         print('   ', parent)
 
+    print('{0} invalid ids'.format(len(invalid_ids)))
+    for i in sorted(invalid_ids):
+        print('   ', i)
+
+    print('stats')
     for type_, count in types.most_common():
-        print(type_, count)
+        print('   ', type_, count)
 
     # write output file
     if not duplicates and not seen_parents:

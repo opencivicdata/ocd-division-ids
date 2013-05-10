@@ -12,7 +12,7 @@ The goal of this project is to provide somewhat predictable and globally unique 
 
 ## ID Format
 
-IDs are in the format `ocd-location/country:<country_code>[/<type>:<type_id>]+`
+IDs are in the format `ocd-division/country:<country_code>[/<type>:<type_id>]+`
 
 * **country_code** - [ISO-3166-1 alpha-2 code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2) for country
 * **type** - type of boundary (e.g. `'country', 'state', 'town', 'city', 'cd', 'sldl', 'sldu'`)  
