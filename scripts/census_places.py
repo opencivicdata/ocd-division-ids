@@ -328,7 +328,7 @@ if __name__ == '__main__':
         all_fips = [(state.abbr.lower(), state.fips) for state in us.STATES]
         national_csvfile = csv.writer(open('identifiers/country-us/us-congressional-districts.csv', 'w'))
         national_geofile = csv.writer(open('mappings/us-census-geoids/us-congressional-districts.csv', 'w'))
-        process_national_zip(national_csvfile, national_geofile)
+        #process_national_zip(national_csvfile, national_geofile)
     else:
         all_fips = [(args.state, us.states.lookup(args.state).fips)]
 
