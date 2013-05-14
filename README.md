@@ -30,7 +30,7 @@ IDs are in the format `ocd-division/country:<country_code>[/<type>:<type_id>]+`
 
 * IDs should not attempt to capture the full hierarchy of all entities, but enough to be uniquely descriptive.  (e.g. If there are school districts at the county and city level, county & city are important disambiguators and should be included in the identifier)
 * Whenever possible, all geographic ids of a given type should be defined at the same time, for example all state geographies should be defined up front.  Similarly, all cities within North Carolina should be defined at once to avoid accidentally choosing a conflicting name.
-* If a set of commonly accepted identifiers for a type already exists (such as postal code for US states) it should be used.  Numeric ids (such as county FIPS codes) should not be used if textual names are clear and unambiguous, but may be appended to help resolve ambiguities on a per-case basis.
+* If a set of commonly accepted identifiers for a type already exists (such as postal code abbreviations for US states) it should be used.  Numeric ids (such as county FIPS codes) should not be used if textual names are clear and unambiguous, but may be appended to help resolve ambiguities on a per-case basis.
 * Judgement should be used to not to grow the set of types unnecessarily.  A list of existing types should be published and new ids making use of an undefined type_id should be appropriately justified.
     * For example: It is recommended that separate types are not created for 'town', 'city', 'village' unless the parent jurisdiction has clear-cut differences between these types that are useful.  In the United States this is not the case so the Census-recommended term 'place' is used instead.
 
@@ -61,7 +61,7 @@ IDs are in the format `ocd-division/country:<country_code>[/<type>:<type_id>]+`
 * Cary, North Carolina  (note that despite being within Wake County this is not indicated due to not being an identifying feature)
   * ocd-division/country:us/state:nc/place:cary
 * Kildaire Farms Homeowners Association, Cary, North Carolina 
-  * ocd-division/country:us/state:nc/place:cary/hoa:kildairefarms
+  * ocd-division/country:us/state:nc/place:cary/hoa:kildaire_farms
 * Washington DC, Ward 8
   * ocd-division/country:us/district:dc/ward:8 
 * Washington DC, ANC 4A
