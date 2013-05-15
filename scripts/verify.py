@@ -9,7 +9,7 @@ import argparse
 import collections
 
 
-VALID_ID = re.compile('^ocd-division/country:\w\w(/\w+:[0-9A-Za-z._~-]+)*$')
+VALID_ID = re.compile('^ocd-division/country:\w\w(/\w+:[\w\d._~-]+)*$')
 
 
 if __name__ == '__main__':
