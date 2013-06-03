@@ -7,7 +7,7 @@ require "optparse"
 
 class Runner
   class << self
-    attr_reader :csv_filename
+    attr_reader :csv_filename, :translatable
   end
 
   # Returns the command-line option parser.
@@ -16,15 +16,23 @@ class Runner
   def opts
     @opts ||= OptionParser.new do |opts|
       opts.program_name = File.basename($PROGRAM_NAME)
-      opts.banner = <<-EOS
-    Usage: #{opts.program_name} COMMAND
 
-    Commands:
-      identifiers  Prints a CSV of identifiers and English names, e.g.:
-                   #{opts.program_name} identifiers > identifiers/country-ca/#{self.class.csv_filename}
-      mappings     Prints a CSV of identifiers and French names, e.g.:
-                   #{opts.program_name} mappings > mappings/country-ca-fr/#{self.class.csv_filename}
+      banner = <<-EOS
+Usage: #{opts.program_name} COMMAND
+
+Commands:
+  identifiers   Prints a CSV of identifiers and English names, e.g.:
+                #{opts.program_name} identifiers > identifiers/country-ca/#{self.class.csv_filename}
       EOS
+
+      if self.class.translatable
+        banner << <<-EOS
+  translations  Prints a CSV of identifiers and French names, e.g.:
+                #{opts.program_name} translations > mappings/country-ca-fr/#{self.class.csv_filename}
+        EOS
+      end
+
+      opts.banner = banner
 
       opts.separator ""
       opts.separator "Options:"

@@ -9,6 +9,7 @@ require "nokogiri"
 
 class CA < Runner
   @csv_filename = "ca_federal_electoral_districts.csv"
+  @translatable = true
 
   def identifiers(language = "e")
     puts CSV.generate{|csv|
@@ -30,7 +31,7 @@ class CA < Runner
     }
   end
 
-  def mappings
+  def translations
     identifiers("F")
   end
 end

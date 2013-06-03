@@ -10,6 +10,7 @@ require "dbf"
 
 class NB < Runner
   @csv_filename = "province-nb-electoral_districts.csv"
+  @translatable = true
 
   def identifiers(language = "E")
     Zip::ZipFile.open(open("http://www.gnb.ca/elections/pdf/2010PEDMaps/NB_Electoral_Districts.zip")) do |zipfile|
@@ -35,7 +36,7 @@ class NB < Runner
     end
   end
 
-  def mappings
+  def translations
     identifiers("F")
   end
 end
