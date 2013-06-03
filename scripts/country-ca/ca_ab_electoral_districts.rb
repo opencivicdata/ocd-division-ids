@@ -9,6 +9,7 @@ class AB < Runner
   @csv_filename = "province-ab-electoral_districts.csv"
 
   def identifiers
+    # Also available as deeply-nested lists at http://www.electionsalberta.ab.ca/Public%20Website/112.htm
     ShapefileParser.new(
       "http://altalis.com/Samples/Provincial%20Electoral%20Divisions%20Current%202010.zip",
       "ocd-division/country:ca/province:ab/ped:", {
