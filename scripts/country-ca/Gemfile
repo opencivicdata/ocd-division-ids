@@ -1,2 +1,4 @@
 source 'https://rubygems.org'
-gem 'nokogiri'
+gem 'dbf', '~> 2.0.3'
+gem 'nokogiri', '~> 1.5.9'
+gem 'rubyzip', '~> 0.9.9'
