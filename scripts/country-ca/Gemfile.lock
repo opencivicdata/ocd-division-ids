@@ -1,10 +1,16 @@
 GEM
   remote: https://rubygems.org/
   specs:
+    dbf (2.0.3)
+      fastercsv (~> 1.5.4)
+    fastercsv (1.5.5)
     nokogiri (1.5.9)
+    rubyzip (0.9.9)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  nokogiri
+  dbf (~> 2.0.3)
+  nokogiri (~> 1.5.9)
+  rubyzip (~> 0.9.9)
