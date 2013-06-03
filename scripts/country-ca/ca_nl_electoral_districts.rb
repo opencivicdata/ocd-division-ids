@@ -6,7 +6,6 @@ require File.expand_path(File.join('..', 'utils.rb'), __FILE__)
 # Scrapes Newfoundland and Labrador electoral district codes and names from assembly.nl.ca
 
 require "nokogiri"
-require "active_support/core_ext/string/inflections"
 
 class NL < Runner
   @csv_filename = "province-nl-electoral_districts.csv"
