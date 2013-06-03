@@ -124,7 +124,7 @@ class ShapefileRecord
 
   def identifier
     if mappings.key?(:identifier)
-      self[:identifier]
+      self[:identifier].to_s.downcase
     else
       name.parameterize
     end
