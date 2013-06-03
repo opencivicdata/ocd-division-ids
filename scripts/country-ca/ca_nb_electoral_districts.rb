@@ -10,7 +10,8 @@ class NB < Runner
   @translatable = true
 
   def identifiers(language = "E")
-    # Also available as inconsistently formatted lists at http://www2.gnb.ca/content/gnb/fr/contacts/dept_renderer.154.html#structure
+    # Also available as inconsistently formatted lists.
+    # @see http://www2.gnb.ca/content/gnb/fr/contacts/dept_renderer.154.html#structure
     ShapefileParser.new(
       "http://www.gnb.ca/elections/pdf/2010PEDMaps/NB_Electoral_Districts.zip",
       "ocd-division/country:ca/province:nb/ped:", {
