@@ -7,7 +7,7 @@ require "optparse"
 
 class Runner
   class << self
-    attr_reader :program_name, :csv_filename
+    attr_reader :csv_filename
   end
 
   # Returns the command-line option parser.
@@ -15,7 +15,7 @@ class Runner
   # @return [OptionParser] the command-line option parser
   def opts
     @opts ||= OptionParser.new do |opts|
-      opts.program_name = self.class.program_name
+      opts.program_name = File.basename($PROGRAM_NAME)
       opts.banner = <<-EOS
     Usage: #{opts.program_name} COMMAND
 

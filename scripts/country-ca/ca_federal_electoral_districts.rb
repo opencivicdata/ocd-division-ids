@@ -8,7 +8,6 @@ require File.expand_path(File.join('..', 'utils.rb'), __FILE__)
 require "nokogiri"
 
 class CA < Runner
-  @program_name = "ca_federal_electoral_districts.rb"
   @csv_filename = "ca_federal_electoral_districts.csv"
 
   def identifiers(language = "e")

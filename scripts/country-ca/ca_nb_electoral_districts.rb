@@ -9,7 +9,6 @@ require "zip/zip"
 require "dbf"
 
 class NB < Runner
-  @program_name = "ca_nb_electoral_districts.rb"
   @csv_filename = "province-nb-electoral_districts.csv"
 
   def identifiers(language = "E")
