@@ -22,9 +22,9 @@ IDs are in the format `ocd-division/country:<country_code>[/<type>:<type_id>]+`
   * Valid characters are lowercase UTF-8 letters, numerals (0-9), period (.), hyphen (-), underscore (\_), and tilde (~).
       * These characters match the unreserved characters in a URI [RFC 3986 section 2.3](http://www.rfc-editor.org/rfc/rfc3986.txt).
   * Characters should be converted to UTF-8.
-  * Uppercase letters should be converted to lowercase.
+  * Uppercase characters should be converted to lowercase.
   * Spaces should be converted to underscores.
-  * All invalid characters should be converted to tilde (~).
+  * All invalid characters should be converted to tildes (~).
   * Leading zeros should be dropped unless doing so changes the meaning of the identifier.
 
 
