@@ -124,7 +124,7 @@ class ShapefileRecord
 
   def identifier
     if mappings.key?(:identifier)
-      self[:identifier].to_s.downcase
+      identifier_without_leading_zeros.downcase
     else
       name.parameterize
     end
@@ -141,9 +141,15 @@ class ShapefileRecord
 
   def sort_key
     if mappings.key?(:identifier)
-      Integer(self[:identifier]) rescue self[:identifier]
+      Integer(identifier_without_leading_zeros) rescue self[:identifier]
     else
       name
     end
+  end
+
+private
+
+  def identifier_without_leading_zeros
+    self[:identifier].to_s.sub(/^0+/, '')
   end
 end
