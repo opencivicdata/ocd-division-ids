@@ -19,10 +19,10 @@ IDs are in the format `ocd-division/country:<country_code>[/<type>:<type_id>]+`
   * As work progresses a list of possible types will be curated, but type is mostly open-ended.
   * Types should be comprised entirely of lower case letters.
 * **type_id** - A unique identifier for the entity at this level.  
-  * Valid Characters are UTF-8 letters normalized to lower case, numerals 0-9, period (.), hyphen (-), underscore (\_), and tilde (~).
+  * Valid characters are lowercase UTF-8 letters, numerals 0-9, period (.), hyphen (-), underscore (\_), and tilde (~).
       * These characters match the unreserved characters in a URI [RFC 3986 section 2.3](http://www.rfc-editor.org/rfc/rfc3986.txt).
   * Spaces should be converted to underscores.
-  * Special/punctuation characters (other than period, hyphen, underscore and tilde) should be converted to tilde (~).
+  * All invalid characters should be converted to tilde (~).
   * Leading zeros should be dropped unless doing so changes the meaning of the identifier.
 
 
