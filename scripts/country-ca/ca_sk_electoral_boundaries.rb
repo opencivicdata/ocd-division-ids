@@ -12,20 +12,18 @@ class SK < Runner
   @translatable = false # shapefile is unilingual
 
   def identifiers
-    puts CSV.generate{|csv|
-      # The zip file from geosask.ca contains one shapefile for each of the 58
-      # electoral districts. Only the shapefile assigns numeric identifiers;
-      # those names and identifiers do not co-occur anywhere else.
-      Nokogiri::HTML(open("http://www.elections.sk.ca/publications/poll-maps/individual-constituencies")).css("table table a").each do |a|
-        name = a.text.gsub(/\p{Space}+/, ' ').strip
-        next if name.empty?
+    # The zip file from geosask.ca contains one shapefile for each of the 58
+    # electoral districts. Only the shapefile assigns numeric identifiers;
+    # those names and identifiers do not co-occur anywhere else.
+    Nokogiri::HTML(open("http://www.elections.sk.ca/publications/poll-maps/individual-constituencies")).css("table table a").each do |a|
+      name = a.text.gsub(/\p{Space}+/, ' ').strip
+      next if name.empty?
 
-        csv << [
-          "ocd-division/country:ca/province:sk/ped:#{name.parameterize}",
-          name,
-        ]
-      end
-    }
+      puts CSV.generate_line([
+        "ocd-division/country:ca/province:sk/ped:#{name.parameterize}",
+        name,
+      ])
+    end
   end
 end
 

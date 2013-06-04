@@ -12,21 +12,19 @@ class ON < Runner
   @translatable = true
 
   def identifiers(index = 1)
-    puts CSV.generate{|csv|
-      # The shapefile from elections.on.ca has district names in all-caps.
-      # @see http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/PDEDS.htm
-      Nokogiri::HTML(open("http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/EDNames.htm")).css("table table tr:gt(1)").each do |tr|
-        texts = tr.css('td').map do |td|
-          # OCD removes leading zeros.
-          td.text.sub(/^0+/, '').gsub(/\p{Space}+/, ' ').strip
-        end
-
-        csv << [
-          "ocd-division/country:ca/province:on/ped:#{texts[0]}",
-          texts[index].sub(/\.(?=\S)/, '. '), # add missing space
-        ]
+    # The shapefile from elections.on.ca has district names in all-caps.
+    # @see http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/PDEDS.htm
+    Nokogiri::HTML(open("http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/EDNames.htm")).css("table table tr:gt(1)").each do |tr|
+      texts = tr.css('td').map do |td|
+        # OCD removes leading zeros.
+        td.text.sub(/^0+/, '').gsub(/\p{Space}+/, ' ').strip
       end
-    }
+
+      puts CSV.generate_line([
+        "ocd-division/country:ca/province:on/ped:#{texts[0]}",
+        texts[index].sub(/\.(?=\S)/, '. '), # add missing space
+      ])
+    end
   end
 
   def translations

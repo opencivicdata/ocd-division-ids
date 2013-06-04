@@ -12,21 +12,19 @@ class PE < Runner
   @translatable = false # shapefile is unilingual
 
   def identifiers
-    puts CSV.generate{|csv|
-      # The shapefile from gov.pe.ca does not have one feature per district. The
-      # KML file from electionspei.ca has district names in all-caps.
-      # @see http://www.gov.pe.ca/gis/index.php3?number=77868&lang=E
-      # @see http://www.electionspei.ca/provincial/districts/index.php
-      Nokogiri::HTML(open("http://www.electionspei.ca/provincial/districts/index.php")).css("ol li").each_with_index do |li,index|
-        name = li.text.gsub(/\p{Space}+/, ' ').strip
-        next if name.empty?
+    # The shapefile from gov.pe.ca does not have one feature per district. The
+    # KML file from electionspei.ca has district names in all-caps.
+    # @see http://www.gov.pe.ca/gis/index.php3?number=77868&lang=E
+    # @see http://www.electionspei.ca/provincial/districts/index.php
+    Nokogiri::HTML(open("http://www.electionspei.ca/provincial/districts/index.php")).css("ol li").each_with_index do |li,index|
+      name = li.text.gsub(/\p{Space}+/, ' ').strip
+      next if name.empty?
 
-        csv << [
-          "ocd-division/country:ca/province:pe/ped:#{index + 1}",
-          name.sub(' - ', '-'), # hyphen
-        ]
-      end
-    }
+      puts CSV.generate_line([
+        "ocd-division/country:ca/province:pe/ped:#{index + 1}",
+        name.sub(' - ', '-'), # hyphen
+      ])
+    end
   end
 end
 

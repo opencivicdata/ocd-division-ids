@@ -12,19 +12,17 @@ class MB < Runner
   @translatable = true
 
   def identifiers(infix = "")
-    puts CSV.generate{|csv|
-      # The shapefile from the Manitoba Land Initiative requires authentication
-      # and is unilingual English, like most data sources. It appears only the
-      # legislature translates district names.
-      # @see https://mli2.gov.mb.ca/adminbnd/index.html
-      Nokogiri::HTML(open("http://www.gov.mb.ca/hansard/members/constituency#{infix}.html")).css("table.text tr:gt(1) td:eq(1)").each do |td|
-        name = td.text.gsub(/\p{Space}+/, ' ').strip
-        csv << [
-          "ocd-division/country:ca/province:mb/ped:#{name.parameterize}", # shapefile has no identifiers
-          name,
-        ]
-      end
-    }
+    # The shapefile from the Manitoba Land Initiative requires authentication
+    # and is unilingual English, like most data sources. It appears only the
+    # legislature translates district names.
+    # @see https://mli2.gov.mb.ca/adminbnd/index.html
+    Nokogiri::HTML(open("http://www.gov.mb.ca/hansard/members/constituency#{infix}.html")).css("table.text tr:gt(1) td:eq(1)").each do |td|
+      name = td.text.gsub(/\p{Space}+/, ' ').strip
+      puts CSV.generate_line([
+        "ocd-division/country:ca/province:mb/ped:#{name.parameterize}", # shapefile has no identifiers
+        name,
+      ])
+    end
   end
 
   def translations

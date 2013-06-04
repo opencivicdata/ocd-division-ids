@@ -85,16 +85,14 @@ class ShapefileParser
     Zip::ZipFile.open(open(url)) do |zipfile|
       entry = zipfile.entries.find{|entry| File.extname(entry.name) == ".dbf"}
       if entry
-        puts CSV.generate{|csv|
-          DBF::Table.new(StringIO.new(zipfile.read(entry))).map do |record|
-            ShapefileRecord.new(record, mappings)
-          end.sort.each do |record|
-            csv << [
-              "#{prefix}#{record.identifier}",
-              record.name,
-            ]
-          end
-        }
+        DBF::Table.new(StringIO.new(zipfile.read(entry))).map do |record|
+          ShapefileRecord.new(record, mappings)
+        end.sort.each do |record|
+          puts CSV.generate_line([
+            "#{prefix}#{record.identifier}",
+            record.name,
+          ])
+        end
       else
         raise "DBF file not found!"
       end
