@@ -23,7 +23,7 @@ class ON < Runner
 
         csv << [
           "ocd-division/country:ca/province:on/ped:#{texts[0]}",
-          texts[index],
+          texts[index].sub(/\.(?=\S)/, '. '), # add missing space
         ]
       end
     }
