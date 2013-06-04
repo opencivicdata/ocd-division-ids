@@ -20,8 +20,6 @@ class CA < Runner
       identifier = tds[0].text.gsub(/\D/, "")
       next unless identifier[/\A\d{5}\z/]
 
-      # Statistics Canada uses the "FED" abbreviation.
-      # @see http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/geo025-eng.cfm
       puts CSV.generate_line([
         "ocd-division/country:ca/fed:#{identifier}",
         tds[1].children[0].text.gsub(/[[:space:]]+/, " ").strip,
