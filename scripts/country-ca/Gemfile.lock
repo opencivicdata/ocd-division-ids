@@ -6,6 +6,7 @@ GEM
     fastercsv (1.5.5)
     nokogiri (1.5.9)
     rubyzip (0.9.9)
+    unicode_utils (1.4.0)
 
 PLATFORMS
   ruby
@@ -14,3 +15,4 @@ DEPENDENCIES
   dbf (~> 2.0.3)
   nokogiri (~> 1.5.9)
   rubyzip (~> 0.9.9)
+  unicode_utils (~> 1.4.0)
