@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # coding: utf-8
 
-require File.expand_path(File.join('..', 'utils.rb'), __FILE__)
+require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 
 # Scrapes British Columbia electoral district codes and names from elections.bc.ca
 
@@ -14,7 +14,7 @@ class BC < Runner
     # http://www3.elections.bc.ca/index.php/maps/electoral-maps-profiles/geographic-information-system-spatial-data-files-2012/
     ShapefileParser.new(
       "http://www3.elections.bc.ca/docs/map/redis12/GIS/Electoral%20District%20Boundaries.zip",
-      "ocd-division/country:ca/province:bc/ped:", {
+      "province:bc/ped:", {
         :identifier => "edAbbr",
         :name => "edName",
       }

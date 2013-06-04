@@ -1,3 +1,5 @@
+# coding: utf-8
+
 require "rubygems"
 require "bundler/setup"
 
@@ -5,9 +7,36 @@ require "csv"
 require "open-uri"
 require "optparse"
 
-require "active_support/core_ext/string/inflections"
 require "dbf"
+require "unicode_utils/downcase"
 require "zip/zip"
+
+# Outputs a CSV line with the OCD identifier and associated content.
+#
+# @param [String] fragment an identifier fragment
+# @param [String] identifier the locally unique identifier
+# @param [String] content the content to associate to the identifier
+# @see https://github.com/opencivicdata/ocd-division-ids#id-format
+def output(fragment, identifier, content)
+  prefix = "ocd-division/country:ca/#{fragment}"
+
+  # Remove extra whitespace.
+  identifier = identifier.to_s.gsub(/\p{Space}+/, ' ').strip
+
+  # "Uppercase characters should be converted to lowercase."
+  identifier = UnicodeUtils.downcase(identifier)
+
+  # "Spaces should be converted to underscores."
+  identifier.gsub!(/\p{Space}/, '_')
+
+  # "All invalid characters should be converted to tilde (~)."
+  identifier.gsub!(/[^\p{Ll}\d._~-]/, '~')
+
+  # "Leading zeros should be dropped unless doing so changes the meaning of the identifier."
+  identifier.sub!(/^0+/, '')
+
+  puts CSV.generate_line([prefix + identifier, content])
+end
 
 class Runner
   class << self
@@ -25,7 +54,7 @@ class Runner
 Usage: #{opts.program_name} COMMAND
 
 Commands:
-  identifiers   Prints a CSV of identifiers and English names, e.g.:
+  identifiers   Prints a CSV of identifiers and canonical names, e.g.:
                 #{opts.program_name} identifiers > identifiers/country-ca/#{self.class.csv_filename}
       EOS
 
@@ -88,10 +117,7 @@ class ShapefileParser
         DBF::Table.new(StringIO.new(zipfile.read(entry))).map do |record|
           ShapefileRecord.new(record, mappings)
         end.sort.each do |record|
-          puts CSV.generate_line([
-            "#{prefix}#{record.identifier}",
-            record.name,
-          ])
+          output(prefix, record.identifier, record.name)
         end
       else
         raise "DBF file not found!"
@@ -124,7 +150,7 @@ class ShapefileRecord
     if mappings.key?(:identifier)
       identifier_without_leading_zeros.downcase
     else
-      name.parameterize
+      name
     end
   end
 

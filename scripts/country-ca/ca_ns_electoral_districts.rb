@@ -1,7 +1,7 @@
 #!/usr/bin/env ruby
 # coding: utf-8
 
-require File.expand_path(File.join('..', 'utils.rb'), __FILE__)
+require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 
 # Scrapes Nova Scotia electoral district codes and names from electionsnovascotia.ca
 
@@ -14,7 +14,7 @@ class NS < Runner
     # http://electionsnovascotia.ca/geoginfo.asp
     ShapefileParser.new(
       "http://electionsnovascotia.ca/geography/downloads/NSElectoralDistrict_2012_fordistribution.zip",
-      "ocd-division/country:ca/province:ns/ped:", {
+      "province:ns/ped:", {
         :identifier => "DIST_NO",
         :name => "DISTRICT",
       }

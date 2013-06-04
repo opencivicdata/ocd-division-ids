@@ -1,5 +1,5 @@
 source 'https://rubygems.org'
-gem 'activesupport', '~> 3.2.13'
 gem 'dbf', '~> 2.0.3'
 gem 'nokogiri', '~> 1.5.9'
 gem 'rubyzip', '~> 0.9.9'
+gem 'unicode_utils', '~> 1.4.0'
