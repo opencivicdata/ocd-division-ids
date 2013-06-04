@@ -10,6 +10,8 @@ class QC < Runner
   @translatable = false # unilingual
 
   def identifiers
+    # No official government source has a full list of identifiers and names
+    # with the correct dashes.
     CSV.parse(open("http://www.electionsquebec.qc.ca/documents/donnees-ouvertes/Liste_circonscriptions.txt"), :headers => true, :col_sep => ";").each do |row|
       puts CSV.generate_line([
         "ocd-division/country:ca/province:qc/ped:#{row["BSQ"]}",
@@ -20,4 +22,3 @@ class QC < Runner
 end
 
 QC.new.run(ARGV)
-
