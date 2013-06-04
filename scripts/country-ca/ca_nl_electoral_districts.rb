@@ -9,6 +9,7 @@ require "nokogiri"
 
 class NL < Runner
   @csv_filename = "province-nl-electoral_districts.csv"
+  @translatable = false # shapefile is unilingual
 
   def identifiers
     puts CSV.generate{|csv|
@@ -18,7 +19,7 @@ class NL < Runner
       Nokogiri::HTML(open("http://www.assembly.nl.ca/members/cms/membersdistrict.htm")).css("table:eq(1) tr:gt(1) td:eq(1)").each do |td|
         name = td.text.gsub(/\p{Space}+/, ' ').strip
         csv << [
-          "ocd-division/country:ca/province:nl/ped:#{name.parameterize}",
+          "ocd-division/country:ca/province:nl/ped:#{name.parameterize}", # shapefile has no identifiers
           name.gsub(' - ', '—'), # m-dash
         ]
       end

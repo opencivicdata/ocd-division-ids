@@ -7,6 +7,7 @@ require File.expand_path(File.join('..', 'utils.rb'), __FILE__)
 
 class AB < Runner
   @csv_filename = "province-ab-electoral_districts.csv"
+  @translatable = false # shapefile is unilingual
 
   def identifiers
     # Also available as deeply-nested lists.

@@ -9,6 +9,7 @@ require "nokogiri"
 
 class PE < Runner
   @csv_filename = "province-pe-electoral_districts.csv"
+  @translatable = false # shapefile is unilingual
 
   def identifiers
     puts CSV.generate{|csv|
