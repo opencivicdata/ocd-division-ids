@@ -13,7 +13,7 @@ class QC < Runner
     # No official government source has a full list of identifiers and names
     # with the correct dashes.
     CSV.parse(open("http://www.electionsquebec.qc.ca/documents/donnees-ouvertes/Liste_circonscriptions.txt"), :headers => true, :col_sep => ";").each do |row|
-      output("province:qc/ped:",
+      output("province:qc/ed:",
         row["BSQ"],
         row["CIRCONSCRIPTION"])
     end

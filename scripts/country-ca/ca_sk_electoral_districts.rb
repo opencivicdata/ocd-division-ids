@@ -19,7 +19,7 @@ class SK < Runner
       name = a.text.gsub(/\p{Space}+/, " ").strip
       next if name.empty? # last cells in table
 
-      output("province:sk/ped:",
+      output("province:sk/ed:",
         name, # see comment above
         name)
     end

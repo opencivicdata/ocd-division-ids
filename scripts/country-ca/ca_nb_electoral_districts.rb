@@ -14,7 +14,7 @@ class NB < Runner
     # @see http://www2.gnb.ca/content/gnb/fr/contacts/dept_renderer.154.html#structure
     ShapefileParser.new(
       "http://www.gnb.ca/elections/pdf/2010PEDMaps/NB_Electoral_Districts.zip",
-      "province:nb/ped:", {
+      "province:nb/ed:", {
         :identifier => "PED_Num",
         :name => "PED_Name_#{language}",
         :default => "PED_Name_E",

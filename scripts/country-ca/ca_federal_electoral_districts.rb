@@ -20,7 +20,7 @@ class CA < Runner
       identifier = tds[0].text.gsub(/\D/, "")
       next unless identifier[/\A\d{5}\z/] # name changes and totals
 
-      output("fed:",
+      output("ed:",
         identifier,
         tds[1].children[0].text.gsub(/[[:space:]]+/, " ").strip)
     end

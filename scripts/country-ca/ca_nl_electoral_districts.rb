@@ -17,7 +17,7 @@ class NL < Runner
     # @see http://www.elections.gov.nl.ca/elections/ElectoralBoundaries/index.html
     Nokogiri::HTML(open("http://www.assembly.nl.ca/members/cms/membersdistrict.htm")).css("table:eq(1) tr:gt(1) td:eq(1)").each do |td|
       name = td.text.gsub(/\p{Space}+/, " ").strip
-      output("province:nl/ped:",
+      output("province:nl/ed:",
         name.gsub(" - ", "-"), # hyphen, shapefile has no identifiers
         name.gsub(" - ", "—")) # m-dash
     end

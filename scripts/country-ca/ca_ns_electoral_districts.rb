@@ -14,7 +14,7 @@ class NS < Runner
     # http://electionsnovascotia.ca/geoginfo.asp
     ShapefileParser.new(
       "http://electionsnovascotia.ca/geography/downloads/NSElectoralDistrict_2012_fordistribution.zip",
-      "province:ns/ped:", {
+      "province:ns/ed:", {
         :identifier => "DIST_NO",
         :name => "DISTRICT",
       }

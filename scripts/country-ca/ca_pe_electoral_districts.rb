@@ -18,7 +18,7 @@ class PE < Runner
     # @see http://www.electionspei.ca/provincial/districts/index.php
     Nokogiri::HTML(open("http://www.electionspei.ca/provincial/districts/index.php")).css("ol li").each_with_index do |li,index|
       name = li.text.gsub(/\p{Space}+/, " ").strip
-      output("province:pe/ped:",
+      output("province:pe/ed:",
         index + 1,
         name.sub(" - ", "-")) # hyphen
     end

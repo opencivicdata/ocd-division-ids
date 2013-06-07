@@ -2,8 +2,7 @@
 
 ## Types
 
-* `fed`: federal electoral district, used by [Statistics Canada](http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/geo025-eng.cfm)
-* `ped`: provincial electoral district, used by [Statistics Canada](http://www12.statcan.gc.ca/census-recensement/2006/ref/rp-guides/rp/coverage-couverture/cov-couv_app-b-eng.cfm)
+* `ed`: electoral district
 
 ## Scraper checklist
 

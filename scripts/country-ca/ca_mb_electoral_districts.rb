@@ -17,7 +17,7 @@ class MB < Runner
     # @see https://mli2.gov.mb.ca/adminbnd/index.html
     Nokogiri::HTML(open("http://www.gov.mb.ca/hansard/members/constituency#{infix}.html")).css("table.text tr:gt(1) td:eq(1)").each do |td|
       name = td.text.gsub(/\p{Space}+/, " ").strip
-      output("province:mb/ped:",
+      output("province:mb/ed:",
         name, # shapefile has no identifiers
         name)
     end

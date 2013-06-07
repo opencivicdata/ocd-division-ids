@@ -19,7 +19,7 @@ class ON < Runner
         td.text.gsub(/\p{Space}+/, " ").strip
       end
 
-      output("province:on/ped:",
+      output("province:on/ed:",
         texts[0],
         texts[index].sub(/\.(?=\S)/, ". ")) # add missing space
     end
