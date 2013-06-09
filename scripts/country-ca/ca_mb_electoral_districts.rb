@@ -11,7 +11,7 @@ class MB < Runner
   @csv_filename = "province-mb-electoral_districts.csv"
   @translatable = true
 
-  def identifiers(infix = "")
+  def names(infix = "")
     # The shapefile from the Manitoba Land Initiative requires authentication
     # and is unilingual English. It seems only the legislature translates names.
     # @see https://mli2.gov.mb.ca/adminbnd/index.html
@@ -23,8 +23,8 @@ class MB < Runner
     end
   end
 
-  def translations
-    identifiers(".fr")
+  def names_fr
+    names(".fr")
   end
 end
 

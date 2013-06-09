@@ -9,7 +9,7 @@ class NS < Runner
   @csv_filename = "province-ns-electoral_districts.csv"
   @translatable = false # shapefile is unilingual
 
-  def identifiers
+  def names
     # Also available as a list.
     # http://electionsnovascotia.ca/geoginfo.asp
     ShapefileParser.new(

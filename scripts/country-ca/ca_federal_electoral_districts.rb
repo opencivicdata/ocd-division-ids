@@ -11,7 +11,7 @@ class CA < Runner
   @csv_filename = "ca_federal_electoral_districts.csv"
   @translatable = true
 
-  def identifiers(language = "e")
+  def names(language = "e")
     # The most authoritative data is only available as HTML.
     Nokogiri::HTML(open("http://elections.ca/content.aspx?section=res&dir=cir/list&document=index&lang=#{language}")).css("tr").each do |tr|
       tds = tr.css("td")
@@ -28,8 +28,8 @@ class CA < Runner
     end
   end
 
-  def translations
-    identifiers("F")
+  def names_fr
+    names("F")
   end
 end
 

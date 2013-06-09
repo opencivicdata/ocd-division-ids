@@ -11,7 +11,7 @@ class PE < Runner
   @csv_filename = "province-pe-electoral_districts.csv"
   @translatable = false # shapefile is unilingual
 
-  def identifiers
+  def names
     # The shapefile from gov.pe.ca does not have one feature per district. The
     # KML file from electionspei.ca has district names in all-caps.
     # @see http://www.gov.pe.ca/gis/index.php3?number=77868&lang=E

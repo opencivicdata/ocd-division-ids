@@ -11,7 +11,7 @@ class NL < Runner
   @csv_filename = "province-nl-electoral_districts.csv"
   @translatable = false # shapefile is unilingual
 
-  def identifiers
+  def names
     # The shapefile from Elections Newfoundland and Labrador contains typos.
     # The only non-all-caps authoritative data source is the legislature.
     # @see http://www.elections.gov.nl.ca/elections/ElectoralBoundaries/index.html
