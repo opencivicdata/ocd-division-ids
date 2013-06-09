@@ -15,6 +15,14 @@
 
 * MB, NL and SK use textual type IDs for electoral districts. All other jurisdictions use numeric type IDs.
 
+## Mappings
+
+* `country-ca-abbr`: English Census abbreviations
+* `country-ca-abbr-fr`: French Census abbreviations
+* `country-ca-fr`: French names
+* `country-ca-sgc`: Standard Geographical Classification (SGC) codes
+* `country-ca-types`: Census subdivision types
+
 ## Scraper checklist
 
 * Does the jurisdiction use identifiers?
