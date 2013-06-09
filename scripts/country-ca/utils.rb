@@ -21,19 +21,19 @@ def output(fragment, identifier, content)
   prefix = "ocd-division/country:ca/#{fragment}"
 
   # Remove extra whitespace.
-  identifier = identifier.to_s.gsub(/\p{Space}+/, ' ').strip
+  identifier = identifier.to_s.gsub(/\p{Space}+/, " ").strip
 
   # "Uppercase characters should be converted to lowercase."
   identifier = UnicodeUtils.downcase(identifier)
 
   # "Spaces should be converted to underscores."
-  identifier.gsub!(/\p{Space}/, '_')
+  identifier.gsub!(/\p{Space}/, "_")
 
   # "All invalid characters should be converted to tilde (~)."
-  identifier.gsub!(/[^\p{Ll}\d._~-]/, '~')
+  identifier.gsub!(/[^\p{Ll}\d._~-]/, "~")
 
   # "Leading zeros should be dropped unless doing so changes the meaning of the identifier."
-  identifier.sub!(/^0+/, '')
+  identifier.sub!(/\A0+/, "")
 
   puts CSV.generate_line([prefix + identifier, content])
 end
@@ -146,9 +146,13 @@ class ShapefileRecord
     record.attributes.fetch(mappings[key])
   end
 
+  def key?(key)
+    record.attributes.key?(mappings[key])
+  end
+
   def identifier
     if mappings.key?(:identifier)
-      identifier_without_leading_zeros.downcase
+      self[:identifier]
     else
       name
     end
@@ -174,6 +178,6 @@ class ShapefileRecord
 private
 
   def identifier_without_leading_zeros
-    self[:identifier].to_s.sub(/^0+/, '')
+    self[:identifier].to_s.sub(/\A0+/, "")
   end
 end
