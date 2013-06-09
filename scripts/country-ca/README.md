@@ -1,8 +1,19 @@
 # Open Civic Data Divisions: Canada
 
+## Usage
+
+    ./scripts/country-ca/run-all.sh
+
 ## Types
 
+* `province`: province
+* `territory`: territory
 * `ed`: electoral district
+* `csd`: census subdivision
+
+## Type IDs
+
+* MB, NL and SK use textual type IDs for electoral districts. All other jurisdictions use numeric type IDs.
 
 ## Scraper checklist
 
