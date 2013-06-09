@@ -20,6 +20,8 @@ class CA < Runner
       identifier = tds[0].text.gsub(/\D/, "")
       next unless identifier[/\A\d{5}\z/] # name changes and totals
 
+      # "Saint Boniface" is inconsistent with other district names in Manitoba,
+      # "Charleswood–St. James–Assiniboia" and "Kildonan–St. Paul".
       output("ed:",
         identifier,
         tds[1].children[0].text.gsub(/[[:space:]]+/, " ").strip)
