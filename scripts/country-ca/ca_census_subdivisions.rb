@@ -32,10 +32,12 @@ class CensusSubdivisions < Runner
           sub(/, Labrador\z/, "").     # Remove subregion, e.g. "Cartwright, Labrador"
           sub(/ \(Labrador\)\z/, "")   # Remove subregion, e.g. "Charlottetown (Labrador)"
 
+        # Expand "St." and "Ste." in New Brunswick and Quebec.
         if row["Geographic code"][/\A(?:13|24)/]
-          name.sub!(/\bSt(e)?\./, 'Saint\1') # Expand "St." and "Ste." in New Brunswick and Quebec
+          name.sub!(/\bSt(e)?\./, 'Saint\1')
         end
 
+        # @see http://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/2001/2001-supp4-eng.htm
         if name[" / "]
           name = name.split(" / ", 2)[language == "Eng" ? 0 : 1]
         end
