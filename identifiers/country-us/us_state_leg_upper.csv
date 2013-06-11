@@ -777,7 +777,7 @@ ocd-division/country:us/state:ma/sldu:2nd_essex_and_middlesex,Massachusetts Stat
 ocd-division/country:us/state:ma/sldu:hampden,Massachusetts State Senate Hampden district
 ocd-division/country:us/state:ma/sldu:1st_hampden_and_hampshire,Massachusetts State Senate 1st Hampden and Hampshire district
 ocd-division/country:us/state:ma/sldu:2nd_hampden_and_hampshire,Massachusetts State Senate 2nd Hampden and Hampshire district
-ocd-division/country:us/state:ma/sldu:hampshire_and_franklin_and_worcester,Massachusetts State Senate Hampshire and Franklin and Worcester district
+ocd-division/country:us/state:ma/sldu:hampshire_franklin_and_worcester,Massachusetts State Senate Hampshire Franklin and Worcester district
 ocd-division/country:us/state:ma/sldu:1st_middlesex,Massachusetts State Senate 1st Middlesex district
 ocd-division/country:us/state:ma/sldu:2nd_middlesex,Massachusetts State Senate 2nd Middlesex district
 ocd-division/country:us/state:ma/sldu:3rd_middlesex,Massachusetts State Senate 3rd Middlesex district
@@ -1694,6 +1694,37 @@ ocd-division/country:us/state:tn/sldu:30,Tennessee State Senate district 30
 ocd-division/country:us/state:tn/sldu:31,Tennessee State Senate district 31
 ocd-division/country:us/state:tn/sldu:32,Tennessee State Senate district 32
 ocd-division/country:us/state:tn/sldu:33,Tennessee State Senate district 33
+ocd-division/country:us/state:tx/sldu:1,Texas State Senate district 1
+ocd-division/country:us/state:tx/sldu:2,Texas State Senate district 2
+ocd-division/country:us/state:tx/sldu:3,Texas State Senate district 3
+ocd-division/country:us/state:tx/sldu:4,Texas State Senate district 4
+ocd-division/country:us/state:tx/sldu:5,Texas State Senate district 5
+ocd-division/country:us/state:tx/sldu:6,Texas State Senate district 6
+ocd-division/country:us/state:tx/sldu:7,Texas State Senate district 7
+ocd-division/country:us/state:tx/sldu:8,Texas State Senate district 8
+ocd-division/country:us/state:tx/sldu:9,Texas State Senate district 9
+ocd-division/country:us/state:tx/sldu:10,Texas State Senate district 10
+ocd-division/country:us/state:tx/sldu:11,Texas State Senate district 11
+ocd-division/country:us/state:tx/sldu:12,Texas State Senate district 12
+ocd-division/country:us/state:tx/sldu:13,Texas State Senate district 13
+ocd-division/country:us/state:tx/sldu:14,Texas State Senate district 14
+ocd-division/country:us/state:tx/sldu:15,Texas State Senate district 15
+ocd-division/country:us/state:tx/sldu:16,Texas State Senate district 16
+ocd-division/country:us/state:tx/sldu:17,Texas State Senate district 17
+ocd-division/country:us/state:tx/sldu:18,Texas State Senate district 18
+ocd-division/country:us/state:tx/sldu:19,Texas State Senate district 19
+ocd-division/country:us/state:tx/sldu:20,Texas State Senate district 20
+ocd-division/country:us/state:tx/sldu:21,Texas State Senate district 21
+ocd-division/country:us/state:tx/sldu:22,Texas State Senate district 22
+ocd-division/country:us/state:tx/sldu:23,Texas State Senate district 23
+ocd-division/country:us/state:tx/sldu:24,Texas State Senate district 24
+ocd-division/country:us/state:tx/sldu:25,Texas State Senate district 25
+ocd-division/country:us/state:tx/sldu:26,Texas State Senate district 26
+ocd-division/country:us/state:tx/sldu:27,Texas State Senate district 27
+ocd-division/country:us/state:tx/sldu:28,Texas State Senate district 28
+ocd-division/country:us/state:tx/sldu:29,Texas State Senate district 29
+ocd-division/country:us/state:tx/sldu:30,Texas State Senate district 30
+ocd-division/country:us/state:tx/sldu:31,Texas State Senate district 31
 ocd-division/country:us/state:ut/sldu:1,Utah State Senate district 1
 ocd-division/country:us/state:ut/sldu:2,Utah State Senate district 2
 ocd-division/country:us/state:ut/sldu:3,Utah State Senate district 3

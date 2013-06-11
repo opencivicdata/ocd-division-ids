@@ -79,3 +79,11 @@ ocd-division/country:us/state:ny/place:albany/ward:12,Albany_NY - ward 12
 ocd-division/country:us/state:ny/place:albany/ward:13,Albany_NY - ward 13
 ocd-division/country:us/state:ny/place:albany/ward:14,Albany_NY - ward 14
 ocd-division/country:us/state:ny/place:albany/ward:15,Albany_NY - ward 15
+ocd-division/country:us/state:ny/place:rochester/council_district:east,Rochester_NY City Council district East
+ocd-division/country:us/state:ny/place:rochester/council_district:south,Rochester_NY City Council district South
+ocd-division/country:us/state:ny/place:rochester/council_district:northeast,Rochester_NY City Council district Northeast
+ocd-division/country:us/state:ny/place:rochester/council_district:northwest,Rochester_NY City Council district Northwest
+ocd-division/country:us/state:ny/place:syracuse/council_district:1,Syracuse_NY Common Council district 1
+ocd-division/country:us/state:ny/place:syracuse/council_district:2,Syracuse_NY Common Council district 2
+ocd-division/country:us/state:ny/place:syracuse/council_district:3,Syracuse_NY Common Council district 3
+ocd-division/country:us/state:ny/place:syracuse/council_district:4,Syracuse_NY Common Council district 4
