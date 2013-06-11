@@ -16,7 +16,7 @@ class ON < Runner
     # @see http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/PDEDS.htm
     Nokogiri::HTML(open("http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/EDNames.htm")).css("table table tr:gt(1)").each do |tr|
       texts = tr.css("td").map do |td|
-        td.text.gsub(/\p{Space}+/, " ").strip
+        td.text.gsub(/\p{Space}+/, " ")
       end
 
       output("province:on/ed:",

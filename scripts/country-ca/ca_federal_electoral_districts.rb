@@ -24,7 +24,7 @@ class CA < Runner
       # "Charleswood–St. James–Assiniboia" and "Kildonan–St. Paul".
       output("ed:",
         identifier,
-        tds[1].children[0].text.gsub(/[[:space:]]+/, " ").strip)
+        tds[1].children[0].text.gsub(/[[:space:]]+/, " "))
     end
   end
 

@@ -37,7 +37,7 @@ class ProvincesAndTerritories < Runner
     rows(language).each do |row|
       output("#{row[:type]}:",
         row[:identifier],
-        row[:name].strip)
+        row[:name])
     end
   end
 

@@ -44,7 +44,7 @@ class CensusDivisions < Runner
     each do |row|
       output("csd:",
         row["Geographic code"],
-        row["Geographic type"].strip)
+        row["Geographic type"])
     end
   end
 

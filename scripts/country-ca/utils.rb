@@ -36,7 +36,7 @@ def output(fragment, identifier, content)
   # "Leading zeros should be dropped unless doing so changes the meaning of the identifier."
   identifier.sub!(/\A0+/, "")
 
-  puts CSV.generate_line([prefix + identifier, content])
+  puts CSV.generate_line([prefix + identifier, content.strip])
 end
 
 class Runner
