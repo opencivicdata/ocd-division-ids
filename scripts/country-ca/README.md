@@ -11,6 +11,7 @@
 * `province`: province
 * `territory`: territory
 * `ed`: electoral district
+* `cd`: census division
 * `csd`: census subdivision
 
 ### Type IDs

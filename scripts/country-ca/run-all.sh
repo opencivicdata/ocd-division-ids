@@ -16,6 +16,7 @@ $DIR/ca_on_electoral_districts.rb      names > $DIR/../../identifiers/country-ca
 $DIR/ca_pe_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-pe-electoral_districts.csv
 $DIR/ca_qc_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-qc-electoral_districts.csv
 $DIR/ca_sk_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-sk-electoral_districts.csv
+$DIR/ca_census_divisions.rb            names > $DIR/../../identifiers/country-ca/ca_census_divisions.csv
 $DIR/ca_census_subdivisions.rb         names > $DIR/../../identifiers/country-ca/ca_census_subdivisions.csv
 $DIR/ca_provinces_and_territories.rb   names > $DIR/../../identifiers/country-ca/ca_provinces_and_territories.csv
 
@@ -23,10 +24,13 @@ $DIR/ca_federal_electoral_districts.rb names-fr > $DIR/../../mappings/country-ca
 $DIR/ca_mb_electoral_districts.rb      names-fr > $DIR/../../mappings/country-ca-fr/province-mb-electoral_districts.csv
 $DIR/ca_nb_electoral_districts.rb      names-fr > $DIR/../../mappings/country-ca-fr/province-nb-electoral_districts.csv
 $DIR/ca_on_electoral_districts.rb      names-fr > $DIR/../../mappings/country-ca-fr/province-on-electoral_districts.csv
+$DIR/ca_census_divisions.rb            names-fr > $DIR/../../mappings/country-ca-fr/ca_census_divisions.csv
 $DIR/ca_census_subdivisions.rb         names-fr > $DIR/../../mappings/country-ca-fr/ca_census_subdivisions.csv
 $DIR/ca_provinces_and_territories.rb   names-fr > $DIR/../../mappings/country-ca-fr/ca_provinces_and_territories.csv
 
+$DIR/ca_census_divisions.rb            types > $DIR/../../mappings/country-ca-types/ca_census_divisions.csv
 $DIR/ca_census_subdivisions.rb         types > $DIR/../../mappings/country-ca-types/ca_census_subdivisions.csv
+
 $DIR/ca_provinces_and_territories.rb   abbreviations > $DIR/../../mappings/country-ca-abbr/ca_provinces_and_territories.csv
 $DIR/ca_provinces_and_territories.rb   abbreviations-fr > $DIR/../../mappings/country-ca-abbr-fr/ca_provinces_and_territories.csv
 $DIR/ca_provinces_and_territories.rb   sgc-codes > $DIR/../../mappings/country-ca-sgc/ca_provinces_and_territories.csv
