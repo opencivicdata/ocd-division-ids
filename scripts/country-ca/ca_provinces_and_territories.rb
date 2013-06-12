@@ -75,6 +75,7 @@ private
       {
         :name         => tds[0].text,
         :abbreviation => tds[1].text[%r{\A(.+?)/}, 1],
+        # @see http://www.canadapost.ca/tools/pg/manual/PGaddress-e.asp#1380608
         :identifier   => tds[2].text,
         :sgc_code     => tds[3].text,
         :type         => tds[3].text[0, 1] == "6" ? "territory" : "province",
