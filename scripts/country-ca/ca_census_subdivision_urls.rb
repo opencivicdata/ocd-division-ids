@@ -361,7 +361,7 @@ province_or_territory_map = lambda do |(_,name)|
 end
 
 provinces_and_territories = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories")
-provinces_and_territories_hash = Lycopodium.new(provinces_and_territories, province_or_territory_map).hash_to_value
+provinces_and_territories_hash = Lycopodium.new(provinces_and_territories, province_or_territory_map).value_to_fingerprint.invert
 
 census_subdivision_map = lambda do |(value,name)|
   value = CensusSubdivisionName.identifier_from_name(name) || value
@@ -388,8 +388,8 @@ census_subdivision_with_type_map = lambda do |(value,name)|
 end
 
 census_subdivisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions")
-census_subdivisions_hash = Lycopodium.new(census_subdivisions, census_subdivision_map).reject_collisions.hash_to_value
-census_subdivisions_with_types_hash = Lycopodium.new(census_subdivisions, census_subdivision_with_type_map).reject_collisions.hash_to_value
+census_subdivisions_hash = Lycopodium.new(census_subdivisions, census_subdivision_map).reject_collisions.value_to_fingerprint.invert
+census_subdivisions_with_types_hash = Lycopodium.new(census_subdivisions, census_subdivision_with_type_map).reject_collisions.value_to_fingerprint.invert
 
 MUNICIPAL_ASSOCIATIONS = [
   "Alberta Association of Municipal Districts and Counties",
