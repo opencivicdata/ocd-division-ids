@@ -11,7 +11,7 @@ class SK < Runner
   @csv_filename = "province-sk-electoral_districts.csv"
   @translatable = false # shapefile is unilingual
 
-  def identifiers
+  def names
     # The zip file from geosask.ca contains one shapefile for each of the 58
     # electoral districts. Only the shapefile assigns numeric identifiers;
     # those names and identifiers do not co-occur anywhere else.
@@ -19,7 +19,7 @@ class SK < Runner
       name = a.text.gsub(/\p{Space}+/, " ").strip
       next if name.empty? # last cells in table
 
-      output("province:sk/ped:",
+      output("province:sk/ed:",
         name, # see comment above
         name)
     end

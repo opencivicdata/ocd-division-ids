@@ -73,4 +73,4 @@ IDs are in the format `ocd-division/country:<country_code>[/<type>:<type_id>]+`
 * New York City, City Council District 36 (happens to be in Brooklyn- but not significant to include in id)
   * ocd-division/country:us/state:ny/place:new_york/council_district:36
 * Canadian Federal Electoral District 13004 aka [Fundy Royal](http://en.wikipedia.org/wiki/Fundy_Royal) (known as Royal from 1914-1966, Fundy-Royal from 1966-2003, and Fundy from 2003-2004- hence the use of a numeric identifier assigned by the government)
-  * ocd-division/country:ca/fed:13004
+  * ocd-division/country:ca/ed:13004
