@@ -9,12 +9,12 @@ class AB < Runner
   @csv_filename = "province-ab-electoral_districts.csv"
   @translatable = false # shapefile is unilingual
 
-  def identifiers
+  def names
     # Also available as deeply-nested lists.
     # @see http://www.electionsalberta.ab.ca/Public%20Website/112.htm
     ShapefileParser.new(
       "http://altalis.com/Samples/Provincial%20Electoral%20Divisions%20Current%202010.zip",
-      "province:ab/ped:", {
+      "province:ab/ed:", {
         :identifier => "EDNUMBER",
         :name => "EDNAME",
       }

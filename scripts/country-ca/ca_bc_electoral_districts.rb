@@ -9,12 +9,12 @@ class BC < Runner
   @csv_filename = "province-bc-electoral_districts.csv"
   @translatable = false # shapefile is unilingual
 
-  def identifiers
+  def names
     # Also available as table.
     # http://www3.elections.bc.ca/index.php/maps/electoral-maps-profiles/geographic-information-system-spatial-data-files-2012/
     ShapefileParser.new(
       "http://www3.elections.bc.ca/docs/map/redis12/GIS/Electoral%20District%20Boundaries.zip",
-      "province:bc/ped:", {
+      "province:bc/ed:", {
         :identifier => "edAbbr",
         :name => "edName",
       }

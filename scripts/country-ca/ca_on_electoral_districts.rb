@@ -11,22 +11,22 @@ class ON < Runner
   @csv_filename = "province-on-electoral_districts.csv"
   @translatable = true
 
-  def identifiers(index = 1)
+  def names(index = 1)
     # The shapefile from elections.on.ca has district names in all-caps.
     # @see http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/PDEDS.htm
     Nokogiri::HTML(open("http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/EDNames.htm")).css("table table tr:gt(1)").each do |tr|
       texts = tr.css("td").map do |td|
-        td.text.gsub(/\p{Space}+/, " ").strip
+        td.text.gsub(/\p{Space}+/, " ")
       end
 
-      output("province:on/ped:",
+      output("province:on/ed:",
         texts[0],
         texts[index].sub(/\.(?=\S)/, ". ")) # add missing space
     end
   end
 
-  def translations
-    identifiers(2)
+  def names_fr
+    names(2)
   end
 end
 

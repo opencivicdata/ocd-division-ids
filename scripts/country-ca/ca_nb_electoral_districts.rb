@@ -9,12 +9,12 @@ class NB < Runner
   @csv_filename = "province-nb-electoral_districts.csv"
   @translatable = true
 
-  def identifiers(language = "E")
+  def names(language = "E")
     # Also available as inconsistently formatted lists.
     # @see http://www2.gnb.ca/content/gnb/fr/contacts/dept_renderer.154.html#structure
     ShapefileParser.new(
       "http://www.gnb.ca/elections/pdf/2010PEDMaps/NB_Electoral_Districts.zip",
-      "province:nb/ped:", {
+      "province:nb/ed:", {
         :identifier => "PED_Num",
         :name => "PED_Name_#{language}",
         :default => "PED_Name_E",
@@ -22,8 +22,8 @@ class NB < Runner
     ).run
   end
 
-  def translations
-    identifiers("F")
+  def names_fr
+    names("F")
   end
 end
 

@@ -6,6 +6,7 @@ require "bundler/setup"
 require "csv"
 require "open-uri"
 require "optparse"
+require "ostruct"
 
 require "dbf"
 require "unicode_utils/downcase"
@@ -21,26 +22,46 @@ def output(fragment, identifier, content)
   prefix = "ocd-division/country:ca/#{fragment}"
 
   # Remove extra whitespace.
-  identifier = identifier.to_s.gsub(/\p{Space}+/, ' ').strip
+  identifier = identifier.to_s.gsub(/\p{Space}+/, " ").strip
 
   # "Uppercase characters should be converted to lowercase."
   identifier = UnicodeUtils.downcase(identifier)
 
   # "Spaces should be converted to underscores."
-  identifier.gsub!(/\p{Space}/, '_')
+  identifier.gsub!(/\p{Space}/, "_")
 
   # "All invalid characters should be converted to tilde (~)."
-  identifier.gsub!(/[^\p{Ll}\d._~-]/, '~')
+  identifier.gsub!(/[^\p{Ll}\d._~-]/, "~")
 
   # "Leading zeros should be dropped unless doing so changes the meaning of the identifier."
-  identifier.sub!(/^0+/, '')
+  identifier.sub!(/\A0+/, "")
 
-  puts CSV.generate_line([prefix + identifier, content])
+  puts CSV.generate_line([prefix + identifier, content.strip])
 end
 
 class Runner
   class << self
     attr_reader :csv_filename, :translatable
+  end
+
+  def initialize
+    @commands = []
+
+    add_command({
+      :name        => "names",
+      :description => "Prints a CSV of identifiers and canonical names",
+      :directory   => "identifiers/country-ca",
+    })
+
+    add_command({
+      :name        => "names-fr",
+      :description => "Prints a CSV of identifiers and French names",
+      :directory   => "mappings/country-ca-fr",
+    }) if self.class.translatable
+  end
+
+  def add_command(attributes)
+    @commands << OpenStruct.new(attributes)
   end
 
   # Returns the command-line option parser.
@@ -50,19 +71,13 @@ class Runner
     @opts ||= OptionParser.new do |opts|
       opts.program_name = File.basename($PROGRAM_NAME)
 
-      banner = <<-EOS
-Usage: #{opts.program_name} COMMAND
+      padding = @commands.map(&:name).map(&:size).max
 
-Commands:
-  identifiers   Prints a CSV of identifiers and canonical names, e.g.:
-                #{opts.program_name} identifiers > identifiers/country-ca/#{self.class.csv_filename}
-      EOS
+      banner = "Usage: #{opts.program_name} COMMAND\n\nCommands\n"
 
-      if self.class.translatable
-        banner << <<-EOS
-  translations  Prints a CSV of identifiers and French names, e.g.:
-                #{opts.program_name} translations > mappings/country-ca-fr/#{self.class.csv_filename}
-        EOS
+      @commands.each do |command|
+        banner << "  #{command.name.ljust(padding)}  #{command.description}\n"
+        banner << "  #{" " * padding}  #{opts.program_name} #{command.name} > #{command.directory}/#{self.class.csv_filename}\n"
       end
 
       opts.banner = banner
@@ -83,13 +98,17 @@ Commands:
   # @param [Array] args command-line arguments
   def run(args)
     opts.parse!(args)
+
     command = args.shift
     if command.nil?
       puts opts
-    elsif respond_to?(command.to_sym)
-      send(command.to_sym)
     else
-      puts %(`#{command}` is not a #{opts.program_name} command. See `#{opts.program_name} --help` for a list of available commands.)
+      meth = command.gsub('-', '_').to_sym
+      if respond_to?(meth)
+        send(meth)
+      else
+        puts %(`#{command}` is not a #{opts.program_name} command. See `#{opts.program_name} --help` for a list of available commands.)
+      end
     end
   end
 end
@@ -146,9 +165,13 @@ class ShapefileRecord
     record.attributes.fetch(mappings[key])
   end
 
+  def key?(key)
+    record.attributes.key?(mappings[key])
+  end
+
   def identifier
     if mappings.key?(:identifier)
-      identifier_without_leading_zeros.downcase
+      self[:identifier]
     else
       name
     end
@@ -174,6 +197,6 @@ class ShapefileRecord
 private
 
   def identifier_without_leading_zeros
-    self[:identifier].to_s.sub(/^0+/, '')
+    self[:identifier].to_s.sub(/\A0+/, "")
   end
 end

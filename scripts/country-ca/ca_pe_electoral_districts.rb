@@ -11,14 +11,14 @@ class PE < Runner
   @csv_filename = "province-pe-electoral_districts.csv"
   @translatable = false # shapefile is unilingual
 
-  def identifiers
+  def names
     # The shapefile from gov.pe.ca does not have one feature per district. The
     # KML file from electionspei.ca has district names in all-caps.
     # @see http://www.gov.pe.ca/gis/index.php3?number=77868&lang=E
     # @see http://www.electionspei.ca/provincial/districts/index.php
     Nokogiri::HTML(open("http://www.electionspei.ca/provincial/districts/index.php")).css("ol li").each_with_index do |li,index|
-      name = li.text.gsub(/\p{Space}+/, " ").strip
-      output("province:pe/ped:",
+      name = li.text.gsub(/\p{Space}+/, " ")
+      output("province:pe/ed:",
         index + 1,
         name.sub(" - ", "-")) # hyphen
     end
