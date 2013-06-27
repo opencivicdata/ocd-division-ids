@@ -7,13 +7,13 @@ ocd-division/country:us/state:va/place:richmond/council_district:6,Richmond City
 ocd-division/country:us/state:va/place:richmond/council_district:7,Richmond City VA city council district 7
 ocd-division/country:us/state:va/place:richmond/council_district:8,Richmond City VA city council district 8
 ocd-division/country:us/state:va/place:richmond/council_district:9,Richmond City VA city council district 9
-ocd-division/country:us/state:va/place:virginia_beach/council_district:1,Virginia Beach VA city council district 1
-ocd-division/country:us/state:va/place:virginia_beach/council_district:2,Virginia Beach VA city council district 2
-ocd-division/country:us/state:va/place:virginia_beach/council_district:3,Virginia Beach VA city council district 3
-ocd-division/country:us/state:va/place:virginia_beach/council_district:4,Virginia Beach VA city council district 4
-ocd-division/country:us/state:va/place:virginia_beach/council_district:5,Virginia Beach VA city council district 5
-ocd-division/country:us/state:va/place:virginia_beach/council_district:6,Virginia Beach VA city council district 6
-ocd-division/country:us/state:va/place:virginia_beach/council_district:7,Virginia Beach VA city council district 7
+ocd-division/country:us/state:va/place:virginia_beach/council_district:bayside,Virginia Beach VA city council district Bayside
+ocd-division/country:us/state:va/place:virginia_beach/council_district:beach,Virginia Beach VA city council district Beach
+ocd-division/country:us/state:va/place:virginia_beach/council_district:centerville,Virginia Beach VA city council district Centerville
+ocd-division/country:us/state:va/place:virginia_beach/council_district:kempsville,Virginia Beach VA city council district Kempsville
+ocd-division/country:us/state:va/place:virginia_beach/council_district:lynnhaven,Virginia Beach VA city council district Lynnhaven
+ocd-division/country:us/state:va/place:virginia_beach/council_district:princess_anne,Virginia Beach VA city council district Princess Anne
+ocd-division/country:us/state:va/place:virginia_beach/council_district:rose_hall,Virginia Beach VA city council district Rose Hall
 ocd-division/country:us/state:va/county:fairfax/council_district:dranesville,Fairfax County VA supervisor Dranesville district
 ocd-division/country:us/state:va/county:fairfax/council_district:lee,Fairfax County VA supervisor district Lee district
 ocd-division/country:us/state:va/county:fairfax/council_district:mount_vernon,Fairfax County VA supervisor Mount Vernon district
