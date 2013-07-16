@@ -22,3 +22,45 @@ ocd-division/country:us/state:co/county:denver,ocd-division/country:us/state:co/
 ocd-division/country:us/state:ky/county:fayette,ocd-division/country:us/state:ky/place:lexington,city-county coterminous and colosidated gov
 ocd-division/country:us/state:la/parish:orleans,ocd-division/country:us/state:la/place:new_orleans,city-parish coterminous and colosidated gov
 ocd-division/country:us/state:ma/county:nantucket,ocd-division/country:us/state:ma/place:nantucket,city-county coterminous and colosidated gov
+ocd-division/country:us/state:va/county:alexandria,ocd-division/country:us/state:va/place:alexandria,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:bedford_city,ocd-division/country:us/state:va/place:bedford,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:bristol,ocd-division/country:us/state:va/place:bristol,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:buena_vista,ocd-division/country:us/state:va/place:buena_vista,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:charlottesville,ocd-division/country:us/state:va/place:charlottesville,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:chesapeake,ocd-division/country:us/state:va/place:chesapeake,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:colonial_heights,ocd-division/country:us/state:va/place:colonial_heights,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:covington,ocd-division/country:us/state:va/place:covington,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:danville,ocd-division/country:us/state:va/place:danville,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:emporia,ocd-division/country:us/state:va/place:emporia,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:fairfax_city,ocd-division/country:us/state:va/place:fairfax,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:falls_church,ocd-division/country:us/state:va/place:falls_church,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:franklin_city,ocd-division/country:us/state:va/place:franklin,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:fredericksburg,ocd-division/country:us/state:va/place:fredericksburg,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:galax,ocd-division/country:us/state:va/place:galax,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:hampton,ocd-division/country:us/state:va/place:hampton,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:harrisonburg,ocd-division/country:us/state:va/place:harrisonburg,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:hopewell,ocd-division/country:us/state:va/place:hopewell,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:lexington,ocd-division/country:us/state:va/place:lexington,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:lynchburg,ocd-division/country:us/state:va/place:lynchburg,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:manassas,ocd-division/country:us/state:va/place:manassas,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:manassas_park,ocd-division/country:us/state:va/place:manassas_park,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:martinsville,ocd-division/country:us/state:va/place:martinsville,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:newport_news,ocd-division/country:us/state:va/place:newport_news,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:norfolk,ocd-division/country:us/state:va/place:norfolk,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:norton,ocd-division/country:us/state:va/place:norton,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:petersburg,ocd-division/country:us/state:va/place:petersburg,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:poquoson,ocd-division/country:us/state:va/place:poquoson,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:portsmouth,ocd-division/country:us/state:va/place:portsmouth,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:radford,ocd-division/country:us/state:va/place:radford,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:richmond_city,ocd-division/country:us/state:va/place:richmond,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:roanoke_city,ocd-division/country:us/state:va/place:roanoke,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:salem,ocd-division/country:us/state:va/place:salem,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:staunton,ocd-division/country:us/state:va/place:staunton,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:suffolk,ocd-division/country:us/state:va/place:suffolk,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:virginia_beach,ocd-division/country:us/state:va/place:virginia_beach,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:waynesboro,ocd-division/country:us/state:va/place:waynesboro,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:williamsburg,ocd-division/country:us/state:va/place:williamsburg,indepdent city of VA--not a county
+ocd-division/country:us/state:va/county:winchester,ocd-division/country:us/state:va/place:winchester,indepdent city of VA--not a county
+ocd-division/country:us/state:md/county:baltimore_city,ocd-division/country:us/state:md/place:baltimore,indepdent city of MD--not a county
+ocd-division/country:us/state:nv/county:carson_city,ocd-division/country:us/state:nv/place:carson_city,indepdent city of NV--not a county
+ocd-division/country:us/state:mo/county:st_louis,ocd-division/country:us/state:mo/place:st_louis,indepdent city of MO--not a county
