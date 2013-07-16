@@ -1,0 +1,24 @@
+ocd-division/country:us/state:co/place:aurora/ward:i,ocd-division/country:us/state:co/place:aurora/ward:1,roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:ii,ocd-division/country:us/state:co/place:aurora/ward:2,roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:iii,ocd-division/country:us/state:co/place:aurora/ward:3,roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:iv,ocd-division/country:us/state:co/place:aurora/ward:4,roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:v,ocd-division/country:us/state:co/place:aurora/ward:5,roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:vi,ocd-division/country:us/state:co/place:aurora/ward:6,roman/arabic conversion
+ocd-division/country:us/state:nv/place:henderson/ward:i,ocd-division/country:us/state:nv/place:henderson/ward:1,roman/arabic conversion
+ocd-division/country:us/state:nv/place:henderson/ward:ii,ocd-division/country:us/state:nv/place:henderson/ward:2,roman/arabic conversion
+ocd-division/country:us/state:nv/place:henderson/ward:iii,ocd-division/country:us/state:nv/place:henderson/ward:3,roman/arabic conversion
+ocd-division/country:us/state:nv/place:henderson/ward:iv,ocd-division/country:us/state:nv/place:henderson/ward:4,roman/arabic conversion
+ocd-division/country:us/state:wi/court_of_appeals:i,ocd-division/country:us/state:wi/court_of_appeals:1,roman/arabic conversion
+ocd-division/country:us/state:wi/court_of_appeals:ii,ocd-division/country:us/state:wi/court_of_appeals:2,roman/arabic conversion
+ocd-division/country:us/state:wi/court_of_appeals:iii,ocd-division/country:us/state:wi/court_of_appeals:3,roman/arabic conversion
+ocd-division/country:us/state:wi/court_of_appeals:iv,ocd-division/country:us/state:wi/court_of_appeals:4,roman/arabic conversion
+ocd-division/country:us/state:ak/place:anchorage,ocd-division/country:us/state:ak/borough:anchorage,city-borough coterminous and colosidated gov
+ocd-division/country:us/state:ak/place:juneau,ocd-division/country:us/state:ak/borough:juneau,city-borough coterminous and colosidated gov
+ocd-division/country:us/state:ak/place:sitka,ocd-division/country:us/state:ak/borough:sitka,city-borough coterminous and colosidated gov
+ocd-division/country:us/state:ak/place:wrangell,ocd-division/country:us/state:ak/borough:wrangell,Wrangell city and borough
+ocd-division/country:us/state:ca/county:san_francisco,ocd-division/country:us/state:ca/place:san_francisco,city-county coterminous and colosidated gov
+ocd-division/country:us/state:co/county:broomfield,ocd-division/country:us/state:co/place:broomfield,city-county coterminous and colosidated gov
+ocd-division/country:us/state:co/county:denver,ocd-division/country:us/state:co/place:denver,city-county coterminous and colosidated gov
+ocd-division/country:us/state:ky/county:fayette,ocd-division/country:us/state:ky/place:lexington,city-county coterminous and colosidated gov
+ocd-division/country:us/state:la/parish:orleans,ocd-division/country:us/state:la/place:new_orleans,city-parish coterminous and colosidated gov
+ocd-division/country:us/state:ma/county:nantucket,ocd-division/country:us/state:ma/place:nantucket,city-county coterminous and colosidated gov

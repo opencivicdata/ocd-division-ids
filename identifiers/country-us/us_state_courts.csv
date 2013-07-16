@@ -19,10 +19,10 @@ ocd-division/country:us/state:ri/district_court:6,RI State District Court - 6th 
 ocd-division/country:us/state:tn/court_of_appeals:western,TN State Court of Appeals - Western Section
 ocd-division/country:us/state:tn/court_of_appeals:middle,TN State Court of Appeals - Middle Section
 ocd-division/country:us/state:tn/court_of_appeals:eastern,TN State Court of Appeals - Eastern Section
-ocd-division/country:us/state:wi/court_of_appeals:i,WI State Court of Appeals - District I
-ocd-division/country:us/state:wi/court_of_appeals:ii,WI State Court of Appeals - District II
-ocd-division/country:us/state:wi/court_of_appeals:iii,WI State Court of Appeals - District III
-ocd-division/country:us/state:wi/court_of_appeals:iv,WI State Court of Appeals - District IV
+ocd-division/country:us/state:wi/court_of_appeals:1,WI State Court of Appeals - District I (1)
+ocd-division/country:us/state:wi/court_of_appeals:2,WI State Court of Appeals - District II (2)
+ocd-division/country:us/state:wi/court_of_appeals:3,WI State Court of Appeals - District III (3)
+ocd-division/country:us/state:wi/court_of_appeals:4,WI State Court of Appeals - District IV (4)
 ocd-division/country:us/state:ak/district_court:1,AK State District Court - 1st District
 ocd-division/country:us/state:ak/district_court:2,AK State District Court - 2nd District
 ocd-division/country:us/state:ak/district_court:3,AK State District Court - 3rd District

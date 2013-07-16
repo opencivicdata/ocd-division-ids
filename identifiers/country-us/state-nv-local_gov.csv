@@ -4,10 +4,10 @@ ocd-division/country:us/state:nv/place:las_vegas/ward:3,Las Vegas NV - ward 3
 ocd-division/country:us/state:nv/place:las_vegas/ward:4,Las Vegas NV - ward 4
 ocd-division/country:us/state:nv/place:las_vegas/ward:5,Las Vegas NV - ward 5
 ocd-division/country:us/state:nv/place:las_vegas/ward:6,Las Vegas NV - ward 6
-ocd-division/country:us/state:nv/place:henderson/ward:i,Henderson NV City Council ward I
-ocd-division/country:us/state:nv/place:henderson/ward:ii,Henderson NV City Council ward II
-ocd-division/country:us/state:nv/place:henderson/ward:iii,Henderson NV City Council ward III
-ocd-division/country:us/state:nv/place:henderson/ward:iv,Henderson NV City Council ward IV
+ocd-division/country:us/state:nv/place:henderson/ward:1,Henderson NV City Council ward I (1)
+ocd-division/country:us/state:nv/place:henderson/ward:2,Henderson NV City Council ward II (2)
+ocd-division/country:us/state:nv/place:henderson/ward:3,Henderson NV City Council ward III (3)
+ocd-division/country:us/state:nv/place:henderson/ward:4,Henderson NV City Council ward IV (4)
 ocd-division/country:us/state:nv/county:clark/council_district:a,Clark County NV - County Council district A
 ocd-division/country:us/state:nv/county:clark/council_district:b,Clark County NV - County Council district B
 ocd-division/country:us/state:nv/county:clark/council_district:c,Clark County NV - County Council district C
