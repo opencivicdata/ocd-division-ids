@@ -61,8 +61,8 @@ ocd-division/country:us/state:va/county:appomattox/council_district:piney_mounta
 ocd-division/country:us/state:va/county:appomattox/council_district:wreck_island,Appomattox County Board of Supervisors District Wreck Island
 ocd-division/country:us/state:va/county:augusta/council_district:beverley_manor,Augusta County Board of Supervisors District Beverley Manor
 ocd-division/country:us/state:va/county:augusta/council_district:middle_river,Augusta County Board of Supervisors District Middle River
-ocd-division/country:us/state:va/county:augusta/council_district:north_river_,Augusta County Board of Supervisors District North River 
-ocd-division/country:us/state:va/county:augusta/council_district:pastures_,Augusta County Board of Supervisors District Pastures 
+ocd-division/country:us/state:va/county:augusta/council_district:north_river,Augusta County Board of Supervisors District North River 
+ocd-division/country:us/state:va/county:augusta/council_district:pastures,Augusta County Board of Supervisors District Pastures 
 ocd-division/country:us/state:va/county:augusta/council_district:riverheads,Augusta County Board of Supervisors District Riverheads
 ocd-division/country:us/state:va/county:augusta/council_district:south_river,Augusta County Board of Supervisors District South River
 ocd-division/country:us/state:va/county:augusta/council_district:wayne,Augusta County Board of Supervisors District Wayne 
@@ -177,7 +177,8 @@ ocd-division/country:us/state:va/county:essex/council_district:south,Essex Count
 ocd-division/country:us/state:va/county:fauquier/council_district:cedar_run,Fauquier County Board of Supervisors District Cedar Run
 ocd-division/country:us/state:va/county:fauquier/council_district:center,Fauquier County Board of Supervisors District Center
 ocd-division/country:us/state:va/county:fauquier/council_district:lee,Fauquier County Board of Supervisors District Lee
-ocd-division/country:us/state:va/county:fauquier/council_district:scottsville,Fauquier County Board of Supervisors District Scottsville
+ocd-division/country:us/state:va/county:fauquier/council_district:marshall,Fauquier County Board of Supervisors District Marshall
+ocd-division/country:us/state:va/county:fauquier/council_district:scott,Fauquier County Board of Supervisors District Scott
 ocd-division/country:us/state:va/county:fluvanna/council_district:columbia,Fluvanna County Board of Supervisors District Columbia
 ocd-division/country:us/state:va/county:fluvanna/council_district:cunningham,Fluvanna County Board of Supervisors District Cunningham
 ocd-division/country:us/state:va/county:fluvanna/council_district:fork_union,Fluvanna County Board of Supervisors District Fork Union
@@ -192,6 +193,7 @@ ocd-division/country:us/state:va/county:franklin/council_district:snow_creek,Fra
 ocd-division/country:us/state:va/county:franklin/council_district:union_hall,Franklin County Board of Supervisors District Union Hall
 ocd-division/country:us/state:va/county:frederick/council_district:back_creek,Frederick County Board of Supervisors District Back Creek
 ocd-division/country:us/state:va/county:frederick/council_district:gainesboro,Frederick County Board of Supervisors District Gainesboro
+ocd-division/country:us/state:va/county:frederick/council_district:opequon, Frederick County Board of Supervisors District Opequon
 ocd-division/country:us/state:va/county:frederick/council_district:red_bud,Frederick County Board of Supervisors District Red Bud
 ocd-division/country:us/state:va/county:frederick/council_district:shawnee,Frederick County Board of Supervisors District Shawnee
 ocd-division/country:us/state:va/county:frederick/council_district:stonewall,Frederick County Board of Supervisors District Stonewall
@@ -232,7 +234,7 @@ ocd-division/country:us/state:va/county:hanover/council_district:henry,Hanover C
 ocd-division/country:us/state:va/county:hanover/council_district:mechanicsville,Hanover County Board of Supervisors District Mechanicsville
 ocd-division/country:us/state:va/county:hanover/council_district:south_anna,Hanover County Board of Supervisors District South Anna
 ocd-division/country:us/state:va/county:henrico/council_district:brookland,Henrico County Board of Supervisors District Brookland
-ocd-division/country:us/state:va/county:henrico/council_district:dairfield,Henrico County Board of Supervisors District Dairfield
+ocd-division/country:us/state:va/county:henrico/council_district:fairfield,Henrico County Board of Supervisors District Fairfield
 ocd-division/country:us/state:va/county:henrico/council_district:three_chopt,Henrico County Board of Supervisors District Three Chopt
 ocd-division/country:us/state:va/county:henrico/council_district:tuckahoe,Henrico County Board of Supervisors District Tuckahoe
 ocd-division/country:us/state:va/county:henrico/council_district:varina,Henrico County Board of Supervisors District Varina
@@ -276,14 +278,14 @@ ocd-division/country:us/state:va/county:lee/council_district:2,Lee County Board 
 ocd-division/country:us/state:va/county:lee/council_district:3,Lee County Board of Supervisors District 3
 ocd-division/country:us/state:va/county:lee/council_district:4,Lee County Board of Supervisors District 4
 ocd-division/country:us/state:va/county:lee/council_district:5,Lee County Board of Supervisors District 5
-ocd-division/country:us/state:va/county:loudoun/council_district:agonkian,Loudoun County Board of Supervisors Agonkian Council District Agonkian
-ocd-division/country:us/state:va/county:loudoun/council_district:ashburn,Loudoun County Board of Supervisors Ashburn Council District Ashburn
-ocd-division/country:us/state:va/county:loudoun/council_district:blue_ridge,Loudoun County Board of Supervisors Blue Ridge Council District Blue Ridge
-ocd-division/country:us/state:va/county:loudoun/council_district:broad_run,Loudoun County Board of Supervisors Broad Run Council District Broad Run
-ocd-division/country:us/state:va/county:loudoun/council_district:catoctin,Loudoun County Board of Supervisors Catoctin Council District Catoctin
-ocd-division/country:us/state:va/county:loudoun/council_district:dulles,Loudoun County Board of Supervisors Dulles Council District Dulles
-ocd-division/country:us/state:va/county:loudoun/council_district:leeburg,Loudoun County Board of Supervisors Leeburg Council District Leeburg
-ocd-division/country:us/state:va/county:loudoun/council_district:sterling,Loudoun County Board of Supervisors Sterling Council District Sterling
+ocd-division/country:us/state:va/county:loudoun/council_district:algonkian,Loudoun County Board of Supervisors Algonkian Council District
+ocd-division/country:us/state:va/county:loudoun/council_district:ashburn,Loudoun County Board of Supervisors Ashburn Council District
+ocd-division/country:us/state:va/county:loudoun/council_district:blue_ridge,Loudoun County Board of Supervisors Blue Ridge Council District
+ocd-division/country:us/state:va/county:loudoun/council_district:broad_run,Loudoun County Board of Supervisors Broad Run Council District
+ocd-division/country:us/state:va/county:loudoun/council_district:catoctin,Loudoun County Board of Supervisors Catoctin Council District
+ocd-division/country:us/state:va/county:loudoun/council_district:dulles,Loudoun County Board of Supervisors Dulles Council District
+ocd-division/country:us/state:va/county:loudoun/council_district:leesburg,Loudoun County Board of Supervisors Leesburg Council District
+ocd-division/country:us/state:va/county:loudoun/council_district:sterling,Loudoun County Board of Supervisors Sterling Council District
 ocd-division/country:us/state:va/county:louisa/council_district:cuckoo,Louisa County Board of Supervisors District Cuckoo
 ocd-division/country:us/state:va/county:louisa/council_district:green_springs,Louisa County Board of Supervisors District Green Springs
 ocd-division/country:us/state:va/county:louisa/council_district:jackson,Louisa County Board of Supervisors District Jackson
@@ -360,10 +362,10 @@ ocd-division/country:us/state:va/county:patrick/council_district:mayo_river,Patr
 ocd-division/country:us/state:va/county:patrick/council_district:peters_creek,Patrick County Board of Supervisors District Peters Creek
 ocd-division/country:us/state:va/county:patrick/council_district:smith_river,Patrick County Board of Supervisors District Smith River
 ocd-division/country:us/state:va/county:pittsylvania/council_district:banister,Pittsylvania County Board of Supervisors District Banister
-ocd-division/country:us/state:va/county:pittsylvania/council_district:callands,Pittsylvania County Board of Supervisors District Callands-Gretna
-ocd-division/country:us/state:va/county:pittsylvania/council_district:chatham,Pittsylvania County Board of Supervisors District Chatham-Blairs
+ocd-division/country:us/state:va/county:pittsylvania/council_district:callands-gretna,Pittsylvania County Board of Supervisors District Callands-Gretna
+ocd-division/country:us/state:va/county:pittsylvania/council_district:chatham-blairs,Pittsylvania County Board of Supervisors District Chatham-Blairs
 ocd-division/country:us/state:va/county:pittsylvania/council_district:dan_river,Pittsylvania County Board of Supervisors District Dan River
-ocd-division/country:us/state:va/county:pittsylvania/council_district:staunton_rier,Pittsylvania County Board of Supervisors District Staunton Rier
+ocd-division/country:us/state:va/county:pittsylvania/council_district:staunton_river,Pittsylvania County Board of Supervisors District Staunton River
 ocd-division/country:us/state:va/county:pittsylvania/council_district:tunstall,Pittsylvania County Board of Supervisors District Tunstall
 ocd-division/country:us/state:va/county:pittsylvania/council_district:westover,Pittsylvania County Board of Supervisors District Westover
 ocd-division/country:us/state:va/county:powhatan/council_district:1,Powhatan County Board of Supervisors District 1
@@ -381,12 +383,13 @@ ocd-division/country:us/state:va/county:prince_edward/council_district:7,Prince 
 ocd-division/country:us/state:va/county:prince_edward/council_district:8,Prince Edward County Board of Supervisors District 8
 ocd-division/country:us/state:va/county:prince_george/council_district:1,Prince George County Board of Supervisors District 1
 ocd-division/country:us/state:va/county:prince_george/council_district:2,Prince George County Board of Supervisors District 2
-ocd-division/country:us/state:va/county:prince_william/council_district:brentsville,Prince William County Board of Supervisors Brentsville Council District Brentsville
-ocd-division/country:us/state:va/county:prince_william/council_district:coles,Prince William County Board of Supervisors Coles Council District Coles
-ocd-division/country:us/state:va/county:prince_william/council_district:neabsco,Prince William County Board of Supervisors Neabsco Council District Neabsco
-ocd-division/country:us/state:va/county:prince_william/council_district:occoquan,Prince William County Board of Supervisors Occoquan Council District Occoquan
-ocd-division/country:us/state:va/county:prince_william/council_district:potomac,Prince William County Board of Supervisors Potomac Council District Potomac
-ocd-division/country:us/state:va/county:prince_william/council_district:woodbridge,Prince William County Board of Supervisors Woodbridge Council District Woodbridge
+ocd-division/country:us/state:va/county:prince_william/council_district:brentsville,Prince William County Board of Supervisors Brentsville Council District
+ocd-division/country:us/state:va/county:prince_william/council_district:coles,Prince William County Board of Supervisors Coles Council District
+ocd-division/country:us/state:va/county:prince_william/council_district:gainesville,Prince William County Board of Supervisors Gainesville Council District
+ocd-division/country:us/state:va/county:prince_william/council_district:neabsco,Prince William County Board of Supervisors Neabsco Council District
+ocd-division/country:us/state:va/county:prince_william/council_district:occoquan,Prince William County Board of Supervisors Occoquan Council District
+ocd-division/country:us/state:va/county:prince_william/council_district:potomac,Prince William County Board of Supervisors Potomac Council District
+ocd-division/country:us/state:va/county:prince_william/council_district:woodbridge,Prince William County Board of Supervisors Woodbridge Council District
 ocd-division/country:us/state:va/county:pulaski/council_district:cloyd,Pulaski County Board of Supervisors District Cloyd
 ocd-division/country:us/state:va/county:pulaski/council_district:draper,Pulaski County Board of Supervisors District Draper
 ocd-division/country:us/state:va/county:pulaski/council_district:ingles,Pulaski County Board of Supervisors District Ingles
@@ -450,7 +453,7 @@ ocd-division/country:us/state:va/county:southampton/council_district:franklin,So
 ocd-division/country:us/state:va/county:southampton/council_district:jerusalem,Southampton County Board of Supervisors District Jerusalem
 ocd-division/country:us/state:va/county:southampton/council_district:newsoms,Southampton County Board of Supervisors District Newsoms
 ocd-division/country:us/state:va/county:spotsylvania/council_district:battlefield,Spotsylvania County Board of Supervisors District Battlefield
-ocd-division/country:us/state:va/county:spotsylvania/council_district:berkely,Spotsylvania County Board of Supervisors District Berkely
+ocd-division/country:us/state:va/county:spotsylvania/council_district:berkeley,Spotsylvania County Board of Supervisors District Berkeley
 ocd-division/country:us/state:va/county:spotsylvania/council_district:chancellor,Spotsylvania County Board of Supervisors District Chancellor
 ocd-division/country:us/state:va/county:spotsylvania/council_district:courtland,Spotsylvania County Board of Supervisors District Courtland
 ocd-division/country:us/state:va/county:spotsylvania/council_district:lee_hill,Spotsylvania County Board of Supervisors District Lee Hill
@@ -460,7 +463,7 @@ ocd-division/country:us/state:va/county:stafford/council_district:aquia,Stafford
 ocd-division/country:us/state:va/county:stafford/council_district:falmouth,Stafford County Board of Supervisors District Falmouth
 ocd-division/country:us/state:va/county:stafford/council_district:garrisonville,Stafford County Board of Supervisors District Garrisonville
 ocd-division/country:us/state:va/county:stafford/council_district:george_washington,Stafford County Board of Supervisors District George Washington
-ocd-division/country:us/state:va/county:stafford/council_district:griffis,Stafford County Board of Supervisors District Griffis-Widewater
+ocd-division/country:us/state:va/county:stafford/council_district:griffis-widewater,Stafford County Board of Supervisors District Griffis-Widewater
 ocd-division/country:us/state:va/county:stafford/council_district:hartwood,Stafford County Board of Supervisors District Hartwood
 ocd-division/country:us/state:va/county:stafford/council_district:rock_hill,Stafford County Board of Supervisors District Rock Hill
 ocd-division/country:us/state:va/county:surry/council_district:bacon,Surry County Board of Supervisors District Bacon'S Castle
