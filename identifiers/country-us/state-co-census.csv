@@ -5,6 +5,7 @@ ocd-division/country:us/state:co/county:archuleta,Archuleta County
 ocd-division/country:us/state:co/county:baca,Baca County
 ocd-division/country:us/state:co/county:bent,Bent County
 ocd-division/country:us/state:co/county:boulder,Boulder County
+ocd-division/country:us/state:co/county:broomfield,Broomfield County (and city)
 ocd-division/country:us/state:co/county:chaffee,Chaffee County
 ocd-division/country:us/state:co/county:cheyenne,Cheyenne County
 ocd-division/country:us/state:co/county:clear_creek,Clear Creek County
@@ -13,6 +14,7 @@ ocd-division/country:us/state:co/county:costilla,Costilla County
 ocd-division/country:us/state:co/county:crowley,Crowley County
 ocd-division/country:us/state:co/county:custer,Custer County
 ocd-division/country:us/state:co/county:delta,Delta County
+ocd-division/country:us/state:co/county:denver,Denver County (and city)
 ocd-division/country:us/state:co/county:dolores,Dolores County
 ocd-division/country:us/state:co/county:douglas,Douglas County
 ocd-division/country:us/state:co/county:eagle,Eagle County
@@ -87,7 +89,6 @@ ocd-division/country:us/state:co/place:branson,Branson town
 ocd-division/country:us/state:co/place:breckenridge,Breckenridge town
 ocd-division/country:us/state:co/place:brighton,Brighton city
 ocd-division/country:us/state:co/place:brookside,Brookside town
-ocd-division/country:us/state:co/place:broomfield,Broomfield city
 ocd-division/country:us/state:co/place:brush,Brush city
 ocd-division/country:us/state:co/place:buena_vista,Buena Vista town
 ocd-division/country:us/state:co/place:burlington,Burlington city
@@ -124,7 +125,6 @@ ocd-division/country:us/state:co/place:de_beque,De Beque town
 ocd-division/country:us/state:co/place:deer_trail,Deer Trail town
 ocd-division/country:us/state:co/place:del_norte,Del Norte town
 ocd-division/country:us/state:co/place:delta,Delta city
-ocd-division/country:us/state:co/place:denver,Denver city
 ocd-division/country:us/state:co/place:dillon,Dillon town
 ocd-division/country:us/state:co/place:dinosaur,Dinosaur town
 ocd-division/country:us/state:co/place:dolores,Dolores town

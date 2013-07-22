@@ -1831,11 +1831,11 @@ ocd-division/country:us/state:ca/county:san_diego/school_district:vallecitos_ele
 ocd-division/country:us/state:ca/county:san_diego/school_district:valley_center-pauma_unified,valley center-pauma unified
 ocd-division/country:us/state:ca/county:san_diego/school_district:vista_unified,vista unified
 ocd-division/country:us/state:ca/county:san_diego/school_district:warner_unified,warner unified
-ocd-division/country:us/state:ca/place:san_francisco/school_district:san_francisco_county_office_of_education,san francisco county office of education
-ocd-division/country:us/state:ca/place:san_francisco/school_district:san_francisco_county_rop,san francisco county rop
-ocd-division/country:us/state:ca/place:san_francisco/school_district:san_francisco_unified,san francisco unified
-ocd-division/country:us/state:ca/place:san_francisco/school_district:sbe_-_edison_charter_academy,sbe - edison charter academy
-ocd-division/country:us/state:ca/place:san_francisco/school_district:sbe_-_san_francisco_flex_academy,sbe - san francisco flex academy
+ocd-division/country:us/state:ca/county:san_francisco/school_district:san_francisco_county_office_of_education,san francisco county office of education
+ocd-division/country:us/state:ca/county:san_francisco/school_district:san_francisco_county_rop,san francisco county rop
+ocd-division/country:us/state:ca/county:san_francisco/school_district:san_francisco_unified,san francisco unified
+ocd-division/country:us/state:ca/county:san_francisco/school_district:sbe_-_edison_charter_academy,sbe - edison charter academy
+ocd-division/country:us/state:ca/county:san_francisco/school_district:sbe_-_san_francisco_flex_academy,sbe - san francisco flex academy
 ocd-division/country:us/state:ca/county:san_joaquin/school_district:banta_elementary,banta elementary
 ocd-division/country:us/state:ca/county:san_joaquin/school_district:cea_san_joaquin_co,cea san joaquin co
 ocd-division/country:us/state:ca/county:san_joaquin/school_district:escalon_unified,escalon unified
@@ -2287,10 +2287,10 @@ ocd-division/country:us/state:co/county:costilla/school_district:sierra_grande_s
 ocd-division/country:us/state:co/county:crowley/school_district:crowley_county_school_district_no._re-1-j,crowley county school district no. re-1-j
 ocd-division/country:us/state:co/county:custer/school_district:custer_county_school_district_consolidate_1,custer county school district consolidate 1
 ocd-division/country:us/state:co/county:delta/school_district:delta_county_joint_district_no._50,delta county joint district no. 50
-ocd-division/country:us/state:co/place:denver/school_district:charter_school_institute,charter school institute
-ocd-division/country:us/state:co/place:denver/school_district:colorado_school_for_the_deaf_and_blind,colorado school for the deaf and blind
-ocd-division/country:us/state:co/place:denver/school_district:denver_1,denver 1
-ocd-division/country:us/state:co/place:denver/school_district:school_district_no._1,school district no. 1
+ocd-division/country:us/state:co/county:denver/school_district:charter_school_institute,charter school institute
+ocd-division/country:us/state:co/county:denver/school_district:colorado_school_for_the_deaf_and_blind,colorado school for the deaf and blind
+ocd-division/country:us/state:co/county:denver/school_district:denver_1,denver 1
+ocd-division/country:us/state:co/county:denver/school_district:school_district_no._1,school district no. 1
 ocd-division/country:us/state:co/county:dolores/school_district:dolores_county_school_district_re-2j,dolores county school district re-2j
 ocd-division/country:us/state:co/county:douglas/school_district:douglas_county_school_district_no._re_1,douglas county school district no. re 1
 ocd-division/country:us/state:co/county:eagle/school_district:eagle_county_school_district_no._re_50,eagle county school district no. re 50
@@ -5243,7 +5243,7 @@ ocd-division/country:us/state:ky/county:daviess/school_district:owensboro_indepe
 ocd-division/country:us/state:ky/county:edmonson/school_district:edmonson_county,edmonson county
 ocd-division/country:us/state:ky/county:elliott/school_district:elliott_county,elliott county
 ocd-division/country:us/state:ky/county:estill/school_district:estill_county,estill county
-ocd-division/country:us/state:ky/place:lexington/school_district:fayette_county,fayette county
+ocd-division/country:us/state:ky/county:fayette/school_district:fayette_county,fayette county
 ocd-division/country:us/state:ky/county:fleming/school_district:fleming_county,fleming county
 ocd-division/country:us/state:ky/county:floyd/school_district:floyd_county,floyd county
 ocd-division/country:us/state:ky/county:franklin/school_district:frankfort_independent,frankfort independent
@@ -5421,40 +5421,40 @@ ocd-division/country:us/state:la/parish:madison/school_district:madison_parish,m
 ocd-division/country:us/state:la/parish:morehouse/school_district:morehouse_parish,morehouse parish
 ocd-division/country:us/state:la/parish:natchitoches/school_district:louisiana_school_for_math_science_and_the_arts,louisiana school for math science & the arts
 ocd-division/country:us/state:la/parish:natchitoches/school_district:natchitoches_parish,natchitoches parish
-ocd-division/country:us/state:la/place:new_orleans/school_district:international_school_of_louisiana,international school of louisiana
-ocd-division/country:us/state:la/place:new_orleans/school_district:milestone_sabis_academy_of_new_orleans,milestone sabis academy of new orleans
-ocd-division/country:us/state:la/place:new_orleans/school_district:new_orleans_center_for_creative_arts,new orleans center for creative arts
-ocd-division/country:us/state:la/place:new_orleans/school_district:orleans_parish,orleans parish
-ocd-division/country:us/state:la/place:new_orleans/school_district:recovery_school_district-lde,recovery school district-lde
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-advocacy_for_science_and_math_education,rsd-advocacy for science and math education
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-advocacy_for_the_arts_and_tech_in_n.o._inc,rsd-advocacy for the arts & tech in n.o.  inc
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-akili_academy_of_new_orleans,rsd-akili academy of new orleans
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-algiers_charter_schools_association_acsa,rsd-algiers charter schools association (acsa)
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-arise_academy,rsd-arise academy
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-benjamin_e._mays_preparatory_school,rsd-benjamin e. mays preparatory school
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-broadmoor_charter_school_board,rsd-broadmoor charter school board
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-choice_foundation,rsd-choice foundation
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-dryades_ymca,rsd-dryades ymca
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-firstline_schools_inc,rsd-firstline schools  inc
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-friends_of_king,rsd-friends of king
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-intercultural_charter_school_board_inc,rsd-intercultural charter school board  inc
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-knowledge_is_power_program_kipp_n.o.,rsd-knowledge is power program (kipp) n.o.
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-lagniappe_academies_of_new_orleans,rsd-lagniappe academies of new orleans
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-miller-mccoy_academy_for_math_and_business,rsd-miller-mccoy academy for math and business
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-morris_jeff_community_school,rsd-morris jeff community school
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-new_orleans_charter_schools_foundation,rsd-new orleans charter schools foundation
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-new_orleans_college_preparatory_academies,rsd-new orleans college preparatory academies
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-nola_180,rsd-nola 180
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-pelican_educational_foundation,rsd-pelican educational foundation
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-pride_college_preparatory_academy,rsd-pride college preparatory academy
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-renew_schools,rsd-renew schools
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-sojourner_truth_academy_inc,rsd-sojourner truth academy  inc
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-spirit_of_excellence_academy,rsd-spirit of excellence academy
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-success_preparatory_academy,rsd-success preparatory academy
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-suno_institute_for_academic_excellence,rsd-suno institute for academic excellence
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-treme_charter_schools_association,rsd-treme charter schools association
-ocd-division/country:us/state:la/place:new_orleans/school_district:rsd-uno_new_beginnings_schools_foundation,rsd-uno new beginnings schools foundation
-ocd-division/country:us/state:la/place:new_orleans/school_district:voices_for_international_business_and_education,voices for international business & education
+ocd-division/country:us/state:la/parish:orleans/school_district:international_school_of_louisiana,international school of louisiana
+ocd-division/country:us/state:la/parish:orleans/school_district:milestone_sabis_academy_of_new_orleans,milestone sabis academy of new orleans
+ocd-division/country:us/state:la/parish:orleans/school_district:new_orleans_center_for_creative_arts,new orleans center for creative arts
+ocd-division/country:us/state:la/parish:orleans/school_district:orleans_parish,orleans parish
+ocd-division/country:us/state:la/parish:orleans/school_district:recovery_school_district-lde,recovery school district-lde
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-advocacy_for_science_and_math_education,rsd-advocacy for science and math education
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-advocacy_for_the_arts_and_tech_in_n.o._inc,rsd-advocacy for the arts & tech in n.o.  inc
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-akili_academy_of_new_orleans,rsd-akili academy of new orleans
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-algiers_charter_schools_association_acsa,rsd-algiers charter schools association (acsa)
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-arise_academy,rsd-arise academy
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-benjamin_e._mays_preparatory_school,rsd-benjamin e. mays preparatory school
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-broadmoor_charter_school_board,rsd-broadmoor charter school board
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-choice_foundation,rsd-choice foundation
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-dryades_ymca,rsd-dryades ymca
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-firstline_schools_inc,rsd-firstline schools  inc
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-friends_of_king,rsd-friends of king
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-intercultural_charter_school_board_inc,rsd-intercultural charter school board  inc
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-knowledge_is_power_program_kipp_n.o.,rsd-knowledge is power program (kipp) n.o.
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-lagniappe_academies_of_new_orleans,rsd-lagniappe academies of new orleans
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-miller-mccoy_academy_for_math_and_business,rsd-miller-mccoy academy for math and business
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-morris_jeff_community_school,rsd-morris jeff community school
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-new_orleans_charter_schools_foundation,rsd-new orleans charter schools foundation
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-new_orleans_college_preparatory_academies,rsd-new orleans college preparatory academies
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-nola_180,rsd-nola 180
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-pelican_educational_foundation,rsd-pelican educational foundation
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-pride_college_preparatory_academy,rsd-pride college preparatory academy
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-renew_schools,rsd-renew schools
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-sojourner_truth_academy_inc,rsd-sojourner truth academy  inc
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-spirit_of_excellence_academy,rsd-spirit of excellence academy
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-success_preparatory_academy,rsd-success preparatory academy
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-suno_institute_for_academic_excellence,rsd-suno institute for academic excellence
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-treme_charter_schools_association,rsd-treme charter schools association
+ocd-division/country:us/state:la/parish:orleans/school_district:rsd-uno_new_beginnings_schools_foundation,rsd-uno new beginnings schools foundation
+ocd-division/country:us/state:la/parish:orleans/school_district:voices_for_international_business_and_education,voices for international business & education
 ocd-division/country:us/state:la/parish:ouachita/school_district:city_of_monroe_school_district,city of monroe school district
 ocd-division/country:us/state:la/parish:ouachita/school_district:new_vision_learning_academy,new vision learning academy
 ocd-division/country:us/state:la/parish:ouachita/school_district:ouachita_parish,ouachita parish
@@ -5736,7 +5736,7 @@ ocd-division/country:us/state:ma/county:middlesex/school_district:weston,weston
 ocd-division/country:us/state:ma/county:middlesex/school_district:wilmington,wilmington
 ocd-division/country:us/state:ma/county:middlesex/school_district:winchester,winchester
 ocd-division/country:us/state:ma/county:middlesex/school_district:woburn,woburn
-ocd-division/country:us/state:ma/place:nantucket/school_district:nantucket,nantucket
+ocd-division/country:us/state:ma/county:nantucket/school_district:nantucket,nantucket
 ocd-division/country:us/state:ma/county:norfolk/school_district:avon,avon
 ocd-division/country:us/state:ma/county:norfolk/school_district:bellingham,bellingham
 ocd-division/country:us/state:ma/county:norfolk/school_district:benjamin_franklin_classical_charter_public_district,benjamin franklin classical charter public (district)

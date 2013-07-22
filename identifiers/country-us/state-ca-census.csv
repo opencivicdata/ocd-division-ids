@@ -35,6 +35,7 @@ ocd-division/country:us/state:ca/county:sacramento,Sacramento County
 ocd-division/country:us/state:ca/county:san_benito,San Benito County
 ocd-division/country:us/state:ca/county:san_bernardino,San Bernardino County
 ocd-division/country:us/state:ca/county:san_diego,San Diego County
+ocd-division/country:us/state:ca/county:san_francisco,San Francisco County (and city)
 ocd-division/country:us/state:ca/county:san_joaquin,San Joaquin County
 ocd-division/country:us/state:ca/county:san_luis_obispo,San Luis Obispo County
 ocd-division/country:us/state:ca/county:san_mateo,San Mateo County
@@ -423,7 +424,6 @@ ocd-division/country:us/state:ca/place:san_clemente,San Clemente city
 ocd-division/country:us/state:ca/place:san_diego,San Diego city
 ocd-division/country:us/state:ca/place:san_dimas,San Dimas city
 ocd-division/country:us/state:ca/place:san_fernando,San Fernando city
-ocd-division/country:us/state:ca/place:san_francisco,San Francisco city
 ocd-division/country:us/state:ca/place:san_gabriel,San Gabriel city
 ocd-division/country:us/state:ca/place:san_jacinto,San Jacinto city
 ocd-division/country:us/state:ca/place:san_joaquin,San Joaquin city

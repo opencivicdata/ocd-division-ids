@@ -7,6 +7,7 @@ ocd-division/country:us/state:ma/county:franklin,Franklin County
 ocd-division/country:us/state:ma/county:hampden,Hampden County
 ocd-division/country:us/state:ma/county:hampshire,Hampshire County
 ocd-division/country:us/state:ma/county:middlesex,Middlesex County
+ocd-division/country:us/state:ma/county:nantucket,Nantucket County (and town)
 ocd-division/country:us/state:ma/county:norfolk,Norfolk County
 ocd-division/country:us/state:ma/county:plymouth,Plymouth County
 ocd-division/country:us/state:ma/county:suffolk,Suffolk County
@@ -207,7 +208,6 @@ ocd-division/country:us/state:ma/place:monterey,Monterey town
 ocd-division/country:us/state:ma/place:montgomery,Montgomery town
 ocd-division/country:us/state:ma/place:mount_washington,Mount Washington town
 ocd-division/country:us/state:ma/place:nahant,Nahant town
-ocd-division/country:us/state:ma/place:nantucket,Nantucket town
 ocd-division/country:us/state:ma/place:natick,Natick town
 ocd-division/country:us/state:ma/place:needham,Needham town
 ocd-division/country:us/state:ma/place:new_ashford,New Ashford town
