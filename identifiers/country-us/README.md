@@ -19,18 +19,6 @@ With that in mind, below are some interesting OCD Identifiers that might not see
 * The residents of independent cities of Virignia do not have counties
 	* **Important**: Some independent cities have the same name as counties. Care must be taken
 * Similarly Maryland, Missouri and Nevada each has one independent city
-* Relatedly, the following are [consolidated city-counties](https://en.wikipedia.org/wiki/Consolidated_city-county) with coterminous boundaries. Only one identifier (usually the place: identifier) is included in the canonical list to avoid confusion. To further help users, an exceptions file
-	* Anchorage, AK (for conflicts in Alaska, the borough: indentifier was kept)
-	* Juneau, AK
-	* Sitka, AK
-	* Wrangell, AK
-	* San Francisco, CA
-	* Broomfield, CO
-	* Denver, CO
-	* Lexington, KY (county:fayette removed)
-	* New Orleans, LA
-	* Nantucket, MA
-	* **Not** on this list: Philadelphia, PA is not on this list because the county and city play different roles in governance. This list may is likely to fluctuate. See the exceptions file for the updated list.
 	
 ##place
 * Drop "city", "township", "borough" (etc) from the name of a place type unless the word city is in the census’s [place gazetteer file](http://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_places_national.zip). Two examples:
@@ -38,6 +26,29 @@ With that in mind, below are some interesting OCD Identifiers that might not see
 	* ocd-division/country:us/state:mo/place:[jennings](http://en.wikipedia.org/wiki/Jennings,_MO)
 * Sometimes, for disambiguity, place reisdes under county. Example:
 	* ocd-division/country:us/state:pa/county:adams/place:liberty
+* The following are [consolidated city-counties](https://en.wikipedia.org/wiki/Consolidated_city-county) with coterminous boundaries. Only one identifier (the county: identifier) is included in the canonical list to avoid confusion. To further help users, an exceptions file
+	* Anchorage, AK (for conflicts in Alaska, the borough: indentifier was kept)
+	* Juneau, AK
+	* Sitka, AK
+	* Wrangell, AK
+	* San Francisco, CA
+	* Broomfield, CO
+	* Denver, CO
+	* Columbus, GA (Muscogee County)
+	* Lexington, KY (Fayette County)
+	* New Orleans, LA
+	* Nantucket, MA
+	* Anaconda, MT (Silver Bow County)
+	* Lynchburg, TN (Moore County)
+	* **Not** on this list: Cusetta, GA is not coterminous with its county despite having the same government
+	* **Not** on this list: Georgetown, GA is not coterminous with its county despite having the same government
+	* **Not** on this list: Philadelphia, PA is not on this list because the county and city play different roles in governance.
+	* **Not** on this list: Butte-Silver Bow County, MT is not on this list because they are not coterminous. The census-recognized town of [Walkerville](https://en.wikipedia.org/wiki/Walkerville,_Montana) is also in the county
+* The exceptions file has three fields in the following order:
+	* Non-canonical identifier (i.e., the one you should **not** use)
+	* Associated canonical identifier -- use this one
+	* Note for why this association exists
+
 	
 ##cd
 
