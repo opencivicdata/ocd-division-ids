@@ -4,12 +4,12 @@ This page details some of the quirks of poltical division in the United States a
 
 There is only one rule about U.S. political geography: “There are no hard and fast rules regarding U.S. political geography.” (h/t Jonathan Tomer)
 
-With that in mind, below are some interesting OCD Identifiers that might not seem obvious at first. Also, a Google-spreadsheet-based [validator](https://docs.google.com/spreadsheet/ccc?key=0ApxTEufS6-DndE16N0J3d19zUHVMOVFsYU9vRHF3S2c&usp=sharing) for identifiers that you are unsure about; it also provides suggestions for unmatched identifiers.
+With that in mind, below are some interesting OCD Identifiers that might not seem obvious at first. Also, a Google-spreadsheet-based [validator](https://docs.google.com/spreadsheet/ccc?key=0ApxTEufS6-DndE16N0J3d19zUHVMOVFsYU9vRHF3S2c&usp=sharing) is available to check all of your identifiers (especially for those you are unsure about); the spreadsheet also provides suggestions for unmatched identifiers.
 
 ##state
 
 * The District of Columbia is: cd-division/country:us/district:dc
-* Territories also are included.
+* Territories also are included:
 	* Example (American Samoa): ocd-division/country:us/territory:as
 
 ##county
