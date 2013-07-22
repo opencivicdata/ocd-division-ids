@@ -66,7 +66,8 @@ ocd-division/country:us/state:va/county:williamsburg,ocd-division/country:us/sta
 ocd-division/country:us/state:va/county:winchester,ocd-division/country:us/state:va/place:winchester,indepdent city of VA--not a county
 ocd-division/country:us/state:md/county:baltimore_city,ocd-division/country:us/state:md/place:baltimore,indepdent city of MD--not a county
 ocd-division/country:us/state:nv/county:carson_city,ocd-division/country:us/state:nv/place:carson_city,indepdent city of NV--not a county
-ocd-division/country:us/state:mo/county:st_louis,ocd-division/country:us/state:mo/place:st_louis,indepdent city of MO--not a county
+ocd-division/country:us/state:mo/county:st_louis_city,ocd-division/country:us/state:mo/place:st_louis,not to be confused with st louis city
+ocd-division/country:us/state:mo/county:st_louis_county,ocd-division/country:us/state:mo/county:st_louis,not to be confused with st louis city
 ocd-division/country:us/state:ak/cd:1,ocd-division/country:us/state:ak,at-large congressional district
 ocd-division/country:us/state:de/cd:1,ocd-division/country:us/state:de,at-large congressional district
 ocd-division/country:us/state:mt/cd:1,ocd-division/country:us/state:mt,at-large congressional district
