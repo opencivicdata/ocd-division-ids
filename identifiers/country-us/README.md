@@ -26,8 +26,8 @@ With that in mind, below are some interesting OCD Identifiers that might not see
 	* ocd-division/country:us/state:mo/place:[jennings](http://en.wikipedia.org/wiki/Jennings,_MO)
 * Sometimes, for disambiguity, place reisdes under county. Example:
 	* ocd-division/country:us/state:pa/county:adams/place:liberty
-* The following are [consolidated city-counties](https://en.wikipedia.org/wiki/Consolidated_city-county) with coterminous boundaries. Only one identifier (the county: identifier) is included in the canonical list to avoid confusion. To further help users, an exceptions file
-	* Anchorage, AK (for conflicts in Alaska, the borough: indentifier was kept)
+* The following are [consolidated city-counties](https://en.wikipedia.org/wiki/Consolidated_city-county) with coterminous boundaries. Only one identifier (the county: identifier) is included in the canonical list to avoid confusion. To further help users, an [exceptions file](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/README.md) lists all of the identifiers that one might expect to exist, but do not.
+	* Anchorage, AK
 	* Juneau, AK
 	* Sitka, AK
 	* Wrangell, AK
@@ -44,7 +44,7 @@ With that in mind, below are some interesting OCD Identifiers that might not see
 	* **Not** on this list: Georgetown, GA is not coterminous with its county despite having the same government
 	* **Not** on this list: Philadelphia, PA is not on this list because the county and city play different roles in governance.
 	* **Not** on this list: Butte-Silver Bow County, MT is not on this list because they are not coterminous. The census-recognized town of [Walkerville](https://en.wikipedia.org/wiki/Walkerville,_Montana) is also in the county
-* The exceptions file has three fields in the following order:
+* The [exceptions file](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/README.md), which is a superset of the above list, has three fields in the following order:
 	* Non-canonical identifier (i.e., the one you should **not** use)
 	* Associated canonical identifier -- use this one
 	* Note for why this association exists
@@ -53,6 +53,7 @@ With that in mind, below are some interesting OCD Identifiers that might not see
 ##cd
 
 * At-large congressional districts (AK, DE, MT, ND, SD, VT, WY) do not have division identifiers because they are coterminous with the state.
+* The [exceptions file](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/README.md) includes this idiosyncracy of U.S. congressional districts.
 
 ##sldl (State Legislature distict -- lower)
 * Remember to keep all letter lowercase. Example:
@@ -71,7 +72,7 @@ With that in mind, below are some interesting OCD Identifiers that might not see
 
 ##ward
 * Sometimes wards (and council_districts) will be labeled using roman numerals (i, ii, iii, iv, etc). These are converted to arabic numerals (1, 2, 3, 4, etc).
-	* These transformations are also in the exceptions file
+	* These transformations are also in the [exceptions file](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/README.md)
 
 ##region
 * The Oregon Metro council is in the repository:
