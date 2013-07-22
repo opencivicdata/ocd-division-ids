@@ -16,12 +16,15 @@ ocd-division/country:us/state:ak/place:anchorage,ocd-division/country:us/state:a
 ocd-division/country:us/state:ak/place:juneau,ocd-division/country:us/state:ak/borough:juneau,city-borough coterminous and colosidated gov
 ocd-division/country:us/state:ak/place:sitka,ocd-division/country:us/state:ak/borough:sitka,city-borough coterminous and colosidated gov
 ocd-division/country:us/state:ak/place:wrangell,ocd-division/country:us/state:ak/borough:wrangell,Wrangell city and borough
-ocd-division/country:us/state:ca/county:san_francisco,ocd-division/country:us/state:ca/place:san_francisco,city-county coterminous and colosidated gov
-ocd-division/country:us/state:co/county:broomfield,ocd-division/country:us/state:co/place:broomfield,city-county coterminous and colosidated gov
-ocd-division/country:us/state:co/county:denver,ocd-division/country:us/state:co/place:denver,city-county coterminous and colosidated gov
-ocd-division/country:us/state:ky/county:fayette,ocd-division/country:us/state:ky/place:lexington,city-county coterminous and colosidated gov
-ocd-division/country:us/state:la/parish:orleans,ocd-division/country:us/state:la/place:new_orleans,city-parish coterminous and colosidated gov
-ocd-division/country:us/state:ma/county:nantucket,ocd-division/country:us/state:ma/place:nantucket,city-county coterminous and colosidated gov
+ocd-division/country:us/state:ca/place:san_francisco,ocd-division/country:us/state:ca/county:san_francisco,city-county coterminous and colosidated gov
+ocd-division/country:us/state:co/place:broomfield,ocd-division/country:us/state:co/county:broomfield,city-county coterminous and colosidated gov
+ocd-division/country:us/state:co/place:denver,ocd-division/country:us/state:co/county:denver,city-county coterminous and colosidated gov
+ocd-division/country:us/state:ky/place:lexington,ocd-division/country:us/state:ky/county:fayette,city-county coterminous and colosidated gov
+ocd-division/country:us/state:la/place:new_orleans,ocd-division/country:us/state:la/parish:orleans,city-parish coterminous and colosidated gov
+ocd-division/country:us/state:ma/place:nantucket,ocd-division/country:us/state:ma/county:nantucket,city-county coterminous and colosidated gov
+ocd-division/country:us/state:mt/place:anaconda,ocd-division/country:us/state:mt/county:deer_lodge,city-county coterminous and colosidated gov
+ocd-division/country:us/state:ga/place:columbus,ocd-division/country:us/state:ga/county:muscogee,city-county coterminous and colosidated gov
+ocd-division/country:us/state:tn/place:lynchburg,ocd-division/country:us/state:tn/county:moore,city-county coterminous and colosidated gov
 ocd-division/country:us/state:va/county:alexandria,ocd-division/country:us/state:va/place:alexandria,indepdent city of VA--not a county
 ocd-division/country:us/state:va/county:bedford_city,ocd-division/country:us/state:va/place:bedford,indepdent city of VA--not a county
 ocd-division/country:us/state:va/county:bristol,ocd-division/country:us/state:va/place:bristol,indepdent city of VA--not a county
