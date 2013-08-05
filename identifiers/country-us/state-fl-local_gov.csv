@@ -65,3 +65,135 @@ ocd-division/country:us/state:fl/place:orlando/council_district:3,Orlando FL Cit
 ocd-division/country:us/state:fl/place:orlando/council_district:4,Orlando FL City Council district 4
 ocd-division/country:us/state:fl/place:orlando/council_district:5,Orlando FL City Council district 5
 ocd-division/country:us/state:fl/place:orlando/council_district:6,Orlando FL City Council district 6
+ocd-division/country:us/state:fl/county:brevard/council_district:1,Brevard County FL Commissioner District 1
+ocd-division/country:us/state:fl/county:brevard/council_district:2,Brevard County FL Commissioner District 2
+ocd-division/country:us/state:fl/county:brevard/council_district:3,Brevard County FL Commissioner District 3
+ocd-division/country:us/state:fl/county:brevard/council_district:4,Brevard County FL Commissioner District 4
+ocd-division/country:us/state:fl/county:brevard/council_district:5,Brevard County FL Commissioner District 5
+ocd-division/country:us/state:fl/county:broward/council_district:1,Broward County FL County Commission District 1
+ocd-division/country:us/state:fl/county:broward/council_district:2,Broward County FL County Commission District 2
+ocd-division/country:us/state:fl/county:broward/council_district:3,Broward County FL County Commission District 3
+ocd-division/country:us/state:fl/county:broward/council_district:4,Broward County FL County Commission District 4
+ocd-division/country:us/state:fl/county:broward/council_district:5,Broward County FL County Commission District 5
+ocd-division/country:us/state:fl/county:broward/council_district:6,Broward County FL County Commission District 6
+ocd-division/country:us/state:fl/county:broward/council_district:7,Broward County FL County Commission District 7
+ocd-division/country:us/state:fl/county:broward/council_district:8,Broward County FL County Commission District 8
+ocd-division/country:us/state:fl/county:broward/council_district:9,Broward County FL County Commission District 9
+ocd-division/country:us/state:fl/county:collier/council_district:1,Collier County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:collier/council_district:2,Collier County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:collier/council_district:3,Collier County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:collier/council_district:4,Collier County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:collier/council_district:5,Collier County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:duval/council_district:1,Duval County FL County-City Council District 1
+ocd-division/country:us/state:fl/county:duval/council_district:10,Duval County FL County-City Council District 10
+ocd-division/country:us/state:fl/county:duval/council_district:11,Duval County FL County-City Council District 11
+ocd-division/country:us/state:fl/county:duval/council_district:12,Duval County FL County-City Council District 12
+ocd-division/country:us/state:fl/county:duval/council_district:13,Duval County FL County-City Council District 13
+ocd-division/country:us/state:fl/county:duval/council_district:14,Duval County FL County-City Council District 14
+ocd-division/country:us/state:fl/county:duval/council_district:2,Duval County FL County-City Council District 2
+ocd-division/country:us/state:fl/county:duval/council_district:3,Duval County FL County-City Council District 3
+ocd-division/country:us/state:fl/county:duval/council_district:4,Duval County FL County-City Council District 4
+ocd-division/country:us/state:fl/county:duval/council_district:5,Duval County FL County-City Council District 5
+ocd-division/country:us/state:fl/county:duval/council_district:6,Duval County FL County-City Council District 6
+ocd-division/country:us/state:fl/county:duval/council_district:7,Duval County FL County-City Council District 7
+ocd-division/country:us/state:fl/county:duval/council_district:8,Duval County FL County-City Council District 8
+ocd-division/country:us/state:fl/county:duval/council_district:9,Duval County FL County-City Council District 9
+ocd-division/country:us/state:fl/county:escambia/council_district:1,Escambia County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:escambia/council_district:2,Escambia County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:escambia/council_district:3,Escambia County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:escambia/council_district:4,Escambia County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:escambia/council_district:5,Escambia County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:highlands/council_district:1,Highlands County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:highlands/council_district:2,Highlands County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:highlands/council_district:3,Highlands County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:highlands/council_district:4,Highlands County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:highlands/council_district:5,Highlands County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:hillsborough/council_district:1,Hillsborough County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:hillsborough/council_district:2,Hillsborough County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:hillsborough/council_district:3,Hillsborough County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:hillsborough/council_district:4,Hillsborough County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:lake/council_district:1,Lake County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:lake/council_district:2,Lake County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:lake/council_district:3,Lake County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:lake/council_district:4,Lake County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:lake/council_district:5,Lake County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:lee/council_district:1,Lee County FL Commissioner District 1
+ocd-division/country:us/state:fl/county:lee/council_district:2,Lee County FL Commissioner District 2
+ocd-division/country:us/state:fl/county:lee/council_district:3,Lee County FL Commissioner District 3
+ocd-division/country:us/state:fl/county:lee/council_district:4,Lee County FL Commissioner District 4
+ocd-division/country:us/state:fl/county:lee/council_district:5,Lee County FL Commissioner District 5
+ocd-division/country:us/state:fl/county:leon/council_district:1,Leon County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:leon/council_district:2,Leon County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:leon/council_district:3,Leon County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:leon/council_district:4,Leon County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:leon/council_district:5,Leon County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:manatee/council_district:1,Manatee County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:manatee/council_district:2,Manatee County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:manatee/council_district:3,Manatee County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:manatee/council_district:4,Manatee County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:manatee/council_district:5,Manatee County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:marion/council_district:1,Marion County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:marion/council_district:2,Marion County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:marion/council_district:3,Marion County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:marion/council_district:4,Marion County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:marion/council_district:5,Marion County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:okaloosa/council_district:1,Okaloosa County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:okaloosa/council_district:2,Okaloosa County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:okaloosa/council_district:3,Okaloosa County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:okaloosa/council_district:4,Okaloosa County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:okaloosa/council_district:5,Okaloosa County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:orange/council_district:1,Orange County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:orange/council_district:2,Orange County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:orange/council_district:3,Orange County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:orange/council_district:4,Orange County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:orange/council_district:5,Orange County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:orange/council_district:6,Orange County FL Board of County Commissioners District 6
+ocd-division/country:us/state:fl/county:osceola/council_district:1,Osceola County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:osceola/council_district:2,Osceola County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:osceola/council_district:3,Osceola County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:osceola/council_district:4,Osceola County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:osceola/council_district:5,Osceola County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:palm_beach/council_district:1,Palm Beach County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:palm_beach/council_district:2,Palm Beach County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:palm_beach/council_district:3,Palm Beach County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:palm_beach/council_district:4,Palm Beach County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:palm_beach/council_district:5,Palm Beach County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:palm_beach/council_district:6,Palm Beach County FL Board of County Commissioners District 6
+ocd-division/country:us/state:fl/county:palm_beach/council_district:7,Palm Beach County FL Board of County Commissioners District 7
+ocd-division/country:us/state:fl/county:pasco/council_district:1,Pasco County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:pasco/council_district:2,Pasco County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:pasco/council_district:3,Pasco County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:pasco/council_district:4,Pasco County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:pasco/council_district:5,Pasco County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:pinellas/council_district:1,Pinellas County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:pinellas/council_district:2,Pinellas County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:pinellas/council_district:3,Pinellas County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:pinellas/council_district:4,Pinellas County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:pinellas/council_district:5,Pinellas County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:pinellas/council_district:6,Pinellas County FL Board of County Commissioners District 6
+ocd-division/country:us/state:fl/county:pinellas/council_district:7,Pinellas County FL Board of County Commissioners District 7
+ocd-division/country:us/state:fl/county:polk/council_district:1,Polk County FL Commissioner District 1
+ocd-division/country:us/state:fl/county:polk/council_district:2,Polk County FL Commissioner District 2
+ocd-division/country:us/state:fl/county:polk/council_district:3,Polk County FL Commissioner District 3
+ocd-division/country:us/state:fl/county:polk/council_district:4,Polk County FL Commissioner District 4
+ocd-division/country:us/state:fl/county:polk/council_district:5,Polk County FL Commissioner District 5
+ocd-division/country:us/state:fl/county:sarasota/council_district:1,Sarasota County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:sarasota/council_district:2,Sarasota County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:sarasota/council_district:3,Sarasota County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:sarasota/council_district:4,Sarasota County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:sarasota/council_district:5,Sarasota County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:seminole/council_district:1,Seminole County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:seminole/council_district:2,Seminole County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:seminole/council_district:3,Seminole County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:seminole/council_district:4,Seminole County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:seminole/council_district:5,Seminole County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:st_johns/council_district:1,St Johns County FL Board of County Commissioners District 1
+ocd-division/country:us/state:fl/county:st_johns/council_district:2,St Johns County FL Board of County Commissioners District 2
+ocd-division/country:us/state:fl/county:st_johns/council_district:3,St Johns County FL Board of County Commissioners District 3
+ocd-division/country:us/state:fl/county:st_johns/council_district:4,St Johns County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:st_johns/council_district:5,St Johns County FL Board of County Commissioners District 5
+ocd-division/country:us/state:fl/county:volusia/council_district:1,Volusia County FL County Council District 1
+ocd-division/country:us/state:fl/county:volusia/council_district:2,Volusia County FL County Council District 2
+ocd-division/country:us/state:fl/county:volusia/council_district:3,Volusia County FL County Council District 3
+ocd-division/country:us/state:fl/county:volusia/council_district:4,Volusia County FL County Council District 4
+ocd-division/country:us/state:fl/county:volusia/council_district:5,Volusia County FL County Council District 5
