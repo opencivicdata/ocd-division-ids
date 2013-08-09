@@ -88,4 +88,10 @@ ocd-division/country:us/state:nj/place:west_paterson,ocd-division/country:us/sta
 ocd-division/country:us/state:pa/place:osborne,ocd-division/country:us/state:pa/place:glen_osborne,Osborne PA is now Glen Osborne PA
 ocd-division/country:us/state:tx/place:spring_valley,ocd-division/country:us/state:tx/place:spring_valley_village,Spring Valley TX is officially Spring Valley Village TX
 ocd-division/country:us/state:wy/place:grand_encampment,ocd-division/country:us/state:wy/place:encampment,Grand Encampment WY is officially Encampment WY
+ocd-division/country:us/state:as,ocd-division/country:us/territory:as,American Samoa is a territory
+ocd-division/country:us/state:dc,ocd-division/country:us/district:dc,DC is a district not a state
+ocd-division/country:us/state:gu,ocd-division/country:us/territory:gu,Guam is a terrritory
+ocd-division/country:us/state:mp,ocd-division/country:us/territory:mp,Northern Mariana Islands is a territory
+ocd-division/country:us/state:pr,ocd-division/country:us/territory:pr,Puerto Rico is a territory
+ocd-division/country:us/state:vi,ocd-division/country:us/territory:vi,Virgin Islands is a territory
 
