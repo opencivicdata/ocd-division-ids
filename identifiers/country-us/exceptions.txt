@@ -1,77 +1,78 @@
-ocd-division/country:us/state:co/place:aurora/ward:i,ocd-division/country:us/state:co/place:aurora/ward:1,roman/arabic conversion
-ocd-division/country:us/state:co/place:aurora/ward:ii,ocd-division/country:us/state:co/place:aurora/ward:2,roman/arabic conversion
-ocd-division/country:us/state:co/place:aurora/ward:iii,ocd-division/country:us/state:co/place:aurora/ward:3,roman/arabic conversion
-ocd-division/country:us/state:co/place:aurora/ward:iv,ocd-division/country:us/state:co/place:aurora/ward:4,roman/arabic conversion
-ocd-division/country:us/state:co/place:aurora/ward:v,ocd-division/country:us/state:co/place:aurora/ward:5,roman/arabic conversion
-ocd-division/country:us/state:co/place:aurora/ward:vi,ocd-division/country:us/state:co/place:aurora/ward:6,roman/arabic conversion
-ocd-division/country:us/state:nv/place:henderson/ward:i,ocd-division/country:us/state:nv/place:henderson/ward:1,roman/arabic conversion
-ocd-division/country:us/state:nv/place:henderson/ward:ii,ocd-division/country:us/state:nv/place:henderson/ward:2,roman/arabic conversion
-ocd-division/country:us/state:nv/place:henderson/ward:iii,ocd-division/country:us/state:nv/place:henderson/ward:3,roman/arabic conversion
-ocd-division/country:us/state:nv/place:henderson/ward:iv,ocd-division/country:us/state:nv/place:henderson/ward:4,roman/arabic conversion
-ocd-division/country:us/state:wi/court_of_appeals:i,ocd-division/country:us/state:wi/court_of_appeals:1,roman/arabic conversion
-ocd-division/country:us/state:wi/court_of_appeals:ii,ocd-division/country:us/state:wi/court_of_appeals:2,roman/arabic conversion
-ocd-division/country:us/state:wi/court_of_appeals:iii,ocd-division/country:us/state:wi/court_of_appeals:3,roman/arabic conversion
-ocd-division/country:us/state:wi/court_of_appeals:iv,ocd-division/country:us/state:wi/court_of_appeals:4,roman/arabic conversion
-ocd-division/country:us/state:ak/place:anchorage,ocd-division/country:us/state:ak/borough:anchorage,city-borough coterminous and colosidated gov
-ocd-division/country:us/state:ak/place:juneau,ocd-division/country:us/state:ak/borough:juneau,city-borough coterminous and colosidated gov
-ocd-division/country:us/state:ak/place:sitka,ocd-division/country:us/state:ak/borough:sitka,city-borough coterminous and colosidated gov
-ocd-division/country:us/state:ak/place:wrangell,ocd-division/country:us/state:ak/borough:wrangell,Wrangell city and borough
-ocd-division/country:us/state:ca/place:san_francisco,ocd-division/country:us/state:ca/county:san_francisco,city-county coterminous and colosidated gov
-ocd-division/country:us/state:co/place:broomfield,ocd-division/country:us/state:co/county:broomfield,city-county coterminous and colosidated gov
-ocd-division/country:us/state:co/place:denver,ocd-division/country:us/state:co/county:denver,city-county coterminous and colosidated gov
-ocd-division/country:us/state:ky/place:lexington,ocd-division/country:us/state:ky/county:fayette,city-county coterminous and colosidated gov
-ocd-division/country:us/state:la/place:new_orleans,ocd-division/country:us/state:la/parish:orleans,city-parish coterminous and colosidated gov
-ocd-division/country:us/state:ma/place:nantucket,ocd-division/country:us/state:ma/county:nantucket,city-county coterminous and colosidated gov
-ocd-division/country:us/state:mt/place:anaconda,ocd-division/country:us/state:mt/county:deer_lodge,city-county coterminous and colosidated gov
-ocd-division/country:us/state:ga/place:columbus,ocd-division/country:us/state:ga/county:muscogee,city-county coterminous and colosidated gov
-ocd-division/country:us/state:tn/place:lynchburg,ocd-division/country:us/state:tn/county:moore,city-county coterminous and colosidated gov
-ocd-division/country:us/state:va/county:alexandria,ocd-division/country:us/state:va/place:alexandria,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:bedford_city,ocd-division/country:us/state:va/place:bedford,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:bristol,ocd-division/country:us/state:va/place:bristol,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:buena_vista,ocd-division/country:us/state:va/place:buena_vista,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:charlottesville,ocd-division/country:us/state:va/place:charlottesville,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:chesapeake,ocd-division/country:us/state:va/place:chesapeake,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:colonial_heights,ocd-division/country:us/state:va/place:colonial_heights,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:covington,ocd-division/country:us/state:va/place:covington,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:danville,ocd-division/country:us/state:va/place:danville,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:emporia,ocd-division/country:us/state:va/place:emporia,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:fairfax_city,ocd-division/country:us/state:va/place:fairfax,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:falls_church,ocd-division/country:us/state:va/place:falls_church,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:franklin_city,ocd-division/country:us/state:va/place:franklin,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:fredericksburg,ocd-division/country:us/state:va/place:fredericksburg,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:galax,ocd-division/country:us/state:va/place:galax,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:hampton,ocd-division/country:us/state:va/place:hampton,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:harrisonburg,ocd-division/country:us/state:va/place:harrisonburg,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:hopewell,ocd-division/country:us/state:va/place:hopewell,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:lexington,ocd-division/country:us/state:va/place:lexington,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:lynchburg,ocd-division/country:us/state:va/place:lynchburg,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:manassas,ocd-division/country:us/state:va/place:manassas,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:manassas_park,ocd-division/country:us/state:va/place:manassas_park,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:martinsville,ocd-division/country:us/state:va/place:martinsville,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:newport_news,ocd-division/country:us/state:va/place:newport_news,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:norfolk,ocd-division/country:us/state:va/place:norfolk,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:norton,ocd-division/country:us/state:va/place:norton,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:petersburg,ocd-division/country:us/state:va/place:petersburg,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:poquoson,ocd-division/country:us/state:va/place:poquoson,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:portsmouth,ocd-division/country:us/state:va/place:portsmouth,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:radford,ocd-division/country:us/state:va/place:radford,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:richmond_city,ocd-division/country:us/state:va/place:richmond,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:roanoke_city,ocd-division/country:us/state:va/place:roanoke,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:salem,ocd-division/country:us/state:va/place:salem,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:staunton,ocd-division/country:us/state:va/place:staunton,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:suffolk,ocd-division/country:us/state:va/place:suffolk,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:virginia_beach,ocd-division/country:us/state:va/place:virginia_beach,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:waynesboro,ocd-division/country:us/state:va/place:waynesboro,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:williamsburg,ocd-division/country:us/state:va/place:williamsburg,indepdent city of VA--not a county
-ocd-division/country:us/state:va/county:winchester,ocd-division/country:us/state:va/place:winchester,indepdent city of VA--not a county
-ocd-division/country:us/state:md/county:baltimore_city,ocd-division/country:us/state:md/place:baltimore,indepdent city of MD--not a county
-ocd-division/country:us/state:nv/county:carson_city,ocd-division/country:us/state:nv/place:carson_city,indepdent city of NV--not a county
-ocd-division/country:us/state:mo/county:st_louis_city,ocd-division/country:us/state:mo/place:st_louis,not to be confused with st louis city
-ocd-division/country:us/state:mo/county:st_louis_county,ocd-division/country:us/state:mo/county:st_louis,not to be confused with st louis city
-ocd-division/country:us/state:ak/cd:1,ocd-division/country:us/state:ak,at-large congressional district
-ocd-division/country:us/state:de/cd:1,ocd-division/country:us/state:de,at-large congressional district
-ocd-division/country:us/state:mt/cd:1,ocd-division/country:us/state:mt,at-large congressional district
-ocd-division/country:us/state:nd/cd:1,ocd-division/country:us/state:nd,at-large congressional district
-ocd-division/country:us/state:sd/cd:1,ocd-division/country:us/state:sd,at-large congressional district
-ocd-division/country:us/state:vt/cd:1,ocd-division/country:us/state:vt,at-large congressional district
-ocd-division/country:us/state:wy/cd:1,ocd-division/country:us/state:wy,at-large congressional district
+ocd-division/country:us/state:co/place:aurora/ward:i,ocd-division/country:us/state:co/place:aurora/ward:1,Aurora CO Ward 1 -- roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:ii,ocd-division/country:us/state:co/place:aurora/ward:2,Aurora CO Ward 2 -- roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:iii,ocd-division/country:us/state:co/place:aurora/ward:3,Aurora CO Ward 3 -- roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:iv,ocd-division/country:us/state:co/place:aurora/ward:4,Aurora CO Ward 4 -- roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:v,ocd-division/country:us/state:co/place:aurora/ward:5,Aurora CO Ward 5 -- roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:vi,ocd-division/country:us/state:co/place:aurora/ward:6,Aurora CO Ward 6 -- roman/arabic conversion
+ocd-division/country:us/state:nv/place:henderson/ward:i,ocd-division/country:us/state:nv/place:henderson/ward:1,Henderson NV Ward 1 -- roman/arabic conversion
+ocd-division/country:us/state:nv/place:henderson/ward:ii,ocd-division/country:us/state:nv/place:henderson/ward:2,Henderson NV Ward 2 -- roman/arabic conversion
+ocd-division/country:us/state:nv/place:henderson/ward:iii,ocd-division/country:us/state:nv/place:henderson/ward:3,Henderson NV Ward 3 -- roman/arabic conversion
+ocd-division/country:us/state:nv/place:henderson/ward:iv,ocd-division/country:us/state:nv/place:henderson/ward:4,Henderson NV Ward 4 -- roman/arabic conversion
+ocd-division/country:us/state:wi/court_of_appeals:i,ocd-division/country:us/state:wi/court_of_appeals:1,WI court of appeals district 1 -- roman/arabic conversion
+ocd-division/country:us/state:wi/court_of_appeals:ii,ocd-division/country:us/state:wi/court_of_appeals:2,WI court of appeals district 2 -- roman/arabic conversion
+ocd-division/country:us/state:wi/court_of_appeals:iii,ocd-division/country:us/state:wi/court_of_appeals:3,WI court of appeals district 3 -- roman/arabic conversion
+ocd-division/country:us/state:wi/court_of_appeals:iv,ocd-division/country:us/state:wi/court_of_appeals:4,WI court of appeals district 4 -- roman/arabic conversion
+ocd-division/country:us/state:ak/place:anchorage,ocd-division/country:us/state:ak/borough:anchorage,City-borough of Anchorage AK -- coterminous and colosidated gov
+ocd-division/country:us/state:ak/place:juneau,ocd-division/country:us/state:ak/borough:juneau,City-borough of Juneau AK -- coterminous and colosidated gov
+ocd-division/country:us/state:ak/place:sitka,ocd-division/country:us/state:ak/borough:sitka,City-borough of Sitka AK -- coterminous and colosidated gov
+ocd-division/country:us/state:ak/place:wrangell,ocd-division/country:us/state:ak/borough:wrangell,City-borough of Wrangell AK -- coterminous and colosidated gov
+ocd-division/country:us/state:ca/place:san_francisco,ocd-division/country:us/state:ca/county:san_francisco,City-county of San Francisco CA -- coterminous and colosidated gov
+ocd-division/country:us/state:co/place:broomfield,ocd-division/country:us/state:co/county:broomfield,City-county of Broomfield CO -- coterminous and colosidated gov
+ocd-division/country:us/state:co/place:denver,ocd-division/country:us/state:co/county:denver,City-county of Denver CO -- coterminous and colosidated gov
+ocd-division/country:us/state:ky/place:lexington,ocd-division/country:us/state:ky/county:fayette,Lexington-Fayette KY city-county -- coterminous and colosidated gov
+ocd-division/country:us/state:la/place:new_orleans,ocd-division/country:us/state:la/parish:orleans,(New) Orleans city-parish -- coterminous and colosidated gov
+ocd-division/country:us/state:ma/place:nantucket,ocd-division/country:us/state:ma/county:nantucket,Nantucket MA town-county -- coterminous and colosidated gov
+ocd-division/country:us/state:mt/place:anaconda,ocd-division/country:us/state:mt/county:deer_lodge,Anaconda-Deer Lodge city-county -- coterminous and colosidated gov
+ocd-division/country:us/state:ga/place:columbus,ocd-division/country:us/state:ga/county:muscogee,Columbus-Muscogee GA city-county -- coterminous and colosidated gov
+ocd-division/country:us/state:tn/place:lynchburg,ocd-division/country:us/state:tn/county:moore,Lynchburg-Moore city-county -- coterminous and colosidated gov
+ocd-division/country:us/state:va/county:alexandria,ocd-division/country:us/state:va/place:alexandria,Alexandria VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:bedford_city,ocd-division/country:us/state:va/place:bedford,Bedford VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:bristol,ocd-division/country:us/state:va/place:bristol,Bristol VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:buena_vista,ocd-division/country:us/state:va/place:buena_vista,Buena Vista VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:charlottesville,ocd-division/country:us/state:va/place:charlottesville,Charlottesvill VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:chesapeake,ocd-division/country:us/state:va/place:chesapeake,Chesapeake VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:colonial_heights,ocd-division/country:us/state:va/place:colonial_heights,Colonial Heights VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:covington,ocd-division/country:us/state:va/place:covington,Covington VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:danville,ocd-division/country:us/state:va/place:danville,Danville VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:emporia,ocd-division/country:us/state:va/place:emporia,Emporia VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:fairfax_city,ocd-division/country:us/state:va/place:fairfax,Fairfax VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:falls_church,ocd-division/country:us/state:va/place:falls_church,Falls Church VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:franklin_city,ocd-division/country:us/state:va/place:franklin,Franklin VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:fredericksburg,ocd-division/country:us/state:va/place:fredericksburg,Fredericksburg VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:galax,ocd-division/country:us/state:va/place:galax,Galax VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:hampton,ocd-division/country:us/state:va/place:hampton,Hampton VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:harrisonburg,ocd-division/country:us/state:va/place:harrisonburg,Harrisonburg VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:hopewell,ocd-division/country:us/state:va/place:hopewell,Hopewell VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:lexington,ocd-division/country:us/state:va/place:lexington,Lexington VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:lynchburg,ocd-division/country:us/state:va/place:lynchburg,Lynchburg VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:manassas,ocd-division/country:us/state:va/place:manassas,Manassas VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:manassas_park,ocd-division/country:us/state:va/place:manassas_park,Manassas Park VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:martinsville,ocd-division/country:us/state:va/place:martinsville,Martinsville VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:newport_news,ocd-division/country:us/state:va/place:newport_news,Newport News VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:norfolk,ocd-division/country:us/state:va/place:norfolk,Norfolk VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:norton,ocd-division/country:us/state:va/place:norton,Norton VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:petersburg,ocd-division/country:us/state:va/place:petersburg,Petersburg VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:poquoson,ocd-division/country:us/state:va/place:poquoson,Poquoson VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:portsmouth,ocd-division/country:us/state:va/place:portsmouth,Portsmouth VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:radford,ocd-division/country:us/state:va/place:radford,Radford VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:richmond_city,ocd-division/country:us/state:va/place:richmond,Richmond VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:roanoke_city,ocd-division/country:us/state:va/place:roanoke,Roanoke VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:salem,ocd-division/country:us/state:va/place:salem,Salem VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:staunton,ocd-division/country:us/state:va/place:staunton,Staunton VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:suffolk,ocd-division/country:us/state:va/place:suffolk,Suffolk VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:virginia_beach,ocd-division/country:us/state:va/place:virginia_beach,Virginia Beach VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:waynesboro,ocd-division/country:us/state:va/place:waynesboro,Waynesboro VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:williamsburg,ocd-division/country:us/state:va/place:williamsburg,Williamsburg VA -- indepdent city, not a county
+ocd-division/country:us/state:va/county:winchester,ocd-division/country:us/state:va/place:winchester,Winchester VA -- indepdent city, not a county
+ocd-division/country:us/state:md/county:baltimore_city,ocd-division/country:us/state:md/place:baltimore,Baltimore MD -- indepdent city, not a county
+ocd-division/country:us/state:nv/county:carson_city,ocd-division/country:us/state:nv/place:carson_city,Carson City NV -- indepdent city, not a county
+ocd-division/country:us/state:mo/county:st_louis_city,ocd-division/country:us/state:mo/place:st_louis,St Louis (City) MO is an independent city, not a county; do not confuse with St Louis County
+ocd-division/country:us/state:mo/county:st_louis_county,ocd-division/country:us/state:mo/county:st_louis,St Louis (County) MO is not to be confused with St Louis (city)
+ocd-division/country:us/state:ak/cd:1,ocd-division/country:us/state:ak,Alaska's at-large congressional district
+ocd-division/country:us/state:de/cd:1,ocd-division/country:us/state:de,Deleware's at-large congressional district
+ocd-division/country:us/state:mt/cd:1,ocd-division/country:us/state:mt,Montana's at-large congressional district
+ocd-division/country:us/state:nd/cd:1,ocd-division/country:us/state:nd,North Dakota's at-large congressional district
+ocd-division/country:us/state:sd/cd:1,ocd-division/country:us/state:sd,South Dakota's at-large congressional district
+ocd-division/country:us/state:vt/cd:1,ocd-division/country:us/state:vt,Vermont's at-large congressional district
+ocd-division/country:us/state:wy/cd:1,ocd-division/country:us/state:wy,Wyoming's at-large congressional district
+
