@@ -75,4 +75,17 @@ ocd-division/country:us/state:nd/cd:1,ocd-division/country:us/state:nd,North Dak
 ocd-division/country:us/state:sd/cd:1,ocd-division/country:us/state:sd,South Dakota's at-large congressional district
 ocd-division/country:us/state:vt/cd:1,ocd-division/country:us/state:vt,Vermont's at-large congressional district
 ocd-division/country:us/state:wy/cd:1,ocd-division/country:us/state:wy,Wyoming's at-large congressional district
+ocd-division/country:us/state:hi/place:honolulu,ocd-division/country:us/state:hi/county:honolulu,Honolulu HI city-county -- census does not recognize city
+ocd-division/country:us/state:ca/place:angels_camp,ocd-division/country:us/state:ca/place:angels,Angels Camp CA -- census considers Camp to be suffix
+ocd-division/country:us/state:al/place:mountainboro,ocd-division/country:us/state:al/place:boaz,Mountainboro AL is a neighborhood only -- used to be separate, now consolidated with Boaz
+ocd-division/country:us/state:fl/place:grant,ocd-division/country:us/state:fl/place:grant-valkaria,Grant FL is now part of Grant-Valkaria FL
+ocd-division/country:us/state:fl/place:valkaria,ocd-division/country:us/state:fl/place:grant-valkaria,Valkaria FL is now part of Grant-Valkaria FL
+ocd-division/country:us/state:ga/county:chattahoochee_hill_country,ocd-division/country:us/state:ga/place:chattahoochee_hills,The official name is Chattahoochee Hills GA
+ocd-division/country:us/state:mi/place:grosse_pointe_shores,ocd-division/country:us/state:mi/place:village_of_grosse_pointe_shores, The official name is Village of Grosse Point Shores MI
+ocd-division/country:us/state:mn/place:elko,ocd-division/country:us/state:mn/place:elko_new_market,Elko MN is now part of Elko New Market MN
+ocd-division/country:us/state:mn/place:new_market,ocd-division/country:us/state:mn/place:elko_new_market,New Market MN is now part of Elko New Market MN
+ocd-division/country:us/state:nj/place:west_paterson,ocd-division/country:us/state:nj/place:woodland_park,West Paterson NJ is now Woodland Park NJ
+ocd-division/country:us/state:pa/place:osborne,ocd-division/country:us/state:pa/place:glen_osborne,Osborne PA is now Glen Osborne PA
+ocd-division/country:us/state:tx/place:spring_valley,ocd-division/country:us/state:tx/place:spring_valley_village,Spring Valley TX is officially Spring Valley Village TX
+ocd-division/country:us/state:wy/place:grand_encampment,ocd-division/country:us/state:wy/place:encampment,Grand Encampment WY is officially Encampment WY
 
