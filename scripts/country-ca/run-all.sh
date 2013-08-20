@@ -20,6 +20,7 @@ $DIR/ca_on_electoral_districts.rb      names > $DIR/../../identifiers/country-ca
 $DIR/ca_pe_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-pe-electoral_districts.csv
 $DIR/ca_qc_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-qc-electoral_districts.csv
 $DIR/ca_sk_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-sk-electoral_districts.csv
+$DIR/ca_qc_montreal_arrondissements.rb names > $DIR/../../identifiers/country-ca/census_subdivision-montreal-arrondissements.csv
 
 $DIR/ca_census_divisions.rb            names-fr > $DIR/../../mappings/country-ca-fr/ca_census_divisions.csv
 $DIR/ca_census_subdivisions.rb         names-fr > $DIR/../../mappings/country-ca-fr/ca_census_subdivisions.csv

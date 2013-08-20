@@ -3,7 +3,7 @@
 
 require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 
-# Scrapes Alberta electoral district codes and names from altalis.com
+# Scrapes Quebec electoral district codes and names from electionsquebec.qc.ca
 
 class QC < Runner
   @csv_filename = "province-qc-electoral_districts.csv"
