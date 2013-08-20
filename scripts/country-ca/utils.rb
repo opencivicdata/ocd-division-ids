@@ -21,6 +21,10 @@ require "zip/zip"
 def output(fragment, identifier, content)
   prefix = "ocd-division/country:ca/#{fragment}"
 
+  # Convert double dashes.
+  identifier.gsub!('--', '—')
+  content.gsub!('--', '—')
+
   # Remove extra whitespace.
   identifier = identifier.to_s.gsub(/\p{Space}+/, " ").strip
 
@@ -188,15 +192,9 @@ class ShapefileRecord
 
   def sort_key
     if mappings.key?(:identifier)
-      Integer(identifier_without_leading_zeros) rescue self[:identifier]
+      Integer(identifier.to_s.sub(/\A0+/, "")) rescue identifier
     else
       name
     end
-  end
-
-private
-
-  def identifier_without_leading_zeros
-    self[:identifier].to_s.sub(/\A0+/, "")
   end
 end
