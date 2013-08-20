@@ -1,5 +1,6 @@
 source 'https://rubygems.org'
 gem 'dbf', '~> 2.0.3'
+gem 'faraday'
 gem 'lycopodium', '~> 0.0.2'
 gem 'nokogiri', '~> 1.5.9'
 gem 'rubyzip', '~> 0.9.9'
