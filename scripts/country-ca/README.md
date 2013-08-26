@@ -13,10 +13,11 @@
 * `ed`: electoral district
 * `cd`: census division
 * `csd`: census subdivision
+* `arrondissement`: borough in French jurisdiction
 
 ### Type IDs
 
-* MB, NL and SK use textual type IDs for electoral districts. All other jurisdictions use numeric type IDs.
+* At the provincial level, MB, NL and SK use textual type IDs for electoral districts. All other jurisdictions use numeric type IDs.
 
 ### Mappings
 
@@ -25,6 +26,7 @@
 * `country-ca-fr`: French names
 * `country-ca-sgc`: Standard Geographical Classification (SGC) codes
 * `country-ca-types`: Census subdivision types
+* `country-ca-urls`: Official website URLs
 
 ## Writing a scraper
 

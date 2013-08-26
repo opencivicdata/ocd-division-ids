@@ -42,7 +42,7 @@ class CensusDivisions < Runner
 
   def types
     each do |row|
-      output("csd:",
+      output("cd:",
         row["Geographic code"],
         row["Geographic type"])
     end
