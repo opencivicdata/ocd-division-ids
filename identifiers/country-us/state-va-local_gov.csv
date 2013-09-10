@@ -201,7 +201,7 @@ ocd-division/country:us/state:va/county:giles/council_district:central,Giles Cou
 ocd-division/country:us/state:va/county:giles/council_district:eastern,Giles County Board of Supervisors District Eastern
 ocd-division/country:us/state:va/county:giles/council_district:western,Giles County Board of Supervisors District Western
 ocd-division/country:us/state:va/county:gloucester/council_district:abingdon,Gloucester County Board of Supervisors District Abingdon
-ocd-division/country:us/state:va/county:gloucester/council_district:glouc,Gloucester County Board of Supervisors District Glouc. Pt.
+ocd-division/country:us/state:va/county:gloucester/council_district:gloucester_point,Gloucester County Board of Supervisors District Gloucester Point
 ocd-division/country:us/state:va/county:gloucester/council_district:petsworth,Gloucester County Board of Supervisors District Petsworth
 ocd-division/country:us/state:va/county:gloucester/council_district:ware,Gloucester County Board of Supervisors District Ware
 ocd-division/country:us/state:va/county:gloucester/council_district:york,Gloucester County Board of Supervisors District York
@@ -398,7 +398,7 @@ ocd-division/country:us/state:va/county:pulaski/council_district:robinson,Pulask
 ocd-division/country:us/state:va/county:rappahannock/council_district:hampton,Rappahannock County Board of Supervisors District Hampton
 ocd-division/country:us/state:va/county:rappahannock/council_district:jackson,Rappahannock County Board of Supervisors District Jackson
 ocd-division/country:us/state:va/county:rappahannock/council_district:piedmont,Rappahannock County Board of Supervisors District Piedmont
-ocd-division/country:us/state:va/county:rappahannock/council_district:stonewall,Rappahannock County Board of Supervisors District Stonewall-Hawthorne
+ocd-division/country:us/state:va/county:rappahannock/council_district:stonewall-hawthorne,Rappahannock County Board of Supervisors District Stonewall-Hawthorne
 ocd-division/country:us/state:va/county:rappahannock/council_district:wakefield,Rappahannock County Board of Supervisors District Wakefield
 ocd-division/country:us/state:va/county:richmond/council_district:1,Richmond County Board of Supervisors District 1
 ocd-division/country:us/state:va/county:richmond/council_district:2,Richmond County Board of Supervisors District 2
@@ -445,7 +445,7 @@ ocd-division/country:us/state:va/county:smyth/council_district:park,Smyth County
 ocd-division/country:us/state:va/county:smyth/council_district:royal_oak,Smyth County Board of Supervisors District Royal Oak
 ocd-division/country:us/state:va/county:smyth/council_district:rye_valley,Smyth County Board of Supervisors District Rye Valley
 ocd-division/country:us/state:va/county:smyth/council_district:saltville,Smyth County Board of Supervisors District Saltville
-ocd-division/country:us/state:va/county:southampton/council_district:berlin,Southampton County Board of Supervisors District Berlin-Ivor
+ocd-division/country:us/state:va/county:southampton/council_district:berlin-ivor,Southampton County Board of Supervisors District Berlin-Ivor
 ocd-division/country:us/state:va/county:southampton/council_district:boykins,Southampton County Board of Supervisors District Boykins
 ocd-division/country:us/state:va/county:southampton/council_district:capron,Southampton County Board of Supervisors District Capron
 ocd-division/country:us/state:va/county:southampton/council_district:drewryville,Southampton County Board of Supervisors District Drewryville
@@ -466,7 +466,7 @@ ocd-division/country:us/state:va/county:stafford/council_district:george_washing
 ocd-division/country:us/state:va/county:stafford/council_district:griffis-widewater,Stafford County Board of Supervisors District Griffis-Widewater
 ocd-division/country:us/state:va/county:stafford/council_district:hartwood,Stafford County Board of Supervisors District Hartwood
 ocd-division/country:us/state:va/county:stafford/council_district:rock_hill,Stafford County Board of Supervisors District Rock Hill
-ocd-division/country:us/state:va/county:surry/council_district:bacon,Surry County Board of Supervisors District Bacon'S Castle
+ocd-division/country:us/state:va/county:surry/council_district:bacon~s_castle,Surry County Board of Supervisors District Bacon's Castle
 ocd-division/country:us/state:va/county:surry/council_district:carslet,Surry County Board of Supervisors District Carslet
 ocd-division/country:us/state:va/county:surry/council_district:claremont,Surry County Board of Supervisors District Claremont
 ocd-division/country:us/state:va/county:surry/council_district:dendron,Surry County Board of Supervisors District Dendron
@@ -484,7 +484,7 @@ ocd-division/country:us/state:va/county:tazewell/council_district:southern,Tazew
 ocd-division/country:us/state:va/county:tazewell/council_district:western,Tazewell County Board of Supervisors District Western
 ocd-division/country:us/state:va/county:warren/council_district:fork,Warren County Board of Supervisors District Fork
 ocd-division/country:us/state:va/county:warren/council_district:happy_creek,Warren County Board of Supervisors District Happy Creek
-ocd-division/country:us/state:va/county:warren/council_district:north_river_,Warren County Board of Supervisors District North River 
+ocd-division/country:us/state:va/county:warren/council_district:north_river,Warren County Board of Supervisors District North River 
 ocd-division/country:us/state:va/county:warren/council_district:shenandoah,Warren County Board of Supervisors District Shenandoah
 ocd-division/country:us/state:va/county:warren/council_district:south_river,Warren County Board of Supervisors District South River
 ocd-division/country:us/state:va/county:washington/council_district:a,Washington County Board of Supervisors District A

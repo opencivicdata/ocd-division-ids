@@ -94,4 +94,18 @@ ocd-division/country:us/state:gu,ocd-division/country:us/territory:gu,Guam is a 
 ocd-division/country:us/state:mp,ocd-division/country:us/territory:mp,Northern Mariana Islands is a territory
 ocd-division/country:us/state:pr,ocd-division/country:us/territory:pr,Puerto Rico is a territory
 ocd-division/country:us/state:vi,ocd-division/country:us/territory:vi,Virgin Islands is a territory
-
+ocd-division/country:us/state:ma/place:agawam,ocd-division/country:us/state:ma/place:agawam_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:co/place:creede,ocd-division/country:us/state:co/place:city_of_creede,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:amesbury,ocd-division/country:us/state:ma/place:amesbury_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:barnstable,ocd-division/country:us/state:ma/place:barnstable_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:braintree,ocd-division/country:us/state:ma/place:braintree_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:easthampton,ocd-division/country:us/state:ma/place:easthampton_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:franklin,ocd-division/country:us/state:ma/place:franklin_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:greenfield,ocd-division/country:us/state:ma/place:greenfield_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:methuen,ocd-division/country:us/state:ma/place:methuen_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:palmer,ocd-division/country:us/state:ma/place:palmer_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:southbridge,ocd-division/country:us/state:ma/place:southbridge_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:watertown,ocd-division/country:us/state:ma/place:watertown_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:west_springfield,ocd-division/country:us/state:ma/place:west_springfield_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:weymouth,ocd-division/country:us/state:ma/place:weymouth_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:winthrop,ocd-division/country:us/state:ma/place:winthrop_town,Census is likely wrong but we never overrule Census
