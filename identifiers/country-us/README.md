@@ -44,10 +44,13 @@ With that in mind, below are some interesting OCD Identifiers that might not see
 	* **Not** on this list: Georgetown, GA is not coterminous with its county despite having the same government
 	* **Not** on this list: Philadelphia, PA is not on this list because the county and city play different roles in governance.
 	* **Not** on this list: Butte-Silver Bow County, MT is not on this list because they are not coterminous. The census-recognized town of [Walkerville](https://en.wikipedia.org/wiki/Walkerville,_Montana) is also in the county
-* The [exceptions file](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/README.md), which is a superset of the above list, has three fields in the following order:
+* The [exceptions file](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/exceptions.txt), which is a superset of the above list, has three fields in the following order:
 	* Non-canonical identifier (i.e., the one you should **not** use)
 	* Associated canonical identifier -- use this one
 	* Note for why this association exists
+* The [whitelist file](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/census_whitelist.txt) picks up places that the Census scraper misses. It has two fields:
+  * Canonical identifier
+  * Note for why the census scraper misses this jurisdiction
 
 	
 ##cd
@@ -68,7 +71,8 @@ With that in mind, below are some interesting OCD Identifiers that might not see
 * For ease, all types of local councils that have custom districts -- whether they are called city council, board of supervisors, town council, or common council -- use the type council_district. Examples:
 	* ocd-division/country:us/state:md/place:baltimore/council_district:1
 	* ocd-division/country:us/state:va/county:fairfax/council_district:providence
-* **Sometimes the council districts are not custom district** -- a city might reuse wards, for instance. To avoid redundancy, we only put ward in the repository.
+* **Sometimes the council districts are not custom district** -- a city might reuse wards, for instance. In these cases, to avoid redundancy, we only put ward in the repository.
+* Occasionally (and namely, for Indiana counties), a single governmental entity (e.g., [Lake County Indidana](http://www.lakecountyin.org)) will have multiple bodies that use different districts. In these cases, we strive to use the "council_district" for the governmental body with "council" in its name and use a custom type for the other body (e.g., [commissioner district](http://www.lakecountyin.org/portal/media-type/html/group/commissioners/page/default)).
 
 ##ward
 * Sometimes wards (and council_districts) will be labeled using roman numerals (i, ii, iii, iv, etc). These are converted to arabic numerals (1, 2, 3, 4, etc).
