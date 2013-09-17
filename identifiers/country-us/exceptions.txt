@@ -109,3 +109,13 @@ ocd-division/country:us/state:ma/place:watertown,ocd-division/country:us/state:m
 ocd-division/country:us/state:ma/place:west_springfield,ocd-division/country:us/state:ma/place:west_springfield_town,Census is likely wrong but we never overrule Census
 ocd-division/country:us/state:ma/place:weymouth,ocd-division/country:us/state:ma/place:weymouth_town,Census is likely wrong but we never overrule Census
 ocd-division/country:us/state:ma/place:winthrop,ocd-division/country:us/state:ma/place:winthrop_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ny/place:new_york/county:bronx,ocd-division/country:us/state:ny/county:bronx,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/place:new_york/county:kings,ocd-division/country:us/state:ny/county:kings,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/place:new_york/county:new_york,ocd-division/country:us/state:ny/county:new_york,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/place:new_york/county:queens,ocd-division/country:us/state:ny/county:queens,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/place:new_york/county:richmond,ocd-division/country:us/state:ny/county:richmond,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/borough:bronx,ocd-division/country:us/state:ny/county:bronx,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/borough:brooklyn,ocd-division/country:us/state:ny/county:kings,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/borough:manhattan,ocd-division/country:us/state:ny/county:new_york,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/borough:queens,ocd-division/country:us/state:ny/county:queens,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/borough:staten_island,ocd-division/country:us/state:ny/county:richmond,New York City boroughs treated like any other county
