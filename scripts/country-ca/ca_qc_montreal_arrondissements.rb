@@ -43,7 +43,7 @@ private
     # The shapefile from Montreal's open data portal contains no accents.
     # @see http://donnees.ville.montreal.qc.ca/fiche/polygones-arrondissements/
 
-    # The CSV from the contains accents, but not URLs, and misspells "Lasalle".
+    # This CSV contains accents, but not URLs, and misspells "Lasalle".
     # @see http://donnees.ville.montreal.qc.ca/fiche/arros-liste/
     # Tempfile.open('csv', :encoding => 'binary') do |f|
     #   f.binmode
