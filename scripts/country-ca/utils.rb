@@ -175,7 +175,7 @@ class ShapefileRecord
 
   def identifier
     if mappings.key?(:identifier)
-      self[:identifier]
+      self[:identifier].to_s # May be an integer
     else
       name
     end
