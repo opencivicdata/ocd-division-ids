@@ -9,7 +9,7 @@ require "nokogiri"
 
 class Montreal < Runner
   @csv_filename = "census_subdivision-montreal-arrondissements.csv"
-  @translatable = false # shapefile is unilingual
+  @translatable = false # data source is unilingual
 
   def initialize
     super
