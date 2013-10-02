@@ -43,9 +43,14 @@ ocd-division/country:us/state:co/county:el_paso/council_district:2,El Paso Count
 ocd-division/country:us/state:co/county:el_paso/council_district:3,El Paso County CO Commissioner District 3
 ocd-division/country:us/state:co/county:el_paso/council_district:4,El Paso County CO Commissioner District 4
 ocd-division/country:us/state:co/county:el_paso/council_district:5,El Paso County CO Commissioner District 5
-ocd-division/country:us/state:co/county:jefferson/council_district:1,Jefferson County Co County Board of Commissioners District 1
-ocd-division/country:us/state:co/county:jefferson/council_district:2,Jefferson County Co County Board of Commissioners District 2
-ocd-division/country:us/state:co/county:jefferson/council_district:3,Jefferson County Co County Board of Commissioners District 3
+ocd-division/country:us/state:co/county:jefferson/council_district:1,Jefferson County CO County Board of Commissioners District 1
+ocd-division/country:us/state:co/county:jefferson/council_district:2,Jefferson County CO County Board of Commissioners District 2
+ocd-division/country:us/state:co/county:jefferson/council_district:3,Jefferson County CO County Board of Commissioners District 3
+ocd-division/country:us/state:co/county:jefferson/school_board_district:1,Jefferson County CO Board of Election district 1
+ocd-division/country:us/state:co/county:jefferson/school_board_district:2,Jefferson County CO Board of Election district 2
+ocd-division/country:us/state:co/county:jefferson/school_board_district:3,Jefferson County CO Board of Election district 3
+ocd-division/country:us/state:co/county:jefferson/school_board_district:4,Jefferson County CO Board of Election district 4
+ocd-division/country:us/state:co/county:jefferson/school_board_district:5,Jefferson County CO Board of Election district 5
 ocd-division/country:us/state:co/county:larimer/council_district:1,Larimer County CO Commissioner District 1
 ocd-division/country:us/state:co/county:larimer/council_district:2,Larimer County CO Commissioner District 2
 ocd-division/country:us/state:co/county:larimer/council_district:3,Larimer County CO Commissioner District 3
