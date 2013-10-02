@@ -32,6 +32,12 @@ ocd-division/country:us/state:fl/county:broward/council_district:6,Broward Count
 ocd-division/country:us/state:fl/county:broward/council_district:7,Broward County FL County Commission District 7
 ocd-division/country:us/state:fl/county:broward/council_district:8,Broward County FL County Commission District 8
 ocd-division/country:us/state:fl/county:broward/council_district:9,Broward County FL County Commission District 9
+ocd-division/country:us/state:fl/county:broward/school_board_district:1,Broward County FL School Board District 1
+ocd-division/country:us/state:fl/county:broward/school_board_district:2,Broward County FL School Board District 2
+ocd-division/country:us/state:fl/county:broward/school_board_district:3,Broward County FL School Board District 3
+ocd-division/country:us/state:fl/county:broward/school_board_district:4,Broward County FL School Board District 4
+ocd-division/country:us/state:fl/county:broward/school_board_district:5,Broward County FL School Board District 5
+ocd-division/country:us/state:fl/county:broward/school_board_district:6,Broward County FL School Board District 6
 ocd-division/country:us/state:fl/county:calhoun/council_district:1,Commission District 1
 ocd-division/country:us/state:fl/county:calhoun/council_district:2,Commission District 2
 ocd-division/country:us/state:fl/county:calhoun/council_district:3,Commission District 3
@@ -73,11 +79,6 @@ ocd-division/country:us/state:fl/county:dixie/council_district:3,Commission Dist
 ocd-division/country:us/state:fl/county:dixie/council_district:4,Commission District 4
 ocd-division/country:us/state:fl/county:dixie/council_district:5,Commission District 5
 ocd-division/country:us/state:fl/county:duval/council_district:1,Duval County FL County-City Council District 1
-ocd-division/country:us/state:fl/county:duval/council_district:10,Duval County FL County-City Council District 10
-ocd-division/country:us/state:fl/county:duval/council_district:11,Duval County FL County-City Council District 11
-ocd-division/country:us/state:fl/county:duval/council_district:12,Duval County FL County-City Council District 12
-ocd-division/country:us/state:fl/county:duval/council_district:13,Duval County FL County-City Council District 13
-ocd-division/country:us/state:fl/county:duval/council_district:14,Duval County FL County-City Council District 14
 ocd-division/country:us/state:fl/county:duval/council_district:2,Duval County FL County-City Council District 2
 ocd-division/country:us/state:fl/county:duval/council_district:3,Duval County FL County-City Council District 3
 ocd-division/country:us/state:fl/county:duval/council_district:4,Duval County FL County-City Council District 4
@@ -86,6 +87,18 @@ ocd-division/country:us/state:fl/county:duval/council_district:6,Duval County FL
 ocd-division/country:us/state:fl/county:duval/council_district:7,Duval County FL County-City Council District 7
 ocd-division/country:us/state:fl/county:duval/council_district:8,Duval County FL County-City Council District 8
 ocd-division/country:us/state:fl/county:duval/council_district:9,Duval County FL County-City Council District 9
+ocd-division/country:us/state:fl/county:duval/council_district:10,Duval County FL County-City Council District 10
+ocd-division/country:us/state:fl/county:duval/council_district:11,Duval County FL County-City Council District 11
+ocd-division/country:us/state:fl/county:duval/council_district:12,Duval County FL County-City Council District 12
+ocd-division/country:us/state:fl/county:duval/council_district:13,Duval County FL County-City Council District 13
+ocd-division/country:us/state:fl/county:duval/council_district:14,Duval County FL County-City Council District 14
+ocd-division/country:us/state:fl/county:duval/school_board_district:1,Duval County FL School Board District 1
+ocd-division/country:us/state:fl/county:duval/school_board_district:2,Duval County FL School Board District 2
+ocd-division/country:us/state:fl/county:duval/school_board_district:3,Duval County FL School Board District 3
+ocd-division/country:us/state:fl/county:duval/school_board_district:4,Duval County FL School Board District 4
+ocd-division/country:us/state:fl/county:duval/school_board_district:5,Duval County FL School Board District 5
+ocd-division/country:us/state:fl/county:duval/school_board_district:6,Duval County FL School Board District 6
+ocd-division/country:us/state:fl/county:duval/school_board_district:7,Duval County FL School Board District 7
 ocd-division/country:us/state:fl/county:escambia/council_district:1,Escambia County FL Board of County Commissioners District 1
 ocd-division/country:us/state:fl/county:escambia/council_district:2,Escambia County FL Board of County Commissioners District 2
 ocd-division/country:us/state:fl/county:escambia/council_district:3,Escambia County FL Board of County Commissioners District 3
@@ -150,6 +163,11 @@ ocd-division/country:us/state:fl/county:hillsborough/council_district:1,Hillsbor
 ocd-division/country:us/state:fl/county:hillsborough/council_district:2,Hillsborough County FL Board of County Commissioners District 2
 ocd-division/country:us/state:fl/county:hillsborough/council_district:3,Hillsborough County FL Board of County Commissioners District 3
 ocd-division/country:us/state:fl/county:hillsborough/council_district:4,Hillsborough County FL Board of County Commissioners District 4
+ocd-division/country:us/state:fl/county:hillsborough/school_board_district:1,Hillsborough County FL School Board District 1
+ocd-division/country:us/state:fl/county:hillsborough/school_board_district:2,Hillsborough County FL School Board District 2
+ocd-division/country:us/state:fl/county:hillsborough/school_board_district:3,Hillsborough County FL School Board District 3
+ocd-division/country:us/state:fl/county:hillsborough/school_board_district:4,Hillsborough County FL School Board District 4
+ocd-division/country:us/state:fl/county:hillsborough/school_board_district:5,Hillsborough County FL School Board District 5
 ocd-division/country:us/state:fl/county:holmes/council_district:1,Commission District 1
 ocd-division/country:us/state:fl/county:holmes/council_district:2,Commission District 2
 ocd-division/country:us/state:fl/county:holmes/council_district:3,Commission District 3
@@ -221,10 +239,6 @@ ocd-division/country:us/state:fl/county:martin/council_district:3,Commission Dis
 ocd-division/country:us/state:fl/county:martin/council_district:4,Commission District 4
 ocd-division/country:us/state:fl/county:martin/council_district:5,Commission District 5
 ocd-division/country:us/state:fl/county:miami-dade/council_district:1,Miami-Dade FL county commissioner district 1
-ocd-division/country:us/state:fl/county:miami-dade/council_district:10,Miami-Dade FL county commissioner district 10
-ocd-division/country:us/state:fl/county:miami-dade/council_district:11,Miami-Dade FL county commissioner district 11
-ocd-division/country:us/state:fl/county:miami-dade/council_district:12,Miami-Dade FL county commissioner district 12
-ocd-division/country:us/state:fl/county:miami-dade/council_district:13,Miami-Dade FL county commissioner district 13
 ocd-division/country:us/state:fl/county:miami-dade/council_district:2,Miami-Dade FL county commissioner district 2
 ocd-division/country:us/state:fl/county:miami-dade/council_district:3,Miami-Dade FL county commissioner district 3
 ocd-division/country:us/state:fl/county:miami-dade/council_district:4,Miami-Dade FL county commissioner district 4
@@ -233,6 +247,19 @@ ocd-division/country:us/state:fl/county:miami-dade/council_district:6,Miami-Dade
 ocd-division/country:us/state:fl/county:miami-dade/council_district:7,Miami-Dade FL county commissioner district 7
 ocd-division/country:us/state:fl/county:miami-dade/council_district:8,Miami-Dade FL county commissioner district 8
 ocd-division/country:us/state:fl/county:miami-dade/council_district:9,Miami-Dade FL county commissioner district 9
+ocd-division/country:us/state:fl/county:miami-dade/council_district:10,Miami-Dade FL county commissioner district 10
+ocd-division/country:us/state:fl/county:miami-dade/council_district:11,Miami-Dade FL county commissioner district 11
+ocd-division/country:us/state:fl/county:miami-dade/council_district:12,Miami-Dade FL county commissioner district 12
+ocd-division/country:us/state:fl/county:miami-dade/council_district:13,Miami-Dade FL county commissioner district 13
+ocd-division/country:us/state:fl/county:miami-dade/school_board_district:1,Miami-Dade FL School Board district 1
+ocd-division/country:us/state:fl/county:miami-dade/school_board_district:2,Miami-Dade FL School Board district 2
+ocd-division/country:us/state:fl/county:miami-dade/school_board_district:3,Miami-Dade FL School Board district 3
+ocd-division/country:us/state:fl/county:miami-dade/school_board_district:4,Miami-Dade FL School Board district 4
+ocd-division/country:us/state:fl/county:miami-dade/school_board_district:5,Miami-Dade FL School Board district 5
+ocd-division/country:us/state:fl/county:miami-dade/school_board_district:6,Miami-Dade FL School Board district 6
+ocd-division/country:us/state:fl/county:miami-dade/school_board_district:7,Miami-Dade FL School Board district 7
+ocd-division/country:us/state:fl/county:miami-dade/school_board_district:8,Miami-Dade FL School Board district 8
+ocd-division/country:us/state:fl/county:miami-dade/school_board_district:9,Miami-Dade FL School Board district 9
 ocd-division/country:us/state:fl/county:monroe/council_district:1,Commission District 1
 ocd-division/country:us/state:fl/county:monroe/council_district:2,Commission District 2
 ocd-division/country:us/state:fl/county:monroe/council_district:3,Commission District 3
@@ -254,6 +281,13 @@ ocd-division/country:us/state:fl/county:orange/council_district:3,Orange County 
 ocd-division/country:us/state:fl/county:orange/council_district:4,Orange County FL Board of County Commissioners District 4
 ocd-division/country:us/state:fl/county:orange/council_district:5,Orange County FL Board of County Commissioners District 5
 ocd-division/country:us/state:fl/county:orange/council_district:6,Orange County FL Board of County Commissioners District 6
+ocd-division/country:us/state:fl/county:orange/school_board_district:1,Orange County FL Board of School Board District 1
+ocd-division/country:us/state:fl/county:orange/school_board_district:2,Orange County FL Board of School Board District 2
+ocd-division/country:us/state:fl/county:orange/school_board_district:3,Orange County FL Board of School Board District 3
+ocd-division/country:us/state:fl/county:orange/school_board_district:4,Orange County FL Board of School Board District 4
+ocd-division/country:us/state:fl/county:orange/school_board_district:5,Orange County FL Board of School Board District 5
+ocd-division/country:us/state:fl/county:orange/school_board_district:6,Orange County FL Board of School Board District 6
+ocd-division/country:us/state:fl/county:orange/school_board_district:7,Orange County FL Board of School Board District 7
 ocd-division/country:us/state:fl/county:osceola/council_district:1,Osceola County FL Board of County Commissioners District 1
 ocd-division/country:us/state:fl/county:osceola/council_district:2,Osceola County FL Board of County Commissioners District 2
 ocd-division/country:us/state:fl/county:osceola/council_district:3,Osceola County FL Board of County Commissioners District 3
@@ -266,6 +300,13 @@ ocd-division/country:us/state:fl/county:palm_beach/council_district:4,Palm Beach
 ocd-division/country:us/state:fl/county:palm_beach/council_district:5,Palm Beach County FL Board of County Commissioners District 5
 ocd-division/country:us/state:fl/county:palm_beach/council_district:6,Palm Beach County FL Board of County Commissioners District 6
 ocd-division/country:us/state:fl/county:palm_beach/council_district:7,Palm Beach County FL Board of County Commissioners District 7
+ocd-division/country:us/state:fl/county:palm_beach/school_board_district:1,Palm Beach County FL School Board District 1
+ocd-division/country:us/state:fl/county:palm_beach/school_board_district:2,Palm Beach County FL School Board District 2
+ocd-division/country:us/state:fl/county:palm_beach/school_board_district:3,Palm Beach County FL School Board District 3
+ocd-division/country:us/state:fl/county:palm_beach/school_board_district:4,Palm Beach County FL School Board District 4
+ocd-division/country:us/state:fl/county:palm_beach/school_board_district:5,Palm Beach County FL School Board District 5
+ocd-division/country:us/state:fl/county:palm_beach/school_board_district:6,Palm Beach County FL School Board District 6
+ocd-division/country:us/state:fl/county:palm_beach/school_board_district:7,Palm Beach County FL School Board District 7
 ocd-division/country:us/state:fl/county:pasco/council_district:1,Pasco County FL Board of County Commissioners District 1
 ocd-division/country:us/state:fl/county:pasco/council_district:2,Pasco County FL Board of County Commissioners District 2
 ocd-division/country:us/state:fl/county:pasco/council_district:3,Pasco County FL Board of County Commissioners District 3
@@ -278,6 +319,10 @@ ocd-division/country:us/state:fl/county:pinellas/council_district:4,Pinellas Cou
 ocd-division/country:us/state:fl/county:pinellas/council_district:5,Pinellas County FL Board of County Commissioners District 5
 ocd-division/country:us/state:fl/county:pinellas/council_district:6,Pinellas County FL Board of County Commissioners District 6
 ocd-division/country:us/state:fl/county:pinellas/council_district:7,Pinellas County FL Board of County Commissioners District 7
+ocd-division/country:us/state:fl/county:pinellas/school_board_district:4,Pinellas County FL School Board District 4
+ocd-division/country:us/state:fl/county:pinellas/school_board_district:5,Pinellas County FL School Board District 5
+ocd-division/country:us/state:fl/county:pinellas/school_board_district:6,Pinellas County FL School Board District 6
+ocd-division/country:us/state:fl/county:pinellas/school_board_district:7,Pinellas County FL School Board District 7
 ocd-division/country:us/state:fl/county:polk/council_district:1,Polk County FL Commissioner District 1
 ocd-division/country:us/state:fl/county:polk/council_district:2,Polk County FL Commissioner District 2
 ocd-division/country:us/state:fl/county:polk/council_district:3,Polk County FL Commissioner District 3
