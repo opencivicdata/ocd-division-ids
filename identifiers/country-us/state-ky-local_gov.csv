@@ -24,6 +24,13 @@ ocd-division/country:us/state:ky/county:jefferson/council_district:23,Louisville
 ocd-division/country:us/state:ky/county:jefferson/council_district:24,Louisville-Jefferson County Metro Council district 24
 ocd-division/country:us/state:ky/county:jefferson/council_district:25,Louisville-Jefferson County Metro Council district 25
 ocd-division/country:us/state:ky/county:jefferson/council_district:26,Louisville-Jefferson County Metro Council district 26
+ocd-division/country:us/state:ky/county:jefferson/school_board_district:1,Jefferson County Board of Education district 1
+ocd-division/country:us/state:ky/county:jefferson/school_board_district:2,Jefferson County Board of Education district 2
+ocd-division/country:us/state:ky/county:jefferson/school_board_district:3,Jefferson County Board of Education district 3
+ocd-division/country:us/state:ky/county:jefferson/school_board_district:4,Jefferson County Board of Education district 4
+ocd-division/country:us/state:ky/county:jefferson/school_board_district:5,Jefferson County Board of Education district 5
+ocd-division/country:us/state:ky/county:jefferson/school_board_district:6,Jefferson County Board of Education district 6
+ocd-division/country:us/state:ky/county:jefferson/school_board_district:7,Jefferson County Board of Education district 7
 ocd-division/country:us/state:ky/county:fayette/council_district:1,Lexington-Fayette Urban County Government district 1
 ocd-division/country:us/state:ky/county:fayette/council_district:2,Lexington-Fayette Urban County Government district 2
 ocd-division/country:us/state:ky/county:fayette/council_district:3,Lexington-Fayette Urban County Government district 3
@@ -36,3 +43,8 @@ ocd-division/country:us/state:ky/county:fayette/council_district:9,Lexington-Fay
 ocd-division/country:us/state:ky/county:fayette/council_district:10,Lexington-Fayette Urban County Government district 10
 ocd-division/country:us/state:ky/county:fayette/council_district:11,Lexington-Fayette Urban County Government district 11
 ocd-division/country:us/state:ky/county:fayette/council_district:12,Lexington-Fayette Urban County Government district 12
+ocd-division/country:us/state:ky/county:fayette/school_board_district:1,Fayette County KY Board of Education district 1
+ocd-division/country:us/state:ky/county:fayette/school_board_district:2,Fayette County KY Board of Education district 2
+ocd-division/country:us/state:ky/county:fayette/school_board_district:3,Fayette County KY Board of Education district 3
+ocd-division/country:us/state:ky/county:fayette/school_board_district:4,Fayette County KY Board of Education district 4
+ocd-division/country:us/state:ky/county:fayette/school_board_district:5,Fayette County KY Board of Education district 5
