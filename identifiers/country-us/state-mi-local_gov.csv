@@ -1,12 +1,170 @@
-ocd-division/country:us/state:mi/place:flint/ward:1,Flint MI City Council ward 1
-ocd-division/country:us/state:mi/place:flint/ward:2,Flint MI City Council ward 2
-ocd-division/country:us/state:mi/place:flint/ward:3,Flint MI City Council ward 3
-ocd-division/country:us/state:mi/place:flint/ward:4,Flint MI City Council ward 4
-ocd-division/country:us/state:mi/place:flint/ward:5,Flint MI City Council ward 5
-ocd-division/country:us/state:mi/place:flint/ward:6,Flint MI City Council ward 6
-ocd-division/country:us/state:mi/place:flint/ward:7,Flint MI City Council ward 7
-ocd-division/country:us/state:mi/place:flint/ward:8,Flint MI City Council ward 8
-ocd-division/country:us/state:mi/place:flint/ward:9,Flint MI City Council ward 9
+ocd-division/country:us/state:mi/county:alcona/council_district:1,Alcona County Commissioner District 1
+ocd-division/country:us/state:mi/county:alcona/council_district:2,Alcona County Commissioner District 2
+ocd-division/country:us/state:mi/county:alcona/council_district:3,Alcona County Commissioner District 3
+ocd-division/country:us/state:mi/county:alcona/council_district:4,Alcona County Commissioner District 4
+ocd-division/country:us/state:mi/county:alcona/council_district:5,Alcona County Commissioner District 5
+ocd-division/country:us/state:mi/county:alger/council_district:1,Alger County Commissioner District 1
+ocd-division/country:us/state:mi/county:alger/council_district:2,Alger County Commissioner District 2
+ocd-division/country:us/state:mi/county:alger/council_district:3,Alger County Commissioner District 3
+ocd-division/country:us/state:mi/county:alger/council_district:4,Alger County Commissioner District 4
+ocd-division/country:us/state:mi/county:alger/council_district:5,Alger County Commissioner District 5
+ocd-division/country:us/state:mi/county:allegan/council_district:1,Allegan County Commissioner District 1
+ocd-division/country:us/state:mi/county:allegan/council_district:2,Allegan County Commissioner District 2
+ocd-division/country:us/state:mi/county:allegan/council_district:3,Allegan County Commissioner District 3
+ocd-division/country:us/state:mi/county:allegan/council_district:4,Allegan County Commissioner District 4
+ocd-division/country:us/state:mi/county:allegan/council_district:5,Allegan County Commissioner District 5
+ocd-division/country:us/state:mi/county:allegan/council_district:6,Allegan County Commissioner District 6
+ocd-division/country:us/state:mi/county:allegan/council_district:7,Allegan County Commissioner District 7
+ocd-division/country:us/state:mi/county:alpena/council_district:1,Alpena County Commissioner District 1
+ocd-division/country:us/state:mi/county:alpena/council_district:2,Alpena County Commissioner District 2
+ocd-division/country:us/state:mi/county:alpena/council_district:3,Alpena County Commissioner District 3
+ocd-division/country:us/state:mi/county:alpena/council_district:4,Alpena County Commissioner District 4
+ocd-division/country:us/state:mi/county:alpena/council_district:5,Alpena County Commissioner District 5
+ocd-division/country:us/state:mi/county:alpena/council_district:6,Alpena County Commissioner District 6
+ocd-division/country:us/state:mi/county:alpena/council_district:7,Alpena County Commissioner District 7
+ocd-division/country:us/state:mi/county:alpena/council_district:8,Alpena County Commissioner District 8
+ocd-division/country:us/state:mi/county:antrim/council_district:1,Antrim County Commissioner District 1
+ocd-division/country:us/state:mi/county:antrim/council_district:2,Antrim County Commissioner District 2
+ocd-division/country:us/state:mi/county:antrim/council_district:3,Antrim County Commissioner District 3
+ocd-division/country:us/state:mi/county:antrim/council_district:4,Antrim County Commissioner District 4
+ocd-division/country:us/state:mi/county:antrim/council_district:5,Antrim County Commissioner District 5
+ocd-division/country:us/state:mi/county:antrim/council_district:6,Antrim County Commissioner District 6
+ocd-division/country:us/state:mi/county:antrim/council_district:7,Antrim County Commissioner District 7
+ocd-division/country:us/state:mi/county:antrim/council_district:8,Antrim County Commissioner District 8
+ocd-division/country:us/state:mi/county:antrim/council_district:9,Antrim County Commissioner District 9
+ocd-division/country:us/state:mi/county:arenac/council_district:1,Arenac County Commissioner District 1
+ocd-division/country:us/state:mi/county:arenac/council_district:2,Arenac County Commissioner District 2
+ocd-division/country:us/state:mi/county:arenac/council_district:3,Arenac County Commissioner District 3
+ocd-division/country:us/state:mi/county:arenac/council_district:4,Arenac County Commissioner District 4
+ocd-division/country:us/state:mi/county:arenac/council_district:5,Arenac County Commissioner District 5
+ocd-division/country:us/state:mi/county:baraga/council_district:1,Baraga County Commissioner District 1
+ocd-division/country:us/state:mi/county:baraga/council_district:2,Baraga County Commissioner District 2
+ocd-division/country:us/state:mi/county:baraga/council_district:3,Baraga County Commissioner District 3
+ocd-division/country:us/state:mi/county:baraga/council_district:4,Baraga County Commissioner District 4
+ocd-division/country:us/state:mi/county:baraga/council_district:5,Baraga County Commissioner District 5
+ocd-division/country:us/state:mi/county:barry/council_district:1,Barry County Commissioner District 1
+ocd-division/country:us/state:mi/county:barry/council_district:2,Barry County Commissioner District 2
+ocd-division/country:us/state:mi/county:barry/council_district:3,Barry County Commissioner District 3
+ocd-division/country:us/state:mi/county:barry/council_district:4,Barry County Commissioner District 4
+ocd-division/country:us/state:mi/county:barry/council_district:5,Barry County Commissioner District 5
+ocd-division/country:us/state:mi/county:barry/council_district:6,Barry County Commissioner District 6
+ocd-division/country:us/state:mi/county:barry/council_district:7,Barry County Commissioner District 7
+ocd-division/country:us/state:mi/county:bay/council_district:1,Bay County Commissioner District 1
+ocd-division/country:us/state:mi/county:bay/council_district:2,Bay County Commissioner District 2
+ocd-division/country:us/state:mi/county:bay/council_district:3,Bay County Commissioner District 3
+ocd-division/country:us/state:mi/county:bay/council_district:4,Bay County Commissioner District 4
+ocd-division/country:us/state:mi/county:bay/council_district:5,Bay County Commissioner District 5
+ocd-division/country:us/state:mi/county:bay/council_district:6,Bay County Commissioner District 6
+ocd-division/country:us/state:mi/county:bay/council_district:7,Bay County Commissioner District 7
+ocd-division/country:us/state:mi/county:benzie/council_district:1,Benzie County Commissioner District 1
+ocd-division/country:us/state:mi/county:benzie/council_district:2,Benzie County Commissioner District 2
+ocd-division/country:us/state:mi/county:benzie/council_district:3,Benzie County Commissioner District 3
+ocd-division/country:us/state:mi/county:benzie/council_district:4,Benzie County Commissioner District 4
+ocd-division/country:us/state:mi/county:benzie/council_district:5,Benzie County Commissioner District 5
+ocd-division/country:us/state:mi/county:benzie/council_district:6,Benzie County Commissioner District 6
+ocd-division/country:us/state:mi/county:benzie/council_district:7,Benzie County Commissioner District 7
+ocd-division/country:us/state:mi/county:berrien/council_district:1,Berrien County Commissioner District 1
+ocd-division/country:us/state:mi/county:berrien/council_district:2,Berrien County Commissioner District 2
+ocd-division/country:us/state:mi/county:berrien/council_district:3,Berrien County Commissioner District 3
+ocd-division/country:us/state:mi/county:berrien/council_district:4,Berrien County Commissioner District 4
+ocd-division/country:us/state:mi/county:berrien/council_district:5,Berrien County Commissioner District 5
+ocd-division/country:us/state:mi/county:berrien/council_district:6,Berrien County Commissioner District 6
+ocd-division/country:us/state:mi/county:berrien/council_district:7,Berrien County Commissioner District 7
+ocd-division/country:us/state:mi/county:berrien/council_district:8,Berrien County Commissioner District 8
+ocd-division/country:us/state:mi/county:berrien/council_district:9,Berrien County Commissioner District 9
+ocd-division/country:us/state:mi/county:berrien/council_district:10,Berrien County Commissioner District 10
+ocd-division/country:us/state:mi/county:berrien/council_district:11,Berrien County Commissioner District 11
+ocd-division/country:us/state:mi/county:berrien/council_district:12,Berrien County Commissioner District 12
+ocd-division/country:us/state:mi/county:branch/council_district:1,Branch County Commissioner District 1
+ocd-division/country:us/state:mi/county:branch/council_district:2,Branch County Commissioner District 2
+ocd-division/country:us/state:mi/county:branch/council_district:3,Branch County Commissioner District 3
+ocd-division/country:us/state:mi/county:branch/council_district:4,Branch County Commissioner District 4
+ocd-division/country:us/state:mi/county:branch/council_district:5,Branch County Commissioner District 5
+ocd-division/country:us/state:mi/county:calhoun/council_district:1,Calhoun County Commissioner District 1
+ocd-division/country:us/state:mi/county:calhoun/council_district:2,Calhoun County Commissioner District 2
+ocd-division/country:us/state:mi/county:calhoun/council_district:3,Calhoun County Commissioner District 3
+ocd-division/country:us/state:mi/county:calhoun/council_district:4,Calhoun County Commissioner District 4
+ocd-division/country:us/state:mi/county:calhoun/council_district:5,Calhoun County Commissioner District 5
+ocd-division/country:us/state:mi/county:calhoun/council_district:6,Calhoun County Commissioner District 6
+ocd-division/country:us/state:mi/county:calhoun/council_district:7,Calhoun County Commissioner District 7
+ocd-division/country:us/state:mi/county:cass/council_district:1,Cass County Commissioner District 1
+ocd-division/country:us/state:mi/county:cass/council_district:2,Cass County Commissioner District 2
+ocd-division/country:us/state:mi/county:cass/council_district:3,Cass County Commissioner District 3
+ocd-division/country:us/state:mi/county:cass/council_district:4,Cass County Commissioner District 4
+ocd-division/country:us/state:mi/county:cass/council_district:5,Cass County Commissioner District 5
+ocd-division/country:us/state:mi/county:cass/council_district:6,Cass County Commissioner District 6
+ocd-division/country:us/state:mi/county:cass/council_district:7,Cass County Commissioner District 7
+ocd-division/country:us/state:mi/county:charlevoix/council_district:1,Charlevoix County Commissioner District 1
+ocd-division/country:us/state:mi/county:charlevoix/council_district:2,Charlevoix County Commissioner District 2
+ocd-division/country:us/state:mi/county:charlevoix/council_district:3,Charlevoix County Commissioner District 3
+ocd-division/country:us/state:mi/county:charlevoix/council_district:4,Charlevoix County Commissioner District 4
+ocd-division/country:us/state:mi/county:charlevoix/council_district:5,Charlevoix County Commissioner District 5
+ocd-division/country:us/state:mi/county:charlevoix/council_district:6,Charlevoix County Commissioner District 6
+ocd-division/country:us/state:mi/county:cheboygan/council_district:1,Cheboygan County Commissioner District 1
+ocd-division/country:us/state:mi/county:cheboygan/council_district:2,Cheboygan County Commissioner District 2
+ocd-division/country:us/state:mi/county:cheboygan/council_district:3,Cheboygan County Commissioner District 3
+ocd-division/country:us/state:mi/county:cheboygan/council_district:4,Cheboygan County Commissioner District 4
+ocd-division/country:us/state:mi/county:cheboygan/council_district:5,Cheboygan County Commissioner District 5
+ocd-division/country:us/state:mi/county:cheboygan/council_district:6,Cheboygan County Commissioner District 6
+ocd-division/country:us/state:mi/county:cheboygan/council_district:7,Cheboygan County Commissioner District 7
+ocd-division/country:us/state:mi/county:chippewa/council_district:1,Chippewa County Commissioner District 1
+ocd-division/country:us/state:mi/county:chippewa/council_district:2,Chippewa County Commissioner District 2
+ocd-division/country:us/state:mi/county:chippewa/council_district:3,Chippewa County Commissioner District 3
+ocd-division/country:us/state:mi/county:chippewa/council_district:4,Chippewa County Commissioner District 4
+ocd-division/country:us/state:mi/county:chippewa/council_district:5,Chippewa County Commissioner District 5
+ocd-division/country:us/state:mi/county:clare/council_district:1,Clare County Commissioner District 1
+ocd-division/country:us/state:mi/county:clare/council_district:2,Clare County Commissioner District 2
+ocd-division/country:us/state:mi/county:clare/council_district:3,Clare County Commissioner District 3
+ocd-division/country:us/state:mi/county:clare/council_district:4,Clare County Commissioner District 4
+ocd-division/country:us/state:mi/county:clare/council_district:5,Clare County Commissioner District 5
+ocd-division/country:us/state:mi/county:clare/council_district:6,Clare County Commissioner District 6
+ocd-division/country:us/state:mi/county:clare/council_district:7,Clare County Commissioner District 7
+ocd-division/country:us/state:mi/county:clinton/council_district:1,Clinton County Commissioner District 1
+ocd-division/country:us/state:mi/county:clinton/council_district:2,Clinton County Commissioner District 2
+ocd-division/country:us/state:mi/county:clinton/council_district:3,Clinton County Commissioner District 3
+ocd-division/country:us/state:mi/county:clinton/council_district:4,Clinton County Commissioner District 4
+ocd-division/country:us/state:mi/county:clinton/council_district:5,Clinton County Commissioner District 5
+ocd-division/country:us/state:mi/county:clinton/council_district:6,Clinton County Commissioner District 6
+ocd-division/country:us/state:mi/county:clinton/council_district:7,Clinton County Commissioner District 7
+ocd-division/country:us/state:mi/county:crawford/council_district:1,Crawford County Commissioner District 1
+ocd-division/country:us/state:mi/county:crawford/council_district:2,Crawford County Commissioner District 2
+ocd-division/country:us/state:mi/county:crawford/council_district:3,Crawford County Commissioner District 3
+ocd-division/country:us/state:mi/county:crawford/council_district:4,Crawford County Commissioner District 4
+ocd-division/country:us/state:mi/county:crawford/council_district:5,Crawford County Commissioner District 5
+ocd-division/country:us/state:mi/county:crawford/council_district:6,Crawford County Commissioner District 6
+ocd-division/country:us/state:mi/county:crawford/council_district:7,Crawford County Commissioner District 7
+ocd-division/country:us/state:mi/county:delta/council_district:1,Delta County Commissioner District 1
+ocd-division/country:us/state:mi/county:delta/council_district:2,Delta County Commissioner District 2
+ocd-division/country:us/state:mi/county:delta/council_district:3,Delta County Commissioner District 3
+ocd-division/country:us/state:mi/county:delta/council_district:4,Delta County Commissioner District 4
+ocd-division/country:us/state:mi/county:delta/council_district:5,Delta County Commissioner District 5
+ocd-division/country:us/state:mi/county:dickinson/council_district:1,Dickinson County Commissioner District 1
+ocd-division/country:us/state:mi/county:dickinson/council_district:2,Dickinson County Commissioner District 2
+ocd-division/country:us/state:mi/county:dickinson/council_district:3,Dickinson County Commissioner District 3
+ocd-division/country:us/state:mi/county:dickinson/council_district:4,Dickinson County Commissioner District 4
+ocd-division/country:us/state:mi/county:dickinson/council_district:5,Dickinson County Commissioner District 5
+ocd-division/country:us/state:mi/county:eaton/council_district:1,Eaton County Commissioner District 1
+ocd-division/country:us/state:mi/county:eaton/council_district:2,Eaton County Commissioner District 2
+ocd-division/country:us/state:mi/county:eaton/council_district:3,Eaton County Commissioner District 3
+ocd-division/country:us/state:mi/county:eaton/council_district:4,Eaton County Commissioner District 4
+ocd-division/country:us/state:mi/county:eaton/council_district:5,Eaton County Commissioner District 5
+ocd-division/country:us/state:mi/county:eaton/council_district:6,Eaton County Commissioner District 6
+ocd-division/country:us/state:mi/county:eaton/council_district:7,Eaton County Commissioner District 7
+ocd-division/country:us/state:mi/county:eaton/council_district:8,Eaton County Commissioner District 8
+ocd-division/country:us/state:mi/county:eaton/council_district:9,Eaton County Commissioner District 9
+ocd-division/country:us/state:mi/county:eaton/council_district:10,Eaton County Commissioner District 10
+ocd-division/country:us/state:mi/county:eaton/council_district:11,Eaton County Commissioner District 11
+ocd-division/country:us/state:mi/county:eaton/council_district:12,Eaton County Commissioner District 12
+ocd-division/country:us/state:mi/county:eaton/council_district:13,Eaton County Commissioner District 13
+ocd-division/country:us/state:mi/county:eaton/council_district:14,Eaton County Commissioner District 14
+ocd-division/country:us/state:mi/county:eaton/council_district:15,Eaton County Commissioner District 15
+ocd-division/country:us/state:mi/county:emmet/council_district:1,Emmet County Commissioner District 1
+ocd-division/country:us/state:mi/county:emmet/council_district:2,Emmet County Commissioner District 2
+ocd-division/country:us/state:mi/county:emmet/council_district:3,Emmet County Commissioner District 3
+ocd-division/country:us/state:mi/county:emmet/council_district:4,Emmet County Commissioner District 4
+ocd-division/country:us/state:mi/county:emmet/council_district:5,Emmet County Commissioner District 5
+ocd-division/country:us/state:mi/county:emmet/council_district:6,Emmet County Commissioner District 6
+ocd-division/country:us/state:mi/county:emmet/council_district:7,Emmet County Commissioner District 7
 ocd-division/country:us/state:mi/county:genesee/council_district:1,Genesee County MI Board of Commissioners District 1
 ocd-division/country:us/state:mi/county:genesee/council_district:2,Genesee County MI Board of Commissioners District 2
 ocd-division/country:us/state:mi/county:genesee/council_district:3,Genesee County MI Board of Commissioners District 3
@@ -16,6 +174,185 @@ ocd-division/country:us/state:mi/county:genesee/council_district:6,Genesee Count
 ocd-division/country:us/state:mi/county:genesee/council_district:7,Genesee County MI Board of Commissioners District 7
 ocd-division/country:us/state:mi/county:genesee/council_district:8,Genesee County MI Board of Commissioners District 8
 ocd-division/country:us/state:mi/county:genesee/council_district:9,Genesee County MI Board of Commissioners District 9
+ocd-division/country:us/state:mi/county:gladwin/council_district:1,Gladwin County Commissioner District 1
+ocd-division/country:us/state:mi/county:gladwin/council_district:2,Gladwin County Commissioner District 2
+ocd-division/country:us/state:mi/county:gladwin/council_district:3,Gladwin County Commissioner District 3
+ocd-division/country:us/state:mi/county:gladwin/council_district:4,Gladwin County Commissioner District 4
+ocd-division/country:us/state:mi/county:gladwin/council_district:5,Gladwin County Commissioner District 5
+ocd-division/country:us/state:mi/county:gogebic/council_district:1,Gogebic County Commissioner District 1
+ocd-division/country:us/state:mi/county:gogebic/council_district:2,Gogebic County Commissioner District 2
+ocd-division/country:us/state:mi/county:gogebic/council_district:3,Gogebic County Commissioner District 3
+ocd-division/country:us/state:mi/county:gogebic/council_district:4,Gogebic County Commissioner District 4
+ocd-division/country:us/state:mi/county:gogebic/council_district:5,Gogebic County Commissioner District 5
+ocd-division/country:us/state:mi/county:gogebic/council_district:6,Gogebic County Commissioner District 6
+ocd-division/country:us/state:mi/county:gogebic/council_district:7,Gogebic County Commissioner District 7
+ocd-division/country:us/state:mi/county:grand_traverse/council_district:1,Grand Traverse County Commissioner District 1
+ocd-division/country:us/state:mi/county:grand_traverse/council_district:2,Grand Traverse County Commissioner District 2
+ocd-division/country:us/state:mi/county:grand_traverse/council_district:3,Grand Traverse County Commissioner District 3
+ocd-division/country:us/state:mi/county:grand_traverse/council_district:4,Grand Traverse County Commissioner District 4
+ocd-division/country:us/state:mi/county:grand_traverse/council_district:5,Grand Traverse County Commissioner District 5
+ocd-division/country:us/state:mi/county:grand_traverse/council_district:6,Grand Traverse County Commissioner District 6
+ocd-division/country:us/state:mi/county:grand_traverse/council_district:7,Grand Traverse County Commissioner District 7
+ocd-division/country:us/state:mi/county:gratiot/council_district:1,Gratiot County Commissioner District 1
+ocd-division/country:us/state:mi/county:gratiot/council_district:2,Gratiot County Commissioner District 2
+ocd-division/country:us/state:mi/county:gratiot/council_district:3,Gratiot County Commissioner District 3
+ocd-division/country:us/state:mi/county:gratiot/council_district:4,Gratiot County Commissioner District 4
+ocd-division/country:us/state:mi/county:gratiot/council_district:5,Gratiot County Commissioner District 5
+ocd-division/country:us/state:mi/county:hillsdale/council_district:1,Hillsdale County Commissioner District 1
+ocd-division/country:us/state:mi/county:hillsdale/council_district:2,Hillsdale County Commissioner District 2
+ocd-division/country:us/state:mi/county:hillsdale/council_district:3,Hillsdale County Commissioner District 3
+ocd-division/country:us/state:mi/county:hillsdale/council_district:4,Hillsdale County Commissioner District 4
+ocd-division/country:us/state:mi/county:hillsdale/council_district:5,Hillsdale County Commissioner District 5
+ocd-division/country:us/state:mi/county:houghton/council_district:1,Houghton County Commissioner District 1
+ocd-division/country:us/state:mi/county:houghton/council_district:2,Houghton County Commissioner District 2
+ocd-division/country:us/state:mi/county:houghton/council_district:3,Houghton County Commissioner District 3
+ocd-division/country:us/state:mi/county:houghton/council_district:4,Houghton County Commissioner District 4
+ocd-division/country:us/state:mi/county:houghton/council_district:5,Houghton County Commissioner District 5
+ocd-division/country:us/state:mi/county:huron/council_district:1,Huron County Commissioner District 1
+ocd-division/country:us/state:mi/county:huron/council_district:2,Huron County Commissioner District 2
+ocd-division/country:us/state:mi/county:huron/council_district:3,Huron County Commissioner District 3
+ocd-division/country:us/state:mi/county:huron/council_district:4,Huron County Commissioner District 4
+ocd-division/country:us/state:mi/county:huron/council_district:5,Huron County Commissioner District 5
+ocd-division/country:us/state:mi/county:huron/council_district:6,Huron County Commissioner District 6
+ocd-division/country:us/state:mi/county:huron/council_district:7,Huron County Commissioner District 7
+ocd-division/country:us/state:mi/county:ingham/council_district:1,Ingham County Commissioner District 1
+ocd-division/country:us/state:mi/county:ingham/council_district:2,Ingham County Commissioner District 2
+ocd-division/country:us/state:mi/county:ingham/council_district:3,Ingham County Commissioner District 3
+ocd-division/country:us/state:mi/county:ingham/council_district:4,Ingham County Commissioner District 4
+ocd-division/country:us/state:mi/county:ingham/council_district:5,Ingham County Commissioner District 5
+ocd-division/country:us/state:mi/county:ingham/council_district:6,Ingham County Commissioner District 6
+ocd-division/country:us/state:mi/county:ingham/council_district:7,Ingham County Commissioner District 7
+ocd-division/country:us/state:mi/county:ingham/council_district:8,Ingham County Commissioner District 8
+ocd-division/country:us/state:mi/county:ingham/council_district:9,Ingham County Commissioner District 9
+ocd-division/country:us/state:mi/county:ingham/council_district:10,Ingham County Commissioner District 10
+ocd-division/country:us/state:mi/county:ingham/council_district:11,Ingham County Commissioner District 11
+ocd-division/country:us/state:mi/county:ingham/council_district:12,Ingham County Commissioner District 12
+ocd-division/country:us/state:mi/county:ingham/council_district:13,Ingham County Commissioner District 13
+ocd-division/country:us/state:mi/county:ingham/council_district:14,Ingham County Commissioner District 14
+ocd-division/country:us/state:mi/county:ionia/council_district:1,Ionia County Commissioner District 1
+ocd-division/country:us/state:mi/county:ionia/council_district:2,Ionia County Commissioner District 2
+ocd-division/country:us/state:mi/county:ionia/council_district:3,Ionia County Commissioner District 3
+ocd-division/country:us/state:mi/county:ionia/council_district:4,Ionia County Commissioner District 4
+ocd-division/country:us/state:mi/county:ionia/council_district:5,Ionia County Commissioner District 5
+ocd-division/country:us/state:mi/county:ionia/council_district:6,Ionia County Commissioner District 6
+ocd-division/country:us/state:mi/county:ionia/council_district:7,Ionia County Commissioner District 7
+ocd-division/country:us/state:mi/county:iosco/council_district:1,Iosco County Commissioner District 1
+ocd-division/country:us/state:mi/county:iosco/council_district:2,Iosco County Commissioner District 2
+ocd-division/country:us/state:mi/county:iosco/council_district:3,Iosco County Commissioner District 3
+ocd-division/country:us/state:mi/county:iosco/council_district:4,Iosco County Commissioner District 4
+ocd-division/country:us/state:mi/county:iosco/council_district:5,Iosco County Commissioner District 5
+ocd-division/country:us/state:mi/county:iron/council_district:1,Iron County Commissioner District 1
+ocd-division/country:us/state:mi/county:iron/council_district:2,Iron County Commissioner District 2
+ocd-division/country:us/state:mi/county:iron/council_district:3,Iron County Commissioner District 3
+ocd-division/country:us/state:mi/county:iron/council_district:4,Iron County Commissioner District 4
+ocd-division/country:us/state:mi/county:iron/council_district:5,Iron County Commissioner District 5
+ocd-division/country:us/state:mi/county:isabella/council_district:1,Isabella County Commissioner District 1
+ocd-division/country:us/state:mi/county:isabella/council_district:2,Isabella County Commissioner District 2
+ocd-division/country:us/state:mi/county:isabella/council_district:3,Isabella County Commissioner District 3
+ocd-division/country:us/state:mi/county:isabella/council_district:4,Isabella County Commissioner District 4
+ocd-division/country:us/state:mi/county:isabella/council_district:5,Isabella County Commissioner District 5
+ocd-division/country:us/state:mi/county:isabella/council_district:6,Isabella County Commissioner District 6
+ocd-division/country:us/state:mi/county:isabella/council_district:7,Isabella County Commissioner District 7
+ocd-division/country:us/state:mi/county:jackson/council_district:1,Jackson County Commissioner District 1
+ocd-division/country:us/state:mi/county:jackson/council_district:2,Jackson County Commissioner District 2
+ocd-division/country:us/state:mi/county:jackson/council_district:3,Jackson County Commissioner District 3
+ocd-division/country:us/state:mi/county:jackson/council_district:4,Jackson County Commissioner District 4
+ocd-division/country:us/state:mi/county:jackson/council_district:5,Jackson County Commissioner District 5
+ocd-division/country:us/state:mi/county:jackson/council_district:6,Jackson County Commissioner District 6
+ocd-division/country:us/state:mi/county:jackson/council_district:7,Jackson County Commissioner District 7
+ocd-division/country:us/state:mi/county:jackson/council_district:8,Jackson County Commissioner District 8
+ocd-division/country:us/state:mi/county:jackson/council_district:9,Jackson County Commissioner District 9
+ocd-division/country:us/state:mi/county:kalamazoo/council_district:1,Kalamazoo County Commissioner District 1
+ocd-division/country:us/state:mi/county:kalamazoo/council_district:2,Kalamazoo County Commissioner District 2
+ocd-division/country:us/state:mi/county:kalamazoo/council_district:3,Kalamazoo County Commissioner District 3
+ocd-division/country:us/state:mi/county:kalamazoo/council_district:4,Kalamazoo County Commissioner District 4
+ocd-division/country:us/state:mi/county:kalamazoo/council_district:5,Kalamazoo County Commissioner District 5
+ocd-division/country:us/state:mi/county:kalamazoo/council_district:6,Kalamazoo County Commissioner District 6
+ocd-division/country:us/state:mi/county:kalamazoo/council_district:7,Kalamazoo County Commissioner District 7
+ocd-division/country:us/state:mi/county:kalamazoo/council_district:8,Kalamazoo County Commissioner District 8
+ocd-division/country:us/state:mi/county:kalamazoo/council_district:9,Kalamazoo County Commissioner District 9
+ocd-division/country:us/state:mi/county:kalamazoo/council_district:10,Kalamazoo County Commissioner District 10
+ocd-division/country:us/state:mi/county:kalamazoo/council_district:11,Kalamazoo County Commissioner District 11
+ocd-division/country:us/state:mi/county:kalkaska/council_district:1,Kalkaska County Commissioner District 1
+ocd-division/country:us/state:mi/county:kalkaska/council_district:2,Kalkaska County Commissioner District 2
+ocd-division/country:us/state:mi/county:kalkaska/council_district:3,Kalkaska County Commissioner District 3
+ocd-division/country:us/state:mi/county:kalkaska/council_district:4,Kalkaska County Commissioner District 4
+ocd-division/country:us/state:mi/county:kalkaska/council_district:5,Kalkaska County Commissioner District 5
+ocd-division/country:us/state:mi/county:kalkaska/council_district:6,Kalkaska County Commissioner District 6
+ocd-division/country:us/state:mi/county:kalkaska/council_district:7,Kalkaska County Commissioner District 7
+ocd-division/country:us/state:mi/county:kent/council_district:1,Kent County Commissioner District 1
+ocd-division/country:us/state:mi/county:kent/council_district:2,Kent County Commissioner District 2
+ocd-division/country:us/state:mi/county:kent/council_district:3,Kent County Commissioner District 3
+ocd-division/country:us/state:mi/county:kent/council_district:4,Kent County Commissioner District 4
+ocd-division/country:us/state:mi/county:kent/council_district:5,Kent County Commissioner District 5
+ocd-division/country:us/state:mi/county:kent/council_district:6,Kent County Commissioner District 6
+ocd-division/country:us/state:mi/county:kent/council_district:7,Kent County Commissioner District 7
+ocd-division/country:us/state:mi/county:kent/council_district:8,Kent County Commissioner District 8
+ocd-division/country:us/state:mi/county:kent/council_district:9,Kent County Commissioner District 9
+ocd-division/country:us/state:mi/county:kent/council_district:10,Kent County Commissioner District 10
+ocd-division/country:us/state:mi/county:kent/council_district:11,Kent County Commissioner District 11
+ocd-division/country:us/state:mi/county:kent/council_district:12,Kent County Commissioner District 12
+ocd-division/country:us/state:mi/county:kent/council_district:13,Kent County Commissioner District 13
+ocd-division/country:us/state:mi/county:kent/council_district:14,Kent County Commissioner District 14
+ocd-division/country:us/state:mi/county:kent/council_district:15,Kent County Commissioner District 15
+ocd-division/country:us/state:mi/county:kent/council_district:16,Kent County Commissioner District 16
+ocd-division/country:us/state:mi/county:kent/council_district:17,Kent County Commissioner District 17
+ocd-division/country:us/state:mi/county:kent/council_district:18,Kent County Commissioner District 18
+ocd-division/country:us/state:mi/county:kent/council_district:19,Kent County Commissioner District 19
+ocd-division/country:us/state:mi/county:keweenaw/council_district:1,Keweenaw County Commissioner District 1
+ocd-division/country:us/state:mi/county:keweenaw/council_district:2,Keweenaw County Commissioner District 2
+ocd-division/country:us/state:mi/county:keweenaw/council_district:3,Keweenaw County Commissioner District 3
+ocd-division/country:us/state:mi/county:keweenaw/council_district:4,Keweenaw County Commissioner District 4
+ocd-division/country:us/state:mi/county:keweenaw/council_district:5,Keweenaw County Commissioner District 5
+ocd-division/country:us/state:mi/county:lake/council_district:1,Lake County Commissioner District 1
+ocd-division/country:us/state:mi/county:lake/council_district:2,Lake County Commissioner District 2
+ocd-division/country:us/state:mi/county:lake/council_district:3,Lake County Commissioner District 3
+ocd-division/country:us/state:mi/county:lake/council_district:4,Lake County Commissioner District 4
+ocd-division/country:us/state:mi/county:lake/council_district:5,Lake County Commissioner District 5
+ocd-division/country:us/state:mi/county:lake/council_district:6,Lake County Commissioner District 6
+ocd-division/country:us/state:mi/county:lake/council_district:7,Lake County Commissioner District 7
+ocd-division/country:us/state:mi/county:lapeer/council_district:1,Lapeer County Commissioner District 1
+ocd-division/country:us/state:mi/county:lapeer/council_district:2,Lapeer County Commissioner District 2
+ocd-division/country:us/state:mi/county:lapeer/council_district:3,Lapeer County Commissioner District 3
+ocd-division/country:us/state:mi/county:lapeer/council_district:4,Lapeer County Commissioner District 4
+ocd-division/country:us/state:mi/county:lapeer/council_district:5,Lapeer County Commissioner District 5
+ocd-division/country:us/state:mi/county:lapeer/council_district:6,Lapeer County Commissioner District 6
+ocd-division/country:us/state:mi/county:lapeer/council_district:7,Lapeer County Commissioner District 7
+ocd-division/country:us/state:mi/county:leelanau/council_district:1,Leelanau County Commissioner District 1
+ocd-division/country:us/state:mi/county:leelanau/council_district:2,Leelanau County Commissioner District 2
+ocd-division/country:us/state:mi/county:leelanau/council_district:3,Leelanau County Commissioner District 3
+ocd-division/country:us/state:mi/county:leelanau/council_district:4,Leelanau County Commissioner District 4
+ocd-division/country:us/state:mi/county:leelanau/council_district:5,Leelanau County Commissioner District 5
+ocd-division/country:us/state:mi/county:leelanau/council_district:6,Leelanau County Commissioner District 6
+ocd-division/country:us/state:mi/county:leelanau/council_district:7,Leelanau County Commissioner District 7
+ocd-division/country:us/state:mi/county:lenawee/council_district:1,Lenawee County Commissioner District 1
+ocd-division/country:us/state:mi/county:lenawee/council_district:2,Lenawee County Commissioner District 2
+ocd-division/country:us/state:mi/county:lenawee/council_district:3,Lenawee County Commissioner District 3
+ocd-division/country:us/state:mi/county:lenawee/council_district:4,Lenawee County Commissioner District 4
+ocd-division/country:us/state:mi/county:lenawee/council_district:5,Lenawee County Commissioner District 5
+ocd-division/country:us/state:mi/county:lenawee/council_district:6,Lenawee County Commissioner District 6
+ocd-division/country:us/state:mi/county:lenawee/council_district:7,Lenawee County Commissioner District 7
+ocd-division/country:us/state:mi/county:lenawee/council_district:8,Lenawee County Commissioner District 8
+ocd-division/country:us/state:mi/county:lenawee/council_district:9,Lenawee County Commissioner District 9
+ocd-division/country:us/state:mi/county:livingston/council_district:1,Livingston County Commissioner District 1
+ocd-division/country:us/state:mi/county:livingston/council_district:2,Livingston County Commissioner District 2
+ocd-division/country:us/state:mi/county:livingston/council_district:3,Livingston County Commissioner District 3
+ocd-division/country:us/state:mi/county:livingston/council_district:4,Livingston County Commissioner District 4
+ocd-division/country:us/state:mi/county:livingston/council_district:5,Livingston County Commissioner District 5
+ocd-division/country:us/state:mi/county:livingston/council_district:6,Livingston County Commissioner District 6
+ocd-division/country:us/state:mi/county:livingston/council_district:7,Livingston County Commissioner District 7
+ocd-division/country:us/state:mi/county:livingston/council_district:8,Livingston County Commissioner District 8
+ocd-division/country:us/state:mi/county:livingston/council_district:9,Livingston County Commissioner District 9
+ocd-division/country:us/state:mi/county:luce/council_district:1,Luce County Commissioner District 1
+ocd-division/country:us/state:mi/county:luce/council_district:2,Luce County Commissioner District 2
+ocd-division/country:us/state:mi/county:luce/council_district:3,Luce County Commissioner District 3
+ocd-division/country:us/state:mi/county:luce/council_district:4,Luce County Commissioner District 4
+ocd-division/country:us/state:mi/county:luce/council_district:5,Luce County Commissioner District 5
+ocd-division/country:us/state:mi/county:mackinac/council_district:1,Mackinac County Commissioner District 1
+ocd-division/country:us/state:mi/county:mackinac/council_district:2,Mackinac County Commissioner District 2
+ocd-division/country:us/state:mi/county:mackinac/council_district:3,Mackinac County Commissioner District 3
+ocd-division/country:us/state:mi/county:mackinac/council_district:4,Mackinac County Commissioner District 4
+ocd-division/country:us/state:mi/county:mackinac/council_district:5,Mackinac County Commissioner District 5
 ocd-division/country:us/state:mi/county:macomb/council_district:1,Macomb County MI Board of Commissioners District 1
 ocd-division/country:us/state:mi/county:macomb/council_district:2,Macomb County MI Board of Commissioners District 2
 ocd-division/country:us/state:mi/county:macomb/council_district:3,Macomb County MI Board of Commissioners District 3
@@ -29,6 +366,96 @@ ocd-division/country:us/state:mi/county:macomb/council_district:10,Macomb County
 ocd-division/country:us/state:mi/county:macomb/council_district:11,Macomb County MI Board of Commissioners District 11
 ocd-division/country:us/state:mi/county:macomb/council_district:12,Macomb County MI Board of Commissioners District 12
 ocd-division/country:us/state:mi/county:macomb/council_district:13,Macomb County MI Board of Commissioners District 13
+ocd-division/country:us/state:mi/county:manistee/council_district:1,Manistee County Commissioner District 1
+ocd-division/country:us/state:mi/county:manistee/council_district:2,Manistee County Commissioner District 2
+ocd-division/country:us/state:mi/county:manistee/council_district:3,Manistee County Commissioner District 3
+ocd-division/country:us/state:mi/county:manistee/council_district:4,Manistee County Commissioner District 4
+ocd-division/country:us/state:mi/county:manistee/council_district:5,Manistee County Commissioner District 5
+ocd-division/country:us/state:mi/county:manistee/council_district:6,Manistee County Commissioner District 6
+ocd-division/country:us/state:mi/county:manistee/council_district:7,Manistee County Commissioner District 7
+ocd-division/country:us/state:mi/county:marquette/council_district:1,Marquette County Commissioner District 1
+ocd-division/country:us/state:mi/county:marquette/council_district:2,Marquette County Commissioner District 2
+ocd-division/country:us/state:mi/county:marquette/council_district:3,Marquette County Commissioner District 3
+ocd-division/country:us/state:mi/county:marquette/council_district:4,Marquette County Commissioner District 4
+ocd-division/country:us/state:mi/county:marquette/council_district:5,Marquette County Commissioner District 5
+ocd-division/country:us/state:mi/county:marquette/council_district:6,Marquette County Commissioner District 6
+ocd-division/country:us/state:mi/county:marquette/council_district:7,Marquette County Commissioner District 7
+ocd-division/country:us/state:mi/county:mason/council_district:1,Mason County Commissioner District 1
+ocd-division/country:us/state:mi/county:mason/council_district:2,Mason County Commissioner District 2
+ocd-division/country:us/state:mi/county:mason/council_district:3,Mason County Commissioner District 3
+ocd-division/country:us/state:mi/county:mason/council_district:4,Mason County Commissioner District 4
+ocd-division/country:us/state:mi/county:mason/council_district:5,Mason County Commissioner District 5
+ocd-division/country:us/state:mi/county:mason/council_district:6,Mason County Commissioner District 6
+ocd-division/country:us/state:mi/county:mason/council_district:7,Mason County Commissioner District 7
+ocd-division/country:us/state:mi/county:mecosta/council_district:1,Mecosta County Commissioner District 1
+ocd-division/country:us/state:mi/county:mecosta/council_district:2,Mecosta County Commissioner District 2
+ocd-division/country:us/state:mi/county:mecosta/council_district:3,Mecosta County Commissioner District 3
+ocd-division/country:us/state:mi/county:mecosta/council_district:4,Mecosta County Commissioner District 4
+ocd-division/country:us/state:mi/county:mecosta/council_district:5,Mecosta County Commissioner District 5
+ocd-division/country:us/state:mi/county:mecosta/council_district:6,Mecosta County Commissioner District 6
+ocd-division/country:us/state:mi/county:mecosta/council_district:7,Mecosta County Commissioner District 7
+ocd-division/country:us/state:mi/county:menominee/council_district:1,Menominee County Commissioner District 1
+ocd-division/country:us/state:mi/county:menominee/council_district:2,Menominee County Commissioner District 2
+ocd-division/country:us/state:mi/county:menominee/council_district:3,Menominee County Commissioner District 3
+ocd-division/country:us/state:mi/county:menominee/council_district:4,Menominee County Commissioner District 4
+ocd-division/country:us/state:mi/county:menominee/council_district:5,Menominee County Commissioner District 5
+ocd-division/country:us/state:mi/county:menominee/council_district:6,Menominee County Commissioner District 6
+ocd-division/country:us/state:mi/county:menominee/council_district:7,Menominee County Commissioner District 7
+ocd-division/country:us/state:mi/county:menominee/council_district:8,Menominee County Commissioner District 8
+ocd-division/country:us/state:mi/county:menominee/council_district:9,Menominee County Commissioner District 9
+ocd-division/country:us/state:mi/county:midland/council_district:1,Midland County Commissioner District 1
+ocd-division/country:us/state:mi/county:midland/council_district:2,Midland County Commissioner District 2
+ocd-division/country:us/state:mi/county:midland/council_district:3,Midland County Commissioner District 3
+ocd-division/country:us/state:mi/county:midland/council_district:4,Midland County Commissioner District 4
+ocd-division/country:us/state:mi/county:midland/council_district:5,Midland County Commissioner District 5
+ocd-division/country:us/state:mi/county:midland/council_district:6,Midland County Commissioner District 6
+ocd-division/country:us/state:mi/county:midland/council_district:7,Midland County Commissioner District 7
+ocd-division/country:us/state:mi/county:missaukee/council_district:1,Missaukee County Commissioner District 1
+ocd-division/country:us/state:mi/county:missaukee/council_district:2,Missaukee County Commissioner District 2
+ocd-division/country:us/state:mi/county:missaukee/council_district:3,Missaukee County Commissioner District 3
+ocd-division/country:us/state:mi/county:missaukee/council_district:4,Missaukee County Commissioner District 4
+ocd-division/country:us/state:mi/county:missaukee/council_district:5,Missaukee County Commissioner District 5
+ocd-division/country:us/state:mi/county:missaukee/council_district:6,Missaukee County Commissioner District 6
+ocd-division/country:us/state:mi/county:missaukee/council_district:7,Missaukee County Commissioner District 7
+ocd-division/country:us/state:mi/county:monroe/council_district:1,Monroe County Commissioner District 1
+ocd-division/country:us/state:mi/county:monroe/council_district:2,Monroe County Commissioner District 2
+ocd-division/country:us/state:mi/county:monroe/council_district:3,Monroe County Commissioner District 3
+ocd-division/country:us/state:mi/county:monroe/council_district:4,Monroe County Commissioner District 4
+ocd-division/country:us/state:mi/county:monroe/council_district:5,Monroe County Commissioner District 5
+ocd-division/country:us/state:mi/county:monroe/council_district:6,Monroe County Commissioner District 6
+ocd-division/country:us/state:mi/county:monroe/council_district:7,Monroe County Commissioner District 7
+ocd-division/country:us/state:mi/county:monroe/council_district:8,Monroe County Commissioner District 8
+ocd-division/country:us/state:mi/county:monroe/council_district:9,Monroe County Commissioner District 9
+ocd-division/country:us/state:mi/county:montcalm/council_district:1,Montcalm County Commissioner District 1
+ocd-division/country:us/state:mi/county:montcalm/council_district:2,Montcalm County Commissioner District 2
+ocd-division/country:us/state:mi/county:montcalm/council_district:3,Montcalm County Commissioner District 3
+ocd-division/country:us/state:mi/county:montcalm/council_district:4,Montcalm County Commissioner District 4
+ocd-division/country:us/state:mi/county:montcalm/council_district:5,Montcalm County Commissioner District 5
+ocd-division/country:us/state:mi/county:montcalm/council_district:6,Montcalm County Commissioner District 6
+ocd-division/country:us/state:mi/county:montcalm/council_district:7,Montcalm County Commissioner District 7
+ocd-division/country:us/state:mi/county:montcalm/council_district:8,Montcalm County Commissioner District 8
+ocd-division/country:us/state:mi/county:montcalm/council_district:9,Montcalm County Commissioner District 9
+ocd-division/country:us/state:mi/county:montmorency/council_district:1,Montmorency County Commissioner District 1
+ocd-division/country:us/state:mi/county:montmorency/council_district:2,Montmorency County Commissioner District 2
+ocd-division/country:us/state:mi/county:montmorency/council_district:3,Montmorency County Commissioner District 3
+ocd-division/country:us/state:mi/county:montmorency/council_district:4,Montmorency County Commissioner District 4
+ocd-division/country:us/state:mi/county:montmorency/council_district:5,Montmorency County Commissioner District 5
+ocd-division/country:us/state:mi/county:muskegon/council_district:1,Muskegon County Commissioner District 1
+ocd-division/country:us/state:mi/county:muskegon/council_district:2,Muskegon County Commissioner District 2
+ocd-division/country:us/state:mi/county:muskegon/council_district:3,Muskegon County Commissioner District 3
+ocd-division/country:us/state:mi/county:muskegon/council_district:4,Muskegon County Commissioner District 4
+ocd-division/country:us/state:mi/county:muskegon/council_district:5,Muskegon County Commissioner District 5
+ocd-division/country:us/state:mi/county:muskegon/council_district:6,Muskegon County Commissioner District 6
+ocd-division/country:us/state:mi/county:muskegon/council_district:7,Muskegon County Commissioner District 7
+ocd-division/country:us/state:mi/county:muskegon/council_district:8,Muskegon County Commissioner District 8
+ocd-division/country:us/state:mi/county:muskegon/council_district:9,Muskegon County Commissioner District 9
+ocd-division/country:us/state:mi/county:newaygo/council_district:1,Newaygo County Commissioner District 1
+ocd-division/country:us/state:mi/county:newaygo/council_district:2,Newaygo County Commissioner District 2
+ocd-division/country:us/state:mi/county:newaygo/council_district:3,Newaygo County Commissioner District 3
+ocd-division/country:us/state:mi/county:newaygo/council_district:4,Newaygo County Commissioner District 4
+ocd-division/country:us/state:mi/county:newaygo/council_district:5,Newaygo County Commissioner District 5
+ocd-division/country:us/state:mi/county:newaygo/council_district:6,Newaygo County Commissioner District 6
+ocd-division/country:us/state:mi/county:newaygo/council_district:7,Newaygo County Commissioner District 7
 ocd-division/country:us/state:mi/county:oakland/council_district:1,Oakland County MI Board of Commissioners District 1
 ocd-division/country:us/state:mi/county:oakland/council_district:2,Oakland County MI Board of Commissioners District 2
 ocd-division/country:us/state:mi/county:oakland/council_district:3,Oakland County MI Board of Commissioners District 3
@@ -50,6 +477,117 @@ ocd-division/country:us/state:mi/county:oakland/council_district:18,Oakland Coun
 ocd-division/country:us/state:mi/county:oakland/council_district:19,Oakland County MI Board of Commissioners District 19
 ocd-division/country:us/state:mi/county:oakland/council_district:20,Oakland County MI Board of Commissioners District 20
 ocd-division/country:us/state:mi/county:oakland/council_district:21,Oakland County MI Board of Commissioners District 21
+ocd-division/country:us/state:mi/county:oceana/council_district:1,Oceana County Commissioner District 1
+ocd-division/country:us/state:mi/county:oceana/council_district:2,Oceana County Commissioner District 2
+ocd-division/country:us/state:mi/county:oceana/council_district:3,Oceana County Commissioner District 3
+ocd-division/country:us/state:mi/county:oceana/council_district:4,Oceana County Commissioner District 4
+ocd-division/country:us/state:mi/county:oceana/council_district:5,Oceana County Commissioner District 5
+ocd-division/country:us/state:mi/county:oceana/council_district:6,Oceana County Commissioner District 6
+ocd-division/country:us/state:mi/county:oceana/council_district:7,Oceana County Commissioner District 7
+ocd-division/country:us/state:mi/county:ogemaw/council_district:1,Ogemaw County Commissioner District 1
+ocd-division/country:us/state:mi/county:ogemaw/council_district:2,Ogemaw County Commissioner District 2
+ocd-division/country:us/state:mi/county:ogemaw/council_district:3,Ogemaw County Commissioner District 3
+ocd-division/country:us/state:mi/county:ogemaw/council_district:4,Ogemaw County Commissioner District 4
+ocd-division/country:us/state:mi/county:ogemaw/council_district:5,Ogemaw County Commissioner District 5
+ocd-division/country:us/state:mi/county:ontonagon/council_district:1,Ontonagon County Commissioner District 1
+ocd-division/country:us/state:mi/county:ontonagon/council_district:2,Ontonagon County Commissioner District 2
+ocd-division/country:us/state:mi/county:ontonagon/council_district:3,Ontonagon County Commissioner District 3
+ocd-division/country:us/state:mi/county:ontonagon/council_district:4,Ontonagon County Commissioner District 4
+ocd-division/country:us/state:mi/county:ontonagon/council_district:5,Ontonagon County Commissioner District 5
+ocd-division/country:us/state:mi/county:osceola/council_district:1,Osceola County Commissioner District 1
+ocd-division/country:us/state:mi/county:osceola/council_district:2,Osceola County Commissioner District 2
+ocd-division/country:us/state:mi/county:osceola/council_district:3,Osceola County Commissioner District 3
+ocd-division/country:us/state:mi/county:osceola/council_district:4,Osceola County Commissioner District 4
+ocd-division/country:us/state:mi/county:osceola/council_district:5,Osceola County Commissioner District 5
+ocd-division/country:us/state:mi/county:osceola/council_district:6,Osceola County Commissioner District 6
+ocd-division/country:us/state:mi/county:osceola/council_district:7,Osceola County Commissioner District 7
+ocd-division/country:us/state:mi/county:oscoda/council_district:1,Oscoda County Commissioner District 1
+ocd-division/country:us/state:mi/county:oscoda/council_district:2,Oscoda County Commissioner District 2
+ocd-division/country:us/state:mi/county:oscoda/council_district:3,Oscoda County Commissioner District 3
+ocd-division/country:us/state:mi/county:oscoda/council_district:4,Oscoda County Commissioner District 4
+ocd-division/country:us/state:mi/county:oscoda/council_district:5,Oscoda County Commissioner District 5
+ocd-division/country:us/state:mi/county:otsego/council_district:1,Otsego County Commissioner District 1
+ocd-division/country:us/state:mi/county:otsego/council_district:2,Otsego County Commissioner District 2
+ocd-division/country:us/state:mi/county:otsego/council_district:3,Otsego County Commissioner District 3
+ocd-division/country:us/state:mi/county:otsego/council_district:4,Otsego County Commissioner District 4
+ocd-division/country:us/state:mi/county:otsego/council_district:5,Otsego County Commissioner District 5
+ocd-division/country:us/state:mi/county:otsego/council_district:6,Otsego County Commissioner District 6
+ocd-division/country:us/state:mi/county:otsego/council_district:7,Otsego County Commissioner District 7
+ocd-division/country:us/state:mi/county:otsego/council_district:8,Otsego County Commissioner District 8
+ocd-division/country:us/state:mi/county:otsego/council_district:9,Otsego County Commissioner District 9
+ocd-division/country:us/state:mi/county:ottawa/council_district:1,Ottawa County Commissioner District 1
+ocd-division/country:us/state:mi/county:ottawa/council_district:2,Ottawa County Commissioner District 2
+ocd-division/country:us/state:mi/county:ottawa/council_district:3,Ottawa County Commissioner District 3
+ocd-division/country:us/state:mi/county:ottawa/council_district:4,Ottawa County Commissioner District 4
+ocd-division/country:us/state:mi/county:ottawa/council_district:5,Ottawa County Commissioner District 5
+ocd-division/country:us/state:mi/county:ottawa/council_district:6,Ottawa County Commissioner District 6
+ocd-division/country:us/state:mi/county:ottawa/council_district:7,Ottawa County Commissioner District 7
+ocd-division/country:us/state:mi/county:ottawa/council_district:8,Ottawa County Commissioner District 8
+ocd-division/country:us/state:mi/county:ottawa/council_district:9,Ottawa County Commissioner District 9
+ocd-division/country:us/state:mi/county:ottawa/council_district:10,Ottawa County Commissioner District 10
+ocd-division/country:us/state:mi/county:ottawa/council_district:11,Ottawa County Commissioner District 11
+ocd-division/country:us/state:mi/county:presque_isle/council_district:1,Presque Isle County Commissioner District 1
+ocd-division/country:us/state:mi/county:presque_isle/council_district:2,Presque Isle County Commissioner District 2
+ocd-division/country:us/state:mi/county:presque_isle/council_district:3,Presque Isle County Commissioner District 3
+ocd-division/country:us/state:mi/county:presque_isle/council_district:4,Presque Isle County Commissioner District 4
+ocd-division/country:us/state:mi/county:presque_isle/council_district:5,Presque Isle County Commissioner District 5
+ocd-division/country:us/state:mi/county:roscommon/council_district:1,Roscommon County Commissioner District 1
+ocd-division/country:us/state:mi/county:roscommon/council_district:2,Roscommon County Commissioner District 2
+ocd-division/country:us/state:mi/county:roscommon/council_district:3,Roscommon County Commissioner District 3
+ocd-division/country:us/state:mi/county:roscommon/council_district:4,Roscommon County Commissioner District 4
+ocd-division/country:us/state:mi/county:roscommon/council_district:5,Roscommon County Commissioner District 5
+ocd-division/country:us/state:mi/county:saginaw/council_district:1,Saginaw County Commissioner District 1
+ocd-division/country:us/state:mi/county:saginaw/council_district:2,Saginaw County Commissioner District 2
+ocd-division/country:us/state:mi/county:saginaw/council_district:3,Saginaw County Commissioner District 3
+ocd-division/country:us/state:mi/county:saginaw/council_district:4,Saginaw County Commissioner District 4
+ocd-division/country:us/state:mi/county:saginaw/council_district:5,Saginaw County Commissioner District 5
+ocd-division/country:us/state:mi/county:saginaw/council_district:6,Saginaw County Commissioner District 6
+ocd-division/country:us/state:mi/county:saginaw/council_district:7,Saginaw County Commissioner District 7
+ocd-division/country:us/state:mi/county:saginaw/council_district:8,Saginaw County Commissioner District 8
+ocd-division/country:us/state:mi/county:saginaw/council_district:9,Saginaw County Commissioner District 9
+ocd-division/country:us/state:mi/county:saginaw/council_district:10,Saginaw County Commissioner District 10
+ocd-division/country:us/state:mi/county:saginaw/council_district:11,Saginaw County Commissioner District 11
+ocd-division/country:us/state:mi/county:sanilac/council_district:1,Sanilac County Commissioner District 1
+ocd-division/country:us/state:mi/county:sanilac/council_district:2,Sanilac County Commissioner District 2
+ocd-division/country:us/state:mi/county:sanilac/council_district:3,Sanilac County Commissioner District 3
+ocd-division/country:us/state:mi/county:sanilac/council_district:4,Sanilac County Commissioner District 4
+ocd-division/country:us/state:mi/county:sanilac/council_district:5,Sanilac County Commissioner District 5
+ocd-division/country:us/state:mi/county:schoolcraft/council_district:1,Schoolcraft County Commissioner District 1
+ocd-division/country:us/state:mi/county:schoolcraft/council_district:2,Schoolcraft County Commissioner District 2
+ocd-division/country:us/state:mi/county:schoolcraft/council_district:3,Schoolcraft County Commissioner District 3
+ocd-division/country:us/state:mi/county:schoolcraft/council_district:4,Schoolcraft County Commissioner District 4
+ocd-division/country:us/state:mi/county:schoolcraft/council_district:5,Schoolcraft County Commissioner District 5
+ocd-division/country:us/state:mi/county:shiawassee/council_district:1,Shiawassee County Commissioner District 1
+ocd-division/country:us/state:mi/county:shiawassee/council_district:2,Shiawassee County Commissioner District 2
+ocd-division/country:us/state:mi/county:shiawassee/council_district:3,Shiawassee County Commissioner District 3
+ocd-division/country:us/state:mi/county:shiawassee/council_district:4,Shiawassee County Commissioner District 4
+ocd-division/country:us/state:mi/county:shiawassee/council_district:5,Shiawassee County Commissioner District 5
+ocd-division/country:us/state:mi/county:shiawassee/council_district:6,Shiawassee County Commissioner District 6
+ocd-division/country:us/state:mi/county:shiawassee/council_district:7,Shiawassee County Commissioner District 7
+ocd-division/country:us/state:mi/county:st_clair/council_district:1,St. Clair County Commissioner District 1
+ocd-division/country:us/state:mi/county:st_clair/council_district:2,St. Clair County Commissioner District 2
+ocd-division/country:us/state:mi/county:st_clair/council_district:3,St. Clair County Commissioner District 3
+ocd-division/country:us/state:mi/county:st_clair/council_district:4,St. Clair County Commissioner District 4
+ocd-division/country:us/state:mi/county:st_clair/council_district:5,St. Clair County Commissioner District 5
+ocd-division/country:us/state:mi/county:st_clair/council_district:6,St. Clair County Commissioner District 6
+ocd-division/country:us/state:mi/county:st_clair/council_district:7,St. Clair County Commissioner District 7
+ocd-division/country:us/state:mi/county:st_joseph/council_district:1,St. Joseph County Commissioner District 1
+ocd-division/country:us/state:mi/county:st_joseph/council_district:2,St. Joseph County Commissioner District 2
+ocd-division/country:us/state:mi/county:st_joseph/council_district:3,St. Joseph County Commissioner District 3
+ocd-division/country:us/state:mi/county:st_joseph/council_district:4,St. Joseph County Commissioner District 4
+ocd-division/country:us/state:mi/county:st_joseph/council_district:5,St. Joseph County Commissioner District 5
+ocd-division/country:us/state:mi/county:tuscola/council_district:1,Tuscola County Commissioner District 1
+ocd-division/country:us/state:mi/county:tuscola/council_district:2,Tuscola County Commissioner District 2
+ocd-division/country:us/state:mi/county:tuscola/council_district:3,Tuscola County Commissioner District 3
+ocd-division/country:us/state:mi/county:tuscola/council_district:4,Tuscola County Commissioner District 4
+ocd-division/country:us/state:mi/county:tuscola/council_district:5,Tuscola County Commissioner District 5
+ocd-division/country:us/state:mi/county:van_buren/council_district:1,Van Buren County Commissioner District 1
+ocd-division/country:us/state:mi/county:van_buren/council_district:2,Van Buren County Commissioner District 2
+ocd-division/country:us/state:mi/county:van_buren/council_district:3,Van Buren County Commissioner District 3
+ocd-division/country:us/state:mi/county:van_buren/council_district:4,Van Buren County Commissioner District 4
+ocd-division/country:us/state:mi/county:van_buren/council_district:5,Van Buren County Commissioner District 5
+ocd-division/country:us/state:mi/county:van_buren/council_district:6,Van Buren County Commissioner District 6
+ocd-division/country:us/state:mi/county:van_buren/council_district:7,Van Buren County Commissioner District 7
 ocd-division/country:us/state:mi/county:washtenaw/council_district:1,Washtenaw County MI Board of Commissioners District 1
 ocd-division/country:us/state:mi/county:washtenaw/council_district:2,Washtenaw County MI Board of Commissioners District 2
 ocd-division/country:us/state:mi/county:washtenaw/council_district:3,Washtenaw County MI Board of Commissioners District 3
@@ -74,6 +612,15 @@ ocd-division/country:us/state:mi/county:wayne/council_district:12,Wayne County M
 ocd-division/country:us/state:mi/county:wayne/council_district:13,Wayne County MI County Commission District 13
 ocd-division/country:us/state:mi/county:wayne/council_district:14,Wayne County MI County Commission District 14
 ocd-division/country:us/state:mi/county:wayne/council_district:15,Wayne County MI County Commission District 15
+ocd-division/country:us/state:mi/county:wexford/council_district:1,Wexford County Commissioner District 1
+ocd-division/country:us/state:mi/county:wexford/council_district:2,Wexford County Commissioner District 2
+ocd-division/country:us/state:mi/county:wexford/council_district:3,Wexford County Commissioner District 3
+ocd-division/country:us/state:mi/county:wexford/council_district:4,Wexford County Commissioner District 4
+ocd-division/country:us/state:mi/county:wexford/council_district:5,Wexford County Commissioner District 5
+ocd-division/country:us/state:mi/county:wexford/council_district:6,Wexford County Commissioner District 6
+ocd-division/country:us/state:mi/county:wexford/council_district:7,Wexford County Commissioner District 7
+ocd-division/country:us/state:mi/county:wexford/council_district:8,Wexford County Commissioner District 8
+ocd-division/country:us/state:mi/county:wexford/council_district:9,Wexford County Commissioner District 9
 ocd-division/country:us/state:mi/place:detroit/ward:1,Detroit City MI City Ward 1
 ocd-division/country:us/state:mi/place:detroit/ward:2,Detroit City MI City Ward 2
 ocd-division/country:us/state:mi/place:detroit/ward:3,Detroit City MI City Ward 3
@@ -96,3 +643,12 @@ ocd-division/country:us/state:mi/place:detroit/ward:19,Detroit City MI City Ward
 ocd-division/country:us/state:mi/place:detroit/ward:20,Detroit City MI City Ward 20
 ocd-division/country:us/state:mi/place:detroit/ward:21,Detroit City MI City Ward 21
 ocd-division/country:us/state:mi/place:detroit/ward:22,Detroit City MI City Ward 22
+ocd-division/country:us/state:mi/place:flint/ward:1,Flint MI City Council ward 1
+ocd-division/country:us/state:mi/place:flint/ward:2,Flint MI City Council ward 2
+ocd-division/country:us/state:mi/place:flint/ward:3,Flint MI City Council ward 3
+ocd-division/country:us/state:mi/place:flint/ward:4,Flint MI City Council ward 4
+ocd-division/country:us/state:mi/place:flint/ward:5,Flint MI City Council ward 5
+ocd-division/country:us/state:mi/place:flint/ward:6,Flint MI City Council ward 6
+ocd-division/country:us/state:mi/place:flint/ward:7,Flint MI City Council ward 7
+ocd-division/country:us/state:mi/place:flint/ward:8,Flint MI City Council ward 8
+ocd-division/country:us/state:mi/place:flint/ward:9,Flint MI City Council ward 9
