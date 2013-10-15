@@ -1,9 +1,11 @@
 ocd-division/country:us/state:in/county:marion/place:indianapolis,Indianapolis has a consolidated government with Marion county but still has well defined borders within the county
 ocd-division/country:us/state:ct/place:milford,contains Woodmont (which is independent) so scraper was confused
 ocd-division/country:us/state:ga/place:athens,consolidated with Clarke county but Winterville is independent so Athens has a distinct border
+ocd-division/country:us/state:ga/place:augusta,nearly coterminous with Richmond county except for the cities of Hephzibah and Blythe
 ocd-division/country:us/state:ky/place:louisville,there are some unincorporated towns in Jefferson county that are often not included in Louisville population totals. Users are advised that the county:jefferson identifier is better for any government stats
 ocd-division/country:us/state:mt/place:butte,nearly coterminous with Silver Bow county except for the town of Walkerville
 ocd-division/country:us/state:tn/place:nashville,there are some unincoporporated towns in Davidson county that are often not included in Nashville population totals. Users are advised that the county:davidson identifier is better for any government stats
 ocd-division/country:us/state:mn/place:st_anthony,cross-county city(town) so the census scraper misses the unifying city(town) identifier
 ocd-division/country:us/state:tx/place:lakeside,cross-county city(town) so the census scraper misses the unifying city(town) identifier
 ocd-division/country:us/state:tx/place:oak_ridge,cross-county city(town) so the census scraper misses the unifying city(town) identifier
+
