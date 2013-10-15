@@ -1,13 +1,6 @@
-ocd-division/country:us/state:nv/place:las_vegas/ward:1,Las Vegas NV - ward 1
-ocd-division/country:us/state:nv/place:las_vegas/ward:2,Las Vegas NV - ward 2
-ocd-division/country:us/state:nv/place:las_vegas/ward:3,Las Vegas NV - ward 3
-ocd-division/country:us/state:nv/place:las_vegas/ward:4,Las Vegas NV - ward 4
-ocd-division/country:us/state:nv/place:las_vegas/ward:5,Las Vegas NV - ward 5
-ocd-division/country:us/state:nv/place:las_vegas/ward:6,Las Vegas NV - ward 6
-ocd-division/country:us/state:nv/place:henderson/ward:1,Henderson NV City Council ward I (1)
-ocd-division/country:us/state:nv/place:henderson/ward:2,Henderson NV City Council ward II (2)
-ocd-division/country:us/state:nv/place:henderson/ward:3,Henderson NV City Council ward III (3)
-ocd-division/country:us/state:nv/place:henderson/ward:4,Henderson NV City Council ward IV (4)
+ocd-division/country:us/state:nv/county:churchill/council_district:1,Churchill District 1
+ocd-division/country:us/state:nv/county:churchill/council_district:2,Churchill District 2
+ocd-division/country:us/state:nv/county:churchill/council_district:3,Churchill District 3
 ocd-division/country:us/state:nv/county:clark/council_district:a,Clark County NV - County Council district A
 ocd-division/country:us/state:nv/county:clark/council_district:b,Clark County NV - County Council district B
 ocd-division/country:us/state:nv/county:clark/council_district:c,Clark County NV - County Council district C
@@ -15,3 +8,53 @@ ocd-division/country:us/state:nv/county:clark/council_district:d,Clark County NV
 ocd-division/country:us/state:nv/county:clark/council_district:e,Clark County NV - County Council district E
 ocd-division/country:us/state:nv/county:clark/council_district:f,Clark County NV - County Council district F
 ocd-division/country:us/state:nv/county:clark/council_district:g,Clark County NV - County Council district G
+ocd-division/country:us/state:nv/county:douglas/council_district:1,Douglas District 1
+ocd-division/country:us/state:nv/county:douglas/council_district:2,Douglas District 2
+ocd-division/country:us/state:nv/county:douglas/council_district:3,Douglas District 3
+ocd-division/country:us/state:nv/county:douglas/council_district:4,Douglas District 4
+ocd-division/country:us/state:nv/county:douglas/council_district:5,Douglas District 5
+ocd-division/country:us/state:nv/county:elko/council_district:1,Elko District 1
+ocd-division/country:us/state:nv/county:elko/council_district:2,Elko District 2
+ocd-division/country:us/state:nv/county:elko/council_district:3,Elko District 3
+ocd-division/country:us/state:nv/county:elko/council_district:4,Elko District 4
+ocd-division/country:us/state:nv/county:elko/council_district:5,Elko District 5
+ocd-division/country:us/state:nv/county:esmeralda/council_district:1,Esmeralda District 1
+ocd-division/country:us/state:nv/county:esmeralda/council_district:2,Esmeralda District 2
+ocd-division/country:us/state:nv/county:esmeralda/council_district:3,Esmeralda District 3
+ocd-division/country:us/state:nv/county:lander/council_district:1,Lander District 1
+ocd-division/country:us/state:nv/county:lander/council_district:2,Lander District 2
+ocd-division/country:us/state:nv/county:lander/council_district:3,Lander District 3
+ocd-division/country:us/state:nv/county:lander/council_district:4,Lander District 4
+ocd-division/country:us/state:nv/county:lander/council_district:5,Lander District 5
+ocd-division/country:us/state:nv/county:lyon/council_district:1,Lyon District 1
+ocd-division/country:us/state:nv/county:lyon/council_district:2,Lyon District 2
+ocd-division/country:us/state:nv/county:lyon/council_district:3,Lyon District 3
+ocd-division/country:us/state:nv/county:lyon/council_district:4,Lyon District 4
+ocd-division/country:us/state:nv/county:lyon/council_district:5,Lyon District 5
+ocd-division/country:us/state:nv/county:nye/council_district:1,Nye District 1
+ocd-division/country:us/state:nv/county:nye/council_district:2,Nye District 2
+ocd-division/country:us/state:nv/county:nye/council_district:3,Nye District 3
+ocd-division/country:us/state:nv/county:nye/council_district:4,Nye District 4
+ocd-division/country:us/state:nv/county:nye/council_district:5,Nye District 5
+ocd-division/country:us/state:nv/county:storey/council_district:1,Storey District 1
+ocd-division/country:us/state:nv/county:storey/council_district:2,Storey District 2
+ocd-division/country:us/state:nv/county:storey/council_district:3,Storey District 3
+ocd-division/country:us/state:nv/county:washoe/council_district:1,Washoe District 1
+ocd-division/country:us/state:nv/county:washoe/council_district:2,Washoe District 2
+ocd-division/country:us/state:nv/county:washoe/council_district:3,Washoe District 3
+ocd-division/country:us/state:nv/county:washoe/council_district:4,Washoe District 4
+ocd-division/country:us/state:nv/county:washoe/council_district:5,Washoe District 5
+ocd-division/country:us/state:nv/place:carson_city/council_district:1,Carson City Ward 1
+ocd-division/country:us/state:nv/place:carson_city/council_district:2,Carson City Ward 2
+ocd-division/country:us/state:nv/place:carson_city/council_district:3,Carson City Ward 3
+ocd-division/country:us/state:nv/place:carson_city/council_district:4,Carson City Ward 4
+ocd-division/country:us/state:nv/place:henderson/ward:1,Henderson NV City Council ward I (1)
+ocd-division/country:us/state:nv/place:henderson/ward:2,Henderson NV City Council ward II (2)
+ocd-division/country:us/state:nv/place:henderson/ward:3,Henderson NV City Council ward III (3)
+ocd-division/country:us/state:nv/place:henderson/ward:4,Henderson NV City Council ward IV (4)
+ocd-division/country:us/state:nv/place:las_vegas/ward:1,Las Vegas NV - ward 1
+ocd-division/country:us/state:nv/place:las_vegas/ward:2,Las Vegas NV - ward 2
+ocd-division/country:us/state:nv/place:las_vegas/ward:3,Las Vegas NV - ward 3
+ocd-division/country:us/state:nv/place:las_vegas/ward:4,Las Vegas NV - ward 4
+ocd-division/country:us/state:nv/place:las_vegas/ward:5,Las Vegas NV - ward 5
+ocd-division/country:us/state:nv/place:las_vegas/ward:6,Las Vegas NV - ward 6
