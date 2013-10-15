@@ -1,10 +1,12 @@
-ocd-division/country:us/state:or/region:oregon_metro,Oregon Metro regional government division
-ocd-division/country:us/state:or/region:oregon_metro/council_district:1,Oregon Metro council district 1
-ocd-division/country:us/state:or/region:oregon_metro/council_district:2,Oregon Metro council district 2
-ocd-division/country:us/state:or/region:oregon_metro/council_district:3,Oregon Metro council district 3
-ocd-division/country:us/state:or/region:oregon_metro/council_district:4,Oregon Metro council district 4
-ocd-division/country:us/state:or/region:oregon_metro/council_district:5,Oregon Metro council district 5
-ocd-division/country:us/state:or/region:oregon_metro/council_district:6,Oregon Metro council district 6
+ocd-division/country:us/state:or/county:clatsop/council_district:1,Clatsop County District 1
+ocd-division/country:us/state:or/county:clatsop/council_district:2,Clatsop County District 2
+ocd-division/country:us/state:or/county:clatsop/council_district:3,Clatsop County District 3
+ocd-division/country:us/state:or/county:clatsop/council_district:4,Clatsop County District 4
+ocd-division/country:us/state:or/county:clatsop/council_district:5,Clatsop County District 5
+ocd-division/country:us/state:or/county:hood_river/council_district:1,Hood River County District 1
+ocd-division/country:us/state:or/county:hood_river/council_district:2,Hood River County District 2
+ocd-division/country:us/state:or/county:hood_river/council_district:3,Hood River County District 3
+ocd-division/country:us/state:or/county:hood_river/council_district:4,Hood River County District 4
 ocd-division/country:us/state:or/county:lane/council_district:1,Lane County OR Board of County Commissioners District 1
 ocd-division/country:us/state:or/county:lane/council_district:2,Lane County OR Board of County Commissioners District 2
 ocd-division/country:us/state:or/county:lane/council_district:3,Lane County OR Board of County Commissioners District 3
@@ -26,3 +28,10 @@ ocd-division/country:us/state:or/place:eugene/ward:5,Eugene OR Ward 5
 ocd-division/country:us/state:or/place:eugene/ward:6,Eugene OR Ward 6
 ocd-division/country:us/state:or/place:eugene/ward:7,Eugene OR Ward 7
 ocd-division/country:us/state:or/place:eugene/ward:8,Eugene OR Ward 8
+ocd-division/country:us/state:or/region:oregon_metro,Oregon Metro regional government division
+ocd-division/country:us/state:or/region:oregon_metro/council_district:1,Oregon Metro council district 1
+ocd-division/country:us/state:or/region:oregon_metro/council_district:2,Oregon Metro council district 2
+ocd-division/country:us/state:or/region:oregon_metro/council_district:3,Oregon Metro council district 3
+ocd-division/country:us/state:or/region:oregon_metro/council_district:4,Oregon Metro council district 4
+ocd-division/country:us/state:or/region:oregon_metro/council_district:5,Oregon Metro council district 5
+ocd-division/country:us/state:or/region:oregon_metro/council_district:6,Oregon Metro council district 6

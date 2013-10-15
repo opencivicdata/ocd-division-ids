@@ -1,15 +1,10 @@
-ocd-division/country:us/state:de/place:wilmington/council_district:1,Wilmington DE city council district 1
-ocd-division/country:us/state:de/place:wilmington/council_district:2,Wilmington DE city council district 2
-ocd-division/country:us/state:de/place:wilmington/council_district:3,Wilmington DE city council district 3
-ocd-division/country:us/state:de/place:wilmington/council_district:4,Wilmington DE city council district 4
-ocd-division/country:us/state:de/place:wilmington/council_district:5,Wilmington DE city council district 5
-ocd-division/country:us/state:de/place:wilmington/council_district:6,Wilmington DE city council district 6
-ocd-division/country:us/state:de/place:wilmington/council_district:7,Wilmington DE city council district 7
-ocd-division/country:us/state:de/place:wilmington/council_district:8,Wilmington DE city council district 8
+ocd-division/country:us/state:de/county:kent/council_district:1,Kent County District 1
+ocd-division/country:us/state:de/county:kent/council_district:2,Kent County District 2
+ocd-division/country:us/state:de/county:kent/council_district:3,Kent County District 3
+ocd-division/country:us/state:de/county:kent/council_district:4,Kent County District 4
+ocd-division/country:us/state:de/county:kent/council_district:5,Kent County District 5
+ocd-division/country:us/state:de/county:kent/council_district:6,Kent County District 6
 ocd-division/country:us/state:de/county:new_castle/council_district:1,New Castle DE County Council District 1
-ocd-division/country:us/state:de/county:new_castle/council_district:10,New Castle DE County Council District 10
-ocd-division/country:us/state:de/county:new_castle/council_district:11,New Castle DE County Council District 11
-ocd-division/country:us/state:de/county:new_castle/council_district:12,New Castle DE County Council District 12
 ocd-division/country:us/state:de/county:new_castle/council_district:2,New Castle DE County Council District 2
 ocd-division/country:us/state:de/county:new_castle/council_district:3,New Castle DE County Council District 3
 ocd-division/country:us/state:de/county:new_castle/council_district:4,New Castle DE County Council District 4
@@ -18,3 +13,19 @@ ocd-division/country:us/state:de/county:new_castle/council_district:6,New Castle
 ocd-division/country:us/state:de/county:new_castle/council_district:7,New Castle DE County Council District 7
 ocd-division/country:us/state:de/county:new_castle/council_district:8,New Castle DE County Council District 8
 ocd-division/country:us/state:de/county:new_castle/council_district:9,New Castle DE County Council District 9
+ocd-division/country:us/state:de/county:new_castle/council_district:10,New Castle DE County Council District 10
+ocd-division/country:us/state:de/county:new_castle/council_district:11,New Castle DE County Council District 11
+ocd-division/country:us/state:de/county:new_castle/council_district:12,New Castle DE County Council District 12
+ocd-division/country:us/state:de/county:sussex/council_district:1,Sussex County District 1
+ocd-division/country:us/state:de/county:sussex/council_district:2,Sussex County District 2
+ocd-division/country:us/state:de/county:sussex/council_district:3,Sussex County District 3
+ocd-division/country:us/state:de/county:sussex/council_district:4,Sussex County District 4
+ocd-division/country:us/state:de/county:sussex/council_district:5,Sussex County District 5
+ocd-division/country:us/state:de/place:wilmington/council_district:1,Wilmington DE city council district 1
+ocd-division/country:us/state:de/place:wilmington/council_district:2,Wilmington DE city council district 2
+ocd-division/country:us/state:de/place:wilmington/council_district:3,Wilmington DE city council district 3
+ocd-division/country:us/state:de/place:wilmington/council_district:4,Wilmington DE city council district 4
+ocd-division/country:us/state:de/place:wilmington/council_district:5,Wilmington DE city council district 5
+ocd-division/country:us/state:de/place:wilmington/council_district:6,Wilmington DE city council district 6
+ocd-division/country:us/state:de/place:wilmington/council_district:7,Wilmington DE city council district 7
+ocd-division/country:us/state:de/place:wilmington/council_district:8,Wilmington DE city council district 8
