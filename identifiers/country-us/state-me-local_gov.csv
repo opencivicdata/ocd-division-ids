@@ -1,21 +1,56 @@
-ocd-division/country:us/state:me/place:portland/council_district:1,Portland ME city council district 1
-ocd-division/country:us/state:me/place:portland/council_district:2,Portland ME city council district 2
-ocd-division/country:us/state:me/place:portland/council_district:3,Portland ME city council district 3
-ocd-division/country:us/state:me/place:portland/council_district:4,Portland ME city council district 4
-ocd-division/country:us/state:me/place:portland/council_district:5,Portland ME city council district 5
+ocd-division/country:us/state:me/county:androscoggin/council_district:1,Androscoggin County Commissioner District 1
+ocd-division/country:us/state:me/county:androscoggin/council_district:2,Androscoggin County Commissioner District 2
+ocd-division/country:us/state:me/county:androscoggin/council_district:3,Androscoggin County Commissioner District 3
+ocd-division/country:us/state:me/county:aroostook/council_district:1,Aroostook County Commissioner District 1
+ocd-division/country:us/state:me/county:aroostook/council_district:2,Aroostook County Commissioner District 2
+ocd-division/country:us/state:me/county:aroostook/council_district:3,Aroostook County Commissioner District 3
 ocd-division/country:us/state:me/county:cumberland/council_district:1,Cumberland County ME Commissioner District 1
 ocd-division/country:us/state:me/county:cumberland/council_district:2,Cumberland County ME Commissioner District 2
 ocd-division/country:us/state:me/county:cumberland/council_district:3,Cumberland County ME Commissioner District 3
 ocd-division/country:us/state:me/county:cumberland/council_district:4,Cumberland County ME Commissioner District 4
 ocd-division/country:us/state:me/county:cumberland/council_district:5,Cumberland County ME Commissioner District 5
+ocd-division/country:us/state:me/county:hancock/council_district:1,Hancock County Commissioner District 1
+ocd-division/country:us/state:me/county:hancock/council_district:2,Hancock County Commissioner District 2
+ocd-division/country:us/state:me/county:hancock/council_district:3,Hancock County Commissioner District 3
 ocd-division/country:us/state:me/county:kennebec/council_district:1,Kennebec County ME Commissioner District 1
 ocd-division/country:us/state:me/county:kennebec/council_district:2,Kennebec County ME Commissioner District 2
 ocd-division/country:us/state:me/county:kennebec/council_district:3,Kennebec County ME Commissioner District 3
+ocd-division/country:us/state:me/county:knox/council_district:1,Knox County Commissioner District 1
+ocd-division/country:us/state:me/county:knox/council_district:2,Knox County Commissioner District 2
+ocd-division/country:us/state:me/county:knox/council_district:3,Knox County Commissioner District 3
+ocd-division/country:us/state:me/county:lincoln/council_district:1,Lincoln County Commissioner District 1
+ocd-division/country:us/state:me/county:lincoln/council_district:2,Lincoln County Commissioner District 2
+ocd-division/country:us/state:me/county:lincoln/council_district:3,Lincoln County Commissioner District 3
+ocd-division/country:us/state:me/county:oxford/council_district:1,Oxford County Commissioner District 1
+ocd-division/country:us/state:me/county:oxford/council_district:2,Oxford County Commissioner District 2
+ocd-division/country:us/state:me/county:oxford/council_district:3,Oxford County Commissioner District 3
 ocd-division/country:us/state:me/county:penobscot/council_district:1,Penobscot County ME Commissioner District 1
 ocd-division/country:us/state:me/county:penobscot/council_district:2,Penobscot County ME Commissioner District 2
 ocd-division/country:us/state:me/county:penobscot/council_district:3,Penobscot County ME Commissioner District 3
+ocd-division/country:us/state:me/county:piscataquis/council_district:1,Piscataquis County Commissioner District 1
+ocd-division/country:us/state:me/county:piscataquis/council_district:2,Piscataquis County Commissioner District 2
+ocd-division/country:us/state:me/county:piscataquis/council_district:3,Piscataquis County Commissioner District 3
+ocd-division/country:us/state:me/county:sagadahoc/council_district:1,Sagadahoc County Commissioner District 1
+ocd-division/country:us/state:me/county:sagadahoc/council_district:2,Sagadahoc County Commissioner District 2
+ocd-division/country:us/state:me/county:sagadahoc/council_district:3,Sagadahoc County Commissioner District 3
+ocd-division/country:us/state:me/county:somerset/council_district:1,Somerset County Commissioner District 1
+ocd-division/country:us/state:me/county:somerset/council_district:2,Somerset County Commissioner District 2
+ocd-division/country:us/state:me/county:somerset/council_district:3,Somerset County Commissioner District 3
+ocd-division/country:us/state:me/county:somerset/council_district:4,Somerset County Commissioner District 4
+ocd-division/country:us/state:me/county:somerset/council_district:5,Somerset County Commissioner District 5
+ocd-division/country:us/state:me/county:waldo/council_district:1,Waldo County Commissioner District 1
+ocd-division/country:us/state:me/county:waldo/council_district:2,Waldo County Commissioner District 2
+ocd-division/country:us/state:me/county:waldo/council_district:3,Waldo County Commissioner District 3
+ocd-division/country:us/state:me/county:washington/council_district:1,Washington County Commissioner District 1
+ocd-division/country:us/state:me/county:washington/council_district:2,Washington County Commissioner District 2
+ocd-division/country:us/state:me/county:washington/council_district:3,Washington County Commissioner District 3
 ocd-division/country:us/state:me/county:york/council_district:1,York County ME Commissioner District 1
 ocd-division/country:us/state:me/county:york/council_district:2,York County ME Commissioner District 2
 ocd-division/country:us/state:me/county:york/council_district:3,York County ME Commissioner District 3
 ocd-division/country:us/state:me/county:york/council_district:4,York County ME Commissioner District 4
 ocd-division/country:us/state:me/county:york/council_district:5,York County ME Commissioner District 5
+ocd-division/country:us/state:me/place:portland/council_district:1,Portland ME city council district 1
+ocd-division/country:us/state:me/place:portland/council_district:2,Portland ME city council district 2
+ocd-division/country:us/state:me/place:portland/council_district:3,Portland ME city council district 3
+ocd-division/country:us/state:me/place:portland/council_district:4,Portland ME city council district 4
+ocd-division/country:us/state:me/place:portland/council_district:5,Portland ME city council district 5
