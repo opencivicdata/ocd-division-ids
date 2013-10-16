@@ -1,28 +1,41 @@
-ocd-division/country:us/state:az/place:phoenix/council_district:1,Phoenix AZ city council district 1
-ocd-division/country:us/state:az/place:phoenix/council_district:2,Phoenix AZ city council district 2
-ocd-division/country:us/state:az/place:phoenix/council_district:3,Phoenix AZ city council district 3
-ocd-division/country:us/state:az/place:phoenix/council_district:4,Phoenix AZ city council district 4
-ocd-division/country:us/state:az/place:phoenix/council_district:5,Phoenix AZ city council district 5
-ocd-division/country:us/state:az/place:phoenix/council_district:6,Phoenix AZ city council district 6
-ocd-division/country:us/state:az/place:phoenix/council_district:7,Phoenix AZ city council district 7
-ocd-division/country:us/state:az/place:phoenix/council_district:8,Phoenix AZ city council district 8
-ocd-division/country:us/state:az/place:mesa/council_district:1,Mesa AZ City Council district 1
-ocd-division/country:us/state:az/place:mesa/council_district:2,Mesa AZ City Council district 2
-ocd-division/country:us/state:az/place:mesa/council_district:3,Mesa AZ City Council district 3
-ocd-division/country:us/state:az/place:mesa/council_district:4,Mesa AZ City Council district 4
-ocd-division/country:us/state:az/place:mesa/council_district:5,Mesa AZ City Council district 5
-ocd-division/country:us/state:az/place:mesa/council_district:6,Mesa AZ City Council district 6
-ocd-division/country:us/state:az/place:tucson/ward:1,Tucson AZ City Council ward 1
-ocd-division/country:us/state:az/place:tucson/ward:2,Tucson AZ City Council ward 2
-ocd-division/country:us/state:az/place:tucson/ward:3,Tucson AZ City Council ward 3
-ocd-division/country:us/state:az/place:tucson/ward:4,Tucson AZ City Council ward 4
-ocd-division/country:us/state:az/place:tucson/ward:5,Tucson AZ City Council ward 5
-ocd-division/country:us/state:az/place:tucson/ward:6,Tucson AZ City Council ward 6
+ocd-division/country:us/state:az/county:apache/council_district:1,Apache County Supervisor District 1
+ocd-division/country:us/state:az/county:apache/council_district:2,Apache County Supervisor District 2
+ocd-division/country:us/state:az/county:apache/council_district:3,Apache County Supervisor District 3
+ocd-division/country:us/state:az/county:cochise/council_district:1,Cochise County Supervisor District 1
+ocd-division/country:us/state:az/county:cochise/council_district:2,Cochise County Supervisor District 2
+ocd-division/country:us/state:az/county:cochise/council_district:3,Cochise County Supervisor District 3
+ocd-division/country:us/state:az/county:coconino/council_district:1,Coconino County Supervisor District 1
+ocd-division/country:us/state:az/county:coconino/council_district:2,Coconino County Supervisor District 2
+ocd-division/country:us/state:az/county:coconino/council_district:3,Coconino County Supervisor District 3
+ocd-division/country:us/state:az/county:coconino/council_district:4,Coconino County Supervisor District 4
+ocd-division/country:us/state:az/county:coconino/council_district:5,Coconino County Supervisor District 5
+ocd-division/country:us/state:az/county:gila/council_district:1,Gila County Supervisor District 1
+ocd-division/country:us/state:az/county:gila/council_district:2,Gila County Supervisor District 2
+ocd-division/country:us/state:az/county:gila/council_district:3,Gila County Supervisor District 3
+ocd-division/country:us/state:az/county:graham/council_district:1,Graham County Supervisor District 1
+ocd-division/country:us/state:az/county:graham/council_district:2,Graham County Supervisor District 2
+ocd-division/country:us/state:az/county:graham/council_district:3,Graham County Supervisor District 3
+ocd-division/country:us/state:az/county:greenlee/council_district:1,Greenlee County Supervisor District 1
+ocd-division/country:us/state:az/county:greenlee/council_district:2,Greenlee County Supervisor District 2
+ocd-division/country:us/state:az/county:greenlee/council_district:3,Greenlee County Supervisor District 3
+ocd-division/country:us/state:az/county:la_paz/council_district:1,La Paz County Supervisor District 1
+ocd-division/country:us/state:az/county:la_paz/council_district:2,La Paz County Supervisor District 2
+ocd-division/country:us/state:az/county:la_paz/council_district:3,La Paz County Supervisor District 3
 ocd-division/country:us/state:az/county:maricopa/council_district:1,Maricopa County AZ Board of Supervisors District 1
 ocd-division/country:us/state:az/county:maricopa/council_district:2,Maricopa County AZ Board of Supervisors District 2
 ocd-division/country:us/state:az/county:maricopa/council_district:3,Maricopa County AZ Board of Supervisors District 3
 ocd-division/country:us/state:az/county:maricopa/council_district:4,Maricopa County AZ Board of Supervisors District 4
 ocd-division/country:us/state:az/county:maricopa/council_district:5,Maricopa County AZ Board of Supervisors District 5
+ocd-division/country:us/state:az/county:mohave/council_district:1,Mohave County Supervisor District 1
+ocd-division/country:us/state:az/county:mohave/council_district:2,Mohave County Supervisor District 2
+ocd-division/country:us/state:az/county:mohave/council_district:3,Mohave County Supervisor District 3
+ocd-division/country:us/state:az/county:mohave/council_district:4,Mohave County Supervisor District 4
+ocd-division/country:us/state:az/county:mohave/council_district:5,Mohave County Supervisor District 5
+ocd-division/country:us/state:az/county:navajo/council_district:1,Navajo County Supervisor District 1
+ocd-division/country:us/state:az/county:navajo/council_district:2,Navajo County Supervisor District 2
+ocd-division/country:us/state:az/county:navajo/council_district:3,Navajo County Supervisor District 3
+ocd-division/country:us/state:az/county:navajo/council_district:4,Navajo County Supervisor District 4
+ocd-division/country:us/state:az/county:navajo/council_district:5,Navajo County Supervisor District 5
 ocd-division/country:us/state:az/county:pima/council_district:1,Pima County AZ Board of Supervisors District 1
 ocd-division/country:us/state:az/county:pima/council_district:2,Pima County AZ Board of Supervisors District 2
 ocd-division/country:us/state:az/county:pima/council_district:3,Pima County AZ Board of Supervisors District 3
@@ -33,9 +46,42 @@ ocd-division/country:us/state:az/county:pinal/council_district:2,Pinal County AZ
 ocd-division/country:us/state:az/county:pinal/council_district:3,Pinal County AZ Board of Supervisors Distirct 3
 ocd-division/country:us/state:az/county:pinal/council_district:4,Pinal County AZ Board of Supervisors Distirct 4
 ocd-division/country:us/state:az/county:pinal/council_district:5,Pinal County AZ Board of Supervisors Distirct 5
+ocd-division/country:us/state:az/county:santa_cruz/council_district:1,Santa Cruz County Supervisor District 1
+ocd-division/country:us/state:az/county:santa_cruz/council_district:2,Santa Cruz County Supervisor District 2
+ocd-division/country:us/state:az/county:santa_cruz/council_district:3,Santa Cruz County Supervisor District 3
+ocd-division/country:us/state:az/county:yavapai/council_district:1,Yavapai County Supervisor District 1
+ocd-division/country:us/state:az/county:yavapai/council_district:2,Yavapai County Supervisor District 2
+ocd-division/country:us/state:az/county:yavapai/council_district:3,Yavapai County Supervisor District 3
+ocd-division/country:us/state:az/county:yavapai/council_district:4,Yavapai County Supervisor District 4
+ocd-division/country:us/state:az/county:yavapai/council_district:5,Yavapai County Supervisor District 5
+ocd-division/country:us/state:az/county:yuma/council_district:1,Yuma County Supervisor District 1
+ocd-division/country:us/state:az/county:yuma/council_district:2,Yuma County Supervisor District 2
+ocd-division/country:us/state:az/county:yuma/council_district:3,Yuma County Supervisor District 3
+ocd-division/country:us/state:az/county:yuma/council_district:4,Yuma County Supervisor District 4
+ocd-division/country:us/state:az/county:yuma/council_district:5,Yuma County Supervisor District 5
+ocd-division/country:us/state:az/place:mesa/council_district:1,Mesa AZ City Council district 1
+ocd-division/country:us/state:az/place:mesa/council_district:2,Mesa AZ City Council district 2
+ocd-division/country:us/state:az/place:mesa/council_district:3,Mesa AZ City Council district 3
+ocd-division/country:us/state:az/place:mesa/council_district:4,Mesa AZ City Council district 4
+ocd-division/country:us/state:az/place:mesa/council_district:5,Mesa AZ City Council district 5
+ocd-division/country:us/state:az/place:mesa/council_district:6,Mesa AZ City Council district 6
+ocd-division/country:us/state:az/place:phoenix/council_district:1,Phoenix AZ city council district 1
+ocd-division/country:us/state:az/place:phoenix/council_district:2,Phoenix AZ city council district 2
+ocd-division/country:us/state:az/place:phoenix/council_district:3,Phoenix AZ city council district 3
+ocd-division/country:us/state:az/place:phoenix/council_district:4,Phoenix AZ city council district 4
+ocd-division/country:us/state:az/place:phoenix/council_district:5,Phoenix AZ city council district 5
+ocd-division/country:us/state:az/place:phoenix/council_district:6,Phoenix AZ city council district 6
+ocd-division/country:us/state:az/place:phoenix/council_district:7,Phoenix AZ city council district 7
+ocd-division/country:us/state:az/place:phoenix/council_district:8,Phoenix AZ city council district 8
 ocd-division/country:us/state:az/place:tucson/council_district:1,Tucson AZ City Council District 1
 ocd-division/country:us/state:az/place:tucson/council_district:2,Tucson AZ City Council District 2
 ocd-division/country:us/state:az/place:tucson/council_district:3,Tucson AZ City Council District 3
 ocd-division/country:us/state:az/place:tucson/council_district:4,Tucson AZ City Council District 4
 ocd-division/country:us/state:az/place:tucson/council_district:5,Tucson AZ City Council District 5
 ocd-division/country:us/state:az/place:tucson/council_district:6,Tucson AZ City Council District 6
+ocd-division/country:us/state:az/place:tucson/ward:1,Tucson AZ City Council ward 1
+ocd-division/country:us/state:az/place:tucson/ward:2,Tucson AZ City Council ward 2
+ocd-division/country:us/state:az/place:tucson/ward:3,Tucson AZ City Council ward 3
+ocd-division/country:us/state:az/place:tucson/ward:4,Tucson AZ City Council ward 4
+ocd-division/country:us/state:az/place:tucson/ward:5,Tucson AZ City Council ward 5
+ocd-division/country:us/state:az/place:tucson/ward:6,Tucson AZ City Council ward 6
