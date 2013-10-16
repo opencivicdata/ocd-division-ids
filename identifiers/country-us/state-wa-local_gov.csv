@@ -1,14 +1,51 @@
-ocd-division/country:us/state:wa/place:spokane/council_district:1,Spokane WA City Council district 1
-ocd-division/country:us/state:wa/place:spokane/council_district:2,Spokane WA City Council district 2
-ocd-division/country:us/state:wa/place:spokane/council_district:3,Spokane WA City Council district 3
-ocd-division/country:us/state:wa/place:tacoma/council_district:1,Tacoma WA City Council district 1
-ocd-division/country:us/state:wa/place:tacoma/council_district:2,Tacoma WA City Council district 2
-ocd-division/country:us/state:wa/place:tacoma/council_district:3,Tacoma WA City Council district 3
-ocd-division/country:us/state:wa/place:tacoma/council_district:4,Tacoma WA City Council district 4
-ocd-division/country:us/state:wa/place:tacoma/council_district:5,Tacoma WA City Council district 5
+ocd-division/country:us/state:wa/county:adams/council_district:1,Adams County District 1
+ocd-division/country:us/state:wa/county:adams/council_district:2,Adams County District 2
+ocd-division/country:us/state:wa/county:adams/council_district:3,Adams County District 3
+ocd-division/country:us/state:wa/county:asotin/council_district:1,Asotin County District 1
+ocd-division/country:us/state:wa/county:asotin/council_district:2,Asotin County District 2
+ocd-division/country:us/state:wa/county:asotin/council_district:3,Asotin County District 3
+ocd-division/country:us/state:wa/county:benton/council_district:1,Benton County District 1
+ocd-division/country:us/state:wa/county:benton/council_district:2,Benton County District 2
+ocd-division/country:us/state:wa/county:benton/council_district:3,Benton County District 3
+ocd-division/country:us/state:wa/county:chelan/council_district:1,Chelan County District 1
+ocd-division/country:us/state:wa/county:chelan/council_district:2,Chelan County District 2
+ocd-division/country:us/state:wa/county:chelan/council_district:3,Chelan County District 3
+ocd-division/country:us/state:wa/county:clallam/council_district:1,Clallam County District 1
+ocd-division/country:us/state:wa/county:clallam/council_district:2,Clallam County District 2
+ocd-division/country:us/state:wa/county:clallam/council_district:3,Clallam County District 3
 ocd-division/country:us/state:wa/county:clark/council_district:1,Clark County WA County Commissioner District 1
 ocd-division/country:us/state:wa/county:clark/council_district:2,Clark County WA County Commissioner District 2
 ocd-division/country:us/state:wa/county:clark/council_district:3,Clark County WA County Commissioner District 3
+ocd-division/country:us/state:wa/county:columbia/council_district:1,Columbia County District 1
+ocd-division/country:us/state:wa/county:columbia/council_district:2,Columbia County District 2
+ocd-division/country:us/state:wa/county:columbia/council_district:3,Columbia County District 3
+ocd-division/country:us/state:wa/county:cowlitz/council_district:1,Cowlitz County District 1
+ocd-division/country:us/state:wa/county:cowlitz/council_district:2,Cowlitz County District 2
+ocd-division/country:us/state:wa/county:cowlitz/council_district:3,Cowlitz County District 3
+ocd-division/country:us/state:wa/county:douglas/council_district:1,Douglas County District 1
+ocd-division/country:us/state:wa/county:douglas/council_district:2,Douglas County District 2
+ocd-division/country:us/state:wa/county:douglas/council_district:3,Douglas County District 3
+ocd-division/country:us/state:wa/county:ferry/council_district:1,Ferry County District 1
+ocd-division/country:us/state:wa/county:ferry/council_district:2,Ferry County District 2
+ocd-division/country:us/state:wa/county:ferry/council_district:3,Ferry County District 3
+ocd-division/country:us/state:wa/county:franklin/council_district:1,Franklin County District 1
+ocd-division/country:us/state:wa/county:franklin/council_district:2,Franklin County District 2
+ocd-division/country:us/state:wa/county:franklin/council_district:3,Franklin County District 3
+ocd-division/country:us/state:wa/county:garfield/council_district:1,Garfield County District 1
+ocd-division/country:us/state:wa/county:garfield/council_district:2,Garfield County District 2
+ocd-division/country:us/state:wa/county:garfield/council_district:3,Garfield County District 3
+ocd-division/country:us/state:wa/county:grant/council_district:1,Grant County District 1
+ocd-division/country:us/state:wa/county:grant/council_district:2,Grant County District 2
+ocd-division/country:us/state:wa/county:grant/council_district:3,Grant County District 3
+ocd-division/country:us/state:wa/county:grays_harbor/council_district:1,Grays Harbor County District 1
+ocd-division/country:us/state:wa/county:grays_harbor/council_district:2,Grays Harbor County District 2
+ocd-division/country:us/state:wa/county:grays_harbor/council_district:3,Grays Harbor County District 3
+ocd-division/country:us/state:wa/county:island/council_district:1,Island County District 1
+ocd-division/country:us/state:wa/county:island/council_district:2,Island County District 2
+ocd-division/country:us/state:wa/county:island/council_district:3,Island County District 3
+ocd-division/country:us/state:wa/county:jefferson/council_district:1,Jefferson County District 1
+ocd-division/country:us/state:wa/county:jefferson/council_district:2,Jefferson County District 2
+ocd-division/country:us/state:wa/county:jefferson/council_district:3,Jefferson County District 3
 ocd-division/country:us/state:wa/county:king/council_district:1,King County WA County Council District 1
 ocd-division/country:us/state:wa/county:king/council_district:2,King County WA County Council District 2
 ocd-division/country:us/state:wa/county:king/council_district:3,King County WA County Council District 3
@@ -21,6 +58,30 @@ ocd-division/country:us/state:wa/county:king/council_district:9,King County WA C
 ocd-division/country:us/state:wa/county:kitsap/council_district:1,Kitsap County WA County Commissioner District 1
 ocd-division/country:us/state:wa/county:kitsap/council_district:2,Kitsap County WA County Commissioner District 2
 ocd-division/country:us/state:wa/county:kitsap/council_district:3,Kitsap County WA County Commissioner District 3
+ocd-division/country:us/state:wa/county:kittitas/council_district:1,Kittitas County District 1
+ocd-division/country:us/state:wa/county:kittitas/council_district:2,Kittitas County District 2
+ocd-division/country:us/state:wa/county:kittitas/council_district:3,Kittitas County District 3
+ocd-division/country:us/state:wa/county:klickitat/council_district:1,Klickitat County District 1
+ocd-division/country:us/state:wa/county:klickitat/council_district:2,Klickitat County District 2
+ocd-division/country:us/state:wa/county:klickitat/council_district:3,Klickitat County District 3
+ocd-division/country:us/state:wa/county:lewis/council_district:1,Lewis County District 1
+ocd-division/country:us/state:wa/county:lewis/council_district:2,Lewis County District 2
+ocd-division/country:us/state:wa/county:lewis/council_district:3,Lewis County District 3
+ocd-division/country:us/state:wa/county:lincoln/council_district:1,Lincoln County District 1
+ocd-division/country:us/state:wa/county:lincoln/council_district:2,Lincoln County District 2
+ocd-division/country:us/state:wa/county:lincoln/council_district:3,Lincoln County District 3
+ocd-division/country:us/state:wa/county:mason/council_district:1,Mason County District 1
+ocd-division/country:us/state:wa/county:mason/council_district:2,Mason County District 2
+ocd-division/country:us/state:wa/county:mason/council_district:3,Mason County District 3
+ocd-division/country:us/state:wa/county:okanogan/council_district:1,Okanogan County District 1
+ocd-division/country:us/state:wa/county:okanogan/council_district:2,Okanogan County District 2
+ocd-division/country:us/state:wa/county:okanogan/council_district:3,Okanogan County District 3
+ocd-division/country:us/state:wa/county:pacific/council_district:1,Pacific County District 1
+ocd-division/country:us/state:wa/county:pacific/council_district:2,Pacific County District 2
+ocd-division/country:us/state:wa/county:pacific/council_district:3,Pacific County District 3
+ocd-division/country:us/state:wa/county:pend_oreille/council_district:1,Pend Oreille County District 1
+ocd-division/country:us/state:wa/county:pend_oreille/council_district:2,Pend Oreille County District 2
+ocd-division/country:us/state:wa/county:pend_oreille/council_district:3,Pend Oreille County District 3
 ocd-division/country:us/state:wa/county:pierce/council_district:1,Pierce County WA County Council District 1
 ocd-division/country:us/state:wa/county:pierce/council_district:2,Pierce County WA County Council District 2
 ocd-division/country:us/state:wa/county:pierce/council_district:3,Pierce County WA County Council District 3
@@ -28,6 +89,12 @@ ocd-division/country:us/state:wa/county:pierce/council_district:4,Pierce County 
 ocd-division/country:us/state:wa/county:pierce/council_district:5,Pierce County WA County Council District 5
 ocd-division/country:us/state:wa/county:pierce/council_district:6,Pierce County WA County Council District 6
 ocd-division/country:us/state:wa/county:pierce/council_district:7,Pierce County WA County Council District 7
+ocd-division/country:us/state:wa/county:skagit/council_district:1,Skagit County District 1
+ocd-division/country:us/state:wa/county:skagit/council_district:2,Skagit County District 2
+ocd-division/country:us/state:wa/county:skagit/council_district:3,Skagit County District 3
+ocd-division/country:us/state:wa/county:skamania/council_district:1,Skamania County District 1
+ocd-division/country:us/state:wa/county:skamania/council_district:2,Skamania County District 2
+ocd-division/country:us/state:wa/county:skamania/council_district:3,Skamania County District 3
 ocd-division/country:us/state:wa/county:snohomish/council_district:1,Snohomish County WA County Council District 1
 ocd-division/country:us/state:wa/county:snohomish/council_district:2,Snohomish County WA County Council District 2
 ocd-division/country:us/state:wa/county:snohomish/council_district:3,Snohomish County WA County Council District 3
@@ -36,9 +103,30 @@ ocd-division/country:us/state:wa/county:snohomish/council_district:5,Snohomish C
 ocd-division/country:us/state:wa/county:spokane/council_district:1,Spokane County WA County Commissioner District 1
 ocd-division/country:us/state:wa/county:spokane/council_district:2,Spokane County WA County Commissioner District 2
 ocd-division/country:us/state:wa/county:spokane/council_district:3,Spokane County WA County Commissioner District 3
+ocd-division/country:us/state:wa/county:stevens/council_district:1,Stevens County District 1
+ocd-division/country:us/state:wa/county:stevens/council_district:2,Stevens County District 2
+ocd-division/country:us/state:wa/county:stevens/council_district:3,Stevens County District 3
 ocd-division/country:us/state:wa/county:thurston/council_district:1,Thurston County WA Board of County Commissioners District 1
 ocd-division/country:us/state:wa/county:thurston/council_district:2,Thurston County WA Board of County Commissioners District 2
 ocd-division/country:us/state:wa/county:thurston/council_district:3,Thurston County WA Board of County Commissioners District 3
+ocd-division/country:us/state:wa/county:wahkiakum/council_district:1,Wahkiakum County District 1
+ocd-division/country:us/state:wa/county:wahkiakum/council_district:2,Wahkiakum County District 2
+ocd-division/country:us/state:wa/county:wahkiakum/council_district:3,Wahkiakum County District 3
+ocd-division/country:us/state:wa/county:walla_walla/council_district:1,Walla Walla County District 1
+ocd-division/country:us/state:wa/county:walla_walla/council_district:2,Walla Walla County District 2
+ocd-division/country:us/state:wa/county:walla_walla/council_district:3,Walla Walla County District 3
+ocd-division/country:us/state:wa/county:whatcom/council_district:1a,Whatcom County District 1A
+ocd-division/country:us/state:wa/county:whatcom/council_district:1b,Whatcom County District 1B
+ocd-division/country:us/state:wa/county:whatcom/council_district:2a,Whatcom County District 2A
+ocd-division/country:us/state:wa/county:whatcom/council_district:2b,Whatcom County District 2B
+ocd-division/country:us/state:wa/county:whatcom/council_district:3a,Whatcom County District 3A
+ocd-division/country:us/state:wa/county:whatcom/council_district:3b,Whatcom County District 3B
+ocd-division/country:us/state:wa/county:whitman/council_district:1,Whitman County District 1
+ocd-division/country:us/state:wa/county:whitman/council_district:2,Whitman County District 2
+ocd-division/country:us/state:wa/county:whitman/council_district:3,Whitman County District 3
+ocd-division/country:us/state:wa/county:yakima/council_district:1,Yakima County District 1
+ocd-division/country:us/state:wa/county:yakima/council_district:2,Yakima County District 2
+ocd-division/country:us/state:wa/county:yakima/council_district:3,Yakima County District 3
 ocd-division/country:us/state:wa/place:seattle/school_board_district:1,Seattle WA School Board District District 1
 ocd-division/country:us/state:wa/place:seattle/school_board_district:2,Seattle WA School Board District District 2
 ocd-division/country:us/state:wa/place:seattle/school_board_district:3,Seattle WA School Board District District 3
@@ -46,3 +134,11 @@ ocd-division/country:us/state:wa/place:seattle/school_board_district:4,Seattle W
 ocd-division/country:us/state:wa/place:seattle/school_board_district:5,Seattle WA School Board District District 5
 ocd-division/country:us/state:wa/place:seattle/school_board_district:6,Seattle WA School Board District District 6
 ocd-division/country:us/state:wa/place:seattle/school_board_district:7,Seattle WA School Board District District 7
+ocd-division/country:us/state:wa/place:spokane/council_district:1,Spokane WA City Council district 1
+ocd-division/country:us/state:wa/place:spokane/council_district:2,Spokane WA City Council district 2
+ocd-division/country:us/state:wa/place:spokane/council_district:3,Spokane WA City Council district 3
+ocd-division/country:us/state:wa/place:tacoma/council_district:1,Tacoma WA City Council district 1
+ocd-division/country:us/state:wa/place:tacoma/council_district:2,Tacoma WA City Council district 2
+ocd-division/country:us/state:wa/place:tacoma/council_district:3,Tacoma WA City Council district 3
+ocd-division/country:us/state:wa/place:tacoma/council_district:4,Tacoma WA City Council district 4
+ocd-division/country:us/state:wa/place:tacoma/council_district:5,Tacoma WA City Council district 5
