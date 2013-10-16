@@ -1,24 +1,3 @@
-ocd-division/country:us/state:md/place:baltimore/council_district:1,Baltimore City MD City Council District 1
-ocd-division/country:us/state:md/place:baltimore/council_district:2,Baltimore City MD City Council District 2
-ocd-division/country:us/state:md/place:baltimore/council_district:3,Baltimore City MD City Council District 3
-ocd-division/country:us/state:md/place:baltimore/council_district:4,Baltimore City MD City Council District 4
-ocd-division/country:us/state:md/place:baltimore/council_district:5,Baltimore City MD City Council District 5
-ocd-division/country:us/state:md/place:baltimore/council_district:6,Baltimore City MD City Council District 6
-ocd-division/country:us/state:md/place:baltimore/council_district:7,Baltimore City MD City Council District 7
-ocd-division/country:us/state:md/place:baltimore/council_district:8,Baltimore City MD City Council District 8
-ocd-division/country:us/state:md/place:baltimore/council_district:9,Baltimore City MD City Council District 9
-ocd-division/country:us/state:md/place:baltimore/council_district:10,Baltimore City MD City Council District 10
-ocd-division/country:us/state:md/place:baltimore/council_district:11,Baltimore City MD City Council District 11
-ocd-division/country:us/state:md/place:baltimore/council_district:12,Baltimore City MD City Council District 12
-ocd-division/country:us/state:md/place:baltimore/council_district:13,Baltimore City MD City Council District 13
-ocd-division/country:us/state:md/place:baltimore/council_district:14,Baltimore City MD City Council District 14
-ocd-division/country:us/state:md/county:baltimore/council_district:1,Baltimore MD county council district 1
-ocd-division/country:us/state:md/county:baltimore/council_district:2,Baltimore MD county council district 2
-ocd-division/country:us/state:md/county:baltimore/council_district:3,Baltimore MD county council district 3
-ocd-division/country:us/state:md/county:baltimore/council_district:4,Baltimore MD county council district 4
-ocd-division/country:us/state:md/county:baltimore/council_district:5,Baltimore MD county council district 5
-ocd-division/country:us/state:md/county:baltimore/council_district:6,Baltimore MD county council district 6
-ocd-division/country:us/state:md/county:baltimore/council_district:7,Baltimore MD county council district 7
 ocd-division/country:us/state:md/county:anne_arundel/council_district:1,Anne Arundel County MD County Council District 1
 ocd-division/country:us/state:md/county:anne_arundel/council_district:2,Anne Arundel County MD County Council District 2
 ocd-division/country:us/state:md/county:anne_arundel/council_district:3,Anne Arundel County MD County Council District 3
@@ -26,6 +5,41 @@ ocd-division/country:us/state:md/county:anne_arundel/council_district:4,Anne Aru
 ocd-division/country:us/state:md/county:anne_arundel/council_district:5,Anne Arundel County MD County Council District 5
 ocd-division/country:us/state:md/county:anne_arundel/council_district:6,Anne Arundel County MD County Council District 6
 ocd-division/country:us/state:md/county:anne_arundel/council_district:7,Anne Arundel County MD County Council District 7
+ocd-division/country:us/state:md/county:baltimore/council_district:1,Baltimore MD county council district 1
+ocd-division/country:us/state:md/county:baltimore/council_district:2,Baltimore MD county council district 2
+ocd-division/country:us/state:md/county:baltimore/council_district:3,Baltimore MD county council district 3
+ocd-division/country:us/state:md/county:baltimore/council_district:4,Baltimore MD county council district 4
+ocd-division/country:us/state:md/county:baltimore/council_district:5,Baltimore MD county council district 5
+ocd-division/country:us/state:md/county:baltimore/council_district:6,Baltimore MD county council district 6
+ocd-division/country:us/state:md/county:baltimore/council_district:7,Baltimore MD county council district 7
+ocd-division/country:us/state:md/county:calvert/council_district:1,Calvert County Commissioner District 1
+ocd-division/country:us/state:md/county:calvert/council_district:2,Calvert County Commissioner District 2
+ocd-division/country:us/state:md/county:calvert/council_district:3,Calvert County Commissioner District 3
+ocd-division/country:us/state:md/county:carroll/council_district:1,Carroll County Commissioner District 1
+ocd-division/country:us/state:md/county:carroll/council_district:2,Carroll County Commissioner District 2
+ocd-division/country:us/state:md/county:carroll/council_district:3,Carroll County Commissioner District 3
+ocd-division/country:us/state:md/county:carroll/council_district:4,Carroll County Commissioner District 4
+ocd-division/country:us/state:md/county:carroll/council_district:5,Carroll County Commissioner District 5
+ocd-division/country:us/state:md/county:cecil/council_district:1,Cecil County Council District 1
+ocd-division/country:us/state:md/county:cecil/council_district:2,Cecil County Council District 2
+ocd-division/country:us/state:md/county:cecil/council_district:3,Cecil County Council District 3
+ocd-division/country:us/state:md/county:cecil/council_district:4,Cecil County Council District 4
+ocd-division/country:us/state:md/county:cecil/council_district:5,Cecil County Council District 5
+ocd-division/country:us/state:md/county:charles/council_district:1,Charles County Commissioner District 1
+ocd-division/country:us/state:md/county:charles/council_district:2,Charles County Commissioner District 2
+ocd-division/country:us/state:md/county:charles/council_district:3,Charles County Commissioner District 3
+ocd-division/country:us/state:md/county:charles/council_district:4,Charles County Commissioner District 4
+ocd-division/country:us/state:md/county:dorchester/council_district:1,Dorchester County Council District 1
+ocd-division/country:us/state:md/county:dorchester/council_district:2,Dorchester County Council District 2
+ocd-division/country:us/state:md/county:dorchester/council_district:3,Dorchester County Council District 3
+ocd-division/country:us/state:md/county:dorchester/council_district:4,Dorchester County Council District 4
+ocd-division/country:us/state:md/county:dorchester/council_district:5,Dorchester County Council District 5
+ocd-division/country:us/state:md/county:harford/council_district:a,Harford County Council District A
+ocd-division/country:us/state:md/county:harford/council_district:b,Harford County Council District B
+ocd-division/country:us/state:md/county:harford/council_district:c,Harford County Council District C
+ocd-division/country:us/state:md/county:harford/council_district:d,Harford County Council District D
+ocd-division/country:us/state:md/county:harford/council_district:e,Harford County Council District E
+ocd-division/country:us/state:md/county:harford/council_district:f,Harford County Council District F
 ocd-division/country:us/state:md/county:howard/council_district:1,Howard County MD County Council District 1
 ocd-division/country:us/state:md/county:howard/council_district:2,Howard County MD County Council District 2
 ocd-division/country:us/state:md/county:howard/council_district:3,Howard County MD County Council District 3
@@ -45,6 +59,45 @@ ocd-division/country:us/state:md/county:prince_george~s/council_district:6,Princ
 ocd-division/country:us/state:md/county:prince_george~s/council_district:7,Prince George's County MD County Council District 7
 ocd-division/country:us/state:md/county:prince_george~s/council_district:8,Prince George's County MD County Council District 8
 ocd-division/country:us/state:md/county:prince_george~s/council_district:9,Prince George's County MD County Council District 9
+ocd-division/country:us/state:md/county:queen_anne~s/council_district:1,Queen Anne's County Commissioner District 1
+ocd-division/country:us/state:md/county:queen_anne~s/council_district:2,Queen Anne's County Commissioner District 2
+ocd-division/country:us/state:md/county:queen_anne~s/council_district:3,Queen Anne's County Commissioner District 3
+ocd-division/country:us/state:md/county:queen_anne~s/council_district:4,Queen Anne's County Commissioner District 4
+ocd-division/country:us/state:md/county:somerset/council_district:1,Somerset County Commissioner District 1
+ocd-division/country:us/state:md/county:somerset/council_district:2,Somerset County Commissioner District 2
+ocd-division/country:us/state:md/county:somerset/council_district:3,Somerset County Commissioner District 3
+ocd-division/country:us/state:md/county:somerset/council_district:4,Somerset County Commissioner District 4
+ocd-division/country:us/state:md/county:somerset/council_district:5,Somerset County Commissioner District 5
+ocd-division/country:us/state:md/county:st_mary~s/council_district:1,St. Mary's County Commissioner District 1
+ocd-division/country:us/state:md/county:st_mary~s/council_district:2,St. Mary's County Commissioner District 2
+ocd-division/country:us/state:md/county:st_mary~s/council_district:3,St. Mary's County Commissioner District 3
+ocd-division/country:us/state:md/county:st_mary~s/council_district:4,St. Mary's County Commissioner District 4
+ocd-division/country:us/state:md/county:wicomico/council_district:1,Wicomico County Council District 1
+ocd-division/country:us/state:md/county:wicomico/council_district:2,Wicomico County Council District 2
+ocd-division/country:us/state:md/county:wicomico/council_district:3,Wicomico County Council District 3
+ocd-division/country:us/state:md/county:wicomico/council_district:4,Wicomico County Council District 4
+ocd-division/country:us/state:md/county:wicomico/council_district:5,Wicomico County Council District 5
+ocd-division/country:us/state:md/county:worcester/council_district:1,Worcester County Council District 1
+ocd-division/country:us/state:md/county:worcester/council_district:2,Worcester County Council District 2
+ocd-division/country:us/state:md/county:worcester/council_district:3,Worcester County Council District 3
+ocd-division/country:us/state:md/county:worcester/council_district:4,Worcester County Council District 4
+ocd-division/country:us/state:md/county:worcester/council_district:5,Worcester County Council District 5
+ocd-division/country:us/state:md/county:worcester/council_district:6,Worcester County Council District 6
+ocd-division/country:us/state:md/county:worcester/council_district:7,Worcester County Council District 7
+ocd-division/country:us/state:md/place:baltimore/council_district:1,Baltimore City MD City Council District 1
+ocd-division/country:us/state:md/place:baltimore/council_district:2,Baltimore City MD City Council District 2
+ocd-division/country:us/state:md/place:baltimore/council_district:3,Baltimore City MD City Council District 3
+ocd-division/country:us/state:md/place:baltimore/council_district:4,Baltimore City MD City Council District 4
+ocd-division/country:us/state:md/place:baltimore/council_district:5,Baltimore City MD City Council District 5
+ocd-division/country:us/state:md/place:baltimore/council_district:6,Baltimore City MD City Council District 6
+ocd-division/country:us/state:md/place:baltimore/council_district:7,Baltimore City MD City Council District 7
+ocd-division/country:us/state:md/place:baltimore/council_district:8,Baltimore City MD City Council District 8
+ocd-division/country:us/state:md/place:baltimore/council_district:9,Baltimore City MD City Council District 9
+ocd-division/country:us/state:md/place:baltimore/council_district:10,Baltimore City MD City Council District 10
+ocd-division/country:us/state:md/place:baltimore/council_district:11,Baltimore City MD City Council District 11
+ocd-division/country:us/state:md/place:baltimore/council_district:12,Baltimore City MD City Council District 12
+ocd-division/country:us/state:md/place:baltimore/council_district:13,Baltimore City MD City Council District 13
+ocd-division/country:us/state:md/place:baltimore/council_district:14,Baltimore City MD City Council District 14
 ocd-division/country:us/state:md/place:baltimore/ward:1,Baltimore City MD Ward 1
 ocd-division/country:us/state:md/place:baltimore/ward:2,Baltimore City MD Ward 2
 ocd-division/country:us/state:md/place:baltimore/ward:3,Baltimore City MD Ward 3

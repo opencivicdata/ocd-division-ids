@@ -15,12 +15,14 @@ fuzzywuzzy
 
 Constants:
 OCDID_DATA -- location to pull ocdid data from, either a file or url
+EXCEPTION_DATA -- location to pull exception data from, either a file or url
 MATCH_RATIO -- lowest valid match ratio accepted
 MATCH_LIMIT -- maximum number of matched values returned
 SEARCH_CONVERSIONS -- conversions for district search types to valid ocd types
 
 """
 OCDID_DATA = 'https://raw.github.com/opencivicdata/ocd-division-ids/master/identifiers/country-us.csv'
+EXCEPTION_DATA = 'https://raw.github.com/opencivicdata/ocd-division-ids/master/identifiers/country-us/exceptions.txt'
 MATCH_RATIO = 90 
 MATCH_LIMIT = 10
 SEARCH_CONVERSIONS = {
@@ -79,6 +81,37 @@ def is_ocdid(ocdid):
     else:
         return False
 
+def is_exception(ocdid):
+    """Check whether given ocdid is contained in the exception list
+
+    Keyword arguments:
+    ocdid -- ocdid value to check if exists in the exception list
+
+    Returns:
+    True -- ocdid exists
+    False -- ocdid not found (could be candidate for new ocdid)
+
+    """
+    if ocdid in exceptions:
+        return True
+    else:
+        return False
+
+def get_exception(ocdid):
+    """Returns official ocdid if ocdid value is in exceptions
+
+    Keyword arguments:
+    ocdid -- ocdid value to get official ocdid from exception list
+
+    Returns:
+    ocdid -- ocdid exception exists
+    None -- exception not found (could be candidate for new ocdid)
+
+    """
+    if ocdid in exceptions:
+        return exceptions[ocdid]
+    return None
+
 def match_name(ocdid_prefix,dist_type,dist_name):
     """Given a district name, returns closest ocdid match in given district
 
@@ -108,6 +141,8 @@ def match_name(ocdid_prefix,dist_type,dist_name):
     ocdid = '{}/{}:{}'.format(ocdid_prefix,dist_type,id_val)
     if is_ocdid(ocdid):
         return ocdid,ratio
+    elif is_exception(ocdid):
+        return get_exception(ocdid),ratio
     else:
         return None,-1
 
@@ -253,6 +288,21 @@ if '' in ocdid_set:
     ocdid_set.discard('')
 ocdids = {}
 
+""" If a url is provided, use 'requests' to obtain exception data
+        otherwise, read from file system """
+if 'http' in EXCEPTION_DATA:
+    r = requests.get(EXCEPTION_DATA)
+else:
+    f = open(EXCEPTION_DATA,'r')
+    r = f.read()
+
+exceptions = {}
+for line in r.text.split('\n'):
+    line = line.split(',')
+    # Ignore exception that indicate nonexistant districts
+    if len(line) > 2 and line[0][:line[0].rfind(':')] != line[1][:line[0].rfind(':')] and not line[2].startswith('Doesn\'t exist'): 
+        exceptions[line[0]] = line[1]
+
 """ Create a dictionary of ocdid data in the format:
         {
             ocdid_prefix:
@@ -263,6 +313,16 @@ ocdids = {}
         } 
 """
 for ocdid in ocdid_set:
+    prefix_div = ocdid.rfind('/')
+    ocdid_prefix = ocdid[:prefix_div]
+    type_val,name = ocdid[prefix_div+1:].split(':')
+    if ocdid_prefix not in ocdids:
+        ocdids[ocdid_prefix] = {}
+    if type_val not in ocdids[ocdid_prefix]:
+        ocdids[ocdid_prefix][type_val] = []
+    ocdids[ocdid_prefix][type_val].append(name)
+
+for ocdid in exceptions.keys():
     prefix_div = ocdid.rfind('/')
     ocdid_prefix = ocdid[:prefix_div]
     type_val,name = ocdid[prefix_div+1:].split(':')
