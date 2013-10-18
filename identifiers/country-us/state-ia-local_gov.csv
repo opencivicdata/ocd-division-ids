@@ -1,9 +1,198 @@
-ocd-division/country:us/state:ia/place:des_moines/ward:1,Des Moines IA - ward 1
-ocd-division/country:us/state:ia/place:des_moines/ward:2,Des Moines IA - ward 2
-ocd-division/country:us/state:ia/place:des_moines/ward:3,Des Moines IA - ward 3
-ocd-division/country:us/state:ia/place:des_moines/ward:4,Des Moines IA - ward 4
+ocd-division/country:us/state:ia/county:adair/council_district:1nw,Adair County District 1NW
+ocd-division/country:us/state:ia/county:adair/council_district:2ne,Adair County District 2NE
+ocd-division/country:us/state:ia/county:adair/council_district:3sw,Adair County District 3SW
+ocd-division/country:us/state:ia/county:adair/council_district:4se,Adair County District 4SE
+ocd-division/country:us/state:ia/county:adair/council_district:5gf,Adair County District 5GF
+ocd-division/country:us/state:ia/county:bremer/council_district:1,Bremer County District 1
+ocd-division/country:us/state:ia/county:bremer/council_district:2,Bremer County District 2
+ocd-division/country:us/state:ia/county:bremer/council_district:3,Bremer County District 3
+ocd-division/country:us/state:ia/county:buena_vista/council_district:1,Buena Vista County District 1
+ocd-division/country:us/state:ia/county:buena_vista/council_district:2,Buena Vista County District 2
+ocd-division/country:us/state:ia/county:buena_vista/council_district:3,Buena Vista County District 3
+ocd-division/country:us/state:ia/county:buena_vista/council_district:4,Buena Vista County District 4
+ocd-division/country:us/state:ia/county:buena_vista/council_district:5,Buena Vista County District 5
+ocd-division/country:us/state:ia/county:butler/council_district:1,Butler County District 1
+ocd-division/country:us/state:ia/county:butler/council_district:2,Butler County District 2
+ocd-division/country:us/state:ia/county:butler/council_district:3,Butler County District 3
+ocd-division/country:us/state:ia/county:calhoun/council_district:1,Calhoun County District 1
+ocd-division/country:us/state:ia/county:calhoun/council_district:2,Calhoun County District 2
+ocd-division/country:us/state:ia/county:calhoun/council_district:3,Calhoun County District 3
+ocd-division/country:us/state:ia/county:carroll/council_district:1,Carroll County District 1
+ocd-division/country:us/state:ia/county:carroll/council_district:2,Carroll County District 2
+ocd-division/country:us/state:ia/county:carroll/council_district:3,Carroll County District 3
+ocd-division/country:us/state:ia/county:carroll/council_district:4,Carroll County District 4
+ocd-division/country:us/state:ia/county:carroll/council_district:5,Carroll County District 5
+ocd-division/country:us/state:ia/county:cass/council_district:1,Cass County District 1
+ocd-division/country:us/state:ia/county:cass/council_district:2,Cass County District 2
+ocd-division/country:us/state:ia/county:cass/council_district:3,Cass County District 3
+ocd-division/country:us/state:ia/county:cass/council_district:4,Cass County District 4
+ocd-division/country:us/state:ia/county:cass/council_district:5,Cass County District 5
+ocd-division/country:us/state:ia/county:cerro_gordo/council_district:1,Cerro Gordo County District 1
+ocd-division/country:us/state:ia/county:cerro_gordo/council_district:2,Cerro Gordo County District 2
+ocd-division/country:us/state:ia/county:cerro_gordo/council_district:3,Cerro Gordo County District 3
+ocd-division/country:us/state:ia/county:cherokee/council_district:1,Cherokee County District 1
+ocd-division/country:us/state:ia/county:cherokee/council_district:2,Cherokee County District 2
+ocd-division/country:us/state:ia/county:cherokee/council_district:3,Cherokee County District 3
+ocd-division/country:us/state:ia/county:cherokee/council_district:4,Cherokee County District 4
+ocd-division/country:us/state:ia/county:cherokee/council_district:5,Cherokee County District 5
+ocd-division/country:us/state:ia/county:chickasaw/council_district:1,Chickasaw County District 1
+ocd-division/country:us/state:ia/county:chickasaw/council_district:2,Chickasaw County District 2
+ocd-division/country:us/state:ia/county:chickasaw/council_district:3,Chickasaw County District 3
+ocd-division/country:us/state:ia/county:chickasaw/council_district:4,Chickasaw County District 4
+ocd-division/country:us/state:ia/county:chickasaw/council_district:5,Chickasaw County District 5
+ocd-division/country:us/state:ia/county:clarke/council_district:1,Clarke County District 1
+ocd-division/country:us/state:ia/county:clarke/council_district:2,Clarke County District 2
+ocd-division/country:us/state:ia/county:clarke/council_district:3,Clarke County District 3
+ocd-division/country:us/state:ia/county:dallas/council_district:1,Dallas County District 1
+ocd-division/country:us/state:ia/county:dallas/council_district:2,Dallas County District 2
+ocd-division/country:us/state:ia/county:dallas/council_district:3,Dallas County District 3
+ocd-division/country:us/state:ia/county:delaware/council_district:1,Delaware County District 1
+ocd-division/country:us/state:ia/county:delaware/council_district:2,Delaware County District 2
+ocd-division/country:us/state:ia/county:delaware/council_district:3,Delaware County District 3
+ocd-division/country:us/state:ia/county:dickinson/council_district:1,Dickinson County District 1
+ocd-division/country:us/state:ia/county:dickinson/council_district:2,Dickinson County District 2
+ocd-division/country:us/state:ia/county:dickinson/council_district:3,Dickinson County District 3
+ocd-division/country:us/state:ia/county:dickinson/council_district:4,Dickinson County District 4
+ocd-division/country:us/state:ia/county:dickinson/council_district:5,Dickinson County District 5
+ocd-division/country:us/state:ia/county:franklin/council_district:1,Franklin County District 1
+ocd-division/country:us/state:ia/county:franklin/council_district:2,Franklin County District 2
+ocd-division/country:us/state:ia/county:franklin/council_district:3,Franklin County District 3
+ocd-division/country:us/state:ia/county:grundy/council_district:1,Grundy County District 1
+ocd-division/country:us/state:ia/county:grundy/council_district:2,Grundy County District 2
+ocd-division/country:us/state:ia/county:grundy/council_district:3,Grundy County District 3
+ocd-division/country:us/state:ia/county:grundy/council_district:4,Grundy County District 4
+ocd-division/country:us/state:ia/county:grundy/council_district:5,Grundy County District 5
+ocd-division/country:us/state:ia/county:guthrie/council_district:1,Guthrie County District 1
+ocd-division/country:us/state:ia/county:guthrie/council_district:2,Guthrie County District 2
+ocd-division/country:us/state:ia/county:guthrie/council_district:3,Guthrie County District 3
+ocd-division/country:us/state:ia/county:guthrie/council_district:4,Guthrie County District 4
+ocd-division/country:us/state:ia/county:guthrie/council_district:5,Guthrie County District 5
+ocd-division/country:us/state:ia/county:hamilton/council_district:1,Hamilton County District 1
+ocd-division/country:us/state:ia/county:hamilton/council_district:2,Hamilton County District 2
+ocd-division/country:us/state:ia/county:hamilton/council_district:3,Hamilton County District 3
+ocd-division/country:us/state:ia/county:howard/council_district:1,Howard County District 1
+ocd-division/country:us/state:ia/county:howard/council_district:2,Howard County District 2
+ocd-division/country:us/state:ia/county:howard/council_district:3,Howard County District 3
+ocd-division/country:us/state:ia/county:humboldt/council_district:1,Humboldt County District 1
+ocd-division/country:us/state:ia/county:humboldt/council_district:2,Humboldt County District 2
+ocd-division/country:us/state:ia/county:humboldt/council_district:3,Humboldt County District 3
+ocd-division/country:us/state:ia/county:humboldt/council_district:4,Humboldt County District 4
+ocd-division/country:us/state:ia/county:humboldt/council_district:5,Humboldt County District 5
+ocd-division/country:us/state:ia/county:ida/council_district:1,Ida County District 1
+ocd-division/country:us/state:ia/county:ida/council_district:2,Ida County District 2
+ocd-division/country:us/state:ia/county:ida/council_district:3,Ida County District 3
+ocd-division/country:us/state:ia/county:jones/council_district:1,Jones County District 1
+ocd-division/country:us/state:ia/county:jones/council_district:2,Jones County District 2
+ocd-division/country:us/state:ia/county:jones/council_district:3,Jones County District 3
+ocd-division/country:us/state:ia/county:jones/council_district:4,Jones County District 4
+ocd-division/country:us/state:ia/county:jones/council_district:5,Jones County District 5
+ocd-division/country:us/state:ia/county:kossuth/council_district:1,Kossuth County District 1
+ocd-division/country:us/state:ia/county:kossuth/council_district:2,Kossuth County District 2
+ocd-division/country:us/state:ia/county:kossuth/council_district:3,Kossuth County District 3
+ocd-division/country:us/state:ia/county:kossuth/council_district:4,Kossuth County District 4
+ocd-division/country:us/state:ia/county:kossuth/council_district:5,Kossuth County District 5
+ocd-division/country:us/state:ia/county:lee/council_district:1,Lee County District 1
+ocd-division/country:us/state:ia/county:lee/council_district:2,Lee County District 2
+ocd-division/country:us/state:ia/county:lee/council_district:3,Lee County District 3
+ocd-division/country:us/state:ia/county:lee/council_district:4,Lee County District 4
+ocd-division/country:us/state:ia/county:lee/council_district:5,Lee County District 5
+ocd-division/country:us/state:ia/county:linn/council_district:1,Linn County District 1
+ocd-division/country:us/state:ia/county:linn/council_district:2,Linn County District 2
+ocd-division/country:us/state:ia/county:linn/council_district:3,Linn County District 3
+ocd-division/country:us/state:ia/county:linn/council_district:4,Linn County District 4
+ocd-division/country:us/state:ia/county:linn/council_district:5,Linn County District 5
+ocd-division/country:us/state:ia/county:lyon/council_district:1,Lyon County District 1
+ocd-division/country:us/state:ia/county:lyon/council_district:2,Lyon County District 2
+ocd-division/country:us/state:ia/county:lyon/council_district:3,Lyon County District 3
+ocd-division/country:us/state:ia/county:lyon/council_district:4,Lyon County District 4
+ocd-division/country:us/state:ia/county:lyon/council_district:5,Lyon County District 5
+ocd-division/country:us/state:ia/county:monona/council_district:1,Monona County District 1
+ocd-division/country:us/state:ia/county:monona/council_district:2,Monona County District 2
+ocd-division/country:us/state:ia/county:monona/council_district:3,Monona County District 3
+ocd-division/country:us/state:ia/county:montgomery/council_district:1,Montgomery County District 1
+ocd-division/country:us/state:ia/county:montgomery/council_district:2,Montgomery County District 2
+ocd-division/country:us/state:ia/county:montgomery/council_district:3,Montgomery County District 3
+ocd-division/country:us/state:ia/county:montgomery/council_district:4,Montgomery County District 4
+ocd-division/country:us/state:ia/county:montgomery/council_district:5,Montgomery County District 5
+ocd-division/country:us/state:ia/county:muscatine/council_district:1,Muscatine County District 1
+ocd-division/country:us/state:ia/county:muscatine/council_district:2,Muscatine County District 2
+ocd-division/country:us/state:ia/county:muscatine/council_district:3,Muscatine County District 3
+ocd-division/country:us/state:ia/county:muscatine/council_district:4,Muscatine County District 4
+ocd-division/country:us/state:ia/county:muscatine/council_district:5,Muscatine County District 5
+ocd-division/country:us/state:ia/county:osceola/council_district:1,Osceola County District 1
+ocd-division/country:us/state:ia/county:osceola/council_district:2,Osceola County District 2
+ocd-division/country:us/state:ia/county:osceola/council_district:3,Osceola County District 3
+ocd-division/country:us/state:ia/county:osceola/council_district:4,Osceola County District 4
+ocd-division/country:us/state:ia/county:osceola/council_district:5,Osceola County District 5
+ocd-division/country:us/state:ia/county:o~brien/council_district:1,O'Brien County District 1
+ocd-division/country:us/state:ia/county:o~brien/council_district:2,O'Brien County District 2
+ocd-division/country:us/state:ia/county:o~brien/council_district:3,O'Brien County District 3
+ocd-division/country:us/state:ia/county:o~brien/council_district:4,O'Brien County District 4
+ocd-division/country:us/state:ia/county:o~brien/council_district:5,O'Brien County District 5
+ocd-division/country:us/state:ia/county:page/council_district:1,Page County District 1
+ocd-division/country:us/state:ia/county:page/council_district:2,Page County District 2
+ocd-division/country:us/state:ia/county:page/council_district:3,Page County District 3
+ocd-division/country:us/state:ia/county:palo_alto/council_district:1,Palo Alto County District 1
+ocd-division/country:us/state:ia/county:palo_alto/council_district:2,Palo Alto County District 2
+ocd-division/country:us/state:ia/county:palo_alto/council_district:3,Palo Alto County District 3
+ocd-division/country:us/state:ia/county:palo_alto/council_district:4,Palo Alto County District 4
+ocd-division/country:us/state:ia/county:palo_alto/council_district:5,Palo Alto County District 5
+ocd-division/country:us/state:ia/county:plymouth/council_district:1,Plymouth County District 1
+ocd-division/country:us/state:ia/county:plymouth/council_district:2,Plymouth County District 2
+ocd-division/country:us/state:ia/county:plymouth/council_district:3,Plymouth County District 3
+ocd-division/country:us/state:ia/county:plymouth/council_district:4,Plymouth County District 4
+ocd-division/country:us/state:ia/county:plymouth/council_district:5,Plymouth County District 5
+ocd-division/country:us/state:ia/county:pocahontas/council_district:1,Pocahontas County District 1
+ocd-division/country:us/state:ia/county:pocahontas/council_district:2,Pocahontas County District 2
+ocd-division/country:us/state:ia/county:pocahontas/council_district:3,Pocahontas County District 3
+ocd-division/country:us/state:ia/county:pocahontas/council_district:4,Pocahontas County District 4
+ocd-division/country:us/state:ia/county:pocahontas/council_district:5,Pocahontas County District 5
 ocd-division/country:us/state:ia/county:polk/council_district:1,Polk County IA County Commissioner District 1
 ocd-division/country:us/state:ia/county:polk/council_district:2,Polk County IA County Commissioner District 2
 ocd-division/country:us/state:ia/county:polk/council_district:3,Polk County IA County Commissioner District 3
 ocd-division/country:us/state:ia/county:polk/council_district:4,Polk County IA County Commissioner District 4
 ocd-division/country:us/state:ia/county:polk/council_district:5,Polk County IA County Commissioner District 5
+ocd-division/country:us/state:ia/county:sac/council_district:1,Sac County District 1
+ocd-division/country:us/state:ia/county:sac/council_district:2,Sac County District 2
+ocd-division/country:us/state:ia/county:sac/council_district:3,Sac County District 3
+ocd-division/country:us/state:ia/county:sioux/council_district:1,Sioux County District 1
+ocd-division/country:us/state:ia/county:sioux/council_district:2,Sioux County District 2
+ocd-division/country:us/state:ia/county:sioux/council_district:3,Sioux County District 3
+ocd-division/country:us/state:ia/county:sioux/council_district:4,Sioux County District 4
+ocd-division/country:us/state:ia/county:sioux/council_district:5,Sioux County District 5
+ocd-division/country:us/state:ia/county:tama/council_district:1,Tama County District 1
+ocd-division/country:us/state:ia/county:tama/council_district:2,Tama County District 2
+ocd-division/country:us/state:ia/county:tama/council_district:3,Tama County District 3
+ocd-division/country:us/state:ia/county:taylor/council_district:1,Taylor County District 1
+ocd-division/country:us/state:ia/county:taylor/council_district:2,Taylor County District 2
+ocd-division/country:us/state:ia/county:taylor/council_district:3,Taylor County District 3
+ocd-division/country:us/state:ia/county:warren/council_district:1,Warren County District 1
+ocd-division/country:us/state:ia/county:warren/council_district:2,Warren County District 2
+ocd-division/country:us/state:ia/county:warren/council_district:3,Warren County District 3
+ocd-division/country:us/state:ia/county:washington/council_district:1,Washington County District 1
+ocd-division/country:us/state:ia/county:washington/council_district:2,Washington County District 2
+ocd-division/country:us/state:ia/county:washington/council_district:3,Washington County District 3
+ocd-division/country:us/state:ia/county:washington/council_district:4,Washington County District 4
+ocd-division/country:us/state:ia/county:washington/council_district:5,Washington County District 5
+ocd-division/country:us/state:ia/county:webster/council_district:1,Webster County District 1
+ocd-division/country:us/state:ia/county:webster/council_district:2,Webster County District 2
+ocd-division/country:us/state:ia/county:webster/council_district:3,Webster County District 3
+ocd-division/country:us/state:ia/county:webster/council_district:4,Webster County District 4
+ocd-division/country:us/state:ia/county:webster/council_district:5,Webster County District 5
+ocd-division/country:us/state:ia/county:winneshiek/council_district:1,Winneshiek County District 1
+ocd-division/country:us/state:ia/county:winneshiek/council_district:2,Winneshiek County District 2
+ocd-division/country:us/state:ia/county:winneshiek/council_district:3,Winneshiek County District 3
+ocd-division/country:us/state:ia/county:winneshiek/council_district:4,Winneshiek County District 4
+ocd-division/country:us/state:ia/county:winneshiek/council_district:5,Winneshiek County District 5
+ocd-division/country:us/state:ia/county:woodbury/council_district:1,Woodbury County District 1
+ocd-division/country:us/state:ia/county:woodbury/council_district:2,Woodbury County District 2
+ocd-division/country:us/state:ia/county:woodbury/council_district:3,Woodbury County District 3
+ocd-division/country:us/state:ia/county:woodbury/council_district:4,Woodbury County District 4
+ocd-division/country:us/state:ia/county:woodbury/council_district:5,Woodbury County District 5
+ocd-division/country:us/state:ia/county:wright/council_district:1,Wright County District 1
+ocd-division/country:us/state:ia/county:wright/council_district:2,Wright County District 2
+ocd-division/country:us/state:ia/county:wright/council_district:3,Wright County District 3
+ocd-division/country:us/state:ia/place:des_moines/ward:1,Des Moines IA - ward 1
+ocd-division/country:us/state:ia/place:des_moines/ward:2,Des Moines IA - ward 2
+ocd-division/country:us/state:ia/place:des_moines/ward:3,Des Moines IA - ward 3
+ocd-division/country:us/state:ia/place:des_moines/ward:4,Des Moines IA - ward 4
