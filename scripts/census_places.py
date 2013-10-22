@@ -17,6 +17,11 @@ class TabDelimited(csv.Dialect):
     skipinitialspace = True
 
 
+def get_exception_set():
+    csvfile = csv.reader(open('identifiers/country-us/exceptions.txt'))
+    return set(x[0] for x in csvfile)
+
+
 TYPES = {
     'county': {
         'url': 'http://www.census.gov/geo/maps-data/data/docs/gazetteer/counties_list_{fips}.txt',
@@ -251,11 +256,14 @@ def process_state(state, csvfile, geocsv):
                 # unhandled FUNCSTAT type
                 raise Exception(row)
 
+    exceptions = get_exception_set()
+
     # write ids out
     for id, row in sorted(ids.items()):
-        csvfile.writerow((id, row['NAME']))
-        if geocsv:
-            geocsv.writerow((id, row['GEOID']))
+        if id not in exceptions:
+            csvfile.writerow((id, row['NAME']))
+            if geocsv:
+                geocsv.writerow((id, row['GEOID']))
 
     print(state, ' | '.join('{0}: {1}'.format(k,v)
                             for k,v in funcstat_count.most_common()),
