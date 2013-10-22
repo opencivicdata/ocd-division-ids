@@ -36,7 +36,6 @@ ocd-division/country:us/state:ak/place:aleknagik,0201420
 ocd-division/country:us/state:ak/place:allakaket,0201860
 ocd-division/country:us/state:ak/place:ambler,0201970
 ocd-division/country:us/state:ak/place:anaktuvuk_pass,0202080
-ocd-division/country:us/state:ak/place:anchorage,0203000
 ocd-division/country:us/state:ak/place:anderson,0203220
 ocd-division/country:us/state:ak/place:angoon,0203440
 ocd-division/country:us/state:ak/place:aniak,0203550
@@ -84,7 +83,6 @@ ocd-division/country:us/state:ak/place:houston,0233800
 ocd-division/country:us/state:ak/place:hughes,0233910
 ocd-division/country:us/state:ak/place:huslia,0234350
 ocd-division/country:us/state:ak/place:hydaburg,0234460
-ocd-division/country:us/state:ak/place:juneau,0236400
 ocd-division/country:us/state:ak/place:kachemak,0236550
 ocd-division/country:us/state:ak/place:kake,0236770
 ocd-division/country:us/state:ak/place:kaktovik,0236990
@@ -152,7 +150,6 @@ ocd-division/country:us/state:ak/place:shageluk,0268670
 ocd-division/country:us/state:ak/place:shaktoolik,0268890
 ocd-division/country:us/state:ak/place:shishmaref,0269770
 ocd-division/country:us/state:ak/place:shungnak,0270100
-ocd-division/country:us/state:ak/place:sitka,0270540
 ocd-division/country:us/state:ak/place:soldotna,0271640
 ocd-division/country:us/state:ak/place:st_george,0265800
 ocd-division/country:us/state:ak/place:st_mary~s,0266140
@@ -174,7 +171,6 @@ ocd-division/country:us/state:ak/place:wales,0282860
 ocd-division/country:us/state:ak/place:wasilla,0283080
 ocd-division/country:us/state:ak/place:white_mountain,0284070
 ocd-division/country:us/state:ak/place:whittier,0284510
-ocd-division/country:us/state:ak/place:wrangell,0286380
 ocd-division/country:us/state:al/county:autauga,01001
 ocd-division/country:us/state:al/county:baldwin,01003
 ocd-division/country:us/state:al/county:barbour,01005
@@ -1810,7 +1806,6 @@ ocd-division/country:us/state:ca/place:san_clemente,0665084
 ocd-division/country:us/state:ca/place:san_diego,0666000
 ocd-division/country:us/state:ca/place:san_dimas,0666070
 ocd-division/country:us/state:ca/place:san_fernando,0666140
-ocd-division/country:us/state:ca/place:san_francisco,0667000
 ocd-division/country:us/state:ca/place:san_gabriel,0667042
 ocd-division/country:us/state:ca/place:san_jacinto,0667112
 ocd-division/country:us/state:ca/place:san_joaquin,0667126
@@ -2013,7 +2008,6 @@ ocd-division/country:us/state:co/place:branson,0808345
 ocd-division/country:us/state:co/place:breckenridge,0808400
 ocd-division/country:us/state:co/place:brighton,0808675
 ocd-division/country:us/state:co/place:brookside,0809115
-ocd-division/country:us/state:co/place:broomfield,0809280
 ocd-division/country:us/state:co/place:brush,0809555
 ocd-division/country:us/state:co/place:buena_vista,0810105
 ocd-division/country:us/state:co/place:burlington,0810600
@@ -2050,7 +2044,6 @@ ocd-division/country:us/state:co/place:de_beque,0819355
 ocd-division/country:us/state:co/place:deer_trail,0819630
 ocd-division/country:us/state:co/place:del_norte,0819795
 ocd-division/country:us/state:co/place:delta,0819850
-ocd-division/country:us/state:co/place:denver,0820000
 ocd-division/country:us/state:co/place:dillon,0820440
 ocd-division/country:us/state:co/place:dinosaur,0820495
 ocd-division/country:us/state:co/place:dolores,0820770
@@ -3252,7 +3245,6 @@ ocd-division/country:us/state:ga/place:colbert,1317552
 ocd-division/country:us/state:ga/place:college_park,1317776
 ocd-division/country:us/state:ga/place:collins,1317832
 ocd-division/country:us/state:ga/place:colquitt,1318000
-ocd-division/country:us/state:ga/place:columbus,1319000
 ocd-division/country:us/state:ga/place:comer,1319084
 ocd-division/country:us/state:ga/place:commerce,1319112
 ocd-division/country:us/state:ga/place:concord,1319168
@@ -11808,7 +11800,6 @@ ocd-division/country:us/state:ky/place:lebanon_junction,2144362
 ocd-division/country:us/state:ky/place:leitchfield,2144686
 ocd-division/country:us/state:ky/place:lewisburg,2145064
 ocd-division/country:us/state:ky/place:lewisport,2145136
-ocd-division/country:us/state:ky/place:lexington,2146027
 ocd-division/country:us/state:ky/place:liberty,2146072
 ocd-division/country:us/state:ky/place:lincolnshire,2146540
 ocd-division/country:us/state:ky/place:livermore,2147062
@@ -12274,7 +12265,6 @@ ocd-division/country:us/state:la/place:natchez,2253510
 ocd-division/country:us/state:la/place:natchitoches,2253545
 ocd-division/country:us/state:la/place:new_iberia,2254035
 ocd-division/country:us/state:la/place:new_llano,2254175
-ocd-division/country:us/state:la/place:new_orleans,2255000
 ocd-division/country:us/state:la/place:new_roads,2255105
 ocd-division/country:us/state:la/place:newellton,2253930
 ocd-division/country:us/state:la/place:noble,2255420
@@ -12586,7 +12576,6 @@ ocd-division/country:us/state:ma/place:monterey,2500342460
 ocd-division/country:us/state:ma/place:montgomery,2501342530
 ocd-division/country:us/state:ma/place:mount_washington,2500343300
 ocd-division/country:us/state:ma/place:nahant,2500943580
-ocd-division/country:us/state:ma/place:nantucket,2501943790
 ocd-division/country:us/state:ma/place:natick,2501743895
 ocd-division/country:us/state:ma/place:needham,2502144105
 ocd-division/country:us/state:ma/place:new_ashford,2500344385
@@ -19821,7 +19810,6 @@ ocd-division/country:us/state:mt/county:wheatland,30107
 ocd-division/country:us/state:mt/county:wibaux,30109
 ocd-division/country:us/state:mt/county:yellowstone,30111
 ocd-division/country:us/state:mt/place:alberton,3000700
-ocd-division/country:us/state:mt/place:anaconda,3001675
 ocd-division/country:us/state:mt/place:bainville,3003400
 ocd-division/country:us/state:mt/place:baker,3003475
 ocd-division/country:us/state:mt/place:bearcreek,3004300
