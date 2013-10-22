@@ -75,15 +75,15 @@ if __name__ == '__main__':
             for row in sorted(all_rows):
                 out.writerow(row)
 
-    # go geoid validation too (TODO: add a flag for this)
-    #seen_in_geoid = set()
-    #all_geo_rows = list()
-    #for filename in glob.glob('mappings/us-census-geoids/*.csv'):
-    #    for id_, geoid in csv.reader(open(filename)):
-    #        seen_in_geoid.add(id_)
-    #        if id_ not in ids:
-    #            print('unexpected geoid for', id_)
-    #        all_geo_rows.append((id_, geoid))
+    # do geoid validation too (TODO: add a flag for this)
+    seen_in_geoid = set()
+    all_geo_rows = list()
+    for filename in glob.glob('mappings/us-census-geoids/*.csv'):
+        for id_, geoid in csv.reader(open(filename)):
+            seen_in_geoid.add(id_)
+            if id_ not in ids:
+                print('unexpected geoid for', id_)
+            all_geo_rows.append((id_, geoid))
 
     #unknown_ids = set(ids.keys()) - seen_in_geoid
     #if not unknown_ids:
@@ -91,7 +91,7 @@ if __name__ == '__main__':
     #else:
     #    for id in sorted(unknown_ids):
     #        print('missing geoid for id', id)
-    #with open('mappings/us-census-geoids.csv', 'w') as out:
-    #    out = csv.writer(out)
-    #    for row in sorted(all_geo_rows):
-    #        out.writerow(row)
+    with open('mappings/us-census-geoids.csv', 'w') as out:
+        out = csv.writer(out)
+        for row in sorted(all_geo_rows):
+            out.writerow(row)
