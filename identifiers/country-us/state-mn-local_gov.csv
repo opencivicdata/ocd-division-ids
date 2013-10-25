@@ -1,8 +1,460 @@
+ocd-division/country:us/state:mn/county:aitkin/council_district:1,Aitkin County Commission District 1
+ocd-division/country:us/state:mn/county:aitkin/council_district:2,Aitkin County Commission District 2
+ocd-division/country:us/state:mn/county:aitkin/council_district:3,Aitkin County Commission District 3
+ocd-division/country:us/state:mn/county:aitkin/council_district:4,Aitkin County Commission District 4
+ocd-division/country:us/state:mn/county:aitkin/council_district:5,Aitkin County Commission District 5
+ocd-division/country:us/state:mn/county:anoka/council_district:1,Anoka County Commission District 1
+ocd-division/country:us/state:mn/county:anoka/council_district:2,Anoka County Commission District 2
+ocd-division/country:us/state:mn/county:anoka/council_district:3,Anoka County Commission District 3
+ocd-division/country:us/state:mn/county:anoka/council_district:4,Anoka County Commission District 4
+ocd-division/country:us/state:mn/county:anoka/council_district:5,Anoka County Commission District 5
+ocd-division/country:us/state:mn/county:anoka/council_district:6,Anoka County Commission District 6
+ocd-division/country:us/state:mn/county:anoka/council_district:7,Anoka County Commission District 7
+ocd-division/country:us/state:mn/county:becker/council_district:1,Becker County Commission District 1
+ocd-division/country:us/state:mn/county:becker/council_district:2,Becker County Commission District 2
+ocd-division/country:us/state:mn/county:becker/council_district:3,Becker County Commission District 3
+ocd-division/country:us/state:mn/county:becker/council_district:4,Becker County Commission District 4
+ocd-division/country:us/state:mn/county:becker/council_district:5,Becker County Commission District 5
+ocd-division/country:us/state:mn/county:beltrami/council_district:1,Beltrami County Commission District 1
+ocd-division/country:us/state:mn/county:beltrami/council_district:2,Beltrami County Commission District 2
+ocd-division/country:us/state:mn/county:beltrami/council_district:3,Beltrami County Commission District 3
+ocd-division/country:us/state:mn/county:beltrami/council_district:4,Beltrami County Commission District 4
+ocd-division/country:us/state:mn/county:beltrami/council_district:5,Beltrami County Commission District 5
+ocd-division/country:us/state:mn/county:benton/council_district:1,Benton County Commission District 1
+ocd-division/country:us/state:mn/county:benton/council_district:2,Benton County Commission District 2
+ocd-division/country:us/state:mn/county:benton/council_district:3,Benton County Commission District 3
+ocd-division/country:us/state:mn/county:benton/council_district:4,Benton County Commission District 4
+ocd-division/country:us/state:mn/county:benton/council_district:5,Benton County Commission District 5
+ocd-division/country:us/state:mn/county:big_stone/council_district:1,Big Stone County Commission District 1
+ocd-division/country:us/state:mn/county:big_stone/council_district:2,Big Stone County Commission District 2
+ocd-division/country:us/state:mn/county:big_stone/council_district:3,Big Stone County Commission District 3
+ocd-division/country:us/state:mn/county:big_stone/council_district:4,Big Stone County Commission District 4
+ocd-division/country:us/state:mn/county:big_stone/council_district:5,Big Stone County Commission District 5
+ocd-division/country:us/state:mn/county:blue_earth/council_district:1,Blue Earth County Commission District 1
+ocd-division/country:us/state:mn/county:blue_earth/council_district:2,Blue Earth County Commission District 2
+ocd-division/country:us/state:mn/county:blue_earth/council_district:3,Blue Earth County Commission District 3
+ocd-division/country:us/state:mn/county:blue_earth/council_district:4,Blue Earth County Commission District 4
+ocd-division/country:us/state:mn/county:blue_earth/council_district:5,Blue Earth County Commission District 5
+ocd-division/country:us/state:mn/county:brown/council_district:1,Brown County Commission District 1
+ocd-division/country:us/state:mn/county:brown/council_district:2,Brown County Commission District 2
+ocd-division/country:us/state:mn/county:brown/council_district:3,Brown County Commission District 3
+ocd-division/country:us/state:mn/county:brown/council_district:4,Brown County Commission District 4
+ocd-division/country:us/state:mn/county:brown/council_district:5,Brown County Commission District 5
+ocd-division/country:us/state:mn/county:carlton/council_district:1,Carlton County Commission District 1
+ocd-division/country:us/state:mn/county:carlton/council_district:2,Carlton County Commission District 2
+ocd-division/country:us/state:mn/county:carlton/council_district:3,Carlton County Commission District 3
+ocd-division/country:us/state:mn/county:carlton/council_district:4,Carlton County Commission District 4
+ocd-division/country:us/state:mn/county:carlton/council_district:5,Carlton County Commission District 5
+ocd-division/country:us/state:mn/county:carver/council_district:1,Carver County Commission District 1
+ocd-division/country:us/state:mn/county:carver/council_district:2,Carver County Commission District 2
+ocd-division/country:us/state:mn/county:carver/council_district:3,Carver County Commission District 3
+ocd-division/country:us/state:mn/county:carver/council_district:4,Carver County Commission District 4
+ocd-division/country:us/state:mn/county:carver/council_district:5,Carver County Commission District 5
+ocd-division/country:us/state:mn/county:cass/council_district:1,Cass County Commission District 1
+ocd-division/country:us/state:mn/county:cass/council_district:2,Cass County Commission District 2
+ocd-division/country:us/state:mn/county:cass/council_district:3,Cass County Commission District 3
+ocd-division/country:us/state:mn/county:cass/council_district:4,Cass County Commission District 4
+ocd-division/country:us/state:mn/county:cass/council_district:5,Cass County Commission District 5
+ocd-division/country:us/state:mn/county:chippewa/council_district:1,Chippewa County Commission District 1
+ocd-division/country:us/state:mn/county:chippewa/council_district:2,Chippewa County Commission District 2
+ocd-division/country:us/state:mn/county:chippewa/council_district:3,Chippewa County Commission District 3
+ocd-division/country:us/state:mn/county:chippewa/council_district:4,Chippewa County Commission District 4
+ocd-division/country:us/state:mn/county:chippewa/council_district:5,Chippewa County Commission District 5
+ocd-division/country:us/state:mn/county:chisago/council_district:1,Chisago County Commission District 1
+ocd-division/country:us/state:mn/county:chisago/council_district:2,Chisago County Commission District 2
+ocd-division/country:us/state:mn/county:chisago/council_district:3,Chisago County Commission District 3
+ocd-division/country:us/state:mn/county:chisago/council_district:4,Chisago County Commission District 4
+ocd-division/country:us/state:mn/county:chisago/council_district:5,Chisago County Commission District 5
+ocd-division/country:us/state:mn/county:clay/council_district:1,Clay County Commission District 1
+ocd-division/country:us/state:mn/county:clay/council_district:2,Clay County Commission District 2
+ocd-division/country:us/state:mn/county:clay/council_district:3,Clay County Commission District 3
+ocd-division/country:us/state:mn/county:clay/council_district:4,Clay County Commission District 4
+ocd-division/country:us/state:mn/county:clay/council_district:5,Clay County Commission District 5
+ocd-division/country:us/state:mn/county:clearwater/council_district:1,Clearwater County Commission District 1
+ocd-division/country:us/state:mn/county:clearwater/council_district:2,Clearwater County Commission District 2
+ocd-division/country:us/state:mn/county:clearwater/council_district:3,Clearwater County Commission District 3
+ocd-division/country:us/state:mn/county:clearwater/council_district:4,Clearwater County Commission District 4
+ocd-division/country:us/state:mn/county:clearwater/council_district:5,Clearwater County Commission District 5
+ocd-division/country:us/state:mn/county:cook/council_district:1,Cook County Commission District 1
+ocd-division/country:us/state:mn/county:cook/council_district:2,Cook County Commission District 2
+ocd-division/country:us/state:mn/county:cook/council_district:3,Cook County Commission District 3
+ocd-division/country:us/state:mn/county:cook/council_district:4,Cook County Commission District 4
+ocd-division/country:us/state:mn/county:cook/council_district:5,Cook County Commission District 5
+ocd-division/country:us/state:mn/county:cook/school_district:1,Cook County School District 1
+ocd-division/country:us/state:mn/county:cook/school_district:2,Cook County School District 2
+ocd-division/country:us/state:mn/county:cook/school_district:3,Cook County School District 3
+ocd-division/country:us/state:mn/county:cook/school_district:4,Cook County School District 4
+ocd-division/country:us/state:mn/county:cook/school_district:5,Cook County School District 5
+ocd-division/country:us/state:mn/county:cottonwood/council_district:1,Cottonwood County Commission District 1
+ocd-division/country:us/state:mn/county:cottonwood/council_district:2,Cottonwood County Commission District 2
+ocd-division/country:us/state:mn/county:cottonwood/council_district:3,Cottonwood County Commission District 3
+ocd-division/country:us/state:mn/county:cottonwood/council_district:4,Cottonwood County Commission District 4
+ocd-division/country:us/state:mn/county:cottonwood/council_district:5,Cottonwood County Commission District 5
+ocd-division/country:us/state:mn/county:crow_wing/council_district:1,Crow Wing County Commission District 1
+ocd-division/country:us/state:mn/county:crow_wing/council_district:2,Crow Wing County Commission District 2
+ocd-division/country:us/state:mn/county:crow_wing/council_district:3,Crow Wing County Commission District 3
+ocd-division/country:us/state:mn/county:crow_wing/council_district:4,Crow Wing County Commission District 4
+ocd-division/country:us/state:mn/county:crow_wing/council_district:5,Crow Wing County Commission District 5
+ocd-division/country:us/state:mn/county:dakota/council_district:1,Dakota County MN Board of Commissioners District 1
+ocd-division/country:us/state:mn/county:dakota/council_district:2,Dakota County MN Board of Commissioners District 2
+ocd-division/country:us/state:mn/county:dakota/council_district:3,Dakota County MN Board of Commissioners District 3
+ocd-division/country:us/state:mn/county:dakota/council_district:4,Dakota County MN Board of Commissioners District 4
+ocd-division/country:us/state:mn/county:dakota/council_district:5,Dakota County MN Board of Commissioners District 5
+ocd-division/country:us/state:mn/county:dakota/council_district:6,Dakota County MN Board of Commissioners District 6
+ocd-division/country:us/state:mn/county:dakota/council_district:7,Dakota County MN Board of Commissioners District 7
+ocd-division/country:us/state:mn/county:dodge/council_district:1,Dodge County Commission District 1
+ocd-division/country:us/state:mn/county:dodge/council_district:2,Dodge County Commission District 2
+ocd-division/country:us/state:mn/county:dodge/council_district:3,Dodge County Commission District 3
+ocd-division/country:us/state:mn/county:dodge/council_district:4,Dodge County Commission District 4
+ocd-division/country:us/state:mn/county:dodge/council_district:5,Dodge County Commission District 5
+ocd-division/country:us/state:mn/county:douglas/council_district:1,Douglas County Commission District 1
+ocd-division/country:us/state:mn/county:douglas/council_district:2,Douglas County Commission District 2
+ocd-division/country:us/state:mn/county:douglas/council_district:3,Douglas County Commission District 3
+ocd-division/country:us/state:mn/county:douglas/council_district:4,Douglas County Commission District 4
+ocd-division/country:us/state:mn/county:douglas/council_district:5,Douglas County Commission District 5
+ocd-division/country:us/state:mn/county:faribault/council_district:1,Fairbault County Commission District 1
+ocd-division/country:us/state:mn/county:faribault/council_district:2,Fairbault County Commission District 2
+ocd-division/country:us/state:mn/county:faribault/council_district:3,Fairbault County Commission District 3
+ocd-division/country:us/state:mn/county:faribault/council_district:4,Fairbault County Commission District 4
+ocd-division/country:us/state:mn/county:faribault/council_district:5,Fairbault County Commission District 5
+ocd-division/country:us/state:mn/county:fillmore/council_district:1,Fillmore County Commission District 1
+ocd-division/country:us/state:mn/county:fillmore/council_district:2,Fillmore County Commission District 2
+ocd-division/country:us/state:mn/county:fillmore/council_district:3,Fillmore County Commission District 3
+ocd-division/country:us/state:mn/county:fillmore/council_district:4,Fillmore County Commission District 4
+ocd-division/country:us/state:mn/county:fillmore/council_district:5,Fillmore County Commission District 5
+ocd-division/country:us/state:mn/county:freeborn/council_district:1,Freeborn County Commission District 1
+ocd-division/country:us/state:mn/county:freeborn/council_district:2,Freeborn County Commission District 2
+ocd-division/country:us/state:mn/county:freeborn/council_district:3,Freeborn County Commission District 3
+ocd-division/country:us/state:mn/county:freeborn/council_district:4,Freeborn County Commission District 4
+ocd-division/country:us/state:mn/county:freeborn/council_district:5,Freeborn County Commission District 5
+ocd-division/country:us/state:mn/county:goodhue/council_district:1,Goodhue County Commission District 1
+ocd-division/country:us/state:mn/county:goodhue/council_district:2,Goodhue County Commission District 2
+ocd-division/country:us/state:mn/county:goodhue/council_district:3,Goodhue County Commission District 3
+ocd-division/country:us/state:mn/county:goodhue/council_district:4,Goodhue County Commission District 4
+ocd-division/country:us/state:mn/county:goodhue/council_district:5,Goodhue County Commission District 5
+ocd-division/country:us/state:mn/county:grant/council_district:1,Grant County Commission District 1
+ocd-division/country:us/state:mn/county:grant/council_district:2,Grant County Commission District 2
+ocd-division/country:us/state:mn/county:grant/council_district:3,Grant County Commission District 3
+ocd-division/country:us/state:mn/county:grant/council_district:4,Grant County Commission District 4
+ocd-division/country:us/state:mn/county:grant/council_district:5,Grant County Commission District 5
+ocd-division/country:us/state:mn/county:hennepin/council_district:1,Hennepin County MN Board of County Commisioners District 1
+ocd-division/country:us/state:mn/county:hennepin/council_district:2,Hennepin County MN Board of County Commisioners District 2
+ocd-division/country:us/state:mn/county:hennepin/council_district:3,Hennepin County MN Board of County Commisioners District 3
+ocd-division/country:us/state:mn/county:hennepin/council_district:4,Hennepin County MN Board of County Commisioners District 4
+ocd-division/country:us/state:mn/county:hennepin/council_district:5,Hennepin County MN Board of County Commisioners District 5
+ocd-division/country:us/state:mn/county:hennepin/council_district:6,Hennepin County MN Board of County Commisioners District 6
+ocd-division/country:us/state:mn/county:hennepin/council_district:7,Hennepin County MN Board of County Commisioners District 7
+ocd-division/country:us/state:mn/county:hennepin/park_district:1,Hennepin County Park Commission District 1
+ocd-division/country:us/state:mn/county:hennepin/park_district:2,Hennepin County Park Commission District 2
+ocd-division/country:us/state:mn/county:hennepin/park_district:3,Hennepin County Park Commission District 3
+ocd-division/country:us/state:mn/county:hennepin/park_district:4,Hennepin County Park Commission District 4
+ocd-division/country:us/state:mn/county:hennepin/park_district:5,Hennepin County Park Commission District 5
+ocd-division/country:us/state:mn/county:houston/council_district:1,Houston County Commission District 1
+ocd-division/country:us/state:mn/county:houston/council_district:2,Houston County Commission District 2
+ocd-division/country:us/state:mn/county:houston/council_district:3,Houston County Commission District 3
+ocd-division/country:us/state:mn/county:houston/council_district:4,Houston County Commission District 4
+ocd-division/country:us/state:mn/county:houston/council_district:5,Houston County Commission District 5
+ocd-division/country:us/state:mn/county:hubbard/council_district:1,Hubbard County Commission District 1
+ocd-division/country:us/state:mn/county:hubbard/council_district:2,Hubbard County Commission District 2
+ocd-division/country:us/state:mn/county:hubbard/council_district:3,Hubbard County Commission District 3
+ocd-division/country:us/state:mn/county:hubbard/council_district:4,Hubbard County Commission District 4
+ocd-division/country:us/state:mn/county:hubbard/council_district:5,Hubbard County Commission District 5
+ocd-division/country:us/state:mn/county:isanti/council_district:1,Isanti County Commission District 1
+ocd-division/country:us/state:mn/county:isanti/council_district:2,Isanti County Commission District 2
+ocd-division/country:us/state:mn/county:isanti/council_district:3,Isanti County Commission District 3
+ocd-division/country:us/state:mn/county:isanti/council_district:4,Isanti County Commission District 4
+ocd-division/country:us/state:mn/county:isanti/council_district:5,Isanti County Commission District 5
+ocd-division/country:us/state:mn/county:itasca/council_district:1,Itasca County Commission District 1
+ocd-division/country:us/state:mn/county:itasca/council_district:2,Itasca County Commission District 2
+ocd-division/country:us/state:mn/county:itasca/council_district:3,Itasca County Commission District 3
+ocd-division/country:us/state:mn/county:itasca/council_district:4,Itasca County Commission District 4
+ocd-division/country:us/state:mn/county:itasca/council_district:5,Itasca County Commission District 5
+ocd-division/country:us/state:mn/county:jackson/council_district:1,Jackson County Commission District 1
+ocd-division/country:us/state:mn/county:jackson/council_district:2,Jackson County Commission District 2
+ocd-division/country:us/state:mn/county:jackson/council_district:3,Jackson County Commission District 3
+ocd-division/country:us/state:mn/county:jackson/council_district:4,Jackson County Commission District 4
+ocd-division/country:us/state:mn/county:jackson/council_district:5,Jackson County Commission District 5
+ocd-division/country:us/state:mn/county:kanabec/council_district:1,Kanabec County Commission District 1
+ocd-division/country:us/state:mn/county:kanabec/council_district:2,Kanabec County Commission District 2
+ocd-division/country:us/state:mn/county:kanabec/council_district:3,Kanabec County Commission District 3
+ocd-division/country:us/state:mn/county:kanabec/council_district:4,Kanabec County Commission District 4
+ocd-division/country:us/state:mn/county:kanabec/council_district:5,Kanabec County Commission District 5
+ocd-division/country:us/state:mn/county:kandiyohi/council_district:1,Kandiyohi County Commission District 1
+ocd-division/country:us/state:mn/county:kandiyohi/council_district:2,Kandiyohi County Commission District 2
+ocd-division/country:us/state:mn/county:kandiyohi/council_district:3,Kandiyohi County Commission District 3
+ocd-division/country:us/state:mn/county:kandiyohi/council_district:4,Kandiyohi County Commission District 4
+ocd-division/country:us/state:mn/county:kandiyohi/council_district:5,Kandiyohi County Commission District 5
+ocd-division/country:us/state:mn/county:kittson/council_district:1,Kittson County Commission District 1
+ocd-division/country:us/state:mn/county:kittson/council_district:2,Kittson County Commission District 2
+ocd-division/country:us/state:mn/county:kittson/council_district:3,Kittson County Commission District 3
+ocd-division/country:us/state:mn/county:kittson/council_district:4,Kittson County Commission District 4
+ocd-division/country:us/state:mn/county:kittson/council_district:5,Kittson County Commission District 5
+ocd-division/country:us/state:mn/county:koochiching/council_district:1,Koochiching County Commission District 1
+ocd-division/country:us/state:mn/county:koochiching/council_district:2,Koochiching County Commission District 2
+ocd-division/country:us/state:mn/county:koochiching/council_district:3,Koochiching County Commission District 3
+ocd-division/country:us/state:mn/county:koochiching/council_district:4,Koochiching County Commission District 4
+ocd-division/country:us/state:mn/county:koochiching/council_district:5,Koochiching County Commission District 5
+ocd-division/country:us/state:mn/county:lac_qui_parle/council_district:1,Lac Qui Parle County Commission District 1
+ocd-division/country:us/state:mn/county:lac_qui_parle/council_district:2,Lac Qui Parle County Commission District 2
+ocd-division/country:us/state:mn/county:lac_qui_parle/council_district:3,Lac Qui Parle County Commission District 3
+ocd-division/country:us/state:mn/county:lac_qui_parle/council_district:4,Lac Qui Parle County Commission District 4
+ocd-division/country:us/state:mn/county:lac_qui_parle/council_district:5,Lac Qui Parle County Commission District 5
+ocd-division/country:us/state:mn/county:lake/council_district:1,Lake County Commission District 1
+ocd-division/country:us/state:mn/county:lake/council_district:2,Lake County Commission District 2
+ocd-division/country:us/state:mn/county:lake/council_district:3,Lake County Commission District 3
+ocd-division/country:us/state:mn/county:lake/council_district:4,Lake County Commission District 4
+ocd-division/country:us/state:mn/county:lake/council_district:5,Lake County Commission District 5
+ocd-division/country:us/state:mn/county:lake_of_the_woods/council_district:1,Lake of the Wood County Commission District 1
+ocd-division/country:us/state:mn/county:lake_of_the_woods/council_district:2,Lake of the Wood County Commission District 2
+ocd-division/country:us/state:mn/county:lake_of_the_woods/council_district:3,Lake of the Wood County Commission District 3
+ocd-division/country:us/state:mn/county:lake_of_the_woods/council_district:4,Lake of the Wood County Commission District 4
+ocd-division/country:us/state:mn/county:lake_of_the_woods/council_district:5,Lake of the Wood County Commission District 5
+ocd-division/country:us/state:mn/county:le_sueur/council_district:1,Le Sueur County Commission District 1
+ocd-division/country:us/state:mn/county:le_sueur/council_district:2,Le Sueur County Commission District 2
+ocd-division/country:us/state:mn/county:le_sueur/council_district:3,Le Sueur County Commission District 3
+ocd-division/country:us/state:mn/county:le_sueur/council_district:4,Le Sueur County Commission District 4
+ocd-division/country:us/state:mn/county:le_sueur/council_district:5,Le Sueur County Commission District 5
+ocd-division/country:us/state:mn/county:lincoln/council_district:1,Lincoln County Commission District 1
+ocd-division/country:us/state:mn/county:lincoln/council_district:2,Lincoln County Commission District 2
+ocd-division/country:us/state:mn/county:lincoln/council_district:3,Lincoln County Commission District 3
+ocd-division/country:us/state:mn/county:lincoln/council_district:4,Lincoln County Commission District 4
+ocd-division/country:us/state:mn/county:lincoln/council_district:5,Lincoln County Commission District 5
+ocd-division/country:us/state:mn/county:lyon/council_district:1,Lyon County Commission District 1
+ocd-division/country:us/state:mn/county:lyon/council_district:2,Lyon County Commission District 2
+ocd-division/country:us/state:mn/county:lyon/council_district:3,Lyon County Commission District 3
+ocd-division/country:us/state:mn/county:lyon/council_district:4,Lyon County Commission District 4
+ocd-division/country:us/state:mn/county:lyon/council_district:5,Lyon County Commission District 5
+ocd-division/country:us/state:mn/county:mahnomen/council_district:1,Mahnomen County Commission District 1
+ocd-division/country:us/state:mn/county:mahnomen/council_district:2,Mahnomen County Commission District 2
+ocd-division/country:us/state:mn/county:mahnomen/council_district:3,Mahnomen County Commission District 3
+ocd-division/country:us/state:mn/county:mahnomen/council_district:4,Mahnomen County Commission District 4
+ocd-division/country:us/state:mn/county:mahnomen/council_district:5,Mahnomen County Commission District 5
+ocd-division/country:us/state:mn/county:marshall/council_district:1,Marshall County Commission District 1
+ocd-division/country:us/state:mn/county:marshall/council_district:2,Marshall County Commission District 2
+ocd-division/country:us/state:mn/county:marshall/council_district:3,Marshall County Commission District 3
+ocd-division/country:us/state:mn/county:marshall/council_district:4,Marshall County Commission District 4
+ocd-division/country:us/state:mn/county:marshall/council_district:5,Marshall County Commission District 5
+ocd-division/country:us/state:mn/county:martin/council_district:1,Martin County Commission District 1
+ocd-division/country:us/state:mn/county:martin/council_district:2,Martin County Commission District 2
+ocd-division/country:us/state:mn/county:martin/council_district:3,Martin County Commission District 3
+ocd-division/country:us/state:mn/county:martin/council_district:4,Martin County Commission District 4
+ocd-division/country:us/state:mn/county:martin/council_district:5,Martin County Commission District 5
+ocd-division/country:us/state:mn/county:mcleod/council_district:1,McLeod County Commission District 1
+ocd-division/country:us/state:mn/county:mcleod/council_district:2,McLeod County Commission District 2
+ocd-division/country:us/state:mn/county:mcleod/council_district:3,McLeod County Commission District 3
+ocd-division/country:us/state:mn/county:mcleod/council_district:4,McLeod County Commission District 4
+ocd-division/country:us/state:mn/county:mcleod/council_district:5,McLeod County Commission District 5
+ocd-division/country:us/state:mn/county:meeker/council_district:1,Meeker County Commission District 1
+ocd-division/country:us/state:mn/county:meeker/council_district:2,Meeker County Commission District 2
+ocd-division/country:us/state:mn/county:meeker/council_district:3,Meeker County Commission District 3
+ocd-division/country:us/state:mn/county:meeker/council_district:4,Meeker County Commission District 4
+ocd-division/country:us/state:mn/county:meeker/council_district:5,Meeker County Commission District 5
+ocd-division/country:us/state:mn/county:mille_lacs/council_district:1,Mille Lacs County Commission District 1
+ocd-division/country:us/state:mn/county:mille_lacs/council_district:2,Mille Lacs County Commission District 2
+ocd-division/country:us/state:mn/county:mille_lacs/council_district:3,Mille Lacs County Commission District 3
+ocd-division/country:us/state:mn/county:mille_lacs/council_district:4,Mille Lacs County Commission District 4
+ocd-division/country:us/state:mn/county:mille_lacs/council_district:5,Mille Lacs County Commission District 5
+ocd-division/country:us/state:mn/county:morrison/council_district:1,Morrison County Commission District 1
+ocd-division/country:us/state:mn/county:morrison/council_district:2,Morrison County Commission District 2
+ocd-division/country:us/state:mn/county:morrison/council_district:3,Morrison County Commission District 3
+ocd-division/country:us/state:mn/county:morrison/council_district:4,Morrison County Commission District 4
+ocd-division/country:us/state:mn/county:morrison/council_district:5,Morrison County Commission District 5
+ocd-division/country:us/state:mn/county:mower/council_district:1,Mower County Commission District 1
+ocd-division/country:us/state:mn/county:mower/council_district:2,Mower County Commission District 2
+ocd-division/country:us/state:mn/county:mower/council_district:3,Mower County Commission District 3
+ocd-division/country:us/state:mn/county:mower/council_district:4,Mower County Commission District 4
+ocd-division/country:us/state:mn/county:mower/council_district:5,Mower County Commission District 5
+ocd-division/country:us/state:mn/county:murray/council_district:1,Murray County Commission District 1
+ocd-division/country:us/state:mn/county:murray/council_district:2,Murray County Commission District 2
+ocd-division/country:us/state:mn/county:murray/council_district:3,Murray County Commission District 3
+ocd-division/country:us/state:mn/county:murray/council_district:4,Murray County Commission District 4
+ocd-division/country:us/state:mn/county:murray/council_district:5,Murray County Commission District 5
+ocd-division/country:us/state:mn/county:nicollet/council_district:1,Nicollet County Commission District 1
+ocd-division/country:us/state:mn/county:nicollet/council_district:2,Nicollet County Commission District 2
+ocd-division/country:us/state:mn/county:nicollet/council_district:3,Nicollet County Commission District 3
+ocd-division/country:us/state:mn/county:nicollet/council_district:4,Nicollet County Commission District 4
+ocd-division/country:us/state:mn/county:nicollet/council_district:5,Nicollet County Commission District 5
+ocd-division/country:us/state:mn/county:nobles/council_district:1,Nobles County Commission District 1
+ocd-division/country:us/state:mn/county:nobles/council_district:2,Nobles County Commission District 2
+ocd-division/country:us/state:mn/county:nobles/council_district:3,Nobles County Commission District 3
+ocd-division/country:us/state:mn/county:nobles/council_district:4,Nobles County Commission District 4
+ocd-division/country:us/state:mn/county:nobles/council_district:5,Nobles County Commission District 5
+ocd-division/country:us/state:mn/county:norman/council_district:1,Norman County Commission District 1
+ocd-division/country:us/state:mn/county:norman/council_district:2,Norman County Commission District 2
+ocd-division/country:us/state:mn/county:norman/council_district:3,Norman County Commission District 3
+ocd-division/country:us/state:mn/county:norman/council_district:4,Norman County Commission District 4
+ocd-division/country:us/state:mn/county:norman/council_district:5,Norman County Commission District 5
+ocd-division/country:us/state:mn/county:olmsted/council_district:1,Olmsted County Commission District 1
+ocd-division/country:us/state:mn/county:olmsted/council_district:2,Olmsted County Commission District 2
+ocd-division/country:us/state:mn/county:olmsted/council_district:3,Olmsted County Commission District 3
+ocd-division/country:us/state:mn/county:olmsted/council_district:4,Olmsted County Commission District 4
+ocd-division/country:us/state:mn/county:olmsted/council_district:5,Olmsted County Commission District 5
+ocd-division/country:us/state:mn/county:olmsted/council_district:6,Olmsted County Commission District 6
+ocd-division/country:us/state:mn/county:olmsted/council_district:7,Olmsted County Commission District 7
+ocd-division/country:us/state:mn/county:otter_tail/council_district:1,Otter Tail County Commission District 1
+ocd-division/country:us/state:mn/county:otter_tail/council_district:2,Otter Tail County Commission District 2
+ocd-division/country:us/state:mn/county:otter_tail/council_district:3,Otter Tail County Commission District 3
+ocd-division/country:us/state:mn/county:otter_tail/council_district:4,Otter Tail County Commission District 4
+ocd-division/country:us/state:mn/county:otter_tail/council_district:5,Otter Tail County Commission District 5
+ocd-division/country:us/state:mn/county:pennington/council_district:1,Pennington County Commission District 1
+ocd-division/country:us/state:mn/county:pennington/council_district:2,Pennington County Commission District 2
+ocd-division/country:us/state:mn/county:pennington/council_district:3,Pennington County Commission District 3
+ocd-division/country:us/state:mn/county:pennington/council_district:4,Pennington County Commission District 4
+ocd-division/country:us/state:mn/county:pennington/council_district:5,Pennington County Commission District 5
+ocd-division/country:us/state:mn/county:pine/council_district:1,Pine County Commission District 1
+ocd-division/country:us/state:mn/county:pine/council_district:2,Pine County Commission District 2
+ocd-division/country:us/state:mn/county:pine/council_district:3,Pine County Commission District 3
+ocd-division/country:us/state:mn/county:pine/council_district:4,Pine County Commission District 4
+ocd-division/country:us/state:mn/county:pine/council_district:5,Pine County Commission District 5
+ocd-division/country:us/state:mn/county:pipestone/council_district:1,Pipeston County Commission District 1
+ocd-division/country:us/state:mn/county:pipestone/council_district:2,Pipeston County Commission District 2
+ocd-division/country:us/state:mn/county:pipestone/council_district:3,Pipeston County Commission District 3
+ocd-division/country:us/state:mn/county:pipestone/council_district:4,Pipeston County Commission District 4
+ocd-division/country:us/state:mn/county:pipestone/council_district:5,Pipeston County Commission District 5
+ocd-division/country:us/state:mn/county:polk/council_district:1,Polk County Commission District 1
+ocd-division/country:us/state:mn/county:polk/council_district:2,Polk County Commission District 2
+ocd-division/country:us/state:mn/county:polk/council_district:3,Polk County Commission District 3
+ocd-division/country:us/state:mn/county:polk/council_district:4,Polk County Commission District 4
+ocd-division/country:us/state:mn/county:polk/council_district:5,Polk County Commission District 5
+ocd-division/country:us/state:mn/county:pope/council_district:1,Pope County Commission District 1
+ocd-division/country:us/state:mn/county:pope/council_district:2,Pope County Commission District 2
+ocd-division/country:us/state:mn/county:pope/council_district:3,Pope County Commission District 3
+ocd-division/country:us/state:mn/county:pope/council_district:4,Pope County Commission District 4
+ocd-division/country:us/state:mn/county:pope/council_district:5,Pope County Commission District 5
+ocd-division/country:us/state:mn/county:ramsey/council_district:1,Ramsey County MN Board of Commissioners District 1
+ocd-division/country:us/state:mn/county:ramsey/council_district:2,Ramsey County MN Board of Commissioners District 2
+ocd-division/country:us/state:mn/county:ramsey/council_district:3,Ramsey County MN Board of Commissioners District 3
+ocd-division/country:us/state:mn/county:ramsey/council_district:4,Ramsey County MN Board of Commissioners District 4
+ocd-division/country:us/state:mn/county:ramsey/council_district:5,Ramsey County MN Board of Commissioners District 5
+ocd-division/country:us/state:mn/county:ramsey/council_district:6,Ramsey County MN Board of Commissioners District 6
+ocd-division/country:us/state:mn/county:ramsey/council_district:7,Ramsey County MN Board of Commissioners District 7
+ocd-division/country:us/state:mn/county:red_lake/council_district:1,Red Lake County Commission District 1
+ocd-division/country:us/state:mn/county:red_lake/council_district:2,Red Lake County Commission District 2
+ocd-division/country:us/state:mn/county:red_lake/council_district:3,Red Lake County Commission District 3
+ocd-division/country:us/state:mn/county:red_lake/council_district:4,Red Lake County Commission District 4
+ocd-division/country:us/state:mn/county:red_lake/council_district:5,Red Lake County Commission District 5
+ocd-division/country:us/state:mn/county:redwood/council_district:1,Redwood County Commission District 1
+ocd-division/country:us/state:mn/county:redwood/council_district:2,Redwood County Commission District 2
+ocd-division/country:us/state:mn/county:redwood/council_district:3,Redwood County Commission District 3
+ocd-division/country:us/state:mn/county:redwood/council_district:4,Redwood County Commission District 4
+ocd-division/country:us/state:mn/county:redwood/council_district:5,Redwood County Commission District 5
+ocd-division/country:us/state:mn/county:renville/council_district:1,Renville County Commission District 1
+ocd-division/country:us/state:mn/county:renville/council_district:2,Renville County Commission District 2
+ocd-division/country:us/state:mn/county:renville/council_district:3,Renville County Commission District 3
+ocd-division/country:us/state:mn/county:renville/council_district:4,Renville County Commission District 4
+ocd-division/country:us/state:mn/county:renville/council_district:5,Renville County Commission District 5
+ocd-division/country:us/state:mn/county:rice/council_district:1,Rice County Commission District 1
+ocd-division/country:us/state:mn/county:rice/council_district:2,Rice County Commission District 2
+ocd-division/country:us/state:mn/county:rice/council_district:3,Rice County Commission District 3
+ocd-division/country:us/state:mn/county:rice/council_district:4,Rice County Commission District 4
+ocd-division/country:us/state:mn/county:rice/council_district:5,Rice County Commission District 5
+ocd-division/country:us/state:mn/county:rock/council_district:1,Rock County Commission District 1
+ocd-division/country:us/state:mn/county:rock/council_district:2,Rock County Commission District 2
+ocd-division/country:us/state:mn/county:rock/council_district:3,Rock County Commission District 3
+ocd-division/country:us/state:mn/county:rock/council_district:4,Rock County Commission District 4
+ocd-division/country:us/state:mn/county:rock/council_district:5,Rock County Commission District 5
+ocd-division/country:us/state:mn/county:roseau/council_district:1,Roseau County Commission District 1
+ocd-division/country:us/state:mn/county:roseau/council_district:2,Roseau County Commission District 2
+ocd-division/country:us/state:mn/county:roseau/council_district:3,Roseau County Commission District 3
+ocd-division/country:us/state:mn/county:roseau/council_district:4,Roseau County Commission District 4
+ocd-division/country:us/state:mn/county:roseau/council_district:5,Roseau County Commission District 5
+ocd-division/country:us/state:mn/county:scott/council_district:1,Scott County Commission District 1
+ocd-division/country:us/state:mn/county:scott/council_district:2,Scott County Commission District 2
+ocd-division/country:us/state:mn/county:scott/council_district:3,Scott County Commission District 3
+ocd-division/country:us/state:mn/county:scott/council_district:4,Scott County Commission District 4
+ocd-division/country:us/state:mn/county:scott/council_district:5,Scott County Commission District 5
+ocd-division/country:us/state:mn/county:sherburne/council_district:1,Sherburne County Commission District 1
+ocd-division/country:us/state:mn/county:sherburne/council_district:2,Sherburne County Commission District 2
+ocd-division/country:us/state:mn/county:sherburne/council_district:3,Sherburne County Commission District 3
+ocd-division/country:us/state:mn/county:sherburne/council_district:4,Sherburne County Commission District 4
+ocd-division/country:us/state:mn/county:sherburne/council_district:5,Sherburne County Commission District 5
+ocd-division/country:us/state:mn/county:sibley/council_district:1,Sibley County Commission District 1
+ocd-division/country:us/state:mn/county:sibley/council_district:2,Sibley County Commission District 2
+ocd-division/country:us/state:mn/county:sibley/council_district:3,Sibley County Commission District 3
+ocd-division/country:us/state:mn/county:sibley/council_district:4,Sibley County Commission District 4
+ocd-division/country:us/state:mn/county:sibley/council_district:5,Sibley County Commission District 5
+ocd-division/country:us/state:mn/county:st_louis/council_district:1,St. Louis County Commission District 1
+ocd-division/country:us/state:mn/county:st_louis/council_district:2,St. Louis County Commission District 2
+ocd-division/country:us/state:mn/county:st_louis/council_district:3,St. Louis County Commission District 3
+ocd-division/country:us/state:mn/county:st_louis/council_district:4,St. Louis County Commission District 4
+ocd-division/country:us/state:mn/county:st_louis/council_district:5,St. Louis County Commission District 5
+ocd-division/country:us/state:mn/county:st_louis/council_district:6,St. Louis County Commission District 6
+ocd-division/country:us/state:mn/county:st_louis/council_district:7,St. Louis County Commission District 7
 ocd-division/country:us/state:mn/county:st_louis/place:duluth/council_district:1,Duluth MN city council district 1
 ocd-division/country:us/state:mn/county:st_louis/place:duluth/council_district:2,Duluth MN city council district 2
 ocd-division/country:us/state:mn/county:st_louis/place:duluth/council_district:3,Duluth MN city council district 3
 ocd-division/country:us/state:mn/county:st_louis/place:duluth/council_district:4,Duluth MN city council district 4
 ocd-division/country:us/state:mn/county:st_louis/place:duluth/council_district:5,Duluth MN city council district 5
+ocd-division/country:us/state:mn/county:stearns/council_district:1,Stearns County Commission District 1
+ocd-division/country:us/state:mn/county:stearns/council_district:2,Stearns County Commission District 2
+ocd-division/country:us/state:mn/county:stearns/council_district:3,Stearns County Commission District 3
+ocd-division/country:us/state:mn/county:stearns/council_district:4,Stearns County Commission District 4
+ocd-division/country:us/state:mn/county:stearns/council_district:5,Stearns County Commission District 5
+ocd-division/country:us/state:mn/county:steele/council_district:1,Steel County Commission District 1
+ocd-division/country:us/state:mn/county:steele/council_district:2,Steel County Commission District 2
+ocd-division/country:us/state:mn/county:steele/council_district:3,Steel County Commission District 3
+ocd-division/country:us/state:mn/county:steele/council_district:4,Steel County Commission District 4
+ocd-division/country:us/state:mn/county:steele/council_district:5,Steel County Commission District 5
+ocd-division/country:us/state:mn/county:stevens/council_district:1,Stevens County Commission District 1
+ocd-division/country:us/state:mn/county:stevens/council_district:2,Stevens County Commission District 2
+ocd-division/country:us/state:mn/county:stevens/council_district:3,Stevens County Commission District 3
+ocd-division/country:us/state:mn/county:stevens/council_district:4,Stevens County Commission District 4
+ocd-division/country:us/state:mn/county:stevens/council_district:5,Stevens County Commission District 5
+ocd-division/country:us/state:mn/county:swift/council_district:1,Swift County Commission District 1
+ocd-division/country:us/state:mn/county:swift/council_district:2,Swift County Commission District 2
+ocd-division/country:us/state:mn/county:swift/council_district:3,Swift County Commission District 3
+ocd-division/country:us/state:mn/county:swift/council_district:4,Swift County Commission District 4
+ocd-division/country:us/state:mn/county:swift/council_district:5,Swift County Commission District 5
+ocd-division/country:us/state:mn/county:todd/council_district:1,Todd County Commission District 1
+ocd-division/country:us/state:mn/county:todd/council_district:2,Todd County Commission District 2
+ocd-division/country:us/state:mn/county:todd/council_district:3,Todd County Commission District 3
+ocd-division/country:us/state:mn/county:todd/council_district:4,Todd County Commission District 4
+ocd-division/country:us/state:mn/county:todd/council_district:5,Todd County Commission District 5
+ocd-division/country:us/state:mn/county:traverse/council_district:1,Traverse County Commission District 1
+ocd-division/country:us/state:mn/county:traverse/council_district:2,Traverse County Commission District 2
+ocd-division/country:us/state:mn/county:traverse/council_district:3,Traverse County Commission District 3
+ocd-division/country:us/state:mn/county:traverse/council_district:4,Traverse County Commission District 4
+ocd-division/country:us/state:mn/county:traverse/council_district:5,Traverse County Commission District 5
+ocd-division/country:us/state:mn/county:wabasha/council_district:1,Wabash County Commission District 1
+ocd-division/country:us/state:mn/county:wabasha/council_district:2,Wabash County Commission District 2
+ocd-division/country:us/state:mn/county:wabasha/council_district:3,Wabash County Commission District 3
+ocd-division/country:us/state:mn/county:wabasha/council_district:4,Wabash County Commission District 4
+ocd-division/country:us/state:mn/county:wabasha/council_district:5,Wabash County Commission District 5
+ocd-division/country:us/state:mn/county:wadena/council_district:1,Wadena County Commission District 1
+ocd-division/country:us/state:mn/county:wadena/council_district:2,Wadena County Commission District 2
+ocd-division/country:us/state:mn/county:wadena/council_district:3,Wadena County Commission District 3
+ocd-division/country:us/state:mn/county:wadena/council_district:4,Wadena County Commission District 4
+ocd-division/country:us/state:mn/county:wadena/council_district:5,Wadena County Commission District 5
+ocd-division/country:us/state:mn/county:waseca/council_district:1,Waseca County Commission District 1
+ocd-division/country:us/state:mn/county:waseca/council_district:2,Waseca County Commission District 2
+ocd-division/country:us/state:mn/county:waseca/council_district:3,Waseca County Commission District 3
+ocd-division/country:us/state:mn/county:waseca/council_district:4,Waseca County Commission District 4
+ocd-division/country:us/state:mn/county:waseca/council_district:5,Waseca County Commission District 5
+ocd-division/country:us/state:mn/county:washington/council_district:1,Washington Councy Commission District 1
+ocd-division/country:us/state:mn/county:washington/council_district:2,Washington Councy Commission District 2
+ocd-division/country:us/state:mn/county:washington/council_district:3,Washington Councy Commission District 3
+ocd-division/country:us/state:mn/county:washington/council_district:4,Washington Councy Commission District 4
+ocd-division/country:us/state:mn/county:washington/council_district:5,Washington Councy Commission District 5
+ocd-division/country:us/state:mn/county:watonwan/council_district:1,Watonwan County Commission District 1
+ocd-division/country:us/state:mn/county:watonwan/council_district:2,Watonwan County Commission District 2
+ocd-division/country:us/state:mn/county:watonwan/council_district:3,Watonwan County Commission District 3
+ocd-division/country:us/state:mn/county:watonwan/council_district:4,Watonwan County Commission District 4
+ocd-division/country:us/state:mn/county:watonwan/council_district:5,Watonwan County Commission District 5
+ocd-division/country:us/state:mn/county:wilkin/council_district:1,Wilking County Commission District 1
+ocd-division/country:us/state:mn/county:wilkin/council_district:2,Wilking County Commission District 2
+ocd-division/country:us/state:mn/county:wilkin/council_district:3,Wilking County Commission District 3
+ocd-division/country:us/state:mn/county:wilkin/council_district:4,Wilking County Commission District 4
+ocd-division/country:us/state:mn/county:wilkin/council_district:5,Wilking County Commission District 5
+ocd-division/country:us/state:mn/county:winona/council_district:1,Winona County Commission District 1
+ocd-division/country:us/state:mn/county:winona/council_district:2,Winona County Commission District 2
+ocd-division/country:us/state:mn/county:winona/council_district:3,Winona County Commission District 3
+ocd-division/country:us/state:mn/county:winona/council_district:4,Winona County Commission District 4
+ocd-division/country:us/state:mn/county:winona/council_district:5,Winona County Commission District 5
+ocd-division/country:us/state:mn/county:wright/council_district:1,Wright County Commission District 1
+ocd-division/country:us/state:mn/county:wright/council_district:2,Wright County Commission District 2
+ocd-division/country:us/state:mn/county:wright/council_district:3,Wright County Commission District 3
+ocd-division/country:us/state:mn/county:wright/council_district:4,Wright County Commission District 4
+ocd-division/country:us/state:mn/county:wright/council_district:5,Wright County Commission District 5
 ocd-division/country:us/state:mn/place:minneapolis/ward:1,Minneapolis MN ward 1
 ocd-division/country:us/state:mn/place:minneapolis/ward:2,Minneapolis MN ward 2
 ocd-division/country:us/state:mn/place:minneapolis/ward:3,Minneapolis MN ward 3
@@ -23,24 +475,3 @@ ocd-division/country:us/state:mn/place:st_paul/ward:4,St Paul MN City Council wa
 ocd-division/country:us/state:mn/place:st_paul/ward:5,St Paul MN City Council ward 5
 ocd-division/country:us/state:mn/place:st_paul/ward:6,St Paul MN City Council ward 6
 ocd-division/country:us/state:mn/place:st_paul/ward:7,St Paul MN City Council ward 7
-ocd-division/country:us/state:mn/county:dakota/council_district:1,Dakota County MN Board of Commissioners District 1
-ocd-division/country:us/state:mn/county:dakota/council_district:2,Dakota County MN Board of Commissioners District 2
-ocd-division/country:us/state:mn/county:dakota/council_district:3,Dakota County MN Board of Commissioners District 3
-ocd-division/country:us/state:mn/county:dakota/council_district:4,Dakota County MN Board of Commissioners District 4
-ocd-division/country:us/state:mn/county:dakota/council_district:5,Dakota County MN Board of Commissioners District 5
-ocd-division/country:us/state:mn/county:dakota/council_district:6,Dakota County MN Board of Commissioners District 6
-ocd-division/country:us/state:mn/county:dakota/council_district:7,Dakota County MN Board of Commissioners District 7
-ocd-division/country:us/state:mn/county:hennepin/council_district:1,Hennepin County MN Board of County Commisioners District 1
-ocd-division/country:us/state:mn/county:hennepin/council_district:2,Hennepin County MN Board of County Commisioners District 2
-ocd-division/country:us/state:mn/county:hennepin/council_district:3,Hennepin County MN Board of County Commisioners District 3
-ocd-division/country:us/state:mn/county:hennepin/council_district:4,Hennepin County MN Board of County Commisioners District 4
-ocd-division/country:us/state:mn/county:hennepin/council_district:5,Hennepin County MN Board of County Commisioners District 5
-ocd-division/country:us/state:mn/county:hennepin/council_district:6,Hennepin County MN Board of County Commisioners District 6
-ocd-division/country:us/state:mn/county:hennepin/council_district:7,Hennepin County MN Board of County Commisioners District 7
-ocd-division/country:us/state:mn/county:ramsey/council_district:1,Ramsey County MN Board of Commissioners District 1
-ocd-division/country:us/state:mn/county:ramsey/council_district:2,Ramsey County MN Board of Commissioners District 2
-ocd-division/country:us/state:mn/county:ramsey/council_district:3,Ramsey County MN Board of Commissioners District 3
-ocd-division/country:us/state:mn/county:ramsey/council_district:4,Ramsey County MN Board of Commissioners District 4
-ocd-division/country:us/state:mn/county:ramsey/council_district:5,Ramsey County MN Board of Commissioners District 5
-ocd-division/country:us/state:mn/county:ramsey/council_district:6,Ramsey County MN Board of Commissioners District 6
-ocd-division/country:us/state:mn/county:ramsey/council_district:7,Ramsey County MN Board of Commissioners District 7
