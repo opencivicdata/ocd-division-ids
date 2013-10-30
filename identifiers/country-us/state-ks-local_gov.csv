@@ -1,26 +1,222 @@
-ocd-division/country:us/state:ks/place:wichita/council_district:1,Wichita KS city council district 1
-ocd-division/country:us/state:ks/place:wichita/council_district:2,Wichita KS city council district 2
-ocd-division/country:us/state:ks/place:wichita/council_district:3,Wichita KS city council district 3
-ocd-division/country:us/state:ks/place:wichita/council_district:4,Wichita KS city council district 4
-ocd-division/country:us/state:ks/place:wichita/council_district:5,Wichita KS city council district 5
-ocd-division/country:us/state:ks/place:wichita/council_district:6,Wichita KS city council district 6
+ocd-division/country:us/state:ks/county:anderson/council_district:1,Anderson County Commissioner District 1
+ocd-division/country:us/state:ks/county:anderson/council_district:2,Anderson County Commissioner District 2
+ocd-division/country:us/state:ks/county:anderson/council_district:3,Anderson County Commissioner District 3
+ocd-division/country:us/state:ks/county:atchison/council_district:1,Atchison County Commissioner District 1
+ocd-division/country:us/state:ks/county:atchison/council_district:2,Atchison County Commissioner District 2
+ocd-division/country:us/state:ks/county:atchison/council_district:3,Atchison County Commissioner District 3
+ocd-division/country:us/state:ks/county:barton/council_district:1,Barton County Commissioner District 1
+ocd-division/country:us/state:ks/county:barton/council_district:2,Barton County Commissioner District 2
+ocd-division/country:us/state:ks/county:barton/council_district:3,Barton County Commissioner District 3
+ocd-division/country:us/state:ks/county:barton/council_district:4,Barton County Commissioner District 4
+ocd-division/country:us/state:ks/county:barton/council_district:5,Barton County Commissioner District 5
+ocd-division/country:us/state:ks/county:bourbon/council_district:1,Bourbon County Commissioner District 1
+ocd-division/country:us/state:ks/county:bourbon/council_district:2,Bourbon County Commissioner District 2
+ocd-division/country:us/state:ks/county:bourbon/council_district:3,Bourbon County Commissioner District 3
+ocd-division/country:us/state:ks/county:brown/council_district:1,Brown County Commissioner District 1
+ocd-division/country:us/state:ks/county:brown/council_district:2,Brown County Commissioner District 2
+ocd-division/country:us/state:ks/county:brown/council_district:3,Brown County Commissioner District 3
+ocd-division/country:us/state:ks/county:butler/council_district:1,Butler County Commissioner District 1
+ocd-division/country:us/state:ks/county:butler/council_district:2,Butler County Commissioner District 2
+ocd-division/country:us/state:ks/county:butler/council_district:3,Butler County Commissioner District 3
+ocd-division/country:us/state:ks/county:butler/council_district:4,Butler County Commissioner District 4
+ocd-division/country:us/state:ks/county:butler/council_district:5,Butler County Commissioner District 5
+ocd-division/country:us/state:ks/county:cloud/council_district:1,Cloud County Commissioner District 1
+ocd-division/country:us/state:ks/county:cloud/council_district:2,Cloud County Commissioner District 2
+ocd-division/country:us/state:ks/county:cloud/council_district:3,Cloud County Commissioner District 3
+ocd-division/country:us/state:ks/county:coffey/council_district:1,Coffey County Commissioner District 1
+ocd-division/country:us/state:ks/county:coffey/council_district:2,Coffey County Commissioner District 2
+ocd-division/country:us/state:ks/county:coffey/council_district:3,Coffey County Commissioner District 3
+ocd-division/country:us/state:ks/county:coffey/council_district:4,Coffey County Commissioner District 4
+ocd-division/country:us/state:ks/county:coffey/council_district:5,Coffey County Commissioner District 5
+ocd-division/country:us/state:ks/county:cowley/council_district:1,Cowley County Commissioner District 1
+ocd-division/country:us/state:ks/county:cowley/council_district:2,Cowley County Commissioner District 2
+ocd-division/country:us/state:ks/county:cowley/council_district:3,Cowley County Commissioner District 3
+ocd-division/country:us/state:ks/county:crawford/council_district:1,Crawford County Commissioner District 1
+ocd-division/country:us/state:ks/county:crawford/council_district:2,Crawford County Commissioner District 2
+ocd-division/country:us/state:ks/county:crawford/council_district:3,Crawford County Commissioner District 3
+ocd-division/country:us/state:ks/county:douglas/council_district:1,Douglas County District 1
+ocd-division/country:us/state:ks/county:douglas/council_district:2,Douglas County District 2
+ocd-division/country:us/state:ks/county:douglas/council_district:3,Douglas County District 3
+ocd-division/country:us/state:ks/county:elk/council_district:1,Elk County Commissioner District 1
+ocd-division/country:us/state:ks/county:elk/council_district:2,Elk County Commissioner District 2
+ocd-division/country:us/state:ks/county:elk/council_district:3,Elk County Commissioner District 3
+ocd-division/country:us/state:ks/county:ellis/council_district:1,Ellis County Commissioner District 1
+ocd-division/country:us/state:ks/county:ellis/council_district:2,Ellis County Commissioner District 2
+ocd-division/country:us/state:ks/county:ellis/council_district:3,Ellis County Commissioner District 3
+ocd-division/country:us/state:ks/county:finney/council_district:1,Finney County Commissioner District 1
+ocd-division/country:us/state:ks/county:finney/council_district:2,Finney County Commissioner District 2
+ocd-division/country:us/state:ks/county:finney/council_district:3,Finney County Commissioner District 3
+ocd-division/country:us/state:ks/county:finney/council_district:4,Finney County Commissioner District 4
+ocd-division/country:us/state:ks/county:finney/council_district:5,Finney County Commissioner District 5
+ocd-division/country:us/state:ks/county:ford/council_district:1,Ford County Commissioner District 1
+ocd-division/country:us/state:ks/county:ford/council_district:2,Ford County Commissioner District 2
+ocd-division/country:us/state:ks/county:ford/council_district:3,Ford County Commissioner District 3
+ocd-division/country:us/state:ks/county:franklin/council_district:1,Franklin County Commissioner District 1
+ocd-division/country:us/state:ks/county:franklin/council_district:2,Franklin County Commissioner District 2
+ocd-division/country:us/state:ks/county:franklin/council_district:3,Franklin County Commissioner District 3
+ocd-division/country:us/state:ks/county:franklin/council_district:4,Franklin County Commissioner District 4
+ocd-division/country:us/state:ks/county:franklin/council_district:5,Franklin County Commissioner District 5
+ocd-division/country:us/state:ks/county:graham/council_district:1,Graham County Commissioner District 1
+ocd-division/country:us/state:ks/county:graham/council_district:2,Graham County Commissioner District 2
+ocd-division/country:us/state:ks/county:graham/council_district:3,Graham County Commissioner District 3
+ocd-division/country:us/state:ks/county:grant/council_district:1,Grant County Commissioner District 1
+ocd-division/country:us/state:ks/county:grant/council_district:2,Grant County Commissioner District 2
+ocd-division/country:us/state:ks/county:grant/council_district:3,Grant County Commissioner District 3
+ocd-division/country:us/state:ks/county:gray/council_district:1,Gray County Commissioner District 1
+ocd-division/country:us/state:ks/county:gray/council_district:2,Gray County Commissioner District 2
+ocd-division/country:us/state:ks/county:gray/council_district:3,Gray County Commissioner District 3
+ocd-division/country:us/state:ks/county:harper/council_district:1,Harper County Commissioner District 1
+ocd-division/country:us/state:ks/county:harper/council_district:2,Harper County Commissioner District 2
+ocd-division/country:us/state:ks/county:harper/council_district:3,Harper County Commissioner District 3
+ocd-division/country:us/state:ks/county:harvey/council_district:1,Harvey County Commissioner District 1
+ocd-division/country:us/state:ks/county:harvey/council_district:2,Harvey County Commissioner District 2
+ocd-division/country:us/state:ks/county:harvey/council_district:3,Harvey County Commissioner District 3
+ocd-division/country:us/state:ks/county:hodgeman/council_district:1,Hodgeman County Commissioner District 1
+ocd-division/country:us/state:ks/county:hodgeman/council_district:2,Hodgeman County Commissioner District 2
+ocd-division/country:us/state:ks/county:hodgeman/council_district:3,Hodgeman County Commissioner District 3
+ocd-division/country:us/state:ks/county:hodgeman/council_district:4,Hodgeman County Commissioner District 4
+ocd-division/country:us/state:ks/county:hodgeman/council_district:5,Hodgeman County Commissioner District 5
+ocd-division/country:us/state:ks/county:jefferson/council_district:1,Jefferson County Commissioner District 1
+ocd-division/country:us/state:ks/county:jefferson/council_district:2,Jefferson County Commissioner District 2
+ocd-division/country:us/state:ks/county:jefferson/council_district:3,Jefferson County Commissioner District 3
 ocd-division/country:us/state:ks/county:johnson/council_district:1,Johnson County KS Commissioner District 1
 ocd-division/country:us/state:ks/county:johnson/council_district:2,Johnson County KS Commissioner District 2
 ocd-division/country:us/state:ks/county:johnson/council_district:3,Johnson County KS Commissioner District 3
 ocd-division/country:us/state:ks/county:johnson/council_district:4,Johnson County KS Commissioner District 4
 ocd-division/country:us/state:ks/county:johnson/council_district:5,Johnson County KS Commissioner District 5
 ocd-division/country:us/state:ks/county:johnson/council_district:6,Johnson County KS Commissioner District 6
+ocd-division/country:us/state:ks/county:kingman/council_district:1,Kingman County Commissioner District 1
+ocd-division/country:us/state:ks/county:kingman/council_district:2,Kingman County Commissioner District 2
+ocd-division/country:us/state:ks/county:kingman/council_district:3,Kingman County Commissioner District 3
+ocd-division/country:us/state:ks/county:kiowa/council_district:1,Kiowa County Commissioner District 1
+ocd-division/country:us/state:ks/county:kiowa/council_district:2,Kiowa County Commissioner District 2
+ocd-division/country:us/state:ks/county:kiowa/council_district:3,Kiowa County Commissioner District 3
+ocd-division/country:us/state:ks/county:labette/council_district:1,Labette County Commissioner District 1
+ocd-division/country:us/state:ks/county:labette/council_district:2,Labette County Commissioner District 2
+ocd-division/country:us/state:ks/county:labette/council_district:3,Labette County Commissioner District 3
+ocd-division/country:us/state:ks/county:leavenworth/council_district:1,Leavenworth County Commissioner District 1
+ocd-division/country:us/state:ks/county:leavenworth/council_district:2,Leavenworth County Commissioner District 2
+ocd-division/country:us/state:ks/county:leavenworth/council_district:3,Leavenworth County Commissioner District 3
+ocd-division/country:us/state:ks/county:lincoln/council_district:1,Lincoln County Commissioner District 1
+ocd-division/country:us/state:ks/county:lincoln/council_district:2,Lincoln County Commissioner District 2
+ocd-division/country:us/state:ks/county:lincoln/council_district:3,Lincoln County Commissioner District 3
+ocd-division/country:us/state:ks/county:marion/council_district:1,Marion County Commissioner District 1
+ocd-division/country:us/state:ks/county:marion/council_district:2,Marion County Commissioner District 2
+ocd-division/country:us/state:ks/county:marion/council_district:3,Marion County Commissioner District 3
+ocd-division/country:us/state:ks/county:marshall/council_district:1,Marshall County Commissioner District 1
+ocd-division/country:us/state:ks/county:marshall/council_district:2,Marshall County Commissioner District 2
+ocd-division/country:us/state:ks/county:marshall/council_district:3,Marshall County Commissioner District 3
+ocd-division/country:us/state:ks/county:mcpherson/council_district:1,McPherson County Commissioner District 1
+ocd-division/country:us/state:ks/county:mcpherson/council_district:2,McPherson County Commissioner District 2
+ocd-division/country:us/state:ks/county:mcpherson/council_district:3,McPherson County Commissioner District 3
+ocd-division/country:us/state:ks/county:meade/council_district:fowler,Meade County Commissioner District Fowler
+ocd-division/country:us/state:ks/county:meade/council_district:meade,Meade County Commissioner District Meade
+ocd-division/country:us/state:ks/county:meade/council_district:plains,Meade County Commissioner District Plains
+ocd-division/country:us/state:ks/county:montgomery/council_district:1,Montgomery County Commissioner District 1
+ocd-division/country:us/state:ks/county:montgomery/council_district:2,Montgomery County Commissioner District 2
+ocd-division/country:us/state:ks/county:montgomery/council_district:3,Montgomery County Commissioner District 3
+ocd-division/country:us/state:ks/county:morris/council_district:1,Morris County Commissioner District 1
+ocd-division/country:us/state:ks/county:morris/council_district:2,Morris County Commissioner District 2
+ocd-division/country:us/state:ks/county:morris/council_district:3,Morris County Commissioner District 3
+ocd-division/country:us/state:ks/county:morton/council_district:1,Morton County Commissioner District 1
+ocd-division/country:us/state:ks/county:morton/council_district:2,Morton County Commissioner District 2
+ocd-division/country:us/state:ks/county:morton/council_district:3,Morton County Commissioner District 3
+ocd-division/country:us/state:ks/county:neosho/council_district:1,Neosho County Commissioner District 1
+ocd-division/country:us/state:ks/county:neosho/council_district:2,Neosho County Commissioner District 2
+ocd-division/country:us/state:ks/county:neosho/council_district:3,Neosho County Commissioner District 3
+ocd-division/country:us/state:ks/county:ness/council_district:1,Ness County Commissioner District 1
+ocd-division/country:us/state:ks/county:ness/council_district:2,Ness County Commissioner District 2
+ocd-division/country:us/state:ks/county:ness/council_district:3,Ness County Commissioner District 3
+ocd-division/country:us/state:ks/county:osage/council_district:1,Ness County Commissioner District 1
+ocd-division/country:us/state:ks/county:osage/council_district:2,Ness County Commissioner District 2
+ocd-division/country:us/state:ks/county:osage/council_district:3,Ness County Commissioner District 3
+ocd-division/country:us/state:ks/county:osborne/council_district:1,Osborne County Commissioner District 1
+ocd-division/country:us/state:ks/county:osborne/council_district:2,Osborne County Commissioner District 2
+ocd-division/country:us/state:ks/county:osborne/council_district:3,Osborne County Commissioner District 3
+ocd-division/country:us/state:ks/county:ottawa/council_district:1,Ottawa County Commissioner District 1
+ocd-division/country:us/state:ks/county:ottawa/council_district:2,Ottawa County Commissioner District 2
+ocd-division/country:us/state:ks/county:ottawa/council_district:3,Ottawa County Commissioner District 3
+ocd-division/country:us/state:ks/county:pawnee/council_district:1,Pawnee County Commissioner District 1
+ocd-division/country:us/state:ks/county:pawnee/council_district:2,Pawnee County Commissioner District 2
+ocd-division/country:us/state:ks/county:pawnee/council_district:3,Pawnee County Commissioner District 3
+ocd-division/country:us/state:ks/county:phillips/council_district:1,Phillips County Commissioner District 1
+ocd-division/country:us/state:ks/county:phillips/council_district:2,Phillips County Commissioner District 2
+ocd-division/country:us/state:ks/county:phillips/council_district:3,Phillips County Commissioner District 3
+ocd-division/country:us/state:ks/county:reno/council_district:1,Reno County Commissioner District 1
+ocd-division/country:us/state:ks/county:reno/council_district:2,Reno County Commissioner District 2
+ocd-division/country:us/state:ks/county:reno/council_district:3,Reno County Commissioner District 3
+ocd-division/country:us/state:ks/county:republic/council_district:1,Republic County Commissioner District 1
+ocd-division/country:us/state:ks/county:republic/council_district:2,Republic County Commissioner District 2
+ocd-division/country:us/state:ks/county:republic/council_district:3,Republic County Commissioner District 3
+ocd-division/country:us/state:ks/county:rice/council_district:1,Rice County Commissioner District 1
+ocd-division/country:us/state:ks/county:rice/council_district:2,Rice County Commissioner District 2
+ocd-division/country:us/state:ks/county:rice/council_district:3,Rice County Commissioner District 3
+ocd-division/country:us/state:ks/county:riley/council_district:1,Riley County Commissioner District 1
+ocd-division/country:us/state:ks/county:riley/council_district:2,Riley County Commissioner District 2
+ocd-division/country:us/state:ks/county:riley/council_district:3,Riley County Commissioner District 3
+ocd-division/country:us/state:ks/county:rush/council_district:1,Rush County Commissioner District 1
+ocd-division/country:us/state:ks/county:rush/council_district:2,Rush County Commissioner District 2
+ocd-division/country:us/state:ks/county:rush/council_district:3,Rush County Commissioner District 3
+ocd-division/country:us/state:ks/county:russell/council_district:1,Russell County Commissioner District 1
+ocd-division/country:us/state:ks/county:russell/council_district:2,Russell County Commissioner District 2
+ocd-division/country:us/state:ks/county:russell/council_district:3,Russell County Commissioner District 3
+ocd-division/country:us/state:ks/county:saline/council_district:1,Saline County Commissioner District 1
+ocd-division/country:us/state:ks/county:saline/council_district:2,Saline County Commissioner District 2
+ocd-division/country:us/state:ks/county:saline/council_district:3,Saline County Commissioner District 3
 ocd-division/country:us/state:ks/county:sedgwick/council_district:1,Sedgwick County KS Board of County Commissioners District 1
 ocd-division/country:us/state:ks/county:sedgwick/council_district:2,Sedgwick County KS Board of County Commissioners District 2
 ocd-division/country:us/state:ks/county:sedgwick/council_district:3,Sedgwick County KS Board of County Commissioners District 3
 ocd-division/country:us/state:ks/county:sedgwick/council_district:4,Sedgwick County KS Board of County Commissioners District 4
 ocd-division/country:us/state:ks/county:sedgwick/council_district:5,Sedgwick County KS Board of County Commissioners District 5
+ocd-division/country:us/state:ks/county:seward/council_district:1,Seward County Commissioner District 1
+ocd-division/country:us/state:ks/county:seward/council_district:2,Seward County Commissioner District 2
+ocd-division/country:us/state:ks/county:seward/council_district:3,Seward County Commissioner District 3
+ocd-division/country:us/state:ks/county:seward/council_district:4,Seward County Commissioner District 4
+ocd-division/country:us/state:ks/county:seward/council_district:5,Seward County Commissioner District 5
 ocd-division/country:us/state:ks/county:shawnee/council_district:1,Shawnee County KS Board of County Commissioners District 1
 ocd-division/country:us/state:ks/county:shawnee/council_district:2,Shawnee County KS Board of County Commissioners District 2
 ocd-division/country:us/state:ks/county:shawnee/council_district:3,Shawnee County KS Board of County Commissioners District 3
+ocd-division/country:us/state:ks/county:sheridan/council_district:1,Sheridan County Commissioner District 1
+ocd-division/country:us/state:ks/county:sheridan/council_district:2,Sheridan County Commissioner District 2
+ocd-division/country:us/state:ks/county:sheridan/council_district:3,Sheridan County Commissioner District 3
+ocd-division/country:us/state:ks/county:stevens/council_district:1,Stevens County Commissioner District 1
+ocd-division/country:us/state:ks/county:stevens/council_district:2,Stevens County Commissioner District 2
+ocd-division/country:us/state:ks/county:stevens/council_district:3,Stevens County Commissioner District 3
+ocd-division/country:us/state:ks/county:sumner/council_district:1,Sumner County Commissioner District 1
+ocd-division/country:us/state:ks/county:sumner/council_district:2,Sumner County Commissioner District 2
+ocd-division/country:us/state:ks/county:sumner/council_district:3,Sumner County Commissioner District 3
+ocd-division/country:us/state:ks/county:thomas/council_district:1,Thomas County Commissioner District 1
+ocd-division/country:us/state:ks/county:thomas/council_district:2,Thomas County Commissioner District 2
+ocd-division/country:us/state:ks/county:thomas/council_district:3,Thomas County Commissioner District 3
+ocd-division/country:us/state:ks/county:wabaunsee/council_district:1,Wabaunsee County Commissioner District 1
+ocd-division/country:us/state:ks/county:wabaunsee/council_district:2,Wabaunsee County Commissioner District 2
+ocd-division/country:us/state:ks/county:wabaunsee/council_district:3,Wabaunsee County Commissioner District 3
+ocd-division/country:us/state:ks/county:washington/council_district:1,Washington County Commissioner District 1
+ocd-division/country:us/state:ks/county:washington/council_district:2,Washington County Commissioner District 2
+ocd-division/country:us/state:ks/county:washington/council_district:3,Washington County Commissioner District 3
+ocd-division/country:us/state:ks/county:wilson/council_district:1,Wilson County Commissioner District 1
+ocd-division/country:us/state:ks/county:wilson/council_district:2,Wilson County Commissioner District 2
+ocd-division/country:us/state:ks/county:wilson/council_district:3,Wilson County Commissioner District 3
+ocd-division/country:us/state:ks/county:woodson/council_district:1,Woodson County Commissioner District 1
+ocd-division/country:us/state:ks/county:woodson/council_district:2,Woodson County Commissioner District 2
+ocd-division/country:us/state:ks/county:woodson/council_district:3,Woodson County Commissioner District 3
+ocd-division/country:us/state:ks/county:wyandotte/council_district:1,Wyandotte County Commissioner District 1
+ocd-division/country:us/state:ks/county:wyandotte/council_district:2,Wyandotte County Commissioner District 2
+ocd-division/country:us/state:ks/county:wyandotte/council_district:3,Wyandotte County Commissioner District 3
+ocd-division/country:us/state:ks/county:wyandotte/council_district:4,Wyandotte County Commissioner District 4
+ocd-division/country:us/state:ks/county:wyandotte/council_district:5,Wyandotte County Commissioner District 5
+ocd-division/country:us/state:ks/county:wyandotte/council_district:6,Wyandotte County Commissioner District 6
+ocd-division/country:us/state:ks/county:wyandotte/council_district:7,Wyandotte County Commissioner District 7
+ocd-division/country:us/state:ks/county:wyandotte/council_district:8,Wyandotte County Commissioner District 8
 ocd-division/country:us/state:ks/place:overland_park/ward:1,Overland Park KS ward 1
 ocd-division/country:us/state:ks/place:overland_park/ward:2,Overland Park KS ward 2
 ocd-division/country:us/state:ks/place:overland_park/ward:3,Overland Park KS ward 3
 ocd-division/country:us/state:ks/place:overland_park/ward:4,Overland Park KS ward 4
 ocd-division/country:us/state:ks/place:overland_park/ward:5,Overland Park KS ward 5
 ocd-division/country:us/state:ks/place:overland_park/ward:6,Overland Park KS ward 6
+ocd-division/country:us/state:ks/place:wichita/council_district:1,Wichita KS city council district 1
+ocd-division/country:us/state:ks/place:wichita/council_district:2,Wichita KS city council district 2
+ocd-division/country:us/state:ks/place:wichita/council_district:3,Wichita KS city council district 3
+ocd-division/country:us/state:ks/place:wichita/council_district:4,Wichita KS city council district 4
+ocd-division/country:us/state:ks/place:wichita/council_district:5,Wichita KS city council district 5
+ocd-division/country:us/state:ks/place:wichita/council_district:6,Wichita KS city council district 6
