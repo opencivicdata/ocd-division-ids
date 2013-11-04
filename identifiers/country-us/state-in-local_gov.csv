@@ -72,3 +72,10 @@ ocd-division/country:us/state:in/county:vanderburgh/council_district:4,Vanderbur
 ocd-division/country:us/state:in/county:vanderburgh/commissioner_district:1,Vanderburgh County IN County Commissioner District 1
 ocd-division/country:us/state:in/county:vanderburgh/commissioner_district:2,Vanderburgh County IN County Commissioner District 2
 ocd-division/country:us/state:in/county:vanderburgh/commissioner_district:3,Vanderburgh County IN County Commissioner District 3
+ocd-division/country:us/state:in/county:porter/council_district:1,Porter County IN council district 1
+ocd-division/country:us/state:in/county:porter/council_district:2,Porter County IN council district 2
+ocd-division/country:us/state:in/county:porter/council_district:3,Porter County IN council district 3
+ocd-division/country:us/state:in/county:porter/council_district:4,Porter County IN council district 4
+ocd-division/country:us/state:in/county:porter/commissioner_district:north,Porter County IN County Commissioner North District
+ocd-division/country:us/state:in/county:porter/commissioner_district:center,Porter County IN County Commissioner Center District
+ocd-division/country:us/state:in/county:porter/commissioner_district:south,Porter County IN County Commissioner South District
