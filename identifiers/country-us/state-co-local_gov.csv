@@ -1,3 +1,41 @@
+ocd-division/country:us/state:co/county:adams/council_district:1,Adams County CO Commissioner District 1
+ocd-division/country:us/state:co/county:adams/council_district:2,Adams County CO Commissioner District 2
+ocd-division/country:us/state:co/county:adams/council_district:3,Adams County CO Commissioner District 3
+ocd-division/country:us/state:co/county:alamosa/council_district:1,Alamosa County Commission District 1
+ocd-division/country:us/state:co/county:alamosa/council_district:2,Alamosa County Commission District 2
+ocd-division/country:us/state:co/county:alamosa/council_district:3,Alamosa County Commission District 3
+ocd-division/country:us/state:co/county:arapahoe/council_district:1,Arapahoe County CO Commissioner District 1
+ocd-division/country:us/state:co/county:arapahoe/council_district:2,Arapahoe County CO Commissioner District 2
+ocd-division/country:us/state:co/county:arapahoe/council_district:3,Arapahoe County CO Commissioner District 3
+ocd-division/country:us/state:co/county:arapahoe/council_district:4,Arapahoe County CO Commissioner District 4
+ocd-division/country:us/state:co/county:arapahoe/council_district:5,Arapahoe County CO Commissioner District 5
+ocd-division/country:us/state:co/county:archuleta/council_district:1,Archuleta County Commission District 1
+ocd-division/country:us/state:co/county:archuleta/council_district:2,Archuleta County Commission District 2
+ocd-division/country:us/state:co/county:archuleta/council_district:3,Archuleta County Commission District 3
+ocd-division/country:us/state:co/county:boulder/council_district:1,Boulder County Commission District 1
+ocd-division/country:us/state:co/county:boulder/council_district:2,Boulder County Commission District 2
+ocd-division/country:us/state:co/county:boulder/council_district:3,Boulder County Commission District 3
+ocd-division/country:us/state:co/county:chaffee/council_district:1,Chaffee County Commission District 1
+ocd-division/country:us/state:co/county:chaffee/council_district:2,Chaffee County Commission District 2
+ocd-division/country:us/state:co/county:chaffee/council_district:3,Chaffee County Commission District 3
+ocd-division/country:us/state:co/county:cheyenne/council_district:1,Cheyenne County Commission District 1
+ocd-division/country:us/state:co/county:cheyenne/council_district:2,Cheyenne County Commission District 2
+ocd-division/country:us/state:co/county:cheyenne/council_district:3,Cheyenne County Commission District 3
+ocd-division/country:us/state:co/county:clear_creek/council_district:1,Clear Creek County Commission District 1
+ocd-division/country:us/state:co/county:clear_creek/council_district:2,Clear Creek County Commission District 2
+ocd-division/country:us/state:co/county:clear_creek/council_district:3,Clear Creek County Commission District 3
+ocd-division/country:us/state:co/county:conejos/council_district:1,Conejos County Commission District 1
+ocd-division/country:us/state:co/county:conejos/council_district:2,Conejos County Commission District 2
+ocd-division/country:us/state:co/county:conejos/council_district:3,Conejos County Commission District 3
+ocd-division/country:us/state:co/county:costilla/council_district:1,Costilla County Commission District 1
+ocd-division/country:us/state:co/county:costilla/council_district:2,Costilla County Commission District 2
+ocd-division/country:us/state:co/county:costilla/council_district:3,Costilla County Commission District 3
+ocd-division/country:us/state:co/county:crowley/council_district:1,Crowley County Commission District 1
+ocd-division/country:us/state:co/county:crowley/council_district:2,Crowley County Commission District 2
+ocd-division/country:us/state:co/county:crowley/council_district:3,Crowley County Commission District 3
+ocd-division/country:us/state:co/county:delta/council_district:1,Delta County Commission District 1
+ocd-division/country:us/state:co/county:delta/council_district:2,Delta County Commission District 2
+ocd-division/country:us/state:co/county:delta/council_district:3,Delta County Commission District 3
 ocd-division/country:us/state:co/county:denver/council_district:1,Denver CO - City Council district 1
 ocd-division/country:us/state:co/county:denver/council_district:2,Denver CO - City Council district 2
 ocd-division/country:us/state:co/county:denver/council_district:3,Denver CO - City Council district 3
@@ -9,6 +47,120 @@ ocd-division/country:us/state:co/county:denver/council_district:8,Denver CO - Ci
 ocd-division/country:us/state:co/county:denver/council_district:9,Denver CO - City Council district 9
 ocd-division/country:us/state:co/county:denver/council_district:10,Denver CO - City Council district 10
 ocd-division/country:us/state:co/county:denver/council_district:11,Denver CO - City Council district 11
+ocd-division/country:us/state:co/county:dolores/council_district:1,Dolores County Commission District 1
+ocd-division/country:us/state:co/county:dolores/council_district:2,Dolores County Commission District 2
+ocd-division/country:us/state:co/county:dolores/council_district:3,Dolores County Commission District 3
+ocd-division/country:us/state:co/county:douglas/council_district:1,Douglas County CO Commissioner District 1
+ocd-division/country:us/state:co/county:douglas/council_district:2,Douglas County CO Commissioner District 2
+ocd-division/country:us/state:co/county:douglas/council_district:3,Douglas County CO Commissioner District 3
+ocd-division/country:us/state:co/county:eagle/council_district:1,Eagle County Commission District 1
+ocd-division/country:us/state:co/county:eagle/council_district:2,Eagle County Commission District 2
+ocd-division/country:us/state:co/county:eagle/council_district:3,Eagle County Commission District 3
+ocd-division/country:us/state:co/county:el_paso/council_district:1,El Paso County CO Commissioner District 1
+ocd-division/country:us/state:co/county:el_paso/council_district:2,El Paso County CO Commissioner District 2
+ocd-division/country:us/state:co/county:el_paso/council_district:3,El Paso County CO Commissioner District 3
+ocd-division/country:us/state:co/county:el_paso/council_district:4,El Paso County CO Commissioner District 4
+ocd-division/country:us/state:co/county:el_paso/council_district:5,El Paso County CO Commissioner District 5
+ocd-division/country:us/state:co/county:elbert/council_district:1,Elbert County Commission District 1
+ocd-division/country:us/state:co/county:elbert/council_district:2,Elbert County Commission District 2
+ocd-division/country:us/state:co/county:elbert/council_district:3,Elbert County Commission District 3
+ocd-division/country:us/state:co/county:fremont/council_district:1,Fremont County Commission District 1
+ocd-division/country:us/state:co/county:fremont/council_district:2,Fremont County Commission District 2
+ocd-division/country:us/state:co/county:fremont/council_district:3,Fremont County Commission District 3
+ocd-division/country:us/state:co/county:garfield/council_district:1,Garfield County Commission District 1
+ocd-division/country:us/state:co/county:garfield/council_district:2,Garfield County Commission District 2
+ocd-division/country:us/state:co/county:garfield/council_district:3,Garfield County Commission District 3
+ocd-division/country:us/state:co/county:gilpin/council_district:1,Gilpin County Commission District 1
+ocd-division/country:us/state:co/county:gilpin/council_district:2,Gilpin County Commission District 2
+ocd-division/country:us/state:co/county:gilpin/council_district:3,Gilpin County Commission District 3
+ocd-division/country:us/state:co/county:grand/council_district:1,Grand County Commission District 1
+ocd-division/country:us/state:co/county:grand/council_district:2,Grand County Commission District 2
+ocd-division/country:us/state:co/county:grand/council_district:3,Grand County Commission District 3
+ocd-division/country:us/state:co/county:gunnison/council_district:1,Gunnison County Commission District 1
+ocd-division/country:us/state:co/county:gunnison/council_district:2,Gunnison County Commission District 2
+ocd-division/country:us/state:co/county:gunnison/council_district:3,Gunnison County Commission District 3
+ocd-division/country:us/state:co/county:huerfano/council_district:1,Huerfano County Commission District 1
+ocd-division/country:us/state:co/county:huerfano/council_district:2,Huerfano County Commission District 2
+ocd-division/country:us/state:co/county:huerfano/council_district:3,Huerfano County Commission District 3
+ocd-division/country:us/state:co/county:jefferson/council_district:1,Jefferson County CO County Board of Commissioners District 1
+ocd-division/country:us/state:co/county:jefferson/council_district:2,Jefferson County CO County Board of Commissioners District 2
+ocd-division/country:us/state:co/county:jefferson/council_district:3,Jefferson County CO County Board of Commissioners District 3
+ocd-division/country:us/state:co/county:jefferson/school_board_district:1,Jefferson County CO Board of Election district 1
+ocd-division/country:us/state:co/county:jefferson/school_board_district:2,Jefferson County CO Board of Election district 2
+ocd-division/country:us/state:co/county:jefferson/school_board_district:3,Jefferson County CO Board of Election district 3
+ocd-division/country:us/state:co/county:jefferson/school_board_district:4,Jefferson County CO Board of Election district 4
+ocd-division/country:us/state:co/county:jefferson/school_board_district:5,Jefferson County CO Board of Election district 5
+ocd-division/country:us/state:co/county:kit_carson/council_district:1,Kit Carson County Commission District 1
+ocd-division/country:us/state:co/county:kit_carson/council_district:2,Kit Carson County Commission District 2
+ocd-division/country:us/state:co/county:kit_carson/council_district:3,Kit Carson County Commission District 3
+ocd-division/country:us/state:co/county:la_plata/council_district:1,La Plata County Commission District 1
+ocd-division/country:us/state:co/county:la_plata/council_district:2,La Plata County Commission District 2
+ocd-division/country:us/state:co/county:la_plata/council_district:3,La Plata County Commission District 3
+ocd-division/country:us/state:co/county:larimer/council_district:1,Larimer County CO Commissioner District 1
+ocd-division/country:us/state:co/county:larimer/council_district:2,Larimer County CO Commissioner District 2
+ocd-division/country:us/state:co/county:larimer/council_district:3,Larimer County CO Commissioner District 3
+ocd-division/country:us/state:co/county:las_animas/council_district:1,Las Animas County Commission District 1
+ocd-division/country:us/state:co/county:las_animas/council_district:2,Las Animas County Commission District 2
+ocd-division/country:us/state:co/county:las_animas/council_district:3,Las Animas County Commission District 3
+ocd-division/country:us/state:co/county:logan/council_district:1,Logan County Commission District 1
+ocd-division/country:us/state:co/county:logan/council_district:2,Logan County Commission District 2
+ocd-division/country:us/state:co/county:logan/council_district:3,Logan County Commission District 3
+ocd-division/country:us/state:co/county:mesa/council_district:1,Mesa County CO Board of County Commissioners District 1
+ocd-division/country:us/state:co/county:mesa/council_district:2,Mesa County CO Board of County Commissioners District 2
+ocd-division/country:us/state:co/county:mesa/council_district:3,Mesa County CO Board of County Commissioners District 3
+ocd-division/country:us/state:co/county:moffat/council_district:1,Moffat County Commission District 1
+ocd-division/country:us/state:co/county:moffat/council_district:2,Moffat County Commission District 2
+ocd-division/country:us/state:co/county:moffat/council_district:3,Moffat County Commission District 3
+ocd-division/country:us/state:co/county:montrose/council_district:1,Montrose County Commission District 1
+ocd-division/country:us/state:co/county:montrose/council_district:2,Montrose County Commission District 2
+ocd-division/country:us/state:co/county:montrose/council_district:3,Montrose County Commission District 3
+ocd-division/country:us/state:co/county:morgan/council_district:1,Morgan County Commission District 1
+ocd-division/country:us/state:co/county:morgan/council_district:2,Morgan County Commission District 2
+ocd-division/country:us/state:co/county:morgan/council_district:3,Morgan County Commission District 3
+ocd-division/country:us/state:co/county:otero/council_district:1,Otero County Commission District 1
+ocd-division/country:us/state:co/county:otero/council_district:2,Otero County Commission District 2
+ocd-division/country:us/state:co/county:otero/council_district:3,Otero County Commission District 3
+ocd-division/country:us/state:co/county:ouray/council_district:1,Ouray County Commission District 1
+ocd-division/country:us/state:co/county:ouray/council_district:2,Ouray County Commission District 2
+ocd-division/country:us/state:co/county:ouray/council_district:3,Ouray County Commission District 3
+ocd-division/country:us/state:co/county:park/council_district:1,Park County Commission District 1
+ocd-division/country:us/state:co/county:park/council_district:2,Park County Commission District 2
+ocd-division/country:us/state:co/county:park/council_district:3,Park County Commission District 3
+ocd-division/country:us/state:co/county:pitkin/council_district:1,Pitkin County Commission District 1
+ocd-division/country:us/state:co/county:pitkin/council_district:2,Pitkin County Commission District 2
+ocd-division/country:us/state:co/county:pitkin/council_district:3,Pitkin County Commission District 3
+ocd-division/country:us/state:co/county:pitkin/council_district:4,Pitkin County Commission District 4
+ocd-division/country:us/state:co/county:pitkin/council_district:5,Pitkin County Commission District 5
+ocd-division/country:us/state:co/county:prowers/council_district:1,Prowers County Commission District 1
+ocd-division/country:us/state:co/county:prowers/council_district:2,Prowers County Commission District 2
+ocd-division/country:us/state:co/county:prowers/council_district:3,Prowers County Commission District 3
+ocd-division/country:us/state:co/county:pueblo/council_district:1,Pueblo County CO Board of County Commissioners District 1
+ocd-division/country:us/state:co/county:pueblo/council_district:2,Pueblo County CO Board of County Commissioners District 2
+ocd-division/country:us/state:co/county:pueblo/council_district:3,Pueblo County CO Board of County Commissioners District 3
+ocd-division/country:us/state:co/county:routt/council_district:1,Routt County Commission District 1
+ocd-division/country:us/state:co/county:routt/council_district:2,Routt County Commission District 2
+ocd-division/country:us/state:co/county:routt/council_district:3,Routt County Commission District 3
+ocd-division/country:us/state:co/county:san_juan/council_district:1,San Juan County Commission District 1
+ocd-division/country:us/state:co/county:san_juan/council_district:2,San Juan County Commission District 2
+ocd-division/country:us/state:co/county:san_juan/council_district:3,San Juan County Commission District 3
+ocd-division/country:us/state:co/county:san_miguel/council_district:1,San Miguel County Commission District 1
+ocd-division/country:us/state:co/county:san_miguel/council_district:2,San Miguel County Commission District 2
+ocd-division/country:us/state:co/county:san_miguel/council_district:3,San Miguel County Commission District 3
+ocd-division/country:us/state:co/county:sedgwick/council_district:1,Sedgwick County Commission District 1
+ocd-division/country:us/state:co/county:sedgwick/council_district:2,Sedgwick County Commission District 2
+ocd-division/country:us/state:co/county:sedgwick/council_district:3,Sedgwick County Commission District 3
+ocd-division/country:us/state:co/county:summit/council_district:1,Summit County Commission District 1
+ocd-division/country:us/state:co/county:summit/council_district:2,Summit County Commission District 2
+ocd-division/country:us/state:co/county:summit/council_district:3,Summit County Commission District 3
+ocd-division/country:us/state:co/county:teller/council_district:1,Teller County Commission District 1
+ocd-division/country:us/state:co/county:teller/council_district:2,Teller County Commission District 2
+ocd-division/country:us/state:co/county:teller/council_district:3,Teller County Commission District 3
+ocd-division/country:us/state:co/county:weld/council_district:1,Weld County CO Board of County Commissioners District 1
+ocd-division/country:us/state:co/county:weld/council_district:2,Weld County CO Board of County Commissioners District 2
+ocd-division/country:us/state:co/county:weld/council_district:3,Weld County CO Board of County Commissioners District 3
+ocd-division/country:us/state:co/county:yuma/council_district:1,Yuma County Commission District 1
+ocd-division/country:us/state:co/county:yuma/council_district:2,Yuma County Commission District 2
+ocd-division/country:us/state:co/county:yuma/council_district:3,Yuma County Commission District 3
 ocd-division/country:us/state:co/place:aurora/ward:1,Aurora CO City Council ward I (1)
 ocd-division/country:us/state:co/place:aurora/ward:2,Aurora CO City Council ward II (2)
 ocd-division/country:us/state:co/place:aurora/ward:3,Aurora CO City Council ward III (3)
@@ -27,42 +179,6 @@ ocd-division/country:us/state:co/place:fort_collins/council_district:3,Fort Coll
 ocd-division/country:us/state:co/place:fort_collins/council_district:4,Fort Collins CO City Council district 4
 ocd-division/country:us/state:co/place:fort_collins/council_district:5,Fort Collins CO City Council district 5
 ocd-division/country:us/state:co/place:fort_collins/council_district:6,Fort Collins CO City Council district 6
-ocd-division/country:us/state:co/county:adams/council_district:1,Adams County CO Commissioner District 1
-ocd-division/country:us/state:co/county:adams/council_district:2,Adams County CO Commissioner District 2
-ocd-division/country:us/state:co/county:adams/council_district:3,Adams County CO Commissioner District 3
-ocd-division/country:us/state:co/county:arapahoe/council_district:1,Arapahoe County CO Commissioner District 1
-ocd-division/country:us/state:co/county:arapahoe/council_district:2,Arapahoe County CO Commissioner District 2
-ocd-division/country:us/state:co/county:arapahoe/council_district:3,Arapahoe County CO Commissioner District 3
-ocd-division/country:us/state:co/county:arapahoe/council_district:4,Arapahoe County CO Commissioner District 4
-ocd-division/country:us/state:co/county:arapahoe/council_district:5,Arapahoe County CO Commissioner District 5
-ocd-division/country:us/state:co/county:douglas/council_district:1,Douglas County CO Commissioner District 1
-ocd-division/country:us/state:co/county:douglas/council_district:2,Douglas County CO Commissioner District 2
-ocd-division/country:us/state:co/county:douglas/council_district:3,Douglas County CO Commissioner District 3
-ocd-division/country:us/state:co/county:el_paso/council_district:1,El Paso County CO Commissioner District 1
-ocd-division/country:us/state:co/county:el_paso/council_district:2,El Paso County CO Commissioner District 2
-ocd-division/country:us/state:co/county:el_paso/council_district:3,El Paso County CO Commissioner District 3
-ocd-division/country:us/state:co/county:el_paso/council_district:4,El Paso County CO Commissioner District 4
-ocd-division/country:us/state:co/county:el_paso/council_district:5,El Paso County CO Commissioner District 5
-ocd-division/country:us/state:co/county:jefferson/council_district:1,Jefferson County CO County Board of Commissioners District 1
-ocd-division/country:us/state:co/county:jefferson/council_district:2,Jefferson County CO County Board of Commissioners District 2
-ocd-division/country:us/state:co/county:jefferson/council_district:3,Jefferson County CO County Board of Commissioners District 3
-ocd-division/country:us/state:co/county:jefferson/school_board_district:1,Jefferson County CO Board of Election district 1
-ocd-division/country:us/state:co/county:jefferson/school_board_district:2,Jefferson County CO Board of Election district 2
-ocd-division/country:us/state:co/county:jefferson/school_board_district:3,Jefferson County CO Board of Election district 3
-ocd-division/country:us/state:co/county:jefferson/school_board_district:4,Jefferson County CO Board of Election district 4
-ocd-division/country:us/state:co/county:jefferson/school_board_district:5,Jefferson County CO Board of Election district 5
-ocd-division/country:us/state:co/county:larimer/council_district:1,Larimer County CO Commissioner District 1
-ocd-division/country:us/state:co/county:larimer/council_district:2,Larimer County CO Commissioner District 2
-ocd-division/country:us/state:co/county:larimer/council_district:3,Larimer County CO Commissioner District 3
-ocd-division/country:us/state:co/county:mesa/council_district:1,Mesa County CO Board of County Commissioners District 1
-ocd-division/country:us/state:co/county:mesa/council_district:2,Mesa County CO Board of County Commissioners District 2
-ocd-division/country:us/state:co/county:mesa/council_district:3,Mesa County CO Board of County Commissioners District 3
-ocd-division/country:us/state:co/county:pueblo/council_district:1,Pueblo County CO Board of County Commissioners District 1
-ocd-division/country:us/state:co/county:pueblo/council_district:2,Pueblo County CO Board of County Commissioners District 2
-ocd-division/country:us/state:co/county:pueblo/council_district:3,Pueblo County CO Board of County Commissioners District 3
-ocd-division/country:us/state:co/county:weld/council_district:1,Weld County CO Board of County Commissioners District 1
-ocd-division/country:us/state:co/county:weld/council_district:2,Weld County CO Board of County Commissioners District 2
-ocd-division/country:us/state:co/county:weld/council_district:3,Weld County CO Board of County Commissioners District 3
 ocd-division/country:us/state:co/place:lakewood/ward:1,Lakewood CO ward 1
 ocd-division/country:us/state:co/place:lakewood/ward:2,Lakewood CO ward 2
 ocd-division/country:us/state:co/place:lakewood/ward:3,Lakewood CO ward 3
