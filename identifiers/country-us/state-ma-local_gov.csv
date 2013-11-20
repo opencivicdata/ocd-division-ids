@@ -1,44 +1,287 @@
-ocd-division/country:us/state:ma/place:boston/ward:1,Boston MA Ward 1
-ocd-division/country:us/state:ma/place:boston/ward:2,Boston MA Ward 2
-ocd-division/country:us/state:ma/place:boston/ward:3,Boston MA Ward 3
-ocd-division/country:us/state:ma/place:boston/ward:4,Boston MA Ward 4
-ocd-division/country:us/state:ma/place:boston/ward:5,Boston MA Ward 5
-ocd-division/country:us/state:ma/place:boston/ward:6,Boston MA Ward 6
-ocd-division/country:us/state:ma/place:boston/ward:7,Boston MA Ward 7
-ocd-division/country:us/state:ma/place:boston/ward:8,Boston MA Ward 8
-ocd-division/country:us/state:ma/place:boston/ward:9,Boston MA Ward 9
-ocd-division/country:us/state:ma/place:boston/ward:10,Boston MA Ward 10
-ocd-division/country:us/state:ma/place:boston/ward:11,Boston MA Ward 11
-ocd-division/country:us/state:ma/place:boston/ward:12,Boston MA Ward 12
-ocd-division/country:us/state:ma/place:boston/ward:13,Boston MA Ward 13
-ocd-division/country:us/state:ma/place:boston/ward:14,Boston MA Ward 14
-ocd-division/country:us/state:ma/place:boston/ward:15,Boston MA Ward 15
-ocd-division/country:us/state:ma/place:boston/ward:16,Boston MA Ward 16
-ocd-division/country:us/state:ma/place:boston/ward:17,Boston MA Ward 17
-ocd-division/country:us/state:ma/place:boston/ward:18,Boston MA Ward 18
-ocd-division/country:us/state:ma/place:boston/ward:19,Boston MA Ward 19
-ocd-division/country:us/state:ma/place:boston/ward:20,Boston MA Ward 20
-ocd-division/country:us/state:ma/place:boston/ward:21,Boston MA Ward 21
-ocd-division/country:us/state:ma/place:boston/ward:22,Boston MA Ward 22
-ocd-division/country:us/state:ma/place:boston/council_district:1,Boston MA City Council district 1
-ocd-division/country:us/state:ma/place:boston/council_district:2,Boston MA City Council district 2
-ocd-division/country:us/state:ma/place:boston/council_district:3,Boston MA City Council district 3
-ocd-division/country:us/state:ma/place:boston/council_district:4,Boston MA City Council district 4
-ocd-division/country:us/state:ma/place:boston/council_district:5,Boston MA City Council district 5
-ocd-division/country:us/state:ma/place:boston/council_district:6,Boston MA City Council district 6
-ocd-division/country:us/state:ma/place:boston/council_district:7,Boston MA City Council district 7
-ocd-division/country:us/state:ma/place:boston/council_district:8,Boston MA City Council district 8
-ocd-division/country:us/state:ma/place:boston/council_district:9,Boston MA City Council district 9
-ocd-division/country:us/state:ma/place:worcester/council_district:1,Worcester MA city council district 1
-ocd-division/country:us/state:ma/place:worcester/council_district:2,Worcester MA city council district 2
-ocd-division/country:us/state:ma/place:worcester/council_district:3,Worcester MA city council district 3
-ocd-division/country:us/state:ma/place:worcester/council_district:4,Worcester MA city council district 4
-ocd-division/country:us/state:ma/place:worcester/council_district:5,Worcester MA city council district 5
-ocd-division/country:us/state:ma/place:springfield/ward:1,Springfield MA ward 1
-ocd-division/country:us/state:ma/place:springfield/ward:2,Springfield MA ward 2
-ocd-division/country:us/state:ma/place:springfield/ward:3,Springfield MA ward 3
-ocd-division/country:us/state:ma/place:springfield/ward:4,Springfield MA ward 4
-ocd-division/country:us/state:ma/place:springfield/ward:5,Springfield MA ward 5
-ocd-division/country:us/state:ma/place:springfield/ward:6,Springfield MA ward 6
-ocd-division/country:us/state:ma/place:springfield/ward:7,Springfield MA ward 7
-ocd-division/country:us/state:ma/place:springfield/ward:8,Springfield MA ward 8
+ocd-division/country:us/state:ma/place:attleboro/ward:1,Attleboro MA - Ward 1
+ocd-division/country:us/state:ma/place:attleboro/ward:2,Attleboro MA - Ward 2
+ocd-division/country:us/state:ma/place:attleboro/ward:3,Attleboro MA - Ward 3
+ocd-division/country:us/state:ma/place:attleboro/ward:4,Attleboro MA - Ward 4
+ocd-division/country:us/state:ma/place:attleboro/ward:5,Attleboro MA - Ward 5
+ocd-division/country:us/state:ma/place:attleboro/ward:6,Attleboro MA - Ward 6
+ocd-division/country:us/state:ma/place:beverly/ward:1,Beverly MA - Ward 1
+ocd-division/country:us/state:ma/place:beverly/ward:2,Beverly MA - Ward 2
+ocd-division/country:us/state:ma/place:beverly/ward:3,Beverly MA - Ward 3
+ocd-division/country:us/state:ma/place:beverly/ward:4,Beverly MA - Ward 4
+ocd-division/country:us/state:ma/place:beverly/ward:5,Beverly MA - Ward 5
+ocd-division/country:us/state:ma/place:beverly/ward:6,Beverly MA - Ward 6
+ocd-division/country:us/state:ma/place:boston/ward:1,Boston MA - Ward 1
+ocd-division/country:us/state:ma/place:boston/ward:2,Boston MA - Ward 2
+ocd-division/country:us/state:ma/place:boston/ward:3,Boston MA - Ward 3
+ocd-division/country:us/state:ma/place:boston/ward:4,Boston MA - Ward 4
+ocd-division/country:us/state:ma/place:boston/ward:5,Boston MA - Ward 5
+ocd-division/country:us/state:ma/place:boston/ward:6,Boston MA - Ward 6
+ocd-division/country:us/state:ma/place:boston/ward:7,Boston MA - Ward 7
+ocd-division/country:us/state:ma/place:boston/ward:8,Boston MA - Ward 8
+ocd-division/country:us/state:ma/place:boston/ward:9,Boston MA - Ward 9
+ocd-division/country:us/state:ma/place:boston/ward:10,Boston MA - Ward 10
+ocd-division/country:us/state:ma/place:boston/ward:11,Boston MA - Ward 11
+ocd-division/country:us/state:ma/place:boston/ward:12,Boston MA - Ward 12
+ocd-division/country:us/state:ma/place:boston/ward:13,Boston MA - Ward 13
+ocd-division/country:us/state:ma/place:boston/ward:14,Boston MA - Ward 14
+ocd-division/country:us/state:ma/place:boston/ward:15,Boston MA - Ward 15
+ocd-division/country:us/state:ma/place:boston/ward:16,Boston MA - Ward 16
+ocd-division/country:us/state:ma/place:boston/ward:17,Boston MA - Ward 17
+ocd-division/country:us/state:ma/place:boston/ward:18,Boston MA - Ward 18
+ocd-division/country:us/state:ma/place:boston/ward:19,Boston MA - Ward 19
+ocd-division/country:us/state:ma/place:boston/ward:20,Boston MA - Ward 20
+ocd-division/country:us/state:ma/place:boston/ward:21,Boston MA - Ward 21
+ocd-division/country:us/state:ma/place:boston/ward:22,Boston MA - Ward 22
+ocd-division/country:us/state:ma/place:brockton/ward:1,Brockton MA - Ward 1
+ocd-division/country:us/state:ma/place:brockton/ward:2,Brockton MA - Ward 2
+ocd-division/country:us/state:ma/place:brockton/ward:3,Brockton MA - Ward 3
+ocd-division/country:us/state:ma/place:brockton/ward:4,Brockton MA - Ward 4
+ocd-division/country:us/state:ma/place:brockton/ward:5,Brockton MA - Ward 5
+ocd-division/country:us/state:ma/place:brockton/ward:6,Brockton MA - Ward 6
+ocd-division/country:us/state:ma/place:brockton/ward:7,Brockton MA - Ward 7
+ocd-division/country:us/state:ma/place:cambridge/ward:1,Cambridge MA - Ward 1
+ocd-division/country:us/state:ma/place:cambridge/ward:2,Cambridge MA - Ward 2
+ocd-division/country:us/state:ma/place:cambridge/ward:3,Cambridge MA - Ward 3
+ocd-division/country:us/state:ma/place:cambridge/ward:4,Cambridge MA - Ward 4
+ocd-division/country:us/state:ma/place:cambridge/ward:5,Cambridge MA - Ward 5
+ocd-division/country:us/state:ma/place:cambridge/ward:6,Cambridge MA - Ward 6
+ocd-division/country:us/state:ma/place:cambridge/ward:7,Cambridge MA - Ward 7
+ocd-division/country:us/state:ma/place:cambridge/ward:8,Cambridge MA - Ward 8
+ocd-division/country:us/state:ma/place:cambridge/ward:9,Cambridge MA - Ward 9
+ocd-division/country:us/state:ma/place:cambridge/ward:10,Cambridge MA - Ward 10
+ocd-division/country:us/state:ma/place:cambridge/ward:11,Cambridge MA - Ward 11
+ocd-division/country:us/state:ma/place:chelsea/ward:1,Chelsea MA - Ward 1
+ocd-division/country:us/state:ma/place:chelsea/ward:2,Chelsea MA - Ward 2
+ocd-division/country:us/state:ma/place:chelsea/ward:3,Chelsea MA - Ward 3
+ocd-division/country:us/state:ma/place:chelsea/ward:4,Chelsea MA - Ward 4
+ocd-division/country:us/state:ma/place:chicopee/ward:1,Chicopee MA - Ward 1
+ocd-division/country:us/state:ma/place:chicopee/ward:2,Chicopee MA - Ward 2
+ocd-division/country:us/state:ma/place:chicopee/ward:3,Chicopee MA - Ward 3
+ocd-division/country:us/state:ma/place:chicopee/ward:4,Chicopee MA - Ward 4
+ocd-division/country:us/state:ma/place:chicopee/ward:5,Chicopee MA - Ward 5
+ocd-division/country:us/state:ma/place:chicopee/ward:6,Chicopee MA - Ward 6
+ocd-division/country:us/state:ma/place:chicopee/ward:7,Chicopee MA - Ward 7
+ocd-division/country:us/state:ma/place:chicopee/ward:8,Chicopee MA - Ward 8
+ocd-division/country:us/state:ma/place:chicopee/ward:9,Chicopee MA - Ward 9
+ocd-division/country:us/state:ma/place:everett/ward:1,Everett MA - Ward 1
+ocd-division/country:us/state:ma/place:everett/ward:2,Everett MA - Ward 2
+ocd-division/country:us/state:ma/place:everett/ward:3,Everett MA - Ward 3
+ocd-division/country:us/state:ma/place:everett/ward:4,Everett MA - Ward 4
+ocd-division/country:us/state:ma/place:everett/ward:5,Everett MA - Ward 5
+ocd-division/country:us/state:ma/place:everett/ward:6,Everett MA - Ward 6
+ocd-division/country:us/state:ma/place:fall_river/ward:1,Fall river MA - Ward 1
+ocd-division/country:us/state:ma/place:fall_river/ward:2,Fall river MA - Ward 2
+ocd-division/country:us/state:ma/place:fall_river/ward:3,Fall river MA - Ward 3
+ocd-division/country:us/state:ma/place:fall_river/ward:4,Fall river MA - Ward 4
+ocd-division/country:us/state:ma/place:fall_river/ward:5,Fall river MA - Ward 5
+ocd-division/country:us/state:ma/place:fall_river/ward:6,Fall river MA - Ward 6
+ocd-division/country:us/state:ma/place:fall_river/ward:7,Fall river MA - Ward 7
+ocd-division/country:us/state:ma/place:fall_river/ward:8,Fall river MA - Ward 8
+ocd-division/country:us/state:ma/place:fall_river/ward:9,Fall river MA - Ward 9
+ocd-division/country:us/state:ma/place:fitchburg/ward:1,Fitchburg MA - Ward 1
+ocd-division/country:us/state:ma/place:fitchburg/ward:2,Fitchburg MA - Ward 2
+ocd-division/country:us/state:ma/place:fitchburg/ward:3,Fitchburg MA - Ward 3
+ocd-division/country:us/state:ma/place:fitchburg/ward:4,Fitchburg MA - Ward 4
+ocd-division/country:us/state:ma/place:fitchburg/ward:5,Fitchburg MA - Ward 5
+ocd-division/country:us/state:ma/place:fitchburg/ward:6,Fitchburg MA - Ward 6
+ocd-division/country:us/state:ma/place:gardner/ward:1,Gardner MA - Ward 1
+ocd-division/country:us/state:ma/place:gardner/ward:2,Gardner MA - Ward 2
+ocd-division/country:us/state:ma/place:gardner/ward:3,Gardner MA - Ward 3
+ocd-division/country:us/state:ma/place:gardner/ward:4,Gardner MA - Ward 4
+ocd-division/country:us/state:ma/place:gardner/ward:5,Gardner MA - Ward 5
+ocd-division/country:us/state:ma/place:gloucester/ward:1,Gloucester MA - Ward 1
+ocd-division/country:us/state:ma/place:gloucester/ward:2,Gloucester MA - Ward 2
+ocd-division/country:us/state:ma/place:gloucester/ward:3,Gloucester MA - Ward 3
+ocd-division/country:us/state:ma/place:gloucester/ward:4,Gloucester MA - Ward 4
+ocd-division/country:us/state:ma/place:gloucester/ward:5,Gloucester MA - Ward 5
+ocd-division/country:us/state:ma/place:haverhill/ward:1,Haverhill MA - Ward 1
+ocd-division/country:us/state:ma/place:haverhill/ward:2,Haverhill MA - Ward 2
+ocd-division/country:us/state:ma/place:haverhill/ward:3,Haverhill MA - Ward 3
+ocd-division/country:us/state:ma/place:haverhill/ward:4,Haverhill MA - Ward 4
+ocd-division/country:us/state:ma/place:haverhill/ward:5,Haverhill MA - Ward 5
+ocd-division/country:us/state:ma/place:haverhill/ward:6,Haverhill MA - Ward 6
+ocd-division/country:us/state:ma/place:haverhill/ward:7,Haverhill MA - Ward 7
+ocd-division/country:us/state:ma/place:holyoke/ward:1,Holyoke MA - Ward 1
+ocd-division/country:us/state:ma/place:holyoke/ward:2,Holyoke MA - Ward 2
+ocd-division/country:us/state:ma/place:holyoke/ward:3,Holyoke MA - Ward 3
+ocd-division/country:us/state:ma/place:holyoke/ward:4,Holyoke MA - Ward 4
+ocd-division/country:us/state:ma/place:holyoke/ward:5,Holyoke MA - Ward 5
+ocd-division/country:us/state:ma/place:holyoke/ward:6,Holyoke MA - Ward 6
+ocd-division/country:us/state:ma/place:holyoke/ward:7,Holyoke MA - Ward 7
+ocd-division/country:us/state:ma/place:leominster/ward:1,Leominster MA - Ward 1
+ocd-division/country:us/state:ma/place:leominster/ward:2,Leominster MA - Ward 2
+ocd-division/country:us/state:ma/place:leominster/ward:3,Leominster MA - Ward 3
+ocd-division/country:us/state:ma/place:leominster/ward:4,Leominster MA - Ward 4
+ocd-division/country:us/state:ma/place:leominster/ward:5,Leominster MA - Ward 5
+ocd-division/country:us/state:ma/place:lowell/ward:1,Lowell MA - Ward 1
+ocd-division/country:us/state:ma/place:lowell/ward:2,Lowell MA - Ward 2
+ocd-division/country:us/state:ma/place:lowell/ward:3,Lowell MA - Ward 3
+ocd-division/country:us/state:ma/place:lowell/ward:4,Lowell MA - Ward 4
+ocd-division/country:us/state:ma/place:lowell/ward:5,Lowell MA - Ward 5
+ocd-division/country:us/state:ma/place:lowell/ward:6,Lowell MA - Ward 6
+ocd-division/country:us/state:ma/place:lowell/ward:7,Lowell MA - Ward 7
+ocd-division/country:us/state:ma/place:lowell/ward:8,Lowell MA - Ward 8
+ocd-division/country:us/state:ma/place:lowell/ward:9,Lowell MA - Ward 9
+ocd-division/country:us/state:ma/place:lowell/ward:10,Lowell MA - Ward 10
+ocd-division/country:us/state:ma/place:lowell/ward:11,Lowell MA - Ward 11
+ocd-division/country:us/state:ma/place:lynn/ward:1,Lynn MA - Ward 1
+ocd-division/country:us/state:ma/place:lynn/ward:2,Lynn MA - Ward 2
+ocd-division/country:us/state:ma/place:lynn/ward:3,Lynn MA - Ward 3
+ocd-division/country:us/state:ma/place:lynn/ward:4,Lynn MA - Ward 4
+ocd-division/country:us/state:ma/place:lynn/ward:5,Lynn MA - Ward 5
+ocd-division/country:us/state:ma/place:lynn/ward:6,Lynn MA - Ward 6
+ocd-division/country:us/state:ma/place:lynn/ward:7,Lynn MA - Ward 7
+ocd-division/country:us/state:ma/place:malden/ward:1,Malden MA - Ward 1
+ocd-division/country:us/state:ma/place:malden/ward:2,Malden MA - Ward 2
+ocd-division/country:us/state:ma/place:malden/ward:3,Malden MA - Ward 3
+ocd-division/country:us/state:ma/place:malden/ward:4,Malden MA - Ward 4
+ocd-division/country:us/state:ma/place:malden/ward:5,Malden MA - Ward 5
+ocd-division/country:us/state:ma/place:malden/ward:6,Malden MA - Ward 6
+ocd-division/country:us/state:ma/place:malden/ward:7,Malden MA - Ward 7
+ocd-division/country:us/state:ma/place:malden/ward:8,Malden MA - Ward 8
+ocd-division/country:us/state:ma/place:marlborough/ward:1,Marlborough MA - Ward 1
+ocd-division/country:us/state:ma/place:marlborough/ward:2,Marlborough MA - Ward 2
+ocd-division/country:us/state:ma/place:marlborough/ward:3,Marlborough MA - Ward 3
+ocd-division/country:us/state:ma/place:marlborough/ward:4,Marlborough MA - Ward 4
+ocd-division/country:us/state:ma/place:marlborough/ward:5,Marlborough MA - Ward 5
+ocd-division/country:us/state:ma/place:marlborough/ward:6,Marlborough MA - Ward 6
+ocd-division/country:us/state:ma/place:marlborough/ward:7,Marlborough MA - Ward 7
+ocd-division/country:us/state:ma/place:medford/ward:1,Medford MA - Ward 1
+ocd-division/country:us/state:ma/place:medford/ward:2,Medford MA - Ward 2
+ocd-division/country:us/state:ma/place:medford/ward:3,Medford MA - Ward 3
+ocd-division/country:us/state:ma/place:medford/ward:4,Medford MA - Ward 4
+ocd-division/country:us/state:ma/place:medford/ward:5,Medford MA - Ward 5
+ocd-division/country:us/state:ma/place:medford/ward:6,Medford MA - Ward 6
+ocd-division/country:us/state:ma/place:medford/ward:7,Medford MA - Ward 7
+ocd-division/country:us/state:ma/place:medford/ward:8,Medford MA - Ward 8
+ocd-division/country:us/state:ma/place:melrose/ward:1,Melrose MA - Ward 1
+ocd-division/country:us/state:ma/place:melrose/ward:2,Melrose MA - Ward 2
+ocd-division/country:us/state:ma/place:melrose/ward:3,Melrose MA - Ward 3
+ocd-division/country:us/state:ma/place:melrose/ward:4,Melrose MA - Ward 4
+ocd-division/country:us/state:ma/place:melrose/ward:5,Melrose MA - Ward 5
+ocd-division/country:us/state:ma/place:melrose/ward:6,Melrose MA - Ward 6
+ocd-division/country:us/state:ma/place:melrose/ward:7,Melrose MA - Ward 7
+ocd-division/country:us/state:ma/place:north_adams/ward:1,North adams MA - Ward 1
+ocd-division/country:us/state:ma/place:north_adams/ward:2,North adams MA - Ward 2
+ocd-division/country:us/state:ma/place:north_adams/ward:3,North adams MA - Ward 3
+ocd-division/country:us/state:ma/place:north_adams/ward:4,North adams MA - Ward 4
+ocd-division/country:us/state:ma/place:north_adams/ward:5,North adams MA - Ward 5
+ocd-division/country:us/state:ma/place:new_bedford/ward:1,New bedford MA - Ward 1
+ocd-division/country:us/state:ma/place:new_bedford/ward:2,New bedford MA - Ward 2
+ocd-division/country:us/state:ma/place:new_bedford/ward:3,New bedford MA - Ward 3
+ocd-division/country:us/state:ma/place:new_bedford/ward:4,New bedford MA - Ward 4
+ocd-division/country:us/state:ma/place:new_bedford/ward:5,New bedford MA - Ward 5
+ocd-division/country:us/state:ma/place:new_bedford/ward:6,New bedford MA - Ward 6
+ocd-division/country:us/state:ma/place:newburyport/ward:1,Newburyport MA - Ward 1
+ocd-division/country:us/state:ma/place:newburyport/ward:2,Newburyport MA - Ward 2
+ocd-division/country:us/state:ma/place:newburyport/ward:3,Newburyport MA - Ward 3
+ocd-division/country:us/state:ma/place:newburyport/ward:4,Newburyport MA - Ward 4
+ocd-division/country:us/state:ma/place:newburyport/ward:5,Newburyport MA - Ward 5
+ocd-division/country:us/state:ma/place:newton/ward:1,Newton MA - Ward 1
+ocd-division/country:us/state:ma/place:newton/ward:2,Newton MA - Ward 2
+ocd-division/country:us/state:ma/place:newton/ward:3,Newton MA - Ward 3
+ocd-division/country:us/state:ma/place:newton/ward:4,Newton MA - Ward 4
+ocd-division/country:us/state:ma/place:newton/ward:5,Newton MA - Ward 5
+ocd-division/country:us/state:ma/place:newton/ward:6,Newton MA - Ward 6
+ocd-division/country:us/state:ma/place:newton/ward:7,Newton MA - Ward 7
+ocd-division/country:us/state:ma/place:newton/ward:8,Newton MA - Ward 8
+ocd-division/country:us/state:ma/place:northampton/ward:1,Northampton MA - Ward 1
+ocd-division/country:us/state:ma/place:northampton/ward:2,Northampton MA - Ward 2
+ocd-division/country:us/state:ma/place:northampton/ward:3,Northampton MA - Ward 3
+ocd-division/country:us/state:ma/place:northampton/ward:4,Northampton MA - Ward 4
+ocd-division/country:us/state:ma/place:northampton/ward:5,Northampton MA - Ward 5
+ocd-division/country:us/state:ma/place:northampton/ward:6,Northampton MA - Ward 6
+ocd-division/country:us/state:ma/place:northampton/ward:7,Northampton MA - Ward 7
+ocd-division/country:us/state:ma/place:peabody/ward:1,Peabody MA - Ward 1
+ocd-division/country:us/state:ma/place:peabody/ward:2,Peabody MA - Ward 2
+ocd-division/country:us/state:ma/place:peabody/ward:3,Peabody MA - Ward 3
+ocd-division/country:us/state:ma/place:peabody/ward:4,Peabody MA - Ward 4
+ocd-division/country:us/state:ma/place:peabody/ward:5,Peabody MA - Ward 5
+ocd-division/country:us/state:ma/place:peabody/ward:6,Peabody MA - Ward 6
+ocd-division/country:us/state:ma/place:pittsfield/ward:1,Pittsfield MA - Ward 1
+ocd-division/country:us/state:ma/place:pittsfield/ward:2,Pittsfield MA - Ward 2
+ocd-division/country:us/state:ma/place:pittsfield/ward:3,Pittsfield MA - Ward 3
+ocd-division/country:us/state:ma/place:pittsfield/ward:4,Pittsfield MA - Ward 4
+ocd-division/country:us/state:ma/place:pittsfield/ward:5,Pittsfield MA - Ward 5
+ocd-division/country:us/state:ma/place:pittsfield/ward:6,Pittsfield MA - Ward 6
+ocd-division/country:us/state:ma/place:pittsfield/ward:7,Pittsfield MA - Ward 7
+ocd-division/country:us/state:ma/place:quincy/ward:1,Quincy MA - Ward 1
+ocd-division/country:us/state:ma/place:quincy/ward:2,Quincy MA - Ward 2
+ocd-division/country:us/state:ma/place:quincy/ward:3,Quincy MA - Ward 3
+ocd-division/country:us/state:ma/place:quincy/ward:4,Quincy MA - Ward 4
+ocd-division/country:us/state:ma/place:quincy/ward:5,Quincy MA - Ward 5
+ocd-division/country:us/state:ma/place:quincy/ward:6,Quincy MA - Ward 6
+ocd-division/country:us/state:ma/place:revere/ward:1,Revere MA - Ward 1
+ocd-division/country:us/state:ma/place:revere/ward:2,Revere MA - Ward 2
+ocd-division/country:us/state:ma/place:revere/ward:3,Revere MA - Ward 3
+ocd-division/country:us/state:ma/place:revere/ward:4,Revere MA - Ward 4
+ocd-division/country:us/state:ma/place:revere/ward:5,Revere MA - Ward 5
+ocd-division/country:us/state:ma/place:revere/ward:6,Revere MA - Ward 6
+ocd-division/country:us/state:ma/place:salem/ward:1,Salem MA - Ward 1
+ocd-division/country:us/state:ma/place:salem/ward:2,Salem MA - Ward 2
+ocd-division/country:us/state:ma/place:salem/ward:3,Salem MA - Ward 3
+ocd-division/country:us/state:ma/place:salem/ward:4,Salem MA - Ward 4
+ocd-division/country:us/state:ma/place:salem/ward:5,Salem MA - Ward 5
+ocd-division/country:us/state:ma/place:salem/ward:6,Salem MA - Ward 6
+ocd-division/country:us/state:ma/place:salem/ward:7,Salem MA - Ward 7
+ocd-division/country:us/state:ma/place:somerville/ward:1,Somerville MA - Ward 1
+ocd-division/country:us/state:ma/place:somerville/ward:2,Somerville MA - Ward 2
+ocd-division/country:us/state:ma/place:somerville/ward:3,Somerville MA - Ward 3
+ocd-division/country:us/state:ma/place:somerville/ward:4,Somerville MA - Ward 4
+ocd-division/country:us/state:ma/place:somerville/ward:5,Somerville MA - Ward 5
+ocd-division/country:us/state:ma/place:somerville/ward:6,Somerville MA - Ward 6
+ocd-division/country:us/state:ma/place:somerville/ward:7,Somerville MA - Ward 7
+ocd-division/country:us/state:ma/place:springfield/ward:1,Springfield MA - Ward 1
+ocd-division/country:us/state:ma/place:springfield/ward:2,Springfield MA - Ward 2
+ocd-division/country:us/state:ma/place:springfield/ward:3,Springfield MA - Ward 3
+ocd-division/country:us/state:ma/place:springfield/ward:4,Springfield MA - Ward 4
+ocd-division/country:us/state:ma/place:springfield/ward:5,Springfield MA - Ward 5
+ocd-division/country:us/state:ma/place:springfield/ward:6,Springfield MA - Ward 6
+ocd-division/country:us/state:ma/place:springfield/ward:7,Springfield MA - Ward 7
+ocd-division/country:us/state:ma/place:springfield/ward:8,Springfield MA - Ward 8
+ocd-division/country:us/state:ma/place:taunton/ward:1,Taunton MA - Ward 1
+ocd-division/country:us/state:ma/place:taunton/ward:2,Taunton MA - Ward 2
+ocd-division/country:us/state:ma/place:taunton/ward:3,Taunton MA - Ward 3
+ocd-division/country:us/state:ma/place:taunton/ward:4,Taunton MA - Ward 4
+ocd-division/country:us/state:ma/place:taunton/ward:5,Taunton MA - Ward 5
+ocd-division/country:us/state:ma/place:taunton/ward:6,Taunton MA - Ward 6
+ocd-division/country:us/state:ma/place:taunton/ward:7,Taunton MA - Ward 7
+ocd-division/country:us/state:ma/place:taunton/ward:8,Taunton MA - Ward 8
+ocd-division/country:us/state:ma/place:waltham/ward:1,Waltham MA - Ward 1
+ocd-division/country:us/state:ma/place:waltham/ward:2,Waltham MA - Ward 2
+ocd-division/country:us/state:ma/place:waltham/ward:3,Waltham MA - Ward 3
+ocd-division/country:us/state:ma/place:waltham/ward:4,Waltham MA - Ward 4
+ocd-division/country:us/state:ma/place:waltham/ward:5,Waltham MA - Ward 5
+ocd-division/country:us/state:ma/place:waltham/ward:6,Waltham MA - Ward 6
+ocd-division/country:us/state:ma/place:waltham/ward:7,Waltham MA - Ward 7
+ocd-division/country:us/state:ma/place:waltham/ward:8,Waltham MA - Ward 8
+ocd-division/country:us/state:ma/place:waltham/ward:9,Waltham MA - Ward 9
+ocd-division/country:us/state:ma/place:westfield/ward:1,Westfield MA - Ward 1
+ocd-division/country:us/state:ma/place:westfield/ward:2,Westfield MA - Ward 2
+ocd-division/country:us/state:ma/place:westfield/ward:3,Westfield MA - Ward 3
+ocd-division/country:us/state:ma/place:westfield/ward:4,Westfield MA - Ward 4
+ocd-division/country:us/state:ma/place:westfield/ward:5,Westfield MA - Ward 5
+ocd-division/country:us/state:ma/place:westfield/ward:6,Westfield MA - Ward 6
+ocd-division/country:us/state:ma/place:woburn/ward:1,Woburn MA - Ward 1
+ocd-division/country:us/state:ma/place:woburn/ward:2,Woburn MA - Ward 2
+ocd-division/country:us/state:ma/place:woburn/ward:3,Woburn MA - Ward 3
+ocd-division/country:us/state:ma/place:woburn/ward:4,Woburn MA - Ward 4
+ocd-division/country:us/state:ma/place:woburn/ward:5,Woburn MA - Ward 5
+ocd-division/country:us/state:ma/place:woburn/ward:6,Woburn MA - Ward 6
+ocd-division/country:us/state:ma/place:woburn/ward:7,Woburn MA - Ward 7
+ocd-division/country:us/state:ma/place:worcester/ward:1,Worcester MA - Ward 1
+ocd-division/country:us/state:ma/place:worcester/ward:2,Worcester MA - Ward 2
+ocd-division/country:us/state:ma/place:worcester/ward:3,Worcester MA - Ward 3
+ocd-division/country:us/state:ma/place:worcester/ward:4,Worcester MA - Ward 4
+ocd-division/country:us/state:ma/place:worcester/ward:5,Worcester MA - Ward 5
+ocd-division/country:us/state:ma/place:worcester/ward:6,Worcester MA - Ward 6
+ocd-division/country:us/state:ma/place:worcester/ward:7,Worcester MA - Ward 7
+ocd-division/country:us/state:ma/place:worcester/ward:8,Worcester MA - Ward 8
+ocd-division/country:us/state:ma/place:worcester/ward:9,Worcester MA - Ward 9
+ocd-division/country:us/state:ma/place:worcester/ward:10,Worcester MA - Ward 10
+ocd-division/country:us/state:ma/place:lawrence/ward:a,Lawrence MA - Ward A
+ocd-division/country:us/state:ma/place:lawrence/ward:b,Lawrence MA - Ward B
+ocd-division/country:us/state:ma/place:lawrence/ward:c,Lawrence MA - Ward C
+ocd-division/country:us/state:ma/place:lawrence/ward:d,Lawrence MA - Ward D
+ocd-division/country:us/state:ma/place:lawrence/ward:e,Lawrence MA - Ward E
+ocd-division/country:us/state:ma/place:lawrence/ward:f,Lawrence MA - Ward F
