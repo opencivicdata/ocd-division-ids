@@ -1,13 +1,13 @@
-ocd-division/country:us/state:ct/place:bridgeport/council_district:130,Bridgeport CT City Counctil District 130
-ocd-division/country:us/state:ct/place:bridgeport/council_district:131,Bridgeport CT City Counctil District 131
-ocd-division/country:us/state:ct/place:bridgeport/council_district:132,Bridgeport CT City Counctil District 132
-ocd-division/country:us/state:ct/place:bridgeport/council_district:133,Bridgeport CT City Counctil District 133
-ocd-division/country:us/state:ct/place:bridgeport/council_district:134,Bridgeport CT City Counctil District 134
-ocd-division/country:us/state:ct/place:bridgeport/council_district:135,Bridgeport CT City Counctil District 135
-ocd-division/country:us/state:ct/place:bridgeport/council_district:136,Bridgeport CT City Counctil District 136
-ocd-division/country:us/state:ct/place:bridgeport/council_district:137,Bridgeport CT City Counctil District 137
-ocd-division/country:us/state:ct/place:bridgeport/council_district:138,Bridgeport CT City Counctil District 138
-ocd-division/country:us/state:ct/place:bridgeport/council_district:139,Bridgeport CT City Counctil District 139
+ocd-division/country:us/state:ct/place:bridgeport/council_district:130,Bridgeport CT City Council District 130
+ocd-division/country:us/state:ct/place:bridgeport/council_district:131,Bridgeport CT City Council District 131
+ocd-division/country:us/state:ct/place:bridgeport/council_district:132,Bridgeport CT City Council District 132
+ocd-division/country:us/state:ct/place:bridgeport/council_district:133,Bridgeport CT City Council District 133
+ocd-division/country:us/state:ct/place:bridgeport/council_district:134,Bridgeport CT City Council District 134
+ocd-division/country:us/state:ct/place:bridgeport/council_district:135,Bridgeport CT City Council District 135
+ocd-division/country:us/state:ct/place:bridgeport/council_district:136,Bridgeport CT City Council District 136
+ocd-division/country:us/state:ct/place:bridgeport/council_district:137,Bridgeport CT City Council District 137
+ocd-division/country:us/state:ct/place:bridgeport/council_district:138,Bridgeport CT City Council District 138
+ocd-division/country:us/state:ct/place:bridgeport/council_district:139,Bridgeport CT City Council District 139
 ocd-division/country:us/state:ct/place:new_haven/ward:1,New Haven CT ward 1
 ocd-division/country:us/state:ct/place:new_haven/ward:2,New Haven CT ward 2
 ocd-division/country:us/state:ct/place:new_haven/ward:3,New Haven CT ward 3
@@ -38,11 +38,11 @@ ocd-division/country:us/state:ct/place:new_haven/ward:27,New Haven CT ward 27
 ocd-division/country:us/state:ct/place:new_haven/ward:28,New Haven CT ward 28
 ocd-division/country:us/state:ct/place:new_haven/ward:29,New Haven CT ward 29
 ocd-division/country:us/state:ct/place:new_haven/ward:30,New Haven CT ward 30
-ocd-division/country:us/state:ct/place:norwalk/council_district:a,Norwalk CT Common Counctil District A
-ocd-division/country:us/state:ct/place:norwalk/council_district:b,Norwalk CT Common Counctil District B
-ocd-division/country:us/state:ct/place:norwalk/council_district:c,Norwalk CT Common Counctil District C
-ocd-division/country:us/state:ct/place:norwalk/council_district:d,Norwalk CT Common Counctil District D
-ocd-division/country:us/state:ct/place:norwalk/council_district:e,Norwalk CT Common Counctil District E
+ocd-division/country:us/state:ct/place:norwalk/council_district:a,Norwalk CT Common Council District A
+ocd-division/country:us/state:ct/place:norwalk/council_district:b,Norwalk CT Common Council District B
+ocd-division/country:us/state:ct/place:norwalk/council_district:c,Norwalk CT Common Council District C
+ocd-division/country:us/state:ct/place:norwalk/council_district:d,Norwalk CT Common Council District D
+ocd-division/country:us/state:ct/place:norwalk/council_district:e,Norwalk CT Common Council District E
 ocd-division/country:us/state:ct/place:danbury/ward:1,Danbury CT ward 1
 ocd-division/country:us/state:ct/place:danbury/ward:2,Danbury CT ward 2
 ocd-division/country:us/state:ct/place:danbury/ward:3,Danbury CT ward 3
@@ -55,3 +55,26 @@ ocd-division/country:us/state:ct/place:new_britain/ward:2,New Britain CT ward 2
 ocd-division/country:us/state:ct/place:new_britain/ward:3,New Britain CT ward 3
 ocd-division/country:us/state:ct/place:new_britain/ward:4,New Britain CT ward 4
 ocd-division/country:us/state:ct/place:new_britain/ward:5,New Britain CT ward 5
+ocd-division/country:us/state:ct/place:hamden/council_district:1,Hamden CT City Council District 1
+ocd-division/country:us/state:ct/place:hamden/council_district:2,Hamden CT City Council District 2
+ocd-division/country:us/state:ct/place:hamden/council_district:3,Hamden CT City Council District 3
+ocd-division/country:us/state:ct/place:hamden/council_district:4,Hamden CT City Council District 4
+ocd-division/country:us/state:ct/place:hamden/council_district:5,Hamden CT City Council District 5
+ocd-division/country:us/state:ct/place:hamden/council_district:6,Hamden CT City Council District 6
+ocd-division/country:us/state:ct/place:hamden/council_district:7,Hamden CT City Council District 7
+ocd-division/country:us/state:ct/place:hamden/council_district:8,Hamden CT City Council District 8
+ocd-division/country:us/state:ct/place:hamden/council_district:9,Hamden CT City Council District 9
+ocd-division/country:us/state:ct/place:west_haven/council_district:1,West Haven CT City Council District 1
+ocd-division/country:us/state:ct/place:west_haven/council_district:2,West Haven CT City Council District 2
+ocd-division/country:us/state:ct/place:west_haven/council_district:3,West Haven CT City Council District 3
+ocd-division/country:us/state:ct/place:west_haven/council_district:4,West Haven CT City Council District 4
+ocd-division/country:us/state:ct/place:west_haven/council_district:5,West Haven CT City Council District 5
+ocd-division/country:us/state:ct/place:west_haven/council_district:6,West Haven CT City Council District 6
+ocd-division/country:us/state:ct/place:west_haven/council_district:7,West Haven CT City Council District 7
+ocd-division/country:us/state:ct/place:west_haven/council_district:8,West Haven CT City Council District 8
+ocd-division/country:us/state:ct/place:west_haven/council_district:9,West Haven CT City Council District 9
+ocd-division/country:us/state:ct/place:west_haven/council_district:10,West Haven CT City Council District 10
+ocd-division/country:us/state:ct/place:enfield/council_district:1,Enfield CT City Council District 1
+ocd-division/country:us/state:ct/place:enfield/council_district:2,Enfield CT City Council District 2
+ocd-division/country:us/state:ct/place:enfield/council_district:3,Enfield CT City Council District 3
+ocd-division/country:us/state:ct/place:enfield/council_district:4,Enfield CT City Council District 4

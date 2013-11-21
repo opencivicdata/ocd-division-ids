@@ -33,19 +33,6 @@ ocd-division/country:us/state:ct/place:middletown/precinct:11,Middletown CT prec
 ocd-division/country:us/state:ct/place:middletown/precinct:12,Middletown CT precinct 12
 ocd-division/country:us/state:ct/place:middletown/precinct:13,Middletown CT precinct 13
 ocd-division/country:us/state:ct/place:middletown/precinct:14,Middletown CT precinct 14
-ocd-division/country:us/state:ct/place:meriden/precinct:1,Meriden CT precinct 1
-ocd-division/country:us/state:ct/place:meriden/precinct:2,Meriden CT precinct 2
-ocd-division/country:us/state:ct/place:meriden/precinct:3,Meriden CT precinct 3
-ocd-division/country:us/state:ct/place:meriden/precinct:4,Meriden CT precinct 4
-ocd-division/country:us/state:ct/place:meriden/precinct:5,Meriden CT precinct 5
-ocd-division/country:us/state:ct/place:meriden/precinct:6,Meriden CT precinct 6
-ocd-division/country:us/state:ct/place:meriden/precinct:7,Meriden CT precinct 7
-ocd-division/country:us/state:ct/place:meriden/precinct:8,Meriden CT precinct 8
-ocd-division/country:us/state:ct/place:meriden/precinct:9,Meriden CT precinct 9
-ocd-division/country:us/state:ct/place:meriden/precinct:10,Meriden CT precinct 10
-ocd-division/country:us/state:ct/place:meriden/precinct:11,Meriden CT precinct 11
-ocd-division/country:us/state:ct/place:meriden/precinct:12,Meriden CT precinct 12
-ocd-division/country:us/state:ct/place:meriden/precinct:13,Meriden CT precinct 13
 ocd-division/country:us/state:ct/place:fairfield/precinct:1,Fairfield CT precinct 1
 ocd-division/country:us/state:ct/place:fairfield/precinct:2,Fairfield CT precinct 2
 ocd-division/country:us/state:ct/place:fairfield/precinct:3,Fairfield CT precinct 3
@@ -130,3 +117,144 @@ ocd-division/country:us/state:ct/place:greenwich/precinct:9,Greenwich CT precinc
 ocd-division/country:us/state:ct/place:greenwich/precinct:10,Greenwich CT precinct 10
 ocd-division/country:us/state:ct/place:greenwich/precinct:11,Greenwich CT precinct 11
 ocd-division/country:us/state:ct/place:greenwich/precinct:12,Greenwich CT precinct 12
+ocd-division/country:us/state:ct/place:bridgeport/council_district:130/precinct:1,Bridgeport CT Precinct 130-1
+ocd-division/country:us/state:ct/place:bridgeport/council_district:130/precinct:2,Bridgeport CT Precinct 130-2
+ocd-division/country:us/state:ct/place:bridgeport/council_district:131/precinct:1,Bridgeport CT Precinct 131-1
+ocd-division/country:us/state:ct/place:bridgeport/council_district:131/precinct:2,Bridgeport CT Precinct 131-2
+ocd-division/country:us/state:ct/place:bridgeport/council_district:132/precinct:1,Bridgeport CT Precinct 132-1
+ocd-division/country:us/state:ct/place:bridgeport/council_district:132/precinct:2,Bridgeport CT Precinct 132-2
+ocd-division/country:us/state:ct/place:bridgeport/council_district:133/precinct:1,Bridgeport CT Precinct 133-1
+ocd-division/country:us/state:ct/place:bridgeport/council_district:133/precinct:2,Bridgeport CT Precinct 133-2
+ocd-division/country:us/state:ct/place:bridgeport/council_district:134/precinct:1,Bridgeport CT Precinct 134-1
+ocd-division/country:us/state:ct/place:bridgeport/council_district:134/precinct:2,Bridgeport CT Precinct 134-2
+ocd-division/country:us/state:ct/place:bridgeport/council_district:135/precinct:1,Bridgeport CT Precinct 135-1
+ocd-division/country:us/state:ct/place:bridgeport/council_district:135/precinct:2,Bridgeport CT Precinct 135-2
+ocd-division/country:us/state:ct/place:bridgeport/council_district:135/precinct:3,Bridgeport CT Precinct 135-3
+ocd-division/country:us/state:ct/place:bridgeport/council_district:136/precinct:1,Bridgeport CT Precinct 136-1
+ocd-division/country:us/state:ct/place:bridgeport/council_district:136/precinct:2,Bridgeport CT Precinct 136-2
+ocd-division/country:us/state:ct/place:bridgeport/council_district:136/precinct:3,Bridgeport CT Precinct 136-3
+ocd-division/country:us/state:ct/place:bridgeport/council_district:137/precinct:1,Bridgeport CT Precinct 137-1
+ocd-division/country:us/state:ct/place:bridgeport/council_district:137/precinct:2,Bridgeport CT Precinct 137-2
+ocd-division/country:us/state:ct/place:bridgeport/council_district:138/precinct:1,Bridgeport CT Precinct 138-1
+ocd-division/country:us/state:ct/place:bridgeport/council_district:138/precinct:2,Bridgeport CT Precinct 138-2
+ocd-division/country:us/state:ct/place:bridgeport/council_district:139/precinct:1,Bridgeport CT Precinct 139-1
+ocd-division/country:us/state:ct/place:bridgeport/council_district:139/precinct:2,Bridgeport CT Precinct 139-2
+ocd-division/country:us/state:ct/place:new_haven/ward:30/precinct:1,New Haven CT precinct 30-1
+ocd-division/country:us/state:ct/place:new_haven/ward:30/precinct:2,New Haven CT precinct 30-1
+ocd-division/country:us/state:ct/place:hartford/precinct:1,Hartford CT precinct 1
+ocd-division/country:us/state:ct/place:hartford/precinct:2,Hartford CT precinct 2
+ocd-division/country:us/state:ct/place:hartford/precinct:3,Hartford CT precinct 3
+ocd-division/country:us/state:ct/place:hartford/precinct:4,Hartford CT precinct 4
+ocd-division/country:us/state:ct/place:hartford/precinct:5,Hartford CT precinct 5
+ocd-division/country:us/state:ct/place:hartford/precinct:6,Hartford CT precinct 6
+ocd-division/country:us/state:ct/place:hartford/precinct:7,Hartford CT precinct 7
+ocd-division/country:us/state:ct/place:hartford/precinct:8,Hartford CT precinct 8
+ocd-division/country:us/state:ct/place:hartford/precinct:9,Hartford CT precinct 9
+ocd-division/country:us/state:ct/place:hartford/precinct:10,Hartford CT precinct 10
+ocd-division/country:us/state:ct/place:hartford/precinct:11,Hartford CT precinct 11
+ocd-division/country:us/state:ct/place:hartford/precinct:12,Hartford CT precinct 12
+ocd-division/country:us/state:ct/place:hartford/precinct:13,Hartford CT precinct 13
+ocd-division/country:us/state:ct/place:hartford/precinct:14,Hartford CT precinct 14
+ocd-division/country:us/state:ct/place:hartford/precinct:15,Hartford CT precinct 15
+ocd-division/country:us/state:ct/place:hartford/precinct:16,Hartford CT precinct 16
+ocd-division/country:us/state:ct/place:hartford/precinct:17,Hartford CT precinct 17
+ocd-division/country:us/state:ct/place:hartford/precinct:18,Hartford CT precinct 18
+ocd-division/country:us/state:ct/place:hartford/precinct:19,Hartford CT precinct 19
+ocd-division/country:us/state:ct/place:hartford/precinct:20,Hartford CT precinct 20
+ocd-division/country:us/state:ct/place:hartford/precinct:21,Hartford CT precinct 21
+ocd-division/country:us/state:ct/place:hartford/precinct:22,Hartford CT precinct 22
+ocd-division/country:us/state:ct/place:hartford/precinct:23,Hartford CT precinct 23
+ocd-division/country:us/state:ct/place:hartford/precinct:24,Hartford CT precinct 24
+ocd-division/country:us/state:ct/place:waterbury/precinct:71-1,Waterbury CT precinct 71-1
+ocd-division/country:us/state:ct/place:waterbury/precinct:71-2,Waterbury CT precinct 71-2
+ocd-division/country:us/state:ct/place:waterbury/precinct:71-3,Waterbury CT precinct 71-3
+ocd-division/country:us/state:ct/place:waterbury/precinct:72-1,Waterbury CT precinct 72-1
+ocd-division/country:us/state:ct/place:waterbury/precinct:72-2,Waterbury CT precinct 72-2
+ocd-division/country:us/state:ct/place:waterbury/precinct:72-3,Waterbury CT precinct 72-3
+ocd-division/country:us/state:ct/place:waterbury/precinct:72-4,Waterbury CT precinct 72-4
+ocd-division/country:us/state:ct/place:waterbury/precinct:72-5,Waterbury CT precinct 72-5
+ocd-division/country:us/state:ct/place:waterbury/precinct:73-1,Waterbury CT precinct 73-1
+ocd-division/country:us/state:ct/place:waterbury/precinct:73-2,Waterbury CT precinct 73-2
+ocd-division/country:us/state:ct/place:waterbury/precinct:73-3,Waterbury CT precinct 73-3
+ocd-division/country:us/state:ct/place:waterbury/precinct:73-4,Waterbury CT precinct 73-4
+ocd-division/country:us/state:ct/place:waterbury/precinct:74-1,Waterbury CT precinct 74-1
+ocd-division/country:us/state:ct/place:waterbury/precinct:74-2,Waterbury CT precinct 74-2
+ocd-division/country:us/state:ct/place:waterbury/precinct:74-3,Waterbury CT precinct 74-3
+ocd-division/country:us/state:ct/place:waterbury/precinct:74-4,Waterbury CT precinct 74-4
+ocd-division/country:us/state:ct/place:waterbury/precinct:74-5,Waterbury CT precinct 74-5
+ocd-division/country:us/state:ct/place:waterbury/precinct:75-1,Waterbury CT precinct 75-1
+ocd-division/country:us/state:ct/place:waterbury/precinct:75-2,Waterbury CT precinct 75-2
+ocd-division/country:us/state:ct/place:waterbury/precinct:75-3,Waterbury CT precinct 75-3
+ocd-division/country:us/state:ct/place:waterbury/precinct:75-4,Waterbury CT precinct 75-4
+ocd-division/country:us/state:ct/place:west_hartford/precinct:1,West Hartford CT precinct 1
+ocd-division/country:us/state:ct/place:west_hartford/precinct:2,West Hartford CT precinct 2
+ocd-division/country:us/state:ct/place:west_hartford/precinct:3,West Hartford CT precinct 3
+ocd-division/country:us/state:ct/place:west_hartford/precinct:4,West Hartford CT precinct 4
+ocd-division/country:us/state:ct/place:west_hartford/precinct:5,West Hartford CT precinct 5
+ocd-division/country:us/state:ct/place:west_hartford/precinct:6,West Hartford CT precinct 6
+ocd-division/country:us/state:ct/place:west_hartford/precinct:7,West Hartford CT precinct 7
+ocd-division/country:us/state:ct/place:west_hartford/precinct:8,West Hartford CT precinct 8
+ocd-division/country:us/state:ct/place:west_hartford/precinct:9,West Hartford CT precinct 9
+ocd-division/country:us/state:ct/place:meriden/precinct:1,Meriden CT precinct 1
+ocd-division/country:us/state:ct/place:meriden/precinct:2,Meriden CT precinct 2
+ocd-division/country:us/state:ct/place:meriden/precinct:3,Meriden CT precinct 3
+ocd-division/country:us/state:ct/place:meriden/precinct:4,Meriden CT precinct 4
+ocd-division/country:us/state:ct/place:meriden/precinct:5,Meriden CT precinct 5
+ocd-division/country:us/state:ct/place:meriden/precinct:6,Meriden CT precinct 6
+ocd-division/country:us/state:ct/place:meriden/precinct:7,Meriden CT precinct 7
+ocd-division/country:us/state:ct/place:meriden/precinct:8,Meriden CT precinct 8
+ocd-division/country:us/state:ct/place:meriden/precinct:9,Meriden CT precinct 9
+ocd-division/country:us/state:ct/place:meriden/precinct:10,Meriden CT precinct 10
+ocd-division/country:us/state:ct/place:meriden/precinct:11,Meriden CT precinct 11
+ocd-division/country:us/state:ct/place:meriden/precinct:12,Meriden CT precinct 12
+ocd-division/country:us/state:ct/place:meriden/precinct:13,Meriden CT precinct 13
+ocd-division/country:us/state:ct/place:manchester/precinct:1,Manchester CT precinct 1
+ocd-division/country:us/state:ct/place:manchester/precinct:2,Manchester CT precinct 2
+ocd-division/country:us/state:ct/place:manchester/precinct:3,Manchester CT precinct 3
+ocd-division/country:us/state:ct/place:manchester/precinct:4,Manchester CT precinct 4
+ocd-division/country:us/state:ct/place:manchester/precinct:5,Manchester CT precinct 5
+ocd-division/country:us/state:ct/place:manchester/precinct:6,Manchester CT precinct 6
+ocd-division/country:us/state:ct/place:manchester/precinct:7,Manchester CT precinct 7
+ocd-division/country:us/state:ct/place:manchester/precinct:8,Manchester CT precinct 8
+ocd-division/country:us/state:ct/place:milford/precinct:1,Milford CT precinct 1
+ocd-division/country:us/state:ct/place:milford/precinct:2,Milford CT precinct 2
+ocd-division/country:us/state:ct/place:milford/precinct:3,Milford CT precinct 3
+ocd-division/country:us/state:ct/place:milford/precinct:4,Milford CT precinct 4
+ocd-division/country:us/state:ct/place:milford/precinct:5,Milford CT precinct 5
+ocd-division/country:us/state:ct/place:hamden/precinct:1,Hamden CT precinct 1
+ocd-division/country:us/state:ct/place:hamden/precinct:2,Hamden CT precinct 2
+ocd-division/country:us/state:ct/place:hamden/precinct:3,Hamden CT precinct 3
+ocd-division/country:us/state:ct/place:hamden/precinct:4,Hamden CT precinct 4
+ocd-division/country:us/state:ct/place:hamden/precinct:5,Hamden CT precinct 5
+ocd-division/country:us/state:ct/place:hamden/precinct:6,Hamden CT precinct 6
+ocd-division/country:us/state:ct/place:hamden/precinct:7,Hamden CT precinct 7
+ocd-division/country:us/state:ct/place:hamden/precinct:8,Hamden CT precinct 8
+ocd-division/country:us/state:ct/place:hamden/precinct:9,Hamden CT precinct 9
+ocd-division/country:us/state:ct/place:hamden/precinct:10,Hamden CT precinct 10
+ocd-division/country:us/state:ct/place:hamden/precinct:11,Hamden CT precinct 11
+ocd-division/country:us/state:ct/place:stratford/precinct:1,Stratford CT precinct 1
+ocd-division/country:us/state:ct/place:stratford/precinct:2,Stratford CT precinct 2
+ocd-division/country:us/state:ct/place:stratford/precinct:3,Stratford CT precinct 3
+ocd-division/country:us/state:ct/place:stratford/precinct:4,Stratford CT precinct 4
+ocd-division/country:us/state:ct/place:stratford/precinct:5,Stratford CT precinct 5
+ocd-division/country:us/state:ct/place:stratford/precinct:6,Stratford CT precinct 6
+ocd-division/country:us/state:ct/place:stratford/precinct:7,Stratford CT precinct 7
+ocd-division/country:us/state:ct/place:stratford/precinct:8,Stratford CT precinct 8
+ocd-division/country:us/state:ct/place:stratford/precinct:9,Stratford CT precinct 9
+ocd-division/country:us/state:ct/place:stratford/precinct:10,Stratford CT precinct 10
+ocd-division/country:us/state:ct/place:east_hartford/precinct:1,East Hartford CT precinct 1
+ocd-division/country:us/state:ct/place:east_hartford/precinct:2,East Hartford CT precinct 2
+ocd-division/country:us/state:ct/place:east_hartford/precinct:3,East Hartford CT precinct 3
+ocd-division/country:us/state:ct/place:east_hartford/precinct:4,East Hartford CT precinct 4
+ocd-division/country:us/state:ct/place:east_hartford/precinct:5,East Hartford CT precinct 5
+ocd-division/country:us/state:ct/place:east_hartford/precinct:6,East Hartford CT precinct 6
+ocd-division/country:us/state:ct/place:east_hartford/precinct:7,East Hartford CT precinct 7
+ocd-division/country:us/state:ct/place:wallingford/precinct:1,Wallingford CT precinct 1
+ocd-division/country:us/state:ct/place:wallingford/precinct:2,Wallingford CT precinct 2
+ocd-division/country:us/state:ct/place:wallingford/precinct:3,Wallingford CT precinct 3
+ocd-division/country:us/state:ct/place:wallingford/precinct:4,Wallingford CT precinct 4
+ocd-division/country:us/state:ct/place:wallingford/precinct:5,Wallingford CT precinct 5
+ocd-division/country:us/state:ct/place:wallingford/precinct:6,Wallingford CT precinct 6
+ocd-division/country:us/state:ct/place:wallingford/precinct:7,Wallingford CT precinct 7
+ocd-division/country:us/state:ct/place:wallingford/precinct:8,Wallingford CT precinct 8
+ocd-division/country:us/state:ct/place:wallingford/precinct:9,Wallingford CT precinct 9
