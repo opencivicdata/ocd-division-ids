@@ -30,10 +30,10 @@ class Montreal < Runner
   end
 
   def urls
-    rows.each do |row|
+    Nokogiri::HTML(open("http://ville.montreal.qc.ca/portal/page?_pageid=5798,85813661&_dad=portal&_schema=PORTAL")).css("#nav_coll a").map do |a|
       output("csd:2466023/arrondissement:",
-        row[:identifier],
-        row[:url])
+        a.text.gsub(/[—–]/, "-"), # m- or n-dash to hyphen
+        "http://ville.montreal.qc.ca#{a[:href]}")
     end
   end
 
@@ -44,32 +44,15 @@ private
     # @see http://donnees.ville.montreal.qc.ca/fiche/polygones-arrondissements/
 
     # This CSV contains accents, but not URLs, and misspells "Lasalle".
-    # @see http://donnees.ville.montreal.qc.ca/fiche/arros-liste/
-    # Tempfile.open('csv', :encoding => 'binary') do |f|
-    #   f.binmode
-    #   f.write(open('http://depot.ville.montreal.qc.ca/arros-liste/data.zip').string)
-    #   f.rewind
-    #   Zip::ZipFile.open(f) do |zipfile|
-    #     entry = zipfile.entries.find{|entry| File.extname(entry.name) == ".csv"}
-    #     if entry
-    #       CSV.parse(zipfile.read(entry), :headers => true).map do |record|
-    #         name = record['Nom officiel'].force_encoding('windows-1252').encode('UTF-8')
-    #         {
-    #           :identifier => name.gsub(/[—–]/, "-"), # m- or n-dash to hyphen
-    #           :name => name.gsub("–", "—"), # n-dash to m-dash
-    #         }
-    #       end
-    #     else
-    #       raise "CSV file not found!"
-    #     end
-    #   end
-    # end
+    # @see http://donnees.ville.montreal.qc.ca/dataset/arros-liste
+    file = open('http://donnees.ville.montreal.qc.ca/storage/f/2013-10-13T00%3A03%3A13.959Z/liste-arrondissements.csv')
+    # The CSV is in ISO-8859-1.
+    text = file.read.force_encoding("UTF-8")
 
-    Nokogiri::HTML(open("http://ville.montreal.qc.ca/portal/page?_pageid=5798,85813661&_dad=portal&_schema=PORTAL")).css("#nav_coll a").map do |a|
+    CSV.parse(text, :headers => true).map do |row|
       {
-        :identifier => a.text.gsub(/[—–]/, "-"), # m- or n-dash to hyphen
-        :name => a.text.gsub("–", "—").gsub('’', "'"), # n-dash to m-dash
-        :url => "http://ville.montreal.qc.ca#{a[:href]}",
+        :identifier => row['Nom-officiel'].gsub(/[—–]/, "-"), # m- or n-dash to hyphen
+        :name => row['Nom-officiel'].gsub("–", "—").gsub('’', "'"), # n-dash to m-dash
       }
     end
   end
