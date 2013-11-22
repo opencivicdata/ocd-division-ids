@@ -40,3 +40,4 @@ $DIR/ca_census_subdivision_urls.rb     > $DIR/../../mappings/country-ca-urls/ca_
 $DIR/ca_provinces_and_territories.rb   abbreviations > $DIR/../../mappings/country-ca-abbr/ca_provinces_and_territories.csv
 $DIR/ca_provinces_and_territories.rb   abbreviations-fr > $DIR/../../mappings/country-ca-abbr-fr/ca_provinces_and_territories.csv
 $DIR/ca_provinces_and_territories.rb   sgc-codes > $DIR/../../mappings/country-ca-sgc/ca_provinces_and_territories.csv
+$DIR/ca_qc_montreal_arrondissements.rb numeric > $DIR/../../mappings/country-ca-numeric/ca_qc_montreal_arrondissements.csv

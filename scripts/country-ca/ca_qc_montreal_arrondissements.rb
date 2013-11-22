@@ -19,6 +19,12 @@ class Montreal < Runner
       :description => "Prints a CSV of identifiers and URLs",
       :directory   => "mappings/country-ca-urls",
     })
+
+    add_command({
+      :name        => "numeric",
+      :description => "Prints a CSV of identifiers and numeric identifiers",
+      :directory   => "mappings/country-ca-numeric",
+    })
   end
 
   def names
@@ -26,6 +32,14 @@ class Montreal < Runner
       output("csd:2466023/arrondissement:",
         row[:identifier],
         row[:name])
+    end
+  end
+
+  def numeric
+    rows.each do |row|
+      output("csd:2466023/arrondissement:",
+        row[:identifier],
+        row[:numeric])
     end
   end
 
@@ -53,6 +67,7 @@ private
       {
         :identifier => row['Nom-officiel'].gsub(/[—–]/, "-"), # m- or n-dash to hyphen
         :name => row['Nom-officiel'].gsub("–", "—").gsub('’', "'"), # n-dash to m-dash
+        :numeric => row['No-arro-election'], # Élections Montréal
       }
     end
   end
