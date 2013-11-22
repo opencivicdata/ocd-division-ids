@@ -15,15 +15,21 @@ class Montreal < Runner
     super
 
     add_command({
-      :name        => "urls",
-      :description => "Prints a CSV of identifiers and URLs",
-      :directory   => "mappings/country-ca-urls",
+      :name        => "abbreviations",
+      :description => "Prints a CSV of identifiers and abbreviations",
+      :directory   => "mappings/country-ca-abbr",
     })
 
     add_command({
       :name        => "numeric",
       :description => "Prints a CSV of identifiers and numeric identifiers",
       :directory   => "mappings/country-ca-numeric",
+    })
+
+    add_command({
+      :name        => "urls",
+      :description => "Prints a CSV of identifiers and URLs",
+      :directory   => "mappings/country-ca-urls",
     })
   end
 
@@ -32,6 +38,14 @@ class Montreal < Runner
       output("csd:2466023/arrondissement:",
         row[:identifier],
         row[:name])
+    end
+  end
+
+  def abbreviations
+    rows.each do |row|
+      output("csd:2466023/arrondissement:",
+        row[:identifier],
+        row[:abbreviation])
     end
   end
 
@@ -67,6 +81,7 @@ private
       {
         :identifier => row['Nom-officiel'].gsub(/[—–]/, "-"), # m- or n-dash to hyphen
         :name => row['Nom-officiel'].gsub("–", "—").gsub('’', "'"), # n-dash to m-dash
+        :abbreviation => row['Code3L'], # geospatial schema
         :numeric => row['No-arro-election'], # Élections Montréal
       }
     end
