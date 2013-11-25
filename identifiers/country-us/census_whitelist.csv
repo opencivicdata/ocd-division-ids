@@ -8,3 +8,4 @@ ocd-division/country:us/state:tn/place:nashville,Nashville TN -- there are some 
 ocd-division/country:us/state:mn/place:st_anthony,St Anthony MN
 ocd-division/country:us/state:tx/place:lakeside,Lakeside TX
 ocd-division/country:us/state:tx/place:oak_ridge,Oak Right TX
+ocd-division/country:us/state:mt/place:butte,Butte MT -- Butte and Silver Bow county, though consolidated, are not coterminous (because of Walkerville MT). Users are advised that the county:silver_bow identifier is better for any government stats
