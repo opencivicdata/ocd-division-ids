@@ -3,7 +3,7 @@ ocd-division/country:us/state:ct/place:milford,Milford CT
 ocd-division/country:us/state:ga/place:athens,Athens GA -- consolidated with Clarke county but Winterville is independent so Athens has a distinct border. Users are advised that the county:clarke identifier is better for any government stats
 ocd-division/country:us/state:ga/place:augusta,August GA -- nearly coterminous with Richmond county except for the cities of Hephzibah and Blythe. . Users are advised that the county:richmond identifier is better for any government stats
 ocd-division/country:us/state:ky/place:louisville,Louisville KY -- there are some unincorporated towns in Jefferson county that are often not included in Louisville population totals. Users are advised that the county:jefferson identifier is better for any government stats
-ocd-division/country:us/state:mt/place:butte,Butte MY -- nearly coterminous with Silver Bow county except for the town of Walkerville
+ocd-division/country:us/state:mt/place:butte,Butte MT -- nearly coterminous with Silver Bow county except for the town of Walkerville
 ocd-division/country:us/state:tn/place:nashville,Nashville TN -- there are some unincoporporated towns in Davidson county that are often not included in Nashville population totals. Users are advised that the county:davidson identifier is better for any government stats
 ocd-division/country:us/state:mn/place:st_anthony,St Anthony MN
 ocd-division/country:us/state:tx/place:lakeside,Lakeside TX
