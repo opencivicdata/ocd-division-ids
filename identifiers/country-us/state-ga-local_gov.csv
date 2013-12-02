@@ -1,3 +1,543 @@
+ocd-division/country:us/state:ga/county:appling/council_district:1,Appling County Commission District 1
+ocd-division/country:us/state:ga/county:appling/council_district:2,Appling County Commission District 2
+ocd-division/country:us/state:ga/county:appling/council_district:3,Appling County Commission District 3
+ocd-division/country:us/state:ga/county:appling/council_district:4,Appling County Commission District 4
+ocd-division/country:us/state:ga/county:appling/council_district:5,Appling County Commission District 5
+ocd-division/country:us/state:ga/county:atkinson/council_district:1,Atkinson County Commission District 1
+ocd-division/country:us/state:ga/county:atkinson/council_district:2,Atkinson County Commission District 2
+ocd-division/country:us/state:ga/county:atkinson/council_district:3,Atkinson County Commission District 3
+ocd-division/country:us/state:ga/county:atkinson/council_district:4,Atkinson County Commission District 4
+ocd-division/country:us/state:ga/county:atkinson/council_district:5,Atkinson County Commission District 5
+ocd-division/country:us/state:ga/county:baldwin/council_district:1,Baldwin County Commission District 1
+ocd-division/country:us/state:ga/county:baldwin/council_district:2,Baldwin County Commission District 2
+ocd-division/country:us/state:ga/county:baldwin/council_district:3,Baldwin County Commission District 3
+ocd-division/country:us/state:ga/county:baldwin/council_district:4,Baldwin County Commission District 4
+ocd-division/country:us/state:ga/county:baldwin/council_district:5,Baldwin County Commission District 5
+ocd-division/country:us/state:ga/county:barrow/council_district:1,Barrow County Commission District 1
+ocd-division/country:us/state:ga/county:barrow/council_district:2,Barrow County Commission District 2
+ocd-division/country:us/state:ga/county:barrow/council_district:3,Barrow County Commission District 3
+ocd-division/country:us/state:ga/county:barrow/council_district:4,Barrow County Commission District 4
+ocd-division/country:us/state:ga/county:barrow/council_district:5,Barrow County Commission District 5
+ocd-division/country:us/state:ga/county:barrow/council_district:6,Barrow County Commission District 6
+ocd-division/country:us/state:ga/county:ben_hill/council_district:2,Ben Hill County Commission District 2
+ocd-division/country:us/state:ga/county:ben_hill/council_district:3,Ben Hill County Commission District 3
+ocd-division/country:us/state:ga/county:berrien/council_district:1,Berrien County Commission District 1
+ocd-division/country:us/state:ga/county:berrien/council_district:2,Berrien County Commission District 2
+ocd-division/country:us/state:ga/county:berrien/council_district:3,Berrien County Commission District 3
+ocd-division/country:us/state:ga/county:berrien/council_district:4,Berrien County Commission District 4
+ocd-division/country:us/state:ga/county:berrien/council_district:5,Berrien County Commission District 5
+ocd-division/country:us/state:ga/county:bibb/council_district:1,Bibb County Commission District 1
+ocd-division/country:us/state:ga/county:bibb/council_district:2,Bibb County Commission District 2
+ocd-division/country:us/state:ga/county:bibb/council_district:3,Bibb County Commission District 3
+ocd-division/country:us/state:ga/county:bibb/council_district:4,Bibb County Commission District 4
+ocd-division/country:us/state:ga/county:bryan/council_district:1,Bryan County Commission District 1
+ocd-division/country:us/state:ga/county:bryan/council_district:2,Bryan County Commission District 2
+ocd-division/country:us/state:ga/county:bryan/council_district:3,Bryan County Commission District 3
+ocd-division/country:us/state:ga/county:bryan/council_district:4,Bryan County Commission District 4
+ocd-division/country:us/state:ga/county:bryan/council_district:5,Bryan County Commission District 5
+ocd-division/country:us/state:ga/county:bulloch/council_district:1,Bulloch County GA Board of Commissioners District 1
+ocd-division/country:us/state:ga/county:bulloch/council_district:2,Bulloch County GA Board of Commissioners District 2
+ocd-division/country:us/state:ga/county:burke/council_district:1,Burke County Commission District 1
+ocd-division/country:us/state:ga/county:burke/council_district:2,Burke County Commission District 2
+ocd-division/country:us/state:ga/county:burke/council_district:3,Burke County Commission District 3
+ocd-division/country:us/state:ga/county:burke/council_district:4,Burke County Commission District 4
+ocd-division/country:us/state:ga/county:burke/council_district:5,Burke County Commission District 5
+ocd-division/country:us/state:ga/county:butts/council_district:1,Butts County Commission District 1
+ocd-division/country:us/state:ga/county:butts/council_district:2,Butts County Commission District 2
+ocd-division/country:us/state:ga/county:butts/council_district:3,Butts County Commission District 3
+ocd-division/country:us/state:ga/county:butts/council_district:4,Butts County Commission District 4
+ocd-division/country:us/state:ga/county:butts/council_district:5,Butts County Commission District 5
+ocd-division/country:us/state:ga/county:camden/council_district:1,Camden County Commission District 1
+ocd-division/country:us/state:ga/county:camden/council_district:2,Camden County Commission District 2
+ocd-division/country:us/state:ga/county:camden/council_district:3,Camden County Commission District 3
+ocd-division/country:us/state:ga/county:camden/council_district:4,Camden County Commission District 4
+ocd-division/country:us/state:ga/county:camden/council_district:5,Camden County Commission District 5
+ocd-division/country:us/state:ga/county:carroll/council_district:1,Carroll County Commission District 1
+ocd-division/country:us/state:ga/county:carroll/council_district:2,Carroll County Commission District 2
+ocd-division/country:us/state:ga/county:carroll/council_district:3,Carroll County Commission District 3
+ocd-division/country:us/state:ga/county:carroll/council_district:4,Carroll County Commission District 4
+ocd-division/country:us/state:ga/county:carroll/council_district:5,Carroll County Commission District 5
+ocd-division/country:us/state:ga/county:carroll/council_district:6,Carroll County Commission District 6
+ocd-division/country:us/state:ga/county:carroll/school_board_district:1,Carroll County School Board District 1
+ocd-division/country:us/state:ga/county:carroll/school_board_district:2,Carroll County School Board District 2
+ocd-division/country:us/state:ga/county:carroll/school_board_district:3,Carroll County School Board District 3
+ocd-division/country:us/state:ga/county:carroll/school_board_district:4,Carroll County School Board District 4
+ocd-division/country:us/state:ga/county:carroll/school_board_district:5,Carroll County School Board District 5
+ocd-division/country:us/state:ga/county:carroll/school_board_district:6,Carroll County School Board District 6
+ocd-division/country:us/state:ga/county:carroll/school_board_district:7,Carroll County School Board District 7
+ocd-division/country:us/state:ga/county:catoosa/council_district:1,Catoosa County Commission District 1
+ocd-division/country:us/state:ga/county:catoosa/council_district:2,Catoosa County Commission District 2
+ocd-division/country:us/state:ga/county:catoosa/council_district:3,Catoosa County Commission District 3
+ocd-division/country:us/state:ga/county:catoosa/council_district:4,Catoosa County Commission District 4
+ocd-division/country:us/state:ga/county:charlton/council_district:1,Charlton County Commission District 1
+ocd-division/country:us/state:ga/county:charlton/council_district:2,Charlton County Commission District 2
+ocd-division/country:us/state:ga/county:charlton/council_district:3,Charlton County Commission District 3
+ocd-division/country:us/state:ga/county:charlton/council_district:4,Charlton County Commission District 4
+ocd-division/country:us/state:ga/county:charlton/council_district:5,Charlton County Commission District 5
+ocd-division/country:us/state:ga/county:chatham/council_district:1,Chatham County GA Board of County Commissioners District 1
+ocd-division/country:us/state:ga/county:chatham/council_district:2,Chatham County GA Board of County Commissioners District 2
+ocd-division/country:us/state:ga/county:chatham/council_district:3,Chatham County GA Board of County Commissioners District 3
+ocd-division/country:us/state:ga/county:chatham/council_district:4,Chatham County GA Board of County Commissioners District 4
+ocd-division/country:us/state:ga/county:chatham/council_district:5,Chatham County GA Board of County Commissioners District 5
+ocd-division/country:us/state:ga/county:chatham/council_district:6,Chatham County GA Board of County Commissioners District 6
+ocd-division/country:us/state:ga/county:chatham/council_district:7,Chatham County GA Board of County Commissioners District 7
+ocd-division/country:us/state:ga/county:chatham/council_district:8,Chatham County GA Board of County Commissioners District 8
+ocd-division/country:us/state:ga/county:cherokee/council_district:1,Cherokee County GA Board of County Commissioners District 1
+ocd-division/country:us/state:ga/county:cherokee/council_district:2,Cherokee County GA Board of County Commissioners District 2
+ocd-division/country:us/state:ga/county:cherokee/council_district:3,Cherokee County GA Board of County Commissioners District 3
+ocd-division/country:us/state:ga/county:cherokee/council_district:4,Cherokee County GA Board of County Commissioners District 4
+ocd-division/country:us/state:ga/county:clarke/council_district:1,Clarke County Commission District 1
+ocd-division/country:us/state:ga/county:clarke/council_district:2,Clarke County Commission District 2
+ocd-division/country:us/state:ga/county:clarke/council_district:3,Clarke County Commission District 3
+ocd-division/country:us/state:ga/county:clarke/council_district:4,Clarke County Commission District 4
+ocd-division/country:us/state:ga/county:clarke/council_district:5,Clarke County Commission District 5
+ocd-division/country:us/state:ga/county:clarke/council_district:6,Clarke County Commission District 6
+ocd-division/country:us/state:ga/county:clarke/council_district:7,Clarke County Commission District 7
+ocd-division/country:us/state:ga/county:clarke/council_district:8,Clarke County Commission District 8
+ocd-division/country:us/state:ga/county:clarke/council_district:9,Clarke County Commission District 9
+ocd-division/country:us/state:ga/county:clarke/council_district:10,Clarke County Commission District 10
+ocd-division/country:us/state:ga/county:clayton/council_district:1,Clayton County GA Board of County Commissioners District 1
+ocd-division/country:us/state:ga/county:clayton/council_district:2,Clayton County GA Board of County Commissioners District 2
+ocd-division/country:us/state:ga/county:clayton/council_district:3,Clayton County GA Board of County Commissioners District 3
+ocd-division/country:us/state:ga/county:clayton/council_district:4,Clayton County GA Board of County Commissioners District 4
+ocd-division/country:us/state:ga/county:cobb/council_district:1,Cobb County GA Board of Commissioners District 1
+ocd-division/country:us/state:ga/county:cobb/council_district:2,Cobb County GA Board of Commissioners District 2
+ocd-division/country:us/state:ga/county:cobb/council_district:3,Cobb County GA Board of Commissioners District 3
+ocd-division/country:us/state:ga/county:cobb/council_district:4,Cobb County GA Board of Commissioners District 4
+ocd-division/country:us/state:ga/county:colquitt/council_district:1,Colquitt County Commission District 1
+ocd-division/country:us/state:ga/county:colquitt/council_district:2,Colquitt County Commission District 2
+ocd-division/country:us/state:ga/county:colquitt/council_district:3,Colquitt County Commission District 3
+ocd-division/country:us/state:ga/county:colquitt/council_district:4,Colquitt County Commission District 4
+ocd-division/country:us/state:ga/county:colquitt/council_district:5,Colquitt County Commission District 5
+ocd-division/country:us/state:ga/county:colquitt/council_district:6,Colquitt County Commission District 6
+ocd-division/country:us/state:ga/county:colquitt/council_district:7,Colquitt County Commission District 7
+ocd-division/country:us/state:ga/county:columbia/council_district:1,Columbia County GA Board of Commissioners District 1
+ocd-division/country:us/state:ga/county:columbia/council_district:2,Columbia County GA Board of Commissioners District 2
+ocd-division/country:us/state:ga/county:columbia/council_district:3,Columbia County GA Board of Commissioners District 3
+ocd-division/country:us/state:ga/county:columbia/council_district:4,Columbia County GA Board of Commissioners District 4
+ocd-division/country:us/state:ga/county:coweta/council_district:1,Coweta County Commission District 1
+ocd-division/country:us/state:ga/county:coweta/council_district:2,Coweta County Commission District 2
+ocd-division/country:us/state:ga/county:coweta/council_district:3,Coweta County Commission District 3
+ocd-division/country:us/state:ga/county:coweta/council_district:4,Coweta County Commission District 4
+ocd-division/country:us/state:ga/county:coweta/council_district:5,Coweta County Commission District 5
+ocd-division/country:us/state:ga/county:crawford/council_district:1,Crawford County Commission District 1
+ocd-division/country:us/state:ga/county:crawford/council_district:2,Crawford County Commission District 2
+ocd-division/country:us/state:ga/county:crawford/council_district:3,Crawford County Commission District 3
+ocd-division/country:us/state:ga/county:crawford/council_district:4,Crawford County Commission District 4
+ocd-division/country:us/state:ga/county:crawford/council_district:5,Crawford County Commission District 5
+ocd-division/country:us/state:ga/county:dade/council_district:1,Dade County Commission District 1
+ocd-division/country:us/state:ga/county:dade/council_district:2,Dade County Commission District 2
+ocd-division/country:us/state:ga/county:dade/council_district:3,Dade County Commission District 3
+ocd-division/country:us/state:ga/county:dade/council_district:4,Dade County Commission District 4
+ocd-division/country:us/state:ga/county:decatur/council_district:1,Decatur County Commission District 1
+ocd-division/country:us/state:ga/county:decatur/council_district:2,Decatur County Commission District 2
+ocd-division/country:us/state:ga/county:decatur/council_district:3,Decatur County Commission District 3
+ocd-division/country:us/state:ga/county:decatur/council_district:4,Decatur County Commission District 4
+ocd-division/country:us/state:ga/county:decatur/council_district:5,Decatur County Commission District 5
+ocd-division/country:us/state:ga/county:decatur/council_district:6,Decatur County Commission District 6
+ocd-division/country:us/state:ga/county:dekalb/council_district:1,De Kalb County Commission District 1
+ocd-division/country:us/state:ga/county:dekalb/council_district:2,De Kalb County Commission District 2
+ocd-division/country:us/state:ga/county:dekalb/council_district:3,De Kalb County Commission District 3
+ocd-division/country:us/state:ga/county:dekalb/council_district:4,De Kalb County Commission District 4
+ocd-division/country:us/state:ga/county:dekalb/council_district:5,De Kalb County Commission District 5
+ocd-division/country:us/state:ga/county:dekalb/council_district:6,De Kalb County Commission District 6
+ocd-division/country:us/state:ga/county:dekalb/council_district:7,De Kalb County Commission District 7
+ocd-division/country:us/state:ga/county:dodge/council_district:1,Dodge County Commission District 1
+ocd-division/country:us/state:ga/county:dodge/council_district:2,Dodge County Commission District 2
+ocd-division/country:us/state:ga/county:dodge/council_district:3,Dodge County Commission District 3
+ocd-division/country:us/state:ga/county:dodge/council_district:4,Dodge County Commission District 4
+ocd-division/country:us/state:ga/county:dougherty/council_district:1,Dougherty County Commission District 1
+ocd-division/country:us/state:ga/county:dougherty/council_district:2,Dougherty County Commission District 2
+ocd-division/country:us/state:ga/county:dougherty/council_district:3,Dougherty County Commission District 3
+ocd-division/country:us/state:ga/county:dougherty/council_district:4,Dougherty County Commission District 4
+ocd-division/country:us/state:ga/county:dougherty/council_district:5,Dougherty County Commission District 5
+ocd-division/country:us/state:ga/county:dougherty/council_district:6,Dougherty County Commission District 6
+ocd-division/country:us/state:ga/county:douglas/council_district:1,Douglas County GA Board of Commissioners District 1
+ocd-division/country:us/state:ga/county:douglas/council_district:2,Douglas County GA Board of Commissioners District 2
+ocd-division/country:us/state:ga/county:douglas/council_district:3,Douglas County GA Board of Commissioners District 3
+ocd-division/country:us/state:ga/county:douglas/council_district:4,Douglas County GA Board of Commissioners District 4
+ocd-division/country:us/state:ga/county:effingham/council_district:1,Effingham County Commission District 1
+ocd-division/country:us/state:ga/county:effingham/council_district:2,Effingham County Commission District 2
+ocd-division/country:us/state:ga/county:effingham/council_district:3,Effingham County Commission District 3
+ocd-division/country:us/state:ga/county:effingham/council_district:4,Effingham County Commission District 4
+ocd-division/country:us/state:ga/county:effingham/council_district:5,Effingham County Commission District 5
+ocd-division/country:us/state:ga/county:elbert/council_district:1,Elbert County Commission District 1
+ocd-division/country:us/state:ga/county:elbert/council_district:2,Elbert County Commission District 2
+ocd-division/country:us/state:ga/county:elbert/council_district:3,Elbert County Commission District 3
+ocd-division/country:us/state:ga/county:elbert/council_district:4,Elbert County Commission District 4
+ocd-division/country:us/state:ga/county:elbert/council_district:5,Elbert County Commission District 5
+ocd-division/country:us/state:ga/county:emanuel/council_district:1,Emanuel County Commission District 1
+ocd-division/country:us/state:ga/county:emanuel/council_district:2,Emanuel County Commission District 2
+ocd-division/country:us/state:ga/county:emanuel/council_district:3,Emanuel County Commission District 3
+ocd-division/country:us/state:ga/county:emanuel/council_district:4,Emanuel County Commission District 4
+ocd-division/country:us/state:ga/county:emanuel/council_district:5,Emanuel County Commission District 5
+ocd-division/country:us/state:ga/county:evans/council_district:1,Evans County Commission District 1
+ocd-division/country:us/state:ga/county:evans/council_district:2,Evans County Commission District 2
+ocd-division/country:us/state:ga/county:evans/council_district:3,Evans County Commission District 3
+ocd-division/country:us/state:ga/county:evans/council_district:4,Evans County Commission District 4
+ocd-division/country:us/state:ga/county:evans/council_district:5,Evans County Commission District 5
+ocd-division/country:us/state:ga/county:evans/council_district:6,Evans County Commission District 6
+ocd-division/country:us/state:ga/county:forsyth/council_district:1,Forsyth County GA Board of Commissioners District 1
+ocd-division/country:us/state:ga/county:forsyth/council_district:2,Forsyth County GA Board of Commissioners District 2
+ocd-division/country:us/state:ga/county:forsyth/council_district:3,Forsyth County GA Board of Commissioners District 3
+ocd-division/country:us/state:ga/county:forsyth/council_district:4,Forsyth County GA Board of Commissioners District 4
+ocd-division/country:us/state:ga/county:forsyth/council_district:5,Forsyth County GA Board of Commissioners District 5
+ocd-division/country:us/state:ga/county:franklin/council_district:1,Franklin County Commission District 1
+ocd-division/country:us/state:ga/county:franklin/council_district:2,Franklin County Commission District 2
+ocd-division/country:us/state:ga/county:franklin/council_district:3,Franklin County Commission District 3
+ocd-division/country:us/state:ga/county:franklin/council_district:4,Franklin County Commission District 4
+ocd-division/country:us/state:ga/county:fulton/council_district:3,Fulton County GA Board of Commissioners District 3
+ocd-division/country:us/state:ga/county:fulton/council_district:4,Fulton County GA Board of Commissioners District 4
+ocd-division/country:us/state:ga/county:fulton/council_district:5,Fulton County GA Board of Commissioners District 5
+ocd-division/country:us/state:ga/county:fulton/council_district:6,Fulton County GA Board of Commissioners District 6
+ocd-division/country:us/state:ga/county:fulton/council_district:7,Fulton County GA Board of Commissioners District 7
+ocd-division/country:us/state:ga/county:gordon/council_district:1,Gordon County Commission District 1
+ocd-division/country:us/state:ga/county:gordon/council_district:2,Gordon County Commission District 2
+ocd-division/country:us/state:ga/county:gordon/council_district:3,Gordon County Commission District 3
+ocd-division/country:us/state:ga/county:gordon/council_district:4,Gordon County Commission District 4
+ocd-division/country:us/state:ga/county:gordon/council_district:5,Gordon County Commission District 5
+ocd-division/country:us/state:ga/county:grady/council_district:1,Grady County Commission District 1
+ocd-division/country:us/state:ga/county:grady/council_district:2,Grady County Commission District 2
+ocd-division/country:us/state:ga/county:grady/council_district:3,Grady County Commission District 3
+ocd-division/country:us/state:ga/county:grady/council_district:4,Grady County Commission District 4
+ocd-division/country:us/state:ga/county:grady/council_district:5,Grady County Commission District 5
+ocd-division/country:us/state:ga/county:greene/council_district:1,Greene County Commission District 1
+ocd-division/country:us/state:ga/county:greene/council_district:2,Greene County Commission District 2
+ocd-division/country:us/state:ga/county:greene/council_district:3,Greene County Commission District 3
+ocd-division/country:us/state:ga/county:greene/council_district:4,Greene County Commission District 4
+ocd-division/country:us/state:ga/county:gwinnett/council_district:1,Gwinnett County GA Board of Commissioners District 1
+ocd-division/country:us/state:ga/county:gwinnett/council_district:2,Gwinnett County GA Board of Commissioners District 2
+ocd-division/country:us/state:ga/county:gwinnett/council_district:3,Gwinnett County GA Board of Commissioners District 3
+ocd-division/country:us/state:ga/county:gwinnett/council_district:4,Gwinnett County GA Board of Commissioners District 4
+ocd-division/country:us/state:ga/county:gwinnett/school_board_district:1,Gwinnett County School Board District 1
+ocd-division/country:us/state:ga/county:gwinnett/school_board_district:2,Gwinnett County School Board District 2
+ocd-division/country:us/state:ga/county:gwinnett/school_board_district:3,Gwinnett County School Board District 3
+ocd-division/country:us/state:ga/county:gwinnett/school_board_district:4,Gwinnett County School Board District 4
+ocd-division/country:us/state:ga/county:gwinnett/school_board_district:5,Gwinnett County School Board District 5
+ocd-division/country:us/state:ga/county:hall/council_district:1,Hall County GA Board of Commissioners District 1
+ocd-division/country:us/state:ga/county:hall/council_district:2,Hall County GA Board of Commissioners District 2
+ocd-division/country:us/state:ga/county:hall/council_district:3,Hall County GA Board of Commissioners District 3
+ocd-division/country:us/state:ga/county:hall/council_district:4,Hall County GA Board of Commissioners District 4
+ocd-division/country:us/state:ga/county:hancock/council_district:1,Hancock County Commission District 1
+ocd-division/country:us/state:ga/county:hancock/council_district:2,Hancock County Commission District 2
+ocd-division/country:us/state:ga/county:hancock/council_district:3,Hancock County Commission District 3
+ocd-division/country:us/state:ga/county:hancock/council_district:4,Hancock County Commission District 4
+ocd-division/country:us/state:ga/county:haralson/council_district:1,Haralson County Commission District 1
+ocd-division/country:us/state:ga/county:haralson/council_district:2,Haralson County Commission District 2
+ocd-division/country:us/state:ga/county:haralson/council_district:3,Haralson County Commission District 3
+ocd-division/country:us/state:ga/county:haralson/council_district:4,Haralson County Commission District 4
+ocd-division/country:us/state:ga/county:harris/council_district:1,Harris County Commission District 1
+ocd-division/country:us/state:ga/county:harris/council_district:2,Harris County Commission District 2
+ocd-division/country:us/state:ga/county:harris/council_district:3,Harris County Commission District 3
+ocd-division/country:us/state:ga/county:harris/council_district:4,Harris County Commission District 4
+ocd-division/country:us/state:ga/county:harris/council_district:5,Harris County Commission District 5
+ocd-division/country:us/state:ga/county:harris/school_board_district:1,Harris County School Board District 1
+ocd-division/country:us/state:ga/county:harris/school_board_district:2,Harris County School Board District 2
+ocd-division/country:us/state:ga/county:harris/school_board_district:3,Harris County School Board District 3
+ocd-division/country:us/state:ga/county:harris/school_board_district:4,Harris County School Board District 4
+ocd-division/country:us/state:ga/county:harris/school_board_district:5,Harris County School Board District 5
+ocd-division/country:us/state:ga/county:hart/council_district:1,Hart County Commission District 1
+ocd-division/country:us/state:ga/county:hart/council_district:2,Hart County Commission District 2
+ocd-division/country:us/state:ga/county:hart/council_district:3,Hart County Commission District 3
+ocd-division/country:us/state:ga/county:hart/council_district:4,Hart County Commission District 4
+ocd-division/country:us/state:ga/county:hart/council_district:5,Hart County Commission District 5
+ocd-division/country:us/state:ga/county:heard/council_district:1,Heard County Commission District 1
+ocd-division/country:us/state:ga/county:heard/council_district:2,Heard County Commission District 2
+ocd-division/country:us/state:ga/county:heard/council_district:3,Heard County Commission District 3
+ocd-division/country:us/state:ga/county:heard/council_district:4,Heard County Commission District 4
+ocd-division/country:us/state:ga/county:heard/council_district:5,Heard County Commission District 5
+ocd-division/country:us/state:ga/county:henry/council_district:1,Henry County GA Board of Commissioners District 1
+ocd-division/country:us/state:ga/county:henry/council_district:2,Henry County GA Board of Commissioners District 2
+ocd-division/country:us/state:ga/county:henry/council_district:3,Henry County GA Board of Commissioners District 3
+ocd-division/country:us/state:ga/county:henry/council_district:4,Henry County GA Board of Commissioners District 4
+ocd-division/country:us/state:ga/county:henry/council_district:5,Henry County GA Board of Commissioners District 5
+ocd-division/country:us/state:ga/county:houston/school_board_district:1,Houston County School Board District 1
+ocd-division/country:us/state:ga/county:houston/school_board_district:2,Houston County School Board District 2
+ocd-division/country:us/state:ga/county:houston/school_board_district:3,Houston County School Board District 3
+ocd-division/country:us/state:ga/county:houston/school_board_district:4,Houston County School Board District 4
+ocd-division/country:us/state:ga/county:houston/school_board_district:5,Houston County School Board District 5
+ocd-division/country:us/state:ga/county:irwin/council_district:1,Irwin County Commission District 1
+ocd-division/country:us/state:ga/county:irwin/council_district:2,Irwin County Commission District 2
+ocd-division/country:us/state:ga/county:irwin/council_district:3,Irwin County Commission District 3
+ocd-division/country:us/state:ga/county:irwin/council_district:4,Irwin County Commission District 4
+ocd-division/country:us/state:ga/county:irwin/school_board_district:1,Irwin County School Board District 1
+ocd-division/country:us/state:ga/county:irwin/school_board_district:2,Irwin County School Board District 2
+ocd-division/country:us/state:ga/county:irwin/school_board_district:3,Irwin County School Board District 3
+ocd-division/country:us/state:ga/county:irwin/school_board_district:4,Irwin County School Board District 4
+ocd-division/country:us/state:ga/county:irwin/school_board_district:5,Irwin County School Board District 5
+ocd-division/country:us/state:ga/county:jackson/council_district:1,Jackson County Commission District 1
+ocd-division/country:us/state:ga/county:jackson/council_district:2,Jackson County Commission District 2
+ocd-division/country:us/state:ga/county:jackson/council_district:3,Jackson County Commission District 3
+ocd-division/country:us/state:ga/county:jackson/council_district:4,Jackson County Commission District 4
+ocd-division/country:us/state:ga/county:jasper/council_district:1,Jasper County Commission District 1
+ocd-division/country:us/state:ga/county:jasper/council_district:2,Jasper County Commission District 2
+ocd-division/country:us/state:ga/county:jasper/council_district:3,Jasper County Commission District 3
+ocd-division/country:us/state:ga/county:jasper/council_district:4,Jasper County Commission District 4
+ocd-division/country:us/state:ga/county:jasper/council_district:5,Jasper County Commission District 5
+ocd-division/country:us/state:ga/county:jefferson/council_district:1,Jefferson County Commission District 1
+ocd-division/country:us/state:ga/county:jefferson/council_district:2,Jefferson County Commission District 2
+ocd-division/country:us/state:ga/county:jefferson/council_district:3,Jefferson County Commission District 3
+ocd-division/country:us/state:ga/county:jefferson/council_district:4,Jefferson County Commission District 4
+ocd-division/country:us/state:ga/county:johnson/council_district:1,Johnson County Commission District 1
+ocd-division/country:us/state:ga/county:johnson/council_district:2,Johnson County Commission District 2
+ocd-division/country:us/state:ga/county:johnson/council_district:3,Johnson County Commission District 3
+ocd-division/country:us/state:ga/county:johnson/council_district:4,Johnson County Commission District 4
+ocd-division/country:us/state:ga/county:johnson/council_district:5,Johnson County Commission District 5
+ocd-division/country:us/state:ga/county:johnson/school_board_district:1,Johnson County School Board District 1
+ocd-division/country:us/state:ga/county:johnson/school_board_district:2,Johnson County School Board District 2
+ocd-division/country:us/state:ga/county:johnson/school_board_district:3,Johnson County School Board District 3
+ocd-division/country:us/state:ga/county:johnson/school_board_district:4,Johnson County School Board District 4
+ocd-division/country:us/state:ga/county:johnson/school_board_district:5,Johnson County School Board District 5
+ocd-division/country:us/state:ga/county:jones/council_district:1,Jones County Commission District 1
+ocd-division/country:us/state:ga/county:jones/council_district:2,Jones County Commission District 2
+ocd-division/country:us/state:ga/county:jones/council_district:3,Jones County Commission District 3
+ocd-division/country:us/state:ga/county:jones/council_district:4,Jones County Commission District 4
+ocd-division/country:us/state:ga/county:lamar/council_district:1,Lamar County Commission District 1
+ocd-division/country:us/state:ga/county:lamar/council_district:2,Lamar County Commission District 2
+ocd-division/country:us/state:ga/county:lamar/council_district:3,Lamar County Commission District 3
+ocd-division/country:us/state:ga/county:lamar/council_district:4,Lamar County Commission District 4
+ocd-division/country:us/state:ga/county:lanier/council_district:1,Lanier County Commission District 1
+ocd-division/country:us/state:ga/county:lanier/council_district:2,Lanier County Commission District 2
+ocd-division/country:us/state:ga/county:lanier/council_district:3,Lanier County Commission District 3
+ocd-division/country:us/state:ga/county:lanier/council_district:4,Lanier County Commission District 4
+ocd-division/country:us/state:ga/county:laurens/council_district:1,Laurens County Commission District 1
+ocd-division/country:us/state:ga/county:laurens/council_district:2,Laurens County Commission District 2
+ocd-division/country:us/state:ga/county:laurens/council_district:3,Laurens County Commission District 3
+ocd-division/country:us/state:ga/county:laurens/council_district:4,Laurens County Commission District 4
+ocd-division/country:us/state:ga/county:laurens/council_district:5,Laurens County Commission District 5
+ocd-division/country:us/state:ga/county:lee/council_district:1,Lee County Commission District 1
+ocd-division/country:us/state:ga/county:lee/council_district:2,Lee County Commission District 2
+ocd-division/country:us/state:ga/county:lee/council_district:3,Lee County Commission District 3
+ocd-division/country:us/state:ga/county:lee/council_district:4,Lee County Commission District 4
+ocd-division/country:us/state:ga/county:lee/council_district:5,Lee County Commission District 5
+ocd-division/country:us/state:ga/county:lee/school_board_district:1,Lee County School Board District 1
+ocd-division/country:us/state:ga/county:lee/school_board_district:2,Lee County School Board District 2
+ocd-division/country:us/state:ga/county:lee/school_board_district:3,Lee County School Board District 3
+ocd-division/country:us/state:ga/county:lee/school_board_district:4,Lee County School Board District 4
+ocd-division/country:us/state:ga/county:lee/school_board_district:5,Lee County School Board District 5
+ocd-division/country:us/state:ga/county:liberty/council_district:1,Liberty County Commission District 1
+ocd-division/country:us/state:ga/county:liberty/council_district:2,Liberty County Commission District 2
+ocd-division/country:us/state:ga/county:liberty/council_district:3,Liberty County Commission District 3
+ocd-division/country:us/state:ga/county:liberty/council_district:4,Liberty County Commission District 4
+ocd-division/country:us/state:ga/county:liberty/council_district:5,Liberty County Commission District 5
+ocd-division/country:us/state:ga/county:liberty/council_district:6,Liberty County Commission District 6
+ocd-division/country:us/state:ga/county:lincoln/council_district:1,Lincoln County Commission District 1
+ocd-division/country:us/state:ga/county:lincoln/council_district:2,Lincoln County Commission District 2
+ocd-division/country:us/state:ga/county:lincoln/council_district:3,Lincoln County Commission District 3
+ocd-division/country:us/state:ga/county:lincoln/council_district:4,Lincoln County Commission District 4
+ocd-division/country:us/state:ga/county:long/council_district:1,Long County Commission District 1
+ocd-division/country:us/state:ga/county:long/council_district:2,Long County Commission District 2
+ocd-division/country:us/state:ga/county:long/council_district:3,Long County Commission District 3
+ocd-division/country:us/state:ga/county:long/council_district:4,Long County Commission District 4
+ocd-division/country:us/state:ga/county:long/council_district:5,Long County Commission District 5
+ocd-division/country:us/state:ga/county:lowndes/council_district:1,Lowndes County GA Board of Commissioners District 1
+ocd-division/country:us/state:ga/county:lowndes/council_district:2,Lowndes County GA Board of Commissioners District 2
+ocd-division/country:us/state:ga/county:lowndes/council_district:3,Lowndes County GA Board of Commissioners District 3
+ocd-division/country:us/state:ga/county:lowndes/council_district:4,Lowndes County GA Board of Commissioners District 4
+ocd-division/country:us/state:ga/county:lowndes/council_district:5,Lowndes County GA Board of Commissioners District 5
+ocd-division/country:us/state:ga/county:lowndes/school_board_district:1,Lowndes County School Board District 1
+ocd-division/country:us/state:ga/county:lowndes/school_board_district:2,Lowndes County School Board District 2
+ocd-division/country:us/state:ga/county:lowndes/school_board_district:3,Lowndes County School Board District 3
+ocd-division/country:us/state:ga/county:lowndes/school_board_district:4,Lowndes County School Board District 4
+ocd-division/country:us/state:ga/county:lowndes/school_board_district:5,Lowndes County School Board District 5
+ocd-division/country:us/state:ga/county:lowndes/school_board_district:6,Lowndes County School Board District 6
+ocd-division/country:us/state:ga/county:lowndes/school_board_district:7,Lowndes County School Board District 7
+ocd-division/country:us/state:ga/county:lumpkin/council_district:1,Lumpkin County Commission District 1
+ocd-division/country:us/state:ga/county:lumpkin/council_district:2,Lumpkin County Commission District 2
+ocd-division/country:us/state:ga/county:lumpkin/council_district:3,Lumpkin County Commission District 3
+ocd-division/country:us/state:ga/county:lumpkin/council_district:4,Lumpkin County Commission District 4
+ocd-division/country:us/state:ga/county:macon/council_district:1,Macon County Commission District 1
+ocd-division/country:us/state:ga/county:macon/council_district:2,Macon County Commission District 2
+ocd-division/country:us/state:ga/county:macon/council_district:3,Macon County Commission District 3
+ocd-division/country:us/state:ga/county:macon/council_district:4,Macon County Commission District 4
+ocd-division/country:us/state:ga/county:macon/council_district:5,Macon County Commission District 5
+ocd-division/country:us/state:ga/county:madison/council_district:1,Madison County Commission District 1
+ocd-division/country:us/state:ga/county:madison/council_district:2,Madison County Commission District 2
+ocd-division/country:us/state:ga/county:madison/council_district:3,Madison County Commission District 3
+ocd-division/country:us/state:ga/county:madison/council_district:4,Madison County Commission District 4
+ocd-division/country:us/state:ga/county:madison/council_district:5,Madison County Commission District 5
+ocd-division/country:us/state:ga/county:marion/council_district:1,Marion County Commission District 1
+ocd-division/country:us/state:ga/county:marion/council_district:2,Marion County Commission District 2
+ocd-division/country:us/state:ga/county:marion/council_district:3,Marion County Commission District 3
+ocd-division/country:us/state:ga/county:marion/council_district:4,Marion County Commission District 4
+ocd-division/country:us/state:ga/county:mcduffie/council_district:1,McDuffie County Commission District 1
+ocd-division/country:us/state:ga/county:mcduffie/council_district:2,McDuffie County Commission District 2
+ocd-division/country:us/state:ga/county:mcduffie/school_board_district:1,McDuffie County School Board District 1
+ocd-division/country:us/state:ga/county:mcduffie/school_board_district:2,McDuffie County School Board District 2
+ocd-division/country:us/state:ga/county:mcduffie/school_board_district:3,McDuffie County School Board District 3
+ocd-division/country:us/state:ga/county:mcduffie/school_board_district:4,McDuffie County School Board District 4
+ocd-division/country:us/state:ga/county:mcduffie/school_board_district:5,McDuffie County School Board District 5
+ocd-division/country:us/state:ga/county:mcduffie/school_board_district:6,McDuffie County School Board District 6
+ocd-division/country:us/state:ga/county:mcduffie/school_board_district:7,McDuffie County School Board District 7
+ocd-division/country:us/state:ga/county:mcintosh/council_district:1,McIntosh County Commission District 1
+ocd-division/country:us/state:ga/county:mcintosh/council_district:2,McIntosh County Commission District 2
+ocd-division/country:us/state:ga/county:mcintosh/council_district:3,McIntosh County Commission District 3
+ocd-division/country:us/state:ga/county:mcintosh/council_district:4,McIntosh County Commission District 4
+ocd-division/country:us/state:ga/county:meriwether/council_district:1,Meriwether County Commission District 1
+ocd-division/country:us/state:ga/county:meriwether/council_district:2,Meriwether County Commission District 2
+ocd-division/country:us/state:ga/county:meriwether/council_district:3,Meriwether County Commission District 3
+ocd-division/country:us/state:ga/county:meriwether/council_district:4,Meriwether County Commission District 4
+ocd-division/country:us/state:ga/county:meriwether/council_district:5,Meriwether County Commission District 5
+ocd-division/country:us/state:ga/county:mitchell/council_district:1,Mitchell County Commission District 1
+ocd-division/country:us/state:ga/county:mitchell/council_district:2,Mitchell County Commission District 2
+ocd-division/country:us/state:ga/county:mitchell/council_district:3,Mitchell County Commission District 3
+ocd-division/country:us/state:ga/county:mitchell/council_district:4,Mitchell County Commission District 4
+ocd-division/country:us/state:ga/county:mitchell/council_district:5,Mitchell County Commission District 5
+ocd-division/country:us/state:ga/county:monroe/council_district:1,Monroe County Commission District 1
+ocd-division/country:us/state:ga/county:monroe/council_district:2,Monroe County Commission District 2
+ocd-division/country:us/state:ga/county:monroe/council_district:3,Monroe County Commission District 3
+ocd-division/country:us/state:ga/county:monroe/council_district:4,Monroe County Commission District 4
+ocd-division/country:us/state:ga/county:montgomery/council_district:1,Montgomery County Commission District 1
+ocd-division/country:us/state:ga/county:montgomery/council_district:2,Montgomery County Commission District 2
+ocd-division/country:us/state:ga/county:montgomery/council_district:3,Montgomery County Commission District 3
+ocd-division/country:us/state:ga/county:montgomery/council_district:4,Montgomery County Commission District 4
+ocd-division/country:us/state:ga/county:morgan/council_district:1,Morgan County Commission District 1
+ocd-division/country:us/state:ga/county:morgan/council_district:2,Morgan County Commission District 2
+ocd-division/country:us/state:ga/county:morgan/council_district:3,Morgan County Commission District 3
+ocd-division/country:us/state:ga/county:morgan/council_district:4,Morgan County Commission District 4
+ocd-division/country:us/state:ga/county:morgan/council_district:5,Morgan County Commission District 5
+ocd-division/country:us/state:ga/county:murray/school_board_district:1,Murray County School Board District 1
+ocd-division/country:us/state:ga/county:murray/school_board_district:2,Murray County School Board District 2
+ocd-division/country:us/state:ga/county:murray/school_board_district:3,Murray County School Board District 3
+ocd-division/country:us/state:ga/county:murray/school_board_district:4,Murray County School Board District 4
+ocd-division/country:us/state:ga/county:murray/school_board_district:5,Murray County School Board District 5
+ocd-division/country:us/state:ga/county:murray/school_board_district:6,Murray County School Board District 6
+ocd-division/country:us/state:ga/county:muscogee/council_district:1,Muscogee County Council District 1
+ocd-division/country:us/state:ga/county:muscogee/council_district:2,Muscogee County Council District 2
+ocd-division/country:us/state:ga/county:muscogee/council_district:3,Muscogee County Council District 3
+ocd-division/country:us/state:ga/county:muscogee/council_district:4,Muscogee County Council District 4
+ocd-division/country:us/state:ga/county:muscogee/council_district:5,Muscogee County Council District 5
+ocd-division/country:us/state:ga/county:muscogee/council_district:6,Muscogee County Council District 6
+ocd-division/country:us/state:ga/county:muscogee/council_district:7,Muscogee County Council District 7
+ocd-division/country:us/state:ga/county:muscogee/council_district:8,Muscogee County Council District 8
+ocd-division/country:us/state:ga/county:muscogee/council_district:9,Muscogee County Council District 9
+ocd-division/country:us/state:ga/county:newton/council_district:1,Newton County Commission District 1
+ocd-division/country:us/state:ga/county:newton/council_district:2,Newton County Commission District 2
+ocd-division/country:us/state:ga/county:newton/council_district:3,Newton County Commission District 3
+ocd-division/country:us/state:ga/county:newton/council_district:4,Newton County Commission District 4
+ocd-division/country:us/state:ga/county:newton/council_district:5,Newton County Commission District 5
+ocd-division/country:us/state:ga/county:oglethorpe/council_district:1,Oglethorpe County Commission District 1
+ocd-division/country:us/state:ga/county:oglethorpe/council_district:2,Oglethorpe County Commission District 2
+ocd-division/country:us/state:ga/county:oglethorpe/council_district:3,Oglethorpe County Commission District 3
+ocd-division/country:us/state:ga/county:oglethorpe/council_district:4,Oglethorpe County Commission District 4
+ocd-division/country:us/state:ga/county:oglethorpe/council_district:5,Oglethorpe County Commission District 5
+ocd-division/country:us/state:ga/county:paulding/council_district:1,Paulding County GA Board of Commissioners District 1
+ocd-division/country:us/state:ga/county:paulding/council_district:2,Paulding County GA Board of Commissioners District 2
+ocd-division/country:us/state:ga/county:paulding/council_district:3,Paulding County GA Board of Commissioners District 3
+ocd-division/country:us/state:ga/county:paulding/council_district:4,Paulding County GA Board of Commissioners District 4
+ocd-division/country:us/state:ga/county:paulding/school_board_district:1,Paulding County School Board District 1
+ocd-division/country:us/state:ga/county:paulding/school_board_district:2,Paulding County School Board District 2
+ocd-division/country:us/state:ga/county:paulding/school_board_district:3,Paulding County School Board District 3
+ocd-division/country:us/state:ga/county:paulding/school_board_district:4,Paulding County School Board District 4
+ocd-division/country:us/state:ga/county:paulding/school_board_district:5,Paulding County School Board District 5
+ocd-division/country:us/state:ga/county:paulding/school_board_district:6,Paulding County School Board District 6
+ocd-division/country:us/state:ga/county:pierce/council_district:1,Pierce County Commission District 1
+ocd-division/country:us/state:ga/county:pierce/council_district:2,Pierce County Commission District 2
+ocd-division/country:us/state:ga/county:pierce/council_district:3,Pierce County Commission District 3
+ocd-division/country:us/state:ga/county:pierce/council_district:4,Pierce County Commission District 4
+ocd-division/country:us/state:ga/county:pike/council_district:1,Pike County Commission District 1
+ocd-division/country:us/state:ga/county:pike/council_district:2,Pike County Commission District 2
+ocd-division/country:us/state:ga/county:pike/council_district:3,Pike County Commission District 3
+ocd-division/country:us/state:ga/county:pike/council_district:4,Pike County Commission District 4
+ocd-division/country:us/state:ga/county:pike/school_board_district:1,Pike County School Board District 1
+ocd-division/country:us/state:ga/county:pike/school_board_district:2,Pike County School Board District 2
+ocd-division/country:us/state:ga/county:pike/school_board_district:3,Pike County School Board District 3
+ocd-division/country:us/state:ga/county:pike/school_board_district:4,Pike County School Board District 4
+ocd-division/country:us/state:ga/county:pike/school_board_district:5,Pike County School Board District 5
+ocd-division/country:us/state:ga/county:pike/school_board_district:6,Pike County School Board District 6
+ocd-division/country:us/state:ga/county:quitman/council_district:1,Quitman County Commission District 1
+ocd-division/country:us/state:ga/county:quitman/council_district:2,Quitman County Commission District 2
+ocd-division/country:us/state:ga/county:quitman/council_district:3,Quitman County Commission District 3
+ocd-division/country:us/state:ga/county:quitman/council_district:4,Quitman County Commission District 4
+ocd-division/country:us/state:ga/county:richmond/council_district:1,Richmond County Commission District 1
+ocd-division/country:us/state:ga/county:richmond/council_district:2,Richmond County Commission District 2
+ocd-division/country:us/state:ga/county:richmond/council_district:3,Richmond County Commission District 3
+ocd-division/country:us/state:ga/county:richmond/council_district:4,Richmond County Commission District 4
+ocd-division/country:us/state:ga/county:richmond/council_district:5,Richmond County Commission District 5
+ocd-division/country:us/state:ga/county:richmond/council_district:6,Richmond County Commission District 6
+ocd-division/country:us/state:ga/county:richmond/council_district:7,Richmond County Commission District 7
+ocd-division/country:us/state:ga/county:richmond/council_district:8,Richmond County Commission District 8
+ocd-division/country:us/state:ga/county:richmond/council_district:9,Richmond County Commission District 9
+ocd-division/country:us/state:ga/county:richmond/council_district:10,Richmond County Commission District 10
+ocd-division/country:us/state:ga/county:screven/council_district:1,Screven County Commission District 1
+ocd-division/country:us/state:ga/county:screven/council_district:2,Screven County Commission District 2
+ocd-division/country:us/state:ga/county:screven/council_district:3,Screven County Commission District 3
+ocd-division/country:us/state:ga/county:screven/council_district:4,Screven County Commission District 4
+ocd-division/country:us/state:ga/county:screven/council_district:5,Screven County Commission District 5
+ocd-division/country:us/state:ga/county:screven/council_district:6,Screven County Commission District 6
+ocd-division/country:us/state:ga/county:screven/council_district:7,Screven County Commission District 7
+ocd-division/country:us/state:ga/county:talbot/council_district:1,Talbot County Commission District 1
+ocd-division/country:us/state:ga/county:talbot/council_district:2,Talbot County Commission District 2
+ocd-division/country:us/state:ga/county:talbot/council_district:3,Talbot County Commission District 3
+ocd-division/country:us/state:ga/county:talbot/council_district:4,Talbot County Commission District 4
+ocd-division/country:us/state:ga/county:talbot/council_district:5,Talbot County Commission District 5
+ocd-division/country:us/state:ga/county:tattnall/council_district:1,Tattnall County Commission District 1
+ocd-division/country:us/state:ga/county:tattnall/council_district:2,Tattnall County Commission District 2
+ocd-division/country:us/state:ga/county:tattnall/council_district:3,Tattnall County Commission District 3
+ocd-division/country:us/state:ga/county:tattnall/council_district:4,Tattnall County Commission District 4
+ocd-division/country:us/state:ga/county:tattnall/council_district:5,Tattnall County Commission District 5
+ocd-division/country:us/state:ga/county:taylor/council_district:1,Taylor County Commission District 1
+ocd-division/country:us/state:ga/county:taylor/council_district:2,Taylor County Commission District 2
+ocd-division/country:us/state:ga/county:taylor/council_district:3,Taylor County Commission District 3
+ocd-division/country:us/state:ga/county:taylor/council_district:4,Taylor County Commission District 4
+ocd-division/country:us/state:ga/county:taylor/council_district:5,Taylor County Commission District 5
+ocd-division/country:us/state:ga/county:terrell/council_district:1,Terrell County Commission District 1
+ocd-division/country:us/state:ga/county:terrell/council_district:2,Terrell County Commission District 2
+ocd-division/country:us/state:ga/county:terrell/council_district:3,Terrell County Commission District 3
+ocd-division/country:us/state:ga/county:terrell/council_district:4,Terrell County Commission District 4
+ocd-division/country:us/state:ga/county:tift/council_district:1,Tift County Commission District 1
+ocd-division/country:us/state:ga/county:tift/council_district:2,Tift County Commission District 2
+ocd-division/country:us/state:ga/county:tift/council_district:3,Tift County Commission District 3
+ocd-division/country:us/state:ga/county:tift/council_district:4,Tift County Commission District 4
+ocd-division/country:us/state:ga/county:tift/council_district:5,Tift County Commission District 5
+ocd-division/country:us/state:ga/county:tift/council_district:6,Tift County Commission District 6
+ocd-division/country:us/state:ga/county:toombs/council_district:1,Toombs County Commission District 1
+ocd-division/country:us/state:ga/county:toombs/council_district:2,Toombs County Commission District 2
+ocd-division/country:us/state:ga/county:toombs/council_district:3,Toombs County Commission District 3
+ocd-division/country:us/state:ga/county:toombs/council_district:4,Toombs County Commission District 4
+ocd-division/country:us/state:ga/county:troup/council_district:1,Troup County Commission District 1
+ocd-division/country:us/state:ga/county:troup/council_district:2,Troup County Commission District 2
+ocd-division/country:us/state:ga/county:troup/council_district:3,Troup County Commission District 3
+ocd-division/country:us/state:ga/county:troup/council_district:4,Troup County Commission District 4
+ocd-division/country:us/state:ga/county:troup/council_district:5,Troup County Commission District 5
+ocd-division/country:us/state:ga/county:turner/council_district:1,Turner County Commission District 1
+ocd-division/country:us/state:ga/county:turner/council_district:2,Turner County Commission District 2
+ocd-division/country:us/state:ga/county:turner/council_district:3,Turner County Commission District 3
+ocd-division/country:us/state:ga/county:turner/council_district:4,Turner County Commission District 4
+ocd-division/country:us/state:ga/county:turner/council_district:5,Turner County Commission District 5
+ocd-division/country:us/state:ga/county:twiggs/council_district:1,Twiggs County Commission District 1
+ocd-division/country:us/state:ga/county:twiggs/council_district:2,Twiggs County Commission District 2
+ocd-division/country:us/state:ga/county:twiggs/council_district:3,Twiggs County Commission District 3
+ocd-division/country:us/state:ga/county:twiggs/council_district:4,Twiggs County Commission District 4
+ocd-division/country:us/state:ga/county:walton/council_district:1,Walton County Commission District 1
+ocd-division/country:us/state:ga/county:walton/council_district:2,Walton County Commission District 2
+ocd-division/country:us/state:ga/county:walton/council_district:3,Walton County Commission District 3
+ocd-division/country:us/state:ga/county:walton/council_district:4,Walton County Commission District 4
+ocd-division/country:us/state:ga/county:walton/council_district:5,Walton County Commission District 5
+ocd-division/country:us/state:ga/county:walton/council_district:6,Walton County Commission District 6
+ocd-division/country:us/state:ga/county:warren/council_district:1,Warren County Commission District 1
+ocd-division/country:us/state:ga/county:warren/council_district:2,Warren County Commission District 2
+ocd-division/country:us/state:ga/county:wayne/council_district:1,Wayne County Commission District 1
+ocd-division/country:us/state:ga/county:wayne/council_district:2,Wayne County Commission District 2
+ocd-division/country:us/state:ga/county:wayne/council_district:3,Wayne County Commission District 3
+ocd-division/country:us/state:ga/county:wayne/council_district:4,Wayne County Commission District 4
+ocd-division/country:us/state:ga/county:wayne/council_district:5,Wayne County Commission District 5
+ocd-division/country:us/state:ga/county:webster/council_district:1,Webster County Commission District 1
+ocd-division/country:us/state:ga/county:webster/council_district:2,Webster County Commission District 2
+ocd-division/country:us/state:ga/county:webster/council_district:3,Webster County Commission District 3
+ocd-division/country:us/state:ga/county:webster/council_district:4,Webster County Commission District 4
+ocd-division/country:us/state:ga/county:white/council_district:1,White County Commission District 1
+ocd-division/country:us/state:ga/county:white/council_district:2,White County Commission District 2
+ocd-division/country:us/state:ga/county:white/council_district:3,White County Commission District 3
+ocd-division/country:us/state:ga/county:white/council_district:4,White County Commission District 4
+ocd-division/country:us/state:ga/county:whitfield/council_district:1,Whitfield County Commission District 1
+ocd-division/country:us/state:ga/county:whitfield/council_district:2,Whitfield County Commission District 2
+ocd-division/country:us/state:ga/county:whitfield/council_district:3,Whitfield County Commission District 3
+ocd-division/country:us/state:ga/county:whitfield/council_district:4,Whitfield County Commission District 4
+ocd-division/country:us/state:ga/county:wilkes/council_district:1,Wilkes County Commission District 1
+ocd-division/country:us/state:ga/county:wilkes/council_district:2,Wilkes County Commission District 2
+ocd-division/country:us/state:ga/county:wilkes/council_district:3,Wilkes County Commission District 3
+ocd-division/country:us/state:ga/county:wilkes/council_district:4,Wilkes County Commission District 4
 ocd-division/country:us/state:ga/place:atlanta/council_district:1,Atlanta GA city council district 1
 ocd-division/country:us/state:ga/place:atlanta/council_district:2,Atlanta GA city council district 2
 ocd-division/country:us/state:ga/place:atlanta/council_district:3,Atlanta GA city council district 3
@@ -21,76 +561,9 @@ ocd-division/country:us/state:ga/place:macon/ward:2,Macon GA ward 2
 ocd-division/country:us/state:ga/place:macon/ward:3,Macon GA ward 3
 ocd-division/country:us/state:ga/place:macon/ward:4,Macon GA ward 4
 ocd-division/country:us/state:ga/place:macon/ward:5,Macon GA ward 5
-ocd-division/country:us/state:ga/county:chatham/council_district:1,Chatham County GA Board of County Commissioners District 1
-ocd-division/country:us/state:ga/county:chatham/council_district:2,Chatham County GA Board of County Commissioners District 2
-ocd-division/country:us/state:ga/county:chatham/council_district:3,Chatham County GA Board of County Commissioners District 3
-ocd-division/country:us/state:ga/county:chatham/council_district:4,Chatham County GA Board of County Commissioners District 4
-ocd-division/country:us/state:ga/county:chatham/council_district:5,Chatham County GA Board of County Commissioners District 5
-ocd-division/country:us/state:ga/county:chatham/council_district:6,Chatham County GA Board of County Commissioners District 6
-ocd-division/country:us/state:ga/county:chatham/council_district:7,Chatham County GA Board of County Commissioners District 7
-ocd-division/country:us/state:ga/county:chatham/council_district:8,Chatham County GA Board of County Commissioners District 8
-ocd-division/country:us/state:ga/county:cherokee/council_district:1,Cherokee County GA Board of County Commissioners District 1
-ocd-division/country:us/state:ga/county:cherokee/council_district:2,Cherokee County GA Board of County Commissioners District 2
-ocd-division/country:us/state:ga/county:cherokee/council_district:3,Cherokee County GA Board of County Commissioners District 3
-ocd-division/country:us/state:ga/county:cherokee/council_district:4,Cherokee County GA Board of County Commissioners District 4
-ocd-division/country:us/state:ga/county:clayton/council_district:1,Clayton County GA Board of County Commissioners District 1
-ocd-division/country:us/state:ga/county:clayton/council_district:2,Clayton County GA Board of County Commissioners District 2
-ocd-division/country:us/state:ga/county:clayton/council_district:3,Clayton County GA Board of County Commissioners District 3
-ocd-division/country:us/state:ga/county:clayton/council_district:4,Clayton County GA Board of County Commissioners District 4
-ocd-division/country:us/state:ga/county:cobb/council_district:1,Cobb County GA Board of Commissioners District 1
-ocd-division/country:us/state:ga/county:cobb/council_district:2,Cobb County GA Board of Commissioners District 2
-ocd-division/country:us/state:ga/county:cobb/council_district:3,Cobb County GA Board of Commissioners District 3
-ocd-division/country:us/state:ga/county:cobb/council_district:4,Cobb County GA Board of Commissioners District 4
-ocd-division/country:us/state:ga/county:dekalb/council_district:1,DeKalb County GA Board of Commissioners District 1
-ocd-division/country:us/state:ga/county:dekalb/council_district:2,DeKalb County GA Board of Commissioners District 2
-ocd-division/country:us/state:ga/county:dekalb/council_district:3,DeKalb County GA Board of Commissioners District 3
-ocd-division/country:us/state:ga/county:dekalb/council_district:4,DeKalb County GA Board of Commissioners District 4
-ocd-division/country:us/state:ga/county:dekalb/council_district:5,DeKalb County GA Board of Commissioners District 5
-ocd-division/country:us/state:ga/county:fulton/council_district:3,Fulton County GA Board of Commissioners District 3
-ocd-division/country:us/state:ga/county:fulton/council_district:4,Fulton County GA Board of Commissioners District 4
-ocd-division/country:us/state:ga/county:fulton/council_district:5,Fulton County GA Board of Commissioners District 5
-ocd-division/country:us/state:ga/county:fulton/council_district:6,Fulton County GA Board of Commissioners District 6
-ocd-division/country:us/state:ga/county:fulton/council_district:7,Fulton County GA Board of Commissioners District 7
-ocd-division/country:us/state:ga/county:gwinnett/council_district:1,Gwinnett County GA Board of Commissioners District 1
-ocd-division/country:us/state:ga/county:gwinnett/council_district:2,Gwinnett County GA Board of Commissioners District 2
-ocd-division/country:us/state:ga/county:gwinnett/council_district:3,Gwinnett County GA Board of Commissioners District 3
-ocd-division/country:us/state:ga/county:gwinnett/council_district:4,Gwinnett County GA Board of Commissioners District 4
 ocd-division/country:us/state:ga/place:savannah/council_district:1,Savannah GA city council district 1
 ocd-division/country:us/state:ga/place:savannah/council_district:2,Savannah GA city council district 2
 ocd-division/country:us/state:ga/place:savannah/council_district:3,Savannah GA city council district 3
 ocd-division/country:us/state:ga/place:savannah/council_district:4,Savannah GA city council district 4
 ocd-division/country:us/state:ga/place:savannah/council_district:5,Savannah GA city council district 5
 ocd-division/country:us/state:ga/place:savannah/council_district:6,Savannah GA city council district 6
-ocd-division/country:us/state:ga/county:henry/council_district:1,Henry County GA Board of Commissioners District 1
-ocd-division/country:us/state:ga/county:henry/council_district:2,Henry County GA Board of Commissioners District 2
-ocd-division/country:us/state:ga/county:henry/council_district:3,Henry County GA Board of Commissioners District 3
-ocd-division/country:us/state:ga/county:henry/council_district:4,Henry County GA Board of Commissioners District 4
-ocd-division/country:us/state:ga/county:henry/council_district:5,Henry County GA Board of Commissioners District 5
-ocd-division/country:us/state:ga/county:bulloch/council_district:1,Bulloch County GA Board of Commissioners District 1
-ocd-division/country:us/state:ga/county:bulloch/council_district:2,Bulloch County GA Board of Commissioners District 2
-ocd-division/country:us/state:ga/county:hall/council_district:1,Hall County GA Board of Commissioners District 1
-ocd-division/country:us/state:ga/county:hall/council_district:2,Hall County GA Board of Commissioners District 2
-ocd-division/country:us/state:ga/county:hall/council_district:3,Hall County GA Board of Commissioners District 3
-ocd-division/country:us/state:ga/county:hall/council_district:4,Hall County GA Board of Commissioners District 4
-ocd-division/country:us/state:ga/county:forsyth/council_district:1,Forsyth County GA Board of Commissioners District 1
-ocd-division/country:us/state:ga/county:forsyth/council_district:2,Forsyth County GA Board of Commissioners District 2
-ocd-division/country:us/state:ga/county:forsyth/council_district:3,Forsyth County GA Board of Commissioners District 3
-ocd-division/country:us/state:ga/county:forsyth/council_district:4,Forsyth County GA Board of Commissioners District 4
-ocd-division/country:us/state:ga/county:forsyth/council_district:5,Forsyth County GA Board of Commissioners District 5
-ocd-division/country:us/state:ga/county:columbia/council_district:1,Columbia County GA Board of Commissioners District 1
-ocd-division/country:us/state:ga/county:columbia/council_district:2,Columbia County GA Board of Commissioners District 2
-ocd-division/country:us/state:ga/county:columbia/council_district:3,Columbia County GA Board of Commissioners District 3
-ocd-division/country:us/state:ga/county:columbia/council_district:4,Columbia County GA Board of Commissioners District 4
-ocd-division/country:us/state:ga/county:lowndes/council_district:1,Lowndes County GA Board of Commissioners District 1
-ocd-division/country:us/state:ga/county:lowndes/council_district:2,Lowndes County GA Board of Commissioners District 2
-ocd-division/country:us/state:ga/county:lowndes/council_district:3,Lowndes County GA Board of Commissioners District 3
-ocd-division/country:us/state:ga/county:lowndes/council_district:4,Lowndes County GA Board of Commissioners District 4
-ocd-division/country:us/state:ga/county:lowndes/council_district:5,Lowndes County GA Board of Commissioners District 5
-ocd-division/country:us/state:ga/county:paulding/council_district:1,Paulding County GA Board of Commissioners District 1
-ocd-division/country:us/state:ga/county:paulding/council_district:2,Paulding County GA Board of Commissioners District 2
-ocd-division/country:us/state:ga/county:paulding/council_district:3,Paulding County GA Board of Commissioners District 3
-ocd-division/country:us/state:ga/county:paulding/council_district:4,Paulding County GA Board of Commissioners District 4
-ocd-division/country:us/state:ga/county:douglas/council_district:1,Douglas County GA Board of Commissioners District 1
-ocd-division/country:us/state:ga/county:douglas/council_district:2,Douglas County GA Board of Commissioners District 2
-ocd-division/country:us/state:ga/county:douglas/council_district:3,Douglas County GA Board of Commissioners District 3
-ocd-division/country:us/state:ga/county:douglas/council_district:4,Douglas County GA Board of Commissioners District 4
