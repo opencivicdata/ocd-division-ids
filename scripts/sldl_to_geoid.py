@@ -111,6 +111,8 @@ def mangle_name(name):  # Purely best-effort. We'll need to do manual
     # just trust it gets the average case fine.
     name = name.lower()
     name = name.replace("-", "_")
+    name = name.replace(",", "")
+    name = name.replace("&", "and")
     name = name.replace(" ", "_")
 
     number_names = OrderedDict(reversed([
