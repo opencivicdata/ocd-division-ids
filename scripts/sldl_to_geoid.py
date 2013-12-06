@@ -18,14 +18,17 @@ import os
 
 IDENTIFIERS = {
     "lower": "identifiers/country-us/us_state_leg_lower.csv",
+    "upper": "identifiers/country-us/us_state_leg_upper.csv",
 }
 
 SOURCE_DATA = {
     "lower": "scripts/source-data/Gaz_sldl_national.txt",
+    "upper": "scripts/source-data/Gaz_sldu_national.txt",
 }
 
 OUTPUT_DIRECTORY = {
-    "lower": "mappings/country-us-sldl/"
+    "lower": "mappings/country-us-sldl/",
+    "upper": "mappings/country-us-sldu/",
 }
 
 
@@ -91,15 +94,22 @@ def extract_district(chamber, state, string):
     if state == 'ma':
         regex = "(?P<district>.*) District"
 
+    if state == 'dc':
+        regex = "Ward (?P<district>.*)"
+
     if state == 'vt':
         regex = "(?P<district>.*) State (Senate|House) District"
 
-    if state == 'nh':
+    if (state == 'nh' and chamber == 'lower') or (state == 'ak' and chamber == 'lower'):
         regex = "%s (Sub)?[d|D]istrict (?P<district>.*), .*" % (hr_name)
+
+    if state == 'nv' and chamber == 'upper':
+        regex = ".* Senatorial District (?P<district>.*)"
 
 
     info = re.match(regex, string)
     if info is None:
+        print regex
         print string, state
         raise ValueError
 
@@ -110,7 +120,7 @@ def mangle_name(name):  # Purely best-effort. We'll need to do manual
     # work after. We need to be sure it's sane and sensable anyway, let's
     # just trust it gets the average case fine.
     name = name.lower()
-    name = name.replace("-", "_")
+    # name = name.replace("-", "_")
     name = name.replace(",", "")
     name = name.replace("&", "and")
     name = name.replace(" ", "_")
@@ -164,7 +174,7 @@ def mangle_name(name):  # Purely best-effort. We'll need to do manual
     return name
 
 
-def convert_gaz_file(fpath, state):
+def convert_gaz_file(fpath, state, chamber):
     data = codecs.open(fpath, encoding='latin1')
     rows = csv.DictReader(data, dialect=TabDelimited)
 
@@ -182,7 +192,13 @@ def convert_gaz_file(fpath, state):
         if "State House Districts not defined" in string:
             continue
 
-        district = extract_district('lower', state, string)
+        if "State Senate Districts not defined" in string:
+            continue
+
+        if 'Senatorial' in string and state == 'nv':
+            continue
+
+        district = extract_district(chamber, state, string)
         district = mangle_name(district)
 
         newid = make_id('ocd-division/country:us/state:%s' % (state), sldl=district)
@@ -200,10 +216,14 @@ def write_mappings(chamber, limit_state=None):
 
         print state
         with open(os.path.join(root, "%s.csv" % (sid)), 'w') as fd:
-            for divid, geoid in convert_gaz_file(SOURCE_DATA[chamber], sid):
+            for divid, geoid in convert_gaz_file(SOURCE_DATA[chamber], sid, chamber):
                 fd.write("%s,%s\n" % (divid, geoid))
 
-if len(sys.argv) > 0:
-    write_mappings('lower', limit_state=sys.argv[1])
+if len(sys.argv) > 2:
+    if sys.argv[2] == 'all':
+        write_mappings(sys.argv[1])
+    else:
+        write_mappings(sys.argv[1], limit_state=sys.argv[2])
 else:
+    write_mappings('upper')
     write_mappings('lower')
