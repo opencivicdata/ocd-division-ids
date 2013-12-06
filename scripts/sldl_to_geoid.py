@@ -1,0 +1,147 @@
+#!/usr/bin/env python
+# Convert Gaz data -> id mappings (GEOID -> ocd-division)
+# Copyright (c) Sunlight Labs, 2013, under the terms of the BSD-3 license.
+#   Paul Tagliamonte <paultag@sunlightfoundation.com>
+
+import codecs
+import csv
+import re
+import us
+import os
+
+# Right, so, first of all, we've got is the Gaz file, the current
+# ID mapping to Geo-IDs, let's generate a 1-to-1 mapping of ID identifiers
+# to maps.
+
+
+IDENTIFIERS = {
+    "lower": "identifiers/country-us/us_state_leg_lower.csv",
+}
+
+SOURCE_DATA = {
+    "lower": "scripts/source-data/Gaz_sldl_national.txt",
+}
+
+OUTPUT_DIRECTORY = {
+    "lower": "mappings/country-us-sldl/"
+}
+
+
+class TabDelimited(csv.Dialect):
+    delimiter = '\t'
+    quoting = csv.QUOTE_NONE
+    lineterminator = '\n\r'
+    skipinitialspace = True
+
+
+def make_id(parent=None, **kwargs):
+    if len(kwargs) > 1:
+        raise ValueError('only one kwarg is allowed for make_id')
+    type, type_id = list(kwargs.items())[0]
+    if not re.match('^[a-z_]+$', type):
+        raise ValueError('type must match [a-z]+ [%s]' % type)
+    type_id = type_id.lower()
+    type_id = re.sub('\.? ', '_', type_id)
+    type_id = re.sub('[^\w0-9~_.-]', '~', type_id, re.UNICODE)
+    if parent:
+        return '{parent}/{type}:{type_id}'.format(parent=parent, type=type,
+                                                  type_id=type_id)
+    else:
+        return 'ocd-division/country:us/{type}:{type_id}'.format(
+            type=type, type_id=type_id)
+
+
+def extract_district(chamber, state, string):
+
+    hr_name = {
+        "lower": "State House",
+        "upper": "State Senate",
+    }[chamber]
+
+    hr_overrides = {
+        "ca": {
+            "lower": "Assembly",
+        },
+        "md": {
+            "lower": "State Legislative",
+        },
+        "nv": {
+            "lower": "Assembly",
+        },
+        "nj": {
+            "lower": "General Assembly",
+        },
+        "ny": {
+            "lower": "Assembly",
+        },
+        "wi": {
+            "lower": "Assembly",
+        },
+    }
+
+    if state in hr_overrides:
+        overrides = hr_overrides[state]
+        if chamber in overrides:
+            hr_name = overrides[chamber]
+
+    regex = "%s (Sub)?[d|D]istrict (?P<district>.*)" % (hr_name)
+
+    if state == 'ma':
+        regex = "(?P<district>.*) District"
+
+    if state == 'vt':
+        regex = "(?P<district>.*) State (Senate|House) District"
+
+    if state == 'nh':
+        regex = "%s (Sub)?[d|D]istrict (?P<district>.*), .*" % (hr_name)
+
+
+    info = re.match(regex, string)
+    if info is None:
+        print string, state
+        raise ValueError
+
+    return info.groupdict()['district']
+
+
+def mangle_name(name):  # Purely best-effort. We'll need to do manual
+    # work after. We need to be sure it's sane and sensable anyway, let's
+    # just trust it gets the average case fine.
+    name = name.lower()
+    name = name.replace("-", "_")
+    name = name.replace("-", "_")
+    name = name.replace(" ", "_")
+
+
+def convert_gaz_file(fpath, state):
+    data = codecs.open(fpath, encoding='latin1')
+    rows = csv.DictReader(data, dialect=TabDelimited)
+
+    for row in rows:
+        state = row['USPS'].lower()
+        string = row['NAME']
+
+        # $ grep "State House Districts not defined" . -r | wc -l
+        # 26  # - Yes, seriously.
+        if "State House Districts not defined" in string:
+            continue
+
+        district = extract_district('lower', state, string)
+
+        newid = make_id('ocd-division/country:us/state:%s' % (state), sldl=district)
+        geoid = row['GEOID']
+        yield (newid, geoid)
+
+
+def write_mappings(chamber):
+    root = OUTPUT_DIRECTORY[chamber]
+
+    for state in us.STATES:
+        sid = state.abbr.lower()
+        print state
+        with open(os.path.join(root, "%s.csv" % (sid)), 'w') as fd:
+            for divid, geoid in convert_gaz_file(SOURCE_DATA[chamber], sid):
+                fd.write("%s,%s\n" % (divid, geoid))
+
+
+write_mappings('lower')
