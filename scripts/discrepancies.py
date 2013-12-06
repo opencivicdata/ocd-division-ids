@@ -38,3 +38,7 @@ for bad_entry in discrepancies:
 discrepancies = ids - mappings
 for bad_entry in discrepancies:
     print "MISSING", bad_entry
+
+print ""
+print " checked  %s total IDs" % (len(ids))
+print "  against %s mappings" % (len(mappings))
