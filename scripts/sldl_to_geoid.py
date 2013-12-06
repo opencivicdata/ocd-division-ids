@@ -3,6 +3,7 @@
 # Copyright (c) Sunlight Labs, 2013, under the terms of the BSD-3 license.
 #   Paul Tagliamonte <paultag@sunlightfoundation.com>
 
+from collections import OrderedDict
 import codecs
 import csv
 import re
@@ -109,8 +110,54 @@ def mangle_name(name):  # Purely best-effort. We'll need to do manual
     # just trust it gets the average case fine.
     name = name.lower()
     name = name.replace("-", "_")
-    name = name.replace("-", "_")
     name = name.replace(" ", "_")
+
+    number_names = OrderedDict(reversed([
+        ("first", "1st",),
+        ("second", "2ed",),
+        ("third", "3ed",),
+        ("fourth", "4th",),
+        ("fifth", "5th",),
+        ("sixth", "6th",),
+        ("seventh", "7th",),
+        ("eighth", "8th",),
+        ("ninth", "9th",),
+        ("tenth", "10th",),
+        ("eleventh", "11th",),
+        ("twelfth", "12th",),
+        ("thirtieth", "13th",),
+        ("thirteenth", "13th",),
+        ("fourteenth", "14th",),
+        ("fifteenth", "15th",),
+        ("sixteenth", "16th",),
+        ("seventeenth", "17th",),
+        ("eighteenth", "18th",),
+        ("nineteenth", "19th",),
+        ("twentieth", "20th",),
+        ("twenty_first", "21st",),
+        ("twenty_second", "22ed",),
+        ("twenty_third", "23ed",),
+        ("twenty_fourth", "24th",),
+        ("twenty_fifth", "25th",),
+        ("twenty_sixth", "26th",),
+        ("twenty_seventh", "27th",),
+        ("twenty_eighth", "28th",),
+        ("twenty_ninth", "29th",),
+        ("thirty_first", "31st",),
+        ("thirty_second", "32ed",),
+        ("thirty_third", "33ed",),
+        ("thirty_fourth", "34th",),
+        ("thirty_fifth", "35th",),
+        ("thirty_sixth", "36th",),
+        ("thirty_seventh", "37th",),
+        ("thirty_eighth", "38th",),
+        ("thirty_ninth", "39th",),
+    ]))
+
+    for number_name, repl in number_names.items():
+        name = name.replace(number_name, repl)
+
+    return name
 
 
 def convert_gaz_file(fpath, state):
@@ -118,7 +165,12 @@ def convert_gaz_file(fpath, state):
     rows = csv.DictReader(data, dialect=TabDelimited)
 
     for row in rows:
-        state = row['USPS'].lower()
+        state_ = row['USPS'].lower()
+
+        if state_ != state:
+            continue
+
+        state = state_
         string = row['NAME']
 
         # $ grep "State House Districts not defined" . -r | wc -l
@@ -127,6 +179,7 @@ def convert_gaz_file(fpath, state):
             continue
 
         district = extract_district('lower', state, string)
+        district = mangle_name(district)
 
         newid = make_id('ocd-division/country:us/state:%s' % (state), sldl=district)
         geoid = row['GEOID']
