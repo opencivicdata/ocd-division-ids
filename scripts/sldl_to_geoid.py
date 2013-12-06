@@ -6,6 +6,7 @@
 from collections import OrderedDict
 import codecs
 import csv
+import sys
 import re
 import us
 import os
@@ -187,15 +188,20 @@ def convert_gaz_file(fpath, state):
         yield (newid, geoid)
 
 
-def write_mappings(chamber):
+def write_mappings(chamber, limit_state=None):
     root = OUTPUT_DIRECTORY[chamber]
 
     for state in us.STATES:
         sid = state.abbr.lower()
+        if limit_state and sid != limit_state:
+            continue
+
         print state
         with open(os.path.join(root, "%s.csv" % (sid)), 'w') as fd:
             for divid, geoid in convert_gaz_file(SOURCE_DATA[chamber], sid):
                 fd.write("%s,%s\n" % (divid, geoid))
 
-
-write_mappings('lower')
+if len(sys.argv) > 0:
+    write_mappings('lower', limit_state=sys.argv[1])
+else:
+    write_mappings('lower')
