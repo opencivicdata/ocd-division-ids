@@ -201,7 +201,18 @@ def convert_gaz_file(fpath, state, chamber):
         district = extract_district(chamber, state, string)
         district = mangle_name(district)
 
-        newid = make_id('ocd-division/country:us/state:%s' % (state), sldl=district)
+        kwargs = {}
+
+        if chamber == 'lower':
+            kwargs['sldl'] = district
+
+        if chamber == 'upper':
+            kwargs['sldu'] = district
+
+        if kwargs == {}:
+            raise ValueError
+
+        newid = make_id('ocd-division/country:us/state:%s' % (state), **kwargs)
         geoid = row['GEOID']
         yield (newid, geoid)
 
