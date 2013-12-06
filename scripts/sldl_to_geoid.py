@@ -105,13 +105,15 @@ def extract_district(chamber, state, string):
     if state == 'vt':
         regex = "(?P<district>.*) State (Senate|House) District"
 
-    if (state == 'nh' and chamber == 'lower') or (state == 'ak' and chamber == 'lower'):
-        regex = "%s (Sub)?[d|D]istrict (?P<district>.*), (?P<where>.*)" % (hr_name)
-
-    if state == 'nv' and chamber == 'upper':
-        regex = ".* Senatorial District (?P<district>.*)"
+    if (state == 'nh' and chamber == 'lower'):
+        regex = "%s District (?P<where>.*) County No. (?P<district>.*)" % (hr_name)
 
     info = re.match(regex, string)
+
+    if info is None:
+        print regex
+        print string, state
+        raise ValueError
 
     if state == 'nh' and chamber == 'lower':
         district = info.groupdict()['district']
@@ -121,11 +123,6 @@ def extract_district(chamber, state, string):
             where = where[:-len("County")]
 
         return "%s_%s" % (where.strip(), district.strip())
-
-    if info is None:
-        print regex
-        print string, state
-        raise ValueError
 
     return info.groupdict()['district']
 
