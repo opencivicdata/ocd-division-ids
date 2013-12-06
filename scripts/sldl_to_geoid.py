@@ -106,13 +106,22 @@ def extract_district(chamber, state, string):
         regex = "(?P<district>.*) State (Senate|House) District"
 
     if (state == 'nh' and chamber == 'lower') or (state == 'ak' and chamber == 'lower'):
-        regex = "%s (Sub)?[d|D]istrict (?P<district>.*), .*" % (hr_name)
+        regex = "%s (Sub)?[d|D]istrict (?P<district>.*), (?P<where>.*)" % (hr_name)
 
     if state == 'nv' and chamber == 'upper':
         regex = ".* Senatorial District (?P<district>.*)"
 
-
     info = re.match(regex, string)
+
+    if state == 'nh' and chamber == 'lower':
+        district = info.groupdict()['district']
+        where = info.groupdict()['where']
+
+        if where.endswith("County"):
+            where = where[:-len("County")]
+
+        return "%s_%s" % (district.strip(), where.strip())
+
     if info is None:
         print regex
         print string, state
@@ -236,7 +245,7 @@ def write_mappings(chamber, limit_state=None):
         if limit_state and sid != limit_state:
             continue
 
-        print state
+        print state, chamber
         with open(os.path.join(root, "%s.csv" % (sid)), 'w') as fd:
             for divid, geoid in convert_gaz_file(SOURCE_DATA[chamber], sid, chamber):
                 fd.write("%s,%s\n" % (divid, geoid))
