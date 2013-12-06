@@ -136,6 +136,14 @@ def mangle_name(name):  # Purely best-effort. We'll need to do manual
     name = name.replace("&", "and")
     name = name.replace(" ", "_")
 
+    if name.startswith("hd-"):
+        name = name[len("hd-"):]
+
+    try:
+        name = str(int(name))
+    except ValueError:
+        pass
+
     number_names = OrderedDict(reversed([
         ("first", "1st",),
         ("second", "2nd",),
