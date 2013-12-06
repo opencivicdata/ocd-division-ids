@@ -139,10 +139,8 @@ def mangle_name(name):  # Purely best-effort. We'll need to do manual
     if name.startswith("hd-"):
         name = name[len("hd-"):]
 
-    try:
-        name = str(int(name))
-    except ValueError:
-        pass
+    if name.startswith("0"):
+        name = name.lstrip("0")
 
     number_names = OrderedDict(reversed([
         ("first", "1st",),
