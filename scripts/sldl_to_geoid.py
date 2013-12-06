@@ -120,7 +120,7 @@ def extract_district(chamber, state, string):
         if where.endswith("County"):
             where = where[:-len("County")]
 
-        return "%s_%s" % (district.strip(), where.strip())
+        return "%s_%s" % (where.strip(), district.strip())
 
     if info is None:
         print regex
