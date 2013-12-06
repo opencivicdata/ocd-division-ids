@@ -179,6 +179,9 @@ def mangle_name(name):  # Purely best-effort. We'll need to do manual
     return name
 
 
+exceptions = get_exception_set()
+
+
 def convert_gaz_file(fpath, state, chamber):
     data = codecs.open(fpath, encoding='latin1')
     rows = csv.DictReader(data, dialect=TabDelimited)
@@ -218,6 +221,9 @@ def convert_gaz_file(fpath, state, chamber):
             raise ValueError
 
         newid = make_id('ocd-division/country:us/state:%s' % (state), **kwargs)
+        if newid in exceptions:
+            newid = exceptions[newid]
+
         geoid = row['GEOID']
         yield (newid, geoid)
 
