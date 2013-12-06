@@ -39,6 +39,11 @@ class TabDelimited(csv.Dialect):
     skipinitialspace = True
 
 
+def get_exception_set():
+    csvfile = csv.reader(open('identifiers/country-us/exceptions.txt'))
+    return {x[0]: x[1] for x in csvfile}
+
+
 def make_id(parent=None, **kwargs):
     if len(kwargs) > 1:
         raise ValueError('only one kwarg is allowed for make_id')
