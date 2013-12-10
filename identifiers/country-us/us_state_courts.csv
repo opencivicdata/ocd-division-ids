@@ -1559,6 +1559,9 @@ ocd-division/country:us/state:wi/circuit_court:7,WI State Circuit Court - 7th Di
 ocd-division/country:us/state:wi/circuit_court:8,WI State Circuit Court - 8th District
 ocd-division/country:us/state:wi/circuit_court:9,WI State Circuit Court - 9th District
 ocd-division/country:us/state:wi/circuit_court:10,WI State Circuit Court - 10th District
+ocd-division/country:us/state:wi/circuit_court:buffalo-pepin,Wisconsin Circuit Court for Buffalo and Pepin counties
+ocd-division/country:us/state:wi/circuit_court:florence-forest,Wisconsin Circuit Court for Florence and Forest counties
+ocd-division/country:us/state:wi/circuit_court:shawano-menominee,Wisconsin Circuit Court (and District Attorney area) for Shawano and Menominee counties
 ocd-division/country:us/state:wv/circuit_court:1,WV State Circuit Court - 1st Circuit
 ocd-division/country:us/state:wv/circuit_court:2,WV State Circuit Court - 2nd Circuit
 ocd-division/country:us/state:wv/circuit_court:3,WV State Circuit Court - 3rd Circuit
