@@ -439,3 +439,7 @@ ocd-division/country:us/state:ne/sldl:48,ocd-division/country:us/state:ne/sldu:4
 ocd-division/country:us/state:ne/sldl:49,ocd-division/country:us/state:ne/sldu:49,Nebraska is unicameral
 ocd-division/country:us/state:vt/sldl:windham-bennington-1,ocd-division/country:us/state:vt/sldl:windham-bennington,Gaz file quirk
 ocd-division/country:us/state:vt/sldl:grand-isle-chittenden,ocd-division/country:us/state:vt/sldl:grand_isle-chittenden,Gaz file quirk
+ocd-division/country:us/state:vt/sldu:grand-isle-chittenden,ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Easy mistake to make
+ocd-division/country:us/state:vt/sldu:grand_isle,ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Wikipedia has this incorrect district listed
+ocd-division/country:us/state:vt/sldu:chittenden-grand_isle,ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Census and State Senate website disagree on ordering
+
