@@ -44,8 +44,8 @@ ocd-division/country:us/state:oh/place:cleveland/ward:14,Cleveland OH - ward 14
 ocd-division/country:us/state:oh/place:cleveland/ward:15,Cleveland OH - ward 15
 ocd-division/country:us/state:oh/place:cleveland/ward:16,Cleveland OH - ward 16
 ocd-division/country:us/state:oh/place:cleveland/ward:17,Cleveland OH - ward 17
-ocd-division/country:us/state:oh/place:cleveland/ward:18,Cleveland OH - ward 18
-ocd-division/country:us/state:oh/place:cleveland/ward:19,Cleveland OH - ward 19
+ocd-division/country:us/state:oh/place:cleveland/ward:18,Cleveland OH - ward 18 (defunct as of 2014)
+ocd-division/country:us/state:oh/place:cleveland/ward:19,Cleveland OH - ward 19 (defunct as of 2014)
 ocd-division/country:us/state:oh/place:toledo/council_district:1,Toledo OH City Council district 1
 ocd-division/country:us/state:oh/place:toledo/council_district:2,Toledo OH City Council district 2
 ocd-division/country:us/state:oh/place:toledo/council_district:3,Toledo OH City Council district 3
@@ -133,3 +133,29 @@ ocd-division/country:us/state:oh/place:columbus/ward:78,Columbus OH ward 78
 ocd-division/country:us/state:oh/place:columbus/ward:79,Columbus OH ward 79
 ocd-division/country:us/state:oh/place:columbus/ward:80,Columbus OH ward 80
 ocd-division/country:us/state:oh/place:columbus/ward:81,Columbus OH ward 81
+ocd-division/country:us/state:oh/place:cincinnati/ward:1,Cincinnati OH ward 1
+ocd-division/country:us/state:oh/place:cincinnati/ward:2,Cincinnati OH ward 2
+ocd-division/country:us/state:oh/place:cincinnati/ward:3,Cincinnati OH ward 3
+ocd-division/country:us/state:oh/place:cincinnati/ward:4,Cincinnati OH ward 4
+ocd-division/country:us/state:oh/place:cincinnati/ward:5,Cincinnati OH ward 5
+ocd-division/country:us/state:oh/place:cincinnati/ward:6,Cincinnati OH ward 6
+ocd-division/country:us/state:oh/place:cincinnati/ward:7,Cincinnati OH ward 7
+ocd-division/country:us/state:oh/place:cincinnati/ward:8,Cincinnati OH ward 8
+ocd-division/country:us/state:oh/place:cincinnati/ward:9,Cincinnati OH ward 9
+ocd-division/country:us/state:oh/place:cincinnati/ward:10,Cincinnati OH ward 10
+ocd-division/country:us/state:oh/place:cincinnati/ward:11,Cincinnati OH ward 11
+ocd-division/country:us/state:oh/place:cincinnati/ward:12,Cincinnati OH ward 12
+ocd-division/country:us/state:oh/place:cincinnati/ward:13,Cincinnati OH ward 13
+ocd-division/country:us/state:oh/place:cincinnati/ward:14,Cincinnati OH ward 14
+ocd-division/country:us/state:oh/place:cincinnati/ward:15,Cincinnati OH ward 15
+ocd-division/country:us/state:oh/place:cincinnati/ward:16,Cincinnati OH ward 16
+ocd-division/country:us/state:oh/place:cincinnati/ward:17,Cincinnati OH ward 17
+ocd-division/country:us/state:oh/place:cincinnati/ward:18,Cincinnati OH ward 18
+ocd-division/country:us/state:oh/place:cincinnati/ward:19,Cincinnati OH ward 19
+ocd-division/country:us/state:oh/place:cincinnati/ward:20,Cincinnati OH ward 20
+ocd-division/country:us/state:oh/place:cincinnati/ward:21,Cincinnati OH ward 21
+ocd-division/country:us/state:oh/place:cincinnati/ward:22,Cincinnati OH ward 22
+ocd-division/country:us/state:oh/place:cincinnati/ward:23,Cincinnati OH ward 23
+ocd-division/country:us/state:oh/place:cincinnati/ward:24,Cincinnati OH ward 24
+ocd-division/country:us/state:oh/place:cincinnati/ward:25,Cincinnati OH ward 25
+ocd-division/country:us/state:oh/place:cincinnati/ward:26,Cincinnati OH ward 26
