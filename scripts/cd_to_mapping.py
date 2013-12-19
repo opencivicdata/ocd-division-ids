@@ -28,18 +28,21 @@ def get_file(state):
 
 db = dbf.Dbf(*sys.argv[1:])
 for rec in db:
-    state = us.states.lookup(rec['STATEFP10'])
-    name = rec['NAMELSAD10']
+    state = us.states.lookup(rec['STATEFP'])
+    name = rec['NAMELSAD']
     geoid = None
 
     if "at Large" in name:
         geoid = AT_LARGE_GEOID % ("us", state.abbr.lower())
     else:
+        if "not defined" in name:
+            continue
+
         district = DISTRICT.match(name).groupdict()['district']
         geoid = CD_GEOID % ("us", state.abbr.lower(), district)
 
     fd = get_file(state.abbr.lower())
-    fd.write("%s,%s\n" % (geoid, rec['GEOID10']))
+    fd.write("%s,%s\n" % (geoid, rec['GEOID']))
 
 for k, v in FILES.items():
     v.close()
