@@ -85,5 +85,8 @@ With that in mind, below are some interesting OCD Identifiers that might not see
 	* ocd-division/country:us/state:or/region:oregon_metro/council_district:1
 
 ##precinct
-The goal of this project is to eventually have precincts included, but very few are in the repository at the time of writing (July 2013).
+* Precincts are slowly being added (as of January 2014). Notes:
+  * If a precinct (i.e., voting tabulation district, election district) is called a "ward" generally the ward type is used. Otherwise, the precinct type is used.
+  * Often, precincts will have both a unique county or state ID as well as a descriptor. In this case, the number will go first (no zero padding), then a hyphen ("-"), then the descriptor. See parts of [Idaho](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/state-id-precincts.csv).
+  * Other times, a descriptor will include a number. For instance, Canton County might have the precincts Tenley 1, Tenley 2, Lincoln 1, and Lincoln 2. In this case, only a space (which is converted to an underscore) separates the text and the number. See parts of [Idaho](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/state-id-precincts.csv) and [Vermont](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/state-vt-precincts.csv).
 
