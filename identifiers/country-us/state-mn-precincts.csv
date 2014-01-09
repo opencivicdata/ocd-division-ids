@@ -155,6 +155,7 @@ ocd-division/country:us/state:mn/county:beltrami/place:northern/precinct:2,Beltr
 ocd-division/country:us/state:mn/county:beltrami/precinct:1,Beltrami County MN - UNORG DIST 1
 ocd-division/country:us/state:mn/county:beltrami/precinct:2,Beltrami County MN - UNORG DIST 2
 ocd-division/country:us/state:mn/county:beltrami/precinct:3,Beltrami County MN - UNORG DIST 3
+ocd-division/country:us/state:mn/county:beltrami/precinct:little_rock,Beltrami County MN - LITTLE ROCK
 ocd-division/country:us/state:mn/county:beltrami/precinct:ponemah,Beltrami County MN - PONEMAH PREC
 ocd-division/country:us/state:mn/county:beltrami/precinct:red_lake_agency,Beltrami County MN - RED LAKE AGENCY PREC
 ocd-division/country:us/state:mn/county:beltrami/precinct:redby,Beltrami County MN - REDBY PREC
@@ -176,6 +177,9 @@ ocd-division/country:us/state:mn/county:cass/place:salem/precinct:2,Cass County 
 ocd-division/country:us/state:mn/county:cass/place:shingobee/precinct:1,Cass County MN - SHINGOBEE TWP P-1
 ocd-division/country:us/state:mn/county:cass/place:shingobee/precinct:2,Cass County MN - SHINGOBEE TWP P-2
 ocd-division/country:us/state:mn/county:cass/precinct:hardwood_south,Cass County MN - HARDWOOD SOUTH
+ocd-division/country:us/state:mn/county:cass/precinct:rogers_point,Cass County MN - ROGERS POINT
+ocd-division/country:us/state:mn/county:cass/precinct:sucker_lakes,Cass County MN - SUCKER LAKES
+ocd-division/country:us/state:mn/county:cass/precinct:whanena,Cass County MN - WAHNENA
 ocd-division/country:us/state:mn/county:cass/precinct:winnie_portage_lakes,Cass County MN - WINNIE PORTAGE LAKES
 ocd-division/country:us/state:mn/county:chippewa/place:granite_falls/precinct:1,Chippewa County MN - GRANITE FALLS TWP P-1
 ocd-division/country:us/state:mn/county:chippewa/place:granite_falls/precinct:2,Chippewa County MN - GRANITE FALLS TWP P-2
@@ -210,6 +214,7 @@ ocd-division/country:us/state:mn/county:crow_wing/precinct:red,Crow Wing County 
 ocd-division/country:us/state:mn/county:crow_wing/precinct:white,Crow Wing County MN - WHITE PRECINCT
 ocd-division/country:us/state:mn/county:freeborn/place:albert_lea/precinct:1,Freeborn County MN - ALBERT LEA TWP P-1
 ocd-division/country:us/state:mn/county:freeborn/place:albert_lea/precinct:2,Freeborn County MN - ALBERT LEA TWP P-2
+ocd-division/country:us/state:mn/county:hennepin/precinct:fort_snelling,Hennepin County MN - FORT SNELLING P-01
 ocd-division/country:us/state:mn/county:hubbard/place:farden/precinct:1,Hubbard County MN - FARDEN TWP P-1
 ocd-division/country:us/state:mn/county:hubbard/place:farden/precinct:2,Hubbard County MN - FARDEN TWP P-2
 ocd-division/country:us/state:mn/county:hubbard/place:hart_lake/precinct:1,Hubbard County MN - HART LAKE TWP P-1
@@ -231,7 +236,7 @@ ocd-division/country:us/state:mn/county:itasca/place:iron_range/precinct:3,Itasc
 ocd-division/country:us/state:mn/county:itasca/place:morse/precinct:1,Itasca County MN - MORSE TWP P-1
 ocd-division/country:us/state:mn/county:itasca/place:morse/precinct:2,Itasca County MN - MORSE TWP P-2
 ocd-division/country:us/state:mn/county:itasca/precinct:ball_club,Itasca County MN - BALL CLUB PREC
-ocd-division/country:us/state:mn/county:itasca/precinct:bass_lake,Itasca County MN - BEARVILLE TWP
+ocd-division/country:us/state:mn/county:itasca/precinct:bass_lake,Itasca County MN - BASS LAKE PREC
 ocd-division/country:us/state:mn/county:itasca/precinct:deer_lake,Itasca County MN - DEER LAKE PREC
 ocd-division/country:us/state:mn/county:itasca/precinct:gran,Itasca County MN - GRAN PREC
 ocd-division/country:us/state:mn/county:itasca/precinct:grave_lake,Itasca County MN - GRAVE LAKE PREC
@@ -245,6 +250,7 @@ ocd-division/country:us/state:mn/county:itasca/precinct:wellers-mccormick_2,Itas
 ocd-division/country:us/state:mn/county:itasca/precinct:winnibigoshish,Itasca County MN - WINNIBIGOSHISH PREC
 ocd-division/country:us/state:mn/county:kittson/precinct:klondike,Kittson County MN - KLONDIKE UNORG
 ocd-division/country:us/state:mn/county:kittson/precinct:mckinley,Kittson County MN - MCKINLEY UNORG
+ocd-division/country:us/state:mn/county:kittson/precinct:north,Kittson County MN - NORTH RED RIVER
 ocd-division/country:us/state:mn/county:kittson/precinct:peatland,Kittson County MN - PEATLAND UNORG
 ocd-division/country:us/state:mn/county:koochiching/precinct:1,Koochiching County MN - KOOCHICHING POLL 1
 ocd-division/country:us/state:mn/county:koochiching/precinct:2,Koochiching County MN - KOOCHICHING POLL 2
@@ -263,18 +269,19 @@ ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:1a-baudette,L
 ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:1b-baudette_city,Lake Of The Woods County MN - 0010 - 1-B BAUDETTE CITY
 ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:2a-gudrid,Lake Of The Woods County MN - 0015 - 2-A GUDRID UNORG
 ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:2b-baudette_city,Lake Of The Woods County MN - 0020 - 2-B BAUDETTE CITY
-ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:2c-s_mcdougald,Lake Of The Woods County MN - 0030 - 3-A UNORG
-ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:2c-unorganized,Lake Of The Woods County MN - 0055 - 3-B WILLIAMS CITY
-ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:3b-williams_city,Lake Of The Woods County MN - 0050 - 5-A UNORG
-ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:3d-forest,Lake Of The Woods County MN - 0031 - 3-C S MCDOUGALD UNORG
-ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:3e-baudette_city,Lake Of The Woods County MN - 0075 - 5-D ROOSEVELT
-ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:4a-wheeler,Lake Of The Woods County MN - 0035 - 3-D FOREST UNORG
-ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:4b-wabanica,Lake Of The Woods County MN - 0040 - 4-A WHEELER UNORG
-ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:4c-n_mcdougald,Lake Of The Woods County MN - 0045 - 5-B ZIPPEL UNORG
-ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:5a-unorganized,Lake Of The Woods County MN - 0046 - 4-C N MCDOUGALD UNORG
-ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:5b-zippel,Lake Of The Woods County MN - 0044 - 4-B WABANICA UNORG
-ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:5c-nw_angle,Lake Of The Woods County MN - 0065 - 2-C UNORG
-ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:5d-roosevelt,Lake Of The Woods County MN - 0070 - 5-C NW ANGLE
+ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:2c-unorganized,Lake Of The Woods County MN - 0065 - 2-C UNORG
+ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:3a-unorganized,Lake Of The Woods County MN - 0030 - 3-A UNORG
+ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:3b-williams_city,Lake Of The Woods County MN - 0055 - 3-B WILLIAMS CITY
+ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:3c-s_mcdougald,Lake Of The Woods County MN - 0031 - 3-C S MCDOUGALD UNORG
+ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:3d-forest,Lake Of The Woods County MN - 0035 - 3-D FOREST UNORG
+ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:3e-baudette_city,Lake Of The Woods County MN - 0080 - 3-E BAUDETTE CITY
+ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:4a-wheeler,Lake Of The Woods County MN - 0040 - 4-A WHEELER UNORG
+ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:4b-wabanica,Lake Of The Woods County MN - 0044 - 4-B WABANICA UNORG
+ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:4c-n_mcdougald,Lake Of The Woods County MN - 0046 - 4-C N MCDOUGALD UNORG
+ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:5a-unorganized,Lake Of The Woods County MN - 0050 - 5-A UNORG
+ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:5b-zippel,Lake Of The Woods County MN - 0045 - 5-B ZIPPEL UNORG
+ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:5c-nw_angle,Lake Of The Woods County MN - 0070 - 5-C NW ANGLE
+ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:5d-roosevelt,Lake Of The Woods County MN - 0075 - 5-D ROOSEVELT
 ocd-division/country:us/state:mn/county:lake/place:beaver_bay/precinct:1,Lake County MN - BEAVER BAY TWP P-1
 ocd-division/country:us/state:mn/county:lake/place:beaver_bay/precinct:4,Lake County MN - BEAVER BAY TWP P-4
 ocd-division/country:us/state:mn/county:lake/precinct:territory_1,Lake County MN - UNORG TERR NO 1
