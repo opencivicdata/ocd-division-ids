@@ -5,7 +5,7 @@ ocd-division/country:us/state:ks/county:stevens/place:center,temp ocdid until ka
 ocd-division/country:us/state:ks/county:allen/place:elm/precinct:east,Allen County KS - East Elm
 ocd-division/country:us/state:ks/county:allen/place:elm/precinct:south,Allen County KS - West Elm
 ocd-division/country:us/state:ks/county:allen/place:elsmore/precinct:north,Allen County KS - North Elsmore
-ocd-division/country:us/state:ks/county:allen/place:iola/precinct:north,Allen County KS - North Iola Part A
+ocd-division/country:us/state:ks/county:allen/place:iola/precinct:north,Allen County KS - North Iola
 ocd-division/country:us/state:ks/county:allen/place:iola/precinct:south,Allen County KS - South Iola
 ocd-division/country:us/state:ks/county:barber/place:kiowa/precinct:east,Barber County KS - Kiowa East Township
 ocd-division/country:us/state:ks/county:barber/place:kiowa/precinct:west,Barber County KS - Kiowa West Township
@@ -22,7 +22,7 @@ ocd-division/country:us/state:ks/county:butler/precinct:plum_grove-potwin,Butler
 ocd-division/country:us/state:ks/county:butler/precinct:plum_grove-potwin/precinct:sycamore-cassoday,Butler County KS - Sycamore/Cassoday
 ocd-division/country:us/state:ks/county:butler/precinct:plum_grove-potwin/precinct:union-latham,Butler County KS - Union Township / Latham
 ocd-division/country:us/state:ks/county:butler/precinct:towanda_city-towanda_township,Butler County KS - Towanda Township/City
-ocd-division/country:us/state:ks/county:butler/precinct:whitewater-milton,Butler County KS - Whitewater / Milton Township H72
+ocd-division/country:us/state:ks/county:butler/precinct:whitewater-milton,Butler County KS - Whitewater / Milton Township
 ocd-division/country:us/state:ks/county:cherokee/place:garden/precinct:lowell,Cherokee County KS - Garden Township Lowell
 ocd-division/country:us/state:ks/county:cherokee/place:garden/precinct:stanley_mine,Cherokee County KS - Garden Township Stanley Mine
 ocd-division/country:us/state:ks/county:cherokee/place:neosho/precinct:faulkner,Cherokee County KS - Neosho Township Faulkner
@@ -73,28 +73,28 @@ ocd-division/country:us/state:ks/county:crawford/precinct:walnut-helper,Crawford
 ocd-division/country:us/state:ks/county:crawford/precinct:walnut,Crawford County KS - Walnut
 ocd-division/country:us/state:ks/county:crawford/ward:1,Crawford County KS - Mulberry Ward 1
 ocd-division/country:us/state:ks/county:crawford/ward:2,Crawford County KS - Mulberry Ward 2
-ocd-division/country:us/state:ks/county:douglas/place:eudora/precinct:50-west,Douglas County KS - West Eudora Precinct 50 Part 2
+ocd-division/country:us/state:ks/county:douglas/place:eudora/precinct:50-west,Douglas County KS - West Eudora Precinct 50
 ocd-division/country:us/state:ks/county:douglas/place:eudora/precinct:52-north,Douglas County KS - North Eudora Precinct 52
-ocd-division/country:us/state:ks/county:douglas/place:eudora/precinct:53-south,Douglas County KS - South Eudora Precinct 53 H10
+ocd-division/country:us/state:ks/county:douglas/place:eudora/precinct:53-south,Douglas County KS - South Eudora Precinct 53
 ocd-division/country:us/state:ks/county:douglas/place:eudora/precinct:central,Douglas County KS - Central Eudora
-ocd-division/country:us/state:ks/county:douglas/place:wakarusa/precinct:64-north,Douglas County KS - North Wakarusa Precinct 64 H45
-ocd-division/country:us/state:ks/county:douglas/place:wakarusa/precinct:65-east,Douglas County KS - East Wakarusa H10 Precinct 65
-ocd-division/country:us/state:ks/county:douglas/place:wakarusa/precinct:66-west,Douglas County KS - West Wakarusa Precinct 66 Part 1 S19 H10
+ocd-division/country:us/state:ks/county:douglas/place:wakarusa/precinct:64-north,Douglas County KS - North Wakarusa Precinct 64
+ocd-division/country:us/state:ks/county:douglas/place:wakarusa/precinct:65-east,Douglas County KS - East Wakarusa Precinct 65
+ocd-division/country:us/state:ks/county:douglas/place:wakarusa/precinct:66-west,Douglas County KS - West Wakarusa Precinct 66
 ocd-division/country:us/state:ks/county:douglas/precinct:63-vinland,Douglas County KS - Vinland Precinct 63
-ocd-division/country:us/state:ks/county:ellis/place:big_creek/precinct:north,Ellis County KS - North Big Creek Township H110
-ocd-division/country:us/state:ks/county:ellis/place:big_creek/precinct:west,Ellis County KS - West Big Creek Township H110
-ocd-division/country:us/state:ks/county:ellis/place:lookout/precinct:north,Ellis County KS - North Lookout Township H110
+ocd-division/country:us/state:ks/county:ellis/place:big_creek/precinct:north,Ellis County KS - North Big Creek Township
+ocd-division/country:us/state:ks/county:ellis/place:big_creek/precinct:west,Ellis County KS - West Big Creek Township
+ocd-division/country:us/state:ks/county:ellis/place:lookout/precinct:north,Ellis County KS - North Lookout Township
 ocd-division/country:us/state:ks/county:ellis/place:lookout/precinct:south,Ellis County KS - South Lookout Township
 ocd-division/country:us/state:ks/county:franklin/place:centropolis/precinct:north,Franklin County KS - Centropolis Township North
 ocd-division/country:us/state:ks/county:franklin/place:centropolis/precinct:south,Franklin County KS - Centropolis Township South
-ocd-division/country:us/state:ks/county:geary/precinct:fort_riley_a,Geary County KS - Fort Riley Precinct A S17
+ocd-division/country:us/state:ks/county:geary/precinct:fort_riley_a,Geary County KS - Fort Riley Precinct A
 ocd-division/country:us/state:ks/county:geary/precinct:fort_riley_b,Geary County KS - Fort Riley Precinct B
 ocd-division/country:us/state:ks/county:geary/precinct:fort_riley_c,Geary County KS - Fort Riley Precinct D
 ocd-division/country:us/state:ks/county:geary/precinct:fort_riley_d,Geary County KS - Fort Riley Precinct G
 ocd-division/country:us/state:ks/county:geary/precinct:fort_riley_e,Geary County KS - Fort Riley Precinct H
 ocd-division/country:us/state:ks/county:geary/precinct:fort_riley_f,Geary County KS - Fort Riley Precinct I
 ocd-division/country:us/state:ks/county:geary/precinct:fort_riley_g,Geary County KS - Fort Riley Precinct J
-ocd-division/country:us/state:ks/county:geary/precinct:fort_riley_h,Geary County KS - Fort Riley Precinct L S17
+ocd-division/country:us/state:ks/county:geary/precinct:fort_riley_h,Geary County KS - Fort Riley Precinct L
 ocd-division/country:us/state:ks/county:geary/precinct:fort_riley_i,Geary County KS - Fort Riley Precinct M
 ocd-division/country:us/state:ks/county:geary/precinct:fort_riley_j,Geary County KS - Fort Riley Precinct N
 ocd-division/country:us/state:ks/county:gray/place:cimarron/precinct:1,Gray County KS - Cimarron Township Precinct 1
@@ -109,11 +109,11 @@ ocd-division/country:us/state:ks/county:haskell/precinct:ivanhoe,Haskell County 
 ocd-division/country:us/state:ks/county:haskell/precinct:north_dudley,Haskell County KS - North Dudley
 ocd-division/country:us/state:ks/county:haskell/precinct:north_lockport,Haskell County KS - North Lockport
 ocd-division/country:us/state:ks/county:haskell/precinct:satanta_1,Haskell County KS - Satanta 1
-ocd-division/country:us/state:ks/county:haskell/precinct:satanta_2,Haskell County KS - Satanta 2 H122
+ocd-division/country:us/state:ks/county:haskell/precinct:satanta_2,Haskell County KS - Satanta 2
 ocd-division/country:us/state:ks/county:haskell/precinct:south_lockport,Haskell County KS - South Lockport
-ocd-division/country:us/state:ks/county:haskell/precinct:sublette_1,Haskell County KS - Sublette 1 H122
-ocd-division/country:us/state:ks/county:haskell/precinct:sublette_2,Haskell County KS - Sublette 1 H124
-ocd-division/country:us/state:ks/county:haskell/precinct:sublette_3,Haskell County KS - Sublette 3 H122
+ocd-division/country:us/state:ks/county:haskell/precinct:sublette_1,Haskell County KS - Sublette 1
+ocd-division/country:us/state:ks/county:haskell/precinct:sublette_2,Haskell County KS - Sublette 1
+ocd-division/country:us/state:ks/county:haskell/precinct:sublette_3,Haskell County KS - Sublette 3
 ocd-division/country:us/state:ks/county:hodgeman/place:center/precinct:north,Hodgeman County KS - North Center
 ocd-division/country:us/state:ks/county:hodgeman/place:center/precinct:south,Hodgeman County KS - South Center
 ocd-division/country:us/state:ks/county:hodgeman/place:hallet/precinct:north,Hodgeman County KS - North Hallet
@@ -125,9 +125,6 @@ ocd-division/country:us/state:ks/county:johnson/place:aubry/precinct:4,Johnson C
 ocd-division/country:us/state:ks/county:johnson/place:aubry/precinct:5,Johnson County KS - Aubry Township Precinct 5
 ocd-division/country:us/state:ks/county:johnson/place:aubry/precinct:6,Johnson County KS - Aubry Township Precinct 6
 ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:1,Johnson County KS - Gardner Township Precinct 1
-ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:10,Johnson County KS - Gardner Township Precinct 10
-ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:11,Johnson County KS - Gardner Township Precinct 11
-ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:12,Johnson County KS - Gardner Township Precinct 12
 ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:2,Johnson County KS - Gardner Township Precinct 2
 ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:3,Johnson County KS - Gardner Township Precinct 3
 ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:4,Johnson County KS - Gardner Township Precinct 4
@@ -136,6 +133,9 @@ ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:6,Johnson
 ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:7,Johnson County KS - Gardner Township Precinct 7
 ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:8,Johnson County KS - Gardner Township Precinct 8
 ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:9,Johnson County KS - Gardner Township Precinct 9
+ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:10,Johnson County KS - Gardner Township Precinct 10
+ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:11,Johnson County KS - Gardner Township Precinct 11
+ocd-division/country:us/state:ks/county:johnson/place:gardner/precinct:12,Johnson County KS - Gardner Township Precinct 12
 ocd-division/country:us/state:ks/county:johnson/place:lexington/precinct:1,Johnson County KS - Lexington Township Precinct 1
 ocd-division/country:us/state:ks/county:johnson/place:lexington/precinct:2,Johnson County KS - Lexington Township Precinct 2
 ocd-division/country:us/state:ks/county:johnson/place:lexington/precinct:3,Johnson County KS - Lexington Township Precinct 3
@@ -145,34 +145,34 @@ ocd-division/country:us/state:ks/county:johnson/place:mccamish/precinct:1,Johnso
 ocd-division/country:us/state:ks/county:johnson/place:mccamish/precinct:2,Johnson County KS - McCamish Township Precinct 2
 ocd-division/country:us/state:ks/county:johnson/place:mccamish/precinct:3,Johnson County KS - McCamish Township Precinct 3
 ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:1,Johnson County KS - Olathe Township Precinct 1
-ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:10,Johnson County KS - Olathe Township Precinct 10
-ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:11,Johnson County KS - Olathe Township Precinct 11
-ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:12,Johnson County KS - Olathe Township Precinct 12
-ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:13,Johnson County KS - Olathe Township Precinct 13
-ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:14,Johnson County KS - Olathe Township Precinct 14
-ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:17,Johnson County KS - Olathe Township Precinct 17
 ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:2,Johnson County KS - Olathe Township Precinct 2
-ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:24,Johnson County KS - Olathe Township Precinct 24
-ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:25,Johnson County KS - Olathe Township Precinct 25
-ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:26,Johnson County KS - Olathe Township Precinct 26
-ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:27,Johnson County KS - Olathe Township Precinct 27
 ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:3,Johnson County KS - Olathe Township Precinct 3
-ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:32,Johnson County KS - Olathe Township Precinct 32
 ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:4,Johnson County KS - Olathe Township Precinct 4
 ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:5,Johnson County KS - Olathe Township Precinct 5
 ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:6,Johnson County KS - Olathe Township Precinct 6
 ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:7,Johnson County KS - Olathe Township Precinct 7
 ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:8,Johnson County KS - Olathe Township Precinct 8
 ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:9,Johnson County KS - Olathe Township Precinct 9
+ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:10,Johnson County KS - Olathe Township Precinct 10
+ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:11,Johnson County KS - Olathe Township Precinct 11
+ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:12,Johnson County KS - Olathe Township Precinct 12
+ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:13,Johnson County KS - Olathe Township Precinct 13
+ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:14,Johnson County KS - Olathe Township Precinct 14
+ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:17,Johnson County KS - Olathe Township Precinct 17
+ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:24,Johnson County KS - Olathe Township Precinct 24
+ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:25,Johnson County KS - Olathe Township Precinct 25
+ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:26,Johnson County KS - Olathe Township Precinct 26
+ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:27,Johnson County KS - Olathe Township Precinct 27
+ocd-division/country:us/state:ks/county:johnson/place:olathe/precinct:32,Johnson County KS - Olathe Township Precinct 32
 ocd-division/country:us/state:ks/county:johnson/place:oxford/precinct:1,Johnson County KS - Oxford Township Precinct 1
-ocd-division/country:us/state:ks/county:johnson/place:oxford/precinct:10,Johnson County KS - Oxford Township Precinct 10
-ocd-division/country:us/state:ks/county:johnson/place:oxford/precinct:11,Johnson County KS - Oxford Township Precinct 11
 ocd-division/country:us/state:ks/county:johnson/place:oxford/precinct:2,Johnson County KS - Oxford Township Precinct 2
 ocd-division/country:us/state:ks/county:johnson/place:oxford/precinct:3,Johnson County KS - Oxford Township Precinct 3
 ocd-division/country:us/state:ks/county:johnson/place:oxford/precinct:4,Johnson County KS - Oxford Township Precinct 4
 ocd-division/country:us/state:ks/county:johnson/place:oxford/precinct:5,Johnson County KS - Oxford Township Precinct 5
 ocd-division/country:us/state:ks/county:johnson/place:oxford/precinct:8,Johnson County KS - Oxford Township Precinct 8
 ocd-division/country:us/state:ks/county:johnson/place:oxford/precinct:9,Johnson County KS - Oxford Township Precinct 9
+ocd-division/country:us/state:ks/county:johnson/place:oxford/precinct:10,Johnson County KS - Oxford Township Precinct 10
+ocd-division/country:us/state:ks/county:johnson/place:oxford/precinct:11,Johnson County KS - Oxford Township Precinct 11
 ocd-division/country:us/state:ks/county:johnson/place:spring_hill/precinct:1,Johnson County KS - Spring Hill Township Precinct 1
 ocd-division/country:us/state:ks/county:johnson/place:spring_hill/precinct:2,Johnson County KS - Spring Hill Township Precinct 2
 ocd-division/country:us/state:ks/county:johnson/place:spring_hill/precinct:3,Johnson County KS - Spring Hill Township Precinct 3
@@ -186,7 +186,7 @@ ocd-division/country:us/state:ks/county:kiowa/precinct:center_1,Kiowa County KS 
 ocd-division/country:us/state:ks/county:kiowa/precinct:center_2,Kiowa County KS - Center I I
 ocd-division/country:us/state:ks/county:kiowa/precinct:haviland,Kiowa County KS - Haviland
 ocd-division/country:us/state:ks/county:kiowa/precinct:mullinville,Kiowa County KS - Mullinville
-ocd-division/country:us/state:ks/county:leavenworth/place:delaware/precinct:south,Leavenworth County KS - South Delaware 1 S3 H38
+ocd-division/country:us/state:ks/county:leavenworth/place:delaware/precinct:south,Leavenworth County KS - South Delaware 1
 ocd-division/country:us/state:ks/county:linn/place:lincoln/precinct:north,Linn County KS - North Lincoln
 ocd-division/country:us/state:ks/county:linn/place:lincoln/precinct:south,Linn County KS - South Lincoln
 ocd-division/country:us/state:ks/county:linn/place:potosi/precinct:north,Linn County KS - North Potosi
@@ -194,6 +194,14 @@ ocd-division/country:us/state:ks/county:linn/place:potosi/precinct:south,Linn Co
 ocd-division/country:us/state:ks/county:logan/place:oakley/precinct:1,Logan County KS - Oakley Precinct 1
 ocd-division/country:us/state:ks/county:logan/place:oakley/precinct:2,Logan County KS - Oakley Precinct 2
 ocd-division/country:us/state:ks/county:lyon/precinct:1,Lyon County KS - Precinct 01
+ocd-division/country:us/state:ks/county:lyon/precinct:2,Lyon County KS - Precinct 02
+ocd-division/country:us/state:ks/county:lyon/precinct:3,Lyon County KS - Precinct 03
+ocd-division/country:us/state:ks/county:lyon/precinct:4,Lyon County KS - Precinct 04
+ocd-division/country:us/state:ks/county:lyon/precinct:5,Lyon County KS - Precinct 05
+ocd-division/country:us/state:ks/county:lyon/precinct:6,Lyon County KS - Precinct 06
+ocd-division/country:us/state:ks/county:lyon/precinct:7,Lyon County KS - Precinct 07
+ocd-division/country:us/state:ks/county:lyon/precinct:8,Lyon County KS - Precinct 08
+ocd-division/country:us/state:ks/county:lyon/precinct:9,Lyon County KS - Precinct 09
 ocd-division/country:us/state:ks/county:lyon/precinct:10,Lyon County KS - Precinct 10
 ocd-division/country:us/state:ks/county:lyon/precinct:11,Lyon County KS - Precinct 11
 ocd-division/country:us/state:ks/county:lyon/precinct:12,Lyon County KS - Precinct 12
@@ -204,7 +212,6 @@ ocd-division/country:us/state:ks/county:lyon/precinct:16,Lyon County KS - Precin
 ocd-division/country:us/state:ks/county:lyon/precinct:17,Lyon County KS - Precinct 17
 ocd-division/country:us/state:ks/county:lyon/precinct:18,Lyon County KS - Precinct 18
 ocd-division/country:us/state:ks/county:lyon/precinct:19,Lyon County KS - Precinct 19
-ocd-division/country:us/state:ks/county:lyon/precinct:2,Lyon County KS - Precinct 02
 ocd-division/country:us/state:ks/county:lyon/precinct:20,Lyon County KS - Precinct 20
 ocd-division/country:us/state:ks/county:lyon/precinct:21,Lyon County KS - Precinct 21
 ocd-division/country:us/state:ks/county:lyon/precinct:22,Lyon County KS - Precinct 22
@@ -215,16 +222,9 @@ ocd-division/country:us/state:ks/county:lyon/precinct:26,Lyon County KS - Precin
 ocd-division/country:us/state:ks/county:lyon/precinct:27,Lyon County KS - Precinct 27
 ocd-division/country:us/state:ks/county:lyon/precinct:28,Lyon County KS - Precinct 28
 ocd-division/country:us/state:ks/county:lyon/precinct:29,Lyon County KS - Precinct 29
-ocd-division/country:us/state:ks/county:lyon/precinct:3,Lyon County KS - Precinct 03
 ocd-division/country:us/state:ks/county:lyon/precinct:30,Lyon County KS - Precinct 30
 ocd-division/country:us/state:ks/county:lyon/precinct:31,Lyon County KS - Precinct 31
 ocd-division/country:us/state:ks/county:lyon/precinct:32,Lyon County KS - Precinct 32
-ocd-division/country:us/state:ks/county:lyon/precinct:4,Lyon County KS - Precinct 04
-ocd-division/country:us/state:ks/county:lyon/precinct:5,Lyon County KS - Precinct 05
-ocd-division/country:us/state:ks/county:lyon/precinct:6,Lyon County KS - Precinct 06 Part A
-ocd-division/country:us/state:ks/county:lyon/precinct:7,Lyon County KS - Precinct 07
-ocd-division/country:us/state:ks/county:lyon/precinct:8,Lyon County KS - Precinct 08
-ocd-division/country:us/state:ks/county:lyon/precinct:9,Lyon County KS - Precinct 09
 ocd-division/country:us/state:ks/county:marion/place:peabody/precinct:east,Marion County KS - Peabody East
 ocd-division/country:us/state:ks/county:marion/place:peabody/precinct:west,Marion County KS - Peabody West
 ocd-division/country:us/state:ks/county:miami/place:marysville/precinct:north,Miami County KS - North Marysville Township C2
@@ -234,15 +234,15 @@ ocd-division/country:us/state:ks/county:miami/place:middle_creek/precinct:west,M
 ocd-division/country:us/state:ks/county:miami/place:paola/precinct:north,Miami County KS - North Paola Township
 ocd-division/country:us/state:ks/county:miami/place:paola/precinct:south,Miami County KS - South Paola Township
 ocd-division/country:us/state:ks/county:miami/place:valley/precinct:east,Miami County KS - East Valley Township
-ocd-division/country:us/state:ks/county:miami/place:valley/precinct:west,Miami County KS - West Valley Township H5
+ocd-division/country:us/state:ks/county:miami/place:valley/precinct:west,Miami County KS - West Valley Township
 ocd-division/country:us/state:ks/county:miami/place:wea/precinct:north,Miami County KS - North Wea Township
 ocd-division/country:us/state:ks/county:miami/place:wea/precinct:south,Miami County KS - South Wea Township
 ocd-division/country:us/state:ks/county:montgomery/place:caney/precinct:havana,Montgomery County KS - Caney Township Havana
 ocd-division/country:us/state:ks/county:montgomery/place:caney/precinct:tyro,Montgomery County KS - Caney Township Tyro
 ocd-division/country:us/state:ks/county:montgomery/place:fawn_creek/precinct:dearing,Montgomery County KS - Fawn Creek Township Dearing
 ocd-division/country:us/state:ks/county:montgomery/place:fawn_creek/precinct:tyro,Montgomery County KS - Fawn Creek Township Tyro
-ocd-division/country:us/state:ks/county:montgomery/place:independence/precinct:1,Montgomery County KS - Independence Township 1 H11
-ocd-division/country:us/state:ks/county:montgomery/place:independence/precinct:2,Montgomery County KS - Independence Township 2 Part A H12
+ocd-division/country:us/state:ks/county:montgomery/place:independence/precinct:1,Montgomery County KS - Independence Township 1
+ocd-division/country:us/state:ks/county:montgomery/place:independence/precinct:2,Montgomery County KS - Independence Township 2
 ocd-division/country:us/state:ks/county:montgomery/place:parker/precinct:1,Montgomery County KS - Parker Township 1
 ocd-division/country:us/state:ks/county:montgomery/place:parker/precinct:2,Montgomery County KS - Parker Township 2
 ocd-division/country:us/state:ks/county:morris/place:township_1/precinct:1,Morris County KS - Township 1 Precinct 1
@@ -280,7 +280,7 @@ ocd-division/country:us/state:ks/county:pottawatomie/precinct:pottawatomie_count
 ocd-division/country:us/state:ks/county:rawlins/place:center/precinct:east,Rawlins County KS - East Center
 ocd-division/country:us/state:ks/county:rawlins/place:center/precinct:west,Rawlins County KS - West Center
 ocd-division/country:us/state:ks/county:reno/place:clay/precinct:north,Reno County KS - North Clay Township
-ocd-division/country:us/state:ks/county:reno/place:clay/precinct:south,Reno County KS - South Clay Township Clay H102 A
+ocd-division/country:us/state:ks/county:reno/place:clay/precinct:south,Reno County KS - South Clay Township Clay
 ocd-division/country:us/state:ks/county:republic/place:belleville/ward:1,Republic County KS - Belleville Ward 1
 ocd-division/country:us/state:ks/county:republic/place:belleville/ward:2,Republic County KS - Belleville Ward 2
 ocd-division/country:us/state:ks/county:republic/place:belleville/ward:3,Republic County KS - Belleville Ward 3
@@ -288,8 +288,8 @@ ocd-division/country:us/state:ks/county:riley/place:manhattan/precinct:1,Riley C
 ocd-division/country:us/state:ks/county:riley/place:manhattan/precinct:2,Riley County KS - Manhattan Township Precinct 2
 ocd-division/country:us/state:ks/county:riley/place:manhattan/precinct:3,Riley County KS - Manhattan Township Precinct 3
 ocd-division/country:us/state:ks/county:riley/place:manhattan/precinct:4,Riley County KS - Manhattan Township Precinct 4
-ocd-division/country:us/state:ks/county:riley/precinct:madison_township,Riley County KS - Madison Township H64
-ocd-division/country:us/state:ks/county:riley/precinct:madison-fort_riley_a,Riley County KS - Fort Riley A Madison Township H64
+ocd-division/country:us/state:ks/county:riley/precinct:madison_township,Riley County KS - Madison Township
+ocd-division/country:us/state:ks/county:riley/precinct:madison-fort_riley_a,Riley County KS - Fort Riley A Madison Township
 ocd-division/country:us/state:ks/county:riley/precinct:madison-fort_riley_b,Riley County KS - Fort Riley B Madison Township
 ocd-division/country:us/state:ks/county:riley/precinct:ogden_township,Riley County KS - Ogden Township
 ocd-division/country:us/state:ks/county:riley/precinct:ogden-fort_riley,Riley County KS - Ogden Township Fort Riley A
@@ -706,7 +706,7 @@ ocd-division/country:us/state:ks/place:abilene/ward:4,Dickinson County KS - Abil
 ocd-division/country:us/state:ks/place:abilene/ward:4/precinct:1,Dickinson County KS - Abilene Ward 4 Precinct 1
 ocd-division/country:us/state:ks/place:abilene/ward:4/precinct:2,Dickinson County KS - Abilene Ward 4 Precinct 2
 ocd-division/country:us/state:ks/place:andover/precinct:north,Butler County KS - Andover City North
-ocd-division/country:us/state:ks/place:andover/precinct:south,Butler County KS - Andover City South H77
+ocd-division/country:us/state:ks/place:andover/precinct:south,Butler County KS - Andover City South
 ocd-division/country:us/state:ks/place:anthony/ward:1,Harper County KS - Anthony Ward 1
 ocd-division/country:us/state:ks/place:anthony/ward:2,Harper County KS - Anthony Ward 2
 ocd-division/country:us/state:ks/place:anthony/ward:3,Harper County KS - Anthony Ward 3
@@ -756,11 +756,8 @@ ocd-division/country:us/state:ks/place:beloit/ward:2,Mitchell County KS - Beloit
 ocd-division/country:us/state:ks/place:beloit/ward:3,Mitchell County KS - Beloit City Ward 3
 ocd-division/country:us/state:ks/place:beloit/ward:4,Mitchell County KS - Beloit City Ward 4
 ocd-division/country:us/state:ks/place:bonner_springs/ward:1,Wyandotte County KS - Bonner Springs Ward 01
-ocd-division/country:us/state:ks/place:bonner_springs/ward:1/precinct:1,Wyandotte County KS - Bonner Springs Ward 01 Precinct 01
 ocd-division/country:us/state:ks/place:bonner_springs/ward:2,Wyandotte County KS - Bonner Springs Ward 02
-ocd-division/country:us/state:ks/place:bonner_springs/ward:2/precinct:1,Wyandotte County KS - Bonner Springs Ward 02 Precinct 01
 ocd-division/country:us/state:ks/place:bonner_springs/ward:3,Wyandotte County KS - Bonner Springs Ward 03
-ocd-division/country:us/state:ks/place:bonner_springs/ward:3/precinct:1,Wyandotte County KS - Bonner Springs Ward 03 Precinct 01
 ocd-division/country:us/state:ks/place:bonner_springs/ward:4,Wyandotte County KS - Bonner Springs Ward 04
 ocd-division/country:us/state:ks/place:bonner_springs/ward:4/precinct:1,Wyandotte County KS - Bonner Springs Ward 04 Precinct 01
 ocd-division/country:us/state:ks/place:bonner_springs/ward:4/precinct:2,Wyandotte County KS - Bonner Springs Ward 04 Precinct 02
@@ -912,7 +909,7 @@ ocd-division/country:us/state:ks/place:galena/ward:1,Cherokee County KS - Galena
 ocd-division/country:us/state:ks/place:galena/ward:2,Cherokee County KS - Galena Ward 2
 ocd-division/country:us/state:ks/place:galena/ward:3,Cherokee County KS - Galena Ward 3
 ocd-division/country:us/state:ks/place:galena/ward:4,Cherokee County KS - Galena Ward 4
-ocd-division/country:us/state:ks/place:garden_city/ward:1,Finney County KS - Garden City Ward 1 H122
+ocd-division/country:us/state:ks/place:garden_city/ward:1,Finney County KS - Garden City Ward 1
 ocd-division/country:us/state:ks/place:garden_city/ward:10,Finney County KS - Garden City Ward 10
 ocd-division/country:us/state:ks/place:garden_city/ward:11,Finney County KS - Garden City Ward 11
 ocd-division/country:us/state:ks/place:garden_city/ward:12,Finney County KS - Garden City Ward 12
@@ -923,7 +920,7 @@ ocd-division/country:us/state:ks/place:garden_city/ward:16,Finney County KS - Ga
 ocd-division/country:us/state:ks/place:garden_city/ward:17,Finney County KS - Garden City Ward 17
 ocd-division/country:us/state:ks/place:garden_city/ward:2,Finney County KS - Garden City Ward 2
 ocd-division/country:us/state:ks/place:garden_city/ward:3,Finney County KS - Garden City Ward 3
-ocd-division/country:us/state:ks/place:garden_city/ward:4,Finney County KS - Garden City Ward 4 H123
+ocd-division/country:us/state:ks/place:garden_city/ward:4,Finney County KS - Garden City Ward 4
 ocd-division/country:us/state:ks/place:garden_city/ward:5,Finney County KS - Garden City Ward 5
 ocd-division/country:us/state:ks/place:garden_city/ward:6,Finney County KS - Garden City Ward 6
 ocd-division/country:us/state:ks/place:garden_city/ward:7,Finney County KS - Garden City Ward 7
@@ -1006,9 +1003,9 @@ ocd-division/country:us/state:ks/place:hiawatha/ward:1,Brown County KS - Hiawath
 ocd-division/country:us/state:ks/place:hiawatha/ward:2,Brown County KS - Hiawatha City Ward 2
 ocd-division/country:us/state:ks/place:hiawatha/ward:3,Brown County KS - Hiawatha City Ward 3
 ocd-division/country:us/state:ks/place:hiawatha/ward:4,Brown County KS - Hiawatha City Ward 4
-ocd-division/country:us/state:ks/place:hill_city/precinct:1,Graham County KS - Hill City Precinct 1 H110
-ocd-division/country:us/state:ks/place:hill_city/precinct:2,Graham County KS - Hill City Precinct 2 H110
-ocd-division/country:us/state:ks/place:hill_city/precinct:3,Graham County KS - Hill City Precinct 3 H110
+ocd-division/country:us/state:ks/place:hill_city/precinct:1,Graham County KS - Hill City Precinct 1
+ocd-division/country:us/state:ks/place:hill_city/precinct:2,Graham County KS - Hill City Precinct 2
+ocd-division/country:us/state:ks/place:hill_city/precinct:3,Graham County KS - Hill City Precinct 3
 ocd-division/country:us/state:ks/place:hillsboro/ward:1,Marion County KS - Hillsboro Ward 1
 ocd-division/country:us/state:ks/place:hillsboro/ward:2,Marion County KS - Hillsboro Ward 2
 ocd-division/country:us/state:ks/place:hoisington/ward:1,Barton County KS - Hoisington Ward 1
@@ -1033,7 +1030,7 @@ ocd-division/country:us/state:ks/place:hugoton/ward:4,Stevens County KS - Hugoto
 ocd-division/country:us/state:ks/place:hugoton/ward:4/precinct:2,Stevens County KS - Hugoton Ward 04 Precinct 02
 ocd-division/country:us/state:ks/place:hugoton/ward:5,Stevens County KS - Hugoton Ward 05
 ocd-division/country:us/state:ks/place:hugoton/ward:5/precinct:2,Stevens County KS - Hugoton Ward 05 Precinct 02
-ocd-division/country:us/state:ks/place:hutchinson/precinct:1,Reno County KS - Hutchinson Precinct 01 H102
+ocd-division/country:us/state:ks/place:hutchinson/precinct:1,Reno County KS - Hutchinson Precinct 01
 ocd-division/country:us/state:ks/place:hutchinson/precinct:10,Reno County KS - Hutchinson Precinct 10
 ocd-division/country:us/state:ks/place:hutchinson/precinct:11,Reno County KS - Hutchinson Precinct 11
 ocd-division/country:us/state:ks/place:hutchinson/precinct:12,Reno County KS - Hutchinson Precinct 12
@@ -1048,7 +1045,7 @@ ocd-division/country:us/state:ks/place:hutchinson/precinct:2,Reno County KS - Hu
 ocd-division/country:us/state:ks/place:hutchinson/precinct:20,Reno County KS - Hutchinson Precinct 20
 ocd-division/country:us/state:ks/place:hutchinson/precinct:21,Reno County KS - Hutchinson Precinct 21
 ocd-division/country:us/state:ks/place:hutchinson/precinct:22,Reno County KS - Hutchinson Precinct 22
-ocd-division/country:us/state:ks/place:hutchinson/precinct:23,Reno County KS - Hutchinson Precinct 23 H104
+ocd-division/country:us/state:ks/place:hutchinson/precinct:23,Reno County KS - Hutchinson Precinct 23
 ocd-division/country:us/state:ks/place:hutchinson/precinct:24,Reno County KS - Hutchinson Precinct 24
 ocd-division/country:us/state:ks/place:hutchinson/precinct:25,Reno County KS - Hutchinson Precinct 25
 ocd-division/country:us/state:ks/place:hutchinson/precinct:26,Reno County KS - Hutchinson Precinct 26
@@ -1066,7 +1063,7 @@ ocd-division/country:us/state:ks/place:hutchinson/precinct:4,Reno County KS - Hu
 ocd-division/country:us/state:ks/place:hutchinson/precinct:5,Reno County KS - Hutchinson Precinct 05
 ocd-division/country:us/state:ks/place:hutchinson/precinct:6,Reno County KS - Hutchinson Precinct 06
 ocd-division/country:us/state:ks/place:hutchinson/precinct:7,Reno County KS - Hutchinson Precinct 07
-ocd-division/country:us/state:ks/place:hutchinson/precinct:8,Reno County KS - Hutchinson Precinct 08 H101
+ocd-division/country:us/state:ks/place:hutchinson/precinct:8,Reno County KS - Hutchinson Precinct 08
 ocd-division/country:us/state:ks/place:hutchinson/precinct:9,Reno County KS - Hutchinson Precinct 09
 ocd-division/country:us/state:ks/place:independence/ward:1,Montgomery County KS - Independence City Ward 1
 ocd-division/country:us/state:ks/place:independence/ward:1/precinct:1,Montgomery County KS - Independence City Ward 1 Precinct 1
@@ -1084,8 +1081,8 @@ ocd-division/country:us/state:ks/place:independence/ward:5,Montgomery County KS 
 ocd-division/country:us/state:ks/place:independence/ward:5/precinct:1,Montgomery County KS - Independence City Ward 5 Precinct 1
 ocd-division/country:us/state:ks/place:independence/ward:5/precinct:2,Montgomery County KS - Independence City Ward 5 Precinct 2
 ocd-division/country:us/state:ks/place:independence/ward:6,Montgomery County KS - Independence City Ward 6
-ocd-division/country:us/state:ks/place:independence/ward:6/precinct:1,Montgomery County KS - Independence City Ward 6 Precinct 1 H11
-ocd-division/country:us/state:ks/place:independence/ward:6/precinct:2,Montgomery County KS - Independence City Ward 6 Precinct 2 H11
+ocd-division/country:us/state:ks/place:independence/ward:6/precinct:1,Montgomery County KS - Independence City Ward 6 Precinct 1
+ocd-division/country:us/state:ks/place:independence/ward:6/precinct:2,Montgomery County KS - Independence City Ward 6 Precinct 2
 ocd-division/country:us/state:ks/place:iola/ward:1,Allen County KS - Iola Ward 1
 ocd-division/country:us/state:ks/place:iola/ward:2,Allen County KS - Iola Ward 2
 ocd-division/country:us/state:ks/place:iola/ward:3,Allen County KS - Iola Ward 3
@@ -1095,22 +1092,22 @@ ocd-division/country:us/state:ks/place:junction_city/ward:1/precinct:1,Geary Cou
 ocd-division/country:us/state:ks/place:junction_city/ward:1/precinct:2,Geary County KS - Junction City Ward 1 Precinct 2
 ocd-division/country:us/state:ks/place:junction_city/ward:1/precinct:3,Geary County KS - Junction City Ward 1 Precinct 3
 ocd-division/country:us/state:ks/place:junction_city/ward:1/precinct:4,Geary County KS - Junction City Ward 1 Precinct 4
-ocd-division/country:us/state:ks/place:junction_city/ward:1/precinct:5,Geary County KS - Junction City Ward 1 Precinct 5 H65
-ocd-division/country:us/state:ks/place:junction_city/ward:1/precinct:6,Geary County KS - Junction City Ward 1 Precinct 6 Part 1
+ocd-division/country:us/state:ks/place:junction_city/ward:1/precinct:5,Geary County KS - Junction City Ward 1 Precinct 5
+ocd-division/country:us/state:ks/place:junction_city/ward:1/precinct:6,Geary County KS - Junction City Ward 1 Precinct 6
 ocd-division/country:us/state:ks/place:junction_city/ward:1/precinct:7,Geary County KS - Junction City Ward 1 Precinct 7
 ocd-division/country:us/state:ks/place:junction_city/ward:2,Geary County KS - Junction City Ward 2
 ocd-division/country:us/state:ks/place:junction_city/ward:2/precinct:1,Geary County KS - Junction City Ward 2 Precinct 1
 ocd-division/country:us/state:ks/place:junction_city/ward:2/precinct:2,Geary County KS - Junction City Ward 2 Precinct 2
 ocd-division/country:us/state:ks/place:junction_city/ward:2/precinct:3,Geary County KS - Junction City Ward 2 Precinct 3
-ocd-division/country:us/state:ks/place:junction_city/ward:2/precinct:4,Geary County KS - Junction City Ward 2 Precinct 4 Part 1
-ocd-division/country:us/state:ks/place:junction_city/ward:2/precinct:5,Geary County KS - Junction City Ward 2 Precinct 5 Part 1 S17
+ocd-division/country:us/state:ks/place:junction_city/ward:2/precinct:4,Geary County KS - Junction City Ward 2 Precinct 4
+ocd-division/country:us/state:ks/place:junction_city/ward:2/precinct:5,Geary County KS - Junction City Ward 2 Precinct 5
 ocd-division/country:us/state:ks/place:junction_city/ward:3,Geary County KS - Junction City Ward 3
 ocd-division/country:us/state:ks/place:junction_city/ward:3/precinct:1,Geary County KS - Junction City Ward 3 Precinct 1
 ocd-division/country:us/state:ks/place:junction_city/ward:3/precinct:2,Geary County KS - Junction City Ward 3 Precinct 2
 ocd-division/country:us/state:ks/place:junction_city/ward:4,Geary County KS - Junction City Ward 4
 ocd-division/country:us/state:ks/place:junction_city/ward:4/precinct:1,Geary County KS - Junction City Ward 4 Precinct 1
 ocd-division/country:us/state:ks/place:junction_city/ward:4/precinct:2,Geary County KS - Junction City Ward 4 Precinct 2
-ocd-division/country:us/state:ks/place:junction_city/ward:4/precinct:3,Geary County KS - Junction City Ward 4 Precinct 3 H65
+ocd-division/country:us/state:ks/place:junction_city/ward:4/precinct:3,Geary County KS - Junction City Ward 4 Precinct 3
 ocd-division/country:us/state:ks/place:junction_city/ward:4/precinct:4,Geary County KS - Junction City Ward 4 Precinct 4
 ocd-division/country:us/state:ks/place:kansas_city/ward:1,Wyandotte County KS - Kansas City Ward 01
 ocd-division/country:us/state:ks/place:kansas_city/ward:1/precinct:1,Wyandotte County KS - Kansas City Ward 01 Precinct 01
@@ -1270,24 +1267,24 @@ ocd-division/country:us/state:ks/place:lawrence/precinct:27,Douglas County KS - 
 ocd-division/country:us/state:ks/place:lawrence/precinct:28,Douglas County KS - Lawrence Precinct 28
 ocd-division/country:us/state:ks/place:lawrence/precinct:29,Douglas County KS - Lawrence Precinct 29
 ocd-division/country:us/state:ks/place:lawrence/precinct:3,Douglas County KS - Lawrence Precinct 03
-ocd-division/country:us/state:ks/place:lawrence/precinct:30,Douglas County KS - Lawrence Precinct 30 S2
+ocd-division/country:us/state:ks/place:lawrence/precinct:30,Douglas County KS - Lawrence Precinct 30
 ocd-division/country:us/state:ks/place:lawrence/precinct:31,Douglas County KS - Lawrence Precinct 31
 ocd-division/country:us/state:ks/place:lawrence/precinct:32,Douglas County KS - Lawrence Precinct 32
 ocd-division/country:us/state:ks/place:lawrence/precinct:33,Douglas County KS - Lawrence Precinct 33
-ocd-division/country:us/state:ks/place:lawrence/precinct:34,Douglas County KS - Lawrence Precinct 34 S2
-ocd-division/country:us/state:ks/place:lawrence/precinct:35,Douglas County KS - Lawrence Precinct 35 S2
-ocd-division/country:us/state:ks/place:lawrence/precinct:36,Douglas County KS - Lawrence Precinct 36 S2
-ocd-division/country:us/state:ks/place:lawrence/precinct:37,Douglas County KS - Lawrence Precinct 37 H10
+ocd-division/country:us/state:ks/place:lawrence/precinct:34,Douglas County KS - Lawrence Precinct 34
+ocd-division/country:us/state:ks/place:lawrence/precinct:35,Douglas County KS - Lawrence Precinct 35
+ocd-division/country:us/state:ks/place:lawrence/precinct:36,Douglas County KS - Lawrence Precinct 36
+ocd-division/country:us/state:ks/place:lawrence/precinct:37,Douglas County KS - Lawrence Precinct 37
 ocd-division/country:us/state:ks/place:lawrence/precinct:38,Douglas County KS - Lawrence Precinct 38
 ocd-division/country:us/state:ks/place:lawrence/precinct:39,Douglas County KS - Lawrence Precinct 39
 ocd-division/country:us/state:ks/place:lawrence/precinct:4,Douglas County KS - Lawrence Precinct 04
 ocd-division/country:us/state:ks/place:lawrence/precinct:40,Douglas County KS - Lawrence Precinct 40
-ocd-division/country:us/state:ks/place:lawrence/precinct:41,Douglas County KS - Lawrence Precinct 41 S2 H46
-ocd-division/country:us/state:ks/place:lawrence/precinct:42,Douglas County KS - Lawrence Precinct 42 Part 1 H45
-ocd-division/country:us/state:ks/place:lawrence/precinct:43,Douglas County KS - Lawrence Precinct 43 Part 1
-ocd-division/country:us/state:ks/place:lawrence/precinct:44,Douglas County KS - Lawrence Precinct 44 H44
+ocd-division/country:us/state:ks/place:lawrence/precinct:41,Douglas County KS - Lawrence Precinct 41
+ocd-division/country:us/state:ks/place:lawrence/precinct:42,Douglas County KS - Lawrence Precinct 42
+ocd-division/country:us/state:ks/place:lawrence/precinct:43,Douglas County KS - Lawrence Precinct 43
+ocd-division/country:us/state:ks/place:lawrence/precinct:44,Douglas County KS - Lawrence Precinct 44
 ocd-division/country:us/state:ks/place:lawrence/precinct:45,Douglas County KS - Lawrence Precinct 45
-ocd-division/country:us/state:ks/place:lawrence/precinct:46,Douglas County KS - Lawrence Precinct 46 S3
+ocd-division/country:us/state:ks/place:lawrence/precinct:46,Douglas County KS - Lawrence Precinct 46
 ocd-division/country:us/state:ks/place:lawrence/precinct:47,Douglas County KS - Lawrence Precinct 47
 ocd-division/country:us/state:ks/place:lawrence/precinct:48,Douglas County KS - Lawrence Precinct 48
 ocd-division/country:us/state:ks/place:lawrence/precinct:49,Douglas County KS - Lawrence Precinct 49
@@ -1467,11 +1464,11 @@ ocd-division/country:us/state:ks/place:marion/ward:south,Marion County KS - Mari
 ocd-division/country:us/state:ks/place:marysville/ward:1,Marshall County KS - Marysville City Ward 1
 ocd-division/country:us/state:ks/place:marysville/ward:2,Marshall County KS - Marysville City Ward 2
 ocd-division/country:us/state:ks/place:marysville/ward:3,Marshall County KS - Marysville City Ward 3
-ocd-division/country:us/state:ks/place:marysville/ward:4,Marshall County KS - Marysville City Ward 4 Part A
+ocd-division/country:us/state:ks/place:marysville/ward:4,Marshall County KS - Marysville City Ward 4
 ocd-division/country:us/state:ks/place:mcpherson/ward:1,Mcpherson County KS - McPherson Ward 1 Precinct 1
 ocd-division/country:us/state:ks/place:mcpherson/ward:2,Mcpherson County KS - McPherson Ward 2
-ocd-division/country:us/state:ks/place:mcpherson/ward:3,Mcpherson County KS - McPherson Ward 3 Part A
-ocd-division/country:us/state:ks/place:mcpherson/ward:4,Mcpherson County KS - McPherson Ward 4 Precinct 1 Part A
+ocd-division/country:us/state:ks/place:mcpherson/ward:3,Mcpherson County KS - McPherson Ward 3
+ocd-division/country:us/state:ks/place:mcpherson/ward:4,Mcpherson County KS - McPherson Ward 4 Precinct 1
 ocd-division/country:us/state:ks/place:merriam/ward:1,Johnson County KS - Merriam Ward 1
 ocd-division/country:us/state:ks/place:merriam/ward:1/precinct:1,Johnson County KS - Merriam Ward 1 Precinct 1
 ocd-division/country:us/state:ks/place:merriam/ward:1/precinct:2,Johnson County KS - Merriam Ward 1 Precinct 2
@@ -1521,7 +1518,7 @@ ocd-division/country:us/state:ks/place:newton/ward:2/precinct:2,Harvey County KS
 ocd-division/country:us/state:ks/place:newton/ward:3,Harvey County KS - Newton City Ward 3
 ocd-division/country:us/state:ks/place:newton/ward:3/precinct:1,Harvey County KS - Newton City Ward 3 Precinct 1
 ocd-division/country:us/state:ks/place:newton/ward:3/precinct:2,Harvey County KS - Newton City Ward 3 Precinct 2
-ocd-division/country:us/state:ks/place:newton/ward:3/precinct:3,Harvey County KS - Newton City Ward 3 Precinct 3 Part A
+ocd-division/country:us/state:ks/place:newton/ward:3/precinct:3,Harvey County KS - Newton City Ward 3 Precinct 3
 ocd-division/country:us/state:ks/place:newton/ward:3/precinct:4,Harvey County KS - Newton City Ward 3 Precinct 4
 ocd-division/country:us/state:ks/place:newton/ward:4,Harvey County KS - Newton City Ward 4
 ocd-division/country:us/state:ks/place:newton/ward:4/precinct:1,Harvey County KS - Newton City Ward 4 Precinct 1
@@ -1537,6 +1534,14 @@ ocd-division/country:us/state:ks/place:norton/ward:3,Norton County KS - Norton W
 ocd-division/country:us/state:ks/place:oberlin/precinct:1,Decatur County KS - Oberlin City Precinct 1
 ocd-division/country:us/state:ks/place:oberlin/precinct:2,Decatur County KS - Oberlin City Precinct 2
 ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:1,Johnson County KS - Olathe Ward 1 Precinct 1
+ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:2,Johnson County KS - Olathe Ward 1 Precinct 2
+ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:3,Johnson County KS - Olathe Ward 1 Precinct 3
+ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:4,Johnson County KS - Olathe Ward 1 Precinct 4
+ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:5,Johnson County KS - Olathe Ward 1 Precinct 5
+ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:6,Johnson County KS - Olathe Ward 1 Precinct 6
+ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:7,Johnson County KS - Olathe Ward 1 Precinct 7
+ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:8,Johnson County KS - Olathe Ward 1 Precinct 8
+ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:9,Johnson County KS - Olathe Ward 1 Precinct 9
 ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:10,Johnson County KS - Olathe Ward 1 Precinct 10
 ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:11,Johnson County KS - Olathe Ward 1 Precinct 11
 ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:12,Johnson County KS - Olathe Ward 1 Precinct 12
@@ -1547,7 +1552,6 @@ ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:16,Johnson County 
 ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:17,Johnson County KS - Olathe Ward 1 Precinct 17
 ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:18,Johnson County KS - Olathe Ward 1 Precinct 18
 ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:19,Johnson County KS - Olathe Ward 1 Precinct 19
-ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:2,Johnson County KS - Olathe Ward 1 Precinct 2
 ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:20,Johnson County KS - Olathe Ward 1 Precinct 20
 ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:21,Johnson County KS - Olathe Ward 1 Precinct 21
 ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:22,Johnson County KS - Olathe Ward 1 Precinct 22
@@ -1558,14 +1562,15 @@ ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:26,Johnson County 
 ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:27,Johnson County KS - Olathe Ward 1 Precinct 27
 ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:28,Johnson County KS - Olathe Ward 1 Precinct 28
 ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:29,Johnson County KS - Olathe Ward 1 Precinct 29
-ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:3,Johnson County KS - Olathe Ward 1 Precinct 3
-ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:4,Johnson County KS - Olathe Ward 1 Precinct 4
-ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:5,Johnson County KS - Olathe Ward 1 Precinct 5
-ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:6,Johnson County KS - Olathe Ward 1 Precinct 6
-ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:7,Johnson County KS - Olathe Ward 1 Precinct 7
-ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:8,Johnson County KS - Olathe Ward 1 Precinct 8
-ocd-division/country:us/state:ks/place:olathe/ward:1/precinct:9,Johnson County KS - Olathe Ward 1 Precinct 9
 ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:1,Johnson County KS - Olathe Ward 2 Precinct 1
+ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:2,Johnson County KS - Olathe Ward 2 Precinct 2
+ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:3,Johnson County KS - Olathe Ward 2 Precinct 3
+ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:4,Johnson County KS - Olathe Ward 2 Precinct 4
+ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:5,Johnson County KS - Olathe Ward 2 Precinct 5
+ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:6,Johnson County KS - Olathe Ward 2 Precinct 6
+ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:7,Johnson County KS - Olathe Ward 2 Precinct 7
+ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:8,Johnson County KS - Olathe Ward 2 Precinct 8
+ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:9,Johnson County KS - Olathe Ward 2 Precinct 9
 ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:10,Johnson County KS - Olathe Ward 2 Precinct 10
 ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:11,Johnson County KS - Olathe Ward 2 Precinct 11
 ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:12,Johnson County KS - Olathe Ward 2 Precinct 12
@@ -1576,7 +1581,6 @@ ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:16,Johnson County 
 ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:17,Johnson County KS - Olathe Ward 2 Precinct 17
 ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:18,Johnson County KS - Olathe Ward 2 Precinct 18
 ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:19,Johnson County KS - Olathe Ward 2 Precinct 19
-ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:2,Johnson County KS - Olathe Ward 2 Precinct 2
 ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:20,Johnson County KS - Olathe Ward 2 Precinct 20
 ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:21,Johnson County KS - Olathe Ward 2 Precinct 21
 ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:22,Johnson County KS - Olathe Ward 2 Precinct 22
@@ -1586,14 +1590,15 @@ ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:25,Johnson County 
 ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:26,Johnson County KS - Olathe Ward 2 Precinct 26
 ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:27,Johnson County KS - Olathe Ward 2 Precinct 27
 ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:28,Johnson County KS - Olathe Ward 2 Precinct 28
-ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:3,Johnson County KS - Olathe Ward 2 Precinct 3
-ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:4,Johnson County KS - Olathe Ward 2 Precinct 4
-ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:5,Johnson County KS - Olathe Ward 2 Precinct 5
-ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:6,Johnson County KS - Olathe Ward 2 Precinct 6
-ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:7,Johnson County KS - Olathe Ward 2 Precinct 7
-ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:8,Johnson County KS - Olathe Ward 2 Precinct 8
-ocd-division/country:us/state:ks/place:olathe/ward:2/precinct:9,Johnson County KS - Olathe Ward 2 Precinct 9
 ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:1,Johnson County KS - Olathe Ward 3 Precinct 1
+ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:3,Johnson County KS - Olathe Ward 3 Precinct 3
+ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:4,Johnson County KS - Olathe Ward 3 Precinct 4
+ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:5,Johnson County KS - Olathe Ward 3 Precinct 5
+ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:6,Johnson County KS - Olathe Ward 3 Precinct 6
+ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:7,Johnson County KS - Olathe Ward 3 Precinct 7
+ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:8,Johnson County KS - Olathe Ward 3 Precinct 8
+ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:9,Johnson County KS - Olathe Ward 3 Precinct 9
+ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:2,Johnson County KS - Olathe Ward 3 Precinct 2
 ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:10,Johnson County KS - Olathe Ward 3 Precinct 10
 ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:11,Johnson County KS - Olathe Ward 3 Precinct 11
 ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:12,Johnson County KS - Olathe Ward 3 Precinct 12
@@ -1604,7 +1609,6 @@ ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:16,Johnson County 
 ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:17,Johnson County KS - Olathe Ward 3 Precinct 17
 ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:18,Johnson County KS - Olathe Ward 3 Precinct 18
 ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:19,Johnson County KS - Olathe Ward 3 Precinct 19
-ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:2,Johnson County KS - Olathe Ward 3 Precinct 2
 ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:20,Johnson County KS - Olathe Ward 3 Precinct 20
 ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:21,Johnson County KS - Olathe Ward 3 Precinct 21
 ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:22,Johnson County KS - Olathe Ward 3 Precinct 22
@@ -1613,14 +1617,15 @@ ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:24,Johnson County 
 ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:25,Johnson County KS - Olathe Ward 3 Precinct 25
 ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:26,Johnson County KS - Olathe Ward 3 Precinct 26
 ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:27,Johnson County KS - Olathe Ward 3 Precinct 27
-ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:3,Johnson County KS - Olathe Ward 3 Precinct 3
-ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:4,Johnson County KS - Olathe Ward 3 Precinct 4
-ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:5,Johnson County KS - Olathe Ward 3 Precinct 5
-ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:6,Johnson County KS - Olathe Ward 3 Precinct 6
-ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:7,Johnson County KS - Olathe Ward 3 Precinct 7
-ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:8,Johnson County KS - Olathe Ward 3 Precinct 8
-ocd-division/country:us/state:ks/place:olathe/ward:3/precinct:9,Johnson County KS - Olathe Ward 3 Precinct 9
 ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:1,Johnson County KS - Olathe Ward 4 Precinct 1
+ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:2,Johnson County KS - Olathe Ward 4 Precinct 2
+ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:3,Johnson County KS - Olathe Ward 4 Precinct 3
+ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:4,Johnson County KS - Olathe Ward 4 Precinct 4
+ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:5,Johnson County KS - Olathe Ward 4 Precinct 5
+ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:6,Johnson County KS - Olathe Ward 4 Precinct 6
+ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:7,Johnson County KS - Olathe Ward 4 Precinct 7
+ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:8,Johnson County KS - Olathe Ward 4 Precinct 8
+ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:9,Johnson County KS - Olathe Ward 4 Precinct 9
 ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:10,Johnson County KS - Olathe Ward 4 Precinct 10
 ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:11,Johnson County KS - Olathe Ward 4 Precinct 11
 ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:12,Johnson County KS - Olathe Ward 4 Precinct 12
@@ -1630,19 +1635,11 @@ ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:15,Johnson County 
 ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:16,Johnson County KS - Olathe Ward 4 Precinct 16
 ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:17,Johnson County KS - Olathe Ward 4 Precinct 17
 ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:18,Johnson County KS - Olathe Ward 4 Precinct 18
-ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:2,Johnson County KS - Olathe Ward 4 Precinct 2
-ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:3,Johnson County KS - Olathe Ward 4 Precinct 3
-ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:4,Johnson County KS - Olathe Ward 4 Precinct 4
-ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:5,Johnson County KS - Olathe Ward 4 Precinct 5
-ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:6,Johnson County KS - Olathe Ward 4 Precinct 6
-ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:7,Johnson County KS - Olathe Ward 4 Precinct 7
-ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:8,Johnson County KS - Olathe Ward 4 Precinct 8
-ocd-division/country:us/state:ks/place:olathe/ward:4/precinct:9,Johnson County KS - Olathe Ward 4 Precinct 9
 ocd-division/country:us/state:ks/place:osage_city/ward:1,Osage County KS - Osage City Ward 1
 ocd-division/country:us/state:ks/place:osage_city/ward:2,Osage County KS - Osage City Ward 2
 ocd-division/country:us/state:ks/place:osage_city/ward:3,Osage County KS - Osage City Ward 3
 ocd-division/country:us/state:ks/place:osage_city/ward:4,Osage County KS - Osage City Ward 4
-ocd-division/country:us/state:ks/place:osawatomie/ward:1,Miami County KS - Osawatomie Ward 1 H5
+ocd-division/country:us/state:ks/place:osawatomie/ward:1,Miami County KS - Osawatomie Ward 1
 ocd-division/country:us/state:ks/place:osawatomie/ward:2,Miami County KS - Osawatomie Ward 2
 ocd-division/country:us/state:ks/place:osawatomie/ward:3,Miami County KS - Osawatomie Ward 3
 ocd-division/country:us/state:ks/place:osawatomie/ward:4,Miami County KS - Osawatomie Ward 4
@@ -1661,6 +1658,14 @@ ocd-division/country:us/state:ks/place:ottawa/precinct:6,Franklin County KS - Ot
 ocd-division/country:us/state:ks/place:ottawa/precinct:7,Franklin County KS - Ottawa Precinct 7
 ocd-division/country:us/state:ks/place:ottawa/precinct:8,Franklin County KS - Ottawa Precinct 8
 ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:1,Johnson County KS - Overland Park Ward 1 Precinct 1
+ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:2,Johnson County KS - Overland Park Ward 1 Precinct 2
+ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:3,Johnson County KS - Overland Park Ward 1 Precinct 3
+ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:4,Johnson County KS - Overland Park Ward 1 Precinct 4
+ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:5,Johnson County KS - Overland Park Ward 1 Precinct 5
+ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:6,Johnson County KS - Overland Park Ward 1 Precinct 6
+ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:7,Johnson County KS - Overland Park Ward 1 Precinct 7
+ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:8,Johnson County KS - Overland Park Ward 1 Precinct 8
+ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:9,Johnson County KS - Overland Park Ward 1 Precinct 9
 ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:10,Johnson County KS - Overland Park Ward 1 Precinct 10
 ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:11,Johnson County KS - Overland Park Ward 1 Precinct 11
 ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:12,Johnson County KS - Overland Park Ward 1 Precinct 12
@@ -1671,18 +1676,18 @@ ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:16,Johnson 
 ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:17,Johnson County KS - Overland Park Ward 1 Precinct 17
 ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:18,Johnson County KS - Overland Park Ward 1 Precinct 18
 ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:19,Johnson County KS - Overland Park Ward 1 Precinct 19
-ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:2,Johnson County KS - Overland Park Ward 1 Precinct 2
 ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:20,Johnson County KS - Overland Park Ward 1 Precinct 20
 ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:21,Johnson County KS - Overland Park Ward 1 Precinct 21
 ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:22,Johnson County KS - Overland Park Ward 1 Precinct 22
-ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:3,Johnson County KS - Overland Park Ward 1 Precinct 3
-ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:4,Johnson County KS - Overland Park Ward 1 Precinct 4
-ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:5,Johnson County KS - Overland Park Ward 1 Precinct 5
-ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:6,Johnson County KS - Overland Park Ward 1 Precinct 6
-ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:7,Johnson County KS - Overland Park Ward 1 Precinct 7
-ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:8,Johnson County KS - Overland Park Ward 1 Precinct 8
-ocd-division/country:us/state:ks/place:overland_park/ward:1/precinct:9,Johnson County KS - Overland Park Ward 1 Precinct 9
 ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:1,Johnson County KS - Overland Park Ward 2 Precinct 1
+ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:2,Johnson County KS - Overland Park Ward 2 Precinct 2
+ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:3,Johnson County KS - Overland Park Ward 2 Precinct 3
+ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:4,Johnson County KS - Overland Park Ward 2 Precinct 4
+ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:5,Johnson County KS - Overland Park Ward 2 Precinct 5
+ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:6,Johnson County KS - Overland Park Ward 2 Precinct 6
+ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:7,Johnson County KS - Overland Park Ward 2 Precinct 7
+ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:8,Johnson County KS - Overland Park Ward 2 Precinct 8
+ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:9,Johnson County KS - Overland Park Ward 2 Precinct 9
 ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:10,Johnson County KS - Overland Park Ward 2 Precinct 10
 ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:11,Johnson County KS - Overland Park Ward 2 Precinct 11
 ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:12,Johnson County KS - Overland Park Ward 2 Precinct 12
@@ -1693,7 +1698,6 @@ ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:16,Johnson 
 ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:17,Johnson County KS - Overland Park Ward 2 Precinct 17
 ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:18,Johnson County KS - Overland Park Ward 2 Precinct 18
 ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:19,Johnson County KS - Overland Park Ward 2 Precinct 19
-ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:2,Johnson County KS - Overland Park Ward 2 Precinct 2
 ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:20,Johnson County KS - Overland Park Ward 2 Precinct 20
 ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:21,Johnson County KS - Overland Park Ward 2 Precinct 21
 ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:22,Johnson County KS - Overland Park Ward 2 Precinct 22
@@ -1701,14 +1705,15 @@ ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:23,Johnson 
 ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:24,Johnson County KS - Overland Park Ward 2 Precinct 24
 ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:25,Johnson County KS - Overland Park Ward 2 Precinct 25
 ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:26,Johnson County KS - Overland Park Ward 2 Precinct 26
-ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:3,Johnson County KS - Overland Park Ward 2 Precinct 3
-ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:4,Johnson County KS - Overland Park Ward 2 Precinct 4
-ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:5,Johnson County KS - Overland Park Ward 2 Precinct 5
-ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:6,Johnson County KS - Overland Park Ward 2 Precinct 6
-ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:7,Johnson County KS - Overland Park Ward 2 Precinct 7
-ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:8,Johnson County KS - Overland Park Ward 2 Precinct 8
-ocd-division/country:us/state:ks/place:overland_park/ward:2/precinct:9,Johnson County KS - Overland Park Ward 2 Precinct 9
 ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:1,Johnson County KS - Overland Park Ward 3 Precinct 1
+ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:2,Johnson County KS - Overland Park Ward 3 Precinct 2
+ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:3,Johnson County KS - Overland Park Ward 3 Precinct 3
+ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:4,Johnson County KS - Overland Park Ward 3 Precinct 4
+ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:5,Johnson County KS - Overland Park Ward 3 Precinct 5
+ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:6,Johnson County KS - Overland Park Ward 3 Precinct 6
+ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:7,Johnson County KS - Overland Park Ward 3 Precinct 7
+ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:8,Johnson County KS - Overland Park Ward 3 Precinct 8
+ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:9,Johnson County KS - Overland Park Ward 3 Precinct 9
 ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:10,Johnson County KS - Overland Park Ward 3 Precinct 10
 ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:11,Johnson County KS - Overland Park Ward 3 Precinct 11
 ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:12,Johnson County KS - Overland Park Ward 3 Precinct 12
@@ -1719,16 +1724,16 @@ ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:16,Johnson 
 ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:17,Johnson County KS - Overland Park Ward 3 Precinct 17
 ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:18,Johnson County KS - Overland Park Ward 3 Precinct 18
 ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:19,Johnson County KS - Overland Park Ward 3 Precinct 19
-ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:2,Johnson County KS - Overland Park Ward 3 Precinct 2
 ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:20,Johnson County KS - Overland Park Ward 3 Precinct 20
-ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:3,Johnson County KS - Overland Park Ward 3 Precinct 3
-ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:4,Johnson County KS - Overland Park Ward 3 Precinct 4
-ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:5,Johnson County KS - Overland Park Ward 3 Precinct 5
-ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:6,Johnson County KS - Overland Park Ward 3 Precinct 6
-ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:7,Johnson County KS - Overland Park Ward 3 Precinct 7
-ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:8,Johnson County KS - Overland Park Ward 3 Precinct 8
-ocd-division/country:us/state:ks/place:overland_park/ward:3/precinct:9,Johnson County KS - Overland Park Ward 3 Precinct 9
 ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:1,Johnson County KS - Overland Park Ward 4 Precinct 1
+ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:2,Johnson County KS - Overland Park Ward 4 Precinct 2
+ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:3,Johnson County KS - Overland Park Ward 4 Precinct 3
+ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:4,Johnson County KS - Overland Park Ward 4 Precinct 4
+ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:5,Johnson County KS - Overland Park Ward 4 Precinct 5
+ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:6,Johnson County KS - Overland Park Ward 4 Precinct 6
+ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:7,Johnson County KS - Overland Park Ward 4 Precinct 7
+ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:8,Johnson County KS - Overland Park Ward 4 Precinct 8
+ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:9,Johnson County KS - Overland Park Ward 4 Precinct 9
 ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:10,Johnson County KS - Overland Park Ward 4 Precinct 10
 ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:11,Johnson County KS - Overland Park Ward 4 Precinct 11
 ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:12,Johnson County KS - Overland Park Ward 4 Precinct 12
@@ -1738,15 +1743,15 @@ ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:15,Johnson 
 ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:16,Johnson County KS - Overland Park Ward 4 Precinct 16
 ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:17,Johnson County KS - Overland Park Ward 4 Precinct 17
 ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:18,Johnson County KS - Overland Park Ward 4 Precinct 18
-ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:2,Johnson County KS - Overland Park Ward 4 Precinct 2
-ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:3,Johnson County KS - Overland Park Ward 4 Precinct 3
-ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:4,Johnson County KS - Overland Park Ward 4 Precinct 4
-ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:5,Johnson County KS - Overland Park Ward 4 Precinct 5
-ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:6,Johnson County KS - Overland Park Ward 4 Precinct 6
-ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:7,Johnson County KS - Overland Park Ward 4 Precinct 7
-ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:8,Johnson County KS - Overland Park Ward 4 Precinct 8
-ocd-division/country:us/state:ks/place:overland_park/ward:4/precinct:9,Johnson County KS - Overland Park Ward 4 Precinct 9
 ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:1,Johnson County KS - Overland Park Ward 5 Precinct 1
+ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:2,Johnson County KS - Overland Park Ward 5 Precinct 2
+ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:3,Johnson County KS - Overland Park Ward 5 Precinct 3
+ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:4,Johnson County KS - Overland Park Ward 5 Precinct 4
+ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:5,Johnson County KS - Overland Park Ward 5 Precinct 5
+ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:6,Johnson County KS - Overland Park Ward 5 Precinct 6
+ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:7,Johnson County KS - Overland Park Ward 5 Precinct 7
+ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:8,Johnson County KS - Overland Park Ward 5 Precinct 8
+ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:9,Johnson County KS - Overland Park Ward 5 Precinct 9
 ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:10,Johnson County KS - Overland Park Ward 5 Precinct 10
 ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:11,Johnson County KS - Overland Park Ward 5 Precinct 11
 ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:12,Johnson County KS - Overland Park Ward 5 Precinct 12
@@ -1757,15 +1762,15 @@ ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:16,Johnson 
 ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:17,Johnson County KS - Overland Park Ward 5 Precinct 17
 ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:18,Johnson County KS - Overland Park Ward 5 Precinct 18
 ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:19,Johnson County KS - Overland Park Ward 5 Precinct 19
-ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:2,Johnson County KS - Overland Park Ward 5 Precinct 2
-ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:3,Johnson County KS - Overland Park Ward 5 Precinct 3
-ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:4,Johnson County KS - Overland Park Ward 5 Precinct 4
-ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:5,Johnson County KS - Overland Park Ward 5 Precinct 5
-ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:6,Johnson County KS - Overland Park Ward 5 Precinct 6
-ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:7,Johnson County KS - Overland Park Ward 5 Precinct 7
-ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:8,Johnson County KS - Overland Park Ward 5 Precinct 8
-ocd-division/country:us/state:ks/place:overland_park/ward:5/precinct:9,Johnson County KS - Overland Park Ward 5 Precinct 9
 ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:1,Johnson County KS - Overland Park Ward 6 Precinct 1
+ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:2,Johnson County KS - Overland Park Ward 6 Precinct 2
+ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:3,Johnson County KS - Overland Park Ward 6 Precinct 3
+ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:4,Johnson County KS - Overland Park Ward 6 Precinct 4
+ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:5,Johnson County KS - Overland Park Ward 6 Precinct 5
+ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:6,Johnson County KS - Overland Park Ward 6 Precinct 6
+ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:7,Johnson County KS - Overland Park Ward 6 Precinct 7
+ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:8,Johnson County KS - Overland Park Ward 6 Precinct 8
+ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:9,Johnson County KS - Overland Park Ward 6 Precinct 9
 ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:10,Johnson County KS - Overland Park Ward 6 Precinct 10
 ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:11,Johnson County KS - Overland Park Ward 6 Precinct 11
 ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:12,Johnson County KS - Overland Park Ward 6 Precinct 12
@@ -1776,18 +1781,10 @@ ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:16,Johnson 
 ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:17,Johnson County KS - Overland Park Ward 6 Precinct 17
 ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:18,Johnson County KS - Overland Park Ward 6 Precinct 18
 ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:19,Johnson County KS - Overland Park Ward 6 Precinct 19
-ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:2,Johnson County KS - Overland Park Ward 6 Precinct 2
 ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:20,Johnson County KS - Overland Park Ward 6 Precinct 20
 ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:21,Johnson County KS - Overland Park Ward 6 Precinct 21
 ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:22,Johnson County KS - Overland Park Ward 6 Precinct 22
 ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:23,Johnson County KS - Overland Park Ward 6 Precinct 23
-ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:3,Johnson County KS - Overland Park Ward 6 Precinct 3
-ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:4,Johnson County KS - Overland Park Ward 6 Precinct 4
-ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:5,Johnson County KS - Overland Park Ward 6 Precinct 5
-ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:6,Johnson County KS - Overland Park Ward 6 Precinct 6
-ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:7,Johnson County KS - Overland Park Ward 6 Precinct 7
-ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:8,Johnson County KS - Overland Park Ward 6 Precinct 8
-ocd-division/country:us/state:ks/place:overland_park/ward:6/precinct:9,Johnson County KS - Overland Park Ward 6 Precinct 9
 ocd-division/country:us/state:ks/place:paola/ward:1,Miami County KS - Paola Ward 1
 ocd-division/country:us/state:ks/place:paola/ward:2,Miami County KS - Paola Ward 2
 ocd-division/country:us/state:ks/place:paola/ward:3,Miami County KS - Paola Ward 3
@@ -1883,21 +1880,28 @@ ocd-division/country:us/state:ks/place:sabetha/ward:1,Nemaha County KS - Sabetha
 ocd-division/country:us/state:ks/place:sabetha/ward:2,Nemaha County KS - Sabetha Ward 2
 ocd-division/country:us/state:ks/place:sabetha/ward:3,Nemaha County KS - Sabetha Ward 3
 ocd-division/country:us/state:ks/place:sabetha/ward:4,Nemaha County KS - Sabetha Ward 4
-ocd-division/country:us/state:ks/place:salina/precinct:1,Saline County KS - Salina Precinct 01 Part A
+ocd-division/country:us/state:ks/place:salina/precinct:1,Saline County KS - Salina Precinct 01
+ocd-division/country:us/state:ks/place:salina/precinct:2,Saline County KS - Salina Precinct 02
+ocd-division/country:us/state:ks/place:salina/precinct:3,Saline County KS - Salina Precinct 03
+ocd-division/country:us/state:ks/place:salina/precinct:4,Saline County KS - Salina Precinct 04
+ocd-division/country:us/state:ks/place:salina/precinct:5,Saline County KS - Salina Precinct 05
+ocd-division/country:us/state:ks/place:salina/precinct:6,Saline County KS - Salina Precinct 06
+ocd-division/country:us/state:ks/place:salina/precinct:7,Saline County KS - Salina Precinct 07
+ocd-division/country:us/state:ks/place:salina/precinct:8,Saline County KS - Salina Precinct 08
+ocd-division/country:us/state:ks/place:salina/precinct:9,Saline County KS - Salina Precinct 09
 ocd-division/country:us/state:ks/place:salina/precinct:10,Saline County KS - Salina Precinct 10
 ocd-division/country:us/state:ks/place:salina/precinct:11,Saline County KS - Salina Precinct 11
 ocd-division/country:us/state:ks/place:salina/precinct:12,Saline County KS - Salina Precinct 12
 ocd-division/country:us/state:ks/place:salina/precinct:13,Saline County KS - Salina Precinct 13
-ocd-division/country:us/state:ks/place:salina/precinct:14,Saline County KS - Salina Precinct 14 Part A
-ocd-division/country:us/state:ks/place:salina/precinct:15,Saline County KS - Salina Precinct 15 Part A
+ocd-division/country:us/state:ks/place:salina/precinct:14,Saline County KS - Salina Precinct 14
+ocd-division/country:us/state:ks/place:salina/precinct:15,Saline County KS - Salina Precinct 15
 ocd-division/country:us/state:ks/place:salina/precinct:16,Saline County KS - Salina Precinct 16
 ocd-division/country:us/state:ks/place:salina/precinct:17,Saline County KS - Salina Precinct 17
 ocd-division/country:us/state:ks/place:salina/precinct:18,Saline County KS - Salina Precinct 18
 ocd-division/country:us/state:ks/place:salina/precinct:19,Saline County KS - Salina Precinct 19
-ocd-division/country:us/state:ks/place:salina/precinct:2,Saline County KS - Salina Precinct 02
-ocd-division/country:us/state:ks/place:salina/precinct:20,Saline County KS - Salina Precinct 20 Part A
-ocd-division/country:us/state:ks/place:salina/precinct:21,Saline County KS - Salina Precinct 21 Part A
-ocd-division/country:us/state:ks/place:salina/precinct:22,Saline County KS - Salina Precinct 22 Part A
+ocd-division/country:us/state:ks/place:salina/precinct:20,Saline County KS - Salina Precinct 20
+ocd-division/country:us/state:ks/place:salina/precinct:21,Saline County KS - Salina Precinct 21
+ocd-division/country:us/state:ks/place:salina/precinct:22,Saline County KS - Salina Precinct 22
 ocd-division/country:us/state:ks/place:salina/precinct:23,Saline County KS - Salina Precinct 23
 ocd-division/country:us/state:ks/place:salina/precinct:24,Saline County KS - Salina Precinct 24
 ocd-division/country:us/state:ks/place:salina/precinct:25,Saline County KS - Salina Precinct 25
@@ -1905,19 +1909,12 @@ ocd-division/country:us/state:ks/place:salina/precinct:26,Saline County KS - Sal
 ocd-division/country:us/state:ks/place:salina/precinct:27,Saline County KS - Salina Precinct 27
 ocd-division/country:us/state:ks/place:salina/precinct:28,Saline County KS - Salina Precinct 28
 ocd-division/country:us/state:ks/place:salina/precinct:29,Saline County KS - Salina Precinct 29
-ocd-division/country:us/state:ks/place:salina/precinct:3,Saline County KS - Salina Precinct 03
 ocd-division/country:us/state:ks/place:salina/precinct:30,Saline County KS - Salina Precinct 30
-ocd-division/country:us/state:ks/place:salina/precinct:31,Saline County KS - Salina Precinct 31 Part A
+ocd-division/country:us/state:ks/place:salina/precinct:31,Saline County KS - Salina Precinct 31
 ocd-division/country:us/state:ks/place:salina/precinct:32,Saline County KS - Salina Precinct 32
 ocd-division/country:us/state:ks/place:salina/precinct:33,Saline County KS - Salina Precinct 33
 ocd-division/country:us/state:ks/place:salina/precinct:34,Saline County KS - Salina Precinct 34
 ocd-division/country:us/state:ks/place:salina/precinct:35,Saline County KS - Salina Precinct 35
-ocd-division/country:us/state:ks/place:salina/precinct:4,Saline County KS - Salina Precinct 04
-ocd-division/country:us/state:ks/place:salina/precinct:5,Saline County KS - Salina Precinct 05
-ocd-division/country:us/state:ks/place:salina/precinct:6,Saline County KS - Salina Precinct 06
-ocd-division/country:us/state:ks/place:salina/precinct:7,Saline County KS - Salina Precinct 07
-ocd-division/country:us/state:ks/place:salina/precinct:8,Saline County KS - Salina Precinct 08
-ocd-division/country:us/state:ks/place:salina/precinct:9,Saline County KS - Salina Precinct 09
 ocd-division/country:us/state:ks/place:scammon/ward:1,Cherokee County KS - Scammon Ward 1
 ocd-division/country:us/state:ks/place:scammon/ward:2,Cherokee County KS - Scammon Ward 2
 ocd-division/country:us/state:ks/place:scammon/ward:3,Cherokee County KS - Scammon Ward 3
@@ -2004,11 +2001,104 @@ ocd-division/country:us/state:ks/place:topeka/ward:1/precinct:3,Shawnee County K
 ocd-division/country:us/state:ks/place:topeka/ward:1/precinct:4,Shawnee County KS - TOPEKA WARD 01 PRECINCT 04
 ocd-division/country:us/state:ks/place:topeka/ward:1/precinct:5,Shawnee County KS - TOPEKA WARD 01 PRECINCT 05
 ocd-division/country:us/state:ks/place:topeka/ward:1/precinct:6,Shawnee County KS - TOPEKA WARD 01 PRECINCT 06
+ocd-division/country:us/state:ks/place:topeka/ward:2,Shawnee County KS - TOPEKA WARD 02
+ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:1,Shawnee County KS - TOPEKA WARD 02 PRECINCT 01
+ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:2,Shawnee County KS - TOPEKA WARD 02 PRECINCT 02
+ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:3,Shawnee County KS - TOPEKA WARD 02 PRECINCT 03
+ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:4,Shawnee County KS - TOPEKA WARD 02 PRECINCT 04
+ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:5,Shawnee County KS - TOPEKA WARD 02 PRECINCT 05
+ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:6,Shawnee County KS - TOPEKA WARD 02 PRECINCT 06
+ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:7,Shawnee County KS - TOPEKA WARD 02 PRECINCT 07
+ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:8,Shawnee County KS - TOPEKA WARD 02 PRECINCT 08
+ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:9,Shawnee County KS - TOPEKA WARD 02 PRECINCT 09
+ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:10,Shawnee County KS - TOPEKA WARD 02 PRECINCT 10
+ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:11,Shawnee County KS - TOPEKA WARD 02 PRECINCT 11
+ocd-division/country:us/state:ks/place:topeka/ward:3,Shawnee County KS - TOPEKA WARD 03
+ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:1,Shawnee County KS - TOPEKA WARD 03 PRECINCT 01
+ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:2,Shawnee County KS - TOPEKA WARD 03 PRECINCT 02
+ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:3,Shawnee County KS - TOPEKA WARD 03 PRECINCT 03
+ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:4,Shawnee County KS - TOPEKA WARD 03 PRECINCT 04
+ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:5,Shawnee County KS - TOPEKA WARD 03 PRECINCT 05
+ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:6,Shawnee County KS - TOPEKA WARD 03 PRECINCT 06
+ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:7,Shawnee County KS - TOPEKA WARD 03 PRECINCT 07
+ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:8,Shawnee County KS - TOPEKA WARD 03 PRECINCT 08
+ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:9,Shawnee County KS - TOPEKA WARD 03 PRECINCT 09
+ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:10,Shawnee County KS - TOPEKA WARD 03 PRECINCT 10
+ocd-division/country:us/state:ks/place:topeka/ward:4,Shawnee County KS - TOPEKA WARD 04
+ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:1,Shawnee County KS - TOPEKA WARD 04 PRECINCT 01
+ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:2,Shawnee County KS - TOPEKA WARD 04 PRECINCT 02
+ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:3,Shawnee County KS - TOPEKA WARD 04 PRECINCT 03
+ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:4,Shawnee County KS - TOPEKA WARD 04 PRECINCT 04
+ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:6,Shawnee County KS - TOPEKA WARD 04 PRECINCT 06
+ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:7,Shawnee County KS - TOPEKA WARD 04 PRECINCT 07
+ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:8,Shawnee County KS - TOPEKA WARD 04 PRECINCT 08
+ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:9,Shawnee County KS - TOPEKA WARD 04 PRECINCT 09
+ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:10,Shawnee County KS - TOPEKA WARD 04 PRECINCT 10
+ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:11,Shawnee County KS - TOPEKA WARD 04 PRECINCT 11
+ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:14,Shawnee County KS - TOPEKA WARD 04 PRECINCT 14
+ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:15,Shawnee County KS - TOPEKA WARD 04 PRECINCT 15
+ocd-division/country:us/state:ks/place:topeka/ward:5,Shawnee County KS - TOPEKA WARD 05
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:1,Shawnee County KS - TOPEKA WARD 05 PRECINCT 01
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:2,Shawnee County KS - TOPEKA WARD 05 PRECINCT 02
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:3,Shawnee County KS - TOPEKA WARD 05 PRECINCT 03
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:4,Shawnee County KS - TOPEKA WARD 05 PRECINCT 04
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:5,Shawnee County KS - TOPEKA WARD 05 PRECINCT 05
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:6,Shawnee County KS - TOPEKA WARD 05 PRECINCT 06
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:7,Shawnee County KS - TOPEKA WARD 05 PRECINCT 07
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:8,Shawnee County KS - TOPEKA WARD 05 PRECINCT 08
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:9,Shawnee County KS - TOPEKA WARD 05 PRECINCT 09
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:10,Shawnee County KS - TOPEKA WARD 05 PRECINCT 10
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:11,Shawnee County KS - TOPEKA WARD 05 PRECINCT 11
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:14,Shawnee County KS - TOPEKA WARD 05 PRECINCT 14
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:15,Shawnee County KS - TOPEKA WARD 05 PRECINCT 15
+ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:91,Shawnee County KS - TOPEKA WARD 05 PRECINCT 91
+ocd-division/country:us/state:ks/place:topeka/ward:6,Shawnee County KS - TOPEKA WARD 06
+ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:1,Shawnee County KS - TOPEKA WARD 06 PRECINCT 01
+ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:2,Shawnee County KS - TOPEKA WARD 06 PRECINCT 02
+ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:3,Shawnee County KS - TOPEKA WARD 06 PRECINCT 03
+ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:4,Shawnee County KS - TOPEKA WARD 06 PRECINCT 04
+ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:5,Shawnee County KS - TOPEKA WARD 06 PRECINCT 05
+ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:6,Shawnee County KS - TOPEKA WARD 06 PRECINCT 06
+ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:7,Shawnee County KS - TOPEKA WARD 06 PRECINCT 07
+ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:8,Shawnee County KS - TOPEKA WARD 06 PRECINCT 08
+ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:9,Shawnee County KS - TOPEKA WARD 06 PRECINCT 09
+ocd-division/country:us/state:ks/place:topeka/ward:7,Shawnee County KS - TOPEKA WARD 07
+ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:1,Shawnee County KS - TOPEKA WARD 07 PRECINCT 01
+ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:2,Shawnee County KS - TOPEKA WARD 07 PRECINCT 02
+ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:3,Shawnee County KS - TOPEKA WARD 07 PRECINCT 03
+ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:4,Shawnee County KS - TOPEKA WARD 07 PRECINCT 04
+ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:5,Shawnee County KS - TOPEKA WARD 07 PRECINCT 05
+ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:6,Shawnee County KS - TOPEKA WARD 07 PRECINCT 06
+ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:7,Shawnee County KS - TOPEKA WARD 07 PRECINCT 07
+ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:9,Shawnee County KS - TOPEKA WARD 07 PRECINCT 09
+ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:10,Shawnee County KS - TOPEKA WARD 07 PRECINCT 10
+ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:11,Shawnee County KS - TOPEKA WARD 07 PRECINCT 11
+ocd-division/country:us/state:ks/place:topeka/ward:8,Shawnee County KS - TOPEKA WARD 08
+ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:1,Shawnee County KS - TOPEKA WARD 08 PRECINCT 01
+ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:2,Shawnee County KS - TOPEKA WARD 08 PRECINCT 02
+ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:3,Shawnee County KS - TOPEKA WARD 08 PRECINCT 03
+ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:4,Shawnee County KS - TOPEKA WARD 08 PRECINCT 04
+ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:5,Shawnee County KS - TOPEKA WARD 08 PRECINCT 05
+ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:6,Shawnee County KS - TOPEKA WARD 08 PRECINCT 06
+ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:7,Shawnee County KS - TOPEKA WARD 08 PRECINCT 07
+ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:8,Shawnee County KS - TOPEKA WARD 08 PRECINCT 08
+ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:9,Shawnee County KS - TOPEKA WARD 08 PRECINCT 09
+ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:10,Shawnee County KS - TOPEKA WARD 08 PRECINCT 10
+ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:11,Shawnee County KS - TOPEKA WARD 08 PRECINCT 11
+ocd-division/country:us/state:ks/place:topeka/ward:9,Shawnee County KS - TOPEKA WARD 09
+ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:1,Shawnee County KS - TOPEKA WARD 09 PRECINCT 01
+ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:2,Shawnee County KS - TOPEKA WARD 09 PRECINCT 02
+ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:3,Shawnee County KS - TOPEKA WARD 09 PRECINCT 03
+ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:4,Shawnee County KS - TOPEKA WARD 09 PRECINCT 04
+ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:5,Shawnee County KS - TOPEKA WARD 09 PRECINCT 05
+ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:6,Shawnee County KS - TOPEKA WARD 09 PRECINCT 06
+ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:8,Shawnee County KS - TOPEKA WARD 09 PRECINCT 08
+ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:9,Shawnee County KS - TOPEKA WARD 09 PRECINCT 09
+ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:10,Shawnee County KS - TOPEKA WARD 09 PRECINCT 10
+ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:11,Shawnee County KS - TOPEKA WARD 09 PRECINCT 11
+ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:12,Shawnee County KS - TOPEKA WARD 09 PRECINCT 12
 ocd-division/country:us/state:ks/place:topeka/ward:10,Shawnee County KS - TOPEKA WARD 10
 ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:1,Shawnee County KS - TOPEKA WARD 10 PRECINCT 01
-ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:10,Shawnee County KS - TOPEKA WARD 10 PRECINCT 10
-ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:11,Shawnee County KS - TOPEKA WARD 10 PRECINCT 11
-ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:14,Shawnee County KS - TOPEKA WARD 10 PRECINCT 14
 ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:2,Shawnee County KS - TOPEKA WARD 10 PRECINCT 02
 ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:3,Shawnee County KS - TOPEKA WARD 10 PRECINCT 03
 ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:4,Shawnee County KS - TOPEKA WARD 10 PRECINCT 04
@@ -2017,9 +2107,11 @@ ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:6,Shawnee County 
 ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:7,Shawnee County KS - TOPEKA WARD 10 PRECINCT 07
 ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:8,Shawnee County KS - TOPEKA WARD 10 PRECINCT 08
 ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:9,Shawnee County KS - TOPEKA WARD 10 PRECINCT 09
+ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:10,Shawnee County KS - TOPEKA WARD 10 PRECINCT 10
+ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:11,Shawnee County KS - TOPEKA WARD 10 PRECINCT 11
+ocd-division/country:us/state:ks/place:topeka/ward:10/precinct:14,Shawnee County KS - TOPEKA WARD 10 PRECINCT 14
 ocd-division/country:us/state:ks/place:topeka/ward:11,Shawnee County KS - TOPEKA WARD 11
 ocd-division/country:us/state:ks/place:topeka/ward:11/precinct:1,Shawnee County KS - TOPEKA WARD 11 PRECINCT 01
-ocd-division/country:us/state:ks/place:topeka/ward:11/precinct:10,Shawnee County KS - TOPEKA WARD 11 PRECINCT 10
 ocd-division/country:us/state:ks/place:topeka/ward:11/precinct:2,Shawnee County KS - TOPEKA WARD 11 PRECINCT 02
 ocd-division/country:us/state:ks/place:topeka/ward:11/precinct:3,Shawnee County KS - TOPEKA WARD 11 PRECINCT 03
 ocd-division/country:us/state:ks/place:topeka/ward:11/precinct:4,Shawnee County KS - TOPEKA WARD 11 PRECINCT 04
@@ -2028,24 +2120,25 @@ ocd-division/country:us/state:ks/place:topeka/ward:11/precinct:6,Shawnee County 
 ocd-division/country:us/state:ks/place:topeka/ward:11/precinct:7,Shawnee County KS - TOPEKA WARD 11 PRECINCT 07
 ocd-division/country:us/state:ks/place:topeka/ward:11/precinct:8,Shawnee County KS - TOPEKA WARD 11 PRECINCT 08
 ocd-division/country:us/state:ks/place:topeka/ward:11/precinct:9,Shawnee County KS - TOPEKA WARD 11 PRECINCT 09
+ocd-division/country:us/state:ks/place:topeka/ward:11/precinct:10,Shawnee County KS - TOPEKA WARD 11 PRECINCT 10
 ocd-division/country:us/state:ks/place:topeka/ward:12,Shawnee County KS - TOPEKA WARD 12
 ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:1,Shawnee County KS - TOPEKA WARD 12 PRECINCT 01
-ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:11,Shawnee County KS - TOPEKA WARD 12 PRECINCT 11
-ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:13,Shawnee County KS - TOPEKA WARD 12 PRECINCT 13
-ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:14,Shawnee County KS - TOPEKA WARD 12 PRECINCT 14
-ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:15,Shawnee County KS - TOPEKA WARD 12 PRECINCT 15
-ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:16,Shawnee County KS - TOPEKA WARD 12 PRECINCT 16
-ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:19,Shawnee County KS - TOPEKA WARD 12 PRECINCT 19
 ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:2,Shawnee County KS - TOPEKA WARD 12 PRECINCT 02
-ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:20,Shawnee County KS - TOPEKA WARD 12 PRECINCT 20
 ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:3,Shawnee County KS - TOPEKA WARD 12 PRECINCT 03
-ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:31,Shawnee County KS - TOPEKA WARD 12 PRECINCT 31
 ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:4,Shawnee County KS - TOPEKA WARD 12 PRECINCT 04
 ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:5,Shawnee County KS - TOPEKA WARD 12 PRECINCT 05
 ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:6,Shawnee County KS - TOPEKA WARD 12 PRECINCT 06
 ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:7,Shawnee County KS - TOPEKA WARD 12 PRECINCT 07
 ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:8,Shawnee County KS - TOPEKA WARD 12 PRECINCT 08
 ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:9,Shawnee County KS - TOPEKA WARD 12 PRECINCT 09
+ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:11,Shawnee County KS - TOPEKA WARD 12 PRECINCT 11
+ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:13,Shawnee County KS - TOPEKA WARD 12 PRECINCT 13
+ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:14,Shawnee County KS - TOPEKA WARD 12 PRECINCT 14
+ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:15,Shawnee County KS - TOPEKA WARD 12 PRECINCT 15
+ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:16,Shawnee County KS - TOPEKA WARD 12 PRECINCT 16
+ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:19,Shawnee County KS - TOPEKA WARD 12 PRECINCT 19
+ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:20,Shawnee County KS - TOPEKA WARD 12 PRECINCT 20
+ocd-division/country:us/state:ks/place:topeka/ward:12/precinct:31,Shawnee County KS - TOPEKA WARD 12 PRECINCT 31
 ocd-division/country:us/state:ks/place:topeka/ward:13,Shawnee County KS - TOPEKA WARD 13
 ocd-division/country:us/state:ks/place:topeka/ward:13/precinct:12,Shawnee County KS - TOPEKA WARD 13 PRECINCT 12
 ocd-division/country:us/state:ks/place:topeka/ward:13/precinct:2,Shawnee County KS - TOPEKA WARD 13 PRECINCT 02
@@ -2065,125 +2158,29 @@ ocd-division/country:us/state:ks/place:topeka/ward:15,Shawnee County KS - TOPEKA
 ocd-division/country:us/state:ks/place:topeka/ward:15/precinct:1,Shawnee County KS - TOPEKA WARD 15 PRECINCT 01
 ocd-division/country:us/state:ks/place:topeka/ward:15/precinct:2,Shawnee County KS - TOPEKA WARD 15 PRECINCT 02
 ocd-division/country:us/state:ks/place:topeka/ward:15/precinct:3,Shawnee County KS - TOPEKA WARD 15 PRECINCT 03
-ocd-division/country:us/state:ks/place:topeka/ward:2,Shawnee County KS - TOPEKA WARD 02
-ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:1,Shawnee County KS - TOPEKA WARD 02 PRECINCT 01
-ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:10,Shawnee County KS - TOPEKA WARD 02 PRECINCT 10
-ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:11,Shawnee County KS - TOPEKA WARD 02 PRECINCT 11
-ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:2,Shawnee County KS - TOPEKA WARD 02 PRECINCT 02
-ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:3,Shawnee County KS - TOPEKA WARD 02 PRECINCT 03
-ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:4,Shawnee County KS - TOPEKA WARD 02 PRECINCT 04
-ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:5,Shawnee County KS - TOPEKA WARD 02 PRECINCT 05
-ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:6,Shawnee County KS - TOPEKA WARD 02 PRECINCT 06
-ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:7,Shawnee County KS - TOPEKA WARD 02 PRECINCT 07
-ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:8,Shawnee County KS - TOPEKA WARD 02 PRECINCT 08
-ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:9,Shawnee County KS - TOPEKA WARD 02 PRECINCT 09
-ocd-division/country:us/state:ks/place:topeka/ward:3,Shawnee County KS - TOPEKA WARD 03
-ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:1,Shawnee County KS - TOPEKA WARD 03 PRECINCT 01
-ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:10,Shawnee County KS - TOPEKA WARD 03 PRECINCT 10
-ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:2,Shawnee County KS - TOPEKA WARD 03 PRECINCT 02
-ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:3,Shawnee County KS - TOPEKA WARD 03 PRECINCT 03
-ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:4,Shawnee County KS - TOPEKA WARD 03 PRECINCT 04
-ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:5,Shawnee County KS - TOPEKA WARD 03 PRECINCT 05
-ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:6,Shawnee County KS - TOPEKA WARD 03 PRECINCT 06
-ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:7,Shawnee County KS - TOPEKA WARD 03 PRECINCT 07
-ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:8,Shawnee County KS - TOPEKA WARD 03 PRECINCT 08
-ocd-division/country:us/state:ks/place:topeka/ward:3/precinct:9,Shawnee County KS - TOPEKA WARD 03 PRECINCT 09
-ocd-division/country:us/state:ks/place:topeka/ward:4,Shawnee County KS - TOPEKA WARD 04
-ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:1,Shawnee County KS - TOPEKA WARD 04 PRECINCT 01
-ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:10,Shawnee County KS - TOPEKA WARD 04 PRECINCT 10
-ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:11,Shawnee County KS - TOPEKA WARD 04 PRECINCT 11
-ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:14,Shawnee County KS - TOPEKA WARD 04 PRECINCT 14
-ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:15,Shawnee County KS - TOPEKA WARD 04 PRECINCT 15
-ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:2,Shawnee County KS - TOPEKA WARD 04 PRECINCT 02
-ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:3,Shawnee County KS - TOPEKA WARD 04 PRECINCT 03
-ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:4,Shawnee County KS - TOPEKA WARD 04 PRECINCT 04
-ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:6,Shawnee County KS - TOPEKA WARD 04 PRECINCT 06
-ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:7,Shawnee County KS - TOPEKA WARD 04 PRECINCT 07
-ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:8,Shawnee County KS - TOPEKA WARD 04 PRECINCT 08
-ocd-division/country:us/state:ks/place:topeka/ward:4/precinct:9,Shawnee County KS - TOPEKA WARD 04 PRECINCT 09
-ocd-division/country:us/state:ks/place:topeka/ward:5,Shawnee County KS - TOPEKA WARD 05
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:1,Shawnee County KS - TOPEKA WARD 05 PRECINCT 01
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:10,Shawnee County KS - TOPEKA WARD 05 PRECINCT 10
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:11,Shawnee County KS - TOPEKA WARD 05 PRECINCT 11
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:14,Shawnee County KS - TOPEKA WARD 05 PRECINCT 14
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:15,Shawnee County KS - TOPEKA WARD 05 PRECINCT 15
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:2,Shawnee County KS - TOPEKA WARD 05 PRECINCT 02
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:3,Shawnee County KS - TOPEKA WARD 05 PRECINCT 03
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:4,Shawnee County KS - TOPEKA WARD 05 PRECINCT 04
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:5,Shawnee County KS - TOPEKA WARD 05 PRECINCT 05
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:6,Shawnee County KS - TOPEKA WARD 05 PRECINCT 06
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:7,Shawnee County KS - TOPEKA WARD 05 PRECINCT 07
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:8,Shawnee County KS - TOPEKA WARD 05 PRECINCT 08
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:9,Shawnee County KS - TOPEKA WARD 05 PRECINCT 09
-ocd-division/country:us/state:ks/place:topeka/ward:5/precinct:91,Shawnee County KS - TOPEKA WARD 05 PRECINCT 91
-ocd-division/country:us/state:ks/place:topeka/ward:6,Shawnee County KS - TOPEKA WARD 06
-ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:1,Shawnee County KS - TOPEKA WARD 06 PRECINCT 01
-ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:2,Shawnee County KS - TOPEKA WARD 06 PRECINCT 02
-ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:3,Shawnee County KS - TOPEKA WARD 06 PRECINCT 03
-ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:4,Shawnee County KS - TOPEKA WARD 06 PRECINCT 04
-ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:5,Shawnee County KS - TOPEKA WARD 06 PRECINCT 05
-ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:6,Shawnee County KS - TOPEKA WARD 06 PRECINCT 06
-ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:7,Shawnee County KS - TOPEKA WARD 06 PRECINCT 07
-ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:8,Shawnee County KS - TOPEKA WARD 06 PRECINCT 08
-ocd-division/country:us/state:ks/place:topeka/ward:6/precinct:9,Shawnee County KS - TOPEKA WARD 06 PRECINCT 09
-ocd-division/country:us/state:ks/place:topeka/ward:7,Shawnee County KS - TOPEKA WARD 07
-ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:1,Shawnee County KS - TOPEKA WARD 07 PRECINCT 01
-ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:10,Shawnee County KS - TOPEKA WARD 07 PRECINCT 10
-ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:11,Shawnee County KS - TOPEKA WARD 07 PRECINCT 11
-ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:2,Shawnee County KS - TOPEKA WARD 07 PRECINCT 02
-ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:3,Shawnee County KS - TOPEKA WARD 07 PRECINCT 03
-ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:4,Shawnee County KS - TOPEKA WARD 07 PRECINCT 04
-ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:5,Shawnee County KS - TOPEKA WARD 07 PRECINCT 05
-ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:6,Shawnee County KS - TOPEKA WARD 07 PRECINCT 06
-ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:7,Shawnee County KS - TOPEKA WARD 07 PRECINCT 07
-ocd-division/country:us/state:ks/place:topeka/ward:7/precinct:9,Shawnee County KS - TOPEKA WARD 07 PRECINCT 09
-ocd-division/country:us/state:ks/place:topeka/ward:8,Shawnee County KS - TOPEKA WARD 08
-ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:1,Shawnee County KS - TOPEKA WARD 08 PRECINCT 01
-ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:10,Shawnee County KS - TOPEKA WARD 08 PRECINCT 10
-ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:11,Shawnee County KS - TOPEKA WARD 08 PRECINCT 11
-ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:2,Shawnee County KS - TOPEKA WARD 08 PRECINCT 02
-ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:3,Shawnee County KS - TOPEKA WARD 08 PRECINCT 03
-ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:4,Shawnee County KS - TOPEKA WARD 08 PRECINCT 04
-ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:5,Shawnee County KS - TOPEKA WARD 08 PRECINCT 05
-ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:6,Shawnee County KS - TOPEKA WARD 08 PRECINCT 06
-ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:7,Shawnee County KS - TOPEKA WARD 08 PRECINCT 07
-ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:8,Shawnee County KS - TOPEKA WARD 08 PRECINCT 08
-ocd-division/country:us/state:ks/place:topeka/ward:8/precinct:9,Shawnee County KS - TOPEKA WARD 08 PRECINCT 09
-ocd-division/country:us/state:ks/place:topeka/ward:9,Shawnee County KS - TOPEKA WARD 09
-ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:1,Shawnee County KS - TOPEKA WARD 09 PRECINCT 01
-ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:10,Shawnee County KS - TOPEKA WARD 09 PRECINCT 10
-ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:11,Shawnee County KS - TOPEKA WARD 09 PRECINCT 11
-ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:12,Shawnee County KS - TOPEKA WARD 09 PRECINCT 12
-ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:2,Shawnee County KS - TOPEKA WARD 09 PRECINCT 02
-ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:3,Shawnee County KS - TOPEKA WARD 09 PRECINCT 03
-ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:4,Shawnee County KS - TOPEKA WARD 09 PRECINCT 04
-ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:5,Shawnee County KS - TOPEKA WARD 09 PRECINCT 05
-ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:6,Shawnee County KS - TOPEKA WARD 09 PRECINCT 06
-ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:8,Shawnee County KS - TOPEKA WARD 09 PRECINCT 08
-ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:9,Shawnee County KS - TOPEKA WARD 09 PRECINCT 09
 ocd-division/country:us/state:ks/place:tribune/precinct:1,Greeley County KS - Tribune Precinct 1
 ocd-division/country:us/state:ks/place:tribune/precinct:2,Greeley County KS - Tribune Precinct 2
 ocd-division/country:us/state:ks/place:tribune/precinct:3,Greeley County KS - Tribune Precinct 3
 ocd-division/country:us/state:ks/place:ulysses/ward:1,Grant County KS - Ulysses Ward 3
 ocd-division/country:us/state:ks/place:ulysses/ward:2,Grant County KS - Ulysses Ward 2
 ocd-division/country:us/state:ks/place:ulysses/ward:3,Grant County KS - Ulysses Ward 1
-ocd-division/country:us/state:ks/place:ulysses/ward:4,Grant County KS - Precinct 4 H124
+ocd-division/country:us/state:ks/place:ulysses/ward:4,Grant County KS - Precinct 4
 ocd-division/country:us/state:ks/place:wakeeney/precinct:central,Trego County KS - WaKeeney City Central Precinct
 ocd-division/country:us/state:ks/place:wakeeney/precinct:east,Trego County KS - WaKeeney City East Precinct
 ocd-division/country:us/state:ks/place:wakeeney/precinct:west,Trego County KS - WaKeeney City West Precinct
-ocd-division/country:us/state:ks/place:wamego/precinct:east,Pottawatomie County KS - Wamego East S18
-ocd-division/country:us/state:ks/place:wamego/precinct:west,Pottawatomie County KS - Wamego West S17
+ocd-division/country:us/state:ks/place:wamego/precinct:east,Pottawatomie County KS - Wamego East
+ocd-division/country:us/state:ks/place:wamego/precinct:west,Pottawatomie County KS - Wamego West
 ocd-division/country:us/state:ks/place:weir/ward:1,Cherokee County KS - Weir Ward 1
 ocd-division/country:us/state:ks/place:weir/ward:2,Cherokee County KS - Weir Ward 2
 ocd-division/country:us/state:ks/place:weir/ward:3,Cherokee County KS - Weir Ward 3
 ocd-division/country:us/state:ks/place:wellington/ward:1,Sumner County KS - Wellington City Ward 1
-ocd-division/country:us/state:ks/place:wellington/ward:1/precinct:1,Sumner County KS - Wellington City Ward 1 Precinct 1 H80
+ocd-division/country:us/state:ks/place:wellington/ward:1/precinct:1,Sumner County KS - Wellington City Ward 1 Precinct 1
 ocd-division/country:us/state:ks/place:wellington/ward:1/precinct:2,Sumner County KS - Wellington City Ward 1 Precinct 2
 ocd-division/country:us/state:ks/place:wellington/ward:2,Sumner County KS - Wellington City Ward 2
 ocd-division/country:us/state:ks/place:wellington/ward:2/precinct:1,Sumner County KS - Wellington City Ward 2 Precinct 1
 ocd-division/country:us/state:ks/place:wellington/ward:2/precinct:2,Sumner County KS - Wellington City Ward 2 Precinct 2
 ocd-division/country:us/state:ks/place:wellington/ward:3,Sumner County KS - Wellington City Ward 3
-ocd-division/country:us/state:ks/place:wellington/ward:3/precinct:1,Sumner County KS - Wellington City Ward 3 Precinct 1 H80
+ocd-division/country:us/state:ks/place:wellington/ward:3/precinct:1,Sumner County KS - Wellington City Ward 3 Precinct 1
 ocd-division/country:us/state:ks/place:wellington/ward:3/precinct:2,Sumner County KS - Wellington City Ward 3 Precinct 2
 ocd-division/country:us/state:ks/place:wellington/ward:4,Sumner County KS - Wellington City Ward 4
 ocd-division/country:us/state:ks/place:wellington/ward:4/precinct:1,Sumner County KS - Wellington City Ward 4 Precinct 1
