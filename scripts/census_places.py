@@ -196,7 +196,7 @@ def process_state(state, csvfile, geocsv):
             funcstat_count[funcstat] += 1
 
             # active government
-            if funcstat in ('A', 'B'):
+            if funcstat in ('A', 'B', 'I'):
                 if entity_type == 'subdiv' and not subdiv_rule:
                     raise Exception('unexpected subdiv in {0}: {1}'.format(
                         state, row))
@@ -251,7 +251,7 @@ def process_state(state, csvfile, geocsv):
                     if entity_type == 'county':
                         counties[row['GEOID']] = id
 
-            elif funcstat not in ('I', 'F', 'N', 'S', 'C', 'G'):
+            elif funcstat not in ('F', 'N', 'S', 'C', 'G'):
                 # inactive/fictitious/nonfunctioning/statistical/consolidated
                 # unhandled FUNCSTAT type
                 raise Exception(row)

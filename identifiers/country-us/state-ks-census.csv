@@ -141,9 +141,17 @@ ocd-division/country:us/state:ks/county:chase/place:strong,Strong township
 ocd-division/country:us/state:ks/county:chase/place:toledo,Toledo township
 ocd-division/country:us/state:ks/county:chautauqua,Chautauqua County
 ocd-division/country:us/state:ks/county:chautauqua/place:belleville,Belleville township
+ocd-division/country:us/state:ks/county:chautauqua/place:caneyville,Caneyville township
 ocd-division/country:us/state:ks/county:chautauqua/place:center,Center township
+ocd-division/country:us/state:ks/county:chautauqua/place:harrison,Harrison township
+ocd-division/country:us/state:ks/county:chautauqua/place:hendricks,Hendricks township
+ocd-division/country:us/state:ks/county:chautauqua/place:jefferson,Jefferson township
 ocd-division/country:us/state:ks/county:chautauqua/place:lafayette,Lafayette township
 ocd-division/country:us/state:ks/county:chautauqua/place:little_caney,Little Caney township
+ocd-division/country:us/state:ks/county:chautauqua/place:salt_creek,Salt Creek township
+ocd-division/country:us/state:ks/county:chautauqua/place:sedan,Sedan township
+ocd-division/country:us/state:ks/county:chautauqua/place:summit,Summit township
+ocd-division/country:us/state:ks/county:chautauqua/place:washington,Washington township
 ocd-division/country:us/state:ks/county:cherokee,Cherokee County
 ocd-division/country:us/state:ks/county:cherokee/place:cherokee,Cherokee township
 ocd-division/country:us/state:ks/county:cherokee/place:crawford,Crawford township
@@ -169,9 +177,30 @@ ocd-division/country:us/state:ks/county:cheyenne/place:orlando,Orlando township
 ocd-division/country:us/state:ks/county:cheyenne/place:wano,Wano township
 ocd-division/country:us/state:ks/county:clark,Clark County
 ocd-division/country:us/state:ks/county:clark/place:appleton,Appleton township
+ocd-division/country:us/state:ks/county:clark/place:center,Center township
 ocd-division/country:us/state:ks/county:clark/place:englewood,Englewood township
 ocd-division/country:us/state:ks/county:clark/place:lexington,Lexington township
+ocd-division/country:us/state:ks/county:clark/place:liberty,Liberty township
+ocd-division/country:us/state:ks/county:clark/place:sitka,Sitka township
 ocd-division/country:us/state:ks/county:clay,Clay County
+ocd-division/country:us/state:ks/county:clay/place:athelstane,Athelstane township
+ocd-division/country:us/state:ks/county:clay/place:blaine,Blaine township
+ocd-division/country:us/state:ks/county:clay/place:bloom,Bloom township
+ocd-division/country:us/state:ks/county:clay/place:chapman,Chapman township
+ocd-division/country:us/state:ks/county:clay/place:clay_center,Clay Center township
+ocd-division/country:us/state:ks/county:clay/place:exeter,Exeter township
+ocd-division/country:us/state:ks/county:clay/place:five_creeks,Five Creeks township
+ocd-division/country:us/state:ks/county:clay/place:garfield,Garfield township
+ocd-division/country:us/state:ks/county:clay/place:gill,Gill township
+ocd-division/country:us/state:ks/county:clay/place:goshen,Goshen township
+ocd-division/country:us/state:ks/county:clay/place:grant,Grant township
+ocd-division/country:us/state:ks/county:clay/place:hayes,Hayes township
+ocd-division/country:us/state:ks/county:clay/place:highland,Highland township
+ocd-division/country:us/state:ks/county:clay/place:mulberry,Mulberry township
+ocd-division/country:us/state:ks/county:clay/place:oakland,Oakland township
+ocd-division/country:us/state:ks/county:clay/place:republican,Republican township
+ocd-division/country:us/state:ks/county:clay/place:sherman,Sherman township
+ocd-division/country:us/state:ks/county:clay/place:union,Union township
 ocd-division/country:us/state:ks/county:cloud,Cloud County
 ocd-division/country:us/state:ks/county:cloud/place:arion,Arion township
 ocd-division/country:us/state:ks/county:cloud/place:aurora,Aurora township
@@ -200,6 +229,7 @@ ocd-division/country:us/state:ks/county:coffey/place:leroy,LeRoy township
 ocd-division/country:us/state:ks/county:coffey/place:liberty,Liberty township
 ocd-division/country:us/state:ks/county:coffey/place:lincoln,Lincoln township
 ocd-division/country:us/state:ks/county:coffey/place:neosho,Neosho township
+ocd-division/country:us/state:ks/county:coffey/place:ottumwa,Ottumwa township
 ocd-division/country:us/state:ks/county:coffey/place:pleasant,Pleasant township
 ocd-division/country:us/state:ks/county:coffey/place:pottawatomie,Pottawatomie township
 ocd-division/country:us/state:ks/county:coffey/place:rock_creek,Rock Creek township
@@ -443,14 +473,19 @@ ocd-division/country:us/state:ks/county:graham/place:pioneer,Pioneer township
 ocd-division/country:us/state:ks/county:graham/place:solomon,Solomon township
 ocd-division/country:us/state:ks/county:graham/place:wildhorse,Wildhorse township
 ocd-division/country:us/state:ks/county:grant,Grant County
+ocd-division/country:us/state:ks/county:grant/place:lincoln,Lincoln township
+ocd-division/country:us/state:ks/county:grant/place:sherman,Sherman township
+ocd-division/country:us/state:ks/county:grant/place:sullivan,Sullivan township
 ocd-division/country:us/state:ks/county:gray,Gray County
 ocd-division/country:us/state:ks/county:gray/place:cimarron,Cimarron township
 ocd-division/country:us/state:ks/county:gray/place:copeland,Copeland township
 ocd-division/country:us/state:ks/county:gray/place:east_hess,East Hess township
+ocd-division/country:us/state:ks/county:gray/place:foote,Foote township
 ocd-division/country:us/state:ks/county:gray/place:ingalls,Ingalls township
 ocd-division/country:us/state:ks/county:gray/place:logan,Logan township
 ocd-division/country:us/state:ks/county:gray/place:montezuma,Montezuma township
 ocd-division/country:us/state:ks/county:greeley,Greeley County
+ocd-division/country:us/state:ks/county:greeley/place:tribune,Tribune township
 ocd-division/country:us/state:ks/county:greenwood,Greenwood County
 ocd-division/country:us/state:ks/county:greenwood/place:bachelor,Bachelor township
 ocd-division/country:us/state:ks/county:greenwood/place:eureka,Eureka township
@@ -471,6 +506,11 @@ ocd-division/country:us/state:ks/county:hamilton,Hamilton County
 ocd-division/country:us/state:ks/county:hamilton/place:bear_creek,Bear Creek township
 ocd-division/country:us/state:ks/county:hamilton/place:coolidge,Coolidge township
 ocd-division/country:us/state:ks/county:hamilton/place:kendall,Kendall township
+ocd-division/country:us/state:ks/county:hamilton/place:lamont,Lamont township
+ocd-division/country:us/state:ks/county:hamilton/place:liberty,Liberty township
+ocd-division/country:us/state:ks/county:hamilton/place:medway,Medway township
+ocd-division/country:us/state:ks/county:hamilton/place:richland,Richland township
+ocd-division/country:us/state:ks/county:hamilton/place:syracuse,Syracuse township
 ocd-division/country:us/state:ks/county:harper,Harper County
 ocd-division/country:us/state:ks/county:harper/place:township_1,Township 1
 ocd-division/country:us/state:ks/county:harper/place:township_2,Township 2
@@ -509,6 +549,21 @@ ocd-division/country:us/state:ks/county:hodgeman/place:south_roscoe,South Roscoe
 ocd-division/country:us/state:ks/county:hodgeman/place:sterling,Sterling township
 ocd-division/country:us/state:ks/county:hodgeman/place:valley,Valley township
 ocd-division/country:us/state:ks/county:jackson,Jackson County
+ocd-division/country:us/state:ks/county:jackson/place:adrian,Adrian township
+ocd-division/country:us/state:ks/county:jackson/place:banner,Banner township
+ocd-division/country:us/state:ks/county:jackson/place:cedar,Cedar township
+ocd-division/country:us/state:ks/county:jackson/place:douglas,Douglas township
+ocd-division/country:us/state:ks/county:jackson/place:franklin,Franklin township
+ocd-division/country:us/state:ks/county:jackson/place:garfield,Garfield township
+ocd-division/country:us/state:ks/county:jackson/place:grant,Grant township
+ocd-division/country:us/state:ks/county:jackson/place:jefferson,Jefferson township
+ocd-division/country:us/state:ks/county:jackson/place:liberty,Liberty township
+ocd-division/country:us/state:ks/county:jackson/place:lincoln,Lincoln township
+ocd-division/country:us/state:ks/county:jackson/place:netawaka,Netawaka township
+ocd-division/country:us/state:ks/county:jackson/place:soldier,Soldier township
+ocd-division/country:us/state:ks/county:jackson/place:straight_creek,Straight Creek township
+ocd-division/country:us/state:ks/county:jackson/place:washington,Washington township
+ocd-division/country:us/state:ks/county:jackson/place:whiting,Whiting township
 ocd-division/country:us/state:ks/county:jefferson,Jefferson County
 ocd-division/country:us/state:ks/county:jefferson/place:delaware,Delaware township
 ocd-division/country:us/state:ks/county:jefferson/place:fairview,Fairview township
@@ -553,6 +608,7 @@ ocd-division/country:us/state:ks/county:johnson/place:aubry,Aubry township
 ocd-division/country:us/state:ks/county:johnson/place:gardner,Gardner township
 ocd-division/country:us/state:ks/county:johnson/place:lexington,Lexington township
 ocd-division/country:us/state:ks/county:johnson/place:mccamish,McCamish township
+ocd-division/country:us/state:ks/county:johnson/place:olathe,Olathe township
 ocd-division/country:us/state:ks/county:johnson/place:oxford,Oxford township
 ocd-division/country:us/state:ks/county:johnson/place:spring_hill,Spring Hill township
 ocd-division/country:us/state:ks/county:kearny,Kearny County
@@ -588,12 +644,14 @@ ocd-division/country:us/state:ks/county:kingman/place:valley,Valley township
 ocd-division/country:us/state:ks/county:kingman/place:vinita,Vinita township
 ocd-division/country:us/state:ks/county:kingman/place:white,White township
 ocd-division/country:us/state:ks/county:kiowa,Kiowa County
+ocd-division/country:us/state:ks/county:kiowa/place:kiowa_rural,Kiowa Rural township
 ocd-division/country:us/state:ks/county:labette,Labette County
 ocd-division/country:us/state:ks/county:labette/place:canada,Canada township
 ocd-division/country:us/state:ks/county:labette/place:elm_grove,Elm Grove township
 ocd-division/country:us/state:ks/county:labette/place:fairview,Fairview township
 ocd-division/country:us/state:ks/county:labette/place:hackberry,Hackberry township
 ocd-division/country:us/state:ks/county:labette/place:howard,Howard township
+ocd-division/country:us/state:ks/county:labette/place:labette,Labette township
 ocd-division/country:us/state:ks/county:labette/place:liberty,Liberty township
 ocd-division/country:us/state:ks/county:labette/place:montana,Montana township
 ocd-division/country:us/state:ks/county:labette/place:mound_valley,Mound Valley township
@@ -602,6 +660,8 @@ ocd-division/country:us/state:ks/county:labette/place:neosho,Neosho township
 ocd-division/country:us/state:ks/county:labette/place:north,North township
 ocd-division/country:us/state:ks/county:labette/place:osage,Osage township
 ocd-division/country:us/state:ks/county:labette/place:oswego,Oswego township
+ocd-division/country:us/state:ks/county:labette/place:richland,Richland township
+ocd-division/country:us/state:ks/county:labette/place:walton,Walton township
 ocd-division/country:us/state:ks/county:lane,Lane County
 ocd-division/country:us/state:ks/county:lane/place:alamota,Alamota township
 ocd-division/country:us/state:ks/county:lane/place:cheyenne,Cheyenne township
@@ -621,14 +681,25 @@ ocd-division/country:us/state:ks/county:leavenworth/place:stranger,Stranger town
 ocd-division/country:us/state:ks/county:leavenworth/place:tonganoxie,Tonganoxie township
 ocd-division/country:us/state:ks/county:lincoln,Lincoln County
 ocd-division/country:us/state:ks/county:lincoln/place:battle_creek,Battle Creek township
+ocd-division/country:us/state:ks/county:lincoln/place:beaver,Beaver township
+ocd-division/country:us/state:ks/county:lincoln/place:cedron,Cedron township
 ocd-division/country:us/state:ks/county:lincoln/place:colorado,Colorado township
+ocd-division/country:us/state:ks/county:lincoln/place:elkhorn,Elkhorn township
 ocd-division/country:us/state:ks/county:lincoln/place:franklin,Franklin township
 ocd-division/country:us/state:ks/county:lincoln/place:golden_belt,Golden Belt township
+ocd-division/country:us/state:ks/county:lincoln/place:grant,Grant township
+ocd-division/country:us/state:ks/county:lincoln/place:hanover,Hanover township
+ocd-division/country:us/state:ks/county:lincoln/place:highland,Highland township
+ocd-division/country:us/state:ks/county:lincoln/place:indiana,Indiana township
 ocd-division/country:us/state:ks/county:lincoln/place:logan,Logan township
 ocd-division/country:us/state:ks/county:lincoln/place:madison,Madison township
+ocd-division/country:us/state:ks/county:lincoln/place:marion,Marion township
+ocd-division/country:us/state:ks/county:lincoln/place:orange,Orange township
 ocd-division/country:us/state:ks/county:lincoln/place:pleasant,Pleasant township
 ocd-division/country:us/state:ks/county:lincoln/place:salt_creek,Salt Creek township
 ocd-division/country:us/state:ks/county:lincoln/place:scott,Scott township
+ocd-division/country:us/state:ks/county:lincoln/place:valley,Valley township
+ocd-division/country:us/state:ks/county:lincoln/place:vesper,Vesper township
 ocd-division/country:us/state:ks/county:linn,Linn County
 ocd-division/country:us/state:ks/county:linn/place:blue_mound,Blue Mound township
 ocd-division/country:us/state:ks/county:linn/place:centerville,Centerville township
@@ -666,9 +737,12 @@ ocd-division/country:us/state:ks/county:lyon/place:pike,Pike township
 ocd-division/country:us/state:ks/county:lyon/place:reading,Reading township
 ocd-division/country:us/state:ks/county:lyon/place:waterloo,Waterloo township
 ocd-division/country:us/state:ks/county:marion,Marion County
+ocd-division/country:us/state:ks/county:marion/place:blaine,Blaine township
 ocd-division/country:us/state:ks/county:marion/place:catlin,Catlin township
 ocd-division/country:us/state:ks/county:marion/place:centre,Centre township
+ocd-division/country:us/state:ks/county:marion/place:clark,Clark township
 ocd-division/country:us/state:ks/county:marion/place:clear_creek,Clear Creek township
+ocd-division/country:us/state:ks/county:marion/place:colfax,Colfax township
 ocd-division/country:us/state:ks/county:marion/place:doyle,Doyle township
 ocd-division/country:us/state:ks/county:marion/place:durham_park,Durham Park township
 ocd-division/country:us/state:ks/county:marion/place:east_branch,East Branch township
@@ -678,9 +752,13 @@ ocd-division/country:us/state:ks/county:marion/place:grant,Grant township
 ocd-division/country:us/state:ks/county:marion/place:lehigh,Lehigh township
 ocd-division/country:us/state:ks/county:marion/place:liberty,Liberty township
 ocd-division/country:us/state:ks/county:marion/place:logan,Logan township
+ocd-division/country:us/state:ks/county:marion/place:lost_springs,Lost Springs township
 ocd-division/country:us/state:ks/county:marion/place:menno,Menno township
+ocd-division/country:us/state:ks/county:marion/place:milton,Milton township
+ocd-division/country:us/state:ks/county:marion/place:moore,Moore township
 ocd-division/country:us/state:ks/county:marion/place:peabody,Peabody township
 ocd-division/country:us/state:ks/county:marion/place:risley,Risley township
+ocd-division/country:us/state:ks/county:marion/place:summit,Summit township
 ocd-division/country:us/state:ks/county:marion/place:west_branch,West Branch township
 ocd-division/country:us/state:ks/county:marion/place:wilson,Wilson township
 ocd-division/country:us/state:ks/county:marshall,Marshall County
@@ -738,8 +816,11 @@ ocd-division/country:us/state:ks/county:mcpherson/place:union,Union township
 ocd-division/country:us/state:ks/county:meade,Meade County
 ocd-division/country:us/state:ks/county:meade/place:cimarron,Cimarron township
 ocd-division/country:us/state:ks/county:meade/place:crooked_creek,Crooked Creek township
+ocd-division/country:us/state:ks/county:meade/place:fowler,Fowler township
+ocd-division/country:us/state:ks/county:meade/place:logan,Logan township
 ocd-division/country:us/state:ks/county:meade/place:meade_center,Meade Center township
 ocd-division/country:us/state:ks/county:meade/place:mertilla,Mertilla township
+ocd-division/country:us/state:ks/county:meade/place:odee,Odee township
 ocd-division/country:us/state:ks/county:meade/place:sand_creek,Sand Creek township
 ocd-division/country:us/state:ks/county:meade/place:west_plains,West Plains township
 ocd-division/country:us/state:ks/county:miami,Miami County
@@ -763,11 +844,13 @@ ocd-division/country:us/state:ks/county:mitchell/place:bloomfield,Bloomfield tow
 ocd-division/country:us/state:ks/county:mitchell/place:blue_hill,Blue Hill township
 ocd-division/country:us/state:ks/county:mitchell/place:carr_creek,Carr Creek township
 ocd-division/country:us/state:ks/county:mitchell/place:cawker,Cawker township
+ocd-division/country:us/state:ks/county:mitchell/place:center,Center township
 ocd-division/country:us/state:ks/county:mitchell/place:custer,Custer township
 ocd-division/country:us/state:ks/county:mitchell/place:eureka,Eureka township
 ocd-division/country:us/state:ks/county:mitchell/place:glen_elder,Glen Elder township
 ocd-division/country:us/state:ks/county:mitchell/place:hayes,Hayes township
 ocd-division/country:us/state:ks/county:mitchell/place:logan,Logan township
+ocd-division/country:us/state:ks/county:mitchell/place:lulu,Lulu township
 ocd-division/country:us/state:ks/county:mitchell/place:pittsburg,Pittsburg township
 ocd-division/country:us/state:ks/county:mitchell/place:plum_creek,Plum Creek township
 ocd-division/country:us/state:ks/county:mitchell/place:round_springs,Round Springs township
@@ -790,13 +873,23 @@ ocd-division/country:us/state:ks/county:montgomery/place:sycamore,Sycamore towns
 ocd-division/country:us/state:ks/county:montgomery/place:west_cherry,West Cherry township
 ocd-division/country:us/state:ks/county:morris,Morris County
 ocd-division/country:us/state:ks/county:morris/place:highland,Highland township
+ocd-division/country:us/state:ks/county:morris/place:overland,Overland township
+ocd-division/country:us/state:ks/county:morris/place:township_1,Township 1
 ocd-division/country:us/state:ks/county:morris/place:township_2,Township 2
+ocd-division/country:us/state:ks/county:morris/place:township_3,Township 3
+ocd-division/country:us/state:ks/county:morris/place:township_4,Township 4
 ocd-division/country:us/state:ks/county:morris/place:township_5,Township 5
+ocd-division/country:us/state:ks/county:morris/place:township_6,Township 6
 ocd-division/country:us/state:ks/county:morris/place:township_7,Township 7
 ocd-division/country:us/state:ks/county:morris/place:township_8,Township 8
 ocd-division/country:us/state:ks/county:morris/place:township_9,Township 9
 ocd-division/country:us/state:ks/county:morton,Morton County
+ocd-division/country:us/state:ks/county:morton/place:cimarron,Cimarron township
+ocd-division/country:us/state:ks/county:morton/place:jones,Jones township
 ocd-division/country:us/state:ks/county:morton/place:richfield,Richfield township
+ocd-division/country:us/state:ks/county:morton/place:rolla,Rolla township
+ocd-division/country:us/state:ks/county:morton/place:taloga,Taloga township
+ocd-division/country:us/state:ks/county:morton/place:westola,Westola township
 ocd-division/country:us/state:ks/county:nemaha,Nemaha County
 ocd-division/country:us/state:ks/county:nemaha/place:adams,Adams township
 ocd-division/country:us/state:ks/county:nemaha/place:berwick,Berwick township
@@ -1150,9 +1243,15 @@ ocd-division/country:us/state:ks/county:saline/place:washington,Washington towns
 ocd-division/country:us/state:ks/county:scott,Scott County
 ocd-division/country:us/state:ks/county:scott/place:beaver,Beaver township
 ocd-division/country:us/state:ks/county:scott/place:isbel,Isbel township
+ocd-division/country:us/state:ks/county:scott/place:keystone,Keystone township
+ocd-division/country:us/state:ks/county:scott/place:lake,Lake township
+ocd-division/country:us/state:ks/county:scott/place:michigan,Michigan township
+ocd-division/country:us/state:ks/county:scott/place:scott,Scott township
+ocd-division/country:us/state:ks/county:scott/place:valley,Valley township
 ocd-division/country:us/state:ks/county:sedgwick,Sedgwick County
 ocd-division/country:us/state:ks/county:sedgwick/place:afton,Afton township
 ocd-division/country:us/state:ks/county:sedgwick/place:attica,Attica township
+ocd-division/country:us/state:ks/county:sedgwick/place:delano,Delano township
 ocd-division/country:us/state:ks/county:sedgwick/place:eagle,Eagle township
 ocd-division/country:us/state:ks/county:sedgwick/place:erie,Erie township
 ocd-division/country:us/state:ks/county:sedgwick/place:garden_plain,Garden Plain township
@@ -1195,15 +1294,32 @@ ocd-division/country:us/state:ks/county:shawnee/place:tecumseh,Tecumseh township
 ocd-division/country:us/state:ks/county:shawnee/place:topeka,Topeka township
 ocd-division/country:us/state:ks/county:shawnee/place:williamsport,Williamsport township
 ocd-division/country:us/state:ks/county:sheridan,Sheridan County
+ocd-division/country:us/state:ks/county:sheridan/place:adell,Adell township
+ocd-division/country:us/state:ks/county:sheridan/place:bloomfield,Bloomfield township
 ocd-division/country:us/state:ks/county:sheridan/place:bowcreek,Bowcreek township
+ocd-division/country:us/state:ks/county:sheridan/place:east_saline,East Saline township
+ocd-division/country:us/state:ks/county:sheridan/place:kenneth,Kenneth township
+ocd-division/country:us/state:ks/county:sheridan/place:logan,Logan township
+ocd-division/country:us/state:ks/county:sheridan/place:parnell,Parnell township
+ocd-division/country:us/state:ks/county:sheridan/place:prairie_dog,Prairie Dog township
+ocd-division/country:us/state:ks/county:sheridan/place:sheridan,Sheridan township
 ocd-division/country:us/state:ks/county:sheridan/place:solomon,Solomon township
+ocd-division/country:us/state:ks/county:sheridan/place:springbrook,Springbrook township
+ocd-division/country:us/state:ks/county:sheridan/place:union,Union township
+ocd-division/country:us/state:ks/county:sheridan/place:valley,Valley township
+ocd-division/country:us/state:ks/county:sheridan/place:west_saline,West Saline township
 ocd-division/country:us/state:ks/county:sherman,Sherman County
 ocd-division/country:us/state:ks/county:sherman/place:grant,Grant township
+ocd-division/country:us/state:ks/county:sherman/place:iowa,Iowa township
 ocd-division/country:us/state:ks/county:sherman/place:itasca,Itasca township
+ocd-division/country:us/state:ks/county:sherman/place:lincoln,Lincoln township
 ocd-division/country:us/state:ks/county:sherman/place:llanos,Llanos township
 ocd-division/country:us/state:ks/county:sherman/place:logan,Logan township
 ocd-division/country:us/state:ks/county:sherman/place:mcpherson,McPherson township
+ocd-division/country:us/state:ks/county:sherman/place:shermanville,Shermanville township
+ocd-division/country:us/state:ks/county:sherman/place:smoky,Smoky township
 ocd-division/country:us/state:ks/county:sherman/place:stateline,Stateline township
+ocd-division/country:us/state:ks/county:sherman/place:union,Union township
 ocd-division/country:us/state:ks/county:sherman/place:voltaire,Voltaire township
 ocd-division/country:us/state:ks/county:sherman/place:washington,Washington township
 ocd-division/country:us/state:ks/county:smith,Smith County
@@ -1255,7 +1371,16 @@ ocd-division/country:us/state:ks/county:stafford/place:union,Union township
 ocd-division/country:us/state:ks/county:stafford/place:west_cooper,West Cooper township
 ocd-division/country:us/state:ks/county:stafford/place:york,York township
 ocd-division/country:us/state:ks/county:stanton,Stanton County
+ocd-division/country:us/state:ks/county:stanton/place:big_bow,Big Bow township
+ocd-division/country:us/state:ks/county:stanton/place:manter,Manter township
+ocd-division/country:us/state:ks/county:stanton/place:stanton,Stanton township
 ocd-division/country:us/state:ks/county:stevens,Stevens County
+ocd-division/country:us/state:ks/county:stevens/place:banner,Banner township
+ocd-division/country:us/state:ks/county:stevens/place:center,Center township
+ocd-division/country:us/state:ks/county:stevens/place:harmony,Harmony township
+ocd-division/country:us/state:ks/county:stevens/place:moscow,Moscow township
+ocd-division/country:us/state:ks/county:stevens/place:voorhees,Voorhees township
+ocd-division/country:us/state:ks/county:stevens/place:west_center,West Center township
 ocd-division/country:us/state:ks/county:sumner,Sumner County
 ocd-division/country:us/state:ks/county:sumner/place:avon,Avon township
 ocd-division/country:us/state:ks/county:sumner/place:belle_plaine,Belle Plaine township
@@ -1355,11 +1480,14 @@ ocd-division/country:us/state:ks/county:washington/place:strawberry,Strawberry t
 ocd-division/country:us/state:ks/county:washington/place:union,Union township
 ocd-division/country:us/state:ks/county:washington/place:washington,Washington township
 ocd-division/country:us/state:ks/county:wichita,Wichita County
+ocd-division/country:us/state:ks/county:wichita/place:leoti,Leoti township
 ocd-division/country:us/state:ks/county:wilson,Wilson County
 ocd-division/country:us/state:ks/county:wilson/place:cedar,Cedar township
 ocd-division/country:us/state:ks/county:wilson/place:center,Center township
 ocd-division/country:us/state:ks/county:wilson/place:chetopa,Chetopa township
+ocd-division/country:us/state:ks/county:wilson/place:clifton,Clifton township
 ocd-division/country:us/state:ks/county:wilson/place:colfax,Colfax township
+ocd-division/country:us/state:ks/county:wilson/place:duck_creek,Duck Creek township
 ocd-division/country:us/state:ks/county:wilson/place:fall_river,Fall River township
 ocd-division/country:us/state:ks/county:wilson/place:guilford,Guilford township
 ocd-division/country:us/state:ks/county:wilson/place:neodesha,Neodesha township
@@ -1377,6 +1505,7 @@ ocd-division/country:us/state:ks/county:woodson/place:north,North township
 ocd-division/country:us/state:ks/county:woodson/place:perry,Perry township
 ocd-division/country:us/state:ks/county:woodson/place:toronto,Toronto township
 ocd-division/country:us/state:ks/county:wyandotte,Wyandotte County
+ocd-division/country:us/state:ks/county:wyandotte/place:delaware,Delaware township
 ocd-division/country:us/state:ks/place:abbyville,Abbyville city
 ocd-division/country:us/state:ks/place:abilene,Abilene city
 ocd-division/country:us/state:ks/place:admire,Admire city
