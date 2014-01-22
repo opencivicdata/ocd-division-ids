@@ -4,4 +4,4 @@ Precinct mappings map a comprehensive list of precincts in a state to some ident
 
 2. **County identifiers**: the counties keep a list of identifiers, which the state often publishes alongside election results. Mappings of this type (links to results where possible): [KY](http://elect.ky.gov/SiteCollectionDocuments/Election%20Results/2010-2019/2012/statprctg.txt), [SC](http://www.scvotes.org/data/scsec/RP0120_PollingLocations.csv)
 
-3. **Placeholder identifiers**: we create fabricated identifiers only as a way to publish a comprehensive list of precinct identifiers per state while maintaining the format of (1) and (2). These fabricated identifiers should never be used; they are placeholders. Mappings of this type: KS, MA, NH
+3. **Placeholder identifiers**: we create fabricated identifiers only as a way to publish a comprehensive list of precinct identifiers per state while maintaining the format of (1) and (2). These fabricated identifiers should never be used; they are placeholders. Mappings of this type: KS, MA, NH, VT

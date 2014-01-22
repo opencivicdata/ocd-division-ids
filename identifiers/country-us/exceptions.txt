@@ -446,3 +446,6 @@ ocd-division/country:us/state:vt/sldl:grand-isle-chittenden,ocd-division/country
 ocd-division/country:us/state:vt/sldu:grand-isle-chittenden,ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Easy mistake to make
 ocd-division/country:us/state:vt/sldu:grand_isle,ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Wikipedia has this incorrect district listed
 ocd-division/country:us/state:vt/sldu:chittenden-grand_isle,ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Census and State Senate website disagree on ordering
+ocd-division/country:us/state:vt/place:essex/precinct:chittenden_8-2,ocd-division/country:us/state:vt/place:essex_junction,The Essex precinct of Chittenden 8-2 is the same as the Village of Essex Junction
+ocd-division/country:us/state:vt/place:springfield/precinct:windsor_3-1,ocd-division/country:us/state:vt/place:springfield,Do not believe this precinct exists because there is one polling place and no mention of precincts on clerk's website
+ocd-division/country:us/state:vt/place:springfield/precinct:windsor_3-2ocd-division/country:us/state:vt/place:springfield
