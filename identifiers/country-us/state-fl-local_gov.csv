@@ -491,3 +491,7 @@ ocd-division/country:us/state:fl/place:west_palm_beach/council_district:2,West P
 ocd-division/country:us/state:fl/place:west_palm_beach/council_district:3,West Palm Beach FL city council district 3
 ocd-division/country:us/state:fl/place:west_palm_beach/council_district:4,West Palm Beach FL city council district 4
 ocd-division/country:us/state:fl/place:west_palm_beach/council_district:5,West Palm Beach FL city council district 5
+ocd-division/country:us/state:fl/place:lakeland/council_district:northwest,Lakeland FL city council district Northwest
+ocd-division/country:us/state:fl/place:lakeland/council_district:northeast,Lakeland FL city council district Northeast
+ocd-division/country:us/state:fl/place:lakeland/council_district:southwest,Lakeland FL city council district Southwest
+ocd-division/country:us/state:fl/place:lakeland/council_district:southeast,Lakeland FL city council district Southeast
