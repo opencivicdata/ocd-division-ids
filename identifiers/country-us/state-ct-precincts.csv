@@ -258,3 +258,371 @@ ocd-division/country:us/state:ct/place:wallingford/precinct:6,Wallingford CT pre
 ocd-division/country:us/state:ct/place:wallingford/precinct:7,Wallingford CT precinct 7
 ocd-division/country:us/state:ct/place:wallingford/precinct:8,Wallingford CT precinct 8
 ocd-division/country:us/state:ct/place:wallingford/precinct:9,Wallingford CT precinct 9
+ocd-division/country:us/state:ct/place:ansonia/precinct:104-1,Ansonia 104-1 Voting District
+ocd-division/country:us/state:ct/place:ansonia/precinct:104-2,Ansonia 104-2 Voting District
+ocd-division/country:us/state:ct/place:ansonia/precinct:104-3,Ansonia 104-3 Voting District
+ocd-division/country:us/state:ct/place:ansonia/precinct:104-4,Ansonia 104-4 Voting District
+ocd-division/country:us/state:ct/place:ansonia/precinct:104-5,Ansonia 104-5 Voting District
+ocd-division/country:us/state:ct/place:ansonia/precinct:104-6,Ansonia 104-6 Voting District
+ocd-division/country:us/state:ct/place:ansonia/precinct:104-7,Ansonia 104-7 Voting District
+ocd-division/country:us/state:ct/place:ansonia/precinct:105-2,Ansonia 105-2 Voting District
+ocd-division/country:us/state:ct/place:ansonia/precinct:105-3,Ansonia 105-3 Voting District
+ocd-division/country:us/state:ct/place:avon/precinct:1,Avon 1 Voting District
+ocd-division/country:us/state:ct/place:avon/precinct:2,Avon 2 Voting District
+ocd-division/country:us/state:ct/place:avon/precinct:3,Avon 3 Voting District
+ocd-division/country:us/state:ct/place:barkhamsted/precinct:1-63,Barkhamsted 1-63 Voting District
+ocd-division/country:us/state:ct/place:barkhamsted/precinct:2-62,Barkhamsted 2-62 Voting District
+ocd-division/country:us/state:ct/place:berlin/precinct:1,Berlin 1 Voting District
+ocd-division/country:us/state:ct/place:berlin/precinct:2,Berlin 2 Voting District
+ocd-division/country:us/state:ct/place:berlin/precinct:3,Berlin 3 Voting District
+ocd-division/country:us/state:ct/place:berlin/precinct:4,Berlin 4 Voting District
+ocd-division/country:us/state:ct/place:berlin/precinct:5,Berlin 5 Voting District
+ocd-division/country:us/state:ct/place:bethel/precinct:1,Bethel 1 Voting District
+ocd-division/country:us/state:ct/place:bethel/precinct:2,Bethel 2 Voting District
+ocd-division/country:us/state:ct/place:bethel/precinct:3,Bethel 3 Voting District
+ocd-division/country:us/state:ct/place:bethel/precinct:4,Bethel 4 Voting District
+ocd-division/country:us/state:ct/place:bethel/precinct:5,Bethel 5 Voting District
+ocd-division/country:us/state:ct/place:bloomfield/precinct:1,Bloomfield 1 Voting District
+ocd-division/country:us/state:ct/place:bloomfield/precinct:2,Bloomfield 2 Voting District
+ocd-division/country:us/state:ct/place:bloomfield/precinct:3,Bloomfield 3 Voting District
+ocd-division/country:us/state:ct/place:bloomfield/precinct:4,Bloomfield 4 Voting District
+ocd-division/country:us/state:ct/place:bloomfield/precinct:4,Bloomfield 4 Voting District
+ocd-division/country:us/state:ct/place:bloomfield/precinct:6,Bloomfield 6 Voting District
+ocd-division/country:us/state:ct/place:branford/precinct:1-102,Branford 1-102 Voting District
+ocd-division/country:us/state:ct/place:branford/precinct:1-98,Branford 1-98 Voting District
+ocd-division/country:us/state:ct/place:branford/precinct:2-98,Branford 2-98 Voting District
+ocd-division/country:us/state:ct/place:branford/precinct:3-102,Branford 3-102 Voting District
+ocd-division/country:us/state:ct/place:branford/precinct:4-102,Branford 4-102 Voting District
+ocd-division/country:us/state:ct/place:branford/precinct:5-102,Branford 5-102 Voting District
+ocd-division/country:us/state:ct/place:branford/precinct:5-98,Branford 5-98 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12401,Bridgeport 12401 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12402,Bridgeport 12402 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12403,Bridgeport 12403 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12404,Bridgeport 12404 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12405,Bridgeport 12405 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12601,Bridgeport 12601 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12602,Bridgeport 12602 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12603,Bridgeport 12603 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12604,Bridgeport 12604 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12605,Bridgeport 12605 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12606,Bridgeport 12606 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12701,Bridgeport 12701 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12702,Bridgeport 12702 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12703,Bridgeport 12703 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12801,Bridgeport 12801 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12802,Bridgeport 12802 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12901,Bridgeport 12901 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12902,Bridgeport 12902 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12903,Bridgeport 12903 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:12904,Bridgeport 12904 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:13001,Bridgeport 13001 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:13002,Bridgeport 13002 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:13003,Bridgeport 13003 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:13004,Bridgeport 13004 Voting District
+ocd-division/country:us/state:ct/place:bridgeport/precinct:13005,Bridgeport 13005 Voting District
+ocd-division/country:us/state:ct/place:brookfield/precinct:1,Brookfield 1 Voting District
+ocd-division/country:us/state:ct/place:brookfield/precinct:2,Brookfield 2 Voting District
+ocd-division/country:us/state:ct/place:cheshire/precinct:1,Cheshire 1 Voting District
+ocd-division/country:us/state:ct/place:cheshire/precinct:2,Cheshire 2 Voting District
+ocd-division/country:us/state:ct/place:cheshire/precinct:3,Cheshire 3 Voting District
+ocd-division/country:us/state:ct/place:cheshire/precinct:4,Cheshire 4 Voting District
+ocd-division/country:us/state:ct/place:cheshire/precinct:5,Cheshire 5 Voting District
+ocd-division/country:us/state:ct/place:cheshire/precinct:6,Cheshire 6 Voting District
+ocd-division/country:us/state:ct/place:cheshire/precinct:7,Cheshire 7 Voting District
+ocd-division/country:us/state:ct/place:colchester/precinct:1,Colchester 1 Voting District
+ocd-division/country:us/state:ct/place:colchester/precinct:2,Colchester 2 Voting District
+ocd-division/country:us/state:ct/place:colchester/precinct:3,Colchester 3 Voting District
+ocd-division/country:us/state:ct/place:coventry/precinct:1,Coventry 1 Voting District
+ocd-division/country:us/state:ct/place:coventry/precinct:2,Coventry 2 Voting District
+ocd-division/country:us/state:ct/place:darien/precinct:1,Darien 1 Voting District
+ocd-division/country:us/state:ct/place:darien/precinct:2,Darien 2 Voting District
+ocd-division/country:us/state:ct/place:darien/precinct:3,Darien 3 Voting District
+ocd-division/country:us/state:ct/place:darien/precinct:4,Darien 4 Voting District
+ocd-division/country:us/state:ct/place:darien/precinct:5,Darien 5 Voting District
+ocd-division/country:us/state:ct/place:darien/precinct:6,Darien 6 Voting District
+ocd-division/country:us/state:ct/place:derby/precinct:104,Derby 104 Voting District
+ocd-division/country:us/state:ct/place:derby/precinct:114,Derby 114 Voting District
+ocd-division/country:us/state:ct/place:durham/precinct:2,Durham 2 Voting District
+ocd-division/country:us/state:ct/place:durham/precinct:3,Durham 3 Voting District
+ocd-division/country:us/state:ct/place:east_granby/precinct:61,East Granby 61 Voting District
+ocd-division/country:us/state:ct/place:east_granby/precinct:62,East Granby 62 Voting District
+ocd-division/country:us/state:ct/place:east_haven/precinct:1,East Haven 1 Voting District
+ocd-division/country:us/state:ct/place:east_haven/precinct:2,East Haven 2 Voting District
+ocd-division/country:us/state:ct/place:east_haven/precinct:3,East Haven 3 Voting District
+ocd-division/country:us/state:ct/place:east_haven/precinct:4,East Haven 4 Voting District
+ocd-division/country:us/state:ct/place:east_haven/precinct:5,East Haven 5 Voting District
+ocd-division/country:us/state:ct/place:east_lyme/precinct:1,East Lyme 1 Voting District
+ocd-division/country:us/state:ct/place:east_lyme/precinct:2,East Lyme 2 Voting District
+ocd-division/country:us/state:ct/place:east_lyme/precinct:3,East Lyme 3 Voting District
+ocd-division/country:us/state:ct/place:east_windsor/precinct:1,East Windsor 1 Voting District
+ocd-division/country:us/state:ct/place:east_windsor/precinct:2,East Windsor 2 Voting District
+ocd-division/country:us/state:ct/place:ellington/precinct:1,Ellington 1 Voting District
+ocd-division/country:us/state:ct/place:ellington/precinct:2,Ellington 2 Voting District
+ocd-division/country:us/state:ct/place:enfield/precinct:1a-58,Enfield 1A-58 Voting District
+ocd-division/country:us/state:ct/place:enfield/precinct:1a-59,Enfield 1A-59 Voting District
+ocd-division/country:us/state:ct/place:enfield/precinct:2a-58,Enfield 2A-58 Voting District
+ocd-division/country:us/state:ct/place:enfield/precinct:2b-58,Enfield 2B-58 Voting District
+ocd-division/country:us/state:ct/place:enfield/precinct:3a-59,Enfield 3A-59 Voting District
+ocd-division/country:us/state:ct/place:enfield/precinct:3b-59,Enfield 3B-59 Voting District
+ocd-division/country:us/state:ct/place:enfield/precinct:4a-58,Enfield 4A-58 Voting District
+ocd-division/country:us/state:ct/place:enfield/precinct:4a-59,Enfield 4A-59 Voting District
+ocd-division/country:us/state:ct/place:enfield/precinct:4b-58,Enfield 4B-58 Voting District
+ocd-division/country:us/state:ct/place:farmington/precinct:1-1,Farmington 1-1 Voting District
+ocd-division/country:us/state:ct/place:farmington/precinct:1-2,Farmington 1-2 Voting District
+ocd-division/country:us/state:ct/place:farmington/precinct:1-3,Farmington 1-3 Voting District
+ocd-division/country:us/state:ct/place:farmington/precinct:2-4,Farmington 2-4 Voting District
+ocd-division/country:us/state:ct/place:farmington/precinct:2-5,Farmington 2-5 Voting District
+ocd-division/country:us/state:ct/place:farmington/precinct:2-6,Farmington 2-6 Voting District
+ocd-division/country:us/state:ct/place:granby/precinct:1,Granby 1 Voting District
+ocd-division/country:us/state:ct/place:granby/precinct:2,Granby 2 Voting District
+ocd-division/country:us/state:ct/place:griswold/precinct:1,Griswold 1 Voting District
+ocd-division/country:us/state:ct/place:griswold/precinct:2,Griswold 2 Voting District
+ocd-division/country:us/state:ct/place:guilford/precinct:1,Guilford 1 Voting District
+ocd-division/country:us/state:ct/place:guilford/precinct:2,Guilford 2 Voting District
+ocd-division/country:us/state:ct/place:guilford/precinct:3,Guilford 3 Voting District
+ocd-division/country:us/state:ct/place:guilford/precinct:4,Guilford 4 Voting District
+ocd-division/country:us/state:ct/place:haddam/precinct:1,Haddam 1 Voting District
+ocd-division/country:us/state:ct/place:haddam/precinct:2,Haddam 2 Voting District
+ocd-division/country:us/state:ct/place:haddam/precinct:3,Haddam 3 Voting District
+ocd-division/country:us/state:ct/place:harwinton/precinct:31,Harwinton 31 Voting District
+ocd-division/country:us/state:ct/place:harwinton/precinct:8,Harwinton 8 Voting District
+ocd-division/country:us/state:ct/place:killingly/precinct:1-44,Killingly 1-44 Voting District
+ocd-division/country:us/state:ct/place:killingly/precinct:1-51,Killingly 1-51 Voting District
+ocd-division/country:us/state:ct/place:killingly/precinct:2-44,Killingly 2-44 Voting District
+ocd-division/country:us/state:ct/place:killingly/precinct:2-51,Killingly 2-51 Voting District
+ocd-division/country:us/state:ct/place:killingly/precinct:3-44,Killingly 3-44 Voting District
+ocd-division/country:us/state:ct/place:killingly/precinct:4-44,Killingly 4-44 Voting District
+ocd-division/country:us/state:ct/place:killingly/precinct:4-51,Killingly 4-51 Voting District
+ocd-division/country:us/state:ct/place:killingly/precinct:5-44,Killingly 5-44 Voting District
+ocd-division/country:us/state:ct/place:ledyard/precinct:1,Ledyard 1 Voting District
+ocd-division/country:us/state:ct/place:ledyard/precinct:2,Ledyard 2 Voting District
+ocd-division/country:us/state:ct/place:madison/precinct:1,Madison 1 Voting District
+ocd-division/country:us/state:ct/place:madison/precinct:2,Madison 2 Voting District
+ocd-division/country:us/state:ct/place:mansfield/precinct:1,Mansfield 1 Voting District
+ocd-division/country:us/state:ct/place:mansfield/precinct:2,Mansfield 2 Voting District
+ocd-division/country:us/state:ct/place:mansfield/precinct:3,Mansfield 3 Voting District
+ocd-division/country:us/state:ct/place:monroe/precinct:1,Monroe 1 Voting District
+ocd-division/country:us/state:ct/place:monroe/precinct:2,Monroe 2 Voting District
+ocd-division/country:us/state:ct/place:monroe/precinct:3,Monroe 3 Voting District
+ocd-division/country:us/state:ct/place:monroe/precinct:4,Monroe 4 Voting District
+ocd-division/country:us/state:ct/place:montville/precinct:1,Montville 1 Voting District
+ocd-division/country:us/state:ct/place:montville/precinct:2,Montville 2 Voting District
+ocd-division/country:us/state:ct/place:montville/precinct:3,Montville 3 Voting District
+ocd-division/country:us/state:ct/place:montville/precinct:4,Montville 4 Voting District
+ocd-division/country:us/state:ct/place:montville/precinct:5,Montville 5 Voting District
+ocd-division/country:us/state:ct/place:montville/precinct:6,Montville 6 Voting District
+ocd-division/country:us/state:ct/place:naugatuck/precinct:1-1,Naugatuck 1-1 Voting District
+ocd-division/country:us/state:ct/place:naugatuck/precinct:1-2,Naugatuck 1-2 Voting District
+ocd-division/country:us/state:ct/place:naugatuck/precinct:1-3,Naugatuck 1-3 Voting District
+ocd-division/country:us/state:ct/place:naugatuck/precinct:2-1,Naugatuck 2-1 Voting District
+ocd-division/country:us/state:ct/place:naugatuck/precinct:2-2,Naugatuck 2-2 Voting District
+ocd-division/country:us/state:ct/place:naugatuck/precinct:2-3,Naugatuck 2-3 Voting District
+ocd-division/country:us/state:ct/place:naugatuck/precinct:3-1,Naugatuck 3-1 Voting District
+ocd-division/country:us/state:ct/place:naugatuck/precinct:3-2,Naugatuck 3-2 Voting District
+ocd-division/country:us/state:ct/place:naugatuck/precinct:3-3,Naugatuck 3-3 Voting District
+ocd-division/country:us/state:ct/place:naugatuck/precinct:3-4,Naugatuck 3-4 Voting District
+ocd-division/country:us/state:ct/place:new_canaan/precinct:1,New Canaan 1 Voting District
+ocd-division/country:us/state:ct/place:new_canaan/precinct:2,New Canaan 2 Voting District
+ocd-division/country:us/state:ct/place:new_canaan/precinct:3,New Canaan 3 Voting District
+ocd-division/country:us/state:ct/place:new_fairfield/precinct:108,New Fairfield 108 Voting District
+ocd-division/country:us/state:ct/place:new_fairfield/precinct:138,New Fairfield 138 Voting District
+ocd-division/country:us/state:ct/place:new_hartford/precinct:1,New Hartford 1 Voting District
+ocd-division/country:us/state:ct/place:new_hartford/precinct:2,New Hartford 2 Voting District
+ocd-division/country:us/state:ct/place:new_london/precinct:1,New London 1 Voting District
+ocd-division/country:us/state:ct/place:new_london/precinct:2,New London 2 Voting District
+ocd-division/country:us/state:ct/place:new_london/precinct:3,New London 3 Voting District
+ocd-division/country:us/state:ct/place:new_london/precinct:4,New London 4 Voting District
+ocd-division/country:us/state:ct/place:new_london/precinct:5,New London 5 Voting District
+ocd-division/country:us/state:ct/place:new_london/precinct:6,New London 6 Voting District
+ocd-division/country:us/state:ct/place:new_london/precinct:7,New London 7 Voting District
+ocd-division/country:us/state:ct/place:new_milford/precinct:1,New Milford 1 Voting District
+ocd-division/country:us/state:ct/place:new_milford/precinct:2,New Milford 2 Voting District
+ocd-division/country:us/state:ct/place:new_milford/precinct:3,New Milford 3 Voting District
+ocd-division/country:us/state:ct/place:new_milford/precinct:4,New Milford 4 Voting District
+ocd-division/country:us/state:ct/place:new_milford/precinct:5,New Milford 5 Voting District
+ocd-division/country:us/state:ct/place:new_milford/precinct:6,New Milford 6 Voting District
+ocd-division/country:us/state:ct/place:new_milford/precinct:7,New Milford 7 Voting District
+ocd-division/country:us/state:ct/place:newington/precinct:1,Newington 1 Voting District
+ocd-division/country:us/state:ct/place:newington/precinct:2,Newington 2 Voting District
+ocd-division/country:us/state:ct/place:newington/precinct:3,Newington 3 Voting District
+ocd-division/country:us/state:ct/place:newington/precinct:4,Newington 4 Voting District
+ocd-division/country:us/state:ct/place:newington/precinct:5,Newington 5 Voting District
+ocd-division/country:us/state:ct/place:newington/precinct:6,Newington 6 Voting District
+ocd-division/country:us/state:ct/place:newington/precinct:7,Newington 7 Voting District
+ocd-division/country:us/state:ct/place:newington/precinct:8,Newington 8 Voting District
+ocd-division/country:us/state:ct/place:north_branford/precinct:1,North Branford 1 Voting District
+ocd-division/country:us/state:ct/place:north_branford/precinct:2,North Branford 2 Voting District
+ocd-division/country:us/state:ct/place:north_haven/precinct:1,North Haven 1 Voting District
+ocd-division/country:us/state:ct/place:north_haven/precinct:2,North Haven 2 Voting District
+ocd-division/country:us/state:ct/place:north_haven/precinct:3,North Haven 3 Voting District
+ocd-division/country:us/state:ct/place:north_haven/precinct:4,North Haven 4 Voting District
+ocd-division/country:us/state:ct/place:north_haven/precinct:5,North Haven 5 Voting District
+ocd-division/country:us/state:ct/place:norwich/precinct:1,Norwich 1 Voting District
+ocd-division/country:us/state:ct/place:norwich/precinct:10,Norwich 10 Voting District
+ocd-division/country:us/state:ct/place:norwich/precinct:2a,Norwich 2A Voting District
+ocd-division/country:us/state:ct/place:norwich/precinct:2b,Norwich 2B Voting District
+ocd-division/country:us/state:ct/place:norwich/precinct:3,Norwich 3 Voting District
+ocd-division/country:us/state:ct/place:norwich/precinct:5,Norwich 5 Voting District
+ocd-division/country:us/state:ct/place:norwich/precinct:6,Norwich 6 Voting District
+ocd-division/country:us/state:ct/place:norwich/precinct:7,Norwich 7 Voting District
+ocd-division/country:us/state:ct/place:norwich/precinct:8,Norwich 8 Voting District
+ocd-division/country:us/state:ct/place:norwich/precinct:9,Norwich 9 Voting District
+ocd-division/country:us/state:ct/place:old_saybrook/precinct:1,Old Saybrook 1 Voting District
+ocd-division/country:us/state:ct/place:old_saybrook/precinct:2,Old Saybrook 2 Voting District
+ocd-division/country:us/state:ct/place:orange/precinct:1,Orange 1 Voting District
+ocd-division/country:us/state:ct/place:orange/precinct:2,Orange 2 Voting District
+ocd-division/country:us/state:ct/place:plainfield/precinct:1-44,Plainfield 1-44 Voting District
+ocd-division/country:us/state:ct/place:plainfield/precinct:1-45,Plainfield 1-45 Voting District
+ocd-division/country:us/state:ct/place:plainfield/precinct:2,Plainfield 2 Voting District
+ocd-division/country:us/state:ct/place:plainfield/precinct:3,Plainfield 3 Voting District
+ocd-division/country:us/state:ct/place:plainfield/precinct:4,Plainfield 4 Voting District
+ocd-division/country:us/state:ct/place:plainville/precinct:1,Plainville 1 Voting District
+ocd-division/country:us/state:ct/place:plainville/precinct:2,Plainville 2 Voting District
+ocd-division/country:us/state:ct/place:plainville/precinct:3,Plainville 3 Voting District
+ocd-division/country:us/state:ct/place:plainville/precinct:4,Plainville 4 Voting District
+ocd-division/country:us/state:ct/place:plymouth/precinct:1,Plymouth 1 Voting District
+ocd-division/country:us/state:ct/place:plymouth/precinct:2,Plymouth 2 Voting District
+ocd-division/country:us/state:ct/place:prospect/precinct:89-1,Prospect 89-1 Voting District
+ocd-division/country:us/state:ct/place:prospect/precinct:89-2,Prospect 89-2 Voting District
+ocd-division/country:us/state:ct/place:putnam/precinct:1,Putnam 1 Voting District
+ocd-division/country:us/state:ct/place:putnam/precinct:2,Putnam 2 Voting District
+ocd-division/country:us/state:ct/place:redding/precinct:1,Redding 1 Voting District
+ocd-division/country:us/state:ct/place:redding/precinct:2,Redding 2 Voting District
+ocd-division/country:us/state:ct/place:ridgefield/precinct:1,Ridgefield 1 Voting District
+ocd-division/country:us/state:ct/place:ridgefield/precinct:2,Ridgefield 2 Voting District
+ocd-division/country:us/state:ct/place:ridgefield/precinct:3,Ridgefield 3 Voting District
+ocd-division/country:us/state:ct/place:rocky_hill/precinct:1,Rocky Hill 1 Voting District
+ocd-division/country:us/state:ct/place:rocky_hill/precinct:2,Rocky Hill 2 Voting District
+ocd-division/country:us/state:ct/place:rocky_hill/precinct:3,Rocky Hill 3 Voting District
+ocd-division/country:us/state:ct/place:seymour/precinct:1,Seymour 1 Voting District
+ocd-division/country:us/state:ct/place:seymour/precinct:2,Seymour 2 Voting District
+ocd-division/country:us/state:ct/place:seymour/precinct:3,Seymour 3 Voting District
+ocd-division/country:us/state:ct/place:shelton/precinct:1,Shelton 1 Voting District
+ocd-division/country:us/state:ct/place:shelton/precinct:2,Shelton 2 Voting District
+ocd-division/country:us/state:ct/place:shelton/precinct:3,Shelton 3 Voting District
+ocd-division/country:us/state:ct/place:shelton/precinct:4,Shelton 4 Voting District
+ocd-division/country:us/state:ct/place:shelton/precinct:5,Shelton 5 Voting District
+ocd-division/country:us/state:ct/place:shelton/precinct:6,Shelton 6 Voting District
+ocd-division/country:us/state:ct/place:simsbury/precinct:1,Simsbury 1 Voting District
+ocd-division/country:us/state:ct/place:simsbury/precinct:2,Simsbury 2 Voting District
+ocd-division/country:us/state:ct/place:simsbury/precinct:3,Simsbury 3 Voting District
+ocd-division/country:us/state:ct/place:simsbury/precinct:4,Simsbury 4 Voting District
+ocd-division/country:us/state:ct/place:south_windsor/precinct:1,South Windsor 1 Voting District
+ocd-division/country:us/state:ct/place:south_windsor/precinct:2,South Windsor 2 Voting District
+ocd-division/country:us/state:ct/place:south_windsor/precinct:3,South Windsor 3 Voting District
+ocd-division/country:us/state:ct/place:south_windsor/precinct:4,South Windsor 4 Voting District
+ocd-division/country:us/state:ct/place:south_windsor/precinct:5,South Windsor 5 Voting District
+ocd-division/country:us/state:ct/place:southington/precinct:1,Southington 1 Voting District
+ocd-division/country:us/state:ct/place:southington/precinct:10,Southington 10 Voting District
+ocd-division/country:us/state:ct/place:southington/precinct:11,Southington 11 Voting District
+ocd-division/country:us/state:ct/place:southington/precinct:12,Southington 12 Voting District
+ocd-division/country:us/state:ct/place:southington/precinct:2,Southington 2 Voting District
+ocd-division/country:us/state:ct/place:southington/precinct:3,Southington 3 Voting District
+ocd-division/country:us/state:ct/place:southington/precinct:4,Southington 4 Voting District
+ocd-division/country:us/state:ct/place:southington/precinct:5,Southington 5 Voting District
+ocd-division/country:us/state:ct/place:southington/precinct:6,Southington 6 Voting District
+ocd-division/country:us/state:ct/place:southington/precinct:7,Southington 7 Voting District
+ocd-division/country:us/state:ct/place:southington/precinct:8,Southington 8 Voting District
+ocd-division/country:us/state:ct/place:southington/precinct:9,Southington 9 Voting District
+ocd-division/country:us/state:ct/place:stafford/precinct:1,Stafford 1 Voting District
+ocd-division/country:us/state:ct/place:stafford/precinct:2,Stafford 2 Voting District
+ocd-division/country:us/state:ct/place:stafford/precinct:3,Stafford 3 Voting District
+ocd-division/country:us/state:ct/place:thompson/precinct:1,Thompson 1 Voting District
+ocd-division/country:us/state:ct/place:thompson/precinct:2,Thompson 2 Voting District
+ocd-division/country:us/state:ct/place:thompson/precinct:3,Thompson 3 Voting District
+ocd-division/country:us/state:ct/place:thompson/precinct:4,Thompson 4 Voting District
+ocd-division/country:us/state:ct/place:tolland/precinct:1,Tolland 1 Voting District
+ocd-division/country:us/state:ct/place:tolland/precinct:2,Tolland 2 Voting District
+ocd-division/country:us/state:ct/place:torrington/precinct:1,Torrington 1 Voting District
+ocd-division/country:us/state:ct/place:torrington/precinct:2,Torrington 2 Voting District
+ocd-division/country:us/state:ct/place:torrington/precinct:3,Torrington 3 Voting District
+ocd-division/country:us/state:ct/place:torrington/precinct:4,Torrington 4 Voting District
+ocd-division/country:us/state:ct/place:torrington/precinct:5,Torrington 5 Voting District
+ocd-division/country:us/state:ct/place:torrington/precinct:6,Torrington 6 Voting District
+ocd-division/country:us/state:ct/place:torrington/precinct:7,Torrington 7 Voting District
+ocd-division/country:us/state:ct/place:torrington/precinct:8,Torrington 8 Voting District
+ocd-division/country:us/state:ct/place:vernon/precinct:1,Vernon 1 Voting District
+ocd-division/country:us/state:ct/place:vernon/precinct:2,Vernon 2 Voting District
+ocd-division/country:us/state:ct/place:vernon/precinct:3,Vernon 3 Voting District
+ocd-division/country:us/state:ct/place:vernon/precinct:4,Vernon 4 Voting District
+ocd-division/country:us/state:ct/place:vernon/precinct:5,Vernon 5 Voting District
+ocd-division/country:us/state:ct/place:vernon/precinct:6,Vernon 6 Voting District
+ocd-division/country:us/state:ct/place:waterford/precinct:1,Waterford 1 Voting District
+ocd-division/country:us/state:ct/place:waterford/precinct:2,Waterford 2 Voting District
+ocd-division/country:us/state:ct/place:waterford/precinct:3,Waterford 3 Voting District
+ocd-division/country:us/state:ct/place:waterford/precinct:4,Waterford 4 Voting District
+ocd-division/country:us/state:ct/place:watertown/precinct:68-01,Watertown 68-01 Voting District
+ocd-division/country:us/state:ct/place:watertown/precinct:68-02,Watertown 68-02 Voting District
+ocd-division/country:us/state:ct/place:watertown/precinct:68-03,Watertown 68-03 Voting District
+ocd-division/country:us/state:ct/place:watertown/precinct:68-04,Watertown 68-04 Voting District
+ocd-division/country:us/state:ct/place:west_haven/precinct:1,West Haven 1 Voting District
+ocd-division/country:us/state:ct/place:west_haven/precinct:10,West Haven 10 Voting District
+ocd-division/country:us/state:ct/place:west_haven/precinct:11,West Haven 11 Voting District
+ocd-division/country:us/state:ct/place:west_haven/precinct:12,West Haven 12 Voting District
+ocd-division/country:us/state:ct/place:west_haven/precinct:2,West Haven 2 Voting District
+ocd-division/country:us/state:ct/place:west_haven/precinct:3,West Haven 3 Voting District
+ocd-division/country:us/state:ct/place:west_haven/precinct:4,West Haven 4 Voting District
+ocd-division/country:us/state:ct/place:west_haven/precinct:5,West Haven 5 Voting District
+ocd-division/country:us/state:ct/place:west_haven/precinct:6,West Haven 6 Voting District
+ocd-division/country:us/state:ct/place:west_haven/precinct:7,West Haven 7 Voting District
+ocd-division/country:us/state:ct/place:west_haven/precinct:8,West Haven 8 Voting District
+ocd-division/country:us/state:ct/place:west_haven/precinct:9,West Haven 9 Voting District
+ocd-division/country:us/state:ct/place:westbrook/precinct:1,Westbrook 1 Voting District
+ocd-division/country:us/state:ct/place:westbrook/precinct:2,Westbrook 2 Voting District
+ocd-division/country:us/state:ct/place:weston/precinct:1,Weston 1 Voting District
+ocd-division/country:us/state:ct/place:weston/precinct:2,Weston 2 Voting District
+ocd-division/country:us/state:ct/place:wethersfield/precinct:1,Wethersfield 1 Voting District
+ocd-division/country:us/state:ct/place:wethersfield/precinct:10,Wethersfield 10 Voting District
+ocd-division/country:us/state:ct/place:wethersfield/precinct:2,Wethersfield 2 Voting District
+ocd-division/country:us/state:ct/place:wethersfield/precinct:3,Wethersfield 3 Voting District
+ocd-division/country:us/state:ct/place:wethersfield/precinct:4,Wethersfield 4 Voting District
+ocd-division/country:us/state:ct/place:wethersfield/precinct:5,Wethersfield 5 Voting District
+ocd-division/country:us/state:ct/place:wethersfield/precinct:6,Wethersfield 6 Voting District
+ocd-division/country:us/state:ct/place:wethersfield/precinct:7,Wethersfield 7 Voting District
+ocd-division/country:us/state:ct/place:wethersfield/precinct:8,Wethersfield 8 Voting District
+ocd-division/country:us/state:ct/place:wethersfield/precinct:9,Wethersfield 9 Voting District
+ocd-division/country:us/state:ct/place:wilton/precinct:1,Wilton 1 Voting District
+ocd-division/country:us/state:ct/place:wilton/precinct:2,Wilton 2 Voting District
+ocd-division/country:us/state:ct/place:wilton/precinct:3,Wilton 3 Voting District
+ocd-division/country:us/state:ct/place:windham/precinct:1,Windham 1 Voting District
+ocd-division/country:us/state:ct/place:windham/precinct:2,Windham 2 Voting District
+ocd-division/country:us/state:ct/place:windham/precinct:3,Windham 3 Voting District
+ocd-division/country:us/state:ct/place:windham/precinct:4,Windham 4 Voting District
+ocd-division/country:us/state:ct/place:windham/precinct:5,Windham 5 Voting District
+ocd-division/country:us/state:ct/place:windsor/precinct:1,Windsor 1 Voting District
+ocd-division/country:us/state:ct/place:windsor/precinct:2,Windsor 2 Voting District
+ocd-division/country:us/state:ct/place:windsor/precinct:3,Windsor 3 Voting District
+ocd-division/country:us/state:ct/place:windsor/precinct:4,Windsor 4 Voting District
+ocd-division/country:us/state:ct/place:windsor/precinct:5,Windsor 5 Voting District
+ocd-division/country:us/state:ct/place:windsor/precinct:6,Windsor 6 Voting District
+ocd-division/country:us/state:ct/place:windsor/precinct:7,Windsor 7 Voting District
+ocd-division/country:us/state:ct/place:windsor_locks/precinct:1,Windsor Locks 1 Voting District
+ocd-division/country:us/state:ct/place:windsor_locks/precinct:2,Windsor Locks 2 Voting District
+ocd-division/country:us/state:ct/place:wolcott/precinct:1,Wolcott 1 Voting District
+ocd-division/country:us/state:ct/place:wolcott/precinct:2,Wolcott 2 Voting District
+ocd-division/country:us/state:ct/place:wolcott/precinct:3,Wolcott 3 Voting District
+ocd-division/country:us/state:ct/place:woodbury/precinct:1,Woodbury 1 Voting District
+ocd-division/country:us/state:ct/place:woodbury/precinct:2,Woodbury 2 Voting District
+ocd-division/country:us/state:ct/place:groton_town/precinct:1,Groton Town 1 Voting District
+ocd-division/country:us/state:ct/place:groton_town/precinct:2,Groton Town 2 Voting District
+ocd-division/country:us/state:ct/place:groton_town/precinct:3,Groton Town 3 Voting District
+ocd-division/country:us/state:ct/place:groton_town/precinct:4,Groton Town 4 Voting District
+ocd-division/country:us/state:ct/place:groton_town/precinct:5,Groton Town 5 Voting District
+ocd-division/country:us/state:ct/place:groton_town/precinct:6,Groton Town 6 Voting District
+ocd-division/country:us/state:ct/place:groton_town/precinct:7,Groton Town 7 Voting District
+ocd-division/country:us/state:ct/place:litchfield_town/precinct:1,Litchfield Town 1 Voting District
+ocd-division/country:us/state:ct/place:litchfield_town/precinct:2,Litchfield Town 2 Voting District
+ocd-division/country:us/state:ct/place:litchfield_town/precinct:3,Litchfield Town 3 Voting District
+ocd-division/country:us/state:ct/place:litchfield_town/precinct:4,Litchfield Town 4 Voting District
+ocd-division/country:us/state:ct/place:newtown_town/precinct:1,Newtown 1 Voting District
+ocd-division/country:us/state:ct/place:newtown_town/precinct:2,Newtown 2 Voting District
+ocd-division/country:us/state:ct/place:newtown_town/precinct:3-1,Newtown 3-1 Voting District
+ocd-division/country:us/state:ct/place:newtown_town/precinct:3-2,Newtown 3-2 Voting District
+ocd-division/country:us/state:ct/place:stonington_town/precinct:1,Stonington 1 Voting District
+ocd-division/country:us/state:ct/place:stonington_town/precinct:2,Stonington 2 Voting District
+ocd-division/country:us/state:ct/place:stonington_town/precinct:3,Stonington 3 Voting District
+ocd-division/country:us/state:ct/place:stonington_town/precinct:4,Stonington 4 Voting District
+ocd-division/country:us/state:ct/place:stonington_town/precinct:5,Stonington 5 Voting District
+ocd-division/country:us/state:ct/place:new_haven/ward:11/precinct:1,New Haven CT precinct 11-1
+ocd-division/country:us/state:ct/place:new_haven/ward:11/precinct:2,New Haven CT precinct 11-2
+ocd-division/country:us/state:ct/place:new_haven/ward:11/precinct:3,New Haven CT precinct 11-3
