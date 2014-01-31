@@ -13,7 +13,11 @@
 * `ed`: electoral district
 * `cd`: census division
 * `csd`: census subdivision
-* `arrondissement`: borough in French jurisdiction
+* `arrondissement`: municipal borough
+* `borough`: municipal borough
+* `district`: municipal district
+* `division`: municipal division
+* `ward`: municipal ward
 
 ### Type IDs
 
