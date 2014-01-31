@@ -29,8 +29,8 @@ Dir.entries(directory).each do |basename|
         elsif response.status != 200
           puts "#{response.status} #{type_id} #{url}"
         end
-      rescue Faraday::Error::ConnectionFailed, Faraday::Error::TimeoutError, Errno::ETIMEDOUT
-        # pass
+      rescue Faraday::Error::ConnectionFailed, Faraday::Error::TimeoutError, Errno::ETIMEDOUT => e
+        puts "ERR #{type_id} #{url.ljust(70)} #{e}"
       end
     end
 
