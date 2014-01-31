@@ -9,7 +9,7 @@ require File.expand_path(File.join("..", "classes.rb"), __FILE__)
 require "json"
 
 class MunicipalSubdivision < Runner
-  @csv_filename = "ca_municipal_subdivision.csv"
+  @csv_filename = "ca_municipal_subdivisions.csv"
   @translatable = false
 
   def names
