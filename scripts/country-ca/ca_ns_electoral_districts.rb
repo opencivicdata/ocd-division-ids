@@ -10,10 +10,8 @@ class NS < Runner
   @translatable = false # shapefile is unilingual
 
   def names
-    # Also available as a list.
-    # http://electionsnovascotia.ca/geoginfo.asp
     ShapefileParser.new(
-      "http://electionsnovascotia.ca/geography/downloads/NSElectoralDistrict_2012_fordistribution.zip",
+      "http://electionsnovascotia.ca/sites/default/files/NS_EDBoundaries2012.zip",
       "province:ns/ed:", {
         :identifier => "DIST_NO",
         :name => "DISTRICT",
