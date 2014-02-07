@@ -9,8 +9,8 @@ import argparse
 import collections
 
 
-VALID_ID = re.compile('^ocd-division/country:\w\w(/\w+:[\w\d._~-]+)*$', re.U)
-
+VALID_ID = re.compile('^ocd-division/country:\w\w(/\w+:[\w\d\._~-]+)*$', re.U)
+UPPERCASE_ID = re.compile('^.*[A-Z].*$', re.U)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='verify published CSV files')
@@ -41,6 +41,9 @@ if __name__ == '__main__':
             ids[id_].append(filename)
 
             if not VALID_ID.match(id_):
+                invalid_ids.add(id_)
+
+            if UPPERCASE_ID.match(id_):
                 invalid_ids.add(id_)
 
             # check parents
@@ -78,20 +81,21 @@ if __name__ == '__main__':
     # do geoid validation too (TODO: add a flag for this)
     seen_in_geoid = set()
     all_geo_rows = list()
-    for filename in glob.glob('mappings/us-census-geoids/*.csv'):
-        for id_, geoid in csv.reader(open(filename)):
-            seen_in_geoid.add(id_)
-            if id_ not in ids:
-                print('unexpected geoid for', id_)
-            all_geo_rows.append((id_, geoid))
+    if country == 'us':
+        for filename in glob.glob('mappings/us-census-geoids/*.csv'):
+            for id_, geoid in csv.reader(open(filename)):
+                seen_in_geoid.add(id_)
+                if id_ not in ids:
+                    print('unexpected geoid for', id_)
+                all_geo_rows.append((id_, geoid))
 
-    #unknown_ids = set(ids.keys()) - seen_in_geoid
-    #if not unknown_ids:
-    #    print('no missing geoids!')
-    #else:
-    #    for id in sorted(unknown_ids):
-    #        print('missing geoid for id', id)
-    with open('mappings/us-census-geoids.csv', 'w') as out:
-        out = csv.writer(out)
-        for row in sorted(all_geo_rows):
-            out.writerow(row)
+        #unknown_ids = set(ids.keys()) - seen_in_geoid
+        #if not unknown_ids:
+        #    print('no missing geoids!')
+        #else:
+        #    for id in sorted(unknown_ids):
+        #        print('missing geoid for id', id)
+        with open('mappings/us-census-geoids.csv', 'w') as out:
+            out = csv.writer(out)
+            for row in sorted(all_geo_rows):
+                out.writerow(row)
