@@ -2,7 +2,6 @@
 # coding: utf-8
 
 require File.expand_path(File.join("..", "utils.rb"), __FILE__)
-require File.expand_path(File.join("..", "classes.rb"), __FILE__)
 
 # Scrapes census subdivision codes and names from statcan.gc.ca
 
@@ -13,11 +12,6 @@ class CensusSubdivisions < Runner
   def initialize
     super
 
-    add_command({
-      :name        => "corporations",
-      :description => "Prints a CSV of identifiers and municipal corporation names",
-      :directory   => "mappings/country-ca-corporations",
-    })
     add_command({
       :name        => "types",
       :description => "Prints a CSV of identifiers and canonical census subdivision types",
@@ -65,12 +59,6 @@ class CensusSubdivisions < Runner
         row["Geographic code"],
         row["Geographic type"])
     end
-  end
-
-  def corporations
-    # @todo copy from top of definitions task in represent-canada-data
-    # add exceptions from when running the task
-    # update task to use the new mapping
   end
 
 private

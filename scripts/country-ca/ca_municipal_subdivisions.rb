@@ -19,6 +19,11 @@ class MunicipalSubdivision < Runner
     super
 
     add_command({
+      :name        => "corporations",
+      :description => "Prints a CSV of identifiers and municipal corporation names",
+      :directory   => "mappings/country-ca-corporations",
+    })
+    add_command({
       :name        => "posts",
       :description => "Prints a CSV of identifiers and numbers of posts",
       :directory   => "mappings/country-ca-posts",
@@ -65,6 +70,35 @@ class MunicipalSubdivision < Runner
           identifier(boundary),
           boundary["name"])
       }
+    end
+  end
+
+  def corporations
+    names = {}
+    %w(ca_census_divisions ca_census_subdivisions).each do |filename|
+      OpenCivicDataIdentifiers.read("country-ca/#{filename}").each do |identifier,name|
+        names[identifier] = name
+      end
+    end
+
+    type_names = {}
+    { "ca_census_divisions" => 4,
+      "ca_census_subdivisions" => 5,
+    }.each do |filename,table|
+      type_names[filename] = {}
+      Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-#{table}-eng.cfm")).xpath("//table/tbody/tr/th[1]/abbr").each do |abbr|
+        type_names[filename][abbr.text] = abbr['title'].sub(/ \/.+\z/, '')
+      end
+    end
+
+    %w(ca_census_divisions ca_census_subdivisions).each do |filename|
+      OpenCivicDataMappings.read("country-ca-types/#{filename}").each do |identifier,mapping|
+        type_id = identifier[/[^:]+\z/]
+        if %w(C CV CY MD MU RGM SM T V).include?(mapping)
+          name = "#{type_names[filename][mapping]} #{type_id[0, 2] == "24" ? "de" : "of"} #{names[identifier]}"
+          output(filename == "ca_census_divisions" ? "cd:" : "csd:", type_id.to_i, name)
+        end
+      end
     end
   end
 
