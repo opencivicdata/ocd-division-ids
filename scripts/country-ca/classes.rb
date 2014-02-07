@@ -1,5 +1,7 @@
 # coding: utf-8
 
+require "lycopodium"
+
 class OpenCivicDataFile < Array
   class << self
     attr_reader :directory
@@ -34,12 +36,17 @@ class DivisionName < String
     attr_reader :divisions, :identifier_mappings, :name_mappings, :type_mappings, :type_patterns
 
     # Returns the OCD identifier for the name.
+    # @note Use if scraped names may be significantly different from official names.
     def identifier_from_name(name)
       identifier_mappings[name]
     end
   end
 
   # Removes the census subdivision type from the division name.
+  #
+  # @example
+  #   CensusDivisionName.new("County of York").remove_type("on") # "York"
+  #   CensusSubdivisionName.new("City of Toronto").remove_type("on") # "Toronto"
   def remove_type(province_or_territory)
     sub(pattern(province_or_territory), "")
   end
@@ -138,9 +145,11 @@ class CensusDivisionName < DivisionName
     "yt" => {},
   }
 
-  @type_patterns = @type_mappings.each_with_object({}) do |(identifier,value),patterns|
-    pattern = value.keys * "|"
-    patterns[identifier] = /\A(#{pattern}) (?:d'|de |des |of )?| (#{pattern})\z/
+  @type_patterns = {}.tap do |patterns|
+    @type_mappings.each do |province_or_territory_type_id,hash|
+      pattern = hash.keys * "|"
+      patterns[province_or_territory_type_id] = /\A(#{pattern}) (?:d'|de |des |of )?| (#{pattern})\z/
+    end
   end
 end
 
@@ -304,10 +313,13 @@ class CensusSubdivisionName < DivisionName
     },
   }
 
-  @type_patterns = @type_mappings.each_with_object({}) do |(identifier,value),patterns|
-    pattern = value.keys * "|" # Don't remove "County" from end of string.
-    patterns[identifier] = /\A(#{pattern}) (?:d'|de |des |of )?| (#{pattern.sub("|County|", "|")})\z/
+  @type_patterns = {}.tap do |patterns|
+    @type_mappings.each do |province_or_territory_type_id,hash|
+      pattern = hash.keys * "|" # Don't remove "County" from end of string.
+      patterns[province_or_territory_type_id] = /\A(#{pattern}) (?:d'|de |des |of )?| (#{pattern.sub("|County|", "|")})\z/
+    end
   end
+
 
   def normalize
     alternate_or_self.
@@ -322,13 +334,17 @@ class CensusSubdivisionName < DivisionName
   end
 
   def fingerprint
-    tr(
-      "ÀÁÂÃÄÅàáâãäåĀāĂăĄąÇçĆćĈĉĊċČčÐðĎďĐđÈÉÊËèéêëĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħÌÍÎÏìíîïĨĩĪīĬĭĮįİıĴĵĶķĸĹĺĻļĽľĿŀŁłÑñŃńŅņŇňŉŊŋÒÓÔÕÖØòóôõöøŌōŎŏŐőŔŕŖŗŘřŚśŜŝŞşŠšſŢţŤťŦŧÙÚÛÜùúûüŨũŪūŬŭŮůŰűŲųŴŵÝýÿŶŷŸŹźŻżŽž",
-      "aaaaaaaaaaaaaaaaaaccccccccccddddddeeeeeeeeeeeeeeeeeegggggggghhhhiiiiiiiiiiiiiiiiiijjkkkllllllllllnnnnnnnnnnnoooooooooooooooooorrrrrrsssssssssttttttuuuuuuuuuuuuuuuuuuuuwwyyyyyyzzzzzz"
-    ).                                                  # Remove accents
-    upcase.                                             # Normalize case
-    split(%r{[ &,/-]}).reject(&:empty?).sort.join("~"). # Re-order words, N.B.: "Ville-Marie" and "Marieville"
-    gsub(/\p{Punct}|\p{Space}/, "")                     # Remove punctuation and spaces
+    if self == "Saint-Esprit" # N.B.: "Saint-Esprit" and "Esprit-Saint"
+      "SAINT~ESPRIT"
+    else
+      tr(
+        "ÀÁÂÃÄÅàáâãäåĀāĂăĄąÇçĆćĈĉĊċČčÐðĎďĐđÈÉÊËèéêëĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħÌÍÎÏìíîïĨĩĪīĬĭĮįİıĴĵĶķĸĹĺĻļĽľĿŀŁłÑñŃńŅņŇňŉŊŋÒÓÔÕÖØòóôõöøŌōŎŏŐőŔŕŖŗŘřŚśŜŝŞşŠšſŢţŤťŦŧÙÚÛÜùúûüŨũŪūŬŭŮůŰűŲųŴŵÝýÿŶŷŸŹźŻżŽž",
+        "aaaaaaaaaaaaaaaaaaccccccccccddddddeeeeeeeeeeeeeeeeeegggggggghhhhiiiiiiiiiiiiiiiiiijjkkkllllllllllnnnnnnnnnnnoooooooooooooooooorrrrrrsssssssssttttttuuuuuuuuuuuuuuuuuuuuwwyyyyyyzzzzzz"
+      ).                                                  # Remove accents
+      upcase.                                             # Normalize case
+      split(%r{[ &,/-]}).reject(&:empty?).sort.join("~"). # Re-order words, N.B.: "Ville-Marie" and "Marieville"
+      gsub(/\p{Punct}|\p{Space}/, "")                     # Remove punctuation and spaces
+    end
   end
 
   def type(province_or_territory)
@@ -372,5 +388,57 @@ class CensusSubdivisionIdentifier < String
   # Returns the census subdivision's type.
   def census_subdivision_type
     self.class.census_subdivision_types.fetch("ocd-division/country:ca/csd:#{census_subdivision_type_id}").sub(/\ATV\z/, "T").sub(/\AC\z/, "CY")
+  end
+end
+
+class CensusSubdivisionNameMatcher
+  # census_subdivision_map.call(["on", "Toronto"]) # "on:TORONTO"
+  @census_subdivision_map = lambda do |(value,name)|
+    value = CensusSubdivisionName.identifier_from_name(name) || value
+    name = CensusSubdivisionName.new(name).normalize
+    if value[/\Aocd-division/] # `value` is an OCD identifier
+      identifier = CensusSubdivisionIdentifier.new(value)
+      [identifier.province_or_territory_type_id, name.fingerprint]
+    else # `value` is a province of territory type ID
+      return nil if CensusDivisionName.new(name).has_type?(value) # skip census divisions
+      [value, name.remove_type(value).fingerprint]
+    end * ":"
+  end
+
+  @census_subdivisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions")
+  @census_subdivisions_hash = Lycopodium.new(@census_subdivisions, @census_subdivision_map).reject_collisions.value_to_fingerprint.invert
+
+  def self.fingerprint(province_or_territory_type_id, name)
+    @census_subdivision_map.call([province_or_territory_type_id, name])
+  end
+
+  def self.identifier_and_name(fingerprint)
+    @census_subdivisions_hash[fingerprint]
+  end
+end
+
+class CensusSubdivisionNameTypeMatcher
+  # census_subdivision_with_type_map.call(["on", "City of Toronto"]) # "on:CY:TORONTO"
+  @census_subdivision_with_type_map = lambda do |(value,name)|
+    value = CensusSubdivisionName.identifier_from_name(name) || value
+    name = CensusSubdivisionName.new(name).normalize
+    if value[/\Aocd-division/] # `value` is an OCD identifier
+      identifier = CensusSubdivisionIdentifier.new(value)
+      [identifier.province_or_territory_type_id, identifier.census_subdivision_type, name.fingerprint]
+    else # `value` is a province of territory type ID
+      return nil if CensusDivisionName.new(name).has_type?(value) # skip census divisions
+      [value, name.type(value).to_s, name.remove_type(value).fingerprint]
+    end * ":"
+  end
+
+  @census_subdivisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions")
+  @census_subdivisions_with_types_hash = Lycopodium.new(@census_subdivisions, @census_subdivision_with_type_map).reject_collisions.value_to_fingerprint.invert
+
+  def self.fingerprint(province_or_territory_type_id, name_with_type)
+    @census_subdivision_with_type_map.call([province_or_territory_type_id, name_with_type])
+  end
+
+  def self.identifier_and_name(fingerprint)
+    @census_subdivisions_with_types_hash[fingerprint]
   end
 end

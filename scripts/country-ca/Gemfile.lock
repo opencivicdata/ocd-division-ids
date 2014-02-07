@@ -3,8 +3,11 @@ GEM
   specs:
     dbf (2.0.3)
       fastercsv (~> 1.5.4)
+    faraday (0.8.9)
+      multipart-post (~> 1.2.0)
     fastercsv (1.5.5)
     lycopodium (0.0.2)
+    multipart-post (1.2.0)
     nokogiri (1.5.9)
     rubyzip (0.9.9)
     unicode_utils (1.4.0)
@@ -14,6 +17,7 @@ PLATFORMS
 
 DEPENDENCIES
   dbf (~> 2.0.3)
+  faraday
   lycopodium (~> 0.0.2)
   nokogiri (~> 1.5.9)
   rubyzip (~> 0.9.9)

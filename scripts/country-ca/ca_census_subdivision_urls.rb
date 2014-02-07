@@ -2,53 +2,10 @@
 # coding: utf-8
 
 require File.expand_path(File.join("..", "utils.rb"), __FILE__)
-
-require "faraday"
-require "lycopodium"
-require "nokogiri"
-require "unicode_utils/upcase"
-
 require File.expand_path(File.join("..", "classes.rb"), __FILE__)
 
-province_or_territory_map = lambda do |(_,name)|
-  # Effective October 20, 2008, the name "Yukon Territory" became "Yukon". The
-  # name "Nunavut" was never "Nunavut Territory". The English name is "Quebec".
-  # @see http://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/notice-avis/sgc-cgt-01-eng.htm
-  name.sub(" Territory", "").tr("é", "e")
-end
-
-provinces_and_territories = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories")
-provinces_and_territories_hash = Lycopodium.new(provinces_and_territories, province_or_territory_map).value_to_fingerprint.invert
-
-# `value` is either a OCD identifier or a province or territory type ID. `name`
-# is a either an official or a scraped census subdivision name.
-census_subdivision_map = lambda do |(value,name)|
-  value = CensusSubdivisionName.identifier_from_name(name) || value
-  name = CensusSubdivisionName.new(name).normalize
-  if value[/\Aocd-division/]
-    identifier = CensusSubdivisionIdentifier.new(value)
-    [identifier.province_or_territory_type_id, name.fingerprint]
-  else
-    return nil if CensusDivisionName.new(name).has_type?(value)
-    [value, name.remove_type(value).fingerprint]
-  end * ":"
-end
-
-census_subdivision_with_type_map = lambda do |(value,name)|
-  value = CensusSubdivisionName.identifier_from_name(name) || value
-  name = CensusSubdivisionName.new(name).normalize
-  if value[/\Aocd-division/]
-    identifier = CensusSubdivisionIdentifier.new(value)
-    [identifier.province_or_territory_type_id, identifier.census_subdivision_type, name.fingerprint]
-  else
-    return nil if CensusDivisionName.new(name).has_type?(value)
-    [value, name.type(value).to_s, name.remove_type(value).fingerprint]
-  end * ":"
-end
-
-census_subdivisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions")
-census_subdivisions_hash = Lycopodium.new(census_subdivisions, census_subdivision_map).reject_collisions.value_to_fingerprint.invert
-census_subdivisions_with_types_hash = Lycopodium.new(census_subdivisions, census_subdivision_with_type_map).reject_collisions.value_to_fingerprint.invert
+require "faraday"
+require "nokogiri"
 
 MUNICIPAL_ASSOCIATIONS = [
   "Alberta Association of Municipal Districts and Counties",
@@ -211,8 +168,7 @@ URL_UNREACHABLE = {
   5915802 => 'http://www.tsawwassenfirstnation.com',
 }
 
-failures = []
-unmatched = []
+class Redirection < StandardError; end
 
 def clean_url(url, other = nil)
   parts = URI.parse(url)
@@ -230,11 +186,23 @@ def clean_url(url, other = nil)
   parts.to_s
 end
 
-class Redirection < StandardError; end
+# province_or_territory_map.call([nil, "Yukon Territory"]) # "Yukon"
+province_or_territory_map = lambda do |(_,name)|
+  # Effective October 20, 2008, the name "Yukon Territory" became "Yukon". The
+  # name "Nunavut" was never "Nunavut Territory". The English name is "Quebec".
+  # @see http://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/notice-avis/sgc-cgt-01-eng.htm
+  name.sub(" Territory", "").tr("é", "e")
+end
+
+provinces_and_territories = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories")
+provinces_and_territories_hash = Lycopodium.new(provinces_and_territories, province_or_territory_map).value_to_fingerprint.invert
+
+failures = []
+unmatched = []
 
 Nokogiri::HTML(open("http://www.fcm.ca/home/about-us/membership/our-members.htm")).css("tbody tr").each do |tr|
   fingerprint = province_or_territory_map.call([nil, tr.at_css("td:eq(2)").text])
-  province_or_territory = provinces_and_territories_hash.fetch(fingerprint).first[/[^:]+\z/]
+  province_or_territory_type_id = provinces_and_territories_hash.fetch(fingerprint).first[/[^:]+\z/]
 
   Nokogiri::HTML(open(tr.at_css("a")[:href])).css("ul.membership li").each do |li|
     a = li.at_css("a")
@@ -243,13 +211,14 @@ Nokogiri::HTML(open("http://www.fcm.ca/home/about-us/membership/our-members.htm"
     value = li.text.strip
     next if MUNICIPAL_ASSOCIATIONS.include?(value)
 
-    fingerprint = census_subdivision_map.call([province_or_territory, value])
-    census_subdivision = census_subdivisions_hash[fingerprint]
-
+    fingerprint = CensusSubdivisionNameMatcher.fingerprint(province_or_territory_type_id, value)
+    census_subdivision = CensusSubdivisionNameMatcher.identifier_and_name(fingerprint)
     unless census_subdivision
-      fingerprint = census_subdivision_with_type_map.call([province_or_territory, value])
-      census_subdivision = census_subdivisions_with_types_hash[fingerprint]
+      fingerprint = CensusSubdivisionNameTypeMatcher.fingerprint(province_or_territory_type_id, value)
+      census_subdivision = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
     end
+
+    # If we have a match, do a lot of work to determine the best URL.
     if census_subdivision
       type_id = census_subdivision.first[/[^:]+\z/].to_i
       if URL_OVERRIDE.key?(type_id)
