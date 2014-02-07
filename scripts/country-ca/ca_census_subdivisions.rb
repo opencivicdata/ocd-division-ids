@@ -23,11 +23,6 @@ class CensusSubdivisions < Runner
       :description => "Prints a CSV of identifiers and canonical census subdivision types",
       :directory   => "mappings/country-ca-types",
     })
-    add_command({
-      :name        => "posts",
-      :description => "Prints a CSV of identifiers and numbers of posts",
-      :directory   => "mappings/country-ca-posts",
-    })
   end
 
   def names(language = "Eng")
@@ -70,41 +65,6 @@ class CensusSubdivisions < Runner
         row["Geographic code"],
         row["Geographic type"])
     end
-  end
-
-  def posts
-    # http://www.novascotia.ca/snsmr/municipal/government/elections.asp
-    # The spreadsheet and roo gems open the Excel file too slowly.
-    Tempfile.open("data.xls") do |f|
-      f.binmode
-      open("http://www.novascotia.ca/snsmr/pdf/mun-municipal-election-results-2008-2012.xls") do |data|
-        f.write(data.read)
-      end
-      sheet = `xls2csv #{f.path}`.split("\f")[1]
-
-      type = "RGM"
-      CSV.parse(sheet) do |row|
-        # @todo Some are census divisions.
-        case row[0]
-        when "Amherst"
-          type = "T"
-        when "Annapolis"
-          type = "MD"
-        end
-
-        if row[0] && row[1] && row[0].strip != 'Voter Turnout'
-          fingerprint = ["ns", type, CensusSubdivisionName.new(row[0]).normalize.fingerprint] * ":"
-          identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
-          unless identifier # @todo remove
-            puts fingerprint
-          end
-
-          # @todo uncomment
-          # output("csd:", identifier[/[^:]+\z/].to_i, row[1])
-        end
-      end
-    end
-
   end
 
   def corporations

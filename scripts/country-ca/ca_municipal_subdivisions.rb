@@ -19,6 +19,11 @@ class MunicipalSubdivision < Runner
     super
 
     add_command({
+      :name        => "posts",
+      :description => "Prints a CSV of identifiers and numbers of posts",
+      :directory   => "mappings/country-ca-posts",
+    })
+    add_command({
       :name        => "subdivisions",
       :description => "Prints a CSV of identifiers and booleans",
       :directory   => "mappings/country-ca-subdivisions",
@@ -60,6 +65,47 @@ class MunicipalSubdivision < Runner
           identifier(boundary),
           boundary["name"])
       }
+    end
+  end
+
+  def posts
+    # http://www.novascotia.ca/snsmr/municipal/government/elections.asp
+    # The spreadsheet and roo gems open the Excel file too slowly.
+    Tempfile.open("data.xls") do |f|
+      f.binmode
+      open("http://www.novascotia.ca/snsmr/pdf/mun-municipal-election-results-2008-2012.xls") do |data|
+        f.write(data.read)
+      end
+      sheet = `xls2csv #{f.path}`.split("\f")[1]
+
+      type = "RGM"
+      CSV.parse(sheet) do |row|
+        case row[0]
+        when "Amherst" # top of list
+          type = "T"
+        when "Annapolis" # top of list
+          type = "MD"
+        end
+
+        if row[0] && row[1] && row[0].strip != 'Voter Turnout'
+          if type != "MD"
+            fingerprint = CensusSubdivisionNameMatcher.fingerprint("ns", row[0])
+            identifier, _ = CensusSubdivisionNameMatcher.identifier_and_name(fingerprint)
+          end
+          unless identifier
+            fingerprint = ["ns", type, CensusSubdivisionName.new(row[0]).normalize.fingerprint] * ":"
+            identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
+          end
+          unless identifier
+            fingerprint = CensusDivisionNameMatcher.fingerprint("ns", row[0])
+            identifier, _ = CensusDivisionNameMatcher.identifier_and_name(fingerprint)
+          end
+
+          type_id = identifier[/[^:]+\z/]
+          fragment = type_id.size == 4 ? "cd:" : "csd:"
+          output(fragment, type_id.to_i, row[1])
+        end
+      end
     end
   end
 
