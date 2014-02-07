@@ -74,6 +74,12 @@ class MunicipalSubdivision < Runner
   end
 
   def corporations
+    exceptions = {
+      "ocd-division/country:ca/csd:4819006" => "County of Grande Prairie No. 1",
+      "ocd-division/country:ca/csd:3528018" => "Corporation of Haldimand County",
+      "ocd-division/country:ca/csd:4811052" => "Strathcona County",
+    }
+
     names = {}
     %w(ca_census_divisions ca_census_subdivisions).each do |filename|
       OpenCivicDataIdentifiers.read("country-ca/#{filename}").each do |identifier,name|
@@ -94,9 +100,17 @@ class MunicipalSubdivision < Runner
     %w(ca_census_divisions ca_census_subdivisions).each do |filename|
       OpenCivicDataMappings.read("country-ca-types/#{filename}").each do |identifier,mapping|
         type_id = identifier[/[^:]+\z/]
-        if %w(C CV CY MD MU RGM SM T TP V VL).include?(mapping)
-          name = "#{type_names[filename][mapping]} #{type_id[0, 2] == "24" ? "de" : "of"} #{names[identifier]}"
-          output(filename == "ca_census_divisions" ? "cd:" : "csd:", type_id.to_i, name)
+        if exceptions.key?(identifier)
+          output("csd:", type_id.to_i, exceptions[identifier])
+        else
+          case mapping
+          when "RGM"
+            name = "#{names[identifier]} Regional Municipality"
+            output(filename == "ca_census_divisions" ? "cd:" : "csd:", type_id.to_i, name)
+          when "C", "CV", "CY", "MD", "MU", "SM", "T", "TP", "V", "VL"
+            name = "#{type_names[filename][mapping]} #{type_id[0, 2] == "24" ? "de" : "of"} #{names[identifier]}"
+            output(filename == "ca_census_divisions" ? "cd:" : "csd:", type_id.to_i, name)
+          end
         end
       end
     end
