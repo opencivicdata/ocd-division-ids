@@ -79,6 +79,7 @@ class MunicipalSubdivision < Runner
       "Sherbrooke",
     ]
 
+    subdivisions = Hash.new("N")
     Nokogiri::HTML(open("http://www.electionsquebec.qc.ca/francais/municipal/carte-electorale/liste-des-municipalites-divisees-en-districts-electoraux.php?index=1")).xpath('//div[@class="indente zone-contenu"]/div[@class="boite-grise"]//text()').each do |node|
       text = node.text.strip
       unless text.empty? || text == ", V"
@@ -92,11 +93,15 @@ class MunicipalSubdivision < Runner
         identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
 
         if identifier
-          output("csd:", identifier[/[^:]+\z/].to_i, "Y")
+          subdivisions[identifier] = "Y"
         elsif text != "L'Ange-Gardien, M" # two census subdivisions match
           raise fingerprint
         end
       end
+    end
+
+    OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,_|
+      output("csd:", identifier[/[^:]+\z/].to_i, subdivisions[identifier])
     end
   end
 
