@@ -7,10 +7,21 @@ require File.expand_path(File.join("..", "classes.rb"), __FILE__)
 # Scrapes municipal subdivision names from represent.opennorth.ca
 
 require "json"
+require "nokogiri"
 
 class MunicipalSubdivision < Runner
   @csv_filename = "ca_municipal_subdivisions.csv"
   @translatable = false
+
+  def initialize
+    super
+
+    add_command({
+      :name        => "subdivisions",
+      :description => "Prints a CSV of identifiers and booleans",
+      :directory   => "mappings/country-ca-subdivisions",
+    })
+  end
 
   def names
     ignore = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories").to_h.values << "Canada"
@@ -47,6 +58,45 @@ class MunicipalSubdivision < Runner
           identifier(boundary),
           boundary["name"])
       }
+    end
+  end
+
+  def subdivisions
+    type_map = {
+      "CT" => "CT",
+      "M"  => "MÉ",
+      "P"  => "PE",
+      "V"  => "V",
+      "VL" => "VL",
+    }
+
+    boroughs = [
+      "Lévis",
+      "Longueuil",
+      "Montréal",
+      "Québec",
+      "Saguenay",
+      "Sherbrooke",
+    ]
+
+    Nokogiri::HTML(open("http://www.electionsquebec.qc.ca/francais/municipal/carte-electorale/liste-des-municipalites-divisees-en-districts-electoraux.php?index=1")).xpath('//div[@class="indente zone-contenu"]/div[@class="boite-grise"]//text()').each do |node|
+      text = node.text.strip
+      unless text.empty? || text == ", V"
+        if boroughs.include?(text)
+          name, type = text, "V"
+        else
+          name, type = text.match(/\A(.+), (.+)\z/)[1..2]
+        end
+
+        fingerprint = ["qc", type_map.fetch(type), CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
+        identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
+
+        if identifier
+          output("csd:", identifier[/[^:]+\z/].to_i, "Y")
+        elsif text != "L'Ange-Gardien, M" # two census subdivisions match
+          raise fingerprint
+        end
+      end
     end
   end
 

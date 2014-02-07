@@ -30,6 +30,7 @@
 * `country-ca-fr`: French names
 * `country-ca-numeric`: Numeric local identifiers
 * `country-ca-sgc`: Standard Geographical Classification (SGC) codes
+* `country-ca-subdivisions`: Whether the division has children
 * `country-ca-types`: Census subdivision types
 * `country-ca-urls`: Official website URLs
 
