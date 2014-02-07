@@ -7,6 +7,7 @@ require File.expand_path(File.join("..", "classes.rb"), __FILE__)
 # Scrapes municipal subdivision names from represent.opennorth.ca
 
 require "json"
+require "tempfile"
 require "nokogiri"
 
 class MunicipalSubdivision < Runner
@@ -80,6 +81,53 @@ class MunicipalSubdivision < Runner
     ]
 
     subdivisions = Hash.new("N")
+
+    # http://www.novascotia.ca/snsmr/municipal/government/elections.asp
+    # The spreadsheet and roo gems open the Excel file too slowly.
+    Tempfile.open("data.xls") do |f|
+      f.binmode
+      open("http://www.novascotia.ca/snsmr/pdf/mun-municipal-election-results-2008-2012.xls") do |data|
+        f.write(data.read)
+      end
+      sheet = `xls2csv #{f.path}`.split("\f")[4]
+
+      type = nil
+      name = nil
+      CSV.parse(sheet) do |row|
+        case row[0]
+        when "Regional Municipalities"
+          type = "RGM"
+        when "Town"
+          type = "T"
+        when "Municipalities"
+          type = "MD"
+        end
+
+        if row[0] && row[1] && row[0].strip != 'Municipality'
+          next if row[0] == name
+          name = row[0]
+
+          value = row[0].sub(' (County)', '')
+          identifier = nil
+
+          if !row[0][/ \(County\)\z/]
+            fingerprint = CensusSubdivisionNameMatcher.fingerprint("ns", value)
+            identifier, _ = CensusSubdivisionNameMatcher.identifier_and_name(fingerprint)
+            unless identifier
+              fingerprint = ["ns", type, CensusSubdivisionName.new(value).normalize.fingerprint] * ":"
+              identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
+            end
+          end
+          unless identifier
+            fingerprint = CensusDivisionNameMatcher.fingerprint("ns", value)
+            identifier, _ = CensusDivisionNameMatcher.identifier_and_name(fingerprint)
+          end
+
+          subdivisions[identifier] = "Y"
+        end
+      end
+    end
+
     Nokogiri::HTML(open("http://www.electionsquebec.qc.ca/francais/municipal/carte-electorale/liste-des-municipalites-divisees-en-districts-electoraux.php?index=1")).xpath('//div[@class="indente zone-contenu"]/div[@class="boite-grise"]//text()').each do |node|
       text = node.text.strip
       unless text.empty? || text == ", V"
@@ -100,10 +148,18 @@ class MunicipalSubdivision < Runner
       end
     end
 
+    # Sent an email to confirm with Directeur général des élections du Québec.
+    %w(2403005 2438010 2446080).each do |identifier|
+      subdivisions[identifier] = "Y"
+    end
+
     OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,_|
       type_id = identifier[/[^:]+\z/]
-      if type_id[0, 2] == "24"
+      case type_id[0, 2]
+      when "12", "24"
         output("csd:", type_id.to_i, subdivisions[identifier])
+      when "59"
+        output("csd:", type_id.to_i, "N")
       end
     end
   end

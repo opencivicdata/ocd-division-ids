@@ -27,8 +27,10 @@
 
 * `country-ca-abbr`: English Census or local abbreviations
 * `country-ca-abbr-fr`: French Census or local abbreviations
+* `country-ca-corporations`: Municipal corporation names
 * `country-ca-fr`: French names
 * `country-ca-numeric`: Numeric local identifiers
+* `country-ca-posts`: Number of posts in the municipal corporation
 * `country-ca-sgc`: Standard Geographical Classification (SGC) codes
 * `country-ca-subdivisions`: Whether the division has children
 * `country-ca-types`: Census subdivision types

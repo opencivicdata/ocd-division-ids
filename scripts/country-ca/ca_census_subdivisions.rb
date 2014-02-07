@@ -2,6 +2,7 @@
 # coding: utf-8
 
 require File.expand_path(File.join("..", "utils.rb"), __FILE__)
+require File.expand_path(File.join("..", "classes.rb"), __FILE__)
 
 # Scrapes census subdivision codes and names from statcan.gc.ca
 
@@ -13,9 +14,19 @@ class CensusSubdivisions < Runner
     super
 
     add_command({
+      :name        => "corporations",
+      :description => "Prints a CSV of identifiers and municipal corporation names",
+      :directory   => "mappings/country-ca-corporations",
+    })
+    add_command({
       :name        => "types",
       :description => "Prints a CSV of identifiers and canonical census subdivision types",
       :directory   => "mappings/country-ca-types",
+    })
+    add_command({
+      :name        => "posts",
+      :description => "Prints a CSV of identifiers and numbers of posts",
+      :directory   => "mappings/country-ca-posts",
     })
   end
 
@@ -59,6 +70,47 @@ class CensusSubdivisions < Runner
         row["Geographic code"],
         row["Geographic type"])
     end
+  end
+
+  def posts
+    # http://www.novascotia.ca/snsmr/municipal/government/elections.asp
+    # The spreadsheet and roo gems open the Excel file too slowly.
+    Tempfile.open("data.xls") do |f|
+      f.binmode
+      open("http://www.novascotia.ca/snsmr/pdf/mun-municipal-election-results-2008-2012.xls") do |data|
+        f.write(data.read)
+      end
+      sheet = `xls2csv #{f.path}`.split("\f")[1]
+
+      type = "RGM"
+      CSV.parse(sheet) do |row|
+        # @todo Some are census divisions.
+        case row[0]
+        when "Amherst"
+          type = "T"
+        when "Annapolis"
+          type = "MD"
+        end
+
+        if row[0] && row[1] && row[0].strip != 'Voter Turnout'
+          fingerprint = ["ns", type, CensusSubdivisionName.new(row[0]).normalize.fingerprint] * ":"
+          identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
+          unless identifier # @todo remove
+            puts fingerprint
+          end
+
+          # @todo uncomment
+          # output("csd:", identifier[/[^:]+\z/].to_i, row[1])
+        end
+      end
+    end
+
+  end
+
+  def corporations
+    # @todo copy from top of definitions task in represent-canada-data
+    # add exceptions from when running the task
+    # update task to use the new mapping
   end
 
 private

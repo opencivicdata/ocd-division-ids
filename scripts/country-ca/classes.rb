@@ -63,6 +63,31 @@ class DivisionName < String
     mapping.fetch(matches.captures.compact.first) if matches
   end
 
+  def normalize
+    alternate_or_self.
+    squeeze(" ").                                          # Remove extra spaces, e.g. "Municipalité de  Baie-James"
+    sub(/(?<=No\.)(?=\S)/, " ").                           # Add a space after "No.", e.g. "Rural Municipality of Maple Creek No.111"
+    sub(/(?<=No\. )0/, "").                                # Remove leading zero, e.g. "Rural Municipality of Coalfields No. 04"
+    sub(/\ACounty of (.+?)( No\. \d+)?\z/, '\1 County\2'). # Re-order words, e.g. "County of Barrhead No. 11"
+    sub(/ \((?:AB|MB|NB|NL|ON)\)\z/, "").                  # Remove province, e.g. "Cochrane (AB)"
+    sub(/ 100 /, " One Hundred ").                         # Replace infix number, e.g. "District of 100 Mile House"
+    gsub(/[ -](?:and|de|et)[ -]/, " ").                    # Remove linking words
+    sub(/\bSt(e)?\b\.?/, 'Saint\1')                        # Expand "St." and "Ste."
+  end
+
+  # @note This method would previously reorder words; however, word order
+  # disambiguates "Saint-Esprit" and "Esprit-Saint". Separators were kept to
+  # disambiguate "Ville-Marie" and "Marieville".
+  def fingerprint
+    tr(
+      "ÀÁÂÃÄÅàáâãäåĀāĂăĄąÇçĆćĈĉĊċČčÐðĎďĐđÈÉÊËèéêëĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħÌÍÎÏìíîïĨĩĪīĬĭĮįİıĴĵĶķĸĹĺĻļĽľĿŀŁłÑñŃńŅņŇňŉŊŋÒÓÔÕÖØòóôõöøŌōŎŏŐőŔŕŖŗŘřŚśŜŝŞşŠšſŢţŤťŦŧÙÚÛÜùúûüŨũŪūŬŭŮůŰűŲųŴŵÝýÿŶŷŸŹźŻżŽž",
+      "aaaaaaaaaaaaaaaaaaccccccccccddddddeeeeeeeeeeeeeeeeeegggggggghhhhiiiiiiiiiiiiiiiiiijjkkkllllllllllnnnnnnnnnnnoooooooooooooooooorrrrrrsssssssssttttttuuuuuuuuuuuuuuuuuuuuwwyyyyyyzzzzzz"
+    ).                                             # Remove accents
+    upcase.                                        # Normalize case
+    split(%r{[ &,/-]}).reject(&:empty?).join("~"). # Normalize separators
+    gsub(/\p{Punct}|\p{Space}/, "")                # Remove punctuation and spaces
+  end
+
 private
 
   # Returns the regular expression for capturing a census subdivision type in a
@@ -114,6 +139,10 @@ private
 end
 
 class CensusDivisionName < DivisionName
+  @identifier_mappings = {}
+
+  @name_mappings = {}
+
   # @see http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-4-eng.cfm
   @type_mappings = {
     "ab" => {},
@@ -168,6 +197,7 @@ class CensusSubdivisionName < DivisionName
   }
 
   @name_mappings = {
+    "Region of Queens Municipality" => "Queens", # NS
     # StatCan has alternate names for the following:
     "Clear Hills County" => "Clear Hills", # AB
     "County of Newell"   => "Newell County No. 4", # AB
@@ -320,38 +350,41 @@ class CensusSubdivisionName < DivisionName
     end
   end
 
-
-  def normalize
-    alternate_or_self.
-    squeeze(" ").                                          # Remove extra spaces, e.g. "Municipalité de  Baie-James"
-    sub(/(?<=No\.)(?=\S)/, " ").                           # Add a space after "No.", e.g. "Rural Municipality of Maple Creek No.111"
-    sub(/(?<=No\. )0/, "").                                # Remove leading zero, e.g. "Rural Municipality of Coalfields No. 04"
-    sub(/\ACounty of (.+?)( No\. \d+)?\z/, '\1 County\2'). # Re-order words, e.g. "County of Barrhead No. 11"
-    sub(/ \((?:AB|MB|NB|NL|ON)\)\z/, "").                  # Remove province, e.g. "Cochrane (AB)"
-    sub(/ 100 /, " One Hundred ").                         # Replace infix number, e.g. "District of 100 Mile House"
-    gsub(/[ -](?:and|de|et)[ -]/, " ").                    # Remove linking words
-    sub(/\bSt(e)?\b\.?/, 'Saint\1')                        # Expand "St." and "Ste."
-  end
-
-  def fingerprint
-    if self == "Saint-Esprit" # N.B.: "Saint-Esprit" and "Esprit-Saint"
-      "SAINT~ESPRIT"
-    else
-      tr(
-        "ÀÁÂÃÄÅàáâãäåĀāĂăĄąÇçĆćĈĉĊċČčÐðĎďĐđÈÉÊËèéêëĒēĔĕĖėĘęĚěĜĝĞğĠġĢģĤĥĦħÌÍÎÏìíîïĨĩĪīĬĭĮįİıĴĵĶķĸĹĺĻļĽľĿŀŁłÑñŃńŅņŇňŉŊŋÒÓÔÕÖØòóôõöøŌōŎŏŐőŔŕŖŗŘřŚśŜŝŞşŠšſŢţŤťŦŧÙÚÛÜùúûüŨũŪūŬŭŮůŰűŲųŴŵÝýÿŶŷŸŹźŻżŽž",
-        "aaaaaaaaaaaaaaaaaaccccccccccddddddeeeeeeeeeeeeeeeeeegggggggghhhhiiiiiiiiiiiiiiiiiijjkkkllllllllllnnnnnnnnnnnoooooooooooooooooorrrrrrsssssssssttttttuuuuuuuuuuuuuuuuuuuuwwyyyyyyzzzzzz"
-      ).                                                  # Remove accents
-      upcase.                                             # Normalize case
-      split(%r{[ &,/-]}).reject(&:empty?).sort.join("~"). # Re-order words, N.B.: "Ville-Marie" and "Marieville"
-      gsub(/\p{Punct}|\p{Space}/, "")                     # Remove punctuation and spaces
-    end
-  end
-
   def type(province_or_territory)
     super || begin
       mapping = type_mappings.fetch(province_or_territory)
       mapping[mapping.keys.include?("County") && self[/ (County)\z/, 1]]
     end
+  end
+end
+
+class CensusDivisionIdentifier < String
+  @census_division_types = OpenCivicDataMappings.read("country-ca-types/ca_census_divisions").to_h
+  @province_and_territory_sgc_codes = OpenCivicDataMappings.read("country-ca-sgc/ca_provinces_and_territories").abbreviate!.to_h.invert
+
+  class << self
+    attr_reader :census_division_types, :province_and_territory_sgc_codes
+  end
+
+  # Returns the province or territory's type ID (also its postal abbreviation).
+  def province_or_territory_type_id
+    self.class.province_and_territory_sgc_codes.fetch(province_or_territory_sgc_code)
+  end
+
+  # Returns the province or territory SGC code, e.g. "24", which is the first
+  # two digits of the census division SGC code.
+  def province_or_territory_sgc_code
+    self[/[^:]+\z/][0,2]
+  end
+
+  # Returns the census division type ID (also its SGC code).
+  def census_division_type_id
+    self[/[^:]+\z/][0,4]
+  end
+
+  # Returns the census division's type.
+  def census_division_type
+    self.class.census_division_types.fetch("ocd-division/country:ca/csd:#{census_division_type_id}")
   end
 end
 
@@ -388,6 +421,30 @@ class CensusSubdivisionIdentifier < String
   # Returns the census subdivision's type.
   def census_subdivision_type
     self.class.census_subdivision_types.fetch("ocd-division/country:ca/csd:#{census_subdivision_type_id}").sub(/\ATV\z/, "T").sub(/\AC\z/, "CY")
+  end
+end
+
+class CensusDivisionNameMatcher
+  # census_division_map.call(["on", "York"]) # "on:YORK"
+  @census_division_map = lambda do |(value,name)|
+    value = CensusDivisionName.identifier_from_name(name) || value
+    name = CensusDivisionName.new(name).normalize
+    if value[/\Aocd-division/] # `value` is an OCD identifier
+      [CensusDivisionIdentifier.new(value).province_or_territory_type_id, name.fingerprint]
+    else # `value` is a province of territory type ID
+      [value, name.remove_type(value).fingerprint]
+    end * ":"
+  end
+
+  @census_divisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions")
+  @census_divisions_hash = Lycopodium.new(@census_divisions, @census_division_map).reject_collisions.value_to_fingerprint.invert
+
+  def self.fingerprint(province_or_territory_type_id, name)
+    @census_division_map.call([province_or_territory_type_id, name])
+  end
+
+  def self.identifier_and_name(fingerprint)
+    @census_divisions_hash[fingerprint]
   end
 end
 
