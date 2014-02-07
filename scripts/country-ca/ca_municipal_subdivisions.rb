@@ -94,7 +94,7 @@ class MunicipalSubdivision < Runner
     %w(ca_census_divisions ca_census_subdivisions).each do |filename|
       OpenCivicDataMappings.read("country-ca-types/#{filename}").each do |identifier,mapping|
         type_id = identifier[/[^:]+\z/]
-        if %w(C CV CY MD MU RGM SM T TP V).include?(mapping)
+        if %w(C CV CY MD MU RGM SM T TP V VL).include?(mapping)
           name = "#{type_names[filename][mapping]} #{type_id[0, 2] == "24" ? "de" : "of"} #{names[identifier]}"
           output(filename == "ca_census_divisions" ? "cd:" : "csd:", type_id.to_i, name)
         end
