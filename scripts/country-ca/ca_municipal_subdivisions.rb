@@ -114,10 +114,10 @@ class MunicipalSubdivision < Runner
           if !row[0][/ \(County\)\z/]
             fingerprint = CensusSubdivisionNameMatcher.fingerprint("ns", value)
             identifier, _ = CensusSubdivisionNameMatcher.identifier_and_name(fingerprint)
-            unless identifier
-              fingerprint = ["ns", type, CensusSubdivisionName.new(value).normalize.fingerprint] * ":"
-              identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
-            end
+          end
+          unless identifier
+            fingerprint = ["ns", type, CensusSubdivisionName.new(value).normalize.fingerprint] * ":"
+            identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
           end
           unless identifier
             fingerprint = CensusDivisionNameMatcher.fingerprint("ns", value)
