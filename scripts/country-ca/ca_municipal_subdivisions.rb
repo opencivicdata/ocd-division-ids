@@ -262,6 +262,7 @@ class MunicipalSubdivision < Runner
       4811049
       4811056
       4811062
+      4812002
       4819012
     )
 
@@ -284,11 +285,11 @@ class MunicipalSubdivision < Runner
         output("csd:", type_id.to_i, subdivisions[identifier])
       when "48" # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
         value = case types[identifier]
-        when "CY"
+        when "CY", "SM"
           alberta_cities_without_subdivisions.include?(type_id) ? "N": "?"
         when "MD"
           "Y"
-        when "ID", "IRI", "S-É", "SA", "SM", "SV", "T", "VL"
+        when "ID", "IRI", "S-É", "SA", "SV", "T", "VL"
           "N"
         else
           raise "Unrecognized census subdivision type: #{types[identifier]}"
