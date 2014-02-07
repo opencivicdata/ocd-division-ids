@@ -5,6 +5,7 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 require File.expand_path(File.join("..", "classes.rb"), __FILE__)
 
 # Scrapes municipal subdivision names from represent.opennorth.ca
+# Municipalities may correspond to census divisions or census subdivisions.
 
 require "json"
 require "tempfile"
@@ -150,7 +151,7 @@ class MunicipalSubdivision < Runner
 
     # Sent an email to confirm with Directeur général des élections du Québec.
     %w(2403005 2438010 2446080).each do |identifier|
-      subdivisions[identifier] = "Y"
+      subdivisions["ocd-division/country:ca/csd:#{identifier}"] = "Y"
     end
 
     OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,_|
