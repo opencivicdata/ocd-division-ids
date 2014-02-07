@@ -243,8 +243,9 @@ class MunicipalSubdivision < Runner
       end
     end
 
-    # Sent an email to confirm with Directeur général des élections du Québec.
-    %w(2403005 2438010 2446080).each do |identifier|
+    # Gaspé, Cowansville and likely others maintained the "quartier" system that
+    # preceded the "district" system. (Mireille Loignon <Mloignon@dgeq.qc.ca>)
+    %w(2403005 2446080).each do |identifier|
       subdivisions["ocd-division/country:ca/csd:#{identifier}"] = "Y"
     end
 
