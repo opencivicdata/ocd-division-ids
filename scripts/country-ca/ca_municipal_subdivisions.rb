@@ -248,6 +248,11 @@ class MunicipalSubdivision < Runner
       subdivisions["ocd-division/country:ca/csd:#{identifier}"] = "Y"
     end
 
+    types = {}
+    OpenCivicDataMappings.read("country-ca-types/ca_census_subdivisions").each do |identifier,mapping|
+      types[identifier] = mapping
+    end
+
     OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").each do |identifier,_|
       type_id = identifier[/[^:]+\z/]
       if type_id[0, 2] == "12"
@@ -260,6 +265,18 @@ class MunicipalSubdivision < Runner
       case type_id[0, 2]
       when "12", "24"
         output("csd:", type_id.to_i, subdivisions[identifier])
+      when "48" # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
+        value = case types[identifier]
+        when "CY"
+          "?"
+        when "MD"
+          "Y"
+        when "ID", "IRI", "S-É", "SA", "SM", "SV", "T", "VL"
+          "N"
+        else
+          raise "Unrecognized census subdivision type: #{types[identifier]}"
+        end
+        output("csd:", type_id.to_i, value)
       when "59"
         output("csd:", type_id.to_i, "N")
       end
