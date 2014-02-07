@@ -37,6 +37,7 @@ $DIR/ca_census_subdivisions.rb         types > $DIR/../../mappings/country-ca-ty
 
 $DIR/ca_provinces_and_territories.rb   abbreviations > $DIR/../../mappings/country-ca-abbr/ca_provinces_and_territories.csv
 $DIR/ca_provinces_and_territories.rb   abbreviations-fr > $DIR/../../mappings/country-ca-abbr-fr/ca_provinces_and_territories.csv
+$DIR/ca_municipal_subdivisions.rb      corporations > $DIR/../../mappings/country-ca-corporations/ca_municipal_subdivisions.csv
 $DIR/ca_provinces_and_territories.rb   sgc-codes > $DIR/../../mappings/country-ca-sgc/ca_provinces_and_territories.csv
 $DIR/ca_qc_montreal_arrondissements.rb numeric > $DIR/../../mappings/country-ca-numeric/ca_qc_montreal_arrondissements.csv
 $DIR/ca_municipal_subdivisions.rb      posts > $DIR/../../mappings/country-ca-posts/ca_municipal_subdivisions.csv
