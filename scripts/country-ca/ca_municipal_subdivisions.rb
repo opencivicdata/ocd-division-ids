@@ -248,6 +248,23 @@ class MunicipalSubdivision < Runner
       subdivisions["ocd-division/country:ca/csd:#{identifier}"] = "Y"
     end
 
+    # These cities may opt to adopt wards in the future.
+    alberta_cities_without_subdivisions = %w(
+      4801006
+      4802012
+      4802034
+      4806021
+      4808011
+      4808031
+      4810011
+      4811002
+      4811016
+      4811049
+      4811056
+      4811062
+      4819012
+    )
+
     types = {}
     OpenCivicDataMappings.read("country-ca-types/ca_census_subdivisions").each do |identifier,mapping|
       types[identifier] = mapping
@@ -268,7 +285,7 @@ class MunicipalSubdivision < Runner
       when "48" # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
         value = case types[identifier]
         when "CY"
-          "?"
+          alberta_cities_without_subdivisions.include?(type_id) ? "N": "?"
         when "MD"
           "Y"
         when "ID", "IRI", "S-É", "SA", "SM", "SV", "T", "VL"
