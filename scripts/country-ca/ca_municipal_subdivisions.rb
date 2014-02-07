@@ -101,7 +101,10 @@ class MunicipalSubdivision < Runner
     end
 
     OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,_|
-      output("csd:", identifier[/[^:]+\z/].to_i, subdivisions[identifier])
+      type_id = identifier[/[^:]+\z/]
+      if type_id[0, 2] == "24"
+        output("csd:", type_id.to_i, subdivisions[identifier])
+      end
     end
   end
 
