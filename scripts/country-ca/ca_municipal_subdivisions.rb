@@ -243,9 +243,22 @@ class MunicipalSubdivision < Runner
       end
     end
 
-    # Gaspé, Cowansville and likely others maintained the "quartier" system that
-    # preceded the "district" system. (Mireille Loignon <Mloignon@dgeq.qc.ca>)
-    %w(2403005 2446080).each do |identifier|
+    # Some Québec municipalities are divided into "quartiers" instead of
+    # "districts". (Mireille Loignon <Mloignon@dgeq.qc.ca>)
+    [ '2402015', # Grande-Rivière
+      '2403005', # Gaspé
+      '2411040', # Trois-Pistole
+      '2413095', # Pohénégamook
+      '2434120', # Lac-Sergent
+      '2446080', # Cowansville
+      '2453050', # Saint-Joseph-de-Sorel
+      '2467025', # Delson
+      '2469055', # Huntingdon
+      '2487090', # La Sarre
+      '2483065', # Maniwaki
+      '2489040', # Senneterre
+      '2493005', # Desbiens
+    ].each do |identifier|
       subdivisions["ocd-division/country:ca/csd:#{identifier}"] = "Y"
     end
 
