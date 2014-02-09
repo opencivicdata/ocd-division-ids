@@ -76,8 +76,14 @@ class MunicipalSubdivision < Runner
   def corporations
     exceptions = {
       "ocd-division/country:ca/csd:4819006" => "County of Grande Prairie No. 1",
+      "ocd-division/country:ca/csd:3519036" => "City of Markham",  # became a city since 2011
       "ocd-division/country:ca/csd:3528018" => "Corporation of Haldimand County",
+      # SM: Specialized municipality
       "ocd-division/country:ca/csd:4811052" => "Strathcona County",
+      "ocd-division/country:ca/csd:4815007" => "Municipality of Crowsnest Pass",
+      "ocd-division/country:ca/csd:4815033" => "Municipality of Jasper",
+      "ocd-division/country:ca/csd:4816037" => "Regional Municipality of Wood Buffalo",
+      "ocd-division/country:ca/csd:4817095" => "Mackenzie County",
     }
 
     names = {}
@@ -107,7 +113,7 @@ class MunicipalSubdivision < Runner
           when "RGM"
             name = "#{names[identifier]} Regional Municipality"
             output(filename == "ca_census_divisions" ? "cd:" : "csd:", type_id.to_i, name)
-          when "C", "CV", "CY", "MD", "MU", "SM", "T", "TP", "V", "VL"
+          when "C", "CV", "CY", "MD", "MU", "T", "TP", "V", "VL"
             name = "#{type_names[filename][mapping]} #{type_id[0, 2] == "24" ? "de" : "of"} #{names[identifier]}"
             output(filename == "ca_census_divisions" ? "cd:" : "csd:", type_id.to_i, name)
           end
