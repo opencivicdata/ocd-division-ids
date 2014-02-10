@@ -304,29 +304,33 @@ class MunicipalSubdivision < Runner
 
     OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,_|
       type_id = identifier[/[^:]+\z/]
-      case type_id[0, 2]
-      when "12", "24"
-        output("csd:", type_id.to_i, subdivisions[identifier])
-      # @see http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/M36-1.pdf
-      when "47"
-        if types[identifier] == "RM"
+      if %w(IRI NO SNO).include?(types[identifier])
+        output("csd:", type_id.to_i, "N")
+      else
+        case type_id[0, 2]
+        when "12", "24"
+          output("csd:", type_id.to_i, subdivisions[identifier])
+        # @see http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/M36-1.pdf
+        when "47"
+          if types[identifier] == "RM"
+            output("csd:", type_id.to_i, "N")
+          end
+        # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
+        when "48"
+          value = case types[identifier]
+          when "CY", "SM"
+            alberta_cities_without_subdivisions.include?(type_id) ? "N": "?"
+          when "MD"
+            "Y"
+          when "ID", "IRI", "S-É", "SA", "SV", "T", "VL"
+            "N"
+          else
+            raise "Unrecognized census subdivision type: #{types[identifier]}"
+          end
+          output("csd:", type_id.to_i, value)
+        when "59"
           output("csd:", type_id.to_i, "N")
         end
-      # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
-      when "48"
-        value = case types[identifier]
-        when "CY", "SM"
-          alberta_cities_without_subdivisions.include?(type_id) ? "N": "?"
-        when "MD"
-          "Y"
-        when "ID", "IRI", "S-É", "SA", "SV", "T", "VL"
-          "N"
-        else
-          raise "Unrecognized census subdivision type: #{types[identifier]}"
-        end
-        output("csd:", type_id.to_i, value)
-      when "59"
-        output("csd:", type_id.to_i, "N")
       end
     end
   end
