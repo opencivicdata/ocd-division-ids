@@ -163,6 +163,10 @@ class MunicipalSubdivision < Runner
     end
   end
 
+  # ON: Asked ontario.municipal.board@ontario.ca for list of municipalities with wards (2013-02-10).
+  # MB: "Contact your local municipal office to find out whether a ward by-law is in place in your municipality."
+  # @see http://web5.gov.mb.ca/mfas/elections_faq.aspx#voters_q4
+  # @see http://web2.gov.mb.ca/laws/statutes/ccsm/m225e.php#87
   def subdivisions
     type_map = {
       "CT" => "CT",
@@ -303,7 +307,13 @@ class MunicipalSubdivision < Runner
       case type_id[0, 2]
       when "12", "24"
         output("csd:", type_id.to_i, subdivisions[identifier])
-      when "48" # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
+      # @see http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/M36-1.pdf
+      when "47"
+        if types[identifier] == "RM"
+          output("csd:", type_id.to_i, "N")
+        end
+      # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
+      when "48"
         value = case types[identifier]
         when "CY", "SM"
           alberta_cities_without_subdivisions.include?(type_id) ? "N": "?"
