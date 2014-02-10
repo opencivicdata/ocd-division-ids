@@ -164,6 +164,7 @@ class MunicipalSubdivision < Runner
   end
 
   # ON: Asked ontario.municipal.board@ontario.ca for list of municipalities with wards (2013-02-10).
+  # @see http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_01m25_e.htm#BK238
   # MB: "Contact your local municipal office to find out whether a ward by-law is in place in your municipality."
   # @see http://web5.gov.mb.ca/mfas/elections_faq.aspx#voters_q4
   # @see http://web2.gov.mb.ca/laws/statutes/ccsm/m225e.php#87
