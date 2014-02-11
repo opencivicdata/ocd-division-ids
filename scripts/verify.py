@@ -14,7 +14,10 @@ VALID_ID_IGNORE_CASE = re.compile(r'^ocd-division/country:[a-z]{2}(/[^\W\d]+:[\w
 def unicode_csv_reader(f, encoding='utf-8'):
     reader = csv.reader(f)
     for row in reader:
-        yield [unicode(field, encoding) for field in row]
+       if sys.version < '3':
+           yield [unicode(field, encoding) for field in row]
+       else:
+           yield row
 
 def utf8_row(row):
     return [field.encode('utf-8') for field in row]
