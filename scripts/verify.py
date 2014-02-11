@@ -9,8 +9,15 @@ import argparse
 import collections
 
 
-VALID_ID = re.compile('^ocd-division/country:\w\w(/\w+:[\w\d\._~-]+)*$', re.U)
-UPPERCASE_ID = re.compile('^.*[A-Z].*$', re.U)
+VALID_ID_IGNORE_CASE = re.compile(r'^ocd-division/country:[a-z]{2}(/[^\W\d]+:[\w.~-]+)*$', re.U)
+
+def unicode_csv_reader(f, encoding='utf-8'):
+    reader = csv.reader(f)
+    for row in reader:
+        yield [unicode(field, encoding) for field in row]
+
+def utf8_row(row):
+    return [field.encode('utf-8') for field in row]
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='verify published CSV files')
@@ -30,7 +37,7 @@ if __name__ == '__main__':
 
     for filename in glob.glob('identifiers/country-{0}/*.csv'.format(country)):
         print('processing', filename)
-        for id_, name in csv.reader(open(filename)):
+        for id_, name in unicode_csv_reader(open(filename)):
             all_rows.append((id_, name))
 
             # check for dupes
@@ -40,10 +47,11 @@ if __name__ == '__main__':
                     id_, ', '.join(ids[id_]), filename))
             ids[id_].append(filename)
 
-            if not VALID_ID.match(id_):
+            if not VALID_ID_IGNORE_CASE.match(id_):
                 invalid_ids.add(id_)
 
-            if UPPERCASE_ID.match(id_):
+            # check that all characters are lowercase
+            if id_.lower() != id_:
                 invalid_ids.add(id_)
 
             # check parents
@@ -76,14 +84,14 @@ if __name__ == '__main__':
         with open('identifiers/country-{0}.csv'.format(country), 'w') as out:
             out = csv.writer(out)
             for row in sorted(all_rows):
-                out.writerow(row)
+                out.writerow(utf8_row(row))
 
     # do geoid validation too (TODO: add a flag for this)
     seen_in_geoid = set()
     all_geo_rows = list()
     if country == 'us':
         for filename in glob.glob('mappings/us-census-geoids/*.csv'):
-            for id_, geoid in csv.reader(open(filename)):
+            for id_, geoid in unicode_csv_reader(open(filename)):
                 seen_in_geoid.add(id_)
                 if id_ not in ids:
                     print('unexpected geoid for', id_)
@@ -98,4 +106,4 @@ if __name__ == '__main__':
         with open('mappings/us-census-geoids.csv', 'w') as out:
             out = csv.writer(out)
             for row in sorted(all_geo_rows):
-                out.writerow(row)
+                out.writerow(utf8_row(row))
