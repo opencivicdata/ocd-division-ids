@@ -8,19 +8,12 @@ import glob
 import argparse
 import collections
 
+# Explicitly disallow python 2.x
+if sys.version_info < (3, 0):
+    sys.stdout.write("Python 2.x not supported.\n")
+    sys.exit(1)
 
 VALID_ID_IGNORE_CASE = re.compile(r'^ocd-division/country:[a-z]{2}(/[^\W\d]+:[\w.~-]+)*$', re.U)
-
-def unicode_csv_reader(f, encoding='utf-8'):
-    reader = csv.reader(f)
-    for row in reader:
-       if sys.version < '3':
-           yield [unicode(field, encoding) for field in row]
-       else:
-           yield row
-
-def utf8_row(row):
-    return [field.encode('utf-8') for field in row]
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='verify published CSV files')
@@ -40,7 +33,7 @@ if __name__ == '__main__':
 
     for filename in glob.glob('identifiers/country-{0}/*.csv'.format(country)):
         print('processing', filename)
-        for id_, name in unicode_csv_reader(open(filename)):
+        for id_, name in csv.reader(open(filename)):
             all_rows.append((id_, name))
 
             # check for dupes
@@ -87,14 +80,14 @@ if __name__ == '__main__':
         with open('identifiers/country-{0}.csv'.format(country), 'w') as out:
             out = csv.writer(out)
             for row in sorted(all_rows):
-                out.writerow(utf8_row(row))
+                out.writerow(row)
 
     # do geoid validation too (TODO: add a flag for this)
     seen_in_geoid = set()
     all_geo_rows = list()
     if country == 'us':
         for filename in glob.glob('mappings/us-census-geoids/*.csv'):
-            for id_, geoid in unicode_csv_reader(open(filename)):
+            for id_, geoid in csv.reader(open(filename)):
                 seen_in_geoid.add(id_)
                 if id_ not in ids:
                     print('unexpected geoid for', id_)
@@ -109,4 +102,4 @@ if __name__ == '__main__':
         with open('mappings/us-census-geoids.csv', 'w') as out:
             out = csv.writer(out)
             for row in sorted(all_geo_rows):
-                out.writerow(utf8_row(row))
+                out.writerow(row)
