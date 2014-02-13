@@ -163,9 +163,9 @@ class MunicipalSubdivision < Runner
     end
   end
 
-  # ON: Asked ontario.municipal.board@ontario.ca, enquiry@mpac.ca (2013-02-10), amcto@amcto.com (2013-02-11).
-  # 2013-02-11 mininfo.mah@ontario.ca "We regret to inform you that we do not have the information you requested."
-  # 2013-02-11 amo@amo.on.ca "After reviewing our election data we found that we have not been tracking election results by wards so are unable to compile a list of municipalities that have wards."
+  # ON: Asked ontario.municipal.board@ontario.ca, enquiry@mpac.ca (2014-02-10), amcto@amcto.com (2014-02-11).
+  # 2014-02-11 mininfo.mah@ontario.ca "We regret to inform you that we do not have the information you requested."
+  # 2014-02-11 amo@amo.on.ca "After reviewing our election data we found that we have not been tracking election results by wards so are unable to compile a list of municipalities that have wards."
   # @see http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_01m25_e.htm#BK238
   # @see http://m.mpac.ca/about/corporate_overview/department.asp
   # @see https://www.omb.gov.on.ca/stellent/groups/public/@abcs/@www/@omb/documents/webasset/ec082186.pdf
