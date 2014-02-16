@@ -46,8 +46,8 @@ class MunicipalSubdivision < Runner
 
       subsubdivision, census_subdivision, province_or_territory = domain.match(/\A(?:([^,]+), )?([^,]+), (NL|PE|NS|NB|QC|ON|MB|SK|AB|BC|YT|NT|NU)\z/)[1..3]
 
-      # Ignore municipal subsubdivisions.
-      unless subsubdivision
+      # Ignore municipal subsubdivisions. Montréal subdivisions are handled by another script.
+      unless subsubdivision || census_subdivision == 'Montréal'
         matches = census_subdivisions.fetch(province_or_territory.downcase).fetch(census_subdivision)
 
         census_subdivision_id = if matches.size == 1

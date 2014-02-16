@@ -60,3 +60,13 @@ The Standard Geographical Classification is an official publication of Statistic
 * Effective October 21, 2002, [NF became NL](http://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/2006/2006-intro-fin-eng.htm).
 * Effective March 21, 2003, [Nfld.Lab. became N.L.](http://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/2001/2001-supp2-eng.htm).
 * On April 1, 1999, [Nunavut came into being officially as a Territory of Canada](http://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/1996/1996-supp-eng.htm).
+
+## Uses
+
+* [represent-canada-data](https://github.com/opennorth/represent-canada-data/blob/master/tasks.py)
+  * `abbr`: To parse province and territory abbreviations
+  * `corporations`: To set an appropriate authority for a shapefile
+  * `sgc`: To retrieve an identifier from an SGC code
+  * `subdivisions`: To determine whether a shapefile must be requested for a division
+  * `types`: To determine an appropriate subdivision label
+  * `urls`: To provide a URL from which to request a shapefile for a division

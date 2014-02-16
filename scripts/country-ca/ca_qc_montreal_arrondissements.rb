@@ -79,7 +79,7 @@ private
 
     CSV.parse(text, :headers => true).map do |row|
       {
-        :identifier => row['Nom-officiel'].gsub(/[—–]/, "-"), # m- or n-dash to hyphen
+        :identifier => row['Nom-officiel'].gsub("–", "—"), # n-dash to m-dash
         :name => row['Nom-officiel'].gsub("–", "—").gsub('’', "'"), # n-dash to m-dash
         :abbreviation => row['Code3L'], # geospatial schema
         :numeric => row['No-arro-election'], # Élections Montréal
