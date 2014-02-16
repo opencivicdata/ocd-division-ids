@@ -35,7 +35,7 @@ class Montreal < Runner
 
   def names
     rows.each do |row|
-      output("csd:2466023/arrondissement:",
+      output("csd:2466023/borough:",
         row[:identifier],
         row[:name])
     end
@@ -43,7 +43,7 @@ class Montreal < Runner
 
   def abbreviations
     rows.each do |row|
-      output("csd:2466023/arrondissement:",
+      output("csd:2466023/borough:",
         row[:identifier],
         row[:abbreviation])
     end
@@ -51,7 +51,7 @@ class Montreal < Runner
 
   def numeric
     rows.each do |row|
-      output("csd:2466023/arrondissement:",
+      output("csd:2466023/borough:",
         row[:identifier],
         row[:numeric])
     end
@@ -59,7 +59,7 @@ class Montreal < Runner
 
   def urls
     Nokogiri::HTML(open("http://ville.montreal.qc.ca/portal/page?_pageid=5798,85813661&_dad=portal&_schema=PORTAL")).css("#nav_coll a").map do |a|
-      output("csd:2466023/arrondissement:",
+      output("csd:2466023/borough:",
         a.text.gsub(/[—–]/, "-"), # m- or n-dash to hyphen
         "http://ville.montreal.qc.ca#{a[:href]}")
     end

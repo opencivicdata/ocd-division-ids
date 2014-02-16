@@ -13,7 +13,6 @@
 * `ed`: electoral district
 * `cd`: census division
 * `csd`: census subdivision
-* `arrondissement`: municipal borough
 * `borough`: municipal borough
 * `district`: municipal district
 * `division`: municipal division
