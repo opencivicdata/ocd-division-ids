@@ -64,9 +64,15 @@ The Standard Geographical Classification is an official publication of Statistic
 ## Uses
 
 * [represent-canada-data](https://github.com/opennorth/represent-canada-data/blob/master/tasks.py)
-  * `abbr`: To parse province and territory abbreviations
+  * `abbr`: To map province and territory abbreviations to names
   * `corporations`: To set an appropriate authority for a shapefile
   * `sgc`: To retrieve an identifier from an SGC code
   * `subdivisions`: To determine whether a shapefile must be requested for a division
   * `types`: To determine an appropriate subdivision label
   * `urls`: To provide a URL from which to request a shapefile for a division
+* [scrapers-ca-ruby](https://github.com/opennorth/scrapers-ca-ruby/blob/master/ca_qc_montreal/posts.rb)
+  * `numeric`: To map numeric borough identifiers to names
+* [scrapers-ca](https://github.com/opencivicdata/scrapers-ca/blob/master/tasks.py)
+  * `sgc`: To retrieve an identifier from an SGC code
+  * `types`: To determine an appropriate jurisdiction name
+  * `urls`: To provide a URL for the jurisdiction
