@@ -122,8 +122,9 @@ class MunicipalSubdivision < Runner
     end
   end
 
+  # Asked JShiu@amo.on.ca (2014-02-16).
   def posts
-    # http://www.novascotia.ca/snsmr/municipal/government/elections.asp
+    # @see http://www.novascotia.ca/snsmr/municipal/government/elections.asp
     # The spreadsheet and roo gems open the Excel file too slowly.
     Tempfile.open("data.xls") do |f|
       f.binmode
@@ -161,11 +162,19 @@ class MunicipalSubdivision < Runner
         end
       end
     end
+
+    # @see http://donnees.electionsmunicipales.gouv.qc.ca/
+    CSV.parse(open("http://donnees.electionsmunicipales.gouv.qc.ca/liste_municipalites.csv"), :col_sep => ";", :headers => true) do |row|
+      output("csd:",
+        "24#{row['id_ville']}",
+        JSON.load(open("http://donnees.electionsmunicipales.gouv.qc.ca/#{row['id_ville']}.json"))['ville']['postes'].size)
+    end
   end
 
   # ON: Asked ontario.municipal.board@ontario.ca, enquiry@mpac.ca (2014-02-10), amcto@amcto.com (2014-02-11).
   # 2014-02-11 mininfo.mah@ontario.ca "We regret to inform you that we do not have the information you requested."
   # 2014-02-11 amo@amo.on.ca "After reviewing our election data we found that we have not been tracking election results by wards so are unable to compile a list of municipalities that have wards."
+  # 2014-02-13 enquiry@mpac.ca Needs to check if they have the information.
   # @see http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_01m25_e.htm#BK238
   # @see http://m.mpac.ca/about/corporate_overview/department.asp
   # @see https://www.omb.gov.on.ca/stellent/groups/public/@abcs/@www/@omb/documents/webasset/ec082186.pdf

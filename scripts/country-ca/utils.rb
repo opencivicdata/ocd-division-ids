@@ -21,6 +21,7 @@ require "zip/zip"
 def output(fragment, identifier, content)
   prefix = "ocd-division/country:ca/#{fragment}"
   identifier = identifier.to_s
+  content = content.to_s
 
   # Convert double dashes.
   identifier.gsub!('--', '—')
