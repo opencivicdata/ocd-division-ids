@@ -59,8 +59,7 @@ if __name__ == '__main__':
             type_ = endpiece.split(':')[0]
             types[type_] += 1
 
-    if not duplicates:
-        print('0 duplicates')
+    print('{0} duplicates'.format(duplicates))
 
     seen_parents -= set(ids.keys())
     print('{0} unknown parents'.format(len(seen_parents)))
