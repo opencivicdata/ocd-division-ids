@@ -73,6 +73,7 @@ The Standard Geographical Classification is an official publication of Statistic
 * [scrapers-ca-ruby](https://github.com/opennorth/scrapers-ca-ruby/blob/master/ca_qc_montreal/posts.rb)
   * `numeric`: To map numeric borough identifiers to names
 * [scrapers-ca](https://github.com/opencivicdata/scrapers-ca/blob/master/tasks.py)
+  * `posts`: To validate the number of memberships per jurisdiction
   * `sgc`: To retrieve an identifier from an SGC code
   * `types`: To determine an appropriate jurisdiction name
   * `urls`: To provide a URL for the jurisdiction
