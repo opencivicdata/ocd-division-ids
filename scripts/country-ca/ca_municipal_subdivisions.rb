@@ -122,7 +122,12 @@ class MunicipalSubdivision < Runner
     end
   end
 
-  # Asked JShiu@amo.on.ca (2014-02-16).
+  # Asked:
+  # * JShiu@amo.on.ca (2014-02-16)
+  # * FCM contact form (2014-02-18 can also try info@fcm.ca)
+  # * info@elections.on.ca (2014-02-18)
+  # 2014-02-18 amcto@amcto.com "we do not maintain a list of council seats within each municipality"
+  # 2014-02-18 mininfo.mah@ontario.ca "We regret to inform you that we cannot assist on this matter."
   def posts
     # @see http://www.novascotia.ca/snsmr/municipal/government/elections.asp
     # The spreadsheet and roo gems open the Excel file too slowly.
@@ -171,10 +176,14 @@ class MunicipalSubdivision < Runner
     end
   end
 
-  # ON: Asked ontario.municipal.board@ontario.ca, enquiry@mpac.ca (2014-02-10), amcto@amcto.com (2014-02-11).
-  # 2014-02-11 mininfo.mah@ontario.ca "We regret to inform you that we do not have the information you requested."
+  # ON: Asked:
+  # * enquiry@mpac.ca (2014-02-10, 2014-02-13 called to clarify my data request)
+  # * ontario.municipal.board@ontario.ca (2014-02-10)
+  # * FCM contact form (2014-02-18 can also try info@fcm.ca)
+  # * info@elections.on.ca (2014-02-18)
   # 2014-02-11 amo@amo.on.ca "After reviewing our election data we found that we have not been tracking election results by wards so are unable to compile a list of municipalities that have wards."
-  # 2014-02-13 enquiry@mpac.ca Needs to check if they have the information.
+  # 2014-02-18 amcto@amcto.com "we are unable to provide individual responses from municipalities as a means to respect the confidentiality of their responses"
+  # 2014-02-11 mininfo.mah@ontario.ca "We regret to inform you that we do not have the information you requested."
   # @see http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_01m25_e.htm#BK238
   # @see http://m.mpac.ca/about/corporate_overview/department.asp
   # @see https://www.omb.gov.on.ca/stellent/groups/public/@abcs/@www/@omb/documents/webasset/ec082186.pdf
