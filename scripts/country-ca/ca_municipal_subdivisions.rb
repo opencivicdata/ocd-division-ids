@@ -123,9 +123,9 @@ class MunicipalSubdivision < Runner
   end
 
   # Asked:
-  # * JShiu@amo.on.ca (2014-02-16)
   # * FCM contact form (2014-02-18 can also try info@fcm.ca)
   # * info@elections.on.ca (2014-02-18)
+  # 2014-02-20 JShiu@amo.on.ca "I believe we do not have a report that lists this type of information."
   # 2014-02-18 amcto@amcto.com "we do not maintain a list of council seats within each municipality"
   # 2014-02-18 mininfo.mah@ontario.ca "We regret to inform you that we cannot assist on this matter."
   def posts
