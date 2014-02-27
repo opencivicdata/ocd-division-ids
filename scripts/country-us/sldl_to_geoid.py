@@ -40,7 +40,7 @@ class TabDelimited(csv.Dialect):
 
 
 def get_exception_set():
-    csvfile = csv.reader(open('identifiers/country-us/exceptions.txt'))
+    csvfile = csv.reader(open('identifiers/country-us/exceptions.csv'))
     return {x[0]: x[1] for x in csvfile}
 
 

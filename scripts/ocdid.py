@@ -22,7 +22,7 @@ SEARCH_CONVERSIONS -- conversions for district search types to valid ocd types
 
 """
 OCDID_DATA = 'https://raw.github.com/opencivicdata/ocd-division-ids/master/identifiers/country-us.csv'
-EXCEPTION_DATA = 'https://raw.github.com/opencivicdata/ocd-division-ids/master/identifiers/country-us/exceptions.txt'
+EXCEPTION_DATA = 'https://raw.github.com/opencivicdata/ocd-division-ids/master/identifiers/country-us/exceptions.csv'
 MATCH_RATIO = 90 
 MATCH_LIMIT = 10
 SEARCH_CONVERSIONS = {
