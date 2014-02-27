@@ -137,6 +137,32 @@ TYPES = {
     }
 }
 
+# list of rules for how to handle subdivs
+#   prefix - these are strictly within counties and need to be id'd as such
+#   town - these are the equivalent of places
+SUBDIV_RULES = {
+    'ct': 'town',
+    'il': 'prefix',
+    'in': 'prefix',
+    'ks': 'prefix',
+    'ma': 'town',
+    'me': 'town',
+    'mi': 'prefix',
+    'mn': 'prefix',
+    'mo': 'prefix',
+    'nd': 'prefix',
+    'ne': 'prefix',
+    'nh': 'town',
+    'nj': 'prefix',
+    'ny': 'prefix',
+    'oh': 'prefix',
+    'pa': 'prefix',
+    'ri': 'town',
+    'sd': 'prefix',
+    'vt': 'town',
+    'wi': 'prefix',
+}
+
 
 
 def make_id(parent=None, **kwargs):
@@ -157,43 +183,22 @@ def make_id(parent=None, **kwargs):
 # http://www.census.gov/geo/reference/gtc/gtc_area_attr.html#status
 
 
-def process_file(csvfile, geocsv):
+def process_types(types):
     funcstat_count = collections.Counter()
     type_count = collections.Counter()
-    # map id to row it came from
-    ids = {}
     # map geoid to id
     counties = {}
     # list of rows that produced an id
     duplicates = collections.defaultdict(list)
+    # load exceptions from file
+    exceptions = get_exception_set()
 
-    # list of rules for how to handle subdivs
-    #   prefix - these are strictly within counties and need to be id'd as such
-    #   town - these are the equivalent of places
-    subdiv_rules = {
-        'ct': 'town',
-        'il': 'prefix',
-        'in': 'prefix',
-        'ks': 'prefix',
-        'ma': 'town',
-        'me': 'town',
-        'mi': 'prefix',
-        'mn': 'prefix',
-        'mo': 'prefix',
-        'nd': 'prefix',
-        'ne': 'prefix',
-        'nh': 'town',
-        'nj': 'prefix',
-        'ny': 'prefix',
-        'oh': 'prefix',
-        'pa': 'prefix',
-        'ri': 'town',
-        'sd': 'prefix',
-        'vt': 'town',
-        'wi': 'prefix',
-    }
+    for entity_type in types:
+        ids = {}
+        csvfile = csv.writer(open('identifiers/country-us/us_census_{}.csv'.format(entity_type),
+                                  'w'))
+        geocsv = csv.writer(open('mappings/us-census-{}-geoids.csv'.format(entity_type), 'w'))
 
-    for entity_type in ('county', 'place', 'subdiv'):
         url = BASE_URL + TYPES[entity_type]['zip']
         print('fetching zipfile', url)
         zf, _ = urllib.request.urlretrieve(url)
@@ -208,9 +213,12 @@ def process_file(csvfile, geocsv):
 
         for row in rows:
             state = row['USPS'].lower()
-            if state in ('pr', 'as',):
+
+            # FIXME: just need classifiers for PR
+            if state == 'pr':
                 continue
-            subdiv_rule = subdiv_rules.get(state)
+
+            subdiv_rule = SUBDIV_RULES.get(state)
             parent_id = make_id(state=state)
 
             row['_FUNCSTAT'] = funcstat = funcstat_func(row)
@@ -276,23 +284,19 @@ def process_file(csvfile, geocsv):
                 # unhandled FUNCSTAT type
                 raise Exception(row)
 
-    exceptions = get_exception_set()
 
-    # write ids out
-    for id, row in sorted(ids.items()):
-        if id not in exceptions:
-            csvfile.writerow((id, row['NAME']))
-            if geocsv:
-                geocsv.writerow((id, row['GEOID']))
+        # write ids out
+        for id, row in sorted(ids.items()):
+            if id not in exceptions:
+                csvfile.writerow((id, row['NAME']))
+                if geocsv:
+                    geocsv.writerow((id, row['GEOID']))
 
-    print(state, ' | '.join('{0}: {1}'.format(k,v) for k,v in funcstat_count.most_common()),
-          file=sys.stderr)
-    print(state, ' | '.join('{0}: {1}'.format(k,v) for k,v in type_count.most_common()),
-          file=sys.stderr)
+    print(' | '.join('{0}: {1}'.format(k,v) for k,v in funcstat_count.most_common()))
+    print(' | '.join('{0}: {1}'.format(k,v) for k,v in type_count.most_common()))
 
     for id, sources in duplicates.items():
-        error = '{0} duplicate {1}\n'.format(
-            state, id)
+        error = '{0} duplicate {1}\n'.format(state, id)
         for source in sources:
             error += '    {NAME} {_FUNCSTAT} {GEOID}'.format(**source)
         raise Exception(error)
@@ -318,17 +322,4 @@ def _ordinal(value):
 
 
 if __name__ == '__main__':
-    CONST = '~~~const~~~'
-
-    parser = argparse.ArgumentParser(description='Generate OCD ids from Census place files')
-    parser.add_argument('state', type=str, default='all', help='state to extract')
-    args = parser.parse_args()
-
-    if args.state == 'all':
-        all_fips = [(state.abbr.lower(), state.fips) for state in us.STATES]
-    else:
-        all_fips = [(args.state, us.states.lookup(args.state).fips)]
-
-    csvfile = csv.writer(open('identifiers/country-us/us_census_places.csv', 'w'))
-    geocsv = csv.writer(open('mappings/us-census-geoids.csv', 'w'))
-    process_file(csvfile, geocsv)
+    process_types(('county', 'place', 'subdiv'))
