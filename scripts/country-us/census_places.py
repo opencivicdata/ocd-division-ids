@@ -44,6 +44,24 @@ TYPES = {
         },
         'id_overrides': { }
     },
+    #'county': {
+    #    'zip': '2013_Gaz_counties_national.zip',
+    #    'funcstat': lambda row: 'F' if row['USPS'] == 'DC' else 'A',
+    #    'type_mapping': {
+    #        ' County': 'county',
+    #        ' Parish': 'parish',
+    #        ' Borough': 'borough',
+    #        ' Municipality': 'borough',
+    #        ' Census Area': 'census_area',
+    #    },
+    #    'overrides': {
+    #        'Wrangell City and Borough': ('Wrangell', 'borough'),
+    #        'Sitka City and Borough': ('Sitka', 'borough'),
+    #        'Juneau City and Borough': ('Juneau', 'borough'),
+    #        'Yakutat City and Borough': ('Yakutat', 'borough'),
+    #    },
+    #    'id_overrides': { }
+    #},
     'place': {
         'zip': '2013_Gaz_place_national.zip',
         'funcstat': lambda row: row['FUNCSTAT'],
@@ -67,6 +85,7 @@ TYPES = {
             'Webster County unified government': ('Webster County ', 'place'),
             'Ranson corporation': ('Ranson', 'place'),
             'Carson City': ('Carson City', 'place'),
+            'Princeton': ('Princeton', 'place'),
         },
         'id_overrides': {
             '2756680': ('St. Anthony (Hennepin/Ramsey Counties)', 'place'),
@@ -137,7 +156,8 @@ def make_id(parent=None, **kwargs):
 
 # http://www.census.gov/geo/reference/gtc/gtc_area_attr.html#status
 
-def process_state(state, csvfile, geocsv):
+
+def process_file(csvfile, geocsv):
     funcstat_count = collections.Counter()
     type_count = collections.Counter()
     # map id to row it came from
@@ -150,7 +170,7 @@ def process_state(state, csvfile, geocsv):
     # list of rules for how to handle subdivs
     #   prefix - these are strictly within counties and need to be id'd as such
     #   town - these are the equivalent of places
-    subdiv_rule = {
+    subdiv_rules = {
         'ct': 'town',
         'il': 'prefix',
         'in': 'prefix',
@@ -171,17 +191,14 @@ def process_state(state, csvfile, geocsv):
         'sd': 'prefix',
         'vt': 'town',
         'wi': 'prefix',
-    }.get(state.lower())
+    }
 
-    parent_id = make_id(state=state.lower())
-
-
-    for entity_type in TYPES:
+    for entity_type in ('county', 'place', 'subdiv'):
         url = BASE_URL + TYPES[entity_type]['zip']
         print('fetching zipfile', url)
         zf, _ = urllib.request.urlretrieve(url)
         zf = zipfile.ZipFile(zf)
-        localfile = zf.extract(zf.filelist[0])
+        localfile = zf.extract(zf.filelist[0], '/tmp/')
         data = codecs.open(localfile, encoding='latin1')
         rows = csv.DictReader(data, dialect=TabDelimited)
         # function to extract funcstat value
@@ -190,9 +207,11 @@ def process_state(state, csvfile, geocsv):
         id_overrides = TYPES[entity_type]['id_overrides']
 
         for row in rows:
-            # skip any rows not from this state
-            if row['USPS'].lower() != state.lower():
+            state = row['USPS'].lower()
+            if state in ('pr', 'as',):
                 continue
+            subdiv_rule = subdiv_rules.get(state)
+            parent_id = make_id(state=state)
 
             row['_FUNCSTAT'] = funcstat = funcstat_func(row)
             funcstat_count[funcstat] += 1
@@ -200,8 +219,7 @@ def process_state(state, csvfile, geocsv):
             # active government
             if funcstat in ('A', 'B', 'I'):
                 if entity_type == 'subdiv' and not subdiv_rule:
-                    raise Exception('unexpected subdiv in {0}: {1}'.format(
-                        state, row))
+                    raise Exception('unexpected subdiv in {0}: {1}'.format(state, row))
 
                 name = row['NAME']
 
@@ -216,11 +234,11 @@ def process_state(state, csvfile, geocsv):
                             break
                     else:
                         # skip independent cities indicated at county level
-                        if (entity_type == 'county' and
-                            (name.endswith(' city') or name == 'Carson City')):
+                        if (entity_type == 'county' and (name.endswith(' city') or
+                                                         name == 'Carson City')):
                             continue
                         else:
-                            raise ValueError('unknown ending: ' + name)
+                            raise ValueError('unknown ending: {} for {}'.format(name, row))
 
                 type_count[subtype] += 1
 
@@ -303,9 +321,7 @@ if __name__ == '__main__':
     CONST = '~~~const~~~'
 
     parser = argparse.ArgumentParser(description='Generate OCD ids from Census place files')
-    parser.add_argument('state', type=str, default=None, help='state to extract')
-    parser.add_argument('--csv', help='name of CSV file', nargs='?', const=CONST)
-    parser.add_argument('--geo', help='write a CSV file of Geo IDs', nargs='?', const=CONST)
+    parser.add_argument('state', type=str, default='all', help='state to extract')
     args = parser.parse_args()
 
     if args.state == 'all':
@@ -313,23 +329,6 @@ if __name__ == '__main__':
     else:
         all_fips = [(args.state, us.states.lookup(args.state).fips)]
 
-    for state, fips in all_fips:
-        if args.csv == CONST:
-            csvfile = 'identifiers/country-us/state-{0}-census.csv'.format(state)
-        else:
-            csvfile = args.csv
-        if csvfile:
-            csvfile = csv.writer(open(csvfile, 'w'))
-        else:
-            csvfile = csv.writer(sys.stdout)
-
-        if args.geo == CONST:
-            geofile = 'mappings/us-census-geoids/{0}.csv'.format(state)
-        else:
-            geofile = args.geo
-        if geofile:
-            geocsv = csv.writer(open(geofile, 'w'))
-        else:
-            geocsv = None
-
-        process_state(state, csvfile, geocsv)
+    csvfile = csv.writer(open('identifiers/country-us/us_census_places.csv', 'w'))
+    geocsv = csv.writer(open('mappings/us-census-geoids.csv', 'w'))
+    process_file(csvfile, geocsv)

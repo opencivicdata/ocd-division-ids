@@ -170,7 +170,8 @@ ocd-division/country:us/state:ak/place:wainwright,Wainwright city
 ocd-division/country:us/state:ak/place:wales,Wales city
 ocd-division/country:us/state:ak/place:wasilla,Wasilla city
 ocd-division/country:us/state:ak/place:white_mountain,White Mountain city
-ocd-division/country:us/state:ak/place:whittier,Whittier cityocd-division/country:us/state:al/county:autauga,Autauga County
+ocd-division/country:us/state:ak/place:whittier,Whittier city
+ocd-division/country:us/state:al/county:autauga,Autauga County
 ocd-division/country:us/state:al/county:baldwin,Baldwin County
 ocd-division/country:us/state:al/county:barbour,Barbour County
 ocd-division/country:us/state:al/county:bibb,Bibb County
@@ -466,7 +467,7 @@ ocd-division/country:us/state:al/place:kansas,Kansas town
 ocd-division/country:us/state:al/place:kellyton,Kellyton town
 ocd-division/country:us/state:al/place:kennedy,Kennedy town
 ocd-division/country:us/state:al/place:killen,Killen town
-ocd-division/country:us/state:al/place:kimberly,Kimberly town
+ocd-division/country:us/state:al/place:kimberly,Kimberly city
 ocd-division/country:us/state:al/place:kinsey,Kinsey town
 ocd-division/country:us/state:al/place:kinston,Kinston town
 ocd-division/country:us/state:al/place:la_fayette,La Fayette city
@@ -616,6 +617,7 @@ ocd-division/country:us/state:al/place:satsuma,Satsuma city
 ocd-division/country:us/state:al/place:scottsboro,Scottsboro city
 ocd-division/country:us/state:al/place:section,Section town
 ocd-division/country:us/state:al/place:selma,Selma city
+ocd-division/country:us/state:al/place:semmes,Semmes city
 ocd-division/country:us/state:al/place:sheffield,Sheffield city
 ocd-division/country:us/state:al/place:shiloh,Shiloh town
 ocd-division/country:us/state:al/place:shorter,Shorter town
@@ -990,7 +992,7 @@ ocd-division/country:us/state:ar/place:hazen,Hazen city
 ocd-division/country:us/state:ar/place:heber_springs,Heber Springs city
 ocd-division/country:us/state:ar/place:hector,Hector town
 ocd-division/country:us/state:ar/place:helena-west_helena,Helena-West Helena city
-ocd-division/country:us/state:ar/place:hermitage,Hermitage town
+ocd-division/country:us/state:ar/place:hermitage,Hermitage city
 ocd-division/country:us/state:ar/place:hickory_ridge,Hickory Ridge city
 ocd-division/country:us/state:ar/place:higden,Higden town
 ocd-division/country:us/state:ar/place:higginson,Higginson town
@@ -1371,6 +1373,7 @@ ocd-division/country:us/state:az/place:thatcher,Thatcher town
 ocd-division/country:us/state:az/place:tolleson,Tolleson city
 ocd-division/country:us/state:az/place:tombstone,Tombstone city
 ocd-division/country:us/state:az/place:tucson,Tucson city
+ocd-division/country:us/state:az/place:tusayan,Tusayan town
 ocd-division/country:us/state:az/place:wellton,Wellton town
 ocd-division/country:us/state:az/place:wickenburg,Wickenburg town
 ocd-division/country:us/state:az/place:willcox,Willcox city
@@ -1416,7 +1419,7 @@ ocd-division/country:us/state:ca/county:sacramento,Sacramento County
 ocd-division/country:us/state:ca/county:san_benito,San Benito County
 ocd-division/country:us/state:ca/county:san_bernardino,San Bernardino County
 ocd-division/country:us/state:ca/county:san_diego,San Diego County
-ocd-division/country:us/state:ca/county:san_francisco,San Francisco County (and city)
+ocd-division/country:us/state:ca/county:san_francisco,San Francisco County
 ocd-division/country:us/state:ca/county:san_joaquin,San Joaquin County
 ocd-division/country:us/state:ca/county:san_luis_obispo,San Luis Obispo County
 ocd-division/country:us/state:ca/county:san_mateo,San Mateo County
@@ -1558,6 +1561,7 @@ ocd-division/country:us/state:ca/place:duarte,Duarte city
 ocd-division/country:us/state:ca/place:dublin,Dublin city
 ocd-division/country:us/state:ca/place:dunsmuir,Dunsmuir city
 ocd-division/country:us/state:ca/place:east_palo_alto,East Palo Alto city
+ocd-division/country:us/state:ca/place:eastvale,Eastvale city
 ocd-division/country:us/state:ca/place:el_cajon,El Cajon city
 ocd-division/country:us/state:ca/place:el_centro,El Centro city
 ocd-division/country:us/state:ca/place:el_cerrito,El Cerrito city
@@ -1634,6 +1638,7 @@ ocd-division/country:us/state:ca/place:irvine,Irvine city
 ocd-division/country:us/state:ca/place:irwindale,Irwindale city
 ocd-division/country:us/state:ca/place:isleton,Isleton city
 ocd-division/country:us/state:ca/place:jackson,Jackson city
+ocd-division/country:us/state:ca/place:jurupa_valley,Jurupa Valley city
 ocd-division/country:us/state:ca/place:kerman,Kerman city
 ocd-division/country:us/state:ca/place:king_city,King City city
 ocd-division/country:us/state:ca/place:kingsburg,Kingsburg city
@@ -1923,7 +1928,7 @@ ocd-division/country:us/state:co/county:archuleta,Archuleta County
 ocd-division/country:us/state:co/county:baca,Baca County
 ocd-division/country:us/state:co/county:bent,Bent County
 ocd-division/country:us/state:co/county:boulder,Boulder County
-ocd-division/country:us/state:co/county:broomfield,Broomfield County (and city)
+ocd-division/country:us/state:co/county:broomfield,Broomfield County
 ocd-division/country:us/state:co/county:chaffee,Chaffee County
 ocd-division/country:us/state:co/county:cheyenne,Cheyenne County
 ocd-division/country:us/state:co/county:clear_creek,Clear Creek County
@@ -1932,7 +1937,7 @@ ocd-division/country:us/state:co/county:costilla,Costilla County
 ocd-division/country:us/state:co/county:crowley,Crowley County
 ocd-division/country:us/state:co/county:custer,Custer County
 ocd-division/country:us/state:co/county:delta,Delta County
-ocd-division/country:us/state:co/county:denver,Denver County (and city)
+ocd-division/country:us/state:co/county:denver,Denver County
 ocd-division/country:us/state:co/county:dolores,Dolores County
 ocd-division/country:us/state:co/county:douglas,Douglas County
 ocd-division/country:us/state:co/county:eagle,Eagle County
@@ -2013,7 +2018,7 @@ ocd-division/country:us/state:co/place:burlington,Burlington city
 ocd-division/country:us/state:co/place:calhan,Calhan town
 ocd-division/country:us/state:co/place:campo,Campo town
 ocd-division/country:us/state:co/place:carbondale,Carbondale town
-ocd-division/country:us/state:co/place:castle_pines_north,Castle Pines North city
+ocd-division/country:us/state:co/place:castle_pines,Castle Pines city
 ocd-division/country:us/state:co/place:castle_rock,Castle Rock town
 ocd-division/country:us/state:co/place:cañon_city,Cañon City city
 ocd-division/country:us/state:co/place:cedaredge,Cedaredge town
@@ -2647,9 +2652,9 @@ ocd-division/country:us/state:fl/place:davenport,Davenport city
 ocd-division/country:us/state:fl/place:davie,Davie town
 ocd-division/country:us/state:fl/place:daytona_beach,Daytona Beach city
 ocd-division/country:us/state:fl/place:daytona_beach_shores,Daytona Beach Shores city
-ocd-division/country:us/state:fl/place:de_funiak_springs,De Funiak Springs city
 ocd-division/country:us/state:fl/place:debary,DeBary city
 ocd-division/country:us/state:fl/place:deerfield_beach,Deerfield Beach city
+ocd-division/country:us/state:fl/place:defuniak_springs,DeFuniak Springs city
 ocd-division/country:us/state:fl/place:deland,DeLand city
 ocd-division/country:us/state:fl/place:delray_beach,Delray Beach city
 ocd-division/country:us/state:fl/place:deltona,Deltona city
@@ -2732,6 +2737,7 @@ ocd-division/country:us/state:fl/place:inglis,Inglis town
 ocd-division/country:us/state:fl/place:interlachen,Interlachen town
 ocd-division/country:us/state:fl/place:inverness,Inverness city
 ocd-division/country:us/state:fl/place:islamorada~_village_of_islands,"Islamorada, Village of Islands village"
+ocd-division/country:us/state:fl/place:islandia,Islandia city
 ocd-division/country:us/state:fl/place:jacksonville,Jacksonville city
 ocd-division/country:us/state:fl/place:jacksonville_beach,Jacksonville Beach city
 ocd-division/country:us/state:fl/place:jacob_city,Jacob City city
@@ -3196,6 +3202,7 @@ ocd-division/country:us/state:ga/place:braswell,Braswell town
 ocd-division/country:us/state:ga/place:bremen,Bremen city
 ocd-division/country:us/state:ga/place:brinson,Brinson town
 ocd-division/country:us/state:ga/place:bronwood,Bronwood town
+ocd-division/country:us/state:ga/place:brookhaven,Brookhaven city
 ocd-division/country:us/state:ga/place:brooklet,Brooklet city
 ocd-division/country:us/state:ga/place:brooks,Brooks town
 ocd-division/country:us/state:ga/place:broxton,Broxton city
@@ -3498,6 +3505,7 @@ ocd-division/country:us/state:ga/place:patterson,Patterson city
 ocd-division/country:us/state:ga/place:pavo,Pavo city
 ocd-division/country:us/state:ga/place:payne,Payne city
 ocd-division/country:us/state:ga/place:peachtree_city,Peachtree City city
+ocd-division/country:us/state:ga/place:peachtree_corners,Peachtree Corners city
 ocd-division/country:us/state:ga/place:pearson,Pearson city
 ocd-division/country:us/state:ga/place:pelham,Pelham city
 ocd-division/country:us/state:ga/place:pembroke,Pembroke city
@@ -4359,7 +4367,6 @@ ocd-division/country:us/state:ia/place:moulton,Moulton city
 ocd-division/country:us/state:ia/place:mount_auburn,Mount Auburn city
 ocd-division/country:us/state:ia/place:mount_ayr,Mount Ayr city
 ocd-division/country:us/state:ia/place:mount_pleasant,Mount Pleasant city
-ocd-division/country:us/state:ia/place:mount_sterling,Mount Sterling city
 ocd-division/country:us/state:ia/place:mount_union,Mount Union city
 ocd-division/country:us/state:ia/place:mount_vernon,Mount Vernon city
 ocd-division/country:us/state:ia/place:moville,Moville city
@@ -4864,6 +4871,7 @@ ocd-division/country:us/state:id/place:lava_hot_springs,Lava Hot Springs city
 ocd-division/country:us/state:id/place:leadore,Leadore city
 ocd-division/country:us/state:id/place:lewiston,Lewiston city
 ocd-division/country:us/state:id/place:lewisville,Lewisville city
+ocd-division/country:us/state:id/place:lost_river,Lost River city
 ocd-division/country:us/state:id/place:mackay,Mackay city
 ocd-division/country:us/state:id/place:malad_city,Malad City city
 ocd-division/country:us/state:id/place:malta,Malta city
@@ -6917,7 +6925,6 @@ ocd-division/country:us/state:il/place:galatia,Galatia village
 ocd-division/country:us/state:il/place:galena,Galena city
 ocd-division/country:us/state:il/place:galesburg,Galesburg city
 ocd-division/country:us/state:il/place:galva,Galva city
-ocd-division/country:us/state:il/place:garden_prairie,Garden Prairie village
 ocd-division/country:us/state:il/place:gardner,Gardner village
 ocd-division/country:us/state:il/place:garrett,Garrett village
 ocd-division/country:us/state:il/place:gays,Gays village
@@ -7857,14 +7864,12 @@ ocd-division/country:us/state:in/county:blackford/place:washington,Washington to
 ocd-division/country:us/state:in/county:boone,Boone County
 ocd-division/country:us/state:in/county:boone/place:center,Center township
 ocd-division/country:us/state:in/county:boone/place:clinton,Clinton township
-ocd-division/country:us/state:in/county:boone/place:eagle,Eagle township
 ocd-division/country:us/state:in/county:boone/place:harrison,Harrison township
 ocd-division/country:us/state:in/county:boone/place:jackson,Jackson township
 ocd-division/country:us/state:in/county:boone/place:jefferson,Jefferson township
 ocd-division/country:us/state:in/county:boone/place:marion,Marion township
 ocd-division/country:us/state:in/county:boone/place:perry,Perry township
 ocd-division/country:us/state:in/county:boone/place:sugar_creek,Sugar Creek township
-ocd-division/country:us/state:in/county:boone/place:union,Union township
 ocd-division/country:us/state:in/county:boone/place:washington,Washington township
 ocd-division/country:us/state:in/county:boone/place:worth,Worth township
 ocd-division/country:us/state:in/county:brown,Brown County
@@ -8011,7 +8016,6 @@ ocd-division/country:us/state:in/county:delaware/place:hamilton,Hamilton townshi
 ocd-division/country:us/state:in/county:delaware/place:harrison,Harrison township
 ocd-division/country:us/state:in/county:delaware/place:liberty,Liberty township
 ocd-division/country:us/state:in/county:delaware/place:monroe,Monroe township
-ocd-division/country:us/state:in/county:delaware/place:mount_pleasant,Mount Pleasant township
 ocd-division/country:us/state:in/county:delaware/place:niles,Niles township
 ocd-division/country:us/state:in/county:delaware/place:perry,Perry township
 ocd-division/country:us/state:in/county:delaware/place:salem,Salem township
@@ -9428,7 +9432,7 @@ ocd-division/country:us/state:in/place:west_harrison,West Harrison town
 ocd-division/country:us/state:in/place:west_lafayette,West Lafayette city
 ocd-division/country:us/state:in/place:west_lebanon,West Lebanon town
 ocd-division/country:us/state:in/place:west_terre_haute,West Terre Haute town
-ocd-division/country:us/state:in/place:westfield,Westfield town
+ocd-division/country:us/state:in/place:westfield,Westfield city
 ocd-division/country:us/state:in/place:westport,Westport town
 ocd-division/country:us/state:in/place:westville,Westville town
 ocd-division/country:us/state:in/place:wheatfield,Wheatfield town
@@ -11532,8 +11536,6 @@ ocd-division/country:us/state:ks/place:tonganoxie,Tonganoxie city
 ocd-division/country:us/state:ks/place:topeka,Topeka city
 ocd-division/country:us/state:ks/place:toronto,Toronto city
 ocd-division/country:us/state:ks/place:towanda,Towanda city
-ocd-division/country:us/state:ks/place:treece,Treece city
-ocd-division/country:us/state:ks/place:tribune,Tribune city
 ocd-division/country:us/state:ks/place:troy,Troy city
 ocd-division/country:us/state:ks/place:turon,Turon city
 ocd-division/country:us/state:ks/place:tyro,Tyro city
@@ -11625,7 +11627,7 @@ ocd-division/country:us/state:ky/county:daviess,Daviess County
 ocd-division/country:us/state:ky/county:edmonson,Edmonson County
 ocd-division/country:us/state:ky/county:elliott,Elliott County
 ocd-division/country:us/state:ky/county:estill,Estill County
-ocd-division/country:us/state:ky/county:fayette,Lexington-Fayette urban County
+ocd-division/country:us/state:ky/county:fayette,Fayette County
 ocd-division/country:us/state:ky/county:fleming,Fleming County
 ocd-division/country:us/state:ky/county:floyd,Floyd County
 ocd-division/country:us/state:ky/county:franklin,Franklin County
@@ -11716,6 +11718,7 @@ ocd-division/country:us/state:ky/place:adairville,Adairville city
 ocd-division/country:us/state:ky/place:albany,Albany city
 ocd-division/country:us/state:ky/place:alexandria,Alexandria city
 ocd-division/country:us/state:ky/place:allen,Allen city
+ocd-division/country:us/state:ky/place:allensville,Allensville city
 ocd-division/country:us/state:ky/place:anchorage,Anchorage city
 ocd-division/country:us/state:ky/place:arlington,Arlington city
 ocd-division/country:us/state:ky/place:ashland,Ashland city
@@ -11742,6 +11745,7 @@ ocd-division/country:us/state:ky/place:berea,Berea city
 ocd-division/country:us/state:ky/place:berry,Berry city
 ocd-division/country:us/state:ky/place:blackey,Blackey city
 ocd-division/country:us/state:ky/place:blaine,Blaine city
+ocd-division/country:us/state:ky/place:blandville,Blandville city
 ocd-division/country:us/state:ky/place:bloomfield,Bloomfield city
 ocd-division/country:us/state:ky/place:blue_ridge_manor,Blue Ridge Manor city
 ocd-division/country:us/state:ky/place:bonnieville,Bonnieville city
@@ -11815,6 +11819,7 @@ ocd-division/country:us/state:ky/place:dover,Dover city
 ocd-division/country:us/state:ky/place:drakesboro,Drakesboro city
 ocd-division/country:us/state:ky/place:druid_hills,Druid Hills city
 ocd-division/country:us/state:ky/place:dry_ridge,Dry Ridge city
+ocd-division/country:us/state:ky/place:dycusburg,Dycusburg city
 ocd-division/country:us/state:ky/place:earlington,Earlington city
 ocd-division/country:us/state:ky/place:eddyville,Eddyville city
 ocd-division/country:us/state:ky/place:edgewood,Edgewood city
@@ -12155,15 +12160,15 @@ ocd-division/country:us/state:la/parish:iberville,Iberville Parish
 ocd-division/country:us/state:la/parish:jackson,Jackson Parish
 ocd-division/country:us/state:la/parish:jefferson,Jefferson Parish
 ocd-division/country:us/state:la/parish:jefferson_davis,Jefferson Davis Parish
-ocd-division/country:us/state:la/parish:la_salle,La Salle Parish
 ocd-division/country:us/state:la/parish:lafayette,Lafayette Parish
 ocd-division/country:us/state:la/parish:lafourche,Lafourche Parish
+ocd-division/country:us/state:la/parish:lasalle,LaSalle Parish
 ocd-division/country:us/state:la/parish:lincoln,Lincoln Parish
 ocd-division/country:us/state:la/parish:livingston,Livingston Parish
 ocd-division/country:us/state:la/parish:madison,Madison Parish
 ocd-division/country:us/state:la/parish:morehouse,Morehouse Parish
 ocd-division/country:us/state:la/parish:natchitoches,Natchitoches Parish
-ocd-division/country:us/state:la/parish:orleans,Orleans Parish - New Orleans city
+ocd-division/country:us/state:la/parish:orleans,Orleans Parish
 ocd-division/country:us/state:la/parish:ouachita,Ouachita Parish
 ocd-division/country:us/state:la/parish:plaquemines,Plaquemines Parish
 ocd-division/country:us/state:la/parish:pointe_coupee,Pointe Coupee Parish
@@ -12322,7 +12327,6 @@ ocd-division/country:us/state:la/place:hodge,Hodge village
 ocd-division/country:us/state:la/place:homer,Homer town
 ocd-division/country:us/state:la/place:hornbeck,Hornbeck town
 ocd-division/country:us/state:la/place:hosston,Hosston village
-ocd-division/country:us/state:la/place:houma,Houma city
 ocd-division/country:us/state:la/place:ida,Ida village
 ocd-division/country:us/state:la/place:independence,Independence town
 ocd-division/country:us/state:la/place:iota,Iota town
@@ -12504,7 +12508,7 @@ ocd-division/country:us/state:ma/county:franklin,Franklin County
 ocd-division/country:us/state:ma/county:hampden,Hampden County
 ocd-division/country:us/state:ma/county:hampshire,Hampshire County
 ocd-division/country:us/state:ma/county:middlesex,Middlesex County
-ocd-division/country:us/state:ma/county:nantucket,Nantucket County (and town)
+ocd-division/country:us/state:ma/county:nantucket,Nantucket County
 ocd-division/country:us/state:ma/county:norfolk,Norfolk County
 ocd-division/country:us/state:ma/county:plymouth,Plymouth County
 ocd-division/country:us/state:ma/county:suffolk,Suffolk County
@@ -14943,10 +14947,10 @@ ocd-division/country:us/state:mi/place:camden,Camden village
 ocd-division/country:us/state:mi/place:capac,Capac village
 ocd-division/country:us/state:mi/place:carleton,Carleton village
 ocd-division/country:us/state:mi/place:carney,Carney village
-ocd-division/country:us/state:mi/place:caro,Caro village
+ocd-division/country:us/state:mi/place:caro,Caro city
 ocd-division/country:us/state:mi/place:carson_city,Carson City city
 ocd-division/country:us/state:mi/place:carsonville,Carsonville village
-ocd-division/country:us/state:mi/place:caseville,Caseville village
+ocd-division/country:us/state:mi/place:caseville,Caseville city
 ocd-division/country:us/state:mi/place:casnovia,Casnovia village
 ocd-division/country:us/state:mi/place:caspian,Caspian city
 ocd-division/country:us/state:mi/place:cass_city,Cass City village
@@ -15962,7 +15966,6 @@ ocd-division/country:us/state:mn/county:grant/place:roseville,Roseville township
 ocd-division/country:us/state:mn/county:grant/place:sanford,Sanford township
 ocd-division/country:us/state:mn/county:grant/place:stony_brook,Stony Brook township
 ocd-division/country:us/state:mn/county:hennepin,Hennepin County
-ocd-division/country:us/state:mn/county:hennepin/place:hassan,Hassan township
 ocd-division/country:us/state:mn/county:houston,Houston County
 ocd-division/country:us/state:mn/county:houston/place:black_hammer,Black Hammer township
 ocd-division/country:us/state:mn/county:houston/place:brownsville,Brownsville township
@@ -18028,7 +18031,6 @@ ocd-division/country:us/state:mn/place:tamarack,Tamarack city
 ocd-division/country:us/state:mn/place:taopi,Taopi city
 ocd-division/country:us/state:mn/place:taunton,Taunton city
 ocd-division/country:us/state:mn/place:taylors_falls,Taylors Falls city
-ocd-division/country:us/state:mn/place:tenney,Tenney city
 ocd-division/country:us/state:mn/place:tenstrike,Tenstrike city
 ocd-division/country:us/state:mn/place:thief_river_falls,Thief River Falls city
 ocd-division/country:us/state:mn/place:thomson,Thomson city
@@ -18588,6 +18590,7 @@ ocd-division/country:us/state:mo/place:arrow_point,Arrow Point village
 ocd-division/country:us/state:mo/place:arrow_rock,Arrow Rock town
 ocd-division/country:us/state:mo/place:asbury,Asbury city
 ocd-division/country:us/state:mo/place:ash_grove,Ash Grove city
+ocd-division/country:us/state:mo/place:ashburn,Ashburn town
 ocd-division/country:us/state:mo/place:ashland,Ashland city
 ocd-division/country:us/state:mo/place:atlanta,Atlanta city
 ocd-division/country:us/state:mo/place:augusta,Augusta town
@@ -18598,6 +18601,7 @@ ocd-division/country:us/state:mo/place:ava,Ava city
 ocd-division/country:us/state:mo/place:avilla,Avilla town
 ocd-division/country:us/state:mo/place:avondale,Avondale city
 ocd-division/country:us/state:mo/place:bagnell,Bagnell town
+ocd-division/country:us/state:mo/place:baker,Baker village
 ocd-division/country:us/state:mo/place:bakersfield,Bakersfield village
 ocd-division/country:us/state:mo/place:baldwin_park,Baldwin Park village
 ocd-division/country:us/state:mo/place:ballwin,Ballwin city
@@ -18851,6 +18855,7 @@ ocd-division/country:us/state:mo/place:fleming,Fleming city
 ocd-division/country:us/state:mo/place:flemington,Flemington village
 ocd-division/country:us/state:mo/place:flint_hill,Flint Hill city
 ocd-division/country:us/state:mo/place:flordell_hills,Flordell Hills city
+ocd-division/country:us/state:mo/place:florida,Florida village
 ocd-division/country:us/state:mo/place:florissant,Florissant city
 ocd-division/country:us/state:mo/place:foley,Foley city
 ocd-division/country:us/state:mo/place:fordland,Fordland city
@@ -18989,6 +18994,7 @@ ocd-division/country:us/state:mo/place:jacksonville,Jacksonville village
 ocd-division/country:us/state:mo/place:jameson,Jameson town
 ocd-division/country:us/state:mo/place:jamesport,Jamesport city
 ocd-division/country:us/state:mo/place:jamestown,Jamestown town
+ocd-division/country:us/state:mo/place:jane,Jane town
 ocd-division/country:us/state:mo/place:jasper,Jasper city
 ocd-division/country:us/state:mo/place:jefferson_city,Jefferson City city
 ocd-division/country:us/state:mo/place:jennings,Jennings city
@@ -19018,6 +19024,7 @@ ocd-division/country:us/state:mo/place:knob_noster,Knob Noster city
 ocd-division/country:us/state:mo/place:knox_city,Knox City city
 ocd-division/country:us/state:mo/place:koshkonong,Koshkonong town
 ocd-division/country:us/state:mo/place:la_belle,La Belle city
+ocd-division/country:us/state:mo/place:la_due,La Due village
 ocd-division/country:us/state:mo/place:la_grange,La Grange city
 ocd-division/country:us/state:mo/place:la_monte,La Monte city
 ocd-division/country:us/state:mo/place:la_plata,La Plata city
@@ -19036,8 +19043,10 @@ ocd-division/country:us/state:mo/place:lake_tekakwitha,Lake Tekakwitha village
 ocd-division/country:us/state:mo/place:lake_waukomis,Lake Waukomis city
 ocd-division/country:us/state:mo/place:lake_winnebago,Lake Winnebago city
 ocd-division/country:us/state:mo/place:lakeshire,Lakeshire city
+ocd-division/country:us/state:mo/place:lakeside,Lakeside city
 ocd-division/country:us/state:mo/place:lamar,Lamar city
 ocd-division/country:us/state:mo/place:lamar_heights,Lamar Heights city
+ocd-division/country:us/state:mo/place:lambert,Lambert village
 ocd-division/country:us/state:mo/place:lanagan,Lanagan town
 ocd-division/country:us/state:mo/place:lancaster,Lancaster city
 ocd-division/country:us/state:mo/place:laredo,Laredo city
@@ -19065,6 +19074,7 @@ ocd-division/country:us/state:mo/place:lincoln,Lincoln city
 ocd-division/country:us/state:mo/place:linn,Linn city
 ocd-division/country:us/state:mo/place:linn_creek,Linn Creek city
 ocd-division/country:us/state:mo/place:linneus,Linneus city
+ocd-division/country:us/state:mo/place:lithium,Lithium village
 ocd-division/country:us/state:mo/place:livonia,Livonia village
 ocd-division/country:us/state:mo/place:loch_lloyd,Loch Lloyd village
 ocd-division/country:us/state:mo/place:lock_springs,Lock Springs village
@@ -19081,7 +19091,6 @@ ocd-division/country:us/state:mo/place:ludlow,Ludlow town
 ocd-division/country:us/state:mo/place:lupus,Lupus town
 ocd-division/country:us/state:mo/place:luray,Luray village
 ocd-division/country:us/state:mo/place:mackenzie,Mackenzie village
-ocd-division/country:us/state:mo/place:macks_creek,Macks Creek city
 ocd-division/country:us/state:mo/place:macon,Macon city
 ocd-division/country:us/state:mo/place:madison,Madison city
 ocd-division/country:us/state:mo/place:maitland,Maitland city
@@ -19277,7 +19286,6 @@ ocd-division/country:us/state:mo/place:ravenwood,Ravenwood town
 ocd-division/country:us/state:mo/place:raymondville,Raymondville town
 ocd-division/country:us/state:mo/place:raymore,Raymore city
 ocd-division/country:us/state:mo/place:raytown,Raytown city
-ocd-division/country:us/state:mo/place:rayville,Rayville village
 ocd-division/country:us/state:mo/place:rea,Rea city
 ocd-division/country:us/state:mo/place:redings_mill,Redings Mill village
 ocd-division/country:us/state:mo/place:reeds,Reeds town
@@ -19341,7 +19349,6 @@ ocd-division/country:us/state:mo/place:shrewsbury,Shrewsbury city
 ocd-division/country:us/state:mo/place:sibley,Sibley village
 ocd-division/country:us/state:mo/place:sikeston,Sikeston city
 ocd-division/country:us/state:mo/place:silex,Silex village
-ocd-division/country:us/state:mo/place:silver_creek,Silver Creek village
 ocd-division/country:us/state:mo/place:skidmore,Skidmore city
 ocd-division/country:us/state:mo/place:slater,Slater city
 ocd-division/country:us/state:mo/place:smithton,Smithton city
@@ -19359,7 +19366,6 @@ ocd-division/country:us/state:mo/place:st_charles,St. Charles city
 ocd-division/country:us/state:mo/place:st_clair,St. Clair city
 ocd-division/country:us/state:mo/place:st_cloud,St. Cloud village
 ocd-division/country:us/state:mo/place:st_elizabeth,St. Elizabeth village
-ocd-division/country:us/state:mo/place:st_george,St. George city
 ocd-division/country:us/state:mo/place:st_james,St. James city
 ocd-division/country:us/state:mo/place:st_john,St. John city
 ocd-division/country:us/state:mo/place:st_joseph,St. Joseph city
@@ -19399,6 +19405,7 @@ ocd-division/country:us/state:mo/place:tallapoosa,Tallapoosa city
 ocd-division/country:us/state:mo/place:taneyville,Taneyville village
 ocd-division/country:us/state:mo/place:taos,Taos city
 ocd-division/country:us/state:mo/place:tarkio,Tarkio city
+ocd-division/country:us/state:mo/place:tarrants,Tarrants village
 ocd-division/country:us/state:mo/place:thayer,Thayer city
 ocd-division/country:us/state:mo/place:theodosia,Theodosia village
 ocd-division/country:us/state:mo/place:three_creeks,Three Creeks village
@@ -19653,6 +19660,7 @@ ocd-division/country:us/state:ms/place:crystal_springs,Crystal Springs city
 ocd-division/country:us/state:ms/place:de_kalb,De Kalb town
 ocd-division/country:us/state:ms/place:decatur,Decatur town
 ocd-division/country:us/state:ms/place:derma,Derma town
+ocd-division/country:us/state:ms/place:diamondhead,Diamondhead city
 ocd-division/country:us/state:ms/place:doddsville,Doddsville town
 ocd-division/country:us/state:ms/place:drew,Drew city
 ocd-division/country:us/state:ms/place:duck_hill,Duck Hill town
@@ -19673,7 +19681,7 @@ ocd-division/country:us/state:ms/place:falkner,Falkner town
 ocd-division/country:us/state:ms/place:farmington,Farmington town
 ocd-division/country:us/state:ms/place:fayette,Fayette city
 ocd-division/country:us/state:ms/place:flora,Flora town
-ocd-division/country:us/state:ms/place:florence,Florence town
+ocd-division/country:us/state:ms/place:florence,Florence city
 ocd-division/country:us/state:ms/place:flowood,Flowood city
 ocd-division/country:us/state:ms/place:forest,Forest city
 ocd-division/country:us/state:ms/place:french_camp,French Camp town
@@ -19851,6 +19859,7 @@ ocd-division/country:us/state:ms/place:taylorsville,Taylorsville town
 ocd-division/country:us/state:ms/place:tchula,Tchula town
 ocd-division/country:us/state:ms/place:terry,Terry town
 ocd-division/country:us/state:ms/place:thaxton,Thaxton town
+ocd-division/country:us/state:ms/place:tillatoba,Tillatoba town
 ocd-division/country:us/state:ms/place:tishomingo,Tishomingo town
 ocd-division/country:us/state:ms/place:toccopola,Toccopola town
 ocd-division/country:us/state:ms/place:tremont,Tremont town
@@ -20287,6 +20296,7 @@ ocd-division/country:us/state:nc/place:crossnore,Crossnore town
 ocd-division/country:us/state:nc/place:dallas,Dallas town
 ocd-division/country:us/state:nc/place:danbury,Danbury town
 ocd-division/country:us/state:nc/place:davidson,Davidson town
+ocd-division/country:us/state:nc/place:dellview,Dellview town
 ocd-division/country:us/state:nc/place:denton,Denton town
 ocd-division/country:us/state:nc/place:dillsboro,Dillsboro town
 ocd-division/country:us/state:nc/place:dobbins_heights,Dobbins Heights town
@@ -20383,7 +20393,7 @@ ocd-division/country:us/state:nc/place:hendersonville,Hendersonville city
 ocd-division/country:us/state:nc/place:hertford,Hertford town
 ocd-division/country:us/state:nc/place:hickory,Hickory city
 ocd-division/country:us/state:nc/place:high_point,High Point city
-ocd-division/country:us/state:nc/place:high_shoals,High Shoals town
+ocd-division/country:us/state:nc/place:high_shoals,High Shoals city
 ocd-division/country:us/state:nc/place:highlands,Highlands town
 ocd-division/country:us/state:nc/place:hildebran,Hildebran town
 ocd-division/country:us/state:nc/place:hillsborough,Hillsborough town
@@ -21695,7 +21705,6 @@ ocd-division/country:us/state:nd/county:richland/place:west_end,West End townshi
 ocd-division/country:us/state:nd/county:richland/place:wyndmere,Wyndmere township
 ocd-division/country:us/state:nd/county:rolette,Rolette County
 ocd-division/country:us/state:nd/county:rolette/place:kohlmeier,Kohlmeier township
-ocd-division/country:us/state:nd/county:rolette/place:maryville,Maryville township
 ocd-division/country:us/state:nd/county:rolette/place:shell_valley,Shell Valley township
 ocd-division/country:us/state:nd/county:rolette/place:south_valley,South Valley township
 ocd-division/country:us/state:nd/county:sargent,Sargent County
@@ -21729,7 +21738,6 @@ ocd-division/country:us/state:nd/county:sheridan/place:boone,Boone township
 ocd-division/country:us/state:nd/county:sheridan/place:denhoff,Denhoff township
 ocd-division/country:us/state:nd/county:sheridan/place:edgemont,Edgemont township
 ocd-division/country:us/state:nd/county:sheridan/place:fairview,Fairview township
-ocd-division/country:us/state:nd/county:sheridan/place:goodrich,Goodrich township
 ocd-division/country:us/state:nd/county:sheridan/place:highland,Highland township
 ocd-division/country:us/state:nd/county:sheridan/place:lincoln_dale,Lincoln Dale township
 ocd-division/country:us/state:nd/county:sheridan/place:martin,Martin township
@@ -21980,6 +21988,7 @@ ocd-division/country:us/state:nd/county:ward/place:passport,Passport township
 ocd-division/country:us/state:nd/county:ward/place:ree,Ree township
 ocd-division/country:us/state:nd/county:ward/place:rice_lake,Rice Lake township
 ocd-division/country:us/state:nd/county:ward/place:rolling_green,Rolling Green township
+ocd-division/country:us/state:nd/county:ward/place:rushville,Rushville township
 ocd-division/country:us/state:nd/county:ward/place:ryder,Ryder township
 ocd-division/country:us/state:nd/county:ward/place:sauk_prairie,Sauk Prairie township
 ocd-division/country:us/state:nd/county:ward/place:sawyer,Sawyer township
@@ -22529,12 +22538,16 @@ ocd-division/country:us/state:ne/county:buffalo/place:shelton,Shelton township
 ocd-division/country:us/state:ne/county:buffalo/place:thornton,Thornton township
 ocd-division/country:us/state:ne/county:buffalo/place:valley,Valley township
 ocd-division/country:us/state:ne/county:burt,Burt County
+ocd-division/country:us/state:ne/county:burt/place:arizona,Arizona township
 ocd-division/country:us/state:ne/county:burt/place:bell_creek,Bell Creek township
+ocd-division/country:us/state:ne/county:burt/place:craig,Craig township
+ocd-division/country:us/state:ne/county:burt/place:decatur,Decatur township
 ocd-division/country:us/state:ne/county:burt/place:everett,Everett township
 ocd-division/country:us/state:ne/county:burt/place:logan,Logan township
 ocd-division/country:us/state:ne/county:burt/place:oakland,Oakland township
 ocd-division/country:us/state:ne/county:burt/place:pershing,Pershing township
 ocd-division/country:us/state:ne/county:burt/place:quinnebaugh,Quinnebaugh township
+ocd-division/country:us/state:ne/county:burt/place:riverside,Riverside township
 ocd-division/country:us/state:ne/county:burt/place:silver_creek,Silver Creek township
 ocd-division/country:us/state:ne/county:burt/place:summit,Summit township
 ocd-division/country:us/state:ne/county:butler,Butler County
@@ -22723,6 +22736,20 @@ ocd-division/country:us/state:ne/county:gosper,Gosper County
 ocd-division/country:us/state:ne/county:grant,Grant County
 ocd-division/country:us/state:ne/county:greeley,Greeley County
 ocd-division/country:us/state:ne/county:hall,Hall County
+ocd-division/country:us/state:ne/county:hall/place:alda,Alda township
+ocd-division/country:us/state:ne/county:hall/place:cameron,Cameron township
+ocd-division/country:us/state:ne/county:hall/place:center,Center township
+ocd-division/country:us/state:ne/county:hall/place:doniphan,Doniphan township
+ocd-division/country:us/state:ne/county:hall/place:harrison,Harrison township
+ocd-division/country:us/state:ne/county:hall/place:jackson,Jackson township
+ocd-division/country:us/state:ne/county:hall/place:lake,Lake township
+ocd-division/country:us/state:ne/county:hall/place:martin,Martin township
+ocd-division/country:us/state:ne/county:hall/place:mayfield,Mayfield township
+ocd-division/country:us/state:ne/county:hall/place:prairie_creek,Prairie Creek township
+ocd-division/country:us/state:ne/county:hall/place:south_loup,South Loup township
+ocd-division/country:us/state:ne/county:hall/place:south_platte,South Platte township
+ocd-division/country:us/state:ne/county:hall/place:washington,Washington township
+ocd-division/country:us/state:ne/county:hall/place:wood_river,Wood River township
 ocd-division/country:us/state:ne/county:hamilton,Hamilton County
 ocd-division/country:us/state:ne/county:harlan,Harlan County
 ocd-division/country:us/state:ne/county:harlan/place:albany,Albany township
@@ -22872,20 +22899,6 @@ ocd-division/country:us/state:ne/county:otoe,Otoe County
 ocd-division/country:us/state:ne/county:pawnee,Pawnee County
 ocd-division/country:us/state:ne/county:perkins,Perkins County
 ocd-division/country:us/state:ne/county:phelps,Phelps County
-ocd-division/country:us/state:ne/county:phelps/place:anderson,Anderson township
-ocd-division/country:us/state:ne/county:phelps/place:center,Center township
-ocd-division/country:us/state:ne/county:phelps/place:cottonwood,Cottonwood township
-ocd-division/country:us/state:ne/county:phelps/place:divide,Divide township
-ocd-division/country:us/state:ne/county:phelps/place:garfield,Garfield township
-ocd-division/country:us/state:ne/county:phelps/place:industry-rock_falls,Industry-Rock Falls township
-ocd-division/country:us/state:ne/county:phelps/place:laird,Laird township
-ocd-division/country:us/state:ne/county:phelps/place:lake,Lake township
-ocd-division/country:us/state:ne/county:phelps/place:prairie,Prairie township
-ocd-division/country:us/state:ne/county:phelps/place:sheridan,Sheridan township
-ocd-division/country:us/state:ne/county:phelps/place:union,Union township
-ocd-division/country:us/state:ne/county:phelps/place:westmark,Westmark township
-ocd-division/country:us/state:ne/county:phelps/place:westside,Westside township
-ocd-division/country:us/state:ne/county:phelps/place:williamsburg,Williamsburg township
 ocd-division/country:us/state:ne/county:pierce,Pierce County
 ocd-division/country:us/state:ne/county:platte,Platte County
 ocd-division/country:us/state:ne/county:platte/place:bismark,Bismark township
@@ -22959,8 +22972,20 @@ ocd-division/country:us/state:ne/county:thurston/place:thayer,Thayer township
 ocd-division/country:us/state:ne/county:thurston/place:winnebago,Winnebago township
 ocd-division/country:us/state:ne/county:valley,Valley County
 ocd-division/country:us/state:ne/county:valley/place:arcadia,Arcadia township
+ocd-division/country:us/state:ne/county:valley/place:davis_creek,Davis Creek township
+ocd-division/country:us/state:ne/county:valley/place:elyria,Elyria township
+ocd-division/country:us/state:ne/county:valley/place:enterprise,Enterprise township
+ocd-division/country:us/state:ne/county:valley/place:eureka,Eureka township
+ocd-division/country:us/state:ne/county:valley/place:geranium,Geranium township
+ocd-division/country:us/state:ne/county:valley/place:independent,Independent township
+ocd-division/country:us/state:ne/county:valley/place:liberty,Liberty township
+ocd-division/country:us/state:ne/county:valley/place:michigan,Michigan township
+ocd-division/country:us/state:ne/county:valley/place:noble,Noble township
 ocd-division/country:us/state:ne/county:valley/place:north_loup,North Loup township
 ocd-division/country:us/state:ne/county:valley/place:ord,Ord township
+ocd-division/country:us/state:ne/county:valley/place:springdale,Springdale township
+ocd-division/country:us/state:ne/county:valley/place:vinton,Vinton township
+ocd-division/country:us/state:ne/county:valley/place:yale,Yale township
 ocd-division/country:us/state:ne/county:washington,Washington County
 ocd-division/country:us/state:ne/county:washington/place:township_1,Township 1
 ocd-division/country:us/state:ne/county:washington/place:township_2,Township 2
@@ -23636,6 +23661,7 @@ ocd-division/country:us/state:nh/place:lincoln,Lincoln town
 ocd-division/country:us/state:nh/place:lisbon,Lisbon town
 ocd-division/country:us/state:nh/place:litchfield,Litchfield town
 ocd-division/country:us/state:nh/place:littleton,Littleton town
+ocd-division/country:us/state:nh/place:livermore,Livermore town
 ocd-division/country:us/state:nh/place:londonderry,Londonderry town
 ocd-division/country:us/state:nh/place:loudon,Loudon town
 ocd-division/country:us/state:nh/place:lyman,Lyman town
@@ -23873,7 +23899,6 @@ ocd-division/country:us/state:nj/county:mercer/place:ewing,Ewing township
 ocd-division/country:us/state:nj/county:mercer/place:hamilton,Hamilton township
 ocd-division/country:us/state:nj/county:mercer/place:hopewell,Hopewell township
 ocd-division/country:us/state:nj/county:mercer/place:lawrence,Lawrence township
-ocd-division/country:us/state:nj/county:mercer/place:princeton,Princeton township
 ocd-division/country:us/state:nj/county:mercer/place:robbinsville,Robbinsville township
 ocd-division/country:us/state:nj/county:mercer/place:west_windsor,West Windsor township
 ocd-division/country:us/state:nj/county:middlesex,Middlesex County
@@ -24240,7 +24265,7 @@ ocd-division/country:us/state:nj/place:point_pleasant,Point Pleasant borough
 ocd-division/country:us/state:nj/place:point_pleasant_beach,Point Pleasant Beach borough
 ocd-division/country:us/state:nj/place:pompton_lakes,Pompton Lakes borough
 ocd-division/country:us/state:nj/place:port_republic,Port Republic city
-ocd-division/country:us/state:nj/place:princeton,Princeton borough
+ocd-division/country:us/state:nj/place:princeton,Princeton
 ocd-division/country:us/state:nj/place:prospect_park,Prospect Park borough
 ocd-division/country:us/state:nj/place:rahway,Rahway city
 ocd-division/country:us/state:nj/place:ramsey,Ramsey borough
@@ -24368,6 +24393,7 @@ ocd-division/country:us/state:nm/county:valencia,Valencia County
 ocd-division/country:us/state:nm/place:alamogordo,Alamogordo city
 ocd-division/country:us/state:nm/place:albuquerque,Albuquerque city
 ocd-division/country:us/state:nm/place:angel_fire,Angel Fire village
+ocd-division/country:us/state:nm/place:anthony,Anthony city
 ocd-division/country:us/state:nm/place:artesia,Artesia city
 ocd-division/country:us/state:nm/place:aztec,Aztec city
 ocd-division/country:us/state:nm/place:bayard,Bayard city
@@ -24397,7 +24423,7 @@ ocd-division/country:us/state:nm/place:edgewood,Edgewood town
 ocd-division/country:us/state:nm/place:elephant_butte,Elephant Butte city
 ocd-division/country:us/state:nm/place:elida,Elida town
 ocd-division/country:us/state:nm/place:encino,Encino village
-ocd-division/country:us/state:nm/place:espanola,Espanola city
+ocd-division/country:us/state:nm/place:española,Española city
 ocd-division/country:us/state:nm/place:estancia,Estancia town
 ocd-division/country:us/state:nm/place:eunice,Eunice city
 ocd-division/country:us/state:nm/place:farmington,Farmington city
@@ -25650,12 +25676,10 @@ ocd-division/country:us/state:ny/place:east_aurora,East Aurora village
 ocd-division/country:us/state:ny/place:east_hampton,East Hampton village
 ocd-division/country:us/state:ny/place:east_hills,East Hills village
 ocd-division/country:us/state:ny/place:east_nassau,East Nassau village
-ocd-division/country:us/state:ny/place:east_randolph,East Randolph village
 ocd-division/country:us/state:ny/place:east_rochester,East Rochester village
 ocd-division/country:us/state:ny/place:east_rockaway,East Rockaway village
 ocd-division/country:us/state:ny/place:east_syracuse,East Syracuse village
 ocd-division/country:us/state:ny/place:east_williston,East Williston village
-ocd-division/country:us/state:ny/place:edwards,Edwards village
 ocd-division/country:us/state:ny/place:elba,Elba village
 ocd-division/country:us/state:ny/place:elbridge,Elbridge village
 ocd-division/country:us/state:ny/place:ellenville,Ellenville village
@@ -25791,7 +25815,6 @@ ocd-division/country:us/state:ny/place:leicester,Leicester village
 ocd-division/country:us/state:ny/place:lewiston,Lewiston village
 ocd-division/country:us/state:ny/place:liberty,Liberty village
 ocd-division/country:us/state:ny/place:lima,Lima village
-ocd-division/country:us/state:ny/place:limestone,Limestone village
 ocd-division/country:us/state:ny/place:lindenhurst,Lindenhurst village
 ocd-division/country:us/state:ny/place:lisle,Lisle village
 ocd-division/country:us/state:ny/place:little_falls,Little Falls city
@@ -25821,6 +25844,7 @@ ocd-division/country:us/state:ny/place:marcellus,Marcellus village
 ocd-division/country:us/state:ny/place:margaretville,Margaretville village
 ocd-division/country:us/state:ny/place:massapequa_park,Massapequa Park village
 ocd-division/country:us/state:ny/place:massena,Massena village
+ocd-division/country:us/state:ny/place:mastic_beach,Mastic Beach village
 ocd-division/country:us/state:ny/place:matinecock,Matinecock village
 ocd-division/country:us/state:ny/place:maybrook,Maybrook village
 ocd-division/country:us/state:ny/place:mayfield,Mayfield village
@@ -25924,7 +25948,6 @@ ocd-division/country:us/state:ny/place:pelham,Pelham village
 ocd-division/country:us/state:ny/place:pelham_manor,Pelham Manor village
 ocd-division/country:us/state:ny/place:penn_yan,Penn Yan village
 ocd-division/country:us/state:ny/place:perry,Perry village
-ocd-division/country:us/state:ny/place:perrysburg,Perrysburg village
 ocd-division/country:us/state:ny/place:phelps,Phelps village
 ocd-division/country:us/state:ny/place:philadelphia,Philadelphia village
 ocd-division/country:us/state:ny/place:philmont,Philmont village
@@ -25953,7 +25976,6 @@ ocd-division/country:us/state:ny/place:poughkeepsie,Poughkeepsie city
 ocd-division/country:us/state:ny/place:prospect,Prospect village
 ocd-division/country:us/state:ny/place:pulaski,Pulaski village
 ocd-division/country:us/state:ny/place:quogue,Quogue village
-ocd-division/country:us/state:ny/place:randolph,Randolph village
 ocd-division/country:us/state:ny/place:ravena,Ravena village
 ocd-division/country:us/state:ny/place:red_creek,Red Creek village
 ocd-division/country:us/state:ny/place:red_hook,Red Hook village
@@ -25999,7 +26021,6 @@ ocd-division/country:us/state:ny/place:schuylerville,Schuylerville village
 ocd-division/country:us/state:ny/place:scotia,Scotia village
 ocd-division/country:us/state:ny/place:scottsville,Scottsville village
 ocd-division/country:us/state:ny/place:sea_cliff,Sea Cliff village
-ocd-division/country:us/state:ny/place:seneca_falls,Seneca Falls village
 ocd-division/country:us/state:ny/place:sharon_springs,Sharon Springs village
 ocd-division/country:us/state:ny/place:sherburne,Sherburne village
 ocd-division/country:us/state:ny/place:sherman,Sherman village
@@ -26888,12 +26909,10 @@ ocd-division/country:us/state:oh/county:mahoning/place:boardman,Boardman townshi
 ocd-division/country:us/state:oh/county:mahoning/place:canfield,Canfield township
 ocd-division/country:us/state:oh/county:mahoning/place:coitsville,Coitsville township
 ocd-division/country:us/state:oh/county:mahoning/place:ellsworth,Ellsworth township
-ocd-division/country:us/state:oh/county:mahoning/place:fairfield,Fairfield township
 ocd-division/country:us/state:oh/county:mahoning/place:goshen,Goshen township
 ocd-division/country:us/state:oh/county:mahoning/place:green,Green township
 ocd-division/country:us/state:oh/county:mahoning/place:jackson,Jackson township
 ocd-division/country:us/state:oh/county:mahoning/place:milton,Milton township
-ocd-division/country:us/state:oh/county:mahoning/place:perry,Perry township
 ocd-division/country:us/state:oh/county:mahoning/place:poland,Poland township
 ocd-division/country:us/state:oh/county:mahoning/place:smith,Smith township
 ocd-division/country:us/state:oh/county:mahoning/place:springfield,Springfield township
@@ -27001,6 +27020,7 @@ ocd-division/country:us/state:oh/county:montgomery/place:jefferson,Jefferson tow
 ocd-division/country:us/state:oh/county:montgomery/place:miami,Miami township
 ocd-division/country:us/state:oh/county:montgomery/place:perry,Perry township
 ocd-division/country:us/state:oh/county:montgomery/place:washington,Washington township
+ocd-division/country:us/state:oh/county:montgomery/place:wayne,Wayne township
 ocd-division/country:us/state:oh/county:morgan,Morgan County
 ocd-division/country:us/state:oh/county:morgan/place:bloom,Bloom township
 ocd-division/country:us/state:oh/county:morgan/place:bristol,Bristol township
@@ -27640,12 +27660,12 @@ ocd-division/country:us/state:oh/place:cambridge,Cambridge city
 ocd-division/country:us/state:oh/place:camden,Camden village
 ocd-division/country:us/state:oh/place:campbell,Campbell city
 ocd-division/country:us/state:oh/place:canal_fulton,Canal Fulton city
-ocd-division/country:us/state:oh/place:canal_winchester,Canal Winchester village
+ocd-division/country:us/state:oh/place:canal_winchester,Canal Winchester city
 ocd-division/country:us/state:oh/place:canfield,Canfield city
 ocd-division/country:us/state:oh/place:canton,Canton city
 ocd-division/country:us/state:oh/place:cardington,Cardington village
 ocd-division/country:us/state:oh/place:carey,Carey village
-ocd-division/country:us/state:oh/place:carlisle,Carlisle city
+ocd-division/country:us/state:oh/place:carlisle,Carlisle village
 ocd-division/country:us/state:oh/place:carroll,Carroll village
 ocd-division/country:us/state:oh/place:carrollton,Carrollton village
 ocd-division/country:us/state:oh/place:casstown,Casstown village
@@ -27707,7 +27727,7 @@ ocd-division/country:us/state:oh/place:corwin,Corwin village
 ocd-division/country:us/state:oh/place:coshocton,Coshocton city
 ocd-division/country:us/state:oh/place:covington,Covington village
 ocd-division/country:us/state:oh/place:craig_beach,Craig Beach village
-ocd-division/country:us/state:oh/place:crestline,Crestline city
+ocd-division/country:us/state:oh/place:crestline,Crestline village
 ocd-division/country:us/state:oh/place:creston,Creston village
 ocd-division/country:us/state:oh/place:cridersville,Cridersville village
 ocd-division/country:us/state:oh/place:crooksville,Crooksville village
@@ -27743,7 +27763,7 @@ ocd-division/country:us/state:oh/place:dupont,Dupont village
 ocd-division/country:us/state:oh/place:east_canton,East Canton village
 ocd-division/country:us/state:oh/place:east_cleveland,East Cleveland city
 ocd-division/country:us/state:oh/place:east_liverpool,East Liverpool city
-ocd-division/country:us/state:oh/place:east_palestine,East Palestine city
+ocd-division/country:us/state:oh/place:east_palestine,East Palestine village
 ocd-division/country:us/state:oh/place:east_sparta,East Sparta village
 ocd-division/country:us/state:oh/place:eastlake,Eastlake city
 ocd-division/country:us/state:oh/place:eaton,Eaton city
@@ -27781,7 +27801,6 @@ ocd-division/country:us/state:oh/place:forest_park,Forest Park city
 ocd-division/country:us/state:oh/place:fort_jennings,Fort Jennings village
 ocd-division/country:us/state:oh/place:fort_loramie,Fort Loramie village
 ocd-division/country:us/state:oh/place:fort_recovery,Fort Recovery village
-ocd-division/country:us/state:oh/place:fort_shawnee,Fort Shawnee village
 ocd-division/country:us/state:oh/place:fostoria,Fostoria city
 ocd-division/country:us/state:oh/place:frankfort,Frankfort village
 ocd-division/country:us/state:oh/place:franklin,Franklin city
@@ -27805,7 +27824,7 @@ ocd-division/country:us/state:oh/place:geneva,Geneva city
 ocd-division/country:us/state:oh/place:geneva-on-the-lake,Geneva-on-the-Lake village
 ocd-division/country:us/state:oh/place:genoa,Genoa village
 ocd-division/country:us/state:oh/place:georgetown,Georgetown village
-ocd-division/country:us/state:oh/place:germantown,Germantown village
+ocd-division/country:us/state:oh/place:germantown,Germantown city
 ocd-division/country:us/state:oh/place:gettysburg,Gettysburg village
 ocd-division/country:us/state:oh/place:gibsonburg,Gibsonburg village
 ocd-division/country:us/state:oh/place:gilboa,Gilboa village
@@ -27831,12 +27850,12 @@ ocd-division/country:us/state:oh/place:graysville,Graysville village
 ocd-division/country:us/state:oh/place:green,Green city
 ocd-division/country:us/state:oh/place:green_camp,Green Camp village
 ocd-division/country:us/state:oh/place:green_springs,Green Springs village
-ocd-division/country:us/state:oh/place:greenfield,Greenfield city
+ocd-division/country:us/state:oh/place:greenfield,Greenfield village
 ocd-division/country:us/state:oh/place:greenhills,Greenhills village
 ocd-division/country:us/state:oh/place:greenville,Greenville city
 ocd-division/country:us/state:oh/place:greenwich,Greenwich village
 ocd-division/country:us/state:oh/place:grove_city,Grove City city
-ocd-division/country:us/state:oh/place:groveport,Groveport village
+ocd-division/country:us/state:oh/place:groveport,Groveport city
 ocd-division/country:us/state:oh/place:grover_hill,Grover Hill village
 ocd-division/country:us/state:oh/place:hamden,Hamden village
 ocd-division/country:us/state:oh/place:hamersville,Hamersville village
@@ -28068,7 +28087,7 @@ ocd-division/country:us/state:oh/place:nellie,Nellie village
 ocd-division/country:us/state:oh/place:nelsonville,Nelsonville city
 ocd-division/country:us/state:oh/place:nevada,Nevada village
 ocd-division/country:us/state:oh/place:neville,Neville village
-ocd-division/country:us/state:oh/place:new_albany,New Albany village
+ocd-division/country:us/state:oh/place:new_albany,New Albany city
 ocd-division/country:us/state:oh/place:new_alexandria,New Alexandria village
 ocd-division/country:us/state:oh/place:new_athens,New Athens village
 ocd-division/country:us/state:oh/place:new_bavaria,New Bavaria village
@@ -28098,7 +28117,7 @@ ocd-division/country:us/state:oh/place:new_weston,New Weston village
 ocd-division/country:us/state:oh/place:newark,Newark city
 ocd-division/country:us/state:oh/place:newburgh_heights,Newburgh Heights village
 ocd-division/country:us/state:oh/place:newcomerstown,Newcomerstown village
-ocd-division/country:us/state:oh/place:newton_falls,Newton Falls city
+ocd-division/country:us/state:oh/place:newton_falls,Newton Falls village
 ocd-division/country:us/state:oh/place:newtonsville,Newtonsville village
 ocd-division/country:us/state:oh/place:newtown,Newtown village
 ocd-division/country:us/state:oh/place:ney,Ney village
@@ -28267,7 +28286,7 @@ ocd-division/country:us/state:oh/place:shiloh,Shiloh village
 ocd-division/country:us/state:oh/place:shreve,Shreve village
 ocd-division/country:us/state:oh/place:sidney,Sidney city
 ocd-division/country:us/state:oh/place:silver_lake,Silver Lake village
-ocd-division/country:us/state:oh/place:silverton,Silverton city
+ocd-division/country:us/state:oh/place:silverton,Silverton village
 ocd-division/country:us/state:oh/place:sinking_spring,Sinking Spring village
 ocd-division/country:us/state:oh/place:smithfield,Smithfield village
 ocd-division/country:us/state:oh/place:smithville,Smithville village
@@ -28293,11 +28312,10 @@ ocd-division/country:us/state:oh/place:spring_valley,Spring Valley village
 ocd-division/country:us/state:oh/place:springboro,Springboro city
 ocd-division/country:us/state:oh/place:springdale,Springdale city
 ocd-division/country:us/state:oh/place:springfield,Springfield city
-ocd-division/country:us/state:oh/place:st_bernard,St. Bernard city
+ocd-division/country:us/state:oh/place:st_bernard,St. Bernard village
 ocd-division/country:us/state:oh/place:st_clairsville,St. Clairsville city
 ocd-division/country:us/state:oh/place:st_henry,St. Henry village
 ocd-division/country:us/state:oh/place:st_louisville,St. Louisville village
-ocd-division/country:us/state:oh/place:st_martin,St. Martin village
 ocd-division/country:us/state:oh/place:st_marys,St. Marys city
 ocd-division/country:us/state:oh/place:st_paris,St. Paris village
 ocd-division/country:us/state:oh/place:stafford,Stafford village
@@ -28378,9 +28396,9 @@ ocd-division/country:us/state:oh/place:warrensville_heights,Warrensville Heights
 ocd-division/country:us/state:oh/place:warsaw,Warsaw village
 ocd-division/country:us/state:oh/place:washington_court_house,Washington Court House city
 ocd-division/country:us/state:oh/place:washingtonville,Washingtonville village
-ocd-division/country:us/state:oh/place:waterville,Waterville village
+ocd-division/country:us/state:oh/place:waterville,Waterville city
 ocd-division/country:us/state:oh/place:wauseon,Wauseon city
-ocd-division/country:us/state:oh/place:waverly_city,Waverly City city
+ocd-division/country:us/state:oh/place:waverly,Waverly village
 ocd-division/country:us/state:oh/place:wayne,Wayne village
 ocd-division/country:us/state:oh/place:wayne_lakes,Wayne Lakes village
 ocd-division/country:us/state:oh/place:waynesburg,Waynesburg village
@@ -28699,6 +28717,7 @@ ocd-division/country:us/state:ok/place:elmore_city,Elmore City town
 ocd-division/country:us/state:ok/place:empire_city,Empire City town
 ocd-division/country:us/state:ok/place:enid,Enid city
 ocd-division/country:us/state:ok/place:erick,Erick city
+ocd-division/country:us/state:ok/place:erin_springs,Erin Springs town
 ocd-division/country:us/state:ok/place:etowah,Etowah town
 ocd-division/country:us/state:ok/place:eufaula,Eufaula city
 ocd-division/country:us/state:ok/place:fair_oaks,Fair Oaks town
@@ -28870,7 +28889,7 @@ ocd-division/country:us/state:ok/place:may,May town
 ocd-division/country:us/state:ok/place:maysville,Maysville town
 ocd-division/country:us/state:ok/place:mcalester,McAlester city
 ocd-division/country:us/state:ok/place:mccurtain,McCurtain town
-ocd-division/country:us/state:ok/place:mcloud,McLoud town
+ocd-division/country:us/state:ok/place:mcloud,McLoud city
 ocd-division/country:us/state:ok/place:mead,Mead town
 ocd-division/country:us/state:ok/place:medford,Medford city
 ocd-division/country:us/state:ok/place:medicine_park,Medicine Park town
@@ -28899,6 +28918,7 @@ ocd-division/country:us/state:ok/place:mutual,Mutual town
 ocd-division/country:us/state:ok/place:nash,Nash town
 ocd-division/country:us/state:ok/place:new_alluwe,New Alluwe town
 ocd-division/country:us/state:ok/place:new_cordell,New Cordell city
+ocd-division/country:us/state:ok/place:new_woodville,New Woodville town
 ocd-division/country:us/state:ok/place:newcastle,Newcastle city
 ocd-division/country:us/state:ok/place:newkirk,Newkirk city
 ocd-division/country:us/state:ok/place:nichols_hills,Nichols Hills city
@@ -28910,6 +28930,7 @@ ocd-division/country:us/state:ok/place:norman,Norman city
 ocd-division/country:us/state:ok/place:north_enid,North Enid town
 ocd-division/country:us/state:ok/place:north_miami,North Miami town
 ocd-division/country:us/state:ok/place:nowata,Nowata city
+ocd-division/country:us/state:ok/place:oak_grove,Oak Grove town
 ocd-division/country:us/state:ok/place:oakland,Oakland town
 ocd-division/country:us/state:ok/place:oaks,Oaks town
 ocd-division/country:us/state:ok/place:oakwood,Oakwood town
@@ -28994,7 +29015,6 @@ ocd-division/country:us/state:ok/place:schulter,Schulter town
 ocd-division/country:us/state:ok/place:seiling,Seiling city
 ocd-division/country:us/state:ok/place:seminole,Seminole city
 ocd-division/country:us/state:ok/place:sentinel,Sentinel town
-ocd-division/country:us/state:ok/place:shady_grove,Shady Grove town
 ocd-division/country:us/state:ok/place:shady_point,Shady Point town
 ocd-division/country:us/state:ok/place:shamrock,Shamrock town
 ocd-division/country:us/state:ok/place:sharon,Sharon town
@@ -29007,6 +29027,7 @@ ocd-division/country:us/state:ok/place:skiatook,Skiatook town
 ocd-division/country:us/state:ok/place:slaughterville,Slaughterville town
 ocd-division/country:us/state:ok/place:slick,Slick town
 ocd-division/country:us/state:ok/place:smith_village,Smith Village town
+ocd-division/country:us/state:ok/place:smithville,Smithville town
 ocd-division/country:us/state:ok/place:snyder,Snyder city
 ocd-division/country:us/state:ok/place:soper,Soper town
 ocd-division/country:us/state:ok/place:south_coffeyville,South Coffeyville town
@@ -29234,6 +29255,7 @@ ocd-division/country:us/state:or/place:gold_hill,Gold Hill city
 ocd-division/country:us/state:or/place:granite,Granite city
 ocd-division/country:us/state:or/place:grants_pass,Grants Pass city
 ocd-division/country:us/state:or/place:grass_valley,Grass Valley city
+ocd-division/country:us/state:or/place:greenhorn,Greenhorn city
 ocd-division/country:us/state:or/place:gresham,Gresham city
 ocd-division/country:us/state:or/place:haines,Haines city
 ocd-division/country:us/state:or/place:halfway,Halfway city
@@ -30251,7 +30273,6 @@ ocd-division/country:us/state:pa/county:juniata/place:turbett,Turbett township
 ocd-division/country:us/state:pa/county:juniata/place:tuscarora,Tuscarora township
 ocd-division/country:us/state:pa/county:juniata/place:walker,Walker township
 ocd-division/country:us/state:pa/county:lackawanna,Lackawanna County
-ocd-division/country:us/state:pa/county:lackawanna/place:abington,Abington township
 ocd-division/country:us/state:pa/county:lackawanna/place:benton,Benton township
 ocd-division/country:us/state:pa/county:lackawanna/place:carbondale,Carbondale township
 ocd-division/country:us/state:pa/county:lackawanna/place:clifton,Clifton township
@@ -30271,6 +30292,7 @@ ocd-division/country:us/state:pa/county:lackawanna/place:scott,Scott township
 ocd-division/country:us/state:pa/county:lackawanna/place:south_abington,South Abington township
 ocd-division/country:us/state:pa/county:lackawanna/place:spring_brook,Spring Brook township
 ocd-division/country:us/state:pa/county:lackawanna/place:thornhurst,Thornhurst township
+ocd-division/country:us/state:pa/county:lackawanna/place:waverly,Waverly township
 ocd-division/country:us/state:pa/county:lackawanna/place:west_abington,West Abington township
 ocd-division/country:us/state:pa/county:lancaster,Lancaster County
 ocd-division/country:us/state:pa/county:lancaster/place:bart,Bart township
@@ -30334,6 +30356,7 @@ ocd-division/country:us/state:pa/county:lawrence/place:wilmington,Wilmington tow
 ocd-division/country:us/state:pa/county:lebanon,Lebanon County
 ocd-division/country:us/state:pa/county:lebanon/place:annville,Annville township
 ocd-division/country:us/state:pa/county:lebanon/place:bethel,Bethel township
+ocd-division/country:us/state:pa/county:lebanon/place:cold_spring,Cold Spring township
 ocd-division/country:us/state:pa/county:lebanon/place:east_hanover,East Hanover township
 ocd-division/country:us/state:pa/county:lebanon/place:heidelberg,Heidelberg township
 ocd-division/country:us/state:pa/county:lebanon/place:jackson,Jackson township
@@ -32221,6 +32244,7 @@ ocd-division/country:us/state:sc/place:irmo,Irmo town
 ocd-division/country:us/state:sc/place:isle_of_palms,Isle of Palms city
 ocd-division/country:us/state:sc/place:iva,Iva town
 ocd-division/country:us/state:sc/place:jackson,Jackson town
+ocd-division/country:us/state:sc/place:james_island,James Island town
 ocd-division/country:us/state:sc/place:jamestown,Jamestown town
 ocd-division/country:us/state:sc/place:jefferson,Jefferson town
 ocd-division/country:us/state:sc/place:jenkinsville,Jenkinsville town
@@ -32741,7 +32765,6 @@ ocd-division/country:us/state:sd/county:edmunds/place:vermont,Vermont township
 ocd-division/country:us/state:sd/county:fall_river,Fall River County
 ocd-division/country:us/state:sd/county:fall_river/place:argentine,Argentine township
 ocd-division/country:us/state:sd/county:fall_river/place:provo,Provo township
-ocd-division/country:us/state:sd/county:fall_river/place:robins,Robins township
 ocd-division/country:us/state:sd/county:faulk,Faulk County
 ocd-division/country:us/state:sd/county:faulk/place:arcade,Arcade township
 ocd-division/country:us/state:sd/county:faulk/place:bryant,Bryant township
@@ -32912,7 +32935,6 @@ ocd-division/country:us/state:sd/county:jones/place:buffalo,Buffalo township
 ocd-division/country:us/state:sd/county:jones/place:draper,Draper township
 ocd-division/country:us/state:sd/county:jones/place:dunkel,Dunkel township
 ocd-division/country:us/state:sd/county:jones/place:kolls,Kolls township
-ocd-division/country:us/state:sd/county:jones/place:morgan,Morgan township
 ocd-division/country:us/state:sd/county:jones/place:mullen,Mullen township
 ocd-division/country:us/state:sd/county:jones/place:mussman,Mussman township
 ocd-division/country:us/state:sd/county:jones/place:okaton,Okaton township
@@ -33136,14 +33158,12 @@ ocd-division/country:us/state:sd/county:pennington/place:sunnyside,Sunnyside tow
 ocd-division/country:us/state:sd/county:pennington/place:wasta,Wasta township
 ocd-division/country:us/state:sd/county:perkins,Perkins County
 ocd-division/country:us/state:sd/county:perkins/place:ada,Ada township
-ocd-division/country:us/state:sd/county:perkins/place:anderson,Anderson township
 ocd-division/country:us/state:sd/county:perkins/place:antelope,Antelope township
 ocd-division/country:us/state:sd/county:perkins/place:barrett,Barrett township
 ocd-division/country:us/state:sd/county:perkins/place:beck-highland,Beck-Highland township
 ocd-division/country:us/state:sd/county:perkins/place:bison,Bison township
 ocd-division/country:us/state:sd/county:perkins/place:burdick,Burdick township
 ocd-division/country:us/state:sd/county:perkins/place:cash,Cash township
-ocd-division/country:us/state:sd/county:perkins/place:castle_butte,Castle Butte township
 ocd-division/country:us/state:sd/county:perkins/place:chance,Chance township
 ocd-division/country:us/state:sd/county:perkins/place:chaudoin,Chaudoin township
 ocd-division/country:us/state:sd/county:perkins/place:clark,Clark township
@@ -33174,7 +33194,6 @@ ocd-division/country:us/state:sd/county:perkins/place:sidney,Sidney township
 ocd-division/country:us/state:sd/county:perkins/place:strool,Strool township
 ocd-division/country:us/state:sd/county:perkins/place:trail,Trail township
 ocd-division/country:us/state:sd/county:perkins/place:vail,Vail township
-ocd-division/country:us/state:sd/county:perkins/place:vickers,Vickers township
 ocd-division/country:us/state:sd/county:perkins/place:viking,Viking township
 ocd-division/country:us/state:sd/county:perkins/place:vrooman,Vrooman township
 ocd-division/country:us/state:sd/county:perkins/place:wells,Wells township
@@ -33916,7 +33935,6 @@ ocd-division/country:us/state:tn/place:humboldt,Humboldt city
 ocd-division/country:us/state:tn/place:huntingdon,Huntingdon town
 ocd-division/country:us/state:tn/place:huntland,Huntland town
 ocd-division/country:us/state:tn/place:huntsville,Huntsville town
-ocd-division/country:us/state:tn/place:iron_city,Iron City city
 ocd-division/country:us/state:tn/place:jacksboro,Jacksboro town
 ocd-division/country:us/state:tn/place:jackson,Jackson city
 ocd-division/country:us/state:tn/place:jamestown,Jamestown city
@@ -33938,7 +33956,6 @@ ocd-division/country:us/state:tn/place:lafayette,Lafayette city
 ocd-division/country:us/state:tn/place:lake_city,Lake City city
 ocd-division/country:us/state:tn/place:lakeland,Lakeland city
 ocd-division/country:us/state:tn/place:lakesite,Lakesite city
-ocd-division/country:us/state:tn/place:lakewood,Lakewood city
 ocd-division/country:us/state:tn/place:lawrenceburg,Lawrenceburg city
 ocd-division/country:us/state:tn/place:lebanon,Lebanon city
 ocd-division/country:us/state:tn/place:lenoir_city,Lenoir City city
@@ -34611,6 +34628,7 @@ ocd-division/country:us/state:tx/place:cottonwood_shores,Cottonwood Shores city
 ocd-division/country:us/state:tx/place:cotulla,Cotulla city
 ocd-division/country:us/state:tx/place:cove,Cove city
 ocd-division/country:us/state:tx/place:covington,Covington city
+ocd-division/country:us/state:tx/place:coyote_flats,Coyote Flats city
 ocd-division/country:us/state:tx/place:crandall,Crandall city
 ocd-division/country:us/state:tx/place:crane,Crane city
 ocd-division/country:us/state:tx/place:cranfills_gap,Cranfills Gap city
@@ -34888,7 +34906,6 @@ ocd-division/country:us/state:tx/place:irving,Irving city
 ocd-division/country:us/state:tx/place:italy,Italy town
 ocd-division/country:us/state:tx/place:itasca,Itasca city
 ocd-division/country:us/state:tx/place:ivanhoe,Ivanhoe city
-ocd-division/country:us/state:tx/place:ivanhoe_north,Ivanhoe North city
 ocd-division/country:us/state:tx/place:jacinto_city,Jacinto City city
 ocd-division/country:us/state:tx/place:jacksboro,Jacksboro city
 ocd-division/country:us/state:tx/place:jacksonville,Jacksonville city
@@ -35119,6 +35136,7 @@ ocd-division/country:us/state:tx/place:navasota,Navasota city
 ocd-division/country:us/state:tx/place:nazareth,Nazareth city
 ocd-division/country:us/state:tx/place:nederland,Nederland city
 ocd-division/country:us/state:tx/place:needville,Needville city
+ocd-division/country:us/state:tx/place:nesbitt,Nesbitt town
 ocd-division/country:us/state:tx/place:nevada,Nevada city
 ocd-division/country:us/state:tx/place:new_berlin,New Berlin city
 ocd-division/country:us/state:tx/place:new_boston,New Boston city
@@ -35248,6 +35266,7 @@ ocd-division/country:us/state:tx/place:princeton,Princeton city
 ocd-division/country:us/state:tx/place:progreso,Progreso city
 ocd-division/country:us/state:tx/place:progreso_lakes,Progreso Lakes city
 ocd-division/country:us/state:tx/place:prosper,Prosper town
+ocd-division/country:us/state:tx/place:providence_village,Providence Village town
 ocd-division/country:us/state:tx/place:putnam,Putnam town
 ocd-division/country:us/state:tx/place:pyote,Pyote town
 ocd-division/country:us/state:tx/place:quanah,Quanah city
@@ -35259,6 +35278,7 @@ ocd-division/country:us/state:tx/place:quitman,Quitman city
 ocd-division/country:us/state:tx/place:ralls,Ralls city
 ocd-division/country:us/state:tx/place:rancho_viejo,Rancho Viejo town
 ocd-division/country:us/state:tx/place:ranger,Ranger city
+ocd-division/country:us/state:tx/place:rangerville,Rangerville village
 ocd-division/country:us/state:tx/place:rankin,Rankin city
 ocd-division/country:us/state:tx/place:ransom_canyon,Ransom Canyon town
 ocd-division/country:us/state:tx/place:ravenna,Ravenna city
@@ -35338,8 +35358,9 @@ ocd-division/country:us/state:tx/place:san_leanna,San Leanna village
 ocd-division/country:us/state:tx/place:san_marcos,San Marcos city
 ocd-division/country:us/state:tx/place:san_patricio,San Patricio city
 ocd-division/country:us/state:tx/place:san_perlita,San Perlita city
-ocd-division/country:us/state:tx/place:san_saba,San Saba town
+ocd-division/country:us/state:tx/place:san_saba,San Saba city
 ocd-division/country:us/state:tx/place:sanctuary,Sanctuary town
+ocd-division/country:us/state:tx/place:sandy_point,Sandy Point city
 ocd-division/country:us/state:tx/place:sanford,Sanford town
 ocd-division/country:us/state:tx/place:sanger,Sanger city
 ocd-division/country:us/state:tx/place:sansom_park,Sansom Park city
@@ -35825,7 +35846,7 @@ ocd-division/country:us/state:ut/place:syracuse,Syracuse city
 ocd-division/country:us/state:ut/place:tabiona,Tabiona town
 ocd-division/country:us/state:ut/place:taylorsville,Taylorsville city
 ocd-division/country:us/state:ut/place:tooele,Tooele city
-ocd-division/country:us/state:ut/place:toquerville,Toquerville town
+ocd-division/country:us/state:ut/place:toquerville,Toquerville city
 ocd-division/country:us/state:ut/place:torrey,Torrey town
 ocd-division/country:us/state:ut/place:tremonton,Tremonton city
 ocd-division/country:us/state:ut/place:trenton,Trenton town
@@ -36192,11 +36213,12 @@ ocd-division/country:us/state:vt/county:windsor,Windsor County
 ocd-division/country:us/state:vt/place:addison,Addison town
 ocd-division/country:us/state:vt/place:albany_town,Albany town
 ocd-division/country:us/state:vt/place:albany_village,Albany village
-ocd-division/country:us/state:vt/place:alburg_town,Alburg town
-ocd-division/country:us/state:vt/place:alburg_village,Alburg village
+ocd-division/country:us/state:vt/place:alburgh_town,Alburgh town
+ocd-division/country:us/state:vt/place:alburgh_village,Alburgh village
 ocd-division/country:us/state:vt/place:andover,Andover town
 ocd-division/country:us/state:vt/place:arlington,Arlington town
 ocd-division/country:us/state:vt/place:athens,Athens town
+ocd-division/country:us/state:vt/place:averill,Averill town
 ocd-division/country:us/state:vt/place:bakersfield,Bakersfield town
 ocd-division/country:us/state:vt/place:baltimore,Baltimore town
 ocd-division/country:us/state:vt/place:barnard,Barnard town
@@ -36228,8 +36250,7 @@ ocd-division/country:us/state:vt/place:brownington,Brownington town
 ocd-division/country:us/state:vt/place:brunswick,Brunswick town
 ocd-division/country:us/state:vt/place:burke,Burke town
 ocd-division/country:us/state:vt/place:burlington,Burlington city
-ocd-division/country:us/state:vt/place:cabot_town,Cabot town
-ocd-division/country:us/state:vt/place:cabot_village,Cabot village
+ocd-division/country:us/state:vt/place:cabot,Cabot town
 ocd-division/country:us/state:vt/place:calais,Calais town
 ocd-division/country:us/state:vt/place:cambridge_town,Cambridge town
 ocd-division/country:us/state:vt/place:cambridge_village,Cambridge village
@@ -36261,8 +36282,8 @@ ocd-division/country:us/state:vt/place:east_haven,East Haven town
 ocd-division/country:us/state:vt/place:east_montpelier,East Montpelier town
 ocd-division/country:us/state:vt/place:eden,Eden town
 ocd-division/country:us/state:vt/place:elmore,Elmore town
-ocd-division/country:us/state:vt/place:enosburg,Enosburg town
 ocd-division/country:us/state:vt/place:enosburg_falls,Enosburg Falls village
+ocd-division/country:us/state:vt/place:enosburgh,Enosburgh town
 ocd-division/country:us/state:vt/place:essex,Essex town
 ocd-division/country:us/state:vt/place:essex_junction,Essex Junction village
 ocd-division/country:us/state:vt/place:fair_haven,Fair Haven town
@@ -36270,10 +36291,12 @@ ocd-division/country:us/state:vt/place:fairfax,Fairfax town
 ocd-division/country:us/state:vt/place:fairfield,Fairfield town
 ocd-division/country:us/state:vt/place:fairlee,Fairlee town
 ocd-division/country:us/state:vt/place:fayston,Fayston town
+ocd-division/country:us/state:vt/place:ferdinand,Ferdinand town
 ocd-division/country:us/state:vt/place:ferrisburgh,Ferrisburgh town
 ocd-division/country:us/state:vt/place:fletcher,Fletcher town
 ocd-division/country:us/state:vt/place:franklin,Franklin town
 ocd-division/country:us/state:vt/place:georgia,Georgia town
+ocd-division/country:us/state:vt/place:glastenbury,Glastenbury town
 ocd-division/country:us/state:vt/place:glover,Glover town
 ocd-division/country:us/state:vt/place:goshen,Goshen town
 ocd-division/country:us/state:vt/place:grafton,Grafton town
@@ -36303,7 +36326,8 @@ ocd-division/country:us/state:vt/place:jacksonville,Jacksonville village
 ocd-division/country:us/state:vt/place:jamaica,Jamaica town
 ocd-division/country:us/state:vt/place:jay,Jay town
 ocd-division/country:us/state:vt/place:jeffersonville,Jeffersonville village
-ocd-division/country:us/state:vt/place:jericho,Jericho town
+ocd-division/country:us/state:vt/place:jericho_town,Jericho town
+ocd-division/country:us/state:vt/place:jericho_village,Jericho village
 ocd-division/country:us/state:vt/place:johnson_town,Johnson town
 ocd-division/country:us/state:vt/place:johnson_village,Johnson village
 ocd-division/country:us/state:vt/place:killington,Killington town
@@ -36311,6 +36335,7 @@ ocd-division/country:us/state:vt/place:kirby,Kirby town
 ocd-division/country:us/state:vt/place:landgrove,Landgrove town
 ocd-division/country:us/state:vt/place:leicester,Leicester town
 ocd-division/country:us/state:vt/place:lemington,Lemington town
+ocd-division/country:us/state:vt/place:lewis,Lewis town
 ocd-division/country:us/state:vt/place:lincoln,Lincoln town
 ocd-division/country:us/state:vt/place:londonderry,Londonderry town
 ocd-division/country:us/state:vt/place:lowell,Lowell town
@@ -36350,7 +36375,6 @@ ocd-division/country:us/state:vt/place:newport_town,Newport town
 ocd-division/country:us/state:vt/place:north_bennington,North Bennington village
 ocd-division/country:us/state:vt/place:north_hero,North Hero town
 ocd-division/country:us/state:vt/place:north_troy,North Troy village
-ocd-division/country:us/state:vt/place:north_westminster,North Westminster village
 ocd-division/country:us/state:vt/place:northfield_town,Northfield town
 ocd-division/country:us/state:vt/place:northfield_village,Northfield village
 ocd-division/country:us/state:vt/place:norton,Norton town
@@ -36399,6 +36423,7 @@ ocd-division/country:us/state:vt/place:shelburne,Shelburne town
 ocd-division/country:us/state:vt/place:sheldon,Sheldon town
 ocd-division/country:us/state:vt/place:shoreham,Shoreham town
 ocd-division/country:us/state:vt/place:shrewsbury,Shrewsbury town
+ocd-division/country:us/state:vt/place:somerset,Somerset town
 ocd-division/country:us/state:vt/place:south_burlington,South Burlington city
 ocd-division/country:us/state:vt/place:south_hero,South Hero town
 ocd-division/country:us/state:vt/place:springfield,Springfield town
@@ -36649,7 +36674,7 @@ ocd-division/country:us/state:wa/place:mansfield,Mansfield town
 ocd-division/country:us/state:wa/place:maple_valley,Maple Valley city
 ocd-division/country:us/state:wa/place:marcus,Marcus town
 ocd-division/country:us/state:wa/place:marysville,Marysville city
-ocd-division/country:us/state:wa/place:mattawa,Mattawa town
+ocd-division/country:us/state:wa/place:mattawa,Mattawa city
 ocd-division/country:us/state:wa/place:mccleary,McCleary city
 ocd-division/country:us/state:wa/place:medical_lake,Medical Lake city
 ocd-division/country:us/state:wa/place:medina,Medina city
@@ -36658,7 +36683,7 @@ ocd-division/country:us/state:wa/place:mesa,Mesa city
 ocd-division/country:us/state:wa/place:metaline,Metaline town
 ocd-division/country:us/state:wa/place:metaline_falls,Metaline Falls town
 ocd-division/country:us/state:wa/place:mill_creek,Mill Creek city
-ocd-division/country:us/state:wa/place:millwood,Millwood town
+ocd-division/country:us/state:wa/place:millwood,Millwood city
 ocd-division/country:us/state:wa/place:milton,Milton city
 ocd-division/country:us/state:wa/place:monroe,Monroe city
 ocd-division/country:us/state:wa/place:montesano,Montesano city
@@ -36754,7 +36779,7 @@ ocd-division/country:us/state:wa/place:sunnyside,Sunnyside city
 ocd-division/country:us/state:wa/place:tacoma,Tacoma city
 ocd-division/country:us/state:wa/place:tekoa,Tekoa city
 ocd-division/country:us/state:wa/place:tenino,Tenino city
-ocd-division/country:us/state:wa/place:tieton,Tieton town
+ocd-division/country:us/state:wa/place:tieton,Tieton city
 ocd-division/country:us/state:wa/place:toledo,Toledo city
 ocd-division/country:us/state:wa/place:tonasket,Tonasket city
 ocd-division/country:us/state:wa/place:toppenish,Toppenish city
@@ -37355,7 +37380,6 @@ ocd-division/country:us/state:wi/county:juneau/place:summit,Summit town
 ocd-division/country:us/state:wi/county:juneau/place:wonewoc,Wonewoc town
 ocd-division/country:us/state:wi/county:kenosha,Kenosha County
 ocd-division/country:us/state:wi/county:kenosha/place:brighton,Brighton town
-ocd-division/country:us/state:wi/county:kenosha/place:bristol,Bristol town
 ocd-division/country:us/state:wi/county:kenosha/place:paris,Paris town
 ocd-division/country:us/state:wi/county:kenosha/place:randall,Randall town
 ocd-division/country:us/state:wi/county:kenosha/place:salem,Salem town
@@ -38035,7 +38059,6 @@ ocd-division/country:us/state:wi/county:waukesha/place:merton,Merton town
 ocd-division/country:us/state:wi/county:waukesha/place:mukwonago,Mukwonago town
 ocd-division/country:us/state:wi/county:waukesha/place:oconomowoc,Oconomowoc town
 ocd-division/country:us/state:wi/county:waukesha/place:ottawa,Ottawa town
-ocd-division/country:us/state:wi/county:waukesha/place:summit,Summit town
 ocd-division/country:us/state:wi/county:waukesha/place:vernon,Vernon town
 ocd-division/country:us/state:wi/county:waukesha/place:waukesha,Waukesha town
 ocd-division/country:us/state:wi/county:waupaca,Waupaca County
@@ -38073,7 +38096,7 @@ ocd-division/country:us/state:wi/county:waushara/place:marion,Marion town
 ocd-division/country:us/state:wi/county:waushara/place:mount_morris,Mount Morris town
 ocd-division/country:us/state:wi/county:waushara/place:oasis,Oasis town
 ocd-division/country:us/state:wi/county:waushara/place:plainfield,Plainfield town
-ocd-division/country:us/state:wi/county:waushara/place:poysippi,Poysippi town
+ocd-division/country:us/state:wi/county:waushara/place:poy_sippi,Poy Sippi town
 ocd-division/country:us/state:wi/county:waushara/place:richford,Richford town
 ocd-division/country:us/state:wi/county:waushara/place:rose,Rose town
 ocd-division/country:us/state:wi/county:waushara/place:saxeville,Saxeville town
@@ -38179,6 +38202,7 @@ ocd-division/country:us/state:wi/place:black_river_falls,Black River Falls city
 ocd-division/country:us/state:wi/place:blair,Blair city
 ocd-division/country:us/state:wi/place:blanchardville,Blanchardville village
 ocd-division/country:us/state:wi/place:bloomer,Bloomer city
+ocd-division/country:us/state:wi/place:bloomfield,Bloomfield village
 ocd-division/country:us/state:wi/place:bloomington,Bloomington village
 ocd-division/country:us/state:wi/place:blue_mounds,Blue Mounds village
 ocd-division/country:us/state:wi/place:blue_river,Blue River village
@@ -38635,6 +38659,7 @@ ocd-division/country:us/state:wi/place:sturgeon_bay,Sturgeon Bay city
 ocd-division/country:us/state:wi/place:sturtevant,Sturtevant village
 ocd-division/country:us/state:wi/place:suamico,Suamico village
 ocd-division/country:us/state:wi/place:sullivan,Sullivan village
+ocd-division/country:us/state:wi/place:summit,Summit village
 ocd-division/country:us/state:wi/place:sun_prairie,Sun Prairie city
 ocd-division/country:us/state:wi/place:superior_city,Superior city
 ocd-division/country:us/state:wi/place:superior_village,Superior village
@@ -38967,7 +38992,7 @@ ocd-division/country:us/state:wv/place:st_albans,St. Albans city
 ocd-division/country:us/state:wv/place:st_marys,St. Marys city
 ocd-division/country:us/state:wv/place:star_city,Star City town
 ocd-division/country:us/state:wv/place:stonewood,Stonewood city
-ocd-division/country:us/state:wv/place:summersville,Summersville town
+ocd-division/country:us/state:wv/place:summersville,Summersville city
 ocd-division/country:us/state:wv/place:sutton,Sutton town
 ocd-division/country:us/state:wv/place:sylvester,Sylvester town
 ocd-division/country:us/state:wv/place:terra_alta,Terra Alta town
