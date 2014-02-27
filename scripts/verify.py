@@ -1,5 +1,4 @@
 #!/usr/bin/env python3
-from __future__ import print_function
 import re
 import os
 import sys
@@ -17,8 +16,7 @@ VALID_ID_IGNORE_CASE = re.compile(r'^ocd-division/country:[a-z]{2}(/[^\W\d]+:[\w
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='verify published CSV files')
-    parser.add_argument('country', type=str, default=None,
-                        help='country to verify')
+    parser.add_argument('country', type=str, default=None, help='country to verify')
     args = parser.parse_args()
 
     country = args.country.lower()
