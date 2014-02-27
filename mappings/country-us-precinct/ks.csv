@@ -838,9 +838,9 @@ ocd-division/country:us/state:ks/county:gray/place:foote,837
 ocd-division/country:us/state:ks/county:gray/place:ingalls,838
 ocd-division/country:us/state:ks/county:gray/place:logan,839
 ocd-division/country:us/state:ks/county:gray/place:montezuma,840
-ocd-division/country:us/state:ks/place:tribune/precinct:1,841
-ocd-division/country:us/state:ks/place:tribune/precinct:2,842
-ocd-division/country:us/state:ks/place:tribune/precinct:3,843
+ocd-division/country:us/state:ks/county:greeley/place:tribune/precinct:1,841
+ocd-division/country:us/state:ks/county:greeley/place:tribune/precinct:2,842
+ocd-division/country:us/state:ks/county:greeley/place:tribune/precinct:3,843
 ocd-division/country:us/state:ks/county:greenwood/place:bachelor,844
 ocd-division/country:us/state:ks/county:greenwood/place:eureka,845
 ocd-division/country:us/state:ks/place:eureka/ward:1,846

@@ -2191,9 +2191,9 @@ ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:5,Shawnee County K
 ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:6,Shawnee County KS - TOPEKA WARD 09 PRECINCT 06
 ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:8,Shawnee County KS - TOPEKA WARD 09 PRECINCT 08
 ocd-division/country:us/state:ks/place:topeka/ward:9/precinct:9,Shawnee County KS - TOPEKA WARD 09 PRECINCT 09
-ocd-division/country:us/state:ks/place:tribune/precinct:1,Greeley County KS - Tribune Precinct 1
-ocd-division/country:us/state:ks/place:tribune/precinct:2,Greeley County KS - Tribune Precinct 2
-ocd-division/country:us/state:ks/place:tribune/precinct:3,Greeley County KS - Tribune Precinct 3
+ocd-division/country:us/state:ks/county:greeley/place:tribune/precinct:1,Greeley County KS - Tribune Precinct 1
+ocd-division/country:us/state:ks/county:greeley/place:tribune/precinct:2,Greeley County KS - Tribune Precinct 2
+ocd-division/country:us/state:ks/county:greeley/place:tribune/precinct:3,Greeley County KS - Tribune Precinct 3
 ocd-division/country:us/state:ks/place:ulysses/ward:1,Grant County KS - Ulysses Ward 3
 ocd-division/country:us/state:ks/place:ulysses/ward:2,Grant County KS - Ulysses Ward 2
 ocd-division/country:us/state:ks/place:ulysses/ward:3,Grant County KS - Ulysses Ward 1
