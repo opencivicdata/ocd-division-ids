@@ -80,6 +80,8 @@ if __name__ == '__main__':
             out = csv.writer(out)
             for row in sorted(all_rows):
                 out.writerow(row)
+    else:
+        print('NO COUNTRY CSV FILE WRITTEN')
 
     # do geoid validation too (TODO: add a flag for this)
     seen_in_geoid = set()

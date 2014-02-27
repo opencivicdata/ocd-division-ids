@@ -186,19 +186,16 @@ def make_id(parent=None, **kwargs):
 def process_types(types):
     funcstat_count = collections.Counter()
     type_count = collections.Counter()
-    # map geoid to id
     counties = {}
+    ids = {}
     # list of rows that produced an id
     duplicates = collections.defaultdict(list)
     # load exceptions from file
     exceptions = get_exception_set()
+    csvfile = csv.writer(open('identifiers/country-us/us_census_places.csv', 'w'))
+    geocsv = csv.writer(open('mappings/us-census-places-geoids.csv', 'w'))
 
     for entity_type in types:
-        ids = {}
-        csvfile = csv.writer(open('identifiers/country-us/us_census_{}.csv'.format(entity_type),
-                                  'w'))
-        geocsv = csv.writer(open('mappings/us-census-{}-geoids.csv'.format(entity_type), 'w'))
-
         url = BASE_URL + TYPES[entity_type]['zip']
         print('fetching zipfile', url)
         zf, _ = urllib.request.urlretrieve(url)
@@ -261,7 +258,7 @@ def process_types(types):
                 elif entity_type != 'subdiv' or subdiv_rule == 'town':
                     id = make_id(parent=parent_id, **{subtype: name})
 
-                # check for duplicates
+                # duplicates
                 if id in ids:
                     id1 = make_id(parent=parent_id, **{subtype: row['NAME']})
                     row2 = ids.pop(id)
@@ -285,12 +282,12 @@ def process_types(types):
                 raise Exception(row)
 
 
-        # write ids out
-        for id, row in sorted(ids.items()):
-            if id not in exceptions:
-                csvfile.writerow((id, row['NAME']))
-                if geocsv:
-                    geocsv.writerow((id, row['GEOID']))
+    # write ids out
+    for id, row in sorted(ids.items()):
+        if id not in exceptions:
+            csvfile.writerow((id, row['NAME']))
+            if geocsv:
+                geocsv.writerow((id, row['GEOID']))
 
     print(' | '.join('{0}: {1}'.format(k,v) for k,v in funcstat_count.most_common()))
     print(' | '.join('{0}: {1}'.format(k,v) for k,v in type_count.most_common()))
