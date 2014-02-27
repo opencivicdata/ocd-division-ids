@@ -5,6 +5,8 @@ import os
 import sys
 import csv
 import codecs
+import urllib.request
+import zipfile
 import argparse
 import collections
 
@@ -21,11 +23,11 @@ def get_exception_set():
     csvfile = csv.reader(open('identifiers/country-us/exceptions.csv'))
     return set(x[0] for x in csvfile)
 
+BASE_URL = 'http://www2.census.gov/geo/gazetteer/2013_Gazetteer/'
 
 TYPES = {
     'county': {
-        'url': 'http://www.census.gov/geo/maps-data/data/docs/gazetteer/counties_list_{fips}.txt',
-        'localfile': os.path.join(os.path.dirname(__file__), 'source-data/Gaz_counties_national.txt'),
+        'zip': '2013_Gaz_counties_national.zip',
         'funcstat': lambda row: 'F' if row['USPS'] == 'DC' else 'A',
         'type_mapping': {
             ' County': 'county',
@@ -43,8 +45,7 @@ TYPES = {
         'id_overrides': { }
     },
     'place': {
-        'url': 'http://www.census.gov/geo/maps-data/data/docs/gazetteer/2010_place_list_{fips}.txt',
-        'localfile': os.path.join(os.path.dirname(__file__), 'source-data/Gaz_places_national.txt'),
+        'zip': '2013_Gaz_place_national.zip',
         'funcstat': lambda row: row['FUNCSTAT'],
         'type_mapping': {
             ' municipality': 'place',
@@ -91,10 +92,8 @@ TYPES = {
         }
     },
     'subdiv': {
-        'url': 'http://www.census.gov/geo/maps-data/data/docs/gazetteer/county_sub_list_{fips}.txt',
-        'localfile': os.path.join(os.path.dirname(__file__), 'source-data/Gaz_cousubs_national.txt'),
-
-        'funcstat': lambda row: row['FUNCSTAT10'],
+        'zip': '2013_Gaz_cousubs_national.zip',
+        'funcstat': lambda row: row['FUNCSTAT'],
         'type_mapping': {
             ' town': 'place',
             ' village': 'place',
@@ -131,11 +130,9 @@ def make_id(parent=None, **kwargs):
     type_id = re.sub('\.? ', '_', type_id)
     type_id = re.sub('[^\w0-9~_.-]', '~', type_id, re.UNICODE)
     if parent:
-        return '{parent}/{type}:{type_id}'.format(parent=parent, type=type,
-                                                  type_id=type_id)
+        return '{parent}/{type}:{type_id}'.format(parent=parent, type=type, type_id=type_id)
     else:
-        return 'ocd-division/country:us/{type}:{type_id}'.format(
-            type=type, type_id=type_id)
+        return 'ocd-division/country:us/{type}:{type_id}'.format(type=type, type_id=type_id)
 
 
 # http://www.census.gov/geo/reference/gtc/gtc_area_attr.html#status
@@ -180,7 +177,12 @@ def process_state(state, csvfile, geocsv):
 
 
     for entity_type in TYPES:
-        data = codecs.open(TYPES[entity_type]['localfile'], encoding='latin1')
+        url = BASE_URL + TYPES[entity_type]['zip']
+        print('fetching zipfile', url)
+        zf, _ = urllib.request.urlretrieve(url)
+        zf = zipfile.ZipFile(zf)
+        localfile = zf.extract(zf.filelist[0])
+        data = codecs.open(localfile, encoding='latin1')
         rows = csv.DictReader(data, dialect=TabDelimited)
         # function to extract funcstat value
         funcstat_func = TYPES[entity_type]['funcstat']
@@ -265,13 +267,11 @@ def process_state(state, csvfile, geocsv):
             if geocsv:
                 geocsv.writerow((id, row['GEOID']))
 
-    print(state, ' | '.join('{0}: {1}'.format(k,v)
-                            for k,v in funcstat_count.most_common()),
+    print(state, ' | '.join('{0}: {1}'.format(k,v) for k,v in funcstat_count.most_common()),
           file=sys.stderr)
-    print(state, ' | '.join('{0}: {1}'.format(k,v)
-                            for k,v in type_count.most_common()),
+    print(state, ' | '.join('{0}: {1}'.format(k,v) for k,v in type_count.most_common()),
           file=sys.stderr)
-    #if duplicates:
+
     for id, sources in duplicates.items():
         error = '{0} duplicate {1}\n'.format(
             state, id)
@@ -302,14 +302,10 @@ def _ordinal(value):
 if __name__ == '__main__':
     CONST = '~~~const~~~'
 
-    parser = argparse.ArgumentParser(
-        description='Generate OCD ids from Census place files')
-    parser.add_argument('state', type=str, default=None,
-                        help='state to extract')
-    parser.add_argument('--csv', help='name of CSV file', nargs='?',
-                        const=CONST)
-    parser.add_argument('--geo', help='write a CSV file of Geo IDs', nargs='?',
-                        const=CONST)
+    parser = argparse.ArgumentParser(description='Generate OCD ids from Census place files')
+    parser.add_argument('state', type=str, default=None, help='state to extract')
+    parser.add_argument('--csv', help='name of CSV file', nargs='?', const=CONST)
+    parser.add_argument('--geo', help='write a CSV file of Geo IDs', nargs='?', const=CONST)
     args = parser.parse_args()
 
     if args.state == 'all':
@@ -337,4 +333,3 @@ if __name__ == '__main__':
             geocsv = None
 
         process_state(state, csvfile, geocsv)
-
