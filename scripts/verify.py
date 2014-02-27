@@ -32,6 +32,8 @@ if __name__ == '__main__':
     duplicates = 0
 
     for filename in glob.glob('identifiers/country-{0}/*.csv'.format(country)):
+        if filename.endswith('exceptions.csv'):
+            continue
         print('processing', filename)
         for id_, name in csv.reader(open(filename)):
             all_rows.append((id_, name))
