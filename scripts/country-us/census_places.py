@@ -231,100 +231,122 @@ def process_cds():
             geocsv.writerow((id, row['GEOID']))
 
 def process_sld(district_type):
-    rows = open_gaz_zip(BASE_URL + '2013_Gaz_{}_national.zip'.format(district_type))
     csvfile = csv.writer(open('identifiers/country-us/us_{}.csv'.format(district_type), 'w'))
     geocsv = csv.writer(open('mappings/us-{}-geoid.csv'.format(district_type), 'w'))
-    for row in rows:
-        state = us.states.lookup(row['USPS'])
+    ids = set()
 
-        # skip the undefined districts
-        if 'not defined' in row['NAME']:
-            continue
+    urls = (
+        ('', BASE_URL + '2013_Gaz_{}_national.zip'.format(district_type)),
+        (' (obsolete)',
+         'https://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_{}_national.zip'.format(
+         district_type))
+    )
 
-        district = row['NAME']
-        replacements = (
-            # Puerto Rico
-            ('Puerto Rico State Senate District VIII', '8'),
-            ('Puerto Rico State Senate District VII', '7'),
-            ('Puerto Rico State Senate District VI', '6'),
-            ('Puerto Rico State Senate District V', '5'),
-            ('Puerto Rico State Senate District IV', '4'),
-            ('Puerto Rico State Senate District III', '3'),
-            ('Puerto Rico State Senate District II', '2'),
-            ('Puerto Rico State Senate District I', '1'),
-            # DC
-            ('Ward', ''),
-            # others
-            ('State Senate District', ''),
-            ('State House District', ''),
-            ('State Legislative District', ''),
-            ('State Legislative Subdistrict', ''),
-            ('County No. ', ''),
-            ('General Assembly District', ''),
-            ('State Assembly District', ''),
-            ('Assembly District', ''),
-            ('HD-', ''),
-            # VT
-            ('Grand-Isle', 'Grand Isle'),
-            # MA
-            (',', ''),
-            ('&', 'and'),
-            ("First", "1st",),
-            ("Second", "2nd",),
-            ("Third", "3rd",),
-            ("Fourth", "4th",),
-            ("Fifth", "5th",),
-            ("Sixth", "6th",),
-            ("Seventh", "7th",),
-            ("Eighth", "8th",),
-            ("Ninth", "9th",),
-            ("Tenth", "10th",),
-            ("Eleventh", "11th",),
-            ("Twelfth", "12th",),
-            ("Thirtieth", "13th",),
-            ("Thirteenth", "13th",),
-            ("Fourteenth", "14th",),
-            ("Fifteenth", "15th",),
-            ("Sixteenth", "16th",),
-            ("Seventeenth", "17th",),
-            ("Eighteenth", "18th",),
-            ("Nineteenth", "19th",),
-            ("Twentieth", "20th",),
-            ("twenty_first", "21st",),
-            ("twenty_second", "22nd",),
-            ("twenty_third", "23rd",),
-            ("twenty_fourth", "24th",),
-            ("twenty_fifth", "25th",),
-            ("twenty_sixth", "26th",),
-            ("twenty_seventh", "27th",),
-            ("twenty_eighth", "28th",),
-            ("twenty_ninth", "29th",),
-            ("thirty", "31st",),
-            ("thirty_first", "31st",),
-            ("thirty_second", "32nd",),
-            ("thirty_third", "33rd",),
-            ("thirty_fourth", "34th",),
-            ("thirty_fifth", "35th",),
-            ("thirty_sixth", "36th",),
-            ("thirty_seventh", "37th",),
-            ("thirty_eighth", "38th",),
-            ("thirty_ninth", "39th",),
-            (' District', ''),
-        )
-        for k, v in replacements:
-            district = district.replace(k, v)
-        district = district.strip().lstrip('0')
+    replacements = (
+        # DC
+        ('Ward', ''),
+        # others
+        ('State Senate District', ''),
+        ('State House District', ''),
+        ('State Legislative District', ''),
+        ('State Legislative Subdistrict', ''),
+        ('County No. ', ''),
+        ('General Assembly District', ''),
+        ('State Assembly District', ''),
+        ('Assembly District', ''),
+        ('HD-', ''),
+        ('Senatorial ', ''),
+        # VT
+        ('Grand-Isle', 'Grand Isle'),
+        # MA
+        (',', ''),
+        ('&', 'and'),
+        ("First", "1st",),
+        ("Second", "2nd",),
+        ("Third", "3rd",),
+        ("Fourth", "4th",),
+        ("Fifth", "5th",),
+        ("Sixth", "6th",),
+        ("Seventh", "7th",),
+        ("Eighth", "8th",),
+        ("Ninth", "9th",),
+        ("Tenth", "10th",),
+        ("Eleventh", "11th",),
+        ("Twelfth", "12th",),
+        ("Thirtieth", "13th",),
+        ("Thirteenth", "13th",),
+        ("Fourteenth", "14th",),
+        ("Fifteenth", "15th",),
+        ("Sixteenth", "16th",),
+        ("Seventeenth", "17th",),
+        ("Eighteenth", "18th",),
+        ("Nineteenth", "19th",),
+        ("Twentieth", "20th",),
+        ("twenty_first", "21st",),
+        ("twenty_second", "22nd",),
+        ("twenty_third", "23rd",),
+        ("twenty_fourth", "24th",),
+        ("twenty_fifth", "25th",),
+        ("twenty_sixth", "26th",),
+        ("twenty_seventh", "27th",),
+        ("twenty_eighth", "28th",),
+        ("twenty_ninth", "29th",),
+        ("thirty", "31st",),
+        ("thirty_first", "31st",),
+        ("thirty_second", "32nd",),
+        ("thirty_third", "33rd",),
+        ("thirty_fourth", "34th",),
+        ("thirty_fifth", "35th",),
+        ("thirty_sixth", "36th",),
+        ("thirty_seventh", "37th",),
+        ("thirty_eighth", "38th",),
+        ("thirty_ninth", "39th",),
+        (' District', ''),
+    )
 
-        # CHANGE: undo district lowercasing
-        name = "{} {}".format(state, row['NAME'].replace('District', 'district'))
-        parent_id = make_id(state=row['USPS'].lower())
-        if row['USPS'] == 'DC':
-            id = make_id(parent_id, **{'ward':district})
-        else:
-            id = make_id(parent_id, **{district_type:district})
+    for suffix, url in urls:
+        rows = open_gaz_zip(url)
+        for row in rows:
+            state = us.states.lookup(row['USPS'])
 
-        csvfile.writerow((id, name))
-        geocsv.writerow((id, row['GEOID']))
+            # skip the undefined districts
+            if 'not defined' in row['NAME']:
+                continue
+
+            district = row['NAME']
+            for k, v in replacements:
+                district = district.replace(k, v)
+
+            # special PR roman numeral replacement
+            if row['USPS'] == 'PR':
+                for k, v in (
+                    ('VIII', '8'),
+                    ('VII', '7'),
+                    ('VI', '6'),
+                    ('IV', '4'),
+                    ('V', '5'),
+                    ('III', '3'),
+                    ('II', '2'),
+                    ('I', '1'),
+                ):
+                    district = district.replace(k, v)
+            district = district.strip().lstrip('0')
+
+            # CHANGE: undo district lowercasing
+            name = "{} {}".format(state, row['NAME'].replace('District', 'district'))
+            parent_id = make_id(state=row['USPS'].lower())
+            if row['USPS'] == 'DC':
+                id = make_id(parent_id, **{'ward':district})
+            else:
+                id = make_id(parent_id, **{district_type:district})
+
+            # already made this ID
+            if id in ids:
+                continue
+            ids.add(id)
+
+            csvfile.writerow((id, name + suffix))
+            geocsv.writerow((id, row['GEOID']))
 
 
 def process_types(types):
@@ -432,6 +454,6 @@ def process_types(types):
 
 if __name__ == '__main__':
     #process_types(('county', 'place', 'subdiv'))
-    process_cds()
-    #process_sld('sldu')
+    #process_cds()
+    process_sld('sldu')
     #process_sld('sldl')

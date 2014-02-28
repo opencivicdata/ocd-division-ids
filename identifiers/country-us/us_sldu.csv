@@ -1944,11 +1944,39 @@ ocd-division/country:us/state:wy/sldu:27,Wyoming State Senate district 27
 ocd-division/country:us/state:wy/sldu:28,Wyoming State Senate district 28
 ocd-division/country:us/state:wy/sldu:29,Wyoming State Senate district 29
 ocd-division/country:us/state:wy/sldu:30,Wyoming State Senate district 30
-ocd-division/country:us/territory:pr/sldu:i,Puerto Rico State Senate district I
-ocd-division/country:us/territory:pr/sldu:ii,Puerto Rico State Senate district II
-ocd-division/country:us/territory:pr/sldu:iii,Puerto Rico State Senate district III
-ocd-division/country:us/territory:pr/sldu:iv,Puerto Rico State Senate district IV
-ocd-division/country:us/territory:pr/sldu:v,Puerto Rico State Senate district V
-ocd-division/country:us/territory:pr/sldu:vi,Puerto Rico State Senate district VI
-ocd-division/country:us/territory:pr/sldu:vii,Puerto Rico State Senate district VII
-ocd-division/country:us/territory:pr/sldu:viii,Puerto Rico State Senate district VIII
+ocd-division/country:us/territory:pr/sldu:1,Puerto Rico State Senate district I
+ocd-division/country:us/territory:pr/sldu:2,Puerto Rico State Senate district II
+ocd-division/country:us/territory:pr/sldu:3,Puerto Rico State Senate district III
+ocd-division/country:us/territory:pr/sldu:4,Puerto Rico State Senate district IV
+ocd-division/country:us/territory:pr/sldu:5,Puerto Rico State Senate district V
+ocd-division/country:us/territory:pr/sldu:6,Puerto Rico State Senate district VI
+ocd-division/country:us/territory:pr/sldu:7,Puerto Rico State Senate district VII
+ocd-division/country:us/territory:pr/sldu:8,Puerto Rico State Senate district VIII
+ocd-division/country:us/state:ma/sldu:berkshire_hampshire_and_franklin,"Massachusetts Berkshire, Hampshire & Franklin district (obsolete)"
+ocd-division/country:us/state:ma/sldu:3rd_essex_and_middlesex,Massachusetts Third Essex & Middlesex district (obsolete)
+ocd-division/country:us/state:ma/sldu:hampshire_and_franklin,Massachusetts Hampshire & Franklin district (obsolete)
+ocd-division/country:us/state:ma/sldu:middlesex_and_essex,Massachusetts Middlesex & Essex district (obsolete)
+ocd-division/country:us/state:ma/sldu:middlesex_suffolk_and_essex,"Massachusetts Middlesex, Suffolk & Essex district (obsolete)"
+ocd-division/country:us/state:ma/sldu:suffolk_and_norfolk,Massachusetts Suffolk & Norfolk district (obsolete)
+ocd-division/country:us/state:ma/sldu:worcester_hampden_hampshire_and_franklin,"Massachusetts Worcester, Hampden, Hampshire & Franklin district (obsolete)"
+ocd-division/country:us/state:nv/sldu:clark_county_1,Nevada Clark County Senatorial district 1 (obsolete)
+ocd-division/country:us/state:nv/sldu:clark_county_2,Nevada Clark County Senatorial district 2 (obsolete)
+ocd-division/country:us/state:nv/sldu:clark_county_3,Nevada Clark County Senatorial district 3 (obsolete)
+ocd-division/country:us/state:nv/sldu:clark_county_4,Nevada Clark County Senatorial district 4 (obsolete)
+ocd-division/country:us/state:nv/sldu:clark_county_5,Nevada Clark County Senatorial district 5 (obsolete)
+ocd-division/country:us/state:nv/sldu:clark_county_6,Nevada Clark County Senatorial district 6 (obsolete)
+ocd-division/country:us/state:nv/sldu:clark_county_7,Nevada Clark County Senatorial district 7 (obsolete)
+ocd-division/country:us/state:nv/sldu:clark_county_8,Nevada Clark County Senatorial district 8 (obsolete)
+ocd-division/country:us/state:nv/sldu:clark_county_9,Nevada Clark County Senatorial district 9 (obsolete)
+ocd-division/country:us/state:nv/sldu:clark_county_10,Nevada Clark County Senatorial district 10 (obsolete)
+ocd-division/country:us/state:nv/sldu:clark_county_11,Nevada Clark County Senatorial district 11 (obsolete)
+ocd-division/country:us/state:nv/sldu:clark_county_12,Nevada Clark County Senatorial district 12 (obsolete)
+ocd-division/country:us/state:nv/sldu:washoe_county_1,Nevada Washoe County Senatorial district 1 (obsolete)
+ocd-division/country:us/state:nv/sldu:washoe_county_2,Nevada Washoe County Senatorial district 2 (obsolete)
+ocd-division/country:us/state:nv/sldu:washoe_county_3,Nevada Washoe County Senatorial district 3 (obsolete)
+ocd-division/country:us/state:nv/sldu:washoe_county_4,Nevada Washoe County Senatorial district 4 (obsolete)
+ocd-division/country:us/state:nv/sldu:capital,Nevada Capital Senatorial district (obsolete)
+ocd-division/country:us/state:nv/sldu:central_nevada,Nevada Central Nevada Senatorial district (obsolete)
+ocd-division/country:us/state:nv/sldu:rural_nevada,Nevada Rural Nevada Senatorial district (obsolete)
+ocd-division/country:us/state:vt/sldu:grand_isle,Vermont Grand Isle State Senate district (obsolete)
+ocd-division/country:us/state:wv/sldu:817,West Virginia State Senate district 817 (obsolete)
