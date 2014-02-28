@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-from __future__ import print_function
 import re
 import os
 import sys
@@ -9,8 +8,8 @@ import urllib.request
 import zipfile
 import argparse
 import collections
-
 import us
+
 
 class TabDelimited(csv.Dialect):
     delimiter = '\t'
@@ -22,6 +21,25 @@ class TabDelimited(csv.Dialect):
 def get_exception_set():
     csvfile = csv.reader(open('identifiers/country-us/exceptions.csv'))
     return set(x[0] for x in csvfile)
+
+
+def _ordinal(value):
+    if value == 0:
+        return 'At-Large'
+
+    if (value % 100) // 10 != 1:
+        if value % 10 == 1:
+            ordval = 'st'
+        elif value % 10 == 2:
+            ordval = 'nd'
+        elif value % 10 == 3:
+            ordval = 'rd'
+        else:
+            ordval = 'th'
+    else:
+        ordval = 'th'
+
+    return '{}{}'.format(value, ordval)
 
 BASE_URL = 'http://www2.census.gov/geo/gazetteer/2013_Gazetteer/'
 
@@ -35,6 +53,7 @@ TYPES = {
             ' Borough': 'borough',
             ' Municipality': 'borough',
             ' Census Area': 'census_area',
+            ' Municipio': 'municipio',
         },
         'overrides': {
             'Wrangell City and Borough': ('Wrangell', 'borough'),
@@ -164,7 +183,6 @@ SUBDIV_RULES = {
 }
 
 
-
 def make_id(parent=None, **kwargs):
     if len(kwargs) > 1:
         raise ValueError('only one kwarg is allowed for make_id')
@@ -178,9 +196,6 @@ def make_id(parent=None, **kwargs):
         return '{parent}/{type}:{type_id}'.format(parent=parent, type=type, type_id=type_id)
     else:
         return 'ocd-division/country:us/{type}:{type_id}'.format(type=type, type_id=type_id)
-
-
-# http://www.census.gov/geo/reference/gtc/gtc_area_attr.html#status
 
 
 def process_types(types):
@@ -211,12 +226,11 @@ def process_types(types):
         for row in rows:
             state = row['USPS'].lower()
 
-            # FIXME: just need classifiers for PR
-            if state == 'pr':
-                continue
-
             subdiv_rule = SUBDIV_RULES.get(state)
-            parent_id = make_id(state=state)
+            if state != 'pr':
+                parent_id = make_id(state=state)
+            else:
+                parent_id = make_id(territory=state)
 
             row['_FUNCSTAT'] = funcstat = funcstat_func(row)
             funcstat_count[funcstat] += 1
@@ -224,7 +238,7 @@ def process_types(types):
             # active government
             if funcstat in ('A', 'B', 'I'):
                 if entity_type == 'subdiv' and not subdiv_rule:
-                    raise Exception('unexpected subdiv in {0}: {1}'.format(state, row))
+                    raise Exception('unexpected subdiv in {}: {}'.format(state, row))
 
                 name = row['NAME']
 
@@ -254,7 +268,7 @@ def process_types(types):
                             id = make_id(parent=countyid, **{subtype: name})
                             break
                     else:
-                        raise Exception('{0} had no parent county'.format(row))
+                        raise Exception('{} had no parent county'.format(row))
                 elif entity_type != 'subdiv' or subdiv_rule == 'town':
                     id = make_id(parent=parent_id, **{subtype: name})
 
@@ -277,6 +291,7 @@ def process_types(types):
                         counties[row['GEOID']] = id
 
             elif funcstat not in ('F', 'N', 'S', 'C', 'G'):
+                # http://www.census.gov/geo/reference/gtc/gtc_area_attr.html#status
                 # inactive/fictitious/nonfunctioning/statistical/consolidated
                 # unhandled FUNCSTAT type
                 raise Exception(row)
@@ -289,33 +304,14 @@ def process_types(types):
             if geocsv:
                 geocsv.writerow((id, row['GEOID']))
 
-    print(' | '.join('{0}: {1}'.format(k,v) for k,v in funcstat_count.most_common()))
-    print(' | '.join('{0}: {1}'.format(k,v) for k,v in type_count.most_common()))
+    print(' | '.join('{}: {}'.format(k,v) for k,v in funcstat_count.most_common()))
+    print(' | '.join('{}: {}'.format(k,v) for k,v in type_count.most_common()))
 
     for id, sources in duplicates.items():
-        error = '{0} duplicate {1}\n'.format(state, id)
+        error = '{} duplicate {}\n'.format(state, id)
         for source in sources:
             error += '    {NAME} {_FUNCSTAT} {GEOID}'.format(**source)
         raise Exception(error)
-
-
-def _ordinal(value):
-    if value == 0:
-        return 'At-Large'
-
-    if (value % 100) // 10 != 1:
-        if value % 10 == 1:
-            ordval = 'st'
-        elif value % 10 == 2:
-            ordval = 'nd'
-        elif value % 10 == 3:
-            ordval = 'rd'
-        else:
-            ordval = 'th'
-    else:
-        ordval = 'th'
-
-    return '{0}{1}'.format(value, ordval)
 
 
 if __name__ == '__main__':
