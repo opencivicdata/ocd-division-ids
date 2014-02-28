@@ -261,6 +261,24 @@ def process_sld(district_type):
         # MA
         (',', ''),
         ('&', 'and'),
+        ("Twenty-First", "21st",),
+        ("Twenty-Second", "22nd",),
+        ("Twenty-Third", "23rd",),
+        ("Twenty-Fourth", "24th",),
+        ("Twenty-Fifth", "25th",),
+        ("Twenty-Sixth", "26th",),
+        ("Twenty-Seventh", "27th",),
+        ("Twenty-Eighth", "28th",),
+        ("Twenty-Ninth", "29th",),
+        ("Thirty-First", "31st",),
+        ("Thirty-Second", "32nd",),
+        ("Thirty-Third", "33rd",),
+        ("Thirty-Fourth", "34th",),
+        ("Thirty-Fifth", "35th",),
+        ("Thirty-Sixth", "36th",),
+        ("Thirty-Seventh", "37th",),
+        ("Thirty-Eighth", "38th",),
+        ("Thirty-Ninth", "39th",),
         ("First", "1st",),
         ("Second", "2nd",),
         ("Third", "3rd",),
@@ -282,25 +300,6 @@ def process_sld(district_type):
         ("Eighteenth", "18th",),
         ("Nineteenth", "19th",),
         ("Twentieth", "20th",),
-        ("twenty_first", "21st",),
-        ("twenty_second", "22nd",),
-        ("twenty_third", "23rd",),
-        ("twenty_fourth", "24th",),
-        ("twenty_fifth", "25th",),
-        ("twenty_sixth", "26th",),
-        ("twenty_seventh", "27th",),
-        ("twenty_eighth", "28th",),
-        ("twenty_ninth", "29th",),
-        ("thirty", "31st",),
-        ("thirty_first", "31st",),
-        ("thirty_second", "32nd",),
-        ("thirty_third", "33rd",),
-        ("thirty_fourth", "34th",),
-        ("thirty_fifth", "35th",),
-        ("thirty_sixth", "36th",),
-        ("thirty_seventh", "37th",),
-        ("thirty_eighth", "38th",),
-        ("thirty_ninth", "39th",),
         (' District', ''),
     )
 
@@ -330,6 +329,10 @@ def process_sld(district_type):
                     ('I', '1'),
                 ):
                     district = district.replace(k, v)
+            elif row['USPS'] == 'AK':
+                district = re.sub(r'(\d+)(.*)', r'\1', district)
+            elif row['USPS'] == 'NH':
+                district = re.sub(r'(\d+) (\w*) County', r'\2 \1', district)
             district = district.strip().lstrip('0')
 
             # CHANGE: undo district lowercasing
@@ -453,7 +456,7 @@ def process_types(types):
 
 
 if __name__ == '__main__':
-    #process_types(('county', 'place', 'subdiv'))
-    #process_cds()
+    process_types(('county', 'place', 'subdiv'))
+    process_cds()
     process_sld('sldu')
-    #process_sld('sldl')
+    process_sld('sldl')
