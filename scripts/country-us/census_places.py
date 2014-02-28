@@ -42,6 +42,8 @@ def _ordinal(value):
     return '{}{}'.format(value, ordval)
 
 BASE_URL = 'http://www2.census.gov/geo/gazetteer/2013_Gazetteer/'
+CD_111 = 'https://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_cd111_national.zip'
+
 
 TYPES = {
     'county': {
@@ -194,21 +196,39 @@ def open_gaz_zip(url):
 
 
 def process_cds():
-    rows = open_gaz_zip(BASE_URL + '2013_Gaz_113CDs_national.zip')
     csvfile = csv.writer(open('identifiers/country-us/us_congressional_districts.csv', 'w'))
     geocsv = csv.writer(open('mappings/us-cds-geoid.csv', 'w'))
-    for row in rows:
-        state = us.states.lookup(row['USPS'])
-        district = row['GEOID'][2:]
-        if district in ('00', 'ZZ', '98'):
-            continue
-        parent_id = make_id(state=row['USPS'].lower())
-        id = make_id(parent_id, cd=str(int(district)))
-        district = _ordinal(int(district))
-        name = "{}'s {} congressional district".format(state, district)
+    ids = set()
 
-        csvfile.writerow((id, name))
-        geocsv.writerow((id, row['GEOID']))
+    CD_URLS = (
+        ('', BASE_URL + '2013_Gaz_113CDs_national.zip'),
+        (' (obsolete as of 2012)', 
+         'https://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_cd111_national.zip')
+    )
+
+    for suffix, url in CD_URLS:
+        rows = open_gaz_zip(url)
+        for row in rows:
+            state = us.states.lookup(row['USPS'])
+            district = row['GEOID'][2:]
+
+            # placeholders and at-large districts
+            if district in ('00', 'ZZ', '98'):
+                continue
+
+            parent_id = make_id(state=row['USPS'].lower())
+            id = make_id(parent_id, cd=str(int(district)))
+
+            # already made this ID
+            if id in ids:
+                continue
+
+            ids.add(id)
+            district = _ordinal(int(district))
+            name = "{}'s {} congressional district".format(state, district) + suffix
+
+            csvfile.writerow((id, name))
+            geocsv.writerow((id, row['GEOID']))
 
 def process_sld(district_type):
     rows = open_gaz_zip(BASE_URL + '2013_Gaz_{}_national.zip'.format(district_type))
@@ -412,5 +432,6 @@ def process_types(types):
 
 if __name__ == '__main__':
     #process_types(('county', 'place', 'subdiv'))
-    #process_districts()
-    process_sld('sldl')
+    process_cds()
+    #process_sld('sldu')
+    #process_sld('sldl')
