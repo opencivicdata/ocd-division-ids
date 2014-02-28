@@ -210,9 +210,7 @@ def process_cds():
         csvfile.writerow((id, name))
         geocsv.writerow((id, row['GEOID']))
 
-def process_sld():
-    district_type = 'sldu'
-
+def process_sld(district_type):
     rows = open_gaz_zip(BASE_URL + '2013_Gaz_{}_national.zip'.format(district_type))
     csvfile = csv.writer(open('identifiers/country-us/us_{}.csv'.format(district_type), 'w'))
     geocsv = csv.writer(open('mappings/us-{}-geoid.csv'.format(district_type), 'w'))
@@ -239,6 +237,13 @@ def process_sld():
             # others
             ('State Senate District', ''),
             ('State House District', ''),
+            ('State Legislative District', ''),
+            ('State Legislative Subdistrict', ''),
+            ('County No. ', ''),
+            ('General Assembly District', ''),
+            ('State Assembly District', ''),
+            ('Assembly District', ''),
+            ('HD-', ''),
             # VT
             ('Grand-Isle', 'Grand Isle'),
             # MA
@@ -408,4 +413,4 @@ def process_types(types):
 if __name__ == '__main__':
     #process_types(('county', 'place', 'subdiv'))
     #process_districts()
-    process_sld()
+    process_sld('sldl')
