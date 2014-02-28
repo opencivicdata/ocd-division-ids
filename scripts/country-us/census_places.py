@@ -195,67 +195,77 @@ def open_gaz_zip(url):
     return csv.DictReader(data, dialect=TabDelimited)
 
 
-def process_cds():
-    csvfile = csv.writer(open('identifiers/country-us/us_congressional_districts.csv', 'w'))
-    geocsv = csv.writer(open('mappings/us-cds-geoid.csv', 'w'))
-    ids = set()
+class Skip(Exception):
+    pass
 
-    CD_URLS = (
-        ('', BASE_URL + '2013_Gaz_113CDs_national.zip'),
-        (' (obsolete as of 2012)', 
-         'https://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_cd111_national.zip')
-    )
 
-    for suffix, url in CD_URLS:
-        rows = open_gaz_zip(url)
-        for row in rows:
-            state = us.states.lookup(row['USPS'])
-            district = row['GEOID'][2:]
+class Processor(object):
+    def __init__(self):
+        self.csvfile = csv.writer(open(self.csvfilename, 'w'))
+        self.geocsv = csv.writer(open(self.geofilename, 'w'))
+        self.ids = set()
 
-            # placeholders and at-large districts
-            if district in ('00', 'ZZ', '98'):
-                continue
 
-            parent_id = make_id(state=row['USPS'].lower())
-            id = make_id(parent_id, cd=str(int(district)))
+    def process(self):
+        for suffix, url in self.get_urls():
+            for row in open_gaz_zip(url):
+                try:
+                    id, name, geoid = self.process_row(row)
+                    if id in self.ids:
+                        continue
+                    self.ids.add(id)
+                    self.csvfile.writerow((id, name + suffix))
+                    self.geocsv.writerow((id, row['GEOID']))
+                except Skip:
+                    pass
 
-            # already made this ID
-            if id in ids:
-                continue
 
-            ids.add(id)
-            district = _ordinal(int(district))
-            name = "{}'s {} congressional district".format(state, district) + suffix
+class CDProcessor(Processor):
+    csvfilename = 'identifiers/country-us/us_congressional_districts.csv'
+    geofilename = 'mappings/us-cds-geoid.csv'
 
-            csvfile.writerow((id, name))
-            geocsv.writerow((id, row['GEOID']))
+    def get_urls(self):
+        """ yield tuples of name suffixes and zip file URLs """
+        yield ('', BASE_URL + '2013_Gaz_113CDs_national.zip')
+        yield (' (obsolete as of 2012)',
+               'https://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_cd111_national.zip')
 
-def process_sld(district_type):
-    csvfile = csv.writer(open('identifiers/country-us/us_{}.csv'.format(district_type), 'w'))
-    geocsv = csv.writer(open('mappings/us-{}-geoid.csv'.format(district_type), 'w'))
-    ids = set()
+    def process_row(self, row):
+        """
+        given a row return id, name, geoid
+        """
+        state = us.states.lookup(row['USPS'])
 
-    urls = (
-        ('', BASE_URL + '2013_Gaz_{}_national.zip'.format(district_type)),
-        (' (obsolete)',
-         'https://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_{}_national.zip'.format(
-         district_type))
-    )
+        district = row['GEOID'][2:]
 
+        # placeholders and at-large districts
+        if district in ('00', 'ZZ', '98'):
+            raise Skip()
+
+        parent_id = make_id(state=row['USPS'].lower())
+        id = make_id(parent_id, cd=str(int(district)))
+
+        # already made this ID
+        district = _ordinal(int(district))
+        name = "{}'s {} congressional district".format(state, district)
+
+        return id, name, row['GEOID']
+
+
+class SLDProcessor(Processor):
     replacements = (
-        # DC
-        ('Ward', ''),
         # others
+        ('Ward ', ''),
+        ('County No. ', ''),
+        ('Senatorial ', ''),
         ('State Senate District', ''),
         ('State House District', ''),
         ('State Legislative District', ''),
         ('State Legislative Subdistrict', ''),
-        ('County No. ', ''),
         ('General Assembly District', ''),
         ('State Assembly District', ''),
         ('Assembly District', ''),
         ('HD-', ''),
-        ('Senatorial ', ''),
         # VT
         ('Grand-Isle', 'Grand Isle'),
         # MA
@@ -303,53 +313,62 @@ def process_sld(district_type):
         (' District', ''),
     )
 
-    for suffix, url in urls:
-        rows = open_gaz_zip(url)
-        for row in rows:
-            state = us.states.lookup(row['USPS'])
+    def get_urls(self):
+        yield ('', BASE_URL + '2013_Gaz_{}_national.zip'.format(self.district_type))
+        yield (' (obsolete)',
+               'https://www.census.gov/geo/maps-data/data/docs/gazetteer'
+               '/Gaz_{}_national.zip'.format(self.district_type))
 
-            # skip the undefined districts
-            if 'not defined' in row['NAME']:
-                continue
+    def process_row(self, row):
+        state = us.states.lookup(row['USPS'])
 
-            district = row['NAME']
-            for k, v in replacements:
+        # skip the undefined districts
+        if 'not defined' in row['NAME']:
+            raise Skip()
+
+        district = row['NAME']
+        for k, v in self.replacements:
+            district = district.replace(k, v)
+
+        # special PR roman numeral replacement
+        if row['USPS'] == 'PR':
+            for k, v in (
+                ('VIII', '8'),
+                ('VII', '7'),
+                ('VI', '6'),
+                ('IV', '4'),
+                ('V', '5'),
+                ('III', '3'),
+                ('II', '2'),
+                ('I', '1'),
+            ):
                 district = district.replace(k, v)
+        elif row['USPS'] == 'AK':
+            district = re.sub(r'(\d+)(.*)', r'\1', district)
+        elif row['USPS'] == 'NH':
+            district = re.sub(r'(\d+) (\w*) County', r'\2 \1', district)
+        district = district.strip().lstrip('0')
 
-            # special PR roman numeral replacement
-            if row['USPS'] == 'PR':
-                for k, v in (
-                    ('VIII', '8'),
-                    ('VII', '7'),
-                    ('VI', '6'),
-                    ('IV', '4'),
-                    ('V', '5'),
-                    ('III', '3'),
-                    ('II', '2'),
-                    ('I', '1'),
-                ):
-                    district = district.replace(k, v)
-            elif row['USPS'] == 'AK':
-                district = re.sub(r'(\d+)(.*)', r'\1', district)
-            elif row['USPS'] == 'NH':
-                district = re.sub(r'(\d+) (\w*) County', r'\2 \1', district)
-            district = district.strip().lstrip('0')
+        # CHANGE: undo district lowercasing
+        name = "{} {}".format(state, row['NAME'].replace('District', 'district'))
+        parent_id = make_id(state=row['USPS'].lower())
+        if row['USPS'] == 'DC':
+            id = make_id(parent_id, **{'ward':district})
+        else:
+            id = make_id(parent_id, **{self.district_type:district})
 
-            # CHANGE: undo district lowercasing
-            name = "{} {}".format(state, row['NAME'].replace('District', 'district'))
-            parent_id = make_id(state=row['USPS'].lower())
-            if row['USPS'] == 'DC':
-                id = make_id(parent_id, **{'ward':district})
-            else:
-                id = make_id(parent_id, **{district_type:district})
+        return id, name, row['GEOID']
 
-            # already made this ID
-            if id in ids:
-                continue
-            ids.add(id)
 
-            csvfile.writerow((id, name + suffix))
-            geocsv.writerow((id, row['GEOID']))
+class SLDUProcessor(SLDProcessor):
+    csvfilename = 'identifiers/country-us/us_sldu.csv'
+    geofilename = 'mappings/us-sldu-geoid.csv'
+    district_type = 'sldu'
+
+class SLDLProcessor(SLDProcessor):
+    csvfilename = 'identifiers/country-us/us_sldl.csv'
+    geofilename = 'mappings/us-sldl-geoid.csv'
+    district_type = 'sldl'
 
 
 def process_types(types):
@@ -457,6 +476,6 @@ def process_types(types):
 
 if __name__ == '__main__':
     process_types(('county', 'place', 'subdiv'))
-    process_cds()
-    process_sld('sldu')
-    process_sld('sldl')
+    CDProcessor().process()
+    SLDUProcessor().process()
+    SLDLProcessor().process()
