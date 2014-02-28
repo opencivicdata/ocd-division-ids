@@ -63,24 +63,6 @@ TYPES = {
         },
         'id_overrides': { }
     },
-    #'county': {
-    #    'zip': '2013_Gaz_counties_national.zip',
-    #    'funcstat': lambda row: 'F' if row['USPS'] == 'DC' else 'A',
-    #    'type_mapping': {
-    #        ' County': 'county',
-    #        ' Parish': 'parish',
-    #        ' Borough': 'borough',
-    #        ' Municipality': 'borough',
-    #        ' Census Area': 'census_area',
-    #    },
-    #    'overrides': {
-    #        'Wrangell City and Borough': ('Wrangell', 'borough'),
-    #        'Sitka City and Borough': ('Sitka', 'borough'),
-    #        'Juneau City and Borough': ('Juneau', 'borough'),
-    #        'Yakutat City and Borough': ('Yakutat', 'borough'),
-    #    },
-    #    'id_overrides': { }
-    #},
     'place': {
         'zip': '2013_Gaz_place_national.zip',
         'funcstat': lambda row: row['FUNCSTAT'],
@@ -153,7 +135,7 @@ TYPES = {
             'Township 12': ('Township 12', 'place'),
         },
         'id_overrides': { }
-    }
+    },
 }
 
 # list of rules for how to handle subdivs
@@ -190,12 +172,44 @@ def make_id(parent=None, **kwargs):
     if not re.match('^[a-z_]+$', type):
         raise ValueError('type must match [a-z]+ [%s]' % type)
     type_id = type_id.lower()
+    if type == 'state' and type_id == 'pr':
+        type = 'territory'
+    elif type == 'state' and type_id == 'dc':
+        type = 'district'
     type_id = re.sub('\.? ', '_', type_id)
     type_id = re.sub('[^\w0-9~_.-]', '~', type_id, re.UNICODE)
     if parent:
         return '{parent}/{type}:{type_id}'.format(parent=parent, type=type, type_id=type_id)
     else:
         return 'ocd-division/country:us/{type}:{type_id}'.format(type=type, type_id=type_id)
+
+
+def open_gaz_zip(url):
+    print('fetching zipfile', url)
+    zf, _ = urllib.request.urlretrieve(url)
+    zf = zipfile.ZipFile(zf)
+    localfile = zf.extract(zf.filelist[0], '/tmp/')
+    data = codecs.open(localfile, encoding='latin1')
+    return csv.DictReader(data, dialect=TabDelimited)
+
+
+def process_districts():
+    rows = open_gaz_zip(BASE_URL + '2013_Gaz_113CDs_national.zip')
+    csvfile = csv.writer(open('identifiers/country-us/us_congressional_districts.csv', 'w'))
+    geocsv = csv.writer(open('mappings/us-cds-geoid.csv', 'w'))
+    for row in rows:
+        state = us.states.lookup(row['USPS'])
+        district = row['GEOID'][2:]
+        if district in ('00', 'ZZ', '98'):
+            continue
+        parent_id = make_id(state=row['USPS'].lower())
+        id = make_id(parent_id, cd=str(int(district)))
+        district = _ordinal(int(district))
+        name = "{}'s {} congressional district".format(state, district)
+
+        csvfile.writerow((id, name))
+        if geocsv:
+            geocsv.writerow((id, row['GEOID']))
 
 
 def process_types(types):
@@ -212,90 +226,78 @@ def process_types(types):
 
     for entity_type in types:
         url = BASE_URL + TYPES[entity_type]['zip']
-        print('fetching zipfile', url)
-        zf, _ = urllib.request.urlretrieve(url)
-        zf = zipfile.ZipFile(zf)
-        localfile = zf.extract(zf.filelist[0], '/tmp/')
-        data = codecs.open(localfile, encoding='latin1')
-        rows = csv.DictReader(data, dialect=TabDelimited)
-        # function to extract funcstat value
         funcstat_func = TYPES[entity_type]['funcstat']
         overrides = TYPES[entity_type]['overrides']
         id_overrides = TYPES[entity_type]['id_overrides']
+        rows = open_gaz_zip(url)
 
         for row in rows:
             state = row['USPS'].lower()
+            name = row['NAME']
 
             subdiv_rule = SUBDIV_RULES.get(state)
-            if state != 'pr':
-                parent_id = make_id(state=state)
-            else:
-                parent_id = make_id(territory=state)
+            parent_id = make_id(state=state)
 
             row['_FUNCSTAT'] = funcstat = funcstat_func(row)
             funcstat_count[funcstat] += 1
 
-            # active government
-            if funcstat in ('A', 'B', 'I'):
-                if entity_type == 'subdiv' and not subdiv_rule:
-                    raise Exception('unexpected subdiv in {}: {}'.format(state, row))
-
-                name = row['NAME']
-
-                if name in overrides:
-                    name, subtype = overrides[name]
-                elif row['GEOID'] in id_overrides:
-                    name, subtype = id_overrides[row['GEOID']]
-                else:
-                    for ending, subtype in TYPES[entity_type]['type_mapping'].items():
-                        if name.endswith(ending):
-                            name = name.replace(ending, '')
-                            break
-                    else:
-                        # skip independent cities indicated at county level
-                        if (entity_type == 'county' and (name.endswith(' city') or
-                                                         name == 'Carson City')):
-                            continue
-                        else:
-                            raise ValueError('unknown ending: {} for {}'.format(name, row))
-
-                type_count[subtype] += 1
-
-                if entity_type == 'subdiv' and subdiv_rule == 'prefix':
-                    # find county id
-                    for geoid, countyid in counties.items():
-                        if row['GEOID'].startswith(geoid):
-                            id = make_id(parent=countyid, **{subtype: name})
-                            break
-                    else:
-                        raise Exception('{} had no parent county'.format(row))
-                elif entity_type != 'subdiv' or subdiv_rule == 'town':
-                    id = make_id(parent=parent_id, **{subtype: name})
-
-                # duplicates
-                if id in ids:
-                    id1 = make_id(parent=parent_id, **{subtype: row['NAME']})
-                    row2 = ids.pop(id)
-                    id2 = make_id(parent=parent_id, **{subtype: row2['NAME']})
-                    if id1 != id2:
-                        ids[id1] = row
-                        ids[id2] = row2
-                    else:
-                        duplicates[id].append(row)
-                        duplicates[id].append(row2)
-                elif id in duplicates:
-                    duplicates[id].append(row)
-                else:
-                    ids[id] = row
-                    if entity_type == 'county':
-                        counties[row['GEOID']] = id
-
-            elif funcstat not in ('F', 'N', 'S', 'C', 'G'):
-                # http://www.census.gov/geo/reference/gtc/gtc_area_attr.html#status
-                # inactive/fictitious/nonfunctioning/statistical/consolidated
-                # unhandled FUNCSTAT type
+            # skip inactive/fictitious/nonfunctioning/statistical/consolidated
+            # http://www.census.gov/geo/reference/gtc/gtc_area_attr.html#status
+            if funcstat in ('F', 'N', 'S', 'C', 'G'):
+                continue
+            if funcstat not in ('A', 'B', 'I'):
+                # unknown type
                 raise Exception(row)
+            if entity_type == 'subdiv' and not subdiv_rule:
+                raise Exception('unexpected subdiv in {}: {}'.format(state, row))
 
+            if name in overrides:
+                name, subtype = overrides[name]
+            elif row['GEOID'] in id_overrides:
+                name, subtype = id_overrides[row['GEOID']]
+            else:
+                for ending, subtype in TYPES[entity_type]['type_mapping'].items():
+                    if name.endswith(ending):
+                        name = name.replace(ending, '')
+                        break
+                else:
+                    # skip independent cities indicated at county level
+                    if (entity_type == 'county' and (name.endswith(' city') or
+                                                     name == 'Carson City')):
+                        continue
+                    else:
+                        raise ValueError('unknown ending: {} for {}'.format(name, row))
+
+            type_count[subtype] += 1
+
+            if entity_type == 'subdiv' and subdiv_rule == 'prefix':
+                # find county id
+                for geoid, countyid in counties.items():
+                    if row['GEOID'].startswith(geoid):
+                        id = make_id(parent=countyid, **{subtype: name})
+                        break
+                else:
+                    raise Exception('{} had no parent county'.format(row))
+            elif entity_type != 'subdiv' or subdiv_rule == 'town':
+                id = make_id(parent=parent_id, **{subtype: name})
+
+            # duplicates
+            if id in ids:
+                id1 = make_id(parent=parent_id, **{subtype: row['NAME']})
+                row2 = ids.pop(id)
+                id2 = make_id(parent=parent_id, **{subtype: row2['NAME']})
+                if id1 != id2:
+                    ids[id1] = row
+                    ids[id2] = row2
+                else:
+                    duplicates[id].append(row)
+                    duplicates[id].append(row2)
+            elif id in duplicates:
+                duplicates[id].append(row)
+            else:
+                ids[id] = row
+                if entity_type == 'county':
+                    counties[row['GEOID']] = id
 
     # write ids out
     for id, row in sorted(ids.items()):
@@ -316,3 +318,4 @@ def process_types(types):
 
 if __name__ == '__main__':
     process_types(('county', 'place', 'subdiv'))
+    process_districts()
