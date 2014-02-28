@@ -193,7 +193,7 @@ def open_gaz_zip(url):
     return csv.DictReader(data, dialect=TabDelimited)
 
 
-def process_districts():
+def process_cds():
     rows = open_gaz_zip(BASE_URL + '2013_Gaz_113CDs_national.zip')
     csvfile = csv.writer(open('identifiers/country-us/us_congressional_districts.csv', 'w'))
     geocsv = csv.writer(open('mappings/us-cds-geoid.csv', 'w'))
@@ -208,8 +208,98 @@ def process_districts():
         name = "{}'s {} congressional district".format(state, district)
 
         csvfile.writerow((id, name))
-        if geocsv:
-            geocsv.writerow((id, row['GEOID']))
+        geocsv.writerow((id, row['GEOID']))
+
+def process_sld():
+    district_type = 'sldu'
+
+    rows = open_gaz_zip(BASE_URL + '2013_Gaz_{}_national.zip'.format(district_type))
+    csvfile = csv.writer(open('identifiers/country-us/us_{}.csv'.format(district_type), 'w'))
+    geocsv = csv.writer(open('mappings/us-{}-geoid.csv'.format(district_type), 'w'))
+    for row in rows:
+        state = us.states.lookup(row['USPS'])
+
+        # skip the undefined districts
+        if 'not defined' in row['NAME']:
+            continue
+
+        district = row['NAME']
+        replacements = (
+            # Puerto Rico
+            ('Puerto Rico State Senate District VIII', '8'),
+            ('Puerto Rico State Senate District VII', '7'),
+            ('Puerto Rico State Senate District VI', '6'),
+            ('Puerto Rico State Senate District V', '5'),
+            ('Puerto Rico State Senate District IV', '4'),
+            ('Puerto Rico State Senate District III', '3'),
+            ('Puerto Rico State Senate District II', '2'),
+            ('Puerto Rico State Senate District I', '1'),
+            # DC
+            ('Ward', ''),
+            # others
+            ('State Senate District', ''),
+            ('State House District', ''),
+            # VT
+            ('Grand-Isle', 'Grand Isle'),
+            # MA
+            (',', ''),
+            ('&', 'and'),
+            ("First", "1st",),
+            ("Second", "2nd",),
+            ("Third", "3rd",),
+            ("Fourth", "4th",),
+            ("Fifth", "5th",),
+            ("Sixth", "6th",),
+            ("Seventh", "7th",),
+            ("Eighth", "8th",),
+            ("Ninth", "9th",),
+            ("Tenth", "10th",),
+            ("Eleventh", "11th",),
+            ("Twelfth", "12th",),
+            ("Thirtieth", "13th",),
+            ("Thirteenth", "13th",),
+            ("Fourteenth", "14th",),
+            ("Fifteenth", "15th",),
+            ("Sixteenth", "16th",),
+            ("Seventeenth", "17th",),
+            ("Eighteenth", "18th",),
+            ("Nineteenth", "19th",),
+            ("Twentieth", "20th",),
+            ("twenty_first", "21st",),
+            ("twenty_second", "22nd",),
+            ("twenty_third", "23rd",),
+            ("twenty_fourth", "24th",),
+            ("twenty_fifth", "25th",),
+            ("twenty_sixth", "26th",),
+            ("twenty_seventh", "27th",),
+            ("twenty_eighth", "28th",),
+            ("twenty_ninth", "29th",),
+            ("thirty", "31st",),
+            ("thirty_first", "31st",),
+            ("thirty_second", "32nd",),
+            ("thirty_third", "33rd",),
+            ("thirty_fourth", "34th",),
+            ("thirty_fifth", "35th",),
+            ("thirty_sixth", "36th",),
+            ("thirty_seventh", "37th",),
+            ("thirty_eighth", "38th",),
+            ("thirty_ninth", "39th",),
+            (' District', ''),
+        )
+        for k, v in replacements:
+            district = district.replace(k, v)
+        district = district.strip().lstrip('0')
+
+        # CHANGE: undo district lowercasing
+        name = "{} {}".format(state, row['NAME'].replace('District', 'district'))
+        parent_id = make_id(state=row['USPS'].lower())
+        if row['USPS'] == 'DC':
+            id = make_id(parent_id, **{'ward':district})
+        else:
+            id = make_id(parent_id, **{district_type:district})
+
+        csvfile.writerow((id, name))
+        geocsv.writerow((id, row['GEOID']))
 
 
 def process_types(types):
@@ -303,8 +393,7 @@ def process_types(types):
     for id, row in sorted(ids.items()):
         if id not in exceptions:
             csvfile.writerow((id, row['NAME']))
-            if geocsv:
-                geocsv.writerow((id, row['GEOID']))
+            geocsv.writerow((id, row['GEOID']))
 
     print(' | '.join('{}: {}'.format(k,v) for k,v in funcstat_count.most_common()))
     print(' | '.join('{}: {}'.format(k,v) for k,v in type_count.most_common()))
@@ -317,5 +406,6 @@ def process_types(types):
 
 
 if __name__ == '__main__':
-    process_types(('county', 'place', 'subdiv'))
-    process_districts()
+    #process_types(('county', 'place', 'subdiv'))
+    #process_districts()
+    process_sld()
