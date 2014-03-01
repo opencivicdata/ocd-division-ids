@@ -16,7 +16,7 @@ class AB < Runner
       "http://altalis.com/Samples/Provincial%20Electoral%20Divisions%20Current%202010.zip",
       "province:ab/ed:", {
         :identifier => "EDNUMBER",
-        :name => "EDNAME",
+        :content => "EDNAME",
       }
     ).run
   end

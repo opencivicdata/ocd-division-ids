@@ -120,18 +120,19 @@ class Runner
 end
 
 class ShapefileParser
-  attr_reader :url, :prefix, :mappings
+  attr_reader :url, :prefix, :mappings, :filter
 
   # @param [String] url the URL to the shapefile
   # @param [String] prefix the OCD division prefix
   # @param [Hash] mappings mappings from attribute names to column names
   # @option mappings [String] :identifier the column for the identifier
-  # @option mappings [String] :name the column for the division name
-  # @option mappings [String] :default the column for the default division name
-  def initialize(url, prefix, mappings)
+  # @option mappings [String] :content the column for the content
+  # @option mappings [String] :default the column for the default content
+  def initialize(url, prefix, mappings, filter=nil)
     @url = url
     @prefix = prefix
     @mappings = mappings
+    @filter = filter || lambda {|record| true}
   end
 
   # Outputs identifiers in CSV format.
@@ -141,8 +142,10 @@ class ShapefileParser
       if entry
         DBF::Table.new(StringIO.new(zipfile.read(entry))).map do |record|
           ShapefileRecord.new(record, mappings)
+        end.select do |record|
+          filter.call(record)
         end.sort.each do |record|
-          output(prefix, record.identifier, record.name)
+          output(prefix, record.identifier, record.content)
         end
       else
         raise "DBF file not found!"
@@ -154,49 +157,53 @@ end
 class ShapefileRecord
   include Comparable
 
-  attr_reader :record, :mappings
+  attr_reader :mappings, :attributes
 
-  # @param [DBF::Record]
+  # @param [DBF::Record] record a shapefile record
   # @param [Hash] mappings mappings from attribute names to column names
   def initialize(record, mappings)
     @record = record
     @mappings = mappings
+    @attributes = record.attributes
   end
 
+  # @param [ShapefileRecord] other a shapefile record
+  # @return [Integer] whether the other record is less than, equal to, or
+  #   greater than this record
   def <=>(other)
     sort_key <=> other.sort_key
   end
 
-  def [](key)
-    record.attributes.fetch(mappings[key])
-  end
-
-  def key?(key)
-    record.attributes.key?(mappings[key])
-  end
-
+  # @return [String] the record's identifier, or the record's content if the
+  #   column for the identifier is not given
   def identifier
     if mappings.key?(:identifier)
-      self[:identifier].to_s # May be an integer
+      @record.attributes.fetch(mappings[:identifier]).to_s # May be an integer
     else
-      name
+      content
     end
   end
 
-  def name
-    result = self[:name]
+  # @return [String] the record's content, of the record's default content if
+  #   the content is empty
+  def content
+    result = @record.attributes.fetch(mappings[:content])
     if result.empty?
-      self[:default]
+      @record.attributes.fetch(mappings[:default])
     else
       result
     end
   end
 
+  # @return [String] the key on which to sort the record, which is its content
+  #   or its identifier if the column for the identifier is given
   def sort_key
-    if mappings.key?(:identifier)
+    if mappings.key?(:sort_key)
+      Integer(@record.attributes.fetch(mappings[:sort_key]))
+    elsif mappings.key?(:identifier)
       Integer(identifier.to_s.sub(/\A0+/, "")) rescue identifier
     else
-      name
+      content
     end
   end
 end

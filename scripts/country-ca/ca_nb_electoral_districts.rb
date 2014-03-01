@@ -16,7 +16,7 @@ class NB < Runner
       "http://www.gnb.ca/elections/pdf/2010PEDMaps/NB_Electoral_Districts.zip",
       "province:nb/ed:", {
         :identifier => "PED_Num",
-        :name => "PED_Name_#{language}",
+        :content => "PED_Name_#{language}",
         :default => "PED_Name_E",
       }
     ).run

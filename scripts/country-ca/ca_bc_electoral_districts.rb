@@ -16,7 +16,7 @@ class BC < Runner
       "http://www3.elections.bc.ca/docs/map/redis12/GIS/Electoral%20District%20Boundaries.zip",
       "province:bc/ed:", {
         :identifier => "edAbbr",
-        :name => "edName",
+        :content => "edName",
       }
     ).run
   end

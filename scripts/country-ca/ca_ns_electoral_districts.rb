@@ -14,7 +14,7 @@ class NS < Runner
       "http://electionsnovascotia.ca/sites/default/files/NS_EDBoundaries2012.zip",
       "province:ns/ed:", {
         :identifier => "DIST_NO",
-        :name => "DISTRICT",
+        :content => "DISTRICT",
       }
     ).run
   end
