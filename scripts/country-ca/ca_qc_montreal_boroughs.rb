@@ -3,12 +3,12 @@
 
 require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 
-# Scrapes Montreal arrondissements codes and names from ville.montreal.qc.ca
+# Scrapes Montreal boroughs codes and names from ville.montreal.qc.ca
 
 require "nokogiri"
 
 class Montreal < Runner
-  @csv_filename = "census_subdivision-montreal-arrondissements.csv"
+  @csv_filename = "census_subdivision-montreal-boroughs.csv"
   @translatable = false # data source is unilingual
 
   def initialize
