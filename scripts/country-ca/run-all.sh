@@ -23,6 +23,7 @@ $DIR/ca_qc_electoral_districts.rb      names > $DIR/../../identifiers/country-ca
 $DIR/ca_sk_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-sk-electoral_districts.csv
 $DIR/ca_qc_montreal_boroughs.rb        names > $DIR/../../identifiers/country-ca/census_subdivision-montreal-boroughs.csv
 $DIR/ca_qc_quebec_boroughs.rb          names > $DIR/../../identifiers/country-ca/census_subdivision-quebec-boroughs.csv
+$DIR/ca_qc_quebec_districts.rb         names > $DIR/../../identifiers/country-ca/census_subdivision-quebec-districts.csv
 
 $DIR/ca_census_divisions.rb            names-fr > $DIR/../../mappings/country-ca-fr/ca_census_divisions.csv
 $DIR/ca_census_subdivisions.rb         names-fr > $DIR/../../mappings/country-ca-fr/ca_census_subdivisions.csv
@@ -41,6 +42,7 @@ $DIR/ca_qc_montreal_boroughs.rb        abbreviations > $DIR/../../mappings/count
 
 $DIR/ca_qc_montreal_boroughs.rb        numeric > $DIR/../../mappings/country-ca-numeric/census_subdivision-montreal-boroughs.csv
 $DIR/ca_qc_quebec_boroughs.rb          numeric > $DIR/../../mappings/country-ca-numeric/census_subdivision-quebec-boroughs.csv
+$DIR/ca_qc_quebec_districts.rb         numeric > $DIR/../../mappings/country-ca-numeric/census_subdivision-quebec-districts.csv
 
 $DIR/ca_provinces_and_territories.rb   abbreviations-fr > $DIR/../../mappings/country-ca-abbr-fr/ca_provinces_and_territories.csv
 $DIR/ca_municipal_subdivisions.rb      corporations > $DIR/../../mappings/country-ca-corporations/ca_municipal_subdivisions.csv

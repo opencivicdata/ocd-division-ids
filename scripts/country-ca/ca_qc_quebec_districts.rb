@@ -3,10 +3,10 @@
 
 require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 
-# Scrapes Quebec borough codes and names from ville.quebec.qc.ca
+# Scrapes Quebec district codes and names from ville.quebec.qc.ca
 
 class Quebec < Runner
-  @csv_filename = "census_subdivision-quebec-boroughs.csv"
+  @csv_filename = "census_subdivision-quebec-districts.csv"
   @translatable = false # data source is unilingual
 
   def initialize
@@ -21,22 +21,28 @@ class Quebec < Runner
 
   def names
     ShapefileParser.new(
-      "http://donnees.ville.quebec.qc.ca/Handler.ashx?id=2&f=SHP",
-      "csd:2423027/borough:", {
+      "http://donnees.ville.quebec.qc.ca/Handler.ashx?id=43&f=SHP",
+      "csd:2423027/district:", {
         :content => "NOM",
         :sort_key => "CODE",
-      }
+      },
+      lambda do |record|
+        record.attributes.fetch("DATE_FIN") == Date.new(2017, 11, 5)
+      end,
     ).run
   end
 
   def numeric
     ShapefileParser.new(
-      "http://donnees.ville.quebec.qc.ca/Handler.ashx?id=2&f=SHP",
-      "csd:2423027/borough:", {
+      "http://donnees.ville.quebec.qc.ca/Handler.ashx?id=43&f=SHP",
+      "csd:2423027/district:", {
         :identifier => "NOM",
         :content => "CODE",
         :sort_key => "CODE",
-      }
+      },
+      lambda do |record|
+        record.attributes.fetch("DATE_FIN") == Date.new(2017, 11, 5)
+      end,
     ).run
   end
 end
