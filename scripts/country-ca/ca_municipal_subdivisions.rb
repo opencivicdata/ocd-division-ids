@@ -148,6 +148,7 @@ class MunicipalSubdivision < Runner
         end
 
         if row[0] && row[1] && row[0].strip != 'Voter Turnout'
+          identifier = nil
           if type != "MD"
             fingerprint = CensusSubdivisionNameMatcher.fingerprint("ns", row[0])
             identifier, _ = CensusSubdivisionNameMatcher.identifier_and_name(fingerprint)
@@ -309,6 +310,163 @@ class MunicipalSubdivision < Runner
       subdivisions["ocd-division/country:ca/csd:#{identifier}"] = "Y"
     end
 
+    saskatchewan_non_census_subdivisions = [
+      # @see http://en.wikipedia.org/wiki/Division_No._18,_Saskatchewan#Unincorporated_communities
+      # @see http://en.wikipedia.org/wiki/Category:Division_No._18,_Unorganized,_Saskatchewan
+      "BEAR CREEK",
+      "BLACK POINT",
+      "CAMSELL PORTAGE",
+      "DESCHARME LAKE",
+      "GARSON LAKE",
+      "SLED LAKE",
+      "SOUTHEND",
+      "STANLEY MISSION",
+      "URANIUM CITY",
+      "WOLLASTON LAKE",
+    ]
+
+    # This file must be refreshed by selecting "Entire Directory", clicking
+    # "Generate PDF", and transforming the PDF to text with `pdftotext -layout`.
+    # @see http://www.mds.gov.sk.ca/apps/Pub/MDS/welcome.aspx
+    path = File.expand_path(File.join("..", "sk.txt"), __FILE__)
+    if File.exist?(path)
+      header_re = /^\f?(?:CITIES|NORTHERN TOWNS, VILLAGES, HAMLETS, AND SETTLEMENTS|ORGANIZED AND RESORT HAMLETS|RURAL MUNICIPALITIES|TOWNS, VILLAGES AND RESORT VILLAGES|UNKNOWN)\n/
+      footer_re = /^                                       *Page \d+ of 230/
+      pages = []
+      page = []
+
+      # Group the lines into pages.
+      maximum_line_length = 0
+      File.foreach(path) do |line|
+        # Skip headers.
+        next if line[header_re]
+
+        line_length = line.size
+        if line_length > maximum_line_length
+          maximum_line_length = line_length
+        end
+
+        if line[footer_re]
+          pages << page
+          page = []
+        else
+          page << line
+        end
+      end
+
+      column_divider_re = /(?<=  )\S/
+      text = []
+
+      # Transform the text of each page into a single column.
+      pages.each do |page|
+        index = maximum_line_length
+        page.each do |line|
+          # Skip new lines and address lines.
+          next if line == "\n" || line[/^                ?\S/]
+
+          match = line.match(column_divider_re, 46) # True indices first appear at 46.
+          if match
+            start = match.begin(0)
+            if start < index
+              index = start
+            end
+          end
+        end
+
+        column1 = []
+        column2 = []
+        page.each do |line|
+          column1 << line[0...index].strip
+          part = line[index..-1]
+          if part
+            column2 << part.strip
+          else
+            column2 << ""
+          end
+        end
+        text += column1
+        text += column2
+      end
+
+      # Split the text into blocks, one per subdivision.
+      leaders = Hash.new("")
+      members = Hash.new("")
+      text.join("\n").split(/\n\n\n+/).each do |block|
+        line = block.strip.split("\n").first
+
+        if line [/^Village of (.+),/]
+          name = $1
+          type = "VL"
+        elsif line[/^(.+), (.+?)(?: of)?$/]
+          name = $1
+          type = $2
+        elsif line[/^RM of (.+)$/]
+          name = $1
+          type = "RM"
+        end
+
+        next if ["Northern Hamlet", "Northern Settlement"].include?(type) && saskatchewan_non_census_subdivisions.include?(name)
+
+        name.sub!(/\bDISTRICT OF /, "")
+        identifier = nil
+
+        if ["Hamlet", "Organized Hamlet", "Special Service Area"].include?(type)
+          fingerprint = CensusSubdivisionNameMatcher.fingerprint("sk", name)
+          identifier, _ = CensusSubdivisionNameMatcher.identifier_and_name(fingerprint)
+          if identifier
+            raise "Unexpected matching census subdivision for #{name} (#{type})"
+          else
+            next
+          end
+        end
+
+        if ["Northern Hamlet", "Northern Settlement"].include?(type)
+          fingerprint = CensusSubdivisionNameMatcher.fingerprint("sk", name)
+          identifier, _ = CensusSubdivisionNameMatcher.identifier_and_name(fingerprint)
+          unless identifier
+            raise "Expected matching census subdivision for #{name} (#{type})"
+          end
+        end
+
+        unless identifier
+          # Some census subdivisions changed type since 2011.
+          if name == "WARMAN" && type == "City"
+            census_subdivision_type = "T"
+          elsif ["HEPBURN", "PENSE"].include?(name) && type == "Town"
+            census_subdivision_type = "VL"
+          else
+            census_subdivision_type = type_map.fetch(type)
+          end
+
+          fingerprint = ["sk", census_subdivision_type, CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
+          identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
+        end
+
+        unless identifier
+          raise fingerprint
+        end
+
+        # Subdivisions with a population of less than 42 may not list elected officials.
+        raise_if_error = Integer(block[/^Population: +([\d,]+)$/, 1].sub(",", "")) > 42
+
+        if block[/^(Chairman|Mayor|Reeve):/]
+          leaders[identifier] = $1
+        elsif raise_if_error
+          raise "Unrecognized style of address: #{block}"
+        end
+
+        if block[/^(Alderman|Councillor|Member):/]
+          members[identifier] = $1
+        elsif block[/^Division \d+:/]
+          members[identifier] = "Councillor"
+          subdivisions[identifier] = "Y"
+        elsif raise_if_error
+          raise "Unrecognized style of address: #{block}"
+        end
+        # @note You can print the leaders and members for the styles of address spreadsheet.
+      end
+    end
+
     # These may opt to adopt wards in the future (2014-02-10). Check manually.
     alberta_cities_without_subdivisions = [
       '4801006', # Medicine Hat
@@ -360,9 +518,7 @@ class MunicipalSubdivision < Runner
           output("csd:", type_id.to_i, subdivisions[identifier])
         # @see http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/M36-1.pdf
         when "47"
-          if census_subdivision_type == "RM"
-            output("csd:", type_id.to_i, "N")
-          end
+          output("csd:", type_id.to_i, subdivisions[identifier])
         # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
         when "48"
           value = case census_subdivision_type

@@ -72,7 +72,7 @@ class DivisionName < String
     sub(/ \((?:AB|MB|NB|NL|ON)\)\z/, "").                  # Remove province, e.g. "Cochrane (AB)"
     sub(/ 100 /, " One Hundred ").                         # Replace infix number, e.g. "District of 100 Mile House"
     gsub(/[ -](?:and|de|et)[ -]/, " ").                    # Remove linking words
-    sub(/\bSt(e)?\b\.?/, 'Saint\1')                        # Expand "St." and "Ste."
+    sub(/\bSt(e)?\b\.?/i, 'Saint\1')                       # Expand "St." and "Ste."
   end
 
   # @note This method would previously reorder words; however, word order
