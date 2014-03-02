@@ -124,10 +124,10 @@ class MunicipalSubdivision < Runner
 
   # Asked:
   # * FCM contact form (2014-02-18 can also try info@fcm.ca)
-  # * info@elections.on.ca (2014-02-18)
   # 2014-02-20 JShiu@amo.on.ca "I believe we do not have a report that lists this type of information."
   # 2014-02-18 amcto@amcto.com "we do not maintain a list of council seats within each municipality"
   # 2014-02-18 mininfo.mah@ontario.ca "We regret to inform you that we cannot assist on this matter."
+  # 2014-02-24 info@elections.on.ca "Elections Ontario does not have that information to provide."
   def posts
     # @see http://www.novascotia.ca/snsmr/municipal/government/elections.asp
     # The spreadsheet and roo gems open the Excel file too slowly.
@@ -176,14 +176,14 @@ class MunicipalSubdivision < Runner
     end
   end
 
-  # ON: Asked:
+  # Asked:
   # * enquiry@mpac.ca (2014-02-10, 2014-02-13 called to clarify my data request)
   # * ontario.municipal.board@ontario.ca (2014-02-10)
   # * FCM contact form (2014-02-18 can also try info@fcm.ca)
-  # * info@elections.on.ca (2014-02-18)
   # 2014-02-11 amo@amo.on.ca "After reviewing our election data we found that we have not been tracking election results by wards so are unable to compile a list of municipalities that have wards."
   # 2014-02-18 amcto@amcto.com "we are unable to provide individual responses from municipalities as a means to respect the confidentiality of their responses"
   # 2014-02-11 mininfo.mah@ontario.ca "We regret to inform you that we do not have the information you requested."
+  # 2014-02-24 info@elections.on.ca "Elections Ontario does not have that information to provide."
   # @see http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_01m25_e.htm#BK238
   # @see http://m.mpac.ca/about/corporate_overview/department.asp
   # @see https://www.omb.gov.on.ca/stellent/groups/public/@abcs/@www/@omb/documents/webasset/ec082186.pdf
@@ -195,8 +195,17 @@ class MunicipalSubdivision < Runner
       "CT" => "CT",
       "M"  => "MÉ",
       "P"  => "PE",
+      "RM" => "RM",
       "V"  => "V",
       "VL" => "VL",
+      # SK
+      "City"             => "CY",
+      "Northern Hamlet"  => "NH",
+      "Northern Town"    => "T",
+      "Northern Village" => "NV",
+      "Resort Village"   => "RV",
+      "Town"             => "T",
+      "Village"          => "VL",
     }
 
     boroughs = [
@@ -231,6 +240,7 @@ class MunicipalSubdivision < Runner
           type = "MD"
         end
 
+        # Process municipalities with districts. Skip the header row.
         if row[0] && row[1] && row[0].strip != 'Municipality'
           next if row[0] == name
           name = row[0]
@@ -251,7 +261,11 @@ class MunicipalSubdivision < Runner
             identifier, _ = CensusDivisionNameMatcher.identifier_and_name(fingerprint)
           end
 
-          subdivisions[identifier] = "Y"
+          if identifier
+            subdivisions[identifier] = "Y"
+          else
+            raise fingerprint
+          end
         end
       end
     end
@@ -277,7 +291,7 @@ class MunicipalSubdivision < Runner
     end
 
     # Some Québec municipalities are divided into "quartiers" instead of
-    # "districts". (Mireille Loignon <Mloignon@dgeq.qc.ca>)
+    # "districts" (Mireille Loignon <Mloignon@dgeq.qc.ca> 2014-02-07).
     [ '2402015', # Grande-Rivière
       '2403005', # Gaspé
       '2411040', # Trois-Pistole
@@ -295,27 +309,37 @@ class MunicipalSubdivision < Runner
       subdivisions["ocd-division/country:ca/csd:#{identifier}"] = "Y"
     end
 
-    # These cities may opt to adopt wards in the future.
-    alberta_cities_without_subdivisions = %w(
-      4801006
-      4802012
-      4802034
-      4806021
-      4808011
-      4808031
-      4810011
-      4811002
-      4811016
-      4811049
-      4811056
-      4811062
-      4812002
-      4819012
-    )
+    # These may opt to adopt wards in the future (2014-02-10). Check manually.
+    alberta_cities_without_subdivisions = [
+      '4801006', # Medicine Hat
+      '4802012', # Lethbridge
+      '4802034', # Brooks
+      '4806021', # Airdrie
+      '4808011', # Red Deer
+      '4808031', # Lacombe
+      '4810011', # Camrose
+      '4810039', # Lloydminster
+      '4811002', # Wetaskiwin
+      '4811016', # Leduc
+      '4811049', # Spruce Grove
+      '4811056', # Fort Saskatchewan
+      '4811062', # St. Albert
+      '4812002', # Cold Lake
+      '4815007', # Crowsnest Pass
+      '4815033', # Jasper
+      '4819012', # Grande Prairie
+    ]
+    alberta_cities_with_subdivisions = [
+      '4806016', # Calgary
+      '4811052', # Strathcona County
+      '4811061', # Edmonton
+      '4816037', # Wood Buffalo
+      '4817095', # Mackenzie County
+    ]
 
-    types = {}
+    census_subdivision_types = {}
     OpenCivicDataMappings.read("country-ca-types/ca_census_subdivisions").each do |identifier,mapping|
-      types[identifier] = mapping
+      census_subdivision_types[identifier] = mapping
     end
 
     OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").each do |identifier,_|
@@ -327,7 +351,8 @@ class MunicipalSubdivision < Runner
 
     OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,_|
       type_id = identifier[/[^:]+\z/]
-      if %w(IRI NO SNO).include?(types[identifier])
+      census_subdivision_type = census_subdivision_types.fetch(identifier)
+      if %w(IRI NO S-É SNO).include?(census_subdivision_type)
         output("csd:", type_id.to_i, "N")
       else
         case type_id[0, 2]
@@ -335,20 +360,26 @@ class MunicipalSubdivision < Runner
           output("csd:", type_id.to_i, subdivisions[identifier])
         # @see http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/M36-1.pdf
         when "47"
-          if types[identifier] == "RM"
+          if census_subdivision_type == "RM"
             output("csd:", type_id.to_i, "N")
           end
         # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
         when "48"
-          value = case types[identifier]
+          value = case census_subdivision_type
           when "CY", "SM"
-            alberta_cities_without_subdivisions.include?(type_id) ? "N": "?"
+            if alberta_cities_without_subdivisions.include?(type_id)
+              "N"
+            elsif alberta_cities_with_subdivisions.include?(type_id)
+              "Y"
+            else
+              raise "Couldn't determine subdivisions: #{type_id}"
+            end
           when "MD"
             "Y"
           when "ID", "IRI", "S-É", "SA", "SV", "T", "VL"
             "N"
           else
-            raise "Unrecognized census subdivision type: #{types[identifier]}"
+            raise "Unrecognized census subdivision type: #{census_subdivision_type}"
           end
           output("csd:", type_id.to_i, value)
         when "59"
