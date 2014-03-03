@@ -33,6 +33,10 @@ class MunicipalSubdivision < Runner
       :description => "Prints a CSV of identifiers and booleans",
       :directory   => "mappings/country-ca-subdivisions",
     })
+    add_command({
+      :name        => "styles",
+      :description => "Prints a CSV fo identifiers and styles of address",
+    })
   end
 
   def names
@@ -47,7 +51,7 @@ class MunicipalSubdivision < Runner
       subsubdivision, census_subdivision, province_or_territory = domain.match(/\A(?:([^,]+), )?([^,]+), (NL|PE|NS|NB|QC|ON|MB|SK|AB|BC|YT|NT|NU)\z/)[1..3]
 
       # Ignore municipal subsubdivisions. Montréal subdivisions are handled by another script.
-      unless subsubdivision || census_subdivision == 'Montréal'
+      unless subsubdivision || census_subdivision == "Montréal"
         matches = census_subdivisions.fetch(province_or_territory.downcase).fetch(census_subdivision)
 
         census_subdivision_id = if matches.size == 1
@@ -99,7 +103,7 @@ class MunicipalSubdivision < Runner
     }.each do |filename,table|
       type_names[filename] = {}
       Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-#{table}-eng.cfm")).xpath("//table/tbody/tr/th[1]/abbr").each do |abbr|
-        type_names[filename][abbr.text] = abbr['title'].sub(/ \/.+\z/, '')
+        type_names[filename][abbr.text] = abbr["title"].sub(/ \/.+\z/, "")
       end
     end
 
@@ -147,7 +151,7 @@ class MunicipalSubdivision < Runner
           type = "MD"
         end
 
-        if row[0] && row[1] && row[0].strip != 'Voter Turnout'
+        if row[0] && row[1] && row[0].strip != "Voter Turnout"
           identifier = nil
           if type != "MD"
             fingerprint = CensusSubdivisionNameMatcher.fingerprint("ns", row[0])
@@ -172,8 +176,8 @@ class MunicipalSubdivision < Runner
     # @see http://donnees.electionsmunicipales.gouv.qc.ca/
     CSV.parse(open("http://donnees.electionsmunicipales.gouv.qc.ca/liste_municipalites.csv"), :col_sep => ";", :headers => true) do |row|
       output("csd:",
-        "24#{row['id_ville']}",
-        JSON.load(open("http://donnees.electionsmunicipales.gouv.qc.ca/#{row['id_ville']}.json"))['ville']['postes'].size)
+        "24#{row["id_ville"]}",
+        JSON.load(open("http://donnees.electionsmunicipales.gouv.qc.ca/#{row["id_ville"]}.json"))["ville"]["postes"].size)
     end
   end
 
@@ -196,17 +200,8 @@ class MunicipalSubdivision < Runner
       "CT" => "CT",
       "M"  => "MÉ",
       "P"  => "PE",
-      "RM" => "RM",
       "V"  => "V",
       "VL" => "VL",
-      # SK
-      "City"             => "CY",
-      "Northern Hamlet"  => "NH",
-      "Northern Town"    => "T",
-      "Northern Village" => "NV",
-      "Resort Village"   => "RV",
-      "Town"             => "T",
-      "Village"          => "VL",
     }
 
     boroughs = [
@@ -242,11 +237,11 @@ class MunicipalSubdivision < Runner
         end
 
         # Process municipalities with districts. Skip the header row.
-        if row[0] && row[1] && row[0].strip != 'Municipality'
+        if row[0] && row[1] && row[0].strip != "Municipality"
           next if row[0] == name
           name = row[0]
 
-          value = row[0].sub(' (County)', '')
+          value = row[0].sub(" (County)", "")
           identifier = nil
 
           if !row[0][/ \(County\)\z/]
@@ -293,22 +288,152 @@ class MunicipalSubdivision < Runner
 
     # Some Québec municipalities are divided into "quartiers" instead of
     # "districts" (Mireille Loignon <Mloignon@dgeq.qc.ca> 2014-02-07).
-    [ '2402015', # Grande-Rivière
-      '2403005', # Gaspé
-      '2411040', # Trois-Pistole
-      '2413095', # Pohénégamook
-      '2434120', # Lac-Sergent
-      '2446080', # Cowansville
-      '2453050', # Saint-Joseph-de-Sorel
-      '2467025', # Delson
-      '2469055', # Huntingdon
-      '2487090', # La Sarre
-      '2483065', # Maniwaki
-      '2489040', # Senneterre
-      '2493005', # Desbiens
+    [ "2402015", # Grande-Rivière
+      "2403005", # Gaspé
+      "2411040", # Trois-Pistole
+      "2413095", # Pohénégamook
+      "2434120", # Lac-Sergent
+      "2446080", # Cowansville
+      "2453050", # Saint-Joseph-de-Sorel
+      "2467025", # Delson
+      "2469055", # Huntingdon
+      "2487090", # La Sarre
+      "2483065", # Maniwaki
+      "2489040", # Senneterre
+      "2493005", # Desbiens
     ].each do |identifier|
       subdivisions["ocd-division/country:ca/csd:#{identifier}"] = "Y"
     end
+
+    census_subdivisions_sk.each do |identifier,block|
+      if block[/^Division \d+:/]
+        subdivisions[identifier] = "Y"
+      end
+    end
+
+    # These may opt to adopt wards in the future (2014-02-10). Check manually.
+    alberta_cities_without_subdivisions = [
+      "4801006", # Medicine Hat
+      "4802012", # Lethbridge
+      "4802034", # Brooks
+      "4806021", # Airdrie
+      "4808011", # Red Deer
+      "4808031", # Lacombe
+      "4810011", # Camrose
+      "4810039", # Lloydminster
+      "4811002", # Wetaskiwin
+      "4811016", # Leduc
+      "4811049", # Spruce Grove
+      "4811056", # Fort Saskatchewan
+      "4811062", # St. Albert
+      "4812002", # Cold Lake
+      "4815007", # Crowsnest Pass
+      "4815033", # Jasper
+      "4819012", # Grande Prairie
+    ]
+    alberta_cities_with_subdivisions = [
+      "4806016", # Calgary
+      "4811052", # Strathcona County
+      "4811061", # Edmonton
+      "4816037", # Wood Buffalo
+      "4817095", # Mackenzie County
+    ]
+
+    census_subdivision_types = {}
+    OpenCivicDataMappings.read("country-ca-types/ca_census_subdivisions").each do |identifier,mapping|
+      census_subdivision_types[identifier] = mapping
+    end
+
+    OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").each do |identifier,_|
+      type_id = identifier[/[^:]+\z/]
+      if type_id[0, 2] == "12"
+        output("csd:", type_id.to_i, subdivisions[identifier])
+      end
+    end
+
+    OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,_|
+      type_id = identifier[/[^:]+\z/]
+      census_subdivision_type = census_subdivision_types.fetch(identifier)
+      if %w(IRI NO S-É SNO).include?(census_subdivision_type)
+        output("csd:", type_id.to_i, "N")
+      else
+        case type_id[0, 2]
+        when "12", "24"
+          output("csd:", type_id.to_i, subdivisions[identifier])
+        when "47"
+          output("csd:", type_id.to_i, subdivisions[identifier])
+        # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
+        when "48"
+          value = case census_subdivision_type
+          when "CY", "SM"
+            if alberta_cities_without_subdivisions.include?(type_id)
+              "N"
+            elsif alberta_cities_with_subdivisions.include?(type_id)
+              "Y"
+            else
+              raise "Couldn't determine subdivisions: #{type_id}"
+            end
+          when "MD"
+            "Y"
+          when "ID", "IRI", "S-É", "SA", "SV", "T", "VL"
+            "N"
+          else
+            raise "Unrecognized census subdivision type: #{census_subdivision_type}"
+          end
+          output("csd:", type_id.to_i, value)
+        when "59"
+          output("csd:", type_id.to_i, "N")
+        end
+      end
+    end
+  end
+
+  def styles
+    census_subdivisions_sk.each do |identifier,block|
+      # Subdivisions with a population of less than 42 may not list elected officials.
+      raise_if_error = Integer(block[/^Population: +([\d,]+)$/, 1].sub(",", "")) > 42
+
+      leader = nil
+      member = nil
+
+      if block[/^(Chairman|Mayor|Reeve):/]
+        leader = $1
+      elsif raise_if_error
+        raise "Unrecognized style of address: #{block}"
+      end
+
+      if block[/^(Alderman|Councillor|Member):/]
+        member = $1
+      elsif block[/^Division \d+:/]
+        member = "Councillor"
+      elsif raise_if_error
+        raise "Unrecognized style of address: #{block}"
+      end
+
+      if leader && member
+        puts "#{identifier},#{leader},#{member}"
+      elsif leader || member
+        raise "Only determined one style of address: #{block}"
+      end
+    end
+  end
+
+private
+
+  def census_subdivisions_sk
+    blocks = {}
+
+    type_map = {
+      "City"             => "CY",
+      "Northern Hamlet"  => "NH",
+      "Northern Town"    => "T",
+      "Northern Village" => "NV",
+      "Resort Village"   => "RV",
+      "RM"               => "RM",
+      "Town"             => "T",
+      "Village"          => "VL",
+      "VL"               => "VL",
+    }
 
     saskatchewan_non_census_subdivisions = [
       # @see http://en.wikipedia.org/wiki/Division_No._18,_Saskatchewan#Unincorporated_communities
@@ -390,8 +515,6 @@ class MunicipalSubdivision < Runner
       end
 
       # Split the text into blocks, one per subdivision.
-      leaders = Hash.new("")
-      members = Hash.new("")
       text.join("\n").split(/\n\n\n+/).each do |block|
         line = block.strip.split("\n").first
 
@@ -447,105 +570,12 @@ class MunicipalSubdivision < Runner
           raise fingerprint
         end
 
-        # Subdivisions with a population of less than 42 may not list elected officials.
-        raise_if_error = Integer(block[/^Population: +([\d,]+)$/, 1].sub(",", "")) > 42
-
-        if block[/^(Chairman|Mayor|Reeve):/]
-          leaders[identifier] = $1
-        elsif raise_if_error
-          raise "Unrecognized style of address: #{block}"
-        end
-
-        if block[/^(Alderman|Councillor|Member):/]
-          members[identifier] = $1
-        elsif block[/^Division \d+:/]
-          members[identifier] = "Councillor"
-          subdivisions[identifier] = "Y"
-        elsif raise_if_error
-          raise "Unrecognized style of address: #{block}"
-        end
-        # @note You can print the leaders and members for the styles of address spreadsheet.
+        blocks[identifier] = block
       end
     end
 
-    # These may opt to adopt wards in the future (2014-02-10). Check manually.
-    alberta_cities_without_subdivisions = [
-      '4801006', # Medicine Hat
-      '4802012', # Lethbridge
-      '4802034', # Brooks
-      '4806021', # Airdrie
-      '4808011', # Red Deer
-      '4808031', # Lacombe
-      '4810011', # Camrose
-      '4810039', # Lloydminster
-      '4811002', # Wetaskiwin
-      '4811016', # Leduc
-      '4811049', # Spruce Grove
-      '4811056', # Fort Saskatchewan
-      '4811062', # St. Albert
-      '4812002', # Cold Lake
-      '4815007', # Crowsnest Pass
-      '4815033', # Jasper
-      '4819012', # Grande Prairie
-    ]
-    alberta_cities_with_subdivisions = [
-      '4806016', # Calgary
-      '4811052', # Strathcona County
-      '4811061', # Edmonton
-      '4816037', # Wood Buffalo
-      '4817095', # Mackenzie County
-    ]
-
-    census_subdivision_types = {}
-    OpenCivicDataMappings.read("country-ca-types/ca_census_subdivisions").each do |identifier,mapping|
-      census_subdivision_types[identifier] = mapping
-    end
-
-    OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").each do |identifier,_|
-      type_id = identifier[/[^:]+\z/]
-      if type_id[0, 2] == "12"
-        output("csd:", type_id.to_i, subdivisions[identifier])
-      end
-    end
-
-    OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,_|
-      type_id = identifier[/[^:]+\z/]
-      census_subdivision_type = census_subdivision_types.fetch(identifier)
-      if %w(IRI NO S-É SNO).include?(census_subdivision_type)
-        output("csd:", type_id.to_i, "N")
-      else
-        case type_id[0, 2]
-        when "12", "24"
-          output("csd:", type_id.to_i, subdivisions[identifier])
-        when "47"
-          output("csd:", type_id.to_i, subdivisions[identifier])
-        # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
-        when "48"
-          value = case census_subdivision_type
-          when "CY", "SM"
-            if alberta_cities_without_subdivisions.include?(type_id)
-              "N"
-            elsif alberta_cities_with_subdivisions.include?(type_id)
-              "Y"
-            else
-              raise "Couldn't determine subdivisions: #{type_id}"
-            end
-          when "MD"
-            "Y"
-          when "ID", "IRI", "S-É", "SA", "SV", "T", "VL"
-            "N"
-          else
-            raise "Unrecognized census subdivision type: #{census_subdivision_type}"
-          end
-          output("csd:", type_id.to_i, value)
-        when "59"
-          output("csd:", type_id.to_i, "N")
-        end
-      end
-    end
+    blocks
   end
-
-private
 
   def census_subdivisions
     @census_subdivisions ||= {}.tap do |hash|
