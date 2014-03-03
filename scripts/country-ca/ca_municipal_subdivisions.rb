@@ -503,12 +503,14 @@ private
           if abbr
             unless province_or_territory && row.at_xpath("./td[#{indexes[province_or_territory]}]/abbr") || province_or_territory == "on" && abbr.text == "TV" # Skip the one TV in Ontario
               hash[type][abbr["title"].sub(/ \/.+\z/, "").split.map(&:capitalize).join(" ")] = abbr.text
+              hash[type][abbr.text] = abbr.text
             end
           end
         end
       end
 
-      hash["csd"]["United Townships"] = "TP" # Dysart and Others
+      hash["csd"]["United Townships"] = "TP" # Ontario: Dysart and Others
+      hash["csd"]["Northern Town"] = "T" # Saskatchewan
     end
   end
 
@@ -527,17 +529,7 @@ private
   def census_subdivisions_sk
     blocks = {}
 
-    type_map = {
-      "City"             => "CY",
-      "Northern Hamlet"  => "NH",
-      "Northern Town"    => "T",
-      "Northern Village" => "NV",
-      "Resort Village"   => "RV",
-      "RM"               => "RM",
-      "Town"             => "T",
-      "Village"          => "VL",
-      "VL"               => "VL",
-    }
+    type_map = type_map("sk")
 
     saskatchewan_non_census_subdivisions = [
       # @see http://en.wikipedia.org/wiki/Division_No._18,_Saskatchewan#Unincorporated_communities
@@ -663,7 +655,7 @@ private
           elsif ["HEPBURN", "PENSE"].include?(name) && type == "Town"
             census_subdivision_type = "VL"
           else
-            census_subdivision_type = type_map.fetch(type)
+            census_subdivision_type = type_map["csd"].fetch(type)
           end
 
           fingerprint = ["sk", census_subdivision_type, CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
