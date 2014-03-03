@@ -328,6 +328,7 @@ class MunicipalSubdivision < Runner
     # This file must be refreshed by selecting "Entire Directory", clicking
     # "Generate PDF", and transforming the PDF to text with `pdftotext -layout`.
     # @see http://www.mds.gov.sk.ca/apps/Pub/MDS/welcome.aspx
+    # @see http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/M36-1.pdf
     path = File.expand_path(File.join("..", "sk.txt"), __FILE__)
     if File.exist?(path)
       header_re = /^\f?(?:CITIES|NORTHERN TOWNS, VILLAGES, HAMLETS, AND SETTLEMENTS|ORGANIZED AND RESORT HAMLETS|RURAL MUNICIPALITIES|TOWNS, VILLAGES AND RESORT VILLAGES|UNKNOWN)\n/
@@ -516,7 +517,6 @@ class MunicipalSubdivision < Runner
         case type_id[0, 2]
         when "12", "24"
           output("csd:", type_id.to_i, subdivisions[identifier])
-        # @see http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/M36-1.pdf
         when "47"
           output("csd:", type_id.to_i, subdivisions[identifier])
         # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
