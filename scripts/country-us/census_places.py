@@ -1,12 +1,12 @@
 #!/usr/bin/env python
 import re
-import os
-import sys
+#import os
+#import sys
 import csv
 import codecs
 import urllib.request
 import zipfile
-import argparse
+#import argparse
 import collections
 import us
 
@@ -42,7 +42,9 @@ def _ordinal(value):
     return '{}{}'.format(value, ordval)
 
 BASE_URL = 'http://www2.census.gov/geo/gazetteer/2013_Gazetteer/'
-CD_111 = 'https://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_cd111_national.zip'
+CD_111 = (
+    'https://www.census.gov/geo/'
+    'maps-data/data/docs/gazetteer/Gaz_cd111_national.zip')
 
 
 TYPES = {
@@ -63,7 +65,8 @@ TYPES = {
             'Juneau City and Borough': ('Juneau', 'borough'),
             'Yakutat City and Borough': ('Yakutat', 'borough'),
         },
-        'id_overrides': { }
+        'id_overrides': {
+        }
     },
     'place': {
         'zip': '2013_Gaz_place_national.zip',
@@ -80,9 +83,13 @@ TYPES = {
             'Sitka city and borough': ('Sitka', 'place'),
             'Juneau city and borough': ('Juneau', 'place'),
             'Lexington-Fayette urban county': ('Lexington', 'place'),
-            'Lynchburg, Moore County metropolitan government': ('Lynchburg', 'place'),
-            'Cusseta-Chattahoochee County unified government': ('Cusseta', 'place'),
-            'Georgetown-Quitman County unified government': ('Georgetown', 'place'),
+            'Lynchburg, Moore County metropolitan government': (
+                'Lynchburg',
+                'place'),
+            'Cusseta-Chattahoochee County unified government': (
+                'Cusseta', 'place'),
+            'Georgetown-Quitman County unified government': (
+                'Georgetown', 'place'),
             'Anaconda-Deer Lodge County': ('Anaconda', 'place'),
             'Hartsville/Trousdale County': ('Hartsville', 'place'),
             'Webster County unified government': ('Webster County ', 'place'),
@@ -136,7 +143,8 @@ TYPES = {
             'Township 11': ('Township 11', 'place'),
             'Township 12': ('Township 12', 'place'),
         },
-        'id_overrides': { }
+        'id_overrides': {
+        }
     },
 }
 
@@ -181,9 +189,12 @@ def make_id(parent=None, **kwargs):
     type_id = re.sub('\.? ', '_', type_id)
     type_id = re.sub('[^\w0-9~_.-]', '~', type_id, re.UNICODE)
     if parent:
-        return '{parent}/{type}:{type_id}'.format(parent=parent, type=type, type_id=type_id)
+        return '{parent}/{type}:{type_id}'.format(parent=parent,
+                                                  type=type, type_id=type_id)
     else:
-        return 'ocd-division/country:us/{type}:{type_id}'.format(type=type, type_id=type_id)
+        return 'ocd-division/country:us/{type}:{type_id}'.format(
+            type=type,
+            type_id=type_id)
 
 
 def open_gaz_zip(url):
@@ -200,11 +211,11 @@ class Skip(Exception):
 
 
 class Processor(object):
+
     def __init__(self):
         self.csvfile = csv.writer(open(self.csvfilename, 'w'))
         self.geocsv = csv.writer(open(self.geofilename, 'w'))
         self.ids = set()
-
 
     def process(self):
         for suffix, url in self.get_urls():
@@ -228,7 +239,8 @@ class CDProcessor(Processor):
         """ yield tuples of name suffixes and zip file URLs """
         yield ('', BASE_URL + '2013_Gaz_113CDs_national.zip')
         yield (' (obsolete as of 2012)',
-               'https://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_cd111_national.zip')
+               'https://www.census.gov/geo/'
+               'maps-data/data/docs/gazetteer/Gaz_cd111_national.zip')
 
     def process_row(self, row):
         """
@@ -314,7 +326,8 @@ class SLDProcessor(Processor):
     )
 
     def get_urls(self):
-        yield ('', BASE_URL + '2013_Gaz_{}_national.zip'.format(self.district_type))
+        yield ('', BASE_URL + '2013_Gaz_{}_national.zip'.format(
+            self.district_type))
         yield (' (obsolete)',
                'https://www.census.gov/geo/maps-data/data/docs/gazetteer'
                '/Gaz_{}_national.zip'.format(self.district_type))
@@ -350,12 +363,13 @@ class SLDProcessor(Processor):
         district = district.strip().lstrip('0')
 
         # CHANGE: undo district lowercasing
-        name = "{} {}".format(state, row['NAME'].replace('District', 'district'))
+        name = "{} {}".format(
+            state, row['NAME'].replace('District', 'district'))
         parent_id = make_id(state=row['USPS'].lower())
         if row['USPS'] == 'DC':
-            id = make_id(parent_id, **{'ward':district})
+            id = make_id(parent_id, **{'ward': district})
         else:
-            id = make_id(parent_id, **{self.district_type:district})
+            id = make_id(parent_id, **{self.district_type: district})
 
         return id, name, row['GEOID']
 
@@ -364,6 +378,7 @@ class SLDUProcessor(SLDProcessor):
     csvfilename = 'identifiers/country-us/us_sldu.csv'
     geofilename = 'mappings/us-sldu-geoid.csv'
     district_type = 'sldu'
+
 
 class SLDLProcessor(SLDProcessor):
     csvfilename = 'identifiers/country-us/us_sldl.csv'
@@ -380,7 +395,8 @@ def process_types(types):
     duplicates = collections.defaultdict(list)
     # load exceptions from file
     exceptions = get_exception_set()
-    csvfile = csv.writer(open('identifiers/country-us/us_census_places.csv', 'w'))
+    csvfile = csv.writer(
+        open('identifiers/country-us/us_census_places.csv', 'w'))
     geocsv = csv.writer(open('mappings/us-census-places-geoids.csv', 'w'))
 
     for entity_type in types:
@@ -408,14 +424,16 @@ def process_types(types):
                 # unknown type
                 raise Exception(row)
             if entity_type == 'subdiv' and not subdiv_rule:
-                raise Exception('unexpected subdiv in {}: {}'.format(state, row))
+                raise Exception(
+                    'unexpected subdiv in {}: {}'.format(state, row))
 
             if name in overrides:
                 name, subtype = overrides[name]
             elif row['GEOID'] in id_overrides:
                 name, subtype = id_overrides[row['GEOID']]
             else:
-                for ending, subtype in TYPES[entity_type]['type_mapping'].items():
+                for ending, subtype in TYPES[
+                        entity_type]['type_mapping'].items():
                     if name.endswith(ending):
                         name = name.replace(ending, '')
                         break
@@ -425,7 +443,8 @@ def process_types(types):
                                                      name == 'Carson City')):
                         continue
                     else:
-                        raise ValueError('unknown ending: {} for {}'.format(name, row))
+                        raise ValueError(
+                            'unknown ending: {} for {}'.format(name, row))
 
             type_count[subtype] += 1
 
@@ -464,8 +483,10 @@ def process_types(types):
             csvfile.writerow((id, row['NAME']))
             geocsv.writerow((id, row['GEOID']))
 
-    print(' | '.join('{}: {}'.format(k,v) for k,v in funcstat_count.most_common()))
-    print(' | '.join('{}: {}'.format(k,v) for k,v in type_count.most_common()))
+    print(' | '.join('{}: {}'.format(k, v)
+          for k, v in funcstat_count.most_common()))
+    print(' | '.join('{}: {}'.format(k, v)
+          for k, v in type_count.most_common()))
 
     for id, sources in duplicates.items():
         error = '{} duplicate {}\n'.format(state, id)

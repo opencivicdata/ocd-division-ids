@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import re
-import os
+#import os
 import sys
 import csv
 import glob
@@ -12,11 +12,13 @@ if sys.version_info < (3, 0):
     sys.stdout.write("Python 2.x not supported.\n")
     sys.exit(1)
 
-VALID_ID_IGNORE_CASE = re.compile(r'^ocd-division/country:[a-z]{2}(/[^\W\d]+:[\w.~-]+)*$', re.U)
+VALID_ID_IGNORE_CASE = re.compile(
+    r'^ocd-division/country:[a-z]{2}(/[^\W\d]+:[\w.~-]+)*$', re.U)
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='verify published CSV files')
-    parser.add_argument('country', type=str, default=None, help='country to verify')
+    parser.add_argument('country', type=str, default=None,
+                        help='country to verify')
     args = parser.parse_args()
 
     country = args.country.lower()
@@ -95,9 +97,9 @@ if __name__ == '__main__':
                 all_geo_rows.append((id_, geoid))
 
         #unknown_ids = set(ids.keys()) - seen_in_geoid
-        #if not unknown_ids:
+        # if not unknown_ids:
         #    print('no missing geoids!')
-        #else:
+        # else:
         #    for id in sorted(unknown_ids):
         #        print('missing geoid for id', id)
         with open('mappings/us-census-geoids.csv', 'w') as out:
