@@ -384,7 +384,7 @@ class CensusDivisionIdentifier < String
 
   # Returns the census division's type.
   def census_division_type
-    self.class.census_division_types.fetch("ocd-division/country:ca/csd:#{census_division_type_id}")
+    self.class.census_division_types.fetch("ocd-division/country:ca/cd:#{census_division_type_id}")
   end
 end
 
@@ -430,7 +430,8 @@ class CensusDivisionNameMatcher
     value = CensusDivisionName.identifier_from_name(name) || value
     name = CensusDivisionName.new(name).normalize
     if value[/\Aocd-division/] # `value` is an OCD identifier
-      [CensusDivisionIdentifier.new(value).province_or_territory_type_id, name.fingerprint]
+      identifier = CensusDivisionIdentifier.new(value)
+      [identifier.province_or_territory_type_id, name.fingerprint]
     else # `value` is a province of territory type ID
       [value, name.remove_type(value).fingerprint]
     end * ":"
@@ -445,6 +446,31 @@ class CensusDivisionNameMatcher
 
   def self.identifier_and_name(fingerprint)
     @census_divisions_hash[fingerprint]
+  end
+end
+
+class CensusDivisionNameTypeMatcher
+  # census_division_map.call(["on", "York"]) # "on:YORK"
+  @census_division_with_type_map = lambda do |(value,name)|
+    value = CensusDivisionName.identifier_from_name(name) || value
+    name = CensusDivisionName.new(name).normalize
+    if value[/\Aocd-division/] # `value` is an OCD identifier
+      identifier = CensusDivisionIdentifier.new(value)
+      [identifier.province_or_territory_type_id, identifier.census_division_type, name.fingerprint]
+    else # `value` is a province of territory type ID
+      [value, name.type(value).to_s, name.remove_type(value).fingerprint]
+    end * ":"
+  end
+
+  @census_divisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions")
+  @census_divisions_with_types_hash = Lycopodium.new(@census_divisions, @census_division_with_type_map).reject_collisions.value_to_fingerprint.invert
+
+  def self.fingerprint(province_or_territory_type_id, name_with_type)
+    @census_division_with_type_map.call([province_or_territory_type_id, name_with_type])
+  end
+
+  def self.identifier_and_name(fingerprint)
+    @census_divisions_with_types_hash[fingerprint]
   end
 end
 

@@ -416,9 +416,113 @@ class MunicipalSubdivision < Runner
         raise "Only determined one style of address: #{block}"
       end
     end
+
+    type_map = type_map("on")
+
+    Nokogiri::HTML(open('http://www.mah.gov.on.ca/Page1591.aspx').read).xpath('//table[1]//tr[position()>1]').each do |row|
+      text = row.xpath(".//td[1]").text.strip.gsub(/[[:space:]]+/, " ")
+      if row.xpath(".//td[2]").text.strip == "Lower Tier"
+        text_map = {
+          "Grand Valley, Town of"             => ["East Luther Grand Valley", "Township"],
+          "Markham, City of"                  => ["Markham", "Town"],
+          "Middlesex Centre, Municipality of" => ["Middlesex Centre", "Township"],
+          "Selwyn, Township of"               => ["Smith-Ennismore-Lakefield", "Township"],
+          "South Dundas, Municipality of"     => ["South Dundas", "Township"],
+          "Trent Lakes, Municipality of"      => ["Galway-Cavendish and Harvey", "Township"],
+        }
+
+        if text_map.key?(text)
+          name, type_name = text_map[text]
+        elsif ["Haldimand County", "Norfolk County"].include?(text)
+          name = text
+          type_name = "City"
+        elsif text[","]
+          name, type_name = text.match(/\A(.+), (.+) of\z/)[1..2]
+        else
+          name, type_name = text.match(/\A(.+) (Municipality)\z/)[1..2]
+        end
+
+        type = type_map["cd"][type_name] || type_map["csd"][type_name] || raise("Unrecognized type name: #{type_name}")
+
+        if name == "Dysart, Dudley, Harcourt, Guilford, Harburn, Bruton, Havelock, Eyre and Clyde"
+          name = "Dysart and Others"
+        end
+        if name == "The Nation"
+          type = "M" # not MU
+        end
+
+        fingerprint = ["on", type, CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
+        identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
+        unless identifier
+          fingerprint = ["on", type, CensusDivisionName.new(name).normalize.fingerprint] * ":"
+          identifier, _ = CensusDivisionNameTypeMatcher.identifier_and_name(fingerprint)
+        end
+
+        # Not sure if all these have people whose only role is Regional Councillor.
+        if identifier
+          puts "#{identifier},Mayor,Councillor,Regional Councillor"
+        else
+          raise fingerprint
+        end
+      end
+    end
   end
 
 private
+
+  def identifier(boundary)
+    if boundary["external_id"].empty?
+      boundary["name"]
+    else
+      boundary["external_id"].to_i
+    end
+  end
+
+  def type_map(province_or_territory = nil)
+    @type_map ||= {}.tap do |hash|
+      indexes = {
+        "nl" => 2,
+        "pe" => 3,
+        "ns" => 4,
+        "nb" => 5,
+        "qc" => 6,
+        "on" => 7,
+        "mb" => 8,
+        "sk" => 9,
+        "ab" => 10,
+        "bc" => 11,
+        "yt" => 12,
+        "nt" => 13,
+        "nu" => 14,
+      }
+
+      {"cd" => 4, "csd" => 5}.each do |type,table|
+        hash[type] = {}
+        Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-#{table}-eng.cfm")).xpath("//table/tbody/tr").each do |row|
+          abbr = row.at_xpath("./th[1]/abbr")
+          if abbr
+            unless province_or_territory && row.at_xpath("./td[#{indexes[province_or_territory]}]/abbr") || province_or_territory == "on" && abbr.text == "TV" # Skip the one TV in Ontario
+              hash[type][abbr["title"].sub(/ \/.+\z/, "").split.map(&:capitalize).join(" ")] = abbr.text
+            end
+          end
+        end
+      end
+
+      hash["csd"]["United Townships"] = "TP" # Dysart and Others
+    end
+  end
+
+  def census_subdivisions
+    @census_subdivisions ||= {}.tap do |hash|
+      OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").abbreviate!.each do |identifier,value|
+        object = CensusSubdivisionIdentifier.new(identifier)
+        key = object.province_or_territory_type_id
+        hash[key] ||= {}
+        hash[key][value] ||= []
+        hash[key][value] << {:id => identifier, :type => object.census_subdivision_type}
+      end
+    end
+  end
 
   def census_subdivisions_sk
     blocks = {}
@@ -575,26 +679,6 @@ private
     end
 
     blocks
-  end
-
-  def census_subdivisions
-    @census_subdivisions ||= {}.tap do |hash|
-      OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").abbreviate!.each do |identifier,value|
-        object = CensusSubdivisionIdentifier.new(identifier)
-        key = object.province_or_territory_type_id
-        hash[key] ||= {}
-        hash[key][value] ||= []
-        hash[key][value] << {:id => identifier, :type => object.census_subdivision_type}
-      end
-    end
-  end
-
-  def identifier(boundary)
-    if boundary["external_id"].empty?
-      boundary["name"]
-    else
-      boundary["external_id"].to_i
-    end
   end
 end
 
