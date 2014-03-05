@@ -111,7 +111,7 @@ def main():
 
     print('fields')
     for key, count in records_with.most_common():
-        print('   {:<15} {:>10}'.format(key, count))
+        print('   {:<15} {:>10} {:>10.0%}'.format(key, count, count/len(ids)))
 
     # write output file
     output_file = 'identifiers/country-{}.csv'.format(country)
