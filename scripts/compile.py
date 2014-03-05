@@ -21,6 +21,7 @@ def validate_id(id_):
 
 
 def open_csv(filename):
+    """ return a DictReader iterable regardless of input CSV type """
     print('processing', filename)
     fh = open(filename)
     first_row = next(csv.reader(fh))
@@ -42,9 +43,10 @@ def main():
 
     ids = collections.defaultdict(dict)
     sources = collections.defaultdict(list)
+    records_with = collections.Counter()
+    types = collections.Counter()
     all_keys = []
     missing_parents = set()
-    types = collections.Counter()
 
     for filename in glob.glob('identifiers/country-{}/*.csv'.format(country)):
         if filename.endswith('exceptions.csv'):
@@ -63,6 +65,7 @@ def main():
             parent, endpiece = id_.rsplit('/', 1)
             if parent != 'ocd-division' and parent not in ids:
                 missing_parents.add(parent)
+
             # count types
             type_ = endpiece.split(':')[0]
             types[type_] += 1
@@ -70,9 +73,13 @@ def main():
             # update record
             id_record = ids[id_]
             for key, val in row.items():
-                if key not in id_record:
+                # skip if value is blank
+                if not val:
+                    continue
+                elif key not in id_record:
                     id_record[key] = val
-                elif id_record[key] != val:
+                    records_with[key] += 1
+                elif val and id_record[key] != val:
                     print('mismatch for attribute {} on {} from {}'.format(key, id_, filename))
                     print('other sources:')
                     for source in sources[id_]:
@@ -88,11 +95,14 @@ def main():
             print('   ', parent)
         return 1
 
+    # print some statistics
     print('types')
     for type_, count in types.most_common():
-        print('   ', type_, count)
+        print('   {:<25} {:>10}'.format(type_, count))
 
-    # TODO: track % of records with each type & output here
+    print('fields')
+    for key, count in records_with.most_common():
+        print('   {:<15} {:>10}'.format(key, count))
 
     # write output file
     output_file = 'identifiers/country-{}.csv'.format(country)
