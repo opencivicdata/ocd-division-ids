@@ -8,6 +8,7 @@ import argparse
 import warnings
 import collections
 
+
 # Explicitly disallow python 2.x
 if sys.version_info < (3, 0):
     sys.stdout.write("Python 2.x not supported.\n")
@@ -21,25 +22,26 @@ def validate_id(id_):
 
 
 def abort(msg):
-    print('ERROR:', msg)
+    """ print in red and exit """
+    print('\033[91mERROR:', msg, '\033[0m')
     sys.exit(1)
 
 
 def open_csv(filename):
     """ return a DictReader iterable regardless of input CSV type """
-    print('processing', filename)
     fh = open(filename)
     first_row = next(csv.reader(fh))
     if 'ocd-division/country' in first_row[0]:
         if len(first_row) == 2:
-            print('proceeding in legacy mode, please add column headers to file')
+            print('processing (legacy mode)', filename)
             warnings.warn('proceeding in legacy mode, please add column headers to file',
                           DeprecationWarning)
             fh.seek(0)
             return csv.DictReader(fh, ('division_id', 'name'))
         else:
-            abort('No column headers detected!')
+            abort('No column headers detected in ' + filename)
     else:
+        print('processing', filename)
         fh.seek(0)
         return csv.DictReader(fh)
 
@@ -89,7 +91,8 @@ def main():
                     id_record[key] = val
                     records_with[key] += 1
                 elif val and id_record[key] != val:
-                    msg = 'mismatch for attribute {} on {} from {}\n'.format(key, id_, filename)
+                    msg = 'mismatch for attribute {} on {}\n'.format(key, id_)
+                    msg += 'was set to {} - got {} from {}\n'.format(id_record[key], val, filename)
                     msg += 'other sources:\n'
                     for source in sources[id_]:
                         msg += '   ' + source
@@ -97,12 +100,24 @@ def main():
             # add source
             sources[id_].append(filename)
 
+    # data quality: parents
     missing_parents -= set(ids.keys())
     if missing_parents:
         msg = '{} unknown parents\n'.format(len(missing_parents))
-        for parent in sorted(seen_parents):
+        for parent in sorted(missing_parents):
             msg += '   ' + parent
         abort(msg)
+
+    # data quality: required fields
+    for field in ('name',):
+        count_diff = records_with['division_id'] - records_with[field]
+        if count_diff:
+            msg = '{} records missing required field "{}"\n'.format(count_diff, field)
+            for id_, row in ids.items():
+                if field not in row:
+                    msg += '   {} from {}'.format(id_, ', '.join(sources[id_]))
+            abort(msg)
+
 
     # print some statistics
     print('types')
@@ -111,7 +126,7 @@ def main():
 
     print('fields')
     for key, count in records_with.most_common():
-        print('   {:<15} {:>10} {:>10.0%}'.format(key, count, count/len(ids)))
+        print('   {:<15} {:>10} {:>10.0%}'.format(key, count, count/records_with['division_id']))
 
     # write output file
     output_file = 'identifiers/country-{}.csv'.format(country)
