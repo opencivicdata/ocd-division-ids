@@ -37,13 +37,18 @@ def open_csv(filename):
             warnings.warn('proceeding in legacy mode, please add column headers to file',
                           DeprecationWarning)
             fh.seek(0)
-            return csv.DictReader(fh, ('division_id', 'name'))
+            return csv.DictReader(fh, ('@id', 'name'))
         else:
             abort('No column headers detected in ' + filename)
     else:
         print('processing', filename)
         fh.seek(0)
         return csv.DictReader(fh)
+
+# Reserved Field Names
+# * validFrom (from schema:validFrom)
+# * validThrough (from schema:validThrough)
+# * sameAs (from owl:sameAs)
 
 
 def main():
@@ -69,7 +74,7 @@ def main():
                 all_keys.append(field)
 
         for row in csvfile:
-            id_ = row['division_id']
+            id_ = row['@id']
             validate_id(id_)
 
             # check parents
@@ -110,7 +115,7 @@ def main():
 
     # data quality: required fields
     for field in ('name',):
-        count_diff = records_with['division_id'] - records_with[field]
+        count_diff = records_with['@id'] - records_with[field]
         if count_diff:
             msg = '{} records missing required field "{}"\n'.format(count_diff, field)
             for id_, row in ids.items():
@@ -126,7 +131,7 @@ def main():
 
     print('fields')
     for key, count in records_with.most_common():
-        print('   {:<15} {:>10} {:>10.0%}'.format(key, count, count/records_with['division_id']))
+        print('   {:<15} {:>10} {:>10.0%}'.format(key, count, count/records_with['@id']))
 
     # write output file
     output_file = 'identifiers/country-{}.csv'.format(country)

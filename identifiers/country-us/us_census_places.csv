@@ -1,4 +1,4 @@
-division_id,name,census_geoid
+@id,name,census_geoid
 ocd-division/country:us/state:ak/borough:aleutians_east,Aleutians East Borough,02013
 ocd-division/country:us/state:ak/borough:anchorage,Anchorage Municipality,02020
 ocd-division/country:us/state:ak/borough:bristol_bay,Bristol Bay Borough,02060
