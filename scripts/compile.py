@@ -20,16 +20,25 @@ def validate_id(id_):
         raise ValueError('invalid id: ' + id_)
 
 
+def abort(msg):
+    print('ERROR:', msg)
+    sys.exit(1)
+
+
 def open_csv(filename):
     """ return a DictReader iterable regardless of input CSV type """
     print('processing', filename)
     fh = open(filename)
     first_row = next(csv.reader(fh))
     if 'ocd-division/country' in first_row[0]:
-        warnings.warn('proceeding in legacy mode, please add column headers to file',
-                      DeprecationWarning)
-        fh.seek(0)
-        return csv.DictReader(fh, ('division_id', 'name'))
+        if len(first_row) == 2:
+            print('proceeding in legacy mode, please add column headers to file')
+            warnings.warn('proceeding in legacy mode, please add column headers to file',
+                          DeprecationWarning)
+            fh.seek(0)
+            return csv.DictReader(fh, ('division_id', 'name'))
+        else:
+            abort('No column headers detected!')
     else:
         fh.seek(0)
         return csv.DictReader(fh)
@@ -80,20 +89,20 @@ def main():
                     id_record[key] = val
                     records_with[key] += 1
                 elif val and id_record[key] != val:
-                    print('mismatch for attribute {} on {} from {}'.format(key, id_, filename))
-                    print('other sources:')
+                    msg = 'mismatch for attribute {} on {} from {}\n'.format(key, id_, filename)
+                    msg += 'other sources:\n'
                     for source in sources[id_]:
-                        print('   ', source)
-                    return 1
+                        msg += '   ' + source
+                    abort(msg)
             # add source
             sources[id_].append(filename)
 
     missing_parents -= set(ids.keys())
     if missing_parents:
-        print(len(missing_parents), 'unknown parents')
+        msg = '{} unknown parents\n'.format(len(missing_parents))
         for parent in sorted(seen_parents):
-            print('   ', parent)
-        return 1
+            msg += '   ' + parent
+        abort(msg)
 
     # print some statistics
     print('types')
@@ -114,4 +123,4 @@ def main():
             out.writerow(row)
 
 if __name__ == '__main__':
-    sys.exit(main())
+    main()
