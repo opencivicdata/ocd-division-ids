@@ -201,8 +201,9 @@ class Skip(Exception):
 
 class Processor(object):
     def __init__(self):
-        self.csvfile = csv.writer(open(self.csvfilename, 'w'))
-        self.geocsv = csv.writer(open(self.geofilename, 'w'))
+        self.csvfile = csv.DictWriter(open(self.csvfilename, 'w'),
+                                      ('division_id', 'name', 'census_geoid'))
+        self.csvfile.writeheader()
         self.ids = set()
 
 
@@ -214,15 +215,15 @@ class Processor(object):
                     if id in self.ids:
                         continue
                     self.ids.add(id)
-                    self.csvfile.writerow((id, name + suffix))
-                    self.geocsv.writerow((id, row['GEOID']))
+                    self.csvfile.writerow({'division_id': id,
+                                           'name': name + suffix,
+                                           'census_geoid': row['GEOID']})
                 except Skip:
                     pass
 
 
 class CDProcessor(Processor):
     csvfilename = 'identifiers/country-us/us_congressional_districts.csv'
-    geofilename = 'mappings/us-cds-geoid.csv'
 
     def get_urls(self):
         """ yield tuples of name suffixes and zip file URLs """
@@ -362,12 +363,10 @@ class SLDProcessor(Processor):
 
 class SLDUProcessor(SLDProcessor):
     csvfilename = 'identifiers/country-us/us_sldu.csv'
-    geofilename = 'mappings/us-sldu-geoid.csv'
     district_type = 'sldu'
 
 class SLDLProcessor(SLDProcessor):
     csvfilename = 'identifiers/country-us/us_sldl.csv'
-    geofilename = 'mappings/us-sldl-geoid.csv'
     district_type = 'sldl'
 
 
@@ -380,8 +379,9 @@ def process_types(types):
     duplicates = collections.defaultdict(list)
     # load exceptions from file
     exceptions = get_exception_set()
-    csvfile = csv.writer(open('identifiers/country-us/us_census_places.csv', 'w'))
-    geocsv = csv.writer(open('mappings/us-census-places-geoids.csv', 'w'))
+    csvfile = csv.DictWriter(open('identifiers/country-us/us_census_places.csv', 'w'),
+                             ('division_id', 'name', 'census_geoid'))
+    csvfile.writeheader()
 
     for entity_type in types:
         url = BASE_URL + TYPES[entity_type]['zip']
@@ -461,8 +461,9 @@ def process_types(types):
     # write ids out
     for id, row in sorted(ids.items()):
         if id not in exceptions:
-            csvfile.writerow((id, row['NAME']))
-            geocsv.writerow((id, row['GEOID']))
+            csvfile.writerow({'division_id': id,
+                              'name': row['NAME'],
+                              'census_geoid': row['GEOID']})
 
     print(' | '.join('{}: {}'.format(k,v) for k,v in funcstat_count.most_common()))
     print(' | '.join('{}: {}'.format(k,v) for k,v in type_count.most_common()))
