@@ -42,10 +42,10 @@ IDs are in the format `ocd-division/country:<country_code>[/<type>:<type_id>]+`
 (The below are merely a suggested convention, a mechanism will exist for publishing all data regardless of the names of CSV files, etc.)
 
 * The `identifiers` directory is laid out by country, within each is one or more CSV files
-    * CSV files can be named descriptively, but a recommended convention is to name them according to the source data.  For example:
+    * CSV files can be named descriptively but their names are not guaranteed not to change.  A recommended convention is to name them according to the source data.  For example:
         * `state-nc-census.csv` covers census defined entities.
         * `state-nc-education.csv` could cover just board of education data for NC.
-    * Each CSV file should have with two columns: ocd-division id and common name.  These files should not have header rows so that all of the CSV files within a directory can be concatenated together.
+    * Each CSV file consists of two or more columns: @id and any additional fields.
 * ``types.md`` is a registry of defined types.  When creating a new file, the registry of types should be consulted.
 
 ## Examples
