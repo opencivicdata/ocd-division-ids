@@ -179,11 +179,21 @@ def main():
     for key, count in records_with.most_common():
         print('   {:<15} {:>10} {:>10.0%}'.format(key, count, count/records_with['id']))
 
+
+    # set consistent field order [id, name, sameAs, validFrom, validThrough] + sorted(the_rest)
+    field_order = ['id', 'name', 'sameAs', 'sameAsNote', 'validFrom', 'validThrough']
+    for k in field_order.copy():
+        if k in all_keys:
+            all_keys.remove(k)
+        else:
+            field_order.remove(k)
+    field_order += sorted(all_keys)
+
     # write output file
     output_file = 'identifiers/country-{}.csv'.format(country)
     print('writing', output_file)
     with open(output_file, 'w') as out:
-        out = csv.DictWriter(out, fieldnames=all_keys)
+        out = csv.DictWriter(out, fieldnames=field_order)
         out.writeheader()
         for id_, row in sorted(ids.items()):
             out.writerow(row)
