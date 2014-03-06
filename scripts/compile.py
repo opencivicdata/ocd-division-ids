@@ -4,6 +4,7 @@ import os
 import sys
 import csv
 import glob
+import fnmatch
 import argparse
 import datetime
 import warnings
@@ -77,7 +78,12 @@ def main():
     all_keys = []
     missing_parents = set()
 
-    for filename in glob.glob('identifiers/country-{}/*.csv'.format(country)):
+    path = 'identifiers/country-{}/'.format(country)
+    filenames = [os.path.join(dirpath, f)
+                 for dirpath, dirnames, files in os.walk(path)
+                 for f in fnmatch.filter(files, '*.csv')]
+
+    for filename in filenames:
         csvfile = open_csv(filename)
         if 'id' not in csvfile.fieldnames:
             abort('{} does not have id column')
