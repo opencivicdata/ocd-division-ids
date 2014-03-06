@@ -45,11 +45,7 @@ def open_csv(filename):
         fh.seek(0)
         return csv.DictReader(fh)
 
-# Reserved Field Names
-# * validFrom (from schema:validFrom)
-# * validThrough (from schema:validThrough)
-# * sameAs (from owl:sameAs)
-
+# fields to validate: validFrom, validThrough
 
 def main():
     parser = argparse.ArgumentParser(description='combine component CSV files into one')
@@ -61,6 +57,7 @@ def main():
     sources = collections.defaultdict(list)
     records_with = collections.Counter()
     types = collections.Counter()
+    same_as = {}
     all_keys = []
     missing_parents = set()
 
@@ -86,6 +83,10 @@ def main():
             type_ = endpiece.split(':')[0]
             types[type_] += 1
 
+            # map sameAs
+            if row.get('sameAs'):
+                same_as[id_] = row['sameAs']
+
             # update record
             id_record = ids[id_]
             for key, val in row.items():
@@ -100,10 +101,27 @@ def main():
                     msg += 'was set to {} - got {} from {}\n'.format(id_record[key], val, filename)
                     msg += 'other sources:\n'
                     for source in sources[id_]:
-                        msg += '   ' + source
+                        msg += '   ' + source + '\n'
                     abort(msg)
             # add source
             sources[id_].append(filename)
+
+    # process sameAs
+    for dup_id, orig_id in same_as.items():
+        if orig_id not in ids:
+            abort('{0} is sameAs {1} which does not exist'.format(dup_id, orig_id))
+
+        dup = ids[dup_id]
+        orig = ids[orig_id]
+        if orig.get('sameAs'):
+            msg = 'sameAs chain: {0} -> {1} -> {2}'.format(
+                dup_id, orig_id, orig['sameAs'])
+            abort(msg)
+
+        # copy name if it doesn't exist
+        if not dup.get('name'):
+            dup['name'] = orig['name']
+            records_with['name'] += 1
 
     # data quality: parents
     missing_parents -= set(ids.keys())
@@ -120,7 +138,7 @@ def main():
             msg = '{} records missing required field "{}"\n'.format(count_diff, field)
             for id_, row in ids.items():
                 if field not in row:
-                    msg += '   {} from {}'.format(id_, ', '.join(sources[id_]))
+                    msg += '   {} from {}\n'.format(id_, ', '.join(sources[id_]))
             abort(msg)
 
 

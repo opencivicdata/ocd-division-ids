@@ -1,3 +1,4 @@
+@id,sameAs,sameAsNote
 ocd-division/country:us/state:co/place:aurora/ward:i,ocd-division/country:us/state:co/place:aurora/ward:1,Aurora CO Ward 1 -- roman/arabic conversion
 ocd-division/country:us/state:co/place:aurora/ward:ii,ocd-division/country:us/state:co/place:aurora/ward:2,Aurora CO Ward 2 -- roman/arabic conversion
 ocd-division/country:us/state:co/place:aurora/ward:iii,ocd-division/country:us/state:co/place:aurora/ward:3,Aurora CO Ward 3 -- roman/arabic conversion
@@ -171,10 +172,7 @@ ocd-division/country:us/state:ne/sldl:46,ocd-division/country:us/state:ne/sldu:4
 ocd-division/country:us/state:ne/sldl:47,ocd-division/country:us/state:ne/sldu:47,Nebraska is unicameral
 ocd-division/country:us/state:ne/sldl:48,ocd-division/country:us/state:ne/sldu:48,Nebraska is unicameral
 ocd-division/country:us/state:ne/sldl:49,ocd-division/country:us/state:ne/sldu:49,Nebraska is unicameral
-ocd-division/country:us/state:vt/sldl:windham-bennington-1,ocd-division/country:us/state:vt/sldl:windham-bennington,Gaz file quirk
-ocd-division/country:us/state:vt/sldl:grand-isle-chittenden,ocd-division/country:us/state:vt/sldl:grand_isle-chittenden,Gaz file quirk
 ocd-division/country:us/state:vt/sldu:grand-isle-chittenden,ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Easy mistake to make
-ocd-division/country:us/state:vt/sldu:grand_isle,ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Wikipedia has this incorrect district listed
 ocd-division/country:us/state:vt/sldu:chittenden-grand_isle,ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Census and State Senate website disagree on ordering
 ocd-division/country:us/state:vt/place:essex/precinct:chittenden_8-2,ocd-division/country:us/state:vt/place:essex_junction,The Essex precinct of Chittenden 8-2 is the same as the Village of Essex Junction
 ocd-division/country:us/state:vt/place:springfield/precinct:windsor_3-1,ocd-division/country:us/state:vt/place:springfield,Do not believe this precinct exists because there is one polling place and no mention of precincts on clerk's website
