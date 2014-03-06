@@ -5,6 +5,7 @@ import sys
 import csv
 import glob
 import argparse
+import datetime
 import warnings
 import collections
 
@@ -19,6 +20,17 @@ def validate_id(id_):
     id_regex = re.compile(r'^ocd-division/country:[a-z]{2}(/[^\W\d]+:[\w.~-]+)*$', re.U)
     if not id_regex.match(id_) and id_.lower() == id_:
         raise ValueError('invalid id: ' + id_)
+
+def validate_date(date_):
+    formats = ['%Y-m-d', '%Y-%m', '%Y']
+    for format in formats:
+        try:
+            datetime.datetime.strptime(date_, format)
+            break
+        except ValueError:
+            pass
+    else:
+        raise ValueError('invalid date: ' + date_)
 
 
 def abort(msg):
@@ -45,7 +57,11 @@ def open_csv(filename):
         fh.seek(0)
         return csv.DictReader(fh)
 
-# fields to validate: validFrom, validThrough
+FIELD_VALIDATORS = {
+    '@id': validate_id,
+    'validFrom': validate_date,
+    'validThrough': validate_date,
+}
 
 def main():
     parser = argparse.ArgumentParser(description='combine component CSV files into one')
@@ -66,15 +82,24 @@ def main():
             continue
 
         csvfile = open_csv(filename)
+        if '@id' not in csvfile.fieldnames:
+            abort('{} does not have @id column')
         for field in csvfile.fieldnames:
             if field not in all_keys:
                 all_keys.append(field)
 
         for row in csvfile:
-            id_ = row['@id']
-            validate_id(id_)
+
+            for field, validator in FIELD_VALIDATORS.items():
+                val = row.get(field)
+                if val:
+                    try:
+                        validator(val)
+                    except ValueError as e:
+                        abort('validation error in {}: {}'.format(filename, e))
 
             # check parents
+            id_ = row['@id']
             parent, endpiece = id_.rsplit('/', 1)
             if parent != 'ocd-division' and parent not in ids:
                 missing_parents.add(parent)
