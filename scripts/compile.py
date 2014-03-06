@@ -23,7 +23,7 @@ def validate_id(id_):
         raise ValueError('invalid id: ' + id_)
 
 def validate_date(date_):
-    formats = ['%Y-m-d', '%Y-%m', '%Y']
+    formats = ['%Y-%m-%d', '%Y-%m', '%Y']
     for format in formats:
         try:
             datetime.datetime.strptime(date_, format)
@@ -60,7 +60,6 @@ def open_csv(filename):
 
 FIELD_VALIDATORS = {
     'id': validate_id,
-    'validFrom': validate_date,
     'validThrough': validate_date,
 }
 
@@ -180,8 +179,8 @@ def main():
         print('   {:<15} {:>10} {:>10.0%}'.format(key, count, count/records_with['id']))
 
 
-    # set consistent field order [id, name, sameAs, validFrom, validThrough] + sorted(the_rest)
-    field_order = ['id', 'name', 'sameAs', 'sameAsNote', 'validFrom', 'validThrough']
+    # set consistent field order [id, name, sameAs, validThrough] + sorted(the_rest)
+    field_order = ['id', 'name', 'sameAs', 'sameAsNote', 'validThrough']
     for k in field_order.copy():
         if k in all_keys:
             all_keys.remove(k)

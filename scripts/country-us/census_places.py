@@ -195,7 +195,7 @@ class Skip(Exception):
 class Processor(object):
     def __init__(self):
         self.csvfile = csv.DictWriter(open(self.csvfilename, 'w'),
-                                      ('id', 'name', 'census_geoid', 'validFrom', 'validThrough'))
+                                      ('id', 'name', 'census_geoid', 'validThrough'))
         self.csvfile.writeheader()
         self.ids = set()
 
