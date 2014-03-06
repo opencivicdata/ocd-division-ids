@@ -18,11 +18,6 @@ class TabDelimited(csv.Dialect):
     skipinitialspace = True
 
 
-def get_exception_set():
-    csvfile = csv.reader(open('identifiers/country-us/exceptions.csv'))
-    return set(x[0] for x in csvfile)
-
-
 def _ordinal(value):
     if value == 0:
         return 'At-Large'
@@ -201,8 +196,7 @@ class Skip(Exception):
 
 class Processor(object):
     def __init__(self):
-        self.csvfile = csv.DictWriter(open(self.csvfilename, 'w'),
-                                      ('@id', 'name', 'census_geoid'))
+        self.csvfile = csv.DictWriter(open(self.csvfilename, 'w'), ('id', 'name', 'census_geoid'))
         self.csvfile.writeheader()
         self.ids = set()
 
@@ -215,8 +209,7 @@ class Processor(object):
                     if id in self.ids:
                         continue
                     self.ids.add(id)
-                    self.csvfile.writerow({'@id': id,
-                                           'name': name + suffix,
+                    self.csvfile.writerow({'id': id, 'name': name + suffix,
                                            'census_geoid': row['GEOID']})
                 except Skip:
                     pass
@@ -377,10 +370,8 @@ def process_types(types):
     ids = {}
     # list of rows that produced an id
     duplicates = collections.defaultdict(list)
-    # load exceptions from file
-    exceptions = get_exception_set()
     csvfile = csv.DictWriter(open('identifiers/country-us/us_census_places.csv', 'w'),
-                             ('@id', 'name', 'census_geoid'))
+                             ('id', 'name', 'census_geoid'))
     csvfile.writeheader()
 
     for entity_type in types:
@@ -460,10 +451,7 @@ def process_types(types):
 
     # write ids out
     for id, row in sorted(ids.items()):
-        if id not in exceptions:
-            csvfile.writerow({'@id': id,
-                              'name': row['NAME'],
-                              'census_geoid': row['GEOID']})
+        csvfile.writerow({'id': id, 'name': row['NAME'], 'census_geoid': row['GEOID']})
 
     print(' | '.join('{}: {}'.format(k,v) for k,v in funcstat_count.most_common()))
     print(' | '.join('{}: {}'.format(k,v) for k,v in type_count.most_common()))

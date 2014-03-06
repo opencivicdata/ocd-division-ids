@@ -45,7 +45,7 @@ IDs are in the format `ocd-division/country:<country_code>[/<type>:<type_id>]+`
     * CSV files can be named descriptively but their names are not guaranteed not to change.  A recommended convention is to name them according to the source data.  For example:
         * `state-nc-census.csv` covers census defined entities.
         * `state-nc-education.csv` could cover just board of education data for NC.
-    * Each CSV file consists of two or more columns: @id and any additional fields.
+    * Each CSV file consists of two or more columns: id and any additional fields.
 * ``types.md`` is a registry of defined types.  When creating a new file, the registry of types should be consulted.
 
 ## Examples

@@ -49,7 +49,7 @@ def open_csv(filename):
             warnings.warn('proceeding in legacy mode, please add column headers to file',
                           DeprecationWarning)
             fh.seek(0)
-            return csv.DictReader(fh, ('@id', 'name'))
+            return csv.DictReader(fh, ('id', 'name'))
         else:
             abort('No column headers detected in ' + filename)
     else:
@@ -58,7 +58,7 @@ def open_csv(filename):
         return csv.DictReader(fh)
 
 FIELD_VALIDATORS = {
-    '@id': validate_id,
+    'id': validate_id,
     'validFrom': validate_date,
     'validThrough': validate_date,
 }
@@ -78,12 +78,9 @@ def main():
     missing_parents = set()
 
     for filename in glob.glob('identifiers/country-{}/*.csv'.format(country)):
-        if filename.endswith('exceptions.csv'):
-            continue
-
         csvfile = open_csv(filename)
-        if '@id' not in csvfile.fieldnames:
-            abort('{} does not have @id column')
+        if 'id' not in csvfile.fieldnames:
+            abort('{} does not have id column')
         for field in csvfile.fieldnames:
             if field not in all_keys:
                 all_keys.append(field)
@@ -99,7 +96,7 @@ def main():
                         abort('validation error in {}: {}'.format(filename, e))
 
             # check parents
-            id_ = row['@id']
+            id_ = row['id']
             parent, endpiece = id_.rsplit('/', 1)
             if parent != 'ocd-division' and parent not in ids:
                 missing_parents.add(parent)
@@ -158,7 +155,7 @@ def main():
 
     # data quality: required fields
     for field in ('name',):
-        count_diff = records_with['@id'] - records_with[field]
+        count_diff = records_with['id'] - records_with[field]
         if count_diff:
             msg = '{} records missing required field "{}"\n'.format(count_diff, field)
             for id_, row in ids.items():
@@ -174,7 +171,7 @@ def main():
 
     print('fields')
     for key, count in records_with.most_common():
-        print('   {:<15} {:>10} {:>10.0%}'.format(key, count, count/records_with['@id']))
+        print('   {:<15} {:>10} {:>10.0%}'.format(key, count, count/records_with['id']))
 
     # write output file
     output_file = 'identifiers/country-{}.csv'.format(country)

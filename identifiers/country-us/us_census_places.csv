@@ -1,4 +1,4 @@
-@id,name,census_geoid
+id,name,census_geoid
 ocd-division/country:us/state:ak/borough:aleutians_east,Aleutians East Borough,02013
 ocd-division/country:us/state:ak/borough:anchorage,Anchorage Municipality,02020
 ocd-division/country:us/state:ak/borough:bristol_bay,Bristol Bay Borough,02060
@@ -37,6 +37,7 @@ ocd-division/country:us/state:ak/place:aleknagik,Aleknagik city,0201420
 ocd-division/country:us/state:ak/place:allakaket,Allakaket city,0201860
 ocd-division/country:us/state:ak/place:ambler,Ambler city,0201970
 ocd-division/country:us/state:ak/place:anaktuvuk_pass,Anaktuvuk Pass city,0202080
+ocd-division/country:us/state:ak/place:anchorage,Anchorage municipality,0203000
 ocd-division/country:us/state:ak/place:anderson,Anderson city,0203220
 ocd-division/country:us/state:ak/place:angoon,Angoon city,0203440
 ocd-division/country:us/state:ak/place:aniak,Aniak city,0203550
@@ -84,6 +85,7 @@ ocd-division/country:us/state:ak/place:houston,Houston city,0233800
 ocd-division/country:us/state:ak/place:hughes,Hughes city,0233910
 ocd-division/country:us/state:ak/place:huslia,Huslia city,0234350
 ocd-division/country:us/state:ak/place:hydaburg,Hydaburg city,0234460
+ocd-division/country:us/state:ak/place:juneau,Juneau city and borough,0236400
 ocd-division/country:us/state:ak/place:kachemak,Kachemak city,0236540
 ocd-division/country:us/state:ak/place:kake,Kake city,0236770
 ocd-division/country:us/state:ak/place:kaktovik,Kaktovik city,0236990
@@ -151,6 +153,7 @@ ocd-division/country:us/state:ak/place:shageluk,Shageluk city,0268670
 ocd-division/country:us/state:ak/place:shaktoolik,Shaktoolik city,0268890
 ocd-division/country:us/state:ak/place:shishmaref,Shishmaref city,0269770
 ocd-division/country:us/state:ak/place:shungnak,Shungnak city,0270100
+ocd-division/country:us/state:ak/place:sitka,Sitka city and borough,0270540
 ocd-division/country:us/state:ak/place:soldotna,Soldotna city,0271640
 ocd-division/country:us/state:ak/place:st_george,St. George city,0265800
 ocd-division/country:us/state:ak/place:st_mary~s,St. Mary's city,0266140
@@ -172,6 +175,7 @@ ocd-division/country:us/state:ak/place:wales,Wales city,0282860
 ocd-division/country:us/state:ak/place:wasilla,Wasilla city,0283080
 ocd-division/country:us/state:ak/place:white_mountain,White Mountain city,0284070
 ocd-division/country:us/state:ak/place:whittier,Whittier city,0284510
+ocd-division/country:us/state:ak/place:wrangell,Wrangell city and borough,0286380
 ocd-division/country:us/state:al/county:autauga,Autauga County,01001
 ocd-division/country:us/state:al/county:baldwin,Baldwin County,01003
 ocd-division/country:us/state:al/county:barbour,Barbour County,01005
@@ -1811,6 +1815,7 @@ ocd-division/country:us/state:ca/place:san_clemente,San Clemente city,0665084
 ocd-division/country:us/state:ca/place:san_diego,San Diego city,0666000
 ocd-division/country:us/state:ca/place:san_dimas,San Dimas city,0666070
 ocd-division/country:us/state:ca/place:san_fernando,San Fernando city,0666140
+ocd-division/country:us/state:ca/place:san_francisco,San Francisco city,0667000
 ocd-division/country:us/state:ca/place:san_gabriel,San Gabriel city,0667042
 ocd-division/country:us/state:ca/place:san_jacinto,San Jacinto city,0667112
 ocd-division/country:us/state:ca/place:san_joaquin,San Joaquin city,0667126
@@ -2013,6 +2018,7 @@ ocd-division/country:us/state:co/place:branson,Branson town,0808345
 ocd-division/country:us/state:co/place:breckenridge,Breckenridge town,0808400
 ocd-division/country:us/state:co/place:brighton,Brighton city,0808675
 ocd-division/country:us/state:co/place:brookside,Brookside town,0809115
+ocd-division/country:us/state:co/place:broomfield,Broomfield city,0809280
 ocd-division/country:us/state:co/place:brush,Brush city,0809555
 ocd-division/country:us/state:co/place:buena_vista,Buena Vista town,0810105
 ocd-division/country:us/state:co/place:burlington,Burlington city,0810600
@@ -2049,6 +2055,7 @@ ocd-division/country:us/state:co/place:de_beque,De Beque town,0819355
 ocd-division/country:us/state:co/place:deer_trail,Deer Trail town,0819630
 ocd-division/country:us/state:co/place:del_norte,Del Norte town,0819795
 ocd-division/country:us/state:co/place:delta,Delta city,0819850
+ocd-division/country:us/state:co/place:denver,Denver city,0820000
 ocd-division/country:us/state:co/place:dillon,Dillon town,0820440
 ocd-division/country:us/state:co/place:dinosaur,Dinosaur town,0820495
 ocd-division/country:us/state:co/place:dolores,Dolores town,0820770
@@ -3252,6 +3259,7 @@ ocd-division/country:us/state:ga/place:colbert,Colbert city,1317552
 ocd-division/country:us/state:ga/place:college_park,College Park city,1317776
 ocd-division/country:us/state:ga/place:collins,Collins city,1317832
 ocd-division/country:us/state:ga/place:colquitt,Colquitt city,1318000
+ocd-division/country:us/state:ga/place:columbus,Columbus city,1319000
 ocd-division/country:us/state:ga/place:comer,Comer city,1319084
 ocd-division/country:us/state:ga/place:commerce,Commerce city,1319112
 ocd-division/country:us/state:ga/place:concord,Concord city,1319168
@@ -11934,6 +11942,7 @@ ocd-division/country:us/state:ky/place:lebanon_junction,Lebanon Junction city,21
 ocd-division/country:us/state:ky/place:leitchfield,Leitchfield city,2144686
 ocd-division/country:us/state:ky/place:lewisburg,Lewisburg city,2145064
 ocd-division/country:us/state:ky/place:lewisport,Lewisport city,2145136
+ocd-division/country:us/state:ky/place:lexington,Lexington-Fayette urban county,2146027
 ocd-division/country:us/state:ky/place:liberty,Liberty city,2146072
 ocd-division/country:us/state:ky/place:lincolnshire,Lincolnshire city,2146540
 ocd-division/country:us/state:ky/place:livermore,Livermore city,2147062
@@ -12399,6 +12408,7 @@ ocd-division/country:us/state:la/place:natchez,Natchez village,2253510
 ocd-division/country:us/state:la/place:natchitoches,Natchitoches city,2253545
 ocd-division/country:us/state:la/place:new_iberia,New Iberia city,2254035
 ocd-division/country:us/state:la/place:new_llano,New Llano town,2254175
+ocd-division/country:us/state:la/place:new_orleans,New Orleans city,2255000
 ocd-division/country:us/state:la/place:new_roads,New Roads city,2255105
 ocd-division/country:us/state:la/place:newellton,Newellton town,2253930
 ocd-division/country:us/state:la/place:noble,Noble village,2255420
@@ -12710,6 +12720,7 @@ ocd-division/country:us/state:ma/place:monterey,Monterey town,2500342460
 ocd-division/country:us/state:ma/place:montgomery,Montgomery town,2501342530
 ocd-division/country:us/state:ma/place:mount_washington,Mount Washington town,2500343300
 ocd-division/country:us/state:ma/place:nahant,Nahant town,2500943580
+ocd-division/country:us/state:ma/place:nantucket,Nantucket town,2501943790
 ocd-division/country:us/state:ma/place:natick,Natick town,2501743895
 ocd-division/country:us/state:ma/place:needham,Needham town,2502144105
 ocd-division/country:us/state:ma/place:new_ashford,New Ashford town,2500344385
@@ -19949,6 +19960,7 @@ ocd-division/country:us/state:mt/county:wheatland,Wheatland County,30107
 ocd-division/country:us/state:mt/county:wibaux,Wibaux County,30109
 ocd-division/country:us/state:mt/county:yellowstone,Yellowstone County,30111
 ocd-division/country:us/state:mt/place:alberton,Alberton town,3000700
+ocd-division/country:us/state:mt/place:anaconda,Anaconda-Deer Lodge County,3001675
 ocd-division/country:us/state:mt/place:bainville,Bainville town,3003400
 ocd-division/country:us/state:mt/place:baker,Baker city,3003475
 ocd-division/country:us/state:mt/place:bearcreek,Bearcreek town,3004300
@@ -33971,6 +33983,7 @@ ocd-division/country:us/state:tn/place:loretto,Loretto city,4743700
 ocd-division/country:us/state:tn/place:loudon,Loudon town,4743780
 ocd-division/country:us/state:tn/place:louisville,Louisville city,4743820
 ocd-division/country:us/state:tn/place:luttrell,Luttrell town,4744300
+ocd-division/country:us/state:tn/place:lynchburg,"Lynchburg, Moore County metropolitan government",4744382
 ocd-division/country:us/state:tn/place:lynnville,Lynnville town,4744420
 ocd-division/country:us/state:tn/place:madisonville,Madisonville city,4745320
 ocd-division/country:us/state:tn/place:manchester,Manchester city,4745500
