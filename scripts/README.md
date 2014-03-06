@@ -2,4 +2,4 @@
 
 ## Usage
 
-    ./scripts/verify.py us
+    ./scripts/compile.py us

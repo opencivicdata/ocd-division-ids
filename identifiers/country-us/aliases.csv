@@ -1,0 +1,179 @@
+id,sameAs,sameAsNote
+ocd-division/country:us/state:co/place:aurora/ward:i,ocd-division/country:us/state:co/place:aurora/ward:1,Aurora CO Ward 1 -- roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:ii,ocd-division/country:us/state:co/place:aurora/ward:2,Aurora CO Ward 2 -- roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:iii,ocd-division/country:us/state:co/place:aurora/ward:3,Aurora CO Ward 3 -- roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:iv,ocd-division/country:us/state:co/place:aurora/ward:4,Aurora CO Ward 4 -- roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:v,ocd-division/country:us/state:co/place:aurora/ward:5,Aurora CO Ward 5 -- roman/arabic conversion
+ocd-division/country:us/state:co/place:aurora/ward:vi,ocd-division/country:us/state:co/place:aurora/ward:6,Aurora CO Ward 6 -- roman/arabic conversion
+ocd-division/country:us/state:nv/place:henderson/ward:i,ocd-division/country:us/state:nv/place:henderson/ward:1,Henderson NV Ward 1 -- roman/arabic conversion
+ocd-division/country:us/state:nv/place:henderson/ward:ii,ocd-division/country:us/state:nv/place:henderson/ward:2,Henderson NV Ward 2 -- roman/arabic conversion
+ocd-division/country:us/state:nv/place:henderson/ward:iii,ocd-division/country:us/state:nv/place:henderson/ward:3,Henderson NV Ward 3 -- roman/arabic conversion
+ocd-division/country:us/state:nv/place:henderson/ward:iv,ocd-division/country:us/state:nv/place:henderson/ward:4,Henderson NV Ward 4 -- roman/arabic conversion
+ocd-division/country:us/state:wi/court_of_appeals:i,ocd-division/country:us/state:wi/court_of_appeals:1,WI court of appeals district 1 -- roman/arabic conversion
+ocd-division/country:us/state:wi/court_of_appeals:ii,ocd-division/country:us/state:wi/court_of_appeals:2,WI court of appeals district 2 -- roman/arabic conversion
+ocd-division/country:us/state:wi/court_of_appeals:iii,ocd-division/country:us/state:wi/court_of_appeals:3,WI court of appeals district 3 -- roman/arabic conversion
+ocd-division/country:us/state:wi/court_of_appeals:iv,ocd-division/country:us/state:wi/court_of_appeals:4,WI court of appeals district 4 -- roman/arabic conversion
+ocd-division/country:us/state:ak/place:anchorage,ocd-division/country:us/state:ak/borough:anchorage,City-borough of Anchorage AK -- coterminous and colosidated gov
+ocd-division/country:us/state:ak/place:juneau,ocd-division/country:us/state:ak/borough:juneau,City-borough of Juneau AK -- coterminous and colosidated gov
+ocd-division/country:us/state:ak/place:sitka,ocd-division/country:us/state:ak/borough:sitka,City-borough of Sitka AK -- coterminous and colosidated gov
+ocd-division/country:us/state:ak/place:wrangell,ocd-division/country:us/state:ak/borough:wrangell,City-borough of Wrangell AK -- coterminous and colosidated gov
+ocd-division/country:us/state:ca/place:san_francisco,ocd-division/country:us/state:ca/county:san_francisco,City-county of San Francisco CA -- coterminous and colosidated gov
+ocd-division/country:us/state:co/place:broomfield,ocd-division/country:us/state:co/county:broomfield,City-county of Broomfield CO -- coterminous and colosidated gov
+ocd-division/country:us/state:co/place:denver,ocd-division/country:us/state:co/county:denver,City-county of Denver CO -- coterminous and colosidated gov
+ocd-division/country:us/state:ky/place:lexington,ocd-division/country:us/state:ky/county:fayette,Lexington-Fayette KY city-county -- coterminous and colosidated gov
+ocd-division/country:us/state:la/place:new_orleans,ocd-division/country:us/state:la/parish:orleans,(New) Orleans city-parish -- coterminous and colosidated gov
+ocd-division/country:us/state:ma/place:nantucket,ocd-division/country:us/state:ma/county:nantucket,Nantucket MA town-county -- coterminous and colosidated gov
+ocd-division/country:us/state:mt/place:anaconda,ocd-division/country:us/state:mt/county:deer_lodge,Anaconda-Deer Lodge city-county -- coterminous and colosidated gov
+ocd-division/country:us/state:ga/place:columbus,ocd-division/country:us/state:ga/county:muscogee,Columbus-Muscogee GA city-county -- coterminous and colosidated gov
+ocd-division/country:us/state:tn/place:lynchburg,ocd-division/country:us/state:tn/county:moore,Lynchburg-Moore city-county -- coterminous and colosidated gov
+ocd-division/country:us/state:va/county:alexandria,ocd-division/country:us/state:va/place:alexandria,Alexandria VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:bedford_city,ocd-division/country:us/state:va/place:bedford,Bedford VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:bristol,ocd-division/country:us/state:va/place:bristol,Bristol VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:buena_vista,ocd-division/country:us/state:va/place:buena_vista,Buena Vista VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:charlottesville,ocd-division/country:us/state:va/place:charlottesville,Charlottesvill VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:chesapeake,ocd-division/country:us/state:va/place:chesapeake,Chesapeake VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:colonial_heights,ocd-division/country:us/state:va/place:colonial_heights,Colonial Heights VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:covington,ocd-division/country:us/state:va/place:covington,Covington VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:danville,ocd-division/country:us/state:va/place:danville,Danville VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:emporia,ocd-division/country:us/state:va/place:emporia,Emporia VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:fairfax_city,ocd-division/country:us/state:va/place:fairfax,Fairfax VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:falls_church,ocd-division/country:us/state:va/place:falls_church,Falls Church VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:franklin_city,ocd-division/country:us/state:va/place:franklin,Franklin VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:fredericksburg,ocd-division/country:us/state:va/place:fredericksburg,Fredericksburg VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:galax,ocd-division/country:us/state:va/place:galax,Galax VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:hampton,ocd-division/country:us/state:va/place:hampton,Hampton VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:harrisonburg,ocd-division/country:us/state:va/place:harrisonburg,Harrisonburg VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:hopewell,ocd-division/country:us/state:va/place:hopewell,Hopewell VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:lexington,ocd-division/country:us/state:va/place:lexington,Lexington VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:lynchburg,ocd-division/country:us/state:va/place:lynchburg,Lynchburg VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:manassas,ocd-division/country:us/state:va/place:manassas,Manassas VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:manassas_park,ocd-division/country:us/state:va/place:manassas_park,Manassas Park VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:martinsville,ocd-division/country:us/state:va/place:martinsville,Martinsville VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:newport_news,ocd-division/country:us/state:va/place:newport_news,Newport News VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:norfolk,ocd-division/country:us/state:va/place:norfolk,Norfolk VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:norton,ocd-division/country:us/state:va/place:norton,Norton VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:petersburg,ocd-division/country:us/state:va/place:petersburg,Petersburg VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:poquoson,ocd-division/country:us/state:va/place:poquoson,Poquoson VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:portsmouth,ocd-division/country:us/state:va/place:portsmouth,Portsmouth VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:radford,ocd-division/country:us/state:va/place:radford,Radford VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:richmond_city,ocd-division/country:us/state:va/place:richmond,Richmond VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:roanoke_city,ocd-division/country:us/state:va/place:roanoke,Roanoke VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:salem,ocd-division/country:us/state:va/place:salem,Salem VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:staunton,ocd-division/country:us/state:va/place:staunton,Staunton VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:suffolk,ocd-division/country:us/state:va/place:suffolk,Suffolk VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:virginia_beach,ocd-division/country:us/state:va/place:virginia_beach,Virginia Beach VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:waynesboro,ocd-division/country:us/state:va/place:waynesboro,Waynesboro VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:williamsburg,ocd-division/country:us/state:va/place:williamsburg,Williamsburg VA -- indepdent city: not a county
+ocd-division/country:us/state:va/county:winchester,ocd-division/country:us/state:va/place:winchester,Winchester VA -- indepdent city: not a county
+ocd-division/country:us/state:md/county:baltimore_city,ocd-division/country:us/state:md/place:baltimore,Baltimore MD -- indepdent city: not a county
+ocd-division/country:us/state:nv/county:carson_city,ocd-division/country:us/state:nv/place:carson_city,Carson City NV -- indepdent city: not a county
+ocd-division/country:us/state:mo/county:st_louis_city,ocd-division/country:us/state:mo/place:st_louis,St Louis (City) MO is an independent city: not a county; do not confuse with St Louis County
+ocd-division/country:us/state:mo/county:st_louis_county,ocd-division/country:us/state:mo/county:st_louis,St Louis (County) MO is not to be confused with St Louis (city)
+ocd-division/country:us/state:ak/cd:1,ocd-division/country:us/state:ak,Alaska's at-large congressional district
+ocd-division/country:us/state:de/cd:1,ocd-division/country:us/state:de,Deleware's at-large congressional district
+ocd-division/country:us/state:mt/cd:1,ocd-division/country:us/state:mt,Montana's at-large congressional district
+ocd-division/country:us/state:nd/cd:1,ocd-division/country:us/state:nd,North Dakota's at-large congressional district
+ocd-division/country:us/state:sd/cd:1,ocd-division/country:us/state:sd,South Dakota's at-large congressional district
+ocd-division/country:us/state:vt/cd:1,ocd-division/country:us/state:vt,Vermont's at-large congressional district
+ocd-division/country:us/state:wy/cd:1,ocd-division/country:us/state:wy,Wyoming's at-large congressional district
+ocd-division/country:us/state:hi/place:honolulu,ocd-division/country:us/state:hi/county:honolulu,Honolulu HI city-county -- census does not recognize city
+ocd-division/country:us/state:ca/place:angels_camp,ocd-division/country:us/state:ca/place:angels,Angels Camp CA -- census considers Camp to be suffix
+ocd-division/country:us/state:al/place:mountainboro,ocd-division/country:us/state:al/place:boaz,Mountainboro AL is a neighborhood only -- used to be separate -- now consolidated with Boaz
+ocd-division/country:us/state:fl/place:grant,ocd-division/country:us/state:fl/place:grant-valkaria,Grant FL is now part of Grant-Valkaria FL
+ocd-division/country:us/state:fl/place:valkaria,ocd-division/country:us/state:fl/place:grant-valkaria,Valkaria FL is now part of Grant-Valkaria FL
+ocd-division/country:us/state:ga/county:chattahoochee_hill_country,ocd-division/country:us/state:ga/place:chattahoochee_hills,The official name is Chattahoochee Hills GA
+ocd-division/country:us/state:mi/place:grosse_pointe_shores,ocd-division/country:us/state:mi/place:village_of_grosse_pointe_shores, The official name is Village of Grosse Point Shores MI
+ocd-division/country:us/state:mn/place:elko,ocd-division/country:us/state:mn/place:elko_new_market,Elko MN is now part of Elko New Market MN
+ocd-division/country:us/state:mn/place:new_market,ocd-division/country:us/state:mn/place:elko_new_market,New Market MN is now part of Elko New Market MN
+ocd-division/country:us/state:nj/place:west_paterson,ocd-division/country:us/state:nj/place:woodland_park,West Paterson NJ is now Woodland Park NJ
+ocd-division/country:us/state:pa/place:osborne,ocd-division/country:us/state:pa/place:glen_osborne,Osborne PA is now Glen Osborne PA
+ocd-division/country:us/state:tx/place:spring_valley,ocd-division/country:us/state:tx/place:spring_valley_village,Spring Valley TX is officially Spring Valley Village TX
+ocd-division/country:us/state:wy/place:grand_encampment,ocd-division/country:us/state:wy/place:encampment,Grand Encampment WY is officially Encampment WY
+ocd-division/country:us/state:as,ocd-division/country:us/territory:as,American Samoa is a territory
+ocd-division/country:us/state:dc,ocd-division/country:us/district:dc,DC is a district not a state
+ocd-division/country:us/state:gu,ocd-division/country:us/territory:gu,Guam is a terrritory
+ocd-division/country:us/state:mp,ocd-division/country:us/territory:mp,Northern Mariana Islands is a territory
+ocd-division/country:us/state:pr,ocd-division/country:us/territory:pr,Puerto Rico is a territory
+ocd-division/country:us/state:vi,ocd-division/country:us/territory:vi,Virgin Islands is a territory
+ocd-division/country:us/state:ma/place:agawam,ocd-division/country:us/state:ma/place:agawam_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:co/place:creede,ocd-division/country:us/state:co/place:city_of_creede,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:amesbury,ocd-division/country:us/state:ma/place:amesbury_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:barnstable,ocd-division/country:us/state:ma/place:barnstable_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:braintree,ocd-division/country:us/state:ma/place:braintree_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:easthampton,ocd-division/country:us/state:ma/place:easthampton_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:franklin,ocd-division/country:us/state:ma/place:franklin_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:greenfield,ocd-division/country:us/state:ma/place:greenfield_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:methuen,ocd-division/country:us/state:ma/place:methuen_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:palmer,ocd-division/country:us/state:ma/place:palmer_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:southbridge,ocd-division/country:us/state:ma/place:southbridge_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:watertown,ocd-division/country:us/state:ma/place:watertown_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:west_springfield,ocd-division/country:us/state:ma/place:west_springfield_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:weymouth,ocd-division/country:us/state:ma/place:weymouth_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ma/place:winthrop,ocd-division/country:us/state:ma/place:winthrop_town,Census is likely wrong but we never overrule Census
+ocd-division/country:us/state:ny/place:new_york/county:bronx,ocd-division/country:us/state:ny/county:bronx,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/place:new_york/county:kings,ocd-division/country:us/state:ny/county:kings,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/place:new_york/county:new_york,ocd-division/country:us/state:ny/county:new_york,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/place:new_york/county:queens,ocd-division/country:us/state:ny/county:queens,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/place:new_york/county:richmond,ocd-division/country:us/state:ny/county:richmond,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/borough:bronx,ocd-division/country:us/state:ny/county:bronx,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/borough:brooklyn,ocd-division/country:us/state:ny/county:kings,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/borough:manhattan,ocd-division/country:us/state:ny/county:new_york,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/borough:queens,ocd-division/country:us/state:ny/county:queens,New York City boroughs treated like any other county
+ocd-division/country:us/state:ny/borough:staten_island,ocd-division/country:us/state:ny/county:richmond,New York City boroughs treated like any other county
+ocd-division/country:us/state:sd/sldl:26,ocd-division/country:us/state:sd/sldu:26,Doesn't exist; 26A and 26B exist
+ocd-division/country:us/state:sd/sldl:28,ocd-division/country:us/state:sd/sldu:28,Doesn't exist; 28A and 28B exist
+ocd-division/country:us/state:nm/county:dona_ana,ocd-division/country:us/state:nm/county:doña_ana,care with the enye character (ñ)
+ocd-division/country:us/state:ne/sldl:1,ocd-division/country:us/state:ne/sldu:1,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:2,ocd-division/country:us/state:ne/sldu:2,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:3,ocd-division/country:us/state:ne/sldu:3,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:4,ocd-division/country:us/state:ne/sldu:4,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:5,ocd-division/country:us/state:ne/sldu:5,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:6,ocd-division/country:us/state:ne/sldu:6,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:7,ocd-division/country:us/state:ne/sldu:7,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:8,ocd-division/country:us/state:ne/sldu:8,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:9,ocd-division/country:us/state:ne/sldu:9,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:10,ocd-division/country:us/state:ne/sldu:10,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:11,ocd-division/country:us/state:ne/sldu:11,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:12,ocd-division/country:us/state:ne/sldu:12,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:13,ocd-division/country:us/state:ne/sldu:13,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:14,ocd-division/country:us/state:ne/sldu:14,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:15,ocd-division/country:us/state:ne/sldu:15,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:16,ocd-division/country:us/state:ne/sldu:16,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:17,ocd-division/country:us/state:ne/sldu:17,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:18,ocd-division/country:us/state:ne/sldu:18,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:19,ocd-division/country:us/state:ne/sldu:19,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:20,ocd-division/country:us/state:ne/sldu:20,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:21,ocd-division/country:us/state:ne/sldu:21,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:22,ocd-division/country:us/state:ne/sldu:22,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:23,ocd-division/country:us/state:ne/sldu:23,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:24,ocd-division/country:us/state:ne/sldu:24,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:25,ocd-division/country:us/state:ne/sldu:25,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:26,ocd-division/country:us/state:ne/sldu:26,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:27,ocd-division/country:us/state:ne/sldu:27,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:28,ocd-division/country:us/state:ne/sldu:28,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:29,ocd-division/country:us/state:ne/sldu:29,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:30,ocd-division/country:us/state:ne/sldu:30,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:31,ocd-division/country:us/state:ne/sldu:31,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:32,ocd-division/country:us/state:ne/sldu:32,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:33,ocd-division/country:us/state:ne/sldu:33,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:34,ocd-division/country:us/state:ne/sldu:34,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:35,ocd-division/country:us/state:ne/sldu:35,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:36,ocd-division/country:us/state:ne/sldu:36,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:37,ocd-division/country:us/state:ne/sldu:37,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:38,ocd-division/country:us/state:ne/sldu:38,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:39,ocd-division/country:us/state:ne/sldu:39,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:40,ocd-division/country:us/state:ne/sldu:40,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:41,ocd-division/country:us/state:ne/sldu:41,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:42,ocd-division/country:us/state:ne/sldu:42,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:43,ocd-division/country:us/state:ne/sldu:43,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:44,ocd-division/country:us/state:ne/sldu:44,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:45,ocd-division/country:us/state:ne/sldu:45,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:46,ocd-division/country:us/state:ne/sldu:46,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:47,ocd-division/country:us/state:ne/sldu:47,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:48,ocd-division/country:us/state:ne/sldu:48,Nebraska is unicameral
+ocd-division/country:us/state:ne/sldl:49,ocd-division/country:us/state:ne/sldu:49,Nebraska is unicameral
+ocd-division/country:us/state:vt/sldu:grand-isle-chittenden,ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Easy mistake to make
+ocd-division/country:us/state:vt/sldu:chittenden-grand_isle,ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Census and State Senate website disagree on ordering
+ocd-division/country:us/state:vt/place:essex/precinct:chittenden_8-2,ocd-division/country:us/state:vt/place:essex_junction,The Essex precinct of Chittenden 8-2 is the same as the Village of Essex Junction
+ocd-division/country:us/state:vt/place:springfield/precinct:windsor_3-1,ocd-division/country:us/state:vt/place:springfield,Do not believe this precinct exists because there is one polling place and no mention of precincts on clerk's website
+ocd-division/country:us/state:vt/place:springfield/precinct:windsor_3-2,ocd-division/country:us/state:vt/place:springfield,Do not believe this precinct exists because there is one polling place and no mention of precincts on clerk's website
