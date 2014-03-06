@@ -37,8 +37,6 @@ def _ordinal(value):
     return '{}{}'.format(value, ordval)
 
 BASE_URL = 'http://www2.census.gov/geo/gazetteer/2013_Gazetteer/'
-CD_111 = 'https://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_cd111_national.zip'
-
 
 TYPES = {
     'county': {
@@ -196,21 +194,22 @@ class Skip(Exception):
 
 class Processor(object):
     def __init__(self):
-        self.csvfile = csv.DictWriter(open(self.csvfilename, 'w'), ('id', 'name', 'census_geoid'))
+        self.csvfile = csv.DictWriter(open(self.csvfilename, 'w'),
+                                      ('id', 'name', 'census_geoid', 'validFrom', 'validThrough'))
         self.csvfile.writeheader()
         self.ids = set()
 
 
     def process(self):
-        for suffix, url in self.get_urls():
+        for suffix, url, extra in self.get_urls():
             for row in open_gaz_zip(url):
                 try:
                     id, name, geoid = self.process_row(row)
                     if id in self.ids:
                         continue
                     self.ids.add(id)
-                    self.csvfile.writerow({'id': id, 'name': name + suffix,
-                                           'census_geoid': row['GEOID']})
+                    self.csvfile.writerow(dict(id=id, name=name+suffix, census_geoid=row['GEOID'],
+                                               **extra))
                 except Skip:
                     pass
 
@@ -220,9 +219,11 @@ class CDProcessor(Processor):
 
     def get_urls(self):
         """ yield tuples of name suffixes and zip file URLs """
-        yield ('', BASE_URL + '2013_Gaz_113CDs_national.zip')
+        yield ('', BASE_URL + '2013_Gaz_113CDs_national.zip', {})
         yield (' (obsolete as of 2012)',
-               'https://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_cd111_national.zip')
+               'https://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_cd111_national.zip',
+               {'validThrough': '2013-01-03'},
+              )
 
     def process_row(self, row):
         """
@@ -308,10 +309,10 @@ class SLDProcessor(Processor):
     )
 
     def get_urls(self):
-        yield ('', BASE_URL + '2013_Gaz_{}_national.zip'.format(self.district_type))
+        yield ('', BASE_URL + '2013_Gaz_{}_national.zip'.format(self.district_type), {})
         yield (' (obsolete)',
                'https://www.census.gov/geo/maps-data/data/docs/gazetteer'
-               '/Gaz_{}_national.zip'.format(self.district_type))
+               '/Gaz_{}_national.zip'.format(self.district_type), {})
 
     def process_row(self, row):
         state = us.states.lookup(row['USPS'])
