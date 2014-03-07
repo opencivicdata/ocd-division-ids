@@ -181,7 +181,7 @@ def main():
 
     # set consistent field order [id, name, sameAs, validThrough] + sorted(the_rest)
     field_order = ['id', 'name', 'sameAs', 'sameAsNote', 'validThrough']
-    for k in field_order.copy():
+    for k in field_order[:]:
         if k in all_keys:
             all_keys.remove(k)
         else:
