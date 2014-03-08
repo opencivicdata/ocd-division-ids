@@ -1,4 +1,4 @@
-id,stateId,ncesId
+id,sch_dist_stateid,census_geoid
 ocd-division/country:us/district:dc/school_district:achievement_preparatory_academy_pcs,155,1100072
 ocd-division/country:us/district:dc/school_district:appletree_early_learning_center_pcs,103,1100054
 ocd-division/country:us/district:dc/school_district:arts_and_technology_pcs,104,1100001
