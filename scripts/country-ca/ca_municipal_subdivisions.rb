@@ -290,21 +290,23 @@ class MunicipalSubdivision < Runner
 
     OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").each do |identifier,name,name_fr,classification|
       type_id = identifier[/[^:]+\z/]
+      fragment = type_id.size == 4 ? "cd:" : "csd:"
       if type_id[0, 2] == "12"
-        output("csd:", type_id.to_i, subdivisions[identifier])
+        output(fragment, type_id.to_i, subdivisions[identifier])
       end
     end
 
     OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,name,name_fr,classification,organization_name|
       type_id = identifier[/[^:]+\z/]
+      fragment = type_id.size == 4 ? "cd:" : "csd:"
       if %w(IRI NO S-É SNO).include?(classification)
-        output("csd:", type_id.to_i, "N")
+        output(fragment, type_id.to_i, "N")
       else
         case type_id[0, 2]
         when "12", "24"
-          output("csd:", type_id.to_i, subdivisions[identifier])
+          output(fragment, type_id.to_i, subdivisions[identifier])
         when "47"
-          output("csd:", type_id.to_i, subdivisions[identifier])
+          output(fragment, type_id.to_i, subdivisions[identifier])
         # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
         when "48"
           value = case classification
@@ -323,9 +325,9 @@ class MunicipalSubdivision < Runner
           else
             raise "Unrecognized census subdivision type: #{classification}"
           end
-          output("csd:", type_id.to_i, value)
+          output(fragment, type_id.to_i, value)
         when "59"
-          output("csd:", type_id.to_i, "N")
+          output(fragment, type_id.to_i, "N")
         end
       end
     end

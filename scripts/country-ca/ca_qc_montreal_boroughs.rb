@@ -36,7 +36,7 @@ class Montreal < Runner
   def urls
     puts CSV.generate_line(%w(id url))
     Nokogiri::HTML(open("http://ville.montreal.qc.ca/portal/page?_pageid=5798,85813661&_dad=portal&_schema=PORTAL")).css("#nav_coll a").map do |a|
-      name = a.text.gsub(/[—–]/, "-") # m- or n-dash to hyphen
+      name = a.text.gsub("–", "—") # n-dash to m-dash
       output("csd:2466023/borough:", name, "http://ville.montreal.qc.ca#{a[:href]}")
     end
   end
