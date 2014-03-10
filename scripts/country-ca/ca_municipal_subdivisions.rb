@@ -48,7 +48,7 @@ class MunicipalSubdivision < Runner
         census_subdivision_id = if matches.size == 1
           matches[0][:id]
         else
-          matches.find{|match| match[:type] == "CY"}[:id]
+          matches.find{|match| %w(C CY).include?(match[:type])}[:id]
         end
 
         items << [census_subdivision_id, boundary_set]
@@ -102,6 +102,7 @@ class MunicipalSubdivision < Runner
             fingerprint = CensusSubdivisionNameMatcher.fingerprint("ns", row[0])
             identifier, _ = CensusSubdivisionNameMatcher.identifier_and_name(fingerprint)
           end
+
           unless identifier
             fingerprint = ["ns", type, CensusSubdivisionName.new(row[0]).normalize.fingerprint] * ":"
             identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
@@ -118,12 +119,13 @@ class MunicipalSubdivision < Runner
       end
     end
 
+    # donnees.electionsmunicipales.gouv.qc.ca is no longer available.
     # @see http://donnees.electionsmunicipales.gouv.qc.ca/
-    CSV.parse(open("http://donnees.electionsmunicipales.gouv.qc.ca/liste_municipalites.csv"), :col_sep => ";", :headers => true) do |row|
-      output("csd:",
-        "24#{row["id_ville"]}",
-        JSON.load(open("http://donnees.electionsmunicipales.gouv.qc.ca/#{row["id_ville"]}.json"))["ville"]["postes"].size)
-    end
+    # CSV.parse(open("http://donnees.electionsmunicipales.gouv.qc.ca/liste_municipalites.csv"), :col_sep => ";", :headers => true) do |row|
+    #   output("csd:",
+    #     "24#{row["id_ville"]}",
+    #     JSON.load(open("http://donnees.electionsmunicipales.gouv.qc.ca/#{row["id_ville"]}.json"))["ville"]["postes"].size)
+    # end
   end
 
   # Asked:
@@ -284,24 +286,18 @@ class MunicipalSubdivision < Runner
       "4817095", # Mackenzie County
     ]
 
-    census_subdivision_types = {}
-    OpenCivicDataMappings.read("country-ca-types/ca_census_subdivisions").each do |identifier,mapping| # @todo
-      census_subdivision_types[identifier] = mapping
-    end
-
     puts CSV.generate_line(%w(id has_children))
 
-    OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").each do |identifier,_|
+    OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").each do |identifier,name,name_fr,classification|
       type_id = identifier[/[^:]+\z/]
       if type_id[0, 2] == "12"
         output("csd:", type_id.to_i, subdivisions[identifier])
       end
     end
 
-    OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,_|
+    OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,name,name_fr,classification,organization_name|
       type_id = identifier[/[^:]+\z/]
-      census_subdivision_type = census_subdivision_types.fetch(identifier)
-      if %w(IRI NO S-É SNO).include?(census_subdivision_type)
+      if %w(IRI NO S-É SNO).include?(classification)
         output("csd:", type_id.to_i, "N")
       else
         case type_id[0, 2]
@@ -311,7 +307,7 @@ class MunicipalSubdivision < Runner
           output("csd:", type_id.to_i, subdivisions[identifier])
         # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
         when "48"
-          value = case census_subdivision_type
+          value = case classification
           when "CY", "SM"
             if alberta_cities_without_subdivisions.include?(type_id)
               "N"
@@ -325,7 +321,7 @@ class MunicipalSubdivision < Runner
           when "ID", "IRI", "S-É", "SA", "SV", "T", "VL"
             "N"
           else
-            raise "Unrecognized census subdivision type: #{census_subdivision_type}"
+            raise "Unrecognized census subdivision type: #{classification}"
           end
           output("csd:", type_id.to_i, value)
         when "59"
@@ -463,12 +459,13 @@ private
 
   def census_subdivisions
     @census_subdivisions ||= {}.tap do |hash|
-      OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").abbreviate!.each do |identifier,value|
-        object = CensusSubdivisionIdentifier.new(identifier)
+      OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,name,name_fr,classification,organization_name|
+        type_id = identifier[/[^:]+\z/]
+        object = CensusSubdivisionIdentifier.new(type_id)
         key = object.province_or_territory_type_id
         hash[key] ||= {}
-        hash[key][value] ||= []
-        hash[key][value] << {:id => identifier, :type => object.census_subdivision_type}
+        hash[key][name] ||= []
+        hash[key][name] << {:id => type_id, :type => classification}
       end
     end
   end

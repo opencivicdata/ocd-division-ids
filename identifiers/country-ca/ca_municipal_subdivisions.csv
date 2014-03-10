@@ -1,3 +1,4 @@
+id,name
 ocd-division/country:ca/csd:1001519/ward:1,Ward 1
 ocd-division/country:ca/csd:1001519/ward:2,Ward 2
 ocd-division/country:ca/csd:1001519/ward:3,Ward 3
@@ -74,6 +75,27 @@ ocd-division/country:ca/csd:2423027/borough:3,Sainte-Foy—Sillery—Cap-Rouge
 ocd-division/country:ca/csd:2423027/borough:4,Charlesbourg
 ocd-division/country:ca/csd:2423027/borough:5,Beauport
 ocd-division/country:ca/csd:2423027/borough:6,La Haute-Saint-Charles
+ocd-division/country:ca/csd:2423027/district:1,Cap-aux-Diamants
+ocd-division/country:ca/csd:2423027/district:2,Montcalm—Saint-Sacrement
+ocd-division/country:ca/csd:2423027/district:3,Saint-Roch—Saint-Sauveur
+ocd-division/country:ca/csd:2423027/district:4,Limoilou
+ocd-division/country:ca/csd:2423027/district:5,Maizerets-Lairet
+ocd-division/country:ca/csd:2423027/district:6,Vanier
+ocd-division/country:ca/csd:2423027/district:7,Neufchâtel-Lebourgneuf
+ocd-division/country:ca/csd:2423027/district:8,Duberger-Les Saules
+ocd-division/country:ca/csd:2423027/district:9,Saint-Louis—Sillery
+ocd-division/country:ca/csd:2423027/district:10,Le Plateau
+ocd-division/country:ca/csd:2423027/district:11,La Pointe-de-Sainte-Foy
+ocd-division/country:ca/csd:2423027/district:12,Cap-Rouge—Laurentien
+ocd-division/country:ca/csd:2423027/district:13,Saint-Rodrigue
+ocd-division/country:ca/csd:2423027/district:14,Louis-XIV
+ocd-division/country:ca/csd:2423027/district:15,Les Monts
+ocd-division/country:ca/csd:2423027/district:16,Sainte-Thérèse-de-Lisieux
+ocd-division/country:ca/csd:2423027/district:17,La Chute-Montmorency—Seigneurial
+ocd-division/country:ca/csd:2423027/district:18,Robert-Giffard
+ocd-division/country:ca/csd:2423027/district:19,Lac-Saint-Charles—Saint-Émile
+ocd-division/country:ca/csd:2423027/district:20,Loretteville-Les Châtels
+ocd-division/country:ca/csd:2423027/district:21,Val-Bélair
 ocd-division/country:ca/csd:2425213/district:1,Saint-Étienne
 ocd-division/country:ca/csd:2425213/district:2,Saint-Nicolas
 ocd-division/country:ca/csd:2425213/district:3,Vilieu
@@ -138,6 +160,21 @@ ocd-division/country:ca/csd:2458007/district:7,District 7
 ocd-division/country:ca/csd:2458007/district:8,District 8
 ocd-division/country:ca/csd:2458007/district:9,District 9
 ocd-division/country:ca/csd:2458007/district:10,District 10
+ocd-division/country:ca/csd:2458227/district:1,Fatima-Parcours-du-Cerf
+ocd-division/country:ca/csd:2458227/district:2,Boisé-Du Tremblay
+ocd-division/country:ca/csd:2458227/district:3,Parc-Michel-Chartrand
+ocd-division/country:ca/csd:2458227/district:4,Antoinette-Robidoux
+ocd-division/country:ca/csd:2458227/district:5,Georges-Dor
+ocd-division/country:ca/csd:2458227/district:6,Explorateurs
+ocd-division/country:ca/csd:2458227/district:7,Coteau-Rouge
+ocd-division/country:ca/csd:2458227/district:8,Saint-Charles
+ocd-division/country:ca/csd:2458227/district:9,LeMoyne-Jacques-Cartier
+ocd-division/country:ca/csd:2458227/district:10,Greenfield Park
+ocd-division/country:ca/csd:2458227/district:11,Laflèche
+ocd-division/country:ca/csd:2458227/district:12,Vieux-Saint-Hubert-la Savane
+ocd-division/country:ca/csd:2458227/district:13,Parc-de-la-Cité
+ocd-division/country:ca/csd:2458227/district:14,Iberville
+ocd-division/country:ca/csd:2458227/district:15,Maraîchers
 ocd-division/country:ca/csd:2466007/district:1,District 1
 ocd-division/country:ca/csd:2466007/district:2,District 2
 ocd-division/country:ca/csd:2466007/district:3,District 3

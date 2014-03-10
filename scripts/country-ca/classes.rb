@@ -2,33 +2,29 @@
 
 require "lycopodium"
 
-class OpenCivicDataFile < Array
+class OpenCivicDataIdentifiers < Array
   class << self
-    attr_reader :directory
-
     # Reads a local CSV file.
     def read(path)
-      new(CSV.read(File.expand_path(File.join("..", "..", "..", directory, path + ".csv"), __FILE__)))
+      rows = CSV.read(File.expand_path(File.join("..", "..", "..", "identifiers", path + ".csv"), __FILE__))
+      rows.shift
+      new(rows)
     end
   end
 
   # Transforms the OCD identifiers to type IDs.
   def abbreviate!
-    replace(map{|identifier,value| [identifier[/[^:]+\z/], value]})
+    replace(map{|identifier,*args| [identifier[/[^:]+\z/], *args]})
+  end
+
+  def mapping(index = 0)
+    map{|identifier,*args| [identifier, args[index]]}
   end
 
   # Transforms the two-column CSV to a hash.
-  def to_h
-    Hash[*flatten]
+  def to_h(index = 0)
+    Hash[*mapping(index).flatten]
   end
-end
-
-class OpenCivicDataIdentifiers < OpenCivicDataFile
-  @directory = "identifiers"
-end
-
-class OpenCivicDataMappings < OpenCivicDataFile
-  @directory = "mappings"
 end
 
 class DivisionName < String
@@ -359,8 +355,8 @@ class CensusSubdivisionName < DivisionName
 end
 
 class CensusDivisionIdentifier < String
-  @census_division_types = OpenCivicDataMappings.read("country-ca-types/ca_census_divisions").to_h # @todo
-  @province_and_territory_sgc_codes = OpenCivicDataMappings.read("country-ca-sgc/ca_provinces_and_territories").abbreviate!.to_h.invert
+  @census_division_types = OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").to_h(2)
+  @province_and_territory_sgc_codes = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories").abbreviate!.to_h(3).invert
 
   class << self
     attr_reader :census_division_types, :province_and_territory_sgc_codes
@@ -389,8 +385,8 @@ class CensusDivisionIdentifier < String
 end
 
 class CensusSubdivisionIdentifier < String
-  @census_subdivision_types = OpenCivicDataMappings.read("country-ca-types/ca_census_subdivisions").to_h # @todo
-  @province_and_territory_sgc_codes = OpenCivicDataMappings.read("country-ca-sgc/ca_provinces_and_territories").abbreviate!.to_h.invert
+  @census_subdivision_types = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").to_h(2)
+  @province_and_territory_sgc_codes = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories").abbreviate!.to_h(3).invert
 
   class << self
     attr_reader :census_subdivision_types, :province_and_territory_sgc_codes
@@ -437,7 +433,7 @@ class CensusDivisionNameMatcher
     end * ":"
   end
 
-  @census_divisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions")
+  @census_divisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").mapping(0)
   @census_divisions_hash = Lycopodium.new(@census_divisions, @census_division_map).reject_collisions.value_to_fingerprint.invert
 
   def self.fingerprint(province_or_territory_type_id, name)
@@ -462,7 +458,7 @@ class CensusDivisionNameTypeMatcher
     end * ":"
   end
 
-  @census_divisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions")
+  @census_divisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").mapping(0)
   @census_divisions_with_types_hash = Lycopodium.new(@census_divisions, @census_division_with_type_map).reject_collisions.value_to_fingerprint.invert
 
   def self.fingerprint(province_or_territory_type_id, name_with_type)
@@ -488,7 +484,7 @@ class CensusSubdivisionNameMatcher
     end * ":"
   end
 
-  @census_subdivisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions")
+  @census_subdivisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").mapping(0)
   @census_subdivisions_hash = Lycopodium.new(@census_subdivisions, @census_subdivision_map).reject_collisions.value_to_fingerprint.invert
 
   def self.fingerprint(province_or_territory_type_id, name)
@@ -514,7 +510,7 @@ class CensusSubdivisionNameTypeMatcher
     end * ":"
   end
 
-  @census_subdivisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions")
+  @census_subdivisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").mapping(0)
   @census_subdivisions_with_types_hash = Lycopodium.new(@census_subdivisions, @census_subdivision_with_type_map).reject_collisions.value_to_fingerprint.invert
 
   def self.fingerprint(province_or_territory_type_id, name_with_type)
