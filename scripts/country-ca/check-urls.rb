@@ -5,13 +5,13 @@ require "csv"
 
 require "faraday"
 
-directory = File.expand_path(File.join("..", "..", "..", "mappings", "country-ca-urls"), __FILE__) # @todo
+directory = File.expand_path(File.join("..", "..", "..", "identifiers", "country-ca"), __FILE__)
 Dir.entries(directory).each do |basename|
-  if File.extname(basename) == ".csv"
+  if basename.end_with?("-url.csv")
     csv = CSV.read(File.join(directory, basename))
-
+    csv.shift
     csv.each do |id,url|
-      type_id = id[/[^:]+\z/].to_i
+      type_id = id[/[^:]+\z/]
       url_parse = URI.parse(url)
 
       begin
@@ -24,13 +24,13 @@ Dir.entries(directory).each do |basename|
           redirect_url_parse = URI.parse(redirect_url)
 
           unless url_parse.path.empty? && (url_parse.host == redirect_url_parse.host || redirect_url_parse.host.nil?)
-            puts "#{response.status} #{type_id} #{url.ljust(70)} #{redirect_url}"
+            puts "#{response.status} #{type_id.ljust(40)} #{url.ljust(70)} #{redirect_url}"
           end
         elsif response.status != 200
-          puts "#{response.status} #{type_id} #{url}"
+          puts "#{response.status} #{type_id.ljust(40)} #{url}"
         end
       rescue Faraday::Error::ConnectionFailed, Faraday::Error::TimeoutError, Errno::ETIMEDOUT => e
-        puts "ERR #{type_id} #{url.ljust(70)} #{e}"
+        puts "ERR #{type_id.ljust(40)} #{url.ljust(70)} #{e}"
       end
     end
 
