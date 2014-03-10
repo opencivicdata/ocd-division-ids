@@ -69,10 +69,11 @@ The Standard Geographical Classification is an official publication of Statistic
   * `organization_name`: To set an appropriate authority for a shapefile
   * `sgc`: To retrieve an identifier from an SGC code
   * `url`: To provide a URL from which to request a shapefile for a division
+* [represent-canada-data](https://github.com/opennorth/represent-canada-dashboard/blob/master/Rakefile)
+  * `posts_count`: To validate the number of memberships per jurisdiction
 * [scrapers-ca-ruby](https://github.com/opennorth/scrapers-ca-ruby/blob/master/ca_qc_montreal/posts.rb)
   * `number`: To map numeric borough identifiers to names
 * [scrapers-ca](https://github.com/opencivicdata/scrapers-ca/blob/master/tasks.py)
   * `classification`: To determine an appropriate jurisdiction name
-  * `posts_count`: To validate the number of memberships per jurisdiction
   * `sgc`: To retrieve an identifier from an SGC code
   * `url`: To provide a URL for the jurisdiction
