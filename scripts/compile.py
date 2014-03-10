@@ -176,7 +176,7 @@ def main():
 
     print('fields')
     for key, count in records_with.most_common():
-        print('   {:<15} {:>10} {:>10.0%}'.format(key, count, count/records_with['id']))
+        print('   {:<20} {:>10} {:>10.0%}'.format(key, count, count/records_with['id']))
 
 
     # set consistent field order [id, name, sameAs, validThrough] + sorted(the_rest)
