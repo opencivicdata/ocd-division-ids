@@ -5,7 +5,6 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 require File.expand_path(File.join("..", "classes.rb"), __FILE__)
 
 require "faraday"
-require "nokogiri"
 
 MUNICIPAL_ASSOCIATIONS = [
   "Alberta Association of Municipal Districts and Counties",
@@ -200,6 +199,7 @@ provinces_and_territories_hash = Lycopodium.new(provinces_and_territories, provi
 failures = []
 unmatched = []
 
+puts CSV.generate_line(%w(id url))
 Nokogiri::HTML(open("http://www.fcm.ca/home/about-us/membership/our-members.htm")).css("tbody tr").each do |tr|
   fingerprint = province_or_territory_map.call([nil, tr.at_css("td:eq(2)").text])
   province_or_territory_type_id = provinces_and_territories_hash.fetch(fingerprint).first[/[^:]+\z/]

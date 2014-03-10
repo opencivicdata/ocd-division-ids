@@ -1,293 +1,294 @@
-ocd-division/country:ca/cd:1001,Division No. 1
-ocd-division/country:ca/cd:1002,Division No. 2
-ocd-division/country:ca/cd:1003,Division No. 3
-ocd-division/country:ca/cd:1004,Division No. 4
-ocd-division/country:ca/cd:1005,Division No. 5
-ocd-division/country:ca/cd:1006,Division No. 6
-ocd-division/country:ca/cd:1007,Division No. 7
-ocd-division/country:ca/cd:1008,Division No. 8
-ocd-division/country:ca/cd:1009,Division No. 9
-ocd-division/country:ca/cd:1010,Division No. 10
-ocd-division/country:ca/cd:1011,Division No. 11
-ocd-division/country:ca/cd:1101,Kings
-ocd-division/country:ca/cd:1102,Queens
-ocd-division/country:ca/cd:1103,Prince
-ocd-division/country:ca/cd:1201,Shelburne
-ocd-division/country:ca/cd:1202,Yarmouth
-ocd-division/country:ca/cd:1203,Digby
-ocd-division/country:ca/cd:1204,Queens
-ocd-division/country:ca/cd:1205,Annapolis
-ocd-division/country:ca/cd:1206,Lunenburg
-ocd-division/country:ca/cd:1207,Kings
-ocd-division/country:ca/cd:1208,Hants
-ocd-division/country:ca/cd:1209,Halifax
-ocd-division/country:ca/cd:1210,Colchester
-ocd-division/country:ca/cd:1211,Cumberland
-ocd-division/country:ca/cd:1212,Pictou
-ocd-division/country:ca/cd:1213,Guysborough
-ocd-division/country:ca/cd:1214,Antigonish
-ocd-division/country:ca/cd:1215,Inverness
-ocd-division/country:ca/cd:1216,Richmond
-ocd-division/country:ca/cd:1217,Cape Breton
-ocd-division/country:ca/cd:1218,Victoria
-ocd-division/country:ca/cd:1301,Saint John
-ocd-division/country:ca/cd:1302,Charlotte
-ocd-division/country:ca/cd:1303,Sunbury
-ocd-division/country:ca/cd:1304,Queens
-ocd-division/country:ca/cd:1305,Kings
-ocd-division/country:ca/cd:1306,Albert
-ocd-division/country:ca/cd:1307,Westmorland
-ocd-division/country:ca/cd:1308,Kent
-ocd-division/country:ca/cd:1309,Northumberland
-ocd-division/country:ca/cd:1310,York
-ocd-division/country:ca/cd:1311,Carleton
-ocd-division/country:ca/cd:1312,Victoria
-ocd-division/country:ca/cd:1313,Madawaska
-ocd-division/country:ca/cd:1314,Restigouche
-ocd-division/country:ca/cd:1315,Gloucester
-ocd-division/country:ca/cd:2401,Les Îles-de-la-Madeleine
-ocd-division/country:ca/cd:2402,Le Rocher-Percé
-ocd-division/country:ca/cd:2403,La Côte-de-Gaspé
-ocd-division/country:ca/cd:2404,La Haute-Gaspésie
-ocd-division/country:ca/cd:2405,Bonaventure
-ocd-division/country:ca/cd:2406,Avignon
-ocd-division/country:ca/cd:2407,La Matapédia
-ocd-division/country:ca/cd:2408,Matane
-ocd-division/country:ca/cd:2409,La Mitis
-ocd-division/country:ca/cd:2410,Rimouski-Neigette
-ocd-division/country:ca/cd:2411,Les Basques
-ocd-division/country:ca/cd:2412,Rivière-du-Loup
-ocd-division/country:ca/cd:2413,Témiscouata
-ocd-division/country:ca/cd:2414,Kamouraska
-ocd-division/country:ca/cd:2415,Charlevoix-Est
-ocd-division/country:ca/cd:2416,Charlevoix
-ocd-division/country:ca/cd:2417,L'Islet
-ocd-division/country:ca/cd:2418,Montmagny
-ocd-division/country:ca/cd:2419,Bellechasse
-ocd-division/country:ca/cd:2420,L'Île-d'Orléans
-ocd-division/country:ca/cd:2421,La Côte-de-Beaupré
-ocd-division/country:ca/cd:2422,La Jacques-Cartier
-ocd-division/country:ca/cd:2423,Québec
-ocd-division/country:ca/cd:2425,Lévis
-ocd-division/country:ca/cd:2426,La Nouvelle-Beauce
-ocd-division/country:ca/cd:2427,Robert-Cliche
-ocd-division/country:ca/cd:2428,Les Etchemins
-ocd-division/country:ca/cd:2429,Beauce-Sartigan
-ocd-division/country:ca/cd:2430,Le Granit
-ocd-division/country:ca/cd:2431,Les Appalaches
-ocd-division/country:ca/cd:2432,L'Érable
-ocd-division/country:ca/cd:2433,Lotbinière
-ocd-division/country:ca/cd:2434,Portneuf
-ocd-division/country:ca/cd:2435,Mékinac
-ocd-division/country:ca/cd:2436,Shawinigan
-ocd-division/country:ca/cd:2437,Francheville
-ocd-division/country:ca/cd:2438,Bécancour
-ocd-division/country:ca/cd:2439,Arthabaska
-ocd-division/country:ca/cd:2440,Les Sources
-ocd-division/country:ca/cd:2441,Le Haut-Saint-François
-ocd-division/country:ca/cd:2442,Le Val-Saint-François
-ocd-division/country:ca/cd:2443,Sherbrooke
-ocd-division/country:ca/cd:2444,Coaticook
-ocd-division/country:ca/cd:2445,Memphrémagog
-ocd-division/country:ca/cd:2446,Brome-Missisquoi
-ocd-division/country:ca/cd:2447,La Haute-Yamaska
-ocd-division/country:ca/cd:2448,Acton
-ocd-division/country:ca/cd:2449,Drummond
-ocd-division/country:ca/cd:2450,Nicolet-Yamaska
-ocd-division/country:ca/cd:2451,Maskinongé
-ocd-division/country:ca/cd:2452,D'Autray
-ocd-division/country:ca/cd:2453,Pierre-De Saurel
-ocd-division/country:ca/cd:2454,Les Maskoutains
-ocd-division/country:ca/cd:2455,Rouville
-ocd-division/country:ca/cd:2456,Le Haut-Richelieu
-ocd-division/country:ca/cd:2457,La Vallée-du-Richelieu
-ocd-division/country:ca/cd:2458,Longueuil
-ocd-division/country:ca/cd:2459,Lajemmerais
-ocd-division/country:ca/cd:2460,L'Assomption
-ocd-division/country:ca/cd:2461,Joliette
-ocd-division/country:ca/cd:2462,Matawinie
-ocd-division/country:ca/cd:2463,Montcalm
-ocd-division/country:ca/cd:2464,Les Moulins
-ocd-division/country:ca/cd:2465,Laval
-ocd-division/country:ca/cd:2466,Montréal
-ocd-division/country:ca/cd:2467,Roussillon
-ocd-division/country:ca/cd:2468,Les Jardins-de-Napierville
-ocd-division/country:ca/cd:2469,Le Haut-Saint-Laurent
-ocd-division/country:ca/cd:2470,Beauharnois-Salaberry
-ocd-division/country:ca/cd:2471,Vaudreuil-Soulanges
-ocd-division/country:ca/cd:2472,Deux-Montagnes
-ocd-division/country:ca/cd:2473,Thérèse-De Blainville
-ocd-division/country:ca/cd:2474,Mirabel
-ocd-division/country:ca/cd:2475,La Rivière-du-Nord
-ocd-division/country:ca/cd:2476,Argenteuil
-ocd-division/country:ca/cd:2477,Les Pays-d'en-Haut
-ocd-division/country:ca/cd:2478,Les Laurentides
-ocd-division/country:ca/cd:2479,Antoine-Labelle
-ocd-division/country:ca/cd:2480,Papineau
-ocd-division/country:ca/cd:2481,Gatineau
-ocd-division/country:ca/cd:2482,Les Collines-de-l'Outaouais
-ocd-division/country:ca/cd:2483,La Vallée-de-la-Gatineau
-ocd-division/country:ca/cd:2484,Pontiac
-ocd-division/country:ca/cd:2485,Témiscamingue
-ocd-division/country:ca/cd:2486,Rouyn-Noranda
-ocd-division/country:ca/cd:2487,Abitibi-Ouest
-ocd-division/country:ca/cd:2488,Abitibi
-ocd-division/country:ca/cd:2489,La Vallée-de-l'Or
-ocd-division/country:ca/cd:2490,La Tuque
-ocd-division/country:ca/cd:2491,Le Domaine-du-Roy
-ocd-division/country:ca/cd:2492,Maria-Chapdelaine
-ocd-division/country:ca/cd:2493,Lac-Saint-Jean-Est
-ocd-division/country:ca/cd:2494,Le Saguenay-et-son-Fjord
-ocd-division/country:ca/cd:2495,La Haute-Côte-Nord
-ocd-division/country:ca/cd:2496,Manicouagan
-ocd-division/country:ca/cd:2497,Sept-Rivières—Caniapiscau
-ocd-division/country:ca/cd:2498,Minganie—Le Golfe-du-Saint-Laurent
-ocd-division/country:ca/cd:2499,Nord-du-Québec
-ocd-division/country:ca/cd:3501,"Stormont, Dundas and Glengarry"
-ocd-division/country:ca/cd:3502,Prescott and Russell
-ocd-division/country:ca/cd:3506,Ottawa
-ocd-division/country:ca/cd:3507,Leeds and Grenville
-ocd-division/country:ca/cd:3509,Lanark
-ocd-division/country:ca/cd:3510,Frontenac
-ocd-division/country:ca/cd:3511,Lennox and Addington
-ocd-division/country:ca/cd:3512,Hastings
-ocd-division/country:ca/cd:3513,Prince Edward
-ocd-division/country:ca/cd:3514,Northumberland
-ocd-division/country:ca/cd:3515,Peterborough
-ocd-division/country:ca/cd:3516,Kawartha Lakes
-ocd-division/country:ca/cd:3518,Durham
-ocd-division/country:ca/cd:3519,York
-ocd-division/country:ca/cd:3520,Toronto
-ocd-division/country:ca/cd:3521,Peel
-ocd-division/country:ca/cd:3522,Dufferin
-ocd-division/country:ca/cd:3523,Wellington
-ocd-division/country:ca/cd:3524,Halton
-ocd-division/country:ca/cd:3525,Hamilton
-ocd-division/country:ca/cd:3526,Niagara
-ocd-division/country:ca/cd:3528,Haldimand-Norfolk
-ocd-division/country:ca/cd:3529,Brant
-ocd-division/country:ca/cd:3530,Waterloo
-ocd-division/country:ca/cd:3531,Perth
-ocd-division/country:ca/cd:3532,Oxford
-ocd-division/country:ca/cd:3534,Elgin
-ocd-division/country:ca/cd:3536,Chatham-Kent
-ocd-division/country:ca/cd:3537,Essex
-ocd-division/country:ca/cd:3538,Lambton
-ocd-division/country:ca/cd:3539,Middlesex
-ocd-division/country:ca/cd:3540,Huron
-ocd-division/country:ca/cd:3541,Bruce
-ocd-division/country:ca/cd:3542,Grey
-ocd-division/country:ca/cd:3543,Simcoe
-ocd-division/country:ca/cd:3544,Muskoka
-ocd-division/country:ca/cd:3546,Haliburton
-ocd-division/country:ca/cd:3547,Renfrew
-ocd-division/country:ca/cd:3548,Nipissing
-ocd-division/country:ca/cd:3549,Parry Sound
-ocd-division/country:ca/cd:3551,Manitoulin
-ocd-division/country:ca/cd:3552,Sudbury
-ocd-division/country:ca/cd:3553,Greater Sudbury
-ocd-division/country:ca/cd:3554,Timiskaming
-ocd-division/country:ca/cd:3556,Cochrane
-ocd-division/country:ca/cd:3557,Algoma
-ocd-division/country:ca/cd:3558,Thunder Bay
-ocd-division/country:ca/cd:3559,Rainy River
-ocd-division/country:ca/cd:3560,Kenora
-ocd-division/country:ca/cd:4601,Division No. 1
-ocd-division/country:ca/cd:4602,Division No. 2
-ocd-division/country:ca/cd:4603,Division No. 3
-ocd-division/country:ca/cd:4604,Division No. 4
-ocd-division/country:ca/cd:4605,Division No. 5
-ocd-division/country:ca/cd:4606,Division No. 6
-ocd-division/country:ca/cd:4607,Division No. 7
-ocd-division/country:ca/cd:4608,Division No. 8
-ocd-division/country:ca/cd:4609,Division No. 9
-ocd-division/country:ca/cd:4610,Division No. 10
-ocd-division/country:ca/cd:4611,Division No. 11
-ocd-division/country:ca/cd:4612,Division No. 12
-ocd-division/country:ca/cd:4613,Division No. 13
-ocd-division/country:ca/cd:4614,Division No. 14
-ocd-division/country:ca/cd:4615,Division No. 15
-ocd-division/country:ca/cd:4616,Division No. 16
-ocd-division/country:ca/cd:4617,Division No. 17
-ocd-division/country:ca/cd:4618,Division No. 18
-ocd-division/country:ca/cd:4619,Division No. 19
-ocd-division/country:ca/cd:4620,Division No. 20
-ocd-division/country:ca/cd:4621,Division No. 21
-ocd-division/country:ca/cd:4622,Division No. 22
-ocd-division/country:ca/cd:4623,Division No. 23
-ocd-division/country:ca/cd:4701,Division No. 1
-ocd-division/country:ca/cd:4702,Division No. 2
-ocd-division/country:ca/cd:4703,Division No. 3
-ocd-division/country:ca/cd:4704,Division No. 4
-ocd-division/country:ca/cd:4705,Division No. 5
-ocd-division/country:ca/cd:4706,Division No. 6
-ocd-division/country:ca/cd:4707,Division No. 7
-ocd-division/country:ca/cd:4708,Division No. 8
-ocd-division/country:ca/cd:4709,Division No. 9
-ocd-division/country:ca/cd:4710,Division No. 10
-ocd-division/country:ca/cd:4711,Division No. 11
-ocd-division/country:ca/cd:4712,Division No. 12
-ocd-division/country:ca/cd:4713,Division No. 13
-ocd-division/country:ca/cd:4714,Division No. 14
-ocd-division/country:ca/cd:4715,Division No. 15
-ocd-division/country:ca/cd:4716,Division No. 16
-ocd-division/country:ca/cd:4717,Division No. 17
-ocd-division/country:ca/cd:4718,Division No. 18
-ocd-division/country:ca/cd:4801,Division No. 1
-ocd-division/country:ca/cd:4802,Division No. 2
-ocd-division/country:ca/cd:4803,Division No. 3
-ocd-division/country:ca/cd:4804,Division No. 4
-ocd-division/country:ca/cd:4805,Division No. 5
-ocd-division/country:ca/cd:4806,Division No. 6
-ocd-division/country:ca/cd:4807,Division No. 7
-ocd-division/country:ca/cd:4808,Division No. 8
-ocd-division/country:ca/cd:4809,Division No. 9
-ocd-division/country:ca/cd:4810,Division No. 10
-ocd-division/country:ca/cd:4811,Division No. 11
-ocd-division/country:ca/cd:4812,Division No. 12
-ocd-division/country:ca/cd:4813,Division No. 13
-ocd-division/country:ca/cd:4814,Division No. 14
-ocd-division/country:ca/cd:4815,Division No. 15
-ocd-division/country:ca/cd:4816,Division No. 16
-ocd-division/country:ca/cd:4817,Division No. 17
-ocd-division/country:ca/cd:4818,Division No. 18
-ocd-division/country:ca/cd:4819,Division No. 19
-ocd-division/country:ca/cd:5901,East Kootenay
-ocd-division/country:ca/cd:5903,Central Kootenay
-ocd-division/country:ca/cd:5905,Kootenay Boundary
-ocd-division/country:ca/cd:5907,Okanagan-Similkameen
-ocd-division/country:ca/cd:5909,Fraser Valley
-ocd-division/country:ca/cd:5915,Greater Vancouver
-ocd-division/country:ca/cd:5917,Capital
-ocd-division/country:ca/cd:5919,Cowichan Valley
-ocd-division/country:ca/cd:5921,Nanaimo
-ocd-division/country:ca/cd:5923,Alberni-Clayoquot
-ocd-division/country:ca/cd:5924,Strathcona
-ocd-division/country:ca/cd:5926,Comox Valley
-ocd-division/country:ca/cd:5927,Powell River
-ocd-division/country:ca/cd:5929,Sunshine Coast
-ocd-division/country:ca/cd:5931,Squamish-Lillooet
-ocd-division/country:ca/cd:5933,Thompson-Nicola
-ocd-division/country:ca/cd:5935,Central Okanagan
-ocd-division/country:ca/cd:5937,North Okanagan
-ocd-division/country:ca/cd:5939,Columbia-Shuswap
-ocd-division/country:ca/cd:5941,Cariboo
-ocd-division/country:ca/cd:5943,Mount Waddington
-ocd-division/country:ca/cd:5945,Central Coast
-ocd-division/country:ca/cd:5947,Skeena-Queen Charlotte
-ocd-division/country:ca/cd:5949,Kitimat-Stikine
-ocd-division/country:ca/cd:5951,Bulkley-Nechako
-ocd-division/country:ca/cd:5953,Fraser-Fort George
-ocd-division/country:ca/cd:5955,Peace River
-ocd-division/country:ca/cd:5957,Stikine
-ocd-division/country:ca/cd:5959,Northern Rockies
-ocd-division/country:ca/cd:6001,Yukon
-ocd-division/country:ca/cd:6101,Region 1
-ocd-division/country:ca/cd:6102,Region 2
-ocd-division/country:ca/cd:6103,Region 3
-ocd-division/country:ca/cd:6104,Region 4
-ocd-division/country:ca/cd:6105,Region 5
-ocd-division/country:ca/cd:6106,Region 6
-ocd-division/country:ca/cd:6204,Baffin
-ocd-division/country:ca/cd:6205,Keewatin
-ocd-division/country:ca/cd:6208,Kitikmeot
+id,name,name_fr,classification
+ocd-division/country:ca/cd:1001,Division No. 1,Division No. 1,CDR
+ocd-division/country:ca/cd:1002,Division No. 2,Division No. 2,CDR
+ocd-division/country:ca/cd:1003,Division No. 3,Division No. 3,CDR
+ocd-division/country:ca/cd:1004,Division No. 4,Division No. 4,CDR
+ocd-division/country:ca/cd:1005,Division No. 5,Division No. 5,CDR
+ocd-division/country:ca/cd:1006,Division No. 6,Division No. 6,CDR
+ocd-division/country:ca/cd:1007,Division No. 7,Division No. 7,CDR
+ocd-division/country:ca/cd:1008,Division No. 8,Division No. 8,CDR
+ocd-division/country:ca/cd:1009,Division No. 9,Division No. 9,CDR
+ocd-division/country:ca/cd:1010,Division No. 10,Division No. 10,CDR
+ocd-division/country:ca/cd:1011,Division No. 11,Division No. 11,CDR
+ocd-division/country:ca/cd:1101,Kings,Kings,CTY
+ocd-division/country:ca/cd:1102,Queens,Queens,CTY
+ocd-division/country:ca/cd:1103,Prince,Prince,CTY
+ocd-division/country:ca/cd:1201,Shelburne,Shelburne,CTY
+ocd-division/country:ca/cd:1202,Yarmouth,Yarmouth,CTY
+ocd-division/country:ca/cd:1203,Digby,Digby,CTY
+ocd-division/country:ca/cd:1204,Queens,Queens,CTY
+ocd-division/country:ca/cd:1205,Annapolis,Annapolis,CTY
+ocd-division/country:ca/cd:1206,Lunenburg,Lunenburg,CTY
+ocd-division/country:ca/cd:1207,Kings,Kings,CTY
+ocd-division/country:ca/cd:1208,Hants,Hants,CTY
+ocd-division/country:ca/cd:1209,Halifax,Halifax,CTY
+ocd-division/country:ca/cd:1210,Colchester,Colchester,CTY
+ocd-division/country:ca/cd:1211,Cumberland,Cumberland,CTY
+ocd-division/country:ca/cd:1212,Pictou,Pictou,CTY
+ocd-division/country:ca/cd:1213,Guysborough,Guysborough,CTY
+ocd-division/country:ca/cd:1214,Antigonish,Antigonish,CTY
+ocd-division/country:ca/cd:1215,Inverness,Inverness,CTY
+ocd-division/country:ca/cd:1216,Richmond,Richmond,CTY
+ocd-division/country:ca/cd:1217,Cape Breton,Cape Breton,CTY
+ocd-division/country:ca/cd:1218,Victoria,Victoria,CTY
+ocd-division/country:ca/cd:1301,Saint John,Saint John,CT
+ocd-division/country:ca/cd:1302,Charlotte,Charlotte,CT
+ocd-division/country:ca/cd:1303,Sunbury,Sunbury,CT
+ocd-division/country:ca/cd:1304,Queens,Queens,CT
+ocd-division/country:ca/cd:1305,Kings,Kings,CT
+ocd-division/country:ca/cd:1306,Albert,Albert,CT
+ocd-division/country:ca/cd:1307,Westmorland,Westmorland,CT
+ocd-division/country:ca/cd:1308,Kent,Kent,CT
+ocd-division/country:ca/cd:1309,Northumberland,Northumberland,CT
+ocd-division/country:ca/cd:1310,York,York,CT
+ocd-division/country:ca/cd:1311,Carleton,Carleton,CT
+ocd-division/country:ca/cd:1312,Victoria,Victoria,CT
+ocd-division/country:ca/cd:1313,Madawaska,Madawaska,CT
+ocd-division/country:ca/cd:1314,Restigouche,Restigouche,CT
+ocd-division/country:ca/cd:1315,Gloucester,Gloucester,CT
+ocd-division/country:ca/cd:2401,Les Îles-de-la-Madeleine,Les Îles-de-la-Madeleine,TÉ
+ocd-division/country:ca/cd:2402,Le Rocher-Percé,Le Rocher-Percé,MRC
+ocd-division/country:ca/cd:2403,La Côte-de-Gaspé,La Côte-de-Gaspé,MRC
+ocd-division/country:ca/cd:2404,La Haute-Gaspésie,La Haute-Gaspésie,MRC
+ocd-division/country:ca/cd:2405,Bonaventure,Bonaventure,MRC
+ocd-division/country:ca/cd:2406,Avignon,Avignon,MRC
+ocd-division/country:ca/cd:2407,La Matapédia,La Matapédia,MRC
+ocd-division/country:ca/cd:2408,Matane,Matane,MRC
+ocd-division/country:ca/cd:2409,La Mitis,La Mitis,MRC
+ocd-division/country:ca/cd:2410,Rimouski-Neigette,Rimouski-Neigette,MRC
+ocd-division/country:ca/cd:2411,Les Basques,Les Basques,MRC
+ocd-division/country:ca/cd:2412,Rivière-du-Loup,Rivière-du-Loup,MRC
+ocd-division/country:ca/cd:2413,Témiscouata,Témiscouata,MRC
+ocd-division/country:ca/cd:2414,Kamouraska,Kamouraska,MRC
+ocd-division/country:ca/cd:2415,Charlevoix-Est,Charlevoix-Est,MRC
+ocd-division/country:ca/cd:2416,Charlevoix,Charlevoix,MRC
+ocd-division/country:ca/cd:2417,L'Islet,L'Islet,MRC
+ocd-division/country:ca/cd:2418,Montmagny,Montmagny,MRC
+ocd-division/country:ca/cd:2419,Bellechasse,Bellechasse,MRC
+ocd-division/country:ca/cd:2420,L'Île-d'Orléans,L'Île-d'Orléans,MRC
+ocd-division/country:ca/cd:2421,La Côte-de-Beaupré,La Côte-de-Beaupré,MRC
+ocd-division/country:ca/cd:2422,La Jacques-Cartier,La Jacques-Cartier,MRC
+ocd-division/country:ca/cd:2423,Québec,Québec,TÉ
+ocd-division/country:ca/cd:2425,Lévis,Lévis,TÉ
+ocd-division/country:ca/cd:2426,La Nouvelle-Beauce,La Nouvelle-Beauce,MRC
+ocd-division/country:ca/cd:2427,Robert-Cliche,Robert-Cliche,MRC
+ocd-division/country:ca/cd:2428,Les Etchemins,Les Etchemins,MRC
+ocd-division/country:ca/cd:2429,Beauce-Sartigan,Beauce-Sartigan,MRC
+ocd-division/country:ca/cd:2430,Le Granit,Le Granit,MRC
+ocd-division/country:ca/cd:2431,Les Appalaches,Les Appalaches,MRC
+ocd-division/country:ca/cd:2432,L'Érable,L'Érable,MRC
+ocd-division/country:ca/cd:2433,Lotbinière,Lotbinière,MRC
+ocd-division/country:ca/cd:2434,Portneuf,Portneuf,MRC
+ocd-division/country:ca/cd:2435,Mékinac,Mékinac,MRC
+ocd-division/country:ca/cd:2436,Shawinigan,Shawinigan,TÉ
+ocd-division/country:ca/cd:2437,Francheville,Francheville,CDR
+ocd-division/country:ca/cd:2438,Bécancour,Bécancour,MRC
+ocd-division/country:ca/cd:2439,Arthabaska,Arthabaska,MRC
+ocd-division/country:ca/cd:2440,Les Sources,Les Sources,MRC
+ocd-division/country:ca/cd:2441,Le Haut-Saint-François,Le Haut-Saint-François,MRC
+ocd-division/country:ca/cd:2442,Le Val-Saint-François,Le Val-Saint-François,MRC
+ocd-division/country:ca/cd:2443,Sherbrooke,Sherbrooke,TÉ
+ocd-division/country:ca/cd:2444,Coaticook,Coaticook,MRC
+ocd-division/country:ca/cd:2445,Memphrémagog,Memphrémagog,MRC
+ocd-division/country:ca/cd:2446,Brome-Missisquoi,Brome-Missisquoi,MRC
+ocd-division/country:ca/cd:2447,La Haute-Yamaska,La Haute-Yamaska,MRC
+ocd-division/country:ca/cd:2448,Acton,Acton,MRC
+ocd-division/country:ca/cd:2449,Drummond,Drummond,MRC
+ocd-division/country:ca/cd:2450,Nicolet-Yamaska,Nicolet-Yamaska,MRC
+ocd-division/country:ca/cd:2451,Maskinongé,Maskinongé,MRC
+ocd-division/country:ca/cd:2452,D'Autray,D'Autray,MRC
+ocd-division/country:ca/cd:2453,Pierre-De Saurel,Pierre-De Saurel,MRC
+ocd-division/country:ca/cd:2454,Les Maskoutains,Les Maskoutains,MRC
+ocd-division/country:ca/cd:2455,Rouville,Rouville,MRC
+ocd-division/country:ca/cd:2456,Le Haut-Richelieu,Le Haut-Richelieu,MRC
+ocd-division/country:ca/cd:2457,La Vallée-du-Richelieu,La Vallée-du-Richelieu,MRC
+ocd-division/country:ca/cd:2458,Longueuil,Longueuil,TÉ
+ocd-division/country:ca/cd:2459,Lajemmerais,Lajemmerais,MRC
+ocd-division/country:ca/cd:2460,L'Assomption,L'Assomption,MRC
+ocd-division/country:ca/cd:2461,Joliette,Joliette,MRC
+ocd-division/country:ca/cd:2462,Matawinie,Matawinie,MRC
+ocd-division/country:ca/cd:2463,Montcalm,Montcalm,MRC
+ocd-division/country:ca/cd:2464,Les Moulins,Les Moulins,MRC
+ocd-division/country:ca/cd:2465,Laval,Laval,TÉ
+ocd-division/country:ca/cd:2466,Montréal,Montréal,TÉ
+ocd-division/country:ca/cd:2467,Roussillon,Roussillon,MRC
+ocd-division/country:ca/cd:2468,Les Jardins-de-Napierville,Les Jardins-de-Napierville,MRC
+ocd-division/country:ca/cd:2469,Le Haut-Saint-Laurent,Le Haut-Saint-Laurent,MRC
+ocd-division/country:ca/cd:2470,Beauharnois-Salaberry,Beauharnois-Salaberry,MRC
+ocd-division/country:ca/cd:2471,Vaudreuil-Soulanges,Vaudreuil-Soulanges,MRC
+ocd-division/country:ca/cd:2472,Deux-Montagnes,Deux-Montagnes,MRC
+ocd-division/country:ca/cd:2473,Thérèse-De Blainville,Thérèse-De Blainville,MRC
+ocd-division/country:ca/cd:2474,Mirabel,Mirabel,TÉ
+ocd-division/country:ca/cd:2475,La Rivière-du-Nord,La Rivière-du-Nord,MRC
+ocd-division/country:ca/cd:2476,Argenteuil,Argenteuil,MRC
+ocd-division/country:ca/cd:2477,Les Pays-d'en-Haut,Les Pays-d'en-Haut,MRC
+ocd-division/country:ca/cd:2478,Les Laurentides,Les Laurentides,MRC
+ocd-division/country:ca/cd:2479,Antoine-Labelle,Antoine-Labelle,MRC
+ocd-division/country:ca/cd:2480,Papineau,Papineau,MRC
+ocd-division/country:ca/cd:2481,Gatineau,Gatineau,TÉ
+ocd-division/country:ca/cd:2482,Les Collines-de-l'Outaouais,Les Collines-de-l'Outaouais,MRC
+ocd-division/country:ca/cd:2483,La Vallée-de-la-Gatineau,La Vallée-de-la-Gatineau,MRC
+ocd-division/country:ca/cd:2484,Pontiac,Pontiac,MRC
+ocd-division/country:ca/cd:2485,Témiscamingue,Témiscamingue,MRC
+ocd-division/country:ca/cd:2486,Rouyn-Noranda,Rouyn-Noranda,TÉ
+ocd-division/country:ca/cd:2487,Abitibi-Ouest,Abitibi-Ouest,MRC
+ocd-division/country:ca/cd:2488,Abitibi,Abitibi,MRC
+ocd-division/country:ca/cd:2489,La Vallée-de-l'Or,La Vallée-de-l'Or,MRC
+ocd-division/country:ca/cd:2490,La Tuque,La Tuque,TÉ
+ocd-division/country:ca/cd:2491,Le Domaine-du-Roy,Le Domaine-du-Roy,MRC
+ocd-division/country:ca/cd:2492,Maria-Chapdelaine,Maria-Chapdelaine,MRC
+ocd-division/country:ca/cd:2493,Lac-Saint-Jean-Est,Lac-Saint-Jean-Est,MRC
+ocd-division/country:ca/cd:2494,Le Saguenay-et-son-Fjord,Le Saguenay-et-son-Fjord,CDR
+ocd-division/country:ca/cd:2495,La Haute-Côte-Nord,La Haute-Côte-Nord,MRC
+ocd-division/country:ca/cd:2496,Manicouagan,Manicouagan,MRC
+ocd-division/country:ca/cd:2497,Sept-Rivières—Caniapiscau,Sept-Rivières—Caniapiscau,CDR
+ocd-division/country:ca/cd:2498,Minganie—Le Golfe-du-Saint-Laurent,Minganie—Le Golfe-du-Saint-Laurent,CDR
+ocd-division/country:ca/cd:2499,Nord-du-Québec,Nord-du-Québec,CDR
+ocd-division/country:ca/cd:3501,"Stormont, Dundas and Glengarry","Stormont, Dundas and Glengarry",UC
+ocd-division/country:ca/cd:3502,Prescott and Russell,Prescott and Russell,UC
+ocd-division/country:ca/cd:3506,Ottawa,Ottawa,CDR
+ocd-division/country:ca/cd:3507,Leeds and Grenville,Leeds and Grenville,UC
+ocd-division/country:ca/cd:3509,Lanark,Lanark,CTY
+ocd-division/country:ca/cd:3510,Frontenac,Frontenac,CTY
+ocd-division/country:ca/cd:3511,Lennox and Addington,Lennox and Addington,CTY
+ocd-division/country:ca/cd:3512,Hastings,Hastings,CTY
+ocd-division/country:ca/cd:3513,Prince Edward,Prince Edward,CDR
+ocd-division/country:ca/cd:3514,Northumberland,Northumberland,CTY
+ocd-division/country:ca/cd:3515,Peterborough,Peterborough,CTY
+ocd-division/country:ca/cd:3516,Kawartha Lakes,Kawartha Lakes,CDR
+ocd-division/country:ca/cd:3518,Durham,Durham,RM
+ocd-division/country:ca/cd:3519,York,York,RM
+ocd-division/country:ca/cd:3520,Toronto,Toronto,CDR
+ocd-division/country:ca/cd:3521,Peel,Peel,RM
+ocd-division/country:ca/cd:3522,Dufferin,Dufferin,CTY
+ocd-division/country:ca/cd:3523,Wellington,Wellington,CTY
+ocd-division/country:ca/cd:3524,Halton,Halton,RM
+ocd-division/country:ca/cd:3525,Hamilton,Hamilton,CDR
+ocd-division/country:ca/cd:3526,Niagara,Niagara,RM
+ocd-division/country:ca/cd:3528,Haldimand-Norfolk,Haldimand-Norfolk,CDR
+ocd-division/country:ca/cd:3529,Brant,Brant,CDR
+ocd-division/country:ca/cd:3530,Waterloo,Waterloo,RM
+ocd-division/country:ca/cd:3531,Perth,Perth,CTY
+ocd-division/country:ca/cd:3532,Oxford,Oxford,CTY
+ocd-division/country:ca/cd:3534,Elgin,Elgin,CTY
+ocd-division/country:ca/cd:3536,Chatham-Kent,Chatham-Kent,CDR
+ocd-division/country:ca/cd:3537,Essex,Essex,CTY
+ocd-division/country:ca/cd:3538,Lambton,Lambton,CTY
+ocd-division/country:ca/cd:3539,Middlesex,Middlesex,CTY
+ocd-division/country:ca/cd:3540,Huron,Huron,CTY
+ocd-division/country:ca/cd:3541,Bruce,Bruce,CTY
+ocd-division/country:ca/cd:3542,Grey,Grey,CTY
+ocd-division/country:ca/cd:3543,Simcoe,Simcoe,CTY
+ocd-division/country:ca/cd:3544,Muskoka,Muskoka,DM
+ocd-division/country:ca/cd:3546,Haliburton,Haliburton,CTY
+ocd-division/country:ca/cd:3547,Renfrew,Renfrew,CTY
+ocd-division/country:ca/cd:3548,Nipissing,Nipissing,DIS
+ocd-division/country:ca/cd:3549,Parry Sound,Parry Sound,DIS
+ocd-division/country:ca/cd:3551,Manitoulin,Manitoulin,DIS
+ocd-division/country:ca/cd:3552,Sudbury,Sudbury,DIS
+ocd-division/country:ca/cd:3553,Greater Sudbury,Grand Sudbury,CDR
+ocd-division/country:ca/cd:3554,Timiskaming,Timiskaming,DIS
+ocd-division/country:ca/cd:3556,Cochrane,Cochrane,DIS
+ocd-division/country:ca/cd:3557,Algoma,Algoma,DIS
+ocd-division/country:ca/cd:3558,Thunder Bay,Thunder Bay,DIS
+ocd-division/country:ca/cd:3559,Rainy River,Rainy River,DIS
+ocd-division/country:ca/cd:3560,Kenora,Kenora,DIS
+ocd-division/country:ca/cd:4601,Division No. 1,Division No. 1,CDR
+ocd-division/country:ca/cd:4602,Division No. 2,Division No. 2,CDR
+ocd-division/country:ca/cd:4603,Division No. 3,Division No. 3,CDR
+ocd-division/country:ca/cd:4604,Division No. 4,Division No. 4,CDR
+ocd-division/country:ca/cd:4605,Division No. 5,Division No. 5,CDR
+ocd-division/country:ca/cd:4606,Division No. 6,Division No. 6,CDR
+ocd-division/country:ca/cd:4607,Division No. 7,Division No. 7,CDR
+ocd-division/country:ca/cd:4608,Division No. 8,Division No. 8,CDR
+ocd-division/country:ca/cd:4609,Division No. 9,Division No. 9,CDR
+ocd-division/country:ca/cd:4610,Division No. 10,Division No. 10,CDR
+ocd-division/country:ca/cd:4611,Division No. 11,Division No. 11,CDR
+ocd-division/country:ca/cd:4612,Division No. 12,Division No. 12,CDR
+ocd-division/country:ca/cd:4613,Division No. 13,Division No. 13,CDR
+ocd-division/country:ca/cd:4614,Division No. 14,Division No. 14,CDR
+ocd-division/country:ca/cd:4615,Division No. 15,Division No. 15,CDR
+ocd-division/country:ca/cd:4616,Division No. 16,Division No. 16,CDR
+ocd-division/country:ca/cd:4617,Division No. 17,Division No. 17,CDR
+ocd-division/country:ca/cd:4618,Division No. 18,Division No. 18,CDR
+ocd-division/country:ca/cd:4619,Division No. 19,Division No. 19,CDR
+ocd-division/country:ca/cd:4620,Division No. 20,Division No. 20,CDR
+ocd-division/country:ca/cd:4621,Division No. 21,Division No. 21,CDR
+ocd-division/country:ca/cd:4622,Division No. 22,Division No. 22,CDR
+ocd-division/country:ca/cd:4623,Division No. 23,Division No. 23,CDR
+ocd-division/country:ca/cd:4701,Division No. 1,Division No. 1,CDR
+ocd-division/country:ca/cd:4702,Division No. 2,Division No. 2,CDR
+ocd-division/country:ca/cd:4703,Division No. 3,Division No. 3,CDR
+ocd-division/country:ca/cd:4704,Division No. 4,Division No. 4,CDR
+ocd-division/country:ca/cd:4705,Division No. 5,Division No. 5,CDR
+ocd-division/country:ca/cd:4706,Division No. 6,Division No. 6,CDR
+ocd-division/country:ca/cd:4707,Division No. 7,Division No. 7,CDR
+ocd-division/country:ca/cd:4708,Division No. 8,Division No. 8,CDR
+ocd-division/country:ca/cd:4709,Division No. 9,Division No. 9,CDR
+ocd-division/country:ca/cd:4710,Division No. 10,Division No. 10,CDR
+ocd-division/country:ca/cd:4711,Division No. 11,Division No. 11,CDR
+ocd-division/country:ca/cd:4712,Division No. 12,Division No. 12,CDR
+ocd-division/country:ca/cd:4713,Division No. 13,Division No. 13,CDR
+ocd-division/country:ca/cd:4714,Division No. 14,Division No. 14,CDR
+ocd-division/country:ca/cd:4715,Division No. 15,Division No. 15,CDR
+ocd-division/country:ca/cd:4716,Division No. 16,Division No. 16,CDR
+ocd-division/country:ca/cd:4717,Division No. 17,Division No. 17,CDR
+ocd-division/country:ca/cd:4718,Division No. 18,Division No. 18,CDR
+ocd-division/country:ca/cd:4801,Division No. 1,Division No. 1,CDR
+ocd-division/country:ca/cd:4802,Division No. 2,Division No. 2,CDR
+ocd-division/country:ca/cd:4803,Division No. 3,Division No. 3,CDR
+ocd-division/country:ca/cd:4804,Division No. 4,Division No. 4,CDR
+ocd-division/country:ca/cd:4805,Division No. 5,Division No. 5,CDR
+ocd-division/country:ca/cd:4806,Division No. 6,Division No. 6,CDR
+ocd-division/country:ca/cd:4807,Division No. 7,Division No. 7,CDR
+ocd-division/country:ca/cd:4808,Division No. 8,Division No. 8,CDR
+ocd-division/country:ca/cd:4809,Division No. 9,Division No. 9,CDR
+ocd-division/country:ca/cd:4810,Division No. 10,Division No. 10,CDR
+ocd-division/country:ca/cd:4811,Division No. 11,Division No. 11,CDR
+ocd-division/country:ca/cd:4812,Division No. 12,Division No. 12,CDR
+ocd-division/country:ca/cd:4813,Division No. 13,Division No. 13,CDR
+ocd-division/country:ca/cd:4814,Division No. 14,Division No. 14,CDR
+ocd-division/country:ca/cd:4815,Division No. 15,Division No. 15,CDR
+ocd-division/country:ca/cd:4816,Division No. 16,Division No. 16,CDR
+ocd-division/country:ca/cd:4817,Division No. 17,Division No. 17,CDR
+ocd-division/country:ca/cd:4818,Division No. 18,Division No. 18,CDR
+ocd-division/country:ca/cd:4819,Division No. 19,Division No. 19,CDR
+ocd-division/country:ca/cd:5901,East Kootenay,East Kootenay,RD
+ocd-division/country:ca/cd:5903,Central Kootenay,Central Kootenay,RD
+ocd-division/country:ca/cd:5905,Kootenay Boundary,Kootenay Boundary,RD
+ocd-division/country:ca/cd:5907,Okanagan-Similkameen,Okanagan-Similkameen,RD
+ocd-division/country:ca/cd:5909,Fraser Valley,Fraser Valley,RD
+ocd-division/country:ca/cd:5915,Greater Vancouver,Greater Vancouver,RD
+ocd-division/country:ca/cd:5917,Capital,Capital,RD
+ocd-division/country:ca/cd:5919,Cowichan Valley,Cowichan Valley,RD
+ocd-division/country:ca/cd:5921,Nanaimo,Nanaimo,RD
+ocd-division/country:ca/cd:5923,Alberni-Clayoquot,Alberni-Clayoquot,RD
+ocd-division/country:ca/cd:5924,Strathcona,Strathcona,RD
+ocd-division/country:ca/cd:5926,Comox Valley,Comox Valley,RD
+ocd-division/country:ca/cd:5927,Powell River,Powell River,RD
+ocd-division/country:ca/cd:5929,Sunshine Coast,Sunshine Coast,RD
+ocd-division/country:ca/cd:5931,Squamish-Lillooet,Squamish-Lillooet,RD
+ocd-division/country:ca/cd:5933,Thompson-Nicola,Thompson-Nicola,RD
+ocd-division/country:ca/cd:5935,Central Okanagan,Central Okanagan,RD
+ocd-division/country:ca/cd:5937,North Okanagan,North Okanagan,RD
+ocd-division/country:ca/cd:5939,Columbia-Shuswap,Columbia-Shuswap,RD
+ocd-division/country:ca/cd:5941,Cariboo,Cariboo,RD
+ocd-division/country:ca/cd:5943,Mount Waddington,Mount Waddington,RD
+ocd-division/country:ca/cd:5945,Central Coast,Central Coast,RD
+ocd-division/country:ca/cd:5947,Skeena-Queen Charlotte,Skeena-Queen Charlotte,RD
+ocd-division/country:ca/cd:5949,Kitimat-Stikine,Kitimat-Stikine,RD
+ocd-division/country:ca/cd:5951,Bulkley-Nechako,Bulkley-Nechako,RD
+ocd-division/country:ca/cd:5953,Fraser-Fort George,Fraser-Fort George,RD
+ocd-division/country:ca/cd:5955,Peace River,Peace River,RD
+ocd-division/country:ca/cd:5957,Stikine,Stikine,REG
+ocd-division/country:ca/cd:5959,Northern Rockies,Northern Rockies,RD
+ocd-division/country:ca/cd:6001,Yukon,Yukon,TER
+ocd-division/country:ca/cd:6101,Region 1,Region 1,REG
+ocd-division/country:ca/cd:6102,Region 2,Region 2,REG
+ocd-division/country:ca/cd:6103,Region 3,Region 3,REG
+ocd-division/country:ca/cd:6104,Region 4,Region 4,REG
+ocd-division/country:ca/cd:6105,Region 5,Region 5,REG
+ocd-division/country:ca/cd:6106,Region 6,Region 6,REG
+ocd-division/country:ca/cd:6204,Baffin,Baffin,REG
+ocd-division/country:ca/cd:6205,Keewatin,Keewatin,REG
+ocd-division/country:ca/cd:6208,Kitikmeot,Kitikmeot,REG

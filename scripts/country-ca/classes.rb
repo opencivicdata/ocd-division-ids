@@ -359,7 +359,7 @@ class CensusSubdivisionName < DivisionName
 end
 
 class CensusDivisionIdentifier < String
-  @census_division_types = OpenCivicDataMappings.read("country-ca-types/ca_census_divisions").to_h
+  @census_division_types = OpenCivicDataMappings.read("country-ca-types/ca_census_divisions").to_h # @todo
   @province_and_territory_sgc_codes = OpenCivicDataMappings.read("country-ca-sgc/ca_provinces_and_territories").abbreviate!.to_h.invert
 
   class << self
@@ -389,7 +389,7 @@ class CensusDivisionIdentifier < String
 end
 
 class CensusSubdivisionIdentifier < String
-  @census_subdivision_types = OpenCivicDataMappings.read("country-ca-types/ca_census_subdivisions").to_h
+  @census_subdivision_types = OpenCivicDataMappings.read("country-ca-types/ca_census_subdivisions").to_h # @todo
   @province_and_territory_sgc_codes = OpenCivicDataMappings.read("country-ca-sgc/ca_provinces_and_territories").abbreviate!.to_h.invert
 
   class << self

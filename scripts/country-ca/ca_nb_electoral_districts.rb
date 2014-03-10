@@ -6,25 +6,18 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 # Scrapes New Brunswick electoral district codes and names from gnb.ca
 
 class NB < Runner
-  @csv_filename = "province-nb-electoral_districts.csv"
-  @translatable = true
-
-  def names(language = "E")
+  def names
     # Also available as inconsistently formatted lists.
     # @see http://www2.gnb.ca/content/gnb/fr/contacts/dept_renderer.154.html#structure
     ShapefileParser.new(
       "http://www.gnb.ca/elections/pdf/2010PEDMaps/NB_Electoral_Districts.zip",
       "province:nb/ed:", {
-        :identifier => "PED_Num",
-        :content => "PED_Name_#{language}",
-        :default => "PED_Name_E",
+        :id => "PED_Num",
+        :name => "PED_Name_E",
+        :name_fr => "PED_Name_F",
       }
     ).run
   end
-
-  def names_fr
-    names("F")
-  end
 end
 
-NB.new.run(ARGV)
+NB.new("province-nb-electoral_districts.csv").run(ARGV)

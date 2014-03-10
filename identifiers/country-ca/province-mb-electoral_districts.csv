@@ -1,57 +1,58 @@
-ocd-division/country:ca/province:mb/ed:agassiz,Agassiz
-ocd-division/country:ca/province:mb/ed:arthur-virden,Arthur-Virden
-ocd-division/country:ca/province:mb/ed:assiniboia,Assiniboia
-ocd-division/country:ca/province:mb/ed:brandon_east,Brandon East
-ocd-division/country:ca/province:mb/ed:brandon_west,Brandon West
-ocd-division/country:ca/province:mb/ed:burrows,Burrows
-ocd-division/country:ca/province:mb/ed:charleswood,Charleswood
-ocd-division/country:ca/province:mb/ed:concordia,Concordia
-ocd-division/country:ca/province:mb/ed:dauphin,Dauphin
-ocd-division/country:ca/province:mb/ed:dawson_trail,Dawson Trail
-ocd-division/country:ca/province:mb/ed:elmwood,Elmwood
-ocd-division/country:ca/province:mb/ed:emerson,Emerson
-ocd-division/country:ca/province:mb/ed:flin_flon,Flin Flon
-ocd-division/country:ca/province:mb/ed:fort_garry-riverview,Fort Garry-Riverview
-ocd-division/country:ca/province:mb/ed:fort_richmond,Fort Richmond
-ocd-division/country:ca/province:mb/ed:fort_rouge,Fort Rouge
-ocd-division/country:ca/province:mb/ed:fort_whyte,Fort Whyte
-ocd-division/country:ca/province:mb/ed:gimli,Gimli
-ocd-division/country:ca/province:mb/ed:interlake,Interlake
-ocd-division/country:ca/province:mb/ed:kewatinook,Kewatinook
-ocd-division/country:ca/province:mb/ed:kildonan,Kildonan
-ocd-division/country:ca/province:mb/ed:kirkfield_park,Kirkfield Park
-ocd-division/country:ca/province:mb/ed:la_verendrye,La Verendrye
-ocd-division/country:ca/province:mb/ed:lac_du_bonnet,Lac du Bonnet
-ocd-division/country:ca/province:mb/ed:lakeside,Lakeside
-ocd-division/country:ca/province:mb/ed:logan,Logan
-ocd-division/country:ca/province:mb/ed:midland,Midland
-ocd-division/country:ca/province:mb/ed:minto,Minto
-ocd-division/country:ca/province:mb/ed:morden-winkler,Morden-Winkler
-ocd-division/country:ca/province:mb/ed:morris,Morris
-ocd-division/country:ca/province:mb/ed:point_douglas,Point Douglas
-ocd-division/country:ca/province:mb/ed:portage_la_prairie,Portage la Prairie
-ocd-division/country:ca/province:mb/ed:radisson,Radisson
-ocd-division/country:ca/province:mb/ed:riding_mountain,Riding Mountain
-ocd-division/country:ca/province:mb/ed:riel,Riel
-ocd-division/country:ca/province:mb/ed:river_east,River East
-ocd-division/country:ca/province:mb/ed:river_heights,River Heights
-ocd-division/country:ca/province:mb/ed:rossmere,Rossmere
-ocd-division/country:ca/province:mb/ed:seine_river,Seine River
-ocd-division/country:ca/province:mb/ed:selkirk,Selkirk
-ocd-division/country:ca/province:mb/ed:southdale,Southdale
-ocd-division/country:ca/province:mb/ed:spruce_woods,Spruce Woods
-ocd-division/country:ca/province:mb/ed:st._boniface,St. Boniface
-ocd-division/country:ca/province:mb/ed:st._james,St. James
-ocd-division/country:ca/province:mb/ed:st._johns,St. Johns
-ocd-division/country:ca/province:mb/ed:st._norbert,St. Norbert
-ocd-division/country:ca/province:mb/ed:st._paul,St. Paul
-ocd-division/country:ca/province:mb/ed:st._vital,St. Vital
-ocd-division/country:ca/province:mb/ed:steinbach,Steinbach
-ocd-division/country:ca/province:mb/ed:swan_river,Swan River
-ocd-division/country:ca/province:mb/ed:the_maples,The Maples
-ocd-division/country:ca/province:mb/ed:the_pas,The Pas
-ocd-division/country:ca/province:mb/ed:thompson,Thompson
-ocd-division/country:ca/province:mb/ed:transcona,Transcona
-ocd-division/country:ca/province:mb/ed:tuxedo,Tuxedo
-ocd-division/country:ca/province:mb/ed:tyndall_park,Tyndall Park
-ocd-division/country:ca/province:mb/ed:wolseley,Wolseley
+id,name,name_fr
+ocd-division/country:ca/province:mb/ed:agassiz,Agassiz,Agassiz
+ocd-division/country:ca/province:mb/ed:arthur-virden,Arthur-Virden,Arthur-Virden
+ocd-division/country:ca/province:mb/ed:assiniboia,Assiniboia,Assiniboia
+ocd-division/country:ca/province:mb/ed:brandon_east,Brandon East,Brandon-Est
+ocd-division/country:ca/province:mb/ed:brandon_west,Brandon West,Brandon-Ouest
+ocd-division/country:ca/province:mb/ed:burrows,Burrows,Burrows
+ocd-division/country:ca/province:mb/ed:charleswood,Charleswood,Charleswood
+ocd-division/country:ca/province:mb/ed:concordia,Concordia,Concordia
+ocd-division/country:ca/province:mb/ed:dauphin,Dauphin,Dauphin
+ocd-division/country:ca/province:mb/ed:dawson_trail,Dawson Trail,Chemin-Dawson
+ocd-division/country:ca/province:mb/ed:elmwood,Elmwood,Elmwood
+ocd-division/country:ca/province:mb/ed:emerson,Emerson,Emerson
+ocd-division/country:ca/province:mb/ed:flin_flon,Flin Flon,Flin Flon
+ocd-division/country:ca/province:mb/ed:fort_garry-riverview,Fort Garry-Riverview,Fort Garry-Riverview
+ocd-division/country:ca/province:mb/ed:fort_richmond,Fort Richmond,Fort Richmond
+ocd-division/country:ca/province:mb/ed:fort_rouge,Fort Rouge,Fort Rouge
+ocd-division/country:ca/province:mb/ed:fort_whyte,Fort Whyte,Fort Whyte
+ocd-division/country:ca/province:mb/ed:gimli,Gimli,Gimli
+ocd-division/country:ca/province:mb/ed:interlake,Interlake,Entre-les-Lacs
+ocd-division/country:ca/province:mb/ed:kewatinook,Kewatinook,Kewatinook
+ocd-division/country:ca/province:mb/ed:kildonan,Kildonan,Kildonan
+ocd-division/country:ca/province:mb/ed:kirkfield_park,Kirkfield Park,Kirkfield Park
+ocd-division/country:ca/province:mb/ed:la_verendrye,La Verendrye,La Vérendrye
+ocd-division/country:ca/province:mb/ed:lac_du_bonnet,Lac du Bonnet,Lac-du-Bonnet
+ocd-division/country:ca/province:mb/ed:lakeside,Lakeside,Lakeside
+ocd-division/country:ca/province:mb/ed:logan,Logan,Logan
+ocd-division/country:ca/province:mb/ed:midland,Midland,Midland
+ocd-division/country:ca/province:mb/ed:minto,Minto,Minto
+ocd-division/country:ca/province:mb/ed:morden-winkler,Morden-Winkler,Morden-Winkler
+ocd-division/country:ca/province:mb/ed:morris,Morris,Morris
+ocd-division/country:ca/province:mb/ed:point_douglas,Point Douglas,Point Douglas
+ocd-division/country:ca/province:mb/ed:portage_la_prairie,Portage la Prairie,Portage la Prairie
+ocd-division/country:ca/province:mb/ed:radisson,Radisson,Radisson
+ocd-division/country:ca/province:mb/ed:riding_mountain,Riding Mountain,Mont-Riding
+ocd-division/country:ca/province:mb/ed:riel,Riel,Riel
+ocd-division/country:ca/province:mb/ed:river_east,River East,River East
+ocd-division/country:ca/province:mb/ed:river_heights,River Heights,River Heights
+ocd-division/country:ca/province:mb/ed:rossmere,Rossmere,Rossmere
+ocd-division/country:ca/province:mb/ed:seine_river,Seine River,Rivière-Seine
+ocd-division/country:ca/province:mb/ed:selkirk,Selkirk,Selkirk
+ocd-division/country:ca/province:mb/ed:southdale,Southdale,Southdale
+ocd-division/country:ca/province:mb/ed:spruce_woods,Spruce Woods,Spruce Woods
+ocd-division/country:ca/province:mb/ed:st._boniface,St. Boniface,Saint-Boniface
+ocd-division/country:ca/province:mb/ed:st._james,St. James,St. James
+ocd-division/country:ca/province:mb/ed:st._johns,St. Johns,St. Johns
+ocd-division/country:ca/province:mb/ed:st._norbert,St. Norbert,Saint-Norbert
+ocd-division/country:ca/province:mb/ed:st._paul,St. Paul,St. Paul
+ocd-division/country:ca/province:mb/ed:st._vital,St. Vital,Saint-Vital
+ocd-division/country:ca/province:mb/ed:steinbach,Steinbach,Steinbach
+ocd-division/country:ca/province:mb/ed:swan_river,Swan River,Swan River
+ocd-division/country:ca/province:mb/ed:the_maples,The Maples,The Maples
+ocd-division/country:ca/province:mb/ed:the_pas,The Pas,Le Pas
+ocd-division/country:ca/province:mb/ed:thompson,Thompson,Thompson
+ocd-division/country:ca/province:mb/ed:transcona,Transcona,Transcona
+ocd-division/country:ca/province:mb/ed:tuxedo,Tuxedo,Tuxedo
+ocd-division/country:ca/province:mb/ed:tyndall_park,Tyndall Park,Tyndall Park
+ocd-division/country:ca/province:mb/ed:wolseley,Wolseley,Wolseley

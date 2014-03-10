@@ -5,27 +5,48 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 
 # Scrapes Manitoba electoral district codes and names from gov.mb.ca
 
-require "nokogiri"
-
 class MB < Runner
-  @csv_filename = "province-mb-electoral_districts.csv"
-  @translatable = true
+  def names
+    # Sort the French names in the same order as the English.
+    names_fr = rows(".fr").sort_by do |name|
+      case name.strip
+      when "Chemin-Dawson"
+        "Dawson Trail"
+      when "Entre-les-Lacs"
+        "Interlake"
+      when "Le Pas"
+        "The Pas"
+      when "Mont-Riding"
+        "Riding Mountain"
+      when "Rivière-Seine"
+        "Seine River"
+      when "Saint-Boniface"
+        "St. Boniface"
+      when "Saint-Norbert"
+        "St. Norbert"
+      when "Saint-Vital"
+        "St. Vital"
+      else
+        name.strip
+      end
+    end
 
-  def names(infix = "")
-    # The shapefile from the Manitoba Land Initiative requires authentication
-    # and is unilingual English. It seems only the legislature translates names.
-    # @see https://mli2.gov.mb.ca/adminbnd/index.html
-    Nokogiri::HTML(open("http://www.gov.mb.ca/hansard/members/constituency#{infix}.html")).css("table.text tr:gt(1) td:eq(1)").each do |td|
-      name = td.text.gsub(/\p{Space}+/, " ")
-      output("province:mb/ed:",
-        name, # shapefile has no identifiers
-        name)
+    puts CSV.generate_line(%w(id name name_fr))
+    rows("").each_with_index do |name,index|
+      output("province:mb/ed:", name, name, names_fr[index])
     end
   end
 
-  def names_fr
-    names(".fr")
+private
+
+  def rows(infix)
+    # The shapefile from the Manitoba Land Initiative requires authentication
+    # and is unilingual English. It seems only the legislature translates names.
+    # @see https://mli2.gov.mb.ca/adminbnd/index.html
+    Nokogiri::HTML(open("http://www.gov.mb.ca/hansard/members/constituency#{infix}.html")).css("table.text tr:gt(1) td:eq(1)").map do |td|
+      td.text.normalize_space
+    end
   end
 end
 
-MB.new.run(ARGV)
+MB.new("province-mb-electoral_districts.csv").run(ARGV)

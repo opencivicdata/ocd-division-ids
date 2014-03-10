@@ -6,25 +6,44 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 # Scrapes census subdivision codes and names from statcan.gc.ca
 
 class CensusSubdivisions < Runner
-  @csv_filename = "ca_census_subdivisions.csv"
-  @translatable = true
-
-  def initialize
-    super
-
-    add_command({
-      :name        => "types",
-      :description => "Prints a CSV of identifiers and canonical census subdivision types",
-      :directory   => "mappings/country-ca-types",
-    })
-  end
-
   def names(language = "Eng")
-    each(language) do |row|
-      if row["Geographic name"] == "Resort Mun. Stan.B.-Hope R.-Bayv.-Cavend.-N.Rust. (P.E.I.)"
-        name = "Resort Municipality of Stanley Bridge-Hope River-Bayview-Cavendish-North Rustico"
+    exceptions = {
+      "4819006" => "County of Grande Prairie No. 1",
+      "3519036" => "City of Markham",  # became a city since 2011
+      "3528018" => "Corporation of Haldimand County",
+      # SM: Specialized municipality
+      "4811052" => "Strathcona County",
+      "4815007" => "Municipality of Crowsnest Pass",
+      "4815033" => "Municipality of Jasper",
+      "4816037" => "Regional Municipality of Wood Buffalo",
+      "4817095" => "Mackenzie County",
+    }
+
+    type_names = census_subdivision_type_names
+
+    # @see http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/index-eng.cfm
+    file = open("http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/FullFile.cfm?T=301&LANG=Eng&OFT=CSV&OFN=98-310-XWE2011002-301.CSV")
+    # The CSV has an extra header row.
+    file.gets
+    # The CSV is in ISO-8859-1.
+    text = file.read.force_encoding("ISO-8859-1").encode("UTF-8")
+
+    puts CSV.generate_line(%w(id name name_fr classification organization_name))
+    CSV.parse(text, :headers => true, :skip_blanks => true).each do |row|
+      code = row.fetch("Geographic code")
+      name = row.fetch("Geographic name")
+      type = row.fetch("Geographic type")
+      organization_name = nil
+
+      # Skip "Canada" row.
+      next if code == "01"
+      # Stop before footer.
+      break if code == "Note:"
+
+      if name == "Resort Mun. Stan.B.-Hope R.-Bayv.-Cavend.-N.Rust. (P.E.I.)"
+        value = "Resort Municipality of Stanley Bridge-Hope River-Bayview-Cavendish-North Rustico"
       else
-        name = row["Geographic name"].
+        value = name.
           squeeze(" ").                # Remove extra spaces, e.g. "Lot  1"
           sub(/ \([^)]+\)\z/, "").     # Remove region, e.g. "Toronto (Ont.)"
           sub(/ \(Part\)/, "").        # Remove "(Part)" e.g. "Flin Flon (Part)"
@@ -33,53 +52,28 @@ class CensusSubdivisions < Runner
           sub(/ \(Labrador\)\z/, "")   # Remove subregion, e.g. "Charlottetown (Labrador)"
 
         # Expand "St." and "Ste." in New Brunswick and Quebec.
-        if row["Geographic code"][/\A(?:13|24)/]
-          name.sub!(/\bSt(e)?\./, 'Saint\1')
-        end
-
-        # @see http://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/2001/2001-supp4-eng.htm
-        if name[" / "]
-          name = name.split(" / ", 2)[language == "Eng" ? 0 : 1]
+        if code[/\A(?:13|24)/]
+          value.sub!(/\bSt(e)?\./, 'Saint\1')
         end
       end
 
-      output("csd:",
-        row["Geographic code"],
-        name)
-    end
-  end
+      # @see http://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/2001/2001-supp4-eng.htm
+      parts = value.split(" / ", 2)
 
-  def names_fr
-    names("Fra")
-  end
+      if exceptions.key?(code)
+        organization_name = exceptions[code]
+      else
+        case type
+        when "RGM"
+          organization_name = "#{parts[0]} Regional Municipality"
+        when "C", "CV", "CY", "MD", "MU", "T", "TP", "V", "VL"
+          organization_name = "#{type_names[type]} #{code[0, 2] == "24" ? "de" : "of"} #{parts[0]}"
+        end
+      end
 
-  def types
-    each do |row|
-      output("csd:",
-        row["Geographic code"],
-        row["Geographic type"])
-    end
-  end
-
-private
-
-  def each(language = "Eng")
-    # @see http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/index-eng.cfm
-    file = open("http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/FullFile.cfm?T=301&LANG=#{language}&OFT=CSV&OFN=98-310-XWE2011002-301.CSV")
-    # The CSV has an extra header row.
-    file.gets
-    # The CSV is in ISO-8859-1.
-    text = file.read.force_encoding("ISO-8859-1").encode("UTF-8")
-
-    CSV.parse(text, :headers => true, :skip_blanks => true).each do |row|
-      # Skip "Canada" row.
-      next if row["Geographic code"] == "01"
-      # Stop before footer.
-      break if row["Geographic code"] == "Note:"
-
-      yield(row)
+      output("csd:", code, parts[0], parts[1] || parts[0], type, organization_name)
     end
   end
 end
 
-CensusSubdivisions.new.run(ARGV)
+CensusSubdivisions.new("ca_census_subdivisions.csv").run(ARGV)

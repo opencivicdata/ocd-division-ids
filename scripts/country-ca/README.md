@@ -22,18 +22,18 @@
 
 * At the provincial level, MB, NL and SK use textual type IDs for electoral districts. All other jurisdictions use numeric type IDs.
 
-### Mappings
+### Column headers
 
-* `country-ca-abbr`: English Census or local abbreviations
-* `country-ca-abbr-fr`: French Census or local abbreviations
-* `country-ca-corporations`: Municipal corporation names
-* `country-ca-fr`: French names
-* `country-ca-numeric`: Numeric local identifiers
-* `country-ca-posts`: Number of posts in the municipal corporation
-* `country-ca-sgc`: Standard Geographical Classification (SGC) codes
-* `country-ca-subdivisions`: Whether the division has children
-* `country-ca-types`: Census subdivision types
-* `country-ca-urls`: Official website URLs
+* `abbreviation`: English Census or local abbreviations
+* `abbreviation_fr`: French Census or local abbreviations
+* `classification`: Census subdivision types
+* `has_children`: Whether the division has children
+* `name_fr`: French names
+* `number`: Numeric local identifiers
+* `organization_name`: Municipal corporation names
+* `posts_count`: Number of posts in the municipal corporation
+* `sgc`: Standard Geographical Classification (SGC) codes
+* `url`: Official website URLs
 
 ## Writing a scraper
 
@@ -44,8 +44,7 @@
 
 ### Data source selection guidelines
 
-1. Prefer an official government source.
-  1. For electoral districts, prefer election officials to legislatures.
+1. Prefer an official government source. For electoral districts, prefer election officials to legislatures.
 1. Prefer the source with correct names.
 1. Prefer the source with correct formatting (dashes).
 1. Prefer the source that is easier to scrape.
@@ -64,16 +63,16 @@ The Standard Geographical Classification is an official publication of Statistic
 ## Uses
 
 * [represent-canada-data](https://github.com/opennorth/represent-canada-data/blob/master/tasks.py)
-  * `abbr`: To map province and territory abbreviations to names
-  * `corporations`: To set an appropriate authority for a shapefile
+  * `abbreviation`: To map province and territory abbreviations to names
+  * `classification`: To determine an appropriate subdivision label
+  * `has_children`: To determine whether a shapefile must be requested for a division
+  * `organization_name`: To set an appropriate authority for a shapefile
   * `sgc`: To retrieve an identifier from an SGC code
-  * `subdivisions`: To determine whether a shapefile must be requested for a division
-  * `types`: To determine an appropriate subdivision label
-  * `urls`: To provide a URL from which to request a shapefile for a division
+  * `url`: To provide a URL from which to request a shapefile for a division
 * [scrapers-ca-ruby](https://github.com/opennorth/scrapers-ca-ruby/blob/master/ca_qc_montreal/posts.rb)
-  * `numeric`: To map numeric borough identifiers to names
+  * `number`: To map numeric borough identifiers to names
 * [scrapers-ca](https://github.com/opencivicdata/scrapers-ca/blob/master/tasks.py)
-  * `posts`: To validate the number of memberships per jurisdiction
+  * `classification`: To determine an appropriate jurisdiction name
+  * `posts_count`: To validate the number of memberships per jurisdiction
   * `sgc`: To retrieve an identifier from an SGC code
-  * `types`: To determine an appropriate jurisdiction name
-  * `urls`: To provide a URL for the jurisdiction
+  * `url`: To provide a URL for the jurisdiction

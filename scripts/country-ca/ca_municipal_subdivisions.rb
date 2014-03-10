@@ -9,29 +9,20 @@ require File.expand_path(File.join("..", "classes.rb"), __FILE__)
 
 require "json"
 require "tempfile"
-require "nokogiri"
 
 class MunicipalSubdivision < Runner
-  @csv_filename = "ca_municipal_subdivisions.csv"
-  @translatable = false
-
-  def initialize
+  def initialize(*args)
     super
 
     add_command({
-      :name        => "corporations",
-      :description => "Prints a CSV of identifiers and municipal corporation names",
-      :directory   => "mappings/country-ca-corporations",
-    })
-    add_command({
-      :name        => "posts",
+      :name        => "posts-count",
       :description => "Prints a CSV of identifiers and numbers of posts",
-      :directory   => "mappings/country-ca-posts",
+      :output_path => "identifiers/country-ca/ca_municipal_subdivisions-posts_count.csv",
     })
     add_command({
-      :name        => "subdivisions",
+      :name        => "has-children",
       :description => "Prints a CSV of identifiers and booleans",
-      :directory   => "mappings/country-ca-subdivisions",
+      :output_path => "identifiers/country-ca/ca_municipal_subdivisions-has_children.csv",
     })
     add_command({
       :name        => "styles",
@@ -64,6 +55,7 @@ class MunicipalSubdivision < Runner
       end
     end
 
+    puts CSV.generate_line(%w(id name))
     items.sort_by(&:first).each do |census_subdivision_id,boundary_set|
       ocd_type = boundary_set["name"].match(/ (borough|district|division|ward)s\z/)[1]
 
@@ -77,62 +69,15 @@ class MunicipalSubdivision < Runner
     end
   end
 
-  def corporations
-    exceptions = {
-      "ocd-division/country:ca/csd:4819006" => "County of Grande Prairie No. 1",
-      "ocd-division/country:ca/csd:3519036" => "City of Markham",  # became a city since 2011
-      "ocd-division/country:ca/csd:3528018" => "Corporation of Haldimand County",
-      # SM: Specialized municipality
-      "ocd-division/country:ca/csd:4811052" => "Strathcona County",
-      "ocd-division/country:ca/csd:4815007" => "Municipality of Crowsnest Pass",
-      "ocd-division/country:ca/csd:4815033" => "Municipality of Jasper",
-      "ocd-division/country:ca/csd:4816037" => "Regional Municipality of Wood Buffalo",
-      "ocd-division/country:ca/csd:4817095" => "Mackenzie County",
-    }
-
-    names = {}
-    %w(ca_census_divisions ca_census_subdivisions).each do |filename|
-      OpenCivicDataIdentifiers.read("country-ca/#{filename}").each do |identifier,name|
-        names[identifier] = name
-      end
-    end
-
-    type_names = {}
-    { "ca_census_divisions" => 4,
-      "ca_census_subdivisions" => 5,
-    }.each do |filename,table|
-      type_names[filename] = {}
-      Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-#{table}-eng.cfm")).xpath("//table/tbody/tr/th[1]/abbr").each do |abbr|
-        type_names[filename][abbr.text] = abbr["title"].sub(/ \/.+\z/, "")
-      end
-    end
-
-    %w(ca_census_divisions ca_census_subdivisions).each do |filename|
-      OpenCivicDataMappings.read("country-ca-types/#{filename}").each do |identifier,mapping|
-        type_id = identifier[/[^:]+\z/]
-        if exceptions.key?(identifier)
-          output("csd:", type_id.to_i, exceptions[identifier])
-        else
-          case mapping
-          when "RGM"
-            name = "#{names[identifier]} Regional Municipality"
-            output(filename == "ca_census_divisions" ? "cd:" : "csd:", type_id.to_i, name)
-          when "C", "CV", "CY", "MD", "MU", "T", "TP", "V", "VL"
-            name = "#{type_names[filename][mapping]} #{type_id[0, 2] == "24" ? "de" : "of"} #{names[identifier]}"
-            output(filename == "ca_census_divisions" ? "cd:" : "csd:", type_id.to_i, name)
-          end
-        end
-      end
-    end
-  end
-
   # Asked:
   # * FCM contact form (2014-02-18 can also try info@fcm.ca)
   # 2014-02-20 JShiu@amo.on.ca "I believe we do not have a report that lists this type of information."
   # 2014-02-18 amcto@amcto.com "we do not maintain a list of council seats within each municipality"
   # 2014-02-18 mininfo.mah@ontario.ca "We regret to inform you that we cannot assist on this matter."
   # 2014-02-24 info@elections.on.ca "Elections Ontario does not have that information to provide."
-  def posts
+  def posts_count
+    puts CSV.generate_line(%w(id posts_count))
+
     # @see http://www.novascotia.ca/snsmr/municipal/government/elections.asp
     # The spreadsheet and roo gems open the Excel file too slowly.
     Tempfile.open("data.xls") do |f|
@@ -195,7 +140,7 @@ class MunicipalSubdivision < Runner
   # MB: "Contact your local municipal office to find out whether a ward by-law is in place in your municipality."
   # @see http://web5.gov.mb.ca/mfas/elections_faq.aspx#voters_q4
   # @see http://web2.gov.mb.ca/laws/statutes/ccsm/m225e.php#87
-  def subdivisions
+  def has_children
     type_map = {
       "CT" => "CT",
       "M"  => "MÉ",
@@ -340,9 +285,11 @@ class MunicipalSubdivision < Runner
     ]
 
     census_subdivision_types = {}
-    OpenCivicDataMappings.read("country-ca-types/ca_census_subdivisions").each do |identifier,mapping|
+    OpenCivicDataMappings.read("country-ca-types/ca_census_subdivisions").each do |identifier,mapping| # @todo
       census_subdivision_types[identifier] = mapping
     end
+
+    puts CSV.generate_line(%w(id has_children))
 
     OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").each do |identifier,_|
       type_id = identifier[/[^:]+\z/]
@@ -420,7 +367,7 @@ class MunicipalSubdivision < Runner
     type_map = type_map("on")
 
     Nokogiri::HTML(open('http://www.mah.gov.on.ca/Page1591.aspx').read).xpath('//table[1]//tr[position()>1]').each do |row|
-      text = row.xpath(".//td[1]").text.strip.gsub(/[[:space:]]+/, " ")
+      text = row.xpath(".//td[1]").text.strip.normalize_space
       if row.xpath(".//td[2]").text.strip == "Lower Tier"
         text_map = {
           "Grand Valley, Town of"             => ["East Luther Grand Valley", "Township"],
@@ -674,4 +621,4 @@ private
   end
 end
 
-MunicipalSubdivision.new.run(ARGV)
+MunicipalSubdivision.new("ca_municipal_subdivisions.csv").run(ARGV)

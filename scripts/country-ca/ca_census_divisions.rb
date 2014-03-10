@@ -6,67 +6,37 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 # Scrapes census division codes and names from statcan.gc.ca
 
 class CensusDivisions < Runner
-  @csv_filename = "ca_census_divisions.csv"
-  @translatable = true
+  def names
+    type_names = census_division_type_names
 
-  def initialize
-    super
-
-    add_command({
-      :name        => "types",
-      :description => "Prints a CSV of identifiers and canonical census division types",
-      :directory   => "mappings/country-ca-types",
-    })
-  end
-
-  def names(language = "Eng")
-    each(language) do |row|
-      name = row["Geographic name"].
-        squeeze(" ").                # Remove extra spaces, e.g. "Lot  1"
-        sub(/ \([^)]+\)\z/, "")      # Remove region, e.g. "Toronto (Ont.)"
-
-      # @see http://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/2001/2001-supp4-eng.htm
-      if name[" / "]
-        name = name.split(" / ", 2)[language == "Eng" ? 0 : 1]
-      end
-
-      output("cd:",
-        row["Geographic code"],
-        name)
-    end
-  end
-
-  def names_fr
-    names("Fra")
-  end
-
-  def types
-    each do |row|
-      output("cd:",
-        row["Geographic code"],
-        row["Geographic type"])
-    end
-  end
-
-private
-
-  def each(language = "Eng")
     # @see http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/index-eng.cfm
-    file = open("http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/FullFile.cfm?T=701&LANG=#{language}&OFT=CSV&OFN=98-310-XWE2011002-701.CSV")
+    file = open("http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/FullFile.cfm?T=701&LANG=Eng&OFT=CSV&OFN=98-310-XWE2011002-701.CSV")
     # The CSV has an extra header row.
     file.gets
     # The CSV is in ISO-8859-1.
     text = file.read.force_encoding("ISO-8859-1").encode("UTF-8")
 
+    puts CSV.generate_line(%w(id name name_fr classification))
     CSV.parse(text, :headers => true, :skip_blanks => true).each do |row|
-      # Skip "Canada" row.
-      next if row["Geographic code"] == "01"
-      # Stop before footer.
-      break if row["Geographic code"] == "Note:"
+      code = row.fetch("Geographic code")
+      name = row.fetch("Geographic name")
+      type = row.fetch("Geographic type")
 
-      yield(row)
+      # Skip "Canada" row.
+      next if code == "01"
+      # Stop before footer.
+      break if code == "Note:"
+
+      value = name.
+        squeeze(" ").           # Remove extra spaces, e.g. "Lot  1"
+        sub(/ \([^)]+\)\z/, "") # Remove region, e.g. "Toronto (Ont.)"
+
+      # @see http://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/2001/2001-supp4-eng.htm
+      parts = value.split(" / ", 2)
+
+      output("cd:", code, parts[0], parts[1] || parts[0], type)
     end
   end
 end
 
-CensusDivisions.new.run(ARGV)
+CensusDivisions.new("ca_census_divisions.csv").run(ARGV)

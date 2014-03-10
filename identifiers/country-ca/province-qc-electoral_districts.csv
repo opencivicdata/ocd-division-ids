@@ -1,7 +1,8 @@
+id,name
 ocd-division/country:ca/province:qc/ed:579,Abitibi-Est
 ocd-division/country:ca/province:qc/ed:573,Abitibi-Ouest
 ocd-division/country:ca/province:qc/ed:437,Acadie
-ocd-division/country:ca/province:qc/ed:373,Anjou-Louis-Riel
+ocd-division/country:ca/province:qc/ed:373,Anjou—Louis-Riel
 ocd-division/country:ca/province:qc/ed:535,Argenteuil
 ocd-division/country:ca/province:qc/ed:323,Arthabaska
 ocd-division/country:ca/province:qc/ed:309,Beauce-Nord
@@ -20,7 +21,7 @@ ocd-division/country:ca/province:qc/ed:193,Chambly
 ocd-division/country:ca/province:qc/ed:593,Champlain
 ocd-division/country:ca/province:qc/ed:559,Chapleau
 ocd-division/country:ca/province:qc/ed:619,Charlesbourg
-ocd-division/country:ca/province:qc/ed:679,Charlevoix-Côte-de-Beaupré
+ocd-division/country:ca/province:qc/ed:679,Charlevoix—Côte-de-Beaupré
 ocd-division/country:ca/province:qc/ed:173,Châteauguay
 ocd-division/country:ca/province:qc/ed:613,Chauveau
 ocd-division/country:ca/province:qc/ed:763,Chicoutimi
@@ -30,7 +31,7 @@ ocd-division/country:ca/province:qc/ed:683,Côte-du-Sud
 ocd-division/country:ca/province:qc/ed:433,Crémazie
 ocd-division/country:ca/province:qc/ed:403,D'Arcy-McGee
 ocd-division/country:ca/province:qc/ed:483,Deux-Montagnes
-ocd-division/country:ca/province:qc/ed:273,Drummond-Bois-Francs
+ocd-division/country:ca/province:qc/ed:273,Drummond—Bois-Francs
 ocd-division/country:ca/province:qc/ed:759,Dubuc
 ocd-division/country:ca/province:qc/ed:745,Duplessis
 ocd-division/country:ca/province:qc/ed:443,Fabre
@@ -46,18 +47,18 @@ ocd-division/country:ca/province:qc/ed:143,Iberville
 ocd-division/country:ca/province:qc/ed:733,Îles-de-la-Madeleine
 ocd-division/country:ca/province:qc/ed:409,Jacques-Cartier
 ocd-division/country:ca/province:qc/ed:623,Jean-Lesage
-ocd-division/country:ca/province:qc/ed:429,Jeanne-Mance-Viger
+ocd-division/country:ca/province:qc/ed:429,Jeanne-Mance—Viger
 ocd-division/country:ca/province:qc/ed:643,Jean-Talon
 ocd-division/country:ca/province:qc/ed:269,Johnson
 ocd-division/country:ca/province:qc/ed:361,Joliette
 ocd-division/country:ca/province:qc/ed:773,Jonquière
-ocd-division/country:ca/province:qc/ed:603,La Peltrie
-ocd-division/country:ca/province:qc/ed:203,La Pinière
-ocd-division/country:ca/province:qc/ed:183,La Prairie
 ocd-division/country:ca/province:qc/ed:545,Labelle
 ocd-division/country:ca/province:qc/ed:779,Lac-Saint-Jean
 ocd-division/country:ca/province:qc/ed:371,LaFontaine
+ocd-division/country:ca/province:qc/ed:603,La Peltrie
+ocd-division/country:ca/province:qc/ed:203,La Pinière
 ocd-division/country:ca/province:qc/ed:209,Laporte
+ocd-division/country:ca/province:qc/ed:183,La Prairie
 ocd-division/country:ca/province:qc/ed:363,L'Assomption
 ocd-division/country:ca/province:qc/ed:423,Laurier-Dorion
 ocd-division/country:ca/province:qc/ed:439,Laval-des-Rapides
@@ -92,21 +93,21 @@ ocd-division/country:ca/province:qc/ed:367,Repentigny
 ocd-division/country:ca/province:qc/ed:253,Richelieu
 ocd-division/country:ca/province:qc/ed:283,Richmond
 ocd-division/country:ca/province:qc/ed:703,Rimouski
-ocd-division/country:ca/province:qc/ed:699,Rivière-du-Loup-Témiscouata
+ocd-division/country:ca/province:qc/ed:699,Rivière-du-Loup—Témiscouata
 ocd-division/country:ca/province:qc/ed:413,Robert-Baldwin
 ocd-division/country:ca/province:qc/ed:783,Roberval
 ocd-division/country:ca/province:qc/ed:379,Rosemont
 ocd-division/country:ca/province:qc/ed:515,Rousseau
-ocd-division/country:ca/province:qc/ed:567,Rouyn-Noranda-Témiscamingue
-ocd-division/country:ca/province:qc/ed:389,Sainte-Marie-Saint-Jacques
-ocd-division/country:ca/province:qc/ed:447,Sainte-Rose
+ocd-division/country:ca/province:qc/ed:567,Rouyn-Noranda—Témiscamingue
 ocd-division/country:ca/province:qc/ed:111,Saint-François
-ocd-division/country:ca/province:qc/ed:393,Saint-Henri-Sainte-Anne
+ocd-division/country:ca/province:qc/ed:393,Saint-Henri—Sainte-Anne
 ocd-division/country:ca/province:qc/ed:263,Saint-Hyacinthe
 ocd-division/country:ca/province:qc/ed:189,Saint-Jean
 ocd-division/country:ca/province:qc/ed:505,Saint-Jérôme
 ocd-division/country:ca/province:qc/ed:417,Saint-Laurent
+ocd-division/country:ca/province:qc/ed:389,Sainte-Marie—Saint-Jacques
 ocd-division/country:ca/province:qc/ed:343,Saint-Maurice
+ocd-division/country:ca/province:qc/ed:447,Sainte-Rose
 ocd-division/country:ca/province:qc/ed:177,Sanguinet
 ocd-division/country:ca/province:qc/ed:113,Sherbrooke
 ocd-division/country:ca/province:qc/ed:163,Soulanges
@@ -122,4 +123,4 @@ ocd-division/country:ca/province:qc/ed:249,Verchères
 ocd-division/country:ca/province:qc/ed:397,Verdun
 ocd-division/country:ca/province:qc/ed:427,Viau
 ocd-division/country:ca/province:qc/ed:449,Vimont
-ocd-division/country:ca/province:qc/ed:391,Westmount-Saint-Louis
+ocd-division/country:ca/province:qc/ed:391,Westmount—Saint-Louis

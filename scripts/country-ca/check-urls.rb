@@ -5,7 +5,7 @@ require "csv"
 
 require "faraday"
 
-directory = File.expand_path(File.join("..", "..", "..", "mappings", "country-ca-urls"), __FILE__)
+directory = File.expand_path(File.join("..", "..", "..", "mappings", "country-ca-urls"), __FILE__) # @todo
 Dir.entries(directory).each do |basename|
   if File.extname(basename) == ".csv"
     csv = CSV.read(File.join(directory, basename))

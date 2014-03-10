@@ -1,13 +1,14 @@
-ocd-division/country:ca/province:nl,Newfoundland and Labrador
-ocd-division/country:ca/province:pe,Prince Edward Island
-ocd-division/country:ca/province:ns,Nova Scotia
-ocd-division/country:ca/province:nb,New Brunswick
-ocd-division/country:ca/province:qc,Quebec
-ocd-division/country:ca/province:on,Ontario
-ocd-division/country:ca/province:mb,Manitoba
-ocd-division/country:ca/province:sk,Saskatchewan
-ocd-division/country:ca/province:ab,Alberta
-ocd-division/country:ca/province:bc,British Columbia
-ocd-division/country:ca/territory:yt,Yukon
-ocd-division/country:ca/territory:nt,Northwest Territories
-ocd-division/country:ca/territory:nu,Nunavut
+id,name,abbreviation,abbreviation_fr,sgc
+ocd-division/country:ca/province:nl,Newfoundland and Labrador,N.L.,T.-N.-L.,10
+ocd-division/country:ca/province:pe,Prince Edward Island,P.E.I.,Î.-P.-É.,11
+ocd-division/country:ca/province:ns,Nova Scotia,N.S.,N.-É.,12
+ocd-division/country:ca/province:nb,New Brunswick,N.B.,N.-B.,13
+ocd-division/country:ca/province:qc,Quebec,Que.,Qc,24
+ocd-division/country:ca/province:on,Ontario,Ont.,Ont.,35
+ocd-division/country:ca/province:mb,Manitoba,Man.,Man.,46
+ocd-division/country:ca/province:sk,Saskatchewan,Sask.,Sask.,47
+ocd-division/country:ca/province:ab,Alberta,Alta.,Alb.,48
+ocd-division/country:ca/province:bc,British Columbia,B.C.,C.-B.,59
+ocd-division/country:ca/territory:yt,Yukon,Y.T.,Yn,60
+ocd-division/country:ca/territory:nt,Northwest Territories,N.W.T.,T.N.-O.,61
+ocd-division/country:ca/territory:nu,Nunavut,Nvt.,Nt,62

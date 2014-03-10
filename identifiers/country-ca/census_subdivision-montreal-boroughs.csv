@@ -1,19 +1,20 @@
-ocd-division/country:ca/csd:2466023/borough:ahuntsic-cartierville,Ahuntsic-Cartierville
-ocd-division/country:ca/csd:2466023/borough:anjou,Anjou
-ocd-division/country:ca/csd:2466023/borough:côte-des-neiges~notre-dame-de-grâce,Côte-des-Neiges—Notre-Dame-de-Grâce
-ocd-division/country:ca/csd:2466023/borough:lachine,Lachine
-ocd-division/country:ca/csd:2466023/borough:lasalle,LaSalle
-ocd-division/country:ca/csd:2466023/borough:le_plateau-mont-royal,Le Plateau-Mont-Royal
-ocd-division/country:ca/csd:2466023/borough:le_sud-ouest,Le Sud-Ouest
-ocd-division/country:ca/csd:2466023/borough:l~île-bizard~sainte-geneviève,L'Île-Bizard—Sainte-Geneviève
-ocd-division/country:ca/csd:2466023/borough:mercier~hochelaga-maisonneuve,Mercier—Hochelaga-Maisonneuve
-ocd-division/country:ca/csd:2466023/borough:montréal-nord,Montréal-Nord
-ocd-division/country:ca/csd:2466023/borough:outremont,Outremont
-ocd-division/country:ca/csd:2466023/borough:pierrefonds-roxboro,Pierrefonds-Roxboro
-ocd-division/country:ca/csd:2466023/borough:rivière-des-prairies~pointe-aux-trembles,Rivière-des-Prairies—Pointe-aux-Trembles
-ocd-division/country:ca/csd:2466023/borough:rosemont~la_petite-patrie,Rosemont—La Petite-Patrie
-ocd-division/country:ca/csd:2466023/borough:saint-laurent,Saint-Laurent
-ocd-division/country:ca/csd:2466023/borough:saint-léonard,Saint-Léonard
-ocd-division/country:ca/csd:2466023/borough:verdun,Verdun
-ocd-division/country:ca/csd:2466023/borough:ville-marie,Ville-Marie
-ocd-division/country:ca/csd:2466023/borough:villeray~saint-michel~parc-extension,Villeray—Saint-Michel—Parc-Extension
+id,name,abbreviation,number
+ocd-division/country:ca/csd:2466023/borough:ahuntsic-cartierville,Ahuntsic-Cartierville,AHU,1
+ocd-division/country:ca/csd:2466023/borough:anjou,Anjou,ANJ,2
+ocd-division/country:ca/csd:2466023/borough:côte-des-neiges~notre-dame-de-grâce,Côte-des-Neiges—Notre-Dame-de-Grâce,CDN,3
+ocd-division/country:ca/csd:2466023/borough:lachine,Lachine,LAC,4
+ocd-division/country:ca/csd:2466023/borough:lasalle,LaSalle,LAS,5
+ocd-division/country:ca/csd:2466023/borough:le_plateau-mont-royal,Le Plateau-Mont-Royal,PLA,11
+ocd-division/country:ca/csd:2466023/borough:le_sud-ouest,Le Sud-Ouest,LSO,16
+ocd-division/country:ca/csd:2466023/borough:l~île-bizard~sainte-geneviève,L'Île-Bizard—Sainte-Geneviève,IBI,6
+ocd-division/country:ca/csd:2466023/borough:mercier~hochelaga-maisonneuve,Mercier—Hochelaga-Maisonneuve,MHM,7
+ocd-division/country:ca/csd:2466023/borough:montréal-nord,Montréal-Nord,MTN,8
+ocd-division/country:ca/csd:2466023/borough:outremont,Outremont,OUT,9
+ocd-division/country:ca/csd:2466023/borough:pierrefonds-roxboro,Pierrefonds-Roxboro,PRF,10
+ocd-division/country:ca/csd:2466023/borough:rivière-des-prairies~pointe-aux-trembles,Rivière-des-Prairies—Pointe-aux-Trembles,RDP,12
+ocd-division/country:ca/csd:2466023/borough:rosemont~la_petite-patrie,Rosemont—La Petite-Patrie,RPP,13
+ocd-division/country:ca/csd:2466023/borough:saint-laurent,Saint-Laurent,VSL,14
+ocd-division/country:ca/csd:2466023/borough:saint-léonard,Saint-Léonard,STL,15
+ocd-division/country:ca/csd:2466023/borough:verdun,Verdun,VER,17
+ocd-division/country:ca/csd:2466023/borough:ville-marie,Ville-Marie,VIM,18
+ocd-division/country:ca/csd:2466023/borough:villeray~saint-michel~parc-extension,Villeray—Saint-Michel—Parc-Extension,VSE,19
