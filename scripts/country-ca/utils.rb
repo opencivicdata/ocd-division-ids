@@ -193,7 +193,12 @@ class ShapefileRecord
     @attributes = record.attributes
     @mappings = mappings
 
-    @name = @attributes.fetch(@mappings.fetch(:name))
+    case @mappings.fetch(:name)
+    when Symbol
+      @name = @attributes.fetch(@mappings[:name])
+    else
+      @name = @mappings[:name].call(record)
+    end
 
     @id = if @mappings.key?(:id)
       @attributes.fetch(@mappings[:id]).to_s # may be an integer
