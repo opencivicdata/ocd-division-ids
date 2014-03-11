@@ -39,6 +39,7 @@ ocd-division/country:us/territory:pr/sldl:6,pr-lower-6
 ocd-division/country:us/territory:pr/sldl:7,pr-lower-7
 ocd-division/country:us/territory:pr/sldl:8,pr-lower-8
 ocd-division/country:us/territory:pr/sldl:9,pr-lower-9
+ocd-division/country:us/territory:pr/,pr-lower-resident-commissioner-district-at-large
 ocd-division/country:us/territory:pr/sldu:i,pr-upper-i
 ocd-division/country:us/territory:pr/sldu:ii,pr-upper-ii
 ocd-division/country:us/territory:pr/sldu:iii,pr-upper-iii
@@ -47,3 +48,4 @@ ocd-division/country:us/territory:pr/sldu:v,pr-upper-v
 ocd-division/country:us/territory:pr/sldu:vi,pr-upper-vi
 ocd-division/country:us/territory:pr/sldu:vii,pr-upper-vii
 ocd-division/country:us/territory:pr/sldu:viii,pr-upper-viii
+ocd-division/country:us/territory:pr/,pr-upper-resident-commissioner-district-at-large
