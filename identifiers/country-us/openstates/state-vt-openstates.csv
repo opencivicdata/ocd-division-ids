@@ -50,7 +50,7 @@ ocd-division/country:us/state:vt/sldl:franklin-4,vt-lower-franklin-4
 ocd-division/country:us/state:vt/sldl:franklin-5,vt-lower-franklin-5
 ocd-division/country:us/state:vt/sldl:franklin-6,vt-lower-franklin-6
 ocd-division/country:us/state:vt/sldl:franklin-7,vt-lower-franklin-7
-ocd-division/country:us/state:vt/sldl:grand-isle-chittenden,vt-lower-grand-isle-chittenden
+ocd-division/country:us/state:vt/sldl:grand_isle-chittenden,vt-lower-grand-isle-chittenden
 ocd-division/country:us/state:vt/sldl:lamoille-1,vt-lower-lamoille-1
 ocd-division/country:us/state:vt/sldl:lamoille-2,vt-lower-lamoille-2
 ocd-division/country:us/state:vt/sldl:lamoille-3,vt-lower-lamoille-3
@@ -109,7 +109,7 @@ ocd-division/country:us/state:vt/sldu:caledonia,vt-upper-caledonia
 ocd-division/country:us/state:vt/sldu:chittenden,vt-upper-chittenden
 ocd-division/country:us/state:vt/sldu:essex-orleans,vt-upper-essex-orleans
 ocd-division/country:us/state:vt/sldu:franklin,vt-upper-franklin
-ocd-division/country:us/state:vt/sldu:grand-isle-chittenden,vt-upper-grand-isle-chittenden
+ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,vt-upper-grand-isle-chittenden
 ocd-division/country:us/state:vt/sldu:lamoille,vt-upper-lamoille
 ocd-division/country:us/state:vt/sldu:orange,vt-upper-orange
 ocd-division/country:us/state:vt/sldu:rutland,vt-upper-rutland
