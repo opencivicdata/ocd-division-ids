@@ -158,3 +158,5 @@ ocd-division/country:us/state:ne/sldl:49,ocd-division/country:us/state:ne/sldu:4
 ocd-division/country:us/state:vt/place:essex/precinct:chittenden_8-2,ocd-division/country:us/state:vt/place:essex_junction,The Essex precinct of Chittenden 8-2 is the same as the Village of Essex Junction
 ocd-division/country:us/state:vt/place:springfield/precinct:windsor_3-1,ocd-division/country:us/state:vt/place:springfield,Do not believe this precinct exists because there is one polling place and no mention of precincts on clerk's website
 ocd-division/country:us/state:vt/place:springfield/precinct:windsor_3-2,ocd-division/country:us/state:vt/place:springfield,Do not believe this precinct exists because there is one polling place and no mention of precincts on clerk's website
+ocd-division/country:us/territory:pr/sldu:at-large,ocd-division/country:us/territory:pr,At-large district in PR
+ocd-division/country:us/territory:pr/sldl:at-large,ocd-division/country:us/territory:pr,At-large district in PR
