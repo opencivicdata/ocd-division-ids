@@ -1,10 +1,13 @@
-ocd-division/country:us/state:vt/place:colchester/precinct:chittenden_9-1,Colchester VT - precinct Chittenden 9-1
-ocd-division/country:us/state:vt/place:colchester/precinct:chittenden_9-2,Colchester VT - precinct Chittenden 9-2
-ocd-division/country:us/state:vt/place:essex/precinct:chittenden_8-1,Essex VT - precinct Chittenden 8-1
-ocd-division/country:us/state:vt/place:essex/precinct:chittenden_8-3,Essex VT - precinct Chittenden 8-3
-ocd-division/country:us/state:vt/place:milton/precinct:chittenden_10,Milton VT - precinct Chittenden 10
-ocd-division/country:us/state:vt/place:milton/precinct:grand_isle-chittenden,Milton VT - precinct Grand Isle-Chittenden
-ocd-division/country:us/state:vt/place:south_burlington/precinct:chittenden_7-1,South Burlington VT - precinct Chittenden 7-1
-ocd-division/country:us/state:vt/place:south_burlington/precinct:chittenden_7-2,South Burlington VT - precinct Chittenden 7-2
-ocd-division/country:us/state:vt/place:south_burlington/precinct:chittenden_7-3,South Burlington VT - precinct Chittenden 7-3
-ocd-division/country:us/state:vt/place:south_burlington/precinct:chittenden_7-4,South Burlington VT - precinct Chittenden 7-4
+id,name,validThrough
+ocd-division/country:us/state:vt/place:colchester/precinct:chittenden_9-1,Colchester VT - precinct Chittenden 9-1,
+ocd-division/country:us/state:vt/place:colchester/precinct:chittenden_9-2,Colchester VT - precinct Chittenden 9-2,
+ocd-division/country:us/state:vt/place:essex/precinct:chittenden_8-1,Essex VT - precinct Chittenden 8-1,
+ocd-division/country:us/state:vt/place:essex/precinct:chittenden_8-3,Essex VT - precinct Chittenden 8-3,
+ocd-division/country:us/state:vt/place:milton/precinct:chittenden_10,Milton VT - precinct Chittenden 10,
+ocd-division/country:us/state:vt/place:milton/precinct:grand_isle-chittenden,Milton VT - precinct Grand Isle-Chittenden,
+ocd-division/country:us/state:vt/place:south_burlington/precinct:chittenden_7-1,South Burlington VT - precinct Chittenden 7-1,
+ocd-division/country:us/state:vt/place:south_burlington/precinct:chittenden_7-2,South Burlington VT - precinct Chittenden 7-2,
+ocd-division/country:us/state:vt/place:south_burlington/precinct:chittenden_7-3,South Burlington VT - precinct Chittenden 7-3,
+ocd-division/country:us/state:vt/place:south_burlington/precinct:chittenden_7-4,South Burlington VT - precinct Chittenden 7-4,
+ocd-division/country:us/state:vt/place:north_westminster,North Westminster disincorporated but may be in election statistics,2010-04-20
+ocd-division/country:us/state:vt/place:cabot_village,Cabot Village disincorporated but may be in election statistics,2010-12-31
