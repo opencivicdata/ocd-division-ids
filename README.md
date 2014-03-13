@@ -4,44 +4,46 @@ The goal of this project is to assign somewhat predictable and globally unique i
 
 ## Definitions
 
-* **Division** - A political geography such as a state, county, or congressional district, which may have multiple `boundaries` over its lifetime.  Types of divisions include:
-   * Governmental Jurisdiction - A division that a government has jurisdiction over.  (e.g. North Carolina)
-   * Political District - A division that elects a representative to a legislature.  (e.g. North Carolina Congressional District 4)
-   * Service Zone - An area to which a government provides a service.  (e.g. Washington DC Police District 105)
+* **Division** - A political geography such as a state, county, or congressional district, which may have multiple **boundaries** over its lifetime.  Types of divisions include, among others:
+   * Governmental jurisdiction - A division that a government has jurisdiction over.  (e.g. North Carolina)
+   * Political district - A division that elects a representative to a legislature.  (e.g. North Carolina Congressional District 4)
+   * Service zone - An area to which a government provides a service.  (e.g. Washington DC Police District 105)
 * **Boundary** - An geographical boundary, defined by a shapefile or a sequence of address ranges.  (e.g. NC Congressional District 10 for the 113th Congress)
 
-This document describes an identifier scheme for assigning globally unique identifiers to divisions.  It does not describe any scheme for boundaries.
+This document describes an identifier scheme for assigning globally unique identifiers to divisions.  It does *not* describe any scheme for boundaries.
 
 ## Identifier scheme
 
-IDs respect the format `ocd-division/country:<country_code>[/<type>:<type_id>]+`
+Identifiers respect the format `ocd-division/country:<country_code>[/<type>:<type_id>]+`
 
 * **country_code** - An [ISO-3166-1 alpha-2 code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
 * **type** - The type of boundary.  (e.g. `country`, `state`, `town`, `city`, `cd`, `sldl`, `sldu`)
   * Valid characters are lowercase ASCII letters.
   * Use existing types where possible.
-* **type_id** - An identifier that is locally unique to this level.
+* **type_id** - An identifier that is locally unique to its scope.
   * Valid characters are lowercase UTF-8 letters, numerals (0-9), period (.), hyphen (-), underscore (\_), and tilde (~).  These characters match the unreserved characters in a URI [RFC 3986 section 2.3](http://www.rfc-editor.org/rfc/rfc3986.txt).
-  * Characters should be converted to UTF-8.
-  * Uppercase characters should be converted to lowercase.
-  * Spaces should be converted to underscores.
-  * All invalid characters should be converted to tildes (~).
+  * Characters must be converted to UTF-8.
+  * Uppercase characters must be converted to lowercase.
+  * Spaces must be converted to underscores.
+  * All invalid characters must be converted to tildes (~).
   * Leading zeros should be removed unless doing so changes the meaning of the identifier.
 
 ## Assignment
 
-* An ID should not attempt to capture the full hierarchy of the division, but enough to be uniquely identify it.  (e.g. if there are school districts at the county and city level, county and city are important disambiguators and should be included in the identifier)
-* Whenever possible, all divisions of the same type should be defined at the same time; for example, all state divisions should be defined at once.  Similarly, all cities in North Carolina should be defined at once, to avoid adopting a scheme that produces collisions.
-* If a set of commonly accepted identifiers for a type already exists (such as postal code abbreviations for US states) it should be used.  Numeric IDs (such as county FIPS codes) should not be used if textual names are clear and unambiguous, but may be appended to help resolve ambiguities on a per-case basis.
-* Judgement should be used to not to grow the set of types unnecessarily.  A list of existing types should be published and new ids making use of an undefined type_id should be appropriately justified.
-    * For example: It is recommended that separate types are not created for 'town', 'city', 'village' unless the parent jurisdiction has clear-cut differences between these types that are useful.  In the United States this is not the case so the Census-recommended term 'place' is used instead.
+* An identifier should not attempt to capture the full hierarchy of the division, but enough to be uniquely identify it.  (e.g. If there are school districts at the county and city level, county and city are important disambiguators and should be included in the identifier)
+* If possible, all divisions of the same type should be defined at the same time; for example, all state divisions should be defined at once.  Similarly, all cities in North Carolina should be defined at once, to avoid adopting a scheme that produces collisions.
+* When selecting a `type_id`, preference should be given to existing, common identifiers, like postal abbreviations for US states.  Numeric identifiers (such as US county FIPS codes) should be avoided if textual names are clear and unambiguous; however, numeric identifiers may be appended to disambiguate a `type_id`.
+* The set of types within each country should not grow unnecessarily.  Each country maintainer should publish a list of types for easy reference.  The addition of a new type must be justified.
+    * For example: In the US, there are no clear-cut differences between cities, towns, villages, etc. Therefore, the Census-recommended term `place` is used as the type of cities, etc.
 
 ## Repository layout
 
-* The `identifiers` directory:
-  * A single CSV file per country, in the format `country-<country_code>.csv`.  The URLs of these files are stable.
+* The `identifiers` directory contains CSV files assigning all OCD identifiers:
+  * A single CSV file per country, in the format `country-<country_code>.csv`.
+    * The URLs of these files are stable.
   * An optional directory per country, in the format `country-<country_code>`:
-    * A file hierarchy, in which CSV files describe parts of the top-level country CSV file.  The URLs of these files are *not* stable.
+    * A file hierarchy, in which CSV files describe parts of the top-level country CSV file.
+      * The URLs of these files are *not* stable.
 * The `corrections` directory contains CSV files that map incorrect OCD identifiers to correct OCD identifiers.  Common errors include missing diacritics, differences in hyphenation and word order, use of Roman numerals, etc.
 
 ## CSV file format
@@ -54,11 +56,11 @@ IDs respect the format `ocd-division/country:<country_code>[/<type>:<type_id>]+`
 * If a CSV file has a header row, the first column name must be `id`.
 * Column names with special meaning are:
   * **name** - The name of the division.
-  * **sameAs** - An OCD identifier which identifies the same division as this identifier.  The row corresponding to the identifier in this column should have a blank value in its `sameAs` column, i.e. there should be no daisy-chaining or circular references.
+  * **sameAs** - An OCD identifier which identifies the same division as this identifier.  The row corresponding to the identifier in this column must have a blank value in its `sameAs` column, i.e. there must be no daisy-chaining or circular references.
   * **sameAsNote** - A note describing how or why the division has multiple identifiers.
   * **validThrough** - The date on which the division is no longer valid, in the format `YYYY`, `YYYY-MM` or `YYYY-MM-DD`.  A division may become invalid if, for example, a political district is abolished.
 * Reserved column names are:
-  * **validFrom** - THe date on which a division becomes valid, in the format `YYYY`, `YYYY-MM` or `YYYY-MM-DD`.  A division may become valid if, for example, a political district is created.
+  * **validFrom** - The date on which a division becomes valid, in the format `YYYY`, `YYYY-MM` or `YYYY-MM-DD`.  A division may become valid if, for example, a political district is created.
 * There are no restrictions on other columns.
 * An effort should be made to use descriptive CSV filenames.
 
@@ -73,6 +75,10 @@ IDs respect the format `ocd-division/country:<country_code>[/<type>:<type_id>]+`
 
 * All OCD identifiers are first-class.  However, if it is necessary for a system for choose a "primary" or "preferred" identifier for a division, it should use those identifiers with an empty `sameAs` column.
 * The `sameAs` relationship is symmetric and transitive.  The `sameAs` relationship is not true for all time; it is only true in the present.
+
+## Governance
+
+This project has an informal governance structure, led by the project's early contributors and informed by the [Open Civic Data Google Group](https://groups.google.com/forum/#!forum/open-civic-data).  Responsibility for a country's identifiers may be assigned to organizations.
 
 ## Examples
 
