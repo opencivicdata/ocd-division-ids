@@ -377,11 +377,7 @@ class MunicipalSubdivision < Runner
 
     census_subdivisions_on.each do |identifier,_|
       # Not sure if all these have people whose only role is Regional Councillor.
-      if identifier
-        puts "#{identifier},Mayor,Councillor,Regional Councillor"
-      else
-        raise fingerprint
-      end
+      puts "#{identifier},Mayor,Councillor,Regional Councillor"
     end
   end
 
@@ -489,10 +485,16 @@ private
           identifier, _ = CensusDivisionNameTypeMatcher.identifier_and_name(fingerprint)
         end
 
-        fingerprint = CensusDivisionNameMatcher.fingerprint("on", row.xpath(".//td[3]").text.strip)
-        census_division_identifier, _ = CensusDivisionNameMatcher.identifier_and_name(fingerprint)
+        census_division_fingerprint = CensusDivisionNameMatcher.fingerprint("on", row.xpath(".//td[3]").text.strip)
+        census_division_identifier, _ = CensusDivisionNameMatcher.identifier_and_name(census_division_fingerprint)
 
-        blocks[identifier] = census_division_identifier
+        if identifier && census_division_identifier
+          blocks[identifier] = census_division_identifier
+        elsif identifier
+          raise census_division_fingerprint
+        else
+          raise fingerprint
+        end
       end
     end
 
