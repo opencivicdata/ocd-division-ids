@@ -25,8 +25,13 @@ class MunicipalSubdivision < Runner
       :output_path => "identifiers/country-ca/ca_municipal_subdivisions-has_children.csv",
     })
     add_command({
+      :name        => "parent-id",
+      :description => "Prints a CSV of identifiers and parent division",
+      :output_path => "identifiers/country-ca/ca_municipal_subdivisions-parent_id.csv",
+    })
+    add_command({
       :name        => "styles",
-      :description => "Prints a CSV fo identifiers and styles of address",
+      :description => "Prints a CSV of identifiers and styles of address",
     })
   end
 
@@ -41,7 +46,7 @@ class MunicipalSubdivision < Runner
 
       subsubdivision, census_subdivision, province_or_territory = domain.match(/\A(?:([^,]+), )?([^,]+), (NL|PE|NS|NB|QC|ON|MB|SK|AB|BC|YT|NT|NU)\z/)[1..3]
 
-      # Ignore municipal subsubdivisions. Montréal subdivisions are handled by another script.
+      # Ignore subsubdivisions. Montréal subdivisions are handled by another script.
       unless subsubdivision || census_subdivision == "Montréal"
         matches = census_subdivisions.fetch(province_or_territory.downcase).fetch(census_subdivision)
 
@@ -66,6 +71,14 @@ class MunicipalSubdivision < Runner
           identifier(boundary),
           boundary["name"])
       }
+    end
+  end
+
+  def parent_id
+    puts CSV.generate_line(%w(id parent_id))
+
+    census_subdivisions_on.each do |identifier,block|
+      output("csd:", identifier[/[^:]+\z/], block)
     end
   end
 
@@ -362,53 +375,12 @@ class MunicipalSubdivision < Runner
       end
     end
 
-    type_map = type_map("on")
-
-    Nokogiri::HTML(open('http://www.mah.gov.on.ca/Page1591.aspx').read).xpath('//table[1]//tr[position()>1]').each do |row|
-      text = row.xpath(".//td[1]").text.strip.normalize_space
-      if row.xpath(".//td[2]").text.strip == "Lower Tier"
-        text_map = {
-          "Grand Valley, Town of"             => ["East Luther Grand Valley", "Township"],
-          "Markham, City of"                  => ["Markham", "Town"],
-          "Middlesex Centre, Municipality of" => ["Middlesex Centre", "Township"],
-          "Selwyn, Township of"               => ["Smith-Ennismore-Lakefield", "Township"],
-          "South Dundas, Municipality of"     => ["South Dundas", "Township"],
-          "Trent Lakes, Municipality of"      => ["Galway-Cavendish and Harvey", "Township"],
-        }
-
-        if text_map.key?(text)
-          name, type_name = text_map[text]
-        elsif ["Haldimand County", "Norfolk County"].include?(text)
-          name = text
-          type_name = "City"
-        elsif text[","]
-          name, type_name = text.match(/\A(.+), (.+) of\z/)[1..2]
-        else
-          name, type_name = text.match(/\A(.+) (Municipality)\z/)[1..2]
-        end
-
-        type = type_map["cd"][type_name] || type_map["csd"][type_name] || raise("Unrecognized type name: #{type_name}")
-
-        if name == "Dysart, Dudley, Harcourt, Guilford, Harburn, Bruton, Havelock, Eyre and Clyde"
-          name = "Dysart and Others"
-        end
-        if name == "The Nation"
-          type = "M" # not MU
-        end
-
-        fingerprint = ["on", type, CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
-        identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
-        unless identifier
-          fingerprint = ["on", type, CensusDivisionName.new(name).normalize.fingerprint] * ":"
-          identifier, _ = CensusDivisionNameTypeMatcher.identifier_and_name(fingerprint)
-        end
-
-        # Not sure if all these have people whose only role is Regional Councillor.
-        if identifier
-          puts "#{identifier},Mayor,Councillor,Regional Councillor"
-        else
-          raise fingerprint
-        end
+    census_subdivisions_on.each do |identifier,_|
+      # Not sure if all these have people whose only role is Regional Councillor.
+      if identifier
+        puts "#{identifier},Mayor,Councillor,Regional Councillor"
+      else
+        raise fingerprint
       end
     end
   end
@@ -424,7 +396,7 @@ private
   end
 
   def type_map(province_or_territory = nil)
-    @type_map ||= {}.tap do |hash|
+    {}.tap do |hash|
       indexes = {
         "nl" => 2,
         "pe" => 3,
@@ -470,6 +442,61 @@ private
         hash[key][name] << {:id => type_id, :type => classification}
       end
     end
+  end
+
+  def census_subdivisions_on
+    blocks = {}
+
+    type_map = type_map("on")
+
+    Nokogiri::HTML(open('http://www.mah.gov.on.ca/Page1591.aspx').read).xpath('//table[1]//tr[position()>1]').each do |row|
+      text = row.xpath(".//td[1]").text.strip.normalize_space
+      if row.xpath(".//td[2]").text.strip == "Lower Tier"
+        text_map = {
+          "Grand Valley, Town of"             => ["East Luther Grand Valley", "Township"],
+          "Markham, City of"                  => ["Markham", "Town"],
+          "Middlesex Centre, Municipality of" => ["Middlesex Centre", "Township"],
+          "Selwyn, Township of"               => ["Smith-Ennismore-Lakefield", "Township"],
+          "South Dundas, Municipality of"     => ["South Dundas", "Township"],
+          "Trent Lakes, Municipality of"      => ["Galway-Cavendish and Harvey", "Township"],
+        }
+
+        if ["Haldimand County", "Norfolk County"].include?(text)
+          name = text
+          type_name = "City"
+        elsif text_map.key?(text)
+          name, type_name = text_map[text]
+        elsif text[","]
+          name, type_name = text.match(/\A(.+), (.+) of\z/)[1..2]
+        else
+          name, type_name = text.match(/\A(.+) (Municipality)\z/)[1..2]
+        end
+
+        type = type_map["cd"][type_name] || type_map["csd"][type_name] || raise("Unrecognized type name: '#{type_name}'")
+
+        if name == "Dysart, Dudley, Harcourt, Guilford, Harburn, Bruton, Havelock, Eyre and Clyde"
+          name = "Dysart and Others"
+        end
+        if name == "The Nation"
+          type = "M" # not MU
+        end
+
+        fingerprint = ["on", type, CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
+        identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
+
+        unless identifier
+          fingerprint = ["on", type, CensusDivisionName.new(name).normalize.fingerprint] * ":"
+          identifier, _ = CensusDivisionNameTypeMatcher.identifier_and_name(fingerprint)
+        end
+
+        fingerprint = CensusDivisionNameMatcher.fingerprint("on", row.xpath(".//td[3]").text.strip)
+        census_division_identifier, _ = CensusDivisionNameMatcher.identifier_and_name(fingerprint)
+
+        blocks[identifier] = census_division_identifier
+      end
+    end
+
+    blocks
   end
 
   def census_subdivisions_sk

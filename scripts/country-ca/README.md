@@ -31,6 +31,7 @@
 * `name_fr`: French names
 * `number`: Numeric local identifiers
 * `organization_name`: Municipal corporation names
+* `parent_id`: Upper tier municipality OCD-ID
 * `posts_count`: Number of posts in the municipal corporation
 * `sgc`: Standard Geographical Classification (SGC) codes
 * `url`: Official website URLs
@@ -74,6 +75,7 @@ The Standard Geographical Classification is an official publication of Statistic
 * [scrapers-ca-ruby](https://github.com/opennorth/scrapers-ca-ruby/blob/master/ca_qc_montreal/posts.rb)
   * `number`: To map numeric borough identifiers to names
 * [scrapers-ca](https://github.com/opencivicdata/scrapers-ca/blob/master/tasks.py)
+  * `parent_id`: To determine the administrative subdivisions of Census divisions
   * `classification`: To determine an appropriate jurisdiction name
   * `sgc`: To retrieve an identifier from an SGC code
   * `url`: To provide a URL for the jurisdiction
