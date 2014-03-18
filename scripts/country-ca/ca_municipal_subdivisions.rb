@@ -30,6 +30,11 @@ class MunicipalSubdivision < Runner
       :output_path => "identifiers/country-ca/ca_municipal_subdivisions-parent_id.csv",
     })
     add_command({
+      :name        => "data-catalog",
+      :description => "Prints a CSV of identifiers and data catalog URLs",
+      :output_path => "identifiers/country-ca/ca_municipal_subdivisions-data_catalog.csv",
+    })
+    add_command({
       :name        => "styles",
       :description => "Prints a CSV of identifiers and styles of address",
     })
@@ -82,6 +87,77 @@ class MunicipalSubdivision < Runner
     end
   end
 
+  def data_catalog
+    puts CSV.generate_line(%w(id data_catalog))
+
+    provinces_and_territories = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories").to_h.invert
+    provinces_and_territories_name_fr = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories-name_fr").to_h.invert
+
+    JSON.load(Faraday.post("http://www.datacatalogs.org/api/action/package_list", "{}").body)["result"].each do |id|
+      result = JSON.load(Faraday.post("http://www.datacatalogs.org/api/action/package_show", JSON.dump(:id => id)).body)["result"]
+      if result["groups"].find{|group| group["id"] == "9cb34fd8-cfb6-40f2-a104-b3eba7336cce"}
+        next if [
+          "British Columbia Local Government Open Data Catalogue",
+          "Winnipeg, Manitoba 2010 Election",
+        ].include?(result["title"])
+
+        identifier = nil
+        result["title"].sub!(' (DataBC)', '')
+        match = result["title"].match(/\A(.+), (.+)\z/)
+        if match
+          name, province_or_territory = match[1..2]
+          if provinces_and_territories.key?(province_or_territory)
+            province_or_territory_type_id = provinces_and_territories.fetch(province_or_territory)[/[^:]+\z/]
+          elsif provinces_and_territories_name_fr.key?(province_or_territory)
+            province_or_territory_type_id = provinces_and_territories_name_fr.fetch(province_or_territory)[/[^:]+\z/]
+          else
+            raise "Unrecognized province or territory name: #{province_or_territory}"
+          end
+
+          if name.match(/\ARegion(?:al District)? of (.+)\z/)
+            fingerprint = CensusDivisionNameMatcher.fingerprint(province_or_territory_type_id, $1)
+            identifier, _ = CensusDivisionNameMatcher.identifier_and_name(fingerprint)
+          else
+            type = nil
+
+            case name
+            when "District of North Vancouver"
+              name = "North Vancouver"
+              type = "DM"
+            when "Township of Langley"
+              name = "Langley"
+              type = "DM"
+            when "Hamilton"
+              type = "CY"
+            end
+
+            if type
+              fingerprint = [province_or_territory_type_id, type, CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
+              identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
+            else
+              fingerprint = CensusSubdivisionNameMatcher.fingerprint(province_or_territory_type_id, name)
+              identifier, _ = CensusSubdivisionNameMatcher.identifier_and_name(fingerprint)
+            end
+          end
+        elsif provinces_and_territories[result["title"]]
+          identifier = provinces_and_territories[result["title"]]
+        elsif provinces_and_territories_name_fr[result["title"]]
+          identifier = provinces_and_territories_name_fr[result["title"]]
+        elsif result["title"] == "Canada"
+          identifier = "ocd-division/country:ca"
+        else
+          raise "Unrecognized data catalog name: #{result["title"]}"
+        end
+
+        if identifier
+          output(nil, identifier, result["url"])
+        else
+          raise fingerprint
+        end
+      end
+    end
+  end
+
   # Asked:
   # * FCM contact form (2014-02-18 can also try info@fcm.ca)
   # 2014-02-20 JShiu@amo.on.ca "I believe we do not have a report that lists this type of information."
@@ -125,9 +201,7 @@ class MunicipalSubdivision < Runner
             identifier, _ = CensusDivisionNameMatcher.identifier_and_name(fingerprint)
           end
 
-          type_id = identifier[/[^:]+\z/]
-          fragment = type_id.size == 4 ? "cd:" : "csd:"
-          output(fragment, type_id.to_i, row[1])
+          output(nil, identifier, row[1])
         end
       end
     end
@@ -143,12 +217,12 @@ class MunicipalSubdivision < Runner
 
   # Asked:
   # * enquiry@mpac.ca (2014-02-10, 2014-02-13 called to clarify my data request)
-  # * ontario.municipal.board@ontario.ca (2014-02-10)
   # * FCM contact form (2014-02-18 can also try info@fcm.ca)
   # 2014-02-11 amo@amo.on.ca "After reviewing our election data we found that we have not been tracking election results by wards so are unable to compile a list of municipalities that have wards."
   # 2014-02-18 amcto@amcto.com "we are unable to provide individual responses from municipalities as a means to respect the confidentiality of their responses"
   # 2014-02-11 mininfo.mah@ontario.ca "We regret to inform you that we do not have the information you requested."
   # 2014-02-24 info@elections.on.ca "Elections Ontario does not have that information to provide."
+  # 2014-03-17 ontario.municipal.board@ontario.ca "The Board does not have such a list. The OMB is an adjudicative tribunal that deals with appeals and applications."
   # @see http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_01m25_e.htm#BK238
   # @see http://m.mpac.ca/about/corporate_overview/department.asp
   # @see https://www.omb.gov.on.ca/stellent/groups/public/@abcs/@www/@omb/documents/webasset/ec082186.pdf
@@ -226,7 +300,7 @@ class MunicipalSubdivision < Runner
       end
     end
 
-    Nokogiri::HTML(open("http://www.electionsquebec.qc.ca/francais/municipal/carte-electorale/liste-des-municipalites-divisees-en-districts-electoraux.php?index=1")).xpath('//div[@class="indente zone-contenu"]/div[@class="boite-grise"]//text()').each do |node|
+    Nokogiri::HTML(open("http://www.electionsquebec.qc.ca/francais/municipal/carte-electorale/liste-des-municipalites-divisees-en-districts-electoraux.php?index=1")).xpath("//div[@class='indente zone-contenu']/div[@class='boite-grise']//text()").each do |node|
       text = node.text.strip
       unless text.empty? || text == ", V"
         if boroughs.include?(text)
@@ -302,24 +376,21 @@ class MunicipalSubdivision < Runner
     puts CSV.generate_line(%w(id has_children))
 
     OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").each do |identifier,name,name_fr,classification|
-      type_id = identifier[/[^:]+\z/]
-      fragment = type_id.size == 4 ? "cd:" : "csd:"
-      if type_id[0, 2] == "12"
-        output(fragment, type_id.to_i, subdivisions[identifier])
+      if identifier[/[^:]+\z/][0, 2] == "12"
+        output(nil, identifier, subdivisions[identifier])
       end
     end
 
     OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,name,name_fr,classification,organization_name|
       type_id = identifier[/[^:]+\z/]
-      fragment = type_id.size == 4 ? "cd:" : "csd:"
       if %w(IRI NO S-É SNO).include?(classification)
-        output(fragment, type_id.to_i, "N")
+        output(nil, identifier, "N")
       else
         case type_id[0, 2]
         when "12", "24"
-          output(fragment, type_id.to_i, subdivisions[identifier])
+          output(nil, identifier, subdivisions[identifier])
         when "47"
-          output(fragment, type_id.to_i, subdivisions[identifier])
+          output(nil, identifier, subdivisions[identifier])
         # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
         when "48"
           value = case classification
@@ -338,9 +409,9 @@ class MunicipalSubdivision < Runner
           else
             raise "Unrecognized census subdivision type: #{classification}"
           end
-          output(fragment, type_id.to_i, value)
+          output(nil, identifier, value)
         when "59"
-          output(fragment, type_id.to_i, "N")
+          output(nil, identifier, "N")
         end
       end
     end
@@ -445,7 +516,7 @@ private
 
     type_map = type_map("on")
 
-    Nokogiri::HTML(open('http://www.mah.gov.on.ca/Page1591.aspx').read).xpath('//table[1]//tr[position()>1]').each do |row|
+    Nokogiri::HTML(open("http://www.mah.gov.on.ca/Page1591.aspx").read).xpath("//table[1]//tr[position()>1]").each do |row|
       text = row.xpath(".//td[1]").text.strip.normalize_space
       if row.xpath(".//td[2]").text.strip == "Lower Tier"
         text_map = {
