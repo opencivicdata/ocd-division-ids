@@ -83,7 +83,7 @@ class MunicipalSubdivision < Runner
     puts CSV.generate_line(%w(id parent_id))
 
     census_subdivisions_on.each do |identifier,block|
-      output("csd:", identifier[/[^:]+\z/], block)
+      output(nil, identifier, block)
     end
   end
 
