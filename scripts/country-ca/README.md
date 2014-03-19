@@ -27,6 +27,7 @@
 * `abbreviation`: English Census or local abbreviations
 * `abbreviation_fr`: French Census or local abbreviations
 * `classification`: Census subdivision types
+* `data_catalog`: Official data catalog URL
 * `has_children`: Whether the division has children
 * `name_fr`: French names
 * `number`: Numeric local identifiers
