@@ -208,7 +208,7 @@ class Processor(object):
                     if id in self.ids:
                         continue
                     self.ids.add(id)
-                    self.csvfile.writerow(dict(id=id, name=name+suffix, census_geoid=row['GEOID'],
+                    self.csvfile.writerow(dict(id=id, name=name+suffix, census_geoid=geoid,
                                                **extra))
                 except Skip:
                     pass
