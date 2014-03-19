@@ -244,7 +244,7 @@ class CDProcessor(Processor):
         district = _ordinal(int(district))
         name = "{}'s {} congressional district".format(state, district)
 
-        return id, name, row['GEOID']
+        return id, name, 'cd-' + row['GEOID']
 
 
 class SLDProcessor(Processor):
@@ -352,7 +352,7 @@ class SLDProcessor(Processor):
         else:
             id = make_id(parent_id, **{self.district_type:district})
 
-        return id, name, row['GEOID']
+        return id, name, '-'.join((self.district_type, row['GEOID']))
 
 
 class SLDUProcessor(SLDProcessor):
@@ -453,7 +453,7 @@ def process_types(types):
 
     # write ids out
     for id, row in sorted(ids.items()):
-        csvfile.writerow({'id': id, 'name': row['NAME'], 'census_geoid': row['GEOID']})
+        csvfile.writerow({'id': id, 'name': row['NAME'], 'census_geoid': 'place-' + row['GEOID']})
 
     print(' | '.join('{}: {}'.format(k,v) for k,v in funcstat_count.most_common()))
     print(' | '.join('{}: {}'.format(k,v) for k,v in type_count.most_common()))
