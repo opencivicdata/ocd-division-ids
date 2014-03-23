@@ -10,6 +10,7 @@ require "ostruct"
 
 require "dbf"
 require "faraday"
+require "mechanize"
 require "nokogiri"
 require "unicode_utils/downcase"
 require "zip/zip"
