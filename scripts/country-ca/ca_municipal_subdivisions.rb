@@ -655,7 +655,7 @@ private
       f
     end
 
-    header_re = /^\f?(?:CITIES|NORTHERN TOWNS, VILLAGES, HAMLETS, AND SETTLEMENTS|ORGANIZED AND RESORT HAMLETS|RURAL MUNICIPALITIES|TOWNS, VILLAGES AND RESORT VILLAGES|UNKNOWN)\n/
+    header_re = /^\f?(?:CITIES|NORTHERN TOWNS, VILLAGES, HAMLETS, AND SETTLEMENTS|ORGANIZED AND RESORT HAMLETS|RURAL MUNICIPALITIES|TOWNS, VILLAGES AND RESORT VILLAGES|UNKNOWN)/
     footer_re = /^                                       *Page \d+ of 230/
     pages = []
     page = []
@@ -687,7 +687,7 @@ private
       index = maximum_line_length
       page.each do |line|
         # Skip new lines and address lines.
-        next if line == "\n" || line[/^                ?\S/]
+        next if line == "" || line[/^                ?\S/]
 
         match = line.match(column_divider_re, 46) # True indices first appear at 46.
         if match
