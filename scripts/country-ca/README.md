@@ -4,6 +4,10 @@
 
     ./scripts/country-ca/run-all.sh
 
+To check URLs:
+
+    ruby scripts/country-ca/check-urls.rb
+
 ## Identifiers and mappings
 
 ### Types
