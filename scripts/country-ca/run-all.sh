@@ -31,6 +31,8 @@ $DIR/ca_regions.rb                     names-fr > $DIR/../../identifiers/country
 
 $DIR/ca_municipal_subdivisions.rb      posts-count > $DIR/../../identifiers/country-ca/ca_municipal_subdivisions-posts_count.csv
 $DIR/ca_municipal_subdivisions.rb      has-children > $DIR/../../identifiers/country-ca/ca_municipal_subdivisions-has_children.csv
+$DIR/ca_municipal_subdivisions.rb      parent-id > $DIR/../../identifiers/country-ca/ca_municipal_subdivisions-parent_id.csv
+$DIR/ca_municipal_subdivisions.rb      data-catalog > $DIR/../../identifiers/country-ca/ca_municipal_subdivisions-data_catalog.csv
 
 $DIR/ca_qc_montreal_boroughs.rb urls   > $DIR/../../identifiers/country-ca/census_subdivision-montreal-boroughs-url.csv
 $DIR/ca_census_subdivision_urls.rb     > $DIR/../../identifiers/country-ca/ca_census_subdivisions-url.csv # slow
