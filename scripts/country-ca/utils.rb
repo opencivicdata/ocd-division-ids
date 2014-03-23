@@ -39,43 +39,46 @@ def census_subdivision_type_names
   end
 end
 
+# @param [String] identifier a locally unique identifier
+def clean_identifier(identifier)
+  # Avoid frozen strings.
+  identifier = identifier.to_s.dup
+
+  # Remove extra whitespace.
+  identifier = identifier.normalize_space.strip
+
+  # Convert double dash to m-dash.
+  identifier.gsub!("--", "—")
+
+  # "Uppercase characters should be converted to lowercase."
+  identifier = UnicodeUtils.downcase(identifier)
+
+  # "Spaces should be converted to underscores."
+  identifier.gsub!(/\p{Space}/, "_")
+
+  # "All invalid characters should be converted to tilde (~)."
+  identifier.gsub!(/[^\p{Ll}\d._~-]/, "~")
+
+  # "Leading zeros should be dropped unless doing so changes the meaning of the identifier."
+  identifier.sub!(/\A0+/, "")
+
+  identifier
+end
+
 # Outputs a CSV line with the OCD identifier and associated data.
 #
 # @param [String] fragment an identifier fragment
-# @param [String] identifier the locally unique identifier
+# @param [String] identifier a locally unique identifier
 # @param [Array<String>] data the data to associate to the identifier
 # @see https://github.com/opencivicdata/ocd-division-ids#id-format
 def output(fragment, identifier, *data)
   if fragment
     prefix = "ocd-division/country:ca/#{fragment}"
-
-    # Avoid frozen strings.
-    identifier = identifier.to_s.dup
-
-    # Convert double dash to m-dash.
-    identifier.gsub!("--", "—")
-
-    # Remove extra whitespace.
-    identifier = identifier.to_s.normalize_space.strip
-
-    # "Uppercase characters should be converted to lowercase."
-    identifier = UnicodeUtils.downcase(identifier)
-
-    # "Spaces should be converted to underscores."
-    identifier.gsub!(/\p{Space}/, "_")
-
-    # "All invalid characters should be converted to tilde (~)."
-    identifier.gsub!(/[^\p{Ll}\d._~-]/, "~")
-
-    # "Leading zeros should be dropped unless doing so changes the meaning of the identifier."
-    identifier.sub!(/\A0+/, "")
-
-    identifier = prefix + identifier
+    identifier = prefix + clean_identifier(identifier)
   end
 
   # Convert double dash to m-dash.
   data = data.map(&:to_s).map(&:strip).map{|content| content.gsub("--", "—")}
-
   puts CSV.generate_line([identifier] + data)
 end
 

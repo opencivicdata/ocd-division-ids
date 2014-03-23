@@ -78,20 +78,27 @@ class CensusPlaceNames < Runner
       text += column2
     end
 
+    seen = {}
     buffer = []
     text.each do |line|
       row = buffer.empty? ? line : "#{buffer.join(" ")} #{line}"
       # Don't swallow "C" into the census subdivision type.
       match = row.match(/^(.+?(?:part C|partie C|Subd. C)?)(?: +(C|CC|CG|CN|COM|CT|CU|CV|CY|DM|HAM|ID|IGD|IM|IRI|LGD|LOT|M|MD|MÉ|MU|NH|NL|NO|NV|P|PE|RCR|RDA|RG|RGM|RM|RV|S-É|SA|SC|SÉ|SET|SG|SM|SNO|SV|T|TC|TI|TK|TL|TP|TV|V|VC|VK|VL|VN))? +(\d\d) +(\d\d) +(\d\d\d) +\d\d\d$/)
       if match
-        name = match[1].gsub("’", "'").gsub(/(?<=\S-) /, '').squeeze(" ")
+        fragment = "csd:#{match[3..5].join}/place:"
+        # Remove accidental spaces from multiline names.
+        name = match[1].gsub("’", "'").gsub(/(?<=\S-) /, "").squeeze(" ")
         # Skip census subdivisions and electoral districts.
         unless match[2] || name[/District électoral(?: d[eu']| de l[a']| des| municipal de)?$/]
           # @see http://www4.rncan.gc.ca/search-place-names/name.php
           if name[/^(.+?), (Aux|L[ae']|Les|The|Ferme expérimentale|Fort|Parc(?: industriel(?: métropolitain)?)?(?: d[eu]| des)?|Quartier|Secteur|Station de recherche(?: des)?|Station expérimentale de la|(?:County|Municipal District|Regional District|Specialized Municipality|United Counties|Village) of)$/]
             name = "#{$2} #{$1}"
           end
-          output("csd:#{match[3..5].join}/place:", name, name)
+          key = fragment + clean_identifier(name)
+          # Skip alternative names.
+          unless seen.key?(key)
+            seen[key] = output(fragment, name, name)
+          end
         end
         buffer = []
       elsif buffer.size < 2
