@@ -7,6 +7,7 @@ mkdir -p $DIR/../../identifiers/country-ca
 
 $DIR/ca_census_divisions.rb            names > $DIR/../../identifiers/country-ca/ca_census_divisions.csv
 $DIR/ca_census_subdivisions.rb         names > $DIR/../../identifiers/country-ca/ca_census_subdivisions.csv
+$DIR/ca_census_place_names.rb          names > $DIR/../../identifiers/country-ca/ca_census_place_names.csv
 $DIR/ca_federal_electoral_districts.rb names > $DIR/../../identifiers/country-ca/ca_federal_electoral_districts.csv
 $DIR/ca_municipal_subdivisions.rb      names > $DIR/../../identifiers/country-ca/ca_municipal_subdivisions.csv
 $DIR/ca_provinces_and_territories.rb   names > $DIR/../../identifiers/country-ca/ca_provinces_and_territories.csv
