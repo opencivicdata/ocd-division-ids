@@ -4,9 +4,11 @@ require "rubygems"
 require "bundler/setup"
 
 require "csv"
+require "json"
 require "open-uri"
 require "optparse"
 require "ostruct"
+require "tempfile"
 
 require "dbf"
 require "faraday"

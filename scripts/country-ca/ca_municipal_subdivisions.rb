@@ -7,9 +7,6 @@ require File.expand_path(File.join("..", "classes.rb"), __FILE__)
 # Scrapes municipal subdivision names from represent.opennorth.ca
 # Municipalities may correspond to census divisions or census subdivisions.
 
-require "json"
-require "tempfile"
-
 class MunicipalSubdivision < Runner
   def initialize(*args)
     super

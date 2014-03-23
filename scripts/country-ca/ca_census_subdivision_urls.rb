@@ -4,8 +4,6 @@
 require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 require File.expand_path(File.join("..", "classes.rb"), __FILE__)
 
-require "faraday"
-
 MUNICIPAL_ASSOCIATIONS = [
   "Alberta Association of Municipal Districts and Counties",
   "Alberta Urban Municipalities Association",
