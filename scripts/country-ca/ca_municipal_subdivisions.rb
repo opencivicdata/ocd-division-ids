@@ -210,51 +210,6 @@ class MunicipalSubdivision < Runner
     #     "24#{row["id_ville"]}",
     #     JSON.load(open("http://donnees.electionsmunicipales.gouv.qc.ca/#{row["id_ville"]}.json"))["ville"]["postes"].size)
     # end
-
-    OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,name,name_fr,classification,organization_name|
-      type_id = identifier[/[^:]+\z/]
-      case type_id[0, 2]
-      # @see http://www.electionspei.ca/municipal/wards/
-      # @see http://www.electionspei.ca/index.php?number=1046804&lang=E
-      when "11"
-        if [
-          '1102075', # Charlottetown
-          '1102080', # Stratford
-          '1103025', # Summerside
-        ].include?(type_id)
-          output(nil, identifier, "Y")
-        else
-          output(nil, identifier, "N")
-        end
-      # @see http://geonb.snb.ca/ArcGIS/rest/services/ElectionsNB/GeoNB_ENB_MunicipalWards/MapServer
-      when "13"
-        if [
-          '1301006', # Saint John
-          '1302004', # Campobello Island
-          '1303012', # Oromocto
-          '1306020', # Riverview
-          '1307005', # Beaubassin East
-          '1307013', # Memramcook
-          '1307022', # Moncton
-          '1307045', # Dieppe
-          '1309027', # Upper Miramichi
-          '1310032', # Fredericton
-          '1311027', # Florenceville-Bristol
-          '1312019', # Grand Falls
-          '1313002', # Saint-André
-          '1313027', # Edmundston
-          '1314019', # Kedgwick
-          '1314025', # Belledune
-          '1315015', # Beresford
-          '1315027', # Bas-Caraquet
-          '1315028', # Caraquet
-        ].include?(type_id)
-          output(nil, identifier, "Y")
-        else
-          output(nil, identifier, "N")
-        end
-      end
-    end
   end
 
   # Asked:
@@ -429,6 +384,46 @@ class MunicipalSubdivision < Runner
         output(nil, identifier, "N")
       else
         case type_id[0, 2]
+        # 2014-03-24 jgrichard@electionspei.ca
+        # @see http://www.electionspei.ca/municipal/wards/
+        # @see http://www.electionspei.ca/index.php?number=1046804&lang=E
+        when "11"
+          if [
+            '1102075', # Charlottetown
+            '1102080', # Stratford
+            '1103025', # Summerside
+          ].include?(type_id)
+            output(nil, identifier, "Y")
+          else
+            output(nil, identifier, "N")
+          end
+        # @see http://geonb.snb.ca/ArcGIS/rest/services/ElectionsNB/GeoNB_ENB_MunicipalWards/MapServer
+        when "13"
+          if [
+            '1301006', # Saint John
+            '1302004', # Campobello Island
+            '1303012', # Oromocto
+            '1306020', # Riverview
+            '1307005', # Beaubassin East
+            '1307013', # Memramcook
+            '1307022', # Moncton
+            '1307045', # Dieppe
+            '1309027', # Upper Miramichi
+            '1310032', # Fredericton
+            '1311027', # Florenceville-Bristol
+            '1312019', # Grand Falls
+            '1313002', # Saint-André
+            '1313027', # Edmundston
+            '1314019', # Kedgwick
+            '1314025', # Belledune
+            '1315015', # Beresford
+            '1315027', # Bas-Caraquet
+            '1315028', # Caraquet
+          ].include?(type_id)
+            output(nil, identifier, "Y")
+          else
+            output(nil, identifier, "N")
+          end
         when "12", "24"
           output(nil, identifier, subdivisions[identifier])
         when "47"
