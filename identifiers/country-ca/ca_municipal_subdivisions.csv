@@ -69,12 +69,6 @@ ocd-division/country:ca/csd:1310032/ward:9,Odell Park/Parkside Drive
 ocd-division/country:ca/csd:1310032/ward:10,Sunshine Gardens/West End
 ocd-division/country:ca/csd:1310032/ward:11,UNB/East End
 ocd-division/country:ca/csd:1310032/ward:12,Silverwood/Garden Creek
-ocd-division/country:ca/csd:2423027/borough:1,La Cité-Limoilou
-ocd-division/country:ca/csd:2423027/borough:2,Les Rivières
-ocd-division/country:ca/csd:2423027/borough:3,Sainte-Foy—Sillery—Cap-Rouge
-ocd-division/country:ca/csd:2423027/borough:4,Charlesbourg
-ocd-division/country:ca/csd:2423027/borough:5,Beauport
-ocd-division/country:ca/csd:2423027/borough:6,La Haute-Saint-Charles
 ocd-division/country:ca/csd:2423027/district:1,Cap-aux-Diamants
 ocd-division/country:ca/csd:2423027/district:2,Montcalm—Saint-Sacrement
 ocd-division/country:ca/csd:2423027/district:3,Saint-Roch—Saint-Sauveur
@@ -96,6 +90,12 @@ ocd-division/country:ca/csd:2423027/district:18,Robert-Giffard
 ocd-division/country:ca/csd:2423027/district:19,Lac-Saint-Charles—Saint-Émile
 ocd-division/country:ca/csd:2423027/district:20,Loretteville-Les Châtels
 ocd-division/country:ca/csd:2423027/district:21,Val-Bélair
+ocd-division/country:ca/csd:2423027/borough:1,La Cité-Limoilou
+ocd-division/country:ca/csd:2423027/borough:2,Les Rivières
+ocd-division/country:ca/csd:2423027/borough:3,Sainte-Foy—Sillery—Cap-Rouge
+ocd-division/country:ca/csd:2423027/borough:4,Charlesbourg
+ocd-division/country:ca/csd:2423027/borough:5,Beauport
+ocd-division/country:ca/csd:2423027/borough:6,La Haute-Saint-Charles
 ocd-division/country:ca/csd:2425213/district:1,Saint-Étienne
 ocd-division/country:ca/csd:2425213/district:2,Saint-Nicolas
 ocd-division/country:ca/csd:2425213/district:3,Vilieu
@@ -111,12 +111,12 @@ ocd-division/country:ca/csd:2425213/district:12,Christ-Roy
 ocd-division/country:ca/csd:2425213/district:13,Bienville
 ocd-division/country:ca/csd:2425213/district:14,Lauzon
 ocd-division/country:ca/csd:2425213/district:15,Pintendre
-ocd-division/country:ca/csd:2443027/borough:1,Arrondissement de Brompton
-ocd-division/country:ca/csd:2443027/borough:2,Arrondissement de Fleurimont
-ocd-division/country:ca/csd:2443027/borough:3,Arrondissement de Lennoxville
-ocd-division/country:ca/csd:2443027/borough:4,Arrondissement du Mont-Bellevue
-ocd-division/country:ca/csd:2443027/borough:5,Arrondissement de Rock ForestSaint-ÉlieDeauville
-ocd-division/country:ca/csd:2443027/borough:6,Arrondissement de Jacques-Cartier
+ocd-division/country:ca/csd:2443027/borough:1,Brompton
+ocd-division/country:ca/csd:2443027/borough:2,Fleurimont
+ocd-division/country:ca/csd:2443027/borough:3,Lennoxville
+ocd-division/country:ca/csd:2443027/borough:4,Mont-Bellevue
+ocd-division/country:ca/csd:2443027/borough:5,Rock Forest—Saint-Élie—Deauville
+ocd-division/country:ca/csd:2443027/borough:6,Jacques-Cartier
 ocd-division/country:ca/csd:2443027/district:11,de Beauvoir
 ocd-division/country:ca/csd:2443027/district:12,des Moulins
 ocd-division/country:ca/csd:2443027/district:21,du Pin-Solitaire
@@ -175,6 +175,30 @@ ocd-division/country:ca/csd:2458227/district:12,Vieux-Saint-Hubert-la Savane
 ocd-division/country:ca/csd:2458227/district:13,Parc-de-la-Cité
 ocd-division/country:ca/csd:2458227/district:14,Iberville
 ocd-division/country:ca/csd:2458227/district:15,Maraîchers
+ocd-division/country:ca/csd:2459020/district:1,District 1
+ocd-division/country:ca/csd:2459020/district:2,District 2
+ocd-division/country:ca/csd:2459020/district:3,District 3
+ocd-division/country:ca/csd:2459020/district:4,District 4
+ocd-division/country:ca/csd:2459020/district:5,District 5
+ocd-division/country:ca/csd:2459020/district:6,District 6
+ocd-division/country:ca/csd:2459020/district:7,District 7
+ocd-division/country:ca/csd:2459020/district:8,District 8
+ocd-division/country:ca/csd:2464008/district:1,District 1
+ocd-division/country:ca/csd:2464008/district:2,District 2
+ocd-division/country:ca/csd:2464008/district:3,District 3
+ocd-division/country:ca/csd:2464008/district:4,District 4
+ocd-division/country:ca/csd:2464008/district:5,District 5
+ocd-division/country:ca/csd:2464008/district:6,District 6
+ocd-division/country:ca/csd:2464008/district:7,District 7
+ocd-division/country:ca/csd:2464008/district:8,District 8
+ocd-division/country:ca/csd:2464008/district:9,District 9
+ocd-division/country:ca/csd:2464008/district:10,District 10
+ocd-division/country:ca/csd:2464008/district:11,District 11
+ocd-division/country:ca/csd:2464008/district:12,District 12
+ocd-division/country:ca/csd:2464008/district:13,District 13
+ocd-division/country:ca/csd:2464008/district:14,District 14
+ocd-division/country:ca/csd:2464008/district:15,District 15
+ocd-division/country:ca/csd:2464008/district:16,District 16
 ocd-division/country:ca/csd:2466007/district:1,District 1
 ocd-division/country:ca/csd:2466007/district:2,District 2
 ocd-division/country:ca/csd:2466007/district:3,District 3
