@@ -38,7 +38,7 @@ private
 
       # "Saint Boniface" is inconsistent with other district names in Manitoba,
       # "Charleswood–St. James–Assiniboia" and "Kildonan–St. Paul".
-      output("ed:", identifier, tds[1].children[0].text.normalize_space)
+      output("ed:", identifier, tds[1].children[0].text.normalize_space.gsub("–", "—")) # n-dash, m-dash
     end
   end
 end
