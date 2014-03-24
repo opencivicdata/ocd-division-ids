@@ -362,6 +362,7 @@ class MunicipalSubdivision < Runner
       "4815033", # Jasper
       "4819012", # Grande Prairie
     ]
+    # These two lists are a complete list of all cities in Alberta.
     alberta_cities_with_subdivisions = [
       "4806016", # Calgary
       "4811052", # Strathcona County
