@@ -55,7 +55,7 @@ class MunicipalSubdivision < Runner
         census_subdivision_id = if matches.size == 1
           matches[0][:id]
         else # there are two L'Ange Gardien (MÉ)
-          matches.find{|match| %w(C CY MÉ RCR T V TV).include?(match[:type]) || match[:id] == '2482005'}[:id]
+          matches.find{|match| %w(C CY MÉ RCR T V TV).include?(match[:type]) || match[:id] == "2482005"}[:id]
         end
 
         items << [census_subdivision_id, boundary_set]
@@ -99,7 +99,7 @@ class MunicipalSubdivision < Runner
         ].include?(result["title"])
 
         identifier = nil
-        result["title"].sub!(' (DataBC)', '')
+        result["title"].sub!(" (DataBC)", "")
         match = result["title"].match(/\A(.+), (.+)\z/)
         if match
           name, province_or_territory = match[1..2]
@@ -311,7 +311,9 @@ class MunicipalSubdivision < Runner
 
         if identifier
           subdivisions[identifier] = "Y"
-        elsif text != "L'Ange-Gardien, M" # two census subdivisions match
+        elsif text == "L'Ange-Gardien, M" # two subdivisions match
+          subdivisions["2482005"] = "Y"
+        else
           raise fingerprint
         end
       end
@@ -382,7 +384,11 @@ class MunicipalSubdivision < Runner
     OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,name,name_fr,classification,organization_name|
       type_id = identifier[/[^:]+\z/]
       if %w(IRI NO S-É SNO).include?(classification)
-        output(nil, identifier, "N")
+        if type_id == "2472802" # Kanesatake has subdivisions.
+          output(nil, identifier, "Y")
+        else
+          output(nil, identifier, "N")
+        end
       else
         case type_id[0, 2]
         # 2014-03-24 jgrichard@electionspei.ca
@@ -390,9 +396,9 @@ class MunicipalSubdivision < Runner
         # @see http://www.electionspei.ca/index.php?number=1046804&lang=E
         when "11"
           if [
-            '1102075', # Charlottetown
-            '1102080', # Stratford
-            '1103025', # Summerside
+            "1102075", # Charlottetown
+            "1102080", # Stratford
+            "1103025", # Summerside
           ].include?(type_id)
             output(nil, identifier, "Y")
           else
@@ -401,25 +407,25 @@ class MunicipalSubdivision < Runner
         # @see http://geonb.snb.ca/ArcGIS/rest/services/ElectionsNB/GeoNB_ENB_MunicipalWards/MapServer
         when "13"
           if [
-            '1301006', # Saint John
-            '1302004', # Campobello Island
-            '1303012', # Oromocto
-            '1306020', # Riverview
-            '1307005', # Beaubassin East
-            '1307013', # Memramcook
-            '1307022', # Moncton
-            '1307045', # Dieppe
-            '1309027', # Upper Miramichi
-            '1310032', # Fredericton
-            '1311027', # Florenceville-Bristol
-            '1312019', # Grand Falls
-            '1313002', # Saint-André
-            '1313027', # Edmundston
-            '1314019', # Kedgwick
-            '1314025', # Belledune
-            '1315015', # Beresford
-            '1315027', # Bas-Caraquet
-            '1315028', # Caraquet
+            "1301006", # Saint John
+            "1302004", # Campobello Island
+            "1303012", # Oromocto
+            "1306020", # Riverview
+            "1307005", # Beaubassin East
+            "1307013", # Memramcook
+            "1307022", # Moncton
+            "1307045", # Dieppe
+            "1309027", # Upper Miramichi
+            "1310032", # Fredericton
+            "1311027", # Florenceville-Bristol
+            "1312019", # Grand Falls
+            "1313002", # Saint-André
+            "1313027", # Edmundston
+            "1314019", # Kedgwick
+            "1314025", # Belledune
+            "1315015", # Beresford
+            "1315027", # Bas-Caraquet
+            "1315028", # Caraquet
           ].include?(type_id)
             output(nil, identifier, "Y")
           else
