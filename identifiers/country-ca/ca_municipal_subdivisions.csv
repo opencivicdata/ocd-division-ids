@@ -528,6 +528,12 @@ ocd-division/country:ca/csd:2432040/district:3,District 3
 ocd-division/country:ca/csd:2432040/district:4,District 4
 ocd-division/country:ca/csd:2432040/district:5,District 5
 ocd-division/country:ca/csd:2432040/district:6,District 6
+ocd-division/country:ca/csd:2432040/district:1,District 1
+ocd-division/country:ca/csd:2432040/district:2,District 2
+ocd-division/country:ca/csd:2432040/district:3,District 3
+ocd-division/country:ca/csd:2432040/district:4,District 4
+ocd-division/country:ca/csd:2432040/district:5,District 5
+ocd-division/country:ca/csd:2432040/district:6,District 6
 ocd-division/country:ca/csd:2432065/district:1,District 1
 ocd-division/country:ca/csd:2432065/district:2,District 2
 ocd-division/country:ca/csd:2432065/district:3,District 3
@@ -662,6 +668,12 @@ ocd-division/country:ca/csd:2442110/district:3,District 3
 ocd-division/country:ca/csd:2442110/district:4,District 4
 ocd-division/country:ca/csd:2442110/district:5,District 5
 ocd-division/country:ca/csd:2442110/district:6,District 6
+ocd-division/country:ca/csd:2443027/borough:1,Brompton
+ocd-division/country:ca/csd:2443027/borough:2,Fleurimont
+ocd-division/country:ca/csd:2443027/borough:3,Lennoxville
+ocd-division/country:ca/csd:2443027/borough:4,Mont-Bellevue
+ocd-division/country:ca/csd:2443027/borough:5,Rock Forest—Saint-Élie—Deauville
+ocd-division/country:ca/csd:2443027/borough:6,Jacques-Cartier
 ocd-division/country:ca/csd:2443027/district:11,de Beauvoir
 ocd-division/country:ca/csd:2443027/district:12,des Moulins
 ocd-division/country:ca/csd:2443027/district:21,du Pin-Solitaire
@@ -683,12 +695,6 @@ ocd-division/country:ca/csd:2443027/district:61,de Beckett
 ocd-division/country:ca/csd:2443027/district:62,du Domaine-Howard
 ocd-division/country:ca/csd:2443027/district:63,de Montcalm
 ocd-division/country:ca/csd:2443027/district:64,du Carrefour
-ocd-division/country:ca/csd:2443027/borough:1,Brompton
-ocd-division/country:ca/csd:2443027/borough:2,Fleurimont
-ocd-division/country:ca/csd:2443027/borough:3,Lennoxville
-ocd-division/country:ca/csd:2443027/borough:4,Mont-Bellevue
-ocd-division/country:ca/csd:2443027/borough:5,Rock Forest—Saint-Élie—Deauville
-ocd-division/country:ca/csd:2443027/borough:6,Jacques-Cartier
 ocd-division/country:ca/csd:2444071/district:1,District 1
 ocd-division/country:ca/csd:2444071/district:2,District 2
 ocd-division/country:ca/csd:2444071/district:3,District 3
@@ -1023,9 +1029,6 @@ ocd-division/country:ca/csd:2458037/district:5,District 5
 ocd-division/country:ca/csd:2458037/district:6,District 6
 ocd-division/country:ca/csd:2458037/district:7,District 7
 ocd-division/country:ca/csd:2458037/district:8,District 8
-ocd-division/country:ca/csd:2458227/borough:1,Le Vieux-Longueuil
-ocd-division/country:ca/csd:2458227/borough:2,Greenfield Park
-ocd-division/country:ca/csd:2458227/borough:3,Saint-Hubert
 ocd-division/country:ca/csd:2458227/district:1,Fatima-du Parcours-du-Cerf
 ocd-division/country:ca/csd:2458227/district:2,Boisé-Du Tremblay
 ocd-division/country:ca/csd:2458227/district:3,Parc-Michel-Chartrand
@@ -1041,6 +1044,9 @@ ocd-division/country:ca/csd:2458227/district:12,Vieux-Saint-Hubert-de la Savane
 ocd-division/country:ca/csd:2458227/district:13,Parc-de-la-Cité
 ocd-division/country:ca/csd:2458227/district:14,Iberville
 ocd-division/country:ca/csd:2458227/district:15,Maraîchers
+ocd-division/country:ca/csd:2458227/borough:1,Le Vieux-Longueuil
+ocd-division/country:ca/csd:2458227/borough:2,Greenfield Park
+ocd-division/country:ca/csd:2458227/borough:3,Saint-Hubert
 ocd-division/country:ca/csd:2459010/district:1,de la Belle-Rivière - Ringuet
 ocd-division/country:ca/csd:2459010/district:2,du Moulin
 ocd-division/country:ca/csd:2459010/district:3,de la Vallée
