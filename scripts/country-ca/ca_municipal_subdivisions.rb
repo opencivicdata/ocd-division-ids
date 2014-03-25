@@ -48,8 +48,8 @@ class MunicipalSubdivision < Runner
 
       subsubdivision, census_subdivision, province_or_territory = domain.match(/\A(?:([^,]+), )?([^,]+), (NL|PE|NS|NB|QC|ON|MB|SK|AB|BC|YT|NT|NU)\z/)[1..3]
 
-      # Ignore subsubdivisions. Montréal subdivisions are handled by another script.
-      unless subsubdivision || census_subdivision == "Montréal"
+      # Ignore boundary sets of boroughs.
+      unless subsubdivision
         matches = census_subdivisions.fetch(province_or_territory.downcase).fetch(census_subdivision)
 
         census_subdivision_id = if matches.size == 1
@@ -63,7 +63,9 @@ class MunicipalSubdivision < Runner
     end
 
     puts CSV.generate_line(%w(id name))
-    items.sort_by(&:first).each do |census_subdivision_id,boundary_set|
+    items.sort_by{|census_subdivision_id,boundary_set|
+      "#{census_subdivision_id}-#{boundary_set["name"].match(/ (borough|district|division|quartier|ward)s\z/)[1]}"
+    }.each do |census_subdivision_id,boundary_set|
       ocd_type = boundary_set["name"].match(/ (borough|district|division|quartier|ward)s\z/)[1]
 
       JSON.load(open("http://represent.opennorth.ca#{boundary_set["related"]["boundaries_url"]}?limit=0"))["objects"].sort_by{|boundary|
