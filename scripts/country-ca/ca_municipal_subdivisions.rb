@@ -54,8 +54,8 @@ class MunicipalSubdivision < Runner
 
         census_subdivision_id = if matches.size == 1
           matches[0][:id]
-        else
-          matches.find{|match| %w(C CY).include?(match[:type])}[:id]
+        else # there are two L'Ange Gardien (MÉ)
+          matches.find{|match| %w(C CY MÉ RCR T V TV).include?(match[:type]) || match[:id] == '2482005'}[:id]
         end
 
         items << [census_subdivision_id, boundary_set]
@@ -64,7 +64,7 @@ class MunicipalSubdivision < Runner
 
     puts CSV.generate_line(%w(id name))
     items.sort_by(&:first).each do |census_subdivision_id,boundary_set|
-      ocd_type = boundary_set["name"].match(/ (borough|district|division|ward)s\z/)[1]
+      ocd_type = boundary_set["name"].match(/ (borough|district|division|quartier|ward)s\z/)[1]
 
       JSON.load(open("http://represent.opennorth.ca#{boundary_set["related"]["boundaries_url"]}?limit=0"))["objects"].sort_by{|boundary|
         identifier(boundary)
