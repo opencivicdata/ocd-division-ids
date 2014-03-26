@@ -386,11 +386,7 @@ class MunicipalSubdivision < Runner
     OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,name,name_fr,classification,organization_name|
       type_id = identifier[/[^:]+\z/]
       if %w(IRI NO S-É SNO).include?(classification)
-        if type_id == "2472802" # Kanesatake has subdivisions.
-          output(nil, identifier, "Y")
-        else
-          output(nil, identifier, "N")
-        end
+        output(nil, identifier, "N")
       else
         case type_id[0, 2]
         # 2014-03-24 jgrichard@electionspei.ca
