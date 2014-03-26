@@ -488,17 +488,17 @@ ocd-division/country:ca/csd:1103057,St. Louis,St. Louis,COM,""
 ocd-division/country:ca/csd:1103058,Lot 1,Lot 1,LOT,""
 ocd-division/country:ca/csd:1103059,Tignish,Tignish,COM,""
 ocd-division/country:ca/csd:1103062,Miminegash,Miminegash,COM,""
-ocd-division/country:ca/csd:1201001,Barrington,Barrington,MD,Municipal district of Barrington
+ocd-division/country:ca/csd:1201001,Barrington,Barrington,MD,Municipality of Barrington
 ocd-division/country:ca/csd:1201004,Clark's Harbour,Clark's Harbour,T,Town of Clark's Harbour
-ocd-division/country:ca/csd:1201006,Shelburne,Shelburne,MD,Municipal district of Shelburne
+ocd-division/country:ca/csd:1201006,Shelburne,Shelburne,MD,Municipality of Shelburne
 ocd-division/country:ca/csd:1201008,Shelburne,Shelburne,T,Town of Shelburne
 ocd-division/country:ca/csd:1201009,Lockeport,Lockeport,T,Town of Lockeport
-ocd-division/country:ca/csd:1202001,Argyle,Argyle,MD,Municipal district of Argyle
-ocd-division/country:ca/csd:1202004,Yarmouth,Yarmouth,MD,Municipal district of Yarmouth
+ocd-division/country:ca/csd:1202001,Argyle,Argyle,MD,Municipality of Argyle
+ocd-division/country:ca/csd:1202004,Yarmouth,Yarmouth,MD,Municipality of Yarmouth
 ocd-division/country:ca/csd:1202006,Yarmouth,Yarmouth,T,Town of Yarmouth
 ocd-division/country:ca/csd:1202040,Yarmouth 33,Yarmouth 33,IRI,""
-ocd-division/country:ca/csd:1203001,Clare,Clare,MD,Municipal district of Clare
-ocd-division/country:ca/csd:1203004,Digby,Digby,MD,Municipal district of Digby
+ocd-division/country:ca/csd:1203001,Clare,Clare,MD,Municipality of Clare
+ocd-division/country:ca/csd:1203004,Digby,Digby,MD,Municipality of Digby
 ocd-division/country:ca/csd:1203006,Digby,Digby,T,Town of Digby
 ocd-division/country:ca/csd:1203009,Bear River 6,Bear River 6,IRI,""
 ocd-division/country:ca/csd:1204009,Ponhook Lake 10,Ponhook Lake 10,IRI,""
@@ -513,11 +513,11 @@ ocd-division/country:ca/csd:1205009,"Annapolis, Subd. B","Annapolis, Subd. B",SC
 ocd-division/country:ca/csd:1205012,Bridgetown,Bridgetown,T,Town of Bridgetown
 ocd-division/country:ca/csd:1205014,"Annapolis, Subd. C","Annapolis, Subd. C",SC,""
 ocd-division/country:ca/csd:1205016,Middleton,Middleton,T,Town of Middleton
-ocd-division/country:ca/csd:1206001,Lunenburg,Lunenburg,MD,Municipal district of Lunenburg
+ocd-division/country:ca/csd:1206001,Lunenburg,Lunenburg,MD,Municipality of Lunenburg
 ocd-division/country:ca/csd:1206004,Bridgewater,Bridgewater,T,Town of Bridgewater
 ocd-division/country:ca/csd:1206006,Lunenburg,Lunenburg,T,Town of Lunenburg
 ocd-division/country:ca/csd:1206008,Mahone Bay,Mahone Bay,T,Town of Mahone Bay
-ocd-division/country:ca/csd:1206009,Chester,Chester,MD,Municipal district of Chester
+ocd-division/country:ca/csd:1206009,Chester,Chester,MD,Municipality of Chester
 ocd-division/country:ca/csd:1206011,Gold River 21,Gold River 21,IRI,""
 ocd-division/country:ca/csd:1206014,Pennal 19,Pennal 19,IRI,""
 ocd-division/country:ca/csd:1206016,New Ross 20,New Ross 20,IRI,""
@@ -530,10 +530,10 @@ ocd-division/country:ca/csd:1207016,"Kings, Subd. B","Kings, Subd. B",SC,""
 ocd-division/country:ca/csd:1207021,"Kings, Subd. D","Kings, Subd. D",SC,""
 ocd-division/country:ca/csd:1207024,Wolfville,Wolfville,T,Town of Wolfville
 ocd-division/country:ca/csd:1207027,Glooscap 35,Glooscap 35,IRI,""
-ocd-division/country:ca/csd:1208001,West Hants,West Hants,MD,Municipal district of West Hants
+ocd-division/country:ca/csd:1208001,West Hants,West Hants,MD,Municipality of West Hants
 ocd-division/country:ca/csd:1208002,Windsor,Windsor,T,Town of Windsor
 ocd-division/country:ca/csd:1208004,Hantsport,Hantsport,T,Town of Hantsport
-ocd-division/country:ca/csd:1208008,East Hants,East Hants,MD,Municipal district of East Hants
+ocd-division/country:ca/csd:1208008,East Hants,East Hants,MD,Municipality of East Hants
 ocd-division/country:ca/csd:1208014,Indian Brook 14,Indian Brook 14,IRI,""
 ocd-division/country:ca/csd:1209019,Cole Harbour 30,Cole Harbour 30,IRI,""
 ocd-division/country:ca/csd:1209029,Shubenacadie 13,Shubenacadie 13,IRI,""
@@ -564,8 +564,8 @@ ocd-division/country:ca/csd:1212014,New Glasgow,New Glasgow,T,Town of New Glasgo
 ocd-division/country:ca/csd:1212016,Trenton,Trenton,T,Town of Trenton
 ocd-division/country:ca/csd:1212019,Fisher's Grant 24,Fisher's Grant 24,IRI,""
 ocd-division/country:ca/csd:1212023,Merigomish Harbour 31,Merigomish Harbour 31,IRI,""
-ocd-division/country:ca/csd:1213001,St. Mary's,St. Mary's,MD,Municipal district of St. Mary's
-ocd-division/country:ca/csd:1213004,Guysborough,Guysborough,MD,Municipal district of Guysborough
+ocd-division/country:ca/csd:1213001,St. Mary's,St. Mary's,MD,Municipality of St. Mary's
+ocd-division/country:ca/csd:1213004,Guysborough,Guysborough,MD,Municipality of Guysborough
 ocd-division/country:ca/csd:1213006,Canso,Canso,T,Town of Canso
 ocd-division/country:ca/csd:1213008,Mulgrave,Mulgrave,T,Town of Mulgrave
 ocd-division/country:ca/csd:1214001,"Antigonish, Subd. A","Antigonish, Subd. A",SC,""
@@ -3965,45 +3965,45 @@ ocd-division/country:ca/csd:4718847,Fond du Lac 231,Fond du Lac 231,IRI,""
 ocd-division/country:ca/csd:4718849,Little Hills 158B,Little Hills 158B,IRI,""
 ocd-division/country:ca/csd:4718852,Kimosom Pwatinahk 203 (Deschambault Lake),Kimosom Pwatinahk 203 (Deschambault Lake),IRI,""
 ocd-division/country:ca/csd:4718854,Kinoosao-Thomas Clark 204,Kinoosao-Thomas Clark 204,IRI,""
-ocd-division/country:ca/csd:4801003,Cypress County,Cypress County,MD,Municipal district of Cypress County
+ocd-division/country:ca/csd:4801003,Cypress County,Cypress County,MD,Municipality of Cypress County
 ocd-division/country:ca/csd:4801006,Medicine Hat,Medicine Hat,CY,City of Medicine Hat
-ocd-division/country:ca/csd:4801008,Forty Mile County No. 8,Forty Mile County No. 8,MD,Municipal district of Forty Mile County No. 8
+ocd-division/country:ca/csd:4801008,Forty Mile County No. 8,Forty Mile County No. 8,MD,Municipality of Forty Mile County No. 8
 ocd-division/country:ca/csd:4801009,Foremost,Foremost,VL,Village of Foremost
 ocd-division/country:ca/csd:4801014,Bow Island,Bow Island,T,Town of Bow Island
 ocd-division/country:ca/csd:4801018,Redcliff,Redcliff,T,Town of Redcliff
-ocd-division/country:ca/csd:4802001,Warner County No. 5,Warner County No. 5,MD,Municipal district of Warner County No. 5
+ocd-division/country:ca/csd:4802001,Warner County No. 5,Warner County No. 5,MD,Municipality of Warner County No. 5
 ocd-division/country:ca/csd:4802002,Coutts,Coutts,VL,Village of Coutts
 ocd-division/country:ca/csd:4802004,Milk River,Milk River,T,Town of Milk River
 ocd-division/country:ca/csd:4802006,Warner,Warner,VL,Village of Warner
 ocd-division/country:ca/csd:4802008,Raymond,Raymond,T,Town of Raymond
 ocd-division/country:ca/csd:4802009,Stirling,Stirling,VL,Village of Stirling
-ocd-division/country:ca/csd:4802011,Lethbridge County,Lethbridge County,MD,Municipal district of Lethbridge County
+ocd-division/country:ca/csd:4802011,Lethbridge County,Lethbridge County,MD,Municipality of Lethbridge County
 ocd-division/country:ca/csd:4802012,Lethbridge,Lethbridge,CY,City of Lethbridge
 ocd-division/country:ca/csd:4802013,Coalhurst,Coalhurst,T,Town of Coalhurst
 ocd-division/country:ca/csd:4802014,Nobleford,Nobleford,VL,Village of Nobleford
 ocd-division/country:ca/csd:4802016,Barons,Barons,VL,Village of Barons
 ocd-division/country:ca/csd:4802018,Picture Butte,Picture Butte,T,Town of Picture Butte
 ocd-division/country:ca/csd:4802019,Coaldale,Coaldale,T,Town of Coaldale
-ocd-division/country:ca/csd:4802021,Taber,Taber,MD,Municipal district of Taber
+ocd-division/country:ca/csd:4802021,Taber,Taber,MD,Municipality of Taber
 ocd-division/country:ca/csd:4802022,Taber,Taber,T,Town of Taber
 ocd-division/country:ca/csd:4802023,Barnwell,Barnwell,VL,Village of Barnwell
 ocd-division/country:ca/csd:4802029,Vauxhall,Vauxhall,T,Town of Vauxhall
-ocd-division/country:ca/csd:4802031,Newell County No. 4,Newell County No. 4,MD,Municipal district of Newell County No. 4
+ocd-division/country:ca/csd:4802031,Newell County No. 4,Newell County No. 4,MD,Municipality of Newell County No. 4
 ocd-division/country:ca/csd:4802032,Tilley,Tilley,VL,Village of Tilley
 ocd-division/country:ca/csd:4802034,Brooks,Brooks,CY,City of Brooks
 ocd-division/country:ca/csd:4802036,Duchess,Duchess,VL,Village of Duchess
 ocd-division/country:ca/csd:4802038,Rosemary,Rosemary,VL,Village of Rosemary
 ocd-division/country:ca/csd:4802039,Bassano,Bassano,T,Town of Bassano
-ocd-division/country:ca/csd:4803001,Cardston County,Cardston County,MD,Municipal district of Cardston County
+ocd-division/country:ca/csd:4803001,Cardston County,Cardston County,MD,Municipality of Cardston County
 ocd-division/country:ca/csd:4803002,Magrath,Magrath,T,Town of Magrath
 ocd-division/country:ca/csd:4803003,Improvement District No. 4 Waterton,Improvement District No. 4 Waterton,ID,""
 ocd-division/country:ca/csd:4803004,Cardston,Cardston,T,Town of Cardston
 ocd-division/country:ca/csd:4803006,Glenwood,Glenwood,VL,Village of Glenwood
 ocd-division/country:ca/csd:4803008,Hill Spring,Hill Spring,VL,Village of Hill Spring
-ocd-division/country:ca/csd:4803011,Pincher Creek No. 9,Pincher Creek No. 9,MD,Municipal district of Pincher Creek No. 9
+ocd-division/country:ca/csd:4803011,Pincher Creek No. 9,Pincher Creek No. 9,MD,Municipality of Pincher Creek No. 9
 ocd-division/country:ca/csd:4803014,Pincher Creek,Pincher Creek,T,Town of Pincher Creek
 ocd-division/country:ca/csd:4803016,Cowley,Cowley,VL,Village of Cowley
-ocd-division/country:ca/csd:4803018,Willow Creek No. 26,Willow Creek No. 26,MD,Municipal district of Willow Creek No. 26
+ocd-division/country:ca/csd:4803018,Willow Creek No. 26,Willow Creek No. 26,MD,Municipality of Willow Creek No. 26
 ocd-division/country:ca/csd:4803019,Fort Macleod,Fort Macleod,T,Town of Fort Macleod
 ocd-division/country:ca/csd:4803021,Granum,Granum,T,Town of Granum
 ocd-division/country:ca/csd:4803022,Claresholm,Claresholm,T,Town of Claresholm
@@ -4012,7 +4012,7 @@ ocd-division/country:ca/csd:4803026,Nanton,Nanton,T,Town of Nanton
 ocd-division/country:ca/csd:4803801,Piikani 147,Piikani 147,IRI,""
 ocd-division/country:ca/csd:4803802,Blood 148,Blood 148,IRI,""
 ocd-division/country:ca/csd:4803803,Blood 148A,Blood 148A,IRI,""
-ocd-division/country:ca/csd:4804001,Acadia No. 34,Acadia No. 34,MD,Municipal district of Acadia No. 34
+ocd-division/country:ca/csd:4804001,Acadia No. 34,Acadia No. 34,MD,Municipality of Acadia No. 34
 ocd-division/country:ca/csd:4804004,Special Area No. 2,Special Area No. 2,SA,""
 ocd-division/country:ca/csd:4804006,Empress,Empress,VL,Village of Empress
 ocd-division/country:ca/csd:4804011,Hanna,Hanna,T,Town of Hanna
@@ -4023,37 +4023,37 @@ ocd-division/country:ca/csd:4804019,Youngstown,Youngstown,VL,Village of Youngsto
 ocd-division/country:ca/csd:4804020,Special Area No. 4,Special Area No. 4,SA,""
 ocd-division/country:ca/csd:4804021,Veteran,Veteran,VL,Village of Veteran
 ocd-division/country:ca/csd:4804022,Consort,Consort,VL,Village of Consort
-ocd-division/country:ca/csd:4805001,Vulcan County,Vulcan County,MD,Municipal district of Vulcan County
+ocd-division/country:ca/csd:4805001,Vulcan County,Vulcan County,MD,Municipality of Vulcan County
 ocd-division/country:ca/csd:4805002,Carmangay,Carmangay,VL,Village of Carmangay
 ocd-division/country:ca/csd:4805004,Champion,Champion,VL,Village of Champion
 ocd-division/country:ca/csd:4805006,Vulcan,Vulcan,T,Town of Vulcan
 ocd-division/country:ca/csd:4805008,Lomond,Lomond,VL,Village of Lomond
 ocd-division/country:ca/csd:4805009,Milo,Milo,VL,Village of Milo
 ocd-division/country:ca/csd:4805011,Arrowwood,Arrowwood,VL,Village of Arrowwood
-ocd-division/country:ca/csd:4805012,Wheatland County,Wheatland County,MD,Municipal district of Wheatland County
+ocd-division/country:ca/csd:4805012,Wheatland County,Wheatland County,MD,Municipality of Wheatland County
 ocd-division/country:ca/csd:4805018,Strathmore,Strathmore,T,Town of Strathmore
 ocd-division/country:ca/csd:4805019,Hussar,Hussar,VL,Village of Hussar
 ocd-division/country:ca/csd:4805021,Standard,Standard,VL,Village of Standard
 ocd-division/country:ca/csd:4805022,Rockyford,Rockyford,VL,Village of Rockyford
 ocd-division/country:ca/csd:4805026,Drumheller,Drumheller,T,Town of Drumheller
-ocd-division/country:ca/csd:4805031,Starland County,Starland County,MD,Municipal district of Starland County
+ocd-division/country:ca/csd:4805031,Starland County,Starland County,MD,Municipality of Starland County
 ocd-division/country:ca/csd:4805034,Delia,Delia,VL,Village of Delia
 ocd-division/country:ca/csd:4805036,Munson,Munson,VL,Village of Munson
 ocd-division/country:ca/csd:4805038,Morrin,Morrin,VL,Village of Morrin
-ocd-division/country:ca/csd:4805041,Kneehill County,Kneehill County,MD,Municipal district of Kneehill County
+ocd-division/country:ca/csd:4805041,Kneehill County,Kneehill County,MD,Municipality of Kneehill County
 ocd-division/country:ca/csd:4805042,Carbon,Carbon,VL,Village of Carbon
 ocd-division/country:ca/csd:4805044,Acme,Acme,VL,Village of Acme
 ocd-division/country:ca/csd:4805046,Linden,Linden,VL,Village of Linden
 ocd-division/country:ca/csd:4805048,Three Hills,Three Hills,T,Town of Three Hills
 ocd-division/country:ca/csd:4805049,Trochu,Trochu,T,Town of Trochu
 ocd-division/country:ca/csd:4805802,Siksika 146,Siksika 146,IRI,""
-ocd-division/country:ca/csd:4806001,Foothills No. 31,Foothills No. 31,MD,Municipal district of Foothills No. 31
+ocd-division/country:ca/csd:4806001,Foothills No. 31,Foothills No. 31,MD,Municipality of Foothills No. 31
 ocd-division/country:ca/csd:4806006,High River,High River,T,Town of High River
 ocd-division/country:ca/csd:4806008,Longview,Longview,VL,Village of Longview
 ocd-division/country:ca/csd:4806009,Turner Valley,Turner Valley,T,Town of Turner Valley
 ocd-division/country:ca/csd:4806011,Black Diamond,Black Diamond,T,Town of Black Diamond
 ocd-division/country:ca/csd:4806012,Okotoks,Okotoks,T,Town of Okotoks
-ocd-division/country:ca/csd:4806014,Rocky View County,Rocky View County,MD,Municipal district of Rocky View County
+ocd-division/country:ca/csd:4806014,Rocky View County,Rocky View County,MD,Municipality of Rocky View County
 ocd-division/country:ca/csd:4806016,Calgary,Calgary,CY,City of Calgary
 ocd-division/country:ca/csd:4806017,Chestermere,Chestermere,T,Town of Chestermere
 ocd-division/country:ca/csd:4806019,Cochrane,Cochrane,T,Town of Cochrane
@@ -4061,7 +4061,7 @@ ocd-division/country:ca/csd:4806021,Airdrie,Airdrie,CY,City of Airdrie
 ocd-division/country:ca/csd:4806022,Irricana,Irricana,T,Town of Irricana
 ocd-division/country:ca/csd:4806024,Beiseker,Beiseker,VL,Village of Beiseker
 ocd-division/country:ca/csd:4806026,Crossfield,Crossfield,T,Town of Crossfield
-ocd-division/country:ca/csd:4806028,Mountain View County,Mountain View County,MD,Municipal district of Mountain View County
+ocd-division/country:ca/csd:4806028,Mountain View County,Mountain View County,MD,Municipality of Mountain View County
 ocd-division/country:ca/csd:4806029,Carstairs,Carstairs,T,Town of Carstairs
 ocd-division/country:ca/csd:4806031,Cremona,Cremona,VL,Village of Cremona
 ocd-division/country:ca/csd:4806032,Didsbury,Didsbury,T,Town of Didsbury
@@ -4069,16 +4069,16 @@ ocd-division/country:ca/csd:4806034,Olds,Olds,T,Town of Olds
 ocd-division/country:ca/csd:4806036,Sundre,Sundre,T,Town of Sundre
 ocd-division/country:ca/csd:4806803,Eden Valley 216,Eden Valley 216,IRI,""
 ocd-division/country:ca/csd:4806804,Tsuu T'ina Nation 145 (Sarcee 145),Tsuu T'ina Nation 145 (Sarcee 145),IRI,""
-ocd-division/country:ca/csd:4807001,Provost No. 52,Provost No. 52,MD,Municipal district of Provost No. 52
+ocd-division/country:ca/csd:4807001,Provost No. 52,Provost No. 52,MD,Municipality of Provost No. 52
 ocd-division/country:ca/csd:4807002,Provost,Provost,T,Town of Provost
 ocd-division/country:ca/csd:4807004,Czar,Czar,VL,Village of Czar
 ocd-division/country:ca/csd:4807006,Hughenden,Hughenden,VL,Village of Hughenden
 ocd-division/country:ca/csd:4807008,Amisk,Amisk,VL,Village of Amisk
-ocd-division/country:ca/csd:4807011,Paintearth County No. 18,Paintearth County No. 18,MD,Municipal district of Paintearth County No. 18
+ocd-division/country:ca/csd:4807011,Paintearth County No. 18,Paintearth County No. 18,MD,Municipality of Paintearth County No. 18
 ocd-division/country:ca/csd:4807012,Coronation,Coronation,T,Town of Coronation
 ocd-division/country:ca/csd:4807014,Castor,Castor,T,Town of Castor
 ocd-division/country:ca/csd:4807016,Halkirk,Halkirk,VL,Village of Halkirk
-ocd-division/country:ca/csd:4807019,Stettler County No. 6,Stettler County No. 6,MD,Municipal district of Stettler County No. 6
+ocd-division/country:ca/csd:4807019,Stettler County No. 6,Stettler County No. 6,MD,Municipality of Stettler County No. 6
 ocd-division/country:ca/csd:4807021,Big Valley,Big Valley,VL,Village of Big Valley
 ocd-division/country:ca/csd:4807022,Gadsby,Gadsby,VL,Village of Gadsby
 ocd-division/country:ca/csd:4807024,Botha,Botha,VL,Village of Botha
@@ -4086,7 +4086,7 @@ ocd-division/country:ca/csd:4807026,Stettler,Stettler,T,Town of Stettler
 ocd-division/country:ca/csd:4807027,White Sands,White Sands,SV,""
 ocd-division/country:ca/csd:4807028,Rochon Sands,Rochon Sands,SV,""
 ocd-division/country:ca/csd:4807029,Donalda,Donalda,VL,Village of Donalda
-ocd-division/country:ca/csd:4807031,Flagstaff County,Flagstaff County,MD,Municipal district of Flagstaff County
+ocd-division/country:ca/csd:4807031,Flagstaff County,Flagstaff County,MD,Municipality of Flagstaff County
 ocd-division/country:ca/csd:4807032,Alliance,Alliance,VL,Village of Alliance
 ocd-division/country:ca/csd:4807034,Galahad,Galahad,VL,Village of Galahad
 ocd-division/country:ca/csd:4807036,Forestburg,Forestburg,VL,Village of Forestburg
@@ -4097,12 +4097,12 @@ ocd-division/country:ca/csd:4807042,Killam,Killam,T,Town of Killam
 ocd-division/country:ca/csd:4807044,Sedgewick,Sedgewick,T,Town of Sedgewick
 ocd-division/country:ca/csd:4807046,Lougheed,Lougheed,VL,Village of Lougheed
 ocd-division/country:ca/csd:4807048,Hardisty,Hardisty,T,Town of Hardisty
-ocd-division/country:ca/csd:4807049,Wainwright No. 61,Wainwright No. 61,MD,Municipal district of Wainwright No. 61
+ocd-division/country:ca/csd:4807049,Wainwright No. 61,Wainwright No. 61,MD,Municipality of Wainwright No. 61
 ocd-division/country:ca/csd:4807051,Chauvin,Chauvin,VL,Village of Chauvin
 ocd-division/country:ca/csd:4807052,Edgerton,Edgerton,VL,Village of Edgerton
 ocd-division/country:ca/csd:4807054,Wainwright,Wainwright,T,Town of Wainwright
 ocd-division/country:ca/csd:4807056,Irma,Irma,VL,Village of Irma
-ocd-division/country:ca/csd:4808001,Red Deer County,Red Deer County,MD,Municipal district of Red Deer County
+ocd-division/country:ca/csd:4808001,Red Deer County,Red Deer County,MD,Municipality of Red Deer County
 ocd-division/country:ca/csd:4808002,Elnora,Elnora,VL,Village of Elnora
 ocd-division/country:ca/csd:4808004,Delburne,Delburne,VL,Village of Delburne
 ocd-division/country:ca/csd:4808005,Jarvis Bay,Jarvis Bay,SV,""
@@ -4112,7 +4112,7 @@ ocd-division/country:ca/csd:4808009,Penhold,Penhold,T,Town of Penhold
 ocd-division/country:ca/csd:4808011,Red Deer,Red Deer,CY,City of Red Deer
 ocd-division/country:ca/csd:4808012,Sylvan Lake,Sylvan Lake,T,Town of Sylvan Lake
 ocd-division/country:ca/csd:4808013,Norglenwold,Norglenwold,SV,""
-ocd-division/country:ca/csd:4808022,Lacombe County,Lacombe County,MD,Municipal district of Lacombe County
+ocd-division/country:ca/csd:4808022,Lacombe County,Lacombe County,MD,Municipality of Lacombe County
 ocd-division/country:ca/csd:4808023,Birchcliff,Birchcliff,SV,""
 ocd-division/country:ca/csd:4808024,Eckville,Eckville,T,Town of Eckville
 ocd-division/country:ca/csd:4808025,Half Moon Bay,Half Moon Bay,SV,""
@@ -4123,21 +4123,21 @@ ocd-division/country:ca/csd:4808029,Blackfalds,Blackfalds,T,Town of Blackfalds
 ocd-division/country:ca/csd:4808031,Lacombe,Lacombe,CY,City of Lacombe
 ocd-division/country:ca/csd:4808032,Clive,Clive,VL,Village of Clive
 ocd-division/country:ca/csd:4808034,Alix,Alix,VL,Village of Alix
-ocd-division/country:ca/csd:4808038,Ponoka County,Ponoka County,MD,Municipal district of Ponoka County
+ocd-division/country:ca/csd:4808038,Ponoka County,Ponoka County,MD,Municipality of Ponoka County
 ocd-division/country:ca/csd:4808039,Ponoka,Ponoka,T,Town of Ponoka
 ocd-division/country:ca/csd:4808042,Parkland Beach,Parkland Beach,SV,""
 ocd-division/country:ca/csd:4808044,Rimbey,Rimbey,T,Town of Rimbey
 ocd-division/country:ca/csd:4808811,Samson 137,Samson 137,IRI,""
 ocd-division/country:ca/csd:4808812,Samson 137A,Samson 137A,IRI,""
 ocd-division/country:ca/csd:4808813,Montana 139,Montana 139,IRI,""
-ocd-division/country:ca/csd:4809002,Clearwater County,Clearwater County,MD,Municipal district of Clearwater County
+ocd-division/country:ca/csd:4809002,Clearwater County,Clearwater County,MD,Municipality of Clearwater County
 ocd-division/country:ca/csd:4809005,Burnstick Lake,Burnstick Lake,SV,""
 ocd-division/country:ca/csd:4809010,Caroline,Caroline,VL,Village of Caroline
 ocd-division/country:ca/csd:4809015,Rocky Mountain House,Rocky Mountain House,T,Town of Rocky Mountain House
 ocd-division/country:ca/csd:4809806,O'Chiese 203,O'Chiese 203,IRI,""
 ocd-division/country:ca/csd:4809809,Sunchild 202,Sunchild 202,IRI,""
 ocd-division/country:ca/csd:4809810,Big Horn 144A,Big Horn 144A,IRI,""
-ocd-division/country:ca/csd:4810001,Camrose County,Camrose County,MD,Municipal district of Camrose County
+ocd-division/country:ca/csd:4810001,Camrose County,Camrose County,MD,Municipality of Camrose County
 ocd-division/country:ca/csd:4810002,Bashaw,Bashaw,T,Town of Bashaw
 ocd-division/country:ca/csd:4810003,Rosalind,Rosalind,VL,Village of Rosalind
 ocd-division/country:ca/csd:4810004,Ferintosh,Ferintosh,VL,Village of Ferintosh
@@ -4147,28 +4147,28 @@ ocd-division/country:ca/csd:4810009,Bawlf,Bawlf,VL,Village of Bawlf
 ocd-division/country:ca/csd:4810011,Camrose,Camrose,CY,City of Camrose
 ocd-division/country:ca/csd:4810012,Bittern Lake,Bittern Lake,VL,Village of Bittern Lake
 ocd-division/country:ca/csd:4810014,Hay Lakes,Hay Lakes,VL,Village of Hay Lakes
-ocd-division/country:ca/csd:4810016,Beaver County,Beaver County,MD,Municipal district of Beaver County
+ocd-division/country:ca/csd:4810016,Beaver County,Beaver County,MD,Municipality of Beaver County
 ocd-division/country:ca/csd:4810018,Tofield,Tofield,T,Town of Tofield
 ocd-division/country:ca/csd:4810019,Ryley,Ryley,VL,Village of Ryley
 ocd-division/country:ca/csd:4810021,Holden,Holden,VL,Village of Holden
 ocd-division/country:ca/csd:4810022,Viking,Viking,T,Town of Viking
-ocd-division/country:ca/csd:4810026,Minburn County No. 27,Minburn County No. 27,MD,Municipal district of Minburn County No. 27
+ocd-division/country:ca/csd:4810026,Minburn County No. 27,Minburn County No. 27,MD,Municipality of Minburn County No. 27
 ocd-division/country:ca/csd:4810028,Vegreville,Vegreville,T,Town of Vegreville
 ocd-division/country:ca/csd:4810031,Innisfree,Innisfree,VL,Village of Innisfree
 ocd-division/country:ca/csd:4810032,Minburn,Minburn,VL,Village of Minburn
 ocd-division/country:ca/csd:4810034,Mannville,Mannville,VL,Village of Mannville
-ocd-division/country:ca/csd:4810036,Vermilion River County,Vermilion River County,MD,Municipal district of Vermilion River County
+ocd-division/country:ca/csd:4810036,Vermilion River County,Vermilion River County,MD,Municipality of Vermilion River County
 ocd-division/country:ca/csd:4810038,Paradise Valley,Paradise Valley,VL,Village of Paradise Valley
 ocd-division/country:ca/csd:4810039,Lloydminster,Lloydminster,CY,City of Lloydminster
 ocd-division/country:ca/csd:4810041,Kitscoty,Kitscoty,VL,Village of Kitscoty
 ocd-division/country:ca/csd:4810042,Vermilion,Vermilion,T,Town of Vermilion
 ocd-division/country:ca/csd:4810044,Marwayne,Marwayne,VL,Village of Marwayne
 ocd-division/country:ca/csd:4810046,Dewberry,Dewberry,VL,Village of Dewberry
-ocd-division/country:ca/csd:4810048,Two Hills County No. 21,Two Hills County No. 21,MD,Municipal district of Two Hills County No. 21
+ocd-division/country:ca/csd:4810048,Two Hills County No. 21,Two Hills County No. 21,MD,Municipality of Two Hills County No. 21
 ocd-division/country:ca/csd:4810051,Myrnam,Myrnam,VL,Village of Myrnam
 ocd-division/country:ca/csd:4810052,Two Hills,Two Hills,T,Town of Two Hills
 ocd-division/country:ca/csd:4810056,Willingdon,Willingdon,VL,Village of Willingdon
-ocd-division/country:ca/csd:4810058,Lamont County,Lamont County,MD,Municipal district of Lamont County
+ocd-division/country:ca/csd:4810058,Lamont County,Lamont County,MD,Municipality of Lamont County
 ocd-division/country:ca/csd:4810059,Andrew,Andrew,VL,Village of Andrew
 ocd-division/country:ca/csd:4810061,Mundare,Mundare,T,Town of Mundare
 ocd-division/country:ca/csd:4810062,Chipman,Chipman,VL,Village of Chipman
@@ -4176,7 +4176,7 @@ ocd-division/country:ca/csd:4810064,Lamont,Lamont,T,Town of Lamont
 ocd-division/country:ca/csd:4810066,Bruderheim,Bruderheim,T,Town of Bruderheim
 ocd-division/country:ca/csd:4810068,Improvement District No. 13 Elk Island,Improvement District No. 13 Elk Island,ID,""
 ocd-division/country:ca/csd:4810805,Makaoo 120,Makaoo 120,IRI,""
-ocd-division/country:ca/csd:4811001,Wetaskiwin County No. 10,Wetaskiwin County No. 10,MD,Municipal district of Wetaskiwin County No. 10
+ocd-division/country:ca/csd:4811001,Wetaskiwin County No. 10,Wetaskiwin County No. 10,MD,Municipality of Wetaskiwin County No. 10
 ocd-division/country:ca/csd:4811002,Wetaskiwin,Wetaskiwin,CY,City of Wetaskiwin
 ocd-division/country:ca/csd:4811003,Argentia Beach,Argentia Beach,SV,""
 ocd-division/country:ca/csd:4811004,Grandview,Grandview,SV,""
@@ -4186,7 +4186,7 @@ ocd-division/country:ca/csd:4811007,Norris Beach,Norris Beach,SV,""
 ocd-division/country:ca/csd:4811008,Ma-Me-O Beach,Ma-Me-O Beach,SV,""
 ocd-division/country:ca/csd:4811009,Silver Beach,Silver Beach,SV,""
 ocd-division/country:ca/csd:4811011,Millet,Millet,T,Town of Millet
-ocd-division/country:ca/csd:4811012,Leduc County,Leduc County,MD,Municipal district of Leduc County
+ocd-division/country:ca/csd:4811012,Leduc County,Leduc County,MD,Municipality of Leduc County
 ocd-division/country:ca/csd:4811013,Beaumont,Beaumont,T,Town of Beaumont
 ocd-division/country:ca/csd:4811016,Leduc,Leduc,CY,City of Leduc
 ocd-division/country:ca/csd:4811018,Devon,Devon,T,Town of Devon
@@ -4198,8 +4198,8 @@ ocd-division/country:ca/csd:4811023,Golden Days,Golden Days,SV,""
 ocd-division/country:ca/csd:4811024,Warburg,Warburg,VL,Village of Warburg
 ocd-division/country:ca/csd:4811026,Breton,Breton,VL,Village of Breton
 ocd-division/country:ca/csd:4811031,Drayton Valley,Drayton Valley,T,Town of Drayton Valley
-ocd-division/country:ca/csd:4811032,Brazeau County,Brazeau County,MD,Municipal district of Brazeau County
-ocd-division/country:ca/csd:4811034,Parkland County,Parkland County,MD,Municipal district of Parkland County
+ocd-division/country:ca/csd:4811032,Brazeau County,Brazeau County,MD,Municipality of Brazeau County
+ocd-division/country:ca/csd:4811034,Parkland County,Parkland County,MD,Municipality of Parkland County
 ocd-division/country:ca/csd:4811038,Seba Beach,Seba Beach,SV,""
 ocd-division/country:ca/csd:4811039,Betula Beach,Betula Beach,SV,""
 ocd-division/country:ca/csd:4811041,Point Alison,Point Alison,SV,""
@@ -4211,7 +4211,7 @@ ocd-division/country:ca/csd:4811048,Stony Plain,Stony Plain,T,Town of Stony Plai
 ocd-division/country:ca/csd:4811049,Spruce Grove,Spruce Grove,CY,City of Spruce Grove
 ocd-division/country:ca/csd:4811052,Strathcona County,Strathcona County,SM,Strathcona County
 ocd-division/country:ca/csd:4811056,Fort Saskatchewan,Fort Saskatchewan,CY,City of Fort Saskatchewan
-ocd-division/country:ca/csd:4811059,Sturgeon County,Sturgeon County,MD,Municipal district of Sturgeon County
+ocd-division/country:ca/csd:4811059,Sturgeon County,Sturgeon County,MD,Municipality of Sturgeon County
 ocd-division/country:ca/csd:4811061,Edmonton,Edmonton,CY,City of Edmonton
 ocd-division/country:ca/csd:4811062,St. Albert,St. Albert,CY,City of St. Albert
 ocd-division/country:ca/csd:4811064,Gibbons,Gibbons,T,Town of Gibbons
@@ -4227,20 +4227,20 @@ ocd-division/country:ca/csd:4811805,Alexander 134,Alexander 134,IRI,""
 ocd-division/country:ca/csd:4811806,Wabamun 133A,Wabamun 133A,IRI,""
 ocd-division/country:ca/csd:4811807,Wabamun 133B,Wabamun 133B,IRI,""
 ocd-division/country:ca/csd:4812002,Cold Lake,Cold Lake,CY,City of Cold Lake
-ocd-division/country:ca/csd:4812004,Bonnyville No. 87,Bonnyville No. 87,MD,Municipal district of Bonnyville No. 87
+ocd-division/country:ca/csd:4812004,Bonnyville No. 87,Bonnyville No. 87,MD,Municipality of Bonnyville No. 87
 ocd-division/country:ca/csd:4812009,Bonnyville,Bonnyville,T,Town of Bonnyville
 ocd-division/country:ca/csd:4812011,Bonnyville Beach,Bonnyville Beach,SV,""
 ocd-division/country:ca/csd:4812012,Glendon,Glendon,VL,Village of Glendon
 ocd-division/country:ca/csd:4812013,Pelican Narrows,Pelican Narrows,SV,""
-ocd-division/country:ca/csd:4812014,St. Paul County No. 19,St. Paul County No. 19,MD,Municipal district of St. Paul County No. 19
+ocd-division/country:ca/csd:4812014,St. Paul County No. 19,St. Paul County No. 19,MD,Municipality of St. Paul County No. 19
 ocd-division/country:ca/csd:4812016,Elk Point,Elk Point,T,Town of Elk Point
 ocd-division/country:ca/csd:4812018,St. Paul,St. Paul,T,Town of St. Paul
 ocd-division/country:ca/csd:4812020,Horseshoe Bay,Horseshoe Bay,SV,""
-ocd-division/country:ca/csd:4812022,Smoky Lake County,Smoky Lake County,MD,Municipal district of Smoky Lake County
+ocd-division/country:ca/csd:4812022,Smoky Lake County,Smoky Lake County,MD,Municipality of Smoky Lake County
 ocd-division/country:ca/csd:4812024,Vilna,Vilna,VL,Village of Vilna
 ocd-division/country:ca/csd:4812026,Waskatenau,Waskatenau,VL,Village of Waskatenau
 ocd-division/country:ca/csd:4812029,Smoky Lake,Smoky Lake,T,Town of Smoky Lake
-ocd-division/country:ca/csd:4812037,Lac la Biche County,Lac la Biche County,MD,Municipal district of Lac la Biche County
+ocd-division/country:ca/csd:4812037,Lac la Biche County,Lac la Biche County,MD,Municipality of Lac la Biche County
 ocd-division/country:ca/csd:4812802,Unipouheos 121,Unipouheos 121,IRI,""
 ocd-division/country:ca/csd:4812804,Puskiakiwenin 122,Puskiakiwenin 122,IRI,""
 ocd-division/country:ca/csd:4812806,Saddle Lake 125,Saddle Lake 125,IRI,""
@@ -4251,7 +4251,7 @@ ocd-division/country:ca/csd:4812813,Cold Lake 149A,Cold Lake 149A,IRI,""
 ocd-division/country:ca/csd:4812815,Cold Lake 149B,Cold Lake 149B,IRI,""
 ocd-division/country:ca/csd:4812828,Beaver Lake 131,Beaver Lake 131,IRI,""
 ocd-division/country:ca/csd:4812840,Heart Lake 167,Heart Lake 167,IRI,""
-ocd-division/country:ca/csd:4813001,Lac Ste. Anne County,Lac Ste. Anne County,MD,Municipal district of Lac Ste. Anne County
+ocd-division/country:ca/csd:4813001,Lac Ste. Anne County,Lac Ste. Anne County,MD,Municipality of Lac Ste. Anne County
 ocd-division/country:ca/csd:4813002,Mayerthorpe,Mayerthorpe,T,Town of Mayerthorpe
 ocd-division/country:ca/csd:4813003,Nakamun Park,Nakamun Park,SV,""
 ocd-division/country:ca/csd:4813005,Val Quentin,Val Quentin,SV,""
@@ -4267,16 +4267,16 @@ ocd-division/country:ca/csd:4813014,Onoway,Onoway,T,Town of Onoway
 ocd-division/country:ca/csd:4813015,South View,South View,SV,""
 ocd-division/country:ca/csd:4813016,Sandy Beach,Sandy Beach,SV,""
 ocd-division/country:ca/csd:4813017,Sunrise Beach,Sunrise Beach,SV,""
-ocd-division/country:ca/csd:4813018,Barrhead County No. 11,Barrhead County No. 11,MD,Municipal district of Barrhead County No. 11
+ocd-division/country:ca/csd:4813018,Barrhead County No. 11,Barrhead County No. 11,MD,Municipality of Barrhead County No. 11
 ocd-division/country:ca/csd:4813019,Barrhead,Barrhead,T,Town of Barrhead
-ocd-division/country:ca/csd:4813028,Westlock County,Westlock County,MD,Municipal district of Westlock County
-ocd-division/country:ca/csd:4813029,Woodlands County,Woodlands County,MD,Municipal district of Woodlands County
+ocd-division/country:ca/csd:4813028,Westlock County,Westlock County,MD,Municipality of Westlock County
+ocd-division/country:ca/csd:4813029,Woodlands County,Woodlands County,MD,Municipality of Woodlands County
 ocd-division/country:ca/csd:4813030,Whitecourt,Whitecourt,T,Town of Whitecourt
 ocd-division/country:ca/csd:4813031,Westlock,Westlock,T,Town of Westlock
 ocd-division/country:ca/csd:4813032,Clyde,Clyde,VL,Village of Clyde
 ocd-division/country:ca/csd:4813033,Larkspur,Larkspur,SV,""
-ocd-division/country:ca/csd:4813036,Thorhild County No. 7,Thorhild County No. 7,MD,Municipal district of Thorhild County No. 7
-ocd-division/country:ca/csd:4813044,Athabasca County,Athabasca County,MD,Municipal district of Athabasca County
+ocd-division/country:ca/csd:4813036,Thorhild County No. 7,Thorhild County No. 7,MD,Municipality of Thorhild County No. 7
+ocd-division/country:ca/csd:4813044,Athabasca County,Athabasca County,MD,Municipality of Athabasca County
 ocd-division/country:ca/csd:4813045,Mewatha Beach,Mewatha Beach,SV,""
 ocd-division/country:ca/csd:4813046,Boyle,Boyle,VL,Village of Boyle
 ocd-division/country:ca/csd:4813047,Sunset Beach,Sunset Beach,SV,""
@@ -4288,13 +4288,13 @@ ocd-division/country:ca/csd:4813055,South Baptiste,South Baptiste,SV,""
 ocd-division/country:ca/csd:4813057,West Baptiste,West Baptiste,SV,""
 ocd-division/country:ca/csd:4813061,Whispering Hills,Whispering Hills,SV,""
 ocd-division/country:ca/csd:4813811,Alexis 133,Alexis 133,IRI,""
-ocd-division/country:ca/csd:4814003,Yellowhead County,Yellowhead County,MD,Municipal district of Yellowhead County
+ocd-division/country:ca/csd:4814003,Yellowhead County,Yellowhead County,MD,Municipality of Yellowhead County
 ocd-division/country:ca/csd:4814019,Hinton,Hinton,T,Town of Hinton
 ocd-division/country:ca/csd:4814024,Edson,Edson,T,Town of Edson
 ocd-division/country:ca/csd:4814028,Improvement District No. 25 Willmore Wilderness,Improvement District No. 25 Willmore Wilderness,ID,""
 ocd-division/country:ca/csd:4815007,Crowsnest Pass,Crowsnest Pass,SM,Municipality of Crowsnest Pass
 ocd-division/country:ca/csd:4815013,Kananaskis,Kananaskis,ID,""
-ocd-division/country:ca/csd:4815015,Bighorn No. 8,Bighorn No. 8,MD,Municipal district of Bighorn No. 8
+ocd-division/country:ca/csd:4815015,Bighorn No. 8,Bighorn No. 8,MD,Municipality of Bighorn No. 8
 ocd-division/country:ca/csd:4815023,Canmore,Canmore,T,Town of Canmore
 ocd-division/country:ca/csd:4815027,Ghost Lake,Ghost Lake,SV,""
 ocd-division/country:ca/csd:4815030,Waiparous,Waiparous,SV,""
@@ -4302,7 +4302,7 @@ ocd-division/country:ca/csd:4815032,Improvement District No. 9 Banff,Improvement
 ocd-division/country:ca/csd:4815033,Jasper,Jasper,SM,Municipality of Jasper
 ocd-division/country:ca/csd:4815035,Banff,Banff,T,Town of Banff
 ocd-division/country:ca/csd:4815037,Improvement District No. 12 Jasper Park,Improvement District No. 12 Jasper Park,ID,""
-ocd-division/country:ca/csd:4815045,Ranchland No. 66,Ranchland No. 66,MD,Municipal district of Ranchland No. 66
+ocd-division/country:ca/csd:4815045,Ranchland No. 66,Ranchland No. 66,MD,Municipality of Ranchland No. 66
 ocd-division/country:ca/csd:4815802,"Stoney 142, 143, 144","Stoney 142, 143, 144",IRI,""
 ocd-division/country:ca/csd:4816037,Wood Buffalo,Wood Buffalo,SM,Regional Municipality of Wood Buffalo
 ocd-division/country:ca/csd:4816051,Improvement District No. 24 Wood Buffalo,Improvement District No. 24 Wood Buffalo,ID,""
@@ -4322,15 +4322,15 @@ ocd-division/country:ca/csd:4816860,Thebathi 196,Thebathi 196,IRI,""
 ocd-division/country:ca/csd:4816861,Thabacha Náre 196A,Thabacha Náre 196A,IRI,""
 ocd-division/country:ca/csd:4817021,High Prairie,High Prairie,T,Town of High Prairie
 ocd-division/country:ca/csd:4817024,Swan Hills,Swan Hills,T,Town of Swan Hills
-ocd-division/country:ca/csd:4817026,Northern Sunrise County,Northern Sunrise County,MD,Municipal district of Northern Sunrise County
-ocd-division/country:ca/csd:4817027,Big Lakes,Big Lakes,MD,Municipal district of Big Lakes
+ocd-division/country:ca/csd:4817026,Northern Sunrise County,Northern Sunrise County,MD,Municipality of Northern Sunrise County
+ocd-division/country:ca/csd:4817027,Big Lakes,Big Lakes,MD,Municipality of Big Lakes
 ocd-division/country:ca/csd:4817029,Slave Lake,Slave Lake,T,Town of Slave Lake
-ocd-division/country:ca/csd:4817031,Opportunity No. 17,Opportunity No. 17,MD,Municipal district of Opportunity No. 17
-ocd-division/country:ca/csd:4817033,Lesser Slave River No. 124,Lesser Slave River No. 124,MD,Municipal district of Lesser Slave River No. 124
+ocd-division/country:ca/csd:4817031,Opportunity No. 17,Opportunity No. 17,MD,Municipality of Opportunity No. 17
+ocd-division/country:ca/csd:4817033,Lesser Slave River No. 124,Lesser Slave River No. 124,MD,Municipality of Lesser Slave River No. 124
 ocd-division/country:ca/csd:4817039,Nampa,Nampa,VL,Village of Nampa
-ocd-division/country:ca/csd:4817062,Clear Hills,Clear Hills,MD,Municipal district of Clear Hills
+ocd-division/country:ca/csd:4817062,Clear Hills,Clear Hills,MD,Municipality of Clear Hills
 ocd-division/country:ca/csd:4817064,Hines Creek,Hines Creek,VL,Village of Hines Creek
-ocd-division/country:ca/csd:4817076,Northern Lights County,Northern Lights County,MD,Municipal district of Northern Lights County
+ocd-division/country:ca/csd:4817076,Northern Lights County,Northern Lights County,MD,Municipality of Northern Lights County
 ocd-division/country:ca/csd:4817078,Manning,Manning,T,Town of Manning
 ocd-division/country:ca/csd:4817093,High Level,High Level,T,Town of High Level
 ocd-division/country:ca/csd:4817095,Mackenzie County,Mackenzie County,SM,Mackenzie County
@@ -4372,7 +4372,7 @@ ocd-division/country:ca/csd:4817859,Fort Vermilion 173B,Fort Vermilion 173B,IRI,
 ocd-division/country:ca/csd:4817860,Loon Lake 235,Loon Lake 235,IRI,""
 ocd-division/country:ca/csd:4818002,Fox Creek,Fox Creek,T,Town of Fox Creek
 ocd-division/country:ca/csd:4818005,Grande Cache,Grande Cache,T,Town of Grande Cache
-ocd-division/country:ca/csd:4818015,Greenview No. 16,Greenview No. 16,MD,Municipal district of Greenview No. 16
+ocd-division/country:ca/csd:4818015,Greenview No. 16,Greenview No. 16,MD,Municipality of Greenview No. 16
 ocd-division/country:ca/csd:4818018,Valleyview,Valleyview,T,Town of Valleyview
 ocd-division/country:ca/csd:4818816,Sturgeon Lake 154,Sturgeon Lake 154,IRI,""
 ocd-division/country:ca/csd:4818818,Sturgeon Lake 154A,Sturgeon Lake 154A,IRI,""
@@ -4383,19 +4383,19 @@ ocd-division/country:ca/csd:4819011,Wembley,Wembley,T,Town of Wembley
 ocd-division/country:ca/csd:4819012,Grande Prairie,Grande Prairie,CY,City of Grande Prairie
 ocd-division/country:ca/csd:4819014,Sexsmith,Sexsmith,T,Town of Sexsmith
 ocd-division/country:ca/csd:4819038,Peace River,Peace River,T,Town of Peace River
-ocd-division/country:ca/csd:4819041,Smoky River No. 130,Smoky River No. 130,MD,Municipal district of Smoky River No. 130
+ocd-division/country:ca/csd:4819041,Smoky River No. 130,Smoky River No. 130,MD,Municipality of Smoky River No. 130
 ocd-division/country:ca/csd:4819042,McLennan,McLennan,T,Town of McLennan
 ocd-division/country:ca/csd:4819044,Donnelly,Donnelly,VL,Village of Donnelly
 ocd-division/country:ca/csd:4819046,Falher,Falher,T,Town of Falher
 ocd-division/country:ca/csd:4819048,Girouxville,Girouxville,VL,Village of Girouxville
-ocd-division/country:ca/csd:4819049,Birch Hills County,Birch Hills County,MD,Municipal district of Birch Hills County
-ocd-division/country:ca/csd:4819054,Spirit River No. 133,Spirit River No. 133,MD,Municipal district of Spirit River No. 133
+ocd-division/country:ca/csd:4819049,Birch Hills County,Birch Hills County,MD,Municipality of Birch Hills County
+ocd-division/country:ca/csd:4819054,Spirit River No. 133,Spirit River No. 133,MD,Municipality of Spirit River No. 133
 ocd-division/country:ca/csd:4819056,Rycroft,Rycroft,VL,Village of Rycroft
 ocd-division/country:ca/csd:4819058,Spirit River,Spirit River,T,Town of Spirit River
-ocd-division/country:ca/csd:4819059,Saddle Hills County,Saddle Hills County,MD,Municipal district of Saddle Hills County
-ocd-division/country:ca/csd:4819066,Fairview No. 136,Fairview No. 136,MD,Municipal district of Fairview No. 136
+ocd-division/country:ca/csd:4819059,Saddle Hills County,Saddle Hills County,MD,Municipality of Saddle Hills County
+ocd-division/country:ca/csd:4819066,Fairview No. 136,Fairview No. 136,MD,Municipality of Fairview No. 136
 ocd-division/country:ca/csd:4819068,Fairview,Fairview,T,Town of Fairview
-ocd-division/country:ca/csd:4819071,Peace No. 135,Peace No. 135,MD,Municipal district of Peace No. 135
+ocd-division/country:ca/csd:4819071,Peace No. 135,Peace No. 135,MD,Municipality of Peace No. 135
 ocd-division/country:ca/csd:4819072,Berwyn,Berwyn,VL,Village of Berwyn
 ocd-division/country:ca/csd:4819074,Grimshaw,Grimshaw,T,Town of Grimshaw
 ocd-division/country:ca/csd:4819815,Horse Lakes 152B,Horse Lakes 152B,IRI,""

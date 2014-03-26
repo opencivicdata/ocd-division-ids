@@ -66,7 +66,9 @@ class CensusSubdivisions < Runner
         case type
         when "RGM"
           organization_name = "#{parts[0]} Regional Municipality"
-        when "C", "CV", "CY", "MD", "MU", "T", "TP", "V", "VL"
+        when "MD"
+          organization_name = "Municipality of #{parts[0]}" # instead of Municipal district
+        when "C", "CV", "CY", "MU", "T", "TP", "V", "VL"
           organization_name = "#{type_names[type]} #{code[0, 2] == "24" ? "de" : "of"} #{parts[0]}"
         end
       end
