@@ -54,8 +54,21 @@ class MunicipalSubdivision < Runner
 
         census_subdivision_id = if matches.size == 1
           matches[0][:id]
-        else # there are two L'Ange Gardien (MÉ)
-          matches.find{|match| %w(C CY MÉ RCR T V TV).include?(match[:type]) || match[:id] == "2482005"}[:id]
+        else
+          # There are two Lunenburg (MD and T).
+          if matches.find{|match| match[:id] == "1206001"}
+            "1206001"
+          # There are two L'Ange Gardien (MÉ).
+          elsif matches.find{|match| match[:id] == "2482005"}
+            "2482005"
+          else
+            matches = matches.select{|match| %w(C CY MD MÉ RCR T V TV).include?(match[:type])}
+            if matches.size == 1
+              matches[0][:id]
+            else
+              raise matches.inspect
+            end
+          end
         end
 
         items << [census_subdivision_id, boundary_set]
@@ -499,8 +512,10 @@ private
   def identifier(boundary)
     if boundary["external_id"].empty?
       boundary["name"]
-    else
+    elsif boundary["external_id"][/\A[\d.]+\z/]
       boundary["external_id"].to_i
+    else
+      boundary["external_id"]
     end
   end
 

@@ -25,6 +25,31 @@ ocd-division/country:ca/csd:1103025/ward:5,Hillcrest—Platte River
 ocd-division/country:ca/csd:1103025/ward:6,Center East—Downtown
 ocd-division/country:ca/csd:1103025/ward:7,Green Shore—Three Oaks
 ocd-division/country:ca/csd:1103025/ward:8,Wilmot
+ocd-division/country:ca/csd:1206001/district:a,District A
+ocd-division/country:ca/csd:1206001/district:b,District B
+ocd-division/country:ca/csd:1206001/district:c,District C
+ocd-division/country:ca/csd:1206001/district:d,District D
+ocd-division/country:ca/csd:1206001/district:e,District E
+ocd-division/country:ca/csd:1206001/district:f,District F
+ocd-division/country:ca/csd:1206001/district:g,District G
+ocd-division/country:ca/csd:1206001/district:h,District H
+ocd-division/country:ca/csd:1206001/district:i,District I
+ocd-division/country:ca/csd:1206001/district:j,District J
+ocd-division/country:ca/csd:1206001/district:k,District K
+ocd-division/country:ca/csd:1206001/district:l,District L
+ocd-division/country:ca/csd:1208008/district:1,Enfield
+ocd-division/country:ca/csd:1208008/district:2,Elmsdale
+ocd-division/country:ca/csd:1208008/district:3,Milford
+ocd-division/country:ca/csd:1208008/district:4,Shubenacadie
+ocd-division/country:ca/csd:1208008/district:5,Maitland
+ocd-division/country:ca/csd:1208008/district:6,Noel Walton
+ocd-division/country:ca/csd:1208008/district:7,Lantz
+ocd-division/country:ca/csd:1208008/district:8,Gore
+ocd-division/country:ca/csd:1208008/district:9,Nine Mile River
+ocd-division/country:ca/csd:1208008/district:10,Enfield Horne Settlement
+ocd-division/country:ca/csd:1208008/district:11,Rawdon
+ocd-division/country:ca/csd:1208008/district:12,East Uniacke
+ocd-division/country:ca/csd:1208008/district:13,Mount Uniacke
 ocd-division/country:ca/csd:1209034/district:1,Waverley - Fall River - Musquodoboit Valley
 ocd-division/country:ca/csd:1209034/district:2,Preston - Chezzetcook - Eastern Shore
 ocd-division/country:ca/csd:1209034/district:3,Dartmouth South - Eastern Passage
@@ -338,12 +363,6 @@ ocd-division/country:ca/csd:2421010/district:3,District 3
 ocd-division/country:ca/csd:2421010/district:4,District 4
 ocd-division/country:ca/csd:2421010/district:5,District 5
 ocd-division/country:ca/csd:2421010/district:6,District 6
-ocd-division/country:ca/csd:2421040/district:1,du Lièvre
-ocd-division/country:ca/csd:2421040/district:2,du lac Donaldson
-ocd-division/country:ca/csd:2421040/district:3,du Plateau
-ocd-division/country:ca/csd:2421040/district:4,Glen-Almond
-ocd-division/country:ca/csd:2421040/district:5,des Arpents-Verts
-ocd-division/country:ca/csd:2421040/district:6,Carrière
 ocd-division/country:ca/csd:2421045/district:1,des Falaises
 ocd-division/country:ca/csd:2421045/district:2,du Chemin-du-Roy
 ocd-division/country:ca/csd:2421045/district:3,du Golf
@@ -1793,6 +1812,12 @@ ocd-division/country:ca/csd:2481017/district:15,du Lac-Beauchamp
 ocd-division/country:ca/csd:2481017/district:16,de la Rivière-Blanche
 ocd-division/country:ca/csd:2481017/district:17,de Masson-Angers
 ocd-division/country:ca/csd:2481017/district:18,de Buckingham
+ocd-division/country:ca/csd:2482005/district:1,du Lièvre
+ocd-division/country:ca/csd:2482005/district:2,du lac Donaldson
+ocd-division/country:ca/csd:2482005/district:3,du Plateau
+ocd-division/country:ca/csd:2482005/district:4,Glen-Almond
+ocd-division/country:ca/csd:2482005/district:5,des Arpents-Verts
+ocd-division/country:ca/csd:2482005/district:6,Carrière
 ocd-division/country:ca/csd:2482015/district:1,District 1
 ocd-division/country:ca/csd:2482015/district:2,District 2
 ocd-division/country:ca/csd:2482015/district:3,District 3
@@ -2354,13 +2379,13 @@ ocd-division/country:ca/csd:3557061/ward:3,Ward 3
 ocd-division/country:ca/csd:3557061/ward:4,Ward 4
 ocd-division/country:ca/csd:3557061/ward:5,Ward 5
 ocd-division/country:ca/csd:3557061/ward:6,Ward 6
-ocd-division/country:ca/csd:3558004/ward:100,Current River
-ocd-division/country:ca/csd:3558004/ward:200,Red River
-ocd-division/country:ca/csd:3558004/ward:300,McKellar
-ocd-division/country:ca/csd:3558004/ward:400,McIntyre
-ocd-division/country:ca/csd:3558004/ward:500,Northwood
-ocd-division/country:ca/csd:3558004/ward:600,Westfort
-ocd-division/country:ca/csd:3558004/ward:700,Neebing
+ocd-division/country:ca/csd:3558004/ward:1,Current River
+ocd-division/country:ca/csd:3558004/ward:2,Red River
+ocd-division/country:ca/csd:3558004/ward:3,McKellar
+ocd-division/country:ca/csd:3558004/ward:4,McIntyre
+ocd-division/country:ca/csd:3558004/ward:5,Northwood
+ocd-division/country:ca/csd:3558004/ward:6,Westfort
+ocd-division/country:ca/csd:3558004/ward:7,Neebing
 ocd-division/country:ca/csd:4611040/ward:1,Old Kildonan
 ocd-division/country:ca/csd:4611040/ward:2,Mynarski
 ocd-division/country:ca/csd:4611040/ward:3,Point Douglas
