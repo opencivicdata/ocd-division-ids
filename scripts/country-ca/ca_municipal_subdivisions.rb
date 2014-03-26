@@ -313,8 +313,8 @@ class MunicipalSubdivision < Runner
 
         if identifier
           subdivisions[identifier] = "Y"
-        elsif text == "L'Ange-Gardien, M" # two subdivisions match
-          subdivisions["2482005"] = "Y"
+        elsif name == "L'Ange-Gardien" # two subdivisions match
+          subdivisions["ocd-division/country:ca/csd:2482005"] = "Y"
         else
           raise fingerprint
         end
