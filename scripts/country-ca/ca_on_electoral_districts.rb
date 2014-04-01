@@ -12,7 +12,7 @@ class ON < Runner
     # @see http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/PDEDS.htm
     Nokogiri::HTML(open("http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/EDNames.htm")).css("table table tr:gt(1)").each do |tr|
       texts = tr.css("td").map do |td|
-        td.text.normalize_space.sub(/\.(?=\S)/, ". ").sub(/(?<=Lennox)(?=and)/, " ") # add missing space
+        td.text.normalize_space.sub(/\.(?=\S)/, ". ").sub(/(?<=Lennox)(?=and)/, " ").sub(/(?<=London)(?=West)/, " ") # add missing space
       end
 
       output("province:on/ed:", texts[0], texts[1], texts[2])
