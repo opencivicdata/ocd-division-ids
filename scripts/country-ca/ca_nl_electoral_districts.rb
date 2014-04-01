@@ -11,8 +11,10 @@ class NL < Runner
     # The shapefile from Elections Newfoundland and Labrador contains typos.
     # The only non-all-caps authoritative data source is the legislature.
     # @see http://www.elections.gov.nl.ca/elections/ElectoralBoundaries/index.html
-    Nokogiri::HTML(open("http://www.assembly.nl.ca/members/cms/membersdistrict.htm")).css("#content table tr:gt(1) td:eq(1)").each do |td|
-      name = td.text.normalize_space.gsub(" - ", "—") # m-dash
+    names = Nokogiri::HTML(open("http://www.assembly.nl.ca/members/cms/membersdirectlines.htm")).css("#content table tr:gt(1) td:eq(2)").map do |td|
+      td.text.normalize_space.gsub(" - ", "—") # m-dash
+    end
+    names.sort.each do |name|
       output("province:nl/ed:", name, name)
     end
   end
