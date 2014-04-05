@@ -84,3 +84,4 @@ The Standard Geographical Classification is an official publication of Statistic
   * `classification`: To determine an appropriate jurisdiction name
   * `sgc`: To retrieve an identifier from an SGC code
   * `url`: To provide a URL for the jurisdiction
+* [comingelections](https://github.com/opennorth/comingelections/blob/master/lib/tasks/scrape.rake)
