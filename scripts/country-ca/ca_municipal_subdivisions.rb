@@ -242,23 +242,6 @@ class MunicipalSubdivision < Runner
   # @see http://web5.gov.mb.ca/mfas/elections_faq.aspx#voters_q4
   # @see http://web2.gov.mb.ca/laws/statutes/ccsm/m225e.php#87
   def has_children
-    type_map = {
-      "CT" => "CT",
-      "M"  => "MÉ",
-      "P"  => "PE",
-      "V"  => "V",
-      "VL" => "VL",
-    }
-
-    boroughs = [
-      "Lévis",
-      "Longueuil",
-      "Montréal",
-      "Québec",
-      "Saguenay",
-      "Sherbrooke",
-    ]
-
     subdivisions = Hash.new("N")
 
     # http://www.novascotia.ca/snsmr/municipal/government/elections.asp
@@ -312,6 +295,21 @@ class MunicipalSubdivision < Runner
       end
     end
 
+    boroughs = [
+      "Lévis",
+      "Longueuil",
+      "Montréal",
+      "Québec",
+      "Saguenay",
+      "Sherbrooke",
+    ]
+    type_map = {
+      "CT" => "CT",
+      "M"  => "MÉ",
+      "P"  => "PE",
+      "V"  => "V",
+      "VL" => "VL",
+    }
     Nokogiri::HTML(open("http://www.electionsquebec.qc.ca/francais/municipal/carte-electorale/liste-des-municipalites-divisees-en-districts-electoraux.php?index=1")).xpath("//div[@class='indente zone-contenu']/div[@class='boite-grise']//text()").each do |node|
       text = node.text.strip
       unless text.empty? || text == ", V"
@@ -402,6 +400,18 @@ class MunicipalSubdivision < Runner
         output(nil, identifier, "N")
       else
         case type_id[0, 2]
+        # 2014-04-09 ashleydavis@gov.nl.ca
+        when "10"
+          if [
+            "ocd-division/country:ca/csd:1001485", # Conception Bay South
+            "ocd-division/country:ca/csd:1001519", # St. John's
+            "ocd-division/country:ca/csd:1009007", # Roddickton-Bide Arm
+            "ocd-division/country:ca/csd:1007060", # New-Wes-Valley
+            ].include?(type_id)
+            output(nil, identifier, "Y")
+          else
+            output(nil, identifier, "N")
+          end
         # 2014-03-24 jgrichard@electionspei.ca
         # @see http://www.electionspei.ca/municipal/wards/
         # @see http://www.electionspei.ca/index.php?number=1046804&lang=E
