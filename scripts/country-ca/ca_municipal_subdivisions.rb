@@ -403,10 +403,10 @@ class MunicipalSubdivision < Runner
         # 2014-04-09 ashleydavis@gov.nl.ca
         when "10"
           if [
-            "ocd-division/country:ca/csd:1001485", # Conception Bay South
-            "ocd-division/country:ca/csd:1001519", # St. John's
-            "ocd-division/country:ca/csd:1009007", # Roddickton-Bide Arm
-            "ocd-division/country:ca/csd:1007060", # New-Wes-Valley
+            "1001485", # Conception Bay South
+            "1001519", # St. John's
+            "1009007", # Roddickton-Bide Arm
+            "1007060", # New-Wes-Valley
             ].include?(type_id)
             output(nil, identifier, "Y")
           else
