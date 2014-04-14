@@ -170,8 +170,7 @@ class MunicipalSubdivision < Runner
     end
   end
 
-  # Asked:
-  # * FCM contact form (2014-02-18 can also try info@fcm.ca)
+  # Asked Ontario:
   # 2014-02-20 JShiu@amo.on.ca "I believe we do not have a report that lists this type of information."
   # 2014-02-18 amcto@amcto.com "we do not maintain a list of council seats within each municipality"
   # 2014-02-18 mininfo.mah@ontario.ca "We regret to inform you that we cannot assist on this matter."
@@ -227,9 +226,7 @@ class MunicipalSubdivision < Runner
     # end
   end
 
-  # Asked:
-  # * enquiry@mpac.ca (2014-02-10, 2014-02-13 called to clarify my data request)
-  # * FCM contact form (2014-02-18 can also try info@fcm.ca)
+  # Asked Ontario:
   # 2014-02-11 amo@amo.on.ca "After reviewing our election data we found that we have not been tracking election results by wards so are unable to compile a list of municipalities that have wards."
   # 2014-02-18 amcto@amcto.com "we are unable to provide individual responses from municipalities as a means to respect the confidentiality of their responses"
   # 2014-02-11 mininfo.mah@ontario.ca "We regret to inform you that we do not have the information you requested."
@@ -238,9 +235,16 @@ class MunicipalSubdivision < Runner
   # @see http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_01m25_e.htm#BK238
   # @see http://m.mpac.ca/about/corporate_overview/department.asp
   # @see https://www.omb.gov.on.ca/stellent/groups/public/@abcs/@www/@omb/documents/webasset/ec082186.pdf
+  # Asked Manitoba:
+  # 2014-04-09 mmaa@mymts.net "You would have to call the Municipal department."
+  # 2014-04-11 amm@amm.mb.ca jgreen@amm.mb.ca "We do not have such information for each municipality."
+  # 2014-04-14 election@elections.mb.ca MRobertson@elections.mb.ca "I'm sorry but Elections Manitoba does not have this type of information."
   # MB: "Contact your local municipal office to find out whether a ward by-law is in place in your municipality."
   # @see http://web5.gov.mb.ca/mfas/elections_faq.aspx#voters_q4
   # @see http://web2.gov.mb.ca/laws/statutes/ccsm/m225e.php#87
+  # Asked Saskatchewan for boundary files:
+  # 2014-03-21 ask@isc.ca John.Leonard@isc.ca "As far as anything within the RM’s such as their division boundaries we don’t have them."
+  # 2014-03-24 muninfo@gov.sk.ca "Government Relations doesn't have RM maps."
   def has_children
     subdivisions = Hash.new("N")
 
