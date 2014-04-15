@@ -239,6 +239,7 @@ class MunicipalSubdivision < Runner
   # 2014-04-09 mmaa@mymts.net "You would have to call the Municipal department."
   # 2014-04-11 amm@amm.mb.ca jgreen@amm.mb.ca "We do not have such information for each municipality."
   # 2014-04-14 election@elections.mb.ca MRobertson@elections.mb.ca "I'm sorry but Elections Manitoba does not have this type of information."
+  # 2014-04-14 mgi@gov.mb.ca Linda.Baleja@gov.mb.ca "We do not compile this information."
   # MB: "Contact your local municipal office to find out whether a ward by-law is in place in your municipality."
   # @see http://web5.gov.mb.ca/mfas/elections_faq.aspx#voters_q4
   # @see http://web2.gov.mb.ca/laws/statutes/ccsm/m225e.php#87
