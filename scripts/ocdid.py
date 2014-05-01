@@ -129,7 +129,7 @@ def match_name(ocdid_prefix,dist_type,dist_name):
     try:
         match = process.extractOne(dist_name,ocdids[ocdid_prefix][dist_type])
     except KeyError:
-        print 'Invalid ocdid_prefix or dist_type provided'
+        print('Invalid ocdid_prefix or dist_type provided')
         raise
 
     # if match fails, return empty values
@@ -188,9 +188,9 @@ def match_type(ocdid_prefix,dist_type,dist_count):
     elif float(diff_len)/dist_count < .05:
         ocd_count = len(ocdids[ocdid_prefix][key])
         if dist_count > ocd_count:
-            print 'Extra provided districts:{}'.format(dist_count-ocd_count)
+            print('Extra provided districts:{}'.format(dist_count-ocd_count))
         else:
-            print 'Extra official districts:{}'.format(ocd_count-dist_count)
+            print('Extra official districts:{}'.format(ocd_count-dist_count))
         return key
     else:
         return 'No match'
@@ -270,9 +270,9 @@ def print_subdistrict_data(ocdid_prefix):
     ocdid_prefix -- district name to attempt match
 
     """
-    print ocdid_prefix
+    print(ocdid_prefix)
     for k,v in ocdids[ocdid_prefix].iteritems():
-        print '  - {}:{}'.format(k,v)
+        print('  - {}:{}'.format(k,v))
 
 """ If a url is provided, use 'requests' to obtain ocdid data
         otherwise, read from file system """
