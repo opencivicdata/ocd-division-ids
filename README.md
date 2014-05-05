@@ -18,7 +18,7 @@ Identifiers respect the format `ocd-division/country:<country_code>[/<type>:<typ
 
 * **country_code** - An [ISO-3166-1 alpha-2 code](http://en.wikipedia.org/wiki/ISO_3166-1_alpha-2).
 * **type** - The type of boundary.  (e.g. `country`, `state`, `town`, `city`, `cd`, `sldl`, `sldu`)
-  * Valid characters are lowercase UTF-8 letters, and underscore (\_).
+  * Valid characters are lowercase UTF-8 letters, dash (-), and underscore (\_).
   * Use existing types where possible.
 * **type_id** - An identifier that is locally unique to its scope.
   * Valid characters are lowercase UTF-8 letters, numerals (0-9), period (.), hyphen (-), underscore (\_), and tilde (~).  These characters match the unreserved characters in a URI [RFC 3986 section 2.3](http://www.rfc-editor.org/rfc/rfc3986.txt).
