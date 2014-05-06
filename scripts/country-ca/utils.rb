@@ -208,14 +208,18 @@ class ShapefileRecord
     @mappings = mappings
 
     case @mappings.fetch(:name)
-    when Symbol
+    when Symbol, String
       @name = @attributes.fetch(@mappings[:name])
     else
       @name = @mappings[:name].call(record)
     end
 
     @id = if @mappings.key?(:id)
-      @attributes.fetch(@mappings[:id]).to_s # may be an integer
+      if @attributes.fetch(@mappings[:id]).to_i == @attributes.fetch(@mappings[:id])
+        @attributes.fetch(@mappings[:id]).to_i.to_s # eliminate float precision
+      else
+        @attributes.fetch(@mappings[:id]).to_s # may be an integer
+      end
     else
       name
     end
