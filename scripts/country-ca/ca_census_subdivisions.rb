@@ -28,12 +28,13 @@ class CensusSubdivisions < Runner
     # The CSV is in ISO-8859-1.
     text = file.read.force_encoding("ISO-8859-1").encode("UTF-8")
 
-    puts CSV.generate_line(%w(id name name_fr classification organization_name))
+    puts CSV.generate_line(%w(id name name_fr classification organization_name number))
     CSV.parse(text, :headers => true, :skip_blanks => true).each do |row|
       code = row.fetch("Geographic code")
       name = row.fetch("Geographic name")
       type = row.fetch("Geographic type")
       organization_name = nil
+      number = nil
 
       # Skip "Canada" row.
       next if code == "01"
@@ -73,7 +74,11 @@ class CensusSubdivisions < Runner
         end
       end
 
-      output("csd:", code, parts[0], parts[1] || parts[0], type, organization_name)
+      if type == "RM" && code[0, 2] == "47"
+        number = parts[0].match(/No\. (\d+)\z/)[1]
+      end
+
+      output("csd:", code, parts[0], parts[1] || parts[0], type, organization_name, number)
     end
   end
 end
