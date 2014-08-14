@@ -6,6 +6,13 @@ ocd-division/country:us/state:la/parish:acadia/council_district:5,Acadia Parish 
 ocd-division/country:us/state:la/parish:acadia/council_district:6,Acadia Parish District 6
 ocd-division/country:us/state:la/parish:acadia/council_district:7,Acadia Parish District 7
 ocd-division/country:us/state:la/parish:acadia/council_district:8,Acadia Parish District 8
+ocd-division/country:us/state:la/parish:acadia/ward:1,Acadia Parish Ward 1
+ocd-division/country:us/state:la/parish:acadia/ward:2,Acadia Parish Ward 2
+ocd-division/country:us/state:la/parish:acadia/ward:3,Acadia Parish Ward 3
+ocd-division/country:us/state:la/parish:acadia/ward:4,Acadia Parish Ward 4
+ocd-division/country:us/state:la/parish:acadia/ward:5,Acadia Parish Ward 5
+ocd-division/country:us/state:la/parish:acadia/ward:6,Acadia Parish Ward 6
+ocd-division/country:us/state:la/parish:acadia/ward:7,Acadia Parish Ward 7
 ocd-division/country:us/state:la/parish:allen/council_district:1,Allen Parish District 1
 ocd-division/country:us/state:la/parish:allen/council_district:2,Allen Parish District 2
 ocd-division/country:us/state:la/parish:allen/council_district:3,Allen Parish District 3
@@ -13,6 +20,11 @@ ocd-division/country:us/state:la/parish:allen/council_district:4,Allen Parish Di
 ocd-division/country:us/state:la/parish:allen/council_district:5,Allen Parish District 5
 ocd-division/country:us/state:la/parish:allen/council_district:6,Allen Parish District 6
 ocd-division/country:us/state:la/parish:allen/council_district:7,Allen Parish District 7
+ocd-division/country:us/state:la/parish:allen/ward:1,Allen Parish Ward 1
+ocd-division/country:us/state:la/parish:allen/ward:2,Allen Parish Ward 2
+ocd-division/country:us/state:la/parish:allen/ward:3,Allen Parish Ward 3
+ocd-division/country:us/state:la/parish:allen/ward:4,Allen Parish Ward 4
+ocd-division/country:us/state:la/parish:allen/ward:5,Allen Parish Ward 5
 ocd-division/country:us/state:la/parish:ascension/council_district:1,Ascension Parish LA Parish Council District 1
 ocd-division/country:us/state:la/parish:ascension/council_district:2,Ascension Parish LA Parish Council District 2
 ocd-division/country:us/state:la/parish:ascension/council_district:3,Ascension Parish LA Parish Council District 3
@@ -33,6 +45,15 @@ ocd-division/country:us/state:la/parish:assumption/council_district:6,Assumption
 ocd-division/country:us/state:la/parish:assumption/council_district:7,Assumption Parish Ward 7
 ocd-division/country:us/state:la/parish:assumption/council_district:8,Assumption Parish Ward 8
 ocd-division/country:us/state:la/parish:assumption/council_district:9,Assumption Parish Ward 9
+ocd-division/country:us/state:la/parish:assumption/ward:1,Assumption Parish Ward 1
+ocd-division/country:us/state:la/parish:assumption/ward:2,Assumption Parish Ward 2
+ocd-division/country:us/state:la/parish:assumption/ward:3,Assumption Parish Ward 3
+ocd-division/country:us/state:la/parish:assumption/ward:4,Assumption Parish Ward 4
+ocd-division/country:us/state:la/parish:assumption/ward:5,Assumption Parish Ward 5
+ocd-division/country:us/state:la/parish:assumption/ward:6,Assumption Parish Ward 6
+ocd-division/country:us/state:la/parish:assumption/ward:7,Assumption Parish Ward 7
+ocd-division/country:us/state:la/parish:assumption/ward:8,Assumption Parish Ward 8
+ocd-division/country:us/state:la/parish:assumption/ward:9,Assumption Parish Ward 9
 ocd-division/country:us/state:la/parish:avoyelles/council_district:1,Avoyelles Parish District 1
 ocd-division/country:us/state:la/parish:avoyelles/council_district:2,Avoyelles Parish District 2
 ocd-division/country:us/state:la/parish:avoyelles/council_district:3,Avoyelles Parish District 3
@@ -42,6 +63,17 @@ ocd-division/country:us/state:la/parish:avoyelles/council_district:6,Avoyelles P
 ocd-division/country:us/state:la/parish:avoyelles/council_district:7,Avoyelles Parish District 7
 ocd-division/country:us/state:la/parish:avoyelles/council_district:8,Avoyelles Parish District 8
 ocd-division/country:us/state:la/parish:avoyelles/council_district:9,Avoyelles Parish District 9
+ocd-division/country:us/state:la/parish:avoyelles/ward:1,Avoyelles Parish Ward 1
+ocd-division/country:us/state:la/parish:avoyelles/ward:2,Avoyelles Parish Ward 2
+ocd-division/country:us/state:la/parish:avoyelles/ward:3,Avoyelles Parish Ward 3
+ocd-division/country:us/state:la/parish:avoyelles/ward:4,Avoyelles Parish Ward 4
+ocd-division/country:us/state:la/parish:avoyelles/ward:5,Avoyelles Parish Ward 5
+ocd-division/country:us/state:la/parish:avoyelles/ward:6,Avoyelles Parish Ward 6
+ocd-division/country:us/state:la/parish:avoyelles/ward:7,Avoyelles Parish Ward 7
+ocd-division/country:us/state:la/parish:avoyelles/ward:8,Avoyelles Parish Ward 8
+ocd-division/country:us/state:la/parish:avoyelles/ward:9,Avoyelles Parish Ward 9
+ocd-division/country:us/state:la/parish:avoyelles/ward:10,Avoyelles Parish Ward 10
+ocd-division/country:us/state:la/parish:avoyelles/ward:11,Avoyelles Parish Ward 11
 ocd-division/country:us/state:la/parish:beauregard/council_district:1,Beauregard Parish District 1
 ocd-division/country:us/state:la/parish:beauregard/council_district:2,Beauregard Parish District 2
 ocd-division/country:us/state:la/parish:beauregard/council_district:3a,Beauregard Parish District 3A
@@ -59,6 +91,13 @@ ocd-division/country:us/state:la/parish:bienville/council_district:4,Bienville P
 ocd-division/country:us/state:la/parish:bienville/council_district:5,Bienville Parish District 5
 ocd-division/country:us/state:la/parish:bienville/council_district:6,Bienville Parish District 6
 ocd-division/country:us/state:la/parish:bienville/council_district:7,Bienville Parish District 7
+ocd-division/country:us/state:la/parish:bienville/ward:1,Bienville Parish Ward 1
+ocd-division/country:us/state:la/parish:bienville/ward:2,Bienville Parish Ward 2
+ocd-division/country:us/state:la/parish:bienville/ward:3,Bienville Parish Ward 3
+ocd-division/country:us/state:la/parish:bienville/ward:4,Bienville Parish Ward 4
+ocd-division/country:us/state:la/parish:bienville/ward:5,Bienville Parish Ward 5
+ocd-division/country:us/state:la/parish:bienville/ward:6,Bienville Parish Ward 6
+ocd-division/country:us/state:la/parish:bienville/ward:7,Bienville Parish Ward 7
 ocd-division/country:us/state:la/parish:bossier/council_district:1,Bossier Parish District 1
 ocd-division/country:us/state:la/parish:bossier/council_district:2,Bossier Parish District 2
 ocd-division/country:us/state:la/parish:bossier/council_district:3,Bossier Parish District 3
@@ -71,6 +110,10 @@ ocd-division/country:us/state:la/parish:bossier/council_district:9,Bossier Paris
 ocd-division/country:us/state:la/parish:bossier/council_district:10,Bossier Parish District 10
 ocd-division/country:us/state:la/parish:bossier/council_district:11,Bossier Parish District 11
 ocd-division/country:us/state:la/parish:bossier/council_district:12,Bossier Parish District 12
+ocd-division/country:us/state:la/parish:bossier/ward:1,Bossier Parish Ward 1
+ocd-division/country:us/state:la/parish:bossier/ward:2,Bossier Parish Ward 2
+ocd-division/country:us/state:la/parish:bossier/ward:3,Bossier Parish Ward 3
+ocd-division/country:us/state:la/parish:bossier/ward:4,Bossier Parish Ward 4
 ocd-division/country:us/state:la/parish:caddo/council_district:1,Caddo Parish District 1
 ocd-division/country:us/state:la/parish:caddo/council_district:2,Caddo Parish District 2
 ocd-division/country:us/state:la/parish:caddo/council_district:3,Caddo Parish District 3
@@ -105,6 +148,13 @@ ocd-division/country:us/state:la/parish:caldwell/council_district:4,Caldwell Par
 ocd-division/country:us/state:la/parish:caldwell/council_district:5,Caldwell Parish District 5
 ocd-division/country:us/state:la/parish:caldwell/council_district:6,Caldwell Parish District 6
 ocd-division/country:us/state:la/parish:caldwell/council_district:7,Caldwell Parish District 7
+ocd-division/country:us/state:la/parish:caldwell/ward:1,Caldwell Parish Ward 1
+ocd-division/country:us/state:la/parish:caldwell/ward:2,Caldwell Parish Ward 2
+ocd-division/country:us/state:la/parish:caldwell/ward:3,Caldwell Parish Ward 3
+ocd-division/country:us/state:la/parish:caldwell/ward:4,Caldwell Parish Ward 4
+ocd-division/country:us/state:la/parish:caldwell/ward:5,Caldwell Parish Ward 5
+ocd-division/country:us/state:la/parish:caldwell/ward:6,Caldwell Parish Ward 6
+ocd-division/country:us/state:la/parish:caldwell/ward:7,Caldwell Parish Ward 7
 ocd-division/country:us/state:la/parish:cameron/council_district:1,Cameron Parish District 1
 ocd-division/country:us/state:la/parish:cameron/council_district:2,Cameron Parish District 2
 ocd-division/country:us/state:la/parish:cameron/council_district:3,Cameron Parish District 3
@@ -121,6 +171,15 @@ ocd-division/country:us/state:la/parish:catahoula/council_district:6,Catahoula P
 ocd-division/country:us/state:la/parish:catahoula/council_district:7,Catahoula Parish District 7
 ocd-division/country:us/state:la/parish:catahoula/council_district:8,Catahoula Parish District 8
 ocd-division/country:us/state:la/parish:catahoula/council_district:9,Catahoula Parish District 9
+ocd-division/country:us/state:la/parish:catahoula/ward:1,Catahoula Parish Ward 1
+ocd-division/country:us/state:la/parish:catahoula/ward:2,Catahoula Parish Ward 2
+ocd-division/country:us/state:la/parish:catahoula/ward:3,Catahoula Parish Ward 3
+ocd-division/country:us/state:la/parish:catahoula/ward:4,Catahoula Parish Ward 4
+ocd-division/country:us/state:la/parish:catahoula/ward:5,Catahoula Parish Ward 5
+ocd-division/country:us/state:la/parish:catahoula/ward:6,Catahoula Parish Ward 6
+ocd-division/country:us/state:la/parish:catahoula/ward:7,Catahoula Parish Ward 7
+ocd-division/country:us/state:la/parish:catahoula/ward:8,Catahoula Parish Ward 8
+ocd-division/country:us/state:la/parish:catahoula/ward:9,Catahoula Parish Ward 9
 ocd-division/country:us/state:la/parish:claiborne/council_district:1,Claiborne Parish District 1
 ocd-division/country:us/state:la/parish:claiborne/council_district:2,Claiborne Parish District 2
 ocd-division/country:us/state:la/parish:claiborne/council_district:3,Claiborne Parish District 3
@@ -185,6 +244,11 @@ ocd-division/country:us/state:la/parish:evangeline/council_district:6,Evangeline
 ocd-division/country:us/state:la/parish:evangeline/council_district:7,Evangeline Parish District 7
 ocd-division/country:us/state:la/parish:evangeline/council_district:8,Evangeline Parish District 8
 ocd-division/country:us/state:la/parish:evangeline/council_district:9,Evangeline Parish District 9
+ocd-division/country:us/state:la/parish:evangeline/ward:1,Evangeline Parish Ward 1
+ocd-division/country:us/state:la/parish:evangeline/ward:2,Evangeline Parish Ward 2
+ocd-division/country:us/state:la/parish:evangeline/ward:3,Evangeline Parish Ward 3
+ocd-division/country:us/state:la/parish:evangeline/ward:4,Evangeline Parish Ward 4
+ocd-division/country:us/state:la/parish:evangeline/ward:5,Evangeline Parish Ward 5
 ocd-division/country:us/state:la/parish:franklin/council_district:1,Franklin Parish District 1
 ocd-division/country:us/state:la/parish:franklin/council_district:2,Franklin Parish District 2
 ocd-division/country:us/state:la/parish:franklin/council_district:3,Franklin Parish District 3
@@ -200,6 +264,14 @@ ocd-division/country:us/state:la/parish:grant/council_district:5,Grant Parish Di
 ocd-division/country:us/state:la/parish:grant/council_district:6,Grant Parish District 6
 ocd-division/country:us/state:la/parish:grant/council_district:7,Grant Parish District 7
 ocd-division/country:us/state:la/parish:grant/council_district:8,Grant Parish District 8
+ocd-division/country:us/state:la/parish:grant/ward:1,Grant Parish Ward 1
+ocd-division/country:us/state:la/parish:grant/ward:2,Grant Parish Ward 2
+ocd-division/country:us/state:la/parish:grant/ward:3,Grant Parish Ward 3
+ocd-division/country:us/state:la/parish:grant/ward:4,Grant Parish Ward 4
+ocd-division/country:us/state:la/parish:grant/ward:5,Grant Parish Ward 5
+ocd-division/country:us/state:la/parish:grant/ward:6,Grant Parish Ward 6
+ocd-division/country:us/state:la/parish:grant/ward:7,Grant Parish Ward 7
+ocd-division/country:us/state:la/parish:grant/ward:8,Grant Parish Ward 8
 ocd-division/country:us/state:la/parish:iberia/council_district:1,Iberia Parish District 1
 ocd-division/country:us/state:la/parish:iberia/council_district:2,Iberia Parish District 2
 ocd-division/country:us/state:la/parish:iberia/council_district:3,Iberia Parish District 3
@@ -214,6 +286,20 @@ ocd-division/country:us/state:la/parish:iberia/council_district:11,Iberia Parish
 ocd-division/country:us/state:la/parish:iberia/council_district:12,Iberia Parish District 12
 ocd-division/country:us/state:la/parish:iberia/council_district:13,Iberia Parish District 13
 ocd-division/country:us/state:la/parish:iberia/council_district:14,Iberia Parish District 14
+ocd-division/country:us/state:la/parish:iberia/ward:1,Iberia Parish Ward 1
+ocd-division/country:us/state:la/parish:iberia/ward:2,Iberia Parish Ward 2
+ocd-division/country:us/state:la/parish:iberia/ward:3,Iberia Parish Ward 3
+ocd-division/country:us/state:la/parish:iberia/ward:4,Iberia Parish Ward 4
+ocd-division/country:us/state:la/parish:iberia/ward:5,Iberia Parish Ward 5
+ocd-division/country:us/state:la/parish:iberia/ward:6,Iberia Parish Ward 6
+ocd-division/country:us/state:la/parish:iberia/ward:7,Iberia Parish Ward 7
+ocd-division/country:us/state:la/parish:iberia/ward:8,Iberia Parish Ward 8
+ocd-division/country:us/state:la/parish:iberia/ward:9,Iberia Parish Ward 9
+ocd-division/country:us/state:la/parish:iberia/ward:10,Iberia Parish Ward 10
+ocd-division/country:us/state:la/parish:iberia/ward:11,Iberia Parish Ward 11
+ocd-division/country:us/state:la/parish:iberia/ward:12,Iberia Parish Ward 12
+ocd-division/country:us/state:la/parish:iberia/ward:13,Iberia Parish Ward 13
+ocd-division/country:us/state:la/parish:iberia/ward:14,Iberia Parish Ward 14
 ocd-division/country:us/state:la/parish:iberville/council_district:1,Iberville Parish District 1
 ocd-division/country:us/state:la/parish:iberville/council_district:2,Iberville Parish District 2
 ocd-division/country:us/state:la/parish:iberville/council_district:3,Iberville Parish District 3
@@ -262,6 +348,16 @@ ocd-division/country:us/state:la/parish:lasalle/council_district:7,Lasalle Paris
 ocd-division/country:us/state:la/parish:lasalle/council_district:8,Lasalle Parish District 8
 ocd-division/country:us/state:la/parish:lasalle/council_district:9,Lasalle Parish District 9
 ocd-division/country:us/state:la/parish:lasalle/council_district:10,Lasalle Parish District 10
+ocd-division/country:us/state:la/parish:lasalle/ward:1,La Salle Parish Ward 1
+ocd-division/country:us/state:la/parish:lasalle/ward:2,La Salle Parish Ward 2
+ocd-division/country:us/state:la/parish:lasalle/ward:3,La Salle Parish Ward 3
+ocd-division/country:us/state:la/parish:lasalle/ward:4,La Salle Parish Ward 4
+ocd-division/country:us/state:la/parish:lasalle/ward:5,La Salle Parish Ward 5
+ocd-division/country:us/state:la/parish:lasalle/ward:6,La Salle Parish Ward 6
+ocd-division/country:us/state:la/parish:lasalle/ward:7,La Salle Parish Ward 7
+ocd-division/country:us/state:la/parish:lasalle/ward:8,La Salle Parish Ward 8
+ocd-division/country:us/state:la/parish:lasalle/ward:9,La Salle Parish Ward 9
+ocd-division/country:us/state:la/parish:lasalle/ward:10,La Salle Parish Ward 10
 ocd-division/country:us/state:la/parish:lafayette/council_district:1,Lafayette Parish LA Parish-City Council District 1
 ocd-division/country:us/state:la/parish:lafayette/council_district:2,Lafayette Parish LA Parish-City Council District 2
 ocd-division/country:us/state:la/parish:lafayette/council_district:3,Lafayette Parish LA Parish-City Council District 3
@@ -280,6 +376,17 @@ ocd-division/country:us/state:la/parish:lafourche/council_district:6,Lafourche P
 ocd-division/country:us/state:la/parish:lafourche/council_district:7,Lafourche Parish District 7
 ocd-division/country:us/state:la/parish:lafourche/council_district:8,Lafourche Parish District 8
 ocd-division/country:us/state:la/parish:lafourche/council_district:9,Lafourche Parish District 9
+ocd-division/country:us/state:la/parish:lafourche/ward:1,Lafourche Parish Ward 1
+ocd-division/country:us/state:la/parish:lafourche/ward:2,Lafourche Parish Ward 2
+ocd-division/country:us/state:la/parish:lafourche/ward:3,Lafourche Parish Ward 3
+ocd-division/country:us/state:la/parish:lafourche/ward:4,Lafourche Parish Ward 4
+ocd-division/country:us/state:la/parish:lafourche/ward:5,Lafourche Parish Ward 5
+ocd-division/country:us/state:la/parish:lafourche/ward:6,Lafourche Parish Ward 6
+ocd-division/country:us/state:la/parish:lafourche/ward:7,Lafourche Parish Ward 7
+ocd-division/country:us/state:la/parish:lafourche/ward:8,Lafourche Parish Ward 8
+ocd-division/country:us/state:la/parish:lafourche/ward:9,Lafourche Parish Ward 9
+ocd-division/country:us/state:la/parish:lafourche/ward:10,Lafourche Parish Ward 10
+ocd-division/country:us/state:la/parish:lafourche/ward:11,Lafourche Parish Ward 11
 ocd-division/country:us/state:la/parish:lincoln/council_district:1,Lincoln Parish District 1
 ocd-division/country:us/state:la/parish:lincoln/council_district:2,Lincoln Parish District 2
 ocd-division/country:us/state:la/parish:lincoln/council_district:3,Lincoln Parish District 3
@@ -292,6 +399,18 @@ ocd-division/country:us/state:la/parish:lincoln/council_district:9,Lincoln Paris
 ocd-division/country:us/state:la/parish:lincoln/council_district:10,Lincoln Parish District 10
 ocd-division/country:us/state:la/parish:lincoln/council_district:11,Lincoln Parish District 11
 ocd-division/country:us/state:la/parish:lincoln/council_district:12,Lincoln Parish District 12
+ocd-division/country:us/state:la/parish:lincoln/ward:1,Lincoln Parish Ward 1
+ocd-division/country:us/state:la/parish:lincoln/ward:2,Lincoln Parish Ward 2
+ocd-division/country:us/state:la/parish:lincoln/ward:3,Lincoln Parish Ward 3
+ocd-division/country:us/state:la/parish:lincoln/ward:4,Lincoln Parish Ward 4
+ocd-division/country:us/state:la/parish:lincoln/ward:5,Lincoln Parish Ward 5
+ocd-division/country:us/state:la/parish:lincoln/ward:6,Lincoln Parish Ward 6
+ocd-division/country:us/state:la/parish:lincoln/ward:7,Lincoln Parish Ward 7
+ocd-division/country:us/state:la/parish:lincoln/ward:8,Lincoln Parish Ward 8
+ocd-division/country:us/state:la/parish:lincoln/ward:9,Lincoln Parish Ward 9
+ocd-division/country:us/state:la/parish:lincoln/ward:10,Lincoln Parish Ward 10
+ocd-division/country:us/state:la/parish:lincoln/ward:11,Lincoln Parish Ward 11
+ocd-division/country:us/state:la/parish:lincoln/ward:12,Lincoln Parish Ward 12
 ocd-division/country:us/state:la/parish:livingston/council_district:1,Livingston Parish District 1
 ocd-division/country:us/state:la/parish:livingston/council_district:2,Livingston Parish District 2
 ocd-division/country:us/state:la/parish:livingston/council_district:3,Livingston Parish District 3
@@ -324,6 +443,10 @@ ocd-division/country:us/state:la/parish:natchitoches/council_district:8,Natchito
 ocd-division/country:us/state:la/parish:natchitoches/council_district:9,Natchitoches Parish District 9
 ocd-division/country:us/state:la/parish:natchitoches/council_district:10,Natchitoches Parish District 10
 ocd-division/country:us/state:la/parish:natchitoches/council_district:11,Natchitoches Parish District 11
+ocd-division/country:us/state:la/parish:natchitoches/ward:1,Natchitoches Parish Ward 1
+ocd-division/country:us/state:la/parish:natchitoches/ward:2,Natchitoches Parish Ward 2
+ocd-division/country:us/state:la/parish:natchitoches/ward:3,Natchitoches Parish Ward 3
+ocd-division/country:us/state:la/parish:natchitoches/ward:4,Natchitoches Parish Ward 4
 ocd-division/country:us/state:la/parish:orleans/council_district:a,New Orleans LA city council district A
 ocd-division/country:us/state:la/parish:orleans/council_district:b,New Orleans LA city council district B
 ocd-division/country:us/state:la/parish:orleans/council_district:c,New Orleans LA city council district C
@@ -361,6 +484,15 @@ ocd-division/country:us/state:la/parish:plaquemines/council_district:6,Plaquemin
 ocd-division/country:us/state:la/parish:plaquemines/council_district:7,Plaquemines Parish District 7
 ocd-division/country:us/state:la/parish:plaquemines/council_district:8,Plaquemines Parish District 8
 ocd-division/country:us/state:la/parish:plaquemines/council_district:9,Plaquemines Parish District 9
+ocd-division/country:us/state:la/parish:plaquemines/ward:1,Plaquemines Parish Ward 1
+ocd-division/country:us/state:la/parish:plaquemines/ward:2,Plaquemines Parish Ward 2
+ocd-division/country:us/state:la/parish:plaquemines/ward:3,Plaquemines Parish Ward 3
+ocd-division/country:us/state:la/parish:plaquemines/ward:4,Plaquemines Parish Ward 4
+ocd-division/country:us/state:la/parish:plaquemines/ward:5,Plaquemines Parish Ward 5
+ocd-division/country:us/state:la/parish:plaquemines/ward:6,Plaquemines Parish Ward 6
+ocd-division/country:us/state:la/parish:plaquemines/ward:7,Plaquemines Parish Ward 7
+ocd-division/country:us/state:la/parish:plaquemines/ward:8,Plaquemines Parish Ward 8
+ocd-division/country:us/state:la/parish:plaquemines/ward:9,Plaquemines Parish Ward 9
 ocd-division/country:us/state:la/parish:pointe_coupee/council_district:1,Pointe Coupee Parish District 1
 ocd-division/country:us/state:la/parish:pointe_coupee/council_district:2,Pointe Coupee Parish District 2
 ocd-division/country:us/state:la/parish:pointe_coupee/council_district:3,Pointe Coupee Parish District 3
@@ -389,6 +521,13 @@ ocd-division/country:us/state:la/parish:red_river/council_district:4,Red River P
 ocd-division/country:us/state:la/parish:red_river/council_district:5,Red River Parish District 5
 ocd-division/country:us/state:la/parish:red_river/council_district:6,Red River Parish District 6
 ocd-division/country:us/state:la/parish:red_river/council_district:7,Red River Parish District 7
+ocd-division/country:us/state:la/parish:red_river/ward:1,Red River Parish Ward 1
+ocd-division/country:us/state:la/parish:red_river/ward:2,Red River Parish Ward 2
+ocd-division/country:us/state:la/parish:red_river/ward:3,Red River Parish Ward 3
+ocd-division/country:us/state:la/parish:red_river/ward:4,Red River Parish Ward 4
+ocd-division/country:us/state:la/parish:red_river/ward:5,Red River Parish Ward 5
+ocd-division/country:us/state:la/parish:red_river/ward:6,Red River Parish Ward 6
+ocd-division/country:us/state:la/parish:red_river/ward:7,Red River Parish Ward 7
 ocd-division/country:us/state:la/parish:richland/council_district:1,Richland Parish District 1
 ocd-division/country:us/state:la/parish:richland/council_district:2,Richland Parish District 2
 ocd-division/country:us/state:la/parish:richland/council_district:3,Richland Parish District 3
@@ -419,12 +558,25 @@ ocd-division/country:us/state:la/parish:st_charles/council_district:4,St. Charle
 ocd-division/country:us/state:la/parish:st_charles/council_district:5,St. Charles Parish District 5
 ocd-division/country:us/state:la/parish:st_charles/council_district:6,St. Charles Parish District 6
 ocd-division/country:us/state:la/parish:st_charles/council_district:7,St. Charles Parish District 7
+ocd-division/country:us/state:la/parish:st_charles/ward:1,St. Charles Parish Ward 1
+ocd-division/country:us/state:la/parish:st_charles/ward:2,St. Charles Parish Ward 2
+ocd-division/country:us/state:la/parish:st_charles/ward:3,St. Charles Parish Ward 3
+ocd-division/country:us/state:la/parish:st_charles/ward:4,St. Charles Parish Ward 4
+ocd-division/country:us/state:la/parish:st_charles/ward:5,St. Charles Parish Ward 5
+ocd-division/country:us/state:la/parish:st_charles/ward:6,St. Charles Parish Ward 6
+ocd-division/country:us/state:la/parish:st_charles/ward:7,St. Charles Parish Ward 7
 ocd-division/country:us/state:la/parish:st_helena/council_district:1,St. Helena Parish District 1
 ocd-division/country:us/state:la/parish:st_helena/council_district:2,St. Helena Parish District 2
 ocd-division/country:us/state:la/parish:st_helena/council_district:3,St. Helena Parish District 3
 ocd-division/country:us/state:la/parish:st_helena/council_district:4,St. Helena Parish District 4
 ocd-division/country:us/state:la/parish:st_helena/council_district:5,St. Helena Parish District 5
 ocd-division/country:us/state:la/parish:st_helena/council_district:6,St. Helena Parish District 6
+ocd-division/country:us/state:la/parish:st_helena/ward:1,St. Helena Parish Ward 1
+ocd-division/country:us/state:la/parish:st_helena/ward:2,St. Helena Parish Ward 2
+ocd-division/country:us/state:la/parish:st_helena/ward:3,St. Helena Parish Ward 3
+ocd-division/country:us/state:la/parish:st_helena/ward:4,St. Helena Parish Ward 4
+ocd-division/country:us/state:la/parish:st_helena/ward:5,St. Helena Parish Ward 5
+ocd-division/country:us/state:la/parish:st_helena/ward:6,St. Helena Parish Ward 6
 ocd-division/country:us/state:la/parish:st_james/council_district:1,St. James Parish District 1
 ocd-division/country:us/state:la/parish:st_james/council_district:2,St. James Parish District 2
 ocd-division/country:us/state:la/parish:st_james/council_district:3,St. James Parish District 3
@@ -439,6 +591,13 @@ ocd-division/country:us/state:la/parish:st_john_the_baptist/council_district:4,S
 ocd-division/country:us/state:la/parish:st_john_the_baptist/council_district:5,St. John The Baptist Parish District 5
 ocd-division/country:us/state:la/parish:st_john_the_baptist/council_district:6,St. John The Baptist Parish District 6
 ocd-division/country:us/state:la/parish:st_john_the_baptist/council_district:7,St. John The Baptist Parish District 7
+ocd-division/country:us/state:la/parish:st_john_the_baptist/ward:1,St. John The Baptist Parish Ward 1
+ocd-division/country:us/state:la/parish:st_john_the_baptist/ward:2,St. John The Baptist Parish Ward 2
+ocd-division/country:us/state:la/parish:st_john_the_baptist/ward:3,St. John The Baptist Parish Ward 3
+ocd-division/country:us/state:la/parish:st_john_the_baptist/ward:4,St. John The Baptist Parish Ward 4
+ocd-division/country:us/state:la/parish:st_john_the_baptist/ward:5,St. John The Baptist Parish Ward 5
+ocd-division/country:us/state:la/parish:st_john_the_baptist/ward:6,St. John The Baptist Parish Ward 6
+ocd-division/country:us/state:la/parish:st_john_the_baptist/ward:7,St. John The Baptist Parish Ward 7
 ocd-division/country:us/state:la/parish:st_landry/council_district:1,St. Landry Parish District 1
 ocd-division/country:us/state:la/parish:st_landry/council_district:2,St. Landry Parish District 2
 ocd-division/country:us/state:la/parish:st_landry/council_district:3,St. Landry Parish District 3
@@ -452,6 +611,12 @@ ocd-division/country:us/state:la/parish:st_landry/council_district:10,St. Landry
 ocd-division/country:us/state:la/parish:st_landry/council_district:11,St. Landry Parish District 11
 ocd-division/country:us/state:la/parish:st_landry/council_district:12,St. Landry Parish District 12
 ocd-division/country:us/state:la/parish:st_landry/council_district:13,St. Landry Parish District 13
+ocd-division/country:us/state:la/parish:st_landry/ward:1,St. Landry Parish Ward 1
+ocd-division/country:us/state:la/parish:st_landry/ward:2,St. Landry Parish Ward 2
+ocd-division/country:us/state:la/parish:st_landry/ward:3,St. Landry Parish Ward 3
+ocd-division/country:us/state:la/parish:st_landry/ward:4,St. Landry Parish Ward 4
+ocd-division/country:us/state:la/parish:st_landry/ward:5,St. Landry Parish Ward 5
+ocd-division/country:us/state:la/parish:st_landry/ward:6,St. Landry Parish Ward 6
 ocd-division/country:us/state:la/parish:st_martin/council_district:1,St. Martin Parish District 1
 ocd-division/country:us/state:la/parish:st_martin/council_district:2,St. Martin Parish District 2
 ocd-division/country:us/state:la/parish:st_martin/council_district:3,St. Martin Parish District 3
@@ -461,6 +626,15 @@ ocd-division/country:us/state:la/parish:st_martin/council_district:6,St. Martin 
 ocd-division/country:us/state:la/parish:st_martin/council_district:7,St. Martin Parish District 7
 ocd-division/country:us/state:la/parish:st_martin/council_district:8,St. Martin Parish District 8
 ocd-division/country:us/state:la/parish:st_martin/council_district:9,St. Martin Parish District 9
+ocd-division/country:us/state:la/parish:st_martin/ward:1,St. Martin Parish Ward 1
+ocd-division/country:us/state:la/parish:st_martin/ward:2,St. Martin Parish Ward 2
+ocd-division/country:us/state:la/parish:st_martin/ward:3,St. Martin Parish Ward 3
+ocd-division/country:us/state:la/parish:st_martin/ward:4,St. Martin Parish Ward 4
+ocd-division/country:us/state:la/parish:st_martin/ward:5,St. Martin Parish Ward 5
+ocd-division/country:us/state:la/parish:st_martin/ward:6,St. Martin Parish Ward 6
+ocd-division/country:us/state:la/parish:st_martin/ward:7,St. Martin Parish Ward 7
+ocd-division/country:us/state:la/parish:st_martin/ward:8,St. Martin Parish Ward 8
+ocd-division/country:us/state:la/parish:st_martin/ward:9,St. Martin Parish Ward 9
 ocd-division/country:us/state:la/parish:st_mary/council_district:1,St. Mary Parish District 1
 ocd-division/country:us/state:la/parish:st_mary/council_district:2,St. Mary Parish District 2
 ocd-division/country:us/state:la/parish:st_mary/council_district:3,St. Mary Parish District 3
@@ -544,6 +718,14 @@ ocd-division/country:us/state:la/parish:vernon/council_district:9,Vernon Parish 
 ocd-division/country:us/state:la/parish:vernon/council_district:10,Vernon Parish District 10
 ocd-division/country:us/state:la/parish:vernon/council_district:11,Vernon Parish District 11
 ocd-division/country:us/state:la/parish:vernon/council_district:12,Vernon Parish District 12
+ocd-division/country:us/state:la/parish:vernon/ward:1,Vernon Parish Ward 1
+ocd-division/country:us/state:la/parish:vernon/ward:2,Vernon Parish Ward 2
+ocd-division/country:us/state:la/parish:vernon/ward:3,Vernon Parish Ward 3
+ocd-division/country:us/state:la/parish:vernon/ward:4,Vernon Parish Ward 4
+ocd-division/country:us/state:la/parish:vernon/ward:5,Vernon Parish Ward 5
+ocd-division/country:us/state:la/parish:vernon/ward:6,Vernon Parish Ward 6
+ocd-division/country:us/state:la/parish:vernon/ward:7,Vernon Parish Ward 7
+ocd-division/country:us/state:la/parish:vernon/ward:8,Vernon Parish Ward 8
 ocd-division/country:us/state:la/parish:washington/council_district:1,Washington Parish District 1
 ocd-division/country:us/state:la/parish:washington/council_district:2,Washington Parish District 2
 ocd-division/country:us/state:la/parish:washington/council_district:3,Washington Parish District 3
@@ -551,6 +733,15 @@ ocd-division/country:us/state:la/parish:washington/council_district:4,Washington
 ocd-division/country:us/state:la/parish:washington/council_district:5,Washington Parish District 5
 ocd-division/country:us/state:la/parish:washington/council_district:6,Washington Parish District 6
 ocd-division/country:us/state:la/parish:washington/council_district:7,Washington Parish District 7
+ocd-division/country:us/state:la/parish:washington/ward:1,Washington Parish Ward 1
+ocd-division/country:us/state:la/parish:washington/ward:2,Washington Parish Ward 2
+ocd-division/country:us/state:la/parish:washington/ward:3,Washington Parish Ward 3
+ocd-division/country:us/state:la/parish:washington/ward:4,Washington Parish Ward 4
+ocd-division/country:us/state:la/parish:washington/ward:5,Washington Parish Ward 5
+ocd-division/country:us/state:la/parish:washington/ward:6,Washington Parish Ward 6
+ocd-division/country:us/state:la/parish:washington/ward:7,Washington Parish Ward 7
+ocd-division/country:us/state:la/parish:washington/ward:8,Washington Parish Ward 8
+ocd-division/country:us/state:la/parish:washington/ward:9,Washington Parish Ward 9
 ocd-division/country:us/state:la/parish:webster/council_district:1,Webster Parish District 1
 ocd-division/country:us/state:la/parish:webster/council_district:2,Webster Parish District 2
 ocd-division/country:us/state:la/parish:webster/council_district:3,Webster Parish District 3
@@ -584,6 +775,13 @@ ocd-division/country:us/state:la/parish:west_feliciana/council_district:4,West F
 ocd-division/country:us/state:la/parish:west_feliciana/council_district:5,West Feliciana Parish District 5
 ocd-division/country:us/state:la/parish:west_feliciana/council_district:6,West Feliciana Parish District 6
 ocd-division/country:us/state:la/parish:west_feliciana/council_district:7,West Feliciana Parish District 7
+ocd-division/country:us/state:la/parish:west_feliciana/ward:1,West Feliciana Parish Ward 1
+ocd-division/country:us/state:la/parish:west_feliciana/ward:2,West Feliciana Parish Ward 2
+ocd-division/country:us/state:la/parish:west_feliciana/ward:3,West Feliciana Parish Ward 3
+ocd-division/country:us/state:la/parish:west_feliciana/ward:4,West Feliciana Parish Ward 4
+ocd-division/country:us/state:la/parish:west_feliciana/ward:5,West Feliciana Parish Ward 5
+ocd-division/country:us/state:la/parish:west_feliciana/ward:6,West Feliciana Parish Ward 6
+ocd-division/country:us/state:la/parish:west_feliciana/ward:7,West Feliciana Parish Ward 7
 ocd-division/country:us/state:la/parish:winn/council_district:1,Winn Parish District 1
 ocd-division/country:us/state:la/parish:winn/council_district:2,Winn Parish District 2
 ocd-division/country:us/state:la/parish:winn/council_district:3,Winn Parish District 3
@@ -591,6 +789,13 @@ ocd-division/country:us/state:la/parish:winn/council_district:4,Winn Parish Dist
 ocd-division/country:us/state:la/parish:winn/council_district:5,Winn Parish District 5
 ocd-division/country:us/state:la/parish:winn/council_district:6,Winn Parish District 6
 ocd-division/country:us/state:la/parish:winn/council_district:7,Winn Parish District 7
+ocd-division/country:us/state:la/parish:winn/ward:1,Winn Parish Ward 1
+ocd-division/country:us/state:la/parish:winn/ward:2,Winn Parish Ward 2
+ocd-division/country:us/state:la/parish:winn/ward:3,Winn Parish Ward 3
+ocd-division/country:us/state:la/parish:winn/ward:4,Winn Parish Ward 4
+ocd-division/country:us/state:la/parish:winn/ward:5,Winn Parish Ward 5
+ocd-division/country:us/state:la/parish:winn/ward:6,Winn Parish Ward 6
+ocd-division/country:us/state:la/parish:winn/ward:7,Winn Parish Ward 7
 ocd-division/country:us/state:la/place:baton_rouge/council_district:1,Baton Rouge LA city council district 1
 ocd-division/country:us/state:la/place:baton_rouge/council_district:2,Baton Rouge LA city council district 2
 ocd-division/country:us/state:la/place:baton_rouge/council_district:3,Baton Rouge LA city council district 3
