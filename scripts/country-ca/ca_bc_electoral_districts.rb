@@ -8,7 +8,7 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 class BC < Runner
   def names
     # Also available as table.
-    # @see http://www3.elections.bc.ca/index.php/maps/electoral-maps-profiles/geographic-information-system-spatial-data-files-2012/
+    # @see http://www.elections.bc.ca/index.php/maps/electoral-maps/geographic-information-system-spatial-data-files-2012/
     ShapefileParser.new(
       "http://www3.elections.bc.ca/docs/map/redis12/GIS/Electoral%20District%20Boundaries.zip",
       "province:bc/ed:", {
