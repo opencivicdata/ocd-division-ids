@@ -90,6 +90,7 @@ ocd-division/country:us/state:ri/place:cumberland/precinct:809,Cumberland RI - P
 ocd-division/country:us/state:ri/place:cumberland/precinct:810,Cumberland RI - Precinct 810
 ocd-division/country:us/state:ri/place:cumberland/precinct:811,Cumberland RI - Precinct 811
 ocd-division/country:us/state:ri/place:cumberland/precinct:812,Cumberland RI - Precinct 812
+ocd-division/country:us/state:ri/place:cumberland/precinct:813,Cumberland RI - Precinct 813
 ocd-division/country:us/state:ri/place:east_greenwich/precinct:901,East Greenwich RI - Precinct 901
 ocd-division/country:us/state:ri/place:east_greenwich/precinct:902,East Greenwich RI - Precinct 902
 ocd-division/country:us/state:ri/place:east_greenwich/precinct:903,East Greenwich RI - Precinct 903
@@ -150,6 +151,7 @@ ocd-division/country:us/state:ri/place:lincoln/precinct:1708,Lincoln RI - Precin
 ocd-division/country:us/state:ri/place:lincoln/precinct:1709,Lincoln RI - Precinct 1709
 ocd-division/country:us/state:ri/place:lincoln/precinct:1710,Lincoln RI - Precinct 1710
 ocd-division/country:us/state:ri/place:lincoln/precinct:1711,Lincoln RI - Precinct 1711
+ocd-division/country:us/state:ri/place:little_compton/precinct:1801,Little Compton RI - Precinct 1801
 ocd-division/country:us/state:ri/place:middletown/precinct:1901,Middletown RI - Precinct 1901
 ocd-division/country:us/state:ri/place:middletown/precinct:1902,Middletown RI - Precinct 1902
 ocd-division/country:us/state:ri/place:middletown/precinct:1903,Middletown RI - Precinct 1903
@@ -167,6 +169,7 @@ ocd-division/country:us/state:ri/place:newport/precinct:2104,Newport RI - Precin
 ocd-division/country:us/state:ri/place:newport/precinct:2105,Newport RI - Precinct 2105
 ocd-division/country:us/state:ri/place:newport/precinct:2106,Newport RI - Precinct 2106
 ocd-division/country:us/state:ri/place:newport/precinct:2107,Newport RI - Precinct 2107
+ocd-division/country:us/state:ri/place:newport/precinct:2108,Newport RI - Precinct 2108
 ocd-division/country:us/state:ri/place:new_shoreham/precinct:2201,New Shoreham RI - Precinct 2201
 ocd-division/country:us/state:ri/place:north_kingstown/precinct:2301,North Kingstown RI - Precinct 2301
 ocd-division/country:us/state:ri/place:north_kingstown/precinct:2302,North Kingstown RI - Precinct 2302
@@ -314,6 +317,8 @@ ocd-division/country:us/state:ri/place:providence/precinct:2875,Providence RI - 
 ocd-division/country:us/state:ri/place:providence/precinct:2876,Providence RI - Precinct 2876
 ocd-division/country:us/state:ri/place:providence/precinct:2877,Providence RI - Precinct 2877
 ocd-division/country:us/state:ri/place:providence/precinct:2878,Providence RI - Precinct 2878
+ocd-division/country:us/state:ri/place:providence/precinct:2879,Providence RI - Precinct 2879
+ocd-division/country:us/state:ri/place:providence/precinct:2880,Providence RI - Precinct 2880
 ocd-division/country:us/state:ri/place:richmond/precinct:2901,Richmond RI - Precinct 2901
 ocd-division/country:us/state:ri/place:richmond/precinct:2902,Richmond RI - Precinct 2902
 ocd-division/country:us/state:ri/place:scituate/precinct:3001,Scituate RI - Precinct 3001
@@ -410,3 +415,4 @@ ocd-division/country:us/state:ri/place:woonsocket/precinct:3908,Woonsocket RI - 
 ocd-division/country:us/state:ri/place:woonsocket/precinct:3909,Woonsocket RI - Precinct 3909
 ocd-division/country:us/state:ri/place:woonsocket/precinct:3910,Woonsocket RI - Precinct 3910
 ocd-division/country:us/state:ri/place:woonsocket/precinct:3911,Woonsocket RI - Precinct 3911
+ocd-division/country:us/state:ri/place:woonsocket/precinct:3912,Woonsocket RI - Precinct 3912
