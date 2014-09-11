@@ -363,7 +363,7 @@ ocd-division/country:us/state:id/county:bonneville/precinct:56,Bonneville County
 ocd-division/country:us/state:id/county:bonneville/precinct:57,Bonneville County ID - Precinct 57
 ocd-division/country:us/state:id/county:bonneville/precinct:58,Bonneville County ID - Precinct 58
 ocd-division/country:us/state:id/county:bonneville/precinct:59,Bonneville County ID - Precinct 59
-ocd-division/country:us/state:id/county:boundary/precinct:1-bf-kootenai,Boundary County ID - Precinct 1-BF/Kootenai
+ocd-division/country:us/state:id/county:boundary/precinct:1-bonners_ferry-kootenai,Boundary County ID - Precinct 1-BF/Kootenai
 ocd-division/country:us/state:id/county:boundary/precinct:2-copeland,Boundary County ID - Precinct 2-Copeland
 ocd-division/country:us/state:id/county:boundary/precinct:4-moyie_springs,Boundary County ID - Precinct 4-Moyie Springs
 ocd-division/country:us/state:id/county:boundary/precinct:5-naples,Boundary County ID - Precinct 5-Naples
@@ -375,68 +375,70 @@ ocd-division/country:us/state:id/county:butte/precinct:howe,Butte County ID - Pr
 ocd-division/country:us/state:id/county:butte/precinct:moore,Butte County ID - Precinct Moore
 ocd-division/country:us/state:id/county:camas/precinct:1,Camas County ID - Precinct 1
 ocd-division/country:us/state:id/county:camas/precinct:2,Camas County ID - Precinct 2
-ocd-division/country:us/state:id/county:canyon/precinct:1-09,Canyon County ID - Precinct 1-09
-ocd-division/country:us/state:id/county:canyon/precinct:2-09,Canyon County ID - Precinct 2-09
-ocd-division/country:us/state:id/county:canyon/precinct:3-09,Canyon County ID - Precinct 3-09
-ocd-division/country:us/state:id/county:canyon/precinct:7-10,Canyon County ID - Precinct 7-10
-ocd-division/country:us/state:id/county:canyon/precinct:8-10,Canyon County ID - Precinct 8-10
-ocd-division/country:us/state:id/county:canyon/precinct:9-10,Canyon County ID - Precinct 9-10
-ocd-division/country:us/state:id/county:canyon/precinct:10-10,Canyon County ID - Precinct 10-10
-ocd-division/country:us/state:id/county:canyon/precinct:11-10,Canyon County ID - Precinct 11-10
-ocd-division/country:us/state:id/county:canyon/precinct:12-10,Canyon County ID - Precinct 12-10
-ocd-division/country:us/state:id/county:canyon/precinct:13-10,Canyon County ID - Precinct 13-10
-ocd-division/country:us/state:id/county:canyon/precinct:14-10,Canyon County ID - Precinct 14-10
-ocd-division/country:us/state:id/county:canyon/precinct:15-10,Canyon County ID - Precinct 15-10
-ocd-division/country:us/state:id/county:canyon/precinct:16-10,Canyon County ID - Precinct 16-10
-ocd-division/country:us/state:id/county:canyon/precinct:17-10,Canyon County ID - Precinct 17-10
-ocd-division/country:us/state:id/county:canyon/precinct:18-10,Canyon County ID - Precinct 18-10
-ocd-division/country:us/state:id/county:canyon/precinct:19-10,Canyon County ID - Precinct 19-10
-ocd-division/country:us/state:id/county:canyon/precinct:26-11,Canyon County ID - Precinct 26-11
-ocd-division/country:us/state:id/county:canyon/precinct:27-11,Canyon County ID - Precinct 27-11
-ocd-division/country:us/state:id/county:canyon/precinct:28-11,Canyon County ID - Precinct 28-11
-ocd-division/country:us/state:id/county:canyon/precinct:29-11,Canyon County ID - Precinct 29-11
-ocd-division/country:us/state:id/county:canyon/precinct:30-11,Canyon County ID - Precinct 30-11
-ocd-division/country:us/state:id/county:canyon/precinct:31-11,Canyon County ID - Precinct 31-11
-ocd-division/country:us/state:id/county:canyon/precinct:32-11,Canyon County ID - Precinct 32-11
-ocd-division/country:us/state:id/county:canyon/precinct:33-11,Canyon County ID - Precinct 33-11
-ocd-division/country:us/state:id/county:canyon/precinct:34-11,Canyon County ID - Precinct 34-11
-ocd-division/country:us/state:id/county:canyon/precinct:35-11,Canyon County ID - Precinct 35-11
-ocd-division/country:us/state:id/county:canyon/precinct:36-11,Canyon County ID - Precinct 36-11
-ocd-division/country:us/state:id/county:canyon/precinct:37-11,Canyon County ID - Precinct 37-11
-ocd-division/country:us/state:id/county:canyon/precinct:38-11,Canyon County ID - Precinct 38-11
-ocd-division/country:us/state:id/county:canyon/precinct:39-11,Canyon County ID - Precinct 39-11
-ocd-division/country:us/state:id/county:canyon/precinct:40-11,Canyon County ID - Precinct 40-11
-ocd-division/country:us/state:id/county:canyon/precinct:41-11,Canyon County ID - Precinct 41-11
-ocd-division/country:us/state:id/county:canyon/precinct:42-11,Canyon County ID - Precinct 42-11
-ocd-division/country:us/state:id/county:canyon/precinct:43-11,Canyon County ID - Precinct 43-11
-ocd-division/country:us/state:id/county:canyon/precinct:49-12,Canyon County ID - Precinct 49-12
-ocd-division/country:us/state:id/county:canyon/precinct:50-12,Canyon County ID - Precinct 50-12
-ocd-division/country:us/state:id/county:canyon/precinct:51-12,Canyon County ID - Precinct 51-12
-ocd-division/country:us/state:id/county:canyon/precinct:52-12,Canyon County ID - Precinct 52-12
-ocd-division/country:us/state:id/county:canyon/precinct:53-12,Canyon County ID - Precinct 53-12
-ocd-division/country:us/state:id/county:canyon/precinct:54-12,Canyon County ID - Precinct 54-12
-ocd-division/country:us/state:id/county:canyon/precinct:55-12,Canyon County ID - Precinct 55-12
-ocd-division/country:us/state:id/county:canyon/precinct:56-12,Canyon County ID - Precinct 56-12
-ocd-division/country:us/state:id/county:canyon/precinct:57-12,Canyon County ID - Precinct 57-12
-ocd-division/country:us/state:id/county:canyon/precinct:58-12,Canyon County ID - Precinct 58-12
-ocd-division/country:us/state:id/county:canyon/precinct:59-12,Canyon County ID - Precinct 59-12
-ocd-division/country:us/state:id/county:canyon/precinct:60-12,Canyon County ID - Precinct 60-12
-ocd-division/country:us/state:id/county:canyon/precinct:61-12,Canyon County ID - Precinct 61-12
-ocd-division/country:us/state:id/county:canyon/precinct:62-12,Canyon County ID - Precinct 62-12
-ocd-division/country:us/state:id/county:canyon/precinct:69-13,Canyon County ID - Precinct 69-13
-ocd-division/country:us/state:id/county:canyon/precinct:70-13,Canyon County ID - Precinct 70-13
-ocd-division/country:us/state:id/county:canyon/precinct:71-13,Canyon County ID - Precinct 71-13
-ocd-division/country:us/state:id/county:canyon/precinct:72-13,Canyon County ID - Precinct 72-13
-ocd-division/country:us/state:id/county:canyon/precinct:73-13,Canyon County ID - Precinct 73-13
-ocd-division/country:us/state:id/county:canyon/precinct:74-13,Canyon County ID - Precinct 74-13
-ocd-division/country:us/state:id/county:canyon/precinct:75-13,Canyon County ID - Precinct 75-13
-ocd-division/country:us/state:id/county:canyon/precinct:76-13,Canyon County ID - Precinct 76-13
-ocd-division/country:us/state:id/county:canyon/precinct:77-13,Canyon County ID - Precinct 77-13
-ocd-division/country:us/state:id/county:canyon/precinct:78-13,Canyon County ID - Precinct 78-13
-ocd-division/country:us/state:id/county:canyon/precinct:79-13,Canyon County ID - Precinct 79-13
-ocd-division/country:us/state:id/county:canyon/precinct:80-13,Canyon County ID - Precinct 80-13
-ocd-division/country:us/state:id/county:canyon/precinct:81-13,Canyon County ID - Precinct 81-13
-ocd-division/country:us/state:id/county:canyon/precinct:82-13,Canyon County ID - Precinct 82-13
+ocd-division/country:us/state:id/county:canyon/precinct:1,Canyon County ID - Precinct 1-09
+ocd-division/country:us/state:id/county:canyon/precinct:2,Canyon County ID - Precinct 2-09
+ocd-division/country:us/state:id/county:canyon/precinct:3,Canyon County ID - Precinct 3-09
+ocd-division/country:us/state:id/county:canyon/precinct:7,Canyon County ID - Precinct 7-10
+ocd-division/country:us/state:id/county:canyon/precinct:8,Canyon County ID - Precinct 8-10
+ocd-division/country:us/state:id/county:canyon/precinct:9,Canyon County ID - Precinct 9-10
+ocd-division/country:us/state:id/county:canyon/precinct:10,Canyon County ID - Precinct 10-10
+ocd-division/country:us/state:id/county:canyon/precinct:11,Canyon County ID - Precinct 11-10
+ocd-division/country:us/state:id/county:canyon/precinct:12,Canyon County ID - Precinct 12-10
+ocd-division/country:us/state:id/county:canyon/precinct:13,Canyon County ID - Precinct 13-10
+ocd-division/country:us/state:id/county:canyon/precinct:14,Canyon County ID - Precinct 14-10
+ocd-division/country:us/state:id/county:canyon/precinct:15,Canyon County ID - Precinct 15-10
+ocd-division/country:us/state:id/county:canyon/precinct:16,Canyon County ID - Precinct 16-10
+ocd-division/country:us/state:id/county:canyon/precinct:17,Canyon County ID - Precinct 17-10
+ocd-division/country:us/state:id/county:canyon/precinct:18,Canyon County ID - Precinct 18-10
+ocd-division/country:us/state:id/county:canyon/precinct:19,Canyon County ID - Precinct 19-10
+ocd-division/country:us/state:id/county:canyon/precinct:20,Canyon County ID - Precinct 20
+ocd-division/country:us/state:id/county:canyon/precinct:26,Canyon County ID - Precinct 26-11
+ocd-division/country:us/state:id/county:canyon/precinct:27,Canyon County ID - Precinct 27-11
+ocd-division/country:us/state:id/county:canyon/precinct:28,Canyon County ID - Precinct 28-11
+ocd-division/country:us/state:id/county:canyon/precinct:29,Canyon County ID - Precinct 29-11
+ocd-division/country:us/state:id/county:canyon/precinct:30,Canyon County ID - Precinct 30-11
+ocd-division/country:us/state:id/county:canyon/precinct:31,Canyon County ID - Precinct 31-11
+ocd-division/country:us/state:id/county:canyon/precinct:32,Canyon County ID - Precinct 32-11
+ocd-division/country:us/state:id/county:canyon/precinct:33,Canyon County ID - Precinct 33-11
+ocd-division/country:us/state:id/county:canyon/precinct:34,Canyon County ID - Precinct 34-11
+ocd-division/country:us/state:id/county:canyon/precinct:35,Canyon County ID - Precinct 35-11
+ocd-division/country:us/state:id/county:canyon/precinct:36,Canyon County ID - Precinct 36-11
+ocd-division/country:us/state:id/county:canyon/precinct:37,Canyon County ID - Precinct 37-11
+ocd-division/country:us/state:id/county:canyon/precinct:38,Canyon County ID - Precinct 38-11
+ocd-division/country:us/state:id/county:canyon/precinct:39,Canyon County ID - Precinct 39-11
+ocd-division/country:us/state:id/county:canyon/precinct:40,Canyon County ID - Precinct 40-11
+ocd-division/country:us/state:id/county:canyon/precinct:41,Canyon County ID - Precinct 41-11
+ocd-division/country:us/state:id/county:canyon/precinct:42,Canyon County ID - Precinct 42-11
+ocd-division/country:us/state:id/county:canyon/precinct:43,Canyon County ID - Precinct 43-11
+ocd-division/country:us/state:id/county:canyon/precinct:44,Canyon County ID - Precinct 44
+ocd-division/country:us/state:id/county:canyon/precinct:49,Canyon County ID - Precinct 49-12
+ocd-division/country:us/state:id/county:canyon/precinct:50,Canyon County ID - Precinct 50-12
+ocd-division/country:us/state:id/county:canyon/precinct:51,Canyon County ID - Precinct 51-12
+ocd-division/country:us/state:id/county:canyon/precinct:52,Canyon County ID - Precinct 52-12
+ocd-division/country:us/state:id/county:canyon/precinct:53,Canyon County ID - Precinct 53-12
+ocd-division/country:us/state:id/county:canyon/precinct:54,Canyon County ID - Precinct 54-12
+ocd-division/country:us/state:id/county:canyon/precinct:55,Canyon County ID - Precinct 55-12
+ocd-division/country:us/state:id/county:canyon/precinct:56,Canyon County ID - Precinct 56-12
+ocd-division/country:us/state:id/county:canyon/precinct:57,Canyon County ID - Precinct 57-12
+ocd-division/country:us/state:id/county:canyon/precinct:58,Canyon County ID - Precinct 58-12
+ocd-division/country:us/state:id/county:canyon/precinct:59,Canyon County ID - Precinct 59-12
+ocd-division/country:us/state:id/county:canyon/precinct:60,Canyon County ID - Precinct 60-12
+ocd-division/country:us/state:id/county:canyon/precinct:61,Canyon County ID - Precinct 61-12
+ocd-division/country:us/state:id/county:canyon/precinct:62,Canyon County ID - Precinct 62-12
+ocd-division/country:us/state:id/county:canyon/precinct:69,Canyon County ID - Precinct 69-13
+ocd-division/country:us/state:id/county:canyon/precinct:70,Canyon County ID - Precinct 70-13
+ocd-division/country:us/state:id/county:canyon/precinct:71,Canyon County ID - Precinct 71-13
+ocd-division/country:us/state:id/county:canyon/precinct:72,Canyon County ID - Precinct 72-13
+ocd-division/country:us/state:id/county:canyon/precinct:73,Canyon County ID - Precinct 73-13
+ocd-division/country:us/state:id/county:canyon/precinct:74,Canyon County ID - Precinct 74-13
+ocd-division/country:us/state:id/county:canyon/precinct:75,Canyon County ID - Precinct 75-13
+ocd-division/country:us/state:id/county:canyon/precinct:76,Canyon County ID - Precinct 76-13
+ocd-division/country:us/state:id/county:canyon/precinct:77,Canyon County ID - Precinct 77-13
+ocd-division/country:us/state:id/county:canyon/precinct:78,Canyon County ID - Precinct 78-13
+ocd-division/country:us/state:id/county:canyon/precinct:79,Canyon County ID - Precinct 79-13
+ocd-division/country:us/state:id/county:canyon/precinct:80,Canyon County ID - Precinct 80-13
+ocd-division/country:us/state:id/county:canyon/precinct:81,Canyon County ID - Precinct 81-13
+ocd-division/country:us/state:id/county:canyon/precinct:82,Canyon County ID - Precinct 82-13
 ocd-division/country:us/state:id/county:caribou/precinct:bancroft,Caribou County ID - Precinct Bancroft
 ocd-division/country:us/state:id/county:caribou/precinct:freedom,Caribou County ID - Precinct Freedom
 ocd-division/country:us/state:id/county:caribou/precinct:grace_1,Caribou County ID - Precinct Grace 1
@@ -720,6 +722,7 @@ ocd-division/country:us/state:id/county:latah/precinct:6-moscow,Latah County ID 
 ocd-division/country:us/state:id/county:latah/precinct:7-moscow,Latah County ID - Precinct Moscow 7
 ocd-division/country:us/state:id/county:latah/precinct:8-moscow,Latah County ID - Precinct Moscow 8
 ocd-division/country:us/state:id/county:latah/precinct:9-moscow,Latah County ID - Precinct Moscow 9
+ocd-division/country:us/state:id/county:lemhi/precinct:lemhi,Lemhi County ID - Precinct Lemhi
 ocd-division/country:us/state:id/county:lemhi/precinct:brooklyn,Lemhi County ID - Precinct Brooklyn
 ocd-division/country:us/state:id/county:lemhi/precinct:depot,Lemhi County ID - Precinct Depot
 ocd-division/country:us/state:id/county:lemhi/precinct:iron_creek,Lemhi County ID - Precinct Iron Creek
@@ -728,7 +731,7 @@ ocd-division/country:us/state:id/county:lemhi/precinct:mineral_hill,Lemhi County
 ocd-division/country:us/state:id/county:lemhi/precinct:north_fork,Lemhi County ID - Precinct North Fork
 ocd-division/country:us/state:id/county:lemhi/precinct:pahsimeroi,Lemhi County ID - Precinct Pahsimeroi
 ocd-division/country:us/state:id/county:lemhi/precinct:salmon,Lemhi County ID - Precinct Salmon
-ocd-division/country:us/state:id/county:lewis/precinct:1-nezperce,Lewis County ID - Precinct 1-Nezperce
+ocd-division/country:us/state:id/county:lewis/precinct:1-nez_perce,Lewis County ID - Precinct 1-Nez Perce
 ocd-division/country:us/state:id/county:lewis/precinct:2-west_kamiah,Lewis County ID - Precinct 2-West Kamiah
 ocd-division/country:us/state:id/county:lewis/precinct:3-east_kamiah,Lewis County ID - Precinct 3-East Kamiah
 ocd-division/country:us/state:id/county:lewis/precinct:4-craigmont,Lewis County ID - Precinct 4-Craigmont
@@ -740,7 +743,6 @@ ocd-division/country:us/state:id/county:lincoln/precinct:5-dietrich,Lincoln Coun
 ocd-division/country:us/state:id/county:lincoln/precinct:6-kimama,Lincoln County ID - Precinct Kimama 6
 ocd-division/country:us/state:id/county:lincoln/precinct:4-richfield,Lincoln County ID - Precinct Richfield 4
 ocd-division/country:us/state:id/county:lincoln/precinct:1-shoshone,Lincoln County ID - Precinct Shoshone 1
-ocd-division/country:us/state:id/county:lincoln/precinct:2-shoshone,Lincoln County ID - Precinct Shoshone 2
 ocd-division/country:us/state:id/county:lincoln/precinct:3-shoshone,Lincoln County ID - Precinct Shoshone 3
 ocd-division/country:us/state:id/county:madison/precinct:1,Madison County ID - Precinct 1
 ocd-division/country:us/state:id/county:madison/precinct:2,Madison County ID - Precinct 2
