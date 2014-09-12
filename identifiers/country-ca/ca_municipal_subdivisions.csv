@@ -56,9 +56,9 @@ ocd-division/country:ca/csd:1209034/district:3,Dartmouth South - Eastern Passage
 ocd-division/country:ca/csd:1209034/district:4,Cole Harbour - Westphal
 ocd-division/country:ca/csd:1209034/district:5,Dartmouth Centre
 ocd-division/country:ca/csd:1209034/district:6,Harbourview - Burnside - Dartmouth East
-ocd-division/country:ca/csd:1209034/district:7,Peninsula South - Downtown
-ocd-division/country:ca/csd:1209034/district:8,Peninsula North
-ocd-division/country:ca/csd:1209034/district:9,Armdale - Peninsula West
+ocd-division/country:ca/csd:1209034/district:7,Halifax South Downtown
+ocd-division/country:ca/csd:1209034/district:8,Halifax Peninsula North
+ocd-division/country:ca/csd:1209034/district:9,Halifax West Armdale
 ocd-division/country:ca/csd:1209034/district:10,Halifax - Bedford Basin West
 ocd-division/country:ca/csd:1209034/district:11,Spryfield - Sambro Loop - Prospect Road
 ocd-division/country:ca/csd:1209034/district:12,Timberlea - Beechville - Clayton Park West
@@ -2337,12 +2337,12 @@ ocd-division/country:ca/csd:3530027/ward:4,Ward 4
 ocd-division/country:ca/csd:3530035/ward:1,Ward 1
 ocd-division/country:ca/csd:3530035/ward:2,Ward 2
 ocd-division/country:ca/csd:3530035/ward:3,Ward 3
-ocd-division/country:ca/csd:3536020/ward:1,Ward 1
-ocd-division/country:ca/csd:3536020/ward:2,Ward 2
-ocd-division/country:ca/csd:3536020/ward:3,Ward 3
-ocd-division/country:ca/csd:3536020/ward:4,Ward 4
-ocd-division/country:ca/csd:3536020/ward:5,Ward 5
-ocd-division/country:ca/csd:3536020/ward:6,Ward 6
+ocd-division/country:ca/csd:3536020/ward:1,West Kent
+ocd-division/country:ca/csd:3536020/ward:2,South Kent
+ocd-division/country:ca/csd:3536020/ward:3,East Kent
+ocd-division/country:ca/csd:3536020/ward:4,North Kent
+ocd-division/country:ca/csd:3536020/ward:5,Wallaceburg
+ocd-division/country:ca/csd:3536020/ward:6,Chatham
 ocd-division/country:ca/csd:3537039/ward:1,Ward 1
 ocd-division/country:ca/csd:3537039/ward:2,Ward 2
 ocd-division/country:ca/csd:3537039/ward:3,Ward 3
