@@ -105,9 +105,9 @@ class MunicipalSubdivision < Runner
     provinces_and_territories = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories").to_h.invert
     provinces_and_territories_name_fr = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories-name_fr").to_h.invert
 
-    JSON.load(Faraday.post("http://www.datacatalogs.org/api/action/package_list", "{}").body)["result"].each do |id|
-      result = JSON.load(Faraday.post("http://www.datacatalogs.org/api/action/package_show", JSON.dump(:id => id)).body)["result"]
-      if result["groups"].find{|group| group["id"] == "9cb34fd8-cfb6-40f2-a104-b3eba7336cce"}
+    rows = []
+    CSV.parse(open("https://docs.google.com/spreadsheets/d/16fM8o7CpgEDmz-QrS6wriU7_EXV-A4DfBqo1P_XWvVM/export?gid=0&format=csv").read.force_encoding('UTF-8'), :headers => true) do |result|
+      if result["groups"] && result["groups"]["canada"]
         next if [
           "British Columbia Local Government Open Data Catalogue",
           "Winnipeg, Manitoba 2010 Election",
@@ -162,11 +162,15 @@ class MunicipalSubdivision < Runner
         end
 
         if identifier
-          output(nil, identifier, result["url"])
+          rows << [nil, identifier, result["url"]]
         else
-          raise fingerprint
+          $stderr.puts fingerprint
         end
       end
+    end
+
+    rows.sort_by{|_,identifier,_| identifier}.each do |args|
+      output(*args)
     end
   end
 
@@ -182,13 +186,12 @@ class MunicipalSubdivision < Runner
     # The spreadsheet and roo gems open the Excel file too slowly.
     Tempfile.open("data.xls") do |f|
       f.binmode
-      open("http://www.novascotia.ca/snsmr/municipal/pdf/mun-municipal-election-results-2008-2012.xls") do |data|
+      open("http://www.novascotia.ca/dma/pdf/mun-municipal-election-results-2008-2012.xls") do |data|
         f.write(data.read)
       end
-      sheet = `xls2csv #{f.path}`.split("\f")[1]
 
       type = "RGM"
-      CSV.parse(sheet) do |row|
+      Spreadsheet.open(f.path).worksheet(1).each do |row|
         case row[0]
         when "Amherst" # top of list
           type = "T"
@@ -212,7 +215,7 @@ class MunicipalSubdivision < Runner
             identifier, _ = CensusDivisionNameMatcher.identifier_and_name(fingerprint)
           end
 
-          output(nil, identifier, row[1])
+          output(nil, identifier, Integer(row[1].value))
         end
       end
     end
@@ -254,14 +257,13 @@ class MunicipalSubdivision < Runner
     # The spreadsheet and roo gems open the Excel file too slowly.
     Tempfile.open("data.xls") do |f|
       f.binmode
-      open("http://www.novascotia.ca/snsmr/municipal/pdf/mun-municipal-election-results-2008-2012.xls") do |data|
+      open("http://www.novascotia.ca/dma/pdf/mun-municipal-election-results-2008-2012.xls") do |data|
         f.write(data.read)
       end
-      sheet = `xls2csv #{f.path}`.split("\f")[4]
 
       type = nil
       name = nil
-      CSV.parse(sheet) do |row|
+      Spreadsheet.open(f.path).worksheet(4).each do |row|
         case row[0]
         when "Regional Municipalities"
           type = "RGM"
@@ -684,7 +686,7 @@ private
     end
 
     header_re = /^\f?(?:CITIES|NORTHERN TOWNS, VILLAGES, HAMLETS, AND SETTLEMENTS|ORGANIZED AND RESORT HAMLETS|RURAL MUNICIPALITIES|TOWNS, VILLAGES AND RESORT VILLAGES|UNKNOWN)/
-    footer_re = /^                                       *Page \d+ of 230/
+    footer_re = /^                                       *Page \d+ of 23\d/
     pages = []
     page = []
 

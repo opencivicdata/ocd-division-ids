@@ -14,8 +14,9 @@ require "dbf"
 require "faraday"
 require "mechanize"
 require "nokogiri"
+require "spreadsheet"
 require "unicode_utils/downcase"
-require "zip/zip"
+require "zip"
 
 class String
   def normalize_space
@@ -171,7 +172,7 @@ class ShapefileParser
     end
     puts CSV.generate_line(headers)
 
-    Zip::ZipFile.open(open(@url)) do |zipfile|
+    Zip::File.open(open(@url)) do |zipfile|
       entry = zipfile.entries.find{|entry| File.extname(entry.name) == ".dbf"}
       if entry
         DBF::Table.new(StringIO.new(zipfile.read(entry))).map do |record|

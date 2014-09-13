@@ -11,6 +11,7 @@ class NL < Runner
     # The shapefile from Elections Newfoundland and Labrador contains typos.
     # The only non-all-caps authoritative data source is the legislature.
     # @see http://www.elections.gov.nl.ca/elections/ElectoralBoundaries/index.html
+    # @note Vacant seats do not appear in the table.
     names = Nokogiri::HTML(open("http://www.assembly.nl.ca/members/cms/membersdirectlines.htm")).css("#content table tr:gt(1) td:eq(2)").map do |td|
       td.text.normalize_space.gsub(" - ", "—") # m-dash
     end

@@ -26,7 +26,10 @@ GEM
     net-http-persistent (2.9.4)
     nokogiri (1.5.9)
     ntlm-http (0.1.1)
-    rubyzip (0.9.9)
+    ruby-ole (1.2.11.7)
+    rubyzip (1.1.6)
+    spreadsheet (0.9.7)
+      ruby-ole (>= 1.0)
     unf (0.1.3)
       unf_ext
     unf_ext (0.0.6)
@@ -42,5 +45,6 @@ DEPENDENCIES
   lycopodium (~> 0.0.2)
   mechanize
   nokogiri (~> 1.5.9)
-  rubyzip (~> 0.9.9)
+  rubyzip
+  spreadsheet
   unicode_utils (~> 1.4.0)

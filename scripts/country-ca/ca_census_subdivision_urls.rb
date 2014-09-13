@@ -271,8 +271,9 @@ Nokogiri::HTML(open("http://www.fcm.ca/home/about-us/membership/our-members.htm"
           end
         rescue Redirection
           # Can't retry outside of rescue.
+          $stderr.puts "Retry redirect #{url}"
           retry
-        rescue Faraday::Error::ConnectionFailed, Faraday::Error::TimeoutError, Errno::ETIMEDOUT => e
+        rescue Faraday::Error::ConnectionFailed, Faraday::Error::TimeoutError, Errno::ETIMEDOUT, Zlib::BufError, Zlib::DataError => e
           if URL_UNREACHABLE.key?(type_id)
             url = URL_UNREACHABLE[type_id]
           else
