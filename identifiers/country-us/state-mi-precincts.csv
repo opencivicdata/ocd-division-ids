@@ -110,6 +110,8 @@ ocd-division/country:us/state:mi/county:barry/place:irving/precinct:1,IRVING MI 
 ocd-division/country:us/state:mi/county:barry/place:irving/precinct:2,IRVING MI Precinct 2
 ocd-division/country:us/state:mi/county:barry/place:prairieville/precinct:1,PRAIRIEVILLE MI Precinct 1
 ocd-division/country:us/state:mi/county:barry/place:prairieville/precinct:2,PRAIRIEVILLE MI Precinct 2
+ocd-division/country:us/state:mi/county:barry/place:rutland_charter/precinct:1,RUTLAND CHARTER MI Precinct 1
+ocd-division/country:us/state:mi/county:barry/place:rutland_charter/precinct:2,RUTLAND CHARTER MI Precinct 2
 ocd-division/country:us/state:mi/county:barry/place:thornapple/precinct:1,THORNAPPLE MI Precinct 1
 ocd-division/country:us/state:mi/county:barry/place:thornapple/precinct:2,THORNAPPLE MI Precinct 2
 ocd-division/country:us/state:mi/county:barry/place:thornapple/precinct:3,THORNAPPLE MI Precinct 3
@@ -1084,6 +1086,7 @@ ocd-division/country:us/state:mi/county:muskegon/place:egelston/precinct:2,EGELS
 ocd-division/country:us/state:mi/county:muskegon/place:egelston/precinct:3,EGELSTON MI Precinct 3
 ocd-division/country:us/state:mi/county:muskegon/place:fruitland/precinct:1,FRUITLAND MI Precinct 1
 ocd-division/country:us/state:mi/county:muskegon/place:fruitland/precinct:2,FRUITLAND MI Precinct 2
+ocd-division/country:us/state:mi/county:muskegon/place:fruitport_charter/precinct:1,FRUITPORT CHARTER MI Precinct 1
 ocd-division/country:us/state:mi/county:muskegon/place:fruitport_charter/precinct:2,FRUITPORT CHARTER MI Precinct 2
 ocd-division/country:us/state:mi/county:muskegon/place:fruitport_charter/precinct:3,FRUITPORT CHARTER MI Precinct 3
 ocd-division/country:us/state:mi/county:muskegon/place:fruitport_charter/precinct:4,FRUITPORT CHARTER MI Precinct 4
