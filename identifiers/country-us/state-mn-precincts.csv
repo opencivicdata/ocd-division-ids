@@ -149,7 +149,6 @@ ocd-division/country:us/state:mn/county:aitkin/precinct:nw_aitkin_1,Aitkin Count
 ocd-division/country:us/state:mn/county:aitkin/precinct:nw_aitkin_2,Aitkin County MN - NW AITKIN UNORG P-2
 ocd-division/country:us/state:mn/county:becker/place:detroit/precinct:1,Becker County MN - DETROIT TWP P-1
 ocd-division/country:us/state:mn/county:becker/place:detroit/precinct:2,Becker County MN - DETROIT TWP P-2
-ocd-division/country:us/state:mn/county:becker/place:detroit/precinct:3,Becker County MN - DETROIT TWP P-3
 ocd-division/country:us/state:mn/county:beltrami/place:northern/precinct:1,Beltrami County MN - NORTHERN TWP P 01
 ocd-division/country:us/state:mn/county:beltrami/place:northern/precinct:2,Beltrami County MN - NORTHERN TWP P 02
 ocd-division/country:us/state:mn/county:beltrami/precinct:1,Beltrami County MN - UNORG DIST 1
@@ -170,19 +169,15 @@ ocd-division/country:us/state:mn/county:carlton/precinct:red_clover,Carlton Coun
 ocd-division/country:us/state:mn/county:carlton/precinct:sawyer,Carlton County MN - SAWYER UNORG
 ocd-division/country:us/state:mn/county:carver/place:dahlgren/precinct:1,Carver County MN - DAHLGREN TWP P-1
 ocd-division/country:us/state:mn/county:carver/place:dahlgren/precinct:2,Carver County MN - DAHLGREN TWP P-2
-ocd-division/country:us/state:mn/county:carver/place:laketown/precinct:1,Carver County MN - LAKETOWN TWP P-1
-ocd-division/country:us/state:mn/county:carver/place:laketown/precinct:2,Carver County MN - LAKETOWN TWP P-2
 ocd-division/country:us/state:mn/county:cass/place:salem/precinct:1,Cass County MN - SALEM TWP P-1
-ocd-division/country:us/state:mn/county:cass/place:salem/precinct:2,Cass County MN - SALEM TWP P-2
 ocd-division/country:us/state:mn/county:cass/place:shingobee/precinct:1,Cass County MN - SHINGOBEE TWP P-1
 ocd-division/country:us/state:mn/county:cass/place:shingobee/precinct:2,Cass County MN - SHINGOBEE TWP P-2
 ocd-division/country:us/state:mn/county:cass/precinct:hardwood_south,Cass County MN - HARDWOOD SOUTH
-ocd-division/country:us/state:mn/county:cass/precinct:rogers_point,Cass County MN - ROGERS POINT
 ocd-division/country:us/state:mn/county:cass/precinct:sucker_lakes,Cass County MN - SUCKER LAKES
 ocd-division/country:us/state:mn/county:cass/precinct:whanena,Cass County MN - WAHNENA
+ocd-division/country:us/state:mn/county:cass/precinct:homebrook,Cass County MN - HOMEBROOK
 ocd-division/country:us/state:mn/county:cass/precinct:winnie_portage_lakes,Cass County MN - WINNIE PORTAGE LAKES
 ocd-division/country:us/state:mn/county:chippewa/place:granite_falls/precinct:1,Chippewa County MN - GRANITE FALLS TWP P-1
-ocd-division/country:us/state:mn/county:chippewa/place:granite_falls/precinct:2,Chippewa County MN - GRANITE FALLS TWP P-2
 ocd-division/country:us/state:mn/county:chisago/place:chisago_lake/precinct:n,Chisago County MN - CHISAGO LAKE TWP (N)
 ocd-division/country:us/state:mn/county:chisago/place:chisago_lake/precinct:s,Chisago County MN - CHISAGO LAKE TWP (S)
 ocd-division/country:us/state:mn/county:chisago/place:shafer/precinct:a,Chisago County MN - SHAFER TWP P-A
@@ -225,16 +220,11 @@ ocd-division/country:us/state:mn/county:hubbard/place:steamboat_river/precinct:1
 ocd-division/country:us/state:mn/county:hubbard/place:steamboat_river/precinct:2,Hubbard County MN - STEAMBOAT RIVER TWP P-2
 ocd-division/country:us/state:mn/county:hubbard/place:todd/precinct:1,Hubbard County MN - TODD TWP P-1
 ocd-division/country:us/state:mn/county:hubbard/place:todd/precinct:2,Hubbard County MN - TODD TWP P-2
-ocd-division/country:us/state:mn/county:itasca/place:deer_river/precinct:1,Itasca County MN - DEER RIVER TWP P-1
 ocd-division/country:us/state:mn/county:itasca/place:deer_river/precinct:2,Itasca County MN - DEER RIVER TWP P-2
 ocd-division/country:us/state:mn/county:itasca/place:greenway/precinct:1,Itasca County MN - GREENWAY TWP P-1
 ocd-division/country:us/state:mn/county:itasca/place:greenway/precinct:2,Itasca County MN - GREENWAY TWP P-2
 ocd-division/country:us/state:mn/county:itasca/place:greenway/precinct:3,Itasca County MN - GREENWAY TWP P-3
-ocd-division/country:us/state:mn/county:itasca/place:iron_range/precinct:1,Itasca County MN - IRON RANGE TWP P-1
-ocd-division/country:us/state:mn/county:itasca/place:iron_range/precinct:2,Itasca County MN - IRON RANGE TWP P-2
-ocd-division/country:us/state:mn/county:itasca/place:iron_range/precinct:3,Itasca County MN - IRON RANGE TWP P-3
 ocd-division/country:us/state:mn/county:itasca/place:morse/precinct:1,Itasca County MN - MORSE TWP P-1
-ocd-division/country:us/state:mn/county:itasca/place:morse/precinct:2,Itasca County MN - MORSE TWP P-2
 ocd-division/country:us/state:mn/county:itasca/precinct:ball_club,Itasca County MN - BALL CLUB PREC
 ocd-division/country:us/state:mn/county:itasca/precinct:bass_lake,Itasca County MN - BASS LAKE PREC
 ocd-division/country:us/state:mn/county:itasca/precinct:deer_lake,Itasca County MN - DEER LAKE PREC
@@ -248,9 +238,7 @@ ocd-division/country:us/state:mn/county:itasca/precinct:sugar_lake,Itasca County
 ocd-division/country:us/state:mn/county:itasca/precinct:wellers-mccormick_1,Itasca County MN - WELLERS-MCCORMICK PREC 1
 ocd-division/country:us/state:mn/county:itasca/precinct:wellers-mccormick_2,Itasca County MN - WELLERS-MCCORMICK PREC 2
 ocd-division/country:us/state:mn/county:itasca/precinct:winnibigoshish,Itasca County MN - WINNIBIGOSHISH PREC
-ocd-division/country:us/state:mn/county:kittson/precinct:klondike,Kittson County MN - KLONDIKE UNORG
 ocd-division/country:us/state:mn/county:kittson/precinct:mckinley,Kittson County MN - MCKINLEY UNORG
-ocd-division/country:us/state:mn/county:kittson/precinct:north,Kittson County MN - NORTH RED RIVER
 ocd-division/country:us/state:mn/county:kittson/precinct:peatland,Kittson County MN - PEATLAND UNORG
 ocd-division/country:us/state:mn/county:koochiching/precinct:1,Koochiching County MN - KOOCHICHING POLL 1
 ocd-division/country:us/state:mn/county:koochiching/precinct:2,Koochiching County MN - KOOCHICHING POLL 2
@@ -264,7 +252,6 @@ ocd-division/country:us/state:mn/county:koochiching/precinct:northwest,Koochichi
 ocd-division/country:us/state:mn/county:koochiching/precinct:scarlett,Koochiching County MN - SCARLETT PRECINCT
 ocd-division/country:us/state:mn/county:koochiching/precinct:southeast,Koochiching County MN - SOUTHEAST KOOCHICHING
 ocd-division/country:us/state:mn/county:koochiching/precinct:southwest,Koochiching County MN - SOUTHWEST KOOCHICHING
-ocd-division/country:us/state:mn/county:koochiching/precinct:west,Koochiching County MN - WEST KOOCHICHING
 ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:1a-baudette,Lake Of The Woods County MN - 0005 - 1-A BAUDETTE UNORG
 ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:1b-baudette_city,Lake Of The Woods County MN - 0010 - 1-B BAUDETTE CITY
 ocd-division/country:us/state:mn/county:lake_of_the_woods/precinct:2a-gudrid,Lake Of The Woods County MN - 0015 - 2-A GUDRID UNORG
@@ -292,15 +279,12 @@ ocd-division/country:us/state:mn/county:lake/precinct:territory_2-4,Lake County 
 ocd-division/country:us/state:mn/county:lake/precinct:territory_2-5,Lake County MN - UNORG TERR NO 2 PREC 5
 ocd-division/country:us/state:mn/county:le_sueur/place:kasota/precinct:1,Le Sueur County MN - KASOTA TWP P-1
 ocd-division/country:us/state:mn/county:le_sueur/place:kasota/precinct:2,Le Sueur County MN - KASOTA TWP P-2
-ocd-division/country:us/state:mn/county:marshall/precinct:mud_lake,Marshall County MN - MUD LAKE UNORG
 ocd-division/country:us/state:mn/county:olmsted/place:cascade/precinct:1,Olmsted County MN - CASCADE TWP P-1
 ocd-division/country:us/state:mn/county:olmsted/place:cascade/precinct:2,Olmsted County MN - CASCADE TWP P-2A
 ocd-division/country:us/state:mn/county:olmsted/place:cascade/precinct:3,Olmsted County MN - CASCADE TWP P-3A
-ocd-division/country:us/state:mn/county:olmsted/place:cascade/precinct:4,Olmsted County MN - CASCADE TWP P-4
 ocd-division/country:us/state:mn/county:olmsted/place:marion/precinct:1,Olmsted County MN - MARION TWP P-1
 ocd-division/country:us/state:mn/county:olmsted/place:marion/precinct:2,Olmsted County MN - MARION TWP P-2
 ocd-division/country:us/state:mn/county:olmsted/place:rochester/precinct:1,Olmsted County MN - ROCHESTER TWP P-1
-ocd-division/country:us/state:mn/county:olmsted/place:rochester/precinct:2,Olmsted County MN - ROCHESTER TWP P-2
 ocd-division/country:us/state:mn/county:olmsted/place:rochester/precinct:3,Olmsted County MN - ROCHESTER TWP P-3
 ocd-division/country:us/state:mn/county:olmsted/place:rochester/precinct:4,Olmsted County MN - ROCHESTER TWP P-4
 ocd-division/country:us/state:mn/county:pennington/place:rocksbury/precinct:east,Pennington County MN - ROCKSBURY TWP EAST
@@ -371,8 +355,6 @@ ocd-division/country:us/state:mn/county:stearns/place:st_joseph/precinct:1,Stear
 ocd-division/country:us/state:mn/county:stearns/place:st_joseph/precinct:2,Stearns County MN - ST JOSEPH TWP P-2
 ocd-division/country:us/state:mn/county:wadena/place:leaf_river/precinct:1,Wadena County MN - LEAF RIVER TWP P-1
 ocd-division/country:us/state:mn/county:wadena/place:leaf_river/precinct:2,Wadena County MN - LEAF RIVER TWP P-2
-ocd-division/country:us/state:mn/county:washington/place:stillwater/precinct:1,Washington County MN - STILLWATER TWP P-01
-ocd-division/country:us/state:mn/county:washington/place:stillwater/precinct:2,Washington County MN - STILLWATER TWP P-02
 ocd-division/country:us/state:mn/county:wright/place:maple_lake/precinct:1a,Wright County MN - MAPLE LAKE TWP P-1A
 ocd-division/country:us/state:mn/county:wright/place:maple_lake/precinct:1b,Wright County MN - MAPLE LAKE TWP P-1B
 ocd-division/country:us/state:mn/place:ada/ward:1,Norman County MN - ADA W-1
@@ -464,7 +446,6 @@ ocd-division/country:us/state:mn/place:blaine/ward:1/precinct:5,Anoka County MN 
 ocd-division/country:us/state:mn/place:blaine/ward:1/precinct:6,Anoka County MN - BLAINE W-1 P-6
 ocd-division/country:us/state:mn/place:blaine/ward:1/precinct:7,Anoka County MN - BLAINE W-1 P-7
 ocd-division/country:us/state:mn/place:blaine/ward:1/precinct:8,Anoka County MN - BLAINE W-1 P-8
-ocd-division/country:us/state:mn/place:blaine/ward:1/precinct:9,Ramsey County MN - BLAINE W-1 P-9
 ocd-division/country:us/state:mn/place:blaine/ward:2/precinct:1,Anoka County MN - BLAINE W-2 P-1
 ocd-division/country:us/state:mn/place:blaine/ward:2/precinct:1a,Anoka County MN - BLAINE W-2 P-2A
 ocd-division/country:us/state:mn/place:blaine/ward:2/precinct:2b,Anoka County MN - BLAINE W-2 P-2B
@@ -481,7 +462,6 @@ ocd-division/country:us/state:mn/place:blaine/ward:3/precinct:5,Anoka County MN 
 ocd-division/country:us/state:mn/place:blaine/ward:3/precinct:6,Anoka County MN - BLAINE W-3 P-6
 ocd-division/country:us/state:mn/place:blaine/ward:3/precinct:7,Anoka County MN - BLAINE W-3 P-7
 ocd-division/country:us/state:mn/place:blaine/ward:3/precinct:8,Anoka County MN - BLAINE W-3 P-8
-ocd-division/country:us/state:mn/place:blooming_prairie/precinct:dodge,Dodge County MN - BLOOMING PRAIRIE
 ocd-division/country:us/state:mn/place:blooming_prairie/precinct:steele,Steele County MN - BLOOMING PRAIRIE
 ocd-division/country:us/state:mn/place:bloomington/ward:1/precinct:10,Hennepin County MN - BLOOMINGTON W-1 P-10
 ocd-division/country:us/state:mn/place:bloomington/ward:1/precinct:12,Hennepin County MN - BLOOMINGTON W-1 P-12
@@ -519,7 +499,6 @@ ocd-division/country:us/state:mn/place:blue_earth/ward:1,Faribault County MN - B
 ocd-division/country:us/state:mn/place:blue_earth/ward:2,Faribault County MN - BLUE EARTH W-2
 ocd-division/country:us/state:mn/place:blue_earth/ward:3,Faribault County MN - BLUE EARTH W-3
 ocd-division/country:us/state:mn/place:braham/precinct:isanti,Isanti County MN - BRAHAM CITY
-ocd-division/country:us/state:mn/place:braham/precinct:kanabec,Kanabec County MN - BRAHAM
 ocd-division/country:us/state:mn/place:brainerd/ward:1/precinct:1,Crow Wing County MN - BRAINERD W-1 P-1
 ocd-division/country:us/state:mn/place:brainerd/ward:1/precinct:2,Crow Wing County MN - BRAINERD W-1 P-2
 ocd-division/country:us/state:mn/place:brainerd/ward:2/precinct:1,Crow Wing County MN - BRAINERD W-2 P-1
@@ -563,7 +542,6 @@ ocd-division/country:us/state:mn/place:brooklyn_park/ward:w/precinct:3,Hennepin 
 ocd-division/country:us/state:mn/place:brooklyn_park/ward:w/precinct:4,Hennepin County MN - BROOKLYN PARK W-W P-4
 ocd-division/country:us/state:mn/place:brooklyn_park/ward:w/precinct:5,Hennepin County MN - BROOKLYN PARK W-W P-5
 ocd-division/country:us/state:mn/place:brooklyn_park/ward:w/precinct:6,Hennepin County MN - BROOKLYN PARK W-W P-6
-ocd-division/country:us/state:mn/place:brooten/precinct:pope,Pope County MN - BROOTEN
 ocd-division/country:us/state:mn/place:brooten/precinct:stearns,Stearns County MN - BROOTEN
 ocd-division/country:us/state:mn/place:buffalo/precinct:1,Wright County MN - BUFFALO P-1
 ocd-division/country:us/state:mn/place:buffalo/precinct:2,Wright County MN - BUFFALO P-2
@@ -596,10 +574,8 @@ ocd-division/country:us/state:mn/place:champlin/ward:1,Hennepin County MN - CHAM
 ocd-division/country:us/state:mn/place:champlin/ward:2,Hennepin County MN - CHAMPLIN W-2 P-01
 ocd-division/country:us/state:mn/place:champlin/ward:3,Hennepin County MN - CHAMPLIN W-3 P-01
 ocd-division/country:us/state:mn/place:champlin/ward:4,Hennepin County MN - CHAMPLIN W-4 P-01
-ocd-division/country:us/state:mn/place:chanhassen/precinct:1,Hennepin County MN - CHANHASSEN P-01
 ocd-division/country:us/state:mn/place:chanhassen/precinct:1a,Carver County MN - CHANHASSEN P-1A
 ocd-division/country:us/state:mn/place:chanhassen/precinct:1b,Carver County MN - CHANHASSEN P-1B
-ocd-division/country:us/state:mn/place:chanhassen/precinct:2,Hennepin County MN - CHANHASSEN P-02
 ocd-division/country:us/state:mn/place:chanhassen/precinct:2a,Carver County MN - CHANHASSEN P-2A
 ocd-division/country:us/state:mn/place:chanhassen/precinct:2b,Carver County MN - CHANHASSEN P-2B
 ocd-division/country:us/state:mn/place:chanhassen/precinct:3,Carver County MN - CHANHASSEN P-3
@@ -613,7 +589,6 @@ ocd-division/country:us/state:mn/place:chatfield/precinct:fillmore,Fillmore Coun
 ocd-division/country:us/state:mn/place:chatfield/precinct:olmsted,Olmsted County MN - CHATFIELD
 ocd-division/country:us/state:mn/place:circle_pines/precinct:1,Anoka County MN - CIRCLE PINES P-1
 ocd-division/country:us/state:mn/place:circle_pines/precinct:2,Anoka County MN - CIRCLE PINES P-2
-ocd-division/country:us/state:mn/place:clearwater/precinct:stearns,Stearns County MN - CLEARWATER
 ocd-division/country:us/state:mn/place:clearwater/precinct:wright,Wright County MN - CLEARWATER
 ocd-division/country:us/state:mn/place:cloquet/ward:1,Carlton County MN - CLOQUET W-1
 ocd-division/country:us/state:mn/place:cloquet/ward:2,Carlton County MN - CLOQUET W-2
@@ -772,7 +747,8 @@ ocd-division/country:us/state:mn/place:eden_prairie/precinct:15,Hennepin County 
 ocd-division/country:us/state:mn/place:eden_prairie/precinct:16,Hennepin County MN - EDEN PRAIRIE P-16
 ocd-division/country:us/state:mn/place:eden_prairie/precinct:17,Hennepin County MN - EDEN PRAIRIE P-17
 ocd-division/country:us/state:mn/place:eden_prairie/precinct:18,Hennepin County MN - EDEN PRAIRIE P-18
-ocd-division/country:us/state:mn/place:eden_prairie/precinct:19,Hennepin County MN - EDEN PRAIRIE P-19
+ocd-division/country:us/state:mn/place:eden_prairie/precinct:19a,Hennepin County MN - EDEN PRAIRIE P-19A
+ocd-division/country:us/state:mn/place:eden_prairie/precinct:19b,Hennepin County MN - EDEN PRAIRIE P-19B
 ocd-division/country:us/state:mn/place:eden_prairie/precinct:2,Hennepin County MN - EDEN PRAIRIE P-02
 ocd-division/country:us/state:mn/place:eden_prairie/precinct:3,Hennepin County MN - EDEN PRAIRIE P-03
 ocd-division/country:us/state:mn/place:eden_prairie/precinct:4,Hennepin County MN - EDEN PRAIRIE P-04
@@ -1005,24 +981,24 @@ ocd-division/country:us/state:mn/place:luverne/ward:2-se,Rock County MN - LUVERN
 ocd-division/country:us/state:mn/place:luverne/ward:2-sw,Rock County MN - LUVERNE W-2 SW
 ocd-division/country:us/state:mn/place:mahtomedi/precinct:1,Washington County MN - MAHTOMEDI P-1
 ocd-division/country:us/state:mn/place:mahtomedi/precinct:2,Washington County MN - MAHTOMEDI P-2
-ocd-division/country:us/state:mn/place:mankato/ward:1/precinct:11,Blue Earth County MN - MANKATO  W-01 P-11
-ocd-division/country:us/state:mn/place:mankato/ward:1/precinct:12,Blue Earth County MN - MANKATO  W-01 P-12
-ocd-division/country:us/state:mn/place:mankato/ward:1/precinct:14,Blue Earth County MN - MANKATO  W-01 P-14
-ocd-division/country:us/state:mn/place:mankato/ward:2/precinct:15,Blue Earth County MN - MANKATO  W-02 P-15
-ocd-division/country:us/state:mn/place:mankato/ward:2/precinct:16,Blue Earth County MN - MANKATO  W-02 P-16
-ocd-division/country:us/state:mn/place:mankato/ward:2/precinct:17,Blue Earth County MN - MANKATO  W-02 P-17
-ocd-division/country:us/state:mn/place:mankato/ward:2/precinct:30,Nicollet County MN - MANKATO W-2 P-30
-ocd-division/country:us/state:mn/place:mankato/ward:3/precinct:7,Blue Earth County MN - MANKATO  W-03 P-07
-ocd-division/country:us/state:mn/place:mankato/ward:3/precinct:8,Blue Earth County MN - MANKATO  W-03 P-08
-ocd-division/country:us/state:mn/place:mankato/ward:3/precinct:9,Blue Earth County MN - MANKATO  W-03 P-09
-ocd-division/country:us/state:mn/place:mankato/ward:4/precinct:10,Blue Earth County MN - MANKATO  W-04 P-10
-ocd-division/country:us/state:mn/place:mankato/ward:4/precinct:13,Blue Earth County MN - MANKATO  W-04 P-13
-ocd-division/country:us/state:mn/place:mankato/ward:5/precinct:1,Blue Earth County MN - MANKATO  W-05 P-01
-ocd-division/country:us/state:mn/place:mankato/ward:5/precinct:2,Blue Earth County MN - MANKATO  W-05 P-02
-ocd-division/country:us/state:mn/place:mankato/ward:5/precinct:3,Blue Earth County MN - MANKATO  W-05 P-03
-ocd-division/country:us/state:mn/place:mankato/ward:5/precinct:4,Blue Earth County MN - MANKATO  W-05 P-04
-ocd-division/country:us/state:mn/place:mankato/ward:5/precinct:5,Blue Earth County MN - MANKATO  W-05 P-05
-ocd-division/country:us/state:mn/place:mankato/ward:5/precinct:6,Blue Earth County MN - MANKATO  W-05 P-06
+ocd-division/country:us/state:mn/place:mankato/ward:1/precinct:11,Blue Earth County MN - MANKATO W-01 P-11
+ocd-division/country:us/state:mn/place:mankato/ward:1/precinct:12,Blue Earth County MN - MANKATO W-01 P-12
+ocd-division/country:us/state:mn/place:mankato/ward:1/precinct:14,Blue Earth County MN - MANKATO W-01 P-14
+ocd-division/country:us/state:mn/place:mankato/ward:2/precinct:15,Blue Earth County MN - MANKATO W-02 P-15
+ocd-division/country:us/state:mn/place:mankato/ward:2/precinct:16,Blue Earth County MN - MANKATO W-02 P-16
+ocd-division/country:us/state:mn/place:mankato/ward:2/precinct:17,Blue Earth County MN - MANKATO W-02 P-17
+ocd-division/country:us/state:mn/place:mankato/ward:3/precinct:7,Blue Earth County MN - MANKATO W-03 P-07
+ocd-division/country:us/state:mn/place:mankato/ward:3/precinct:8,Blue Earth County MN - MANKATO W-03 P-08
+ocd-division/country:us/state:mn/place:mankato/ward:3/precinct:9,Blue Earth County MN - MANKATO W-03 P-09
+ocd-division/country:us/state:mn/place:mankato/ward:4/precinct:10,Blue Earth County MN - MANKATO W-04 P-10
+ocd-division/country:us/state:mn/place:mankato/ward:4/precinct:10a,Blue Earth County MN - MANKATO W-04 P-10A
+ocd-division/country:us/state:mn/place:mankato/ward:4/precinct:13,Blue Earth County MN - MANKATO W-04 P-13
+ocd-division/country:us/state:mn/place:mankato/ward:5/precinct:1,Blue Earth County MN - MANKATO W-05 P-01
+ocd-division/country:us/state:mn/place:mankato/ward:5/precinct:2,Blue Earth County MN - MANKATO W-05 P-02
+ocd-division/country:us/state:mn/place:mankato/ward:5/precinct:3,Blue Earth County MN - MANKATO W-05 P-03
+ocd-division/country:us/state:mn/place:mankato/ward:5/precinct:4,Blue Earth County MN - MANKATO W-05 P-04
+ocd-division/country:us/state:mn/place:mankato/ward:5/precinct:5,Blue Earth County MN - MANKATO W-05 P-05
+ocd-division/country:us/state:mn/place:mankato/ward:5/precinct:6,Blue Earth County MN - MANKATO W-05 P-06
 ocd-division/country:us/state:mn/place:maple_grove/precinct:1,Hennepin County MN - MAPLE GROVE P-01
 ocd-division/country:us/state:mn/place:maple_grove/precinct:10,Hennepin County MN - MAPLE GROVE P-10
 ocd-division/country:us/state:mn/place:maple_grove/precinct:11,Hennepin County MN - MAPLE GROVE P-11
@@ -1053,7 +1029,6 @@ ocd-division/country:us/state:mn/place:maplewood/precinct:12,Ramsey County MN - 
 ocd-division/country:us/state:mn/place:maplewood/precinct:13,Ramsey County MN - MAPLEWOOD P-13
 ocd-division/country:us/state:mn/place:maplewood/precinct:14,Ramsey County MN - MAPLEWOOD P-14
 ocd-division/country:us/state:mn/place:maplewood/precinct:15,Ramsey County MN - MAPLEWOOD P-15
-ocd-division/country:us/state:mn/place:maplewood/precinct:16,Ramsey County MN - MAPLEWOOD P-16
 ocd-division/country:us/state:mn/place:maplewood/precinct:2,Ramsey County MN - MAPLEWOOD P-02
 ocd-division/country:us/state:mn/place:maplewood/precinct:3,Ramsey County MN - MAPLEWOOD P-03
 ocd-division/country:us/state:mn/place:maplewood/precinct:4,Ramsey County MN - MAPLEWOOD P-04
@@ -1081,13 +1056,12 @@ ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:6,Hennepin Co
 ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:7,Hennepin County MN - MINNEAPOLIS W-1 P-07
 ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:8,Hennepin County MN - MINNEAPOLIS W-1 P-08
 ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:9,Hennepin County MN - MINNEAPOLIS W-1 P-09
+ocd-division/country:us/state:mn/place:minneapolis/ward:1/precinct:10,Hennepin County MN - MINNEAPOLIS W-1 P-10
 ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:1,Hennepin County MN - MINNEAPOLIS W-10 P-01
 ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:2,Hennepin County MN - MINNEAPOLIS W-10 P-02
 ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:3a,Hennepin County MN - MINNEAPOLIS W-10 P-03A
-ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:3b,Hennepin County MN - MINNEAPOLIS W-10 P-03B
 ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:4,Hennepin County MN - MINNEAPOLIS W-10 P-04
 ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:5a,Hennepin County MN - MINNEAPOLIS W-10 P-05A
-ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:5b,Hennepin County MN - MINNEAPOLIS W-10 P-05B
 ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:6,Hennepin County MN - MINNEAPOLIS W-10 P-06
 ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:7,Hennepin County MN - MINNEAPOLIS W-10 P-07
 ocd-division/country:us/state:mn/place:minneapolis/ward:10/precinct:8,Hennepin County MN - MINNEAPOLIS W-10 P-08
@@ -1104,6 +1078,8 @@ ocd-division/country:us/state:mn/place:minneapolis/ward:11/precinct:8,Hennepin C
 ocd-division/country:us/state:mn/place:minneapolis/ward:11/precinct:9,Hennepin County MN - MINNEAPOLIS W-11 P-09
 ocd-division/country:us/state:mn/place:minneapolis/ward:12/precinct:1,Hennepin County MN - MINNEAPOLIS W-12 P-01
 ocd-division/country:us/state:mn/place:minneapolis/ward:12/precinct:10,Hennepin County MN - MINNEAPOLIS W-12 P-10
+ocd-division/country:us/state:mn/place:minneapolis/ward:12/precinct:11,Hennepin County MN - MINNEAPOLIS W-12 P-11
+ocd-division/country:us/state:mn/place:minneapolis/ward:12/precinct:12,Hennepin County MN - MINNEAPOLIS W-12 P-12
 ocd-division/country:us/state:mn/place:minneapolis/ward:12/precinct:2,Hennepin County MN - MINNEAPOLIS W-12 P-02
 ocd-division/country:us/state:mn/place:minneapolis/ward:12/precinct:3,Hennepin County MN - MINNEAPOLIS W-12 P-03
 ocd-division/country:us/state:mn/place:minneapolis/ward:12/precinct:4,Hennepin County MN - MINNEAPOLIS W-12 P-04
@@ -1121,6 +1097,7 @@ ocd-division/country:us/state:mn/place:minneapolis/ward:13/precinct:6,Hennepin C
 ocd-division/country:us/state:mn/place:minneapolis/ward:13/precinct:7,Hennepin County MN - MINNEAPOLIS W-13 P-07
 ocd-division/country:us/state:mn/place:minneapolis/ward:13/precinct:8,Hennepin County MN - MINNEAPOLIS W-13 P-08
 ocd-division/country:us/state:mn/place:minneapolis/ward:13/precinct:9,Hennepin County MN - MINNEAPOLIS W-13 P-09
+ocd-division/country:us/state:mn/place:minneapolis/ward:13/precinct:10,Hennepin County MN - MINNEAPOLIS W-13 P-10
 ocd-division/country:us/state:mn/place:minneapolis/ward:2/precinct:1,Hennepin County MN - MINNEAPOLIS W-2 P-01
 ocd-division/country:us/state:mn/place:minneapolis/ward:2/precinct:10,Hennepin County MN - MINNEAPOLIS W-2 P-10
 ocd-division/country:us/state:mn/place:minneapolis/ward:2/precinct:2,Hennepin County MN - MINNEAPOLIS W-2 P-02
@@ -1140,6 +1117,9 @@ ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:6,Hennepin Co
 ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:7,Hennepin County MN - MINNEAPOLIS W-3 P-07
 ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:8,Hennepin County MN - MINNEAPOLIS W-3 P-08
 ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:9,Hennepin County MN - MINNEAPOLIS W-3 P-09
+ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:10,Hennepin County MN - MINNEAPOLIS W-3 P-10
+ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:11,Hennepin County MN - MINNEAPOLIS W-3 P-11
+ocd-division/country:us/state:mn/place:minneapolis/ward:3/precinct:12,Hennepin County MN - MINNEAPOLIS W-3 P-12
 ocd-division/country:us/state:mn/place:minneapolis/ward:4/precinct:1,Hennepin County MN - MINNEAPOLIS W-4 P-01
 ocd-division/country:us/state:mn/place:minneapolis/ward:4/precinct:2,Hennepin County MN - MINNEAPOLIS W-4 P-02
 ocd-division/country:us/state:mn/place:minneapolis/ward:4/precinct:3,Hennepin County MN - MINNEAPOLIS W-4 P-03
@@ -1156,6 +1136,7 @@ ocd-division/country:us/state:mn/place:minneapolis/ward:5/precinct:5,Hennepin Co
 ocd-division/country:us/state:mn/place:minneapolis/ward:5/precinct:6,Hennepin County MN - MINNEAPOLIS W-5 P-06C
 ocd-division/country:us/state:mn/place:minneapolis/ward:5/precinct:7,Hennepin County MN - MINNEAPOLIS W-5 P-07
 ocd-division/country:us/state:mn/place:minneapolis/ward:5/precinct:8,Hennepin County MN - MINNEAPOLIS W-5 P-08
+ocd-division/country:us/state:mn/place:minneapolis/ward:5/precinct:9,Hennepin County MN - MINNEAPOLIS W-5 P-09
 ocd-division/country:us/state:mn/place:minneapolis/ward:6/precinct:1,Hennepin County MN - MINNEAPOLIS W-6 P-01
 ocd-division/country:us/state:mn/place:minneapolis/ward:6/precinct:2,Hennepin County MN - MINNEAPOLIS W-6 P-02
 ocd-division/country:us/state:mn/place:minneapolis/ward:6/precinct:3,Hennepin County MN - MINNEAPOLIS W-6 P-03
@@ -1191,7 +1172,7 @@ ocd-division/country:us/state:mn/place:minneapolis/ward:9/precinct:5,Hennepin Co
 ocd-division/country:us/state:mn/place:minneapolis/ward:9/precinct:6,Hennepin County MN - MINNEAPOLIS W-9 P-06
 ocd-division/country:us/state:mn/place:minneapolis/ward:9/precinct:7,Hennepin County MN - MINNEAPOLIS W-9 P-07
 ocd-division/country:us/state:mn/place:minneapolis/ward:9/precinct:8,Hennepin County MN - MINNEAPOLIS W-9 P-08
-ocd-division/country:us/state:mn/place:minneiska/precinct:wabasha,Wabasha County MN - MINNEISKA  CITY
+ocd-division/country:us/state:mn/place:minneiska/precinct:wabasha,Wabasha County MN - MINNEISKA CITY
 ocd-division/country:us/state:mn/place:minneiska/precinct:winona,Winona County MN - MINNEISKA
 ocd-division/country:us/state:mn/place:minnesota_lake/precinct:blue_earth,Blue Earth County MN - MINNESOTA LAKE
 ocd-division/country:us/state:mn/place:minnesota_lake/precinct:faribault,Faribault County MN - MINNESOTA LAKE
@@ -1471,8 +1452,6 @@ ocd-division/country:us/state:mn/place:rochester/ward:6/precinct:7,Olmsted Count
 ocd-division/country:us/state:mn/place:rochester/ward:6/precinct:8,Olmsted County MN - ROCHESTER W-6 P-8
 ocd-division/country:us/state:mn/place:rockford/precinct:1,Hennepin County MN - ROCKFORD P-01
 ocd-division/country:us/state:mn/place:rockford/precinct:2,Wright County MN - ROCKFORD P-2
-ocd-division/country:us/state:mn/place:rockville/precinct:1,Stearns County MN - ROCKVILLE P-1
-ocd-division/country:us/state:mn/place:rockville/precinct:2,Stearns County MN - ROCKVILLE P-2
 ocd-division/country:us/state:mn/place:rogers/precinct:1,Hennepin County MN - ROGERS P-01
 ocd-division/country:us/state:mn/place:rogers/precinct:2,Hennepin County MN - ROGERS P-02
 ocd-division/country:us/state:mn/place:rosemount/precinct:1,Dakota County MN - ROSEMOUNT P-1
@@ -1494,7 +1473,6 @@ ocd-division/country:us/state:mn/place:roseville/precinct:8,Ramsey County MN - R
 ocd-division/country:us/state:mn/place:roseville/precinct:9,Ramsey County MN - ROSEVILLE P-09
 ocd-division/country:us/state:mn/place:rothsay/precinct:otter_tail,Otter Tail County MN - ROTHSAY
 ocd-division/country:us/state:mn/place:rothsay/precinct:wilkin,Wilkin County MN - ROTHSAY CITY
-ocd-division/country:us/state:mn/place:royalton/precinct:benton,Benton County MN - ROYALTON
 ocd-division/country:us/state:mn/place:royalton/precinct:morrison,Morrison County MN - ROYALTON
 ocd-division/country:us/state:mn/place:sartell/precinct:1,Stearns County MN - SARTELL P-1
 ocd-division/country:us/state:mn/place:sartell/precinct:2,Benton County MN - SARTELL P-2
@@ -1508,7 +1486,6 @@ ocd-division/country:us/state:mn/place:sauk_rapids/precinct:2,Benton County MN -
 ocd-division/country:us/state:mn/place:sauk_rapids/precinct:3,Benton County MN - SAUK RAPIDS P-3
 ocd-division/country:us/state:mn/place:sauk_rapids/precinct:4,Benton County MN - SAUK RAPIDS P-4
 ocd-division/country:us/state:mn/place:sauk_rapids/precinct:5,Benton County MN - SAUK RAPIDS P-5
-ocd-division/country:us/state:mn/place:sauk_rapids/precinct:6,Benton County MN - SAUK RAPIDS P-6
 ocd-division/country:us/state:mn/place:savage/precinct:1,Scott County MN - SAVAGE P-1
 ocd-division/country:us/state:mn/place:savage/precinct:2,Scott County MN - SAVAGE P-2
 ocd-division/country:us/state:mn/place:savage/precinct:3,Scott County MN - SAVAGE P-3
@@ -1546,11 +1523,11 @@ ocd-division/country:us/state:mn/place:silver_bay/precinct:1,Lake County MN - SI
 ocd-division/country:us/state:mn/place:silver_bay/precinct:2,Lake County MN - SILVER BAY P-2
 ocd-division/country:us/state:mn/place:sleepy_eye/ward:1,Brown County MN - SLEEPY EYE W-1
 ocd-division/country:us/state:mn/place:sleepy_eye/ward:2,Brown County MN - SLEEPY EYE W-2
-ocd-division/country:us/state:mn/place:south_st_paul/ward:1/precinct:1,Dakota County MN - SOUTH ST PAUL W-1 P-1
-ocd-division/country:us/state:mn/place:south_st_paul/ward:1/precinct:2,Dakota County MN - SOUTH ST PAUL W-1 P-2
-ocd-division/country:us/state:mn/place:south_st_paul/ward:2/precinct:3,Dakota County MN - SOUTH ST PAUL W-2 P-3
-ocd-division/country:us/state:mn/place:south_st_paul/ward:2/precinct:4,Dakota County MN - SOUTH ST PAUL W-2 P-4
-ocd-division/country:us/state:mn/place:south_st_paul/ward:3/precinct:5,Dakota County MN - SOUTH ST PAUL W-3 P-5
+ocd-division/country:us/state:mn/place:south_st_paul/ward:1/precinct:1,Dakota County MN - SOUTH ST PAUL P-1
+ocd-division/country:us/state:mn/place:south_st_paul/ward:1/precinct:2,Dakota County MN - SOUTH ST PAUL P-2
+ocd-division/country:us/state:mn/place:south_st_paul/ward:2/precinct:3,Dakota County MN - SOUTH ST PAUL P-3
+ocd-division/country:us/state:mn/place:south_st_paul/ward:2/precinct:4,Dakota County MN - SOUTH ST PAUL P-4
+ocd-division/country:us/state:mn/place:south_st_paul/ward:3/precinct:5,Dakota County MN - SOUTH ST PAUL P-5
 ocd-division/country:us/state:mn/place:spring_lake_park/precinct:1a,Anoka County MN - SPRING LAKE PARK P-1A
 ocd-division/country:us/state:mn/place:spring_lake_park/precinct:2,Anoka County MN - SPRING LAKE PARK P-2
 ocd-division/country:us/state:mn/place:spring_lake_park/precinct:3,Anoka County MN - SPRING LAKE PARK P-3
@@ -1589,7 +1566,6 @@ ocd-division/country:us/state:mn/place:st_cloud/ward:4/precinct:6,Stearns County
 ocd-division/country:us/state:mn/place:st_cloud/ward:4/precinct:7,Stearns County MN - ST CLOUD W-4 P-7
 ocd-division/country:us/state:mn/place:st_francis/precinct:1,Anoka County MN - ST FRANCIS P-1
 ocd-division/country:us/state:mn/place:st_francis/precinct:2,Anoka County MN - ST FRANCIS P-2
-ocd-division/country:us/state:mn/place:st_francis/precinct:3,Isanti County MN - ST FRANCIS P-3
 ocd-division/country:us/state:mn/place:st_james/ward:1,Watonwan County MN - ST JAMES CITY W-1
 ocd-division/country:us/state:mn/place:st_james/ward:2,Watonwan County MN - ST JAMES CITY W-2
 ocd-division/country:us/state:mn/place:st_joseph/precinct:1,Stearns County MN - ST JOSEPH P-1
@@ -1729,7 +1705,8 @@ ocd-division/country:us/state:mn/place:stillwater/ward:4/precinct:8,Washington C
 ocd-division/country:us/state:mn/place:sturgeon_lake/precinct:1,Pine County MN - STURGEON LAKE P-1
 ocd-division/country:us/state:mn/place:sturgeon_lake/precinct:2,Pine County MN - STURGEON LAKE P-2
 ocd-division/country:us/state:mn/place:swanville/precinct:morrison,Morrison County MN - SWANVILLE
-ocd-division/country:us/state:mn/place:swanville/precinct:todd,Todd County MN - SWANVILLE
+ocd-division/country:us/state:mn/place:taconite/precinct:1,Itasca County MN - TACONITE P-1
+ocd-division/country:us/state:mn/place:taconite/precinct:2,Itasca County MN - TACONITE P-2
 ocd-division/country:us/state:mn/place:thief_river_falls/precinct:1a,Pennington County MN - THIEF RIVER FALLS P-1A
 ocd-division/country:us/state:mn/place:thief_river_falls/precinct:1b,Pennington County MN - THIEF RIVER FALLS P-1B
 ocd-division/country:us/state:mn/place:thief_river_falls/precinct:2,Pennington County MN - THIEF RIVER FALLS P-2
@@ -1738,7 +1715,6 @@ ocd-division/country:us/state:mn/place:thief_river_falls/precinct:3b,Pennington 
 ocd-division/country:us/state:mn/place:thief_river_falls/precinct:4,Pennington County MN - THIEF RIVER FALLS P-4
 ocd-division/country:us/state:mn/place:thief_river_falls/precinct:5,Pennington County MN - THIEF RIVER FALLS P-5
 ocd-division/country:us/state:mn/place:tower/precinct:1,St Louis County MN - TOWER P-1
-ocd-division/country:us/state:mn/place:tower/precinct:2,St Louis County MN - TOWER P-2
 ocd-division/country:us/state:mn/place:two_harbors/ward:1,Lake County MN - TWO HARBORS W-1
 ocd-division/country:us/state:mn/place:two_harbors/ward:2,Lake County MN - TWO HARBORS W-2
 ocd-division/country:us/state:mn/place:two_harbors/ward:3,Lake County MN - TWO HARBORS W-3
@@ -1797,7 +1773,6 @@ ocd-division/country:us/state:mn/place:willmar/ward:1/precinct:3,Kandiyohi Count
 ocd-division/country:us/state:mn/place:willmar/ward:2/precinct:1,Kandiyohi County MN - WILLMAR W-2 P-1
 ocd-division/country:us/state:mn/place:willmar/ward:2/precinct:2,Kandiyohi County MN - WILLMAR W-2 P-2
 ocd-division/country:us/state:mn/place:willmar/ward:2/precinct:3,Kandiyohi County MN - WILLMAR W-2 P-3
-ocd-division/country:us/state:mn/place:willmar/ward:2/precinct:4,Kandiyohi County MN - WILLMAR W-2 P-4
 ocd-division/country:us/state:mn/place:willmar/ward:3/precinct:1,Kandiyohi County MN - WILLMAR W-3 P-1
 ocd-division/country:us/state:mn/place:willmar/ward:3/precinct:2,Kandiyohi County MN - WILLMAR W-3 P-2
 ocd-division/country:us/state:mn/place:willmar/ward:3/precinct:3,Kandiyohi County MN - WILLMAR W-3 P-3
