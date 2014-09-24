@@ -1716,6 +1716,16 @@ ocd-division/country:us/state:ks/place:topeka/ward:13/precinct:5,Shawnee County 
 ocd-division/country:us/state:ks/place:topeka/ward:13/precinct:6,Shawnee County KS - TOPEKA WARD 13 PRECINCT 06
 ocd-division/country:us/state:ks/place:topeka/ward:13/precinct:8,Shawnee County KS - TOPEKA WARD 13 PRECINCT 08
 ocd-division/country:us/state:ks/place:topeka/ward:13/precinct:9,Shawnee County KS - TOPEKA WARD 13 PRECINCT 09
+ocd-division/country:us/state:ks/place:topeka/ward:14,Shawnee County KS - TOPEKA WARD 14
+ocd-division/country:us/state:ks/place:topeka/ward:14/precinct:1,Shawnee County KS - TOPEKA WARD 14 PRECINCT 01
+ocd-division/country:us/state:ks/place:topeka/ward:14/precinct:2,Shawnee County KS - TOPEKA WARD 14 PRECINCT 02
+ocd-division/country:us/state:ks/place:topeka/ward:14/precinct:3,Shawnee County KS - TOPEKA WARD 14 PRECINCT 03
+ocd-division/country:us/state:ks/place:topeka/ward:14/precinct:4,Shawnee County KS - TOPEKA WARD 14 PRECINCT 04
+ocd-division/country:us/state:ks/place:topeka/ward:14/precinct:5,Shawnee County KS - TOPEKA WARD 14 PRECINCT 05
+ocd-division/country:us/state:ks/place:topeka/ward:15,Shawnee County KS - TOPEKA WARD 15
+ocd-division/country:us/state:ks/place:topeka/ward:15/precinct:1,Shawnee County KS - TOPEKA WARD 15 PRECINCT 01
+ocd-division/country:us/state:ks/place:topeka/ward:15/precinct:2,Shawnee County KS - TOPEKA WARD 15 PRECINCT 02
+ocd-division/country:us/state:ks/place:topeka/ward:15/precinct:3,Shawnee County KS - TOPEKA WARD 15 PRECINCT 03
 ocd-division/country:us/state:ks/place:topeka/ward:2,Shawnee County KS - TOPEKA WARD 02
 ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:1,Shawnee County KS - TOPEKA WARD 02 PRECINCT 01
 ocd-division/country:us/state:ks/place:topeka/ward:2/precinct:10,Shawnee County KS - TOPEKA WARD 02 PRECINCT 10
@@ -2354,3 +2364,7 @@ ocd-division/country:us/state:ks/county:doniphan/precinct:wayne,Doniphan County 
 ocd-division/country:us/state:ks/county:doniphan/precinct:white_cloud,Doniphan County KS - Precinct White Cloud
 ocd-division/country:us/state:ks/place:tribune,Greeley County KS - Tribune City
 ocd-division/country:us/state:ks/county:atchison/precinct:huron,Atchison County KS - Precinct Huron
+ocd-division/country:us/state:ks/place:clifton/precinct:clay_county,Clifton County KS - Precinct Clay County
+ocd-division/country:us/state:ks/place:clifton/precinct:washington_county,Clifton County KS - Precinct Washington County
+ocd-division/country:us/state:ks/place:vining/precinct:clay_county,Vining County KS - Precinct Clay County
+ocd-division/country:us/state:ks/place:vining/precinct:washington_county,Vining County KS - Precinct Washington County
