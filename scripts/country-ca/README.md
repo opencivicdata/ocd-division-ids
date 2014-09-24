@@ -1,6 +1,6 @@
 # Open Civic Data Divisions: Canada
 
-## Usage
+## Maintenance
 
     ./scripts/country-ca/run-all.sh
 
