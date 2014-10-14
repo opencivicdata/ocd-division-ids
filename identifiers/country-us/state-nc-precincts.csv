@@ -365,7 +365,8 @@ ocd-division/country:us/state:nc/county:camden/precinct:ch-courthouse,Camden Cou
 ocd-division/country:us/state:nc/county:camden/precinct:sh-shiloh,Camden County Precinct Sh-Shiloh
 ocd-division/country:us/state:nc/county:camden/precinct:sm-south_mills,Camden County Precinct Sm-South Mills
 ocd-division/country:us/state:nc/county:carteret/precinct:abch-atlantic_beach,Carteret County Precinct Abch-Atlantic Beach
-ocd-division/country:us/state:nc/county:carteret/precinct:atcs-atlantic~cedar_island~sea_level,Carteret County Precinct Atcs-Atlantic/Cedar Island/Sea Level
+ocd-division/country:us/state:nc/county:carteret/precinct:atsl-atlantic~sea_level,Carteret County Precinct ATSL-Atlantic/Sea Level
+ocd-division/country:us/state:nc/county:carteret/precinct:cisl-cedar_island,Carteret County Precinct CISL-Cedar Island
 ocd-division/country:us/state:nc/county:carteret/precinct:bft1-beaufort_1,Carteret County Precinct Bft1-Beaufort 1
 ocd-division/country:us/state:nc/county:carteret/precinct:bft2-beaufort_2,Carteret County Precinct Bft2-Beaufort 2
 ocd-division/country:us/state:nc/county:carteret/precinct:bogu-bogue,Carteret County Precinct Bogu-Bogue
