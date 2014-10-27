@@ -110,11 +110,13 @@ ocd-division/country:us/state:ut/county:cache/precinct:log32,Cache County Precin
 ocd-division/country:us/state:ut/county:cache/precinct:log33,Cache County Precinct Log33
 ocd-division/country:us/state:ut/county:cache/precinct:men01,Cache County Precinct Men01
 ocd-division/country:us/state:ut/county:cache/precinct:men02,Cache County Precinct Men02
-ocd-division/country:us/state:ut/county:cache/precinct:mil,Cache County Precinct Mil
+ocd-division/country:us/state:ut/county:cache/precinct:mil17,Cache County Precinct Mil17
+ocd-division/country:us/state:ut/county:cache/precinct:mil25,Cache County Precinct Mil25
 ocd-division/country:us/state:ut/county:cache/precinct:new,Cache County Precinct New
 ocd-division/country:us/state:ut/county:cache/precinct:nib01,Cache County Precinct Nib01
-ocd-division/country:us/state:ut/county:cache/precinct:nib02,Cache County Precinct Nib02
 ocd-division/country:us/state:ut/county:cache/precinct:nib03,Cache County Precinct Nib03
+ocd-division/country:us/state:ut/county:cache/precinct:nib17,Cache County Precinct Nib17
+ocd-division/country:us/state:ut/county:cache/precinct:nib25,Cache County Precinct Nib25
 ocd-division/country:us/state:ut/county:cache/precinct:nlg01,Cache County Precinct Nlg01
 ocd-division/country:us/state:ut/county:cache/precinct:nlg02,Cache County Precinct Nlg02
 ocd-division/country:us/state:ut/county:cache/precinct:nlg03,Cache County Precinct Nlg03
@@ -474,24 +476,17 @@ ocd-division/country:us/state:ut/county:juab/precinct:ne03,Juab County Precinct 
 ocd-division/country:us/state:ut/county:juab/precinct:ne04,Juab County Precinct Ne04
 ocd-division/country:us/state:ut/county:juab/precinct:ne05,Juab County Precinct Ne05
 ocd-division/country:us/state:ut/county:juab/precinct:rr13,Juab County Precinct Rr13
-ocd-division/country:us/state:ut/county:kane/precinct:al~a,Kane County Precinct Al:A
-ocd-division/country:us/state:ut/county:kane/precinct:al~b,Kane County Precinct Al:B
+ocd-division/country:us/state:ut/county:kane/precinct:al,Kane County Precinct Al
 ocd-division/country:us/state:ut/county:kane/precinct:bu,Kane County Precinct Bu
 ocd-division/country:us/state:ut/county:kane/precinct:bw,Kane County Precinct Bw
 ocd-division/country:us/state:ut/county:kane/precinct:cm,Kane County Precinct Cm
-ocd-division/country:us/state:ut/county:kane/precinct:cw~b,Kane County Precinct Cw:B
-ocd-division/country:us/state:ut/county:kane/precinct:cw~c,Kane County Precinct Cw:C
+ocd-division/country:us/state:ut/county:kane/precinct:cw,Kane County Precinct Cw
 ocd-division/country:us/state:ut/county:kane/precinct:gl,Kane County Precinct Gl
-ocd-division/country:us/state:ut/county:kane/precinct:ka1~a,Kane County Precinct Ka1:A
-ocd-division/country:us/state:ut/county:kane/precinct:ka1~b,Kane County Precinct Ka1:B
-ocd-division/country:us/state:ut/county:kane/precinct:ka1~c,Kane County Precinct Ka1:C
-ocd-division/country:us/state:ut/county:kane/precinct:ka2~a,Kane County Precinct Ka2:A
-ocd-division/country:us/state:ut/county:kane/precinct:ka2~b,Kane County Precinct Ka2:B
-ocd-division/country:us/state:ut/county:kane/precinct:ka3~a,Kane County Precinct Ka3:A
-ocd-division/country:us/state:ut/county:kane/precinct:ka3~b,Kane County Precinct Ka3:B
+ocd-division/country:us/state:ut/county:kane/precinct:ka1,Kane County Precinct Ka1
+ocd-division/country:us/state:ut/county:kane/precinct:ka2,Kane County Precinct Ka2
+ocd-division/country:us/state:ut/county:kane/precinct:ka3,Kane County Precinct Ka3
 ocd-division/country:us/state:ut/county:kane/precinct:ka4,Kane County Precinct Ka4
-ocd-division/country:us/state:ut/county:kane/precinct:or~a,Kane County Precinct Or:A
-ocd-division/country:us/state:ut/county:kane/precinct:or~b,Kane County Precinct Or:B
+ocd-division/country:us/state:ut/county:kane/precinct:or,Kane County Precinct Or
 ocd-division/country:us/state:ut/county:millard/precinct:abr14,Millard County Precinct Abr14
 ocd-division/country:us/state:ut/county:millard/precinct:del17,Millard County Precinct Del17
 ocd-division/country:us/state:ut/county:millard/precinct:del18,Millard County Precinct Del18
@@ -580,7 +575,6 @@ ocd-division/country:us/state:ut/county:salt_lake/precinct:cot037,Salt Lake Coun
 ocd-division/country:us/state:ut/county:salt_lake/precinct:drp002,Salt Lake County Precinct Drp002
 ocd-division/country:us/state:ut/county:salt_lake/precinct:drp003,Salt Lake County Precinct Drp003
 ocd-division/country:us/state:ut/county:salt_lake/precinct:drp004,Salt Lake County Precinct Drp004
-ocd-division/country:us/state:ut/county:salt_lake/precinct:drp005,Salt Lake County Precinct Drp005
 ocd-division/country:us/state:ut/county:salt_lake/precinct:drp006,Salt Lake County Precinct Drp006
 ocd-division/country:us/state:ut/county:salt_lake/precinct:drp007,Salt Lake County Precinct Drp007
 ocd-division/country:us/state:ut/county:salt_lake/precinct:drp008,Salt Lake County Precinct Drp008
@@ -809,6 +803,7 @@ ocd-division/country:us/state:ut/county:salt_lake/precinct:mur051,Salt Lake Coun
 ocd-division/country:us/state:ut/county:salt_lake/precinct:mur052,Salt Lake County Precinct Mur052
 ocd-division/country:us/state:ut/county:salt_lake/precinct:mur053,Salt Lake County Precinct Mur053
 ocd-division/country:us/state:ut/county:salt_lake/precinct:njc001,Salt Lake County Precinct Njc001
+ocd-division/country:us/state:ut/county:salt_lake/precinct:nrv021,Salt Lake County Precinct Nrv021
 ocd-division/country:us/state:ut/county:salt_lake/precinct:pcn001,Salt Lake County Precinct Pcn001
 ocd-division/country:us/state:ut/county:salt_lake/precinct:riv001,Salt Lake County Precinct Riv001
 ocd-division/country:us/state:ut/county:salt_lake/precinct:riv002,Salt Lake County Precinct Riv002
@@ -969,6 +964,7 @@ ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd047,Salt Lake Coun
 ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd048,Salt Lake County Precinct Sjd048
 ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd049,Salt Lake County Precinct Sjd049
 ocd-division/country:us/state:ut/county:salt_lake/precinct:sjd050,Salt Lake County Precinct Sjd050
+ocd-division/country:us/state:ut/county:salt_lake/precinct:slc001,Salt Lake County Precinct Slc001
 ocd-division/country:us/state:ut/county:salt_lake/precinct:slc002,Salt Lake County Precinct Slc002
 ocd-division/country:us/state:ut/county:salt_lake/precinct:slc003,Salt Lake County Precinct Slc003
 ocd-division/country:us/state:ut/county:salt_lake/precinct:slc004,Salt Lake County Precinct Slc004
@@ -1165,7 +1161,6 @@ ocd-division/country:us/state:ut/county:salt_lake/precinct:wht002,Salt Lake Coun
 ocd-division/country:us/state:ut/county:salt_lake/precinct:wht003,Salt Lake County Precinct Wht003
 ocd-division/country:us/state:ut/county:salt_lake/precinct:wht004,Salt Lake County Precinct Wht004
 ocd-division/country:us/state:ut/county:salt_lake/precinct:wjd001,Salt Lake County Precinct Wjd001
-ocd-division/country:us/state:ut/county:salt_lake/precinct:wjd002,Salt Lake County Precinct Wjd002
 ocd-division/country:us/state:ut/county:salt_lake/precinct:wjd003,Salt Lake County Precinct Wjd003
 ocd-division/country:us/state:ut/county:salt_lake/precinct:wjd004,Salt Lake County Precinct Wjd004
 ocd-division/country:us/state:ut/county:salt_lake/precinct:wjd005,Salt Lake County Precinct Wjd005
@@ -1325,34 +1320,22 @@ ocd-division/country:us/state:ut/county:san_juan/precinct:17,San Juan County Pre
 ocd-division/country:us/state:ut/county:san_juan/precinct:18,San Juan County Precinct 18
 ocd-division/country:us/state:ut/county:san_juan/precinct:19,San Juan County Precinct 19
 ocd-division/country:us/state:ut/county:san_juan/precinct:20,San Juan County Precinct 20
-ocd-division/country:us/state:ut/county:sanpete/precinct:axt~ssd,Sanpete County Precinct Axt:Ssd
-ocd-division/country:us/state:ut/county:sanpete/precinct:axt~u,Sanpete County Precinct Axt:U
-ocd-division/country:us/state:ut/county:sanpete/precinct:cen~m,Sanpete County Precinct Cen:M
-ocd-division/country:us/state:ut/county:sanpete/precinct:eph~1m,Sanpete County Precinct Eph:1M
-ocd-division/country:us/state:ut/county:sanpete/precinct:eph~2m,Sanpete County Precinct Eph:2M
-ocd-division/country:us/state:ut/county:sanpete/precinct:eph~u,Sanpete County Precinct Eph:U
-ocd-division/country:us/state:ut/county:sanpete/precinct:fay~m,Sanpete County Precinct Fay:M
-ocd-division/country:us/state:ut/county:sanpete/precinct:frv~m,Sanpete County Precinct Frv:M
-ocd-division/country:us/state:ut/county:sanpete/precinct:frv~u,Sanpete County Precinct Frv:U
-ocd-division/country:us/state:ut/county:sanpete/precinct:ftg~m,Sanpete County Precinct Ftg:M
-ocd-division/country:us/state:ut/county:sanpete/precinct:gun~m,Sanpete County Precinct Gun:M
-ocd-division/country:us/state:ut/county:sanpete/precinct:man~1m,Sanpete County Precinct Man:1M
-ocd-division/country:us/state:ut/county:sanpete/precinct:man~2m,Sanpete County Precinct Man:2M
-ocd-division/country:us/state:ut/county:sanpete/precinct:man~u,Sanpete County Precinct Man:U
-ocd-division/country:us/state:ut/county:sanpete/precinct:may~m,Sanpete County Precinct May:M
-ocd-division/country:us/state:ut/county:sanpete/precinct:mor~m,Sanpete County Precinct Mor:M
-ocd-division/country:us/state:ut/county:sanpete/precinct:mor~u,Sanpete County Precinct Mor:U
-ocd-division/country:us/state:ut/county:sanpete/precinct:mtp~1m,Sanpete County Precinct Mtp:1M
-ocd-division/country:us/state:ut/county:sanpete/precinct:mtp~1u,Sanpete County Precinct Mtp:1U
-ocd-division/country:us/state:ut/county:sanpete/precinct:mtp~2m,Sanpete County Precinct Mtp:2M
-ocd-division/country:us/state:ut/county:sanpete/precinct:mtp~2u,Sanpete County Precinct Mtp:2U
-ocd-division/country:us/state:ut/county:sanpete/precinct:mtp~3u,Sanpete County Precinct Mtp:3U
-ocd-division/country:us/state:ut/county:sanpete/precinct:ns~u,Sanpete County Precinct Ns:U
-ocd-division/country:us/state:ut/county:sanpete/precinct:spr~m,Sanpete County Precinct Spr:M
-ocd-division/country:us/state:ut/county:sanpete/precinct:spr~u,Sanpete County Precinct Spr:U
-ocd-division/country:us/state:ut/county:sanpete/precinct:ss~u,Sanpete County Precinct Ss:U
-ocd-division/country:us/state:ut/county:sanpete/precinct:str~m,Sanpete County Precinct Str:M
-ocd-division/country:us/state:ut/county:sanpete/precinct:wal~m,Sanpete County Precinct Wal:M
+ocd-division/country:us/state:ut/county:sanpete/precinct:axt,Sanpete County Precinct Axt
+ocd-division/country:us/state:ut/county:sanpete/precinct:cen,Sanpete County Precinct Cen
+ocd-division/country:us/state:ut/county:sanpete/precinct:eph,Sanpete County Precinct Eph
+ocd-division/country:us/state:ut/county:sanpete/precinct:fay,Sanpete County Precinct Fay
+ocd-division/country:us/state:ut/county:sanpete/precinct:frv,Sanpete County Precinct Frv
+ocd-division/country:us/state:ut/county:sanpete/precinct:ftg,Sanpete County Precinct Ftg
+ocd-division/country:us/state:ut/county:sanpete/precinct:gun,Sanpete County Precinct Gun
+ocd-division/country:us/state:ut/county:sanpete/precinct:man,Sanpete County Precinct Man
+ocd-division/country:us/state:ut/county:sanpete/precinct:may,Sanpete County Precinct May
+ocd-division/country:us/state:ut/county:sanpete/precinct:mor,Sanpete County Precinct Mor
+ocd-division/country:us/state:ut/county:sanpete/precinct:mtp,Sanpete County Precinct Mtp
+ocd-division/country:us/state:ut/county:sanpete/precinct:ns,Sanpete County Precinct Ns
+ocd-division/country:us/state:ut/county:sanpete/precinct:spr,Sanpete County Precinct Spr
+ocd-division/country:us/state:ut/county:sanpete/precinct:ss,Sanpete County Precinct Ss
+ocd-division/country:us/state:ut/county:sanpete/precinct:str,Sanpete County Precinct Str
+ocd-division/country:us/state:ut/county:sanpete/precinct:wal,Sanpete County Precinct Wal
 ocd-division/country:us/state:ut/county:sevier/precinct:1,Sevier County Precinct 1
 ocd-division/country:us/state:ut/county:sevier/precinct:2,Sevier County Precinct 2
 ocd-division/country:us/state:ut/county:sevier/precinct:4,Sevier County Precinct 4
