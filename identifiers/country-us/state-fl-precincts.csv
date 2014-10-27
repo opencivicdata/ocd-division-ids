@@ -61,7 +61,6 @@ ocd-division/country:us/state:fl/county:alachua/precinct:60,ALACHUA County Preci
 ocd-division/country:us/state:fl/county:alachua/precinct:61,ALACHUA County Precinct 61
 ocd-division/country:us/state:fl/county:alachua/precinct:62,ALACHUA County Precinct 62
 ocd-division/country:us/state:fl/county:alachua/precinct:63,ALACHUA County Precinct 63
-ocd-division/country:us/state:fl/county:alachua/precinct:68,ALACHUA County Precinct 68
 ocd-division/country:us/state:fl/county:baker/precinct:1a,BAKER County Precinct 1A
 ocd-division/country:us/state:fl/county:baker/precinct:2a,BAKER County Precinct 2A
 ocd-division/country:us/state:fl/county:baker/precinct:3a,BAKER County Precinct 3A
@@ -156,7 +155,6 @@ ocd-division/country:us/state:fl/county:brevard/precinct:123,BREVARD County Prec
 ocd-division/country:us/state:fl/county:brevard/precinct:124,BREVARD County Precinct 124
 ocd-division/country:us/state:fl/county:brevard/precinct:125,BREVARD County Precinct 125
 ocd-division/country:us/state:fl/county:brevard/precinct:127,BREVARD County Precinct 127
-ocd-division/country:us/state:fl/county:brevard/precinct:128,BREVARD County Precinct 128
 ocd-division/country:us/state:fl/county:brevard/precinct:129,BREVARD County Precinct 129
 ocd-division/country:us/state:fl/county:brevard/precinct:131,BREVARD County Precinct 131
 ocd-division/country:us/state:fl/county:brevard/precinct:135,BREVARD County Precinct 135
@@ -292,6 +290,7 @@ ocd-division/country:us/state:fl/county:brevard/precinct:527,BREVARD County Prec
 ocd-division/country:us/state:fl/county:brevard/precinct:528,BREVARD County Precinct 528
 ocd-division/country:us/state:fl/county:brevard/precinct:529,BREVARD County Precinct 529
 ocd-division/country:us/state:fl/county:brevard/precinct:530,BREVARD County Precinct 530
+ocd-division/country:us/state:fl/county:brevard/precinct:999,BREVARD County Precinct 999
 ocd-division/country:us/state:fl/county:broward/precinct:a001,BROWARD County Precinct A001
 ocd-division/country:us/state:fl/county:broward/precinct:a002,BROWARD County Precinct A002
 ocd-division/country:us/state:fl/county:broward/precinct:a003,BROWARD County Precinct A003
@@ -2380,8 +2379,6 @@ ocd-division/country:us/state:fl/county:leon/precinct:5223,LEON County Precinct 
 ocd-division/country:us/state:fl/county:leon/precinct:5225,LEON County Precinct 5225
 ocd-division/country:us/state:fl/county:leon/precinct:5227,LEON County Precinct 5227
 ocd-division/country:us/state:fl/county:leon/precinct:5251,LEON County Precinct 5251
-ocd-division/country:us/state:fl/county:leon/precinct:5255,LEON County Precinct 5255
-ocd-division/country:us/state:fl/county:leon/precinct:5258,LEON County Precinct 5258
 ocd-division/country:us/state:fl/county:leon/precinct:5260,LEON County Precinct 5260
 ocd-division/country:us/state:fl/county:leon/precinct:5261,LEON County Precinct 5261
 ocd-division/country:us/state:fl/county:leon/precinct:5263,LEON County Precinct 5263
@@ -2690,7 +2687,6 @@ ocd-division/country:us/state:fl/county:miami-dade/precinct:50,MIAMI-DADE County
 ocd-division/country:us/state:fl/county:miami-dade/precinct:51,MIAMI-DADE County Precinct 51
 ocd-division/country:us/state:fl/county:miami-dade/precinct:52,MIAMI-DADE County Precinct 52
 ocd-division/country:us/state:fl/county:miami-dade/precinct:67,MIAMI-DADE County Precinct 67
-ocd-division/country:us/state:fl/county:miami-dade/precinct:68,MIAMI-DADE County Precinct 68
 ocd-division/country:us/state:fl/county:miami-dade/precinct:69,MIAMI-DADE County Precinct 69
 ocd-division/country:us/state:fl/county:miami-dade/precinct:100,MIAMI-DADE County Precinct 100
 ocd-division/country:us/state:fl/county:miami-dade/precinct:101,MIAMI-DADE County Precinct 101
@@ -2935,7 +2931,6 @@ ocd-division/country:us/state:fl/county:miami-dade/precinct:369,MIAMI-DADE Count
 ocd-division/country:us/state:fl/county:miami-dade/precinct:370,MIAMI-DADE County Precinct 370
 ocd-division/country:us/state:fl/county:miami-dade/precinct:371,MIAMI-DADE County Precinct 371
 ocd-division/country:us/state:fl/county:miami-dade/precinct:372,MIAMI-DADE County Precinct 372
-ocd-division/country:us/state:fl/county:miami-dade/precinct:373,MIAMI-DADE County Precinct 373
 ocd-division/country:us/state:fl/county:miami-dade/precinct:375,MIAMI-DADE County Precinct 375
 ocd-division/country:us/state:fl/county:miami-dade/precinct:376,MIAMI-DADE County Precinct 376
 ocd-division/country:us/state:fl/county:miami-dade/precinct:377,MIAMI-DADE County Precinct 377
@@ -2997,7 +2992,6 @@ ocd-division/country:us/state:fl/county:miami-dade/precinct:441,MIAMI-DADE Count
 ocd-division/country:us/state:fl/county:miami-dade/precinct:442,MIAMI-DADE County Precinct 442
 ocd-division/country:us/state:fl/county:miami-dade/precinct:443,MIAMI-DADE County Precinct 443
 ocd-division/country:us/state:fl/county:miami-dade/precinct:444,MIAMI-DADE County Precinct 444
-ocd-division/country:us/state:fl/county:miami-dade/precinct:445,MIAMI-DADE County Precinct 445
 ocd-division/country:us/state:fl/county:miami-dade/precinct:446,MIAMI-DADE County Precinct 446
 ocd-division/country:us/state:fl/county:miami-dade/precinct:447,MIAMI-DADE County Precinct 447
 ocd-division/country:us/state:fl/county:miami-dade/precinct:448,MIAMI-DADE County Precinct 448
@@ -3087,7 +3081,6 @@ ocd-division/country:us/state:fl/county:miami-dade/precinct:564,MIAMI-DADE Count
 ocd-division/country:us/state:fl/county:miami-dade/precinct:565,MIAMI-DADE County Precinct 565
 ocd-division/country:us/state:fl/county:miami-dade/precinct:566,MIAMI-DADE County Precinct 566
 ocd-division/country:us/state:fl/county:miami-dade/precinct:567,MIAMI-DADE County Precinct 567
-ocd-division/country:us/state:fl/county:miami-dade/precinct:568,MIAMI-DADE County Precinct 568
 ocd-division/country:us/state:fl/county:miami-dade/precinct:569,MIAMI-DADE County Precinct 569
 ocd-division/country:us/state:fl/county:miami-dade/precinct:570,MIAMI-DADE County Precinct 570
 ocd-division/country:us/state:fl/county:miami-dade/precinct:571,MIAMI-DADE County Precinct 571
@@ -3116,10 +3109,8 @@ ocd-division/country:us/state:fl/county:miami-dade/precinct:593,MIAMI-DADE Count
 ocd-division/country:us/state:fl/county:miami-dade/precinct:594,MIAMI-DADE County Precinct 594
 ocd-division/country:us/state:fl/county:miami-dade/precinct:595,MIAMI-DADE County Precinct 595
 ocd-division/country:us/state:fl/county:miami-dade/precinct:596,MIAMI-DADE County Precinct 596
-ocd-division/country:us/state:fl/county:miami-dade/precinct:597,MIAMI-DADE County Precinct 597
 ocd-division/country:us/state:fl/county:miami-dade/precinct:598,MIAMI-DADE County Precinct 598
 ocd-division/country:us/state:fl/county:miami-dade/precinct:599,MIAMI-DADE County Precinct 599
-ocd-division/country:us/state:fl/county:miami-dade/precinct:600,MIAMI-DADE County Precinct 600
 ocd-division/country:us/state:fl/county:miami-dade/precinct:601,MIAMI-DADE County Precinct 601
 ocd-division/country:us/state:fl/county:miami-dade/precinct:602,MIAMI-DADE County Precinct 602
 ocd-division/country:us/state:fl/county:miami-dade/precinct:603,MIAMI-DADE County Precinct 603
@@ -3173,11 +3164,9 @@ ocd-division/country:us/state:fl/county:miami-dade/precinct:653,MIAMI-DADE Count
 ocd-division/country:us/state:fl/county:miami-dade/precinct:655,MIAMI-DADE County Precinct 655
 ocd-division/country:us/state:fl/county:miami-dade/precinct:656,MIAMI-DADE County Precinct 656
 ocd-division/country:us/state:fl/county:miami-dade/precinct:657,MIAMI-DADE County Precinct 657
-ocd-division/country:us/state:fl/county:miami-dade/precinct:658,MIAMI-DADE County Precinct 658
 ocd-division/country:us/state:fl/county:miami-dade/precinct:659,MIAMI-DADE County Precinct 659
 ocd-division/country:us/state:fl/county:miami-dade/precinct:665,MIAMI-DADE County Precinct 665
 ocd-division/country:us/state:fl/county:miami-dade/precinct:667,MIAMI-DADE County Precinct 667
-ocd-division/country:us/state:fl/county:miami-dade/precinct:668,MIAMI-DADE County Precinct 668
 ocd-division/country:us/state:fl/county:miami-dade/precinct:669,MIAMI-DADE County Precinct 669
 ocd-division/country:us/state:fl/county:miami-dade/precinct:670,MIAMI-DADE County Precinct 670
 ocd-division/country:us/state:fl/county:miami-dade/precinct:671,MIAMI-DADE County Precinct 671
@@ -3266,7 +3255,6 @@ ocd-division/country:us/state:fl/county:miami-dade/precinct:776,MIAMI-DADE Count
 ocd-division/country:us/state:fl/county:miami-dade/precinct:777,MIAMI-DADE County Precinct 777
 ocd-division/country:us/state:fl/county:miami-dade/precinct:778,MIAMI-DADE County Precinct 778
 ocd-division/country:us/state:fl/county:miami-dade/precinct:779,MIAMI-DADE County Precinct 779
-ocd-division/country:us/state:fl/county:miami-dade/precinct:780,MIAMI-DADE County Precinct 780
 ocd-division/country:us/state:fl/county:miami-dade/precinct:781,MIAMI-DADE County Precinct 781
 ocd-division/country:us/state:fl/county:miami-dade/precinct:782,MIAMI-DADE County Precinct 782
 ocd-division/country:us/state:fl/county:miami-dade/precinct:783,MIAMI-DADE County Precinct 783
@@ -3319,7 +3307,6 @@ ocd-division/country:us/state:fl/county:miami-dade/precinct:832,MIAMI-DADE Count
 ocd-division/country:us/state:fl/county:miami-dade/precinct:833,MIAMI-DADE County Precinct 833
 ocd-division/country:us/state:fl/county:miami-dade/precinct:834,MIAMI-DADE County Precinct 834
 ocd-division/country:us/state:fl/county:miami-dade/precinct:835,MIAMI-DADE County Precinct 835
-ocd-division/country:us/state:fl/county:miami-dade/precinct:836,MIAMI-DADE County Precinct 836
 ocd-division/country:us/state:fl/county:miami-dade/precinct:837,MIAMI-DADE County Precinct 837
 ocd-division/country:us/state:fl/county:miami-dade/precinct:838,MIAMI-DADE County Precinct 838
 ocd-division/country:us/state:fl/county:miami-dade/precinct:839,MIAMI-DADE County Precinct 839
@@ -3390,7 +3377,6 @@ ocd-division/country:us/state:fl/county:miami-dade/precinct:935,MIAMI-DADE Count
 ocd-division/country:us/state:fl/county:miami-dade/precinct:936,MIAMI-DADE County Precinct 936
 ocd-division/country:us/state:fl/county:miami-dade/precinct:937,MIAMI-DADE County Precinct 937
 ocd-division/country:us/state:fl/county:miami-dade/precinct:938,MIAMI-DADE County Precinct 938
-ocd-division/country:us/state:fl/county:miami-dade/precinct:939,MIAMI-DADE County Precinct 939
 ocd-division/country:us/state:fl/county:miami-dade/precinct:940,MIAMI-DADE County Precinct 940
 ocd-division/country:us/state:fl/county:miami-dade/precinct:941,MIAMI-DADE County Precinct 941
 ocd-division/country:us/state:fl/county:miami-dade/precinct:942,MIAMI-DADE County Precinct 942
@@ -3745,7 +3731,6 @@ ocd-division/country:us/state:fl/county:orange/precinct:542,ORANGE County Precin
 ocd-division/country:us/state:fl/county:orange/precinct:543,ORANGE County Precinct 543
 ocd-division/country:us/state:fl/county:orange/precinct:544,ORANGE County Precinct 544
 ocd-division/country:us/state:fl/county:orange/precinct:545,ORANGE County Precinct 545
-ocd-division/country:us/state:fl/county:orange/precinct:559,ORANGE County Precinct 559
 ocd-division/country:us/state:fl/county:orange/precinct:601,ORANGE County Precinct 601
 ocd-division/country:us/state:fl/county:orange/precinct:602,ORANGE County Precinct 602
 ocd-division/country:us/state:fl/county:orange/precinct:603,ORANGE County Precinct 603
@@ -3780,7 +3765,6 @@ ocd-division/country:us/state:fl/county:orange/precinct:631,ORANGE County Precin
 ocd-division/country:us/state:fl/county:orange/precinct:632,ORANGE County Precinct 632
 ocd-division/country:us/state:fl/county:orange/precinct:633,ORANGE County Precinct 633
 ocd-division/country:us/state:fl/county:orange/precinct:634,ORANGE County Precinct 634
-ocd-division/country:us/state:fl/county:orange/precinct:891,ORANGE County Precinct 891
 ocd-division/country:us/state:fl/county:osceola/precinct:100,OSCEOLA County Precinct 100
 ocd-division/country:us/state:fl/county:osceola/precinct:101,OSCEOLA County Precinct 101
 ocd-division/country:us/state:fl/county:osceola/precinct:102,OSCEOLA County Precinct 102
@@ -3855,11 +3839,8 @@ ocd-division/country:us/state:fl/county:osceola/precinct:522,OSCEOLA County Prec
 ocd-division/country:us/state:fl/county:osceola/precinct:550,OSCEOLA County Precinct 550
 ocd-division/country:us/state:fl/county:osceola/precinct:570,OSCEOLA County Precinct 570
 ocd-division/country:us/state:fl/county:osceola/precinct:571,OSCEOLA County Precinct 571
-ocd-division/country:us/state:fl/county:palm_beach/precinct:1004,PALM BEACH County Precinct 1004
-ocd-division/country:us/state:fl/county:palm_beach/precinct:1016,PALM BEACH County Precinct 1016
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1018,PALM BEACH County Precinct 1018
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1022,PALM BEACH County Precinct 1022
-ocd-division/country:us/state:fl/county:palm_beach/precinct:1024,PALM BEACH County Precinct 1024
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1026,PALM BEACH County Precinct 1026
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1028,PALM BEACH County Precinct 1028
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1030,PALM BEACH County Precinct 1030
@@ -3908,7 +3889,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:1126,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1128,PALM BEACH County Precinct 1128
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1130,PALM BEACH County Precinct 1130
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1132,PALM BEACH County Precinct 1132
-ocd-division/country:us/state:fl/county:palm_beach/precinct:1134,PALM BEACH County Precinct 1134
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1136,PALM BEACH County Precinct 1136
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1138,PALM BEACH County Precinct 1138
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1140,PALM BEACH County Precinct 1140
@@ -3919,9 +3899,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:1148,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1150,PALM BEACH County Precinct 1150
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1152,PALM BEACH County Precinct 1152
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1154,PALM BEACH County Precinct 1154
-ocd-division/country:us/state:fl/county:palm_beach/precinct:1156,PALM BEACH County Precinct 1156
-ocd-division/country:us/state:fl/county:palm_beach/precinct:1158,PALM BEACH County Precinct 1158
-ocd-division/country:us/state:fl/county:palm_beach/precinct:1160,PALM BEACH County Precinct 1160
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1164,PALM BEACH County Precinct 1164
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1166,PALM BEACH County Precinct 1166
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1172,PALM BEACH County Precinct 1172
@@ -3972,7 +3949,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:1292,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1294,PALM BEACH County Precinct 1294
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1296,PALM BEACH County Precinct 1296
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1298,PALM BEACH County Precinct 1298
-ocd-division/country:us/state:fl/county:palm_beach/precinct:1300,PALM BEACH County Precinct 1300
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1302,PALM BEACH County Precinct 1302
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1304,PALM BEACH County Precinct 1304
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1306,PALM BEACH County Precinct 1306
@@ -3982,7 +3958,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:1312,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1314,PALM BEACH County Precinct 1314
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1316,PALM BEACH County Precinct 1316
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1320,PALM BEACH County Precinct 1320
-ocd-division/country:us/state:fl/county:palm_beach/precinct:1322,PALM BEACH County Precinct 1322
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1324,PALM BEACH County Precinct 1324
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1326,PALM BEACH County Precinct 1326
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1328,PALM BEACH County Precinct 1328
@@ -4005,7 +3980,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:1360,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1362,PALM BEACH County Precinct 1362
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1364,PALM BEACH County Precinct 1364
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1366,PALM BEACH County Precinct 1366
-ocd-division/country:us/state:fl/county:palm_beach/precinct:1368,PALM BEACH County Precinct 1368
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1370,PALM BEACH County Precinct 1370
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1372,PALM BEACH County Precinct 1372
 ocd-division/country:us/state:fl/county:palm_beach/precinct:1374,PALM BEACH County Precinct 1374
@@ -4033,8 +4007,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:2024,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2026,PALM BEACH County Precinct 2026
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2028,PALM BEACH County Precinct 2028
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2030,PALM BEACH County Precinct 2030
-ocd-division/country:us/state:fl/county:palm_beach/precinct:2032,PALM BEACH County Precinct 2032
-ocd-division/country:us/state:fl/county:palm_beach/precinct:2034,PALM BEACH County Precinct 2034
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2036,PALM BEACH County Precinct 2036
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2038,PALM BEACH County Precinct 2038
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2040,PALM BEACH County Precinct 2040
@@ -4073,12 +4045,9 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:2110,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2112,PALM BEACH County Precinct 2112
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2114,PALM BEACH County Precinct 2114
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2116,PALM BEACH County Precinct 2116
-ocd-division/country:us/state:fl/county:palm_beach/precinct:2118,PALM BEACH County Precinct 2118
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2120,PALM BEACH County Precinct 2120
-ocd-division/country:us/state:fl/county:palm_beach/precinct:2122,PALM BEACH County Precinct 2122
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2124,PALM BEACH County Precinct 2124
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2126,PALM BEACH County Precinct 2126
-ocd-division/country:us/state:fl/county:palm_beach/precinct:2128,PALM BEACH County Precinct 2128
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2130,PALM BEACH County Precinct 2130
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2132,PALM BEACH County Precinct 2132
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2134,PALM BEACH County Precinct 2134
@@ -4097,7 +4066,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:2160,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2162,PALM BEACH County Precinct 2162
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2164,PALM BEACH County Precinct 2164
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2166,PALM BEACH County Precinct 2166
-ocd-division/country:us/state:fl/county:palm_beach/precinct:2168,PALM BEACH County Precinct 2168
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2170,PALM BEACH County Precinct 2170
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2172,PALM BEACH County Precinct 2172
 ocd-division/country:us/state:fl/county:palm_beach/precinct:2174,PALM BEACH County Precinct 2174
@@ -4123,7 +4091,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:2218,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3002,PALM BEACH County Precinct 3002
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3004,PALM BEACH County Precinct 3004
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3006,PALM BEACH County Precinct 3006
-ocd-division/country:us/state:fl/county:palm_beach/precinct:3008,PALM BEACH County Precinct 3008
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3010,PALM BEACH County Precinct 3010
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3012,PALM BEACH County Precinct 3012
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3014,PALM BEACH County Precinct 3014
@@ -4132,8 +4099,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:3018,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3020,PALM BEACH County Precinct 3020
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3022,PALM BEACH County Precinct 3022
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3024,PALM BEACH County Precinct 3024
-ocd-division/country:us/state:fl/county:palm_beach/precinct:3026,PALM BEACH County Precinct 3026
-ocd-division/country:us/state:fl/county:palm_beach/precinct:3028,PALM BEACH County Precinct 3028
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3032,PALM BEACH County Precinct 3032
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3034,PALM BEACH County Precinct 3034
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3036,PALM BEACH County Precinct 3036
@@ -4141,13 +4106,11 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:3038,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3040,PALM BEACH County Precinct 3040
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3042,PALM BEACH County Precinct 3042
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3044,PALM BEACH County Precinct 3044
-ocd-division/country:us/state:fl/county:palm_beach/precinct:3046,PALM BEACH County Precinct 3046
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3048,PALM BEACH County Precinct 3048
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3050,PALM BEACH County Precinct 3050
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3052,PALM BEACH County Precinct 3052
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3054,PALM BEACH County Precinct 3054
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3056,PALM BEACH County Precinct 3056
-ocd-division/country:us/state:fl/county:palm_beach/precinct:3058,PALM BEACH County Precinct 3058
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3060,PALM BEACH County Precinct 3060
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3062,PALM BEACH County Precinct 3062
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3064,PALM BEACH County Precinct 3064
@@ -4208,7 +4171,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:3170,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3172,PALM BEACH County Precinct 3172
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3174,PALM BEACH County Precinct 3174
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3176,PALM BEACH County Precinct 3176
-ocd-division/country:us/state:fl/county:palm_beach/precinct:3182,PALM BEACH County Precinct 3182
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3184,PALM BEACH County Precinct 3184
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3186,PALM BEACH County Precinct 3186
 ocd-division/country:us/state:fl/county:palm_beach/precinct:3187,PALM BEACH County Precinct 3187
@@ -4235,7 +4197,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:4024,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4026,PALM BEACH County Precinct 4026
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4028,PALM BEACH County Precinct 4028
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4030,PALM BEACH County Precinct 4030
-ocd-division/country:us/state:fl/county:palm_beach/precinct:4032,PALM BEACH County Precinct 4032
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4034,PALM BEACH County Precinct 4034
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4036,PALM BEACH County Precinct 4036
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4038,PALM BEACH County Precinct 4038
@@ -4254,12 +4215,10 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:4072,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4074,PALM BEACH County Precinct 4074
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4076,PALM BEACH County Precinct 4076
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4078,PALM BEACH County Precinct 4078
-ocd-division/country:us/state:fl/county:palm_beach/precinct:4082,PALM BEACH County Precinct 4082
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4084,PALM BEACH County Precinct 4084
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4086,PALM BEACH County Precinct 4086
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4088,PALM BEACH County Precinct 4088
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4090,PALM BEACH County Precinct 4090
-ocd-division/country:us/state:fl/county:palm_beach/precinct:4092,PALM BEACH County Precinct 4092
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4094,PALM BEACH County Precinct 4094
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4096,PALM BEACH County Precinct 4096
 ocd-division/country:us/state:fl/county:palm_beach/precinct:4098,PALM BEACH County Precinct 4098
@@ -4438,7 +4397,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:6018,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6020,PALM BEACH County Precinct 6020
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6022,PALM BEACH County Precinct 6022
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6024,PALM BEACH County Precinct 6024
-ocd-division/country:us/state:fl/county:palm_beach/precinct:6026,PALM BEACH County Precinct 6026
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6028,PALM BEACH County Precinct 6028
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6030,PALM BEACH County Precinct 6030
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6032,PALM BEACH County Precinct 6032
@@ -4448,7 +4406,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:6040,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6042,PALM BEACH County Precinct 6042
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6044,PALM BEACH County Precinct 6044
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6046,PALM BEACH County Precinct 6046
-ocd-division/country:us/state:fl/county:palm_beach/precinct:6048,PALM BEACH County Precinct 6048
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6050,PALM BEACH County Precinct 6050
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6052,PALM BEACH County Precinct 6052
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6058,PALM BEACH County Precinct 6058
@@ -4461,7 +4418,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:6076,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6078,PALM BEACH County Precinct 6078
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6080,PALM BEACH County Precinct 6080
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6082,PALM BEACH County Precinct 6082
-ocd-division/country:us/state:fl/county:palm_beach/precinct:6084,PALM BEACH County Precinct 6084
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6086,PALM BEACH County Precinct 6086
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6088,PALM BEACH County Precinct 6088
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6090,PALM BEACH County Precinct 6090
@@ -4472,7 +4428,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:6100,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6102,PALM BEACH County Precinct 6102
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6104,PALM BEACH County Precinct 6104
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6106,PALM BEACH County Precinct 6106
-ocd-division/country:us/state:fl/county:palm_beach/precinct:6108,PALM BEACH County Precinct 6108
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6110,PALM BEACH County Precinct 6110
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6112,PALM BEACH County Precinct 6112
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6114,PALM BEACH County Precinct 6114
@@ -4486,9 +4441,7 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:6128,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6130,PALM BEACH County Precinct 6130
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6132,PALM BEACH County Precinct 6132
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6134,PALM BEACH County Precinct 6134
-ocd-division/country:us/state:fl/county:palm_beach/precinct:6136,PALM BEACH County Precinct 6136
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6140,PALM BEACH County Precinct 6140
-ocd-division/country:us/state:fl/county:palm_beach/precinct:6142,PALM BEACH County Precinct 6142
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6146,PALM BEACH County Precinct 6146
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6150,PALM BEACH County Precinct 6150
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6152,PALM BEACH County Precinct 6152
@@ -4504,7 +4457,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:6170,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6172,PALM BEACH County Precinct 6172
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6174,PALM BEACH County Precinct 6174
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6178,PALM BEACH County Precinct 6178
-ocd-division/country:us/state:fl/county:palm_beach/precinct:6179,PALM BEACH County Precinct 6179
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6180,PALM BEACH County Precinct 6180
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6182,PALM BEACH County Precinct 6182
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6184,PALM BEACH County Precinct 6184
@@ -4527,7 +4479,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:6228,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6230,PALM BEACH County Precinct 6230
 ocd-division/country:us/state:fl/county:palm_beach/precinct:6232,PALM BEACH County Precinct 6232
 ocd-division/country:us/state:fl/county:palm_beach/precinct:7002,PALM BEACH County Precinct 7002
-ocd-division/country:us/state:fl/county:palm_beach/precinct:7006,PALM BEACH County Precinct 7006
 ocd-division/country:us/state:fl/county:palm_beach/precinct:7010,PALM BEACH County Precinct 7010
 ocd-division/country:us/state:fl/county:palm_beach/precinct:7012,PALM BEACH County Precinct 7012
 ocd-division/country:us/state:fl/county:palm_beach/precinct:7016,PALM BEACH County Precinct 7016
@@ -4538,7 +4489,6 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:7028,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:7030,PALM BEACH County Precinct 7030
 ocd-division/country:us/state:fl/county:palm_beach/precinct:7034,PALM BEACH County Precinct 7034
 ocd-division/country:us/state:fl/county:palm_beach/precinct:7036,PALM BEACH County Precinct 7036
-ocd-division/country:us/state:fl/county:palm_beach/precinct:7038,PALM BEACH County Precinct 7038
 ocd-division/country:us/state:fl/county:palm_beach/precinct:7040,PALM BEACH County Precinct 7040
 ocd-division/country:us/state:fl/county:palm_beach/precinct:7041,PALM BEACH County Precinct 7041
 ocd-division/country:us/state:fl/county:palm_beach/precinct:7042,PALM BEACH County Precinct 7042
@@ -4622,6 +4572,8 @@ ocd-division/country:us/state:fl/county:palm_beach/precinct:7208,PALM BEACH Coun
 ocd-division/country:us/state:fl/county:palm_beach/precinct:7210,PALM BEACH County Precinct 7210
 ocd-division/country:us/state:fl/county:palm_beach/precinct:7212,PALM BEACH County Precinct 7212
 ocd-division/country:us/state:fl/county:palm_beach/precinct:7214,PALM BEACH County Precinct 7214
+ocd-division/country:us/state:fl/county:palm_beach/precinct:8001,PALM BEACH County Precinct 8001
+ocd-division/country:us/state:fl/county:palm_beach/precinct:8002,PALM BEACH County Precinct 8002
 ocd-division/country:us/state:fl/county:pasco/precinct:1,PASCO County Precinct 1
 ocd-division/country:us/state:fl/county:pasco/precinct:2,PASCO County Precinct 2
 ocd-division/country:us/state:fl/county:pasco/precinct:3,PASCO County Precinct 3
@@ -4902,7 +4854,6 @@ ocd-division/country:us/state:fl/county:pinellas/precinct:328,PINELLAS County Pr
 ocd-division/country:us/state:fl/county:pinellas/precinct:329,PINELLAS County Precinct 329
 ocd-division/country:us/state:fl/county:pinellas/precinct:330,PINELLAS County Precinct 330
 ocd-division/country:us/state:fl/county:pinellas/precinct:331,PINELLAS County Precinct 331
-ocd-division/country:us/state:fl/county:pinellas/precinct:332,PINELLAS County Precinct 332
 ocd-division/country:us/state:fl/county:pinellas/precinct:333,PINELLAS County Precinct 333
 ocd-division/country:us/state:fl/county:pinellas/precinct:334,PINELLAS County Precinct 334
 ocd-division/country:us/state:fl/county:pinellas/precinct:335,PINELLAS County Precinct 335
@@ -5054,7 +5005,6 @@ ocd-division/country:us/state:fl/county:polk/precinct:121,POLK County Precinct 1
 ocd-division/country:us/state:fl/county:polk/precinct:122,POLK County Precinct 122
 ocd-division/country:us/state:fl/county:polk/precinct:123,POLK County Precinct 123
 ocd-division/country:us/state:fl/county:polk/precinct:124,POLK County Precinct 124
-ocd-division/country:us/state:fl/county:polk/precinct:163,POLK County Precinct 163
 ocd-division/country:us/state:fl/county:polk/precinct:201,POLK County Precinct 201
 ocd-division/country:us/state:fl/county:polk/precinct:203,POLK County Precinct 203
 ocd-division/country:us/state:fl/county:polk/precinct:204,POLK County Precinct 204
@@ -5477,7 +5427,6 @@ ocd-division/country:us/state:fl/county:st_johns/precinct:206,ST JOHNS County Pr
 ocd-division/country:us/state:fl/county:st_johns/precinct:207,ST JOHNS County Precinct 207
 ocd-division/country:us/state:fl/county:st_johns/precinct:208,ST JOHNS County Precinct 208
 ocd-division/country:us/state:fl/county:st_johns/precinct:209,ST JOHNS County Precinct 209
-ocd-division/country:us/state:fl/county:st_johns/precinct:210,ST JOHNS County Precinct 210
 ocd-division/country:us/state:fl/county:st_johns/precinct:301,ST JOHNS County Precinct 301
 ocd-division/country:us/state:fl/county:st_johns/precinct:302,ST JOHNS County Precinct 302
 ocd-division/country:us/state:fl/county:st_johns/precinct:303,ST JOHNS County Precinct 303
