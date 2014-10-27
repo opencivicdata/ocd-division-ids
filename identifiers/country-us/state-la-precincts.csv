@@ -15,7 +15,6 @@ ocd-division/country:us/state:la/parish:acadia/ward:2/precinct:1,Acadia - Ward 0
 ocd-division/country:us/state:la/parish:acadia/ward:2/precinct:2,Acadia - Ward 02 Pct 02
 ocd-division/country:us/state:la/parish:acadia/ward:2/precinct:3,Acadia - Ward 02 Pct 03
 ocd-division/country:us/state:la/parish:acadia/ward:2/precinct:4,Acadia - Ward 02 Pct 04
-ocd-division/country:us/state:la/parish:acadia/ward:2/precinct:4a,Acadia - Ward 02 Pct 04A
 ocd-division/country:us/state:la/parish:acadia/ward:2/precinct:5,Acadia - Ward 02 Pct 05
 ocd-division/country:us/state:la/parish:acadia/ward:3/precinct:1,Acadia - Ward 03 Pct 01
 ocd-division/country:us/state:la/parish:acadia/ward:3/precinct:2,Acadia - Ward 03 Pct 02
@@ -27,15 +26,11 @@ ocd-division/country:us/state:la/parish:acadia/ward:3/precinct:6,Acadia - Ward 0
 ocd-division/country:us/state:la/parish:acadia/ward:3/precinct:7,Acadia - Ward 03 Pct 07
 ocd-division/country:us/state:la/parish:acadia/ward:4/precinct:1,Acadia - Ward 04 Pct 01
 ocd-division/country:us/state:la/parish:acadia/ward:4/precinct:2,Acadia - Ward 04 Pct 02
-ocd-division/country:us/state:la/parish:acadia/ward:4/precinct:3,Acadia - Ward 04 Pct 03
 ocd-division/country:us/state:la/parish:acadia/ward:4/precinct:4,Acadia - Ward 04 Pct 04
 ocd-division/country:us/state:la/parish:acadia/ward:4/precinct:5,Acadia - Ward 04 Pct 05
-ocd-division/country:us/state:la/parish:acadia/ward:4/precinct:5a,Acadia - Ward 04 Pct 05A
 ocd-division/country:us/state:la/parish:acadia/ward:4/precinct:6,Acadia - Ward 04 Pct 06
 ocd-division/country:us/state:la/parish:acadia/ward:5/precinct:1a,Acadia - Ward 05 Pct 01A
-ocd-division/country:us/state:la/parish:acadia/ward:5/precinct:1b,Acadia - Ward 05 Pct 01B
 ocd-division/country:us/state:la/parish:acadia/ward:5/precinct:2a,Acadia - Ward 05 Pct 02A
-ocd-division/country:us/state:la/parish:acadia/ward:5/precinct:2b,Acadia - Ward 05 Pct 02B
 ocd-division/country:us/state:la/parish:acadia/ward:5/precinct:3,Acadia - Ward 05 Pct 03
 ocd-division/country:us/state:la/parish:acadia/ward:5/precinct:4,Acadia - Ward 05 Pct 04
 ocd-division/country:us/state:la/parish:acadia/ward:5/precinct:5,Acadia - Ward 05 Pct 05
@@ -44,7 +39,6 @@ ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:2,Acadia - Ward 0
 ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:3a,Acadia - Ward 06 Pct 03A
 ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:3b,Acadia - Ward 06 Pct 03B
 ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:4,Acadia - Ward 06 Pct 04
-ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:5,Acadia - Ward 06 Pct 05
 ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:6,Acadia - Ward 06 Pct 06
 ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:7,Acadia - Ward 06 Pct 07
 ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:8,Acadia - Ward 06 Pct 08
@@ -52,9 +46,7 @@ ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:9,Acadia - Ward 0
 ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:10,Acadia - Ward 06 Pct 10
 ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:11,Acadia - Ward 06 Pct 11
 ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:12,Acadia - Ward 06 Pct 12
-ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:12a,Acadia - Ward 06 Pct 12A
 ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:13,Acadia - Ward 06 Pct 13
-ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:13a,Acadia - Ward 06 Pct 13A
 ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:14,Acadia - Ward 06 Pct 14
 ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:15,Acadia - Ward 06 Pct 15
 ocd-division/country:us/state:la/parish:acadia/ward:6/precinct:16,Acadia - Ward 06 Pct 16
@@ -98,8 +90,7 @@ ocd-division/country:us/state:la/parish:ascension/precinct:2a,Ascension - 02A
 ocd-division/country:us/state:la/parish:ascension/precinct:2b,Ascension - 02B
 ocd-division/country:us/state:la/parish:ascension/precinct:3,Ascension - 03
 ocd-division/country:us/state:la/parish:ascension/precinct:4,Ascension - 04
-ocd-division/country:us/state:la/parish:ascension/precinct:5a,Ascension - 05A
-ocd-division/country:us/state:la/parish:ascension/precinct:5b,Ascension - 05B
+ocd-division/country:us/state:la/parish:ascension/precinct:5,Ascension - 05
 ocd-division/country:us/state:la/parish:ascension/precinct:6a,Ascension - 06A
 ocd-division/country:us/state:la/parish:ascension/precinct:6b,Ascension - 06B
 ocd-division/country:us/state:la/parish:ascension/precinct:6c,Ascension - 06C
@@ -115,8 +106,7 @@ ocd-division/country:us/state:la/parish:ascension/precinct:12,Ascension - 12
 ocd-division/country:us/state:la/parish:ascension/precinct:13,Ascension - 13
 ocd-division/country:us/state:la/parish:ascension/precinct:14,Ascension - 14
 ocd-division/country:us/state:la/parish:ascension/precinct:15,Ascension - 15
-ocd-division/country:us/state:la/parish:ascension/precinct:16a,Ascension - 16A
-ocd-division/country:us/state:la/parish:ascension/precinct:16b,Ascension - 16B
+ocd-division/country:us/state:la/parish:ascension/precinct:16,Ascension - 16
 ocd-division/country:us/state:la/parish:ascension/precinct:17,Ascension - 17
 ocd-division/country:us/state:la/parish:ascension/precinct:18,Ascension - 18
 ocd-division/country:us/state:la/parish:ascension/precinct:20,Ascension - 20
@@ -148,7 +138,6 @@ ocd-division/country:us/state:la/parish:ascension/precinct:44,Ascension - 44
 ocd-division/country:us/state:la/parish:ascension/precinct:45,Ascension - 45
 ocd-division/country:us/state:la/parish:ascension/precinct:47,Ascension - 47
 ocd-division/country:us/state:la/parish:ascension/precinct:48,Ascension - 48
-ocd-division/country:us/state:la/parish:ascension/precinct:49,Ascension - 49
 ocd-division/country:us/state:la/parish:ascension/precinct:50,Ascension - 50
 ocd-division/country:us/state:la/parish:ascension/precinct:51,Ascension - 51
 ocd-division/country:us/state:la/parish:ascension/precinct:52,Ascension - 52
@@ -162,11 +151,13 @@ ocd-division/country:us/state:la/parish:ascension/precinct:60,Ascension - 60
 ocd-division/country:us/state:la/parish:ascension/precinct:70,Ascension - 70
 ocd-division/country:us/state:la/parish:ascension/precinct:71a,Ascension - 71A
 ocd-division/country:us/state:la/parish:ascension/precinct:71b,Ascension - 71B
-ocd-division/country:us/state:la/parish:ascension/precinct:71c,Ascension - 71C
 ocd-division/country:us/state:la/parish:ascension/precinct:72,Ascension - 72
 ocd-division/country:us/state:la/parish:ascension/precinct:73,Ascension - 73
 ocd-division/country:us/state:la/parish:ascension/precinct:74,Ascension - 74
 ocd-division/country:us/state:la/parish:ascension/precinct:75,Ascension - 75
+ocd-division/country:us/state:la/parish:ascension/precinct:76,Ascension - 76
+ocd-division/country:us/state:la/parish:ascension/precinct:77,Ascension - 77
+ocd-division/country:us/state:la/parish:ascension/precinct:78,Ascension - 78
 ocd-division/country:us/state:la/parish:assumption/ward:1/precinct:1,Assumption - Ward 01 Pct 01
 ocd-division/country:us/state:la/parish:assumption/ward:1/precinct:2,Assumption - Ward 01 Pct 02
 ocd-division/country:us/state:la/parish:assumption/ward:2/precinct:1,Assumption - Ward 02 Pct 01
@@ -208,7 +199,6 @@ ocd-division/country:us/state:la/parish:avoyelles/ward:2/precinct:2f,Avoyelles -
 ocd-division/country:us/state:la/parish:avoyelles/ward:2/precinct:3a,Avoyelles - Ward 02 Pct 03A
 ocd-division/country:us/state:la/parish:avoyelles/ward:2/precinct:4,Avoyelles - Ward 02 Pct 04
 ocd-division/country:us/state:la/parish:avoyelles/ward:2/precinct:4a,Avoyelles - Ward 02 Pct 04A
-ocd-division/country:us/state:la/parish:avoyelles/ward:2/precinct:4c,Avoyelles - Ward 02 Pct 04C
 ocd-division/country:us/state:la/parish:avoyelles/ward:2/precinct:5,Avoyelles - Ward 02 Pct 05
 ocd-division/country:us/state:la/parish:avoyelles/ward:2/precinct:5e,Avoyelles - Ward 02 Pct 05E
 ocd-division/country:us/state:la/parish:avoyelles/ward:2/precinct:7,Avoyelles - Ward 02 Pct 07
@@ -232,7 +222,6 @@ ocd-division/country:us/state:la/parish:avoyelles/ward:8/precinct:2a,Avoyelles -
 ocd-division/country:us/state:la/parish:avoyelles/ward:8/precinct:2b,Avoyelles - Ward 08 Pct 02B
 ocd-division/country:us/state:la/parish:avoyelles/ward:8/precinct:3,Avoyelles - Ward 08 Pct 03
 ocd-division/country:us/state:la/parish:avoyelles/ward:8/precinct:3a,Avoyelles - Ward 08 Pct 03A
-ocd-division/country:us/state:la/parish:avoyelles/ward:9/precinct:1,Avoyelles - Ward 09 Pct 01
 ocd-division/country:us/state:la/parish:avoyelles/ward:9/precinct:1a,Avoyelles - Ward 09 Pct 01A
 ocd-division/country:us/state:la/parish:avoyelles/ward:9/precinct:2,Avoyelles - Ward 09 Pct 02
 ocd-division/country:us/state:la/parish:avoyelles/ward:9/precinct:2a,Avoyelles - Ward 09 Pct 02A
@@ -240,11 +229,8 @@ ocd-division/country:us/state:la/parish:avoyelles/ward:9/precinct:3,Avoyelles - 
 ocd-division/country:us/state:la/parish:avoyelles/ward:9/precinct:4,Avoyelles - Ward 09 Pct 04
 ocd-division/country:us/state:la/parish:avoyelles/ward:9/precinct:4b,Avoyelles - Ward 09 Pct 04B
 ocd-division/country:us/state:la/parish:avoyelles/ward:9/precinct:5b,Avoyelles - Ward 09 Pct 05B
-ocd-division/country:us/state:la/parish:avoyelles/ward:9/precinct:6a,Avoyelles - Ward 09 Pct 06A
-ocd-division/country:us/state:la/parish:avoyelles/ward:10/precinct:1,Avoyelles - Ward 10 Pct 01
 ocd-division/country:us/state:la/parish:avoyelles/ward:10/precinct:2,Avoyelles - Ward 10 Pct 02
 ocd-division/country:us/state:la/parish:avoyelles/ward:10/precinct:2a,Avoyelles - Ward 10 Pct 02A
-ocd-division/country:us/state:la/parish:avoyelles/ward:10/precinct:3,Avoyelles - Ward 10 Pct 03
 ocd-division/country:us/state:la/parish:avoyelles/ward:10/precinct:3a,Avoyelles - Ward 10 Pct 03A
 ocd-division/country:us/state:la/parish:avoyelles/ward:10/precinct:4,Avoyelles - Ward 10 Pct 04
 ocd-division/country:us/state:la/parish:avoyelles/ward:11/precinct:1,Avoyelles - Ward 11 Pct 01
@@ -333,7 +319,6 @@ ocd-division/country:us/state:la/parish:bossier/ward:1/precinct:3,Bossier - Ward
 ocd-division/country:us/state:la/parish:bossier/ward:1/precinct:3a,Bossier - Ward 01 Pct 03A
 ocd-division/country:us/state:la/parish:bossier/ward:1/precinct:3b,Bossier - Ward 01 Pct 03B
 ocd-division/country:us/state:la/parish:bossier/ward:1/precinct:4,Bossier - Ward 01 Pct 04
-ocd-division/country:us/state:la/parish:bossier/ward:1/precinct:4a,Bossier - Ward 01 Pct 04A
 ocd-division/country:us/state:la/parish:bossier/ward:1/precinct:5,Bossier - Ward 01 Pct 05
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:1,Bossier - Ward 02 Pct 01
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:2,Bossier - Ward 02 Pct 02
@@ -341,7 +326,6 @@ ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:3,Bossier - Ward
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:3a,Bossier - Ward 02 Pct 03A
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:4-1,Bossier - Ward 02 Pct 04-1
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:4-2,Bossier - Ward 02 Pct 04-2
-ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:5,Bossier - Ward 02 Pct 05
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:5a,Bossier - Ward 02 Pct 05A
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:6,Bossier - Ward 02 Pct 06
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:7,Bossier - Ward 02 Pct 07
@@ -358,23 +342,21 @@ ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:14,Bossier - War
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:15,Bossier - Ward 02 Pct 15
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:16,Bossier - Ward 02 Pct 16
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:16a,Bossier - Ward 02 Pct 16A
-ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:16b,Bossier - Ward 02 Pct 16B
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:17a,Bossier - Ward 02 Pct 17A
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:17b,Bossier - Ward 02 Pct 17B
-ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:18a,Bossier - Ward 02 Pct 18A
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:18b,Bossier - Ward 02 Pct 18B
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:18c,Bossier - Ward 02 Pct 18C
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:18d,Bossier - Ward 02 Pct 18D
-ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:18e,Bossier - Ward 02 Pct 18E
+ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:18e-1,Bossier - Ward 02 Pct 18E-1
+ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:18e-2,Bossier - Ward 02 Pct 18E-2
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:18f,Bossier - Ward 02 Pct 18F
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:19,Bossier - Ward 02 Pct 19
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:20,Bossier - Ward 02 Pct 20
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:21a,Bossier - Ward 02 Pct 21A
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:21b,Bossier - Ward 02 Pct 21B
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:21c,Bossier - Ward 02 Pct 21C
-ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:21d,Bossier - Ward 02 Pct 21D
-ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:21e,Bossier - Ward 02 Pct 21E
-ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:21f,Bossier - Ward 02 Pct 21F
+ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:21d-1,Bossier - Ward 02 Pct 21D-1
+ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:21d-2,Bossier - Ward 02 Pct 21D-2
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:22a-1,Bossier - Ward 02 Pct 22A-1
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:22a-2,Bossier - Ward 02 Pct 22A-2
 ocd-division/country:us/state:la/parish:bossier/ward:2/precinct:22b,Bossier - Ward 02 Pct 22B
@@ -385,14 +367,13 @@ ocd-division/country:us/state:la/parish:bossier/ward:3/precinct:2,Bossier - Ward
 ocd-division/country:us/state:la/parish:bossier/ward:3/precinct:3,Bossier - Ward 03 Pct 03
 ocd-division/country:us/state:la/parish:bossier/ward:3/precinct:4,Bossier - Ward 03 Pct 04
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:1a,Bossier - Ward 04 Pct 01A
-ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:1b,Bossier - Ward 04 Pct 01B
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:2,Bossier - Ward 04 Pct 02
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:3a,Bossier - Ward 04 Pct 03A
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:3b,Bossier - Ward 04 Pct 03B
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:3c,Bossier - Ward 04 Pct 03C
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:3d,Bossier - Ward 04 Pct 03D
-ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:4a1,Bossier - Ward 04 Pct 04A1
-ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:4a2,Bossier - Ward 04 Pct 04A2
+ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:4a-1,Bossier - Ward 04 Pct 04A-1
+ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:4a-2,Bossier - Ward 04 Pct 04A-2
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:4b-1,Bossier - Ward 04 Pct 04B-1
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:4b-2,Bossier - Ward 04 Pct 04B-2
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:5a,Bossier - Ward 04 Pct 05A
@@ -401,7 +382,8 @@ ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:6-2,Bossier - Wa
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:7-1,Bossier - Ward 04 Pct 07-1
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:7-2,Bossier - Ward 04 Pct 07-2
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:8a,Bossier - Ward 04 Pct 08A
-ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:8b,Bossier - Ward 04 Pct 08B
+ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:8b-1,Bossier - Ward 04 Pct 08B-1
+ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:8b-2,Bossier - Ward 04 Pct 08B-2
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:8c,Bossier - Ward 04 Pct 08C
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:8d,Bossier - Ward 04 Pct 08D
 ocd-division/country:us/state:la/parish:bossier/ward:4/precinct:8e,Bossier - Ward 04 Pct 08E
@@ -552,7 +534,6 @@ ocd-division/country:us/state:la/parish:caddo/precinct:144,Caddo - 144
 ocd-division/country:us/state:la/parish:caddo/precinct:145,Caddo - 145
 ocd-division/country:us/state:la/parish:caddo/precinct:146,Caddo - 146
 ocd-division/country:us/state:la/parish:caddo/precinct:149,Caddo - 149
-ocd-division/country:us/state:la/parish:caddo/precinct:150,Caddo - 150
 ocd-division/country:us/state:la/parish:caddo/precinct:151,Caddo - 151
 ocd-division/country:us/state:la/parish:caddo/precinct:154,Caddo - 154
 ocd-division/country:us/state:la/parish:caddo/precinct:155,Caddo - 155
@@ -693,7 +674,6 @@ ocd-division/country:us/state:la/parish:calcasieu/precinct:861w,Calcasieu - 861W
 ocd-division/country:us/state:la/parish:caldwell/ward:1/precinct:1,Caldwell - Ward 01 Pct 01
 ocd-division/country:us/state:la/parish:caldwell/ward:1/precinct:2,Caldwell - Ward 01 Pct 02
 ocd-division/country:us/state:la/parish:caldwell/ward:2/precinct:1,Caldwell - Ward 02 Pct 01
-ocd-division/country:us/state:la/parish:caldwell/ward:2/precinct:1a,Caldwell - Ward 02 Pct 01A
 ocd-division/country:us/state:la/parish:caldwell/ward:2/precinct:2,Caldwell - Ward 02 Pct 02
 ocd-division/country:us/state:la/parish:caldwell/ward:3/precinct:1,Caldwell - Ward 03 Pct 01
 ocd-division/country:us/state:la/parish:caldwell/ward:3/precinct:2,Caldwell - Ward 03 Pct 02
@@ -701,8 +681,6 @@ ocd-division/country:us/state:la/parish:caldwell/ward:3/precinct:3,Caldwell - Wa
 ocd-division/country:us/state:la/parish:caldwell/ward:4/precinct:1,Caldwell - Ward 04 Pct 01
 ocd-division/country:us/state:la/parish:caldwell/ward:4/precinct:1a,Caldwell - Ward 04 Pct 01A
 ocd-division/country:us/state:la/parish:caldwell/ward:4/precinct:2,Caldwell - Ward 04 Pct 02
-ocd-division/country:us/state:la/parish:caldwell/ward:4/precinct:3,Caldwell - Ward 04 Pct 03
-ocd-division/country:us/state:la/parish:caldwell/ward:4/precinct:3a,Caldwell - Ward 04 Pct 03A
 ocd-division/country:us/state:la/parish:caldwell/ward:5/precinct:1,Caldwell - Ward 05 Pct 01
 ocd-division/country:us/state:la/parish:caldwell/ward:5/precinct:2,Caldwell - Ward 05 Pct 02
 ocd-division/country:us/state:la/parish:caldwell/ward:5/precinct:3,Caldwell - Ward 05 Pct 03
@@ -712,10 +690,8 @@ ocd-division/country:us/state:la/parish:caldwell/ward:6/precinct:3,Caldwell - Wa
 ocd-division/country:us/state:la/parish:caldwell/ward:7/precinct:1,Caldwell - Ward 07 Pct 01
 ocd-division/country:us/state:la/parish:caldwell/ward:7/precinct:2,Caldwell - Ward 07 Pct 02
 ocd-division/country:us/state:la/parish:caldwell/ward:7/precinct:3,Caldwell - Ward 07 Pct 03
-ocd-division/country:us/state:la/parish:caldwell/ward:7/precinct:3a,Caldwell - Ward 07 Pct 03A
 ocd-division/country:us/state:la/parish:cameron/precinct:1,Cameron - 01
 ocd-division/country:us/state:la/parish:cameron/precinct:2,Cameron - 02
-ocd-division/country:us/state:la/parish:cameron/precinct:3,Cameron - 03
 ocd-division/country:us/state:la/parish:cameron/precinct:4,Cameron - 04
 ocd-division/country:us/state:la/parish:cameron/precinct:5n,Cameron - 05N
 ocd-division/country:us/state:la/parish:cameron/precinct:5s,Cameron - 05S
@@ -723,11 +699,11 @@ ocd-division/country:us/state:la/parish:cameron/precinct:8,Cameron - 08
 ocd-division/country:us/state:la/parish:cameron/precinct:9,Cameron - 09
 ocd-division/country:us/state:la/parish:cameron/precinct:12,Cameron - 12
 ocd-division/country:us/state:la/parish:cameron/precinct:13,Cameron - 13
-ocd-division/country:us/state:la/parish:cameron/precinct:14,Cameron - 14
 ocd-division/country:us/state:la/parish:cameron/precinct:15,Cameron - 15
 ocd-division/country:us/state:la/parish:cameron/precinct:16a,Cameron - 16A
 ocd-division/country:us/state:la/parish:cameron/precinct:16b,Cameron - 16B
 ocd-division/country:us/state:la/parish:cameron/precinct:16c,Cameron - 16C
+ocd-division/country:us/state:la/parish:cameron/precinct:16d,Cameron - 16D
 ocd-division/country:us/state:la/parish:cameron/precinct:17,Cameron - 17
 ocd-division/country:us/state:la/parish:catahoula/ward:1/precinct:1,Catahoula - Ward 01 Pct 01
 ocd-division/country:us/state:la/parish:catahoula/ward:1/precinct:2,Catahoula - Ward 01 Pct 02
@@ -735,14 +711,12 @@ ocd-division/country:us/state:la/parish:catahoula/ward:1/precinct:3,Catahoula - 
 ocd-division/country:us/state:la/parish:catahoula/ward:1/precinct:4,Catahoula - Ward 01 Pct 04
 ocd-division/country:us/state:la/parish:catahoula/ward:2/precinct:1,Catahoula - Ward 02 Pct 01
 ocd-division/country:us/state:la/parish:catahoula/ward:2/precinct:2,Catahoula - Ward 02 Pct 02
-ocd-division/country:us/state:la/parish:catahoula/ward:2/precinct:5,Catahoula - Ward 02 Pct 05
 ocd-division/country:us/state:la/parish:catahoula/ward:3/precinct:1,Catahoula - Ward 03 Pct 01
 ocd-division/country:us/state:la/parish:catahoula/ward:3/precinct:2,Catahoula - Ward 03 Pct 02
 ocd-division/country:us/state:la/parish:catahoula/ward:3/precinct:3,Catahoula - Ward 03 Pct 03
 ocd-division/country:us/state:la/parish:catahoula/ward:3/precinct:4,Catahoula - Ward 03 Pct 04
 ocd-division/country:us/state:la/parish:catahoula/ward:4/precinct:1,Catahoula - Ward 04 Pct 01
 ocd-division/country:us/state:la/parish:catahoula/ward:4/precinct:2,Catahoula - Ward 04 Pct 02
-ocd-division/country:us/state:la/parish:catahoula/ward:4/precinct:4,Catahoula - Ward 04 Pct 04
 ocd-division/country:us/state:la/parish:catahoula/ward:5/precinct:1,Catahoula - Ward 05 Pct 01
 ocd-division/country:us/state:la/parish:catahoula/ward:5/precinct:2,Catahoula - Ward 05 Pct 02
 ocd-division/country:us/state:la/parish:catahoula/ward:6/precinct:1,Catahoula - Ward 06 Pct 01
@@ -772,38 +746,31 @@ ocd-division/country:us/state:la/parish:claiborne/precinct:34,Claiborne - 34
 ocd-division/country:us/state:la/parish:claiborne/precinct:35,Claiborne - 35
 ocd-division/country:us/state:la/parish:claiborne/precinct:36,Claiborne - 36
 ocd-division/country:us/state:la/parish:claiborne/precinct:37,Claiborne - 37
-ocd-division/country:us/state:la/parish:claiborne/precinct:38,Claiborne - 38
-ocd-division/country:us/state:la/parish:claiborne/precinct:40,Claiborne - 40
 ocd-division/country:us/state:la/parish:claiborne/precinct:41,Claiborne - 41
 ocd-division/country:us/state:la/parish:claiborne/precinct:42,Claiborne - 42
 ocd-division/country:us/state:la/parish:claiborne/precinct:51,Claiborne - 51
 ocd-division/country:us/state:la/parish:claiborne/precinct:81,Claiborne - 81
-ocd-division/country:us/state:la/parish:claiborne/precinct:82,Claiborne - 82
 ocd-division/country:us/state:la/parish:claiborne/precinct:84,Claiborne - 84
 ocd-division/country:us/state:la/parish:claiborne/precinct:85,Claiborne - 85
-ocd-division/country:us/state:la/parish:claiborne/precinct:86,Claiborne - 86
 ocd-division/country:us/state:la/parish:claiborne/precinct:87,Claiborne - 87
 ocd-division/country:us/state:la/parish:claiborne/precinct:88,Claiborne - 88
-ocd-division/country:us/state:la/parish:claiborne/precinct:89,Claiborne - 89
 ocd-division/country:us/state:la/parish:claiborne/precinct:91,Claiborne - 91
 ocd-division/country:us/state:la/parish:claiborne/precinct:92,Claiborne - 92
 ocd-division/country:us/state:la/parish:claiborne/precinct:93,Claiborne - 93
-ocd-division/country:us/state:la/parish:claiborne/precinct:94,Claiborne - 94
 ocd-division/country:us/state:la/parish:claiborne/precinct:96,Claiborne - 96
 ocd-division/country:us/state:la/parish:concordia/precinct:1-1,Concordia - 01-1
 ocd-division/country:us/state:la/parish:concordia/precinct:1-2,Concordia - 01-2
 ocd-division/country:us/state:la/parish:concordia/precinct:1-3,Concordia - 01-3
 ocd-division/country:us/state:la/parish:concordia/precinct:1-4,Concordia - 01-4
 ocd-division/country:us/state:la/parish:concordia/precinct:2-1,Concordia - 02-1
-ocd-division/country:us/state:la/parish:concordia/precinct:2-4,Concordia - 02-4
 ocd-division/country:us/state:la/parish:concordia/precinct:3-1,Concordia - 03-1
 ocd-division/country:us/state:la/parish:concordia/precinct:3-2,Concordia - 03-2
 ocd-division/country:us/state:la/parish:concordia/precinct:3-3,Concordia - 03-3
+ocd-division/country:us/state:la/parish:concordia/precinct:3-4,Concordia - 03-4
 ocd-division/country:us/state:la/parish:concordia/precinct:4-1,Concordia - 04-1
 ocd-division/country:us/state:la/parish:concordia/precinct:4-2,Concordia - 04-2
 ocd-division/country:us/state:la/parish:concordia/precinct:4-3,Concordia - 04-3
 ocd-division/country:us/state:la/parish:concordia/precinct:4-4,Concordia - 04-4
-ocd-division/country:us/state:la/parish:concordia/precinct:4-6,Concordia - 04-6
 ocd-division/country:us/state:la/parish:concordia/precinct:5-1,Concordia - 05-1
 ocd-division/country:us/state:la/parish:concordia/precinct:5-2,Concordia - 05-2
 ocd-division/country:us/state:la/parish:concordia/precinct:5-3,Concordia - 05-3
@@ -816,25 +783,18 @@ ocd-division/country:us/state:la/parish:concordia/precinct:4-4b,Concordia - 4-4B
 ocd-division/country:us/state:la/parish:concordia/precinct:5-2a,Concordia - 5-2A
 ocd-division/country:us/state:la/parish:concordia/precinct:5-2b,Concordia - 5-2B
 ocd-division/country:us/state:la/parish:de_soto/precinct:1,De Soto - 01
-ocd-division/country:us/state:la/parish:de_soto/precinct:3,De Soto - 03
 ocd-division/country:us/state:la/parish:de_soto/precinct:4,De Soto - 04
 ocd-division/country:us/state:la/parish:de_soto/precinct:5,De Soto - 05
 ocd-division/country:us/state:la/parish:de_soto/precinct:6,De Soto - 06
-ocd-division/country:us/state:la/parish:de_soto/precinct:7,De Soto - 07
-ocd-division/country:us/state:la/parish:de_soto/precinct:8,De Soto - 08
 ocd-division/country:us/state:la/parish:de_soto/precinct:9,De Soto - 09
 ocd-division/country:us/state:la/parish:de_soto/precinct:10,De Soto - 10
 ocd-division/country:us/state:la/parish:de_soto/precinct:11,De Soto - 11
-ocd-division/country:us/state:la/parish:de_soto/precinct:12,De Soto - 12
 ocd-division/country:us/state:la/parish:de_soto/precinct:15,De Soto - 15
 ocd-division/country:us/state:la/parish:de_soto/precinct:16,De Soto - 16
-ocd-division/country:us/state:la/parish:de_soto/precinct:19,De Soto - 19
-ocd-division/country:us/state:la/parish:de_soto/precinct:20,De Soto - 20
 ocd-division/country:us/state:la/parish:de_soto/precinct:21,De Soto - 21
 ocd-division/country:us/state:la/parish:de_soto/precinct:22,De Soto - 22
 ocd-division/country:us/state:la/parish:de_soto/precinct:23,De Soto - 23
 ocd-division/country:us/state:la/parish:de_soto/precinct:26,De Soto - 26
-ocd-division/country:us/state:la/parish:de_soto/precinct:27,De Soto - 27
 ocd-division/country:us/state:la/parish:de_soto/precinct:28,De Soto - 28
 ocd-division/country:us/state:la/parish:de_soto/precinct:29,De Soto - 29
 ocd-division/country:us/state:la/parish:de_soto/precinct:30,De Soto - 30
@@ -843,25 +803,19 @@ ocd-division/country:us/state:la/parish:de_soto/precinct:32,De Soto - 32
 ocd-division/country:us/state:la/parish:de_soto/precinct:33,De Soto - 33
 ocd-division/country:us/state:la/parish:de_soto/precinct:34,De Soto - 34
 ocd-division/country:us/state:la/parish:de_soto/precinct:35,De Soto - 35
-ocd-division/country:us/state:la/parish:de_soto/precinct:36,De Soto - 36
 ocd-division/country:us/state:la/parish:de_soto/precinct:37,De Soto - 37
 ocd-division/country:us/state:la/parish:de_soto/precinct:38,De Soto - 38
 ocd-division/country:us/state:la/parish:de_soto/precinct:39,De Soto - 39
-ocd-division/country:us/state:la/parish:de_soto/precinct:41,De Soto - 41
 ocd-division/country:us/state:la/parish:de_soto/precinct:42,De Soto - 42
 ocd-division/country:us/state:la/parish:de_soto/precinct:44,De Soto - 44
 ocd-division/country:us/state:la/parish:de_soto/precinct:46,De Soto - 46
-ocd-division/country:us/state:la/parish:de_soto/precinct:47,De Soto - 47
 ocd-division/country:us/state:la/parish:de_soto/precinct:48,De Soto - 48
 ocd-division/country:us/state:la/parish:de_soto/precinct:49,De Soto - 49
-ocd-division/country:us/state:la/parish:de_soto/precinct:50,De Soto - 50
 ocd-division/country:us/state:la/parish:de_soto/precinct:51,De Soto - 51
-ocd-division/country:us/state:la/parish:de_soto/precinct:52,De Soto - 52
 ocd-division/country:us/state:la/parish:de_soto/precinct:53,De Soto - 53
 ocd-division/country:us/state:la/parish:de_soto/precinct:55,De Soto - 55
 ocd-division/country:us/state:la/parish:de_soto/precinct:56,De Soto - 56
 ocd-division/country:us/state:la/parish:de_soto/precinct:57,De Soto - 57
-ocd-division/country:us/state:la/parish:de_soto/precinct:58,De Soto - 58
 ocd-division/country:us/state:la/parish:de_soto/precinct:59,De Soto - 59
 ocd-division/country:us/state:la/parish:de_soto/precinct:60,De Soto - 60
 ocd-division/country:us/state:la/parish:de_soto/precinct:61,De Soto - 61
@@ -1207,11 +1161,9 @@ ocd-division/country:us/state:la/parish:east_carroll/precinct:18,East Carroll - 
 ocd-division/country:us/state:la/parish:east_carroll/precinct:19,East Carroll - 19
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:1,East Feliciana - 01
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:2,East Feliciana - 02
-ocd-division/country:us/state:la/parish:east_feliciana/precinct:3,East Feliciana - 03
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:4,East Feliciana - 04
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:5,East Feliciana - 05
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:6,East Feliciana - 06
-ocd-division/country:us/state:la/parish:east_feliciana/precinct:7a,East Feliciana - 07A
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:7b,East Feliciana - 07B
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:7c,East Feliciana - 07C
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:7d,East Feliciana - 07D
@@ -1220,10 +1172,8 @@ ocd-division/country:us/state:la/parish:east_feliciana/precinct:9a,East Felician
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:9b,East Feliciana - 09B
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:10,East Feliciana - 10
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:11a,East Feliciana - 11A
-ocd-division/country:us/state:la/parish:east_feliciana/precinct:11b,East Feliciana - 11B
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:12a,East Feliciana - 12A
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:12b,East Feliciana - 12B
-ocd-division/country:us/state:la/parish:east_feliciana/precinct:12c,East Feliciana - 12C
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:13,East Feliciana - 13
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:14,East Feliciana - 14
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:15,East Feliciana - 15
@@ -1235,9 +1185,7 @@ ocd-division/country:us/state:la/parish:east_feliciana/precinct:19a,East Felicia
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:19b,East Feliciana - 19B
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:20,East Feliciana - 20
 ocd-division/country:us/state:la/parish:east_feliciana/precinct:21,East Feliciana - 21
-ocd-division/country:us/state:la/parish:east_feliciana/precinct:22,East Feliciana - 22
 ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1010,Evangeline - Ward 01 Pct 1010
-ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1011,Evangeline - Ward 01 Pct 1011
 ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1020,Evangeline - Ward 01 Pct 1020
 ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1030,Evangeline - Ward 01 Pct 1030
 ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1031,Evangeline - Ward 01 Pct 1031
@@ -1254,9 +1202,7 @@ ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1101,Evangeli
 ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1110,Evangeline - Ward 01 Pct 1110
 ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1120,Evangeline - Ward 01 Pct 1120
 ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1130,Evangeline - Ward 01 Pct 1130
-ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1131,Evangeline - Ward 01 Pct 1131
 ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1140,Evangeline - Ward 01 Pct 1140
-ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1141,Evangeline - Ward 01 Pct 1141
 ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1150,Evangeline - Ward 01 Pct 1150
 ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1160,Evangeline - Ward 01 Pct 1160
 ocd-division/country:us/state:la/parish:evangeline/ward:1/precinct:1161,Evangeline - Ward 01 Pct 1161
@@ -1284,14 +1230,12 @@ ocd-division/country:us/state:la/parish:evangeline/ward:4/precinct:4001,Evangeli
 ocd-division/country:us/state:la/parish:evangeline/ward:4/precinct:4010,Evangeline - Ward 04 Pct 4010
 ocd-division/country:us/state:la/parish:evangeline/ward:4/precinct:4011,Evangeline - Ward 04 Pct 4011
 ocd-division/country:us/state:la/parish:evangeline/ward:4/precinct:4012,Evangeline - Ward 04 Pct 4012
-ocd-division/country:us/state:la/parish:evangeline/ward:4/precinct:4013,Evangeline - Ward 04 Pct 4013
 ocd-division/country:us/state:la/parish:evangeline/ward:4/precinct:4020,Evangeline - Ward 04 Pct 4020
 ocd-division/country:us/state:la/parish:evangeline/ward:4/precinct:4021,Evangeline - Ward 04 Pct 4021
 ocd-division/country:us/state:la/parish:evangeline/ward:4/precinct:4030,Evangeline - Ward 04 Pct 4030
 ocd-division/country:us/state:la/parish:evangeline/ward:4/precinct:4040,Evangeline - Ward 04 Pct 4040
 ocd-division/country:us/state:la/parish:evangeline/ward:5/precinct:5004,Evangeline - Ward 05 Pct 5004
 ocd-division/country:us/state:la/parish:evangeline/ward:5/precinct:5010,Evangeline - Ward 05 Pct 5010
-ocd-division/country:us/state:la/parish:evangeline/ward:5/precinct:5010a,Evangeline - Ward 05 Pct 5010A
 ocd-division/country:us/state:la/parish:evangeline/ward:5/precinct:5020,Evangeline - Ward 05 Pct 5020
 ocd-division/country:us/state:la/parish:evangeline/ward:5/precinct:5030,Evangeline - Ward 05 Pct 5030
 ocd-division/country:us/state:la/parish:evangeline/ward:5/precinct:5040,Evangeline - Ward 05 Pct 5040
@@ -1361,16 +1305,13 @@ ocd-division/country:us/state:la/parish:iberia/ward:1/precinct:1,Iberia - Ward 0
 ocd-division/country:us/state:la/parish:iberia/ward:1/precinct:2,Iberia - Ward 01 Pct 02
 ocd-division/country:us/state:la/parish:iberia/ward:1/precinct:3,Iberia - Ward 01 Pct 03
 ocd-division/country:us/state:la/parish:iberia/ward:1/precinct:4,Iberia - Ward 01 Pct 04
-ocd-division/country:us/state:la/parish:iberia/ward:1/precinct:5,Iberia - Ward 01 Pct 05
 ocd-division/country:us/state:la/parish:iberia/ward:2/precinct:1,Iberia - Ward 02 Pct 01
 ocd-division/country:us/state:la/parish:iberia/ward:2/precinct:2,Iberia - Ward 02 Pct 02
 ocd-division/country:us/state:la/parish:iberia/ward:2/precinct:3,Iberia - Ward 02 Pct 03
-ocd-division/country:us/state:la/parish:iberia/ward:2/precinct:4,Iberia - Ward 02 Pct 04
 ocd-division/country:us/state:la/parish:iberia/ward:3/precinct:1,Iberia - Ward 03 Pct 01
 ocd-division/country:us/state:la/parish:iberia/ward:3/precinct:2,Iberia - Ward 03 Pct 02
 ocd-division/country:us/state:la/parish:iberia/ward:3/precinct:3,Iberia - Ward 03 Pct 03
 ocd-division/country:us/state:la/parish:iberia/ward:3/precinct:4,Iberia - Ward 03 Pct 04
-ocd-division/country:us/state:la/parish:iberia/ward:3/precinct:5,Iberia - Ward 03 Pct 05
 ocd-division/country:us/state:la/parish:iberia/ward:4/precinct:1,Iberia - Ward 04 Pct 01
 ocd-division/country:us/state:la/parish:iberia/ward:4/precinct:2,Iberia - Ward 04 Pct 02
 ocd-division/country:us/state:la/parish:iberia/ward:4/precinct:3,Iberia - Ward 04 Pct 03
@@ -1383,7 +1324,6 @@ ocd-division/country:us/state:la/parish:iberia/ward:5/precinct:5,Iberia - Ward 0
 ocd-division/country:us/state:la/parish:iberia/ward:6/precinct:1,Iberia - Ward 06 Pct 01
 ocd-division/country:us/state:la/parish:iberia/ward:6/precinct:2,Iberia - Ward 06 Pct 02
 ocd-division/country:us/state:la/parish:iberia/ward:6/precinct:3,Iberia - Ward 06 Pct 03
-ocd-division/country:us/state:la/parish:iberia/ward:6/precinct:4,Iberia - Ward 06 Pct 04
 ocd-division/country:us/state:la/parish:iberia/ward:6/precinct:5,Iberia - Ward 06 Pct 05
 ocd-division/country:us/state:la/parish:iberia/ward:7/precinct:1,Iberia - Ward 07 Pct 01
 ocd-division/country:us/state:la/parish:iberia/ward:7/precinct:2,Iberia - Ward 07 Pct 02
@@ -1393,7 +1333,6 @@ ocd-division/country:us/state:la/parish:iberia/ward:7/precinct:5,Iberia - Ward 0
 ocd-division/country:us/state:la/parish:iberia/ward:8/precinct:1,Iberia - Ward 08 Pct 01
 ocd-division/country:us/state:la/parish:iberia/ward:8/precinct:2,Iberia - Ward 08 Pct 02
 ocd-division/country:us/state:la/parish:iberia/ward:8/precinct:3,Iberia - Ward 08 Pct 03
-ocd-division/country:us/state:la/parish:iberia/ward:8/precinct:4,Iberia - Ward 08 Pct 04
 ocd-division/country:us/state:la/parish:iberia/ward:9/precinct:1,Iberia - Ward 09 Pct 01
 ocd-division/country:us/state:la/parish:iberia/ward:9/precinct:2,Iberia - Ward 09 Pct 02
 ocd-division/country:us/state:la/parish:iberia/ward:9/precinct:3,Iberia - Ward 09 Pct 03
@@ -1424,7 +1363,6 @@ ocd-division/country:us/state:la/parish:iberia/ward:13/precinct:2,Iberia - Ward 
 ocd-division/country:us/state:la/parish:iberia/ward:13/precinct:3,Iberia - Ward 13 Pct 03
 ocd-division/country:us/state:la/parish:iberia/ward:13/precinct:4,Iberia - Ward 13 Pct 04
 ocd-division/country:us/state:la/parish:iberia/ward:14/precinct:1,Iberia - Ward 14 Pct 01
-ocd-division/country:us/state:la/parish:iberia/ward:14/precinct:2,Iberia - Ward 14 Pct 02
 ocd-division/country:us/state:la/parish:iberia/ward:14/precinct:3,Iberia - Ward 14 Pct 03
 ocd-division/country:us/state:la/parish:iberia/ward:14/precinct:4,Iberia - Ward 14 Pct 04
 ocd-division/country:us/state:la/parish:iberville/precinct:1,Iberville - 01
@@ -1477,13 +1415,11 @@ ocd-division/country:us/state:la/parish:jackson/precinct:3,Jackson - 03
 ocd-division/country:us/state:la/parish:jackson/precinct:4,Jackson - 04
 ocd-division/country:us/state:la/parish:jackson/precinct:5,Jackson - 05
 ocd-division/country:us/state:la/parish:jackson/precinct:5a,Jackson - 05A
-ocd-division/country:us/state:la/parish:jackson/precinct:5b,Jackson - 05B
 ocd-division/country:us/state:la/parish:jackson/precinct:6,Jackson - 06
 ocd-division/country:us/state:la/parish:jackson/precinct:6a,Jackson - 06A
 ocd-division/country:us/state:la/parish:jackson/precinct:7,Jackson - 07
 ocd-division/country:us/state:la/parish:jackson/precinct:8,Jackson - 08
 ocd-division/country:us/state:la/parish:jackson/precinct:8a,Jackson - 08A
-ocd-division/country:us/state:la/parish:jackson/precinct:8ai,Jackson - 08AI
 ocd-division/country:us/state:la/parish:jackson/precinct:9,Jackson - 09
 ocd-division/country:us/state:la/parish:jackson/precinct:10,Jackson - 10
 ocd-division/country:us/state:la/parish:jackson/precinct:10a,Jackson - 10A
@@ -1491,17 +1427,13 @@ ocd-division/country:us/state:la/parish:jackson/precinct:11,Jackson - 11
 ocd-division/country:us/state:la/parish:jackson/precinct:11a,Jackson - 11A
 ocd-division/country:us/state:la/parish:jackson/precinct:13,Jackson - 13
 ocd-division/country:us/state:la/parish:jackson/precinct:13a,Jackson - 13A
-ocd-division/country:us/state:la/parish:jackson/precinct:14a,Jackson - 14A
 ocd-division/country:us/state:la/parish:jackson/precinct:15,Jackson - 15
 ocd-division/country:us/state:la/parish:jackson/precinct:16,Jackson - 16
 ocd-division/country:us/state:la/parish:jackson/precinct:17,Jackson - 17
 ocd-division/country:us/state:la/parish:jackson/precinct:17a,Jackson - 17A
-ocd-division/country:us/state:la/parish:jackson/precinct:17b,Jackson - 17B
 ocd-division/country:us/state:la/parish:jackson/precinct:18,Jackson - 18
-ocd-division/country:us/state:la/parish:jackson/precinct:19,Jackson - 19
 ocd-division/country:us/state:la/parish:jackson/precinct:19a,Jackson - 19A
 ocd-division/country:us/state:la/parish:jackson/precinct:19ai,Jackson - 19AI
-ocd-division/country:us/state:la/parish:jackson/precinct:19aii,Jackson - 19AII
 ocd-division/country:us/state:la/parish:jackson/precinct:19b,Jackson - 19B
 ocd-division/country:us/state:la/parish:jackson/precinct:19bi,Jackson - 19BI
 ocd-division/country:us/state:la/parish:jackson/precinct:19bii,Jackson - 19BII
@@ -1673,7 +1605,8 @@ ocd-division/country:us/state:la/parish:jefferson/precinct:189,Jefferson - 189
 ocd-division/country:us/state:la/parish:jefferson/precinct:190,Jefferson - 190
 ocd-division/country:us/state:la/parish:jefferson/precinct:191,Jefferson - 191
 ocd-division/country:us/state:la/parish:jefferson/precinct:192,Jefferson - 192
-ocd-division/country:us/state:la/parish:jefferson/precinct:193,Jefferson - 193
+ocd-division/country:us/state:la/parish:jefferson/precinct:193a,Jefferson - 193A
+ocd-division/country:us/state:la/parish:jefferson/precinct:193b,Jefferson - 193B
 ocd-division/country:us/state:la/parish:jefferson/precinct:194a,Jefferson - 194A
 ocd-division/country:us/state:la/parish:jefferson/precinct:194b,Jefferson - 194B
 ocd-division/country:us/state:la/parish:jefferson/precinct:195,Jefferson - 195
@@ -1714,7 +1647,8 @@ ocd-division/country:us/state:la/parish:jefferson/precinct:234,Jefferson - 234
 ocd-division/country:us/state:la/parish:jefferson/precinct:235,Jefferson - 235
 ocd-division/country:us/state:la/parish:jefferson/precinct:236,Jefferson - 236
 ocd-division/country:us/state:la/parish:jefferson/precinct:237,Jefferson - 237
-ocd-division/country:us/state:la/parish:jefferson/precinct:238,Jefferson - 238
+ocd-division/country:us/state:la/parish:jefferson/precinct:238a,Jefferson - 238A
+ocd-division/country:us/state:la/parish:jefferson/precinct:238b,Jefferson - 238B
 ocd-division/country:us/state:la/parish:jefferson/precinct:246,Jefferson - 246
 ocd-division/country:us/state:la/parish:jefferson/precinct:247,Jefferson - 247
 ocd-division/country:us/state:la/parish:jefferson/precinct:248,Jefferson - 248
@@ -1787,16 +1721,15 @@ ocd-division/country:us/state:la/parish:jefferson/precinct:w007,Jefferson - W007
 ocd-division/country:us/state:la/parish:jefferson_davis/precinct:1,Jefferson Davis - 01
 ocd-division/country:us/state:la/parish:jefferson_davis/precinct:2,Jefferson Davis - 02
 ocd-division/country:us/state:la/parish:jefferson_davis/precinct:3,Jefferson Davis - 03
-ocd-division/country:us/state:la/parish:jefferson_davis/precinct:4a,Jefferson Davis - 04A
-ocd-division/country:us/state:la/parish:jefferson_davis/precinct:4b,Jefferson Davis - 04B
+ocd-division/country:us/state:la/parish:jefferson_davis/precinct:4,Jefferson Davis - 04
 ocd-division/country:us/state:la/parish:jefferson_davis/precinct:5,Jefferson Davis - 05
 ocd-division/country:us/state:la/parish:jefferson_davis/precinct:6,Jefferson Davis - 06
 ocd-division/country:us/state:la/parish:jefferson_davis/precinct:7,Jefferson Davis - 07
 ocd-division/country:us/state:la/parish:jefferson_davis/precinct:8,Jefferson Davis - 08
+ocd-division/country:us/state:la/parish:jefferson_davis/precinct:8a,Jefferson Davis - 08A
 ocd-division/country:us/state:la/parish:jefferson_davis/precinct:9a,Jefferson Davis - 09A
 ocd-division/country:us/state:la/parish:jefferson_davis/precinct:9b,Jefferson Davis - 09B
 ocd-division/country:us/state:la/parish:jefferson_davis/precinct:10,Jefferson Davis - 10
-ocd-division/country:us/state:la/parish:jefferson_davis/precinct:11,Jefferson Davis - 11
 ocd-division/country:us/state:la/parish:jefferson_davis/precinct:12,Jefferson Davis - 12
 ocd-division/country:us/state:la/parish:jefferson_davis/precinct:13,Jefferson Davis - 13
 ocd-division/country:us/state:la/parish:jefferson_davis/precinct:14,Jefferson Davis - 14
@@ -1860,11 +1793,10 @@ ocd-division/country:us/state:la/parish:lafayette/precinct:24,Lafayette - 024
 ocd-division/country:us/state:la/parish:lafayette/precinct:25,Lafayette - 025
 ocd-division/country:us/state:la/parish:lafayette/precinct:26,Lafayette - 026
 ocd-division/country:us/state:la/parish:lafayette/precinct:27,Lafayette - 027
-ocd-division/country:us/state:la/parish:lafayette/precinct:28a,Lafayette - 028A
-ocd-division/country:us/state:la/parish:lafayette/precinct:28b,Lafayette - 028B
+ocd-division/country:us/state:la/parish:lafayette/precinct:28,Lafayette - 028
 ocd-division/country:us/state:la/parish:lafayette/precinct:29y,Lafayette - 029Y
 ocd-division/country:us/state:la/parish:lafayette/precinct:29z,Lafayette - 029Z
-ocd-division/country:us/state:la/parish:lafayette/precinct:30a,Lafayette - 030A
+ocd-division/country:us/state:la/parish:lafayette/precinct:30,Lafayette - 030
 ocd-division/country:us/state:la/parish:lafayette/precinct:31,Lafayette - 031
 ocd-division/country:us/state:la/parish:lafayette/precinct:32,Lafayette - 032
 ocd-division/country:us/state:la/parish:lafayette/precinct:33,Lafayette - 033
@@ -1936,8 +1868,7 @@ ocd-division/country:us/state:la/parish:lafayette/precinct:95y,Lafayette - 095Y
 ocd-division/country:us/state:la/parish:lafayette/precinct:95z,Lafayette - 095Z
 ocd-division/country:us/state:la/parish:lafayette/precinct:96y,Lafayette - 096Y
 ocd-division/country:us/state:la/parish:lafayette/precinct:96z,Lafayette - 096Z
-ocd-division/country:us/state:la/parish:lafayette/precinct:97a,Lafayette - 097A
-ocd-division/country:us/state:la/parish:lafayette/precinct:97b,Lafayette - 097B
+ocd-division/country:us/state:la/parish:lafayette/precinct:97,Lafayette - 097
 ocd-division/country:us/state:la/parish:lafayette/precinct:98,Lafayette - 098
 ocd-division/country:us/state:la/parish:lafayette/precinct:99,Lafayette - 099
 ocd-division/country:us/state:la/parish:lafayette/precinct:100,Lafayette - 100
@@ -1953,6 +1884,9 @@ ocd-division/country:us/state:la/parish:lafayette/precinct:108,Lafayette - 108
 ocd-division/country:us/state:la/parish:lafayette/precinct:109,Lafayette - 109
 ocd-division/country:us/state:la/parish:lafayette/precinct:110,Lafayette - 110
 ocd-division/country:us/state:la/parish:lafayette/precinct:111,Lafayette - 111
+ocd-division/country:us/state:la/parish:lafayette/precinct:113,Lafayette - 113
+ocd-division/country:us/state:la/parish:lafayette/precinct:114,Lafayette - 114
+ocd-division/country:us/state:la/parish:lafayette/precinct:115,Lafayette - 115
 ocd-division/country:us/state:la/parish:lafourche/ward:1/precinct:1,Lafourche - Ward 01 Pct 01
 ocd-division/country:us/state:la/parish:lafourche/ward:1/precinct:2,Lafourche - Ward 01 Pct 02
 ocd-division/country:us/state:la/parish:lafourche/ward:1/precinct:3a,Lafourche - Ward 01 Pct 03A
@@ -2032,16 +1966,8 @@ ocd-division/country:us/state:la/parish:lincoln/ward:1/precinct:2,Lincoln - Ward
 ocd-division/country:us/state:la/parish:lincoln/ward:1/precinct:3,Lincoln - Ward 01 Pct 03
 ocd-division/country:us/state:la/parish:lincoln/ward:1/precinct:5,Lincoln - Ward 01 Pct 05
 ocd-division/country:us/state:la/parish:lincoln/ward:1/precinct:6,Lincoln - Ward 01 Pct 06
-ocd-division/country:us/state:la/parish:lincoln/ward:1/precinct:7,Lincoln - Ward 01 Pct 07
-ocd-division/country:us/state:la/parish:lincoln/ward:1/precinct:8,Lincoln - Ward 01 Pct 08
-ocd-division/country:us/state:la/parish:lincoln/ward:1/precinct:9,Lincoln - Ward 01 Pct 09
-ocd-division/country:us/state:la/parish:lincoln/ward:1/precinct:10,Lincoln - Ward 01 Pct 10
-ocd-division/country:us/state:la/parish:lincoln/ward:1/precinct:11,Lincoln - Ward 01 Pct 11
-ocd-division/country:us/state:la/parish:lincoln/ward:1/precinct:13,Lincoln - Ward 01 Pct 13
 ocd-division/country:us/state:la/parish:lincoln/ward:2/precinct:1,Lincoln - Ward 02 Pct 01
 ocd-division/country:us/state:la/parish:lincoln/ward:2/precinct:2,Lincoln - Ward 02 Pct 02
-ocd-division/country:us/state:la/parish:lincoln/ward:2/precinct:3,Lincoln - Ward 02 Pct 03
-ocd-division/country:us/state:la/parish:lincoln/ward:2/precinct:5,Lincoln - Ward 02 Pct 05
 ocd-division/country:us/state:la/parish:lincoln/ward:3/precinct:1,Lincoln - Ward 03 Pct 01
 ocd-division/country:us/state:la/parish:lincoln/ward:3/precinct:2,Lincoln - Ward 03 Pct 02
 ocd-division/country:us/state:la/parish:lincoln/ward:3/precinct:3,Lincoln - Ward 03 Pct 03
@@ -2054,68 +1980,39 @@ ocd-division/country:us/state:la/parish:lincoln/ward:4/precinct:3,Lincoln - Ward
 ocd-division/country:us/state:la/parish:lincoln/ward:4/precinct:4,Lincoln - Ward 04 Pct 04
 ocd-division/country:us/state:la/parish:lincoln/ward:4/precinct:5,Lincoln - Ward 04 Pct 05
 ocd-division/country:us/state:la/parish:lincoln/ward:4/precinct:6,Lincoln - Ward 04 Pct 06
-ocd-division/country:us/state:la/parish:lincoln/ward:4/precinct:7,Lincoln - Ward 04 Pct 07
 ocd-division/country:us/state:la/parish:lincoln/ward:5/precinct:1,Lincoln - Ward 05 Pct 01
 ocd-division/country:us/state:la/parish:lincoln/ward:5/precinct:2,Lincoln - Ward 05 Pct 02
 ocd-division/country:us/state:la/parish:lincoln/ward:5/precinct:3,Lincoln - Ward 05 Pct 03
 ocd-division/country:us/state:la/parish:lincoln/ward:5/precinct:4,Lincoln - Ward 05 Pct 04
-ocd-division/country:us/state:la/parish:lincoln/ward:5/precinct:5,Lincoln - Ward 05 Pct 05
 ocd-division/country:us/state:la/parish:lincoln/ward:6/precinct:1,Lincoln - Ward 06 Pct 01
 ocd-division/country:us/state:la/parish:lincoln/ward:6/precinct:2,Lincoln - Ward 06 Pct 02
 ocd-division/country:us/state:la/parish:lincoln/ward:6/precinct:3,Lincoln - Ward 06 Pct 03
 ocd-division/country:us/state:la/parish:lincoln/ward:6/precinct:4,Lincoln - Ward 06 Pct 04
-ocd-division/country:us/state:la/parish:lincoln/ward:6/precinct:6,Lincoln - Ward 06 Pct 06
-ocd-division/country:us/state:la/parish:lincoln/ward:6/precinct:8,Lincoln - Ward 06 Pct 08
-ocd-division/country:us/state:la/parish:lincoln/ward:6/precinct:9,Lincoln - Ward 06 Pct 09
+ocd-division/country:us/state:la/parish:lincoln/ward:6/precinct:5,Lincoln - Ward 06 Pct 05
 ocd-division/country:us/state:la/parish:lincoln/ward:7/precinct:1,Lincoln - Ward 07 Pct 01
 ocd-division/country:us/state:la/parish:lincoln/ward:7/precinct:2,Lincoln - Ward 07 Pct 02
-ocd-division/country:us/state:la/parish:lincoln/ward:7/precinct:3,Lincoln - Ward 07 Pct 03
-ocd-division/country:us/state:la/parish:lincoln/ward:7/precinct:4,Lincoln - Ward 07 Pct 04
-ocd-division/country:us/state:la/parish:lincoln/ward:7/precinct:5,Lincoln - Ward 07 Pct 05
 ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:1,Lincoln - Ward 08 Pct 01
 ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:2,Lincoln - Ward 08 Pct 02
 ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:3,Lincoln - Ward 08 Pct 03
 ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:4,Lincoln - Ward 08 Pct 04
 ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:5,Lincoln - Ward 08 Pct 05
-ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:6,Lincoln - Ward 08 Pct 06
-ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:7,Lincoln - Ward 08 Pct 07
-ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:8,Lincoln - Ward 08 Pct 08
-ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:9,Lincoln - Ward 08 Pct 09
-ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:10,Lincoln - Ward 08 Pct 10
-ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:11,Lincoln - Ward 08 Pct 11
-ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:12,Lincoln - Ward 08 Pct 12
-ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:13,Lincoln - Ward 08 Pct 13
-ocd-division/country:us/state:la/parish:lincoln/ward:8/precinct:14,Lincoln - Ward 08 Pct 14
 ocd-division/country:us/state:la/parish:lincoln/ward:9/precinct:1,Lincoln - Ward 09 Pct 01
 ocd-division/country:us/state:la/parish:lincoln/ward:9/precinct:2,Lincoln - Ward 09 Pct 02
 ocd-division/country:us/state:la/parish:lincoln/ward:9/precinct:3,Lincoln - Ward 09 Pct 03
 ocd-division/country:us/state:la/parish:lincoln/ward:9/precinct:4,Lincoln - Ward 09 Pct 04
 ocd-division/country:us/state:la/parish:lincoln/ward:9/precinct:5,Lincoln - Ward 09 Pct 05
 ocd-division/country:us/state:la/parish:lincoln/ward:9/precinct:6,Lincoln - Ward 09 Pct 06
-ocd-division/country:us/state:la/parish:lincoln/ward:9/precinct:7,Lincoln - Ward 09 Pct 07
-ocd-division/country:us/state:la/parish:lincoln/ward:9/precinct:8,Lincoln - Ward 09 Pct 08
-ocd-division/country:us/state:la/parish:lincoln/ward:9/precinct:9,Lincoln - Ward 09 Pct 09
-ocd-division/country:us/state:la/parish:lincoln/ward:9/precinct:10,Lincoln - Ward 09 Pct 10
-ocd-division/country:us/state:la/parish:lincoln/ward:9/precinct:11,Lincoln - Ward 09 Pct 11
 ocd-division/country:us/state:la/parish:lincoln/ward:10/precinct:1,Lincoln - Ward 10 Pct 01
 ocd-division/country:us/state:la/parish:lincoln/ward:10/precinct:2,Lincoln - Ward 10 Pct 02
 ocd-division/country:us/state:la/parish:lincoln/ward:10/precinct:3,Lincoln - Ward 10 Pct 03
 ocd-division/country:us/state:la/parish:lincoln/ward:10/precinct:4,Lincoln - Ward 10 Pct 04
 ocd-division/country:us/state:la/parish:lincoln/ward:10/precinct:5,Lincoln - Ward 10 Pct 05
 ocd-division/country:us/state:la/parish:lincoln/ward:10/precinct:6,Lincoln - Ward 10 Pct 06
-ocd-division/country:us/state:la/parish:lincoln/ward:10/precinct:7,Lincoln - Ward 10 Pct 07
-ocd-division/country:us/state:la/parish:lincoln/ward:10/precinct:8,Lincoln - Ward 10 Pct 08
-ocd-division/country:us/state:la/parish:lincoln/ward:10/precinct:9,Lincoln - Ward 10 Pct 09
-ocd-division/country:us/state:la/parish:lincoln/ward:10/precinct:10,Lincoln - Ward 10 Pct 10
-ocd-division/country:us/state:la/parish:lincoln/ward:10/precinct:11,Lincoln - Ward 10 Pct 11
 ocd-division/country:us/state:la/parish:lincoln/ward:11/precinct:1,Lincoln - Ward 11 Pct 01
 ocd-division/country:us/state:la/parish:lincoln/ward:11/precinct:2,Lincoln - Ward 11 Pct 02
 ocd-division/country:us/state:la/parish:lincoln/ward:11/precinct:3,Lincoln - Ward 11 Pct 03
 ocd-division/country:us/state:la/parish:lincoln/ward:11/precinct:4,Lincoln - Ward 11 Pct 04
 ocd-division/country:us/state:la/parish:lincoln/ward:11/precinct:5,Lincoln - Ward 11 Pct 05
-ocd-division/country:us/state:la/parish:lincoln/ward:11/precinct:6,Lincoln - Ward 11 Pct 06
-ocd-division/country:us/state:la/parish:lincoln/ward:11/precinct:7,Lincoln - Ward 11 Pct 07
-ocd-division/country:us/state:la/parish:lincoln/ward:11/precinct:8,Lincoln - Ward 11 Pct 08
 ocd-division/country:us/state:la/parish:lincoln/ward:12/precinct:1,Lincoln - Ward 12 Pct 01
 ocd-division/country:us/state:la/parish:lincoln/ward:12/precinct:2,Lincoln - Ward 12 Pct 02
 ocd-division/country:us/state:la/parish:lincoln/ward:12/precinct:4,Lincoln - Ward 12 Pct 04
@@ -2164,16 +2061,15 @@ ocd-division/country:us/state:la/parish:livingston/precinct:19,Livingston - 19
 ocd-division/country:us/state:la/parish:livingston/precinct:19a,Livingston - 19A
 ocd-division/country:us/state:la/parish:livingston/precinct:20,Livingston - 20
 ocd-division/country:us/state:la/parish:livingston/precinct:21,Livingston - 21
+ocd-division/country:us/state:la/parish:livingston/precinct:21a,Livingston - 21A
 ocd-division/country:us/state:la/parish:livingston/precinct:22,Livingston - 22
 ocd-division/country:us/state:la/parish:livingston/precinct:23,Livingston - 23
 ocd-division/country:us/state:la/parish:livingston/precinct:23a,Livingston - 23A
 ocd-division/country:us/state:la/parish:livingston/precinct:23b,Livingston - 23B
+ocd-division/country:us/state:la/parish:livingston/precinct:23c,Livingston - 23C
 ocd-division/country:us/state:la/parish:livingston/precinct:24,Livingston - 24
-ocd-division/country:us/state:la/parish:livingston/precinct:24a,Livingston - 24A
 ocd-division/country:us/state:la/parish:livingston/precinct:24b,Livingston - 24B
 ocd-division/country:us/state:la/parish:livingston/precinct:24c,Livingston - 24C
-ocd-division/country:us/state:la/parish:livingston/precinct:24d,Livingston - 24D
-ocd-division/country:us/state:la/parish:livingston/precinct:24e,Livingston - 24E
 ocd-division/country:us/state:la/parish:livingston/precinct:25,Livingston - 25
 ocd-division/country:us/state:la/parish:livingston/precinct:26,Livingston - 26
 ocd-division/country:us/state:la/parish:livingston/precinct:26a,Livingston - 26A
@@ -2229,7 +2125,6 @@ ocd-division/country:us/state:la/parish:madison/precinct:22,Madison - 22
 ocd-division/country:us/state:la/parish:madison/precinct:23,Madison - 23
 ocd-division/country:us/state:la/parish:madison/precinct:24,Madison - 24
 ocd-division/country:us/state:la/parish:madison/precinct:25,Madison - 25
-ocd-division/country:us/state:la/parish:madison/precinct:26,Madison - 26
 ocd-division/country:us/state:la/parish:madison/precinct:27,Madison - 27
 ocd-division/country:us/state:la/parish:madison/precinct:28,Madison - 28
 ocd-division/country:us/state:la/parish:madison/precinct:29,Madison - 29
@@ -2237,24 +2132,18 @@ ocd-division/country:us/state:la/parish:morehouse/precinct:1,Morehouse - 01
 ocd-division/country:us/state:la/parish:morehouse/precinct:2,Morehouse - 02
 ocd-division/country:us/state:la/parish:morehouse/precinct:3-1,Morehouse - 03-1
 ocd-division/country:us/state:la/parish:morehouse/precinct:3-2,Morehouse - 03-2
-ocd-division/country:us/state:la/parish:morehouse/precinct:4,Morehouse - 04
-ocd-division/country:us/state:la/parish:morehouse/precinct:5,Morehouse - 05
 ocd-division/country:us/state:la/parish:morehouse/precinct:6,Morehouse - 06
 ocd-division/country:us/state:la/parish:morehouse/precinct:7,Morehouse - 07
 ocd-division/country:us/state:la/parish:morehouse/precinct:8,Morehouse - 08
-ocd-division/country:us/state:la/parish:morehouse/precinct:9,Morehouse - 09
-ocd-division/country:us/state:la/parish:morehouse/precinct:10,Morehouse - 10
 ocd-division/country:us/state:la/parish:morehouse/precinct:12,Morehouse - 12
 ocd-division/country:us/state:la/parish:morehouse/precinct:13,Morehouse - 13
 ocd-division/country:us/state:la/parish:morehouse/precinct:14,Morehouse - 14
-ocd-division/country:us/state:la/parish:morehouse/precinct:15,Morehouse - 15
 ocd-division/country:us/state:la/parish:morehouse/precinct:16,Morehouse - 16
 ocd-division/country:us/state:la/parish:morehouse/precinct:17,Morehouse - 17
 ocd-division/country:us/state:la/parish:morehouse/precinct:18,Morehouse - 18
 ocd-division/country:us/state:la/parish:morehouse/precinct:20,Morehouse - 20
 ocd-division/country:us/state:la/parish:morehouse/precinct:21-1,Morehouse - 21-1
 ocd-division/country:us/state:la/parish:morehouse/precinct:21-2,Morehouse - 21-2
-ocd-division/country:us/state:la/parish:morehouse/precinct:22,Morehouse - 22
 ocd-division/country:us/state:la/parish:morehouse/precinct:23,Morehouse - 23
 ocd-division/country:us/state:la/parish:morehouse/precinct:24,Morehouse - 24
 ocd-division/country:us/state:la/parish:morehouse/precinct:25,Morehouse - 25
@@ -2262,28 +2151,22 @@ ocd-division/country:us/state:la/parish:morehouse/precinct:26-1,Morehouse - 26-1
 ocd-division/country:us/state:la/parish:morehouse/precinct:26-2,Morehouse - 26-2
 ocd-division/country:us/state:la/parish:morehouse/precinct:27-1,Morehouse - 27-1
 ocd-division/country:us/state:la/parish:morehouse/precinct:27-2,Morehouse - 27-2
-ocd-division/country:us/state:la/parish:morehouse/precinct:28,Morehouse - 28
 ocd-division/country:us/state:la/parish:morehouse/precinct:29,Morehouse - 29
 ocd-division/country:us/state:la/parish:morehouse/precinct:31,Morehouse - 31
 ocd-division/country:us/state:la/parish:morehouse/precinct:33,Morehouse - 33
 ocd-division/country:us/state:la/parish:morehouse/precinct:34,Morehouse - 34
 ocd-division/country:us/state:la/parish:morehouse/precinct:35,Morehouse - 35
-ocd-division/country:us/state:la/parish:morehouse/precinct:36,Morehouse - 36
 ocd-division/country:us/state:la/parish:morehouse/precinct:37,Morehouse - 37
-ocd-division/country:us/state:la/parish:morehouse/precinct:38,Morehouse - 38
 ocd-division/country:us/state:la/parish:morehouse/precinct:39-1,Morehouse - 39-1
 ocd-division/country:us/state:la/parish:morehouse/precinct:39-2,Morehouse - 39-2
 ocd-division/country:us/state:la/parish:morehouse/precinct:40,Morehouse - 40
-ocd-division/country:us/state:la/parish:morehouse/precinct:41,Morehouse - 41
 ocd-division/country:us/state:la/parish:morehouse/precinct:42,Morehouse - 42
 ocd-division/country:us/state:la/parish:morehouse/precinct:43,Morehouse - 43
-ocd-division/country:us/state:la/parish:morehouse/precinct:44,Morehouse - 44
 ocd-division/country:us/state:la/parish:morehouse/precinct:45,Morehouse - 45
 ocd-division/country:us/state:la/parish:morehouse/precinct:47,Morehouse - 47
 ocd-division/country:us/state:la/parish:morehouse/precinct:48,Morehouse - 48
 ocd-division/country:us/state:la/parish:morehouse/precinct:49,Morehouse - 49
 ocd-division/country:us/state:la/parish:morehouse/precinct:50,Morehouse - 50
-ocd-division/country:us/state:la/parish:morehouse/precinct:51,Morehouse - 51
 ocd-division/country:us/state:la/parish:morehouse/precinct:52,Morehouse - 52
 ocd-division/country:us/state:la/parish:morehouse/precinct:53,Morehouse - 53
 ocd-division/country:us/state:la/parish:morehouse/precinct:54,Morehouse - 54
@@ -2760,7 +2643,6 @@ ocd-division/country:us/state:la/parish:ouachita/precinct:50,Ouachita - 50
 ocd-division/country:us/state:la/parish:ouachita/precinct:51,Ouachita - 51
 ocd-division/country:us/state:la/parish:ouachita/precinct:52,Ouachita - 52
 ocd-division/country:us/state:la/parish:ouachita/precinct:53,Ouachita - 53
-ocd-division/country:us/state:la/parish:ouachita/precinct:53a,Ouachita - 53A
 ocd-division/country:us/state:la/parish:ouachita/precinct:54,Ouachita - 54
 ocd-division/country:us/state:la/parish:ouachita/precinct:55,Ouachita - 55
 ocd-division/country:us/state:la/parish:ouachita/precinct:56,Ouachita - 56
@@ -2801,7 +2683,9 @@ ocd-division/country:us/state:la/parish:plaquemines/ward:7/precinct:1,Plaquemine
 ocd-division/country:us/state:la/parish:plaquemines/ward:7/precinct:2,Plaquemines - Ward 07 Pct 02
 ocd-division/country:us/state:la/parish:plaquemines/ward:8/precinct:1,Plaquemines - Ward 08 Pct 01
 ocd-division/country:us/state:la/parish:plaquemines/ward:8/precinct:2,Plaquemines - Ward 08 Pct 02
+ocd-division/country:us/state:la/parish:plaquemines/ward:8/precinct:3,Plaquemines - Ward 08 Pct 03
 ocd-division/country:us/state:la/parish:plaquemines/ward:9/precinct:1,Plaquemines - Ward 09 Pct 01
+ocd-division/country:us/state:la/parish:plaquemines/ward:9/precinct:2,Plaquemines - Ward 09 Pct 02
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:1,Pointe Coupee - 01
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:2,Pointe Coupee - 02
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:3,Pointe Coupee - 03
@@ -2814,12 +2698,9 @@ ocd-division/country:us/state:la/parish:pointe_coupee/precinct:8b,Pointe Coupee 
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:9,Pointe Coupee - 09
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:10a,Pointe Coupee - 10A
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:10b,Pointe Coupee - 10B
-ocd-division/country:us/state:la/parish:pointe_coupee/precinct:10c,Pointe Coupee - 10C
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:11,Pointe Coupee - 11
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:12,Pointe Coupee - 12
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:13a,Pointe Coupee - 13A
-ocd-division/country:us/state:la/parish:pointe_coupee/precinct:13b,Pointe Coupee - 13B
-ocd-division/country:us/state:la/parish:pointe_coupee/precinct:13c,Pointe Coupee - 13C
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:14,Pointe Coupee - 14
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:15a,Pointe Coupee - 15A
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:15b,Pointe Coupee - 15B
@@ -2831,7 +2712,6 @@ ocd-division/country:us/state:la/parish:pointe_coupee/precinct:19a,Pointe Coupee
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:19b,Pointe Coupee - 19B
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:20a,Pointe Coupee - 20A
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:20b,Pointe Coupee - 20B
-ocd-division/country:us/state:la/parish:pointe_coupee/precinct:20c,Pointe Coupee - 20C
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:21,Pointe Coupee - 21
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:22a,Pointe Coupee - 22A
 ocd-division/country:us/state:la/parish:pointe_coupee/precinct:23,Pointe Coupee - 23
@@ -2971,37 +2851,22 @@ ocd-division/country:us/state:la/parish:richland/precinct:1,Richland - 01
 ocd-division/country:us/state:la/parish:richland/precinct:2,Richland - 02
 ocd-division/country:us/state:la/parish:richland/precinct:3,Richland - 03
 ocd-division/country:us/state:la/parish:richland/precinct:4,Richland - 04
-ocd-division/country:us/state:la/parish:richland/precinct:5,Richland - 05
-ocd-division/country:us/state:la/parish:richland/precinct:6,Richland - 06
-ocd-division/country:us/state:la/parish:richland/precinct:7,Richland - 07
 ocd-division/country:us/state:la/parish:richland/precinct:8,Richland - 08
-ocd-division/country:us/state:la/parish:richland/precinct:9,Richland - 09
 ocd-division/country:us/state:la/parish:richland/precinct:10,Richland - 10
 ocd-division/country:us/state:la/parish:richland/precinct:11,Richland - 11
 ocd-division/country:us/state:la/parish:richland/precinct:12,Richland - 12
 ocd-division/country:us/state:la/parish:richland/precinct:12a,Richland - 12A
 ocd-division/country:us/state:la/parish:richland/precinct:13,Richland - 13
-ocd-division/country:us/state:la/parish:richland/precinct:14,Richland - 14
-ocd-division/country:us/state:la/parish:richland/precinct:14a,Richland - 14A
-ocd-division/country:us/state:la/parish:richland/precinct:15,Richland - 15
-ocd-division/country:us/state:la/parish:richland/precinct:16,Richland - 16
 ocd-division/country:us/state:la/parish:richland/precinct:17,Richland - 17
 ocd-division/country:us/state:la/parish:richland/precinct:18,Richland - 18
-ocd-division/country:us/state:la/parish:richland/precinct:19,Richland - 19
-ocd-division/country:us/state:la/parish:richland/precinct:20,Richland - 20
-ocd-division/country:us/state:la/parish:richland/precinct:20a,Richland - 20A
-ocd-division/country:us/state:la/parish:richland/precinct:21,Richland - 21
 ocd-division/country:us/state:la/parish:richland/precinct:23,Richland - 23
-ocd-division/country:us/state:la/parish:richland/precinct:24,Richland - 24
 ocd-division/country:us/state:la/parish:richland/precinct:25,Richland - 25
 ocd-division/country:us/state:la/parish:richland/precinct:26,Richland - 26
 ocd-division/country:us/state:la/parish:richland/precinct:27,Richland - 27
 ocd-division/country:us/state:la/parish:richland/precinct:28,Richland - 28
-ocd-division/country:us/state:la/parish:richland/precinct:28a,Richland - 28A
 ocd-division/country:us/state:la/parish:richland/precinct:30,Richland - 30
 ocd-division/country:us/state:la/parish:richland/precinct:31,Richland - 31
 ocd-division/country:us/state:la/parish:richland/precinct:32,Richland - 32
-ocd-division/country:us/state:la/parish:richland/precinct:32a,Richland - 32A
 ocd-division/country:us/state:la/parish:richland/precinct:33,Richland - 33
 ocd-division/country:us/state:la/parish:richland/precinct:34,Richland - 34
 ocd-division/country:us/state:la/parish:richland/precinct:34a,Richland - 34A
@@ -3142,7 +3007,6 @@ ocd-division/country:us/state:la/parish:st_helena/ward:5/precinct:1,St Helena - 
 ocd-division/country:us/state:la/parish:st_helena/ward:5/precinct:2,St Helena - Ward 05 Pct 02
 ocd-division/country:us/state:la/parish:st_helena/ward:6/precinct:1,St Helena - Ward 06 Pct 01
 ocd-division/country:us/state:la/parish:st_helena/ward:6/precinct:2,St Helena - Ward 06 Pct 02
-ocd-division/country:us/state:la/parish:st_james/precinct:1,St James - 01
 ocd-division/country:us/state:la/parish:st_james/precinct:1a,St James - 01A
 ocd-division/country:us/state:la/parish:st_james/precinct:2,St James - 02
 ocd-division/country:us/state:la/parish:st_james/precinct:3,St James - 03
@@ -3155,9 +3019,9 @@ ocd-division/country:us/state:la/parish:st_james/precinct:6,St James - 06
 ocd-division/country:us/state:la/parish:st_james/precinct:7,St James - 07
 ocd-division/country:us/state:la/parish:st_james/precinct:7a,St James - 07A
 ocd-division/country:us/state:la/parish:st_james/precinct:8,St James - 08
-ocd-division/country:us/state:la/parish:st_james/precinct:8a,St James - 08A
 ocd-division/country:us/state:la/parish:st_james/precinct:8b,St James - 08B
 ocd-division/country:us/state:la/parish:st_james/precinct:8c,St James - 08C
+ocd-division/country:us/state:la/parish:st_james/precinct:8d,St James - 08D
 ocd-division/country:us/state:la/parish:st_james/precinct:9,St James - 09
 ocd-division/country:us/state:la/parish:st_james/precinct:9a,St James - 09A
 ocd-division/country:us/state:la/parish:st_james/precinct:10,St James - 10
@@ -3168,13 +3032,11 @@ ocd-division/country:us/state:la/parish:st_james/precinct:14,St James - 14
 ocd-division/country:us/state:la/parish:st_james/precinct:15,St James - 15
 ocd-division/country:us/state:la/parish:st_james/precinct:15a,St James - 15A
 ocd-division/country:us/state:la/parish:st_james/precinct:15b,St James - 15B
-ocd-division/country:us/state:la/parish:st_james/precinct:15c,St James - 15C
 ocd-division/country:us/state:la/parish:st_james/precinct:16,St James - 16
 ocd-division/country:us/state:la/parish:st_james/precinct:16a,St James - 16A
 ocd-division/country:us/state:la/parish:st_james/precinct:16b,St James - 16B
 ocd-division/country:us/state:la/parish:st_james/precinct:17,St James - 17
 ocd-division/country:us/state:la/parish:st_james/precinct:17a,St James - 17A
-ocd-division/country:us/state:la/parish:st_james/precinct:17b,St James - 17B
 ocd-division/country:us/state:la/parish:st_james/precinct:18,St James - 18
 ocd-division/country:us/state:la/parish:st_john_the_baptist/ward:1/precinct:1,St John The Baptist - Ward 01 Pct 01
 ocd-division/country:us/state:la/parish:st_john_the_baptist/ward:1/precinct:2,St John The Baptist - Ward 01 Pct 02
@@ -3237,12 +3099,10 @@ ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:7,St Landry - 
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:8,St Landry - Ward 01 Pct 08
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:9,St Landry - Ward 01 Pct 09
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:10,St Landry - Ward 01 Pct 10
-ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:10a,St Landry - Ward 01 Pct 10A
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:11,St Landry - Ward 01 Pct 11
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:12,St Landry - Ward 01 Pct 12
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:13,St Landry - Ward 01 Pct 13
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:14,St Landry - Ward 01 Pct 14
-ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:14a,St Landry - Ward 01 Pct 14A
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:15,St Landry - Ward 01 Pct 15
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:15a,St Landry - Ward 01 Pct 15A
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:16,St Landry - Ward 01 Pct 16
@@ -3251,7 +3111,6 @@ ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:18,St Landry -
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:19,St Landry - Ward 01 Pct 19
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:20,St Landry - Ward 01 Pct 20
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:21,St Landry - Ward 01 Pct 21
-ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:22,St Landry - Ward 01 Pct 22
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:23,St Landry - Ward 01 Pct 23
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:24,St Landry - Ward 01 Pct 24
 ocd-division/country:us/state:la/parish:st_landry/ward:1/precinct:25,St Landry - Ward 01 Pct 25
@@ -3269,7 +3128,6 @@ ocd-division/country:us/state:la/parish:st_landry/ward:2/precinct:4z,St Landry -
 ocd-division/country:us/state:la/parish:st_landry/ward:2/precinct:5,St Landry - Ward 02 Pct 05
 ocd-division/country:us/state:la/parish:st_landry/ward:2/precinct:5a,St Landry - Ward 02 Pct 05A
 ocd-division/country:us/state:la/parish:st_landry/ward:2/precinct:5b,St Landry - Ward 02 Pct 05B
-ocd-division/country:us/state:la/parish:st_landry/ward:2/precinct:6,St Landry - Ward 02 Pct 06
 ocd-division/country:us/state:la/parish:st_landry/ward:2/precinct:7,St Landry - Ward 02 Pct 07
 ocd-division/country:us/state:la/parish:st_landry/ward:2/precinct:8,St Landry - Ward 02 Pct 08
 ocd-division/country:us/state:la/parish:st_landry/ward:2/precinct:9,St Landry - Ward 02 Pct 09
@@ -3320,7 +3178,6 @@ ocd-division/country:us/state:la/parish:st_landry/ward:6/precinct:11b,St Landry 
 ocd-division/country:us/state:la/parish:st_landry/ward:6/precinct:13,St Landry - Ward 06 Pct 13
 ocd-division/country:us/state:la/parish:st_landry/ward:6/precinct:14,St Landry - Ward 06 Pct 14
 ocd-division/country:us/state:la/parish:st_landry/ward:6/precinct:15,St Landry - Ward 06 Pct 15
-ocd-division/country:us/state:la/parish:st_landry/ward:6/precinct:16,St Landry - Ward 06 Pct 16
 ocd-division/country:us/state:la/parish:st_landry/ward:6/precinct:16a,St Landry - Ward 06 Pct 16A
 ocd-division/country:us/state:la/parish:st_martin/ward:1/precinct:1,St Martin - Ward 01 Pct 01
 ocd-division/country:us/state:la/parish:st_martin/ward:1/precinct:2,St Martin - Ward 01 Pct 02
@@ -3386,10 +3243,8 @@ ocd-division/country:us/state:la/parish:st_mary/precinct:1,St Mary - 01
 ocd-division/country:us/state:la/parish:st_mary/precinct:2,St Mary - 02
 ocd-division/country:us/state:la/parish:st_mary/precinct:3,St Mary - 03
 ocd-division/country:us/state:la/parish:st_mary/precinct:4,St Mary - 04
-ocd-division/country:us/state:la/parish:st_mary/precinct:5,St Mary - 05
 ocd-division/country:us/state:la/parish:st_mary/precinct:5a,St Mary - 05A
 ocd-division/country:us/state:la/parish:st_mary/precinct:6,St Mary - 06
-ocd-division/country:us/state:la/parish:st_mary/precinct:6a,St Mary - 06A
 ocd-division/country:us/state:la/parish:st_mary/precinct:7,St Mary - 07
 ocd-division/country:us/state:la/parish:st_mary/precinct:8,St Mary - 08
 ocd-division/country:us/state:la/parish:st_mary/precinct:9,St Mary - 09
@@ -3430,7 +3285,6 @@ ocd-division/country:us/state:la/parish:st_mary/precinct:40,St Mary - 40
 ocd-division/country:us/state:la/parish:st_mary/precinct:41,St Mary - 41
 ocd-division/country:us/state:la/parish:st_mary/precinct:41a,St Mary - 41A
 ocd-division/country:us/state:la/parish:st_mary/precinct:42,St Mary - 42
-ocd-division/country:us/state:la/parish:st_mary/precinct:42a,St Mary - 42A
 ocd-division/country:us/state:la/parish:st_mary/precinct:43,St Mary - 43
 ocd-division/country:us/state:la/parish:st_mary/precinct:44,St Mary - 44
 ocd-division/country:us/state:la/parish:st_mary/precinct:45,St Mary - 45
@@ -3443,6 +3297,9 @@ ocd-division/country:us/state:la/parish:st_tammany/precinct:104,St Tammany - 104
 ocd-division/country:us/state:la/parish:st_tammany/precinct:105,St Tammany - 105
 ocd-division/country:us/state:la/parish:st_tammany/precinct:106,St Tammany - 106
 ocd-division/country:us/state:la/parish:st_tammany/precinct:107,St Tammany - 107
+ocd-division/country:us/state:la/parish:st_tammany/precinct:108,St Tammany - 108
+ocd-division/country:us/state:la/parish:st_tammany/precinct:110,St Tammany - 110
+ocd-division/country:us/state:la/parish:st_tammany/precinct:111,St Tammany - 111
 ocd-division/country:us/state:la/parish:st_tammany/precinct:201,St Tammany - 201
 ocd-division/country:us/state:la/parish:st_tammany/precinct:202,St Tammany - 202
 ocd-division/country:us/state:la/parish:st_tammany/precinct:203,St Tammany - 203
@@ -3460,9 +3317,9 @@ ocd-division/country:us/state:la/parish:st_tammany/precinct:307,St Tammany - 307
 ocd-division/country:us/state:la/parish:st_tammany/precinct:308,St Tammany - 308
 ocd-division/country:us/state:la/parish:st_tammany/precinct:309,St Tammany - 309
 ocd-division/country:us/state:la/parish:st_tammany/precinct:310,St Tammany - 310
-ocd-division/country:us/state:la/parish:st_tammany/precinct:311,St Tammany - 311
 ocd-division/country:us/state:la/parish:st_tammany/precinct:312,St Tammany - 312
 ocd-division/country:us/state:la/parish:st_tammany/precinct:313,St Tammany - 313
+ocd-division/country:us/state:la/parish:st_tammany/precinct:314,St Tammany - 314
 ocd-division/country:us/state:la/parish:st_tammany/precinct:401,St Tammany - 401
 ocd-division/country:us/state:la/parish:st_tammany/precinct:402,St Tammany - 402
 ocd-division/country:us/state:la/parish:st_tammany/precinct:403,St Tammany - 403
@@ -3485,9 +3342,9 @@ ocd-division/country:us/state:la/parish:st_tammany/precinct:419,St Tammany - 419
 ocd-division/country:us/state:la/parish:st_tammany/precinct:420,St Tammany - 420
 ocd-division/country:us/state:la/parish:st_tammany/precinct:421,St Tammany - 421
 ocd-division/country:us/state:la/parish:st_tammany/precinct:422,St Tammany - 422
-ocd-division/country:us/state:la/parish:st_tammany/precinct:423,St Tammany - 423
 ocd-division/country:us/state:la/parish:st_tammany/precinct:426,St Tammany - 426
 ocd-division/country:us/state:la/parish:st_tammany/precinct:427,St Tammany - 427
+ocd-division/country:us/state:la/parish:st_tammany/precinct:429,St Tammany - 429
 ocd-division/country:us/state:la/parish:st_tammany/precinct:501,St Tammany - 501
 ocd-division/country:us/state:la/parish:st_tammany/precinct:502,St Tammany - 502
 ocd-division/country:us/state:la/parish:st_tammany/precinct:503,St Tammany - 503
@@ -3499,7 +3356,7 @@ ocd-division/country:us/state:la/parish:st_tammany/precinct:603,St Tammany - 603
 ocd-division/country:us/state:la/parish:st_tammany/precinct:604,St Tammany - 604
 ocd-division/country:us/state:la/parish:st_tammany/precinct:605,St Tammany - 605
 ocd-division/country:us/state:la/parish:st_tammany/precinct:606,St Tammany - 606
-ocd-division/country:us/state:la/parish:st_tammany/precinct:607,St Tammany - 607
+ocd-division/country:us/state:la/parish:st_tammany/precinct:609,St Tammany - 609
 ocd-division/country:us/state:la/parish:st_tammany/precinct:701,St Tammany - 701
 ocd-division/country:us/state:la/parish:st_tammany/precinct:702,St Tammany - 702
 ocd-division/country:us/state:la/parish:st_tammany/precinct:703,St Tammany - 703
@@ -3530,7 +3387,6 @@ ocd-division/country:us/state:la/parish:st_tammany/precinct:904,St Tammany - 904
 ocd-division/country:us/state:la/parish:st_tammany/precinct:905,St Tammany - 905
 ocd-division/country:us/state:la/parish:st_tammany/precinct:906,St Tammany - 906
 ocd-division/country:us/state:la/parish:st_tammany/precinct:907,St Tammany - 907
-ocd-division/country:us/state:la/parish:st_tammany/precinct:908,St Tammany - 908
 ocd-division/country:us/state:la/parish:st_tammany/precinct:909,St Tammany - 909
 ocd-division/country:us/state:la/parish:st_tammany/precinct:910,St Tammany - 910
 ocd-division/country:us/state:la/parish:st_tammany/precinct:911,St Tammany - 911
@@ -3581,7 +3437,6 @@ ocd-division/country:us/state:la/parish:st_tammany/precinct:s08,St Tammany - S08
 ocd-division/country:us/state:la/parish:st_tammany/precinct:s09,St Tammany - S09
 ocd-division/country:us/state:la/parish:st_tammany/precinct:s10,St Tammany - S10
 ocd-division/country:us/state:la/parish:st_tammany/precinct:s11,St Tammany - S11
-ocd-division/country:us/state:la/parish:st_tammany/precinct:s12,St Tammany - S12
 ocd-division/country:us/state:la/parish:st_tammany/precinct:s13,St Tammany - S13
 ocd-division/country:us/state:la/parish:st_tammany/precinct:s15,St Tammany - S15
 ocd-division/country:us/state:la/parish:st_tammany/precinct:s16,St Tammany - S16
@@ -3603,7 +3458,6 @@ ocd-division/country:us/state:la/parish:tangipahoa/precinct:17,Tangipahoa - 017
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:18,Tangipahoa - 018
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:26,Tangipahoa - 026
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:27,Tangipahoa - 027
-ocd-division/country:us/state:la/parish:tangipahoa/precinct:27a,Tangipahoa - 027A
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:28,Tangipahoa - 028
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:28a,Tangipahoa - 028A
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:33,Tangipahoa - 033
@@ -3629,7 +3483,6 @@ ocd-division/country:us/state:la/parish:tangipahoa/precinct:73,Tangipahoa - 073
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:74,Tangipahoa - 074
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:101,Tangipahoa - 101
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:102,Tangipahoa - 102
-ocd-division/country:us/state:la/parish:tangipahoa/precinct:103,Tangipahoa - 103
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:104,Tangipahoa - 104
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:104a,Tangipahoa - 104A
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:105,Tangipahoa - 105
@@ -3639,9 +3492,7 @@ ocd-division/country:us/state:la/parish:tangipahoa/precinct:106b,Tangipahoa - 10
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:107,Tangipahoa - 107
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:108,Tangipahoa - 108
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:109,Tangipahoa - 109
-ocd-division/country:us/state:la/parish:tangipahoa/precinct:109a,Tangipahoa - 109A
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:110,Tangipahoa - 110
-ocd-division/country:us/state:la/parish:tangipahoa/precinct:111,Tangipahoa - 111
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:111a,Tangipahoa - 111A
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:112,Tangipahoa - 112
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:114,Tangipahoa - 114
@@ -3677,6 +3528,7 @@ ocd-division/country:us/state:la/parish:tangipahoa/precinct:141,Tangipahoa - 141
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:141a,Tangipahoa - 141A
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:143,Tangipahoa - 143
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:145,Tangipahoa - 145
+ocd-division/country:us/state:la/parish:tangipahoa/precinct:147,Tangipahoa - 147
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:149,Tangipahoa - 149
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:149a,Tangipahoa - 149A
 ocd-division/country:us/state:la/parish:tangipahoa/precinct:151,Tangipahoa - 151
@@ -3804,24 +3656,19 @@ ocd-division/country:us/state:la/parish:union/precinct:8,Union - 08
 ocd-division/country:us/state:la/parish:union/precinct:9,Union - 09
 ocd-division/country:us/state:la/parish:union/precinct:10,Union - 10
 ocd-division/country:us/state:la/parish:union/precinct:11,Union - 11
-ocd-division/country:us/state:la/parish:union/precinct:11a,Union - 11A
 ocd-division/country:us/state:la/parish:union/precinct:12,Union - 12
 ocd-division/country:us/state:la/parish:union/precinct:13,Union - 13
 ocd-division/country:us/state:la/parish:union/precinct:14,Union - 14
 ocd-division/country:us/state:la/parish:union/precinct:15,Union - 15
-ocd-division/country:us/state:la/parish:union/precinct:15a,Union - 15A
 ocd-division/country:us/state:la/parish:union/precinct:16,Union - 16
 ocd-division/country:us/state:la/parish:union/precinct:17,Union - 17
 ocd-division/country:us/state:la/parish:union/precinct:17a,Union - 17A
 ocd-division/country:us/state:la/parish:union/precinct:18,Union - 18
 ocd-division/country:us/state:la/parish:union/precinct:19,Union - 19
 ocd-division/country:us/state:la/parish:union/precinct:20,Union - 20
-ocd-division/country:us/state:la/parish:union/precinct:21,Union - 21
 ocd-division/country:us/state:la/parish:union/precinct:22,Union - 22
-ocd-division/country:us/state:la/parish:union/precinct:22a,Union - 22A
 ocd-division/country:us/state:la/parish:union/precinct:23,Union - 23
 ocd-division/country:us/state:la/parish:union/precinct:24,Union - 24
-ocd-division/country:us/state:la/parish:union/precinct:25,Union - 25
 ocd-division/country:us/state:la/parish:union/precinct:26,Union - 26
 ocd-division/country:us/state:la/parish:union/precinct:27,Union - 27
 ocd-division/country:us/state:la/parish:union/precinct:28,Union - 28
@@ -4096,13 +3943,11 @@ ocd-division/country:us/state:la/parish:west_carroll/precinct:9,West Carroll - 0
 ocd-division/country:us/state:la/parish:west_carroll/precinct:10,West Carroll - 10
 ocd-division/country:us/state:la/parish:west_carroll/precinct:11,West Carroll - 11
 ocd-division/country:us/state:la/parish:west_carroll/precinct:12,West Carroll - 12
-ocd-division/country:us/state:la/parish:west_carroll/precinct:13,West Carroll - 13
 ocd-division/country:us/state:la/parish:west_carroll/precinct:14,West Carroll - 14
 ocd-division/country:us/state:la/parish:west_carroll/precinct:15,West Carroll - 15
 ocd-division/country:us/state:la/parish:west_carroll/precinct:16,West Carroll - 16
 ocd-division/country:us/state:la/parish:west_carroll/precinct:18,West Carroll - 18
-ocd-division/country:us/state:la/parish:west_feliciana/ward:1/precinct:1a,West Feliciana - Ward 01 Pct 01A
-ocd-division/country:us/state:la/parish:west_feliciana/ward:1/precinct:1b,West Feliciana - Ward 01 Pct 01B
+ocd-division/country:us/state:la/parish:west_feliciana/ward:1/precinct:1,West Feliciana - Ward 01 Pct 01
 ocd-division/country:us/state:la/parish:west_feliciana/ward:2/precinct:1a,West Feliciana - Ward 02 Pct 01A
 ocd-division/country:us/state:la/parish:west_feliciana/ward:2/precinct:1b,West Feliciana - Ward 02 Pct 01B
 ocd-division/country:us/state:la/parish:west_feliciana/ward:2/precinct:2,West Feliciana - Ward 02 Pct 02
@@ -4114,14 +3959,11 @@ ocd-division/country:us/state:la/parish:west_feliciana/ward:4/precinct:2,West Fe
 ocd-division/country:us/state:la/parish:west_feliciana/ward:4/precinct:3,West Feliciana - Ward 04 Pct 03
 ocd-division/country:us/state:la/parish:west_feliciana/ward:5/precinct:1,West Feliciana - Ward 05 Pct 01
 ocd-division/country:us/state:la/parish:west_feliciana/ward:5/precinct:2,West Feliciana - Ward 05 Pct 02
-ocd-division/country:us/state:la/parish:west_feliciana/ward:5/precinct:3a,West Feliciana - Ward 05 Pct 03A
-ocd-division/country:us/state:la/parish:west_feliciana/ward:5/precinct:3b,West Feliciana - Ward 05 Pct 03B
+ocd-division/country:us/state:la/parish:west_feliciana/ward:5/precinct:3,West Feliciana - Ward 05 Pct 03
 ocd-division/country:us/state:la/parish:west_feliciana/ward:6/precinct:1,West Feliciana - Ward 06 Pct 01
 ocd-division/country:us/state:la/parish:west_feliciana/ward:6/precinct:2,West Feliciana - Ward 06 Pct 02
-ocd-division/country:us/state:la/parish:west_feliciana/ward:6/precinct:3a,West Feliciana - Ward 06 Pct 03A
-ocd-division/country:us/state:la/parish:west_feliciana/ward:6/precinct:3b,West Feliciana - Ward 06 Pct 03B
-ocd-division/country:us/state:la/parish:west_feliciana/ward:7/precinct:1a,West Feliciana - Ward 07 Pct 01A
-ocd-division/country:us/state:la/parish:west_feliciana/ward:7/precinct:1b,West Feliciana - Ward 07 Pct 01B
+ocd-division/country:us/state:la/parish:west_feliciana/ward:6/precinct:3,West Feliciana - Ward 06 Pct 03
+ocd-division/country:us/state:la/parish:west_feliciana/ward:7/precinct:1,West Feliciana - Ward 07 Pct 01
 ocd-division/country:us/state:la/parish:west_feliciana/ward:7/precinct:2a,West Feliciana - Ward 07 Pct 02A
 ocd-division/country:us/state:la/parish:west_feliciana/ward:7/precinct:2b,West Feliciana - Ward 07 Pct 02B
 ocd-division/country:us/state:la/parish:west_feliciana/ward:7/precinct:4,West Feliciana - Ward 07 Pct 04
@@ -4143,7 +3985,6 @@ ocd-division/country:us/state:la/parish:winn/ward:4/precinct:1,Winn - Ward 04 Pc
 ocd-division/country:us/state:la/parish:winn/ward:4/precinct:2,Winn - Ward 04 Pct 02
 ocd-division/country:us/state:la/parish:winn/ward:4/precinct:2a,Winn - Ward 04 Pct 02A
 ocd-division/country:us/state:la/parish:winn/ward:4/precinct:3,Winn - Ward 04 Pct 03
-ocd-division/country:us/state:la/parish:winn/ward:4/precinct:4,Winn - Ward 04 Pct 04
 ocd-division/country:us/state:la/parish:winn/ward:4/precinct:5,Winn - Ward 04 Pct 05
 ocd-division/country:us/state:la/parish:winn/ward:5/precinct:1,Winn - Ward 05 Pct 01
 ocd-division/country:us/state:la/parish:winn/ward:5/precinct:2,Winn - Ward 05 Pct 02
@@ -4153,7 +3994,6 @@ ocd-division/country:us/state:la/parish:winn/ward:5/precinct:5,Winn - Ward 05 Pc
 ocd-division/country:us/state:la/parish:winn/ward:6/precinct:1,Winn - Ward 06 Pct 01
 ocd-division/country:us/state:la/parish:winn/ward:6/precinct:1a,Winn - Ward 06 Pct 01A
 ocd-division/country:us/state:la/parish:winn/ward:6/precinct:3,Winn - Ward 06 Pct 03
-ocd-division/country:us/state:la/parish:winn/ward:6/precinct:4,Winn - Ward 06 Pct 04
 ocd-division/country:us/state:la/parish:winn/ward:6/precinct:5,Winn - Ward 06 Pct 05
 ocd-division/country:us/state:la/parish:winn/ward:6/precinct:6,Winn - Ward 06 Pct 06
 ocd-division/country:us/state:la/parish:winn/ward:7/precinct:1,Winn - Ward 07 Pct 01
@@ -4162,4 +4002,3 @@ ocd-division/country:us/state:la/parish:winn/ward:7/precinct:2,Winn - Ward 07 Pc
 ocd-division/country:us/state:la/parish:winn/ward:7/precinct:2a,Winn - Ward 07 Pct 02A
 ocd-division/country:us/state:la/parish:winn/ward:7/precinct:5,Winn - Ward 07 Pct 05
 ocd-division/country:us/state:la/parish:winn/ward:7/precinct:7,Winn - Ward 07 Pct 07
-ocd-division/country:us/state:la/parish:winn/ward:7/precinct:7a,Winn - Ward 07 Pct 07A
