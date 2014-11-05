@@ -638,7 +638,6 @@ ocd-division/country:us/state:ks/place:edgerton/precinct:1,Johnson County KS - E
 ocd-division/country:us/state:ks/place:edgerton/precinct:2,Johnson County KS - Edgerton City Precinct 2
 ocd-division/country:us/state:ks/place:edgerton/precinct:5,Johnson County KS - Edgerton City Precinct 5
 ocd-division/country:us/state:ks/place:edgerton/precinct:6,Johnson County KS - Edgerton City Precinct 6
-ocd-division/country:us/state:ks/place:edgerton/precinct:9,Johnson County KS - Edgerton City Precinct 9
 ocd-division/country:us/state:ks/place:edwardsville/ward:1,Wyandotte County KS - Edwardsville Ward 01
 ocd-division/country:us/state:ks/place:edwardsville/ward:2,Wyandotte County KS - Edwardsville Ward 02
 ocd-division/country:us/state:ks/place:el_dorado/ward:1,Butler County KS - El Dorado Ward 1
@@ -2129,7 +2128,6 @@ ocd-division/country:us/state:ks/county:montgomery/place:independence/precinct:1
 ocd-division/country:us/state:ks/county:montgomery/place:independence/precinct:2-ah12,Montgomery County KS - Independence Twp Precinct 2-Ah12
 ocd-division/country:us/state:ks/county:montgomery/place:independence/precinct:2-ch11,Montgomery County KS - Independence Twp Precinct 2-Ch11
 ocd-division/country:us/state:ks/county:mitchell/place:plum_creek/precinct:1,Mitchell County KS - Plum_Creek Twp Precinct 1
-ocd-division/country:us/state:ks/county:mitchell/place:plum_creek/precinct:2,Mitchell County KS - Plum_Creek Twp Precinct 2
 ocd-division/country:us/state:ks/county:miami/place:valley/precinct:west-367,Miami County KS - Valley Twp Precinct West-367
 ocd-division/country:us/state:ks/county:miami/place:valley/precinct:west-368,Miami County KS - Valley Twp Precinct West-368
 ocd-division/country:us/state:ks/county:miami/place:stanton/precinct:367,Miami County KS - Stanton Twp Precinct 367
@@ -2368,3 +2366,7 @@ ocd-division/country:us/state:ks/place:clifton/precinct:clay_county,Clifton Coun
 ocd-division/country:us/state:ks/place:clifton/precinct:washington_county,Clifton County KS - Precinct Washington County
 ocd-division/country:us/state:ks/place:vining/precinct:clay_county,Vining County KS - Precinct Clay County
 ocd-division/country:us/state:ks/place:vining/precinct:washington_county,Vining County KS - Precinct Washington County
+ocd-division/country:us/state:ks/place:clay_center/ward:1,Clay Center City Ward 1
+ocd-division/country:us/state:ks/place:clay_center/ward:2,Clay Center City Ward 2
+ocd-division/country:us/state:ks/place:clay_center/ward:3,Clay Center City Ward 3
+ocd-division/country:us/state:ks/place:clay_center/ward:4,Clay Center City Ward 4

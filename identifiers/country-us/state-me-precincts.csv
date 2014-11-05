@@ -7,21 +7,12 @@ ocd-division/country:us/state:me/place:durham/precinct:1-1,Durham Precinct 1-1
 ocd-division/country:us/state:me/place:greene/precinct:1-1,Greene Precinct 1-1
 ocd-division/country:us/state:me/place:leeds/precinct:1-1,Leeds Precinct 1-1
 ocd-division/country:us/state:me/place:lewiston/precinct:1-1,Lewiston Precinct 1-1
-ocd-division/country:us/state:me/place:lewiston/precinct:1-2,Lewiston Precinct 1-2
 ocd-division/country:us/state:me/place:lewiston/precinct:2-1,Lewiston Precinct 2-1
-ocd-division/country:us/state:me/place:lewiston/precinct:2-2,Lewiston Precinct 2-2
-ocd-division/country:us/state:me/place:lewiston/precinct:2-3,Lewiston Precinct 2-3
 ocd-division/country:us/state:me/place:lewiston/precinct:3-1,Lewiston Precinct 3-1
-ocd-division/country:us/state:me/place:lewiston/precinct:3-2,Lewiston Precinct 3-2
-ocd-division/country:us/state:me/place:lewiston/precinct:3-3,Lewiston Precinct 3-3
 ocd-division/country:us/state:me/place:lewiston/precinct:4-1,Lewiston Precinct 4-1
-ocd-division/country:us/state:me/place:lewiston/precinct:4-2,Lewiston Precinct 4-2
 ocd-division/country:us/state:me/place:lewiston/precinct:5-1,Lewiston Precinct 5-1
-ocd-division/country:us/state:me/place:lewiston/precinct:5-2,Lewiston Precinct 5-2
 ocd-division/country:us/state:me/place:lewiston/precinct:6-1,Lewiston Precinct 6-1
-ocd-division/country:us/state:me/place:lewiston/precinct:6-2,Lewiston Precinct 6-2
 ocd-division/country:us/state:me/place:lewiston/precinct:7-1,Lewiston Precinct 7-1
-ocd-division/country:us/state:me/place:lewiston/precinct:7-2,Lewiston Precinct 7-2
 ocd-division/country:us/state:me/place:lisbon/precinct:1-1,Lisbon Precinct 1-1
 ocd-division/country:us/state:me/place:lisbon/precinct:2-1,Lisbon Precinct 2-1
 ocd-division/country:us/state:me/place:livermore/precinct:1-1,Livermore Precinct 1-1
@@ -478,9 +469,8 @@ ocd-division/country:us/state:me/place:phippsburg/precinct:1-5,Phippsburg Precin
 ocd-division/country:us/state:me/place:phippsburg/precinct:1-7,Phippsburg Precinct 1-7
 ocd-division/country:us/state:me/place:richmond/precinct:1-1,Richmond Precinct 1-1
 ocd-division/country:us/state:me/place:topsham/precinct:1-1,Topsham Precinct 1-1
-ocd-division/country:us/state:me/place:west_bath/precinct:2-2,West Bath Precinct 2-2
-ocd-division/country:us/state:me/place:west_bath/precinct:4-1,West Bath Precinct 4-1
-ocd-division/country:us/state:me/place:west_bath/precinct:4-2,West Bath Precinct 4-2
+ocd-division/country:us/state:me/place:west_bath/precinct:1-2,West Bath Precinct 1-2
+ocd-division/country:us/state:me/place:west_bath/precinct:1-4,West Bath Precinct 1-4
 ocd-division/country:us/state:me/place:woolwich/precinct:1-1,Woolwich Precinct 1-1
 ocd-division/country:us/state:me/place:woolwich/precinct:1-3,Woolwich Precinct 1-3
 ocd-division/country:us/state:me/place:anson/precinct:1-1,Anson Precinct 1-1

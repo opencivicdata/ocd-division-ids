@@ -260,8 +260,7 @@ ocd-division/country:us/state:sd/county:fall_river/precinct:bea,FALL RIVER Count
 ocd-division/country:us/state:sd/county:fall_river/precinct:cas,FALL RIVER County Precinct CAS
 ocd-division/country:us/state:sd/county:fall_river/precinct:eda,FALL RIVER County Precinct EDA
 ocd-division/country:us/state:sd/county:fall_river/precinct:hs_1,FALL RIVER County Precinct HS 1
-ocd-division/country:us/state:sd/county:fall_river/precinct:hs2a,FALL RIVER County Precinct HS2A
-ocd-division/country:us/state:sd/county:fall_river/precinct:hs2b,FALL RIVER County Precinct HS2B
+ocd-division/country:us/state:sd/county:fall_river/precinct:hs2,FALL RIVER County Precinct HS2
 ocd-division/country:us/state:sd/county:fall_river/precinct:hs3,FALL RIVER County Precinct HS3
 ocd-division/country:us/state:sd/county:fall_river/precinct:hs4,FALL RIVER County Precinct HS4
 ocd-division/country:us/state:sd/county:fall_river/precinct:jac,FALL RIVER County Precinct JAC
@@ -382,32 +381,13 @@ ocd-division/country:us/state:sd/county:kingsbury/precinct:oldham,KINGSBURY Coun
 ocd-division/country:us/state:sd/county:lake/precinct:1,LAKE County Precinct 1
 ocd-division/country:us/state:sd/county:lake/precinct:2,LAKE County Precinct 2
 ocd-division/country:us/state:sd/county:lake/precinct:3,LAKE County Precinct 3
-ocd-division/country:us/state:sd/county:lake/precinct:4,LAKE County Precinct 4
-ocd-division/country:us/state:sd/county:lake/precinct:5,LAKE County Precinct 5
-ocd-division/country:us/state:sd/county:lake/precinct:6,LAKE County Precinct 6
-ocd-division/country:us/state:sd/county:lake/precinct:7,LAKE County Precinct 7
-ocd-division/country:us/state:sd/county:lake/precinct:8,LAKE County Precinct 8
-ocd-division/country:us/state:sd/county:lake/precinct:9,LAKE County Precinct 9
-ocd-division/country:us/state:sd/county:lake/precinct:10,LAKE County Precinct 10
-ocd-division/country:us/state:sd/county:lake/precinct:11,LAKE County Precinct 11
-ocd-division/country:us/state:sd/county:lake/precinct:12,LAKE County Precinct 12
-ocd-division/country:us/state:sd/county:lake/precinct:13,LAKE County Precinct 13
-ocd-division/country:us/state:sd/county:lake/precinct:14,LAKE County Precinct 14
-ocd-division/country:us/state:sd/county:lake/precinct:15,LAKE County Precinct 15
-ocd-division/country:us/state:sd/county:lake/precinct:16,LAKE County Precinct 16
-ocd-division/country:us/state:sd/county:lake/precinct:17,LAKE County Precinct 17
-ocd-division/country:us/state:sd/county:lake/precinct:18,LAKE County Precinct 18
-ocd-division/country:us/state:sd/county:lake/precinct:19,LAKE County Precinct 19
-ocd-division/country:us/state:sd/county:lake/precinct:2111,LAKE County Precinct 2111
-ocd-division/country:us/state:sd/county:lake/precinct:2112,LAKE County Precinct 2112
-ocd-division/country:us/state:sd/county:lake/precinct:2113,LAKE County Precinct 2113
-ocd-division/country:us/state:sd/county:lake/precinct:2114,LAKE County Precinct 2114
-ocd-division/country:us/state:sd/county:lake/precinct:2121,LAKE County Precinct 2121
-ocd-division/country:us/state:sd/county:lake/precinct:2122,LAKE County Precinct 2122
-ocd-division/country:us/state:sd/county:lake/precinct:2123,LAKE County Precinct 2123
-ocd-division/country:us/state:sd/county:lake/precinct:2131,LAKE County Precinct 2131
-ocd-division/country:us/state:sd/county:lake/precinct:2132,LAKE County Precinct 2132
-ocd-division/country:us/state:sd/county:lake/precinct:2133,LAKE County Precinct 2133
+ocd-division/country:us/state:sd/county:lake/precinct:chester-franklin,LAKE County Precinct CHESTER-FRANKLIN
+ocd-division/country:us/state:sd/county:lake/precinct:concord-badus-wayne~ramona,LAKE County Precinct CONCORD-BADUS-WAYNE/RAMONA
+ocd-division/country:us/state:sd/county:lake/precinct:farmington-leroy-clarno-orland,LAKE County Precinct FARMINGTON-LEROY-CLARNO-ORLAND
+ocd-division/country:us/state:sd/county:lake/precinct:herman-winfred,LAKE County Precinct HERMAN-WINFRED
+ocd-division/country:us/state:sd/county:lake/precinct:lakeview,LAKE County Precinct LAKEVIEW
+ocd-division/country:us/state:sd/county:lake/precinct:nunda-summit,LAKE County Precinct NUNDA-SUMMIT
+ocd-division/country:us/state:sd/county:lake/precinct:wentworth-rutland,LAKE County Precinct WENTWORTH-RUTLAND
 ocd-division/country:us/state:sd/county:lawrence/precinct:1,LAWRENCE County Precinct 1
 ocd-division/country:us/state:sd/county:lawrence/precinct:2,LAWRENCE County Precinct 2
 ocd-division/country:us/state:sd/county:lawrence/precinct:3,LAWRENCE County Precinct 3

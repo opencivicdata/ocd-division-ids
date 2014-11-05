@@ -205,9 +205,7 @@ ocd-division/country:us/state:ar/county:calhoun/precinct:201-chambersville_west,
 ocd-division/country:us/state:ar/county:calhoun/precinct:500-champagnolle,Calhoun County Precinct 500-Champagnolle
 ocd-division/country:us/state:ar/county:calhoun/precinct:702-dr_rhine_park,Calhoun County Precinct 702-Dr Rhine Park
 ocd-division/country:us/state:ar/county:calhoun/precinct:810-hampton_city,Calhoun County Precinct 810-Hampton City
-ocd-division/country:us/state:ar/county:calhoun/precinct:800-hampton_rural,Calhoun County Precinct 800-Hampton Rural
 ocd-division/country:us/state:ar/county:calhoun/precinct:910-hampton_south_city,Calhoun County Precinct 910-Hampton South City
-ocd-division/country:us/state:ar/county:calhoun/precinct:900-hampton_south_rural,Calhoun County Precinct 900-Hampton South Rural
 ocd-division/country:us/state:ar/county:calhoun/precinct:410-harrell_city,Calhoun County Precinct 410-Harrell City
 ocd-division/country:us/state:ar/county:calhoun/precinct:401-harrell_rural_7,Calhoun County Precinct 401-Harrell Rural 7
 ocd-division/country:us/state:ar/county:calhoun/precinct:400-harrell_rural_8,Calhoun County Precinct 400-Harrell Rural 8
@@ -562,7 +560,6 @@ ocd-division/country:us/state:ar/county:cross/precinct:p2-parkin_ward_2,Cross Co
 ocd-division/country:us/state:ar/county:cross/precinct:p3-parkin_ward_3,Cross County Precinct P3-Parkin Ward 3
 ocd-division/country:us/state:ar/county:cross/precinct:c23-searcy,Cross County Precinct C23-Searcy
 ocd-division/country:us/state:ar/county:cross/precinct:w12-smith,Cross County Precinct W12-Smith
-ocd-division/country:us/state:ar/county:cross/precinct:t37-twist,Cross County Precinct T37-Twist
 ocd-division/country:us/state:ar/county:cross/precinct:p4-tyronza,Cross County Precinct P4-Tyronza
 ocd-division/country:us/state:ar/county:cross/precinct:w06-wynne_township,Cross County Precinct W06-Wynne Township
 ocd-division/country:us/state:ar/county:cross/precinct:w01-wynne_ward_1,Cross County Precinct W01-Wynne Ward 1
@@ -728,14 +725,12 @@ ocd-division/country:us/state:ar/county:fulton/precinct:12-strawberry,Fulton Cou
 ocd-division/country:us/state:ar/county:fulton/precinct:3-vidette_big_creek,Fulton County Precinct 3-Vidette Big Creek
 ocd-division/country:us/state:ar/county:fulton/precinct:15-washington,Fulton County Precinct 15-Washington
 ocd-division/country:us/state:ar/county:garland/precinct:1a,Garland County Precinct 1A
-ocd-division/country:us/state:ar/county:garland/precinct:1b,Garland County Precinct 1B
 ocd-division/country:us/state:ar/county:garland/precinct:1c,Garland County Precinct 1C
 ocd-division/country:us/state:ar/county:garland/precinct:1d,Garland County Precinct 1D
 ocd-division/country:us/state:ar/county:garland/precinct:1f,Garland County Precinct 1F
 ocd-division/country:us/state:ar/county:garland/precinct:1g,Garland County Precinct 1G
 ocd-division/country:us/state:ar/county:garland/precinct:1h,Garland County Precinct 1H
 ocd-division/country:us/state:ar/county:garland/precinct:1j,Garland County Precinct 1J
-ocd-division/country:us/state:ar/county:garland/precinct:1m,Garland County Precinct 1M
 ocd-division/country:us/state:ar/county:garland/precinct:1p,Garland County Precinct 1P
 ocd-division/country:us/state:ar/county:garland/precinct:1r,Garland County Precinct 1R
 ocd-division/country:us/state:ar/county:garland/precinct:1s,Garland County Precinct 1S
@@ -786,10 +781,8 @@ ocd-division/country:us/state:ar/county:garland/precinct:4c,Garland County Preci
 ocd-division/country:us/state:ar/county:garland/precinct:4d,Garland County Precinct 4D
 ocd-division/country:us/state:ar/county:garland/precinct:4e,Garland County Precinct 4E
 ocd-division/country:us/state:ar/county:garland/precinct:4f,Garland County Precinct 4F
-ocd-division/country:us/state:ar/county:garland/precinct:4g,Garland County Precinct 4G
 ocd-division/country:us/state:ar/county:garland/precinct:4h,Garland County Precinct 4H
 ocd-division/country:us/state:ar/county:garland/precinct:4j,Garland County Precinct 4J
-ocd-division/country:us/state:ar/county:garland/precinct:4n,Garland County Precinct 4N
 ocd-division/country:us/state:ar/county:garland/precinct:5a,Garland County Precinct 5A
 ocd-division/country:us/state:ar/county:garland/precinct:5b,Garland County Precinct 5B
 ocd-division/country:us/state:ar/county:garland/precinct:5c,Garland County Precinct 5C
@@ -852,7 +845,6 @@ ocd-division/country:us/state:ar/county:garland/precinct:10m,Garland County Prec
 ocd-division/country:us/state:ar/county:garland/precinct:11a,Garland County Precinct 11A
 ocd-division/country:us/state:ar/county:garland/precinct:11b,Garland County Precinct 11B
 ocd-division/country:us/state:ar/county:garland/precinct:11b2,Garland County Precinct 11B2
-ocd-division/country:us/state:ar/county:garland/precinct:11c,Garland County Precinct 11C
 ocd-division/country:us/state:ar/county:garland/precinct:11d,Garland County Precinct 11D
 ocd-division/country:us/state:ar/county:garland/precinct:11e,Garland County Precinct 11E
 ocd-division/country:us/state:ar/county:garland/precinct:11e2,Garland County Precinct 11E2
@@ -877,7 +869,6 @@ ocd-division/country:us/state:ar/county:garland/precinct:13c,Garland County Prec
 ocd-division/country:us/state:ar/county:garland/precinct:13d,Garland County Precinct 13D
 ocd-division/country:us/state:ar/county:garland/precinct:13e,Garland County Precinct 13E
 ocd-division/country:us/state:ar/county:garland/precinct:13f,Garland County Precinct 13F
-ocd-division/country:us/state:ar/county:garland/precinct:13g,Garland County Precinct 13G
 ocd-division/country:us/state:ar/county:garland/precinct:13h,Garland County Precinct 13H
 ocd-division/country:us/state:ar/county:garland/precinct:13j,Garland County Precinct 13J
 ocd-division/country:us/state:ar/county:garland/precinct:13k,Garland County Precinct 13K
@@ -923,7 +914,6 @@ ocd-division/country:us/state:ar/county:greene/precinct:13-clark,Greene County P
 ocd-division/country:us/state:ar/county:greene/precinct:14-collier,Greene County Precinct 14-Collier
 ocd-division/country:us/state:ar/county:greene/precinct:15-st_francis,Greene County Precinct 15-St Francis
 ocd-division/country:us/state:ar/county:greene/precinct:16-crowley,Greene County Precinct 16-Crowley
-ocd-division/country:us/state:ar/county:greene/precinct:17-evening_shade,Greene County Precinct 17-Evening Shade
 ocd-division/country:us/state:ar/county:greene/precinct:18-sugar_creek,Greene County Precinct 18-Sugar Creek
 ocd-division/country:us/state:ar/county:greene/precinct:19-friendship,Greene County Precinct 19-Friendship
 ocd-division/country:us/state:ar/county:greene/precinct:20-hays,Greene County Precinct 20-Hays
@@ -1006,7 +996,6 @@ ocd-division/country:us/state:ar/county:howard/precinct:7-clay,Howard County Pre
 ocd-division/country:us/state:ar/county:howard/precinct:8-blue_ridge,Howard County Precinct 8-Blue Ridge
 ocd-division/country:us/state:ar/county:howard/precinct:9-madison,Howard County Precinct 9-Madison
 ocd-division/country:us/state:ar/county:howard/precinct:10-holly_creek,Howard County Precinct 10-Holly Creek
-ocd-division/country:us/state:ar/county:howard/precinct:11-holly_creek,Howard County Precinct 11-Holly Creek
 ocd-division/country:us/state:ar/county:howard/precinct:12-muddy_fork,Howard County Precinct 12-Muddy Fork
 ocd-division/country:us/state:ar/county:howard/precinct:13-muddy_fork,Howard County Precinct 13-Muddy Fork
 ocd-division/country:us/state:ar/county:howard/precinct:14-brewer,Howard County Precinct 14-Brewer
@@ -1174,7 +1163,6 @@ ocd-division/country:us/state:ar/county:jefferson/precinct:2,Jefferson County Pr
 ocd-division/country:us/state:ar/county:jefferson/precinct:3,Jefferson County Precinct 3
 ocd-division/country:us/state:ar/county:jefferson/precinct:4,Jefferson County Precinct 4
 ocd-division/country:us/state:ar/county:jefferson/precinct:5,Jefferson County Precinct 5
-ocd-division/country:us/state:ar/county:jefferson/precinct:6,Jefferson County Precinct 6
 ocd-division/country:us/state:ar/county:jefferson/precinct:7,Jefferson County Precinct 7
 ocd-division/country:us/state:ar/county:jefferson/precinct:8,Jefferson County Precinct 8
 ocd-division/country:us/state:ar/county:jefferson/precinct:9,Jefferson County Precinct 9
@@ -1186,7 +1174,6 @@ ocd-division/country:us/state:ar/county:jefferson/precinct:28,Jefferson County P
 ocd-division/country:us/state:ar/county:jefferson/precinct:29,Jefferson County Precinct 29
 ocd-division/country:us/state:ar/county:jefferson/precinct:30,Jefferson County Precinct 30
 ocd-division/country:us/state:ar/county:jefferson/precinct:31,Jefferson County Precinct 31
-ocd-division/country:us/state:ar/county:jefferson/precinct:32,Jefferson County Precinct 32
 ocd-division/country:us/state:ar/county:jefferson/precinct:33,Jefferson County Precinct 33
 ocd-division/country:us/state:ar/county:jefferson/precinct:34,Jefferson County Precinct 34
 ocd-division/country:us/state:ar/county:jefferson/precinct:35,Jefferson County Precinct 35
@@ -1217,7 +1204,6 @@ ocd-division/country:us/state:ar/county:jefferson/precinct:78,Jefferson County P
 ocd-division/country:us/state:ar/county:jefferson/precinct:79,Jefferson County Precinct 79
 ocd-division/country:us/state:ar/county:jefferson/precinct:80,Jefferson County Precinct 80
 ocd-division/country:us/state:ar/county:jefferson/precinct:81,Jefferson County Precinct 81
-ocd-division/country:us/state:ar/county:jefferson/precinct:82,Jefferson County Precinct 82
 ocd-division/country:us/state:ar/county:jefferson/precinct:83,Jefferson County Precinct 83
 ocd-division/country:us/state:ar/county:jefferson/precinct:84,Jefferson County Precinct 84
 ocd-division/country:us/state:ar/county:jefferson/precinct:85,Jefferson County Precinct 85
@@ -1304,7 +1290,6 @@ ocd-division/country:us/state:ar/county:jefferson/precinct:330,Jefferson County 
 ocd-division/country:us/state:ar/county:jefferson/precinct:331,Jefferson County Precinct 331
 ocd-division/country:us/state:ar/county:jefferson/precinct:332,Jefferson County Precinct 332
 ocd-division/country:us/state:ar/county:jefferson/precinct:401,Jefferson County Precinct 401
-ocd-division/country:us/state:ar/county:jefferson/precinct:402,Jefferson County Precinct 402
 ocd-division/country:us/state:ar/county:jefferson/precinct:403,Jefferson County Precinct 403
 ocd-division/country:us/state:ar/county:jefferson/precinct:404,Jefferson County Precinct 404
 ocd-division/country:us/state:ar/county:jefferson/precinct:405,Jefferson County Precinct 405
@@ -1323,9 +1308,7 @@ ocd-division/country:us/state:ar/county:jefferson/precinct:420,Jefferson County 
 ocd-division/country:us/state:ar/county:jefferson/precinct:421,Jefferson County Precinct 421
 ocd-division/country:us/state:ar/county:jefferson/precinct:422,Jefferson County Precinct 422
 ocd-division/country:us/state:ar/county:jefferson/precinct:423,Jefferson County Precinct 423
-ocd-division/country:us/state:ar/county:jefferson/precinct:424,Jefferson County Precinct 424
 ocd-division/country:us/state:ar/county:jefferson/precinct:425,Jefferson County Precinct 425
-ocd-division/country:us/state:ar/county:jefferson/precinct:426,Jefferson County Precinct 426
 ocd-division/country:us/state:ar/county:jefferson/precinct:510,Jefferson County Precinct 510
 ocd-division/country:us/state:ar/county:jefferson/precinct:530,Jefferson County Precinct 530
 ocd-division/country:us/state:ar/county:jefferson/precinct:900,Jefferson County Precinct 900
@@ -1419,7 +1402,6 @@ ocd-division/country:us/state:ar/county:lawrence/precinct:26-spring_river,Lawren
 ocd-division/country:us/state:ar/county:lawrence/precinct:27-strawberry,Lawrence County Precinct 27-Strawberry
 ocd-division/country:us/state:ar/county:lawrence/precinct:28-thacker,Lawrence County Precinct 28-Thacker
 ocd-division/country:us/state:ar/county:lee/precinct:1-big_creek,Lee County Precinct 1-Big Creek
-ocd-division/country:us/state:ar/county:lee/precinct:2-council,Lee County Precinct 2-Council
 ocd-division/country:us/state:ar/county:lee/precinct:3-fleener,Lee County Precinct 3-Fleener
 ocd-division/country:us/state:ar/county:lee/precinct:4-hampton,Lee County Precinct 4-Hampton
 ocd-division/country:us/state:ar/county:lee/precinct:6-independence,Lee County Precinct 6-Independence
@@ -1656,7 +1638,6 @@ ocd-division/country:us/state:ar/county:mississippi/precinct:2-11,Mississippi Co
 ocd-division/country:us/state:ar/county:mississippi/precinct:2-13,Mississippi County Precinct 2-13
 ocd-division/country:us/state:ar/county:mississippi/precinct:2-2,Mississippi County Precinct 2-2
 ocd-division/country:us/state:ar/county:mississippi/precinct:2-3,Mississippi County Precinct 2-3
-ocd-division/country:us/state:ar/county:mississippi/precinct:2-4,Mississippi County Precinct 2-4
 ocd-division/country:us/state:ar/county:mississippi/precinct:2-5,Mississippi County Precinct 2-5
 ocd-division/country:us/state:ar/county:mississippi/precinct:2-6,Mississippi County Precinct 2-6
 ocd-division/country:us/state:ar/county:mississippi/precinct:2-7,Mississippi County Precinct 2-7
@@ -1704,7 +1685,6 @@ ocd-division/country:us/state:ar/county:mississippi/precinct:29-1,Mississippi Co
 ocd-division/country:us/state:ar/county:mississippi/precinct:29-2,Mississippi County Precinct 29-2
 ocd-division/country:us/state:ar/county:mississippi/precinct:29-3,Mississippi County Precinct 29-3
 ocd-division/country:us/state:ar/county:mississippi/precinct:30,Mississippi County Precinct 30
-ocd-division/country:us/state:ar/county:mississippi/precinct:30a,Mississippi County Precinct 30A
 ocd-division/country:us/state:ar/county:mississippi/precinct:32,Mississippi County Precinct 32
 ocd-division/country:us/state:ar/county:mississippi/precinct:33,Mississippi County Precinct 33
 ocd-division/country:us/state:ar/county:mississippi/precinct:34,Mississippi County Precinct 34
@@ -1772,7 +1752,6 @@ ocd-division/country:us/state:ar/county:nevada/precinct:bcc-bluff_city,Nevada Co
 ocd-division/country:us/state:ar/county:nevada/precinct:bcr-bluff_city_rural,Nevada County Precinct Bcr-Bluff City Rural
 ocd-division/country:us/state:ar/county:nevada/precinct:bodc-bodcaw_city,Nevada County Precinct Bodc-Bodcaw City
 ocd-division/country:us/state:ar/county:nevada/precinct:bodr-bodcaw_rural,Nevada County Precinct Bodr-Bodcaw Rural
-ocd-division/country:us/state:ar/county:nevada/precinct:bou-boughton_closed,Nevada County Precinct Bou-Boughton Closed
 ocd-division/country:us/state:ar/county:nevada/precinct:re-east_rural,Nevada County Precinct Re-East Rural
 ocd-division/country:us/state:ar/county:nevada/precinct:ec-emmet_city,Nevada County Precinct Ec-Emmet City
 ocd-division/country:us/state:ar/county:nevada/precinct:er-emmet_rural,Nevada County Precinct Er-Emmet Rural
@@ -1780,8 +1759,6 @@ ocd-division/country:us/state:ar/county:nevada/precinct:geo-georgia,Nevada Count
 ocd-division/country:us/state:ar/county:nevada/precinct:lan-laneburg,Nevada County Precinct Lan-Laneburg
 ocd-division/country:us/state:ar/county:nevada/precinct:rosc-rosston_city,Nevada County Precinct Rosc-Rosston City
 ocd-division/country:us/state:ar/county:nevada/precinct:rosr-rosston_rural,Nevada County Precinct Rosr-Rosston Rural
-ocd-division/country:us/state:ar/county:nevada/precinct:sut-sutton_closed,Nevada County Precinct Sut-Sutton Closed
-ocd-division/country:us/state:ar/county:nevada/precinct:uni-union_closed,Nevada County Precinct Uni-Union Closed
 ocd-division/country:us/state:ar/county:nevada/precinct:w1-ward_1,Nevada County Precinct W1-Ward 1
 ocd-division/country:us/state:ar/county:nevada/precinct:w2-ward_2,Nevada County Precinct W2-Ward 2
 ocd-division/country:us/state:ar/county:nevada/precinct:w3-ward_3,Nevada County Precinct W3-Ward 3
@@ -2379,7 +2356,6 @@ ocd-division/country:us/state:ar/county:sebastian/precinct:3-h,Sebastian County 
 ocd-division/country:us/state:ar/county:sebastian/precinct:3-i,Sebastian County Precinct 3-I
 ocd-division/country:us/state:ar/county:sebastian/precinct:3-j,Sebastian County Precinct 3-J
 ocd-division/country:us/state:ar/county:sebastian/precinct:3-k,Sebastian County Precinct 3-K
-ocd-division/country:us/state:ar/county:sebastian/precinct:3-l,Sebastian County Precinct 3-L
 ocd-division/country:us/state:ar/county:sebastian/precinct:3-m,Sebastian County Precinct 3-M
 ocd-division/country:us/state:ar/county:sebastian/precinct:3-o,Sebastian County Precinct 3-O
 ocd-division/country:us/state:ar/county:sebastian/precinct:4-a,Sebastian County Precinct 4-A
@@ -2391,7 +2367,6 @@ ocd-division/country:us/state:ar/county:sebastian/precinct:4-f,Sebastian County 
 ocd-division/country:us/state:ar/county:sebastian/precinct:4-g,Sebastian County Precinct 4-G
 ocd-division/country:us/state:ar/county:sebastian/precinct:4-h,Sebastian County Precinct 4-H
 ocd-division/country:us/state:ar/county:sebastian/precinct:4-i,Sebastian County Precinct 4-I
-ocd-division/country:us/state:ar/county:sebastian/precinct:4-j,Sebastian County Precinct 4-J
 ocd-division/country:us/state:ar/county:sebastian/precinct:4-k,Sebastian County Precinct 4-K
 ocd-division/country:us/state:ar/county:sebastian/precinct:4-l,Sebastian County Precinct 4-L
 ocd-division/country:us/state:ar/county:sebastian/precinct:4-n,Sebastian County Precinct 4-N
@@ -2681,7 +2656,6 @@ ocd-division/country:us/state:ar/county:washington/precinct:363-fay_43,Washingto
 ocd-division/country:us/state:ar/county:washington/precinct:364-fay_44,Washington County Precinct 364-Fay 44
 ocd-division/country:us/state:ar/county:washington/precinct:365-fay_45,Washington County Precinct 365-Fay 45
 ocd-division/country:us/state:ar/county:washington/precinct:366-fay_46,Washington County Precinct 366-Fay 46
-ocd-division/country:us/state:ar/county:washington/precinct:368-fay_48,Washington County Precinct 368-Fay 48
 ocd-division/country:us/state:ar/county:washington/precinct:373-goshen_city,Washington County Precinct 373-Goshen City
 ocd-division/country:us/state:ar/county:washington/precinct:375-goshen_twp,Washington County Precinct 375-Goshen Twp
 ocd-division/country:us/state:ar/county:washington/precinct:369-greenland_city,Washington County Precinct 369-Greenland City

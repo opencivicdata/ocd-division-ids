@@ -207,7 +207,6 @@ ocd-division/country:us/state:mi/county:clare/place:hayes/precinct:4,HAYES MI Pr
 ocd-division/country:us/state:mi/county:clare/place:lincoln/precinct:1,LINCOLN MI Precinct 1
 ocd-division/country:us/state:mi/county:clare/place:lincoln/precinct:2,LINCOLN MI Precinct 2
 ocd-division/country:us/state:mi/county:clare/place:sheridan/precinct:1,SHERIDAN MI Precinct 1
-ocd-division/country:us/state:mi/county:clare/place:sheridan/precinct:2,SHERIDAN MI Precinct 2
 ocd-division/country:us/state:mi/county:clare/place:surrey/precinct:1,SURREY MI Precinct 1
 ocd-division/country:us/state:mi/county:clare/place:surrey/precinct:2,SURREY MI Precinct 2
 ocd-division/country:us/state:mi/county:clinton/place:bath_charter/precinct:1,BATH CHARTER MI Precinct 1
@@ -2761,14 +2760,8 @@ ocd-division/country:us/state:mi/place:gibraltar/precinct:1,GIBRALTAR MI Precinc
 ocd-division/country:us/state:mi/place:gibraltar/precinct:2,GIBRALTAR MI Precinct 2
 ocd-division/country:us/state:mi/place:gladstone/precinct:1,GLADSTONE MI Precinct 1
 ocd-division/country:us/state:mi/place:gladstone/precinct:2,GLADSTONE MI Precinct 2
-ocd-division/country:us/state:mi/place:gladwin/ward:1,GLADWIN MI Ward 1
-ocd-division/country:us/state:mi/place:gladwin/ward:1/precinct:1,GLADWIN MI Ward 1 Precinct 1
-ocd-division/country:us/state:mi/place:gladwin/ward:2,GLADWIN MI Ward 2
-ocd-division/country:us/state:mi/place:gladwin/ward:2/precinct:2,GLADWIN MI Ward 2 Precinct 2
-ocd-division/country:us/state:mi/place:gladwin/ward:3,GLADWIN MI Ward 3
-ocd-division/country:us/state:mi/place:gladwin/ward:3/precinct:2,GLADWIN MI Ward 3 Precinct 2
-ocd-division/country:us/state:mi/place:gladwin/ward:4,GLADWIN MI Ward 4
-ocd-division/country:us/state:mi/place:gladwin/ward:4/precinct:1,GLADWIN MI Ward 4 Precinct 1
+ocd-division/country:us/state:mi/place:gladwin/precinct:1,GLADWIN MI Precinct 1
+ocd-division/country:us/state:mi/place:gladwin/precinct:2,GLADWIN MI Precinct 2
 ocd-division/country:us/state:mi/place:grand_blanc/precinct:1,GRAND BLANC MI Precinct 1
 ocd-division/country:us/state:mi/place:grand_blanc/precinct:2,GRAND BLANC MI Precinct 2
 ocd-division/country:us/state:mi/place:grand_blanc/precinct:3,GRAND BLANC MI Precinct 3
@@ -2829,12 +2822,6 @@ ocd-division/country:us/state:mi/place:harper_woods/precinct:3,HARPER WOODS MI P
 ocd-division/country:us/state:mi/place:harper_woods/precinct:4,HARPER WOODS MI Precinct 4
 ocd-division/country:us/state:mi/place:harper_woods/precinct:5,HARPER WOODS MI Precinct 5
 ocd-division/country:us/state:mi/place:harper_woods/precinct:6,HARPER WOODS MI Precinct 6
-ocd-division/country:us/state:mi/place:harrisville/ward:1,HARRISVILLE MI Ward 1
-ocd-division/country:us/state:mi/place:harrisville/ward:1/precinct:1,HARRISVILLE MI Ward 1 Precinct 1
-ocd-division/country:us/state:mi/place:harrisville/ward:2,HARRISVILLE MI Ward 2
-ocd-division/country:us/state:mi/place:harrisville/ward:2/precinct:1,HARRISVILLE MI Ward 2 Precinct 1
-ocd-division/country:us/state:mi/place:harrisville/ward:3,HARRISVILLE MI Ward 3
-ocd-division/country:us/state:mi/place:harrisville/ward:3/precinct:1,HARRISVILLE MI Ward 3 Precinct 1
 ocd-division/country:us/state:mi/place:hastings/precinct:1,HASTINGS MI Precinct 1
 ocd-division/country:us/state:mi/place:hastings/precinct:2,HASTINGS MI Precinct 2
 ocd-division/country:us/state:mi/place:hastings/precinct:3,HASTINGS MI Precinct 3
@@ -3642,8 +3629,6 @@ ocd-division/country:us/state:mi/place:st_joseph/precinct:1,ST JOSEPH MI Precinc
 ocd-division/country:us/state:mi/place:st_joseph/precinct:2,ST JOSEPH MI Precinct 2
 ocd-division/country:us/state:mi/place:st_joseph/precinct:3,ST JOSEPH MI Precinct 3
 ocd-division/country:us/state:mi/place:standish/precinct:1,STANDISH MI Precinct 1
-ocd-division/country:us/state:mi/place:standish/precinct:2,STANDISH MI Precinct 2
-ocd-division/country:us/state:mi/place:standish/precinct:3,STANDISH MI Precinct 3
 ocd-division/country:us/state:mi/place:sterling_heights/precinct:1,STERLING HEIGHTS MI Precinct 1
 ocd-division/country:us/state:mi/place:sterling_heights/precinct:10,STERLING HEIGHTS MI Precinct 10
 ocd-division/country:us/state:mi/place:sterling_heights/precinct:11,STERLING HEIGHTS MI Precinct 11
@@ -3979,3 +3964,9 @@ ocd-division/country:us/state:mi/place:zeeland/precinct:1,ZEELAND MI Precinct 1
 ocd-division/country:us/state:mi/place:zeeland/precinct:2,ZEELAND MI Precinct 2
 ocd-division/country:us/state:mi/place:zeeland/precinct:3,ZEELAND MI Precinct 3
 ocd-division/country:us/state:mi/place:zeeland/precinct:4,ZEELAND MI Precinct 4
+ocd-division/country:us/state:mi/place:northville/precinct:1,NORTHVILLE CITY MI Precinct 1
+ocd-division/country:us/state:mi/place:northville/precinct:2,NORTHVILLE CITY MI Precinct 2
+ocd-division/country:us/state:mi/place:memphis/precinct:1,MEMPHIS CITY MI Precinct 1
+ocd-division/country:us/state:mi/place:memphis/precinct:2,MEMPHIS CITY MI Precinct 2
+ocd-division/country:us/state:mi/place:milan/precinct:1,MILAN CITY MI Precinct 1
+ocd-division/country:us/state:mi/place:milan/precinct:1w,MILAN CITY MI Precinct 1w

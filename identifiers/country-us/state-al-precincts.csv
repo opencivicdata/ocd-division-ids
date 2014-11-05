@@ -109,11 +109,9 @@ ocd-division/country:us/state:al/county:blount/precinct:701,Blount County Precin
 ocd-division/country:us/state:al/county:blount/precinct:702,Blount County Precinct 702
 ocd-division/country:us/state:al/county:blount/precinct:801,Blount County Precinct 801
 ocd-division/country:us/state:al/county:blount/precinct:901,Blount County Precinct 901
-ocd-division/country:us/state:al/county:blount/precinct:902,Blount County Precinct 902
 ocd-division/country:us/state:al/county:blount/precinct:1001,Blount County Precinct 1001
 ocd-division/country:us/state:al/county:blount/precinct:1101,Blount County Precinct 1101
 ocd-division/country:us/state:al/county:blount/precinct:1201,Blount County Precinct 1201
-ocd-division/country:us/state:al/county:blount/precinct:1202,Blount County Precinct 1202
 ocd-division/country:us/state:al/county:blount/precinct:1301,Blount County Precinct 1301
 ocd-division/country:us/state:al/county:blount/precinct:1302,Blount County Precinct 1302
 ocd-division/country:us/state:al/county:blount/precinct:1401,Blount County Precinct 1401
@@ -126,7 +124,6 @@ ocd-division/country:us/state:al/county:blount/precinct:2001,Blount County Preci
 ocd-division/country:us/state:al/county:blount/precinct:2101,Blount County Precinct 2101
 ocd-division/country:us/state:al/county:blount/precinct:2201,Blount County Precinct 2201
 ocd-division/country:us/state:al/county:blount/precinct:2301,Blount County Precinct 2301
-ocd-division/country:us/state:al/county:blount/precinct:2302,Blount County Precinct 2302
 ocd-division/country:us/state:al/county:blount/precinct:2401,Blount County Precinct 2401
 ocd-division/country:us/state:al/county:bullock/precinct:11,Bullock County Precinct 11
 ocd-division/country:us/state:al/county:bullock/precinct:12,Bullock County Precinct 12
@@ -423,6 +420,7 @@ ocd-division/country:us/state:al/county:clarke/precinct:1611,Clarke County Preci
 ocd-division/country:us/state:al/county:clarke/precinct:2111,Clarke County Precinct 2111
 ocd-division/country:us/state:al/county:clarke/precinct:2141,Clarke County Precinct 2141
 ocd-division/country:us/state:al/county:clay/precinct:101,Clay County Precinct 101
+ocd-division/country:us/state:al/county:clay/precinct:102,Clay County Precinct 102
 ocd-division/country:us/state:al/county:clay/precinct:201,Clay County Precinct 201
 ocd-division/country:us/state:al/county:clay/precinct:301,Clay County Precinct 301
 ocd-division/country:us/state:al/county:clay/precinct:401,Clay County Precinct 401
@@ -1045,7 +1043,6 @@ ocd-division/country:us/state:al/county:houston/precinct:233-kinsey_vol_fire_dep
 ocd-division/country:us/state:al/county:houston/precinct:234-kinsey_vol_fire_dept,Houston County Precinct 234-Kinsey Vol Fire Dept
 ocd-division/country:us/state:al/county:houston/precinct:241-library,Houston County Precinct 241-Library
 ocd-division/country:us/state:al/county:houston/precinct:242-library,Houston County Precinct 242-Library
-ocd-division/country:us/state:al/county:houston/precinct:243-library,Houston County Precinct 243-Library
 ocd-division/country:us/state:al/county:houston/precinct:244-library,Houston County Precinct 244-Library
 ocd-division/country:us/state:al/county:houston/precinct:245-library,Houston County Precinct 245-Library
 ocd-division/country:us/state:al/county:houston/precinct:246-library,Houston County Precinct 246-Library
@@ -1081,12 +1078,10 @@ ocd-division/country:us/state:al/county:houston/precinct:222-walton_park,Houston
 ocd-division/country:us/state:al/county:houston/precinct:331-water_and_electric_complex,Houston County Precinct 331-Water & Electric Complex
 ocd-division/country:us/state:al/county:houston/precinct:333-water_and_electric_complex,Houston County Precinct 333-Water & Electric Complex
 ocd-division/country:us/state:al/county:houston/precinct:335-water_and_electric_complex,Houston County Precinct 335-Water & Electric Complex
-ocd-division/country:us/state:al/county:houston/precinct:336-water_and_electric_complex,Houston County Precinct 336-Water & Electric Complex
 ocd-division/country:us/state:al/county:houston/precinct:341-webb_city_hall,Houston County Precinct 341-Webb City Hall
 ocd-division/country:us/state:al/county:houston/precinct:342-webb_city_hall,Houston County Precinct 342-Webb City Hall
 ocd-division/country:us/state:al/county:houston/precinct:343-webb_city_hall,Houston County Precinct 343-Webb City Hall
 ocd-division/country:us/state:al/county:houston/precinct:344-webb_city_hall,Houston County Precinct 344-Webb City Hall
-ocd-division/country:us/state:al/county:houston/precinct:351-westgate_park,Houston County Precinct 351-Westgate Park
 ocd-division/country:us/state:al/county:houston/precinct:352-westgate_park,Houston County Precinct 352-Westgate Park
 ocd-division/country:us/state:al/county:houston/precinct:354-westgate_park,Houston County Precinct 354-Westgate Park
 ocd-division/country:us/state:al/county:houston/precinct:355-westgate_park,Houston County Precinct 355-Westgate Park
@@ -1429,6 +1424,7 @@ ocd-division/country:us/state:al/county:limestone/precinct:101-athens_recreation
 ocd-division/country:us/state:al/county:limestone/precinct:105-athens_senior_center,Limestone County Precinct 105-Athens Senior Center
 ocd-division/country:us/state:al/county:limestone/precinct:1101-belmore_baptist_church,Limestone County Precinct 1101-Belmore Baptist Church
 ocd-division/country:us/state:al/county:limestone/precinct:203-capshaw_baptist_church,Limestone County Precinct 203-Capshaw Baptist Church
+ocd-division/country:us/state:al/county:limestone/precinct:204-bethel_church_of_christ,Limestone County Precinct 204-Bethel Church of Christ
 ocd-division/country:us/state:al/county:limestone/precinct:901-clements_baptist_church,Limestone County Precinct 901-Clements Baptist Church
 ocd-division/country:us/state:al/county:limestone/precinct:202-creekside_elementary_school,Limestone County Precinct 202-Creekside Elementary School
 ocd-division/country:us/state:al/county:limestone/precinct:401-elkmont_fire_department,Limestone County Precinct 401-Elkmont Fire Department
@@ -1790,7 +1786,6 @@ ocd-division/country:us/state:al/county:monroe/precinct:1332-uriah_fd,Monroe Cou
 ocd-division/country:us/state:al/county:monroe/precinct:1333-uriah_fd,Monroe County Precinct 1333-Uriah Fd
 ocd-division/country:us/state:al/county:monroe/precinct:1341-shiloh_miss_bc,Monroe County Precinct 1341-Shiloh Miss Bc
 ocd-division/country:us/state:al/county:monroe/precinct:1343-shiloh_miss_bc,Monroe County Precinct 1343-Shiloh Miss Bc
-ocd-division/country:us/state:al/county:monroe/precinct:1344-shiloh_miss_bc,Monroe County Precinct 1344-Shiloh Miss Bc
 ocd-division/country:us/state:al/county:monroe/precinct:1403-oak_grove_bc,Monroe County Precinct 1403-Oak Grove Bc
 ocd-division/country:us/state:al/county:monroe/precinct:1411-frisco_city_fd,Monroe County Precinct 1411-Frisco City Fd
 ocd-division/country:us/state:al/county:monroe/precinct:1412-frisco_city_fd,Monroe County Precinct 1412-Frisco City Fd
