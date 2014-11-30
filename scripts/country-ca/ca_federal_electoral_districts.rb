@@ -36,9 +36,14 @@ private
       identifier = tds[0].text.gsub(/\D/, "")
       next unless identifier[/\A\d{5}\z/] # name changes and totals
 
+      name = tds[1].children[0].text.normalize_space.gsub("–", "—") # n-dash, m-dash
+      if name == 'Western Arctic'
+        name = language == 'e' ? 'Northwest Territories' : 'Territoires du Nord-Ouest'
+      end
+
       # "Saint Boniface" is inconsistent with other district names in Manitoba,
       # "Charleswood–St. James–Assiniboia" and "Kildonan–St. Paul".
-      output("ed:", identifier, tds[1].children[0].text.normalize_space.gsub("–", "—")) # n-dash, m-dash
+      output("ed:", identifier, name)
     end
   end
 end
