@@ -66,7 +66,7 @@ class DivisionName < String
     sub(/(?<=No\. )0/, "").                                # Remove leading zero, e.g. "Rural Municipality of Coalfields No. 04"
     sub(/\ACounty of (.+?)( No\. \d+)?\z/, '\1 County\2'). # Re-order words, e.g. "County of Barrhead No. 11"
     sub(/ \((?:AB|MB|NB|NL|ON)\)\z/, "").                  # Remove province, e.g. "Cochrane (AB)"
-    sub(/ 100 /, " One Hundred ").                         # Replace infix number, e.g. "District of 100 Mile House"
+    sub(/\b100 /, "One Hundred ").                         # Replace prefix or infix number, e.g. "District of 100 Mile House"
     gsub(/[ -](?:and|de|et)[ -]/, " ").                    # Remove linking words
     sub(/\bSt(e)?\b\.?/i, 'Saint\1')                       # Expand "St." and "Ste."
   end

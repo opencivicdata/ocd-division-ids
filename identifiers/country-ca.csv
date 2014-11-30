@@ -33815,17 +33815,17 @@ ocd-division/country:ca/csd:4819072,Berwyn,,,VL,,N,Berwyn,,Village of Berwyn,,,,
 ocd-division/country:ca/csd:4819074,Grimshaw,,,T,,N,Grimshaw,,Town of Grimshaw,,,,http://grimshaw.ca
 ocd-division/country:ca/csd:4819815,Horse Lakes 152B,,,IRI,,N,Horse Lakes 152B,,,,,,
 ocd-division/country:ca/csd:4819826,Duncan's 151A,,,IRI,,N,Duncan's 151A,,,,,,
-ocd-division/country:ca/csd:5901003,Elkford,,,DM,,N,Elkford,,,,,,http://www.elkford.ca
+ocd-division/country:ca/csd:5901003,Elkford,,,DM,,N,Elkford,,,,7,,http://www.elkford.ca
 ocd-division/country:ca/csd:5901003/place:fording,Fording,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901003/place:greenhills,Greenhills,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901003/place:round_prairie,Round Prairie,,,,,,,,,,,,
-ocd-division/country:ca/csd:5901006,Sparwood,,,DM,,N,Sparwood,,,,,,http://www.sparwood.ca
+ocd-division/country:ca/csd:5901006,Sparwood,,,DM,,N,Sparwood,,,,7,,http://www.sparwood.ca
 ocd-division/country:ca/csd:5901006/place:corbin,Corbin,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901006/place:elk_valley_trailer_court,Elk Valley Trailer Court,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901006/place:elkview,Elkview,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901006/place:lodge_pole_trailer_park,Lodge Pole Trailer Park,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901006/place:lower_lodge_pole_trailer_court,Lower Lodge Pole Trailer Court,,,,,,,,,,,,
-ocd-division/country:ca/csd:5901012,Fernie,,,CY,,N,Fernie,,City of Fernie,,,,http://www.fernie.ca
+ocd-division/country:ca/csd:5901012,Fernie,,,CY,,N,Fernie,,City of Fernie,,7,,http://www.fernie.ca
 ocd-division/country:ca/csd:5901017,East Kootenay A,,,RDA,,N,East Kootenay A,,,,,,
 ocd-division/country:ca/csd:5901017/place:artina_trailer_court,Artina Trailer Court,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901017/place:clode,Clode,,,,,,,,,,,,
@@ -33861,10 +33861,10 @@ ocd-division/country:ca/csd:5901019/place:kragmont,Kragmont,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901019/place:newgate,Newgate,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901019/place:rosen_lake_trailer_court,Rosen Lake Trailer Court,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901019/place:tie_lake,Tie Lake,,,,,,,,,,,,
-ocd-division/country:ca/csd:5901022,Cranbrook,,,CY,,N,Cranbrook,,City of Cranbrook,,,,http://www.cranbrook.ca
+ocd-division/country:ca/csd:5901022,Cranbrook,,,CY,,N,Cranbrook,,City of Cranbrook,,7,,http://www.cranbrook.ca
 ocd-division/country:ca/csd:5901022/place:rockyview,Rockyview,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901022/place:wanklyn,Wanklyn,,,,,,,,,,,,
-ocd-division/country:ca/csd:5901028,Kimberley,,,CY,,N,Kimberley,,City of Kimberley,,,,http://kimberley.ca
+ocd-division/country:ca/csd:5901028,Kimberley,,,CY,,N,Kimberley,,City of Kimberley,,7,,http://kimberley.ca
 ocd-division/country:ca/csd:5901028/place:chapman_camp,Chapman Camp,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901028/place:marysville,Marysville,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901028/place:north_star,North Star,,,,,,,,,,,,
@@ -33906,10 +33906,10 @@ ocd-division/country:ca/csd:5901037/place:skookumchuck,Skookumchuck,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901037/place:ta_ta_creek,Ta Ta Creek,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901037/place:wasa,Wasa,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901037/place:wasa_lake,Wasa Lake,,,,,,,,,,,,
-ocd-division/country:ca/csd:5901039,Invermere,,,DM,,N,Invermere,,,,,,http://www.invermere.net
+ocd-division/country:ca/csd:5901039,Invermere,,,DM,,N,Invermere,,,,5,,http://www.invermere.net
 ocd-division/country:ca/csd:5901039/place:windermere,Windermere,,,,,,,,,,,,
-ocd-division/country:ca/csd:5901040,Radium Hot Springs,,,VL,,N,Radium Hot Springs,,Village of Radium Hot Springs,,,,http://www.radiumhotsprings.ca
-ocd-division/country:ca/csd:5901043,Canal Flats,,,VL,,N,Canal Flats,,Village of Canal Flats,,,,http://www.canalflats.com
+ocd-division/country:ca/csd:5901040,Radium Hot Springs,,,VL,,N,Radium Hot Springs,,Village of Radium Hot Springs,,5,,http://www.radiumhotsprings.ca
+ocd-division/country:ca/csd:5901043,Canal Flats,,,VL,,N,Canal Flats,,Village of Canal Flats,,5,,http://www.canalflats.com
 ocd-division/country:ca/csd:5901043/place:halyn_trailer_court,Halyn Trailer Court,,,,,,,,,,,,
 ocd-division/country:ca/csd:5901046,East Kootenay F,,,RDA,,N,East Kootenay F,,,,,,
 ocd-division/country:ca/csd:5901046/place:akiskinook,Akiskinook,,,,,,,,,,,,
@@ -33949,7 +33949,7 @@ ocd-division/country:ca/csd:5901804,Columbia Lake 3,,,IRI,,N,Columbia Lake 3,,,,
 ocd-division/country:ca/csd:5901805,Cassimayooks (Mayook) 5,,,IRI,,N,Cassimayooks (Mayook) 5,,,,,,
 ocd-division/country:ca/csd:5901806,Shuswap,,,IRI,,N,Shuswap,,,,,,
 ocd-division/country:ca/csd:5901806/place:athalmer,Athalmer,,,,,,,,,,,,
-ocd-division/country:ca/csd:5903004,Creston,,,T,,N,Creston,,Town of Creston,,,,http://www.creston.ca
+ocd-division/country:ca/csd:5903004,Creston,,,T,,N,Creston,,Town of Creston,,7,,http://www.creston.ca
 ocd-division/country:ca/csd:5903004/place:alice_siding,Alice Siding,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903010,Central Kootenay A,,,RDA,,N,Central Kootenay A,,,,,,
 ocd-division/country:ca/csd:5903010/place:boswell,Boswell,,,,,,,,,,,,
@@ -33967,7 +33967,7 @@ ocd-division/country:ca/csd:5903010/place:tye,Tye,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903010/place:walkers,Walkers,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903010/place:wynndel,Wynndel,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903010/place:wynndel_part_a,Wynndel part A,,,,,,,,,,,,
-ocd-division/country:ca/csd:5903011,Salmo,,,VL,,N,Salmo,,Village of Salmo,,,,http://salmo.ca
+ocd-division/country:ca/csd:5903011,Salmo,,,VL,,N,Salmo,,Village of Salmo,,5,,http://salmo.ca
 ocd-division/country:ca/csd:5903013,Central Kootenay B,,,RDA,,N,Central Kootenay B,,,,,,
 ocd-division/country:ca/csd:5903013/place:armitage_trailer_court,Armitage Trailer Court,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903013/place:arrow_creek,Arrow Creek,,,,,,,,,,,,
@@ -33985,7 +33985,7 @@ ocd-division/country:ca/csd:5903013/place:mcconnel,McConnel,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903013/place:ryan,Ryan,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903013/place:rykerts,Rykerts,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903013/place:yahk,Yahk,,,,,,,,,,,,
-ocd-division/country:ca/csd:5903015,Nelson,,,CY,,N,Nelson,,City of Nelson,,,,http://www.nelson.ca
+ocd-division/country:ca/csd:5903015,Nelson,,,CY,,N,Nelson,,City of Nelson,,7,,http://www.nelson.ca
 ocd-division/country:ca/csd:5903015/place:mountain_station,Mountain Station,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903017,Central Kootenay C,,,RDA,,N,Central Kootenay C,,,,,,
 ocd-division/country:ca/csd:5903017/place:creston_valley_mobile_park,Creston Valley Mobile Park,,,,,,,,,,,,
@@ -33996,10 +33996,10 @@ ocd-division/country:ca/csd:5903017/place:scotties_trailer_park,Scotties Trailer
 ocd-division/country:ca/csd:5903017/place:sirdar,Sirdar,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903017/place:west_creston,West Creston,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903017/place:wynndel_part_b,Wynndel part B,,,,,,,,,,,,
-ocd-division/country:ca/csd:5903019,Slocan,,,VL,,N,Slocan,,Village of Slocan,,,,http://www.slocancity.com
-ocd-division/country:ca/csd:5903023,Kaslo,,,VL,,N,Kaslo,,Village of Kaslo,,,,http://www.kaslo.ca
-ocd-division/country:ca/csd:5903027,Silverton,,,VL,,N,Silverton,,Village of Silverton,,,,http://www.silverton.ca
-ocd-division/country:ca/csd:5903032,New Denver,,,VL,,N,New Denver,,Village of New Denver,,,,http://newdenver.ca
+ocd-division/country:ca/csd:5903019,Slocan,,,VL,,N,Slocan,,Village of Slocan,,5,,http://www.slocancity.com
+ocd-division/country:ca/csd:5903023,Kaslo,,,VL,,N,Kaslo,,Village of Kaslo,,5,,http://www.kaslo.ca
+ocd-division/country:ca/csd:5903027,Silverton,,,VL,,N,Silverton,,Village of Silverton,,5,,http://www.silverton.ca
+ocd-division/country:ca/csd:5903032,New Denver,,,VL,,N,New Denver,,Village of New Denver,,5,,http://newdenver.ca
 ocd-division/country:ca/csd:5903039,Central Kootenay D,,,RDA,,N,Central Kootenay D,,,,,,
 ocd-division/country:ca/csd:5903039/place:ainsworth,Ainsworth,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903039/place:ainsworth_hot_springs,Ainsworth Hot Springs,,,,,,,,,,,,
@@ -34057,7 +34057,7 @@ ocd-division/country:ca/csd:5903043/place:sproule_creek,Sproule Creek,,,,,,,,,,,
 ocd-division/country:ca/csd:5903043/place:sunnyside_trailer_court,Sunnyside Trailer Court,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903043/place:taghum,Taghum,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903043/place:willow_point,Willow Point,,,,,,,,,,,,
-ocd-division/country:ca/csd:5903045,Castlegar,,,CY,,N,Castlegar,,City of Castlegar,,,,http://www.castlegar.ca
+ocd-division/country:ca/csd:5903045,Castlegar,,,CY,,N,Castlegar,,City of Castlegar,,7,,http://www.castlegar.ca
 ocd-division/country:ca/csd:5903045/place:kinnaird,Kinnaird,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903045/place:ootischenia,Ootischenia,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903047,Central Kootenay G,,,RDA,,N,Central Kootenay G,,,,,,
@@ -34074,7 +34074,7 @@ ocd-division/country:ca/csd:5903047/place:riverside_trailer_court,Riverside Trai
 ocd-division/country:ca/csd:5903047/place:ross_spur,Ross Spur,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903047/place:salmo,Salmo,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903047/place:ymir,Ymir,,,,,,,,,,,,
-ocd-division/country:ca/csd:5903050,Nakusp,,,VL,,N,Nakusp,,Village of Nakusp,,,,http://www.nakusp.com
+ocd-division/country:ca/csd:5903050,Nakusp,,,VL,,N,Nakusp,,Village of Nakusp,,5,,http://www.nakusp.com
 ocd-division/country:ca/csd:5903052,Central Kootenay H,,,RDA,,N,Central Kootenay H,,,,,,
 ocd-division/country:ca/csd:5903052/place:alamo,Alamo,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903052/place:appledale,Appledale,,,,,,,,,,,,
@@ -34143,17 +34143,17 @@ ocd-division/country:ca/csd:5903060/place:nakusp,Nakusp,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903060/place:needles,Needles,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903060/place:shoreholme,Shoreholme,,,,,,,,,,,,
 ocd-division/country:ca/csd:5903807,Creston 1,,,IRI,,N,Creston 1,,,,,,
-ocd-division/country:ca/csd:5905005,Fruitvale,,,VL,,N,Fruitvale,,Village of Fruitvale,,,,http://www.village.fruitvale.bc.ca
-ocd-division/country:ca/csd:5905009,Montrose,,,VL,,N,Montrose,,Village of Montrose,,,,http://www.montrose.ca
-ocd-division/country:ca/csd:5905014,Trail,,,CY,,N,Trail,,City of Trail,,,,http://www.trail.ca
+ocd-division/country:ca/csd:5905005,Fruitvale,,,VL,,N,Fruitvale,,Village of Fruitvale,,5,,http://www.village.fruitvale.bc.ca
+ocd-division/country:ca/csd:5905009,Montrose,,,VL,,N,Montrose,,Village of Montrose,,5,,http://www.montrose.ca
+ocd-division/country:ca/csd:5905014,Trail,,,CY,,N,Trail,,City of Trail,,7,,http://www.trail.ca
 ocd-division/country:ca/csd:5905014/place:glenmerry,Glenmerry,,,,,,,,,,,,
 ocd-division/country:ca/csd:5905014/place:rivervale,Rivervale,,,,,,,,,,,,
 ocd-division/country:ca/csd:5905014/place:sunningdale,Sunningdale,,,,,,,,,,,,
 ocd-division/country:ca/csd:5905014/place:waneta,Waneta,,,,,,,,,,,,
 ocd-division/country:ca/csd:5905014/place:waneta_junction,Waneta Junction,,,,,,,,,,,,
 ocd-division/country:ca/csd:5905014/place:west_trail,West Trail,,,,,,,,,,,,
-ocd-division/country:ca/csd:5905018,Warfield,,,VL,,N,Warfield,,Village of Warfield,,,,http://www.warfield.ca
-ocd-division/country:ca/csd:5905023,Rossland,,,CY,,N,Rossland,,City of Rossland,,,,http://www.rossland.ca
+ocd-division/country:ca/csd:5905018,Warfield,,,VL,,N,Warfield,,Village of Warfield,,5,,http://www.warfield.ca
+ocd-division/country:ca/csd:5905023,Rossland,,,CY,,N,Rossland,,City of Rossland,,7,,http://www.rossland.ca
 ocd-division/country:ca/csd:5905023/place:red_mountain,Red Mountain,,,,,,,,,,,,
 ocd-division/country:ca/csd:5905026,Kootenay Boundary A,,,RDA,,N,Kootenay Boundary A,,,,,,
 ocd-division/country:ca/csd:5905026/place:beaver_falls,Beaver Falls,,,,,,,,,,,,
@@ -34173,10 +34173,10 @@ ocd-division/country:ca/csd:5905030/place:poupore,Poupore,,,,,,,,,,,,
 ocd-division/country:ca/csd:5905030/place:silica,Silica,,,,,,,,,,,,
 ocd-division/country:ca/csd:5905030/place:upper_china_creek,Upper China Creek,,,,,,,,,,,,
 ocd-division/country:ca/csd:5905030/place:whispering_pines_trailer_park,Whispering Pines Trailer Park,,,,,,,,,,,,
-ocd-division/country:ca/csd:5905032,Grand Forks,,,CY,,N,Grand Forks,,City of Grand Forks,,,,http://www.grandforks.ca//
-ocd-division/country:ca/csd:5905037,Midway,,,VL,,N,Midway,,Village of Midway,,,,http://www.midwaybc.ca
+ocd-division/country:ca/csd:5905032,Grand Forks,,,CY,,N,Grand Forks,,City of Grand Forks,,7,,http://www.grandforks.ca//
+ocd-division/country:ca/csd:5905037,Midway,,,VL,,N,Midway,,Village of Midway,,5,,http://www.midwaybc.ca
 ocd-division/country:ca/csd:5905037/place:west_midway,West Midway,,,,,,,,,,,,
-ocd-division/country:ca/csd:5905042,Greenwood,,,CY,,N,Greenwood,,City of Greenwood,,,,http://www.greenwoodcity.com
+ocd-division/country:ca/csd:5905042,Greenwood,,,CY,,N,Greenwood,,City of Greenwood,,5,,http://www.greenwoodcity.com
 ocd-division/country:ca/csd:5905042/place:anaconda,Anaconda,,,,,,,,,,,,
 ocd-division/country:ca/csd:5905050,Kootenay Boundary C,,,RDA,,N,Kootenay Boundary C,,,,,,
 ocd-division/country:ca/csd:5905050/place:billings,Billings,,,,,,,,,,,,
@@ -34219,13 +34219,13 @@ ocd-division/country:ca/csd:5905054/place:rock_creek,Rock Creek,,,,,,,,,,,,
 ocd-division/country:ca/csd:5905054/place:sidley,Sidley,,,,,,,,,,,,
 ocd-division/country:ca/csd:5905054/place:westbridge,Westbridge,,,,,,,,,,,,
 ocd-division/country:ca/csd:5905054/place:zamora,Zamora,,,,,,,,,,,,
-ocd-division/country:ca/csd:5907005,Osoyoos,,,T,,N,Osoyoos,,Town of Osoyoos,,,,http://www.osoyoos.ca
+ocd-division/country:ca/csd:5907005,Osoyoos,,,T,,N,Osoyoos,,Town of Osoyoos,,7,,http://www.osoyoos.ca
 ocd-division/country:ca/csd:5907005/place:east_osoyoos,East Osoyoos,,,,,,,,,,,,
-ocd-division/country:ca/csd:5907009,Keremeos,,,VL,,N,Keremeos,,Village of Keremeos,,,,http://www.keremeos.ca
-ocd-division/country:ca/csd:5907014,Oliver,,,T,,N,Oliver,,Town of Oliver,,,,http://www.oliver.ca
+ocd-division/country:ca/csd:5907009,Keremeos,,,VL,,N,Keremeos,,Village of Keremeos,,5,,http://www.keremeos.ca
+ocd-division/country:ca/csd:5907014,Oliver,,,T,,N,Oliver,,Town of Oliver,,7,,http://www.oliver.ca
 ocd-division/country:ca/csd:5907022,Okanagan-Similkameen A,,,RDA,,N,Okanagan-Similkameen A,,,,,,
 ocd-division/country:ca/csd:5907022/place:osoyoos,Osoyoos,,,,,,,,,,,,
-ocd-division/country:ca/csd:5907024,Princeton,,,T,,N,Princeton,,Town of Princeton,,,,http://www.princeton.ca
+ocd-division/country:ca/csd:5907024,Princeton,,,T,,N,Princeton,,Town of Princeton,,5,,http://www.princeton.ca
 ocd-division/country:ca/csd:5907026,Okanagan-Similkameen B,,,RDA,,N,Okanagan-Similkameen B,,,,,,
 ocd-division/country:ca/csd:5907026/place:cawston,Cawston,,,,,,,,,,,,
 ocd-division/country:ca/csd:5907028,Okanagan-Similkameen C,,,RDA,,N,Okanagan-Similkameen C,,,,,,
@@ -34235,10 +34235,10 @@ ocd-division/country:ca/csd:5907028/place:gallagher_lake,Gallagher Lake,,,,,,,,,
 ocd-division/country:ca/csd:5907028/place:weeping_willow_trailer_court,Weeping Willow Trailer Court,,,,,,,,,,,,
 ocd-division/country:ca/csd:5907028/place:willow_brook,Willow Brook,,,,,,,,,,,,
 ocd-division/country:ca/csd:5907028/place:willowbrook,Willowbrook,,,,,,,,,,,,
-ocd-division/country:ca/csd:5907035,Summerland,,,DM,,N,Summerland,,,,,,http://www.summerland.ca
+ocd-division/country:ca/csd:5907035,Summerland,,,DM,,N,Summerland,,,,7,,http://www.summerland.ca
 ocd-division/country:ca/csd:5907035/place:garnet_valley,Garnet Valley,,,,,,,,,,,,
 ocd-division/country:ca/csd:5907035/place:prairie_valley,Prairie Valley,,,,,,,,,,,,
-ocd-division/country:ca/csd:5907041,Penticton,,,CY,,N,Penticton,,City of Penticton,,,,http://www.penticton.ca
+ocd-division/country:ca/csd:5907041,Penticton,,,CY,,N,Penticton,,City of Penticton,,7,,http://www.penticton.ca
 ocd-division/country:ca/csd:5907041/place:poplar_grove,Poplar Grove,,,,,,,,,,,,
 ocd-division/country:ca/csd:5907047,Okanagan-Similkameen D,,,RDA,,N,Okanagan-Similkameen D,,,,,,
 ocd-division/country:ca/csd:5907047/place:carmi_subdivision,Carmi Subdivision,,,,,,,,,,,,
@@ -34303,7 +34303,7 @@ ocd-division/country:ca/csd:5907806,Blind Creek 6,,,IRI,,N,Blind Creek 6,,,,,,
 ocd-division/country:ca/csd:5907807,Chuchuwayha 2,,,IRI,,N,Chuchuwayha 2,,,,,,
 ocd-division/country:ca/csd:5907808,Alexis 9,,,IRI,,N,Alexis 9,,,,,,
 ocd-division/country:ca/csd:5907809,Ashnola 10,,,IRI,,N,Ashnola 10,,,,,,
-ocd-division/country:ca/csd:5909009,Hope,,,DM,,N,Hope,,,,,,http://www.hope.ca
+ocd-division/country:ca/csd:5909009,Hope,,,DM,,N,Hope,,,,7,,http://www.hope.ca
 ocd-division/country:ca/csd:5909009/place:aywawwis_15,Aywawwis 15,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909009/place:floods,Floods,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909009/place:haig,Haig,,,,,,,,,,,,
@@ -34346,7 +34346,7 @@ ocd-division/country:ca/csd:5909016/place:swahliseah_14,Swahliseah 14,,,,,,,,,,,
 ocd-division/country:ca/csd:5909016/place:trafalgar,Trafalgar,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909016/place:windmill_trailer_park,Windmill Trailer Park,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909016/place:yale,Yale,,,,,,,,,,,,
-ocd-division/country:ca/csd:5909020,Chilliwack,,,CY,http://www.chilliwack.com/main/page.cfm?id=2329,N,Chilliwack,,City of Chilliwack,,,,http://www.chilliwack.com
+ocd-division/country:ca/csd:5909020,Chilliwack,,,CY,http://www.chilliwack.com/main/page.cfm?id=2329,N,Chilliwack,,City of Chilliwack,,7,,http://www.chilliwack.com
 ocd-division/country:ca/csd:5909020/place:arnold,Arnold,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909020/place:atchelitz,Atchelitz,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909020/place:fairfield,Fairfield,,,,,,,,,,,,
@@ -34359,8 +34359,8 @@ ocd-division/country:ca/csd:5909020/place:sardis,Sardis,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909020/place:south_sumas,South Sumas,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909020/place:vedder_crossing,Vedder Crossing,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909020/place:yarrow,Yarrow,,,,,,,,,,,,
-ocd-division/country:ca/csd:5909027,Harrison Hot Springs,,,VL,,N,Harrison Hot Springs,,Village of Harrison Hot Springs,,,,http://www.harrisonhotsprings.ca
-ocd-division/country:ca/csd:5909032,Kent,,,DM,,N,Kent,,,,,,http://www.district.kent.bc.ca
+ocd-division/country:ca/csd:5909027,Harrison Hot Springs,,,VL,,N,Harrison Hot Springs,,Village of Harrison Hot Springs,,5,,http://www.harrisonhotsprings.ca
+ocd-division/country:ca/csd:5909032,Kent,,,DM,,N,Kent,,,,5,,http://www.district.kent.bc.ca
 ocd-division/country:ca/csd:5909032/place:agassiz,Agassiz,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909034,Fraser Valley D,,,RDA,,N,Fraser Valley D,,,,,,
 ocd-division/country:ca/csd:5909034/place:bridal_falls,Bridal Falls,,,,,,,,,,,,
@@ -34392,7 +34392,7 @@ ocd-division/country:ca/csd:5909048/place:samahquam_1,Samahquam 1,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909048/place:silver_river,Silver River,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909048/place:skookumchuck,Skookumchuck,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909048/place:tipella,Tipella,,,,,,,,,,,,
-ocd-division/country:ca/csd:5909052,Abbotsford,,,CY,,N,Abbotsford,,City of Abbotsford,,,,http://www.abbotsford.ca
+ocd-division/country:ca/csd:5909052,Abbotsford,,,CY,,N,Abbotsford,,City of Abbotsford,,9,,http://www.abbotsford.ca
 ocd-division/country:ca/csd:5909052/place:aberdeen,Aberdeen,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909052/place:arnold,Arnold,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909052/place:barrowtown,Barrowtown,,,,,,,,,,,,
@@ -34414,7 +34414,7 @@ ocd-division/country:ca/csd:5909052/place:silverdale,Silverdale,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909052/place:south_poplar,South Poplar,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909052/place:straiton,Straiton,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909052/place:vye,Vye,,,,,,,,,,,,
-ocd-division/country:ca/csd:5909056,Mission,,,DM,,N,Mission,,,,,,http://www.mission.ca
+ocd-division/country:ca/csd:5909056,Mission,,,DM,,N,Mission,,,,7,,http://www.mission.ca
 ocd-division/country:ca/csd:5909056/place:hatzic,Hatzic,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909056/place:silverhill,Silverhill,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909056/place:stave_falls,Stave Falls,,,,,,,,,,,,
@@ -34491,7 +34491,7 @@ ocd-division/country:ca/csd:5909884/place:skowkale_11,Skowkale 11,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909885,Squiaala,,,IRI,,N,Squiaala,,,,,,
 ocd-division/country:ca/csd:5909885/place:squiaala_7,Squiaala 7,,,,,,,,,,,,
 ocd-division/country:ca/csd:5909885/place:squiaala_8,Squiaala 8,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915001,Langley,,,DM,http://www.tol.ca/ServicesContact/OpenData/OpenDataCatalogue.aspx,N,Langley,,,,,,http://www.tol.ca
+ocd-division/country:ca/csd:5915001,Langley,,,DM,http://www.tol.ca/ServicesContact/OpenData/OpenDataCatalogue.aspx,N,Langley,,,,9,,http://www.tol.ca
 ocd-division/country:ca/csd:5915001/place:aldergrove,Aldergrove,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915001/place:brookswood,Brookswood,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915001/place:fern_ridge,Fern Ridge,,,,,,,,,,,,
@@ -34507,8 +34507,8 @@ ocd-division/country:ca/csd:5915001/place:port_hammond,Port Hammond,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915001/place:rawlison,Rawlison,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915001/place:sperling,Sperling,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915001/place:walnut_grove,Walnut Grove,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915002,Langley,,,CY,,N,Langley,,City of Langley,,,,http://www.city.langley.bc.ca
-ocd-division/country:ca/csd:5915004,Surrey,,,CY,http://www.surrey.ca/city-services/658.aspx,N,Surrey,,City of Surrey,,,,http://www.surrey.ca
+ocd-division/country:ca/csd:5915002,Langley,,,CY,,N,Langley,,City of Langley,,7,,http://www.city.langley.bc.ca
+ocd-division/country:ca/csd:5915004,Surrey,,,CY,http://www.surrey.ca/city-services/658.aspx,N,Surrey,,City of Surrey,,9,,http://www.surrey.ca
 ocd-division/country:ca/csd:5915004/place:anniedale,Anniedale,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915004/place:bridgeview,Bridgeview,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915004/place:brownsville,Brownsville,,,,,,,,,,,,
@@ -34543,8 +34543,8 @@ ocd-division/country:ca/csd:5915004/place:thornton_yard,Thornton Yard,,,,,,,,,,,
 ocd-division/country:ca/csd:5915004/place:tynehead,Tynehead,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915004/place:vancouver,Vancouver,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915004/place:whalley,Whalley,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915007,White Rock,,,CY,,N,White Rock,,City of White Rock,,,,http://www.whiterockcity.ca
-ocd-division/country:ca/csd:5915011,Delta,,,DM,,N,Delta,,,,,,http://www.delta.ca
+ocd-division/country:ca/csd:5915007,White Rock,,,CY,,N,White Rock,,City of White Rock,,7,,http://www.whiterockcity.ca
+ocd-division/country:ca/csd:5915011,Delta,,,DM,,N,Delta,,,,7,,http://www.delta.ca
 ocd-division/country:ca/csd:5915011/place:annacis,Annacis,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915011/place:beach_grove,Beach Grove,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915011/place:boundary_bay,Boundary Bay,,,,,,,,,,,,
@@ -34559,7 +34559,7 @@ ocd-division/country:ca/csd:5915011/place:tilbury,Tilbury,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915011/place:townsend,Townsend,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915011/place:tsawwassen_beach,Tsawwassen Beach,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915011/place:wyman,Wyman,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915015,Richmond,,,CY,,N,Richmond,,City of Richmond,,,,http://www.richmond.ca
+ocd-division/country:ca/csd:5915015,Richmond,,,CY,,N,Richmond,,City of Richmond,,9,,http://www.richmond.ca
 ocd-division/country:ca/csd:5915015/place:bridgeport,Bridgeport,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915015/place:brighouse,Brighouse,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915015/place:broadmoor,Broadmoor,,,,,,,,,,,,
@@ -34585,7 +34585,7 @@ ocd-division/country:ca/csd:5915020/place:university_endowment_area,University E
 ocd-division/country:ca/csd:5915020/place:university_hill,University Hill,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915020/place:westmount,Westmount,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915020/place:wigwam_inn,Wigwam Inn,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915022,Vancouver,,,CY,http://data.vancouver.ca/datacatalogue/index.htm,N,Vancouver,,City of Vancouver,,,,http://vancouver.ca
+ocd-division/country:ca/csd:5915022,Vancouver,,,CY,http://data.vancouver.ca/datacatalogue/index.htm,N,Vancouver,,City of Vancouver,,11,,http://vancouver.ca
 ocd-division/country:ca/csd:5915022/place:arbutus_ridge,Arbutus Ridge,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915022/place:dunbar-southlands,Dunbar-Southlands,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915022/place:fairview,Fairview,,,,,,,,,,,,
@@ -34607,7 +34607,7 @@ ocd-division/country:ca/csd:5915022/place:sunset,Sunset,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915022/place:victoria-fraserview,Victoria-Fraserview,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915022/place:west_end,West End,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915022/place:west_point_grey,West Point Grey,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915025,Burnaby,,,CY,,N,Burnaby,,City of Burnaby,,,,http://www.burnaby.ca
+ocd-division/country:ca/csd:5915025,Burnaby,,,CY,,N,Burnaby,,City of Burnaby,,9,,http://www.burnaby.ca
 ocd-division/country:ca/csd:5915025/place:boundary_road,Boundary Road,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915025/place:brentwood_park,Brentwood Park,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915025/place:buckingham_heights,Buckingham Heights,,,,,,,,,,,,
@@ -34624,12 +34624,12 @@ ocd-division/country:ca/csd:5915025/place:sullivan_heights,Sullivan Heights,,,,,
 ocd-division/country:ca/csd:5915025/place:suncrest,Suncrest,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915025/place:westridge,Westridge,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915025/place:willingdon_heights,Willingdon Heights,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915029,New Westminster,,,CY,,N,New Westminster,,City of New Westminster,,,,http://www.newwestcity.ca
+ocd-division/country:ca/csd:5915029,New Westminster,,,CY,,N,New Westminster,,City of New Westminster,,7,,http://www.newwestcity.ca
 ocd-division/country:ca/csd:5915029/place:brunette_creek,Brunette Creek,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915029/place:connaught_heights,Connaught Heights,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915029/place:queens_park,Queens Park,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915029/place:west_end,West End,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915034,Coquitlam,,,CY,,N,Coquitlam,,City of Coquitlam,,,,http://www.coquitlam.ca
+ocd-division/country:ca/csd:5915034,Coquitlam,,,CY,,N,Coquitlam,,City of Coquitlam,,9,,http://www.coquitlam.ca
 ocd-division/country:ca/csd:5915034/place:austin_heights,Austin Heights,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915034/place:burquitlam,Burquitlam,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915034/place:cariboo,Cariboo,,,,,,,,,,,,
@@ -34644,7 +34644,7 @@ ocd-division/country:ca/csd:5915034/place:harbour_village,Harbour Village,,,,,,,
 ocd-division/country:ca/csd:5915034/place:laurentian_belaire,Laurentian Belaire,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915034/place:mayfair,Mayfair,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915034/place:sun_valley,Sun Valley,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915036,Belcarra,,,VL,,N,Belcarra,,Village of Belcarra,,,,http://www.belcarra.ca
+ocd-division/country:ca/csd:5915036,Belcarra,,,VL,,N,Belcarra,,Village of Belcarra,,5,,http://www.belcarra.ca
 ocd-division/country:ca/csd:5915036/place:belvedere,Belvedere,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915036/place:cascade,Cascade,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915036/place:coombe,Coombe,,,,,,,,,,,,
@@ -34652,21 +34652,21 @@ ocd-division/country:ca/csd:5915036/place:cove_cliff,Cove Cliff,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915036/place:twin_islands,Twin Islands,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915036/place:woodhaven,Woodhaven,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915036/place:woodlands,Woodlands,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915038,Anmore,,,VL,,N,Anmore,,Village of Anmore,,,,http://www.anmore.com
+ocd-division/country:ca/csd:5915038,Anmore,,,VL,,N,Anmore,,Village of Anmore,,5,,http://www.anmore.com
 ocd-division/country:ca/csd:5915038/place:buntzen_bay,Buntzen Bay,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915038/place:frames,Frames,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915038/place:lake_buntzen,Lake Buntzen,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915039,Port Coquitlam,,,CY,,N,Port Coquitlam,,City of Port Coquitlam,,,,http://www.portcoquitlam.ca
+ocd-division/country:ca/csd:5915039,Port Coquitlam,,,CY,,N,Port Coquitlam,,City of Port Coquitlam,,7,,http://www.portcoquitlam.ca
 ocd-division/country:ca/csd:5915039/place:birchland_manor,Birchland Manor,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915039/place:coquitlam,Coquitlam,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915039/place:mary_hill,Mary Hill,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915039/place:meadowbrook,Meadowbrook,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915039/place:oxford_heights,Oxford Heights,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915043,Port Moody,,,CY,,N,Port Moody,,City of Port Moody,,,,http://www.portmoody.ca
+ocd-division/country:ca/csd:5915043,Port Moody,,,CY,,N,Port Moody,,City of Port Moody,,7,,http://www.portmoody.ca
 ocd-division/country:ca/csd:5915043/place:barnet,Barnet,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915043/place:ioco,Ioco,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915043/place:pleasantside,Pleasantside,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915046,North Vancouver,,,DM,http://geoweb.dnv.org/data/,N,North Vancouver,,,,,,http://www.dnv.org
+ocd-division/country:ca/csd:5915046,North Vancouver,,,DM,http://geoweb.dnv.org/data/,N,North Vancouver,,,,7,,http://www.dnv.org
 ocd-division/country:ca/csd:5915046/place:blueridge,Blueridge,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915046/place:brighton_beach,Brighton Beach,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915046/place:canyon_heights,Canyon Heights,,,,,,,,,,,,
@@ -34686,10 +34686,10 @@ ocd-division/country:ca/csd:5915046/place:thwaytes,Thwaytes,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915046/place:upper_lynn,Upper Lynn,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915046/place:west_lynn,West Lynn,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915046/place:windsor_park,Windsor Park,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915051,North Vancouver,,,CY,,N,North Vancouver,,City of North Vancouver,,,,http://www.cnv.org
+ocd-division/country:ca/csd:5915051,North Vancouver,,,CY,,N,North Vancouver,,City of North Vancouver,,7,,http://www.cnv.org
 ocd-division/country:ca/csd:5915051/place:greater_vancouver~_subd._a,"Greater Vancouver, Subd. A",,,,,,,,,,,,
 ocd-division/country:ca/csd:5915051/place:north_lonsdale,North Lonsdale,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915055,West Vancouver,,,DM,,N,West Vancouver,,,,,,http://westvancouver.ca//
+ocd-division/country:ca/csd:5915055,West Vancouver,,,DM,,N,West Vancouver,,,,7,,http://westvancouver.ca//
 ocd-division/country:ca/csd:5915055/place:british_properties,British Properties,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915055/place:cedardale,Cedardale,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915055/place:cypress_park,Cypress Park,,,,,,,,,,,,
@@ -34702,16 +34702,16 @@ ocd-division/country:ca/csd:5915055/place:park_royal,Park Royal,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915055/place:sandy_cove,Sandy Cove,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915055/place:sentinel_hill,Sentinel Hill,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915055/place:sunset_beach,Sunset Beach,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915062,Bowen Island,,,IM,,N,Bowen Island,,,,,,http://www.bimbc.ca
+ocd-division/country:ca/csd:5915062,Bowen Island,,,IM,,N,Bowen Island,,,,7,,http://www.bimbc.ca
 ocd-division/country:ca/csd:5915062/place:bowen_bay,Bowen Bay,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915062/place:bowen_island_trust,Bowen Island Trust,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915062/place:millers_landing,Millers Landing,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915062/place:mount_gardner,Mount Gardner,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915062/place:seymour_landing,Seymour Landing,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915062/place:snug_cove,Snug Cove,,,,,,,,,,,,
-ocd-division/country:ca/csd:5915065,Lions Bay,,,VL,,N,Lions Bay,,Village of Lions Bay,,,,http://www.lionsbay.ca
-ocd-division/country:ca/csd:5915070,Pitt Meadows,,,CY,,N,Pitt Meadows,,City of Pitt Meadows,,,,
-ocd-division/country:ca/csd:5915075,Maple Ridge,,,DM,,N,Maple Ridge,,,,,,http://www.mapleridge.ca
+ocd-division/country:ca/csd:5915065,Lions Bay,,,VL,,N,Lions Bay,,Village of Lions Bay,,5,,http://www.lionsbay.ca
+ocd-division/country:ca/csd:5915070,Pitt Meadows,,,CY,,N,Pitt Meadows,,City of Pitt Meadows,,7,,
+ocd-division/country:ca/csd:5915075,Maple Ridge,,,DM,,N,Maple Ridge,,,,7,,http://www.mapleridge.ca
 ocd-division/country:ca/csd:5915075/place:albion,Albion,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915075/place:haney,Haney,,,,,,,,,,,,
 ocd-division/country:ca/csd:5915075/place:port_hammond_-_haney,Port Hammond - Haney,,,,,,,,,,,,
@@ -34737,15 +34737,15 @@ ocd-division/country:ca/csd:5915825,Matsqui 4,,,IRI,,N,Matsqui 4,,,,,,
 ocd-division/country:ca/csd:5915830,Katzie 1,,,IRI,,N,Katzie 1,,,,,,
 ocd-division/country:ca/csd:5915835,Langley 5,,,IRI,,N,Langley 5,,,,,,
 ocd-division/country:ca/csd:5915840,Whonnock 1,,,IRI,,N,Whonnock 1,,,,,,
-ocd-division/country:ca/csd:5917005,North Saanich,,,DM,,N,North Saanich,,,,,,http://www.northsaanich.ca
+ocd-division/country:ca/csd:5917005,North Saanich,,,DM,,N,North Saanich,,,,7,,http://www.northsaanich.ca
 ocd-division/country:ca/csd:5917005/place:ardmore,Ardmore,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917005/place:deep_cove,Deep Cove,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917005/place:swartz_bay,Swartz Bay,,,,,,,,,,,,
-ocd-division/country:ca/csd:5917010,Sidney,,,T,,N,Sidney,,Town of Sidney,,,,http://www.sidney.ca
-ocd-division/country:ca/csd:5917015,Central Saanich,,,DM,,N,Central Saanich,,,,,,http://www.centralsaanich.ca
+ocd-division/country:ca/csd:5917010,Sidney,,,T,,N,Sidney,,Town of Sidney,,7,,http://www.sidney.ca
+ocd-division/country:ca/csd:5917015,Central Saanich,,,DM,,N,Central Saanich,,,,7,,http://www.centralsaanich.ca
 ocd-division/country:ca/csd:5917015/place:keating,Keating,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917015/place:saanichton,Saanichton,,,,,,,,,,,,
-ocd-division/country:ca/csd:5917021,Saanich,,,DM,http://www.saanich.ca/data/catalogue/index.php,N,Saanich,,,,,,http://www.saanich.ca
+ocd-division/country:ca/csd:5917021,Saanich,,,DM,http://www.saanich.ca/data/catalogue/index.php,N,Saanich,,,,9,,http://www.saanich.ca
 ocd-division/country:ca/csd:5917021/place:beaver_lake,Beaver Lake,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917021/place:cadboro_bay,Cadboro Bay,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917021/place:colquitz,Colquitz,,,,,,,,,,,,
@@ -34797,33 +34797,33 @@ ocd-division/country:ca/csd:5917029/place:south_pender_island,South Pender Islan
 ocd-division/country:ca/csd:5917029/place:south_pender_island_trust_area,South Pender Island Trust Area,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917029/place:sturdies_bay,Sturdies Bay,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917029/place:village_bay,Village Bay,,,,,,,,,,,,
-ocd-division/country:ca/csd:5917030,Oak Bay,,,DM,,N,Oak Bay,,,,,,http://www.oakbay.ca
-ocd-division/country:ca/csd:5917034,Victoria,,,CY,http://www.victoria.ca/EN/main/city/open-data-catalogue.html,N,Victoria,,City of Victoria,,,,http://www.victoria.ca
+ocd-division/country:ca/csd:5917030,Oak Bay,,,DM,,N,Oak Bay,,,,7,,http://www.oakbay.ca
+ocd-division/country:ca/csd:5917034,Victoria,,,CY,http://www.victoria.ca/EN/main/city/open-data-catalogue.html,N,Victoria,,City of Victoria,,9,,http://www.victoria.ca
 ocd-division/country:ca/csd:5917034/place:fairfield,Fairfield,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917034/place:james_bay,James Bay,,,,,,,,,,,,
-ocd-division/country:ca/csd:5917040,Esquimalt,,,DM,,N,Esquimalt,,,,,,http://www.esquimalt.ca
-ocd-division/country:ca/csd:5917041,Colwood,,,CY,,N,Colwood,,City of Colwood,,,,http://www.colwood.ca
+ocd-division/country:ca/csd:5917040,Esquimalt,,,DM,,N,Esquimalt,,,,7,,http://www.esquimalt.ca
+ocd-division/country:ca/csd:5917041,Colwood,,,CY,,N,Colwood,,City of Colwood,,7,,http://www.colwood.ca
 ocd-division/country:ca/csd:5917041/place:belmont_park,Belmont Park,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917041/place:braemar_heights,Braemar Heights,,,,,,,,,,,,
-ocd-division/country:ca/csd:5917042,Metchosin,,,DM,,N,Metchosin,,,,,,http://www.district.metchosin.bc.ca
+ocd-division/country:ca/csd:5917042,Metchosin,,,DM,,N,Metchosin,,,,5,,http://www.district.metchosin.bc.ca
 ocd-division/country:ca/csd:5917042/place:albert_head,Albert Head,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917042/place:becher_bay_2,Becher Bay 2,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917042/place:capital_regional_district,Capital Regional District,,,,,,,,,,,,
-ocd-division/country:ca/csd:5917044,Langford,,,CY,,N,Langford,,City of Langford,,,,http://www.cityoflangford.ca
+ocd-division/country:ca/csd:5917044,Langford,,,CY,,N,Langford,,City of Langford,,7,,http://www.cityoflangford.ca
 ocd-division/country:ca/csd:5917044/place:capital,Capital,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917044/place:glen_lake,Glen Lake,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917044/place:goldstream,Goldstream,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917044/place:happy_valley,Happy Valley,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917044/place:luxton,Luxton,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917044/place:saltspring_island_trust_area_part_g,Saltspring Island Trust Area part G,,,,,,,,,,,,
-ocd-division/country:ca/csd:5917047,View Royal,,,T,,N,View Royal,,Town of View Royal,,,,http://www.viewroyal.ca
+ocd-division/country:ca/csd:5917047,View Royal,,,T,,N,View Royal,,Town of View Royal,,5,,http://www.viewroyal.ca
 ocd-division/country:ca/csd:5917047/place:esquimalt,Esquimalt,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917047/place:palmer,Palmer,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917047/place:victoria,Victoria,,,,,,,,,,,,
-ocd-division/country:ca/csd:5917049,Highlands,,,DM,,N,Highlands,,,,,,http://www.highlands.bc.ca
+ocd-division/country:ca/csd:5917049,Highlands,,,DM,,N,Highlands,,,,7,,http://www.highlands.bc.ca
 ocd-division/country:ca/csd:5917049/place:millstream,Millstream,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917049/place:saltspring_island_trust_area_part_h,Saltspring Island Trust Area part H,,,,,,,,,,,,
-ocd-division/country:ca/csd:5917052,Sooke,,,DM,,N,Sooke,,,,,,http://sooke.ca
+ocd-division/country:ca/csd:5917052,Sooke,,,DM,,N,Sooke,,,,7,,http://sooke.ca
 ocd-division/country:ca/csd:5917052/place:milnes_landing,Milnes Landing,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917052/place:saseenos,Saseenos,,,,,,,,,,,,
 ocd-division/country:ca/csd:5917054,Capital H (Part 1),,,RDA,,N,Capital H (Part 1),,,,,,
@@ -34854,7 +34854,7 @@ ocd-division/country:ca/csd:5917815,Gordon River 2,,,IRI,,N,Gordon River 2,,,,,,
 ocd-division/country:ca/csd:5917819,T'Sou-ke,,,IRI,,N,T'Sou-ke,,,,,,
 ocd-division/country:ca/csd:5917819/place:t~sou-ke_1_~sooke_1~,T'Sou-ke 1 (Sooke 1),,,,,,,,,,,,
 ocd-division/country:ca/csd:5917819/place:t~sou-ke_2_~sooke_2~,T'Sou-ke 2 (Sooke 2),,,,,,,,,,,,
-ocd-division/country:ca/csd:5919008,North Cowichan,,,DM,,N,North Cowichan,,,,,,http://www.northcowichan.ca
+ocd-division/country:ca/csd:5919008,North Cowichan,,,DM,,N,North Cowichan,,,,7,,http://www.northcowichan.ca
 ocd-division/country:ca/csd:5919008/place:chemainus,Chemainus,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919008/place:crofton,Crofton,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919008/place:duncan,Duncan,,,,,,,,,,,,
@@ -34865,7 +34865,7 @@ ocd-division/country:ca/csd:5919008/place:osborn_bay,Osborn Bay,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919008/place:somenos,Somenos,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919008/place:tzouhalem,Tzouhalem,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919008/place:westholme,Westholme,,,,,,,,,,,,
-ocd-division/country:ca/csd:5919012,Duncan,,,CY,,N,Duncan,,City of Duncan,,,,http://www.duncan.ca
+ocd-division/country:ca/csd:5919012,Duncan,,,CY,,N,Duncan,,City of Duncan,,7,,http://www.duncan.ca
 ocd-division/country:ca/csd:5919013,Cowichan Valley D,,,RDA,,N,Cowichan Valley D,,,,,,
 ocd-division/country:ca/csd:5919013/place:cherry_point,Cherry Point,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919013/place:cowichan_bay,Cowichan Bay,,,,,,,,,,,,
@@ -34878,7 +34878,7 @@ ocd-division/country:ca/csd:5919015/place:lyacksun_3,Lyacksun 3,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919015/place:saltair,Saltair,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919015/place:thetis_island,Thetis Island,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919015/place:thetis_island_trust_area_part_a,Thetis Island Trust Area part A,,,,,,,,,,,,
-ocd-division/country:ca/csd:5919016,Lake Cowichan,,,T,,N,Lake Cowichan,,Town of Lake Cowichan,,,,http://www.town.lakecowichan.bc.ca
+ocd-division/country:ca/csd:5919016,Lake Cowichan,,,T,,N,Lake Cowichan,,Town of Lake Cowichan,,5,,http://www.town.lakecowichan.bc.ca
 ocd-division/country:ca/csd:5919017,Cowichan Valley H,,,RDA,,N,Cowichan Valley H,,,,,,
 ocd-division/country:ca/csd:5919017/place:clover_acres_mobile_villa,Clover Acres Mobile Villa,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919017/place:coffin_point,Coffin Point,,,,,,,,,,,,
@@ -34888,7 +34888,7 @@ ocd-division/country:ca/csd:5919017/place:north_oyster~yellow_point,North Oyster
 ocd-division/country:ca/csd:5919017/place:shell_beach,Shell Beach,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919017/place:thetis_island_trust_area_part_b,Thetis Island Trust Area part B,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919017/place:yellow_point,Yellow Point,,,,,,,,,,,,
-ocd-division/country:ca/csd:5919021,Ladysmith,,,T,,N,Ladysmith,,Town of Ladysmith,,,,http://www.ladysmith.ca
+ocd-division/country:ca/csd:5919021,Ladysmith,,,T,,N,Ladysmith,,Town of Ladysmith,,7,,http://www.ladysmith.ca
 ocd-division/country:ca/csd:5919033,Cowichan Valley F,,,RDA,,N,Cowichan Valley F,,,,,,
 ocd-division/country:ca/csd:5919033/place:caycuse,Caycuse,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919033/place:claoose_4,Claoose 4,,,,,,,,,,,,
@@ -34965,7 +34965,7 @@ ocd-division/country:ca/csd:5919822/place:eagle_heights,Eagle Heights,,,,,,,,,,,
 ocd-division/country:ca/csd:5919822/place:khenipsen,Khenipsen,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919822/place:koksilah,Koksilah,,,,,,,,,,,,
 ocd-division/country:ca/csd:5919822/place:quamichan,Quamichan,,,,,,,,,,,,
-ocd-division/country:ca/csd:5921007,Nanaimo,,,CY,http://data.nanaimo.ca/,N,Nanaimo,,City of Nanaimo,,,,http://www.nanaimo.ca
+ocd-division/country:ca/csd:5921007,Nanaimo,,,CY,http://data.nanaimo.ca/,N,Nanaimo,,City of Nanaimo,,9,,http://www.nanaimo.ca
 ocd-division/country:ca/csd:5921007/place:chase_river,Chase River,,,,,,,,,,,,
 ocd-division/country:ca/csd:5921007/place:departure_bay,Departure Bay,,,,,,,,,,,,
 ocd-division/country:ca/csd:5921007/place:harmac,Harmac,,,,,,,,,,,,
@@ -34973,7 +34973,7 @@ ocd-division/country:ca/csd:5921007/place:newcastle,Newcastle,,,,,,,,,,,,
 ocd-division/country:ca/csd:5921007/place:northfield,Northfield,,,,,,,,,,,,
 ocd-division/country:ca/csd:5921007/place:starks,Starks,,,,,,,,,,,,
 ocd-division/country:ca/csd:5921007/place:wellington,Wellington,,,,,,,,,,,,
-ocd-division/country:ca/csd:5921008,Lantzville,,,DM,,N,Lantzville,,,,,,http://www.lantzville.ca
+ocd-division/country:ca/csd:5921008,Lantzville,,,DM,,N,Lantzville,,,,7,,http://www.lantzville.ca
 ocd-division/country:ca/csd:5921008/place:jayem,Jayem,,,,,,,,,,,,
 ocd-division/country:ca/csd:5921008/place:sunset_beach,Sunset Beach,,,,,,,,,,,,
 ocd-division/country:ca/csd:5921010,Nanaimo A,,,RDA,,N,Nanaimo A,,,,,,
@@ -35006,10 +35006,10 @@ ocd-division/country:ca/csd:5921016/place:nanaimo~_subd._a,"Nanaimo, Subd. A",,,
 ocd-division/country:ca/csd:5921016/place:south_wellington_part_b,South Wellington part B,,,,,,,,,,,,
 ocd-division/country:ca/csd:5921016/place:stockett,Stockett,,,,,,,,,,,,
 ocd-division/country:ca/csd:5921016/place:timberland_trailer_park,Timberland Trailer Park,,,,,,,,,,,,
-ocd-division/country:ca/csd:5921018,Parksville,,,CY,,N,Parksville,,City of Parksville,,,,http://www.parksville.ca
+ocd-division/country:ca/csd:5921018,Parksville,,,CY,,N,Parksville,,City of Parksville,,7,,http://www.parksville.ca
 ocd-division/country:ca/csd:5921018/place:parkville_trailer_park,Parkville Trailer Park,,,,,,,,,,,,
 ocd-division/country:ca/csd:5921018/place:shorewood_san_parreil,Shorewood San Parreil,,,,,,,,,,,,
-ocd-division/country:ca/csd:5921023,Qualicum Beach,,,T,http://data.civicinfo.ca/organization/qualicum-beach-town,N,Qualicum Beach,,Town of Qualicum Beach,,,,http://www.qualicumbeach.com
+ocd-division/country:ca/csd:5921023,Qualicum Beach,,,T,http://data.civicinfo.ca/organization/qualicum-beach-town,N,Qualicum Beach,,Town of Qualicum Beach,,5,,http://www.qualicumbeach.com
 ocd-division/country:ca/csd:5921023/place:parksville,Parksville,,,,,,,,,,,,
 ocd-division/country:ca/csd:5921030,Nanaimo E,,,RDA,,N,Nanaimo E,,,,,,
 ocd-division/country:ca/csd:5921030/place:beachcomber,Beachcomber,,,,,,,,,,,,
@@ -35050,12 +35050,12 @@ ocd-division/country:ca/csd:5921807,Nanaimo River,,,IRI,,N,Nanaimo River,,,,,,
 ocd-division/country:ca/csd:5921807/place:nanaimo_river_2,Nanaimo River 2,,,,,,,,,,,,
 ocd-division/country:ca/csd:5921807/place:nanaimo_river_3,Nanaimo River 3,,,,,,,,,,,,
 ocd-division/country:ca/csd:5921807/place:nanaimo_river_4,Nanaimo River 4,,,,,,,,,,,,
-ocd-division/country:ca/csd:5923008,Port Alberni,,,CY,,N,Port Alberni,,City of Port Alberni,,,,http://www.portalberni.ca
+ocd-division/country:ca/csd:5923008,Port Alberni,,,CY,,N,Port Alberni,,City of Port Alberni,,7,,http://www.portalberni.ca
 ocd-division/country:ca/csd:5923008/place:alberni,Alberni,,,,,,,,,,,,
 ocd-division/country:ca/csd:5923008/place:cameron_heights,Cameron Heights,,,,,,,,,,,,
 ocd-division/country:ca/csd:5923008/place:sahara_heights,Sahara Heights,,,,,,,,,,,,
-ocd-division/country:ca/csd:5923019,Ucluelet,,,DM,,N,Ucluelet,,,,,,http://ucluelet.ca
-ocd-division/country:ca/csd:5923025,Tofino,,,DM,,N,Tofino,,,,,,http://www.tofino.ca
+ocd-division/country:ca/csd:5923019,Ucluelet,,,DM,,N,Ucluelet,,,,5,,http://ucluelet.ca
+ocd-division/country:ca/csd:5923025,Tofino,,,DM,,N,Tofino,,,,7,,http://www.tofino.ca
 ocd-division/country:ca/csd:5923033,Alberni-Clayoquot B,,,RDA,,N,Alberni-Clayoquot B,,,,,,
 ocd-division/country:ca/csd:5923035,Alberni-Clayoquot D,,,RDA,,N,Alberni-Clayoquot D,,,,,,
 ocd-division/country:ca/csd:5923035/place:alberni-clayoquot~_subd._a,"Alberni-Clayoquot, Subd. A",,,,,,,,,,,,
@@ -35119,15 +35119,15 @@ ocd-division/country:ca/csd:5923822,Klehkoot 2,,,IRI,,N,Klehkoot 2,,,,,,
 ocd-division/country:ca/csd:5923823,Esowista 3,,,IRI,,N,Esowista 3,,,,,,
 ocd-division/country:ca/csd:5923824,Refuge Cove 6,,,IRI,,N,Refuge Cove 6,,,,,,
 ocd-division/country:ca/csd:5923825,Tin Wis 11,,,IRI,,N,Tin Wis 11,,,,,,
-ocd-division/country:ca/csd:5924025,Gold River,,,VL,,N,Gold River,,Village of Gold River,,,,http://www.villageofgoldriver.com
-ocd-division/country:ca/csd:5924029,Zeballos,,,VL,,N,Zeballos,,Village of Zeballos,,,,http://www.zeballos.com
-ocd-division/country:ca/csd:5924030,Tahsis,,,VL,,N,Tahsis,,Village of Tahsis,,,,http://www.villageoftahsis.com
-ocd-division/country:ca/csd:5924034,Campbell River,,,CY,,N,Campbell River,,City of Campbell River,,,,http://www.campbellriver.ca
+ocd-division/country:ca/csd:5924025,Gold River,,,VL,,N,Gold River,,Village of Gold River,,5,,http://www.villageofgoldriver.com
+ocd-division/country:ca/csd:5924029,Zeballos,,,VL,,N,Zeballos,,Village of Zeballos,,5,,http://www.zeballos.com
+ocd-division/country:ca/csd:5924030,Tahsis,,,VL,,N,Tahsis,,Village of Tahsis,,5,,http://www.villageoftahsis.com
+ocd-division/country:ca/csd:5924034,Campbell River,,,CY,,N,Campbell River,,City of Campbell River,,7,,http://www.campbellriver.ca
 ocd-division/country:ca/csd:5924034/place:campbellton,Campbellton,,,,,,,,,,,,
 ocd-division/country:ca/csd:5924034/place:duncan_bay,Duncan Bay,,,,,,,,,,,,
 ocd-division/country:ca/csd:5924034/place:north_campbell_river,North Campbell River,,,,,,,,,,,,
 ocd-division/country:ca/csd:5924034/place:quinsam,Quinsam,,,,,,,,,,,,
-ocd-division/country:ca/csd:5924039,Sayward,,,VL,,N,Sayward,,Village of Sayward,,,,http://www.sayward.ca
+ocd-division/country:ca/csd:5924039,Sayward,,,VL,,N,Sayward,,Village of Sayward,,5,,http://www.sayward.ca
 ocd-division/country:ca/csd:5924042,Strathcona D (Oyster Bay - Buttle Lake),,,RDA,,N,Strathcona D (Oyster Bay - Buttle Lake),,,,,,
 ocd-division/country:ca/csd:5924042/place:campbell_river,Campbell River,,,,,,,,,,,,
 ocd-division/country:ca/csd:5924042/place:comox-strathcona_d,Comox-Strathcona D,,,,,,,,,,,,
@@ -35234,15 +35234,15 @@ ocd-division/country:ca/csd:5924833/place:espinosa_inlet,Espinosa Inlet,,,,,,,,,
 ocd-division/country:ca/csd:5924835,Tsa Xana 18,,,IRI,,N,Tsa Xana 18,,,,,,
 ocd-division/country:ca/csd:5924836,Ehatis 11,,,IRI,,N,Ehatis 11,,,,,,
 ocd-division/country:ca/csd:5924840,Homalco 9,,,IRI,,N,Homalco 9,,,,,,
-ocd-division/country:ca/csd:5926005,Comox,,,T,,N,Comox,,Town of Comox,,,,http://www.comox.ca
+ocd-division/country:ca/csd:5926005,Comox,,,T,,N,Comox,,Town of Comox,,7,,http://www.comox.ca
 ocd-division/country:ca/csd:5926005/place:courtenay,Courtenay,,,,,,,,,,,,
 ocd-division/country:ca/csd:5926005/place:lazo,Lazo,,,,,,,,,,,,
-ocd-division/country:ca/csd:5926010,Courtenay,,,CY,,N,Courtenay,,City of Courtenay,,,,http://www.courtenay.ca
+ocd-division/country:ca/csd:5926010,Courtenay,,,CY,,N,Courtenay,,City of Courtenay,,7,,http://www.courtenay.ca
 ocd-division/country:ca/csd:5926010/place:mission_hill,Mission Hill,,,,,,,,,,,,
 ocd-division/country:ca/csd:5926010/place:sandwick,Sandwick,,,,,,,,,,,,
 ocd-division/country:ca/csd:5926010/place:seal_bay_subdivision,Seal Bay Subdivision,,,,,,,,,,,,
 ocd-division/country:ca/csd:5926010/place:sunny_dale,Sunny Dale,,,,,,,,,,,,
-ocd-division/country:ca/csd:5926014,Cumberland,,,VL,,N,Cumberland,,Village of Cumberland,,,,https://cumberland.ca
+ocd-division/country:ca/csd:5926014,Cumberland,,,VL,,N,Cumberland,,Village of Cumberland,,5,,https://cumberland.ca
 ocd-division/country:ca/csd:5926014/place:comox_valley,Comox Valley,,,,,,,,,,,,
 ocd-division/country:ca/csd:5926021,Comox Valley A,,,RDA,,N,Comox Valley A,,,,,,
 ocd-division/country:ca/csd:5926021/place:buckley_bay,Buckley Bay,,,,,,,,,,,,
@@ -35288,7 +35288,7 @@ ocd-division/country:ca/csd:5926024/place:wheel_estates-saratoga_beach,Wheel Est
 ocd-division/country:ca/csd:5926024/place:williams_beach,Williams Beach,,,,,,,,,,,,
 ocd-division/country:ca/csd:5926801,Comox 1,,,IRI,,N,Comox 1,,,,,,
 ocd-division/country:ca/csd:5926802,Pentledge 2,,,IRI,,N,Pentledge 2,,,,,,
-ocd-division/country:ca/csd:5927008,Powell River,,,CY,,N,Powell River,,City of Powell River,,,,http://www.powellriver.ca
+ocd-division/country:ca/csd:5927008,Powell River,,,CY,,N,Powell River,,City of Powell River,,7,,http://www.powellriver.ca
 ocd-division/country:ca/csd:5927008/place:cranberry,Cranberry,,,,,,,,,,,,
 ocd-division/country:ca/csd:5927008/place:westview,Westview,,,,,,,,,,,,
 ocd-division/country:ca/csd:5927008/place:wildwood,Wildwood,,,,,,,,,,,,
@@ -35332,8 +35332,8 @@ ocd-division/country:ca/csd:5927802,Sliammon 1,,,IRI,,N,Sliammon 1,,,,,,
 ocd-division/country:ca/csd:5927802/place:sliammon,Sliammon,,,,,,,,,,,,
 ocd-division/country:ca/csd:5927806,Sechelt,,,IGD,,N,Sechelt,,,,,,
 ocd-division/country:ca/csd:5927806/place:cokoqueneets_sb_23,Cokoqueneets SB 23,,,,,,,,,,,,
-ocd-division/country:ca/csd:5929005,Gibsons,,,T,,N,Gibsons,,Town of Gibsons,,,,http://www.gibsons.ca
-ocd-division/country:ca/csd:5929011,Sechelt,,,DM,,N,Sechelt,,,,,,http://www.sechelt.ca
+ocd-division/country:ca/csd:5929005,Gibsons,,,T,,N,Gibsons,,Town of Gibsons,,5,,http://www.gibsons.ca
+ocd-division/country:ca/csd:5929011,Sechelt,,,DM,,N,Sechelt,,,,7,,http://www.sechelt.ca
 ocd-division/country:ca/csd:5929011/place:klaalth_sb_5,Klaalth SB 5,,,,,,,,,,,,
 ocd-division/country:ca/csd:5929011/place:selma_park,Selma Park,,,,,,,,,,,,
 ocd-division/country:ca/csd:5929011/place:tsawcome_sb_1,Tsawcome SB 1,,,,,,,,,,,,
@@ -35435,7 +35435,7 @@ ocd-division/country:ca/csd:5929803/place:suahbin_sb_19,Suahbin SB 19,,,,,,,,,,,
 ocd-division/country:ca/csd:5929803/place:swaycalse_sb_3,Swaycalse SB 3,,,,,,,,,,,,
 ocd-division/country:ca/csd:5929803/place:tchahchelailthtenum_sb_10,Tchahchelailthtenum SB 10,,,,,,,,,,,,
 ocd-division/country:ca/csd:5929803/place:tsooahdie_sb_15,Tsooahdie SB 15,,,,,,,,,,,,
-ocd-division/country:ca/csd:5931006,Squamish,,,DM,,N,Squamish,,,,,,http://www.squamish.ca
+ocd-division/country:ca/csd:5931006,Squamish,,,DM,,N,Squamish,,,,7,,http://www.squamish.ca
 ocd-division/country:ca/csd:5931006/place:brackendale,Brackendale,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931006/place:cheakamus,Cheakamus,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931006/place:cheekye,Cheekye,,,,,,,,,,,,
@@ -35449,7 +35449,7 @@ ocd-division/country:ca/csd:5931006/place:northridge,Northridge,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931006/place:paradise_valley,Paradise Valley,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931006/place:squamish_dock_station,Squamish Dock Station,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931006/place:woodfibre,Woodfibre,,,,,,,,,,,,
-ocd-division/country:ca/csd:5931012,Pemberton,,,VL,,N,Pemberton,,Village of Pemberton,,,,http://www.pemberton.ca
+ocd-division/country:ca/csd:5931012,Pemberton,,,VL,,N,Pemberton,,Village of Pemberton,,5,,http://www.pemberton.ca
 ocd-division/country:ca/csd:5931017,Squamish-Lillooet C,,,RDA,,N,Squamish-Lillooet C,,,,,,
 ocd-division/country:ca/csd:5931017/place:birken,Birken,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931017/place:blackwater,Blackwater,,,,,,,,,,,,
@@ -35468,7 +35468,7 @@ ocd-division/country:ca/csd:5931017/place:squamish-lillooet,Squamish-Lillooet,,,
 ocd-division/country:ca/csd:5931017/place:squamish-lillooet_regional_district,Squamish-Lillooet Regional District,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931017/place:squamish-lillooet~_subd._b,"Squamish-Lillooet, Subd. B",,,,,,,,,,,,
 ocd-division/country:ca/csd:5931017/place:tisdall,Tisdall,,,,,,,,,,,,
-ocd-division/country:ca/csd:5931020,Whistler,,,DM,,N,Whistler,,,,,,http://www.whistler.ca
+ocd-division/country:ca/csd:5931020,Whistler,,,DM,,N,Whistler,,,,7,,http://www.whistler.ca
 ocd-division/country:ca/csd:5931020/place:alpine_meadows,Alpine Meadows,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931020/place:alta_lake,Alta Lake,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931020/place:mcguire,McGuire,,,,,,,,,,,,
@@ -35488,7 +35488,7 @@ ocd-division/country:ca/csd:5931021/place:porteau,Porteau,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931021/place:swift,Swift,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931021/place:tantalus_acres,Tantalus Acres,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931021/place:upper_squamish_valley,Upper Squamish Valley,,,,,,,,,,,,
-ocd-division/country:ca/csd:5931026,Lillooet,,,DM,,N,Lillooet,,,,,,http://lillooetbc.ca
+ocd-division/country:ca/csd:5931026,Lillooet,,,DM,,N,Lillooet,,,,5,,http://lillooetbc.ca
 ocd-division/country:ca/csd:5931026/place:polley,Polley,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931032,Squamish-Lillooet A,,,RDA,,N,Squamish-Lillooet A,,,,,,
 ocd-division/country:ca/csd:5931032/place:bralorne,Bralorne,,,,,,,,,,,,
@@ -35556,7 +35556,7 @@ ocd-division/country:ca/csd:5931844,Nequatque,,,IRI,,N,Nequatque,,,,,,
 ocd-division/country:ca/csd:5931844/place:d~arcy,D'Arcy,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931844/place:nequatque_1,Nequatque 1,,,,,,,,,,,,
 ocd-division/country:ca/csd:5931844/place:nequatque_3a,Nequatque 3A,,,,,,,,,,,,
-ocd-division/country:ca/csd:5933006,Merritt,,,CY,,N,Merritt,,City of Merritt,,,,http://www.merritt.ca
+ocd-division/country:ca/csd:5933006,Merritt,,,CY,,N,Merritt,,City of Merritt,,7,,http://www.merritt.ca
 ocd-division/country:ca/csd:5933006/place:collettville,Collettville,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933008,Thompson-Nicola M,,,RDA,,N,Thompson-Nicola M,,,,,,
 ocd-division/country:ca/csd:5933008/place:canford,Canford,,,,,,,,,,,,
@@ -35577,10 +35577,10 @@ ocd-division/country:ca/csd:5933012/place:aspen_grove,Aspen Grove,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933012/place:brookmere,Brookmere,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933012/place:kingsvale,Kingsvale,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933012/place:sunnyview_trailer_court,Sunnyview Trailer Court,,,,,,,,,,,,
-ocd-division/country:ca/csd:5933015,Lytton,,,VL,,N,Lytton,,Village of Lytton,,,,http://www.lytton.ca
-ocd-division/country:ca/csd:5933019,Ashcroft,,,VL,,N,Ashcroft,,Village of Ashcroft,,,,http://www.ashcroftbc.ca
-ocd-division/country:ca/csd:5933024,Cache Creek,,,VL,,N,Cache Creek,,Village of Cache Creek,,,,http://www.cachecreek.ca
-ocd-division/country:ca/csd:5933028,Clinton,,,VL,,N,Clinton,,Village of Clinton,,,,http://www.village.clinton.bc.ca
+ocd-division/country:ca/csd:5933015,Lytton,,,VL,,N,Lytton,,Village of Lytton,,5,,http://www.lytton.ca
+ocd-division/country:ca/csd:5933019,Ashcroft,,,VL,,N,Ashcroft,,Village of Ashcroft,,5,,http://www.ashcroftbc.ca
+ocd-division/country:ca/csd:5933024,Cache Creek,,,VL,,N,Cache Creek,,Village of Cache Creek,,5,,http://www.cachecreek.ca
+ocd-division/country:ca/csd:5933028,Clinton,,,VL,,N,Clinton,,Village of Clinton,,5,,http://www.village.clinton.bc.ca
 ocd-division/country:ca/csd:5933032,Thompson-Nicola E (Bonaparte Plateau),,,RDA,,N,Thompson-Nicola E (Bonaparte Plateau),,,,,,
 ocd-division/country:ca/csd:5933032/place:70_mile_house,70 Mile House,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933032/place:big_bar,Big Bar,,,,,,,,,,,,
@@ -35605,7 +35605,7 @@ ocd-division/country:ca/csd:5933032/place:thompson-nicola~_subd._d,"Thompson-Nic
 ocd-division/country:ca/csd:5933032/place:valley_road_subdivision,Valley Road Subdivision,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933032/place:west_road_subdivision,West Road Subdivision,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933032/place:young_lake,Young Lake,,,,,,,,,,,,
-ocd-division/country:ca/csd:5933035,Logan Lake,,,DM,,N,Logan Lake,,,,,,http://www.loganlake.ca
+ocd-division/country:ca/csd:5933035,Logan Lake,,,DM,,N,Logan Lake,,,,7,,http://www.loganlake.ca
 ocd-division/country:ca/csd:5933037,Thompson-Nicola I (Blue Sky Country),,,RDA,,N,Thompson-Nicola I (Blue Sky Country),,,,,,
 ocd-division/country:ca/csd:5933037/place:aschcroft_ranch,Aschcroft Ranch,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933037/place:ashcroft_manor,Ashcroft Manor,,,,,,,,,,,,
@@ -35658,7 +35658,7 @@ ocd-division/country:ca/csd:5933039/place:munro,Munro,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933039/place:thompson-nicola_regional_district,Thompson-Nicola Regional District,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933039/place:thompson-nicola~_subd._b,"Thompson-Nicola, Subd. B",,,,,,,,,,,,
 ocd-division/country:ca/csd:5933039/place:vidette,Vidette,,,,,,,,,,,,
-ocd-division/country:ca/csd:5933042,Kamloops,,,CY,http://www.kamloops.ca/downloads/maps/launch.htm,N,Kamloops,,City of Kamloops,,,,http://www.kamloops.ca
+ocd-division/country:ca/csd:5933042,Kamloops,,,CY,http://www.kamloops.ca/downloads/maps/launch.htm,N,Kamloops,,City of Kamloops,,9,,http://www.kamloops.ca
 ocd-division/country:ca/csd:5933042/place:aberdeen,Aberdeen,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933042/place:barnhartvale,Barnhartvale,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933042/place:batchelor_hills,Batchelor Hills,,,,,,,,,,,,
@@ -35691,9 +35691,9 @@ ocd-division/country:ca/csd:5933044/place:rivershore,Rivershore,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933044/place:thompson-nicola,Thompson-Nicola,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933044/place:vinsulla,Vinsulla,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933044/place:whitecroft,Whitecroft,,,,,,,,,,,,
-ocd-division/country:ca/csd:5933045,Sun Peaks Mountain,,,VL,,N,Sun Peaks Mountain,,Village of Sun Peaks Mountain,,,,http://SunPeaksMunicipality.ca
+ocd-division/country:ca/csd:5933045,Sun Peaks Mountain,,,VL,,N,Sun Peaks Mountain,,Village of Sun Peaks Mountain,,4,,http://SunPeaksMunicipality.ca
 ocd-division/country:ca/csd:5933045/place:sun_peaks,Sun Peaks,,,,,,,,,,,,
-ocd-division/country:ca/csd:5933054,Chase,,,VL,,N,Chase,,Village of Chase,,,,http://www.chasebc.ca
+ocd-division/country:ca/csd:5933054,Chase,,,VL,,N,Chase,,Village of Chase,,5,,http://www.chasebc.ca
 ocd-division/country:ca/csd:5933060,Thompson-Nicola L,,,RDA,,N,Thompson-Nicola L,,,,,,
 ocd-division/country:ca/csd:5933060/place:beresford,Beresford,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933060/place:bestwick,Bestwick,,,,,,,,,,,,
@@ -35715,7 +35715,7 @@ ocd-division/country:ca/csd:5933060/place:thompson-nicola~_subd._e,"Thompson-Nic
 ocd-division/country:ca/csd:5933060/place:turtle_valley,Turtle Valley,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933060/place:westwold,Westwold,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933060/place:willow_ranch,Willow Ranch,,,,,,,,,,,,
-ocd-division/country:ca/csd:5933067,Clearwater,,,DM,,N,Clearwater,,,,,,http://www.districtofclearwater.com
+ocd-division/country:ca/csd:5933067,Clearwater,,,DM,,N,Clearwater,,,,7,,http://www.districtofclearwater.com
 ocd-division/country:ca/csd:5933067/place:archibald_subdivision,Archibald Subdivision,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933067/place:brookfield_trailers,Brookfield Trailers,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933067/place:clearwater_trailer_park,Clearwater Trailer Park,,,,,,,,,,,,
@@ -35774,7 +35774,7 @@ ocd-division/country:ca/csd:5933072/place:exlou,Exlou,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933072/place:little_fort,Little Fort,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933072/place:louis_creek,Louis Creek,,,,,,,,,,,,
 ocd-division/country:ca/csd:5933072/place:squaam_bay,Squaam Bay,,,,,,,,,,,,
-ocd-division/country:ca/csd:5933074,Barriere,,,DM,,N,Barriere,,,,,,http://barriere.ca
+ocd-division/country:ca/csd:5933074,Barriere,,,DM,,N,Barriere,,,,7,,http://barriere.ca
 ocd-division/country:ca/csd:5933801,Coldwater 1,,,IRI,,N,Coldwater 1,,,,,,
 ocd-division/country:ca/csd:5933802,Douglas Lake 3,,,IRI,,N,Douglas Lake 3,,,,,,
 ocd-division/country:ca/csd:5933803,Hamilton Creek 2,,,IRI,,N,Hamilton Creek 2,,,,,,
@@ -35867,7 +35867,7 @@ ocd-division/country:ca/csd:5933889,Squaam 2,,,IRI,,N,Squaam 2,,,,,,
 ocd-division/country:ca/csd:5933895,Shawniken 4B,,,IRI,,N,Shawniken 4B,,,,,,
 ocd-division/country:ca/csd:5933896,Nekliptum 1,,,IRI,,N,Nekliptum 1,,,,,,
 ocd-division/country:ca/csd:5933897,Boothroyd 8A,,,IRI,,N,Boothroyd 8A,,,,,,
-ocd-division/country:ca/csd:5935010,Kelowna,,,CY,http://www.kelowna.ca/CM/Page3936.aspx,N,Kelowna,,City of Kelowna,,,,http://www.kelowna.ca
+ocd-division/country:ca/csd:5935010,Kelowna,,,CY,http://www.kelowna.ca/CM/Page3936.aspx,N,Kelowna,,City of Kelowna,,9,,http://www.kelowna.ca
 ocd-division/country:ca/csd:5935010/place:benvoulin,Benvoulin,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935010/place:braeloch,Braeloch,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935010/place:central_okanagan,Central Okanagan,,,,,,,,,,,,
@@ -35886,7 +35886,7 @@ ocd-division/country:ca/csd:5935012/place:mcculloch,McCulloch,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935012/place:myra,Myra,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935012/place:ranch_park_trailer_park,Ranch Park Trailer Park,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935012/place:scotty_creek,Scotty Creek,,,,,,,,,,,,
-ocd-division/country:ca/csd:5935016,Lake Country,,,DM,,N,Lake Country,,,,,,http://www.okanaganway.ca/municipal
+ocd-division/country:ca/csd:5935016,Lake Country,,,DM,,N,Lake Country,,,,7,,http://www.okanaganway.ca/municipal
 ocd-division/country:ca/csd:5935016/place:carrs,Carrs,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935016/place:carrs_landing,Carrs Landing,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935016/place:coral_beach,Coral Beach,,,,,,,,,,,,
@@ -35897,7 +35897,7 @@ ocd-division/country:ca/csd:5935016/place:pinecrest_mobile_home_park,Pinecrest M
 ocd-division/country:ca/csd:5935016/place:pixie_beach,Pixie Beach,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935016/place:winfield,Winfield,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935016/place:woodsdale,Woodsdale,,,,,,,,,,,,
-ocd-division/country:ca/csd:5935018,Peachland,,,DM,,N,Peachland,,,,,,http://www.peachland.ca
+ocd-division/country:ca/csd:5935018,Peachland,,,DM,,N,Peachland,,,,7,,http://www.peachland.ca
 ocd-division/country:ca/csd:5935018/place:pine_hills_mobile_home_park,Pine Hills Mobile Home Park,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935020,Central Okanagan J,,,RDA,,N,Central Okanagan J,,,,,,
 ocd-division/country:ca/csd:5935020/place:caesars,Caesars,,,,,,,,,,,,
@@ -35910,7 +35910,7 @@ ocd-division/country:ca/csd:5935020/place:killiney_beach,Killiney Beach,,,,,,,,,
 ocd-division/country:ca/csd:5935020/place:nahun,Nahun,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935020/place:traders_cove,Traders Cove,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935020/place:trépanier,Trépanier,,,,,,,,,,,,
-ocd-division/country:ca/csd:5935029,West Kelowna,,,DM,,N,West Kelowna,,,,,,http://www.districtofwestkelowna.ca
+ocd-division/country:ca/csd:5935029,West Kelowna,,,DM,,N,West Kelowna,,,,7,,http://www.districtofwestkelowna.ca
 ocd-division/country:ca/csd:5935029/place:gellatly,Gellatly,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935029/place:glenrosa,Glenrosa,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935029/place:lakeview,Lakeview,,,,,,,,,,,,
@@ -35925,12 +35925,12 @@ ocd-division/country:ca/csd:5935802,Tsinstikeptum 9,,,IRI,,N,Tsinstikeptum 9,,,,
 ocd-division/country:ca/csd:5935802/place:westbank,Westbank,,,,,,,,,,,,
 ocd-division/country:ca/csd:5935803,Tsinstikeptum 10,,,IRI,,N,Tsinstikeptum 10,,,,,,
 ocd-division/country:ca/csd:5935803/place:westside,Westside,,,,,,,,,,,,
-ocd-division/country:ca/csd:5937005,Lumby,,,VL,,N,Lumby,,Village of Lumby,,,,http://www.lumby.ca
-ocd-division/country:ca/csd:5937010,Coldstream,,,DM,,N,Coldstream,,,,,,http://www.districtofcoldstream.ca
+ocd-division/country:ca/csd:5937005,Lumby,,,VL,,N,Lumby,,Village of Lumby,,5,,http://www.lumby.ca
+ocd-division/country:ca/csd:5937010,Coldstream,,,DM,,N,Coldstream,,,,7,,http://www.districtofcoldstream.ca
 ocd-division/country:ca/csd:5937010/place:coldstream_ranch,Coldstream Ranch,,,,,,,,,,,,
 ocd-division/country:ca/csd:5937010/place:lavington,Lavington,,,,,,,,,,,,
 ocd-division/country:ca/csd:5937010/place:lumby_junction,Lumby Junction,,,,,,,,,,,,
-ocd-division/country:ca/csd:5937014,Vernon,,,CY,http://www.vernon.ca/map/,N,Vernon,,City of Vernon,,,,http://www.vernon.ca
+ocd-division/country:ca/csd:5937014,Vernon,,,CY,http://www.vernon.ca/map/,N,Vernon,,City of Vernon,,7,,http://www.vernon.ca
 ocd-division/country:ca/csd:5937014/place:beachcomber_bay,Beachcomber Bay,,,,,,,,,,,,
 ocd-division/country:ca/csd:5937014/place:okanagan_landing,Okanagan Landing,,,,,,,,,,,,
 ocd-division/country:ca/csd:5937014/place:okanagan_terrace_trailer_park,Okanagan Terrace Trailer Park,,,,,,,,,,,,
@@ -35953,7 +35953,7 @@ ocd-division/country:ca/csd:5937022/place:trinity_valley,Trinity Valley,,,,,,,,,
 ocd-division/country:ca/csd:5937023,North Okanagan E,,,RDA,,N,North Okanagan E,,,,,,
 ocd-division/country:ca/csd:5937023/place:cherryville,Cherryville,,,,,,,,,,,,
 ocd-division/country:ca/csd:5937023/place:north_okanagan~_subd._b,"North Okanagan, Subd. B",,,,,,,,,,,,
-ocd-division/country:ca/csd:5937024,Spallumcheen,,,DM,,N,Spallumcheen,,,,,,http://www.spallumcheentwp.bc.ca
+ocd-division/country:ca/csd:5937024,Spallumcheen,,,DM,,N,Spallumcheen,,,,7,,http://www.spallumcheentwp.bc.ca
 ocd-division/country:ca/csd:5937024/place:armstrong,Armstrong,,,,,,,,,,,,
 ocd-division/country:ca/csd:5937024/place:belva~s_trailer_park,Belva's Trailer Park,,,,,,,,,,,,
 ocd-division/country:ca/csd:5937024/place:eagle_rock_trailer_park,Eagle Rock Trailer Park,,,,,,,,,,,,
@@ -35962,8 +35962,8 @@ ocd-division/country:ca/csd:5937024/place:larkin,Larkin,,,,,,,,,,,,
 ocd-division/country:ca/csd:5937024/place:mcleod_subdivision,McLeod Subdivision,,,,,,,,,,,,
 ocd-division/country:ca/csd:5937024/place:stepping_stones_estates,Stepping Stones Estates,,,,,,,,,,,,
 ocd-division/country:ca/csd:5937024/place:twin_firs_trailer_park,Twin Firs Trailer Park,,,,,,,,,,,,
-ocd-division/country:ca/csd:5937028,Armstrong,,,CY,,N,Armstrong,,City of Armstrong,,,,http://www.cityofarmstrong.bc.ca
-ocd-division/country:ca/csd:5937033,Enderby,,,CY,,N,Enderby,,City of Enderby,,,,http://www.cityofenderby.com
+ocd-division/country:ca/csd:5937028,Armstrong,,,CY,,N,Armstrong,,City of Armstrong,,7,,http://www.cityofarmstrong.bc.ca
+ocd-division/country:ca/csd:5937033,Enderby,,,CY,,N,Enderby,,City of Enderby,,7,,http://www.cityofenderby.com
 ocd-division/country:ca/csd:5937041,North Okanagan F,,,RDA,,N,North Okanagan F,,,,,,
 ocd-division/country:ca/csd:5937041/place:ashton_creek,Ashton Creek,,,,,,,,,,,,
 ocd-division/country:ca/csd:5937041/place:b_and_d_trailer_court,B and D Trailer Court,,,,,,,,,,,,
@@ -35983,7 +35983,7 @@ ocd-division/country:ca/csd:5937803,Priest's Valley 6,,,IRI,,N,Priest's Valley 6
 ocd-division/country:ca/csd:5937803/place:holiday_family_trailer_park,Holiday Family Trailer Park,,,,,,,,,,,,
 ocd-division/country:ca/csd:5937803/place:sandy_beach_resort,Sandy Beach Resort,,,,,,,,,,,,
 ocd-division/country:ca/csd:5937805,Harris 3,,,IRI,,N,Harris 3,,,,,,
-ocd-division/country:ca/csd:5939007,Golden,,,T,,N,Golden,,Town of Golden,,,,http://www.golden.ca
+ocd-division/country:ca/csd:5939007,Golden,,,T,,N,Golden,,Town of Golden,,7,,http://www.golden.ca
 ocd-division/country:ca/csd:5939011,Columbia-Shuswap A,,,RDA,,N,Columbia-Shuswap A,,,,,,
 ocd-division/country:ca/csd:5939011/place:bear_creek,Bear Creek,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939011/place:beard~s_creek,Beard's Creek,,,,,,,,,,,,
@@ -36028,7 +36028,7 @@ ocd-division/country:ca/csd:5939011/place:seeney,Seeney,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939011/place:stoney_creek,Stoney Creek,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939011/place:wakely,Wakely,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939011/place:yoho,Yoho,,,,,,,,,,,,
-ocd-division/country:ca/csd:5939019,Revelstoke,,,CY,,N,Revelstoke,,City of Revelstoke,,,,http://www.cityofrevelstoke.com
+ocd-division/country:ca/csd:5939019,Revelstoke,,,CY,,N,Revelstoke,,City of Revelstoke,,7,,http://www.cityofrevelstoke.com
 ocd-division/country:ca/csd:5939019/place:big_eddy,Big Eddy,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939019/place:canyon_trailer_park,Canyon Trailer Park,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939019/place:hideway_trailer_court,Hideway Trailer Court,,,,,,,,,,,,
@@ -36055,7 +36055,7 @@ ocd-division/country:ca/csd:5939023/place:mica_creek,Mica Creek,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939023/place:shelter_bay,Shelter Bay,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939023/place:trout_lake,Trout Lake,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939023/place:twin_butte,Twin Butte,,,,,,,,,,,,
-ocd-division/country:ca/csd:5939032,Salmon Arm,,,CY,,N,Salmon Arm,,City of Salmon Arm,,,,http://www.salmonarm.ca
+ocd-division/country:ca/csd:5939032,Salmon Arm,,,CY,,N,Salmon Arm,,City of Salmon Arm,,7,,http://www.salmonarm.ca
 ocd-division/country:ca/csd:5939032/place:broadview,Broadview,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939032/place:broadview_villa,Broadview Villa,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939032/place:canoe,Canoe,,,,,,,,,,,,
@@ -36125,7 +36125,7 @@ ocd-division/country:ca/csd:5939044/place:scotch_creek,Scotch Creek,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939044/place:seymour_arm,Seymour Arm,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939044/place:st._ives,St. Ives,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939044/place:woods_landing,Woods Landing,,,,,,,,,,,,
-ocd-division/country:ca/csd:5939045,Sicamous,,,DM,,N,Sicamous,,,,,,http://www.sicamous.ca
+ocd-division/country:ca/csd:5939045,Sicamous,,,DM,,N,Sicamous,,,,7,,http://www.sicamous.ca
 ocd-division/country:ca/csd:5939801,Chum Creek 2,,,IRI,,N,Chum Creek 2,,,,,,
 ocd-division/country:ca/csd:5939802,Hustalen 1,,,IRI,,N,Hustalen 1,,,,,,
 ocd-division/country:ca/csd:5939803,North Bay 5,,,IRI,,N,North Bay 5,,,,,,
@@ -36142,11 +36142,11 @@ ocd-division/country:ca/csd:5939811/place:salmon_arm,Salmon Arm,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939811/place:sandy_point,Sandy Point,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939811/place:switsemalph_6,Switsemalph 6,,,,,,,,,,,,
 ocd-division/country:ca/csd:5939811/place:switsemalph_7,Switsemalph 7,,,,,,,,,,,,
-ocd-division/country:ca/csd:5941005,One Hundred Mile House,,,DM,,N,One Hundred Mile House,,,,,,http://www.100milehouse.com
+ocd-division/country:ca/csd:5941005,One Hundred Mile House,,,DM,,N,One Hundred Mile House,,,,5,,http://www.100milehouse.com
 ocd-division/country:ca/csd:5941005/place:blackstock_subdivision,Blackstock Subdivision,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941005/place:canim,Canim,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941005/place:exeter,Exeter,,,,,,,,,,,,
-ocd-division/country:ca/csd:5941009,Williams Lake,,,CY,,N,Williams Lake,,City of Williams Lake,,,,http://www.williamslake.ca
+ocd-division/country:ca/csd:5941009,Williams Lake,,,CY,,N,Williams Lake,,City of Williams Lake,,7,,http://www.williamslake.ca
 ocd-division/country:ca/csd:5941009/place:glendale,Glendale,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941009/place:norlake,Norlake,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941009/place:south_lakeside,South Lakeside,,,,,,,,,,,,
@@ -36180,7 +36180,7 @@ ocd-division/country:ca/csd:5941012/place:onward,Onward,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941012/place:panorama_trailer_court,Panorama Trailer Court,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941012/place:south_lakeside,South Lakeside,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941012/place:springhouse,Springhouse,,,,,,,,,,,,
-ocd-division/country:ca/csd:5941013,Quesnel,,,CY,,N,Quesnel,,City of Quesnel,,,,http://www.quesnel.ca
+ocd-division/country:ca/csd:5941013,Quesnel,,,CY,,N,Quesnel,,City of Quesnel,,7,,http://www.quesnel.ca
 ocd-division/country:ca/csd:5941013/place:sanderson_site,Sanderson Site,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941013/place:westply,Westply,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941014,Cariboo F,,,RDA,,N,Cariboo F,,,,,,
@@ -36268,7 +36268,7 @@ ocd-division/country:ca/csd:5941021/place:greening,Greening,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941021/place:moose_heights,Moose Heights,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941021/place:star_subdivision,Star Subdivision,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941021/place:ten_mile_lake,Ten Mile Lake,,,,,,,,,,,,
-ocd-division/country:ca/csd:5941025,Wells,,,DM,,N,Wells,,,,,,http://wells.ca
+ocd-division/country:ca/csd:5941025,Wells,,,DM,,N,Wells,,,,5,,http://wells.ca
 ocd-division/country:ca/csd:5941026,Cariboo C,,,RDA,,N,Cariboo C,,,,,,
 ocd-division/country:ca/csd:5941026/place:ahbau,Ahbau,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941026/place:anderson,Anderson,,,,,,,,,,,,
@@ -36415,11 +36415,11 @@ ocd-division/country:ca/csd:5941884/place:garden_2a,Garden 2A,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941885,Little Springs,,,IRI,,N,Little Springs,,,,,,
 ocd-division/country:ca/csd:5941885/place:little_springs_18,Little Springs 18,,,,,,,,,,,,
 ocd-division/country:ca/csd:5941885/place:little_springs_8,Little Springs 8,,,,,,,,,,,,
-ocd-division/country:ca/csd:5943008,Alert Bay,,,VL,,N,Alert Bay,,Village of Alert Bay,,,,http://www.alertbay.ca
-ocd-division/country:ca/csd:5943012,Port McNeill,,,T,,N,Port McNeill,,Town of Port McNeill,,,,http://www.town.portmcneill.bc.ca
-ocd-division/country:ca/csd:5943017,Port Alice,,,VL,,N,Port Alice,,Village of Port Alice,,,,http://portalice.ca
+ocd-division/country:ca/csd:5943008,Alert Bay,,,VL,,N,Alert Bay,,Village of Alert Bay,,5,,http://www.alertbay.ca
+ocd-division/country:ca/csd:5943012,Port McNeill,,,T,,N,Port McNeill,,Town of Port McNeill,,5,,http://www.town.portmcneill.bc.ca
+ocd-division/country:ca/csd:5943017,Port Alice,,,VL,,N,Port Alice,,Village of Port Alice,,5,,http://portalice.ca
 ocd-division/country:ca/csd:5943017/place:rumble_beach,Rumble Beach,,,,,,,,,,,,
-ocd-division/country:ca/csd:5943023,Port Hardy,,,DM,,N,Port Hardy,,,,,,http://www.porthardy.ca
+ocd-division/country:ca/csd:5943023,Port Hardy,,,DM,,N,Port Hardy,,,,7,,http://www.porthardy.ca
 ocd-division/country:ca/csd:5943023/place:fort_rupert,Fort Rupert,,,,,,,,,,,,
 ocd-division/country:ca/csd:5943027,Mount Waddington B,,,RDA,,N,Mount Waddington B,,,,,,
 ocd-division/country:ca/csd:5943027/place:cleagh_creek,Cleagh Creek,,,,,,,,,,,,
@@ -36535,11 +36535,11 @@ ocd-division/country:ca/csd:5945801/place:bella_bella,Bella Bella,,,,,,,,,,,,
 ocd-division/country:ca/csd:5945802,Bella Coola 1,,,IRI,,N,Bella Coola 1,,,,,,
 ocd-division/country:ca/csd:5945803,Katit 1,,,IRI,,N,Katit 1,,,,,,
 ocd-division/country:ca/csd:5945803/place:oweekeno,Oweekeno,,,,,,,,,,,,
-ocd-division/country:ca/csd:5947007,Port Edward,,,DM,,N,Port Edward,,,,,,http://www.portedward.ca
+ocd-division/country:ca/csd:5947007,Port Edward,,,DM,,N,Port Edward,,,,5,,http://www.portedward.ca
 ocd-division/country:ca/csd:5947007/place:phelan,Phelan,,,,,,,,,,,,
 ocd-division/country:ca/csd:5947007/place:sockeye,Sockeye,,,,,,,,,,,,
 ocd-division/country:ca/csd:5947007/place:tyee,Tyee,,,,,,,,,,,,
-ocd-division/country:ca/csd:5947012,Prince Rupert,,,CY,,N,Prince Rupert,,City of Prince Rupert,,,,http://www.princerupert.ca
+ocd-division/country:ca/csd:5947012,Prince Rupert,,,CY,,N,Prince Rupert,,City of Prince Rupert,,7,,http://www.princerupert.ca
 ocd-division/country:ca/csd:5947012/place:ridley,Ridley,,,,,,,,,,,,
 ocd-division/country:ca/csd:5947012/place:watson_island,Watson Island,,,,,,,,,,,,
 ocd-division/country:ca/csd:5947016,Skeena-Queen Charlotte A,,,RDA,,N,Skeena-Queen Charlotte A,,,,,,
@@ -36558,9 +36558,9 @@ ocd-division/country:ca/csd:5947021/place:osland,Osland,,,,,,,,,,,,
 ocd-division/country:ca/csd:5947021/place:porcher_island,Porcher Island,,,,,,,,,,,,
 ocd-division/country:ca/csd:5947021/place:port_essington,Port Essington,,,,,,,,,,,,
 ocd-division/country:ca/csd:5947021/place:skeena-queen_charlotte~_subd._a,"Skeena-Queen Charlotte, Subd. A",,,,,,,,,,,,
-ocd-division/country:ca/csd:5947023,Masset,,,VL,,N,Masset,,Village of Masset,,,,http://massetbc.com
+ocd-division/country:ca/csd:5947023,Masset,,,VL,,N,Masset,,Village of Masset,,5,,http://massetbc.com
 ocd-division/country:ca/csd:5947023/place:delkatla,Delkatla,,,,,,,,,,,,
-ocd-division/country:ca/csd:5947026,Queen Charlotte,,,VL,,N,Queen Charlotte,,Village of Queen Charlotte,,,,
+ocd-division/country:ca/csd:5947026,Queen Charlotte,,,VL,,N,Queen Charlotte,,Village of Queen Charlotte,,5,,
 ocd-division/country:ca/csd:5947026/place:skeena-queen_charlotte_f,Skeena-Queen Charlotte F,,,,,,,,,,,,
 ocd-division/country:ca/csd:5947026/place:skidegate_landing,Skidegate Landing,,,,,,,,,,,,
 ocd-division/country:ca/csd:5947026/place:village_of_queen_charlotte,Village of Queen Charlotte,,,,,,,,,,,,
@@ -36582,7 +36582,7 @@ ocd-division/country:ca/csd:5947027/place:skeena-queen_charlotte~_subd._b,"Skeen
 ocd-division/country:ca/csd:5947027/place:tlell,Tlell,,,,,,,,,,,,
 ocd-division/country:ca/csd:5947027/place:tow_hill_road,Tow Hill Road,,,,,,,,,,,,
 ocd-division/country:ca/csd:5947027/place:yaku,Yaku,,,,,,,,,,,,
-ocd-division/country:ca/csd:5947030,Port Clements,,,VL,,N,Port Clements,,Village of Port Clements,,,,
+ocd-division/country:ca/csd:5947030,Port Clements,,,VL,,N,Port Clements,,Village of Port Clements,,5,,
 ocd-division/country:ca/csd:5947030/place:juskatla,Juskatla,,,,,,,,,,,,
 ocd-division/country:ca/csd:5947032,Skeena-Queen Charlotte E,,,RDA,,N,Skeena-Queen Charlotte E,,,,,,
 ocd-division/country:ca/csd:5947032/place:alliford_bay,Alliford Bay,,,,,,,,,,,,
@@ -36616,9 +36616,9 @@ ocd-division/country:ca/csd:5947809/place:port_simpson_1,Port Simpson 1,,,,,,,,,
 ocd-division/country:ca/csd:5947809/place:tsimpsean_2_north_part,Tsimpsean 2 North Part,,,,,,,,,,,,
 ocd-division/country:ca/csd:5947810,S1/2 Tsimpsean 2,,,IRI,,N,S1/2 Tsimpsean 2,,,,,,
 ocd-division/country:ca/csd:5947810/place:digby_island,Digby Island,,,,,,,,,,,,
-ocd-division/country:ca/csd:5949005,Kitimat,,,DM,,N,Kitimat,,,,,,http://www.kitimat.ca
+ocd-division/country:ca/csd:5949005,Kitimat,,,DM,,N,Kitimat,,,,7,,http://www.kitimat.ca
 ocd-division/country:ca/csd:5949005/place:nechako,Nechako,,,,,,,,,,,,
-ocd-division/country:ca/csd:5949011,Terrace,,,CY,,N,Terrace,,City of Terrace,,,,http://www.terrace.ca
+ocd-division/country:ca/csd:5949011,Terrace,,,CY,,N,Terrace,,City of Terrace,,7,,http://www.terrace.ca
 ocd-division/country:ca/csd:5949011/place:kitsumkalum,Kitsumkalum,,,,,,,,,,,,
 ocd-division/country:ca/csd:5949011/place:thunderbird,Thunderbird,,,,,,,,,,,,
 ocd-division/country:ca/csd:5949013,Kitimat-Stikine C (Part 1),,,RDA,,N,Kitimat-Stikine C (Part 1),,,,,,
@@ -36659,8 +36659,8 @@ ocd-division/country:ca/csd:5949020/place:kitamaat_village,Kitamaat Village,,,,,
 ocd-division/country:ca/csd:5949020/place:kitimat-stikine~_subd._d,"Kitimat-Stikine, Subd. D",,,,,,,,,,,,
 ocd-division/country:ca/csd:5949020/place:wedeene,Wedeene,,,,,,,,,,,,
 ocd-division/country:ca/csd:5949020/place:weewanie,Weewanie,,,,,,,,,,,,
-ocd-division/country:ca/csd:5949022,Hazelton,,,VL,,N,Hazelton,,Village of Hazelton,,,,http://www.village.hazelton.bc.ca
-ocd-division/country:ca/csd:5949024,New Hazelton,,,DM,,N,New Hazelton,,,,,,http://www.newhazelton.ca
+ocd-division/country:ca/csd:5949022,Hazelton,,,VL,,N,Hazelton,,Village of Hazelton,,5,,http://www.village.hazelton.bc.ca
+ocd-division/country:ca/csd:5949024,New Hazelton,,,DM,,N,New Hazelton,,,,7,,http://www.newhazelton.ca
 ocd-division/country:ca/csd:5949024/place:fleming,Fleming,,,,,,,,,,,,
 ocd-division/country:ca/csd:5949024/place:hagwilget,Hagwilget,,,,,,,,,,,,
 ocd-division/country:ca/csd:5949028,Kitimat-Stikine B,,,RDA,,N,Kitimat-Stikine B,,,,,,
@@ -36679,7 +36679,7 @@ ocd-division/country:ca/csd:5949028/place:south_hazelton,South Hazelton,,,,,,,,,
 ocd-division/country:ca/csd:5949028/place:two_mile,Two Mile,,,,,,,,,,,,
 ocd-division/country:ca/csd:5949028/place:two_mile_hazelton,Two Mile Hazelton,,,,,,,,,,,,
 ocd-division/country:ca/csd:5949028/place:woodcock,Woodcock,,,,,,,,,,,,
-ocd-division/country:ca/csd:5949032,Stewart,,,DM,,N,Stewart,,,,,,http://districtofstewart.com
+ocd-division/country:ca/csd:5949032,Stewart,,,DM,,N,Stewart,,,,7,,http://districtofstewart.com
 ocd-division/country:ca/csd:5949032/place:bear_river_trailer_court,Bear River Trailer Court,,,,,,,,,,,,
 ocd-division/country:ca/csd:5949032/place:granduc,Granduc,,,,,,,,,,,,
 ocd-division/country:ca/csd:5949032/place:premier,Premier,,,,,,,,,,,,
@@ -36766,10 +36766,10 @@ ocd-division/country:ca/csd:5949846,Tahltan 1,,,IRI,,N,Tahltan 1,,,,,,
 ocd-division/country:ca/csd:5949847,Telegraph Creek,,,IRI,,N,Telegraph Creek,,,,,,
 ocd-division/country:ca/csd:5949847/place:telegraph_creek_6,Telegraph Creek 6,,,,,,,,,,,,
 ocd-division/country:ca/csd:5949847/place:telegraph_creek_6a,Telegraph Creek 6A,,,,,,,,,,,,
-ocd-division/country:ca/csd:5951007,Vanderhoof,,,DM,,N,Vanderhoof,,,,,,http://www.vanderhoof.ca
+ocd-division/country:ca/csd:5951007,Vanderhoof,,,DM,,N,Vanderhoof,,,,7,,http://www.vanderhoof.ca
 ocd-division/country:ca/csd:5951007/place:cariboo,Cariboo,,,,,,,,,,,,
-ocd-division/country:ca/csd:5951009,Fraser Lake,,,VL,,N,Fraser Lake,,Village of Fraser Lake,,,,http://www.fraserlake.ca
-ocd-division/country:ca/csd:5951013,Fort St. James,,,DM,,N,Fort St. James,,,,,,http://www.fortstjames.com
+ocd-division/country:ca/csd:5951009,Fraser Lake,,,VL,,N,Fraser Lake,,Village of Fraser Lake,,5,,http://www.fraserlake.ca
+ocd-division/country:ca/csd:5951013,Fort St. James,,,DM,,N,Fort St. James,,,,5,,http://www.fortstjames.com
 ocd-division/country:ca/csd:5951015,Bulkley-Nechako C,,,RDA,,N,Bulkley-Nechako C,,,,,,
 ocd-division/country:ca/csd:5951015/place:12_mile,12 Mile,,,,,,,,,,,,
 ocd-division/country:ca/csd:5951015/place:bihlk~a_6,Bihlk'a 6,,,,,,,,,,,,
@@ -36816,7 +36816,7 @@ ocd-division/country:ca/csd:5951019/place:sinkut_river,Sinkut River,,,,,,,,,,,,
 ocd-division/country:ca/csd:5951019/place:turner_subdivision,Turner Subdivision,,,,,,,,,,,,
 ocd-division/country:ca/csd:5951019/place:wedgwood,Wedgwood,,,,,,,,,,,,
 ocd-division/country:ca/csd:5951019/place:weneez,Weneez,,,,,,,,,,,,
-ocd-division/country:ca/csd:5951022,Burns Lake,,,VL,,N,Burns Lake,,Village of Burns Lake,,,,http://portal.burnslake.ca
+ocd-division/country:ca/csd:5951022,Burns Lake,,,VL,,N,Burns Lake,,Village of Burns Lake,,5,,http://portal.burnslake.ca
 ocd-division/country:ca/csd:5951028,Bulkley-Nechako B,,,RDA,,N,Bulkley-Nechako B,,,,,,
 ocd-division/country:ca/csd:5951028/place:decker_lake,Decker Lake,,,,,,,,,,,,
 ocd-division/country:ca/csd:5951028/place:donald_landing,Donald Landing,,,,,,,,,,,,
@@ -36852,12 +36852,12 @@ ocd-division/country:ca/csd:5951031/place:tatalrose,Tatalrose,,,,,,,,,,,,
 ocd-division/country:ca/csd:5951031/place:tchesinkut_lake,Tchesinkut Lake,,,,,,,,,,,,
 ocd-division/country:ca/csd:5951031/place:wistaria,Wistaria,,,,,,,,,,,,
 ocd-division/country:ca/csd:5951031/place:wisteria,Wisteria,,,,,,,,,,,,
-ocd-division/country:ca/csd:5951032,Granisle,,,VL,,N,Granisle,,Village of Granisle,,,,http://www.villageofgranisle.ca
-ocd-division/country:ca/csd:5951034,Houston,,,DM,,N,Houston,,,,,,http://www.houston.ca
+ocd-division/country:ca/csd:5951032,Granisle,,,VL,,N,Granisle,,Village of Granisle,,5,,http://www.villageofgranisle.ca
+ocd-division/country:ca/csd:5951034,Houston,,,DM,,N,Houston,,,,7,,http://www.houston.ca
 ocd-division/country:ca/csd:5951034/place:houston_trailer_court,Houston Trailer Court,,,,,,,,,,,,
-ocd-division/country:ca/csd:5951038,Telkwa,,,VL,,N,Telkwa,,Village of Telkwa,,,,http://www.telkwa.com
+ocd-division/country:ca/csd:5951038,Telkwa,,,VL,,N,Telkwa,,Village of Telkwa,,5,,http://www.telkwa.com
 ocd-division/country:ca/csd:5951038/place:smithers,Smithers,,,,,,,,,,,,
-ocd-division/country:ca/csd:5951043,Smithers,,,T,,N,Smithers,,Town of Smithers,,,,http://www.smithers.ca
+ocd-division/country:ca/csd:5951043,Smithers,,,T,,N,Smithers,,Town of Smithers,,7,,http://www.smithers.ca
 ocd-division/country:ca/csd:5951051,Bulkley-Nechako A,,,RDA,,N,Bulkley-Nechako A,,,,,,
 ocd-division/country:ca/csd:5951051/place:bulkley-nechako~_subd._b,"Bulkley-Nechako, Subd. B",,,,,,,,,,,,
 ocd-division/country:ca/csd:5951051/place:driftwood_creek,Driftwood Creek,,,,,,,,,,,,
@@ -36938,8 +36938,8 @@ ocd-division/country:ca/csd:5951848/place:north_tacla_lake_7,North Tacla Lake 7,
 ocd-division/country:ca/csd:5951848/place:north_tacla_lake_7a,North Tacla Lake 7A,,,,,,,,,,,,
 ocd-division/country:ca/csd:5951848/place:takla_landing,Takla Landing,,,,,,,,,,,,
 ocd-division/country:ca/csd:5951849,Mission Lands 17,,,IRI,,N,Mission Lands 17,,,,,,
-ocd-division/country:ca/csd:5953007,Valemount,,,VL,,N,Valemount,,Village of Valemount,,,,http://www.valemount.ca
-ocd-division/country:ca/csd:5953012,McBride,,,VL,,N,McBride,,Village of McBride,,,,http://www.mcbride.ca
+ocd-division/country:ca/csd:5953007,Valemount,,,VL,,N,Valemount,,Village of Valemount,,5,,http://www.valemount.ca
+ocd-division/country:ca/csd:5953012,McBride,,,VL,,N,McBride,,Village of McBride,,5,,http://www.mcbride.ca
 ocd-division/country:ca/csd:5953019,Fraser-Fort George H,,,RDA,,N,Fraser-Fort George H,,,,,,
 ocd-division/country:ca/csd:5953019/place:albreda,Albreda,,,,,,,,,,,,
 ocd-division/country:ca/csd:5953019/place:bend,Bend,,,,,,,,,,,,
@@ -36982,7 +36982,7 @@ ocd-division/country:ca/csd:5953019/place:urling,Urling,,,,,,,,,,,,
 ocd-division/country:ca/csd:5953019/place:valemount,Valemount,,,,,,,,,,,,
 ocd-division/country:ca/csd:5953019/place:von_zuben,Von Zuben,,,,,,,,,,,,
 ocd-division/country:ca/csd:5953019/place:yellowhead,Yellowhead,,,,,,,,,,,,
-ocd-division/country:ca/csd:5953023,Prince George,,,CY,http://princegeorge.ca/cityservices/online/odc/Pages/Documents.aspx,N,Prince George,,City of Prince George,,,,http://www.princegeorge.ca
+ocd-division/country:ca/csd:5953023,Prince George,,,CY,http://princegeorge.ca/cityservices/online/odc/Pages/Documents.aspx,N,Prince George,,City of Prince George,,9,,http://www.princegeorge.ca
 ocd-division/country:ca/csd:5953023/place:basford,Basford,,,,,,,,,,,,
 ocd-division/country:ca/csd:5953023/place:bonnet_hill,Bonnet Hill,,,,,,,,,,,,
 ocd-division/country:ca/csd:5953023/place:bridge,Bridge,,,,,,,,,,,,
@@ -36997,7 +36997,7 @@ ocd-division/country:ca/csd:5953023/place:otway,Otway,,,,,,,,,,,,
 ocd-division/country:ca/csd:5953023/place:shady_valley,Shady Valley,,,,,,,,,,,,
 ocd-division/country:ca/csd:5953023/place:south_fort_george,South Fort George,,,,,,,,,,,,
 ocd-division/country:ca/csd:5953023/place:vanway,Vanway,,,,,,,,,,,,
-ocd-division/country:ca/csd:5953033,Mackenzie,,,DM,,N,Mackenzie,,,,,,http://www.district.mackenzie.bc.ca
+ocd-division/country:ca/csd:5953033,Mackenzie,,,DM,,N,Mackenzie,,,,7,,http://www.district.mackenzie.bc.ca
 ocd-division/country:ca/csd:5953038,Fraser-Fort George A,,,RDA,,N,Fraser-Fort George A,,,,,,
 ocd-division/country:ca/csd:5953038/place:davidson,Davidson,,,,,,,,,,,,
 ocd-division/country:ca/csd:5953038/place:miworth,Miworth,,,,,,,,,,,,
@@ -37072,10 +37072,10 @@ ocd-division/country:ca/csd:5953050/place:tacheeda,Tacheeda,,,,,,,,,,,,
 ocd-division/country:ca/csd:5953050/place:westcoast_energy,Westcoast Energy,,,,,,,,,,,,
 ocd-division/country:ca/csd:5953801,Fort George (Shelley) 2,,,IRI,,N,Fort George (Shelley) 2,,,,,,
 ocd-division/country:ca/csd:5953802,McLeod Lake 1,,,IRI,,N,McLeod Lake 1,,,,,,
-ocd-division/country:ca/csd:5955003,Tumbler Ridge,,,DM,,N,Tumbler Ridge,,,,,,http://www.tumblerridge.ca
-ocd-division/country:ca/csd:5955005,Pouce Coupe,,,VL,,N,Pouce Coupe,,Village of Pouce Coupe,,,,http://www.poucecoupe.ca
-ocd-division/country:ca/csd:5955010,Chetwynd,,,DM,,N,Chetwynd,,,,,,http://www.gochetwynd.com
-ocd-division/country:ca/csd:5955014,Dawson Creek,,,CY,,N,Dawson Creek,,City of Dawson Creek,,,,http://www.dawsoncreek.ca
+ocd-division/country:ca/csd:5955003,Tumbler Ridge,,,DM,,N,Tumbler Ridge,,,,7,,http://www.tumblerridge.ca
+ocd-division/country:ca/csd:5955005,Pouce Coupe,,,VL,,N,Pouce Coupe,,Village of Pouce Coupe,,5,,http://www.poucecoupe.ca
+ocd-division/country:ca/csd:5955010,Chetwynd,,,DM,,N,Chetwynd,,,,7,,http://www.gochetwynd.com
+ocd-division/country:ca/csd:5955014,Dawson Creek,,,CY,,N,Dawson Creek,,City of Dawson Creek,,7,,http://www.dawsoncreek.ca
 ocd-division/country:ca/csd:5955021,Peace River D,,,RDA,,N,Peace River D,,,,,,
 ocd-division/country:ca/csd:5955021/place:arras,Arras,,,,,,,,,,,,
 ocd-division/country:ca/csd:5955021/place:arras-devereaux,Arras-Devereaux,,,,,,,,,,,,
@@ -37150,12 +37150,12 @@ ocd-division/country:ca/csd:5955023/place:willow_flats,Willow Flats,,,,,,,,,,,,
 ocd-division/country:ca/csd:5955023/place:willow_valley,Willow Valley,,,,,,,,,,,,
 ocd-division/country:ca/csd:5955023/place:windy,Windy,,,,,,,,,,,,
 ocd-division/country:ca/csd:5955023/place:worth,Worth,,,,,,,,,,,,
-ocd-division/country:ca/csd:5955025,Hudson's Hope,,,DM,,N,Hudson's Hope,,,,,,http://hudsonshope.ca
+ocd-division/country:ca/csd:5955025,Hudson's Hope,,,DM,,N,Hudson's Hope,,,,7,,http://hudsonshope.ca
 ocd-division/country:ca/csd:5955025/place:beryl_prairie,Beryl Prairie,,,,,,,,,,,,
 ocd-division/country:ca/csd:5955025/place:hudson_hope,Hudson Hope,,,,,,,,,,,,
 ocd-division/country:ca/csd:5955025/place:lynx_creek,Lynx Creek,,,,,,,,,,,,
-ocd-division/country:ca/csd:5955030,Taylor,,,DM,,N,Taylor,,,,,,http://www.districtoftaylor.com
-ocd-division/country:ca/csd:5955034,Fort St. John,,,CY,,N,Fort St. John,,City of Fort St. John,,,,http://www.fortstjohn.ca
+ocd-division/country:ca/csd:5955030,Taylor,,,DM,,N,Taylor,,,,5,,http://www.districtoftaylor.com
+ocd-division/country:ca/csd:5955034,Fort St. John,,,CY,,N,Fort St. John,,City of Fort St. John,,7,,http://www.fortstjohn.ca
 ocd-division/country:ca/csd:5955040,Peace River B,,,RDA,,N,Peace River B,,,,,,
 ocd-division/country:ca/csd:5955040/place:altona,Altona,,,,,,,,,,,,
 ocd-division/country:ca/csd:5955040/place:bear_flat,Bear Flat,,,,,,,,,,,,
@@ -37276,7 +37276,7 @@ ocd-division/country:ca/csd:5957803,Five Mile Point 3,,,IRI,,N,Five Mile Point 3
 ocd-division/country:ca/csd:5957804,Good Hope Lake,,,S-É,,N,Good Hope Lake,,,,,,
 ocd-division/country:ca/csd:5957813,Lower Post,,,S-É,,N,Lower Post,,,,,,
 ocd-division/country:ca/csd:5957814,Liard River 3,,,IRI,,N,Liard River 3,,,,,,
-ocd-division/country:ca/csd:5959007,Northern Rockies,,,RGM,,N,Northern Rockies,,Northern Rockies Regional Municipality,,,,http://www.northernrockies.ca
+ocd-division/country:ca/csd:5959007,Northern Rockies,,,RGM,,N,Northern Rockies,,Northern Rockies Regional Municipality,,7,,http://www.northernrockies.ca
 ocd-division/country:ca/csd:5959007/place:coal_river,Coal River,,,,,,,,,,,,
 ocd-division/country:ca/csd:5959007/place:ekwan,Ekwan,,,,,,,,,,,,
 ocd-division/country:ca/csd:5959007/place:elleh,Elleh,,,,,,,,,,,,

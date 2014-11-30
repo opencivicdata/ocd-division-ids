@@ -227,6 +227,37 @@ class MunicipalSubdivision < Runner
     #     "24#{row["id_ville"]}",
     #     JSON.load(open("http://donnees.electionsmunicipales.gouv.qc.ca/#{row["id_ville"]}.json"))["ville"]["postes"].size)
     # end
+
+    bc_type_map = {
+      'District' => 'DM',
+      'City' => 'CY',
+      'Village' => 'VL',
+      'Island Municipality' => 'IM',
+      'Town' => 'T',
+      'Township' => 'DM',
+      'Regional Municipality' => 'RGM',
+      'Mountain Resort Municipality' => 'VL',
+      'Resort Municipality' => 'DM',
+    }
+
+    bc_name_map = {
+      'Sun Peaks' => 'Sun Peaks Mountain',
+    }
+
+    data = Hash.new(0)
+    CSV.parse(open("http://www.election2014.civicinfo.bc.ca/2014/reports/report_adv_results.asp?excel=yes&etype=%27MAYOR%27,%20%27COUNCILLOR%27"), :headers => true) do |row|
+      data[[row['Local Government'], row['Jurisdiction Type']]] += 1
+    end
+
+    data.each do |(name,type),count|
+      fingerprint = ["bc", bc_type_map[type], CensusSubdivisionName.new(bc_name_map.fetch(name, name)).normalize.fingerprint] * ":"
+      identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
+      if identifier
+        output(nil, identifier, count)
+      else
+        raise fingerprint
+      end
+    end
   end
 
   # Asked Ontario:
