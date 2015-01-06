@@ -358,6 +358,10 @@ class MunicipalSubdivision < Runner
           name, type = text.match(/\A(.+), (.+)\z/)[1..2]
         end
 
+        if type == 'M' && ['Calixa-Lavallée', 'Saint-Ambroise-de-Kildare', 'Saint-Justin'].include?(name)
+          type = 'P'
+        end
+
         fingerprint = ["qc", type_map.fetch(type), CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
         identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
 
