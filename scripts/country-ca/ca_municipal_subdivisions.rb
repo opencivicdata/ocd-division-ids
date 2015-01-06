@@ -107,7 +107,7 @@ class MunicipalSubdivision < Runner
 
     rows = []
     CSV.parse(open("https://docs.google.com/spreadsheets/d/16fM8o7CpgEDmz-QrS6wriU7_EXV-A4DfBqo1P_XWvVM/export?gid=0&format=csv").read.force_encoding('UTF-8'), :headers => true) do |result|
-      if result["groups"] && result["groups"]["canada"]
+      if result["tags"] && result["tags"]["canada"]
         next if [
           "British Columbia Local Government Open Data Catalogue",
           "Winnipeg, Manitoba 2010 Election",
