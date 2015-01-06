@@ -193,15 +193,16 @@ Nokogiri::HTML(open("http://www.fcm.ca/home/about-us/membership/our-members.htm"
 
       output("csd:", type_id, url)
     else
-      unmatched << "#{value.ljust(60)} #{fingerprint}" if fingerprint
+      unmatched << "#{value.ljust(65)} #{fingerprint}" if fingerprint
     end
   end
 end
 
+$stderr.puts
 $stderr.puts "Unmatched:"
 $stderr.puts unmatched
 $stderr.puts
 $stderr.puts "Failures:"
 failures.each do |type_id,name,url,message|
-  $stderr.puts "#{type_id} #{name.ljust(20)} #{url.ljust(60)} #{message}"
+  $stderr.puts "#{type_id} #{name.ljust(25)} #{url.ljust(60)} #{message}"
 end
