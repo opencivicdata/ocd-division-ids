@@ -14,7 +14,7 @@ class SK < Runner
       "http://represent.opennorth.ca.s3.amazonaws.com/data/sk_ed.zip",
       "province:sk/ed:", {
         :id => "CON_NUM",
-        :name => lambda{|record| record.attributes["CON_NAME"].downcase.gsub(/\b([a-z])/){|letter| letter.upcase}},
+        :name => lambda{|record| record.attributes["CON_NAME"].downcase.gsub(/\b([a-z])/){|letter| letter.upcase}.sub("North East", "Northeast")},
       }
     ).run
     # Nokogiri::HTML(open("http://www.elections.sk.ca/publications/poll-maps/individual-constituencies")).css("table table a").each do |a|
