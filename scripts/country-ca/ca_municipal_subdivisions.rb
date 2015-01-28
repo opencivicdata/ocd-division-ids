@@ -48,7 +48,7 @@ class MunicipalSubdivision < Runner
 
       subsubdivision, census_subdivision, province_or_territory = domain.match(/\A(?:([^,]+), )?([^,]+), (NL|PE|NS|NB|QC|ON|MB|SK|AB|BC|YT|NT|NU)\z/)[1..3]
 
-      # Ignore boundary sets of boroughs.
+      # Ignore boundary sets of boroughs, as the districts already exist on the parent.
       unless subsubdivision
         matches = census_subdivisions.fetch(province_or_territory.downcase).fetch(census_subdivision)
 
@@ -565,8 +565,10 @@ private
   def identifier(boundary)
     if boundary["external_id"].empty?
       boundary["name"]
-    elsif boundary["external_id"][/\A[\d.]+\z/]
+    elsif boundary["external_id"][/\A\d+\z/]
       boundary["external_id"].to_i
+    elsif boundary["external_id"][/\A[\d.]+\z/]
+      boundary["external_id"].to_f
     else
       boundary["external_id"]
     end
