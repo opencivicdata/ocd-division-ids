@@ -81,7 +81,7 @@ class MunicipalSubdivision < Runner
     }.each do |census_subdivision_id,boundary_set|
       ocd_type = boundary_set["name"].match(/ (borough|district|division|quartier|ward)s\z/)[1]
 
-      JSON.load(open("http://represent.opennorth.ca#{boundary_set["related"]["boundaries_url"]}?limit=0"))["objects"].sort_by{|boundary|
+      JSON.load(open("https://represent.opennorth.ca#{boundary_set["related"]["boundaries_url"]}?limit=0"))["objects"].sort_by{|boundary|
         identifier(boundary)
       }.each{|boundary|
         output("csd:#{census_subdivision_id}/#{ocd_type}:",
