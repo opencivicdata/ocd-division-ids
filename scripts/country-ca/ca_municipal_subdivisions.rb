@@ -42,7 +42,7 @@ class MunicipalSubdivision < Runner
 
     items = []
 
-    JSON.load(open("http://represent.opennorth.ca/boundary-sets/?limit=0"))["objects"].each do |boundary_set|
+    JSON.load(open("https://represent.opennorth.ca/boundary-sets/?limit=0"))["objects"].each do |boundary_set|
       domain = boundary_set["domain"]
       next if ignore.include?(domain)
 
