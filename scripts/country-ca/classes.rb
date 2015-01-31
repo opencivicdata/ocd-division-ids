@@ -139,7 +139,7 @@ class CensusDivisionName < DivisionName
 
   @name_mappings = {}
 
-  # @see http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-4-eng.cfm
+  # @see https://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-4-eng.cfm
   @type_mappings = {
     "ab" => {},
     "bc" => {
@@ -182,7 +182,7 @@ class CensusSubdivisionName < DivisionName
   @divisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").to_h
 
   @identifier_mappings = {
-    # http://en.wikipedia.org/wiki/Redwood_Meadows,_Alberta
+    # https://en.wikipedia.org/wiki/Redwood_Meadows,_Alberta
     "Townsite of Redwood Meadows" => "ocd-division/country:ca/csd:4806804", # Tsuu T'ina Nation 145 (Sarcee 145)
     # http://woodypoint.ca/
     "Town of Woody Point"         => "ocd-division/country:ca/csd:1009011", # Woody Point, Bonne Bay
@@ -206,7 +206,7 @@ class CensusSubdivisionName < DivisionName
     "Cantons unis de Latulippe-et-Gaboury"         => "Cantons unis de Latulipe-et-Gaboury", # QC
   }
 
-  # @see http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-5-eng.cfm
+  # @see https://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-5-eng.cfm
   @type_mappings = {
     # Unused: "ID", "IRI", "S-É", "SA".
     "ab" => {

@@ -8,7 +8,7 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 class NS < Runner
   def names
     ShapefileParser.new(
-      "http://electionsnovascotia.ca/sites/default/files/NS_EDBoundaries2012.zip",
+      "https://electionsnovascotia.ca/sites/default/files/NS_EDBoundaries2012.zip",
       "province:ns/ed:", {
         :id => "DIST_NO",
         :name => "DISTRICT",

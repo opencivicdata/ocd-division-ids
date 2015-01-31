@@ -468,7 +468,7 @@ class MunicipalSubdivision < Runner
           else
             output(nil, identifier, "N")
           end
-        # @see http://geonb.snb.ca/ArcGIS/rest/services/ElectionsNB/GeoNB_ENB_MunicipalWards/MapServer
+        # @see https://geonb.snb.ca/ArcGIS/rest/services/ElectionsNB/GeoNB_ENB_MunicipalWards/MapServer
         when "13"
           if [
             "1301006", # Saint John
@@ -594,7 +594,7 @@ private
 
       {"cd" => 4, "csd" => 5}.each do |type,table|
         hash[type] = {}
-        Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-#{table}-eng.cfm")).xpath("//table/tbody/tr").each do |row|
+        Nokogiri::HTML(open("https://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-#{table}-eng.cfm")).xpath("//table/tbody/tr").each do |row|
           abbr = row.at_xpath("./th[1]/abbr")
           if abbr
             unless province_or_territory && row.at_xpath("./td[#{indexes[province_or_territory]}]/abbr") || province_or_territory == "on" && abbr.text == "TV" # Skip the one TV in Ontario
@@ -690,8 +690,8 @@ private
     type_map = type_map("sk")
 
     saskatchewan_non_census_subdivisions = [
-      # @see http://en.wikipedia.org/wiki/Division_No._18,_Saskatchewan#Unincorporated_communities
-      # @see http://en.wikipedia.org/wiki/Category:Division_No._18,_Unorganized,_Saskatchewan
+      # @see https://en.wikipedia.org/wiki/Division_No._18,_Saskatchewan#Unincorporated_communities
+      # @see https://en.wikipedia.org/wiki/Category:Division_No._18,_Unorganized,_Saskatchewan
       "BEAR CREEK",
       "BLACK POINT",
       "CAMSELL PORTAGE",
