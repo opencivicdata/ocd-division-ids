@@ -9,6 +9,7 @@ class AB < Runner
   def names
     # Also available as deeply-nested lists.
     # @see http://www.electionsalberta.ab.ca/Public%20Website/112.htm
+    # Altalis now requires downloading the boundaries as a bundle via a form.
     ShapefileParser.new(
       "http://altalis.com/Samples/Provincial%20Electoral%20Divisions%20Current%202010.zip",
       "province:ab/ed:", {
