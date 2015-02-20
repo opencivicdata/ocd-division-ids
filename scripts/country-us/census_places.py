@@ -220,7 +220,11 @@ class Processor(object):
                     name = name + suffix
                     row = dict(id=id, **extra)
                     row[SLUG] = geoid
-                    self.geocsv.writerow(row)
+                    if "obsolete" in suffix.lower():
+                        row[SLUG] = None
+                        self.geocsv.writerow(row)
+                    else:
+                        self.geocsv.writerow(row)
                     self.csvname.writerow({
                         "name": name,
                         "id": id,
