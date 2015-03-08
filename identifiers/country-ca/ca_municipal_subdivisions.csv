@@ -1289,19 +1289,19 @@ ocd-division/country:ca/csd:2466023/borough:7,Mercier—Hochelaga-Maisonneuve
 ocd-division/country:ca/csd:2466023/borough:8,Montréal-Nord
 ocd-division/country:ca/csd:2466023/borough:9,Outremont
 ocd-division/country:ca/csd:2466023/borough:10,Pierrefonds-Roxboro
-ocd-division/country:ca/csd:2466023/borough:11,Le Plateau-Mont-Royal
+ocd-division/country:ca/csd:2466023/borough:11,Plateau-Mont-Royal
 ocd-division/country:ca/csd:2466023/borough:12,Rivière-des-Prairies—Pointe-aux-Trembles
 ocd-division/country:ca/csd:2466023/borough:13,Rosemont—La Petite-Patrie
 ocd-division/country:ca/csd:2466023/borough:14,Saint-Laurent
 ocd-division/country:ca/csd:2466023/borough:15,Saint-Léonard
-ocd-division/country:ca/csd:2466023/borough:16,Le Sud-Ouest
+ocd-division/country:ca/csd:2466023/borough:16,Sud-Ouest
 ocd-division/country:ca/csd:2466023/borough:17,Verdun
 ocd-division/country:ca/csd:2466023/borough:18,Ville-Marie
 ocd-division/country:ca/csd:2466023/borough:19,Villeray—Saint-Michel—Parc-Extension
-ocd-division/country:ca/csd:2466023/district:1.1,du Sault-au-Récollet
-ocd-division/country:ca/csd:2466023/district:1.2,de Saint-Sulpice
-ocd-division/country:ca/csd:2466023/district:1.3,d'Ahuntsic
-ocd-division/country:ca/csd:2466023/district:1.4,de Bordeaux-Cartierville
+ocd-division/country:ca/csd:2466023/district:1.1,Sault-au-Récollet
+ocd-division/country:ca/csd:2466023/district:1.2,Saint-Sulpice
+ocd-division/country:ca/csd:2466023/district:1.3,Ahuntsic
+ocd-division/country:ca/csd:2466023/district:1.4,Bordeaux-Cartierville
 ocd-division/country:ca/csd:2466023/district:2.1,de l'Ouest
 ocd-division/country:ca/csd:2466023/district:2.2,de l'Est
 ocd-division/country:ca/csd:2466023/district:2.3,du Centre
@@ -1320,7 +1320,7 @@ ocd-division/country:ca/csd:2466023/district:6.2,Denis-Benjamin-Viger
 ocd-division/country:ca/csd:2466023/district:6.3,Jacques-Bizard
 ocd-division/country:ca/csd:2466023/district:6.4,Sainte-Geneviève
 ocd-division/country:ca/csd:2466023/district:7.1,Tétreaultville
-ocd-division/country:ca/csd:2466023/district:7.2,Maisonneuve-Longue-Pointe
+ocd-division/country:ca/csd:2466023/district:7.2,Maisonneuve—Longue-Pointe
 ocd-division/country:ca/csd:2466023/district:7.3,Hochelaga
 ocd-division/country:ca/csd:2466023/district:7.4,Louis-Riel
 ocd-division/country:ca/csd:2466023/district:8.1,Marie-Clarac
@@ -1329,8 +1329,8 @@ ocd-division/country:ca/csd:2466023/district:9.1,Claude-Ryan
 ocd-division/country:ca/csd:2466023/district:9.2,Joseph-Beaubien
 ocd-division/country:ca/csd:2466023/district:9.3,Robert-Bourassa
 ocd-division/country:ca/csd:2466023/district:9.4,Jeanne-Sauvé
-ocd-division/country:ca/csd:2466023/district:10.1,Est (Pierrefonds-Roxboro)
-ocd-division/country:ca/csd:2466023/district:10.2,Ouest (Pierrefonds-Roxboro)
+ocd-division/country:ca/csd:2466023/district:10.1,Bois-de-Liesse
+ocd-division/country:ca/csd:2466023/district:10.2,Cap-Saint-Jacques
 ocd-division/country:ca/csd:2466023/district:11.1,Mile-End
 ocd-division/country:ca/csd:2466023/district:11.2,DeLorimier
 ocd-division/country:ca/csd:2466023/district:11.3,Jeanne-Mance
@@ -1338,16 +1338,16 @@ ocd-division/country:ca/csd:2466023/district:12.1,La Pointe-aux-Prairies
 ocd-division/country:ca/csd:2466023/district:12.2,Pointe-aux-Trembles
 ocd-division/country:ca/csd:2466023/district:12.3,Rivière-des-Prairies
 ocd-division/country:ca/csd:2466023/district:13.1,Saint-Édouard
-ocd-division/country:ca/csd:2466023/district:13.2,Étienne-Desmarteaux
+ocd-division/country:ca/csd:2466023/district:13.2,Étienne-Desmarteau
 ocd-division/country:ca/csd:2466023/district:13.3,Vieux-Rosemont
 ocd-division/country:ca/csd:2466023/district:13.4,Marie-Victorin
 ocd-division/country:ca/csd:2466023/district:14.1,Côte-de-Liesse
 ocd-division/country:ca/csd:2466023/district:14.2,Norman-McLaren
 ocd-division/country:ca/csd:2466023/district:15.1,Saint-Léonard-Est
 ocd-division/country:ca/csd:2466023/district:15.2,Saint-Léonard-Ouest
-ocd-division/country:ca/csd:2466023/district:16.1,St-Henri-Petite-Bourgogne-Pte-St-Charles
-ocd-division/country:ca/csd:2466023/district:16.2,Saint-Paul-Émard
-ocd-division/country:ca/csd:2466023/district:17.1,Champlain-L'Île-des-Soeurs
+ocd-division/country:ca/csd:2466023/district:16.1,Saint-Henri—Petite-Bourgogne—Pointe-Saint-Charles
+ocd-division/country:ca/csd:2466023/district:16.2,Saint-Paul—Émard
+ocd-division/country:ca/csd:2466023/district:17.1,Champlain—L'Île-des-Soeurs
 ocd-division/country:ca/csd:2466023/district:17.2,Desmarchais-Crawford
 ocd-division/country:ca/csd:2466023/district:18.1,Peter-McGill
 ocd-division/country:ca/csd:2466023/district:18.2,Saint-Jacques
