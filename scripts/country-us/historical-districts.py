@@ -18,6 +18,7 @@ SCRIPT_DIRECTORY = os.path.dirname(os.path.realpath(__file__))
 HISTORIC_LEGISLATOR_FILE = os.path.join(
     SCRIPT_DIRECTORY,
     '../../cache/legislators-historical.yaml')
+AT_LARGE_DISTRICTS = ['gu', 'as', 'ak', 'mp', 'vt', 'pr', 'vi', 'dc', 'wy', 'sd', 'nd', 'de', 'mt']
 
 
 def yaml_load(path, use_cache=True):
@@ -37,7 +38,7 @@ def yaml_load(path, use_cache=True):
     data = yaml.load(open(path))
 
     # Store in a pickled file for fast access later.
-    pickle.dump({"hash": h, "data": data}, open(path+".pickle", "wb"))
+    pickle.dump({"hash": h, "data": data}, open(path + ".pickle", "wb"))
 
     return data
 
@@ -62,7 +63,7 @@ def parse_division_id(division_id):
             "(state|territory):([a-zA-Z]{2})",
             division_id).group(2)
     else:
-        return False
+        return
     return (state, district)
 
 
@@ -73,9 +74,12 @@ def make_division_id(state, district):
 
 
 def make_division_name(state, district):
-    return "{state}'s {district} congressional district".format(
-        state=states.lookup(state).name,
-        district=ordinalize(district))
+    if state in AT_LARGE_DISTRICTS and district == 1:
+        return states.lookup(state).name
+    else:
+        return "{state}'s {district} congressional district".format(
+            state=states.lookup(state).name,
+            district=ordinalize(district))
 
 
 def make_row(state, district):
@@ -147,6 +151,17 @@ def extract_at_large_districts():
     return at_large_districts
 
 
+def current_at_large_reps(existing_districts):
+    district_dict = {}
+    for district in set(filter(None, existing_districts)):
+        state = district[0]
+        if state in district_dict:
+            district_dict[state].append(district[-1])
+        else:
+            district_dict[state] = [district[-1]]
+    return [st for st in district_dict if len(district_dict[st]) == 1]
+
+
 def write_missing_districts(missing_districts):
     new_file_path = os.path.join(
         SCRIPT_DIRECTORY,
@@ -164,7 +179,6 @@ def write_missing_districts(missing_districts):
 
 
 if __name__ == "__main__":
-    import pdb; pdb.set_trace();
     # Grab historic legislators from congress-legislators
     download_historic_legislators()
 
