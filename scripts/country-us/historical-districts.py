@@ -88,7 +88,6 @@ def make_row(state, district):
     name = make_division_name(state, district)
     return [division_id, name]
 
-
 def download_historic_legislators():
     historic_legislators_url = ("https://raw.githubusercontent.com/"
                                 "unitedstates/congress-legislators/"
@@ -178,7 +177,7 @@ def write_missing_districts(missing_districts):
     with open(new_file_path, 'w') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerow(["id", "name"])
-        for district in missing_districts:
+        for district in sorted(missing_districts):
             writer.writerow(make_row(state=district[0], district=district[1]))
 
 
