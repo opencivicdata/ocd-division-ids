@@ -35,7 +35,7 @@ private
   def rows(language)
     # Also available as table in larger document.
     # @see http://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/2011/sgc-cgt-intro-eng.htm#a4-2
-    Nokogiri::HTML(open("https://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-8-#{language}.cfm")).css("tbody tr").each do |tr|
+    Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-8-#{language}.cfm")).css("tbody tr").each do |tr|
       tds = tr.css("td")
       yield({
         :type => tds[3].text[0, 1] == "6" ? "territory" : "province",

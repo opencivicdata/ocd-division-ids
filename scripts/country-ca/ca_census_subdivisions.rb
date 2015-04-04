@@ -21,8 +21,8 @@ class CensusSubdivisions < Runner
 
     type_names = census_subdivision_type_names
 
-    # @see https://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/index-eng.cfm
-    file = open("https://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/FullFile.cfm?T=301&LANG=Eng&OFT=CSV&OFN=98-310-XWE2011002-301.CSV")
+    # @see http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/index-eng.cfm
+    file = open("http://www12.statcan.gc.ca/census-recensement/2011/dp-pd/hlt-fst/pd-pl/FullFile.cfm?T=301&LANG=Eng&OFT=CSV&OFN=98-310-XWE2011002-301.CSV")
     # The CSV has an extra header row.
     file.gets
     # The CSV is in ISO-8859-1.
@@ -58,7 +58,7 @@ class CensusSubdivisions < Runner
         end
       end
 
-      # @see https://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/2001/2001-supp4-eng.htm
+      # @see http://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/2001/2001-supp4-eng.htm
       parts = value.split(" / ", 2)
 
       if exceptions.key?(code)

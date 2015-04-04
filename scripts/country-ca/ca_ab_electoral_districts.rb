@@ -11,7 +11,7 @@ class AB < Runner
     # @see http://www.electionsalberta.ab.ca/Public%20Website/112.htm
     # Altalis now requires downloading the boundaries as a bundle via a form.
     ShapefileParser.new(
-      "http://altalis.com/Samples/Provincial%20Electoral%20Divisions%20Current%202010.zip",
+      "http://represent.opennorth.ca.s3.amazonaws.com/data/ab_ed.zip",
       "province:ab/ed:", {
         :id => "EDNUMBER",
         :name => "EDNAME",
