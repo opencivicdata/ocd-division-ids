@@ -1,45 +1,46 @@
-ocd-division/country:us/state:me/sldl:penobscot_nation,Maine House of Representatives Penobscot Nation non-voting seat
-ocd-division/country:us/state:me/sldl:passamaquoddy_tribe,Maine House of Representatives Passamaquoddy Tribe non-voting seat
-ocd-division/country:us/state:nh/sldl:belknap_8,New Hampshire House of Representatives district Belknap 8
-ocd-division/country:us/state:nh/sldl:belknap_9,New Hampshire House of Representatives district Belknap 9
-ocd-division/country:us/state:nh/sldl:carroll_7,New Hampshire House of Representatives district Carroll 7
-ocd-division/country:us/state:nh/sldl:carroll_8,New Hampshire House of Representatives district Carroll 8
-ocd-division/country:us/state:nh/sldl:cheshire_14,New Hampshire House of Representatives district Cheshire 14
-ocd-division/country:us/state:nh/sldl:cheshire_15,New Hampshire House of Representatives district Cheshire 15
-ocd-division/country:us/state:nh/sldl:cheshire_16,New Hampshire House of Representatives district Cheshire 16
-ocd-division/country:us/state:nh/sldl:coos_7,New Hampshire House of Representatives district Coos 7
-ocd-division/country:us/state:nh/sldl:grafton_14,New Hampshire House of Representatives district Grafton 14
-ocd-division/country:us/state:nh/sldl:grafton_15,New Hampshire House of Representatives district Grafton 15
-ocd-division/country:us/state:nh/sldl:grafton_16,New Hampshire House of Representatives district Grafton 16
-ocd-division/country:us/state:nh/sldl:grafton_17,New Hampshire House of Representatives district Grafton 17
-ocd-division/country:us/state:nh/sldl:hillsborough_38,New Hampshire House of Representatives district Hillsborough 38
-ocd-division/country:us/state:nh/sldl:hillsborough_39,New Hampshire House of Representatives district Hillsborough 39
-ocd-division/country:us/state:nh/sldl:hillsborough_40,New Hampshire House of Representatives district Hillsborough 40
-ocd-division/country:us/state:nh/sldl:hillsborough_41,New Hampshire House of Representatives district Hillsborough 41
-ocd-division/country:us/state:nh/sldl:hillsborough_42,New Hampshire House of Representatives district Hillsborough 42
-ocd-division/country:us/state:nh/sldl:hillsborough_43,New Hampshire House of Representatives district Hillsborough 43
-ocd-division/country:us/state:nh/sldl:hillsborough_44,New Hampshire House of Representatives district Hillsborough 44
-ocd-division/country:us/state:nh/sldl:hillsborough_45,New Hampshire House of Representatives district Hillsborough 45
-ocd-division/country:us/state:nh/sldl:merrimack_25,New Hampshire House of Representatives district Merrimack 25
-ocd-division/country:us/state:nh/sldl:merrimack_26,New Hampshire House of Representatives district Merrimack 26
-ocd-division/country:us/state:nh/sldl:merrimack_27,New Hampshire House of Representatives district Merrimack 27
-ocd-division/country:us/state:nh/sldl:merrimack_28,New Hampshire House of Representatives district Merrimack 28
-ocd-division/country:us/state:nh/sldl:merrimack_29,New Hampshire House of Representatives district Merrimack 29
-ocd-division/country:us/state:nh/sldl:rockingham_30,New Hampshire House of Representatives district Rockingham 30
-ocd-division/country:us/state:nh/sldl:rockingham_31,New Hampshire House of Representatives district Rockingham 31
-ocd-division/country:us/state:nh/sldl:rockingham_32,New Hampshire House of Representatives district Rockingham 32
-ocd-division/country:us/state:nh/sldl:rockingham_33,New Hampshire House of Representatives district Rockingham 33
-ocd-division/country:us/state:nh/sldl:rockingham_34,New Hampshire House of Representatives district Rockingham 34
-ocd-division/country:us/state:nh/sldl:rockingham_35,New Hampshire House of Representatives district Rockingham 35
-ocd-division/country:us/state:nh/sldl:rockingham_36,New Hampshire House of Representatives district Rockingham 36
-ocd-division/country:us/state:nh/sldl:rockingham_37,New Hampshire House of Representatives district Rockingham 37
-ocd-division/country:us/state:nh/sldl:strafford_19,New Hampshire House of Representatives district Strafford 19
-ocd-division/country:us/state:nh/sldl:strafford_20,New Hampshire House of Representatives district Strafford 20
-ocd-division/country:us/state:nh/sldl:strafford_21,New Hampshire House of Representatives district Strafford 21
-ocd-division/country:us/state:nh/sldl:strafford_22,New Hampshire House of Representatives district Strafford 22
-ocd-division/country:us/state:nh/sldl:strafford_23,New Hampshire House of Representatives district Strafford 23
-ocd-division/country:us/state:nh/sldl:strafford_24,New Hampshire House of Representatives district Strafford 24
-ocd-division/country:us/state:nh/sldl:strafford_25,New Hampshire House of Representatives district Strafford 25
-ocd-division/country:us/state:nh/sldl:sullivan_9,New Hampshire House of Representatives district Sullivan 9
-ocd-division/country:us/state:nh/sldl:sullivan_10,New Hampshire House of Representatives district Sullivan 10
-ocd-division/country:us/state:nh/sldl:sullivan_11,New Hampshire House of Representatives district Sullivan 11
+id,name,census_geoid_14
+ocd-division/country:us/state:me/sldl:penobscot_nation,Maine House of Representatives Penobscot Nation non-voting seat,
+ocd-division/country:us/state:me/sldl:passamaquoddy_tribe,Maine House of Representatives Passamaquoddy Tribe non-voting seat,
+ocd-division/country:us/state:nh/sldl:belknap_8,New Hampshire State House district Belknap County No. 8,sldl-33008
+ocd-division/country:us/state:nh/sldl:belknap_9,New Hampshire State House district Belknap County No. 9,sldl-33009
+ocd-division/country:us/state:nh/sldl:carroll_7,New Hampshire State House district Carroll County No. 7,sldl-33107
+ocd-division/country:us/state:nh/sldl:carroll_8,New Hampshire State House district Carroll County No. 8,sldl-33108
+ocd-division/country:us/state:nh/sldl:cheshire_14,New Hampshire State House district Cheshire County No. 14,sldl-33214
+ocd-division/country:us/state:nh/sldl:cheshire_15,New Hampshire State House district Cheshire County No. 15,sldl-33215
+ocd-division/country:us/state:nh/sldl:cheshire_16,New Hampshire State House district Cheshire County No. 16,sldl-33216
+ocd-division/country:us/state:nh/sldl:coos_7,New Hampshire State House district Coos County No. 7,sldl-33307
+ocd-division/country:us/state:nh/sldl:grafton_14,New Hampshire State House district Grafton County No. 14,sldl-33414
+ocd-division/country:us/state:nh/sldl:grafton_15,New Hampshire State House district Grafton County No. 15,sldl-33415
+ocd-division/country:us/state:nh/sldl:grafton_16,New Hampshire State House district Grafton County No. 16,sldl-33416
+ocd-division/country:us/state:nh/sldl:grafton_17,New Hampshire State House district Grafton County No. 17,sldl-33417
+ocd-division/country:us/state:nh/sldl:hillsborough_38,New Hampshire State House district Hillsborough County No. 38,sldl-33538
+ocd-division/country:us/state:nh/sldl:hillsborough_39,New Hampshire State House district Hillsborough County No. 39,sldl-33539
+ocd-division/country:us/state:nh/sldl:hillsborough_40,New Hampshire State House district Hillsborough County No. 40,sldl-33540
+ocd-division/country:us/state:nh/sldl:hillsborough_41,New Hampshire State House district Hillsborough County No. 41,sldl-33541
+ocd-division/country:us/state:nh/sldl:hillsborough_42,New Hampshire State House district Hillsborough County No. 42,sldl-33542
+ocd-division/country:us/state:nh/sldl:hillsborough_43,New Hampshire State House district Hillsborough County No. 43,sldl-33543
+ocd-division/country:us/state:nh/sldl:hillsborough_44,New Hampshire State House district Hillsborough County No. 44,sldl-33544
+ocd-division/country:us/state:nh/sldl:hillsborough_45,New Hampshire State House district Hillsborough County No. 45,sldl-33545
+ocd-division/country:us/state:nh/sldl:merrimack_25,New Hampshire State House district Merrimack County No. 25,sldl-33625
+ocd-division/country:us/state:nh/sldl:merrimack_26,New Hampshire State House district Merrimack County No. 26,sldl-33626
+ocd-division/country:us/state:nh/sldl:merrimack_27,New Hampshire State House district Merrimack County No. 27,sldl-33627
+ocd-division/country:us/state:nh/sldl:merrimack_28,New Hampshire State House district Merrimack County No. 28,sldl-33628
+ocd-division/country:us/state:nh/sldl:merrimack_29,New Hampshire State House district Merrimack County No. 29,sldl-33629
+ocd-division/country:us/state:nh/sldl:rockingham_30,New Hampshire State House district Rockingham County No. 30,sldl-33730
+ocd-division/country:us/state:nh/sldl:rockingham_31,New Hampshire State House district Rockingham County No. 31,sldl-33731
+ocd-division/country:us/state:nh/sldl:rockingham_32,New Hampshire State House district Rockingham County No. 32,sldl-33732
+ocd-division/country:us/state:nh/sldl:rockingham_33,New Hampshire State House district Rockingham County No. 33,sldl-33733
+ocd-division/country:us/state:nh/sldl:rockingham_34,New Hampshire State House district Rockingham County No. 34,sldl-33734
+ocd-division/country:us/state:nh/sldl:rockingham_35,New Hampshire State House district Rockingham County No. 35,sldl-33735
+ocd-division/country:us/state:nh/sldl:rockingham_36,New Hampshire State House district Rockingham County No. 36,sldl-33736
+ocd-division/country:us/state:nh/sldl:rockingham_37,New Hampshire State House district Rockingham County No. 37,sldl-33737
+ocd-division/country:us/state:nh/sldl:strafford_19,New Hampshire State House district Strafford County No. 19,sldl-33819
+ocd-division/country:us/state:nh/sldl:strafford_20,New Hampshire State House district Strafford County No. 20,sldl-33820
+ocd-division/country:us/state:nh/sldl:strafford_21,New Hampshire State House district Strafford County No. 21,sldl-33821
+ocd-division/country:us/state:nh/sldl:strafford_22,New Hampshire State House district Strafford County No. 22,sldl-33822
+ocd-division/country:us/state:nh/sldl:strafford_23,New Hampshire State House district Strafford County No. 23,sldl-33823
+ocd-division/country:us/state:nh/sldl:strafford_24,New Hampshire State House district Strafford County No. 24,sldl-33824
+ocd-division/country:us/state:nh/sldl:strafford_25,New Hampshire State House district Strafford County No. 25,sldl-33825
+ocd-division/country:us/state:nh/sldl:sullivan_9,New Hampshire State House district Sullivan County No. 9,sldl-33909
+ocd-division/country:us/state:nh/sldl:sullivan_10,New Hampshire State House district Sullivan County No. 10,sldl-33910
+ocd-division/country:us/state:nh/sldl:sullivan_11,New Hampshire State House district Sullivan County No. 11,sldl-33911
