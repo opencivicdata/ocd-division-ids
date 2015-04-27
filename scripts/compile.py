@@ -64,7 +64,15 @@ FIELD_VALIDATORS = {
 }
 
 COUNTRY_UNIQUE_FIELDS = {
-    'us': ['census_geoid', 'census_geoid_12', 'census_geoid_14']
+    'us': ['census_geoid', 'census_geoid_12', 'census_geoid_14'],
+    'ca': [
+        'data_catalog',
+        'sgc',
+        # 'url' should probably be unique, but it is not.
+        # The following may not prove to be globally unique:
+        'abbreviation',
+        'abbreviation_fr',
+    ],
 }
 
 def main():
