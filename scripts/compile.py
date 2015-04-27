@@ -63,6 +63,10 @@ FIELD_VALIDATORS = {
     'validThrough': validate_date,
 }
 
+UNIQUE_FIELDS = {
+    'us': ['id', 'census_geoid', 'census_geoid_12', 'census_geoid_14']
+}
+
 def main():
     parser = argparse.ArgumentParser(description='combine component CSV files into one')
     parser.add_argument('country', type=str, default=None, help='country to compile')
@@ -167,6 +171,24 @@ def main():
                 if field not in row:
                     msg += '   {} from {}\n'.format(id_, ', '.join(sources[id_]))
             abort(msg)
+
+    # data quality: assert uniqueness of certain fields, ignoring missing values
+    duplicate_values_found_in = {}
+    for field in UNIQUE_FIELDS.get(country, []):
+        seen_values = set()
+        duplicate_values = set()
+
+        for row in ids.values():
+            value = row.get(field, '')
+            if value and value in seen_values:
+                duplicate_values.add(value)
+            seen_values.add(value)
+
+        if duplicate_values:
+            duplicate_values_found_in[field] = duplicate_values
+    if duplicate_values_found_in:
+        msg = "Duplicate values found in unique fields!\n{}".format(duplicate_values_found_in)
+        abort(msg)
 
 
     # print some statistics
