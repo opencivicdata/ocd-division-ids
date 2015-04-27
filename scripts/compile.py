@@ -63,8 +63,8 @@ FIELD_VALIDATORS = {
     'validThrough': validate_date,
 }
 
-UNIQUE_FIELDS = {
-    'us': ['id', 'census_geoid', 'census_geoid_12', 'census_geoid_14']
+COUNTRY_UNIQUE_FIELDS = {
+    'us': ['census_geoid', 'census_geoid_12', 'census_geoid_14']
 }
 
 def main():
@@ -174,7 +174,8 @@ def main():
 
     # data quality: assert uniqueness of certain fields, ignoring missing values
     duplicate_values_found_in = {}
-    for field in UNIQUE_FIELDS.get(country, []):
+    unique_fields = ['id'] + COUNTRY_UNIQUE_FIELDS.get(country, [])
+    for field in unique_fields:
         seen_values = set()
         duplicate_values = set()
 
@@ -187,7 +188,7 @@ def main():
         if duplicate_values:
             duplicate_values_found_in[field] = duplicate_values
     if duplicate_values_found_in:
-        msg = "Duplicate values found in unique fields!\n{}".format(duplicate_values_found_in)
+        msg = "Duplicate values found in fields that should be unique!\n{}".format(duplicate_values_found_in)
         abort(msg)
 
 
