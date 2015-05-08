@@ -163,19 +163,23 @@ class ShapefileParser
   end
 
   # Outputs identifiers in CSV format.
-  def run
+  def run(options = {})
     headers = %w(id)
     @mappings.keys.each do |mapping|
       unless [:id, :sort_as].include?(mapping)
         headers << mapping
       end
     end
-    puts CSV.generate_line(headers)
+    unless options[:write_headers] == false
+      puts CSV.generate_line(headers)
+    end
 
     Zip::File.open(open(@url)) do |zipfile|
       entry = zipfile.entries.find{|entry| File.extname(entry.name) == ".dbf"}
       if entry
-        DBF::Table.new(StringIO.new(zipfile.read(entry))).map do |record|
+        DBF::Table.new(StringIO.new(zipfile.read(entry))).select do |record|
+          record
+        end.map do |record|
           ShapefileRecord.new(record, @mappings)
         end.select(&@filter).sort.each do |record|
           output(@prefix, *headers.map{|header| record.send(header)})
@@ -245,7 +249,12 @@ class ShapefileRecord
 
   def method_missing(method, *args, &block)
     if @mappings.key?(method)
-      @attributes.fetch(@mappings.fetch(method))
+      case @mappings[method]
+      when Symbol, String
+        @attributes.fetch(@mappings.fetch(method))
+      else
+        @mappings[method].call(self)
+      end
     else
       super
     end
