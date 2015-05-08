@@ -16,7 +16,7 @@ class CA < Runner
       "http://ftp2.cits.rncan.gc.ca/pub/geobase/official/fed_cf/shp_eng/fed_cf_CA_2_1_shp_en.zip",
       "ed:", {
         :id => "FEDNUM",
-        :name => "ENNAME",
+        :name => lambda{|record| record.attributes["ENNAME"].gsub("’", "'")},
         :name_fr => "FRNAME",
         :sort_as => "FEDNUM",
         :validFrom => lambda{|record| names_en.delete(record.attributes["FEDNUM"].to_s) ? "" : "2015-10-19"},
