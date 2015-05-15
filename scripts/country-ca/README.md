@@ -15,7 +15,6 @@ To check URLs:
 * `province`: province
 * `territory`: territory
 * `ed`: electoral district
-* `ed2013`: federal electoral district under the 2013 Representation Order
 * `cd`: census division
 * `csd`: census subdivision
 * `borough`: municipal borough

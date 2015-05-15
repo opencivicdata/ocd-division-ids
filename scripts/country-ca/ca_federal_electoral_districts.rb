@@ -17,7 +17,7 @@ class CA < Runner
     add_command({
       :name        => "names-2013",
       :description => "Prints a CSV of identifiers, English names, and French names",
-      :output_path => "identifiers/country-ca/ca_federal_electoral_districts-name_fr.csv",
+      :output_path => "identifiers/country-ca/ca_federal_electoral_districts-2013.csv",
     })
   end
 
@@ -30,14 +30,15 @@ class CA < Runner
   end
 
   def names_2013
-    puts CSV.generate_line(["id", "name", "name_fr"])
+    puts CSV.generate_line(["id", "name", "name_fr", "validFrom"])
     ShapefileParser.new(
       "http://ftp2.cits.rncan.gc.ca/pub/geobase/official/fed_cf/shp_eng/fed_cf_CA_2_1_shp_en.zip",
       "ed:", {
-        :id => "FEDNUM",
+        :id => lambda{|record| "#{record.attributes["FEDNUM"]}-2013"},
         :name => lambda{|record| record.attributes["ENNAME"].gsub("’", "'")},
         :name_fr => "FRNAME",
         :sort_as => "FEDNUM",
+        :validFrom => lambda{|record| "2015-10-19"},
       }
     ).run(:write_headers => false)
   end

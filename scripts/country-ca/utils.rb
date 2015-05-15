@@ -212,18 +212,25 @@ class ShapefileRecord
     @attributes = record.attributes
     @mappings = mappings
 
-    case @mappings.fetch(:name)
+    @name = case @mappings.fetch(:name)
     when Symbol, String
-      @name = @attributes.fetch(@mappings[:name])
+      @attributes.fetch(@mappings[:name])
     else
-      @name = @mappings[:name].call(record)
+      @mappings[:name].call(record)
     end
 
     @id = if @mappings.key?(:id)
-      if @attributes.fetch(@mappings[:id]).to_i == @attributes.fetch(@mappings[:id])
-        @attributes.fetch(@mappings[:id]).to_i.to_s # eliminate float precision
+      id = case @mappings[:id]
+      when Symbol, String
+        @attributes.fetch(@mappings[:id])
       else
-        @attributes.fetch(@mappings[:id]).to_s # may be an integer
+        @mappings[:id].call(record)
+      end
+
+      id = if id.to_i == @id
+        id.to_i.to_s # eliminate float precision
+      else
+        id.to_s # may be an integer
       end
     else
       name

@@ -53,6 +53,8 @@ $DIR/ca_provinces_and_territories.rb   names-fr > $DIR/../../identifiers/country
 echo 'ca_regions'
 $DIR/ca_regions.rb                     names-fr > $DIR/../../identifiers/country-ca/ca_regions-name_fr.csv
 
+echo 'ca_federal_electoral_districts names-2013'
+$DIR/ca_federal_electoral_districts.rb names-2013 > $DIR/../../identifiers/country-ca/ca_federal_electoral_districts-2013.csv
 echo 'ca_municipal_subdivisions posts-count'
 $DIR/ca_municipal_subdivisions.rb      posts-count > $DIR/../../identifiers/country-ca/ca_municipal_subdivisions-posts_count.csv
 echo 'ca_municipal_subdivisions has-children'
