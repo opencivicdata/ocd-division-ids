@@ -1,26 +1,26 @@
-id,name
+id,name_fr
 ocd-division/country:ca/ed:10001,Avalon
 ocd-division/country:ca/ed:10002,Bonavista—Gander—Grand Falls—Windsor
 ocd-division/country:ca/ed:10003,Humber—St. Barbe—Baie Verte
 ocd-division/country:ca/ed:10004,Labrador
 ocd-division/country:ca/ed:10005,Random—Burin—St. George's
-ocd-division/country:ca/ed:10006,St. John's East
-ocd-division/country:ca/ed:10007,St. John's South—Mount Pearl
+ocd-division/country:ca/ed:10006,St. John's-Est
+ocd-division/country:ca/ed:10007,St. John's-Sud—Mount Pearl
 ocd-division/country:ca/ed:11001,Cardigan
 ocd-division/country:ca/ed:11002,Charlottetown
 ocd-division/country:ca/ed:11003,Egmont
 ocd-division/country:ca/ed:11004,Malpeque
 ocd-division/country:ca/ed:12001,Cape Breton—Canso
-ocd-division/country:ca/ed:12002,Central Nova
+ocd-division/country:ca/ed:12002,Nova-Centre
 ocd-division/country:ca/ed:12003,Dartmouth—Cole Harbour
 ocd-division/country:ca/ed:12004,Halifax
-ocd-division/country:ca/ed:12005,Halifax West
+ocd-division/country:ca/ed:12005,Halifax-Ouest
 ocd-division/country:ca/ed:12006,Kings—Hants
 ocd-division/country:ca/ed:12007,Cumberland—Colchester—Musquodoboit Valley
 ocd-division/country:ca/ed:12008,Sackville—Eastern Shore
 ocd-division/country:ca/ed:12009,South Shore—St. Margaret's
 ocd-division/country:ca/ed:12010,Sydney—Victoria
-ocd-division/country:ca/ed:12011,West Nova
+ocd-division/country:ca/ed:12011,Nova-Ouest
 ocd-division/country:ca/ed:13001,Acadie—Bathurst
 ocd-division/country:ca/ed:13002,Beauséjour
 ocd-division/country:ca/ed:13003,Fredericton
@@ -28,7 +28,7 @@ ocd-division/country:ca/ed:13004,Fundy Royal
 ocd-division/country:ca/ed:13005,Madawaska—Restigouche
 ocd-division/country:ca/ed:13006,Miramichi
 ocd-division/country:ca/ed:13007,Moncton—Riverview—Dieppe
-ocd-division/country:ca/ed:13008,New Brunswick Southwest
+ocd-division/country:ca/ed:13008,Nouveau-Brunswick-Sud-Ouest
 ocd-division/country:ca/ed:13009,Saint John
 ocd-division/country:ca/ed:13010,Tobique—Mactaquac
 ocd-division/country:ca/ed:24001,Abitibi—Témiscamingue
@@ -74,7 +74,7 @@ ocd-division/country:ca/ed:24040,Marc-Aurèle-Fortin
 ocd-division/country:ca/ed:24041,Haute-Gaspésie—La Mitis—Matane—Matapédia
 ocd-division/country:ca/ed:24042,Mégantic—L'Érable
 ocd-division/country:ca/ed:24043,Montcalm
-ocd-division/country:ca/ed:24044,Mount Royal
+ocd-division/country:ca/ed:24044,Mont-Royal
 ocd-division/country:ca/ed:24045,Notre-Dame-de-Grâce—Lachine
 ocd-division/country:ca/ed:24046,Abitibi—Baie-James—Nunavik—Eeyou
 ocd-division/country:ca/ed:24047,Outremont
@@ -113,7 +113,7 @@ ocd-division/country:ca/ed:35004,Barrie
 ocd-division/country:ca/ed:35005,Beaches—East York
 ocd-division/country:ca/ed:35006,Bramalea—Gore—Malton
 ocd-division/country:ca/ed:35007,Brampton—Springdale
-ocd-division/country:ca/ed:35008,Brampton West
+ocd-division/country:ca/ed:35008,Brampton-Ouest
 ocd-division/country:ca/ed:35009,Brant
 ocd-division/country:ca/ed:35010,Burlington
 ocd-division/country:ca/ed:35011,Cambridge
@@ -121,63 +121,63 @@ ocd-division/country:ca/ed:35012,Carleton—Mississippi Mills
 ocd-division/country:ca/ed:35013,Chatham-Kent—Essex
 ocd-division/country:ca/ed:35014,Durham
 ocd-division/country:ca/ed:35015,Davenport
-ocd-division/country:ca/ed:35016,Don Valley East
-ocd-division/country:ca/ed:35017,Don Valley West
+ocd-division/country:ca/ed:35016,Don Valley-Est
+ocd-division/country:ca/ed:35017,Don Valley-Ouest
 ocd-division/country:ca/ed:35018,Dufferin—Caledon
 ocd-division/country:ca/ed:35019,Eglinton—Lawrence
 ocd-division/country:ca/ed:35020,Elgin—Middlesex—London
 ocd-division/country:ca/ed:35021,Essex
-ocd-division/country:ca/ed:35022,Etobicoke Centre
+ocd-division/country:ca/ed:35022,Etobicoke-Centre
 ocd-division/country:ca/ed:35023,Etobicoke—Lakeshore
-ocd-division/country:ca/ed:35024,Etobicoke North
+ocd-division/country:ca/ed:35024,Etobicoke-Nord
 ocd-division/country:ca/ed:35025,Glengarry—Prescott—Russell
 ocd-division/country:ca/ed:35026,Bruce—Grey—Owen Sound
 ocd-division/country:ca/ed:35027,Guelph
 ocd-division/country:ca/ed:35028,Haldimand—Norfolk
 ocd-division/country:ca/ed:35029,Haliburton—Kawartha Lakes—Brock
 ocd-division/country:ca/ed:35030,Halton
-ocd-division/country:ca/ed:35031,Hamilton Centre
-ocd-division/country:ca/ed:35032,Hamilton East—Stoney Creek
+ocd-division/country:ca/ed:35031,Hamilton-Centre
+ocd-division/country:ca/ed:35032,Hamilton-Est—Stoney Creek
 ocd-division/country:ca/ed:35033,Hamilton Mountain
 ocd-division/country:ca/ed:35034,Huron—Bruce
 ocd-division/country:ca/ed:35035,Kenora
-ocd-division/country:ca/ed:35036,Kingston and the Islands
-ocd-division/country:ca/ed:35037,Kitchener Centre
+ocd-division/country:ca/ed:35036,Kingston et les Îles
+ocd-division/country:ca/ed:35037,Kitchener-Centre
 ocd-division/country:ca/ed:35038,Kitchener—Conestoga
 ocd-division/country:ca/ed:35039,Kitchener—Waterloo
 ocd-division/country:ca/ed:35040,Lanark—Frontenac—Lennox and Addington
 ocd-division/country:ca/ed:35041,Leeds—Grenville
 ocd-division/country:ca/ed:35042,London—Fanshawe
-ocd-division/country:ca/ed:35043,London North Centre
-ocd-division/country:ca/ed:35044,London West
+ocd-division/country:ca/ed:35043,London-Centre-Nord
+ocd-division/country:ca/ed:35044,London-Ouest
 ocd-division/country:ca/ed:35045,Markham—Unionville
 ocd-division/country:ca/ed:35046,Lambton—Kent—Middlesex
-ocd-division/country:ca/ed:35047,Mississauga—Brampton South
-ocd-division/country:ca/ed:35048,Mississauga East—Cooksville
+ocd-division/country:ca/ed:35047,Mississauga—Brampton-Sud
+ocd-division/country:ca/ed:35048,Mississauga-Est—Cooksville
 ocd-division/country:ca/ed:35049,Mississauga—Erindale
-ocd-division/country:ca/ed:35050,Mississauga South
+ocd-division/country:ca/ed:35050,Mississauga-Sud
 ocd-division/country:ca/ed:35051,Mississauga—Streetsville
 ocd-division/country:ca/ed:35052,Nepean—Carleton
 ocd-division/country:ca/ed:35053,Newmarket—Aurora
 ocd-division/country:ca/ed:35054,Niagara Falls
-ocd-division/country:ca/ed:35055,Niagara West—Glanbrook
+ocd-division/country:ca/ed:35055,Niagara-Ouest—Glanbrook
 ocd-division/country:ca/ed:35056,Nickel Belt
 ocd-division/country:ca/ed:35057,Nipissing—Timiskaming
 ocd-division/country:ca/ed:35058,Northumberland—Quinte West
 ocd-division/country:ca/ed:35059,Oak Ridges—Markham
 ocd-division/country:ca/ed:35060,Oakville
 ocd-division/country:ca/ed:35061,Oshawa
-ocd-division/country:ca/ed:35062,Ottawa Centre
+ocd-division/country:ca/ed:35062,Ottawa-Centre
 ocd-division/country:ca/ed:35063,Ottawa—Orléans
-ocd-division/country:ca/ed:35064,Ottawa South
+ocd-division/country:ca/ed:35064,Ottawa-Sud
 ocd-division/country:ca/ed:35065,Ottawa—Vanier
-ocd-division/country:ca/ed:35066,Ottawa West—Nepean
+ocd-division/country:ca/ed:35066,Ottawa-Ouest—Nepean
 ocd-division/country:ca/ed:35067,Oxford
 ocd-division/country:ca/ed:35068,Parkdale—High Park
 ocd-division/country:ca/ed:35069,Parry Sound—Muskoka
 ocd-division/country:ca/ed:35070,Perth—Wellington
 ocd-division/country:ca/ed:35071,Peterborough
-ocd-division/country:ca/ed:35072,Pickering—Scarborough East
+ocd-division/country:ca/ed:35072,Pickering—Scarborough-Est
 ocd-division/country:ca/ed:35073,Prince Edward—Hastings
 ocd-division/country:ca/ed:35074,Renfrew—Nipissing—Pembroke
 ocd-division/country:ca/ed:35075,Richmond Hill
@@ -186,19 +186,19 @@ ocd-division/country:ca/ed:35077,St. Paul's
 ocd-division/country:ca/ed:35078,Sarnia—Lambton
 ocd-division/country:ca/ed:35079,Sault Ste. Marie
 ocd-division/country:ca/ed:35080,Scarborough—Agincourt
-ocd-division/country:ca/ed:35081,Scarborough Centre
+ocd-division/country:ca/ed:35081,Scarborough-Centre
 ocd-division/country:ca/ed:35082,Scarborough—Guildwood
 ocd-division/country:ca/ed:35083,Scarborough—Rouge River
-ocd-division/country:ca/ed:35084,Scarborough Southwest
+ocd-division/country:ca/ed:35084,Scarborough-Sud-Ouest
 ocd-division/country:ca/ed:35085,Simcoe—Grey
-ocd-division/country:ca/ed:35086,Simcoe North
+ocd-division/country:ca/ed:35086,Simcoe-Nord
 ocd-division/country:ca/ed:35087,Stormont—Dundas—South Glengarry
 ocd-division/country:ca/ed:35088,Sudbury
 ocd-division/country:ca/ed:35089,Thornhill
 ocd-division/country:ca/ed:35090,Thunder Bay—Rainy River
-ocd-division/country:ca/ed:35091,Thunder Bay—Superior North
-ocd-division/country:ca/ed:35092,Timmins—James Bay
-ocd-division/country:ca/ed:35093,Toronto Centre
+ocd-division/country:ca/ed:35091,Thunder Bay—Superior-Nord
+ocd-division/country:ca/ed:35092,Timmins—Baie James
+ocd-division/country:ca/ed:35093,Toronto-Centre
 ocd-division/country:ca/ed:35094,Toronto—Danforth
 ocd-division/country:ca/ed:35095,Trinity—Spadina
 ocd-division/country:ca/ed:35096,Vaughan
@@ -207,11 +207,11 @@ ocd-division/country:ca/ed:35098,Wellington—Halton Hills
 ocd-division/country:ca/ed:35099,Whitby—Oshawa
 ocd-division/country:ca/ed:35100,Willowdale
 ocd-division/country:ca/ed:35101,Windsor—Tecumseh
-ocd-division/country:ca/ed:35102,Windsor West
-ocd-division/country:ca/ed:35103,York Centre
+ocd-division/country:ca/ed:35102,Windsor-Ouest
+ocd-division/country:ca/ed:35103,York-Centre
 ocd-division/country:ca/ed:35104,York—Simcoe
-ocd-division/country:ca/ed:35105,York South—Weston
-ocd-division/country:ca/ed:35106,York West
+ocd-division/country:ca/ed:35105,York-Sud—Weston
+ocd-division/country:ca/ed:35106,York-Ouest
 ocd-division/country:ca/ed:46001,Brandon—Souris
 ocd-division/country:ca/ed:46002,Charleswood—St. James—Assiniboia
 ocd-division/country:ca/ed:46003,Churchill
@@ -220,15 +220,15 @@ ocd-division/country:ca/ed:46005,Elmwood—Transcona
 ocd-division/country:ca/ed:46006,Kildonan—St. Paul
 ocd-division/country:ca/ed:46007,Portage—Lisgar
 ocd-division/country:ca/ed:46008,Provencher
-ocd-division/country:ca/ed:46009,Saint Boniface
+ocd-division/country:ca/ed:46009,Saint-Boniface
 ocd-division/country:ca/ed:46010,Selkirk—Interlake
-ocd-division/country:ca/ed:46011,Winnipeg Centre
-ocd-division/country:ca/ed:46012,Winnipeg North
-ocd-division/country:ca/ed:46013,Winnipeg South
-ocd-division/country:ca/ed:46014,Winnipeg South Centre
+ocd-division/country:ca/ed:46011,Winnipeg-Centre
+ocd-division/country:ca/ed:46012,Winnipeg-Nord
+ocd-division/country:ca/ed:46013,Winnipeg-Sud
+ocd-division/country:ca/ed:46014,Winnipeg-Centre-Sud
 ocd-division/country:ca/ed:47001,Battlefords—Lloydminster
 ocd-division/country:ca/ed:47002,Blackstrap
-ocd-division/country:ca/ed:47003,Desnethé—Missinippi—Churchill River
+ocd-division/country:ca/ed:47003,Desnethé—Missinippi—Rivière Churchill
 ocd-division/country:ca/ed:47004,Cypress Hills—Grasslands
 ocd-division/country:ca/ed:47005,Palliser
 ocd-division/country:ca/ed:47006,Prince Albert
@@ -241,18 +241,18 @@ ocd-division/country:ca/ed:47012,Souris—Moose Mountain
 ocd-division/country:ca/ed:47013,Wascana
 ocd-division/country:ca/ed:47014,Yorkton—Melville
 ocd-division/country:ca/ed:48001,Fort McMurray—Athabasca
-ocd-division/country:ca/ed:48002,Calgary East
-ocd-division/country:ca/ed:48003,Calgary Centre-North
-ocd-division/country:ca/ed:48004,Calgary Northeast
+ocd-division/country:ca/ed:48002,Calgary-Est
+ocd-division/country:ca/ed:48003,Calgary-Centre-Nord
+ocd-division/country:ca/ed:48004,Calgary-Nord-Est
 ocd-division/country:ca/ed:48005,Calgary—Nose Hill
-ocd-division/country:ca/ed:48006,Calgary Centre
-ocd-division/country:ca/ed:48007,Calgary Southeast
-ocd-division/country:ca/ed:48008,Calgary Southwest
-ocd-division/country:ca/ed:48009,Calgary West
+ocd-division/country:ca/ed:48006,Calgary-Centre
+ocd-division/country:ca/ed:48007,Calgary-Sud-Est
+ocd-division/country:ca/ed:48008,Calgary-Sud-Ouest
+ocd-division/country:ca/ed:48009,Calgary-Ouest
 ocd-division/country:ca/ed:48010,Crowfoot
 ocd-division/country:ca/ed:48011,Edmonton—Mill Woods—Beaumont
-ocd-division/country:ca/ed:48012,Edmonton Centre
-ocd-division/country:ca/ed:48013,Edmonton East
+ocd-division/country:ca/ed:48012,Edmonton-Centre
+ocd-division/country:ca/ed:48013,Edmonton-Est
 ocd-division/country:ca/ed:48014,Edmonton—Leduc
 ocd-division/country:ca/ed:48015,Edmonton—St. Albert
 ocd-division/country:ca/ed:48016,Edmonton—Sherwood Park
@@ -273,7 +273,7 @@ ocd-division/country:ca/ed:59002,Burnaby—Douglas
 ocd-division/country:ca/ed:59003,Burnaby—New Westminster
 ocd-division/country:ca/ed:59004,Cariboo—Prince George
 ocd-division/country:ca/ed:59005,Chilliwack—Fraser Canyon
-ocd-division/country:ca/ed:59006,Delta—Richmond East
+ocd-division/country:ca/ed:59006,Delta—Richmond-Est
 ocd-division/country:ca/ed:59007,Pitt Meadows—Maple Ridge—Mission
 ocd-division/country:ca/ed:59008,Esquimalt—Juan de Fuca
 ocd-division/country:ca/ed:59009,Fleetwood—Port Kells
@@ -283,7 +283,7 @@ ocd-division/country:ca/ed:59012,Kootenay—Columbia
 ocd-division/country:ca/ed:59013,Langley
 ocd-division/country:ca/ed:59014,Nanaimo—Alberni
 ocd-division/country:ca/ed:59015,Nanaimo—Cowichan
-ocd-division/country:ca/ed:59016,Newton—North Delta
+ocd-division/country:ca/ed:59016,Newton—Delta-Nord
 ocd-division/country:ca/ed:59017,New Westminster—Coquitlam
 ocd-division/country:ca/ed:59018,Okanagan—Shuswap
 ocd-division/country:ca/ed:59019,North Vancouver
@@ -293,17 +293,17 @@ ocd-division/country:ca/ed:59022,Prince George—Peace River
 ocd-division/country:ca/ed:59023,Richmond
 ocd-division/country:ca/ed:59024,Saanich—Gulf Islands
 ocd-division/country:ca/ed:59025,Skeena—Bulkley Valley
-ocd-division/country:ca/ed:59026,British Columbia Southern Interior
-ocd-division/country:ca/ed:59027,South Surrey—White Rock—Cloverdale
-ocd-division/country:ca/ed:59028,Surrey North
-ocd-division/country:ca/ed:59029,Vancouver Centre
-ocd-division/country:ca/ed:59030,Vancouver East
-ocd-division/country:ca/ed:59031,Vancouver Island North
+ocd-division/country:ca/ed:59026,Colombie-Britannique-Southern Interior
+ocd-division/country:ca/ed:59027,Surrey-Sud—White Rock—Cloverdale
+ocd-division/country:ca/ed:59028,Surrey-Nord
+ocd-division/country:ca/ed:59029,Vancouver-Centre
+ocd-division/country:ca/ed:59030,Vancouver-Est
+ocd-division/country:ca/ed:59031,Île de Vancouver-Nord
 ocd-division/country:ca/ed:59032,Vancouver Kingsway
 ocd-division/country:ca/ed:59033,Vancouver Quadra
-ocd-division/country:ca/ed:59034,Vancouver South
+ocd-division/country:ca/ed:59034,Vancouver-Sud
 ocd-division/country:ca/ed:59035,Victoria
 ocd-division/country:ca/ed:59036,West Vancouver—Sunshine Coast—Sea to Sky Country
 ocd-division/country:ca/ed:60001,Yukon
-ocd-division/country:ca/ed:61001,Northwest Territories
+ocd-division/country:ca/ed:61001,Territoires du Nord-Ouest
 ocd-division/country:ca/ed:62001,Nunavut

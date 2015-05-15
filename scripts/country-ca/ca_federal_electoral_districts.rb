@@ -6,12 +6,31 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 # Scrapes federal electoral district codes and names from elections.ca
 
 class CA < Runner
+  def initialize(*args)
+    super
+
+    add_command({
+      :name        => "names-fr",
+      :description => "Prints a CSV of identifiers and French names",
+      :output_path => "identifiers/country-ca/ca_federal_electoral_districts-name_fr.csv",
+    })
+    add_command({
+      :name        => "names-2013",
+      :description => "Prints a CSV of identifiers, English names, and French names",
+      :output_path => "identifiers/country-ca/ca_federal_electoral_districts-name_fr.csv",
+    })
+  end
+
   def names
-    puts CSV.generate_line(["id", "name", "name_fr", "validFrom", "validThrough"])
+    rows("name", "e")
+  end
 
-    names_en = rows("e")
-    names_fr = rows("F")
+  def names_fr
+    rows("name_fr", "F")
+  end
 
+  def names_2013
+    puts CSV.generate_line(["id", "name", "name_fr"])
     ShapefileParser.new(
       "http://ftp2.cits.rncan.gc.ca/pub/geobase/official/fed_cf/shp_eng/fed_cf_CA_2_1_shp_en.zip",
       "ed:", {
@@ -19,21 +38,14 @@ class CA < Runner
         :name => lambda{|record| record.attributes["ENNAME"].gsub("’", "'")},
         :name_fr => "FRNAME",
         :sort_as => "FEDNUM",
-        :validFrom => lambda{|record| names_en.delete(record.attributes["FEDNUM"].to_s) ? "" : "2015-10-19"},
-        :validThrough => lambda{|record| ""},
       }
     ).run(:write_headers => false)
-
-    names_en.each do |identifier,name|
-      output("ed:", identifier, name, names_fr[identifier], "", "2015-10-18")
-    end
   end
 
 private
 
-  def rows(language)
-    divisions = {}
-
+  def rows(column_name, language)
+    puts CSV.generate_line(["id", column_name])
     # The most authoritative data is only available as HTML.
     Nokogiri::HTML(open("http://elections.ca/content.aspx?section=res&dir=cir/list&document=index&lang=#{language}")).css("tr").each do |tr|
       tds = tr.css("td")
@@ -49,10 +61,8 @@ private
 
       # "Saint Boniface" is inconsistent with other district names in Manitoba,
       # "Charleswood–St. James–Assiniboia" and "Kildonan–St. Paul".
-      divisions[identifier] = name
+      output("ed:", identifier, name)
     end
-
-    divisions
   end
 end
 
