@@ -54,7 +54,7 @@ ocd-division/country:au/state:qld/federal_electorate:forde,Queensland - Federal 
 ocd-division/country:au/state:wa/federal_electorate:forrest,Western Australia - Federal House of Representatives Forrest electorate
 ocd-division/country:au/state:nsw/federal_electorate:fowler,New South Wales - Federal House of Representatives Fowler electorate
 ocd-division/country:au/state:tas/federal_electorate:franklin,Tasmania - Federal House of Representatives Franklin electorate
-ocd-division/country:au/federal_electorate:fraser,Australian Capital Territory and Jarvis Bay Territory - Federal House of Representatives Fraser electorate
+ocd-division/country:au/territory:act/federal_electorate:fraser,Australian Capital Territory and Jarvis Bay Territory - Federal House of Representatives Fraser electorate
 ocd-division/country:au/state:wa/federal_electorate:fremantle,Western Australia - Federal House of Representatives Fremantle electorate
 ocd-division/country:au/state:vic/federal_electorate:gellibrand,Victoria - Federal House of Representatives Gellibrand electorate
 ocd-division/country:au/state:nsw/federal_electorate:gilmore,New South Wales - Federal House of Representatives Gilmore electorate
