@@ -26,7 +26,7 @@ GEM
     net-http-persistent (2.9.4)
     nokogiri (1.5.9)
     ntlm-http (0.1.1)
-    ruby-ole (1.2.11.7)
+    ruby-ole (1.2.11.8)
     rubyzip (1.1.6)
     spreadsheet (0.9.7)
       ruby-ole (>= 1.0)
