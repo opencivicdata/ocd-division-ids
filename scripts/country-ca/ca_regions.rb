@@ -17,11 +17,11 @@ class Regions < Runner
   end
 
   def names
-    rows("name", "eng")
+    rows("name", "")
   end
 
   def names_fr
-    rows("name_fr", "fra")
+    rows("name_fr", "_f")
   end
 
 private
@@ -29,8 +29,8 @@ private
   def rows(column_name, language)
     puts CSV.generate_line(['id', column_name])
     # The regions appear in the same order in both languages.
-    Nokogiri::HTML(open("http://www.statcan.gc.ca/subjects-sujets/standard-norme/sgc-cgt/2011/sgc-cgt-intro-#{language}.htm")).css("ol:eq(2) li").each_with_index do |li,index|
-      output("region:", index + 1, li.text) # the number is the first digit of any SGC code
+    Nokogiri::HTML(open("http://www23.statcan.gc.ca/imdb/p3VD#{language}.pl?Function=getVDPage1&db=imdb&dis=2&adm=8&TVD=116940")).xpath("//tbody/tr").each do |tr|
+      output("region:", tr.at_xpath('./th[1]/a/text()').text, tr.at_xpath('./td[1]').text) # the number is the first digit of any SGC code
     end
   end
 end
