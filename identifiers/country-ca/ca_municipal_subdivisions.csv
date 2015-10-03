@@ -2094,6 +2094,8 @@ ocd-division/country:ca/csd:3510010/ward:9,Williamsville
 ocd-division/country:ca/csd:3510010/ward:10,Sydenham
 ocd-division/country:ca/csd:3510010/ward:11,King's Town
 ocd-division/country:ca/csd:3510010/ward:12,Pittsburgh
+ocd-division/country:ca/csd:3512005/ward:1,Ward 1
+ocd-division/country:ca/csd:3512005/ward:2,Ward 2
 ocd-division/country:ca/csd:3515014/ward:1,Otonabee
 ocd-division/country:ca/csd:3515014/ward:2,Monaghan
 ocd-division/country:ca/csd:3515014/ward:3,Town
@@ -2647,6 +2649,13 @@ ocd-division/country:ca/csd:4806016/ward:11,Ward 11
 ocd-division/country:ca/csd:4806016/ward:12,Ward 12
 ocd-division/country:ca/csd:4806016/ward:13,Ward 13
 ocd-division/country:ca/csd:4806016/ward:14,Ward 14
+ocd-division/country:ca/csd:4811012/division:1,Division 1
+ocd-division/country:ca/csd:4811012/division:2,Division 2
+ocd-division/country:ca/csd:4811012/division:3,Division 3
+ocd-division/country:ca/csd:4811012/division:4,Division 4
+ocd-division/country:ca/csd:4811012/division:5,Division 5
+ocd-division/country:ca/csd:4811012/division:6,Division 6
+ocd-division/country:ca/csd:4811012/division:7,Division 7
 ocd-division/country:ca/csd:4811052/ward:1,Ward 1
 ocd-division/country:ca/csd:4811052/ward:2,Ward 2
 ocd-division/country:ca/csd:4811052/ward:3,Ward 3
@@ -2667,6 +2676,12 @@ ocd-division/country:ca/csd:4811061/ward:9,Ward 9
 ocd-division/country:ca/csd:4811061/ward:10,Ward 10
 ocd-division/country:ca/csd:4811061/ward:11,Ward 11
 ocd-division/country:ca/csd:4811061/ward:12,Ward 12
+ocd-division/country:ca/csd:4812004/ward:1,Ward 1
+ocd-division/country:ca/csd:4812004/ward:2,Ward 2
+ocd-division/country:ca/csd:4812004/ward:3,Ward 3
+ocd-division/country:ca/csd:4812004/ward:4,Ward 4
+ocd-division/country:ca/csd:4812004/ward:5,Ward 5
+ocd-division/country:ca/csd:4812004/ward:6,Ward 6
 ocd-division/country:ca/csd:4816037/ward:1,Ward 1
 ocd-division/country:ca/csd:4816037/ward:2,Ward 2
 ocd-division/country:ca/csd:4816037/ward:3,Ward 3
