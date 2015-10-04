@@ -16,6 +16,7 @@ require "mechanize"
 require "nokogiri"
 require "spreadsheet"
 require "unicode_utils/downcase"
+require "unicode_utils/upcase"
 require "zip"
 
 class String
