@@ -395,7 +395,7 @@ class MunicipalSubdivision < Runner
     end
 
     census_subdivisions_sk.each do |identifier,block|
-      if block[/^Division \d+:/]
+      if block[/^Division [2-9][0-9]*:/]
         subdivisions[identifier] = "Y"
       end
     end
