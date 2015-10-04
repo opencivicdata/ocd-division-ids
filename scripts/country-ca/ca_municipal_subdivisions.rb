@@ -632,12 +632,13 @@ private
       text = row.xpath(".//td[1]").text.strip.normalize_space
       if row.xpath(".//td[2]").text.strip == "Lower Tier"
         text_map = {
-          "Grand Valley, Town of"             => ["East Luther Grand Valley", "Township"],
-          "Markham, City of"                  => ["Markham", "Town"],
-          "Middlesex Centre, Municipality of" => ["Middlesex Centre", "Township"],
-          "Selwyn, Township of"               => ["Smith-Ennismore-Lakefield", "Township"],
-          "South Dundas, Municipality of"     => ["South Dundas", "Township"],
-          "Trent Lakes, Municipality of"      => ["Galway-Cavendish and Harvey", "Township"],
+          "Grand Valley, Town of"              => ["East Luther Grand Valley", "Township"],
+          "Markham, City of"                   => ["Markham", "Town"],
+          "Middlesex Centre, Municipality of"  => ["Middlesex Centre", "Township"],
+          "Mississippi Mills, Municipality of" => ["Mississippi Mills", "Town"],
+          "Selwyn, Township of"                => ["Smith-Ennismore-Lakefield", "Township"],
+          "South Dundas, Municipality of"      => ["South Dundas", "Township"],
+          "Trent Lakes, Municipality of"       => ["Galway-Cavendish and Harvey", "Township"],
         }
 
         if ["Haldimand County", "Norfolk County"].include?(text)
@@ -653,10 +654,10 @@ private
 
         type = type_map["cd"][type_name] || type_map["csd"][type_name] || raise("Unrecognized type name: '#{type_name}'")
 
-        if name == "Dysart, Dudley, Harcourt, Guilford, Harburn, Bruton, Havelock, Eyre and Clyde"
+        case name
+        when "Dysart, Dudley, Harcourt, Guilford, Harburn, Bruton, Havelock, Eyre and Clyde"
           name = "Dysart and Others"
-        end
-        if name == "The Nation"
+        when "The Nation"
           type = "M" # not MU
         end
 
