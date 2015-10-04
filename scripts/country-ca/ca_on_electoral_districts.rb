@@ -7,15 +7,9 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 
 class ON < Runner
   def names
-    puts CSV.generate_line(%w(id name name_fr))
-    # The shapefile from elections.on.ca has district names in all-caps.
-    # @see http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/PDEDS.htm
-    Nokogiri::HTML(open("http://www.elections.on.ca/en-CA/Tools/ElectoralDistricts/EDNames.htm")).css("table table tr:gt(1)").each do |tr|
-      texts = tr.css("td").map do |td|
-        td.text.normalize_space.sub(/\.(?=\S)/, ". ").sub('Chatham—Kent', 'Chatham-Kent').sub(/(?<=Lennox)(?=and)/, " ").sub(/(?<=London)(?=West)/, " ") # add missing space
-      end
-
-      output("province:on/ed:", texts[0], texts[1], texts[2])
+    puts CSV.generate_line(%w(id name))
+    Nokogiri::HTML(open("http://fyed.elections.on.ca/fyed/en/list_page_en.jsp?show=all")).xpath("//table[@width=600]//a").sort_by{|a| a[:href]}.each do |a|
+      output("province:on/ed:", a[:href][%r{=0*(\d+)\z}, 1], UnicodeUtils.downcase(a.text.sub('CHATHAM--KENT--', 'CHATHAM-KENT--').gsub('--', '—')).gsub(/\b(?!(?:and|s|the)\b)(\w)/){UnicodeUtils.upcase($1)})
     end
   end
 end
