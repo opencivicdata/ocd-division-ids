@@ -106,7 +106,7 @@ class MunicipalSubdivision < Runner
     provinces_and_territories_name_fr = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories-name_fr").to_h.invert
 
     rows = []
-    CSV.parse(open("https://docs.google.com/spreadsheets/d/16fM8o7CpgEDmz-QrS6wriU7_EXV-A4DfBqo1P_XWvVM/export?gid=0&format=csv").read.force_encoding('UTF-8'), :headers => true) do |result|
+    CSV.parse(open("https://raw.githubusercontent.com/okfn/dataportals.org/master/data/portals.csv").read.force_encoding('UTF-8'), :headers => true) do |result|
       if result["tags"] && result["tags"]["canada"]
         next if [
           "British Columbia Local Government Open Data Catalogue",
