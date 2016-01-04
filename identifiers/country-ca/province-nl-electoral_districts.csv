@@ -1,49 +1,41 @@
 id,name
-ocd-division/country:ca/province:nl/ed:baie_verte~springdale,Baie Verte—Springdale
-ocd-division/country:ca/province:nl/ed:bay_of_islands,Bay of Islands
-ocd-division/country:ca/province:nl/ed:bellevue,Bellevue
-ocd-division/country:ca/province:nl/ed:bonavista_north,Bonavista North
-ocd-division/country:ca/province:nl/ed:bonavista_south,Bonavista South
+ocd-division/country:ca/province:nl/ed:baie_verte~green_bay,Baie Verte—Green Bay
+ocd-division/country:ca/province:nl/ed:bonavista,Bonavista
 ocd-division/country:ca/province:nl/ed:burgeo~la_poile,Burgeo—La Poile
-ocd-division/country:ca/province:nl/ed:burin~placentia_west,Burin—Placentia West
+ocd-division/country:ca/province:nl/ed:burin~grand_bank,Burin—Grand Bank
 ocd-division/country:ca/province:nl/ed:cape_st._francis,Cape St. Francis
-ocd-division/country:ca/province:nl/ed:carbonear~harbour_grace,Carbonear—Harbour Grace
+ocd-division/country:ca/province:nl/ed:carbonear~trinity~bay_de_verde,Carbonear—Trinity—Bay de Verde
 ocd-division/country:ca/province:nl/ed:cartwright~l~anse_au_clair,Cartwright—L'Anse au Clair
 ocd-division/country:ca/province:nl/ed:conception_bay_east~bell_island,Conception Bay East—Bell Island
 ocd-division/country:ca/province:nl/ed:conception_bay_south,Conception Bay South
+ocd-division/country:ca/province:nl/ed:corner_brook,Corner Brook
 ocd-division/country:ca/province:nl/ed:exploits,Exploits
 ocd-division/country:ca/province:nl/ed:ferryland,Ferryland
+ocd-division/country:ca/province:nl/ed:fogo_island~cape_freels,Fogo Island—Cape Freels
 ocd-division/country:ca/province:nl/ed:fortune_bay~cape_la_hune,Fortune Bay—Cape La Hune
 ocd-division/country:ca/province:nl/ed:gander,Gander
-ocd-division/country:ca/province:nl/ed:grand_bank,Grand Bank
-ocd-division/country:ca/province:nl/ed:grand_falls-windsor~buchans,Grand Falls-Windsor—Buchans
-ocd-division/country:ca/province:nl/ed:grand_falls-windsor~green_bay_south,Grand Falls-Windsor—Green Bay South
+ocd-division/country:ca/province:nl/ed:grand_falls~windsor~buchans,Grand Falls—Windsor—Buchans
+ocd-division/country:ca/province:nl/ed:harbour_grace~port_de_grave,Harbour Grace—Port de Grave
 ocd-division/country:ca/province:nl/ed:harbour_main,Harbour Main
-ocd-division/country:ca/province:nl/ed:humber_east,Humber East
-ocd-division/country:ca/province:nl/ed:humber_valley,Humber Valley
-ocd-division/country:ca/province:nl/ed:humber_west,Humber West
-ocd-division/country:ca/province:nl/ed:kilbride,Kilbride
+ocd-division/country:ca/province:nl/ed:humber~bay_of_islands,Humber—Bay of Islands
+ocd-division/country:ca/province:nl/ed:humber~gros_morne,Humber—Gros Morne
 ocd-division/country:ca/province:nl/ed:labrador_west,Labrador West
 ocd-division/country:ca/province:nl/ed:lake_melville,Lake Melville
-ocd-division/country:ca/province:nl/ed:lewisporte,Lewisporte
+ocd-division/country:ca/province:nl/ed:lewisporte~twillingate,Lewisporte—Twillingate
 ocd-division/country:ca/province:nl/ed:mount_pearl_north,Mount Pearl North
-ocd-division/country:ca/province:nl/ed:mount_pearl_south,Mount Pearl South
+ocd-division/country:ca/province:nl/ed:mount_pearl~southlands,Mount Pearl—Southlands
+ocd-division/country:ca/province:nl/ed:mount_scio,Mount Scio
+ocd-division/country:ca/province:nl/ed:placentia_west~bellevue,Placentia West—Bellevue
 ocd-division/country:ca/province:nl/ed:placentia~st._mary~s,Placentia—St. Mary's
-ocd-division/country:ca/province:nl/ed:port_au_port,Port au Port
-ocd-division/country:ca/province:nl/ed:port_de_grave,Port de Grave
-ocd-division/country:ca/province:nl/ed:signal_hill~quidi_vidi,Signal Hill—Quidi Vidi
-ocd-division/country:ca/province:nl/ed:st._barbe,St. Barbe
-ocd-division/country:ca/province:nl/ed:st._george~s~stephenville_east,St. George's—Stephenville East
+ocd-division/country:ca/province:nl/ed:st._barbe~l~anse_aux_meadows,St. Barbe—L'Anse aux Meadows
+ocd-division/country:ca/province:nl/ed:st._george~s~humber,St. George's—Humber
 ocd-division/country:ca/province:nl/ed:st._john~s_centre,St. John's Centre
-ocd-division/country:ca/province:nl/ed:st._john~s_east,St. John's East
-ocd-division/country:ca/province:nl/ed:st._john~s_north,St. John's North
-ocd-division/country:ca/province:nl/ed:st._john~s_south,St. John's South
+ocd-division/country:ca/province:nl/ed:st._john~s_east~quidi_vidi,St. John's East—Quidi Vidi
 ocd-division/country:ca/province:nl/ed:st._john~s_west,St. John's West
+ocd-division/country:ca/province:nl/ed:stephenville~port_au_port,Stephenville—Port au Port
 ocd-division/country:ca/province:nl/ed:terra_nova,Terra Nova
-ocd-division/country:ca/province:nl/ed:the_isles_of_notre_dame,The Isles of Notre Dame
-ocd-division/country:ca/province:nl/ed:the_straits~white_bay_north,The Straits—White Bay North
-ocd-division/country:ca/province:nl/ed:topsail,Topsail
+ocd-division/country:ca/province:nl/ed:topsail~paradise,Topsail—Paradise
 ocd-division/country:ca/province:nl/ed:torngat_mountains,Torngat Mountains
-ocd-division/country:ca/province:nl/ed:trinity_north,Trinity North
-ocd-division/country:ca/province:nl/ed:trinity~bay_de_verde,Trinity—Bay de Verde
-ocd-division/country:ca/province:nl/ed:virginia_waters,Virginia Waters
+ocd-division/country:ca/province:nl/ed:virginia_waters~pleasantville,Virginia Waters—Pleasantville
+ocd-division/country:ca/province:nl/ed:waterford_valley,Waterford Valley
+ocd-division/country:ca/province:nl/ed:windsor_lake,Windsor Lake
