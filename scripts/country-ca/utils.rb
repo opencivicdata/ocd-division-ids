@@ -28,7 +28,7 @@ end
 def census_division_type_names
   {}.tap do |hash|
     Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-4-eng.cfm")).xpath("//table/tbody/tr/th[1]/abbr").each do |abbr|
-      hash[abbr.text] = abbr["title"].sub(/ \/.+\z/, "")
+      hash[abbr.text] = abbr["title"].sub(/\/.+\z/, "").strip
     end
   end
 end
@@ -36,7 +36,7 @@ end
 def census_subdivision_type_names
   {}.tap do |hash|
     Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-5-eng.cfm")).xpath("//table/tbody/tr/th[1]/abbr").each do |abbr|
-      hash[abbr.text] = abbr["title"].sub(/ \/.+\z/, "")
+      hash[abbr.text] = abbr["title"].sub(/\/.+\z/, "").strip
     end
   end
 end
