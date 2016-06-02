@@ -11,10 +11,10 @@ class SK < Runner
     # electoral districts. Only the shapefile assigns numeric identifiers;
     # those names and identifiers do not co-occur anywhere else.
     ShapefileParser.new(
-      "http://represent.opennorth.ca.s3.amazonaws.com/data/sk_ed.zip",
+      "ftp://portaldata:freedata@ftp.isc.ca/PackagedData/ElectionsSask/2013_Constituency.zip",
       "province:sk/ed:", {
-        :id => "CON_NUM",
-        :name => lambda{|record| record.attributes["CON_NAME"].downcase.gsub(/\b([a-z])/){|letter| letter.upcase}.sub("North East", "Northeast")},
+        :id => "Con_Num",
+        :name => lambda{|record| record.attributes["Con_Name"]},
       }
     ).run
     # Nokogiri::HTML(open("http://www.elections.sk.ca/publications/poll-maps/individual-constituencies")).css("table table a").each do |a|
