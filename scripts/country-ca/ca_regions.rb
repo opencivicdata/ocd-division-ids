@@ -30,7 +30,7 @@ private
     puts CSV.generate_line(['id', column_name])
     # The regions appear in the same order in both languages.
     Nokogiri::HTML(open("http://www23.statcan.gc.ca/imdb/p3VD#{language}.pl?Function=getVDPage1&db=imdb&dis=2&adm=8&TVD=116940")).xpath("//tbody/tr").each do |tr|
-      output("region:", tr.at_xpath('./th[1]/a/text()').text, tr.at_xpath('./td[1]').text) # the number is the first digit of any SGC code
+      output("region:", tr.at_xpath('./th[1]/a//text()').text, tr.at_xpath('./td[1]').text) # the number is the first digit of any SGC code
     end
   end
 end
