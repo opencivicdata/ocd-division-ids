@@ -7,14 +7,13 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 
 class SK < Runner
   def names
-    # The zip file from geosask.ca contains one shapefile for each of the 58
-    # electoral districts. Only the shapefile assigns numeric identifiers;
-    # those names and identifiers do not co-occur anywhere else.
+    # Only the shapefile assigns numeric identifiers; those names and
+    # identifiers do not co-occur anywhere else.
     ShapefileParser.new(
-      "ftp://portaldata:freedata@ftp.isc.ca/PackagedData/ElectionsSask/2013_Constituency.zip",
+      "http://electionssk1.blob.core.windows.net/shapefiles/Constit_2012.zip",
       "province:sk/ed:", {
         :id => "Con_Num",
-        :name => lambda{|record| record.attributes["Con_Name"]},
+        :name => "Con_Name",
       }
     ).run
     # Nokogiri::HTML(open("http://www.elections.sk.ca/publications/poll-maps/individual-constituencies")).css("table table a").each do |a|
