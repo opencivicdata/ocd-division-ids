@@ -260,70 +260,67 @@ ocd-division/country:us/state:nc/place:cary/council_district:a,Cary NC city coun
 ocd-division/country:us/state:nc/place:cary/council_district:b,Cary NC city council district B
 ocd-division/country:us/state:nc/place:cary/council_district:c,Cary NC city council district C
 ocd-division/country:us/state:nc/place:cary/council_district:d,Cary NC city council district D
-ocd-division/country:us/state:nc/county:camden/council_district:courthouse_district,Camden County Board Of County Commissioners Courthouse District
-ocd-division/country:us/state:nc/county:caswell/council_district:1,"Caswell County, NC Council District 1"
-ocd-division/country:us/state:nc/county:caswell/council_district:2,"Caswell County, NC Council District 2"
-ocd-division/country:us/state:nc/county:caswell/council_district:3,"Caswell County, NC Council District 3"
-ocd-division/country:us/state:nc/county:caswell/council_district:4,"Caswell County, NC Council District 4"
-ocd-division/country:us/state:nc/county:cherokee/council_district:1,"Cherokee County, NC Council District 1"
-ocd-division/country:us/state:nc/county:cherokee/council_district:2,"Cherokee County, NC Council District 2"
-ocd-division/country:us/state:nc/county:cherokee/council_district:3,"Cherokee County, NC Council District 3"
-ocd-division/country:us/state:nc/county:cherokee/council_district:4,"Cherokee County, NC Council District 4"
-ocd-division/country:us/state:nc/county:cherokee/council_district:5,"Cherokee County, NC Council District 5"
-ocd-division/country:us/state:nc/county:edgecombe/council_district:1,"Edgecombe County, NC Council District 1"
-ocd-division/country:us/state:nc/county:edgecombe/council_district:2,"Edgecombe County, NC Council District 2"
-ocd-division/country:us/state:nc/county:edgecombe/council_district:3,"Edgecombe County, NC Council District 3"
-ocd-division/country:us/state:nc/county:edgecombe/council_district:4,"Edgecombe County, NC Council District 4"
-ocd-division/country:us/state:nc/county:edgecombe/council_district:5,"Edgecombe County, NC Council District 5"
-ocd-division/country:us/state:nc/county:gaston/council_district:cherryville_township,Gaston County Board Of Commissioners Cherryville Township
-ocd-division/country:us/state:nc/county:gaston/council_district:crowders_mountain_township,Gaston County Board Of Commissioners - Crowders Mountain Township
-ocd-division/country:us/state:nc/county:gaston/council_district:gastonia_township,Gaston County Board Of Commissioners Gastonia Township
-ocd-division/country:us/state:nc/county:gaston/council_district:south_point_township,Gaston County Board Of Commissioners - South Point Township
-ocd-division/country:us/state:nc/county:greene/council_district:1,Greene County Board Of Commissioners District 1
-ocd-division/country:us/state:nc/county:guilford/district:stokesdale_fire,Stokesdale Fire District Tax Cap
-ocd-division/country:us/state:nc/county:hertford/council_district:1,Hertford County Board Of Commissioners District 1
-ocd-division/country:us/state:nc/county:hertford/council_district:2,Hertford County Board Of Commissioners District 2
-ocd-division/country:us/state:nc/county:hertford/place:ahoskie/ward:2,Town Of Ahoskie Council Member Ward B
-ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township_1,Ocracoke Township County Commissioner District 1
-ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township_2,Ocracoke Township County Commissioner District 2
-ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township_3,Ocracoke Township County Commissioner District 3
-ocd-division/country:us/state:nc/county:hyde/council_district:fairfield_township,Hyde County Board Of Commissioners Fairfield Township
-ocd-division/country:us/state:nc/county:hyde/council_district:lake_landing_township,Hyde County Board Of Commissioners Lake Landing Township
-ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township,Hyde County Board Of Commissioners Ocracoke Township
-ocd-division/country:us/state:nc/county:johnston/place:benson/council_district:1,Town Of Benson Commissioner District 1
-ocd-division/country:us/state:nc/county:johnston/place:benson/council_district:2,Town Of Benson Commissioner District 2
-ocd-division/country:us/state:nc/county:martin/council_district:eastern,Martin County Commissioner Eastern District
-ocd-division/country:us/state:nc/county:montgomery/council_district:1,Montgomery County Board Of Commissioners District 1
-ocd-division/country:us/state:nc/county:montgomery/council_district:2,Montgomery County Board Of Commissioners District 2
-ocd-division/country:us/state:nc/county:montgomery/council_district:3,Montgomery County Board Of Commissioners District 3
-ocd-division/country:us/state:nc/county:pamlico/council_district:1,Pamlico County Board Of  Commissioners District 1
-ocd-division/country:us/state:nc/county:pamlico/council_district:2,Pamlico County Board Of  Commissioners District 2
-ocd-division/country:us/state:nc/county:pamlico/council_district:3,Pamlico County Board Of  Commissioners District 3
-ocd-division/country:us/state:nc/county:pamlico/council_district:4,Pamlico County Board Of  Commissioners District 4
-ocd-division/country:us/state:nc/county:pamlico/council_district:5,Pamlico County Board Of  Commissioners District 5
-ocd-division/country:us/state:nc/county:randolph/council_district:1,Randolph County Board Of Commissioners District 1
-ocd-division/country:us/state:nc/county:randolph/council_district:2,Randolph County Board Of Commissioners District 2
-ocd-division/country:us/state:nc/county:randolph/council_district:3,Randolph County Board Of Commissioners District 3
-ocd-division/country:us/state:nc/county:randolph/council_district:4,Randolph County Board Of Commissioners District 4
-ocd-division/country:us/state:nc/county:randolph/council_district:5,Randolph County Board Of Commissioners District 5
-ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:1,City Of Lumberton City Council Member District 1
-ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:2,City Of Lumberton City Council Member District 2
-ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:3,City Of Lumberton City Council Member District 3
-ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:4,City Of Lumberton City Council Member District 4
-ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:5,City Of Lumberton City Council Member District 5
-ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:6,City Of Lumberton City Council Member District 6
-ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:7,City Of Lumberton City Council Member District 7
-ocd-division/country:us/state:nc/county:stanly/council_district:1,Stanly County Board Of Commissioners District 1
-ocd-division/country:us/state:nc/county:stanly/council_district:2,Stanly County Board Of Commissioners District 2
-ocd-division/country:us/state:nc/county:stanly/council_district:3,Stanly County Board Of Commissioners District 3
-ocd-division/country:us/state:nc/county:stanly/council_district:4,Stanly County Board Of Commissioners District 4
-ocd-division/country:us/state:nc/county:stanly/council_district:5,Stanly County Board Of Commissioners District 5
-ocd-division/country:us/state:nc/county:washington/council_district:1,Washington County Commissioner District 1
-ocd-division/country:us/state:nc/county:washington/council_district:2,Washington County Commissioner District 2
-ocd-division/country:us/state:nc/county:washington/council_district:3,Washington County Commissioner District 3
-ocd-division/country:us/state:nc/county:washington/council_district:4,Washington County Commissioner District 4
-ocd-division/country:us/state:nc/county:wilson/council_district:1,"Wilson County, NC Council District 1"
-ocd-division/country:us/state:nc/county:wilson/council_district:2,"Wilson County, NC Council District 2"
-ocd-division/country:us/state:nc/place:archdale/ward:1,"Archdale, NC Ward 1"
-ocd-division/country:us/state:nc/place:archdale/ward:2,"Archdale, NC Ward 2"
-ocd-division/country:us/state:nc/place:archdale/ward:3,"Archdale, NC Ward 3"
+ocd-division/country:us/state:nc/county:camden/council_district:courthouse_district,Camden County Board Of County Commissioners Courthouse Districtg
+ocd-division/country:us/state:nc/county:caswell/council_district:1,Caswell County Council District 1g
+ocd-division/country:us/state:nc/county:caswell/council_district:2,Caswell County Council District 2g
+ocd-division/country:us/state:nc/county:caswell/council_district:3,Caswell County Council District 3g
+ocd-division/country:us/state:nc/county:caswell/council_district:4,Caswell County Council District 4g
+ocd-division/country:us/state:nc/county:cherokee/council_district:4,Cherokee County Council District 4g
+ocd-division/country:us/state:nc/county:cherokee/council_district:5,Cherokee County Council District 5g
+ocd-division/country:us/state:nc/county:edgecombe/council_district:1,Edgecombe County Council District 1g
+ocd-division/country:us/state:nc/county:edgecombe/council_district:2,Edgecombe County Council District 2g
+ocd-division/country:us/state:nc/county:edgecombe/council_district:3,Edgecombe County Council District 3g
+ocd-division/country:us/state:nc/county:edgecombe/council_district:4,Edgecombe County Council District 4g
+ocd-division/country:us/state:nc/county:edgecombe/council_district:5,Edgecombe County Council District 5g
+ocd-division/country:us/state:nc/county:gaston/council_district:cherryville_township,Gaston County Board Of Commissioners Cherryville Townshipg
+ocd-division/country:us/state:nc/county:gaston/council_district:crowders_mountain_township,Gaston County Board Of Commissioners - Crowders Mountain Townshipg
+ocd-division/country:us/state:nc/county:gaston/council_district:gastonia_township,Gaston County Board Of Commissioners Gastonia Townshipg
+ocd-division/country:us/state:nc/county:gaston/council_district:south_point_township,Gaston County Board Of Commissioners - South Point Townshipg
+ocd-division/country:us/state:nc/county:greene/council_district:1,Greene County Board Of Commissioners District 1g
+ocd-division/country:us/state:nc/county:guilford/district:stokesdale_fire,Stokesdale Fire District Tax Capg
+ocd-division/country:us/state:nc/county:hertford/council_district:1,Hertford County Board Of Commissioners District 1g
+ocd-division/country:us/state:nc/county:hertford/council_district:2,Hertford County Board Of Commissioners District 2g
+ocd-division/country:us/state:nc/county:hertford/place:ahoskie/ward:2,Town Of Ahoskie Council Member Ward Bg
+ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township_1,Ocracoke Township County Commissioner District 1g
+ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township_2,Ocracoke Township County Commissioner District 2g
+ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township_3,Ocracoke Township County Commissioner District 3g
+ocd-division/country:us/state:nc/county:hyde/council_district:fairfield_township,Hyde County Board Of Commissioners Fairfield Townshipg
+ocd-division/country:us/state:nc/county:hyde/council_district:lake_landing_township,Hyde County Board Of Commissioners Lake Landing Townshipg
+ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township,Hyde County Board Of Commissioners Ocracoke Townshipg
+ocd-division/country:us/state:nc/county:johnston/place:benson/council_district:1,Town Of Benson Commissioner District 1g
+ocd-division/country:us/state:nc/county:johnston/place:benson/council_district:2,Town Of Benson Commissioner District 2g
+ocd-division/country:us/state:nc/county:martin/council_district:eastern,Martin County Commissioner Eastern Districtg
+ocd-division/country:us/state:nc/county:montgomery/council_district:1,Montgomery County Board Of Commissioners District 1g
+ocd-division/country:us/state:nc/county:montgomery/council_district:2,Montgomery County Board Of Commissioners District 2g
+ocd-division/country:us/state:nc/county:montgomery/council_district:3,Montgomery County Board Of Commissioners District 3g
+ocd-division/country:us/state:nc/county:pamlico/council_district:1,Pamlico County Board Of  Commissioners District 1g
+ocd-division/country:us/state:nc/county:pamlico/council_district:2,Pamlico County Board Of  Commissioners District 2g
+ocd-division/country:us/state:nc/county:pamlico/council_district:3,Pamlico County Board Of  Commissioners District 3g
+ocd-division/country:us/state:nc/county:pamlico/council_district:4,Pamlico County Board Of  Commissioners District 4g
+ocd-division/country:us/state:nc/county:pamlico/council_district:5,Pamlico County Board Of  Commissioners District 5g
+ocd-division/country:us/state:nc/county:randolph/council_district:1,Randolph County Board Of Commissioners District 1g
+ocd-division/country:us/state:nc/county:randolph/council_district:2,Randolph County Board Of Commissioners District 2g
+ocd-division/country:us/state:nc/county:randolph/council_district:3,Randolph County Board Of Commissioners District 3g
+ocd-division/country:us/state:nc/county:randolph/council_district:4,Randolph County Board Of Commissioners District 4g
+ocd-division/country:us/state:nc/county:randolph/council_district:5,Randolph County Board Of Commissioners District 5g
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:1,City Of Lumberton City Council Member District 1g
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:2,City Of Lumberton City Council Member District 2g
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:3,City Of Lumberton City Council Member District 3g
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:4,City Of Lumberton City Council Member District 4g
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:5,City Of Lumberton City Council Member District 5g
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:6,City Of Lumberton City Council Member District 6g
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:7,City Of Lumberton City Council Member District 7g
+ocd-division/country:us/state:nc/county:stanly/council_district:1,Stanly County Board Of Commissioners District 1g
+ocd-division/country:us/state:nc/county:stanly/council_district:2,Stanly County Board Of Commissioners District 2g
+ocd-division/country:us/state:nc/county:stanly/council_district:3,Stanly County Board Of Commissioners District 3g
+ocd-division/country:us/state:nc/county:stanly/council_district:4,Stanly County Board Of Commissioners District 4g
+ocd-division/country:us/state:nc/county:stanly/council_district:5,Stanly County Board Of Commissioners District 5g
+ocd-division/country:us/state:nc/county:washington/council_district:1,Washington County Commissioner District 1g
+ocd-division/country:us/state:nc/county:washington/council_district:2,Washington County Commissioner District 2g
+ocd-division/country:us/state:nc/county:washington/council_district:3,Washington County Commissioner District 3g
+ocd-division/country:us/state:nc/county:washington/council_district:4,Washington County Commissioner District 4g
+ocd-division/country:us/state:nc/county:wilson/council_district:1,Wilson County Council District 1g
+ocd-division/country:us/state:nc/county:wilson/council_district:2,Wilson County Council District 2g
+ocd-division/country:us/state:nc/place:archdale/ward:1,Archdale Ward 1g
+ocd-division/country:us/state:nc/place:archdale/ward:2,Archdale Ward 2g
+ocd-division/country:us/state:nc/place:archdale/ward:3,Archdale Ward 3
