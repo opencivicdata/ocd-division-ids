@@ -27,9 +27,9 @@ ocd-division/country:us/state:nc/county:chatham/council_district:2,Chatham Count
 ocd-division/country:us/state:nc/county:chatham/council_district:3,Chatham County District 3
 ocd-division/country:us/state:nc/county:chatham/council_district:4,Chatham County District 4
 ocd-division/country:us/state:nc/county:chatham/council_district:5,Chatham County District 5
-ocd-division/country:us/state:nc/county:cherokee/council_district:1,Cherokee County District 1
-ocd-division/country:us/state:nc/county:cherokee/council_district:2,Cherokee County District 2
-ocd-division/country:us/state:nc/county:cherokee/council_district:3,Cherokee County District 3
+ocd-division/country:us/state:nc/county:cherokee/council_district:1,Cherokee County Council District 1
+ocd-division/country:us/state:nc/county:cherokee/council_district:2,Cherokee County Council District 2
+ocd-division/country:us/state:nc/county:cherokee/council_district:3,Cherokee County Council District 3
 ocd-division/country:us/state:nc/county:chowan/council_district:1,Chowan County District 1
 ocd-division/country:us/state:nc/county:chowan/council_district:2,Chowan County District 2
 ocd-division/country:us/state:nc/county:chowan/council_district:3,Chowan County District 3
@@ -260,7 +260,7 @@ ocd-division/country:us/state:nc/place:cary/council_district:a,Cary NC city coun
 ocd-division/country:us/state:nc/place:cary/council_district:b,Cary NC city council district B
 ocd-division/country:us/state:nc/place:cary/council_district:c,Cary NC city council district C
 ocd-division/country:us/state:nc/place:cary/council_district:d,Cary NC city council district D
-ocd-division/country:us/state:nc/county:camden/council_district:courthouse_district,Camden County Board Of County Commissioners Courthouse Districtg
+ocd-division/country:us/state:nc/county:camden/council_district:courthouse_district,Camden County Board Of County Commissioners Courthouse District
 ocd-division/country:us/state:nc/county:caswell/council_district:1,Caswell County Council District 1
 ocd-division/country:us/state:nc/county:caswell/council_district:2,Caswell County Council District 2
 ocd-division/country:us/state:nc/county:caswell/council_district:3,Caswell County Council District 3
@@ -272,24 +272,24 @@ ocd-division/country:us/state:nc/county:edgecombe/council_district:2,Edgecombe C
 ocd-division/country:us/state:nc/county:edgecombe/council_district:3,Edgecombe County Council District 3
 ocd-division/country:us/state:nc/county:edgecombe/council_district:4,Edgecombe County Council District 4
 ocd-division/country:us/state:nc/county:edgecombe/council_district:5,Edgecombe County Council District 5
-ocd-division/country:us/state:nc/county:gaston/council_district:cherryville_township,Gaston County Board Of Commissioners Cherryville Townshipg
-ocd-division/country:us/state:nc/county:gaston/council_district:crowders_mountain_township,Gaston County Board Of Commissioners - Crowders Mountain Townshipg
-ocd-division/country:us/state:nc/county:gaston/council_district:gastonia_township,Gaston County Board Of Commissioners Gastonia Townshipg
-ocd-division/country:us/state:nc/county:gaston/council_district:south_point_township,Gaston County Board Of Commissioners - South Point Townshipg
+ocd-division/country:us/state:nc/county:gaston/council_district:cherryville_township,Gaston County Board Of Commissioners Cherryville Township
+ocd-division/country:us/state:nc/county:gaston/council_district:crowders_mountain_township,Gaston County Board Of Commissioners - Crowders Mountain Township
+ocd-division/country:us/state:nc/county:gaston/council_district:gastonia_township,Gaston County Board Of Commissioners Gastonia Township
+ocd-division/country:us/state:nc/county:gaston/council_district:south_point_township,Gaston County Board Of Commissioners - South Point Township
 ocd-division/country:us/state:nc/county:greene/council_district:1,Greene County Board Of Commissioners District 1
-ocd-division/country:us/state:nc/county:guilford/district:stokesdale_fire,Stokesdale Fire District Tax Capg
+ocd-division/country:us/state:nc/county:guilford/district:stokesdale_fire,Stokesdale Fire District Tax Cap
 ocd-division/country:us/state:nc/county:hertford/council_district:1,Hertford County Board Of Commissioners District 1
 ocd-division/country:us/state:nc/county:hertford/council_district:2,Hertford County Board Of Commissioners District 2
-ocd-division/country:us/state:nc/county:hertford/place:ahoskie/ward:2,Town Of Ahoskie Council Member Ward Bg
+ocd-division/country:us/state:nc/county:hertford/place:ahoskie/ward:2,Town Of Ahoskie Council Member Ward B
 ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township_1,Ocracoke Township County Commissioner District 1
 ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township_2,Ocracoke Township County Commissioner District 2
 ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township_3,Ocracoke Township County Commissioner District 3
-ocd-division/country:us/state:nc/county:hyde/council_district:fairfield_township,Hyde County Board Of Commissioners Fairfield Townshipg
-ocd-division/country:us/state:nc/county:hyde/council_district:lake_landing_township,Hyde County Board Of Commissioners Lake Landing Townshipg
-ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township,Hyde County Board Of Commissioners Ocracoke Townshipg
+ocd-division/country:us/state:nc/county:hyde/council_district:fairfield_township,Hyde County Board Of Commissioners Fairfield Township
+ocd-division/country:us/state:nc/county:hyde/council_district:lake_landing_township,Hyde County Board Of Commissioners Lake Landing Township
+ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township,Hyde County Board Of Commissioners Ocracoke Township
 ocd-division/country:us/state:nc/county:johnston/place:benson/council_district:1,Town Of Benson Commissioner District 1
 ocd-division/country:us/state:nc/county:johnston/place:benson/council_district:2,Town Of Benson Commissioner District 2
-ocd-division/country:us/state:nc/county:martin/council_district:eastern,Martin County Commissioner Eastern Districtg
+ocd-division/country:us/state:nc/county:martin/council_district:eastern,Martin County Commissioner Eastern District
 ocd-division/country:us/state:nc/county:montgomery/council_district:1,Montgomery County Board Of Commissioners District 1
 ocd-division/country:us/state:nc/county:montgomery/council_district:2,Montgomery County Board Of Commissioners District 2
 ocd-division/country:us/state:nc/county:montgomery/council_district:3,Montgomery County Board Of Commissioners District 3
@@ -324,3 +324,4 @@ ocd-division/country:us/state:nc/county:wilson/council_district:2,Wilson County 
 ocd-division/country:us/state:nc/place:archdale/ward:1,Archdale Ward 1
 ocd-division/country:us/state:nc/place:archdale/ward:2,Archdale Ward 2
 ocd-division/country:us/state:nc/place:archdale/ward:3,Archdale Ward 3
+ocd-division/country:us/state:nc/county:hyde/place:engelhard,Engelhard unincorporated fishing community
