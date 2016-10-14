@@ -273,9 +273,9 @@ ocd-division/country:us/state:nc/county:edgecombe/council_district:3,Edgecombe C
 ocd-division/country:us/state:nc/county:edgecombe/council_district:4,Edgecombe County Council District 4
 ocd-division/country:us/state:nc/county:edgecombe/council_district:5,Edgecombe County Council District 5
 ocd-division/country:us/state:nc/county:gaston/council_district:cherryville_township,Gaston County Board Of Commissioners Cherryville Township
-ocd-division/country:us/state:nc/county:gaston/council_district:crowders_mountain_township,Gaston County Board Of Commissioners - Crowders Mountain Township
+ocd-division/country:us/state:nc/county:gaston/council_district:crowders_mountain_township,Gaston County Board Of Commissioners Crowders Mountain Township
 ocd-division/country:us/state:nc/county:gaston/council_district:gastonia_township,Gaston County Board Of Commissioners Gastonia Township
-ocd-division/country:us/state:nc/county:gaston/council_district:south_point_township,Gaston County Board Of Commissioners - South Point Township
+ocd-division/country:us/state:nc/county:gaston/council_district:south_point_township,Gaston County Board Of Commissioners South Point Township
 ocd-division/country:us/state:nc/county:greene/council_district:1,Greene County Board Of Commissioners District 1
 ocd-division/country:us/state:nc/county:guilford/district:stokesdale_fire,Stokesdale Fire District Tax Cap
 ocd-division/country:us/state:nc/county:hertford/council_district:1,Hertford County Board Of Commissioners District 1
@@ -335,8 +335,8 @@ ocd-division/country:us/state:nc/county:brunswick/school_board_district:4,Brunsw
 ocd-division/country:us/state:nc/county:buncombe/school_board_district:north_buncombe,Buncombe County School Board North_Buncombe District
 ocd-division/country:us/state:nc/county:buncombe/school_board_district:owen,Buncombe County School Board Owen District
 ocd-division/country:us/state:nc/county:buncombe/school_board_district:roberson,Buncombe County School Board Roberson District
-ocd-division/country:us/state:nc/county:cabarrus/place:kannapolis/school_board_district:1,Kannapolis Board Of Education- Area I
-ocd-division/country:us/state:nc/county:cabarrus/place:kannapolis/school_board_district:2,Kannapolis Board Of Education- Area II
+ocd-division/country:us/state:nc/place:kannapolis/school_board_district:1,Kannapolis Board Of Education Area I
+ocd-division/country:us/state:nc/place:kannapolis/school_board_district:2,Kannapolis Board Of Education Area II
 ocd-division/country:us/state:nc/county:carteret/school_board_district:2,Carteret County Board Of Education District 2
 ocd-division/country:us/state:nc/county:carteret/school_board_district:3,Carteret County Board Of Education District 3
 ocd-division/country:us/state:nc/county:carteret/school_board_district:4,Carteret County Board Of Education District 4
@@ -366,7 +366,7 @@ ocd-division/country:us/state:nc/county:dare/school_board_district:2,Dare County
 ocd-division/country:us/state:nc/county:dare/school_board_district:3,Dare County Board Of Education District 3
 ocd-division/country:us/state:nc/county:dare/school_board_district:4,Dare County Board Of Education District 4
 ocd-division/country:us/state:nc/county:dare/school_board_district:5,Dare County Board Of Education District 5
-ocd-division/country:us/state:nc/county:franklin/school_board_district:6,Franklin County School Board - At Large District 6
+ocd-division/country:us/state:nc/county:franklin/school_board_district:6,Franklin County School Board At Large District 6
 ocd-division/country:us/state:nc/county:gaston/school_board_district:cherryville_township,Gaston County Board Of Education Cherryville Township
 ocd-division/country:us/state:nc/county:gaston/school_board_district:crowders_moutain_township,Gaston County Board Of Education Crowders Mountain Township
 ocd-division/country:us/state:nc/county:gaston/school_board_district:gastonia_township,Gaston County Board Of Education Gastonia Township
@@ -401,10 +401,10 @@ ocd-division/country:us/state:nc/county:rockingham/school_board_district:1,Rocki
 ocd-division/country:us/state:nc/county:rockingham/school_board_district:2,Rockingham County School Board District 2
 ocd-division/country:us/state:nc/county:rockingham/school_board_district:3,Rockingham County School Board District 3
 ocd-division/country:us/state:nc/county:rockingham/school_board_district:4,Rockingham County School Board District 4
-ocd-division/country:us/state:nc/county:rowan/school_board_district:rowan-salisbury_3,Rowan-salisbury Board Of Education Seat 3
-ocd-division/country:us/state:nc/county:rowan/school_board_district:rowan-salisbury_5,Rowan-salisbury Board Of Education Seat 5
-ocd-division/country:us/state:nc/county:rowan/school_board_district:rowan-salisbury_7,Rowan-salisbury Board Of Education Seat 7
-ocd-division/country:us/state:nc/county:scotland/school_board_district:stewartsville,Scotland County Board Of Education - Stewartsville
+ocd-division/country:us/state:nc/county:rowan/school_board_district:rowan-salisbury_3,Rowan-Salisbury Board Of Education Seat 3
+ocd-division/country:us/state:nc/county:rowan/school_board_district:rowan-salisbury_5,Rowan-Salisbury Board Of Education Seat 5
+ocd-division/country:us/state:nc/county:rowan/school_board_district:rowan-salisbury_7,Rowan-Salisbury Board Of Education Seat 7
+ocd-division/country:us/state:nc/county:scotland/school_board_district:stewartsville,Scotland County Board Of Education Stewartsville
 ocd-division/country:us/state:nc/county:stanly/school_board_district:3,Stanly County Board Of Education District 3
 ocd-division/country:us/state:nc/county:stanly/school_board_district:4,Stanly County Board Of Education District 4
 ocd-division/country:us/state:nc/county:stanly/school_board_district:5,Stanly County Board Of Education District 5
@@ -434,7 +434,9 @@ ocd-division/country:us/state:nc/county:wayne/school_board_district:3,Wayne Coun
 ocd-division/country:us/state:nc/county:wilson/school_board_district:2,Wilson County School Board District 2
 ocd-division/country:us/state:nc/county:wilson/school_board_district:4,Wilson County School Board District 4
 ocd-division/country:us/state:nc/county:wilson/school_board_district:6,Wilson County School Board District 6
-ocd-division/country:us/state:nc/county:cabarrus/place:kannapolis,Kannapolis city
-ocd-division/country:us/state:nc/county:columbus/place:whiteville,Whiteville city
-ocd-division/country:us/state:nc/county:surry/place:elkin,Elkin town
-ocd-division/country:us/state:nc/county:surry/place:mount_airy,Mount airy town
+ocd-division/country:us/state:nc/county:columbus/place:whiteville,Whiteville City
+ocd-division/country:us/state:nc/county:surry/place:elkin,Elkin Town
+ocd-division/country:us/state:nc/county:surry/place:mount_airy,Mount Airy Town
+ocd-division/country:us/state:nc/county:hertford/place:ahoskie,Ahoskie Town
+ocd-division/country:us/state:nc/county:johnston/place:benson,Benson Town
+ocd-division/country:us/state:nc/county:robeson/place:lumberton,Lumberton City
