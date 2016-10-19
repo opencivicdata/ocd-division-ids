@@ -260,3 +260,183 @@ ocd-division/country:us/state:nc/place:cary/council_district:a,Cary NC city coun
 ocd-division/country:us/state:nc/place:cary/council_district:b,Cary NC city council district B
 ocd-division/country:us/state:nc/place:cary/council_district:c,Cary NC city council district C
 ocd-division/country:us/state:nc/place:cary/council_district:d,Cary NC city council district D
+ocd-division/country:us/state:nc/county:camden/council_district:courthouse_district,Camden County Board Of County Commissioners Courthouse District
+ocd-division/country:us/state:nc/county:caswell/council_district:1,Caswell County Council District 1
+ocd-division/country:us/state:nc/county:caswell/council_district:2,Caswell County Council District 2
+ocd-division/country:us/state:nc/county:caswell/council_district:3,Caswell County Council District 3
+ocd-division/country:us/state:nc/county:caswell/council_district:4,Caswell County Council District 4
+ocd-division/country:us/state:nc/county:cherokee/council_district:4,Cherokee County District 4
+ocd-division/country:us/state:nc/county:cherokee/council_district:5,Cherokee County District 5
+ocd-division/country:us/state:nc/county:edgecombe/council_district:1,Edgecombe County Council District 1
+ocd-division/country:us/state:nc/county:edgecombe/council_district:2,Edgecombe County Council District 2
+ocd-division/country:us/state:nc/county:edgecombe/council_district:3,Edgecombe County Council District 3
+ocd-division/country:us/state:nc/county:edgecombe/council_district:4,Edgecombe County Council District 4
+ocd-division/country:us/state:nc/county:edgecombe/council_district:5,Edgecombe County Council District 5
+ocd-division/country:us/state:nc/county:gaston/council_district:cherryville_township,Gaston County Board Of Commissioners Cherryville Township
+ocd-division/country:us/state:nc/county:gaston/council_district:crowders_mountain_township,Gaston County Board Of Commissioners Crowders Mountain Township
+ocd-division/country:us/state:nc/county:gaston/council_district:gastonia_township,Gaston County Board Of Commissioners Gastonia Township
+ocd-division/country:us/state:nc/county:gaston/council_district:south_point_township,Gaston County Board Of Commissioners South Point Township
+ocd-division/country:us/state:nc/county:greene/council_district:1,Greene County Board Of Commissioners District 1
+ocd-division/country:us/state:nc/county:guilford/district:stokesdale_fire,Stokesdale Fire District Tax Cap
+ocd-division/country:us/state:nc/county:hertford/council_district:1,Hertford County Board Of Commissioners District 1
+ocd-division/country:us/state:nc/county:hertford/council_district:2,Hertford County Board Of Commissioners District 2
+ocd-division/country:us/state:nc/county:hertford/place:ahoskie/ward:2,Town Of Ahoskie Council Member Ward B
+ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township_1,Ocracoke Township County Commissioner District 1
+ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township_2,Ocracoke Township County Commissioner District 2
+ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township_3,Ocracoke Township County Commissioner District 3
+ocd-division/country:us/state:nc/county:hyde/council_district:fairfield_township,Hyde County Board Of Commissioners Fairfield Township
+ocd-division/country:us/state:nc/county:hyde/council_district:lake_landing_township,Hyde County Board Of Commissioners Lake Landing Township
+ocd-division/country:us/state:nc/county:hyde/council_district:ocracoke_township,Hyde County Board Of Commissioners Ocracoke Township
+ocd-division/country:us/state:nc/county:johnston/place:benson/council_district:1,Town Of Benson Commissioner District 1
+ocd-division/country:us/state:nc/county:johnston/place:benson/council_district:2,Town Of Benson Commissioner District 2
+ocd-division/country:us/state:nc/county:martin/council_district:eastern,Martin County Commissioner Eastern District
+ocd-division/country:us/state:nc/county:montgomery/council_district:1,Montgomery County Board Of Commissioners District 1
+ocd-division/country:us/state:nc/county:montgomery/council_district:2,Montgomery County Board Of Commissioners District 2
+ocd-division/country:us/state:nc/county:montgomery/council_district:3,Montgomery County Board Of Commissioners District 3
+ocd-division/country:us/state:nc/county:pamlico/council_district:1,Pamlico County Board Of Commissioners District 1
+ocd-division/country:us/state:nc/county:pamlico/council_district:2,Pamlico County Board Of Commissioners District 2
+ocd-division/country:us/state:nc/county:pamlico/council_district:3,Pamlico County Board Of Commissioners District 3
+ocd-division/country:us/state:nc/county:pamlico/council_district:4,Pamlico County Board Of Commissioners District 4
+ocd-division/country:us/state:nc/county:pamlico/council_district:5,Pamlico County Board Of Commissioners District 5
+ocd-division/country:us/state:nc/county:randolph/council_district:1,Randolph County Board Of Commissioners District 1
+ocd-division/country:us/state:nc/county:randolph/council_district:2,Randolph County Board Of Commissioners District 2
+ocd-division/country:us/state:nc/county:randolph/council_district:3,Randolph County Board Of Commissioners District 3
+ocd-division/country:us/state:nc/county:randolph/council_district:4,Randolph County Board Of Commissioners District 4
+ocd-division/country:us/state:nc/county:randolph/council_district:5,Randolph County Board Of Commissioners District 5
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:1,City Of Lumberton City Council Member District 1
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:2,City Of Lumberton City Council Member District 2
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:3,City Of Lumberton City Council Member District 3
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:4,City Of Lumberton City Council Member District 4
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:5,City Of Lumberton City Council Member District 5
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:6,City Of Lumberton City Council Member District 6
+ocd-division/country:us/state:nc/county:robeson/place:lumberton/council_district:7,City Of Lumberton City Council Member District 7
+ocd-division/country:us/state:nc/county:stanly/council_district:1,Stanly County Board Of Commissioners District 1
+ocd-division/country:us/state:nc/county:stanly/council_district:2,Stanly County Board Of Commissioners District 2
+ocd-division/country:us/state:nc/county:stanly/council_district:3,Stanly County Board Of Commissioners District 3
+ocd-division/country:us/state:nc/county:stanly/council_district:4,Stanly County Board Of Commissioners District 4
+ocd-division/country:us/state:nc/county:stanly/council_district:5,Stanly County Board Of Commissioners District 5
+ocd-division/country:us/state:nc/county:washington/council_district:1,Washington County Commissioner District 1
+ocd-division/country:us/state:nc/county:washington/council_district:2,Washington County Commissioner District 2
+ocd-division/country:us/state:nc/county:washington/council_district:3,Washington County Commissioner District 3
+ocd-division/country:us/state:nc/county:washington/council_district:4,Washington County Commissioner District 4
+ocd-division/country:us/state:nc/county:wilson/council_district:1,Wilson County Council District 1
+ocd-division/country:us/state:nc/county:wilson/council_district:2,Wilson County Council District 2
+ocd-division/country:us/state:nc/place:archdale/ward:1,Archdale Ward 1
+ocd-division/country:us/state:nc/place:archdale/ward:2,Archdale Ward 2
+ocd-division/country:us/state:nc/place:archdale/ward:3,Archdale Ward 3
+ocd-division/country:us/state:nc/county:hyde/place:engelhard,Engelhard unincorporated fishing community
+ocd-division/country:us/state:nc/county:bertie/school_board_district:1,Bertie County School Board District 1
+ocd-division/country:us/state:nc/county:bertie/school_board_district:5,Bertie County School Board District 5
+ocd-division/country:us/state:nc/county:bladen/school_board_district:1,Bladen County School Board District 1
+ocd-division/country:us/state:nc/county:bladen/school_board_district:2,Bladen County School Board District 2
+ocd-division/country:us/state:nc/county:brunswick/school_board_district:1,Brunswick County Board Of Education District 1
+ocd-division/country:us/state:nc/county:brunswick/school_board_district:2,Brunswick County Board Of Education District 2
+ocd-division/country:us/state:nc/county:brunswick/school_board_district:4,Brunswick County Board Of Education District 4
+ocd-division/country:us/state:nc/county:buncombe/school_board_district:north_buncombe,Buncombe County School Board North_Buncombe District
+ocd-division/country:us/state:nc/county:buncombe/school_board_district:owen,Buncombe County School Board Owen District
+ocd-division/country:us/state:nc/county:buncombe/school_board_district:roberson,Buncombe County School Board Roberson District
+ocd-division/country:us/state:nc/place:kannapolis/school_board_district:1,Kannapolis Board Of Education Area I
+ocd-division/country:us/state:nc/place:kannapolis/school_board_district:2,Kannapolis Board Of Education Area II
+ocd-division/country:us/state:nc/county:carteret/school_board_district:2,Carteret County Board Of Education District 2
+ocd-division/country:us/state:nc/county:carteret/school_board_district:3,Carteret County Board Of Education District 3
+ocd-division/country:us/state:nc/county:carteret/school_board_district:4,Carteret County Board Of Education District 4
+ocd-division/country:us/state:nc/county:cherokee/school_board_district:1,Cherokee County School Board District I
+ocd-division/country:us/state:nc/county:cherokee/school_board_district:2,Cherokee County School Board District II
+ocd-division/country:us/state:nc/county:chowan/school_board_district:1,Chowan County School Board District 1
+ocd-division/country:us/state:nc/county:chowan/school_board_district:2,Chowan County School Board District 2
+ocd-division/country:us/state:nc/county:chowan/school_board_district:3,Chowan County School Board District 3
+ocd-division/country:us/state:nc/county:columbus/place:whiteville/school_board_district:3,Whiteville City Schools Board Of Education District 3
+ocd-division/country:us/state:nc/county:columbus/place:whiteville/school_board_district:4,Whiteville City Schools Board Of Education District 4
+ocd-division/country:us/state:nc/county:columbus/school_board_district:1,Columbus County School Board District 1
+ocd-division/country:us/state:nc/county:columbus/school_board_district:3,Columbus County School Board District 3
+ocd-division/country:us/state:nc/county:columbus/school_board_district:4,Columbus County School Board District 4
+ocd-division/country:us/state:nc/county:columbus/school_board_district:5,Columbus County School Board District 5
+ocd-division/country:us/state:nc/county:craven/school_board_district:1,Craven County School Board District 1
+ocd-division/country:us/state:nc/county:craven/school_board_district:3,Craven County School Board District 3
+ocd-division/country:us/state:nc/county:cumberland/school_board_district:1,Cumberland County School Board District 1
+ocd-division/country:us/state:nc/county:cumberland/school_board_district:2,Cumberland County School Board District 2
+ocd-division/country:us/state:nc/county:cumberland/school_board_district:3,Cumberland County School Board District 3
+ocd-division/country:us/state:nc/county:cumberland/school_board_district:4,Cumberland County School Board District 4
+ocd-division/country:us/state:nc/county:cumberland/school_board_district:5,Cumberland County School Board District 5
+ocd-division/country:us/state:nc/county:cumberland/school_board_district:6,Cumberland County School Board District 6
+ocd-division/country:us/state:nc/county:currituck/school_board_district:fruitville_township,Currituck County Board Of Education Fruitville Township
+ocd-division/country:us/state:nc/county:currituck/school_board_district:moyock_township,Currituck County Board Of Education Moyock Township
+ocd-division/country:us/state:nc/county:dare/school_board_district:1,Dare County Board Of Education District 1
+ocd-division/country:us/state:nc/county:dare/school_board_district:2,Dare County Board Of Education District 2
+ocd-division/country:us/state:nc/county:dare/school_board_district:3,Dare County Board Of Education District 3
+ocd-division/country:us/state:nc/county:dare/school_board_district:4,Dare County Board Of Education District 4
+ocd-division/country:us/state:nc/county:dare/school_board_district:5,Dare County Board Of Education District 5
+ocd-division/country:us/state:nc/county:franklin/school_board_district:6,Franklin County School Board At Large District 6
+ocd-division/country:us/state:nc/county:gaston/school_board_district:cherryville_township,Gaston County Board Of Education Cherryville Township
+ocd-division/country:us/state:nc/county:gaston/school_board_district:crowders_moutain_township,Gaston County Board Of Education Crowders Mountain Township
+ocd-division/country:us/state:nc/county:gaston/school_board_district:gastonia_township,Gaston County Board Of Education Gastonia Township
+ocd-division/country:us/state:nc/county:gates/school_board_district:2,Gates County Wide School Board District 2
+ocd-division/country:us/state:nc/county:gates/school_board_district:4,Gates County Wide School Board District 4
+ocd-division/country:us/state:nc/county:guilford/school_board_district:1,Guilford County School Board District 1
+ocd-division/country:us/state:nc/county:guilford/school_board_district:4,Guilford County School Board District 4
+ocd-division/country:us/state:nc/county:guilford/school_board_district:8,Guilford County School Board District 8
+ocd-division/country:us/state:nc/county:haywood/school_board_district:beaverdam,Haywood County School Board Beaverdam District
+ocd-division/country:us/state:nc/county:haywood/school_board_district:waynesville,Haywood County School Board Waynesville District
+ocd-division/country:us/state:nc/county:jackson/school_board_district:1,Jackson County School Board District 1
+ocd-division/country:us/state:nc/county:jackson/school_board_district:3,Jackson County School Board District 3
+ocd-division/country:us/state:nc/county:lincoln/school_board_district:1,Lincoln County School Board District 1
+ocd-division/country:us/state:nc/county:lincoln/school_board_district:3,Lincoln County School Board District 3
+ocd-division/country:us/state:nc/county:lincoln/school_board_district:4,Lincoln County School Board District 4
+ocd-division/country:us/state:nc/county:macon/school_board_district:1,Macon County School Board District 1
+ocd-division/country:us/state:nc/county:macon/school_board_district:3,Macon County School Board District 3
+ocd-division/country:us/state:nc/county:macon/school_board_district:4,Macon County School Board District 4
+ocd-division/country:us/state:nc/county:martin/school_board_district:3,Martin County School Board District 3
+ocd-division/country:us/state:nc/county:martin/school_board_district:5,Martin County School Board District 5
+ocd-division/country:us/state:nc/county:martin/school_board_district:7,Martin County School Board District 7
+ocd-division/country:us/state:nc/county:nash/school_board_district:1,Nash County School Board District 1
+ocd-division/country:us/state:nc/county:nash/school_board_district:3,Nash County School Board District 3
+ocd-division/country:us/state:nc/county:nash/school_board_district:5,Nash County School Board District 5
+ocd-division/country:us/state:nc/county:nash/school_board_district:7,Nash County School Board District 7
+ocd-division/country:us/state:nc/county:pender/school_board_district:3,Pender County Board Of Education District 3
+ocd-division/country:us/state:nc/county:pender/school_board_district:5,Pender County Board Of Education District 5
+ocd-division/country:us/state:nc/county:polk/school_board_district:saluda_township,Polk County Board Of Education Saluda Township
+ocd-division/country:us/state:nc/county:polk/school_board_district:tryon_township,Polk County Board Of Education Tryon Township
+ocd-division/country:us/state:nc/county:polk/school_board_district:white_oak_township,Polk County Board Of Education White Oak Township
+ocd-division/country:us/state:nc/county:rockingham/school_board_district:1,Rockingham County School Board District 1
+ocd-division/country:us/state:nc/county:rockingham/school_board_district:2,Rockingham County School Board District 2
+ocd-division/country:us/state:nc/county:rockingham/school_board_district:3,Rockingham County School Board District 3
+ocd-division/country:us/state:nc/county:rockingham/school_board_district:4,Rockingham County School Board District 4
+ocd-division/country:us/state:nc/county:rowan/school_board_district:rowan-salisbury_3,Rowan-Salisbury Board Of Education Seat 3
+ocd-division/country:us/state:nc/county:rowan/school_board_district:rowan-salisbury_5,Rowan-Salisbury Board Of Education Seat 5
+ocd-division/country:us/state:nc/county:rowan/school_board_district:rowan-salisbury_7,Rowan-Salisbury Board Of Education Seat 7
+ocd-division/country:us/state:nc/county:scotland/school_board_district:stewartsville,Scotland County Board Of Education Stewartsville
+ocd-division/country:us/state:nc/county:stanly/school_board_district:3,Stanly County Board Of Education District 3
+ocd-division/country:us/state:nc/county:stanly/school_board_district:4,Stanly County Board Of Education District 4
+ocd-division/country:us/state:nc/county:stanly/school_board_district:5,Stanly County Board Of Education District 5
+ocd-division/country:us/state:nc/county:surry/place:elkin/school_board_district:city,Elkin City Schools Board Of Education City District
+ocd-division/country:us/state:nc/county:surry/place:elkin/school_board_district:east,Elkin City Schools Board Of Education East District
+ocd-division/country:us/state:nc/county:surry/place:mount_airy/school_board_district:a,Mount Airy City Schools Board Of Education District A
+ocd-division/country:us/state:nc/county:surry/place:mount_airy/school_board_district:b,Mount Airy City Schools Board Of Education District B
+ocd-division/country:us/state:nc/county:surry/place:mount_airy/school_board_district:c,Mount Airy City Schools Board Of Education District C
+ocd-division/country:us/state:nc/county:surry/place:mount_airy/school_board_district:d,Mount Airy City Schools Board Of Education District D
+ocd-division/country:us/state:nc/county:union/school_board_district:1,Union County School Board District 1
+ocd-division/country:us/state:nc/county:union/school_board_district:2,Union County School Board District 2
+ocd-division/country:us/state:nc/county:union/school_board_district:5,Union County School Board District 5
+ocd-division/country:us/state:nc/county:union/school_board_district:6,Union County School Board District 6
+ocd-division/country:us/state:nc/county:wake/school_board_district:1,Wake County School Board District 1
+ocd-division/country:us/state:nc/county:wake/school_board_district:2,Wake County School Board District 2
+ocd-division/country:us/state:nc/county:wake/school_board_district:3,Wake County School Board District 3
+ocd-division/country:us/state:nc/county:wake/school_board_district:4,Wake County School Board District 4
+ocd-division/country:us/state:nc/county:wake/school_board_district:5,Wake County School Board District 5
+ocd-division/country:us/state:nc/county:wake/school_board_district:6,Wake County School Board District 6
+ocd-division/country:us/state:nc/county:wake/school_board_district:7,Wake County School Board District 7
+ocd-division/country:us/state:nc/county:wake/school_board_district:8,Wake County School Board District 8
+ocd-division/country:us/state:nc/county:wake/school_board_district:9,Wake County School Board District 9
+ocd-division/country:us/state:nc/county:warren/school_board_district:3,Warren County Board Of Education-district 3
+ocd-division/country:us/state:nc/county:warren/school_board_district:5,Warren County Board Of Education-district 5
+ocd-division/country:us/state:nc/county:washington/school_board_district:3,Washington County Board Of Education District 3
+ocd-division/country:us/state:nc/county:wayne/school_board_district:3,Wayne County School Board District 3
+ocd-division/country:us/state:nc/county:wilson/school_board_district:2,Wilson County School Board District 2
+ocd-division/country:us/state:nc/county:wilson/school_board_district:4,Wilson County School Board District 4
+ocd-division/country:us/state:nc/county:wilson/school_board_district:6,Wilson County School Board District 6
+ocd-division/country:us/state:nc/county:columbus/place:whiteville,Whiteville City
+ocd-division/country:us/state:nc/county:surry/place:elkin,Elkin Town
+ocd-division/country:us/state:nc/county:surry/place:mount_airy,Mount Airy Town
+ocd-division/country:us/state:nc/county:hertford/place:ahoskie,Ahoskie Town
+ocd-division/country:us/state:nc/county:johnston/place:benson,Benson Town
+ocd-division/country:us/state:nc/county:robeson/place:lumberton,Lumberton City
