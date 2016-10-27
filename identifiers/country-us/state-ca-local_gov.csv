@@ -452,7 +452,8 @@ ocd-division/country:us/state:ca/place:inglewood/council_district:3,Inglewood CA
 ocd-division/country:us/state:ca/place:inglewood/council_district:4,Inglewood CA city council district 4
 ocd-division/country:us/state:ca/county:los_angeles/health_care:antelope_valley,Antelope Valley Health Care
 ocd-division/country:us/state:ca/county:los_angeles/health_care:beach_cities,Beach Cities Health Care
-ocd-division/country:us/state:ca/county:los_angeles/water:castaic_lake_water_agency,Castaic Lake Water Agency Div 1
+ocd-division/country:us/state:ca/county:los_angeles/water:castaic_lake_water_agency,Castaic Lake Water Agency
+ocd-division/country:us/state:ca/county:los_angeles/water:castaic_lake_water_agency/region:1,Castaic Lake Water Agency Division 1
 ocd-division/country:us/state:ca/place:palmdale/council_district:1,City Of Palmdale 1st Council
 ocd-division/country:us/state:ca/place:palmdale/council_district:2,City Of Palmdale 2nd Council
 ocd-division/country:us/state:ca/place:palmdale/council_district:3,City Of Palmdale 3rd Council
