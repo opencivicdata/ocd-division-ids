@@ -67,3 +67,69 @@ ocd-division/country:us/state:nv/place:north_las_vegas/ward:1,North Las Vegas NV
 ocd-division/country:us/state:nv/place:north_las_vegas/ward:2,North Las Vegas NV ward 2
 ocd-division/country:us/state:nv/place:north_las_vegas/ward:3,North Las Vegas NV ward 3
 ocd-division/country:us/state:nv/place:north_las_vegas/ward:4,North Las Vegas NV ward 4
+ocd-division/country:us/state:nv/board_of_regents:university_of_nevada_6,University of Nevada Board of Regents District 6
+ocd-division/country:us/state:nv/board_of_regents:university_of_nevada_9,University of Nevada Board of Regents District 9
+ocd-division/country:us/state:nv/county:clark/school_board_district:a,Clark County School Board Distrct A
+ocd-division/country:us/state:nv/county:clark/school_board_district:e,Clark County School Board Distrct E
+ocd-division/country:us/state:nv/county:douglas/school_board_district:4,Douglas County School Board District 4
+ocd-division/country:us/state:nv/county:douglas/school_board_district:5,Douglas County School Board District 5
+ocd-division/country:us/state:nv/county:elko/school_board_district:2,Elko County School Board District 2
+ocd-division/country:us/state:nv/county:eureka/council_district:1,Eureka County NV Council District 1
+ocd-division/country:us/state:nv/county:eureka/council_district:3,Eureka County NV Council District 1
+ocd-division/country:us/state:nv/county:humboldt/hospital:1,Humboldt County NV Hospital District
+ocd-division/country:us/state:nv/county:lander/hospital:1,Lander County NV Hospital District
+ocd-division/country:us/state:nv/county:lander/sewer:2,Lander County Sewer District 2
+ocd-division/country:us/state:nv/county:lincoln/council_district:a,Lincoln County NV Council District A
+ocd-division/country:us/state:nv/county:lincoln/council_district:c,Lincoln County NV Council District C
+ocd-division/country:us/state:nv/county:lincoln/council_district:e,Lincoln County NV Council District E
+ocd-division/country:us/state:nv/county:lincoln/power:1,Lincoln County NV Power District
+ocd-division/country:us/state:nv/county:lyon/school_board_district:7,Lyon County NV School Board District 7
+ocd-division/country:us/state:nv/county:overton/power:3,Overton County NV Power District 3
+ocd-division/country:us/state:nv/county:overton/power:7,Overton County NV Power District 7
+ocd-division/country:us/state:nv/county:washoe/school_board_district:c,Washoe County NV School Board District C
+ocd-division/country:us/state:nv/county:washoe/school_board_district:d,Washoe County NV School Board District D
+ocd-division/country:us/state:nv/county:washoe/school_board_district:g,Washoe County NV School Board District G
+ocd-division/country:us/state:nv/county:white_pine/council_district:2,White Pine County NV Council District 2
+ocd-division/country:us/state:nv/county:white_pine/hospital:3,White Pine County NV Hospital District 3
+ocd-division/country:us/state:nv/county:white_pine/hospital:4,White Pine County NV Hospital District 4
+ocd-division/country:us/state:nv/county:white_pine/hospital:5,White Pine County NV Hospital District 5
+ocd-division/country:us/state:nv/county:white_pine/school_board_district:d,White Pine County NV School Board District D
+ocd-division/country:us/state:nv/county:white_pine/school_board_district:g,White Pine County NV School Board District G
+ocd-division/country:us/state:nv/fire_protection:golconda,Golconda Fire Protection District
+ocd-division/country:us/state:nv/fire_protection:mason_valley,Mason Valley Fire Protection District
+ocd-division/country:us/state:nv/fire_protection:north_lake_tahoe,North Lake Tahoe Fire Protection District
+ocd-division/country:us/state:nv/fire_protection:north_lyon_county,North Lyon County Fire Protection District
+ocd-division/country:us/state:nv/fire_protection:tahoe_douglas,Tahoe Douglas Fire Protection District
+ocd-division/country:us/state:nv/general_improvement:canyon,Canyon General Improvement District (NV)
+ocd-division/country:us/state:nv/general_improvement:cave_rock_estates,Cave Rock Estates General Improvement District (NV)
+ocd-division/country:us/state:nv/general_improvement:fernley_swimming_pool,Fernley Swimming Pool General Improvement District (NV)
+ocd-division/country:us/state:nv/general_improvement:gerla,Gerla General Improvement District (NV)
+ocd-division/country:us/state:nv/general_improvement:incline_village,Incline Village General Improvement District (NV)
+ocd-division/country:us/state:nv/general_improvement:lander_county,Lander County General Improvement District (NV)
+ocd-division/country:us/state:nv/general_improvement:marla_bay,Marla Bay General Improvement District (NV)
+ocd-division/country:us/state:nv/general_improvement:sun_valley,Sun Valley General Improvement District (NV)
+ocd-division/country:us/state:nv/general_improvement:tahoe_reno_industrial_center,Tahoe Reno Industrial Center General Improvement District (NV)
+ocd-division/country:us/state:nv/place:amarsoa_valley,Amarsoa Valley NV
+ocd-division/country:us/state:nv/place:carson_city/ward:2,Carson City NV Ward 2
+ocd-division/country:us/state:nv/place:carson_city/ward:4,Carson City NV Ward 4
+ocd-division/country:us/state:nv/place:fernley/ward:2,Fernley NV Ward 4
+ocd-division/country:us/state:nv/place:kingston,Kingston NV
+ocd-division/country:us/state:nv/place:laughlin,Laughlin NV
+ocd-division/country:us/state:nv/place:minden,Minden NV
+ocd-division/country:us/state:nv/place:reno/council_district:3,Reno NV Council District 3
+ocd-division/country:us/state:nv/place:reno/council_district:5,Reno NV Council District 5
+ocd-division/country:us/state:nv/place:sparks/council_district:3,Sparks NV Council District 3
+ocd-division/country:us/state:nv/place:sparks/council_district:5,Sparks NV Council District 5
+ocd-division/country:us/state:nv/place:tonopah,Tonopah NV
+ocd-division/country:us/state:nv/region:central_lyon_county/fire_protection:4,Central Lyon County Fire Protection District 4
+ocd-division/country:us/state:nv/sanitation:minden_gardnerville,Minden Gardenville Sanitation District
+ocd-division/country:us/state:nv/school_board_district:1,Nevada State School Board District 1
+ocd-division/country:us/state:nv/school_board_district:2,Nevada State School Board District 2
+ocd-division/country:us/state:nv/school_board_district:3,Nevada State School Board District 3
+ocd-division/country:us/state:nv/school_board_district:4,Nevada State School Board District 4
+ocd-division/country:us/state:nv/swimming_pool:east_fork,East Fork Swimming Pool District
+ocd-division/country:us/state:nv/television:elko_county,Elko County NV Television District
+ocd-division/country:us/state:nv/water:lovelock_meadows,Lovelock Meadows Water District
+ocd-division/country:us/state:nv/water:virgin_valley,Virgin Valley Water District
+ocd-division/country:us/state:nv/county:overton,Overton
+ocd-division/country:us/state:nv/region:central_lyon_county,Central Lyon County Region

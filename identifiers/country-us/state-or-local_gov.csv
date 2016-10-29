@@ -43,3 +43,207 @@ ocd-division/country:us/state:or/place:salem/ward:5,Salem OR ward 5
 ocd-division/country:us/state:or/place:salem/ward:6,Salem OR ward 6
 ocd-division/country:us/state:or/place:salem/ward:7,Salem OR ward 7
 ocd-division/country:us/state:or/place:salem/ward:8,Salem OR ward 8
+ocd-division/country:us/state:or/conservation:baker_valley,Baker Valley
+ocd-division/country:us/state:or/conservation:baker_valley/district:2,Baker Valley Conservation District 2
+ocd-division/country:us/state:or/conservation:baker_valley/district:5,Baker Valley Conservation District 5
+ocd-division/country:us/state:or/conservation:benton,Benton
+ocd-division/country:us/state:or/conservation:benton/district:2,Benton Conservation District 2
+ocd-division/country:us/state:or/conservation:benton/district:3,Benton Conservation District 3
+ocd-division/country:us/state:or/conservation:burnt_river/district:1,Burnt River Conservation District 1
+ocd-division/country:us/state:or/conservation:burnt_river/district:zone,Burnt River Conservation District Zone
+ocd-division/country:us/state:or/conservation:clackamas,Clackamas
+ocd-division/country:us/state:or/conservation:clackamas/district:3,Clackamas Conservation District 3
+ocd-division/country:us/state:or/conservation:clackamas/district:zone,Clackamas Conservation District Zone
+ocd-division/country:us/state:or/conservation:clatsop,Clatsop
+ocd-division/country:us/state:or/conservation:clatsop/district:3,Clatsop Conservation District 3
+ocd-division/country:us/state:or/conservation:clatsop/district:5,Clatsop Conservation District 5
+ocd-division/country:us/state:or/conservation:columbia,Columbia
+ocd-division/country:us/state:or/conservation:columbia/district:2,Columbia Conservation District 2
+ocd-division/country:us/state:or/conservation:columbia/district:4,Columbia Conservation District 4
+ocd-division/country:us/state:or/conservation:columbia/district:5,Columbia Conservation District 5
+ocd-division/country:us/state:or/conservation:coos/district:1,Coos Conservation District 1
+ocd-division/country:us/state:or/conservation:coos/district:3,Coos Conservation District 3
+ocd-division/country:us/state:or/conservation:coos/district:5,Coos Conservation District 5
+ocd-division/country:us/state:or/conservation:crook_county,Crook County
+ocd-division/country:us/state:or/conservation:crook_county/district:1,Crook County Conservation District 1
+ocd-division/country:us/state:or/conservation:curry_county,Curry County
+ocd-division/country:us/state:or/conservation:curry_county/district:3,Curry County Conservation District 3
+ocd-division/country:us/state:or/conservation:deschutes,Deschutes
+ocd-division/country:us/state:or/conservation:deschutes/district:2,Deschutes Conservation District 2
+ocd-division/country:us/state:or/conservation:deschutes/district:5,Deschutes Conservation District 5
+ocd-division/country:us/state:or/conservation:douglas/district:2,Douglas Conservation District 2
+ocd-division/country:us/state:or/conservation:east_multnomah,East Multnomah
+ocd-division/country:us/state:or/conservation:east_multnomah/district:1,East Multnomah Conservation District 1
+ocd-division/country:us/state:or/conservation:east_multnomah/district:2,East Multnomah Conservation District 2
+ocd-division/country:us/state:or/conservation:gilliam_county,Gilliam County
+ocd-division/country:us/state:or/conservation:grant,Grant
+ocd-division/country:us/state:or/conservation:grant/district:2,Grant Conservation District 2
+ocd-division/country:us/state:or/conservation:grant/district:3,Grant Conservation District 3
+ocd-division/country:us/state:or/conservation:harney,Harney
+ocd-division/country:us/state:or/conservation:harney/district:1,Harney Conservation District 1
+ocd-division/country:us/state:or/conservation:harney/district:2,Harney Conservation District 2
+ocd-division/country:us/state:or/conservation:harney/district:5,Harney Conservation District 5
+ocd-division/country:us/state:or/conservation:hood_river,Hood River
+ocd-division/country:us/state:or/conservation:hood_river/district:1,Hood River Conservation District 1
+ocd-division/country:us/state:or/conservation:hood_river/district:2,Hood River Conservation District 2
+ocd-division/country:us/state:or/conservation:jackson,Jackson
+ocd-division/country:us/state:or/conservation:jackson/district:1,Jackson Conservation District 1
+ocd-division/country:us/state:or/conservation:jackson/district:2,Jackson Conservation District 2
+ocd-division/country:us/state:or/conservation:jackson/district:3,Jackson Conservation District 3
+ocd-division/country:us/state:or/conservation:jackson/district:4,Jackson Conservation District 4
+ocd-division/country:us/state:or/conservation:jackson/district:5,Jackson Conservation District 5
+ocd-division/country:us/state:or/conservation:jefferson_county,Jefferson County
+ocd-division/country:us/state:or/conservation:jefferson_county/district:3,Jefferson County Conservation District 3
+ocd-division/country:us/state:or/conservation:keating,Keating
+ocd-division/country:us/state:or/conservation:keating/district:2,Keating Conservation District 2
+ocd-division/country:us/state:or/conservation:keating/district:3,Keating Conservation District 3
+ocd-division/country:us/state:or/conservation:klamath,Klamath
+ocd-division/country:us/state:or/conservation:klamath/district:1,Klamath Conservation District 1
+ocd-division/country:us/state:or/conservation:lincoln,Lincoln
+ocd-division/country:us/state:or/conservation:lincoln/district:3,Lincoln Conservation District 3
+ocd-division/country:us/state:or/conservation:linn,Linn
+ocd-division/country:us/state:or/conservation:linn/district:2,Linn Conservation District 2
+ocd-division/country:us/state:or/conservation:linn/district:4,Linn Conservation District 4
+ocd-division/country:us/state:or/conservation:linn/district:5,Linn Conservation District 5
+ocd-division/country:us/state:or/conservation:malheur_county,Malheur County
+ocd-division/country:us/state:or/conservation:marion,Marion
+ocd-division/country:us/state:or/conservation:marion/district:1,Marion Conservation District 1
+ocd-division/country:us/state:or/conservation:marion/district:4,Marion Conservation District 4
+ocd-division/country:us/state:or/conservation:monument,Monument
+ocd-division/country:us/state:or/conservation:monument/district:2,Monument Conservation District 2
+ocd-division/country:us/state:or/conservation:monument/district:3,Monument Conservation District 3
+ocd-division/country:us/state:or/conservation:polk,Polk
+ocd-division/country:us/state:or/conservation:polk/district:1,Polk Conservation District 1
+ocd-division/country:us/state:or/conservation:polk/district:4,Polk Conservation District 4
+ocd-division/country:us/state:or/conservation:polk/district:5,Polk Conservation District 5
+ocd-division/country:us/state:or/conservation:sherman_county,Sherman County
+ocd-division/country:us/state:or/conservation:sherman_county/district:3,Sherman County Conservation District 3
+ocd-division/country:us/state:or/conservation:siuslaw,Siuslaw
+ocd-division/country:us/state:or/conservation:siuslaw/district:3,Siuslaw Conservation District 3
+ocd-division/country:us/state:or/conservation:tillamook_county,Tillamook County
+ocd-division/country:us/state:or/conservation:tillamook_county/district:3,Tillamook County Conservation District 3
+ocd-division/country:us/state:or/conservation:tillamook_county/district:4,Tillamook County Conservation District 4
+ocd-division/country:us/state:or/conservation:tillamook_county/district:5,Tillamook County Conservation District 5
+ocd-division/country:us/state:or/conservation:tualatin,Tualatin
+ocd-division/country:us/state:or/conservation:tualatin/district:1,Tualatin Conservation District 1
+ocd-division/country:us/state:or/conservation:tualatin/district:2,Tualatin Conservation District 2
+ocd-division/country:us/state:or/conservation:umatilla_county,Umatilla County
+ocd-division/country:us/state:or/conservation:umatilla_county/district:1,Umatilla County Conservation District 1
+ocd-division/country:us/state:or/conservation:umatilla_county/district:4,Umatilla County Conservation District 4
+ocd-division/country:us/state:or/conservation:umpqua,Umpqua
+ocd-division/country:us/state:or/conservation:umpqua/district:1,Umpqua Conservation District 1
+ocd-division/country:us/state:or/conservation:umpqua/district:2,Umpqua Conservation District 2
+ocd-division/country:us/state:or/conservation:union/district:3,Union Conservation District 3
+ocd-division/country:us/state:or/county:douglas/library:1,Douglas County OR Library District
+ocd-division/country:us/state:or/county:lane/council_district:north,Lane County OR Council District North
+ocd-division/country:us/state:or/county:lane/council_district:south,Lane County OR Council District North
+ocd-division/country:us/state:or/hospital:east_umatilla_county_ambulance_area,East Umatilla County (OR) Ambulance Area
+ocd-division/country:us/state:or/park_district:south_wasco,South Wasco OR Park district
+ocd-division/country:us/state:or/place:albany/ward:1,Albany OR Ward 1
+ocd-division/country:us/state:or/place:albany/ward:2,Albany OR Ward 2
+ocd-division/country:us/state:or/place:albany/ward:3,Albany OR Ward 3
+ocd-division/country:us/state:or/place:astoria/ward:2,Astoria OR Ward 2
+ocd-division/country:us/state:or/place:astoria/ward:4,Astoria OR Ward 4
+ocd-division/country:us/state:or/place:central_point/ward:4,Central Point OR Ward 4
+ocd-division/country:us/state:or/place:corvallis/ward:1,Corvallis OR Ward 1
+ocd-division/country:us/state:or/place:corvallis/ward:2,Corvallis OR Ward 2
+ocd-division/country:us/state:or/place:corvallis/ward:3,Corvallis OR Ward 3
+ocd-division/country:us/state:or/place:corvallis/ward:4,Corvallis OR Ward 4
+ocd-division/country:us/state:or/place:corvallis/ward:5,Corvallis OR Ward 5
+ocd-division/country:us/state:or/place:corvallis/ward:6,Corvallis OR Ward 6
+ocd-division/country:us/state:or/place:corvallis/ward:7,Corvallis OR Ward 7
+ocd-division/country:us/state:or/place:corvallis/ward:8,Corvallis OR Ward 8
+ocd-division/country:us/state:or/place:corvallis/ward:9,Corvallis OR Ward 9
+ocd-division/country:us/state:or/place:cottage_grove/ward:2,Cottage Grove OR Ward 2
+ocd-division/country:us/state:or/place:cottage_grove/ward:4,Cottage Grove OR Ward 4
+ocd-division/country:us/state:or/place:gearheart,Gearheart OR
+ocd-division/country:us/state:or/place:grant_pass,Grant Pass OR
+ocd-division/country:us/state:or/place:grant_pass/ward:1,Grant Pass OR Ward 1
+ocd-division/country:us/state:or/place:grant_pass/ward:2,Grant Pass OR Ward 2
+ocd-division/country:us/state:or/place:grant_pass/ward:3,Grant Pass OR Ward 3
+ocd-division/country:us/state:or/place:grant_pass/ward:4,Grant Pass OR Ward 4
+ocd-division/country:us/state:or/place:grant_pass/ward:5,Grant Pass OR Ward 5
+ocd-division/country:us/state:or/place:grant_pass/ward:6,Grant Pass OR Ward 6
+ocd-division/country:us/state:or/place:hillsboro/ward:1,Hillsboro OR Ward 1
+ocd-division/country:us/state:or/place:hillsboro/ward:2,Hillsboro OR Ward 2
+ocd-division/country:us/state:or/place:hillsboro/ward:3,Hillsboro OR Ward 3
+ocd-division/country:us/state:or/place:klamath_falls/ward:1,Klamath Falls OR Ward 1
+ocd-division/country:us/state:or/place:klamath_falls/ward:2,Klamath Falls OR Ward 2
+ocd-division/country:us/state:or/place:lincoln_city/ward:1,Lincoln City OR Ward 1
+ocd-division/country:us/state:or/place:lincoln_city/ward:2,Lincoln City OR Ward 2
+ocd-division/country:us/state:or/place:lincoln_city/ward:3,Lincoln City OR Ward 3
+ocd-division/country:us/state:or/place:mcminnville/ward:1,Mcminnville OR Ward 1
+ocd-division/country:us/state:or/place:mcminnville/ward:2,Mcminnville OR Ward 2
+ocd-division/country:us/state:or/place:mcminnville/ward:3,Mcminnville OR Ward 3
+ocd-division/country:us/state:or/place:medford/ward:1,Medford OR Ward 1
+ocd-division/country:us/state:or/place:medford/ward:2,Medford OR Ward 2
+ocd-division/country:us/state:or/place:medford/ward:3,Medford OR Ward 3
+ocd-division/country:us/state:or/place:medford/ward:4,Medford OR Ward 4
+ocd-division/country:us/state:or/place:milton-freewater/ward:2,Milton-Freewater OR Ward 2
+ocd-division/country:us/state:or/place:milton-freewater/ward:3,Milton-Freewater OR Ward 3
+ocd-division/country:us/state:or/place:monroe_city_council,Monroe OR
+ocd-division/country:us/state:or/place:mt_angel,Mt Angel OR
+ocd-division/country:us/state:or/place:newberg/council_district:1,Newberg OR Council district 1
+ocd-division/country:us/state:or/place:newberg/council_district:3,Newberg OR Council district 3
+ocd-division/country:us/state:or/place:newberg/council_district:5,Newberg OR Council district 5
+ocd-division/country:us/state:or/place:philomath_city_council,Philomath OR
+ocd-division/country:us/state:or/place:roseburg/ward:1,Roseburg OR Ward 1
+ocd-division/country:us/state:or/place:roseburg/ward:2,Roseburg OR Ward 2
+ocd-division/country:us/state:or/place:roseburg/ward:3,Roseburg OR Ward 3
+ocd-division/country:us/state:or/place:roseburg/ward:4,Roseburg OR Ward 4
+ocd-division/country:us/state:or/place:roseburg/ward:5,Roseburg OR Ward 5
+ocd-division/country:us/state:or/place:roseburg/ward:6,Roseburg OR Ward 6
+ocd-division/country:us/state:or/place:seaside/ward:3,Seaside OR Ward 3
+ocd-division/country:us/state:or/place:seaside/ward:4,Seaside OR Ward 4
+ocd-division/country:us/state:or/place:the_dalles/council_district:2,The Dalles OR Council district 2
+ocd-division/country:us/state:or/place:the_dalles/council_district:4,The Dalles OR Council district 4
+ocd-division/country:us/state:or/place:winston/ward:1,Winston OR Ward 1
+ocd-division/country:us/state:or/place:winston/ward:2,Winston OR Ward 2
+ocd-division/country:us/state:or/place:woodburn/ward:1,Woodburn OR Ward 1
+ocd-division/country:us/state:or/place:woodburn/ward:2,Woodburn OR Ward 2
+ocd-division/country:us/state:or/place:woodburn/ward:6,Woodburn OR Ward 6
+ocd-division/country:us/state:or/public_utility:central_lincoln/district:3,Central Lincoln Public Utility District 3
+ocd-division/country:us/state:or/public_utility:central_lincoln/district:4,Central Lincoln Public Utility District 4
+ocd-division/country:us/state:or/public_utility:chenowith/district:1,Chenowith Public Utility District 1
+ocd-division/country:us/state:or/public_utility:clatskanie/district:1,Clatskanie Public Utility District 1
+ocd-division/country:us/state:or/public_utility:clatskanie/district:2,Clatskanie Public Utility District 2
+ocd-division/country:us/state:or/public_utility:clatskanie/district:5,Clatskanie Public Utility District 5
+ocd-division/country:us/state:or/public_utility:columbia_river/district:3,Columbia River Public Utility District 3
+ocd-division/country:us/state:or/public_utility:columbia_river/district:4,Columbia River Public Utility District 4
+ocd-division/country:us/state:or/public_utility:emerald/district:1,Emerald Public Utility District 1
+ocd-division/country:us/state:or/public_utility:emerald/district:4,Emerald Public Utility District 4
+ocd-division/country:us/state:or/public_utility:emerald/district:5,Emerald Public Utility District 5
+ocd-division/country:us/state:or/public_utility:eugene/ward:1_and_8,Eugene Ward 1 And 8
+ocd-division/country:us/state:or/public_utility:eugene/ward:2_and_3,Eugene Ward 2 And 3
+ocd-division/country:us/state:or/public_utility:eugene/ward:6_and_7,Eugene Ward 6 And 7
+ocd-division/country:us/state:or/public_utility:harbor/district:1-2_25,Harbor Public Utility District 1-2 25
+ocd-division/country:us/state:or/public_utility:harbor/district:3-22,Harbor Public Utility District 3-22
+ocd-division/country:us/state:or/public_utility:harbor/district:4-24,Harbor Public Utility District 4-24
+ocd-division/country:us/state:or/public_utility:harbor/district:5-19,Harbor Public Utility District 5-19
+ocd-division/country:us/state:or/public_utility:heceta/district:3,Heceta Public Utility District 3
+ocd-division/country:us/state:or/public_utility:heceta/district:4,Heceta Public Utility District 4
+ocd-division/country:us/state:or/public_utility:interlachen/district:1,Interlachen Public Utility District 1
+ocd-division/country:us/state:or/public_utility:interlachen/district:4,Interlachen Public Utility District 4
+ocd-division/country:us/state:or/public_utility:mcnulty/district:3,Mcnulty Public Utility District 3
+ocd-division/country:us/state:or/public_utility:mcnulty/district:4,Mcnulty Public Utility District 4
+ocd-division/country:us/state:or/public_utility:northern_wasco_county/district:1,Northern Wasco County Public Utility District 1
+ocd-division/country:us/state:or/public_utility:northern_wasco_county/district:2,Northern Wasco County Public Utility District 2
+ocd-division/country:us/state:or/public_utility:rockwood/district:1,Rockwood Public Utility District 1
+ocd-division/country:us/state:or/public_utility:rockwood/district:3,Rockwood Public Utility District 3
+ocd-division/country:us/state:or/public_utility:rockwood/district:4,Rockwood Public Utility District 4
+ocd-division/country:us/state:or/conservation:burnt_river,Burnt River Conservation
+ocd-division/country:us/state:or/conservation:coos,Coos Conservation
+ocd-division/country:us/state:or/conservation:douglas,Douglas Conservation
+ocd-division/country:us/state:or/conservation:union,Union Conservation
+ocd-division/country:us/state:or/public_utility:central_lincoln,Central Lincoln Public Utility
+ocd-division/country:us/state:or/public_utility:chenowith,Chenowith Public Utility
+ocd-division/country:us/state:or/public_utility:clatskanie,Clatskanie Public Utility
+ocd-division/country:us/state:or/public_utility:columbia_river,Columbia River Public Utility
+ocd-division/country:us/state:or/public_utility:emerald,Emerald Public Utility
+ocd-division/country:us/state:or/public_utility:eugene,Eugene Public Utility
+ocd-division/country:us/state:or/public_utility:harbor,Harbor Public Utility
+ocd-division/country:us/state:or/public_utility:heceta,Heceta Public Utility
+ocd-division/country:us/state:or/public_utility:interlachen,Interlachen Public Utility
+ocd-division/country:us/state:or/public_utility:mcnulty,Mcnulty Public Utility
+ocd-division/country:us/state:or/public_utility:northern_wasco_county,Northern Wasco County Public Utility
+ocd-division/country:us/state:or/public_utility:rockwood,Rockwood Public Utility

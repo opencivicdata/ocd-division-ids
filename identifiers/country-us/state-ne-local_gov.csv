@@ -310,3 +310,619 @@ ocd-division/country:us/state:ne/place:omaha/council_district:4,Omaha NE city co
 ocd-division/country:us/state:ne/place:omaha/council_district:5,Omaha NE city council district 5
 ocd-division/country:us/state:ne/place:omaha/council_district:6,Omaha NE city council district 6
 ocd-division/country:us/state:ne/place:omaha/council_district:7,Omaha NE city council district 7
+ocd-division/country:us/state:ne/airport:ainsworth,Ainsworth Airport Authority
+ocd-division/country:us/state:ne/airport:albion,Albion Airport Authority
+ocd-division/country:us/state:ne/airport:atkinson-stuart,Atkinson-Stuart Airport Authority
+ocd-division/country:us/state:ne/airport:aurora,Aurora Airport Authority
+ocd-division/country:us/state:ne/airport:beatrice,Beatrice Airport Authority
+ocd-division/country:us/state:ne/airport:blair,Blair Airport Authority
+ocd-division/country:us/state:ne/airport:bloomfield,Bloomfield Airport Authority
+ocd-division/country:us/state:ne/airport:burwell,Burwell Airport Authority
+ocd-division/country:us/state:ne/airport:cozad,Cozad Airport Authority
+ocd-division/country:us/state:ne/airport:creighton,Creighton Airport Authority
+ocd-division/country:us/state:ne/airport:curtis,Curtis Airport Authority
+ocd-division/country:us/state:ne/airport:fairbury,Fairbury Airport Authority
+ocd-division/country:us/state:ne/airport:falls_city,Falls City Airport Authority
+ocd-division/country:us/state:ne/airport:garden_county,Garden County Airport Authority
+ocd-division/country:us/state:ne/airport:genoa,Genoa Airport Authority
+ocd-division/country:us/state:ne/airport:gothenburg,Gothenburg Airport Authority
+ocd-division/country:us/state:ne/airport:hall_county,Hall County Airport Authority
+ocd-division/country:us/state:ne/airport:holdrege,Holdrege Airport Authority
+ocd-division/country:us/state:ne/airport:imperial,Imperial Airport Authority
+ocd-division/country:us/state:ne/airport:lexington,Lexington Airport Authority
+ocd-division/country:us/state:ne/airport:minden,Minden Airport Authority
+ocd-division/country:us/state:ne/airport:nebraska_city,Nebraska City Airport Authority
+ocd-division/country:us/state:ne/airport:norfolk,Norfolk Airport Authority
+ocd-division/country:us/state:ne/airport:north_platte,North Platte Airport Authority
+ocd-division/country:us/state:ne/airport:oneill,Oneill Airport Authority
+ocd-division/country:us/state:ne/airport:pawnee,Pawnee Airport Authority
+ocd-division/country:us/state:ne/airport:rock_county,Rock County Airport Authority
+ocd-division/country:us/state:ne/airport:seward,Seward Airport Authority
+ocd-division/country:us/state:ne/airport:sidney,Sidney Airport Authority
+ocd-division/country:us/state:ne/airport:tecumseh,Tecumseh Airport Authority
+ocd-division/country:us/state:ne/airport:tekamah,Tekamah Airport Authority
+ocd-division/country:us/state:ne/airport:valley_county,Valley County Airport Authority
+ocd-division/country:us/state:ne/airport:wahoo,Wahoo Airport Authority
+ocd-division/country:us/state:ne/airport:wayne,Wayne Airport Authority
+ocd-division/country:us/state:ne/board_of_regents:university_of_nebraska_6,Cornhuskers District 6
+ocd-division/country:us/state:ne/board_of_regents:university_of_nebraska_7,Cornhuskers District 7
+ocd-division/country:us/state:ne/community_college:central,Nebraska Community College Central District
+ocd-division/country:us/state:ne/community_college:metropolitan,Nebraska Community College Central District
+ocd-division/country:us/state:ne/community_college:mid_plains,Nebraska Community College Mid Plains District
+ocd-division/country:us/state:ne/community_college:northeast,Nebraska Community College Northeast District
+ocd-division/country:us/state:ne/community_college:southeast,Nebraska Community College Southeast District
+ocd-division/country:us/state:ne/community_college:western,Nebraska Community College Western District
+ocd-division/country:us/state:ne/county:clay/county_court:10,Clay County NE County Court District 10
+ocd-division/country:us/state:ne/county:colfax/council_district:1,Colfax County NE District 10
+ocd-division/country:us/state:ne/county:dixon/council_district:2,Dixon County NE District 2
+ocd-division/country:us/state:ne/county:dixon/council_district:4,Dixon County NE District 4
+ocd-division/country:us/state:ne/county:dixon/council_district:6,Dixon County NE District 6
+ocd-division/country:us/state:ne/county:dundy/council_district:3,Dundy County NE District 3
+ocd-division/country:us/state:ne/county:frontier/council_district:1,Frontier County NE District 1
+ocd-division/country:us/state:ne/county:hitchcock/council_district:3,Hitchcock County NE District 3
+ocd-division/country:us/state:ne/county:howard/council_district:2,Howard County NE District 2
+ocd-division/country:us/state:ne/county:keith/council_district:5,Keith County NE District 5
+ocd-division/country:us/state:ne/county:keya_paha/council_district:west_end,Keya Paha Council West End District
+ocd-division/country:us/state:ne/county:merrick/council_district:2,Merrick County NE District 2
+ocd-division/country:us/state:ne/county:merrick/council_district:4,Merrick County NE District 4
+ocd-division/country:us/state:ne/county:merrick/council_district:6,Merrick County NE District 6
+ocd-division/country:us/state:ne/county:pawnee/council_district:1,Pawnee County NE District 1
+ocd-division/country:us/state:ne/county:stanton/council_district:4,Stanton County NE District 4
+ocd-division/country:us/state:ne/county:valley/council_district:2,Valley County NE District 2
+ocd-division/country:us/state:ne/county:valley/council_district:4,Valley County NE District 4
+ocd-division/country:us/state:ne/county:valley/council_district:6,Valley County NE District 6
+ocd-division/country:us/state:ne/educational_services:10_2,Nebraska Educational Services Division 10 District 2
+ocd-division/country:us/state:ne/educational_services:10_4,Nebraska Educational Services Division 10 District 4
+ocd-division/country:us/state:ne/educational_services:10_6,Nebraska Educational Services Division 10 District 6
+ocd-division/country:us/state:ne/educational_services:10_8,Nebraska Educational Services Division 10 District 8
+ocd-division/country:us/state:ne/educational_services:1_10,Nebraska Educational Services Division 1 District 10
+ocd-division/country:us/state:ne/educational_services:11_10,Nebraska Educational Services Division 11 District 10
+ocd-division/country:us/state:ne/educational_services:11_2,Nebraska Educational Services Division 11 District 2
+ocd-division/country:us/state:ne/educational_services:11_6,Nebraska Educational Services Division 11 District 6
+ocd-division/country:us/state:ne/educational_services:13_10,Nebraska Educational Services Division 13 District 10
+ocd-division/country:us/state:ne/educational_services:13_12,Nebraska Educational Services Division 13 District 12
+ocd-division/country:us/state:ne/educational_services:13_2,Nebraska Educational Services Division 13 District 2
+ocd-division/country:us/state:ne/educational_services:13_4,Nebraska Educational Services Division 13 District 4
+ocd-division/country:us/state:ne/educational_services:13_6,Nebraska Educational Services Division 13 District 6
+ocd-division/country:us/state:ne/educational_services:15_10,Nebraska Educational Services Division 15 District 10
+ocd-division/country:us/state:ne/educational_services:15_2,Nebraska Educational Services Division 15 District 2
+ocd-division/country:us/state:ne/educational_services:15_4,Nebraska Educational Services Division 15 District 4
+ocd-division/country:us/state:ne/educational_services:15_6,Nebraska Educational Services Division 15 District 6
+ocd-division/country:us/state:ne/educational_services:15_8,Nebraska Educational Services Division 15 District 8
+ocd-division/country:us/state:ne/educational_services:16_10,Nebraska Educational Services Division 16 District 10
+ocd-division/country:us/state:ne/educational_services:16_12,Nebraska Educational Services Division 16 District 12
+ocd-division/country:us/state:ne/educational_services:16_2,Nebraska Educational Services Division 16 District 2
+ocd-division/country:us/state:ne/educational_services:16_4,Nebraska Educational Services Division 16 District 4
+ocd-division/country:us/state:ne/educational_services:16_6,Nebraska Educational Services Division 16 District 6
+ocd-division/country:us/state:ne/educational_services:16_8,Nebraska Educational Services Division 16 District 8
+ocd-division/country:us/state:ne/educational_services:17_2,Nebraska Educational Services Division 17 District 2
+ocd-division/country:us/state:ne/educational_services:17_4,Nebraska Educational Services Division 17 District 4
+ocd-division/country:us/state:ne/educational_services:17_6,Nebraska Educational Services Division 17 District 6
+ocd-division/country:us/state:ne/educational_services:17_8,Nebraska Educational Services Division 17 District 8
+ocd-division/country:us/state:ne/educational_services:1_8,Nebraska Educational Services Division 1 District 8
+ocd-division/country:us/state:ne/educational_services:2_2,Nebraska Educational Services Division 2 District 2
+ocd-division/country:us/state:ne/educational_services:2_4,Nebraska Educational Services Division 2 District 4
+ocd-division/country:us/state:ne/educational_services:2_6,Nebraska Educational Services Division 2 District 6
+ocd-division/country:us/state:ne/educational_services:2_8,Nebraska Educational Services Division 2 District 8
+ocd-division/country:us/state:ne/educational_services:3_2,Nebraska Educational Services Division 3 District 2
+ocd-division/country:us/state:ne/educational_services:3_4,Nebraska Educational Services Division 3 District 4
+ocd-division/country:us/state:ne/educational_services:3_6,Nebraska Educational Services Division 3 District 6
+ocd-division/country:us/state:ne/educational_services:3_8,Nebraska Educational Services Division 3 District 8
+ocd-division/country:us/state:ne/educational_services:4_2,Nebraska Educational Services Division 4 District 2
+ocd-division/country:us/state:ne/educational_services:4_4,Nebraska Educational Services Division 4 District 4
+ocd-division/country:us/state:ne/educational_services:4_6,Nebraska Educational Services Division 4 District 6
+ocd-division/country:us/state:ne/educational_services:4_8,Nebraska Educational Services Division 4 District 8
+ocd-division/country:us/state:ne/educational_services:5_2,Nebraska Educational Services Division 5 District 2
+ocd-division/country:us/state:ne/educational_services:5_4,Nebraska Educational Services Division 5 District 4
+ocd-division/country:us/state:ne/educational_services:5_6,Nebraska Educational Services Division 5 District 6
+ocd-division/country:us/state:ne/educational_services:6_2,Nebraska Educational Services Division 6 District 2
+ocd-division/country:us/state:ne/educational_services:6_4,Nebraska Educational Services Division 6 District 4
+ocd-division/country:us/state:ne/educational_services:6_6,Nebraska Educational Services Division 6 District 6
+ocd-division/country:us/state:ne/educational_services:7_10,Nebraska Educational Services Division 7 District 10
+ocd-division/country:us/state:ne/educational_services:7_12,Nebraska Educational Services Division 7 District 12
+ocd-division/country:us/state:ne/educational_services:7_2,Nebraska Educational Services Division 7 District 2
+ocd-division/country:us/state:ne/educational_services:7_4,Nebraska Educational Services Division 7 District 4
+ocd-division/country:us/state:ne/educational_services:7_6,Nebraska Educational Services Division 7 District 6
+ocd-division/country:us/state:ne/educational_services:7_8,Nebraska Educational Services Division 7 District 8
+ocd-division/country:us/state:ne/educational_services:8_10,Nebraska Educational Services Division 8 District 10
+ocd-division/country:us/state:ne/educational_services:8_2,Nebraska Educational Services Division 8 District 2
+ocd-division/country:us/state:ne/educational_services:8_4,Nebraska Educational Services Division 8 District 4
+ocd-division/country:us/state:ne/educational_services:8_6,Nebraska Educational Services Division 8 District 6
+ocd-division/country:us/state:ne/educational_services:9_2,Nebraska Educational Services Division 9 District 2
+ocd-division/country:us/state:ne/educational_services:9_4,Nebraska Educational Services Division 9 District 4
+ocd-division/country:us/state:ne/educational_services:9_6,Nebraska Educational Services Division 9 District 6
+ocd-division/country:us/state:ne/hospital:arnold,Arnold NE Hospital District
+ocd-division/country:us/state:ne/hospital:callaway,Callaway NE Hospital District
+ocd-division/country:us/state:ne/hospital:gothenburg,Gothenburg NE Hospital District
+ocd-division/country:us/state:ne/hospital:mullen,Mullen NE Hospital District
+ocd-division/country:us/state:ne/hospital:pender,Pender NE Hospital District
+ocd-division/country:us/state:ne/hospital:sutherland,Sutherland NE Hospital District
+ocd-division/country:us/state:ne/place:alma/ward:1,Alma NE Ward 1
+ocd-division/country:us/state:ne/place:alma/ward:2,Alma NE Ward 2
+ocd-division/country:us/state:ne/place:ashland/ward:2,Ashland NE Ward 2
+ocd-division/country:us/state:ne/place:auburn/ward:1,Auburn NE Ward 1
+ocd-division/country:us/state:ne/place:auburn/ward:2,Auburn NE Ward 2
+ocd-division/country:us/state:ne/place:auburn/ward:3,Auburn NE Ward 3
+ocd-division/country:us/state:ne/place:aurora/ward:1,Aurora NE Ward 1
+ocd-division/country:us/state:ne/place:aurora/ward:2,Aurora NE Ward 2
+ocd-division/country:us/state:ne/place:aurora/ward:3,Aurora NE Ward 3
+ocd-division/country:us/state:ne/place:beatrice/ward:1,Beatrice NE Ward 1
+ocd-division/country:us/state:ne/place:beatrice/ward:2,Beatrice NE Ward 2
+ocd-division/country:us/state:ne/place:beatrice/ward:3,Beatrice NE Ward 3
+ocd-division/country:us/state:ne/place:beatrice/ward:4,Beatrice NE Ward 4
+ocd-division/country:us/state:ne/place:bellevue/ward:1,Bellevue NE Ward 1
+ocd-division/country:us/state:ne/place:bellevue/ward:3,Bellevue NE Ward 3
+ocd-division/country:us/state:ne/place:bellevue/ward:5,Bellevue NE Ward 5
+ocd-division/country:us/state:ne/place:benkelman/ward:east,Benkelman NE Ward East
+ocd-division/country:us/state:ne/place:benkelman/ward:west,Benkelman NE Ward West
+ocd-division/country:us/state:ne/place:bennington/ward:1,Bennington NE Ward 1
+ocd-division/country:us/state:ne/place:bennington/ward:2,Bennington NE Ward 2
+ocd-division/country:us/state:ne/place:blair/ward:1,Blair NE Ward 1
+ocd-division/country:us/state:ne/place:blair/ward:2,Blair NE Ward 2
+ocd-division/country:us/state:ne/place:blair/ward:3,Blair NE Ward 3
+ocd-division/country:us/state:ne/place:blair/ward:4,Blair NE Ward 4
+ocd-division/country:us/state:ne/place:blue_springs/ward:1,Blue Springs NE Ward 1
+ocd-division/country:us/state:ne/place:blue_springs/ward:2,Blue Springs NE Ward 2
+ocd-division/country:us/state:ne/place:boelus,Boelus
+ocd-division/country:us/state:ne/place:broken_bow/ward:west,Broken Bow NE Ward West
+ocd-division/country:us/state:ne/place:bruswick,Bruswick
+ocd-division/country:us/state:ne/place:central/ward:1,Central NE Ward 1
+ocd-division/country:us/state:ne/place:central/ward:2,Central NE Ward 2
+ocd-division/country:us/state:ne/place:clark,Clark
+ocd-division/country:us/state:ne/place:columbus/ward:1,Columbus NE Ward 1
+ocd-division/country:us/state:ne/place:columbus/ward:2,Columbus NE Ward 2
+ocd-division/country:us/state:ne/place:columbus/ward:3,Columbus NE Ward 3
+ocd-division/country:us/state:ne/place:columbus/ward:4,Columbus NE Ward 4
+ocd-division/country:us/state:ne/place:cozad/ward:east,Cozad NE Ward East
+ocd-division/country:us/state:ne/place:cozad/ward:west,Cozad NE Ward West
+ocd-division/country:us/state:ne/place:crawford/ward:north,Crawford NE Ward North
+ocd-division/country:us/state:ne/place:crawford/ward:south,Crawford NE Ward South
+ocd-division/country:us/state:ne/place:crete/ward:1,Crete NE Ward 1
+ocd-division/country:us/state:ne/place:crete/ward:2,Crete NE Ward 2
+ocd-division/country:us/state:ne/place:crete/ward:3,Crete NE Ward 3
+ocd-division/country:us/state:ne/place:curtis/ward:east,Curtis NE Ward East
+ocd-division/country:us/state:ne/place:curtis/ward:west,Curtis NE Ward West
+ocd-division/country:us/state:ne/place:david/ward:1,David NE Ward 1
+ocd-division/country:us/state:ne/place:david/ward:3,David NE Ward 3
+ocd-division/country:us/state:ne/place:dewitt,Dewitt
+ocd-division/country:us/state:ne/place:dubois,Dubois
+ocd-division/country:us/state:ne/place:elgin/ward:1,Elgin NE Ward 1
+ocd-division/country:us/state:ne/place:elgin/ward:2,Elgin NE Ward 2
+ocd-division/country:us/state:ne/place:fairbury/ward:1,Fairbury NE Ward 1
+ocd-division/country:us/state:ne/place:fairbury/ward:2,Fairbury NE Ward 2
+ocd-division/country:us/state:ne/place:fairbury/ward:3,Fairbury NE Ward 3
+ocd-division/country:us/state:ne/place:fairbury/ward:4,Fairbury NE Ward 4
+ocd-division/country:us/state:ne/place:falls_city/ward:1,Falls City NE Ward 1
+ocd-division/country:us/state:ne/place:falls_city/ward:3,Falls City NE Ward 3
+ocd-division/country:us/state:ne/place:falls_city/ward:4,Falls City NE Ward 4
+ocd-division/country:us/state:ne/place:fremont/ward:1,Fremont NE Ward 1
+ocd-division/country:us/state:ne/place:fremont/ward:2,Fremont NE Ward 2
+ocd-division/country:us/state:ne/place:fremont/ward:3,Fremont NE Ward 3
+ocd-division/country:us/state:ne/place:fremont/ward:4,Fremont NE Ward 4
+ocd-division/country:us/state:ne/place:friend/ward:1,Friend NE Ward 1
+ocd-division/country:us/state:ne/place:friend/ward:2,Friend NE Ward 2
+ocd-division/country:us/state:ne/place:geneva/ward:1,Geneva NE Ward 1
+ocd-division/country:us/state:ne/place:geneva/ward:2,Geneva NE Ward 2
+ocd-division/country:us/state:ne/place:geneva/ward:3,Geneva NE Ward 3
+ocd-division/country:us/state:ne/place:genoa/ward:1,Genoa NE Ward 1
+ocd-division/country:us/state:ne/place:genoa/ward:2,Genoa NE Ward 2
+ocd-division/country:us/state:ne/place:gibbon/ward:1,Gibbon NE Ward 1
+ocd-division/country:us/state:ne/place:gibbon/ward:2,Gibbon NE Ward 2
+ocd-division/country:us/state:ne/place:gothenburg/ward:east,Gothenburg NE Ward East
+ocd-division/country:us/state:ne/place:gothenburg/ward:west,Gothenburg NE Ward West
+ocd-division/country:us/state:ne/place:grand_island/ward:1,Grand Island NE Ward 1
+ocd-division/country:us/state:ne/place:grand_island/ward:2,Grand Island NE Ward 2
+ocd-division/country:us/state:ne/place:grand_island/ward:3,Grand Island NE Ward 3
+ocd-division/country:us/state:ne/place:grand_island/ward:4,Grand Island NE Ward 4
+ocd-division/country:us/state:ne/place:grand_island/ward:5,Grand Island NE Ward 5
+ocd-division/country:us/state:ne/place:greeley,Greeley
+ocd-division/country:us/state:ne/place:gretna/ward:1,Gretna NE Ward 1
+ocd-division/country:us/state:ne/place:gretna/ward:2,Gretna NE Ward 2
+ocd-division/country:us/state:ne/place:harvard/ward:1,Harvard NE Ward 1
+ocd-division/country:us/state:ne/place:harvard/ward:2,Harvard NE Ward 2
+ocd-division/country:us/state:ne/place:harvard/ward:3,Harvard NE Ward 3
+ocd-division/country:us/state:ne/place:hastings/ward:1,Hastings NE Ward 1
+ocd-division/country:us/state:ne/place:hastings/ward:2,Hastings NE Ward 2
+ocd-division/country:us/state:ne/place:hastings/ward:3,Hastings NE Ward 3
+ocd-division/country:us/state:ne/place:hastings/ward:4,Hastings NE Ward 4
+ocd-division/country:us/state:ne/place:hebron/ward:1,Hebron NE Ward 1
+ocd-division/country:us/state:ne/place:hebron/ward:2,Hebron NE Ward 2
+ocd-division/country:us/state:ne/place:hebron/ward:3,Hebron NE Ward 3
+ocd-division/country:us/state:ne/place:holdrege/ward:1,Holdrege NE Ward 1
+ocd-division/country:us/state:ne/place:holdrege/ward:2,Holdrege NE Ward 2
+ocd-division/country:us/state:ne/place:holdrege/ward:3,Holdrege NE Ward 3
+ocd-division/country:us/state:ne/place:humboldt/ward:1,Humboldt NE Ward 1
+ocd-division/country:us/state:ne/place:humboldt/ward:2,Humboldt NE Ward 2
+ocd-division/country:us/state:ne/place:la_vista/ward:1,La Vista NE Ward 1
+ocd-division/country:us/state:ne/place:la_vista/ward:2,La Vista NE Ward 2
+ocd-division/country:us/state:ne/place:la_vista/ward:3,La Vista NE Ward 3
+ocd-division/country:us/state:ne/place:la_vista/ward:4,La Vista NE Ward 4
+ocd-division/country:us/state:ne/place:middle_loup/irrigation:2,Middle Loup Irrigation District 2
+ocd-division/country:us/state:ne/place:milford/ward:1,Milford NE Ward 1
+ocd-division/country:us/state:ne/place:milford/ward:2,Milford NE Ward 2
+ocd-division/country:us/state:ne/place:minden/ward:north,Minden NE Ward North
+ocd-division/country:us/state:ne/place:minden/ward:south,Minden NE Ward South
+ocd-division/country:us/state:ne/place:norfolk/ward:1,Norfolk NE Ward 1
+ocd-division/country:us/state:ne/place:norfolk/ward:2,Norfolk NE Ward 2
+ocd-division/country:us/state:ne/place:norfolk/ward:3,Norfolk NE Ward 3
+ocd-division/country:us/state:ne/place:norfolk/ward:4,Norfolk NE Ward 4
+ocd-division/country:us/state:ne/place:north_loup/council_district:5,North Loup Council District 5
+ocd-division/country:us/state:ne/place:north_platte/ward:1,North Platte NE Ward 1
+ocd-division/country:us/state:ne/place:north_platte/ward:2,North Platte NE Ward 2
+ocd-division/country:us/state:ne/place:north_platte/ward:3,North Platte NE Ward 3
+ocd-division/country:us/state:ne/place:north_platte/ward:4,North Platte NE Ward 4
+ocd-division/country:us/state:ne/place:oneill/ward:1,Oneill NE Ward 1
+ocd-division/country:us/state:ne/place:oneill/ward:2,Oneill NE Ward 2
+ocd-division/country:us/state:ne/place:oneill/ward:3,Oneill NE Ward 3
+ocd-division/country:us/state:ne/place:oneill/ward:4,Oneill NE Ward 4
+ocd-division/country:us/state:ne/place:ord/ward:1,Ord NE Ward 1
+ocd-division/country:us/state:ne/place:ord/ward:2,Ord NE Ward 2
+ocd-division/country:us/state:ne/place:ord/ward:3,Ord NE Ward 3
+ocd-division/country:us/state:ne/place:papillion/ward:1,Papillion NE Ward 1
+ocd-division/country:us/state:ne/place:papillion/ward:2,Papillion NE Ward 2
+ocd-division/country:us/state:ne/place:papillion/ward:3,Papillion NE Ward 3
+ocd-division/country:us/state:ne/place:papillion/ward:4,Papillion NE Ward 4
+ocd-division/country:us/state:ne/place:pawnee,Pawnee
+ocd-division/country:us/state:ne/place:peru/ward:east,Peru NE Ward East
+ocd-division/country:us/state:ne/place:peru/ward:west,Peru NE Ward West
+ocd-division/country:us/state:ne/place:platts/council_district:1,Platts Council District 1
+ocd-division/country:us/state:ne/place:platts/council_district:2,Platts Council District 2
+ocd-division/country:us/state:ne/place:platts/council_district:3,Platts Council District 3
+ocd-division/country:us/state:ne/place:platts/council_district:4,Platts Council District 4
+ocd-division/country:us/state:ne/place:platts/ward:1,Platts NE Ward 1
+ocd-division/country:us/state:ne/place:platts/ward:2,Platts NE Ward 2
+ocd-division/country:us/state:ne/place:platts/ward:3,Platts NE Ward 3
+ocd-division/country:us/state:ne/place:platts/ward:4,Platts NE Ward 4
+ocd-division/country:us/state:ne/place:ponca/ward:2,Ponca NE Ward 2
+ocd-division/country:us/state:ne/place:ralston/ward:1,Ralston NE Ward 1
+ocd-division/country:us/state:ne/place:ralston/ward:2,Ralston NE Ward 2
+ocd-division/country:us/state:ne/place:ralston/ward:6,Ralston NE Ward 6
+ocd-division/country:us/state:ne/place:red_cloud/ward:north,Red Cloud NE Ward North
+ocd-division/country:us/state:ne/place:rushville/ward:north,Rushville NE Ward North
+ocd-division/country:us/state:ne/place:rushville/ward:south,Rushville NE Ward South
+ocd-division/country:us/state:ne/place:schuyler/council_district:1,Schuyler Council District 1
+ocd-division/country:us/state:ne/place:schuyler/council_district:2,Schuyler Council District 2
+ocd-division/country:us/state:ne/place:schuyler/council_district:3,Schuyler Council District 3
+ocd-division/country:us/state:ne/place:seward/ward:1,Seward NE Ward 1
+ocd-division/country:us/state:ne/place:seward/ward:2,Seward NE Ward 2
+ocd-division/country:us/state:ne/place:seward/ward:3,Seward NE Ward 3
+ocd-division/country:us/state:ne/place:seward/ward:4,Seward NE Ward 4
+ocd-division/country:us/state:ne/place:south_sioux,South Sioux
+ocd-division/country:us/state:ne/place:stanton/ward:a,Stanton NE Ward A
+ocd-division/country:us/state:ne/place:stanton/ward:b,Stanton NE Ward B
+ocd-division/country:us/state:ne/place:st_paul/ward:1,St Paul NE Ward 1
+ocd-division/country:us/state:ne/place:stromsburg/ward:north,Stromsburg NE Ward North
+ocd-division/country:us/state:ne/place:stromsburg/ward:south,Stromsburg NE Ward South
+ocd-division/country:us/state:ne/place:sutton/ward:1,Sutton NE Ward 1
+ocd-division/country:us/state:ne/place:sutton/ward:2,Sutton NE Ward 2
+ocd-division/country:us/state:ne/place:tecumseh/ward:1,Tecumseh NE Ward 1
+ocd-division/country:us/state:ne/place:tecumseh/ward:2,Tecumseh NE Ward 2
+ocd-division/country:us/state:ne/place:tecumseh/ward:3,Tecumseh NE Ward 3
+ocd-division/country:us/state:ne/place:tekamah/ward:1,Tekamah NE Ward 1
+ocd-division/country:us/state:ne/place:tekamah/ward:2,Tekamah NE Ward 2
+ocd-division/country:us/state:ne/place:wahoo/ward:1,Wahoo NE Ward 1
+ocd-division/country:us/state:ne/place:wahoo/ward:2,Wahoo NE Ward 2
+ocd-division/country:us/state:ne/place:wahoo/ward:3,Wahoo NE Ward 3
+ocd-division/country:us/state:ne/place:wakefield/ward:1,Wakefield NE Ward 1
+ocd-division/country:us/state:ne/place:wakefield/ward:2,Wakefield NE Ward 2
+ocd-division/country:us/state:ne/place:waverly/ward:1,Waverly NE Ward 1
+ocd-division/country:us/state:ne/place:waverly/ward:2,Waverly NE Ward 2
+ocd-division/country:us/state:ne/place:wayne/ward:1,Wayne NE Ward 1
+ocd-division/country:us/state:ne/place:wayne/ward:2,Wayne NE Ward 2
+ocd-division/country:us/state:ne/place:wayne/ward:3,Wayne NE Ward 3
+ocd-division/country:us/state:ne/place:wayne/ward:4,Wayne NE Ward 4
+ocd-division/country:us/state:ne/place:weep_water,Weep Water
+ocd-division/country:us/state:ne/place:westerns,Westerns
+ocd-division/country:us/state:ne/place:west_point/ward:1,West Point NE Ward 1
+ocd-division/country:us/state:ne/place:west_point/ward:2,West Point NE Ward 2
+ocd-division/country:us/state:ne/place:west_point/ward:3,West Point NE Ward 3
+ocd-division/country:us/state:ne/place:wisner/ward:1,Wisner NE Ward 1
+ocd-division/country:us/state:ne/place:wisner/ward:2,Wisner NE Ward 2
+ocd-division/country:us/state:ne/place:wood_river/ward:1,Wood River NE Ward 1
+ocd-division/country:us/state:ne/place:wood_river/ward:2,Wood River NE Ward 2
+ocd-division/country:us/state:ne/place:wood_river/ward:3,Wood River NE Ward 3
+ocd-division/country:us/state:ne/place:wymore/ward:1,Wymore NE Ward 1
+ocd-division/country:us/state:ne/place:wymore/ward:2,Wymore NE Ward 2
+ocd-division/country:us/state:ne/place:yutan/ward:east,Yutan NE Ward East
+ocd-division/country:us/state:ne/place:yutan/ward:west,Yutan NE Ward West
+ocd-division/country:us/state:ne/power:burt_county,Burt County Power District
+ocd-division/country:us/state:ne/power:butler/district:3,Butler Power district 3
+ocd-division/country:us/state:ne/power:butler/district:4,Butler Power district 4
+ocd-division/country:us/state:ne/power:cedar-knox/district:1,Cedar-Knox Power District 1
+ocd-division/country:us/state:ne/power:cedar-knox/district:2,Cedar-Knox Power District 2
+ocd-division/country:us/state:ne/power:cedar-knox/district:3,Cedar-Knox Power District 3
+ocd-division/country:us/state:ne/power:central_nebraska/district:dawson,Central Nebraska Power Dawson District
+ocd-division/country:us/state:ne/power:central_nebraska/district:gosper,Central Nebraska Power Gosper District
+ocd-division/country:us/state:ne/power:central_nebraska/district:kearney,Central Nebraska Power Kearney District
+ocd-division/country:us/state:ne/power:central_nebraska/district:phelps,Central Nebraska Power Phelps District
+ocd-division/country:us/state:ne/power:chimney_rock,Chimney Rock Power District
+ocd-division/country:us/state:ne/power:cornhusker/district:1,Cornhusker Power District 1
+ocd-division/country:us/state:ne/power:cornhusker/district:10,Cornhusker Power District 10
+ocd-division/country:us/state:ne/power:cornhusker/district:6,Cornhusker Power District 6
+ocd-division/country:us/state:ne/power:cornhusker/district:7,Cornhusker Power District 7
+ocd-division/country:us/state:ne/power:cornhusker/district:9,Cornhusker Power District 9
+ocd-division/country:us/state:ne/power:cuming/district:1,Cuming Power District 1
+ocd-division/country:us/state:ne/power:cuming/district:2,Cuming Power District 2
+ocd-division/country:us/state:ne/power:custer,Custer Power District
+ocd-division/country:us/state:ne/power:dawson/district:buffalo,Dawson Power District Buffalo
+ocd-division/country:us/state:ne/power:dawson/district:dawson,Dawson Power District Dawson
+ocd-division/country:us/state:ne/power:dawson/district:lincoln,Dawson Power District Lincoln
+ocd-division/country:us/state:ne/power:elkhorn_rural/district:1,Elkhorn Rural Power District 1
+ocd-division/country:us/state:ne/power:elkhorn_rural/district:2,Elkhorn Rural Power District 2
+ocd-division/country:us/state:ne/power:elkhorn_rural/district:3,Elkhorn Rural Power District 3
+ocd-division/country:us/state:ne/power:howard_greeley/district:3,Howard Greeley Power District 3
+ocd-division/country:us/state:ne/power:howard_greeley/district:4,Howard Greeley Power District 4
+ocd-division/country:us/state:ne/power:kbr/district:brown,Kbr Power District Brown
+ocd-division/country:us/state:ne/power:kbr/district:keya_paha,Kbr Power District Keya Paha
+ocd-division/country:us/state:ne/power:kbr/district:rock,Kbr Power District Rock
+ocd-division/country:us/state:ne/power:loup_river/district:1,Loup River Power District 1
+ocd-division/country:us/state:ne/power:loup_river/district:2,Loup River Power District 2
+ocd-division/country:us/state:ne/power:loup_river/district:5,Loup River Power District 5
+ocd-division/country:us/state:ne/power:loup_river/district:6,Loup River Power District 6
+ocd-division/country:us/state:ne/power:loup_river/district:7,Loup River Power District 7
+ocd-division/country:us/state:ne/power:loup_valleys,Loup Valleys Power District
+ocd-division/country:us/state:ne/power:mccook/district:3,Mccook Power District 3
+ocd-division/country:us/state:ne/power:mccook/district:5,Mccook Power District 5
+ocd-division/country:us/state:ne/power:nebraska/district:10,Nebraska Power District 10
+ocd-division/country:us/state:ne/power:nebraska/district:3,Nebraska Power District 3
+ocd-division/country:us/state:ne/power:nebraska/district:4,Nebraska Power District 4
+ocd-division/country:us/state:ne/power:nebraska/district:8,Nebraska Power District 8
+ocd-division/country:us/state:ne/power:norris/district:10,Norris Power District 10
+ocd-division/country:us/state:ne/power:norris/district:3,Norris Power District 3
+ocd-division/country:us/state:ne/power:norris/district:6,Norris Power District 6
+ocd-division/country:us/state:ne/power:norris/district:9,Norris Power District 9
+ocd-division/country:us/state:ne/power:north_central/district:4,North Central Power District 4
+ocd-division/country:us/state:ne/power:north_central/district:7,North Central Power District 7
+ocd-division/country:us/state:ne/power:northeast_nebraska/district:4,Northeast Nebraska Power District 4
+ocd-division/country:us/state:ne/power:northeast_nebraska/district:7,Northeast Nebraska Power District 7
+ocd-division/country:us/state:ne/power:north_loup/district:3,North Loup Power District 3
+ocd-division/country:us/state:ne/power:northwest/district:1,Northwest Power District 1
+ocd-division/country:us/state:ne/power:northwest/district:2,Northwest Power District 2
+ocd-division/country:us/state:ne/power:northwest/district:3,Northwest Power District 3
+ocd-division/country:us/state:ne/power:omaha/district:4,Omaha Power District 4
+ocd-division/country:us/state:ne/power:omaha/district:5,Omaha Power District 5
+ocd-division/country:us/state:ne/power:perennial/district:1,Perennial Power District 1
+ocd-division/country:us/state:ne/power:perennial/district:2,Perennial Power District 2
+ocd-division/country:us/state:ne/power:polk/district:1,Polk Power District 1
+ocd-division/country:us/state:ne/power:polk/district:2,Polk Power District 2
+ocd-division/country:us/state:ne/power:roosevelt/district:2,Roosevelt Power District 2
+ocd-division/country:us/state:ne/power:roosevelt/district:3,Roosevelt Power District 3
+ocd-division/country:us/state:ne/power:roosevelt/district:7,Roosevelt Power District 7
+ocd-division/country:us/state:ne/power:seward_county/district:1,Seward County Power District 1
+ocd-division/country:us/state:ne/power:seward_county/district:4,Seward County Power District 4
+ocd-division/country:us/state:ne/power:south_central/district:1,South Central Power District 1
+ocd-division/country:us/state:ne/power:south_central/district:3,South Central Power District 3
+ocd-division/country:us/state:ne/power:south_central/district:5,South Central Power District 5
+ocd-division/country:us/state:ne/power:southern/district:1,Southern Power District 1
+ocd-division/country:us/state:ne/power:southern/district:2,Southern Power District 2
+ocd-division/country:us/state:ne/power:southern/district:3,Southern Power District 3
+ocd-division/country:us/state:ne/power:southern/district:4,Southern Power District 4
+ocd-division/country:us/state:ne/power:southern/district:6,Southern Power District 6
+ocd-division/country:us/state:ne/power:southern/district:7,Southern Power District 7
+ocd-division/country:us/state:ne/power:southwest/district:2,Southwest Power District 2
+ocd-division/country:us/state:ne/power:southwest/district:3,Southwest Power District 3
+ocd-division/country:us/state:ne/power:stanton,Stanton Power District
+ocd-division/country:us/state:ne/power:twin_valleys/district:1,Twin Valleys Power District 1
+ocd-division/country:us/state:ne/power:twin_valleys/district:3,Twin Valleys Power District 3
+ocd-division/country:us/state:ne/power:wheat_belt/district:south,Wheat Belt Power District South
+ocd-division/country:us/state:ne/public_service:4,Nebraska Public Service District 4
+ocd-division/country:us/state:ne/public_service:5,Nebraska Public Service District 5
+ocd-division/country:us/state:ne/region:douglas-sarpy/learning_community:2,Douglas Sarpy Learning Community Division 2
+ocd-division/country:us/state:ne/region:douglas-sarpy/learning_community:4,Douglas Sarpy Learning Community Division 4
+ocd-division/country:us/state:ne/region:douglas-sarpy/learning_community:6,Douglas Sarpy Learning Community Division 6
+ocd-division/country:us/state:ne/resource:central_platte,Central Platte Resource District
+ocd-division/country:us/state:ne/resource:central_platte/district:1,Central Platte Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:central_platte/district:10,Central Platte Nebraska Resource District 10
+ocd-division/country:us/state:ne/resource:central_platte/district:2,Central Platte Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:central_platte/district:5,Central Platte Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:central_platte/district:6,Central Platte Nebraska Resource District 6
+ocd-division/country:us/state:ne/resource:central_platte/district:7,Central Platte Nebraska Resource District 7
+ocd-division/country:us/state:ne/resource:central_platte/district:8,Central Platte Nebraska Resource District 8
+ocd-division/country:us/state:ne/resource:central_platte/district:9,Central Platte Nebraska Resource District 9
+ocd-division/country:us/state:ne/resource:lewis_and_clark/district:1,Lewis And Clark Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:lewis_and_clark/district:2,Lewis And Clark Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:lewis_and_clark/district:3,Lewis And Clark Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:lewis_and_clark/district:4,Lewis And Clark Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:lewis_and_clark/district:5,Lewis And Clark Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:little_blue/district:1,Little Blue Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:little_blue/district:2,Little Blue Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:little_blue/district:3,Little Blue Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:little_blue/district:4,Little Blue Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:little_blue/district:5,Little Blue Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:little_blue/district:6,Little Blue Nebraska Resource District 6
+ocd-division/country:us/state:ne/resource:little_blue/district:7,Little Blue Nebraska Resource District 7
+ocd-division/country:us/state:ne/resource:little_blue/district:8,Little Blue Nebraska Resource District 8
+ocd-division/country:us/state:ne/resource:lower_big_blue/district:1,Lower Big Blue Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:lower_big_blue/district:2,Lower Big Blue Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:lower_big_blue/district:3,Lower Big Blue Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:lower_big_blue/district:4,Lower Big Blue Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:lower_big_blue/district:5,Lower Big Blue Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:lower_big_blue/district:6,Lower Big Blue Nebraska Resource District 6
+ocd-division/country:us/state:ne/resource:lower_elkhorn/district:1,Lower Elkhorn Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:lower_elkhorn/district:3,Lower Elkhorn Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:lower_elkhorn/district:4,Lower Elkhorn Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:lower_elkhorn/district:5,Lower Elkhorn Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:lower_elkhorn/district:6,Lower Elkhorn Nebraska Resource District 6
+ocd-division/country:us/state:ne/resource:lower_loup/district:1,Lower Loup Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:lower_loup/district:10,Lower Loup Nebraska Resource District 10
+ocd-division/country:us/state:ne/resource:lower_loup/district:2,Lower Loup Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:lower_loup/district:3,Lower Loup Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:lower_loup/district:4,Lower Loup Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:lower_loup/district:5,Lower Loup Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:lower_loup/district:7,Lower Loup Nebraska Resource District 7
+ocd-division/country:us/state:ne/resource:lower_loup/district:8,Lower Loup Nebraska Resource District 8
+ocd-division/country:us/state:ne/resource:lower_loup/district:9,Lower Loup Nebraska Resource District 9
+ocd-division/country:us/state:ne/resource:lower_niobrara/district:1,Lower Niobrara Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:lower_niobrara/district:2,Lower Niobrara Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:lower_niobrara/district:3,Lower Niobrara Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:lower_niobrara/district:5,Lower Niobrara Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:lower_niobrara/district:6,Lower Niobrara Nebraska Resource District 6
+ocd-division/country:us/state:ne/resource:lower_niobrara/district:7,Lower Niobrara Nebraska Resource District 7
+ocd-division/country:us/state:ne/resource:lower_niobrara/district:8,Lower Niobrara Nebraska Resource District 8
+ocd-division/country:us/state:ne/resource:lower_platte_north/district:1,Lower Platte North Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:lower_platte_north/district:3,Lower Platte North Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:lower_platte_north/district:4,Lower Platte North Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:lower_platte_north/district:5,Lower Platte North Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:lower_platte_north/district:6,Lower Platte North Nebraska Resource District 6
+ocd-division/country:us/state:ne/resource:lower_platte_north/district:7,Lower Platte North Nebraska Resource District 7
+ocd-division/country:us/state:ne/resource:lower_platte_north/district:8,Lower Platte North Nebraska Resource District 8
+ocd-division/country:us/state:ne/resource:lower_platte_north/district:9,Lower Platte North Nebraska Resource District 9
+ocd-division/country:us/state:ne/resource:lower_platte_south/district:1,Lower Platte South Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:lower_platte_south/district:10,Lower Platte South Nebraska Resource District 10
+ocd-division/country:us/state:ne/resource:lower_platte_south/district:2,Lower Platte South Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:lower_platte_south/district:3,Lower Platte South Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:lower_platte_south/district:4,Lower Platte South Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:lower_platte_south/district:5,Lower Platte South Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:lower_platte_south/district:6,Lower Platte South Nebraska Resource District 6
+ocd-division/country:us/state:ne/resource:lower_platte_south/district:7,Lower Platte South Nebraska Resource District 7
+ocd-division/country:us/state:ne/resource:lower_platte_south/district:8,Lower Platte South Nebraska Resource District 8
+ocd-division/country:us/state:ne/resource:lower_platte_south/district:9,Lower Platte South Nebraska Resource District 9
+ocd-division/country:us/state:ne/resource:lower_republican/district:1,Lower Republican Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:lower_republican/district:2,Lower Republican Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:lower_republican/district:3,Lower Republican Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:lower_republican/district:4,Lower Republican Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:lower_republican/district:5,Lower Republican Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:middle_niobrara/district:1,Middle Niobrara Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:middle_niobrara/district:3,Middle Niobrara Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:middle_niobrara/district:5,Middle Niobrara Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:middle_republican,Middle Republican Nebraska Resource District
+ocd-division/country:us/state:ne/resource:middle_republican/district:1,Middle Republican Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:middle_republican/district:2,Middle Republican Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:middle_republican/district:3,Middle Republican Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:middle_republican/district:4,Middle Republican Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:middle_republican/district:6,Middle Republican Nebraska Resource District 6
+ocd-division/country:us/state:ne/resource:nemaha/district:10,Nemaha Nebraska Resource District 10
+ocd-division/country:us/state:ne/resource:nemaha/district:2,Nemaha Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:nemaha/district:3,Nemaha Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:nemaha/district:4,Nemaha Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:nemaha/district:5,Nemaha Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:nemaha/district:6,Nemaha Nebraska Resource District 6
+ocd-division/country:us/state:ne/resource:nemaha/district:7,Nemaha Nebraska Resource District 7
+ocd-division/country:us/state:ne/resource:nemaha/district:9,Nemaha Nebraska Resource District 9
+ocd-division/country:us/state:ne/resource:north_platte/district:1,North Platte Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:north_platte/district:2,North Platte Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:north_platte/district:3,North Platte Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:north_platte/district:4,North Platte Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:papio-missouri_river/district:1,Papio-Missouri River Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:papio_missouri_river/district:11,Papio Missouri River Nebraska Resource District 11
+ocd-division/country:us/state:ne/resource:papio_missouri_river/district:3,Papio Missouri River Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:papio_missouri_river/district:5,Papio Missouri River Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:papio_missouri_river/district:7,Papio Missouri River Nebraska Resource District 7
+ocd-division/country:us/state:ne/resource:papio_missouri_river/district:9,Papio Missouri River Nebraska Resource District 9
+ocd-division/country:us/state:ne/resource:south_platte/district:1,South Platte Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:south_platte/district:3,South Platte Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:south_platte/district:5,South Platte Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:south_platte/district:6,South Platte Nebraska Resource District 6
+ocd-division/country:us/state:ne/resource:south_platte/district:7,South Platte Nebraska Resource District 7
+ocd-division/country:us/state:ne/resource:tri-basin/district:1,Tri-Basin Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:tri-basin/district:2,Tri-Basin Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:tri-basin/district:4,Tri-Basin Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:tri-basin/district:5,Tri-Basin Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:tri-basin/district:6,Tri-Basin Nebraska Resource District 6
+ocd-division/country:us/state:ne/resource:twin_platte/district:1,Twin Platte Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:twin_platte/district:2,Twin Platte Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:twin_platte/district:3,Twin Platte Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:twin_platte/district:4,Twin Platte Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:twin_platte/district:5,Twin Platte Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:upper_big_blue/district:1,Upper Big Blue Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:upper_big_blue/district:2,Upper Big Blue Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:upper_big_blue/district:3,Upper Big Blue Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:upper_big_blue/district:4,Upper Big Blue Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:upper_big_blue/district:5,Upper Big Blue Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:upper_big_blue/district:6,Upper Big Blue Nebraska Resource District 6
+ocd-division/country:us/state:ne/resource:upper_big_blue/district:7,Upper Big Blue Nebraska Resource District 7
+ocd-division/country:us/state:ne/resource:upper_big_blue/district:8,Upper Big Blue Nebraska Resource District 8
+ocd-division/country:us/state:ne/resource:upper_elkhorn/district:1,Upper Elkhorn Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:upper_elkhorn/district:2,Upper Elkhorn Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:upper_elkhorn/district:3,Upper Elkhorn Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:upper_elkhorn/district:4,Upper Elkhorn Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:upper_elkhorn/district:5,Upper Elkhorn Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:upper_elkhorn/district:6,Upper Elkhorn Nebraska Resource District 6
+ocd-division/country:us/state:ne/resource:upper_elkhorn/district:7,Upper Elkhorn Nebraska Resource District 7
+ocd-division/country:us/state:ne/resource:upper_loup/district:1,Upper Loup Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:upper_loup/district:2,Upper Loup Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:upper_loup/district:3,Upper Loup Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:upper_loup/district:4,Upper Loup Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:upper_loup/district:5,Upper Loup Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:upper_niobrara_white/district:1,Upper Niobrara White Nebraska Resource District 1
+ocd-division/country:us/state:ne/resource:upper_niobrara_white/district:2,Upper Niobrara White Nebraska Resource District 2
+ocd-division/country:us/state:ne/resource:upper_niobrara_white/district:3,Upper Niobrara White Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:upper_niobrara_white/district:4,Upper Niobrara White Nebraska Resource District 4
+ocd-division/country:us/state:ne/resource:upper_niobrara_white/district:5,Upper Niobrara White Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:upper_republican/district:3,Upper Republican Nebraska Resource District 3
+ocd-division/country:us/state:ne/resource:upper_republican/district:5,Upper Republican Nebraska Resource District 5
+ocd-division/country:us/state:ne/resource:upper_republican/district:7,Upper Republican Nebraska Resource District 7
+ocd-division/country:us/state:ne/resource:upper_republican/district:9,Upper Republican Nebraska Resource District 9
+ocd-division/country:us/state:ne/road_improvement:greeley_county/district:3,Greely County NE Road Improvement District 3
+ocd-division/country:us/state:ne/sanitation:norfolk,Norfolk NE Sanitation District
+ocd-division/country:us/state:ne/school_board_district:1,Nebraska State School Board District 1
+ocd-division/country:us/state:ne/school_board_district:2,Nebraska State School Board District 2
+ocd-division/country:us/state:ne/school_board_district:3,Nebraska State School Board District 3
+ocd-division/country:us/state:ne/school_board_district:4,Nebraska State School Board District 4
+ocd-division/country:us/state:ne/school_board_district:douglas_county_west,Nebraska State School Board Douglas County West
+ocd-division/country:us/state:ne/school_board_district:douglas_county_west_15,Nebraska State School Board Douglas County West District 15
+ocd-division/country:us/state:ne/water:loup_basin/district:1,Loup Basin Water District 1
+ocd-division/country:us/state:ne/water:loup_basin/district:2,Loup Basin Water District 2
+ocd-division/country:us/state:ne/water:loup_basin/district:3,Loup Basin Water District 3
+ocd-division/country:us/state:ne/water:north_central/district:2,North Central Nebraska Water District 2
+ocd-division/country:us/state:ne/water:twin_loups/district:3,Twin Loups Nebraska Water District 3
+ocd-division/country:us/state:ne/weed:wayne_county,Wayne County Nebraska Weed District
+ocd-division/country:us/state:ne/place:central,Central
+ocd-division/country:us/state:ne/place:david,David
+ocd-division/country:us/state:ne/place:middle_loup,Middle Loup
+ocd-division/country:us/state:ne/place:oneill,Oneill
+ocd-division/country:us/state:ne/place:platts,Platts
+ocd-division/country:us/state:ne/power:butler,Butler Power
+ocd-division/country:us/state:ne/power:cedar-knox,Cedar-Knox Power
+ocd-division/country:us/state:ne/power:central_nebraska,Central Nebraska Power
+ocd-division/country:us/state:ne/power:cornhusker,Cornhusker Power
+ocd-division/country:us/state:ne/power:cuming,Cuming Power
+ocd-division/country:us/state:ne/power:dawson,Dawson Power
+ocd-division/country:us/state:ne/power:elkhorn_rural,Elkhorn Rural Power
+ocd-division/country:us/state:ne/power:howard_greeley,Howard Greeley Power
+ocd-division/country:us/state:ne/power:kbr,Kbr Power
+ocd-division/country:us/state:ne/power:loup_river,Loup River Power
+ocd-division/country:us/state:ne/power:mccook,Mccook Power
+ocd-division/country:us/state:ne/power:nebraska,Nebraska Power
+ocd-division/country:us/state:ne/power:norris,Norris Power
+ocd-division/country:us/state:ne/power:north_central,North Central Power
+ocd-division/country:us/state:ne/power:north_loup,North Loup Power
+ocd-division/country:us/state:ne/power:northeast_nebraska,Northeast Nebraska Power
+ocd-division/country:us/state:ne/power:northwest,Northwest Power
+ocd-division/country:us/state:ne/power:omaha,Omaha Power
+ocd-division/country:us/state:ne/power:perennial,Perennial Power
+ocd-division/country:us/state:ne/power:polk,Polk Power
+ocd-division/country:us/state:ne/power:roosevelt,Roosevelt Power
+ocd-division/country:us/state:ne/power:seward_county,Seward County Power
+ocd-division/country:us/state:ne/power:south_central,South Central Power
+ocd-division/country:us/state:ne/power:southern,Southern Power
+ocd-division/country:us/state:ne/power:southwest,Southwest Power
+ocd-division/country:us/state:ne/power:twin_valleys,Twin Valleys Power
+ocd-division/country:us/state:ne/power:wheat_belt,Wheat Belt Power
+ocd-division/country:us/state:ne/region:douglas-sarpy,Douglas-Sarpy Region
+ocd-division/country:us/state:ne/resource:lewis_and_clark,Lewis And Clark Resource
+ocd-division/country:us/state:ne/resource:little_blue,Little Blue Resource
+ocd-division/country:us/state:ne/resource:lower_big_blue,Lower Big Blue Resource
+ocd-division/country:us/state:ne/resource:lower_elkhorn,Lower Elkhorn Resource
+ocd-division/country:us/state:ne/resource:lower_loup,Lower Loup Resource
+ocd-division/country:us/state:ne/resource:lower_niobrara,Lower Niobrara Resource
+ocd-division/country:us/state:ne/resource:lower_platte_north,Lower Platte North Resource
+ocd-division/country:us/state:ne/resource:lower_platte_south,Lower Platte South Resource
+ocd-division/country:us/state:ne/resource:lower_republican,Lower Republican Resource
+ocd-division/country:us/state:ne/resource:middle_niobrara,Middle Niobrara Resource
+ocd-division/country:us/state:ne/resource:nemaha,Nemaha Resource
+ocd-division/country:us/state:ne/resource:north_platte,North Platte Resource
+ocd-division/country:us/state:ne/resource:papio-missouri_river,Papio-Missouri River Resource
+ocd-division/country:us/state:ne/resource:papio_missouri_river,Papio Missouri River Resource
+ocd-division/country:us/state:ne/resource:south_platte,South Platte Resource
+ocd-division/country:us/state:ne/resource:tri-basin,Tri-Basin Resource
+ocd-division/country:us/state:ne/resource:twin_platte,Twin Platte Resource
+ocd-division/country:us/state:ne/resource:upper_big_blue,Upper Big Blue Resource
+ocd-division/country:us/state:ne/resource:upper_elkhorn,Upper Elkhorn Resource
+ocd-division/country:us/state:ne/resource:upper_loup,Upper Loup Resource
+ocd-division/country:us/state:ne/resource:upper_niobrara_white,Upper Niobrara White Resource
+ocd-division/country:us/state:ne/resource:upper_republican,Upper Republican Resource
+ocd-division/country:us/state:ne/road_improvement:greeley_county,Greeley County Road Improvement
+ocd-division/country:us/state:ne/water:loup_basin,Loup Basin Water
+ocd-division/country:us/state:ne/water:north_central,North Central Water
+ocd-division/country:us/state:ne/water:twin_loups,Twin Loups Water

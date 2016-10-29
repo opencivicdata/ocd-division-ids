@@ -198,3 +198,53 @@ ocd-division/country:us/state:sd/place:sioux_falls/council_district:northeast,Si
 ocd-division/country:us/state:sd/place:sioux_falls/council_district:northwest,Sioux Falls SD northwest city council district
 ocd-division/country:us/state:sd/place:sioux_falls/council_district:southeast,Sioux Falls SD southeast city council district
 ocd-division/country:us/state:sd/place:sioux_falls/council_district:southwest,Sioux Falls SD southwest city council district
+ocd-division/country:us/state:sd/county:brule/council_district:2,Brule County SD Council District 2
+ocd-division/country:us/state:sd/county:brule/council_district:4,Brule County SD Council District 4
+ocd-division/country:us/state:sd/county:charles_mix/council_district:2,Charles Mix County SD Council District 2
+ocd-division/country:us/state:sd/county:corson/council_district:2,Corson County SD Council District 2
+ocd-division/country:us/state:sd/county:corson/council_district:4,Corson County SD Council District 4
+ocd-division/country:us/state:sd/county:edmunds/council_district:2,Edmunds County SD Council District 2
+ocd-division/country:us/state:sd/county:edmunds/council_district:4,Edmunds County SD Council District 4
+ocd-division/country:us/state:sd/county:edmunds/council_district:5,Edmunds County SD Council District 5
+ocd-division/country:us/state:sd/county:gregory/council_district:2,Gregory County SD Council District 2
+ocd-division/country:us/state:sd/county:gregory/council_district:4,Gregory County SD Council District 4
+ocd-division/country:us/state:sd/county:harding/council_district:2,Harding County SD Council District 2
+ocd-division/country:us/state:sd/county:harding/council_district:4,Harding County SD Council District 4
+ocd-division/country:us/state:sd/county:jackson/council_district:1,Jackson County SD Council District 1
+ocd-division/country:us/state:sd/county:jackson/council_district:4,Jackson County SD Council District 4
+ocd-division/country:us/state:sd/county:oglala_lakota/council_district:2,Oglala Lakota County SD Council District 2
+ocd-division/country:us/state:sd/county:oglala_lakota/council_district:4,Oglala Lakota County SD Council District 4
+ocd-division/country:us/state:sd/county:potter/council_district:2,Potter County SD Council District 2
+ocd-division/country:us/state:sd/county:potter/council_district:4,Potter County SD Council District 4
+ocd-division/country:us/state:sd/county:roberts/council_district:2,Roberts County SD Council District 2
+ocd-division/country:us/state:sd/county:roberts/council_district:4,Roberts County SD Council District 4
+ocd-division/country:us/state:sd/county:spink/water:1,Spink County Water district
+ocd-division/country:us/state:sd/county:union/council_district:2,Union County SD Council District 2
+ocd-division/country:us/state:sd/county:union/council_district:4,Union County SD Council District 4
+ocd-division/country:us/state:sd/power:heartland_consumers/district:8,Heartland Consumers Power District 8 SD
+ocd-division/country:us/state:sd/power:heartland_consumers/district:9,Heartland Consumers Power District 9 SD
+ocd-division/country:us/state:sd/region:ferry_and_pend_oreille_and_stevens,Ferry and Pend Oreille and Stevens SD
+ocd-division/country:us/state:sd/water:brule-buffalo,Brule-Buffalo Water District
+ocd-division/country:us/state:sd/water:deuel,Deuel Water District
+ocd-division/country:us/state:sd/water:east_dakota/district:2,East Dakota SD Water District 2
+ocd-division/country:us/state:sd/water:east_dakota/district:4,East Dakota SD Water District 4
+ocd-division/country:us/state:sd/water:east_dakota/district:6,East Dakota SD Water District 6
+ocd-division/country:us/state:sd/water:east_dakota/district:8,East Dakota SD Water District 8
+ocd-division/country:us/state:sd/water:james_river/district:1,James River SD Water District 1
+ocd-division/country:us/state:sd/water:james_river/district:2,James River SD Water District 2
+ocd-division/country:us/state:sd/water:james_river/district:6,James River SD Water District 6
+ocd-division/country:us/state:sd/water:south_brown,South Brown Water District
+ocd-division/country:us/state:sd/water:st_james-missouri,St James-Missouri Water District
+ocd-division/country:us/state:sd/water:vermillion_basin/district:1,Vermillion Basin SD Water District 1
+ocd-division/country:us/state:sd/water:vermillion_basin/district:4,Vermillion Basin SD Water District 4
+ocd-division/country:us/state:sd/water:west_dakota/district:2,West Dakota SD Water District 2
+ocd-division/country:us/state:sd/water:west_dakota/district:4,West Dakota SD Water District 4
+ocd-division/country:us/state:sd/water:west_river/district:2,West River SD Water District 2
+ocd-division/country:us/state:sd/water:west_river/district:4,West River SD Water District 4
+ocd-division/country:us/state:sd/county:oglala_lakota,Oglala Lakota
+ocd-division/country:us/state:sd/power:heartland_consumers,Heartland Consumers Power
+ocd-division/country:us/state:sd/water:east_dakota,East Dakota Water
+ocd-division/country:us/state:sd/water:james_river,James River Water
+ocd-division/country:us/state:sd/water:vermillion_basin,Vermillion Basin Water
+ocd-division/country:us/state:sd/water:west_dakota,West Dakota Water
+ocd-division/country:us/state:sd/water:west_river,West River Water

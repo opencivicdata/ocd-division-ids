@@ -450,3 +450,270 @@ ocd-division/country:us/state:ca/place:inglewood/council_district:1,Inglewood CA
 ocd-division/country:us/state:ca/place:inglewood/council_district:2,Inglewood CA city council district 2
 ocd-division/country:us/state:ca/place:inglewood/council_district:3,Inglewood CA city council district 3
 ocd-division/country:us/state:ca/place:inglewood/council_district:4,Inglewood CA city council district 4
+ocd-division/country:us/state:ca/community_college:cerritos_1,Cerritos Community College CA District 1
+ocd-division/country:us/state:ca/community_college:cerritos_2,Cerritos Community College CA District 2
+ocd-division/country:us/state:ca/community_college:cerritos_4,Cerritos Community College CA District 4
+ocd-division/country:us/state:ca/community_college:cerritos_6,Cerritos Community College CA District 6
+ocd-division/country:us/state:ca/community_college:coast_2,Coast Community College CA District 2
+ocd-division/country:us/state:ca/community_college:coast_3,Coast Community College CA District 3
+ocd-division/country:us/state:ca/community_college:coast_4,Coast Community College CA District 4
+ocd-division/country:us/state:ca/community_college:grossmont-cuyamaca_4,Grossmont-Cuyamaca Community College CA District 4
+ocd-division/country:us/state:ca/community_college:miracosta_3,Miracosta Community College CA District 3
+ocd-division/country:us/state:ca/community_college:miracosta_4,Miracosta Community College CA District 4
+ocd-division/country:us/state:ca/community_college:miracosta_5,Miracosta Community College CA District 5
+ocd-division/country:us/state:ca/community_college:north_orange_county_2,North Orange County Community College CA District 2
+ocd-division/country:us/state:ca/community_college:north_orange_county_4,North Orange County Community College CA District 4
+ocd-division/country:us/state:ca/community_college:north_orange_county_7,North Orange County Community College CA District 7
+ocd-division/country:us/state:ca/community_college:rancho_santiago_1,Rancho Santiago Community College CA District 1
+ocd-division/country:us/state:ca/community_college:rancho_santiago_3,Rancho Santiago Community College CA District 3
+ocd-division/country:us/state:ca/community_college:rancho_santiago_5,Rancho Santiago Community College CA District 5
+ocd-division/country:us/state:ca/community_college:rancho_santiago_7,Rancho Santiago Community College CA District 7
+ocd-division/country:us/state:ca/community_college:san_diego_d,San Diego Community College CA District D
+ocd-division/country:us/state:ca/community_college:santa_clarita_2,Santa Clarita Community College CA District 2
+ocd-division/country:us/state:ca/community_college:santa_clarita_3,Santa Clarita Community College CA District 3
+ocd-division/country:us/state:ca/community_college:santa_clarita_4,Santa Clarita Community College CA District 4
+ocd-division/country:us/state:ca/community_college:sonoma_county/district:1,Sonoma County Schools District 1
+ocd-division/country:us/state:ca/community_college:south_orange_county_3,South Orange County Community College CA District 3
+ocd-division/country:us/state:ca/community_college:south_orange_county_4,South Orange County Community College CA District 4
+ocd-division/country:us/state:ca/community_college:south_orange_county_6,South Orange County Community College CA District 6
+ocd-division/country:us/state:ca/community_development:alpine,Alpine CA Community Development District
+ocd-division/country:us/state:ca/community_development:boulevard,Boulevard CA Community Development District
+ocd-division/country:us/state:ca/community_development:campo_lake_morena,Campo Lake Morena Community Development District
+ocd-division/country:us/state:ca/community_development:crest,Crest Community Development District
+ocd-division/country:us/state:ca/community_development:dehesa,Dehesa Community Development District
+ocd-division/country:us/state:ca/community_development:descanso,Descanso Community Development District
+ocd-division/country:us/state:ca/community_development:fallbrook,Fallbrook Community Development District
+ocd-division/country:us/state:ca/community_development:harbison_canyon,Harbison Canyon Community Development District
+ocd-division/country:us/state:ca/community_development:jamul-dulzura,Jamul-Dulzura Community Development District
+ocd-division/country:us/state:ca/community_development:julian,Julian Community Development District
+ocd-division/country:us/state:ca/community_development:lakeside,Lakeside Community Development District
+ocd-division/country:us/state:ca/community_development:pine_valley,Pine Valley Community Development District
+ocd-division/country:us/state:ca/community_development:potrero,Potrero Community Development District
+ocd-division/country:us/state:ca/community_development:rainbow,Rainbow Community Development District
+ocd-division/country:us/state:ca/community_development:ramona,Ramona Community Development District
+ocd-division/country:us/state:ca/community_development:san_dieguito,San Dieguito Community Development District
+ocd-division/country:us/state:ca/community_development:spring_valley,Spring Valley Community Development District
+ocd-division/country:us/state:ca/community_development:sweetwater,Sweetwater Community Development District
+ocd-division/country:us/state:ca/community_development:valle_de_oro,Valle De Oro Community Development District
+ocd-division/country:us/state:ca/community_development:valley_center,Valley Center Community Development District
+ocd-division/country:us/state:ca/county:amador_county/council_district:4,Amador County CA Council District 4
+ocd-division/country:us/state:ca/county:calaveras_county/council_district:1,Calaveras County CA Council District 1
+ocd-division/country:us/state:ca/county:calaveras_county/council_district:5,Calaveras County CA Council District 5
+ocd-division/country:us/state:ca/county:lassen_county/council_district:1,Lassen County CA Council District 1
+ocd-division/country:us/state:ca/fire:alpine,Alpine  CA Fire Control District
+ocd-division/country:us/state:ca/fire:bonita-sunnyside,Bonita-Sunnyside  CA Fire Control District
+ocd-division/country:us/state:ca/fire:borrego_springs,Borrego Springs  CA Fire Control District
+ocd-division/country:us/state:ca/fire:deer_springs,Deer Springs  CA Fire Control District
+ocd-division/country:us/state:ca/fire:julian-cuyamaca,Julian-Cuyamaca  CA Fire Control District
+ocd-division/country:us/state:ca/fire:lakeside,Lakeside  CA Fire Control District
+ocd-division/country:us/state:ca/fire:north_county,North County  CA Fire Control District
+ocd-division/country:us/state:ca/fire:pine_valley,Pine Valley  CA Fire Control District
+ocd-division/country:us/state:ca/fire:rancho_santa_fe,Rancho Santa Fe  CA Fire Control District
+ocd-division/country:us/state:ca/fire:san_miguel,San Miguel  CA Fire Control District
+ocd-division/country:us/state:ca/fire:valley_center,Valley Center  CA Fire Control District
+ocd-division/country:us/state:ca/fire:vista,Vista  CA Fire Control District
+ocd-division/country:us/state:ca/hospital:antelope_valley,Antelope Valley  CA Hospital District
+ocd-division/country:us/state:ca/hospital:beach_cities,Beach Cities  CA Hospital District
+ocd-division/country:us/state:ca/hospital:fallbrook,Fallbrook  CA Hospital District
+ocd-division/country:us/state:ca/hospital:grossmont,Grossmont  CA Hospital District
+ocd-division/country:us/state:ca/hospital:palomar,Palomar  CA Hospital District
+ocd-division/country:us/state:ca/hospital:tri-city,Tri-City  CA Hospital District
+ocd-division/country:us/state:ca/park_district:silverado-modieska,Silverado-Modieska CA Park District
+ocd-division/country:us/state:ca/park_district:valley_center,Valley Center CA Park District
+ocd-division/country:us/state:ca/park_district:westfield,Westfiled CA Park District
+ocd-division/country:us/state:ca/place:alhambra/council_district:3,Alhambra CA Council District 3
+ocd-division/country:us/state:ca/place:alhambra/council_district:4,Alhambra CA Council District 4
+ocd-division/country:us/state:ca/place:anaheim/council_district:1,Anaheim CA Council District 1
+ocd-division/country:us/state:ca/place:anaheim/council_district:3,Anaheim CA Council District 3
+ocd-division/country:us/state:ca/place:anaheim/council_district:4,Anaheim CA Council District 4
+ocd-division/country:us/state:ca/place:anaheim/council_district:5,Anaheim CA Council District 5
+ocd-division/country:us/state:ca/place:buena_park/council_district:3,Buena Park CA Council District 3
+ocd-division/country:us/state:ca/place:buena_park/council_district:4,Buena Park CA Council District 3
+ocd-division/country:us/state:ca/place:escondido/council_district:3,Escondido CA Council District 3
+ocd-division/country:us/state:ca/place:escondido/council_district:4,Escondido CA Council District 4
+ocd-division/country:us/state:ca/place:fallbrook/public_utility:1,Fallbrook CA Public Utilty District 1
+ocd-division/country:us/state:ca/place:fallbrook/public_utility:3,Fallbrook CA Public Utilty District 3
+ocd-division/country:us/state:ca/place:fallbrook/public_utility:5,Fallbrook CA Public Utilty District 5
+ocd-division/country:us/state:ca/place:garden_grove/council_district:2,Garden Grove CA Council District 2
+ocd-division/country:us/state:ca/place:garden_grove/council_district:3,Garden Grove CA Council District 3
+ocd-division/country:us/state:ca/place:garden_grove/council_district:5,Garden Grove CA Council District 5
+ocd-division/country:us/state:ca/place:garden_grove/council_district:6,Garden Grove CA Council District 6
+ocd-division/country:us/state:ca/place:newport_beach/council_district:2,Newport Beach CA Council District 2
+ocd-division/country:us/state:ca/place:newport_beach/council_district:5,Newport Beach CA Council District 5
+ocd-division/country:us/state:ca/place:newport_beach/council_district:7,Newport Beach CA Council District 7
+ocd-division/country:us/state:ca/place:palmdale/council_district:1,Palmdale CA Council District 1
+ocd-division/country:us/state:ca/place:palmdale/council_district:2,Palmdale CA Council District 2
+ocd-division/country:us/state:ca/place:palmdale/council_district:3,Palmdale CA Council District 3
+ocd-division/country:us/state:ca/place:palmdale/council_district:4,Palmdale CA Council District 4
+ocd-division/country:us/state:ca/place:san_juan_capistrano/council_district:1,San Juan Capistrano CA Council District 1
+ocd-division/country:us/state:ca/place:san_juan_capistrano/council_district:5,San Juan Capistrano CA Council District 5
+ocd-division/country:us/state:ca/place:santa_fe/irrigation:1,Santa Fe CA 1st Irrigation District
+ocd-division/country:us/state:ca/place:santa_fe/irrigation:2,Santa Fe CA 2nd Irrigation District
+ocd-division/country:us/state:ca/place:seal_beach/council_district:2,Seal Beach CA Council District 2
+ocd-division/country:us/state:ca/place:seal_beach/council_district:4,Seal Beach CA Council District 4
+ocd-division/country:us/state:ca/place:south_bay/irrigation:2,South Bay CA 2st Irrigation District
+ocd-division/country:us/state:ca/place:south_bay/irrigation:3,South Bay CA 3rd Irrigation District
+ocd-division/country:us/state:ca/place:south_bay/irrigation:5,South Bay CA 5th Irrigation District
+ocd-division/country:us/state:ca/place:vista/irrigation:2,Vista CA 2nd Irrigation District
+ocd-division/country:us/state:ca/place:vista/irrigation:4,Vista CA 4th Irrigation District
+ocd-division/country:us/state:ca/place:vista/irrigation:5,Vista CA 5th Irrigation District
+ocd-division/country:us/state:ca/region:bay_area/transit:7,Bay Area CA Transit Area 7
+ocd-division/country:us/state:ca/region:bay_area/transit:9,Bay Area CA Transit Area 9
+ocd-division/country:us/state:ca/sanitation:costa_mesa,Costa Mesa CA Sanitation District
+ocd-division/country:us/state:ca/sanitation:leucadia,Leucadia CA Sanitation District
+ocd-division/country:us/state:ca/sanitation:midway_city,Midway City CA Sanitation District
+ocd-division/country:us/state:ca/school_board_district:alhambra_unified_2,Alhambra Unified CA School Board District 2
+ocd-division/country:us/state:ca/school_board_district:alhambra_unified_3,Alhambra Unified CA School Board District 3
+ocd-division/country:us/state:ca/school_board_district:anaheim_elementary_1,Anaheim Elementary CA School Board District 1
+ocd-division/country:us/state:ca/school_board_district:buena_park_3,Buena Park CA School Board District 3
+ocd-division/country:us/state:ca/school_board_district:buena_park_4,Buena Park CA School Board District 4
+ocd-division/country:us/state:ca/school_board_district:capistrano_unified_1,Capistrano Unified CA School Board District 1
+ocd-division/country:us/state:ca/school_board_district:capistrano_unified_2,Capistrano Unified CA School Board District 2
+ocd-division/country:us/state:ca/school_board_district:capistrano_unified_3,Capistrano Unified CA School Board District 3
+ocd-division/country:us/state:ca/school_board_district:capistrano_unified_5,Capistrano Unified CA School Board District 5
+ocd-division/country:us/state:ca/school_board_district:centralia_3,Centralia CA School Board District 3
+ocd-division/country:us/state:ca/school_board_district:city_college_of_san_francisco,City College Of San Francisco
+ocd-division/country:us/state:ca/school_board_district:contra_costa_county_1,Contra Costa County CA School Board District 1
+ocd-division/country:us/state:ca/school_board_district:contra_costa_county_3,Contra Costa County CA School Board District 3
+ocd-division/country:us/state:ca/school_board_district:escondido_union_1,Escondido Union CA School Board District 1
+ocd-division/country:us/state:ca/school_board_district:escondido_union_3,Escondido Union CA School Board District 3
+ocd-division/country:us/state:ca/school_board_district:escondido_union_high_school_3,Escondido Union High School CA School Board District 3
+ocd-division/country:us/state:ca/school_board_district:escondido_union_high_school_4,Escondido Union High School CA School Board District 4
+ocd-division/country:us/state:ca/school_board_district:fresno_county_2,Fresno County CA School Board District 2
+ocd-division/country:us/state:ca/school_board_district:fresno_county_3,Fresno County CA School Board District 3
+ocd-division/country:us/state:ca/school_board_district:fresno_county_5,Fresno County CA School Board District 5
+ocd-division/country:us/state:ca/school_board_district:fullerton_5,Fullerton CA School Board District 5
+ocd-division/country:us/state:ca/school_board_district:fullerton_joint_union_high_2,Fullerton Joint Union High CA School Board District 2
+ocd-division/country:us/state:ca/school_board_district:fullerton_joint_union_high_3,Fullerton Joint Union High CA School Board District 3
+ocd-division/country:us/state:ca/school_board_district:garden_grove_unified_1,Garden Grove Unified CA School Board District 1
+ocd-division/country:us/state:ca/school_board_district:garden_grove_unified_5,Garden Grove Unified CA School Board District 5
+ocd-division/country:us/state:ca/school_board_district:grossmont_union_high_1,Grossmont Union High CA School Board District 1
+ocd-division/country:us/state:ca/school_board_district:grossmont_union_high_2,Grossmont Union High CA School Board District 2
+ocd-division/country:us/state:ca/school_board_district:kings_county_2,Kings County CA School Board District 2
+ocd-division/country:us/state:ca/school_board_district:mountain_empire_unified_2,Mountain Empire Unified CA School Board District 2
+ocd-division/country:us/state:ca/school_board_district:mountain_empire_unified_6,Mountain Empire Unified CA School Board District 6
+ocd-division/country:us/state:ca/school_board_district:mountain_empire_unified_7,Mountain Empire Unified CA School Board District 7
+ocd-division/country:us/state:ca/school_board_district:newport-mesa_unified_1,Newport-Mesa Unified CA School Board District 1
+ocd-division/country:us/state:ca/school_board_district:newport-mesa_unified_3,Newport-Mesa Unified CA School Board District 3
+ocd-division/country:us/state:ca/school_board_district:newport-mesa_unified_6,Newport-Mesa Unified CA School Board District 6
+ocd-division/country:us/state:ca/school_board_district:orange_unified_2,Orange Unified CA School Board District 2
+ocd-division/country:us/state:ca/school_board_district:orange_unified_6,Orange Unified CA School Board District 6
+ocd-division/country:us/state:ca/school_board_district:san_bernardino_county_c,San Bernardino County CA School Board District C
+ocd-division/country:us/state:ca/school_board_district:san_bernardino_county_e,San Bernardino County CA School Board District E
+ocd-division/country:us/state:ca/school_board_district:san_diego_county_5,San Diego County CA School Board District 5
+ocd-division/country:us/state:ca/school_board_district:san_francisco_county,San Francisco County
+ocd-division/country:us/state:ca/school_board_district:san_mateo_county_4,San Mateo County CA School Board District 4
+ocd-division/country:us/state:ca/school_board_district:san_mateo_county_5,San Mateo County CA School Board District 5
+ocd-division/country:us/state:ca/school_board_district:san_mateo_county_6,San Mateo County CA School Board District 6
+ocd-division/country:us/state:ca/school_board_district:san_mateo_county_7,San Mateo County CA School Board District 7
+ocd-division/country:us/state:ca/school_board_district:santa_clara_county_1,Santa Clara County CA School Board District 1
+ocd-division/country:us/state:ca/school_board_district:santa_clara_county_3,Santa Clara County CA School Board District 3
+ocd-division/country:us/state:ca/school_board_district:saugus_union_3,Saugus Union CA School Board District 3
+ocd-division/country:us/state:ca/school_board_district:saugus_union_4,Saugus Union CA School Board District 4
+ocd-division/country:us/state:ca/school_board_district:saugus_union_5,Saugus Union CA School Board District 5
+ocd-division/country:us/state:ca/school_board_district:sweetwater_union_high_2,Sweetwater Union High CA School Board District 2
+ocd-division/country:us/state:ca/school_board_district:sweetwater_union_high_4,Sweetwater Union High CA School Board District 4
+ocd-division/country:us/state:ca/school_board_district:tulare_county_2,Tulare County CA School Board District 2
+ocd-division/country:us/state:ca/school_board_district:tulare_county_3,Tulare County CA School Board District 3
+ocd-division/country:us/state:ca/school_board_district:tulare_county_5,Tulare County CA School Board District 5
+ocd-division/country:us/state:ca/school_board_district:tulare_county_6,Tulare County CA School Board District 6
+ocd-division/country:us/state:ca/school_board_district:vista_unified_1,Vista Unified CA School Board District 1
+ocd-division/country:us/state:ca/school_board_district:vista_unified_4,Vista Unified CA School Board District 4
+ocd-division/country:us/state:ca/school_board_district:vista_unified_5,Vista Unified CA School Board District 5
+ocd-division/country:us/state:ca/water:airbanks_ranch,Airbanks Ranch CA Special Water Region
+ocd-division/country:us/state:ca/water:antelope_valley-east_kern,Antelope Valley-East Kern CA Special Water Region
+ocd-division/country:us/state:ca/water:canebrake_co,Canebrake Co CA Special Water Region
+ocd-division/country:us/state:ca/water:castaic_lake,Castaic Lake CA Special Water Region
+ocd-division/country:us/state:ca/water:castaic_lake_1,Castaic Lake 1 CA Special Water Region
+ocd-division/country:us/state:ca/water:castaic_lake_2,Castaic Lake 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:castaic_lake_3,Castaic Lake 3 CA Special Water Region
+ocd-division/country:us/state:ca/water:central_basin_municipal_1,Central Basin Municipal 1 CA Special Water Region
+ocd-division/country:us/state:ca/water:central_basin_municipal_2,Central Basin Municipal 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:central_basin_municipal_4,Central Basin Municipal 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:central_basin_municipal_5,Central Basin Municipal 5 CA Special Water Region
+ocd-division/country:us/state:ca/water:cuyamaca,Cuyamaca CA Special Water Region
+ocd-division/country:us/state:ca/water:descanso_community,Descanso Community CA Special Water Region
+ocd-division/country:us/state:ca/water:el_toro,El Toro CA Special Water Region
+ocd-division/country:us/state:ca/water:foothill_municipal_1,Foothill Municipal 1 CA Special Water Region
+ocd-division/country:us/state:ca/water:helix_1,Helix 1 CA Special Water Region
+ocd-division/country:us/state:ca/water:helix_3,Helix 3 CA Special Water Region
+ocd-division/country:us/state:ca/water:helix_5,Helix 5 CA Special Water Region
+ocd-division/country:us/state:ca/water:irvine_ranch,Irvine Ranch CA Special Water Region
+ocd-division/country:us/state:ca/water:jacumba,Jacumba CA Special Water Region
+ocd-division/country:us/state:ca/water:julian,Julian CA Special Water Region
+ocd-division/country:us/state:ca/water:lakeside_1,Lakeside 1 CA Special Water Region
+ocd-division/country:us/state:ca/water:lakeside_4,Lakeside 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:lakeside_5,Lakeside 5 CA Special Water Region
+ocd-division/country:us/state:ca/water:las_virgenes_municipal_1,Las Virgenes Municipal 1 CA Special Water Region
+ocd-division/country:us/state:ca/water:las_virgenes_municipal_4,Las Virgenes Municipal 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:majestic_pines,Majestic Pines CA Special Water Region
+ocd-division/country:us/state:ca/water:mesa_2,Mesa 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:mootamai_municipal_4,Mootamai Municipal 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:morro_hills,Morro Hills CA Special Water Region
+ocd-division/country:us/state:ca/water:moulton_niguel_1,Moulton Niguel 1 CA Special Water Region
+ocd-division/country:us/state:ca/water:olivenhain_municipal_2,Olivenhain Municipal 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:olivenhain_municipal_3,Olivenhain Municipal 3 CA Special Water Region
+ocd-division/country:us/state:ca/water:olivenhain_municipal_5,Olivenhain Municipal 5 CA Special Water Region
+ocd-division/country:us/state:ca/water:orange_county_3,Orange County 3 CA Special Water Region
+ocd-division/country:us/state:ca/water:orange_county_4,Orange County 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:orange_county_6,Orange County 6 CA Special Water Region
+ocd-division/country:us/state:ca/water:orange_county_7,Orange County 7 CA Special Water Region
+ocd-division/country:us/state:ca/water:otay_2,Otay 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:otay_4,Otay 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:otay_5,Otay 5 CA Special Water Region
+ocd-division/country:us/state:ca/water:padre_dam_municipal_2,Padre Dam Municipal 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:padre_dam_municipal_4,Padre Dam Municipal 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:pauma_municipal_2,Pauma Municipal 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:pauma_municipal_4,Pauma Municipal 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:pauma_valley,Pauma Valley CA Special Water Region
+ocd-division/country:us/state:ca/water:questhaven_municipal_2,Questhaven Municipal 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:questhaven_municipal_4,Questhaven Municipal 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:rainbow_municipal_1,Rainbow Municipal 1 CA Special Water Region
+ocd-division/country:us/state:ca/water:rainbow_municipal_2,Rainbow Municipal 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:rainbow_municipal_4,Rainbow Municipal 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:rainbow_municipal_5,Rainbow Municipal 5 CA Special Water Region
+ocd-division/country:us/state:ca/water:ramona_municipal_1,Ramona Municipal 1 CA Special Water Region
+ocd-division/country:us/state:ca/water:ramona_municipal_3,Ramona Municipal 3 CA Special Water Region
+ocd-division/country:us/state:ca/water:ramona_municipal_5,Ramona Municipal 5 CA Special Water Region
+ocd-division/country:us/state:ca/water:rancho_santa_fe,Rancho Santa Fe CA Special Water Region
+ocd-division/country:us/state:ca/water:rincon_del_diablo_2,Rincon Del Diablo 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:rincon_del_diablo_5,Rincon Del Diablo 5 CA Special Water Region
+ocd-division/country:us/state:ca/water:rincon_ranch,Rincon Ranch CA Special Water Region
+ocd-division/country:us/state:ca/water:rossmoor,Rossmoor CA Special Water Region
+ocd-division/country:us/state:ca/water:san_gabriel_valley_municipal_2,San Gabriel Valley Municipal 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:san_gabriel_valley_municipal_3,San Gabriel Valley Municipal 3 CA Special Water Region
+ocd-division/country:us/state:ca/water:san_luis_rey_municipal_2,San Luis Rey Municipal 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:san_luis_rey_municipal_4,San Luis Rey Municipal 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:santa_margarita,Santa Margarita CA Special Water Region
+ocd-division/country:us/state:ca/water:south_coast,South Coast CA Special Water Region
+ocd-division/country:us/state:ca/water:southern_california_2,Southern California 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:southern_california_5,Southern California 5 CA Special Water Region
+ocd-division/country:us/state:ca/water:surfside_colony,Surfside Colony CA Special Water Region
+ocd-division/country:us/state:ca/water:three_valleys_municipal_2,Three Valleys Municipal 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:three_valleys_municipal_4,Three Valleys Municipal 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:three_valleys_municipal_6,Three Valleys Municipal 6 CA Special Water Region
+ocd-division/country:us/state:ca/water:three_valleys_municipal_7,Three Valleys Municipal 7 CA Special Water Region
+ocd-division/country:us/state:ca/water:upper_san_gabriel_valley_municipal_2,Upper San Gabriel Valley Municipal 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:upper_san_gabriel_valley_municipal_3,Upper San Gabriel Valley Municipal 3 CA Special Water Region
+ocd-division/country:us/state:ca/water:upper_san_gabriel_valley_municipal_4,Upper San Gabriel Valley Municipal 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:vallecitos_1,Vallecitos 1 CA Special Water Region
+ocd-division/country:us/state:ca/water:vallecitos_4,Vallecitos 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:vallecitos_5,Vallecitos 5 CA Special Water Region
+ocd-division/country:us/state:ca/water:valley_center_municipal_1,Valley Center Municipal 1 CA Special Water Region
+ocd-division/country:us/state:ca/water:valley_center_municipal_4,Valley Center Municipal 4 CA Special Water Region
+ocd-division/country:us/state:ca/water:west_basin_municipal,West Basin Municipal CA Special Water Region
+ocd-division/country:us/state:ca/water:whispering_palms,Whispering Palms CA Special Water Region
+ocd-division/country:us/state:ca/water:wynola,Wynola CA Special Water Region
+ocd-division/country:us/state:ca/water:yorba_linda,Yorba Linda CA Special Water Region
+ocd-division/country:us/state:ca/water:yuima_municipal_2,Yuima Municipal 2 CA Special Water Region
+ocd-division/country:us/state:ca/water:yuima_municipal_3,Yuima Municipal 3 CA Special Water Region
+ocd-division/country:us/state:ca/water:yuima_municipal_5,Yuima Municipal 5 CA Special Water Region
+ocd-division/country:us/state:ca/community_college:sonoma_county,Sonoma County Community College
+ocd-division/country:us/state:ca/county:amador_county,Amador County
+ocd-division/country:us/state:ca/county:calaveras_county,Calaveras County
+ocd-division/country:us/state:ca/county:lassen_county,Lassen County
+ocd-division/country:us/state:ca/place:fallbrook,Fallbrook
+ocd-division/country:us/state:ca/place:santa_fe,Santa Fe
+ocd-division/country:us/state:ca/place:south_bay,South Bay
+ocd-division/country:us/state:ca/region:bay_area,Bay Area Region
+ocd-division/country:us/state:ca/school_district:ventura_county,Ventura County School District

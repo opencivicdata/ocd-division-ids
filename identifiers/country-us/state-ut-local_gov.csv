@@ -42,3 +42,99 @@ ocd-division/country:us/state:ut/place:west_jordan/council_district:1,West Jorda
 ocd-division/country:us/state:ut/place:west_jordan/council_district:2,West Jordan UT city council district 2
 ocd-division/country:us/state:ut/place:west_jordan/council_district:3,West Jordan UT city council district 3
 ocd-division/country:us/state:ut/place:west_jordan/council_district:4,West Jordan UT city council district 4
+ocd-division/country:us/state:ut/county:beaver/school_board_district:1,Beaver County UT School Board District 1
+ocd-division/country:us/state:ut/county:beaver/school_board_district:2,Beaver County UT School Board District 2
+ocd-division/country:us/state:ut/county:beaver/school_board_district:3,Beaver County UT School Board District 3
+ocd-division/country:us/state:ut/county:box_elder/school_board_district:1,Box Elder County UT School Board District 1
+ocd-division/country:us/state:ut/county:box_elder/school_board_district:2,Box Elder County UT School Board District 2
+ocd-division/country:us/state:ut/county:box_elder/school_board_district:5,Box Elder County UT School Board District 5
+ocd-division/country:us/state:ut/county:box_elder/school_board_district:6,Box Elder County UT School Board District 6
+ocd-division/country:us/state:ut/county:cache/council_district:1,Cach County UT Council District 1
+ocd-division/country:us/state:ut/county:cache/council_district:2,Cach County UT Council District 2
+ocd-division/country:us/state:ut/county:cache/school_board_district:1,Cache County UT School Board District 1
+ocd-division/country:us/state:ut/county:cache/school_board_district:3,Cache County UT School Board District 3
+ocd-division/country:us/state:ut/county:cache/school_board_district:6,Cache County UT School Board District 6
+ocd-division/country:us/state:ut/county:daggett/council_district:c,Daggett County UT Council District C
+ocd-division/country:us/state:ut/county:davis/school_board_district:1,Davis County UT School Board District 1
+ocd-division/country:us/state:ut/county:davis/school_board_district:2,Davis County UT School Board District 2
+ocd-division/country:us/state:ut/county:davis/school_board_district:4,Davis County UT School Board District 4
+ocd-division/country:us/state:ut/county:duchesne/school_board_district:4,Duchesne County UT School Board District 4
+ocd-division/country:us/state:ut/county:duchesne/school_board_district:5,Duchesne County UT School Board District 5
+ocd-division/country:us/state:ut/county:emery/school_board_district:1,Emery County UT School Board District 1
+ocd-division/country:us/state:ut/county:emery/school_board_district:2,Emery County UT School Board District 2
+ocd-division/country:us/state:ut/county:emery/school_board_district:3,Emery County UT School Board District 3
+ocd-division/country:us/state:ut/county:garfield/school_board_district:1,Garfield County UT School Board District 1
+ocd-division/country:us/state:ut/county:garfield/school_board_district:2,Garfield County UT School Board District 2
+ocd-division/country:us/state:ut/county:garfield/school_board_district:3,Garfield County UT School Board District 3
+ocd-division/country:us/state:ut/county:grand/school_board_district:2,Grand County UT School Board District 2
+ocd-division/country:us/state:ut/county:grand/school_board_district:3,Grand County UT School Board District 3
+ocd-division/country:us/state:ut/county:grand/school_board_district:5,Grand County UT School Board District 5
+ocd-division/country:us/state:ut/county:iron/school_board_district:1,Iron County UT School Board District 1
+ocd-division/country:us/state:ut/county:iron/school_board_district:2,Iron County UT School Board District 2
+ocd-division/country:us/state:ut/county:iron/school_board_district:3,Iron County UT School Board District 3
+ocd-division/country:us/state:ut/county:juab/school_board_district:4,Juab County UT School Board District 4
+ocd-division/country:us/state:ut/county:juab/school_board_district:5,Juab County UT School Board District 5
+ocd-division/country:us/state:ut/county:kane/school_board_district:1,Kane County UT School Board District 1
+ocd-division/country:us/state:ut/county:kane/school_board_district:2,Kane County UT School Board District 2
+ocd-division/country:us/state:ut/county:kane/school_board_district:3,Kane County UT School Board District 3
+ocd-division/country:us/state:ut/county:millard/school_board_district:1,Millard County UT School Board District 1
+ocd-division/country:us/state:ut/county:millard/school_board_district:2,Millard County UT School Board District 2
+ocd-division/country:us/state:ut/county:millard/school_board_district:3,Millard County UT School Board District 3
+ocd-division/country:us/state:ut/county:morgan/school_board_district:1,Morgan County UT School Board District 1
+ocd-division/country:us/state:ut/county:morgan/school_board_district:5,Morgan County UT School Board District 5
+ocd-division/country:us/state:ut/county:piute/school_board_district:4,Piute County UT School Board District 4
+ocd-division/country:us/state:ut/county:piute/school_board_district:5,Piute County UT School Board District 5
+ocd-division/country:us/state:ut/county:rich/school_board_district:5,Rich County UT School Board District 5
+ocd-division/country:us/state:ut/county:san_juan/council_district:1,San Juan County UT Council District 1
+ocd-division/country:us/state:ut/county:san_juan/school_board_district:1,San Juan County UT School Board District 1
+ocd-division/country:us/state:ut/county:san_juan/school_board_district:2,San Juan County UT School Board District 2
+ocd-division/country:us/state:ut/county:san_juan/school_board_district:3,San Juan County UT School Board District 3
+ocd-division/country:us/state:ut/county:sevier/school_board_district:4,Sevier County UT School Board District 4
+ocd-division/country:us/state:ut/county:sevier/school_board_district:5,Sevier County UT School Board District 5
+ocd-division/country:us/state:ut/county:tooele/school_board_district:1,Tooele County UT School Board District 1
+ocd-division/country:us/state:ut/county:tooele/school_board_district:2,Tooele County UT School Board District 2
+ocd-division/country:us/state:ut/county:tooele/school_board_district:3,Tooele County UT School Board District 3
+ocd-division/country:us/state:ut/county:tooele/school_board_district:4,Tooele County UT School Board District 4
+ocd-division/country:us/state:ut/county:uintah/school_board_district:2,Uintah County UT School Board District 2
+ocd-division/country:us/state:ut/county:uintah/school_board_district:4,Uintah County UT School Board District 4
+ocd-division/country:us/state:ut/county:uintah/school_board_district:5,Uintah County UT School Board District 5
+ocd-division/country:us/state:ut/county:wasatch/council_district:county_south,Wasatch County UT County South Council District
+ocd-division/country:us/state:ut/county:wasatch/council_district:hebert_south,Wasatch County UT Hebert South Council District
+ocd-division/country:us/state:ut/county:wasatch/school_board_district:county_east,Wasatch County UT School Board District County East
+ocd-division/country:us/state:ut/county:wasatch/school_board_district:county_south,Wasatch County UT School Board District County South
+ocd-division/country:us/state:ut/county:wasatch/school_board_district:school_board_district_midway,Wasatch County UT School Board District School Board District Midway
+ocd-division/country:us/state:ut/county:washington/school_board_district:1,Washington County UT School Board District 1
+ocd-division/country:us/state:ut/county:washington/school_board_district:2,Washington County UT School Board District 2
+ocd-division/country:us/state:ut/county:washington/school_board_district:3,Washington County UT School Board District 3
+ocd-division/country:us/state:ut/county:wayne/school_board_district:1,Wayne County UT School Board District 1
+ocd-division/country:us/state:ut/county:wayne/school_board_district:2,Wayne County UT School Board District 2
+ocd-division/country:us/state:ut/county:wayne/school_board_district:3,Wayne County UT School Board District 3
+ocd-division/country:us/state:ut/place:copperton,Copperton UT
+ocd-division/country:us/state:ut/place:emigration_canyon,Emigration Canyon UT
+ocd-division/country:us/state:ut/place:kearns/council_district:1,Kearns UT Council District 1
+ocd-division/country:us/state:ut/place:kearns/council_district:2,Kearns UT Council District 2
+ocd-division/country:us/state:ut/place:kearns/council_district:3,Kearns UT Council District 3
+ocd-division/country:us/state:ut/place:kearns/council_district:4,Kearns UT Council District 4
+ocd-division/country:us/state:ut/place:kearns/council_district:5,Kearns UT Council District 5
+ocd-division/country:us/state:ut/place:magna/council_district:1,Magna UT Council District 1
+ocd-division/country:us/state:ut/place:magna/council_district:2,Magna UT Council District 2
+ocd-division/country:us/state:ut/place:magna/council_district:3,Magna UT Council District 3
+ocd-division/country:us/state:ut/place:magna/council_district:4,Magna UT Council District 4
+ocd-division/country:us/state:ut/place:magna/council_district:5,Magna UT Council District 5
+ocd-division/country:us/state:ut/place:millcreek,Millcreek UT
+ocd-division/country:us/state:ut/place:millcreek/council_district:1,Millcreek UT Council District 1
+ocd-division/country:us/state:ut/place:millcreek/council_district:2,Millcreek UT Council District 2
+ocd-division/country:us/state:ut/place:millcreek/council_district:3,Millcreek UT Council District 3
+ocd-division/country:us/state:ut/place:millcreek/council_district:4,Millcreek UT Council District 4
+ocd-division/country:us/state:ut/place:mutton_hollow,Mutton Hollow
+ocd-division/country:us/state:ut/place:white_city,White City UT
+ocd-division/country:us/state:ut/school_board_district:10,Utah State School Board District 10
+ocd-division/country:us/state:ut/school_board_district:11,Utah State School Board District 11
+ocd-division/country:us/state:ut/school_board_district:12,Utah State School Board District 12
+ocd-division/country:us/state:ut/school_board_district:13,Utah State School Board District 13
+ocd-division/country:us/state:ut/school_board_district:15,Utah State School Board District 15
+ocd-division/country:us/state:ut/school_board_district:4,Utah State School Board District 4
+ocd-division/country:us/state:ut/school_board_district:7,Utah State School Board District 7
+ocd-division/country:us/state:ut/school_board_district:8,Utah State School Board District 8
+ocd-division/country:us/state:ut/place:kearns,Kearns
+ocd-division/country:us/state:ut/place:magna,Magna

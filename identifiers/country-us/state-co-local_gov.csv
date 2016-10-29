@@ -211,3 +211,71 @@ ocd-division/country:us/state:co/place:loveland/ward:1,Loveland CO ward 1
 ocd-division/country:us/state:co/place:loveland/ward:2,Loveland CO ward 2
 ocd-division/country:us/state:co/place:loveland/ward:3,Loveland CO ward 3
 ocd-division/country:us/state:co/place:loveland/ward:4,Loveland CO ward 4
+ocd-division/country:us/state:co/board_of_regents:university_of_colorado_1,University of Colorado Board of Regents District 1
+ocd-division/country:us/state:co/board_of_regents:university_of_colorado_4,University of Colorado Board of Regents District 4
+ocd-division/country:us/state:co/county:adams/council_district:5,Adams County CO Council District  5
+ocd-division/country:us/state:co/county:alamosa/council_district:4,Alamosa County CO Council District  4
+ocd-division/country:us/state:co/county:baca/council_district:1,Baca County CO Council District  1
+ocd-division/country:us/state:co/county:baca/council_district:3,Baca County CO Council District  3
+ocd-division/country:us/state:co/county:bent/council_district:1,Bent County CO Council District  1
+ocd-division/country:us/state:co/county:bent/council_district:3,Bent County CO Council District  3
+ocd-division/country:us/state:co/county:conjos/council_district:1,Conjos County CO Council District  1
+ocd-division/country:us/state:co/county:conjos/council_district:3,Conjos County CO Council District  3
+ocd-division/country:us/state:co/county:custer/council_district:2,Custer County CO Council District  2
+ocd-division/country:us/state:co/county:custer/council_district:3,Custer County CO Council District  3
+ocd-division/country:us/state:co/county:freemont/council_district:1,Freemont County CO Council District  1
+ocd-division/country:us/state:co/county:freemont/council_district:3,Freemont County CO Council District  3
+ocd-division/country:us/state:co/county:hinsdale/council_district:1,Hinsdale County CO Council District  1
+ocd-division/country:us/state:co/county:hinsdale/council_district:3,Hinsdale County CO Council District  3
+ocd-division/country:us/state:co/county:jackson/council_district:2,Jackson County CO Council District  2
+ocd-division/country:us/state:co/county:kiowa/council_district:1,Kiowa County CO Council District  1
+ocd-division/country:us/state:co/county:kiowa/council_district:3,Kiowa County CO Council District  3
+ocd-division/country:us/state:co/county:lake/council_district:2,Lake County CO Council District  2
+ocd-division/country:us/state:co/county:lake/council_district:3,Lake County CO Council District  3
+ocd-division/country:us/state:co/county:lincoln/council_district:2,Lincoln County CO Council District  2
+ocd-division/country:us/state:co/county:lincoln/council_district:3,Lincoln County CO Council District  3
+ocd-division/country:us/state:co/county:mineral/council_district:2,Mineral County CO Council District  2
+ocd-division/country:us/state:co/county:mineral/council_district:3,Mineral County CO Council District  3
+ocd-division/country:us/state:co/county:phillips/council_district:2,Phillips County CO Council District  2
+ocd-division/country:us/state:co/county:phillips/council_district:3,Phillips County CO Council District  3
+ocd-division/country:us/state:co/county:rio_blanco/council_district:2,Rio Blanco County CO Council District  2
+ocd-division/country:us/state:co/county:rio_blanco/council_district:3,Rio Blanco County CO Council District  3
+ocd-division/country:us/state:co/county:rio_grande/council_district:1,Rio Grande County CO Council District  1
+ocd-division/country:us/state:co/county:rio_grande/council_district:3,Rio Grande County CO Council District  3
+ocd-division/country:us/state:co/county:washington/council_district:2,Washington County CO Council District  2
+ocd-division/country:us/state:co/county:washington/council_district:3,Washingon County CO Council District  3
+ocd-division/country:us/state:co/prosecutorial:1,Colorado Prosecutorial District  1
+ocd-division/country:us/state:co/prosecutorial:10,Colorado Prosecutorial District  10
+ocd-division/country:us/state:co/prosecutorial:11,Colorado Prosecutorial District  11
+ocd-division/country:us/state:co/prosecutorial:12,Colorado Prosecutorial District  12
+ocd-division/country:us/state:co/prosecutorial:13,Colorado Prosecutorial District  13
+ocd-division/country:us/state:co/prosecutorial:14,Colorado Prosecutorial District  14
+ocd-division/country:us/state:co/prosecutorial:15,Colorado Prosecutorial District  15
+ocd-division/country:us/state:co/prosecutorial:16,Colorado Prosecutorial District  16
+ocd-division/country:us/state:co/prosecutorial:17,Colorado Prosecutorial District  17
+ocd-division/country:us/state:co/prosecutorial:18,Colorado Prosecutorial District  18
+ocd-division/country:us/state:co/prosecutorial:19,Colorado Prosecutorial District  19
+ocd-division/country:us/state:co/prosecutorial:2,Colorado Prosecutorial District  2
+ocd-division/country:us/state:co/prosecutorial:20,Colorado Prosecutorial District  20
+ocd-division/country:us/state:co/prosecutorial:21,Colorado Prosecutorial District  21
+ocd-division/country:us/state:co/prosecutorial:22,Colorado Prosecutorial District  22
+ocd-division/country:us/state:co/prosecutorial:3,Colorado Prosecutorial District  3
+ocd-division/country:us/state:co/prosecutorial:4,Colorado Prosecutorial District  4
+ocd-division/country:us/state:co/prosecutorial:5,Colorado Prosecutorial District  5
+ocd-division/country:us/state:co/prosecutorial:6,Colorado Prosecutorial District  6
+ocd-division/country:us/state:co/prosecutorial:7,Colorado Prosecutorial District  7
+ocd-division/country:us/state:co/prosecutorial:8,Colorado Prosecutorial District  8
+ocd-division/country:us/state:co/prosecutorial:9,Colorado Prosecutorial District  9
+ocd-division/country:us/state:co/school_board_district:3,Colorado State School Board District  3
+ocd-division/country:us/state:co/school_board_district:5,Colorado State School Board District  5
+ocd-division/country:us/state:co/school_board_district:6,Colorado State School Board District  6
+ocd-division/country:us/state:co/transit:a,Colorado Regional Transportation District  A
+ocd-division/country:us/state:co/transit:d,Colorado Regional Transportation District  D
+ocd-division/country:us/state:co/transit:e,Colorado Regional Transportation District  E
+ocd-division/country:us/state:co/transit:f,Colorado Regional Transportation District  F
+ocd-division/country:us/state:co/transit:g,Colorado Regional Transportation District  G
+ocd-division/country:us/state:co/transit:h,Colorado Regional Transportation District  H
+ocd-division/country:us/state:co/transit:i,Colorado Regional Transportation District  I
+ocd-division/country:us/state:co/transit:m,Colorado Regional Transportation District  M
+ocd-division/country:us/state:co/county:conjos,Conjos
+ocd-division/country:us/state:co/county:freemont,Freemont

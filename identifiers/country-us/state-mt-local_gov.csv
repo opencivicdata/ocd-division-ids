@@ -91,3 +91,32 @@ ocd-division/country:us/state:mt/place:billings/ward:2,Billings MT - ward 2
 ocd-division/country:us/state:mt/place:billings/ward:3,Billings MT - ward 3
 ocd-division/country:us/state:mt/place:billings/ward:4,Billings MT - ward 4
 ocd-division/country:us/state:mt/place:billings/ward:5,Billings MT - ward 5
+ocd-division/country:us/state:mt/county:blaine/council_district:2,Blaine County MT Council District 2
+ocd-division/country:us/state:mt/county:carbon/council_district:2,Carbon County MT Council District 2
+ocd-division/country:us/state:mt/county:carter/council_district:2,Carter County MT Council District 2
+ocd-division/country:us/state:mt/county:chouteau/council_district:2,Chouteau County MT Council District 2
+ocd-division/country:us/state:mt/county:daniels/council_district:2,Daniels County MT Council District 2
+ocd-division/country:us/state:mt/county:fallon/council_district:2,Fallon County MT Council District 2
+ocd-division/country:us/state:mt/county:gallatin/council_district:2,Gallatin County MT Council District 2
+ocd-division/country:us/state:mt/county:glacier/council_district:3,Glacier County MT Council District 3
+ocd-division/country:us/state:mt/county:granite/council_district:2,Granite County MT Council District 2
+ocd-division/country:us/state:mt/county:hill/council_district:2,Hill County MT Council District 2
+ocd-division/country:us/state:mt/county:judith_basin/council_district:2,Blaine County MT Council District 2
+ocd-division/country:us/state:mt/county:lake/council_district:2,Lake County MT Council District 2
+ocd-division/country:us/state:mt/county:lewis_and_clark/council_district:3,Lewis and Clark Council District 3
+ocd-division/country:us/state:mt/county:liberty/council_district:2,Liberty County MT Council District 2
+ocd-division/country:us/state:mt/county:meagher/council_district:2,Meagher County MT Council District 2
+ocd-division/country:us/state:mt/county:mineral/council_district:east_end,Mineral County MT East End District
+ocd-division/country:us/state:mt/county:missoula/council_district:2,Missoula County MT Council District 2
+ocd-division/country:us/state:mt/county:musselshell/council_district:2,Musselshell County MT Council District 2
+ocd-division/country:us/state:mt/county:phillips/council_district:a,Phillips County MT Council District A
+ocd-division/country:us/state:mt/county:pondera/council_district:1,Pondera County MT Council District 1
+ocd-division/country:us/state:mt/county:rosebud/council_district:2,Rosebud County MT Council District 2
+ocd-division/country:us/state:mt/county:sweet_grass/council_district:2,Sweet Grass County MT Council District 2
+ocd-division/country:us/state:mt/county:teton/council_district:2,Teton County MT Council District 2
+ocd-division/country:us/state:mt/county:wheatland/council_district:2,Wheatland County MT Council District 2
+ocd-division/country:us/state:mt/county:wibaux/council_district:3,Wibaux County MT Council District 3
+ocd-division/country:us/state:mt/public_service:2,Montana Public Service District 2
+ocd-division/country:us/state:mt/public_service:3,Montana Public Service District 3
+ocd-division/country:us/state:mt/public_service:4,Montana Public Service District 4
+ocd-division/country:us/state:mt/region:butte_city_and_silver_bow_county,Butte City and Silver Bow County region

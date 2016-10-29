@@ -145,3 +145,19 @@ ocd-division/country:us/state:wa/place:kennewick/ward:3,Kennewick WA Ward 3
 ocd-division/country:us/state:wa/place:raymond/ward:1,Raymond WA Ward 1
 ocd-division/country:us/state:wa/place:raymond/ward:2,Raymond WA Ward 2
 ocd-division/country:us/state:wa/place:raymond/ward:3,Raymond WA Ward 3
+ocd-division/country:us/state:wa/county:aostin/council_district:2,Aostin County WA Council District 2
+ocd-division/country:us/state:wa/county:chelan/public_utility:a,Chelan County WA Public Utility District A
+ocd-division/country:us/state:wa/county:clark/council_district:4,Clark County WA Council District 4
+ocd-division/country:us/state:wa/county:clark/public_utility:2,Clark County WA Public Utility District 2
+ocd-division/country:us/state:wa/county:cowlitz/public_utility:3,Cowlitz County WA Public Utility District 3
+ocd-division/country:us/state:wa/county:franklin/council_district:4,Franklin County WA Council District 4
+ocd-division/country:us/state:wa/county:kitsap/public_utility:1,Kitsap County WA Public Utility District 1
+ocd-division/country:us/state:wa/county:kittitas/public_utility:1,Kittitas County WA Public Utility District 1
+ocd-division/country:us/state:wa/county:mason/public_utility:1,Mason County WA Public Utility District 1
+ocd-division/country:us/state:wa/county:okanogan/public_utility:3,Okanogan County WA Public Utility District 3
+ocd-division/country:us/state:wa/county:pacific/public_utility:3,Pacific County WA Public Utility District 3
+ocd-division/country:us/state:wa/county:san_juan/council_district:1,San Juan County WA Council District 1
+ocd-division/country:us/state:wa/county:skagit_county/public_utility:1,Skagit County WA Public Utility District
+ocd-division/country:us/state:wa/county:snohomish/public_utility:3,Snohomish County WA Public Utility 3
+ocd-division/country:us/state:wa/county:aostin,Aostin
+ocd-division/country:us/state:wa/county:skagit_county,Skagit County
