@@ -458,3 +458,20 @@ ocd-division/country:us/state:ca/place:palmdale/council_district:1,City Of Palmd
 ocd-division/country:us/state:ca/place:palmdale/council_district:2,City Of Palmdale 2nd Council
 ocd-division/country:us/state:ca/place:palmdale/council_district:3,City Of Palmdale 3rd Council
 ocd-division/country:us/state:ca/place:palmdale/council_district:4,City Of Palmdale 4th Council
+ocd-division/country:us/state:ca/county:los_angeles/water:castaic_lake_water_agency/region:2,Castaic Lake Water Agency Division 2
+ocd-division/country:us/state:ca/county:los_angeles/water:central_basin_municipal/region:1,Central Basin Municipal Water Division 1
+ocd-division/country:us/state:ca/county:los_angeles/water:central_basin_municipal/region:4,Central Basin Municipal Water Division 4
+ocd-division/country:us/state:ca/county:los_angeles/water:central_basin_municipal/region:5,Central Basin Municipal Water Division 5
+ocd-division/country:us/state:ca/county:los_angeles/water:replenishment_district_of_southern_california/region:2,Water Replenishment District Of Southern California Division 2
+ocd-division/country:us/state:ca/county:los_angeles/water:replenishment_district_of_southern_california/region:5,Water Replenishment District Of Southern California Division 5
+ocd-division/country:us/state:ca/county:los_angeles/water:san_gabriel_valley_municipal/region:2,San Gabriel Valley Municipal Water Division 2
+ocd-division/country:us/state:ca/county:los_angeles/water:three_valleys_municipal/region:6,Three Valleys Municipal Water Division 6
+ocd-division/country:us/state:ca/county:los_angeles/water:upper_san_gabriel_valley_municipal/region:3,Upper San Gabriel Valley Municipal Water Division 3
+ocd-division/country:us/state:ca/county:los_angeles/water:upper_san_gabriel_valley_municipal/region:4,Upper San Gabriel Valley Municipal Water Division 4
+ocd-division/country:us/state:ca/county:los_angeles/water:west_basin_municipal/region:5,West Basin Municipal Water Division 5
+ocd-division/country:us/state:ca/county:los_angeles/water:central_basin_municipal,Central Basin Municipal Water
+ocd-division/country:us/state:ca/county:los_angeles/water:replenishment_district_of_southern_california,Water Replenishment District Of Southern California
+ocd-division/country:us/state:ca/county:los_angeles/water:san_gabriel_valley_municipal,San Gabriel Valley Municipal Water
+ocd-division/country:us/state:ca/county:los_angeles/water:three_valleys_municipal,Three Valleys Municipal Water
+ocd-division/country:us/state:ca/county:los_angeles/water:upper_san_gabriel_valley_municipal,Upper San Gabriel Valley Municipal Water
+ocd-division/country:us/state:ca/county:los_angeles/water:west_basin_municipal,West Basin Municipal Water
