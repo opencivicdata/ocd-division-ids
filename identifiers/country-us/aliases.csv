@@ -430,3 +430,7 @@ ocd-division/country:us/state:vt/place:springfield/precinct:windsor_3-1,ocd-divi
 ocd-division/country:us/state:vt/place:springfield/precinct:windsor_3-2,ocd-division/country:us/state:vt/place:springfield,Do not believe this precinct exists because there is one polling place and no mention of precincts on clerk's website
 ocd-division/country:us/territory:pr/sldu:at-large,ocd-division/country:us/territory:pr,At-large district in PR
 ocd-division/country:us/territory:pr/sldl:at-large,ocd-division/country:us/territory:pr,At-large district in PR
+ocd-division/country:us/state:ca/place:downey/council_district:5,ocd-division/country:us/state:ca/place:downey,Downey City's At-large District
+ocd-division/country:us/state:ca/county:los_angeles/school_district:alhambra_unified/region:3,ocd-division/country:us/state:ca/county:los_angeles/school_district:alhambra_unified,Alhambra's At-large Unified School District
+ocd-division/country:us/state:ca/place:alhambra/council_district:3,ocd-division/country:us/state:ca/place:alhambra,Alhambra City's At-large District
+ocd-division/country:us/state:ca/place:alhambra/council_district:4,ocd-division/country:us/state:ca/place:alhambra,Alhambra City's At-large District
