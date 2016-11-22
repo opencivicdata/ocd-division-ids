@@ -1,5 +1,9 @@
-ocd-division/country:us/territory:as,American Samoa
-ocd-division/country:us/territory:gu,Guam
-ocd-division/country:us/territory:mp,Northern Mariana Islands
-ocd-division/country:us/territory:pr,Puerto Rico
-ocd-division/country:us/territory:vi,US Virgin Islands
+id,name,sameAs,validFrom,validThrough
+ocd-division/country:us/territory:as,American Samoa,,,
+ocd-division/country:us/territory:gu,Guam,,,
+ocd-division/country:us/territory:mp,Northern Mariana Islands,,,
+ocd-division/country:us/territory:pr,Puerto Rico,,,
+ocd-division/country:us/territory:vi,US Virgin Islands,,,
+ocd-division/country:us/territory:ot,Orleans Territory,ocd-division/country:us/state:la,1804-10-01,1812-04-30
+ocd-division/country:us/territory:dt,Dakota Territory,,1861-03-02,1889-11-02
+ocd-division/country:us/territory:pi,Philippine Islands,,1898-12-10,1946-07-04
