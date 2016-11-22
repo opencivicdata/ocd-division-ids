@@ -1,9 +1,11 @@
-id,name,sameAs,sameAsNote,validThrough,validFrom
-ocd-division/country:us/territory:as,American Samoa
-ocd-division/country:us/territory:gu,Guam
-ocd-division/country:us/territory:mp,Northern Mariana Islands
-ocd-division/country:us/territory:pr,Puerto Rico
-ocd-division/country:us/territory:vi,US Virgin Islands
-ocd-division/country:us/territory:ot,Territory of Orleans,,,1812-04-30,1804-10-01
-ocd-division/country:us/territory:dt,Dakota Territory,,,1889-11-02,1861-03-02
-ocd-division/country:us/territory:pi,Philippine Islands,,,1946-07-04,1898-12-10
+id,name,sameAs,validThrough,validFrom
+ocd-division/country:us/territory:as,American Samoa,,,
+ocd-division/country:us/territory:gu,Guam,,,
+ocd-division/country:us/territory:mp,Northern Mariana Islands,,,
+ocd-division/country:us/territory:pr,Puerto Rico,,,
+ocd-division/country:us/territory:vi,US Virgin Islands,,,
+ocd-division/country:us/territory:ot,Orleans Territory,,1812-04-30,1804-10-01
+ocd-division/country:us/territory:la,Orleans Territory,ocd-division/country:us/territory:ot,,
+ocd-division/country:us/territory:dt,Dakota Territory,,1889-11-02,1861-03-02
+ocd-division/country:us/territory:dk,Dakota Territory,ocd-division/country:us/territory:dt,,
+ocd-division/country:us/territory:pi,Philippine Islands,,1946-07-04,1898-12-10
