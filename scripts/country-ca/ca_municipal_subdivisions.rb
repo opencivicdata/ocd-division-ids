@@ -46,45 +46,57 @@ class MunicipalSubdivision < Runner
       domain = boundary_set["domain"]
       next if ignore.include?(domain)
 
-      subsubdivision, census_subdivision, province_or_territory = domain.match(/\A(?:([^,]+), )?([^,]+), (NL|PE|NS|NB|QC|ON|MB|SK|AB|BC|YT|NT|NU)\z/)[1..3]
+      subsubdivision, census_unit, province_or_territory = domain.match(/\A(?:([^,]+), )?([^,]+), (NL|PE|NS|NB|QC|ON|MB|SK|AB|BC|YT|NT|NU)\z/)[1..3]
 
       # Ignore boundary sets of boroughs, as the districts already exist on the parent.
       unless subsubdivision
-        matches = census_subdivisions.fetch(province_or_territory.downcase).fetch(census_subdivision)
+        matches = census_subdivisions.fetch(province_or_territory.downcase)[census_unit] || census_divisions.fetch(province_or_territory.downcase).fetch(census_unit)
 
-        census_subdivision_id = if matches.size == 1
+        census_unit_id = if matches.size == 1
           matches[0][:id]
         else
-          # There are two Lunenburg (MD and T).
-          if matches.find{|match| match[:id] == "1206001"}
-            "1206001"
-          # There are two L'Ange Gardien (MÉ).
-          elsif matches.find{|match| match[:id] == "2482005"}
-            "2482005"
+          # There are two of:
+          # * Shelburne (MD and T)
+          # * Yarmouth (MD and T)
+          # * Digby (MD and T)
+          # * Lunenburg (MD and T)
+          # * L'Ange Gardien (MÉ)
+          match = matches.find{|match| %w(1201006 1202004 1203004 1206001 2482005).include?(match[:id])}
+          if match
+            match[:id]
           else
             matches = matches.select{|match| %w(C CY MD MÉ RCR T V TV).include?(match[:type])}
             if matches.size == 1
               matches[0][:id]
             else
-              raise matches.inspect
+              raise "#{census_unit}: #{matches.inspect}"
             end
           end
         end
 
-        items << [census_subdivision_id, boundary_set]
+        items << [census_unit_id, boundary_set]
       end
     end
 
     puts CSV.generate_line(%w(id name))
-    items.sort_by{|census_subdivision_id,boundary_set|
-      "#{census_subdivision_id}-#{boundary_set["name"].match(/ (borough|district|division|quartier|ward)s\z/)[1]}"
-    }.each do |census_subdivision_id,boundary_set|
+    items.sort_by{|census_unit_id,boundary_set|
+      "#{census_unit_id}-#{boundary_set["name"].match(/ (borough|district|division|quartier|ward)s\z/)[1]}"
+    }.each do |census_unit_id,boundary_set|
       ocd_type = boundary_set["name"].match(/ (borough|district|division|quartier|ward)s\z/)[1]
 
-      JSON.load(open("https://represent.opennorth.ca#{boundary_set["related"]["boundaries_url"]}?limit=0"))["objects"].sort_by{|boundary|
-        identifier(boundary)
+      JSON.load(open("https://represent.opennorth.ca#{boundary_set["related"]["boundaries_url"]}?limit=0"))["objects"].sort{|a,b|
+        # Most identifiers are numbers, but some are "2A" or "2B".
+        a = identifier(a)
+        b = identifier(b)
+        if a.class == b.class
+          a <=> b
+        elsif a.to_i == b.to_i
+          a.to_s <=> b.to_s
+        else
+          a.to_i <=> b.to_i
+        end
       }.each{|boundary|
-        output("csd:#{census_subdivision_id}/#{ocd_type}:",
+        output("#{census_unit_id.size == 4 ? "cd" : "csd"}:#{census_unit_id}/#{ocd_type}:",
           identifier(boundary),
           boundary["name"])
       }
@@ -610,6 +622,19 @@ private
     end
   end
 
+  def census_divisions
+    @census_divisions ||= {}.tap do |hash|
+      OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").each do |identifier,name,name_fr,classification,organization_name|
+        type_id = identifier[/[^:]+\z/]
+        object = CensusDivisionIdentifier.new(type_id)
+        key = object.province_or_territory_type_id
+        hash[key] ||= {}
+        hash[key][name] ||= []
+        hash[key][name] << {:id => type_id, :type => classification}
+      end
+    end
+  end
+
   def census_subdivisions
     @census_subdivisions ||= {}.tap do |hash|
       OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,name,name_fr,classification,organization_name|
@@ -638,6 +663,7 @@ private
           "Mississippi Mills, Municipality of" => ["Mississippi Mills", "Town"],
           "Selwyn, Township of"                => ["Smith-Ennismore-Lakefield", "Township"],
           "South Dundas, Municipality of"      => ["South Dundas", "Township"],
+          "Strathroy-Caradoc, Municipality of" => ["Strathroy-Caradoc", "Township"],
           "Trent Lakes, Municipality of"       => ["Galway-Cavendish and Harvey", "Township"],
         }
 
