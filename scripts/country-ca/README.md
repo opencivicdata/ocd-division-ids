@@ -4,7 +4,7 @@
 
     ./scripts/country-ca/run-all.sh
 
-To check URLs:
+To check URLs (optional):
 
     ruby scripts/country-ca/check-urls.rb
 
