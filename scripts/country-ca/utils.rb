@@ -245,7 +245,12 @@ class ShapefileRecord
       name
     end
 
-    @sort_as = Integer(sort_as.sub(/\A0+/, "")) rescue sort_as
+    integer = sort_as.sub(/\A0+/, "")
+    if integer[/\A(\d+)-\d{4}\z/]
+      integer = $1
+    end
+
+    @sort_as = Integer(integer) rescue sort_as
   end
 
   # @param [ShapefileRecord] other a shapefile record
