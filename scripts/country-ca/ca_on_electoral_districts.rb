@@ -12,7 +12,7 @@ class ON < Runner
     add_command({
       :name        => "names-2015",
       :description => "Prints a CSV of identifiers and English names",
-      :output_path => "identifiers/country-ca/province-on-electoral-districts-2015.csv",
+      :output_path => "identifiers/country-ca/province-on-electoral_districts-2015.csv",
     })
   end
 

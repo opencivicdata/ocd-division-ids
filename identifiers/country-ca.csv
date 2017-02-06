@@ -38666,91 +38666,111 @@ ocd-division/country:ca/province:ab/ed:86,Wetaskiwin-Camrose,,,,,,,,,,,,,
 ocd-division/country:ca/province:ab/ed:87,Whitecourt-Ste. Anne,,,,,,,,,,,,,
 ocd-division/country:ca/province:ab/ed:9,Calgary-Elbow,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc,British Columbia,B.C.,C.-B.,,http://www.data.gov.bc.ca/,,Colombie-Britannique,,,,,59,,
-ocd-division/country:ca/province:bc/ed:abm,Abbotsford-Mission,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:abs,Abbotsford South,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:abw,Abbotsford West,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:abm,Abbotsford-Mission,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:abs,Abbotsford South,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:abw,Abbotsford West,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:apr,Alberni-Pacific Rim,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:bds,Boundary-Similkameen,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:bnd,Burnaby-Deer Lake,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:bne,Burnaby-Edmonds,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:bnl,Burnaby-Lougheed,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:bnn,Burnaby North,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:cbc,Cariboo-Chilcotin,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:cbn,Cariboo North,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:chc,Chilliwack,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:bds,Boundary-Similkameen,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:bnd,Burnaby-Deer Lake,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:bne,Burnaby-Edmonds,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:bnl,Burnaby-Lougheed,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:bnn,Burnaby North,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:cbc,Cariboo-Chilcotin,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:cbn,Cariboo North,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:chc,Chilliwack,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:chh,Chilliwack-Hope,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:clr,Columbia River-Revelstoke,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:chk,Chilliwack-Kent,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:clr,Columbia River-Revelstoke,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:cmx,Comox Valley,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:cqb,Coquitlam-Burke Mountain,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:cqm,Coquitlam-Maillardville,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:cwv,Cowichan Valley,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:dln,Delta North,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:dls,Delta South,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:cqb,Coquitlam-Burke Mountain,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:cqm,Coquitlam-Maillardville,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:crc,Courtenay-Comox,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:cwv,Cowichan Valley,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:dln,Delta North,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:dls,Delta South,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:esm,Esquimalt-Metchosin,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:esr,Esquimalt-Royal Roads,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:fla,Fort Langley-Aldergrove,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:frn,Fraser-Nicola,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:frn,Fraser-Nicola,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:jdf,Juan de Fuca,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:kan,Kamloops-North Thompson,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:kas,Kamloops-South Thompson,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:kla,Kelowna-Lake Country,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:kan,Kamloops-North Thompson,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:kas,Kamloops-South Thompson,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:kla,Kelowna-Lake Country,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:klm,Kelowna-Mission,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:klw,Kelowna West,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:kmi,Kelowna-Mission,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:koe,Kootenay East,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:kow,Kootenay West,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:lly,Langley,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:koe,Kootenay East,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:kow,Kootenay West,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:ljf,Langford-Juan de Fuca,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:lly,Langley,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:lye,Langley East,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:mam,Maple Ridge-Mission,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:map,Maple Ridge-Pitt Meadows,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:mpr,Mid Island-Pacific Rim,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:mrm,Maple Ridge-Mission,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:mrp,Maple Ridge-Pitt Meadows,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:nan,Nanaimo,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:ncw,Nanaimo-North Cowichan,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:nec,Nechako Lakes,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:nel,Nelson-Creston,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:new,New Westminster,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:noc,North Coast,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:noi,North Island,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:nvl,North Vancouver-Lonsdale,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:nvs,North Vancouver-Seymour,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:obg,Oak Bay-Gordon Head,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:paq,Parksville-Qualicum,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:pcn,Peace River North,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:pcs,Peace River South,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:pen,Penticton,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:poc,Port Coquitlam,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:pom,Port Moody-Coquitlam,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:por,Powell River-Sunshine Coast,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:prm,Prince George-Mackenzie,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:prv,Prince George-Valemount,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:nan,Nanaimo,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:ncw,Nanaimo-North Cowichan,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:nec,Nechako Lakes,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:nel,Nelson-Creston,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:new,New Westminster,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:noc,North Coast,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:noi,North Island,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:nvl,North Vancouver-Lonsdale,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:nvs,North Vancouver-Seymour,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:obg,Oak Bay-Gordon Head,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:paq,Parksville-Qualicum,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:pcn,Peace River North,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:pcs,Peace River South,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:pen,Penticton,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:poc,Port Coquitlam,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:pom,Port Moody-Coquitlam,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:por,Powell River-Sunshine Coast,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:prm,Prince George-Mackenzie,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:prv,Prince George-Valemount,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:rcc,Richmond Centre,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:rce,Richmond East,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:rcs,Richmond-Steveston,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:san,Saanich North and the Islands,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:sas,Saanich South,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:shu,Shuswap,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:ske,Skeena,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:skn,Stikine,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:src,Surrey-Cloverdale,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:srf,Surrey-Fleetwood,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:srg,Surrey-Green Timbers,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:rnc,Richmond North Centre,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:rqe,Richmond-Queensborough,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:rsc,Richmond South Centre,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:rst,Richmond-Steveston,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:san,Saanich North and the Islands,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:sas,Saanich South,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:shu,Shuswap,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:ske,Skeena,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:skn,Stikine,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:src,Surrey-Cloverdale,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:srf,Surrey-Fleetwood,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:srg,Surrey-Green Timbers,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:srn,Surrey-Newton,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:srp,Surrey-Panorama,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:srt,Surrey-Tynehead,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:swh,Surrey-Whalley,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:swr,Surrey-White Rock,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vfa,Vancouver-Fairview,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vfc,Vancouver-False Creek,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vfv,Vancouver-Fraserview,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vha,Vancouver-Hastings,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vke,Vancouver-Kensington,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vki,Vancouver-Kingsway,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vla,Vancouver-Langara,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vmp,Vancouver-Mount Pleasant,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vnp,Vancouver-Point Grey,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vnq,Vancouver-Quilchena,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vnw,Vancouver-West End,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vrm,Vernon-Monashee,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vtb,Victoria-Beacon Hill,,,,,,,,,,,,,
-ocd-division/country:ca/province:bc/ed:vts,Victoria-Swan Lake,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:sug,Surrey-Guildford,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:sun,Surrey-Newton,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:sup,Surrey-Panorama,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:sus,Surrey South,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:swh,Surrey-Whalley,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:swr,Surrey-White Rock,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vfa,Vancouver-Fairview,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vfc,Vancouver-False Creek,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vfv,Vancouver-Fraserview,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vha,Vancouver-Hastings,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vke,Vancouver-Kensington,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vki,Vancouver-Kingsway,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vla,Vancouver-Langara,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vmp,Vancouver-Mount Pleasant,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vnp,Vancouver-Point Grey,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vnq,Vancouver-Quilchena,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vnw,Vancouver-West End,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vrm,Vernon-Monashee,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vtb,Victoria-Beacon Hill,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vts,Victoria-Swan Lake,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:wca,West Vancouver-Capilano,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:wss,West Vancouver-Sea to Sky,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:wtk,Westside-Kelowna,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:wvc,West Vancouver-Capilano,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:wvs,West Vancouver-Sea to Sky,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:mb,Manitoba,Man.,Man.,,,,Manitoba,,,,,46,,
 ocd-division/country:ca/province:mb/ed:agassiz,Agassiz,,,,,,Agassiz,,,,,,,
 ocd-division/country:ca/province:mb/ed:arthur-virden,Arthur-Virden,,,,,,Arthur-Virden,,,,,,,
