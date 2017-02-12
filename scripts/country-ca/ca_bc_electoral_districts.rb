@@ -32,7 +32,7 @@ class BC < Runner
     ShapefileParser.new(
       "https://catalogue.data.gov.bc.ca/dataset/9530a41d-6484-41e5-b694-acb76e212a58/resource/34eedf53-c60b-4237-bf6e-81228a51ab12/download/edsre2015.zip",
       "province:bc/ed:", {
-        :id => "ED_ABBREV",
+        :id => lambda{|record| "#{record.attributes["ED_ABBREV"]}-2015"},
         :name => "ED_NAME",
         :validFrom => lambda{|record| "2017-05-09"},
       }
