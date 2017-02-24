@@ -27,11 +27,6 @@ class MunicipalSubdivision < Runner
       :output_path => "identifiers/country-ca/ca_municipal_subdivisions-parent_id.csv",
     })
     add_command({
-      :name        => "data-catalog",
-      :description => "Prints a CSV of identifiers and data catalog URLs",
-      :output_path => "identifiers/country-ca/ca_municipal_subdivisions-data_catalog.csv",
-    })
-    add_command({
       :name        => "styles",
       :description => "Prints a CSV of identifiers and styles of address",
     })
@@ -108,81 +103,6 @@ class MunicipalSubdivision < Runner
 
     census_subdivisions_on.each do |identifier,block|
       output(nil, identifier, block)
-    end
-  end
-
-  def data_catalog
-    puts CSV.generate_line(%w(id data_catalog))
-
-    provinces_and_territories = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories").to_h.invert
-    provinces_and_territories_name_fr = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories-name_fr").to_h.invert
-
-    rows = []
-    CSV.parse(open("https://raw.githubusercontent.com/okfn/dataportals.org/master/data/portals.csv").read.force_encoding('UTF-8'), :headers => true) do |result|
-      if result["tags"] && result["tags"]["canada"]
-        next if [
-          "British Columbia Local Government Open Data Catalogue",
-          "Winnipeg, Manitoba 2010 Election",
-        ].include?(result["title"])
-
-        identifier = nil
-        result["title"].sub!(" (DataBC)", "")
-        match = result["title"].match(/\A(.+), (.+)\z/)
-        if match
-          name, province_or_territory = match[1..2]
-          if provinces_and_territories.key?(province_or_territory)
-            province_or_territory_type_id = provinces_and_territories.fetch(province_or_territory)[/[^:]+\z/]
-          elsif provinces_and_territories_name_fr.key?(province_or_territory)
-            province_or_territory_type_id = provinces_and_territories_name_fr.fetch(province_or_territory)[/[^:]+\z/]
-          else
-            raise "Unrecognized province or territory name: #{province_or_territory}"
-          end
-
-          if name.match(/\ARegion(?:al District)? of (.+)\z/)
-            fingerprint = CensusDivisionNameMatcher.fingerprint(province_or_territory_type_id, $1)
-            identifier, _ = CensusDivisionNameMatcher.identifier_and_name(fingerprint)
-          else
-            type = nil
-
-            case name
-            when "District of North Vancouver"
-              name = "North Vancouver"
-              type = "DM"
-            when "Township of Langley"
-              name = "Langley"
-              type = "DM"
-            when "Hamilton"
-              type = "CY"
-            end
-
-            if type
-              fingerprint = [province_or_territory_type_id, type, CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
-              identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
-            else
-              fingerprint = CensusSubdivisionNameMatcher.fingerprint(province_or_territory_type_id, name)
-              identifier, _ = CensusSubdivisionNameMatcher.identifier_and_name(fingerprint)
-            end
-          end
-        elsif provinces_and_territories[result["title"]]
-          identifier = provinces_and_territories[result["title"]]
-        elsif provinces_and_territories_name_fr[result["title"]]
-          identifier = provinces_and_territories_name_fr[result["title"]]
-        elsif result["title"] == "Canada"
-          identifier = "ocd-division/country:ca"
-        else
-          raise "Unrecognized data catalog name: #{result["title"]}"
-        end
-
-        if identifier
-          rows << [nil, identifier, result["url"]]
-        else
-          $stderr.puts fingerprint
-        end
-      end
-    end
-
-    rows.sort_by{|_,identifier,_| identifier}.each do |args|
-      output(*args)
     end
   end
 
