@@ -38,7 +38,7 @@ class Montreal < Runner
 private
 
   def clean_name(name)
-    name.gsub("–", "—").gsub('’', "'").sub(/Le /, '') # n-dash to m-dash
+    name.gsub("–", "—").gsub('’', "'").sub(/Le /, "") # n-dash to m-dash
   end
 
   def csv
@@ -47,7 +47,7 @@ private
 
     # @see http://donnees.ville.montreal.qc.ca/dataset/arros-liste
     file = open("http://donnees.ville.montreal.qc.ca/dataset/ddfdbcd9-de86-4b44-9b41-c293d7bfef14/resource/87af3a62-ee9a-40ad-b7d9-517ab3f12fad/download/liste-arrondissements.csv")
-    text = file.read.force_encoding("UTF-8")
+    text = file.read.force_encoding("utf-8")
     CSV.parse(text, :headers => true)
   end
 end
