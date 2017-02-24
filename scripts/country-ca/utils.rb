@@ -29,16 +29,16 @@ def census_division_type_names
   {}.tap do |hash|
     Nokogiri::HTML(open("https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_4-eng.cfm")).xpath("//table//th[@headers]/text()").each do |node|
       code, name = node.text.split(" – ", 2)
-      hash[code] = name.split(" / ", 2)[0]
+      hash[code] = name.split(" / ", 2)[0].downcase
     end
   end
 end
 
 def census_subdivision_type_names
   {}.tap do |hash|
-    Nokogiri::HTML(open("https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_5-eng.cfm")).xpath("//table//th[@headers]/text()").each do |text|
+    Nokogiri::HTML(open("https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_5-eng.cfm")).xpath("//table//th[@headers]/text()").each do |node|
       code, name = node.text.split(" – ", 2)  # non-breaking space
-      hash[code] = name.split(" / ", 2)[0]
+      hash[code] = name.split(" / ", 2)[0].downcase
     end
   end
 end
