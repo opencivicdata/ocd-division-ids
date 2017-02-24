@@ -18,12 +18,20 @@ class CensusDivisions < Runner
       # Stop before footer.
       break if row.empty?
 
+      type_name_en = row.fetch("Geographic type, english")
+      type_name_fr = row.fetch("Geographic type, french")
+      if type_name_en == type_name_fr
+        type_name = type_name_en
+      else
+        type_name = "#{type_name_en} / #{type_name_fr}"
+      end
+
       # Remove extra spaces, e.g. "Lot  1"
       output("cd:",
         row.fetch("Geographic code"),
         row.fetch("Geographic name, english").squeeze(" "),
         row.fetch("Geographic name, french").squeeze(" "),
-        type_names_inverse.fetch(row.fetch("Geographic type, english").downcase))
+        type_names_inverse.fetch(type_name.downcase))
     end
   end
 end

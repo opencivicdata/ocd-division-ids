@@ -19,10 +19,17 @@ class CensusSubdivisions < Runner
       # Stop before footer.
       break if row.empty?
 
+      type_name_en = row.fetch("CSD type, english")
+      type_name_fr = row.fetch("CSD type, french")
+      if type_name_en == type_name_fr
+        type_name = type_name_en
+      else
+        type_name = "#{type_name_en} / #{type_name_fr}"
+      end
+
       code = row.fetch("Geographic code")
-      name_en = name(row.fetch("Geographic name, english"))
-      name_fr = name(row.fetch("Geographic name, french"))
-      type_name = row.fetch("CSD type, english")
+      name_en = name(row.fetch("Geographic name, english"), code)
+      name_fr = name(row.fetch("Geographic name, french"), code)
       type = type_names_inverse.fetch(type_name.downcase)
       organization_name = nil
       number = nil
@@ -32,11 +39,11 @@ class CensusSubdivisions < Runner
         organization_name = "#{name_en} Regional Municipality"
       when "MD" # Municipal district
         organization_name = "Municipality of #{name_en}"
-      when "C", "CV", "CY", "M", "MÉ", "MU", "T", "TP", "TV", "V", "VL"
+      when "C", "CV", "CY", "M", "MU", "T", "TP", "TV", "V", "VL"
         if code[0, 2] == "24"
-          organization_name = "#{type_name} de #{name_fr}"
+          organization_name = "#{type_name_fr} de #{name_fr}"
         else
-          organization_name = "#{type_name} of #{name_en}"
+          organization_name = "#{type_name_en} of #{name_en}"
         end
       end
 
@@ -56,16 +63,23 @@ class CensusSubdivisions < Runner
 
 private
 
-  def name(name)
+  def name(name, code)
     if name == "Resort Mun. Stan.B.-Hope R.-Bayv.-Cavend.-N.Rust."
       "Resort Municipality of Stanley Bridge-Hope River-Bayview-Cavendish-North Rustico"
     else
-      name.
+      value = name.
         squeeze(" ").                # Remove extra spaces, e.g. "Lot  1"
         sub(/ \(Part\)/, "").        # Remove "(Part)" e.g. "Flin Flon (Part)"
         sub(/(?<=No\.)(?=\S)/, " "). # Add a space after "No.", e.g. "Lesser Slave River No.124"
         sub(/, Labrador\z/, "").     # Remove subregion, e.g. "Cartwright, Labrador"
         sub(/ \(Labrador\)\z/, "")   # Remove subregion, e.g. "Charlottetown (Labrador)"
+
+      # Expand "St." and "Ste." in New Brunswick and Quebec.
+      if code[/\A(?:13|24)/]
+        value.sub(/\bSt(e)?\./, 'Saint\1')
+      else
+        value
+      end
     end
   end
 end
