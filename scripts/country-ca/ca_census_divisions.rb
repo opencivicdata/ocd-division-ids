@@ -11,7 +11,7 @@ class CensusDivisions < Runner
     text = open("http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Tables/CompFile.cfm?Lang=Eng&T=701&OFT=FULLCSV").read
     text = text.force_encoding("iso-8859-1").encode("utf-8")
 
-    type_names = census_division_type_names.invert
+    type_names_inverse = census_division_type_names.invert
 
     puts CSV.generate_line(%w(id name name_fr classification))
     CSV.parse(text, :headers => true).each do |row|
@@ -23,7 +23,7 @@ class CensusDivisions < Runner
         row.fetch("Geographic code"),
         row.fetch("Geographic name, english").squeeze(" "),
         row.fetch("Geographic name, french").squeeze(" "),
-        type_names.fetch(row.fetch("Geographic type, english")))
+        type_names_inverse.fetch(row.fetch("Geographic type, english").downcase))
     end
   end
 end
