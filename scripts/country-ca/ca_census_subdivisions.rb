@@ -7,6 +7,19 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 
 class CensusSubdivisions < Runner
   def names
+    organization_names = {
+      "4819006" => "County of Grande Prairie No. 1", # Municipality of Grande Prairie County No. 1
+      "3528018" => "Corporation of Haldimand County", # City of Haldimand County
+
+      # SM: Specialized municipality.
+      # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta
+      "4811052" => "Strathcona County",
+      "4815007" => "Municipality of Crowsnest Pass",
+      "4815033" => "Municipality of Jasper",
+      "4816037" => "Regional Municipality of Wood Buffalo",
+      "4817095" => "Mackenzie County",
+    }
+
     # @see http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/index-eng.cfm
     text = open("http://www12.statcan.gc.ca/census-recensement/2016/dp-pd/hlt-fst/pd-pl/Tables/CompFile.cfm?Lang=Eng&T=301&OFT=FULLCSV").read
     text = text.force_encoding("iso-8859-1").encode("utf-8")
@@ -34,16 +47,20 @@ class CensusSubdivisions < Runner
       organization_name = nil
       number = nil
 
-      case type
-      when "RGM" # Regional municipality
-        organization_name = "#{name_en} Regional Municipality"
-      when "MD" # Municipal district
-        organization_name = "Municipality of #{name_en}"
-      when "C", "CV", "CY", "M", "MU", "T", "TP", "TV", "V", "VL"
-        if code[0, 2] == "24"
-          organization_name = "#{type_name_fr} de #{name_fr}"
-        else
-          organization_name = "#{type_name_en} of #{name_en}"
+      if organization_names.key?(code)
+        organization_name = organization_names[code]
+      else
+        case type
+        when "RGM" # Regional municipality
+          organization_name = "#{name_en} Regional Municipality"
+        when "MD" # Municipal district
+          organization_name = "Municipality of #{name_en}"
+        when "C", "CV", "CY", "M", "MU", "T", "TP", "TV", "V", "VL"
+          if code[0, 2] == "24"
+            organization_name = "#{type_name_fr} de #{name_fr}"
+          else
+            organization_name = "#{type_name_en} of #{name_en}"
+          end
         end
       end
 
