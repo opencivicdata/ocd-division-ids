@@ -447,7 +447,7 @@ class MunicipalSubdivision < Runner
             end
           when "MD"
             "Y"
-          when "ID", "IRI", "S-É", "SA", "SV", "T", "VL"
+          when "ID", "SA", "SV", "T", "VL"
             "N"
           else
             raise "Unrecognized census subdivision type: #{classification}"
