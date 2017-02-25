@@ -471,7 +471,7 @@ class MunicipalSubdivision < Runner
       if block[/^(Chairman|Mayor|Reeve):/]
         leader = $1
       elsif raise_if_error
-        raise "Unrecognized style of address: #{block}"
+        $stderr.puts "Unrecognized leader style of address:\n#{block.gsub(/^/, "  ")}"
       end
 
       if block[/^(Alderman|Councillor|Member):/]
@@ -479,14 +479,10 @@ class MunicipalSubdivision < Runner
       elsif block[/^Division \d+:/]
         member = "Councillor"
       elsif raise_if_error
-        raise "Unrecognized style of address: #{block}"
+        raise "Unrecognized member style of address:\n#{block.gsub(/^/, "  ")}"
       end
 
-      if leader && member
-        puts "#{identifier},#{leader},#{member}"
-      elsif leader || member
-        raise "Only determined one style of address: #{block}"
-      end
+      puts "#{identifier},#{leader},#{member}"
     end
 
     census_subdivisions_on.each do |identifier,_|
