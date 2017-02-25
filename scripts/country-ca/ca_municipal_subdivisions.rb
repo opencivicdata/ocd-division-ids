@@ -33,56 +33,65 @@ class MunicipalSubdivision < Runner
   end
 
   def names
-    ignore = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories").to_h.values << "Canada"
+    provinces_and_territories = OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories").to_h
+    domain_re = /\A(?:([^,]+), )?([^,]+), (#{provinces_and_territories.keys.map{|id| id.split(":")[-1].upcase}.join("|")})\z/
+    ignore = provinces_and_territories.values << "Canada"
 
     items = []
 
     JSON.load(open("https://represent.opennorth.ca/boundary-sets/?limit=0"))["objects"].each do |boundary_set|
+      # Skip boundary sets that are mergers of others.
+      next if boundary_set["url"] == "/boundary-sets/montreal-boroughs-and-districts/"
+
+      # Skip federal, provincial and territorial boundary sets.
       domain = boundary_set["domain"]
       next if ignore.include?(domain)
 
-      subsubdivision, census_unit, province_or_territory = domain.match(/\A(?:([^,]+), )?([^,]+), (NL|PE|NS|NB|QC|ON|MB|SK|AB|BC|YT|NT|NU)\z/)[1..3]
+      # Skip a borough's districts, which are already imported as its municipality's districts.
+      subsubdivision, geographic_name, province_or_territory = domain.match(domain_re)[1..3]
+      next if subsubdivision
 
-      # Ignore boundary sets of boroughs, as the districts already exist on the parent.
-      unless subsubdivision
-        matches = census_subdivisions.fetch(province_or_territory.downcase)[census_unit] || census_divisions.fetch(province_or_territory.downcase).fetch(census_unit)
+      matches = census_subdivisions.fetch(province_or_territory.downcase)[geographic_name] ||
+        census_divisions.fetch(province_or_territory.downcase).fetch(geographic_name)
 
-        census_unit_id = if matches.size == 1
-          matches[0][:id]
+      geographic_code = if matches.size == 1
+        matches[0][:id]
+      else
+        # Some boundary set's geographic name matches multiple identifiers:
+        # * Shelburne (MD and T)
+        # * Yarmouth (MD and T)
+        # * Digby (MD and T)
+        # * Lunenburg (MD and T)
+        # * L'Ange Gardien (MÉ)
+        match = matches.find{|match| %w(1201006 1202004 1203004 1206001 2482005).include?(match[:id])}
+        if match
+          match[:id]
         else
-          # There are two of:
-          # * Shelburne (MD and T)
-          # * Yarmouth (MD and T)
-          # * Digby (MD and T)
-          # * Lunenburg (MD and T)
-          # * L'Ange Gardien (MÉ)
-          match = matches.find{|match| %w(1201006 1202004 1203004 1206001 2482005).include?(match[:id])}
-          if match
-            match[:id]
+          matches = matches.select{|match| %w(C CY MD MÉ RCR T V TV).include?(match[:type])}
+          if matches.size == 1
+            matches[0][:id]
           else
-            matches = matches.select{|match| %w(C CY MD MÉ RCR T V TV).include?(match[:type])}
-            if matches.size == 1
-              matches[0][:id]
-            else
-              raise "#{census_unit}: #{matches.inspect}"
-            end
+            raise "#{geographic_name}: #{matches.inspect}"
           end
         end
-
-        items << [census_unit_id, boundary_set]
       end
+
+      items << [geographic_code, boundary_set]
     end
 
+    type_re = / (borough|district|division|quartier|ward)s\z/
+
     puts CSV.generate_line(%w(id name))
-    items.sort_by{|census_unit_id,boundary_set|
-      "#{census_unit_id}-#{boundary_set["name"].match(/ (borough|district|division|quartier|ward)s\z/)[1]}"
-    }.each do |census_unit_id,boundary_set|
-      ocd_type = boundary_set["name"].match(/ (borough|district|division|quartier|ward)s\z/)[1]
+    items.sort_by{|geographic_code,boundary_set|
+      "#{geographic_code}-#{boundary_set["name"].match(type_re)[1]}"
+    }.each do |geographic_code,boundary_set|
+      ocd_type = boundary_set["name"].match(type_re)[1]
 
       JSON.load(open("https://represent.opennorth.ca#{boundary_set["related"]["boundaries_url"]}?limit=0"))["objects"].sort{|a,b|
         # Most identifiers are numbers, but some are "2A" or "2B".
         a = identifier(a)
         b = identifier(b)
+
         if a.class == b.class
           a <=> b
         elsif a.to_i == b.to_i
@@ -91,7 +100,7 @@ class MunicipalSubdivision < Runner
           a.to_i <=> b.to_i
         end
       }.each{|boundary|
-        output("#{census_unit_id.size == 4 ? "cd" : "csd"}:#{census_unit_id}/#{ocd_type}:",
+        output("#{geographic_code.size == 4 ? "cd" : "csd"}:#{geographic_code}/#{ocd_type}:",
           identifier(boundary),
           boundary["name"])
       }
@@ -114,7 +123,7 @@ class MunicipalSubdivision < Runner
   def posts_count
     puts CSV.generate_line(%w(id posts_count))
 
-    # @see http://www.novascotia.ca/snsmr/municipal/government/elections.asp
+    # @see https://novascotia.ca/dma/government/elections.asp
     # The spreadsheet and roo gems open the Excel file too slowly.
     Tempfile.open("data.xls") do |f|
       f.binmode
@@ -122,32 +131,31 @@ class MunicipalSubdivision < Runner
         f.write(data.read)
       end
 
-      type = "RGM"
+      type = "RGM" # the first list is of regional municipalities
       Spreadsheet.open(f.path).worksheet(1).each do |row|
         case row[0]
-        when "Amherst" # top of list
+        when "Amherst" # the first item in the list of towns
           type = "T"
-        when "Annapolis" # top of list
+        when "Annapolis" # the first item in the list of municipal districts and counties
           type = "MD"
+        # @see http://www.statcan.gc.ca/eng/subjects/standard/sgc/2016/concordance-2011-2016
+        when "Bridgetown", "Hantsport", "Springhill"
+          next
         end
 
         if row[0] && row[1] && row[0].strip != "Voter Turnout"
-          identifier = nil
-          if type != "MD"
-            fingerprint = CensusSubdivisionNameMatcher.fingerprint("ns", row[0])
-            identifier, _ = CensusSubdivisionNameMatcher.identifier_and_name(fingerprint)
-          end
-
-          unless identifier
-            fingerprint = ["ns", type, CensusSubdivisionName.new(row[0]).normalize.fingerprint] * ":"
-            identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
-          end
+          fingerprint = ["ns", type, CensusSubdivisionName.new(row[0]).normalize.remove_type("ns").fingerprint] * ":"
+          identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
           unless identifier
             fingerprint = CensusDivisionNameMatcher.fingerprint("ns", row[0])
             identifier, _ = CensusDivisionNameMatcher.identifier_and_name(fingerprint)
           end
 
-          output(nil, identifier, Integer(row[1].value))
+          if identifier
+            output(nil, identifier, Integer(row[1].value))
+          else
+            raise fingerprint
+          end
         end
       end
     end
@@ -161,29 +169,32 @@ class MunicipalSubdivision < Runner
     # end
 
     bc_type_map = {
-      'District' => 'DM',
-      'City' => 'CY',
-      'Village' => 'VL',
-      'Island Municipality' => 'IM',
-      'Town' => 'T',
-      'Township' => 'DM',
-      'Regional Municipality' => 'RGM',
-      'Mountain Resort Municipality' => 'VL',
-      'Resort Municipality' => 'DM',
+      "District" => "DM",
+      "City" => "CY",
+      "Village" => "VL",
+      "Island Municipality" => "IM",
+      "Town" => "T",
+      "Township" => "DM",
+      "Regional Municipality" => "RGM",
+      "Mountain Resort Municipality" => "VL",
+      "Resort Municipality" => "DM",
     }
-
-    bc_name_map = {
-      'Sun Peaks' => 'Sun Peaks Mountain',
+    bc_type_corrections = {
+      "Maple Ridge" => "City", # District
     }
 
     data = Hash.new(0)
-    CSV.parse(open("http://www.election2014.civicinfo.bc.ca/2014/reports/report_adv_results.asp?excel=yes&etype=%27MAYOR%27,%20%27COUNCILLOR%27"), :headers => true) do |row|
-      data[[row['Local Government'], row['Jurisdiction Type']]] += 1
+    url = "http://www.election2014.civicinfo.bc.ca/2014/reports/report_adv_results.asp?excel=yes&etype=%27MAYOR%27,%20%27COUNCILLOR%27"
+    CSV.parse(open(url), :headers => true) do |row|
+      data[[row["Local Government"], row["Jurisdiction Type"]]] += 1
     end
 
     data.each do |(name,type),count|
-      fingerprint = ["bc", bc_type_map[type], CensusSubdivisionName.new(bc_name_map.fetch(name, name)).normalize.fingerprint] * ":"
+      type = bc_type_corrections.fetch(name, type)
+
+      fingerprint = ["bc", bc_type_map.fetch(type), CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
       identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
+
       if identifier
         output(nil, identifier, count)
       else
@@ -193,14 +204,23 @@ class MunicipalSubdivision < Runner
   end
 
   # Asked Ontario:
-  # 2014-02-11 amo@amo.on.ca "After reviewing our election data we found that we have not been tracking election results by wards so are unable to compile a list of municipalities that have wards."
-  # 2014-02-18 amcto@amcto.com "we are unable to provide individual responses from municipalities as a means to respect the confidentiality of their responses"
-  # 2014-02-11 mininfo.mah@ontario.ca "We regret to inform you that we do not have the information you requested."
-  # 2014-02-24 info@elections.on.ca "Elections Ontario does not have that information to provide."
-  # 2014-03-17 ontario.municipal.board@ontario.ca "The Board does not have such a list. The OMB is an adjudicative tribunal that deals with appeals and applications."
+  # 2014-02-11 amo@amo.on.ca "After reviewing our election data we found that we
+  # have not been tracking election results by wards so are unable to compile a
+  # list of municipalities that have wards."
+  # 2014-02-18 amcto@amcto.com "we are unable to provide individual responses
+  # from municipalities as a means to respect the confidentiality of their
+  # responses"
+  # 2014-02-11 mininfo.mah@ontario.ca "We regret to inform you that we do not
+  # have the information you requested."
+  # 2014-02-24 info@elections.on.ca "Elections Ontario does not have that
+  # information to provide."
+  # 2014-03-17 ontario.municipal.board@ontario.ca "The Board does not have such
+  # a list. The OMB is an adjudicative tribunal that deals with appeals and
+  # applications."
   # @see http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_01m25_e.htm#BK238
   # @see http://m.mpac.ca/about/corporate_overview/department.asp
   # @see https://www.omb.gov.on.ca/stellent/groups/public/@abcs/@www/@omb/documents/webasset/ec082186.pdf
+  #
   # Asked Manitoba:
   # 2014-04-09 mmaa@mymts.net "You would have to call the Municipal department."
   # 2014-04-11 amm@amm.mb.ca jgreen@amm.mb.ca "We do not have such information for each municipality."
@@ -210,13 +230,34 @@ class MunicipalSubdivision < Runner
   # MB: "Contact your local municipal office to find out whether a ward by-law is in place in your municipality."
   # @see http://web5.gov.mb.ca/mfas/elections_faq.aspx#voters_q4
   # @see http://web2.gov.mb.ca/laws/statutes/ccsm/m225e.php#87
+  #
   # Asked Saskatchewan for boundary files:
   # 2014-03-21 ask@isc.ca John.Leonard@isc.ca "As far as anything within the RM’s such as their division boundaries we don’t have them."
   # 2014-03-24 muninfo@gov.sk.ca "Government Relations doesn't have RM maps."
   def has_children
     subdivisions = Hash.new("N")
 
-    # http://www.novascotia.ca/snsmr/municipal/government/elections.asp
+    url = "http://geonb.snb.ca/ArcGIS/rest/services/GeoNB_ENB_MunicipalWards/MapServer/0?f=json"
+    JSON.load(open(url))["drawingInfo"]["renderer"]["uniqueValueInfos"].each do |feature|
+      geographic_name = CensusSubdivisionName.new(feature["value"]).normalize
+
+      matches = census_subdivisions.fetch("nb")[geographic_name]
+
+      geographic_code = if matches.size == 1
+        matches[0][:id]
+      else
+        matches = matches.select{|match| %w(C RCR TV).include?(match[:type])}
+        if matches.size == 1
+          matches[0][:id]
+        else
+          raise "#{geographic_name}: #{matches.inspect}"
+        end
+      end
+
+      subdivisions["ocd-division/country:ca/csd:#{geographic_code}"] = "Y"
+    end
+
+    # @see https://novascotia.ca/dma/government/elections.asp
     # The spreadsheet and roo gems open the Excel file too slowly.
     Tempfile.open("data.xls") do |f|
       f.binmode
@@ -230,7 +271,7 @@ class MunicipalSubdivision < Runner
         case row[0]
         when "Regional Municipalities"
           type = "RGM"
-        when "Town"
+        when "Towns"
           type = "T"
         when "Municipalities"
           type = "MD"
@@ -238,12 +279,14 @@ class MunicipalSubdivision < Runner
 
         # Process municipalities with districts. Skip the header row.
         if row[0] && row[1] && row[0].strip != "Municipality"
+          # Skip to the next municipality.
           next if row[0] == name
           name = row[0]
 
           value = row[0].sub(" (County)", "")
           identifier = nil
 
+          # Avoid matching the county to the town.
           if !row[0][/ \(County\)\z/]
             fingerprint = CensusSubdivisionNameMatcher.fingerprint("ns", value)
             identifier, _ = CensusSubdivisionNameMatcher.identifier_and_name(fingerprint)
@@ -266,44 +309,32 @@ class MunicipalSubdivision < Runner
       end
     end
 
-    boroughs = [
-      "Lévis",
-      "Longueuil",
-      "Montréal",
-      "Québec",
-      "Saguenay",
-      "Sherbrooke",
-    ]
-    type_map = {
-      "CT" => "CT",
+    qc_type_corrections = {
       "M"  => "MÉ",
       "P"  => "PE",
-      "V"  => "V",
-      "VL" => "VL",
     }
-    Nokogiri::HTML(open("http://www.electionsquebec.qc.ca/francais/municipal/carte-electorale/liste-des-municipalites-divisees-en-districts-electoraux.php?index=1")).xpath("//div[@class='indente zone-contenu']/div[@class='boite-grise']//text()").each do |node|
-      text = node.text.strip
-      unless text.empty? || text == ", V"
-        if boroughs.include?(text)
-          name, type = text, "V"
-        else
-          name, type = text.match(/\A(.+), (.+)\z/)[1..2]
-        end
 
-        if type == 'M' && ['Calixa-Lavallée', 'Saint-Ambroise-de-Kildare', 'Saint-Justin'].include?(name)
-          type = 'P'
-        end
+    url = "http://www.electionsquebec.qc.ca/francais/municipal/carte-electorale/liste-des-municipalites-divisees-en-districts-electoraux.php?index=1"
+    Nokogiri::HTML(open(url)).xpath("//div[@class='indente zone-contenu']/div[@class='boite-grise']").inner_html.split("<br>").each do |node|
+      text = node.force_encoding('iso-8859-1').encode('utf-8').gsub(/<\/?strong>/, '').gsub('&#8212;', '—').strip
 
-        fingerprint = ["qc", type_map.fetch(type), CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
+      name, type = text.match(/\A(.+), (.+)\z/)[1..2]
+      type = qc_type_corrections.fetch(type, type)
+
+      # Try first without the type, because the source may be incorrect.
+      fingerprint = CensusSubdivisionNameMatcher.fingerprint("qc", name)
+      identifier, _ = CensusSubdivisionNameMatcher.identifier_and_name(fingerprint)
+      unless identifier
+        fingerprint = ["qc", type, CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
         identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
+      end
 
-        if identifier
-          subdivisions[identifier] = "Y"
-        elsif name == "L'Ange-Gardien" # two subdivisions match
-          subdivisions["ocd-division/country:ca/csd:2482005"] = "Y"
-        else
-          raise fingerprint
-        end
+      if identifier
+        subdivisions[identifier] = "Y"
+      elsif name == "L'Ange-Gardien" # two subdivisions match
+        subdivisions["ocd-division/country:ca/csd:2482005"] = "Y"
+      else
+        raise fingerprint
       end
     end
 
@@ -333,10 +364,11 @@ class MunicipalSubdivision < Runner
     end
 
     # These may opt to adopt wards in the future (2014-02-10). Check manually.
-    alberta_cities_without_subdivisions = [
+    ab_cities_without_subdivisions = [
       "4801006", # Medicine Hat
       "4802012", # Lethbridge
       "4802034", # Brooks
+      "4806017", # Chestermere
       "4806021", # Airdrie
       "4808011", # Red Deer
       "4808031", # Lacombe
@@ -352,8 +384,8 @@ class MunicipalSubdivision < Runner
       "4815033", # Jasper
       "4819012", # Grande Prairie
     ]
-    # These two lists are a complete list of all cities in Alberta.
-    alberta_cities_with_subdivisions = [
+    # These two lists are a complete list of all cities ("CY", "SM") in Alberta.
+    ab_cities_with_subdivisions = [
       "4806016", # Calgary
       "4811052", # Strathcona County
       "4811061", # Edmonton
@@ -387,12 +419,12 @@ class MunicipalSubdivision < Runner
           else
             output(nil, identifier, "N")
           end
-        # 2014-03-24 jgrichard@electionspei.ca
         # @see http://www.electionspei.ca/municipal/wards/
         # @see http://www.electionspei.ca/index.php?number=1046804&lang=E
         when "11"
           if [
             "1102075", # Charlottetown
+            "1102085", # Cornwall
             "1102080", # Stratford
             "1103025", # Summerside
           ].include?(type_id)
@@ -400,44 +432,15 @@ class MunicipalSubdivision < Runner
           else
             output(nil, identifier, "N")
           end
-        # @see https://geonb.snb.ca/ArcGIS/rest/services/ElectionsNB/GeoNB_ENB_MunicipalWards/MapServer
-        when "13"
-          if [
-            "1301006", # Saint John
-            "1302004", # Campobello Island
-            "1303012", # Oromocto
-            "1306020", # Riverview
-            "1307005", # Beaubassin East
-            "1307013", # Memramcook
-            "1307022", # Moncton
-            "1307045", # Dieppe
-            "1309027", # Upper Miramichi
-            "1310032", # Fredericton
-            "1311027", # Florenceville-Bristol
-            "1312019", # Grand Falls
-            "1313002", # Saint-André
-            "1313027", # Edmundston
-            "1314019", # Kedgwick
-            "1314025", # Belledune
-            "1315015", # Beresford
-            "1315027", # Bas-Caraquet
-            "1315028", # Caraquet
-          ].include?(type_id)
-            output(nil, identifier, "Y")
-          else
-            output(nil, identifier, "N")
-          end
-        when "12", "24"
-          output(nil, identifier, subdivisions[identifier])
-        when "47"
+        when "12", "13", "24", "47"
           output(nil, identifier, subdivisions[identifier])
         # @see http://www.municipalaffairs.gov.ab.ca/am_types_of_municipalities_in_alberta.cfm
         when "48"
           value = case classification
           when "CY", "SM"
-            if alberta_cities_without_subdivisions.include?(type_id)
+            if ab_cities_without_subdivisions.include?(type_id)
               "N"
-            elsif alberta_cities_with_subdivisions.include?(type_id)
+            elsif ab_cities_with_subdivisions.include?(type_id)
               "Y"
             else
               raise "Couldn't determine subdivisions: #{type_id}"
@@ -506,39 +509,32 @@ private
     end
   end
 
-  def type_map(province_or_territory = nil)
+  def type_map(province_or_territory)
     {}.tap do |hash|
-      indexes = {
-        "nl" => 2,
-        "pe" => 3,
-        "ns" => 4,
-        "nb" => 5,
-        "qc" => 6,
-        "on" => 7,
-        "mb" => 8,
-        "sk" => 9,
-        "ab" => 10,
-        "bc" => 11,
-        "yt" => 12,
-        "nt" => 13,
-        "nu" => 14,
-      }
+      hash["csd"] = {}
+      # @see http://www.mah.gov.on.ca/Page1591.aspx Dysart et al
+      hash["csd"]["United Townships"] = "MU"
+      # @see http://www.mds.gov.sk.ca/apps/Pub/MDS/welcome.aspx Creighton, La Ronge
+      hash["csd"]["Northern Town"] = "T"
 
-      {"cd" => 4, "csd" => 5}.each do |type,table|
-        hash[type] = {}
-        Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2011/ref/dict/table-tableau/table-tableau-#{table}-eng.cfm")).xpath("//table/tbody/tr").each do |row|
-          abbr = row.at_xpath("./th[1]/abbr")
-          if abbr
-            unless province_or_territory && row.at_xpath("./td[#{indexes[province_or_territory]}]/abbr") || province_or_territory == "on" && abbr.text == "TV" # Skip the one TV in Ontario
-              hash[type][abbr["title"].sub(/ \/.+\z/, "").split.map(&:capitalize).join(" ")] = abbr.text
-              hash[type][abbr.text] = abbr.text
-            end
+      indexes = {}
+
+      OpenCivicDataIdentifiers.read("country-ca/ca_provinces_and_territories").to_h.each_with_index do |(identifier,_),index|
+        indexes[identifier.split(":")[-1]] = index + 2
+      end
+
+      {"cd" => [4, 0, -2], "csd" => [5, 1, -1]}.each do |type,(table,start_index,end_index)|
+        hash[type] ||= {}
+        url = "https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_#{table}-eng.cfm"
+        Nokogiri::HTML(open(url)).xpath("//tr[@class]")[start_index..end_index].each do |tr|
+          code, name = tr.xpath("./th").text.split(/\p{Space}– /, 2)
+          # Skip the single "TV" in Ontario to translate "Town" to "T" instead of "TV".
+          unless tr.at_xpath("./td[#{indexes[province_or_territory]}]/span") || province_or_territory == "on" && code == "TV"
+            hash[type][name.split(" / ", 2)[0].split.map(&:capitalize).join(" ")] = code
+            hash[type][code] = code
           end
         end
       end
-
-      hash["csd"]["United Townships"] = "TP" # Ontario: Dysart and Others
-      hash["csd"]["Northern Town"] = "T" # Saskatchewan
     end
   end
 
@@ -546,8 +542,7 @@ private
     @census_divisions ||= {}.tap do |hash|
       OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").each do |identifier,name,name_fr,classification,organization_name|
         type_id = identifier[/[^:]+\z/]
-        object = CensusDivisionIdentifier.new(type_id)
-        key = object.province_or_territory_type_id
+        key = CensusDivisionIdentifier.new(type_id).province_or_territory_type_id
         hash[key] ||= {}
         hash[key][name] ||= []
         hash[key][name] << {:id => type_id, :type => classification}
@@ -559,8 +554,7 @@ private
     @census_subdivisions ||= {}.tap do |hash|
       OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").each do |identifier,name,name_fr,classification,organization_name|
         type_id = identifier[/[^:]+\z/]
-        object = CensusSubdivisionIdentifier.new(type_id)
-        key = object.province_or_territory_type_id
+        key = CensusSubdivisionIdentifier.new(type_id).province_or_territory_type_id
         hash[key] ||= {}
         hash[key][name] ||= []
         hash[key][name] << {:id => type_id, :type => classification}
@@ -573,58 +567,46 @@ private
 
     type_map = type_map("on")
 
-    Nokogiri::HTML(open("http://www.mah.gov.on.ca/Page1591.aspx").read).xpath("//table[1]//tr[position()>1]").each do |row|
+    Nokogiri::HTML(open("http://www.mah.gov.on.ca/Page1591.aspx").read).xpath("//table[1]//tr[position() > 1]").each do |row|
       text = row.xpath(".//td[1]").text.strip.normalize_space
       if row.xpath(".//td[2]").text.strip == "Lower Tier"
-        text_map = {
-          "Grand Valley, Town of"              => ["East Luther Grand Valley", "Township"],
-          "Markham, City of"                   => ["Markham", "Town"],
-          "Middlesex Centre, Municipality of"  => ["Middlesex Centre", "Township"],
+        corrections = {
           "Mississippi Mills, Municipality of" => ["Mississippi Mills", "Town"],
-          "Selwyn, Township of"                => ["Smith-Ennismore-Lakefield", "Township"],
-          "South Dundas, Municipality of"      => ["South Dundas", "Township"],
-          "Strathroy-Caradoc, Municipality of" => ["Strathroy-Caradoc", "Township"],
-          "Trent Lakes, Municipality of"       => ["Galway-Cavendish and Harvey", "Township"],
+          "Haldimand County" => ["Haldimand County", "City"],
+          "Norfolk County" => ["Norfolk County", "City"],
         }
 
-        if ["Haldimand County", "Norfolk County"].include?(text)
-          name = text
-          type_name = "City"
-        elsif text_map.key?(text)
-          name, type_name = text_map[text]
+        if corrections.key?(text)
+          name, type_name = corrections[text]
         elsif text[","]
           name, type_name = text.match(/\A(.+), (.+) of\z/)[1..2]
         else
           name, type_name = text.match(/\A(.+) (Municipality)\z/)[1..2]
         end
 
-        type = type_map["cd"][type_name] || type_map["csd"][type_name] || raise("Unrecognized type name: '#{type_name}'")
-
-        case name
-        when "Dysart, Dudley, Harcourt, Guilford, Harburn, Bruton, Havelock, Eyre and Clyde"
-          name = "Dysart and Others"
-        when "The Nation"
-          type = "M" # not MU
+        # Ontario has 3 "M" and 65 "MU".
+        if name == "The Nation"
+          type = "M"
+        # Ontario has 3 "C" and 46 "CY".
+        elsif name == "Clarence-Rockland"
+          type = "C"
+        else
+          type = type_map["cd"][type_name] || type_map["csd"][type_name] || raise("Unrecognized type name: '#{type_name}' (#{text})")
         end
 
         fingerprint = ["on", type, CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
         identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
-
         unless identifier
-          fingerprint = ["on", type, CensusDivisionName.new(name).normalize.fingerprint] * ":"
-          identifier, _ = CensusDivisionNameTypeMatcher.identifier_and_name(fingerprint)
+          raise fingerprint
         end
 
         census_division_fingerprint = CensusDivisionNameMatcher.fingerprint("on", row.xpath(".//td[3]").text.strip)
         census_division_identifier, _ = CensusDivisionNameMatcher.identifier_and_name(census_division_fingerprint)
-
-        if identifier && census_division_identifier
-          blocks[identifier] = census_division_identifier
-        elsif identifier
+        unless census_division_identifier
           raise census_division_fingerprint
-        else
-          raise fingerprint
         end
+
+        blocks[identifier] = census_division_identifier
       end
     end
 
@@ -636,23 +618,7 @@ private
 
     type_map = type_map("sk")
 
-    saskatchewan_non_census_subdivisions = [
-      # @see https://en.wikipedia.org/wiki/Division_No._18,_Saskatchewan#Unincorporated_communities
-      # @see https://en.wikipedia.org/wiki/Category:Division_No._18,_Unorganized,_Saskatchewan
-      "BEAR CREEK",
-      "BLACK POINT",
-      "CAMSELL PORTAGE",
-      "DESCHARME LAKE",
-      "GARSON LAKE",
-      "SLED LAKE",
-      "SOUTHEND",
-      "STANLEY MISSION",
-      "URANIUM CITY",
-      "WOLLASTON LAKE",
-    ]
-
     # Select "Entire Directory" and click "Generate PDF".
-    # @see http://www.mds.gov.sk.ca/apps/Pub/MDS/welcome.aspx
     # @see http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/M36-1.pdf
     agent = Mechanize.new
     page = agent.get("http://www.mds.gov.sk.ca/apps/Pub/MDS/welcome.aspx")
@@ -671,8 +637,10 @@ private
 
     header_re = /^\f?(?:CITIES|NORTHERN TOWNS, VILLAGES, HAMLETS, AND SETTLEMENTS|ORGANIZED AND RESORT HAMLETS|RURAL MUNICIPALITIES|TOWNS, VILLAGES AND RESORT VILLAGES|UNKNOWN)/
     footer_re = /^                                       *Page \d+ of 23\d/
+    column_divider_re = /(?<=  )\S/
     pages = []
     page = []
+    text = []
 
     # Group the lines into pages.
     maximum_line_length = 0
@@ -687,14 +655,12 @@ private
 
       if line[footer_re]
         pages << page
+        # Start a new page.
         page = []
       else
         page << line
       end
     end
-
-    column_divider_re = /(?<=  )\S/
-    text = []
 
     # Transform the text of each page into a single column.
     pages.each do |page|
@@ -727,14 +693,26 @@ private
       text += column2
     end
 
+    saskatchewan_non_census_subdivisions = [
+      # @see https://en.wikipedia.org/wiki/Division_No._18,_Saskatchewan#Unincorporated_communities
+      # @see https://en.wikipedia.org/wiki/Category:Division_No._18,_Unorganized,_Saskatchewan
+      "BEAR CREEK",
+      "BLACK POINT",
+      "CAMSELL PORTAGE",
+      "DESCHARME LAKE",
+      "GARSON LAKE",
+      "SLED LAKE",
+      "SOUTHEND",
+      "STANLEY MISSION",
+      "URANIUM CITY",
+      "WOLLASTON LAKE",
+    ]
+
     # Split the text into blocks, one per subdivision.
     text.join("\n").split(/\n\n\n+/).each do |block|
       line = block.strip.split("\n").first
 
-      if line [/^Village of (.+),/]
-        name = $1
-        type = "VL"
-      elsif line[/^(.+), (.+?)(?: of)?$/]
+      if line[/^(.+), (.+?)(?: of)?$/]
         name = $1
         type = $2
       elsif line[/^RM of (.+)$/]
@@ -766,24 +744,16 @@ private
       end
 
       unless identifier
-        # Some census subdivisions changed type since 2011.
-        if name == "WARMAN" && type == "City"
-          census_subdivision_type = "T"
-        elsif ["HEPBURN", "PENSE"].include?(name) && type == "Town"
-          census_subdivision_type = "VL"
-        else
-          census_subdivision_type = type_map["csd"].fetch(type)
-        end
-
+        census_subdivision_type = type_map["csd"].fetch(type)
         fingerprint = ["sk", census_subdivision_type, CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
         identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
       end
 
-      unless identifier
+      if identifier
+        blocks[identifier] = block
+      else
         raise fingerprint
       end
-
-      blocks[identifier] = block
     end
 
     blocks

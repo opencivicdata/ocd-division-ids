@@ -311,15 +311,13 @@ ocd-division/country:ca/csd:1313027/ward:4,Ward 4
 ocd-division/country:ca/csd:1314013/ward:1,Ward 1
 ocd-division/country:ca/csd:1314013/ward:2,Ward 2
 ocd-division/country:ca/csd:1314013/ward:3,Ward 3
-ocd-division/country:ca/csd:1314019/ward:1,Ward 1
-ocd-division/country:ca/csd:1314019/ward:2,Ward 2
-ocd-division/country:ca/csd:1314019/ward:3,Ward 3
-ocd-division/country:ca/csd:1314019/ward:4,Ward 4
+ocd-division/country:ca/csd:1314020/ward:1,Ward 1
+ocd-division/country:ca/csd:1314020/ward:2,Ward 2
+ocd-division/country:ca/csd:1314020/ward:3,Ward 3
+ocd-division/country:ca/csd:1314020/ward:4,Ward 4
 ocd-division/country:ca/csd:1314025/ward:1,Ward 1
 ocd-division/country:ca/csd:1314025/ward:2,Ward 2
 ocd-division/country:ca/csd:1314025/ward:3,Ward 3
-ocd-division/country:ca/csd:1315015/ward:a,Ward A
-ocd-division/country:ca/csd:1315015/ward:b,Ward B
 ocd-division/country:ca/csd:1315027/ward:1,Ward 1
 ocd-division/country:ca/csd:1315027/ward:2,Ward 2
 ocd-division/country:ca/csd:1315027/ward:3,Ward 3
@@ -478,12 +476,12 @@ ocd-division/country:ca/csd:2415058/district:3,District 3
 ocd-division/country:ca/csd:2415058/district:4,District 4
 ocd-division/country:ca/csd:2415058/district:5,District 5
 ocd-division/country:ca/csd:2415058/district:6,District 6
-ocd-division/country:ca/csd:2416013/district:1,District no 1
-ocd-division/country:ca/csd:2416013/district:2,District no 2
-ocd-division/country:ca/csd:2416013/district:3,District no 3
-ocd-division/country:ca/csd:2416013/district:4,District no 4
-ocd-division/country:ca/csd:2416013/district:5,District no 5
-ocd-division/country:ca/csd:2416013/district:6,District no 6
+ocd-division/country:ca/csd:2416013/district:1,District 1
+ocd-division/country:ca/csd:2416013/district:2,District 2
+ocd-division/country:ca/csd:2416013/district:3,District 3
+ocd-division/country:ca/csd:2416013/district:4,District 4
+ocd-division/country:ca/csd:2416013/district:5,District 5
+ocd-division/country:ca/csd:2416013/district:6,District 6
 ocd-division/country:ca/csd:2416055/district:1,District 1
 ocd-division/country:ca/csd:2416055/district:2,District 2
 ocd-division/country:ca/csd:2416055/district:3,District 3
@@ -607,6 +605,9 @@ ocd-division/country:ca/csd:2423072/district:3,District 3
 ocd-division/country:ca/csd:2423072/district:4,District 4
 ocd-division/country:ca/csd:2423072/district:5,District 5
 ocd-division/country:ca/csd:2423072/district:6,District 6
+ocd-division/country:ca/csd:2425213/borough:1,Desjardins
+ocd-division/country:ca/csd:2425213/borough:2,Les Chutes-de-la-Chaudière-Est
+ocd-division/country:ca/csd:2425213/borough:3,Les Chutes-de-la-Chaudière-Ouest
 ocd-division/country:ca/csd:2425213/district:1,District 1
 ocd-division/country:ca/csd:2425213/district:2,District 2
 ocd-division/country:ca/csd:2425213/district:3,District 3
@@ -1522,83 +1523,6 @@ ocd-division/country:ca/csd:2466023/district:17.2,Desmarchais-Crawford
 ocd-division/country:ca/csd:2466023/district:18.1,Peter-McGill
 ocd-division/country:ca/csd:2466023/district:18.2,Saint-Jacques
 ocd-division/country:ca/csd:2466023/district:18.3,Sainte-Marie
-ocd-division/country:ca/csd:2466023/district:19.1,Saint-Michel
-ocd-division/country:ca/csd:2466023/district:19.2,François-Perrault
-ocd-division/country:ca/csd:2466023/district:19.3,Villeray
-ocd-division/country:ca/csd:2466023/district:19.4,Parc-Extension
-ocd-division/country:ca/csd:2466023/district:1,Ahuntsic-Cartierville
-ocd-division/country:ca/csd:2466023/district:1.1,Sault-au-Récollet
-ocd-division/country:ca/csd:2466023/district:1.2,Saint-Sulpice
-ocd-division/country:ca/csd:2466023/district:1.3,Ahuntsic
-ocd-division/country:ca/csd:2466023/district:1.4,Bordeaux-Cartierville
-ocd-division/country:ca/csd:2466023/district:2,Anjou
-ocd-division/country:ca/csd:2466023/district:2.1,de l'Ouest
-ocd-division/country:ca/csd:2466023/district:2.2,de l'Est
-ocd-division/country:ca/csd:2466023/district:2.3,du Centre
-ocd-division/country:ca/csd:2466023/district:3,Côte-des-Neiges—Notre-Dame-de-Grâce
-ocd-division/country:ca/csd:2466023/district:3.1,Darlington
-ocd-division/country:ca/csd:2466023/district:3.2,Côte-des-Neiges
-ocd-division/country:ca/csd:2466023/district:3.3,Snowdon
-ocd-division/country:ca/csd:2466023/district:3.4,Notre-Dame-de-Grâce
-ocd-division/country:ca/csd:2466023/district:3.5,Loyola
-ocd-division/country:ca/csd:2466023/district:4,Lachine
-ocd-division/country:ca/csd:2466023/district:4.1,du Canal
-ocd-division/country:ca/csd:2466023/district:4.2,J.-Émery-Provost
-ocd-division/country:ca/csd:2466023/district:4.3,Fort-Rolland
-ocd-division/country:ca/csd:2466023/district:5,LaSalle
-ocd-division/country:ca/csd:2466023/district:5.1,Sault-Saint-Louis
-ocd-division/country:ca/csd:2466023/district:5.2,Cecil-P.-Newman
-ocd-division/country:ca/csd:2466023/district:6,L'Île-Bizard—Sainte-Geneviève
-ocd-division/country:ca/csd:2466023/district:6.1,Pierre-Foretier
-ocd-division/country:ca/csd:2466023/district:6.2,Denis-Benjamin-Viger
-ocd-division/country:ca/csd:2466023/district:6.3,Jacques-Bizard
-ocd-division/country:ca/csd:2466023/district:6.4,Sainte-Geneviève
-ocd-division/country:ca/csd:2466023/district:7,Mercier—Hochelaga-Maisonneuve
-ocd-division/country:ca/csd:2466023/district:7.1,Tétreaultville
-ocd-division/country:ca/csd:2466023/district:7.2,Maisonneuve—Longue-Pointe
-ocd-division/country:ca/csd:2466023/district:7.3,Hochelaga
-ocd-division/country:ca/csd:2466023/district:7.4,Louis-Riel
-ocd-division/country:ca/csd:2466023/district:8,Montréal-Nord
-ocd-division/country:ca/csd:2466023/district:8.1,Marie-Clarac
-ocd-division/country:ca/csd:2466023/district:8.2,Ovide-Clermont
-ocd-division/country:ca/csd:2466023/district:9,Outremont
-ocd-division/country:ca/csd:2466023/district:9.1,Claude-Ryan
-ocd-division/country:ca/csd:2466023/district:9.2,Joseph-Beaubien
-ocd-division/country:ca/csd:2466023/district:9.3,Robert-Bourassa
-ocd-division/country:ca/csd:2466023/district:9.4,Jeanne-Sauvé
-ocd-division/country:ca/csd:2466023/district:10,Pierrefonds-Roxboro
-ocd-division/country:ca/csd:2466023/district:10.1,Bois-de-Liesse
-ocd-division/country:ca/csd:2466023/district:10.2,Cap-Saint-Jacques
-ocd-division/country:ca/csd:2466023/district:11,Plateau-Mont-Royal
-ocd-division/country:ca/csd:2466023/district:11.1,Mile-End
-ocd-division/country:ca/csd:2466023/district:11.2,DeLorimier
-ocd-division/country:ca/csd:2466023/district:11.3,Jeanne-Mance
-ocd-division/country:ca/csd:2466023/district:12,Rivière-des-Prairies—Pointe-aux-Trembles
-ocd-division/country:ca/csd:2466023/district:12.1,La Pointe-aux-Prairies
-ocd-division/country:ca/csd:2466023/district:12.2,Pointe-aux-Trembles
-ocd-division/country:ca/csd:2466023/district:12.3,Rivière-des-Prairies
-ocd-division/country:ca/csd:2466023/district:13,Rosemont—La Petite-Patrie
-ocd-division/country:ca/csd:2466023/district:13.1,Saint-Édouard
-ocd-division/country:ca/csd:2466023/district:13.2,Étienne-Desmarteau
-ocd-division/country:ca/csd:2466023/district:13.3,Vieux-Rosemont
-ocd-division/country:ca/csd:2466023/district:13.4,Marie-Victorin
-ocd-division/country:ca/csd:2466023/district:14,Saint-Laurent
-ocd-division/country:ca/csd:2466023/district:14.1,Côte-de-Liesse
-ocd-division/country:ca/csd:2466023/district:14.2,Norman-McLaren
-ocd-division/country:ca/csd:2466023/district:15,Saint-Léonard
-ocd-division/country:ca/csd:2466023/district:15.1,Saint-Léonard-Est
-ocd-division/country:ca/csd:2466023/district:15.2,Saint-Léonard-Ouest
-ocd-division/country:ca/csd:2466023/district:16,Sud-Ouest
-ocd-division/country:ca/csd:2466023/district:16.1,Saint-Henri—Petite-Bourgogne—Pointe-Saint-Charles
-ocd-division/country:ca/csd:2466023/district:16.2,Saint-Paul—Émard
-ocd-division/country:ca/csd:2466023/district:17,Verdun
-ocd-division/country:ca/csd:2466023/district:17.1,Champlain—L'Île-des-Soeurs
-ocd-division/country:ca/csd:2466023/district:17.2,Desmarchais-Crawford
-ocd-division/country:ca/csd:2466023/district:18,Ville-Marie
-ocd-division/country:ca/csd:2466023/district:18.1,Peter-McGill
-ocd-division/country:ca/csd:2466023/district:18.2,Saint-Jacques
-ocd-division/country:ca/csd:2466023/district:18.3,Sainte-Marie
-ocd-division/country:ca/csd:2466023/district:19,Villeray—Saint-Michel—Parc-Extension
 ocd-division/country:ca/csd:2466023/district:19.1,Saint-Michel
 ocd-division/country:ca/csd:2466023/district:19.2,François-Perrault
 ocd-division/country:ca/csd:2466023/district:19.3,Villeray
