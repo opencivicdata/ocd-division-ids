@@ -29,7 +29,7 @@ end
 
 class DivisionName < String
   class << self
-    attr_reader :divisions, :name_mappings, :type_mappings, :type_patterns
+    attr_reader :name_mappings, :type_patterns
   end
 
   # Removes the census subdivision type from the division name.
@@ -84,22 +84,10 @@ private
     end
   end
 
-  # Returns a hash from OCD identifier to official name.
-  def divisions
-    self.class.divisions
-  end
-
   # Returns a hash from a scraped name to an alternate name. Used in cases where
   # the scraped name has a typo or major differences from the official name.
   def name_mappings
     self.class.name_mappings
-  end
-
-  # Returns a hash in which the keys are province or territory type IDs and the
-  # values are hashes in which the keys are census subdivision type names and
-  # the values are census subdivision type codes.
-  def type_mappings
-    self.class.type_mappings
   end
 
   # Returns a hash in which the keys are province or territory type IDs and the
@@ -112,15 +100,13 @@ end
 class CensusDivisionName < DivisionName
   @name_mappings = {}
 
-  # @see https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_4-eng.cfm
-  @type_mappings = {
-    "ns" => {
-      "County" => "CTY",
-    },
-  }
-
   @type_patterns = {}.tap do |patterns|
-    @type_mappings.each do |province_or_territory_type_id,hash|
+    # @see https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_4-eng.cfm
+    {
+      "ns" => {
+        "County" => "CTY",
+      },
+    }.each do |province_or_territory_type_id,hash|
       pattern = hash.keys * "|"
       patterns[province_or_territory_type_id] = /\A(#{pattern}) (?:d'|de |des |of )?| (#{pattern})\z/
     end
@@ -128,8 +114,6 @@ class CensusDivisionName < DivisionName
 end
 
 class CensusSubdivisionName < DivisionName
-  @divisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").to_h
-
   @name_mappings = {
     # http://www.election2014.civicinfo.bc.ca/2014/reports/report_adv_results.asp?excel=yes&etype=%27MAYOR%27,%20%27COUNCILLOR%27
     "Sun Peaks" => "Sun Peaks Mountain",
@@ -144,17 +128,15 @@ class CensusSubdivisionName < DivisionName
     "Dysart, Dudley, Harcourt, Guilford, Harburn, Bruton, Havelock, Eyre and Clyde" => "Dysart et al",
   }
 
-  # @see https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_5-eng.cfm
-  @type_mappings = {
-    # http://www.novascotia.ca/dma/pdf/mun-municipal-election-results-2008-2012.xls
-    "ns" => {
-      "Regional Municipality" => "RGM",
-      "Town" => "T",
-    },
-  }
-
   @type_patterns = {}.tap do |patterns|
-    @type_mappings.each do |province_or_territory_type_id,hash|
+    # @see https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_5-eng.cfm
+    {
+      # http://www.novascotia.ca/dma/pdf/mun-municipal-election-results-2008-2012.xls
+      "ns" => {
+        "Regional Municipality" => "RGM",
+        "Town" => "T",
+      },
+    }.each do |province_or_territory_type_id,hash|
       pattern = hash.keys * "|" # Don't remove "County" from end of string.
       patterns[province_or_territory_type_id] = /\A(#{pattern}) (?:d'|de |des |of )?| (#{pattern.sub("|County|", "|")})\z/
     end
@@ -179,16 +161,6 @@ class CensusDivisionIdentifier < String
   def province_or_territory_sgc_code
     self[/[^:]+\z/][0,2]
   end
-
-  # Returns the census division type ID (also its SGC code).
-  def census_division_type_id
-    self[/[^:]+\z/][0,4]
-  end
-
-  # Returns the census division's type.
-  def census_division_type
-    self.class.census_division_types.fetch("ocd-division/country:ca/cd:#{census_division_type_id}")
-  end
 end
 
 class CensusSubdivisionIdentifier < String
@@ -208,12 +180,6 @@ class CensusSubdivisionIdentifier < String
   # two digits of the census subdivision SGC code.
   def province_or_territory_sgc_code
     self[/[^:]+\z/][0,2]
-  end
-
-  # Returns the census division type ID (also its SGC code), which is the first
-  # four digits of the census subdivision SGC code.
-  def census_division_type_id
-    self[/[^:]+\z/][0,4]
   end
 
   # Returns the census subdivision type ID (also its SGC code).
@@ -239,8 +205,8 @@ class CensusDivisionNameMatcher
     end * ":"
   end
 
-  @census_divisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").mapping(0)
-  @census_divisions_hash = Lycopodium.new(@census_divisions, @census_division_map).reject_collisions.value_to_fingerprint.invert
+  census_divisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_divisions").mapping(0)
+  @census_divisions_hash = Lycopodium.new(census_divisions, @census_division_map).reject_collisions.value_to_fingerprint.invert
 
   def self.fingerprint(province_or_territory_type_id, name)
     @census_division_map.call([province_or_territory_type_id, name])
@@ -264,8 +230,8 @@ class CensusSubdivisionNameMatcher
     end * ":"
   end
 
-  @census_subdivisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").mapping(0)
-  @census_subdivisions_hash = Lycopodium.new(@census_subdivisions, @census_subdivision_map).reject_collisions.value_to_fingerprint.invert
+  census_subdivisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").mapping(0)
+  @census_subdivisions_hash = Lycopodium.new(census_subdivisions, @census_subdivision_map).reject_collisions.value_to_fingerprint.invert
 
   def self.fingerprint(province_or_territory_type_id, name)
     @census_subdivision_map.call([province_or_territory_type_id, name])
@@ -284,8 +250,8 @@ class CensusSubdivisionNameTypeMatcher
     [identifier.province_or_territory_type_id, identifier.census_subdivision_type, name.fingerprint] * ":"
   end
 
-  @census_subdivisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").mapping(0)
-  @census_subdivisions_with_types_hash = Lycopodium.new(@census_subdivisions, @census_subdivision_with_type_map).reject_collisions.value_to_fingerprint.invert
+  census_subdivisions = OpenCivicDataIdentifiers.read("country-ca/ca_census_subdivisions").mapping(0)
+  @census_subdivisions_with_types_hash = Lycopodium.new(census_subdivisions, @census_subdivision_with_type_map).reject_collisions.value_to_fingerprint.invert
 
   def self.identifier_and_name(fingerprint)
     @census_subdivisions_with_types_hash[fingerprint]
