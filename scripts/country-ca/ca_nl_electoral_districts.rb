@@ -12,7 +12,7 @@ class NL < Runner
     # The only non-all-caps authoritative data source is the legislature.
     # @see http://www.elections.gov.nl.ca/elections/ElectoralBoundaries/index.html
     # @note Vacant seats do not appear in the table.
-    names = Nokogiri::HTML(open("http://www.assembly.nl.ca/members/cms/membersdirectlines.htm")).css("#content table:gt(1) tr:gt(1) td:eq(2)").map do |td|
+    names = Nokogiri::HTML(open("http://www.assembly.nl.ca/members/cms/membersalpha.htm")).css("#content table:gt(0) tr:gt(1) td:eq(2)").map do |td|
       td.text.normalize_space.gsub(" - ", "—") # m-dash
     end
     names.sort.each do |name|
