@@ -101,7 +101,7 @@ class CensusDivisionName < DivisionName
   @name_mappings = {}
 
   @type_patterns = {}.tap do |patterns|
-    # @see https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_4-eng.cfm
+    # @see http://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_4-eng.cfm
     {
       "ns" => {
         "County" => "CTY",
@@ -129,7 +129,7 @@ class CensusSubdivisionName < DivisionName
   }
 
   @type_patterns = {}.tap do |patterns|
-    # @see https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_5-eng.cfm
+    # @see http://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_5-eng.cfm
     {
       # http://www.novascotia.ca/dma/pdf/mun-municipal-election-results-2008-2012.xls
       "ns" => {

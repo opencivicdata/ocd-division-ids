@@ -33,7 +33,7 @@ class ProvincesAndTerritories < Runner
 private
 
   def rows(language)
-    Nokogiri::HTML(open("https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_8-#{language}.cfm")).xpath("//tr[@class]").each do |tr|
+    Nokogiri::HTML(open("http://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_8-#{language}.cfm")).xpath("//tr[@class]").each do |tr|
       tds = tr.xpath("./th|./td")
       abbreviation = tds[1].text.strip
       yield({
