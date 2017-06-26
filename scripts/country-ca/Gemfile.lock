@@ -21,10 +21,12 @@ GEM
       ntlm-http (~> 0.1, >= 0.1.1)
       webrobots (>= 0.0.9, < 0.2)
     mime-types (2.2)
+    mini_portile2 (2.2.0)
     multipart-post (1.2.0)
     net-http-digest_auth (1.4)
     net-http-persistent (2.9.4)
-    nokogiri (1.5.9)
+    nokogiri (1.8.0)
+      mini_portile2 (~> 2.2.0)
     ntlm-http (0.1.1)
     ruby-ole (1.2.11.8)
     rubyzip (1.1.6)
@@ -44,7 +46,10 @@ DEPENDENCIES
   faraday
   lycopodium (~> 0.0.2)
   mechanize
-  nokogiri (~> 1.5.9)
+  nokogiri
   rubyzip
   spreadsheet
   unicode_utils (~> 1.4.0)
+
+BUNDLED WITH
+   1.15.1
