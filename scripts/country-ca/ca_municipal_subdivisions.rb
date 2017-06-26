@@ -521,7 +521,7 @@ private
 
       {"cd" => [4, 0, -2], "csd" => [5, 1, -1]}.each do |type,(table,start_index,end_index)|
         hash[type] ||= {}
-        url = "https://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_#{table}-eng.cfm"
+        url = "http://www12.statcan.gc.ca/census-recensement/2016/ref/dict/tab/t1_#{table}-eng.cfm"
         Nokogiri::HTML(open(url)).xpath("//tr[@class]")[start_index..end_index].each do |tr|
           code, name = tr.xpath("./th").text.split(/\p{Space}– /, 2)
           # Skip the single "TV" in Ontario to translate "Town" to "T" instead of "TV".
@@ -561,7 +561,7 @@ private
   def census_subdivisions_on
     blocks = {}
 
-    type_map = type_map("on")
+    on_type_map = type_map("on")
 
     Nokogiri::HTML(open("http://www.mah.gov.on.ca/Page1591.aspx").read).xpath("//table[1]//tr[position() > 1]").each do |row|
       text = row.xpath(".//td[1]").text.strip.normalize_space
@@ -587,7 +587,7 @@ private
         elsif name == "Clarence-Rockland"
           type = "C"
         else
-          type = type_map["cd"][type_name] || type_map["csd"][type_name] || raise("Unrecognized type name: '#{type_name}' (#{text})")
+          type = on_type_map["cd"][type_name] || on_type_map["csd"][type_name] || raise("Unrecognized type name: '#{type_name}' (#{text})")
         end
 
         fingerprint = ["on", type, CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
@@ -612,7 +612,7 @@ private
   def census_subdivisions_sk
     blocks = {}
 
-    type_map = type_map("sk")
+    sk_type_map = type_map("sk")
 
     # Select "Entire Directory" and click "Generate PDF".
     # @see http://www.qp.gov.sk.ca/documents/English/Statutes/Statutes/M36-1.pdf
@@ -689,7 +689,10 @@ private
       text += column2
     end
 
-    saskatchewan_non_census_subdivisions = [
+    sk_type_corrections = {
+      "GRAND COULEE" => "VL", # T
+    }
+    sk_non_census_subdivisions = [
       # @see https://en.wikipedia.org/wiki/Division_No._18,_Saskatchewan#Unincorporated_communities
       # @see https://en.wikipedia.org/wiki/Category:Division_No._18,_Unorganized,_Saskatchewan
       "BEAR CREEK",
@@ -716,7 +719,7 @@ private
         type = "RM"
       end
 
-      next if ["Northern Hamlet", "Northern Settlement"].include?(type) && saskatchewan_non_census_subdivisions.include?(name)
+      next if ["Northern Hamlet", "Northern Settlement"].include?(type) && sk_non_census_subdivisions.include?(name)
 
       name.sub!(/\bDISTRICT OF /, "")
       identifier = nil
@@ -740,7 +743,7 @@ private
       end
 
       unless identifier
-        census_subdivision_type = type_map["csd"].fetch(type)
+        census_subdivision_type = sk_type_corrections.fetch(name, sk_type_map["csd"].fetch(type))
         fingerprint = ["sk", census_subdivision_type, CensusSubdivisionName.new(name).normalize.fingerprint] * ":"
         identifier, _ = CensusSubdivisionNameTypeMatcher.identifier_and_name(fingerprint)
       end
