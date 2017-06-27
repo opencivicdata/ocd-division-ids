@@ -892,7 +892,7 @@ ocd-division/country:ca/csd:2404020,N
 ocd-division/country:ca/csd:2404025,N
 ocd-division/country:ca/csd:2404030,N
 ocd-division/country:ca/csd:2404037,Y
-ocd-division/country:ca/csd:2404047,Y
+ocd-division/country:ca/csd:2404047,N
 ocd-division/country:ca/csd:2404902,N
 ocd-division/country:ca/csd:2404904,N
 ocd-division/country:ca/csd:2405010,N
@@ -1081,7 +1081,7 @@ ocd-division/country:ca/csd:2417055,Y
 ocd-division/country:ca/csd:2417060,N
 ocd-division/country:ca/csd:2417065,N
 ocd-division/country:ca/csd:2417070,N
-ocd-division/country:ca/csd:2417078,Y
+ocd-division/country:ca/csd:2417078,N
 ocd-division/country:ca/csd:2418005,N
 ocd-division/country:ca/csd:2418010,N
 ocd-division/country:ca/csd:2418015,N
@@ -1139,8 +1139,8 @@ ocd-division/country:ca/csd:2422015,Y
 ocd-division/country:ca/csd:2422020,N
 ocd-division/country:ca/csd:2422025,N
 ocd-division/country:ca/csd:2422030,N
-ocd-division/country:ca/csd:2422035,N
-ocd-division/country:ca/csd:2422040,N
+ocd-division/country:ca/csd:2422035,Y
+ocd-division/country:ca/csd:2422040,Y
 ocd-division/country:ca/csd:2422045,Y
 ocd-division/country:ca/csd:2422902,N
 ocd-division/country:ca/csd:2423015,N
@@ -1153,7 +1153,7 @@ ocd-division/country:ca/csd:2426005,N
 ocd-division/country:ca/csd:2426010,N
 ocd-division/country:ca/csd:2426015,N
 ocd-division/country:ca/csd:2426022,N
-ocd-division/country:ca/csd:2426030,N
+ocd-division/country:ca/csd:2426030,Y
 ocd-division/country:ca/csd:2426035,N
 ocd-division/country:ca/csd:2426040,N
 ocd-division/country:ca/csd:2426048,N
@@ -1191,7 +1191,7 @@ ocd-division/country:ca/csd:2429030,N
 ocd-division/country:ca/csd:2429038,N
 ocd-division/country:ca/csd:2429045,N
 ocd-division/country:ca/csd:2429050,N
-ocd-division/country:ca/csd:2429057,Y
+ocd-division/country:ca/csd:2429057,N
 ocd-division/country:ca/csd:2429065,N
 ocd-division/country:ca/csd:2429073,Y
 ocd-division/country:ca/csd:2429095,N
@@ -1220,7 +1220,7 @@ ocd-division/country:ca/csd:2430100,N
 ocd-division/country:ca/csd:2430105,N
 ocd-division/country:ca/csd:2430110,N
 ocd-division/country:ca/csd:2431008,N
-ocd-division/country:ca/csd:2431015,N
+ocd-division/country:ca/csd:2431015,Y
 ocd-division/country:ca/csd:2431020,N
 ocd-division/country:ca/csd:2431025,N
 ocd-division/country:ca/csd:2431030,N
@@ -1374,7 +1374,7 @@ ocd-division/country:ca/csd:2441117,N
 ocd-division/country:ca/csd:2442005,N
 ocd-division/country:ca/csd:2442020,Y
 ocd-division/country:ca/csd:2442025,Y
-ocd-division/country:ca/csd:2442032,N
+ocd-division/country:ca/csd:2442032,Y
 ocd-division/country:ca/csd:2442040,N
 ocd-division/country:ca/csd:2442045,N
 ocd-division/country:ca/csd:2442050,N
@@ -1428,7 +1428,7 @@ ocd-division/country:ca/csd:2446035,N
 ocd-division/country:ca/csd:2446040,N
 ocd-division/country:ca/csd:2446045,N
 ocd-division/country:ca/csd:2446050,Y
-ocd-division/country:ca/csd:2446058,N
+ocd-division/country:ca/csd:2446058,Y
 ocd-division/country:ca/csd:2446065,N
 ocd-division/country:ca/csd:2446070,N
 ocd-division/country:ca/csd:2446075,Y
@@ -1492,7 +1492,7 @@ ocd-division/country:ca/csd:2450113,N
 ocd-division/country:ca/csd:2450128,N
 ocd-division/country:ca/csd:2450802,N
 ocd-division/country:ca/csd:2451008,N
-ocd-division/country:ca/csd:2451015,N
+ocd-division/country:ca/csd:2451015,Y
 ocd-division/country:ca/csd:2451020,N
 ocd-division/country:ca/csd:2451025,N
 ocd-division/country:ca/csd:2451030,N
@@ -1529,7 +1529,7 @@ ocd-division/country:ca/csd:2453015,N
 ocd-division/country:ca/csd:2453020,N
 ocd-division/country:ca/csd:2453025,N
 ocd-division/country:ca/csd:2453032,N
-ocd-division/country:ca/csd:2453040,N
+ocd-division/country:ca/csd:2453040,Y
 ocd-division/country:ca/csd:2453050,Y
 ocd-division/country:ca/csd:2453052,Y
 ocd-division/country:ca/csd:2453065,Y
@@ -1593,7 +1593,7 @@ ocd-division/country:ca/csd:2458033,Y
 ocd-division/country:ca/csd:2458037,Y
 ocd-division/country:ca/csd:2458227,Y
 ocd-division/country:ca/csd:2459010,Y
-ocd-division/country:ca/csd:2459015,N
+ocd-division/country:ca/csd:2459015,Y
 ocd-division/country:ca/csd:2459020,Y
 ocd-division/country:ca/csd:2459025,Y
 ocd-division/country:ca/csd:2459030,N
@@ -1709,7 +1709,7 @@ ocd-division/country:ca/csd:2469070,Y
 ocd-division/country:ca/csd:2469075,N
 ocd-division/country:ca/csd:2469802,N
 ocd-division/country:ca/csd:2470005,N
-ocd-division/country:ca/csd:2470012,N
+ocd-division/country:ca/csd:2470012,Y
 ocd-division/country:ca/csd:2470022,Y
 ocd-division/country:ca/csd:2470030,N
 ocd-division/country:ca/csd:2470035,Y
@@ -1772,7 +1772,7 @@ ocd-division/country:ca/csd:2477011,N
 ocd-division/country:ca/csd:2477012,N
 ocd-division/country:ca/csd:2477022,Y
 ocd-division/country:ca/csd:2477030,N
-ocd-division/country:ca/csd:2477035,N
+ocd-division/country:ca/csd:2477035,Y
 ocd-division/country:ca/csd:2477043,N
 ocd-division/country:ca/csd:2477050,N
 ocd-division/country:ca/csd:2477055,Y
@@ -2004,7 +2004,7 @@ ocd-division/country:ca/csd:2492005,N
 ocd-division/country:ca/csd:2492010,N
 ocd-division/country:ca/csd:2492015,N
 ocd-division/country:ca/csd:2492022,N
-ocd-division/country:ca/csd:2492030,Y
+ocd-division/country:ca/csd:2492030,N
 ocd-division/country:ca/csd:2492040,N
 ocd-division/country:ca/csd:2492045,N
 ocd-division/country:ca/csd:2492050,N
