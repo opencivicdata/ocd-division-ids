@@ -1,4 +1,4 @@
-#U.S. OCD Division Identifier Quirks
+# U.S. OCD Division Identifier Quirks
 
 This page details some of the quirks of poltical division in the United States and will help you navigate U.S. identifiers. You should have already read [the overall project's documention](https://github.com/opencivicdata/ocd-division-ids/blob/master/README.md).
 
@@ -6,13 +6,14 @@ There is only one rule about U.S. political geography: “There are no hard and 
 
 With that in mind, below are some interesting OCD Identifiers that might not seem obvious at first. Also, a Google-spreadsheet-based [validator](https://docs.google.com/spreadsheet/ccc?key=0ApxTEufS6-DndE16N0J3d19zUHVMOVFsYU9vRHF3S2c&usp=sharing) is available to check all of your identifiers (especially for those you are unsure about); the spreadsheet also provides suggestions for unmatched identifiers.
 
-##state
+## state
 
 * The District of Columbia is: cd-division/country:us/district:dc
 * Territories also are included:
 	* Example (American Samoa): ocd-division/country:us/territory:as
 
-##county
+## county
+
 * Residents of DC (or the territories) do not have a county.
 * Alaska has borough and census_area types
 * Louisiana has parishes
@@ -20,7 +21,8 @@ With that in mind, below are some interesting OCD Identifiers that might not see
 	* **Important**: Some independent cities have the same name as counties. Care must be taken
 * Similarly Maryland, Missouri and Nevada each has one independent city
 	
-##place
+## place
+
 * Drop "city", "township", "borough" (etc) from the name of a place type unless the word city is in the census’s [place gazetteer file](http://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_places_national.zip). Two examples:
 	* ocd-division/country:us/state:mo/place:[jefferson_city](http://en.wikipedia.org/wiki/Jefferson_City,_Missouri)
 	* ocd-division/country:us/state:mo/place:[jennings](http://en.wikipedia.org/wiki/Jennings,_MO)
@@ -53,38 +55,44 @@ With that in mind, below are some interesting OCD Identifiers that might not see
   * Note for why the census scraper misses this jurisdiction
 
 	
-##cd
+## cd
 
 * At-large congressional districts (AK, DE, MT, ND, SD, VT, WY) do not have division identifiers because they are coterminous with the state.
 * The [exceptions file](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/README.md) includes this idiosyncracy of U.S. congressional districts.
 
-##sldl (State Legislature distict -- lower)
+## sldl (State Legislature distict -- lower)
+
 * Remember to keep all letter lowercase. Example:
 	* ocd-division/country:us/state:md/sldl:12b
 * Nebraska has no lower house
 * The states of MA, VT, NH have interesting names district names, rather than numbers. Use the [naming convention](https://github.com/opencivicdata/ocd-division-ids/blob/master/README.md).
 
-##sldu (State Legislature distict -- upper)
+## sldu (State Legislature distict -- upper)
+
 * The states of MA and VT have interesting names for their upper house districts. Use the [naming convention](https://github.com/opencivicdata/ocd-division-ids/blob/master/README.md).
 
-##council_district
+## council_district
+
 * For ease, all types of local councils that have custom districts -- whether they are called city council, board of supervisors, town council, or common council -- use the type council_district. Examples:
 	* ocd-division/country:us/state:md/place:baltimore/council_district:1
 	* ocd-division/country:us/state:va/county:fairfax/council_district:providence
 * **Sometimes the council districts are not custom district** -- a city might reuse wards, for instance. In these cases, to avoid redundancy, we only put ward in the repository.
 * Occasionally (and namely, for Indiana counties), a single governmental entity (e.g., [Lake County Indidana](http://www.lakecountyin.org)) will have multiple bodies that use different districts. In these cases, we strive to use the "council_district" for the governmental body with "council" in its name and use a custom type for the other body (e.g., [commissioner district](http://www.lakecountyin.org/portal/media-type/html/group/commissioners/page/default)).
 
-##ward
+## ward
+
 * Sometimes wards (and council_districts) will be labeled using roman numerals (i, ii, iii, iv, etc). These are converted to arabic numerals (1, 2, 3, 4, etc).
 	* These transformations are also in the [exceptions file](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/README.md)
 
-##region
+## region
+
 * The Oregon Metro council is in the repository:
 	* ocd-division/country:us/state:or/region:oregon_metro
 * The Metro council also has districts
 	* ocd-division/country:us/state:or/region:oregon_metro/council_district:1
 
-##precinct
+## precinct
+
 * Precincts are slowly being added (as of January 2014). Notes:
   * If a precinct (i.e., voting tabulation district, election district) is called a "ward" generally the ward type is used. Otherwise, the precinct type is used.
   * Often, precincts will have both a unique county or state ID as well as a descriptor. In this case, the number will go first (no zero padding), then a hyphen ("-"), then the descriptor. See parts of [Idaho](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/state-id-precincts.csv).
