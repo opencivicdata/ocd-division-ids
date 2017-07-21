@@ -102,7 +102,7 @@ ocd-division/country:de/land:by/wahlkreis:münchen-land,ocd-division/country:de/
 ocd-division/country:de/land:by/wahlkreis:münchen-nord,ocd-division/country:de/state:by/cd:217,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:by/wahlkreis:münchen-ost,ocd-division/country:de/state:by/cd:218,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:by/wahlkreis:münchen-süd,ocd-division/country:de/state:by/cd:219,Added for backwards compatibility with land/wahlkreis identifiers
-ocd-division/country:de/land:by/wahlkreis:münchen-west/mitte,ocd-division/country:de/state:by/cd:220,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:münchen-west~mitte,ocd-division/country:de/state:by/cd:220,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:by/wahlkreis:neu-ulm,ocd-division/country:de/state:by/cd:255,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:by/wahlkreis:nürnberg-nord,ocd-division/country:de/state:by/cd:244,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:by/wahlkreis:nürnberg-süd,ocd-division/country:de/state:by/cd:245,Added for backwards compatibility with land/wahlkreis identifiers
@@ -256,10 +256,10 @@ ocd-division/country:de/land:rp/wahlkreis:bitburg,ocd-division/country:de/state:
 ocd-division/country:de/land:rp/wahlkreis:kaiserslautern,ocd-division/country:de/state:rp/cd:209,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:rp/wahlkreis:koblenz,ocd-division/country:de/state:rp/cd:199,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:rp/wahlkreis:kreuznach,ocd-division/country:de/state:rp/cd:201,Added for backwards compatibility with land/wahlkreis identifiers
-ocd-division/country:de/land:rp/wahlkreis:ludwigshafen/frankenthal,ocd-division/country:de/state:rp/cd:207,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:ludwigshafen~frankenthal,ocd-division/country:de/state:rp/cd:207,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:rp/wahlkreis:mainz,ocd-division/country:de/state:rp/cd:205,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:rp/wahlkreis:montabaur,ocd-division/country:de/state:rp/cd:204,Added for backwards compatibility with land/wahlkreis identifiers
-ocd-division/country:de/land:rp/wahlkreis:mosel/rhein-hunsrück,ocd-division/country:de/state:rp/cd:200,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:mosel~rhein-hunsrück,ocd-division/country:de/state:rp/cd:200,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:rp/wahlkreis:neustadt_~_speyer,ocd-division/country:de/state:rp/cd:208,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:rp/wahlkreis:neuwied,ocd-division/country:de/state:rp/cd:197,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:rp/wahlkreis:pirmasens,ocd-division/country:de/state:rp/cd:210,Added for backwards compatibility with land/wahlkreis identifiers
