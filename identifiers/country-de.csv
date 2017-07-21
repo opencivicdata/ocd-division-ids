@@ -1,317 +1,632 @@
-id,name
-ocd-division/country:de,Deutschland
-ocd-division/country:de/land:bb,Brandenburg
-ocd-division/country:de/land:be,Berlin
-ocd-division/country:de/land:bw,Baden-Württemberg
-ocd-division/country:de/land:bw/wahlkreis:aachen_i,Aachen I
-ocd-division/country:de/land:bw/wahlkreis:aachen_ii,Aachen II
-ocd-division/country:de/land:bw/wahlkreis:aalen--heidenheim,Aalen - Heidenheim
-ocd-division/country:de/land:bw/wahlkreis:ahrweiler,Ahrweiler
-ocd-division/country:de/land:bw/wahlkreis:altmark,Altmark
-ocd-division/country:de/land:bw/wahlkreis:altötting,Altötting
-ocd-division/country:de/land:bw/wahlkreis:amberg,Amberg
-ocd-division/country:de/land:bw/wahlkreis:anhalt,Anhalt
-ocd-division/country:de/land:bw/wahlkreis:ansbach,Ansbach
-ocd-division/country:de/land:bw/wahlkreis:aschaffenburg,Aschaffenburg
-ocd-division/country:de/land:bw/wahlkreis:augsburg-land,Augsburg-Land
-ocd-division/country:de/land:bw/wahlkreis:augsburg-stadt,Augsburg-Stadt
-ocd-division/country:de/land:bw/wahlkreis:aurich--emden,Aurich - Emden
-ocd-division/country:de/land:bw/wahlkreis:backnang--schwäbisch_gmünd,Backnang - Schwäbisch Gmünd
-ocd-division/country:de/land:bw/wahlkreis:bad_kissingen,Bad Kissingen
-ocd-division/country:de/land:bw/wahlkreis:bamberg,Bamberg
-ocd-division/country:de/land:bw/wahlkreis:bautzen_i,Bautzen I
-ocd-division/country:de/land:bw/wahlkreis:bayreuth,Bayreuth
-ocd-division/country:de/land:bw/wahlkreis:bergstraße,Bergstraße
-ocd-division/country:de/land:bw/wahlkreis:berlin-charlottenburg-wilmersdorf,Berlin-Charlottenburg-Wilmersdorf
-ocd-division/country:de/land:bw/wahlkreis:berlin-friedrichshain-kreuzberg--prenzlauer_berg_ost,Berlin-Friedrichshain-Kreuzberg - Prenzlauer Berg Ost
-ocd-division/country:de/land:bw/wahlkreis:berlin-lichtenberg,Berlin-Lichtenberg
-ocd-division/country:de/land:bw/wahlkreis:berlin-marzahn-hellersdorf,Berlin-Marzahn-Hellersdorf
-ocd-division/country:de/land:bw/wahlkreis:berlin-mitte,Berlin-Mitte
-ocd-division/country:de/land:bw/wahlkreis:berlin-neukölln,Berlin-Neukölln
-ocd-division/country:de/land:bw/wahlkreis:berlin-pankow,Berlin-Pankow
-ocd-division/country:de/land:bw/wahlkreis:berlin-reinickendorf,Berlin-Reinickendorf
-ocd-division/country:de/land:bw/wahlkreis:berlin-spandau--charlottenburg_nord,Berlin-Spandau - Charlottenburg Nord
-ocd-division/country:de/land:bw/wahlkreis:berlin-steglitz-zehlendorf,Berlin-Steglitz-Zehlendorf
-ocd-division/country:de/land:bw/wahlkreis:berlin-tempelhof-schöneberg,Berlin-Tempelhof-Schöneberg
-ocd-division/country:de/land:bw/wahlkreis:berlin-treptow-köpenick,Berlin-Treptow-Köpenick
-ocd-division/country:de/land:bw/wahlkreis:biberach,Biberach
-ocd-division/country:de/land:bw/wahlkreis:bielefeld--gütersloh_ii,Bielefeld - Gütersloh II
-ocd-division/country:de/land:bw/wahlkreis:bitburg,Bitburg
-ocd-division/country:de/land:bw/wahlkreis:bochum_i,Bochum I
-ocd-division/country:de/land:bw/wahlkreis:bodensee,Bodensee
-ocd-division/country:de/land:bw/wahlkreis:bonn,Bonn
-ocd-division/country:de/land:bw/wahlkreis:borken_ii,Borken II
-ocd-division/country:de/land:bw/wahlkreis:bottrop--recklinghausen_iii,Bottrop - Recklinghausen III
-ocd-division/country:de/land:bw/wahlkreis:brandenburg_an_der_havel--potsdam-mittelmark_i--havelland_iii--teltow-fläming_i,Brandenburg an der Havel - Potsdam-Mittelmark I - Havelland III - Teltow-Fläming I
-ocd-division/country:de/land:bw/wahlkreis:braunschweig,Braunschweig
-ocd-division/country:de/land:bw/wahlkreis:bremen_i,Bremen I
-ocd-division/country:de/land:bw/wahlkreis:bremen_ii--bremerhaven,Bremen II - Bremerhaven
-ocd-division/country:de/land:bw/wahlkreis:bruchsal--schwetzingen,Bruchsal - Schwetzingen
-ocd-division/country:de/land:bw/wahlkreis:burgenland--saalekreis,Burgenland - Saalekreis
-ocd-division/country:de/land:bw/wahlkreis:böblingen,Böblingen
-ocd-division/country:de/land:bw/wahlkreis:börde--jerichower_land,Börde - Jerichower Land
-ocd-division/country:de/land:bw/wahlkreis:calw,Calw
-ocd-division/country:de/land:bw/wahlkreis:celle--uelzen,Celle - Uelzen
-ocd-division/country:de/land:bw/wahlkreis:chemnitz,Chemnitz
-ocd-division/country:de/land:bw/wahlkreis:chemnitzer_umland--erzgebirgskreis_ii,Chemnitzer Umland - Erzgebirgskreis II
-ocd-division/country:de/land:bw/wahlkreis:cloppenburg--vechta,Cloppenburg - Vechta
-ocd-division/country:de/land:bw/wahlkreis:coburg,Coburg
-ocd-division/country:de/land:bw/wahlkreis:coesfeld--steinfurt_ii,Coesfeld - Steinfurt II
-ocd-division/country:de/land:bw/wahlkreis:cottbus--spree-neiße,Cottbus - Spree-Neiße
-ocd-division/country:de/land:bw/wahlkreis:cuxhaven--stade_ii,Cuxhaven - Stade II
-ocd-division/country:de/land:bw/wahlkreis:dahme-spreewald--teltow-fläming_iii--oberspreewald-lausitz_i,Dahme-Spreewald - Teltow-Fläming III - Oberspreewald-Lausitz I
-ocd-division/country:de/land:bw/wahlkreis:darmstadt,Darmstadt
-ocd-division/country:de/land:bw/wahlkreis:deggendorf,Deggendorf
-ocd-division/country:de/land:bw/wahlkreis:delmenhorst--wesermarsch--oldenburg-land,Delmenhorst - Wesermarsch - Oldenburg-Land
-ocd-division/country:de/land:bw/wahlkreis:dessau--wittenberg,Dessau - Wittenberg
-ocd-division/country:de/land:bw/wahlkreis:diepholz--nienburg_i,Diepholz - Nienburg I
-ocd-division/country:de/land:bw/wahlkreis:donau-ries,Donau-Ries
-ocd-division/country:de/land:bw/wahlkreis:dortmund_i,Dortmund I
-ocd-division/country:de/land:bw/wahlkreis:dortmund_ii,Dortmund II
-ocd-division/country:de/land:bw/wahlkreis:dresden_i,Dresden I
-ocd-division/country:de/land:bw/wahlkreis:dresden_ii--bautzen_ii,Dresden II - Bautzen II
-ocd-division/country:de/land:bw/wahlkreis:duisburg_i,Duisburg I
-ocd-division/country:de/land:bw/wahlkreis:duisburg_ii,Duisburg II
-ocd-division/country:de/land:bw/wahlkreis:düren,Düren
-ocd-division/country:de/land:bw/wahlkreis:düsseldorf_i,Düsseldorf I
-ocd-division/country:de/land:bw/wahlkreis:düsseldorf_ii,Düsseldorf II
-ocd-division/country:de/land:bw/wahlkreis:eichsfeld--nordhausen--unstrut-hainich-kreis_i,Eichsfeld - Nordhausen - Unstrut-Hainich-Kreis I
-ocd-division/country:de/land:bw/wahlkreis:eisenach--wartburgkreis--unstrut-hainich-kreis_ii,Eisenach - Wartburgkreis - Unstrut-Hainich-Kreis II
-ocd-division/country:de/land:bw/wahlkreis:elbe-elster--oberspreewald-lausitz_ii,Elbe-Elster - Oberspreewald-Lausitz II
-ocd-division/country:de/land:bw/wahlkreis:emmendingen--lahr,Emmendingen - Lahr
-ocd-division/country:de/land:bw/wahlkreis:ennepe-ruhr-kreis_ii,Ennepe-Ruhr-Kreis II
-ocd-division/country:de/land:bw/wahlkreis:erding--ebersberg,Erding - Ebersberg
-ocd-division/country:de/land:bw/wahlkreis:erfurt--weimar--weimarer_land_ii,Erfurt - Weimar - Weimarer Land II
-ocd-division/country:de/land:bw/wahlkreis:erlangen,Erlangen
-ocd-division/country:de/land:bw/wahlkreis:erzgebirgskreis_i,Erzgebirgskreis I
-ocd-division/country:de/land:bw/wahlkreis:essen_ii,Essen II
-ocd-division/country:de/land:bw/wahlkreis:essen_iii,Essen III
-ocd-division/country:de/land:bw/wahlkreis:esslingen,Esslingen
-ocd-division/country:de/land:bw/wahlkreis:euskirchen--rhein-erft-kreis_ii,Euskirchen - Rhein-Erft-Kreis II
-ocd-division/country:de/land:bw/wahlkreis:flensburg--schleswig,Flensburg - Schleswig
-ocd-division/country:de/land:bw/wahlkreis:frankfurt_am_main_i,Frankfurt am Main I
-ocd-division/country:de/land:bw/wahlkreis:frankfurt_am_main_ii,Frankfurt am Main II
-ocd-division/country:de/land:bw/wahlkreis:frankfurt_oder--oder-spree,Frankfurt Oder - Oder-Spree
-ocd-division/country:de/land:bw/wahlkreis:freiburg,Freiburg
-ocd-division/country:de/land:bw/wahlkreis:freising,Freising
-ocd-division/country:de/land:bw/wahlkreis:friesland--wilhelmshaven--wittmund,Friesland - Wilhelmshaven - Wittmund
-ocd-division/country:de/land:bw/wahlkreis:fulda,Fulda
-ocd-division/country:de/land:bw/wahlkreis:fürstenfeldbruck,Fürstenfeldbruck
-ocd-division/country:de/land:bw/wahlkreis:fürth,Fürth
-ocd-division/country:de/land:bw/wahlkreis:gelsenkirchen,Gelsenkirchen
-ocd-division/country:de/land:bw/wahlkreis:gera--jena--saale-holzland-kreis,Gera - Jena - Saale-Holzland-Kreis
-ocd-division/country:de/land:bw/wahlkreis:gießen,Gießen
-ocd-division/country:de/land:bw/wahlkreis:gifhorn--peine,Gifhorn - Peine
-ocd-division/country:de/land:bw/wahlkreis:goslar--northeim--osterode,Goslar - Northeim - Osterode
-ocd-division/country:de/land:bw/wahlkreis:gotha--ilm-kreis,Gotha - Ilm-Kreis
-ocd-division/country:de/land:bw/wahlkreis:greiz--altenburger_land,Greiz - Altenburger Land
-ocd-division/country:de/land:bw/wahlkreis:groß-gerau,Groß-Gerau
-ocd-division/country:de/land:bw/wahlkreis:göppingen,Göppingen
-ocd-division/country:de/land:bw/wahlkreis:görlitz,Görlitz
-ocd-division/country:de/land:bw/wahlkreis:göttingen,Göttingen
-ocd-division/country:de/land:bw/wahlkreis:gütersloh_i,Gütersloh I
-ocd-division/country:de/land:bw/wahlkreis:hagen--ennepe-ruhr-kreis_i,Hagen - Ennepe-Ruhr-Kreis I
-ocd-division/country:de/land:bw/wahlkreis:halle,Halle
-ocd-division/country:de/land:bw/wahlkreis:hamburg-altona,Hamburg-Altona
-ocd-division/country:de/land:bw/wahlkreis:hamburg-bergedorf--harburg,Hamburg-Bergedorf - Harburg
-ocd-division/country:de/land:bw/wahlkreis:hamburg-eimsbüttel,Hamburg-Eimsbüttel
-ocd-division/country:de/land:bw/wahlkreis:hamburg-mitte,Hamburg-Mitte
-ocd-division/country:de/land:bw/wahlkreis:hamburg-nord,Hamburg-Nord
-ocd-division/country:de/land:bw/wahlkreis:hamburg-wandsbek,Hamburg-Wandsbek
-ocd-division/country:de/land:bw/wahlkreis:hameln-pyrmont--holzminden,Hameln-Pyrmont - Holzminden
-ocd-division/country:de/land:bw/wahlkreis:hamm--unna_ii,Hamm - Unna II
-ocd-division/country:de/land:bw/wahlkreis:hanau,Hanau
-ocd-division/country:de/land:bw/wahlkreis:hannover-land_i,Hannover-Land I
-ocd-division/country:de/land:bw/wahlkreis:hannover-land_ii,Hannover-Land II
-ocd-division/country:de/land:bw/wahlkreis:harburg,Harburg
-ocd-division/country:de/land:bw/wahlkreis:harz,Harz
-ocd-division/country:de/land:bw/wahlkreis:heidelberg,Heidelberg
-ocd-division/country:de/land:bw/wahlkreis:heilbronn,Heilbronn
-ocd-division/country:de/land:bw/wahlkreis:heinsberg,Heinsberg
-ocd-division/country:de/land:bw/wahlkreis:helmstedt--wolfsburg,Helmstedt - Wolfsburg
-ocd-division/country:de/land:bw/wahlkreis:herford--minden-lübbecke_ii,Herford - Minden-Lübbecke II
-ocd-division/country:de/land:bw/wahlkreis:herne--bochum_ii,Herne - Bochum II
-ocd-division/country:de/land:bw/wahlkreis:herzogtum_lauenburg--stormarn-süd,Herzogtum Lauenburg - Stormarn-Süd
-ocd-division/country:de/land:bw/wahlkreis:hildesheim,Hildesheim
-ocd-division/country:de/land:bw/wahlkreis:hochsauerlandkreis,Hochsauerlandkreis
-ocd-division/country:de/land:bw/wahlkreis:hochtaunus,Hochtaunus
-ocd-division/country:de/land:bw/wahlkreis:hof,Hof
-ocd-division/country:de/land:bw/wahlkreis:homburg,Homburg
-ocd-division/country:de/land:bw/wahlkreis:höxter--lippe_ii,Höxter - Lippe II
-ocd-division/country:de/land:bw/wahlkreis:ingolstadt,Ingolstadt
-ocd-division/country:de/land:bw/wahlkreis:kaiserslautern,Kaiserslautern
-ocd-division/country:de/land:bw/wahlkreis:karlsruhe-land,Karlsruhe-Land
-ocd-division/country:de/land:bw/wahlkreis:karlsruhe-stadt,Karlsruhe-Stadt
-ocd-division/country:de/land:bw/wahlkreis:kassel,Kassel
-ocd-division/country:de/land:bw/wahlkreis:kiel,Kiel
-ocd-division/country:de/land:bw/wahlkreis:kleve,Kleve
-ocd-division/country:de/land:bw/wahlkreis:koblenz,Koblenz
-ocd-division/country:de/land:bw/wahlkreis:konstanz,Konstanz
-ocd-division/country:de/land:bw/wahlkreis:krefeld_i--neuss_ii,Krefeld I - Neuss II
-ocd-division/country:de/land:bw/wahlkreis:krefeld_ii--wesel_ii,Krefeld II - Wesel II
-ocd-division/country:de/land:bw/wahlkreis:kreuznach,Kreuznach
-ocd-division/country:de/land:bw/wahlkreis:kulmbach,Kulmbach
-ocd-division/country:de/land:bw/wahlkreis:kyffhäuserkreis--sömmerda--weimarer_land_i,Kyffhäuserkreis - Sömmerda - Weimarer Land I
-ocd-division/country:de/land:bw/wahlkreis:köln_i,Köln I
-ocd-division/country:de/land:bw/wahlkreis:köln_ii,Köln II
-ocd-division/country:de/land:bw/wahlkreis:köln_iii,Köln III
-ocd-division/country:de/land:bw/wahlkreis:lahn-dill,Lahn-Dill
-ocd-division/country:de/land:bw/wahlkreis:landshut,Landshut
-ocd-division/country:de/land:bw/wahlkreis:leipzig-land,Leipzig-Land
-ocd-division/country:de/land:bw/wahlkreis:leipzig_i,Leipzig I
-ocd-division/country:de/land:bw/wahlkreis:leipzig_ii,Leipzig II
-ocd-division/country:de/land:bw/wahlkreis:leverkusen--köln_iv,Leverkusen - Köln IV
-ocd-division/country:de/land:bw/wahlkreis:lippe_i,Lippe I
-ocd-division/country:de/land:bw/wahlkreis:ludwigsburg,Ludwigsburg
-ocd-division/country:de/land:bw/wahlkreis:ludwigshafen_frankenthal,Ludwigshafen/Frankenthal
-ocd-division/country:de/land:bw/wahlkreis:ludwigslust-parchim_ii--nordwestmecklenburg_ii--landkreis_rostock_i,Ludwigslust-Parchim II - Nordwestmecklenburg II - Landkreis Rostock I
-ocd-division/country:de/land:bw/wahlkreis:lörrach--müllheim,Lörrach - Müllheim
-ocd-division/country:de/land:bw/wahlkreis:lübeck,Lübeck
-ocd-division/country:de/land:bw/wahlkreis:lüchow-dannenberg--lüneburg,Lüchow-Dannenberg - Lüneburg
-ocd-division/country:de/land:bw/wahlkreis:magdeburg,Magdeburg
-ocd-division/country:de/land:bw/wahlkreis:main-kinzig--wetterau_ii--schotten,Main-Kinzig - Wetterau II - Schotten
-ocd-division/country:de/land:bw/wahlkreis:main-spessart,Main-Spessart
-ocd-division/country:de/land:bw/wahlkreis:main-taunus,Main-Taunus
-ocd-division/country:de/land:bw/wahlkreis:mainz,Mainz
-ocd-division/country:de/land:bw/wahlkreis:mannheim,Mannheim
-ocd-division/country:de/land:bw/wahlkreis:mansfeld,Mansfeld
-ocd-division/country:de/land:bw/wahlkreis:marburg,Marburg
-ocd-division/country:de/land:bw/wahlkreis:mecklenburgische_seenplatte_i--vorpommern-greifswald_ii_,Mecklenburgische Seenplatte I - Vorpommern-Greifswald II 
-ocd-division/country:de/land:bw/wahlkreis:mecklenburgische_seenplatte_ii--landkreis_rostock_iii,Mecklenburgische Seenplatte II - Landkreis Rostock III
-ocd-division/country:de/land:bw/wahlkreis:meißen,Meißen
-ocd-division/country:de/land:bw/wahlkreis:mettmann_i,Mettmann I
-ocd-division/country:de/land:bw/wahlkreis:mettmann_ii,Mettmann II
-ocd-division/country:de/land:bw/wahlkreis:minden-lübbecke_i,Minden-Lübbecke I
-ocd-division/country:de/land:bw/wahlkreis:mittelems,Mittelems
-ocd-division/country:de/land:bw/wahlkreis:mittelsachsen,Mittelsachsen
-ocd-division/country:de/land:bw/wahlkreis:montabaur,Montabaur
-ocd-division/country:de/land:bw/wahlkreis:mosel_rhein-hunsrück,Mosel/Rhein-Hunsrück
-ocd-division/country:de/land:bw/wahlkreis:märkisch-oderland--barnim_ii,Märkisch-Oderland - Barnim II
-ocd-division/country:de/land:bw/wahlkreis:märkischer_kreis_ii,Märkischer Kreis II
-ocd-division/country:de/land:bw/wahlkreis:mönchengladbach,Mönchengladbach
-ocd-division/country:de/land:bw/wahlkreis:mülheim--essen_i,Mülheim - Essen I
-ocd-division/country:de/land:bw/wahlkreis:münchen-land,München-Land
-ocd-division/country:de/land:bw/wahlkreis:münchen-nord,München-Nord
-ocd-division/country:de/land:bw/wahlkreis:münchen-ost,München-Ost
-ocd-division/country:de/land:bw/wahlkreis:münchen-süd,München-Süd
-ocd-division/country:de/land:bw/wahlkreis:münchen-west_mitte,München-West/Mitte
-ocd-division/country:de/land:bw/wahlkreis:münster,Münster
-ocd-division/country:de/land:bw/wahlkreis:neckar-zaber,Neckar-Zaber
-ocd-division/country:de/land:bw/wahlkreis:neu-ulm,Neu-Ulm
-ocd-division/country:de/land:bw/wahlkreis:neuss_i,Neuss I
-ocd-division/country:de/land:bw/wahlkreis:neustadt--speyer,Neustadt - Speyer
-ocd-division/country:de/land:bw/wahlkreis:neuwied,Neuwied
-ocd-division/country:de/land:bw/wahlkreis:nienburg_ii--schaumburg,Nienburg II - Schaumburg
-ocd-division/country:de/land:bw/wahlkreis:nordfriesland--dithmarschen_nord,Nordfriesland - Dithmarschen Nord
-ocd-division/country:de/land:bw/wahlkreis:nordsachsen,Nordsachsen
-ocd-division/country:de/land:bw/wahlkreis:nürnberg-nord,Nürnberg-Nord
-ocd-division/country:de/land:bw/wahlkreis:nürnberg-süd,Nürnberg-Süd
-ocd-division/country:de/land:bw/wahlkreis:nürtingen,Nürtingen
-ocd-division/country:de/land:bw/wahlkreis:oberallgäu,Oberallgäu
-ocd-division/country:de/land:bw/wahlkreis:oberbergischer_kreis,Oberbergischer Kreis
-ocd-division/country:de/land:bw/wahlkreis:oberhausen--wesel_iii,Oberhausen - Wesel III
-ocd-division/country:de/land:bw/wahlkreis:oberhavel--havelland_ii,Oberhavel - Havelland II
-ocd-division/country:de/land:bw/wahlkreis:odenwald,Odenwald
-ocd-division/country:de/land:bw/wahlkreis:odenwald--tauber,Odenwald - Tauber
-ocd-division/country:de/land:bw/wahlkreis:offenbach,Offenbach
-ocd-division/country:de/land:bw/wahlkreis:offenburg,Offenburg
-ocd-division/country:de/land:bw/wahlkreis:oldenburg--ammerland,Oldenburg - Ammerland
-ocd-division/country:de/land:bw/wahlkreis:olpe--märkischer_kreis_i,Olpe - Märkischer Kreis I
-ocd-division/country:de/land:bw/wahlkreis:osnabrück-land,Osnabrück-Land
-ocd-division/country:de/land:bw/wahlkreis:ostallgäu,Ostallgäu
-ocd-division/country:de/land:bw/wahlkreis:osterholz--verden,Osterholz - Verden
-ocd-division/country:de/land:bw/wahlkreis:ostholstein--stormarn-nord,Ostholstein - Stormarn-Nord
-ocd-division/country:de/land:bw/wahlkreis:paderborn--gütersloh_iii,Paderborn - Gütersloh III
-ocd-division/country:de/land:bw/wahlkreis:passau,Passau
-ocd-division/country:de/land:bw/wahlkreis:pforzheim,Pforzheim
-ocd-division/country:de/land:bw/wahlkreis:pinneberg,Pinneberg
-ocd-division/country:de/land:bw/wahlkreis:pirmasens,Pirmasens
-ocd-division/country:de/land:bw/wahlkreis:plön--neumünster,Plön - Neumünster
-ocd-division/country:de/land:bw/wahlkreis:potsdam--potsdam-mittelmark_ii--teltow-fläming_ii,Potsdam - Potsdam-Mittelmark II - Teltow-Fläming II
-ocd-division/country:de/land:bw/wahlkreis:prignitz--ostprignitz-ruppin--havelland_i,Prignitz - Ostprignitz-Ruppin - Havelland I
-ocd-division/country:de/land:bw/wahlkreis:rastatt,Rastatt
-ocd-division/country:de/land:bw/wahlkreis:ravensburg,Ravensburg
-ocd-division/country:de/land:bw/wahlkreis:recklinghausen_i,Recklinghausen I
-ocd-division/country:de/land:bw/wahlkreis:recklinghausen_ii,Recklinghausen II
-ocd-division/country:de/land:bw/wahlkreis:regensburg,Regensburg
-ocd-division/country:de/land:bw/wahlkreis:rendsburg-eckernförde,Rendsburg-Eckernförde
-ocd-division/country:de/land:bw/wahlkreis:reutlingen,Reutlingen
-ocd-division/country:de/land:bw/wahlkreis:rhein-erft-kreis_i,Rhein-Erft-Kreis I
-ocd-division/country:de/land:bw/wahlkreis:rhein-neckar,Rhein-Neckar
-ocd-division/country:de/land:bw/wahlkreis:rhein-sieg-kreis_i,Rhein-Sieg-Kreis I
-ocd-division/country:de/land:bw/wahlkreis:rhein-sieg-kreis_ii,Rhein-Sieg-Kreis II
-ocd-division/country:de/land:bw/wahlkreis:rheingau-taunus--limburg,Rheingau-Taunus - Limburg
-ocd-division/country:de/land:bw/wahlkreis:rheinisch-bergischer_kreis,Rheinisch-Bergischer Kreis
-ocd-division/country:de/land:bw/wahlkreis:rosenheim,Rosenheim
-ocd-division/country:de/land:bw/wahlkreis:rostock--landkreis_rostock_ii,Rostock - Landkreis Rostock II
-ocd-division/country:de/land:bw/wahlkreis:rotenburg_i--heidekreis,Rotenburg I - Heidekreis
-ocd-division/country:de/land:bw/wahlkreis:roth,Roth
-ocd-division/country:de/land:bw/wahlkreis:rottal-inn,Rottal-Inn
-ocd-division/country:de/land:bw/wahlkreis:rottweil--tuttlingen,Rottweil - Tuttlingen
-ocd-division/country:de/land:bw/wahlkreis:saarbrücken,Saarbrücken
-ocd-division/country:de/land:bw/wahlkreis:saarlouis,Saarlouis
-ocd-division/country:de/land:bw/wahlkreis:salzgitter--wolfenbüttel,Salzgitter - Wolfenbüttel
-ocd-division/country:de/land:bw/wahlkreis:schwalm-eder,Schwalm-Eder
-ocd-division/country:de/land:bw/wahlkreis:schwandorf,Schwandorf
-ocd-division/country:de/land:bw/wahlkreis:schwarzwald-baar,Schwarzwald-Baar
-ocd-division/country:de/land:bw/wahlkreis:schweinfurt,Schweinfurt
-ocd-division/country:de/land:bw/wahlkreis:schwerin--ludwigslust-parchim_i--nordwestmecklenburg_i,Schwerin - Ludwigslust-Parchim I - Nordwestmecklenburg I
-ocd-division/country:de/land:bw/wahlkreis:schwäbisch_hall--hohenlohe,Schwäbisch Hall - Hohenlohe
-ocd-division/country:de/land:bw/wahlkreis:segeberg--stormarn-mitte,Segeberg - Stormarn-Mitte
-ocd-division/country:de/land:bw/wahlkreis:siegen-wittgenstein,Siegen-Wittgenstein
-ocd-division/country:de/land:bw/wahlkreis:soest,Soest
-ocd-division/country:de/land:bw/wahlkreis:solingen--remscheid--wuppertal_ii,Solingen - Remscheid - Wuppertal II
-ocd-division/country:de/land:bw/wahlkreis:sonneberg--saalfeld-rudolstadt--saale-orla-kreis,Sonneberg - Saalfeld-Rudolstadt - Saale-Orla-Kreis
-ocd-division/country:de/land:bw/wahlkreis:st._wendel,St. Wendel
-ocd-division/country:de/land:bw/wahlkreis:stade_i--rotenburg_ii,Stade I - Rotenburg II
-ocd-division/country:de/land:bw/wahlkreis:stadt_hannover_i,Stadt Hannover I
-ocd-division/country:de/land:bw/wahlkreis:stadt_hannover_ii,Stadt Hannover II
-ocd-division/country:de/land:bw/wahlkreis:stadt_osnabrück,Stadt Osnabrück
-ocd-division/country:de/land:bw/wahlkreis:starnberg,Starnberg
-ocd-division/country:de/land:bw/wahlkreis:steinburg--dithmarschen_süd,Steinburg - Dithmarschen Süd
-ocd-division/country:de/land:bw/wahlkreis:steinfurt_i--borken_i,Steinfurt I - Borken I
-ocd-division/country:de/land:bw/wahlkreis:steinfurt_iii,Steinfurt III
-ocd-division/country:de/land:bw/wahlkreis:straubing,Straubing
-ocd-division/country:de/land:bw/wahlkreis:stuttgart_i,Stuttgart I
-ocd-division/country:de/land:bw/wahlkreis:stuttgart_ii,Stuttgart II
-ocd-division/country:de/land:bw/wahlkreis:suhl--schmalkalden-meiningen--hildburghausen,Suhl - Schmalkalden-Meiningen - Hildburghausen
-ocd-division/country:de/land:bw/wahlkreis:sächsische_schweiz-osterzgebirge,Sächsische Schweiz-Osterzgebirge
-ocd-division/country:de/land:bw/wahlkreis:südpfalz,Südpfalz
-ocd-division/country:de/land:bw/wahlkreis:traunstein,Traunstein
-ocd-division/country:de/land:bw/wahlkreis:trier,Trier
-ocd-division/country:de/land:bw/wahlkreis:tübingen,Tübingen
-ocd-division/country:de/land:bw/wahlkreis:uckermark--barnim_i,Uckermark - Barnim I
-ocd-division/country:de/land:bw/wahlkreis:ulm,Ulm
-ocd-division/country:de/land:bw/wahlkreis:unna_i,Unna I
-ocd-division/country:de/land:bw/wahlkreis:unterems,Unterems
-ocd-division/country:de/land:bw/wahlkreis:viersen,Viersen
-ocd-division/country:de/land:bw/wahlkreis:vogtlandkreis,Vogtlandkreis
-ocd-division/country:de/land:bw/wahlkreis:vorpommern-rügen--vorpommern-greifswald_i,Vorpommern-Rügen - Vorpommern-Greifswald I
-ocd-division/country:de/land:bw/wahlkreis:waiblingen,Waiblingen
-ocd-division/country:de/land:bw/wahlkreis:waldeck,Waldeck
-ocd-division/country:de/land:bw/wahlkreis:waldshut,Waldshut
-ocd-division/country:de/land:bw/wahlkreis:warendorf,Warendorf
-ocd-division/country:de/land:bw/wahlkreis:weiden,Weiden
-ocd-division/country:de/land:bw/wahlkreis:weilheim,Weilheim
-ocd-division/country:de/land:bw/wahlkreis:werra-meißner--hersfeld-rotenburg,Werra-Meißner - Hersfeld-Rotenburg
-ocd-division/country:de/land:bw/wahlkreis:wesel_i,Wesel I
-ocd-division/country:de/land:bw/wahlkreis:wetterau_i,Wetterau I
-ocd-division/country:de/land:bw/wahlkreis:wiesbaden,Wiesbaden
-ocd-division/country:de/land:bw/wahlkreis:worms,Worms
-ocd-division/country:de/land:bw/wahlkreis:wuppertal_i,Wuppertal I
-ocd-division/country:de/land:bw/wahlkreis:würzburg,Würzburg
-ocd-division/country:de/land:bw/wahlkreis:zollernalb--sigmaringen,Zollernalb - Sigmaringen
-ocd-division/country:de/land:bw/wahlkreis:zwickau,Zwickau
-ocd-division/country:de/land:by,Bayern
-ocd-division/country:de/land:hb,Bremen
-ocd-division/country:de/land:he,Hessen
-ocd-division/country:de/land:hh,Hamburg
-ocd-division/country:de/land:mv,Mecklenburg-Vorpommern
-ocd-division/country:de/land:ni,Niedersachsen
-ocd-division/country:de/land:nw,Nordrhein-Westfalen
-ocd-division/country:de/land:rp,Rheinland-Pfalz
-ocd-division/country:de/land:sh,Schleswig-Holstein
-ocd-division/country:de/land:sl,Saarland
-ocd-division/country:de/land:sn,Sachsen
-ocd-division/country:de/land:st,Sachsen-Anhalt
-ocd-division/country:de/land:th,Thüringen
+id,name,sameAs,sameAsNote
+ocd-division/country:de,Deutschland,,
+ocd-division/country:de/land:bb,Brandenburg,ocd-division/country:de/state:bb,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:bb/wahlkreis:brandenburg_an_der_havel_~_potsdam-mittelmark_i_~_havelland_iii_~_teltow-fläming_i,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,ocd-division/country:de/state:bb/cd:60,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bb/wahlkreis:cottbus_~_spree-neiße,Cottbus – Spree-Neiße,ocd-division/country:de/state:bb/cd:64,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bb/wahlkreis:dahme-spreewald_~_teltow-fläming_iii_~_oberspreewald-lausitz_i,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,ocd-division/country:de/state:bb/cd:62,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bb/wahlkreis:elbe-elster_~_oberspreewald-lausitz_ii,Elbe-Elster – Oberspreewald-Lausitz II,ocd-division/country:de/state:bb/cd:65,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bb/wahlkreis:frankfurt_oder_~_oder-spree,Frankfurt (Oder) – Oder-Spree,ocd-division/country:de/state:bb/cd:63,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bb/wahlkreis:märkisch-oderland_~_barnim_ii,Märkisch-Oderland – Barnim II,ocd-division/country:de/state:bb/cd:59,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bb/wahlkreis:oberhavel_~_havelland_ii,Oberhavel – Havelland II,ocd-division/country:de/state:bb/cd:58,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bb/wahlkreis:potsdam_~_potsdam-mittelmark_ii_~_teltow-fläming_ii,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,ocd-division/country:de/state:bb/cd:61,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bb/wahlkreis:prignitz_~_ostprignitz-ruppin_~_havelland_i,Prignitz – Ostprignitz-Ruppin – Havelland I,ocd-division/country:de/state:bb/cd:56,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bb/wahlkreis:uckermark_~_barnim_i,Uckermark – Barnim I,ocd-division/country:de/state:bb/cd:57,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:be,Berlin,ocd-division/country:de/state:be,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:be/wahlkreis:berlin-charlottenburg-wilmersdorf,Berlin-Charlottenburg-Wilmersdorf,ocd-division/country:de/state:be/cd:80,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:be/wahlkreis:berlin-friedrichshain-kreuzberg_~_prenzlauer_berg_ost,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,ocd-division/country:de/state:be/cd:83,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:be/wahlkreis:berlin-lichtenberg,Berlin-Lichtenberg,ocd-division/country:de/state:be/cd:86,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:be/wahlkreis:berlin-marzahn-hellersdorf,Berlin-Marzahn-Hellersdorf,ocd-division/country:de/state:be/cd:85,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:be/wahlkreis:berlin-mitte,Berlin-Mitte,ocd-division/country:de/state:be/cd:75,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:be/wahlkreis:berlin-neukölln,Berlin-Neukölln,ocd-division/country:de/state:be/cd:82,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:be/wahlkreis:berlin-pankow,Berlin-Pankow,ocd-division/country:de/state:be/cd:76,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:be/wahlkreis:berlin-reinickendorf,Berlin-Reinickendorf,ocd-division/country:de/state:be/cd:77,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:be/wahlkreis:berlin-spandau_~_charlottenburg_nord,Berlin-Spandau – Charlottenburg Nord,ocd-division/country:de/state:be/cd:78,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:be/wahlkreis:berlin-steglitz-zehlendorf,Berlin-Steglitz-Zehlendorf,ocd-division/country:de/state:be/cd:79,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:be/wahlkreis:berlin-tempelhof-schöneberg,Berlin-Tempelhof-Schöneberg,ocd-division/country:de/state:be/cd:81,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:be/wahlkreis:berlin-treptow-köpenick,Berlin-Treptow-Köpenick,ocd-division/country:de/state:be/cd:84,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw,Baden-Württemberg,ocd-division/country:de/state:bw,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:bw/wahlkreis:aalen_~_heidenheim,Aalen – Heidenheim,ocd-division/country:de/state:bw/cd:270,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:backnang_~_schwäbisch_gmünd,Backnang – Schwäbisch Gmünd,ocd-division/country:de/state:bw/cd:269,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:biberach,Biberach,ocd-division/country:de/state:bw/cd:292,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:bodensee,Bodensee,ocd-division/country:de/state:bw/cd:293,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:bruchsal_~_schwetzingen,Bruchsal – Schwetzingen,ocd-division/country:de/state:bw/cd:278,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:böblingen,Böblingen,ocd-division/country:de/state:bw/cd:260,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:calw,Calw,ocd-division/country:de/state:bw/cd:280,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:emmendingen_~_lahr,Emmendingen – Lahr,ocd-division/country:de/state:bw/cd:283,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:esslingen,Esslingen,ocd-division/country:de/state:bw/cd:261,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:freiburg,Freiburg,ocd-division/country:de/state:bw/cd:281,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:göppingen,Göppingen,ocd-division/country:de/state:bw/cd:263,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:heidelberg,Heidelberg,ocd-division/country:de/state:bw/cd:274,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:heilbronn,Heilbronn,ocd-division/country:de/state:bw/cd:267,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:karlsruhe-land,Karlsruhe-Land,ocd-division/country:de/state:bw/cd:272,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:karlsruhe-stadt,Karlsruhe-Stadt,ocd-division/country:de/state:bw/cd:271,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:konstanz,Konstanz,ocd-division/country:de/state:bw/cd:287,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:ludwigsburg,Ludwigsburg,ocd-division/country:de/state:bw/cd:265,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:lörrach_~_müllheim,Lörrach – Müllheim,ocd-division/country:de/state:bw/cd:282,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:mannheim,Mannheim,ocd-division/country:de/state:bw/cd:275,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:neckar-zaber,Neckar-Zaber,ocd-division/country:de/state:bw/cd:266,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:nürtingen,Nürtingen,ocd-division/country:de/state:bw/cd:262,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:odenwald_~_tauber,Odenwald – Tauber,ocd-division/country:de/state:bw/cd:276,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:offenburg,Offenburg,ocd-division/country:de/state:bw/cd:284,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:pforzheim,Pforzheim,ocd-division/country:de/state:bw/cd:279,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:rastatt,Rastatt,ocd-division/country:de/state:bw/cd:273,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:ravensburg,Ravensburg,ocd-division/country:de/state:bw/cd:294,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:reutlingen,Reutlingen,ocd-division/country:de/state:bw/cd:289,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:rhein-neckar,Rhein-Neckar,ocd-division/country:de/state:bw/cd:277,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:rottweil_~_tuttlingen,Rottweil – Tuttlingen,ocd-division/country:de/state:bw/cd:285,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:schwarzwald-baar,Schwarzwald-Baar,ocd-division/country:de/state:bw/cd:286,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:schwäbisch_hall_~_hohenlohe,Schwäbisch Hall – Hohenlohe,ocd-division/country:de/state:bw/cd:268,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:stuttgart_i,Stuttgart I,ocd-division/country:de/state:bw/cd:258,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:stuttgart_ii,Stuttgart II,ocd-division/country:de/state:bw/cd:259,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:tübingen,Tübingen,ocd-division/country:de/state:bw/cd:290,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:ulm,Ulm,ocd-division/country:de/state:bw/cd:291,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:waiblingen,Waiblingen,ocd-division/country:de/state:bw/cd:264,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:waldshut,Waldshut,ocd-division/country:de/state:bw/cd:288,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:bw/wahlkreis:zollernalb_~_sigmaringen,Zollernalb – Sigmaringen,ocd-division/country:de/state:bw/cd:295,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by,Bayern,ocd-division/country:de/state:by,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:by/wahlkreis:altötting,Altötting,ocd-division/country:de/state:by/cd:212,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:amberg,Amberg,ocd-division/country:de/state:by/cd:232,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:ansbach,Ansbach,ocd-division/country:de/state:by/cd:241,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:aschaffenburg,Aschaffenburg,ocd-division/country:de/state:by/cd:247,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:augsburg-land,Augsburg-Land,ocd-division/country:de/state:by/cd:253,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:augsburg-stadt,Augsburg-Stadt,ocd-division/country:de/state:by/cd:252,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:bad_kissingen,Bad Kissingen,ocd-division/country:de/state:by/cd:248,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:bad_tölz-wolfratshausen_~_miesbach,Bad Tölz-Wolfratshausen – Miesbach,ocd-division/country:de/state:by/cd:223,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:bamberg,Bamberg,ocd-division/country:de/state:by/cd:236,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:bayreuth,Bayreuth,ocd-division/country:de/state:by/cd:237,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:coburg,Coburg,ocd-division/country:de/state:by/cd:238,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:deggendorf,Deggendorf,ocd-division/country:de/state:by/cd:227,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:donau-ries,Donau-Ries,ocd-division/country:de/state:by/cd:254,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:erding_~_ebersberg,Erding – Ebersberg,ocd-division/country:de/state:by/cd:213,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:erlangen,Erlangen,ocd-division/country:de/state:by/cd:242,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:freising,Freising,ocd-division/country:de/state:by/cd:214,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:fürstenfeldbruck,Fürstenfeldbruck,ocd-division/country:de/state:by/cd:215,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:fürth,Fürth,ocd-division/country:de/state:by/cd:243,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:hof,Hof,ocd-division/country:de/state:by/cd:239,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:ingolstadt,Ingolstadt,ocd-division/country:de/state:by/cd:216,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:kulmbach,Kulmbach,ocd-division/country:de/state:by/cd:240,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:landshut,Landshut,ocd-division/country:de/state:by/cd:228,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:main-spessart,Main-Spessart,ocd-division/country:de/state:by/cd:249,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:münchen-land,München-Land,ocd-division/country:de/state:by/cd:221,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:münchen-nord,München-Nord,ocd-division/country:de/state:by/cd:217,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:münchen-ost,München-Ost,ocd-division/country:de/state:by/cd:218,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:münchen-süd,München-Süd,ocd-division/country:de/state:by/cd:219,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:münchen-west~mitte,München-West/Mitte,ocd-division/country:de/state:by/cd:220,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:neu-ulm,Neu-Ulm,ocd-division/country:de/state:by/cd:255,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:nürnberg-nord,Nürnberg-Nord,ocd-division/country:de/state:by/cd:244,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:nürnberg-süd,Nürnberg-Süd,ocd-division/country:de/state:by/cd:245,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:oberallgäu,Oberallgäu,ocd-division/country:de/state:by/cd:256,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:ostallgäu,Ostallgäu,ocd-division/country:de/state:by/cd:257,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:passau,Passau,ocd-division/country:de/state:by/cd:229,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:regensburg,Regensburg,ocd-division/country:de/state:by/cd:233,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:rosenheim,Rosenheim,ocd-division/country:de/state:by/cd:222,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:roth,Roth,ocd-division/country:de/state:by/cd:246,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:rottal-inn,Rottal-Inn,ocd-division/country:de/state:by/cd:230,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:schwandorf,Schwandorf,ocd-division/country:de/state:by/cd:234,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:schweinfurt,Schweinfurt,ocd-division/country:de/state:by/cd:250,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:starnberg_~_landsberg_am_lech,Starnberg – Landsberg am Lech,ocd-division/country:de/state:by/cd:224,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:straubing,Straubing,ocd-division/country:de/state:by/cd:231,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:traunstein,Traunstein,ocd-division/country:de/state:by/cd:225,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:weiden,Weiden,ocd-division/country:de/state:by/cd:235,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:weilheim,Weilheim,ocd-division/country:de/state:by/cd:226,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:by/wahlkreis:würzburg,Würzburg,ocd-division/country:de/state:by/cd:251,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:hb,Bremen,ocd-division/country:de/state:hb,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:hb/wahlkreis:bremen_i,Bremen I,ocd-division/country:de/state:hb/cd:54,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:hb/wahlkreis:bremen_ii_~_bremerhaven,Bremen II – Bremerhaven,ocd-division/country:de/state:hb/cd:55,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he,Hessen,ocd-division/country:de/state:he,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:he/wahlkreis:bergstraße,Bergstraße,ocd-division/country:de/state:he/cd:188,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:darmstadt,Darmstadt,ocd-division/country:de/state:he/cd:186,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:frankfurt_am_main_i,Frankfurt am Main I,ocd-division/country:de/state:he/cd:182,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:frankfurt_am_main_ii,Frankfurt am Main II,ocd-division/country:de/state:he/cd:183,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:fulda,Fulda,ocd-division/country:de/state:he/cd:174,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:gießen,Gießen,ocd-division/country:de/state:he/cd:173,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:groß-gerau,Groß-Gerau,ocd-division/country:de/state:he/cd:184,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:hanau,Hanau,ocd-division/country:de/state:he/cd:180,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:hochtaunus,Hochtaunus,ocd-division/country:de/state:he/cd:176,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:kassel,Kassel,ocd-division/country:de/state:he/cd:168,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:lahn-dill,Lahn-Dill,ocd-division/country:de/state:he/cd:172,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:main-kinzig_~_wetterau_ii_~_schotten,Main-Kinzig – Wetterau II – Schotten,ocd-division/country:de/state:he/cd:175,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:main-taunus,Main-Taunus,ocd-division/country:de/state:he/cd:181,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:marburg,Marburg,ocd-division/country:de/state:he/cd:171,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:odenwald,Odenwald,ocd-division/country:de/state:he/cd:187,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:offenbach,Offenbach,ocd-division/country:de/state:he/cd:185,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:rheingau-taunus_~_limburg,Rheingau-Taunus – Limburg,ocd-division/country:de/state:he/cd:178,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:schwalm-eder,Schwalm-Eder,ocd-division/country:de/state:he/cd:170,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:waldeck,Waldeck,ocd-division/country:de/state:he/cd:167,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:werra-meißner_~_hersfeld-rotenburg,Werra-Meißner – Hersfeld-Rotenburg,ocd-division/country:de/state:he/cd:169,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:wetterau_i,Wetterau I,ocd-division/country:de/state:he/cd:177,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:he/wahlkreis:wiesbaden,Wiesbaden,ocd-division/country:de/state:he/cd:179,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:hh,Hamburg,ocd-division/country:de/state:hh,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:hh/wahlkreis:hamburg-altona,Hamburg-Altona,ocd-division/country:de/state:hh/cd:19,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:hh/wahlkreis:hamburg-bergedorf_~_harburg,Hamburg-Bergedorf – Harburg,ocd-division/country:de/state:hh/cd:23,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:hh/wahlkreis:hamburg-eimsbüttel,Hamburg-Eimsbüttel,ocd-division/country:de/state:hh/cd:20,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:hh/wahlkreis:hamburg-mitte,Hamburg-Mitte,ocd-division/country:de/state:hh/cd:18,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:hh/wahlkreis:hamburg-nord,Hamburg-Nord,ocd-division/country:de/state:hh/cd:21,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:hh/wahlkreis:hamburg-wandsbek,Hamburg-Wandsbek,ocd-division/country:de/state:hh/cd:22,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:mv,Mecklenburg-Vorpommern,ocd-division/country:de/state:mv,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:mv/wahlkreis:ludwigslust-parchim_ii_~_nordwestmecklenburg_ii_~_landkreis_rostock_i,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,ocd-division/country:de/state:mv/cd:13,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:mv/wahlkreis:mecklenburgische_seenplatte_i_~_vorpommern-greifswald_ii,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,ocd-division/country:de/state:mv/cd:16,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:mv/wahlkreis:mecklenburgische_seenplatte_ii_~_landkreis_rostock_iii,Mecklenburgische Seenplatte II – Landkreis Rostock III,ocd-division/country:de/state:mv/cd:17,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:mv/wahlkreis:rostock_~_landkreis_rostock_ii,Rostock – Landkreis Rostock II,ocd-division/country:de/state:mv/cd:14,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:mv/wahlkreis:schwerin_~_ludwigslust-parchim_i_~_nordwestmecklenburg_i,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,ocd-division/country:de/state:mv/cd:12,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:mv/wahlkreis:vorpommern-rügen_~_vorpommern-greifswald_i,Vorpommern-Rügen – Vorpommern-Greifswald I,ocd-division/country:de/state:mv/cd:15,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni,Niedersachen,ocd-division/country:de/state:ni,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:ni/wahlkreis:aurich_~_emden,Aurich – Emden,ocd-division/country:de/state:ni/cd:24,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:braunschweig,Braunschweig,ocd-division/country:de/state:ni/cd:50,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:celle_~_uelzen,Celle – Uelzen,ocd-division/country:de/state:ni/cd:44,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:cloppenburg_~_vechta,Cloppenburg – Vechta,ocd-division/country:de/state:ni/cd:32,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:cuxhaven_~_stade_ii,Cuxhaven – Stade II,ocd-division/country:de/state:ni/cd:29,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:delmenhorst_~_wesermarsch_~_oldenburg-land,Delmenhorst – Wesermarsch – Oldenburg-Land,ocd-division/country:de/state:ni/cd:28,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:diepholz_~_nienburg_i,Diepholz – Nienburg I,ocd-division/country:de/state:ni/cd:33,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:friesland_~_wilhelmshaven_~_wittmund,Friesland – Wilhelmshaven – Wittmund,ocd-division/country:de/state:ni/cd:26,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:gifhorn_~_peine,Gifhorn – Peine,ocd-division/country:de/state:ni/cd:45,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:goslar_~_northeim_~_osterode,Goslar – Northeim – Osterode,ocd-division/country:de/state:ni/cd:52,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:göttingen,Göttingen,ocd-division/country:de/state:ni/cd:53,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:hameln-pyrmont_~_holzminden,Hameln-Pyrmont – Holzminden,ocd-division/country:de/state:ni/cd:46,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:hannover-land_i,Hannover-Land I,ocd-division/country:de/state:ni/cd:43,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:hannover-land_ii,Hannover-Land II,ocd-division/country:de/state:ni/cd:47,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:harburg,Harburg,ocd-division/country:de/state:ni/cd:36,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:helmstedt_~_wolfsburg,Helmstedt – Wolfsburg,ocd-division/country:de/state:ni/cd:51,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:hildesheim,Hildesheim,ocd-division/country:de/state:ni/cd:48,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:lüchow-dannenberg_~_lüneburg,Lüchow-Dannenberg – Lüneburg,ocd-division/country:de/state:ni/cd:37,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:mittelems,Mittelems,ocd-division/country:de/state:ni/cd:31,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:nienburg_ii_~_schaumburg,Nienburg II – Schaumburg,ocd-division/country:de/state:ni/cd:40,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:oldenburg_~_ammerland,Oldenburg – Ammerland,ocd-division/country:de/state:ni/cd:27,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:osnabrück-land,Osnabrück-Land,ocd-division/country:de/state:ni/cd:38,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:osterholz_~_verden,Osterholz – Verden,ocd-division/country:de/state:ni/cd:34,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:rotenburg_i_~_heidekreis,Rotenburg I – Heidekreis,ocd-division/country:de/state:ni/cd:35,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:salzgitter_~_wolfenbüttel,Salzgitter – Wolfenbüttel,ocd-division/country:de/state:ni/cd:49,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:stade_i_~_rotenburg_ii,Stade I – Rotenburg II,ocd-division/country:de/state:ni/cd:30,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:stadt_hannover_i,Stadt Hannover I,ocd-division/country:de/state:ni/cd:41,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:stadt_hannover_ii,Stadt Hannover II,ocd-division/country:de/state:ni/cd:42,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:stadt_osnabrück,Stadt Osnabrück,ocd-division/country:de/state:ni/cd:39,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:ni/wahlkreis:unterems,Unterems,ocd-division/country:de/state:ni/cd:25,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw,Nordrhein-Westfalen,ocd-division/country:de/state:nw,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:nw/wahlkreis:aachen_i,Aachen I,ocd-division/country:de/state:nw/cd:87,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:aachen_ii,Aachen II,ocd-division/country:de/state:nw/cd:88,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:bielefeld_~_gütersloh_ii,Bielefeld – Gütersloh II,ocd-division/country:de/state:nw/cd:132,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:bochum_i,Bochum I,ocd-division/country:de/state:nw/cd:140,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:bonn,Bonn,ocd-division/country:de/state:nw/cd:96,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:borken_ii,Borken II,ocd-division/country:de/state:nw/cd:126,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:bottrop_~_recklinghausen_iii,Bottrop – Recklinghausen III,ocd-division/country:de/state:nw/cd:125,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:coesfeld_~_steinfurt_ii,Coesfeld – Steinfurt II,ocd-division/country:de/state:nw/cd:127,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:dortmund_i,Dortmund I,ocd-division/country:de/state:nw/cd:142,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:dortmund_ii,Dortmund II,ocd-division/country:de/state:nw/cd:143,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:duisburg_i,Duisburg I,ocd-division/country:de/state:nw/cd:115,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:duisburg_ii,Duisburg II,ocd-division/country:de/state:nw/cd:116,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:düren,Düren,ocd-division/country:de/state:nw/cd:90,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:düsseldorf_i,Düsseldorf I,ocd-division/country:de/state:nw/cd:106,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:düsseldorf_ii,Düsseldorf II,ocd-division/country:de/state:nw/cd:107,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:ennepe-ruhr-kreis_ii,Ennepe-Ruhr-Kreis II,ocd-division/country:de/state:nw/cd:139,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:essen_ii,Essen II,ocd-division/country:de/state:nw/cd:119,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:essen_iii,Essen III,ocd-division/country:de/state:nw/cd:120,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:euskirchen_~_rhein-erft-kreis_ii,Euskirchen – Rhein-Erft-Kreis II,ocd-division/country:de/state:nw/cd:92,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:gelsenkirchen,Gelsenkirchen,ocd-division/country:de/state:nw/cd:123,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:gütersloh_i,Gütersloh I,ocd-division/country:de/state:nw/cd:131,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:hagen_~_ennepe-ruhr-kreis_i,Hagen – Ennepe-Ruhr-Kreis I,ocd-division/country:de/state:nw/cd:138,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:hamm_~_unna_ii,Hamm – Unna II,ocd-division/country:de/state:nw/cd:145,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:heinsberg,Heinsberg,ocd-division/country:de/state:nw/cd:89,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:herford_~_minden-lübbecke_ii,Herford – Minden-Lübbecke II,ocd-division/country:de/state:nw/cd:133,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:herne_~_bochum_ii,Herne – Bochum II,ocd-division/country:de/state:nw/cd:141,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:hochsauerlandkreis,Hochsauerlandkreis,ocd-division/country:de/state:nw/cd:147,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:höxter_~_lippe_ii,Höxter – Lippe II,ocd-division/country:de/state:nw/cd:136,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:kleve,Kleve,ocd-division/country:de/state:nw/cd:112,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:krefeld_i_~_neuss_ii,Krefeld I – Neuss II,ocd-division/country:de/state:nw/cd:110,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:krefeld_ii_~_wesel_ii,Krefeld II – Wesel II,ocd-division/country:de/state:nw/cd:114,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:köln_i,Köln I,ocd-division/country:de/state:nw/cd:93,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:köln_ii,Köln II,ocd-division/country:de/state:nw/cd:94,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:köln_iii,Köln III,ocd-division/country:de/state:nw/cd:95,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:leverkusen_~_köln_iv,Leverkusen – Köln IV,ocd-division/country:de/state:nw/cd:101,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:lippe_i,Lippe I,ocd-division/country:de/state:nw/cd:135,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:mettmann_i,Mettmann I,ocd-division/country:de/state:nw/cd:104,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:mettmann_ii,Mettmann II,ocd-division/country:de/state:nw/cd:105,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:minden-lübbecke_i,Minden-Lübbecke I,ocd-division/country:de/state:nw/cd:134,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:märkischer_kreis_ii,Märkischer Kreis II,ocd-division/country:de/state:nw/cd:150,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:mönchengladbach,Mönchengladbach,ocd-division/country:de/state:nw/cd:109,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:mülheim_~_essen_i,Mülheim – Essen I,ocd-division/country:de/state:nw/cd:118,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:münster,Münster,ocd-division/country:de/state:nw/cd:129,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:neuss_i,Neuss I,ocd-division/country:de/state:nw/cd:108,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:oberbergischer_kreis,Oberbergischer Kreis,ocd-division/country:de/state:nw/cd:99,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:oberhausen_~_wesel_iii,Oberhausen – Wesel III,ocd-division/country:de/state:nw/cd:117,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:olpe_~_märkischer_kreis_i,Olpe – Märkischer Kreis I,ocd-division/country:de/state:nw/cd:149,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:paderborn_~_gütersloh_iii,Paderborn – Gütersloh III,ocd-division/country:de/state:nw/cd:137,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:recklinghausen_i,Recklinghausen I,ocd-division/country:de/state:nw/cd:121,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:recklinghausen_ii,Recklinghausen II,ocd-division/country:de/state:nw/cd:122,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:rhein-erft-kreis_i,Rhein-Erft-Kreis I,ocd-division/country:de/state:nw/cd:91,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:rhein-sieg-kreis_i,Rhein-Sieg-Kreis I,ocd-division/country:de/state:nw/cd:97,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:rhein-sieg-kreis_ii,Rhein-Sieg-Kreis II,ocd-division/country:de/state:nw/cd:98,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:rheinisch-bergischer_kreis,Rheinisch-Bergischer Kreis,ocd-division/country:de/state:nw/cd:100,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:siegen-wittgenstein,Siegen-Wittgenstein,ocd-division/country:de/state:nw/cd:148,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:soest,Soest,ocd-division/country:de/state:nw/cd:146,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:solingen_~_remscheid_~_wuppertal_ii,Solingen – Remscheid – Wuppertal II,ocd-division/country:de/state:nw/cd:103,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:steinfurt_i_~_borken_i,Steinfurt I – Borken I,ocd-division/country:de/state:nw/cd:124,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:steinfurt_iii,Steinfurt III,ocd-division/country:de/state:nw/cd:128,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:unna_i,Unna I,ocd-division/country:de/state:nw/cd:144,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:viersen,Viersen,ocd-division/country:de/state:nw/cd:111,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:warendorf,Warendorf,ocd-division/country:de/state:nw/cd:130,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:wesel_i,Wesel I,ocd-division/country:de/state:nw/cd:113,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:wuppertal_i,Wuppertal I,ocd-division/country:de/state:nw/cd:102,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp,Rheinland-Pfalz,ocd-division/country:de/state:rp,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:rp/wahlkreis:ahrweiler,Ahrweiler,ocd-division/country:de/state:rp/cd:198,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:bitburg,Bitburg,ocd-division/country:de/state:rp/cd:202,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:kaiserslautern,Kaiserslautern,ocd-division/country:de/state:rp/cd:209,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:koblenz,Koblenz,ocd-division/country:de/state:rp/cd:199,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:kreuznach,Kreuznach,ocd-division/country:de/state:rp/cd:201,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:ludwigshafen~frankenthal,Ludwigshafen/Frankenthal,ocd-division/country:de/state:rp/cd:207,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:mainz,Mainz,ocd-division/country:de/state:rp/cd:205,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:montabaur,Montabaur,ocd-division/country:de/state:rp/cd:204,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:mosel~rhein-hunsrück,Mosel/Rhein-Hunsrück,ocd-division/country:de/state:rp/cd:200,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:neustadt_~_speyer,Neustadt – Speyer,ocd-division/country:de/state:rp/cd:208,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:neuwied,Neuwied,ocd-division/country:de/state:rp/cd:197,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:pirmasens,Pirmasens,ocd-division/country:de/state:rp/cd:210,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:südpfalz,Südpfalz,ocd-division/country:de/state:rp/cd:211,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:trier,Trier,ocd-division/country:de/state:rp/cd:203,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:rp/wahlkreis:worms,Worms,ocd-division/country:de/state:rp/cd:206,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sh,Schleswig-Holstein,ocd-division/country:de/state:sh,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:sh/wahlkreis:flensburg_~_schleswig,Flensburg – Schleswig,ocd-division/country:de/state:sh/cd:1,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sh/wahlkreis:herzogtum_lauenburg_~_stormarn-süd,Herzogtum Lauenburg – Stormarn-Süd,ocd-division/country:de/state:sh/cd:10,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sh/wahlkreis:kiel,Kiel,ocd-division/country:de/state:sh/cd:5,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sh/wahlkreis:lübeck,Lübeck,ocd-division/country:de/state:sh/cd:11,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sh/wahlkreis:nordfriesland_~_dithmarschen_nord,Nordfriesland – Dithmarschen Nord,ocd-division/country:de/state:sh/cd:2,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sh/wahlkreis:ostholstein_~_stormarn-nord,Ostholstein – Stormarn-Nord,ocd-division/country:de/state:sh/cd:9,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sh/wahlkreis:pinneberg,Pinneberg,ocd-division/country:de/state:sh/cd:7,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sh/wahlkreis:plön_~_neumünster,Plön – Neumünster,ocd-division/country:de/state:sh/cd:6,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sh/wahlkreis:rendsburg-eckernförde,Rendsburg-Eckernförde,ocd-division/country:de/state:sh/cd:4,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sh/wahlkreis:segeberg_~_stormarn-mitte,Segeberg – Stormarn-Mitte,ocd-division/country:de/state:sh/cd:8,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sh/wahlkreis:steinburg_~_dithmarschen_süd,Steinburg – Dithmarschen Süd,ocd-division/country:de/state:sh/cd:3,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sl,Saarland,ocd-division/country:de/state:sl,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:sl/wahlkreis:homburg,Homburg,ocd-division/country:de/state:sl/cd:299,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sl/wahlkreis:saarbrücken,Saarbrücken,ocd-division/country:de/state:sl/cd:296,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sl/wahlkreis:saarlouis,Saarlouis,ocd-division/country:de/state:sl/cd:297,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sl/wahlkreis:st._wendel,St. Wendel,ocd-division/country:de/state:sl/cd:298,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn,Sachsen,ocd-division/country:de/state:sn,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:sn/wahlkreis:bautzen_i,Bautzen I,ocd-division/country:de/state:sn/cd:156,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:chemnitz,Chemnitz,ocd-division/country:de/state:sn/cd:162,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:chemnitzer_umland_~_erzgebirgskreis_ii,Chemnitzer Umland – Erzgebirgskreis II,ocd-division/country:de/state:sn/cd:163,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:dresden_i,Dresden I,ocd-division/country:de/state:sn/cd:159,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:dresden_ii_~_bautzen_ii,Dresden II – Bautzen II,ocd-division/country:de/state:sn/cd:160,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:erzgebirgskreis_i,Erzgebirgskreis I,ocd-division/country:de/state:sn/cd:164,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:görlitz,Görlitz,ocd-division/country:de/state:sn/cd:157,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:leipzig-land,Leipzig-Land,ocd-division/country:de/state:sn/cd:154,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:leipzig_i,Leipzig I,ocd-division/country:de/state:sn/cd:152,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:leipzig_ii,Leipzig II,ocd-division/country:de/state:sn/cd:153,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:meißen,Meißen,ocd-division/country:de/state:sn/cd:155,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:mittelsachsen,Mittelsachsen,ocd-division/country:de/state:sn/cd:161,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:nordsachsen,Nordsachsen,ocd-division/country:de/state:sn/cd:151,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:sächsische_schweiz-osterzgebirge,Sächsische Schweiz-Osterzgebirge,ocd-division/country:de/state:sn/cd:158,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:vogtlandkreis,Vogtlandkreis,ocd-division/country:de/state:sn/cd:166,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:sn/wahlkreis:zwickau,Zwickau,ocd-division/country:de/state:sn/cd:165,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:st,Sachsen-Anhalt,ocd-division/country:de/state:st,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:st/wahlkreis:altmark,Altmark,ocd-division/country:de/state:st/cd:66,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:st/wahlkreis:anhalt,Anhalt,ocd-division/country:de/state:st/cd:71,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:st/wahlkreis:burgenland_~_saalekreis,Burgenland – Saalekreis,ocd-division/country:de/state:st/cd:73,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:st/wahlkreis:börde_~_jerichower_land,Börde – Jerichower Land,ocd-division/country:de/state:st/cd:67,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:st/wahlkreis:dessau_~_wittenberg,Dessau – Wittenberg,ocd-division/country:de/state:st/cd:70,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:st/wahlkreis:halle,Halle,ocd-division/country:de/state:st/cd:72,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:st/wahlkreis:harz,Harz,ocd-division/country:de/state:st/cd:68,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:st/wahlkreis:magdeburg,Magdeburg,ocd-division/country:de/state:st/cd:69,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:st/wahlkreis:mansfeld,Mansfeld,ocd-division/country:de/state:st/cd:74,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:th,Thüringen,ocd-division/country:de/state:th,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:th/wahlkreis:eichsfeld_~_nordhausen_~_kyffhäuserkreis,Eichsfeld – Nordhausen – Kyffhäuserkreis,ocd-division/country:de/state:th/cd:189,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:th/wahlkreis:eisenach_~_wartburgkreis_~_unstrut-hainich-kreis,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,ocd-division/country:de/state:th/cd:190,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:th/wahlkreis:erfurt_~_weimar_~_weimarer_land_ii,Erfurt – Weimar – Weimarer Land II,ocd-division/country:de/state:th/cd:193,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:th/wahlkreis:gera_~_greiz_~_altenburger_land,Gera – Greiz – Altenburger Land,ocd-division/country:de/state:th/cd:194,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:th/wahlkreis:gotha_~_ilm-kreis,Gotha – Ilm-Kreis,ocd-division/country:de/state:th/cd:192,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:th/wahlkreis:jena_~_sömmerda_~_weimarer_land_i,Jena – Sömmerda – Weimarer Land I,ocd-division/country:de/state:th/cd:191,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:th/wahlkreis:saalfeld-rudolstadt_~_saale-holzland-kreis_~_saale-orla-kreis,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,ocd-division/country:de/state:th/cd:195,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:th/wahlkreis:suhl_~_schmalkalden-meiningen_~_hildburghausen_~_sonneberg,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,ocd-division/country:de/state:th/cd:196,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/state:bb,Brandenburg,,
+ocd-division/country:de/state:bb/cd:56,Prignitz – Ostprignitz-Ruppin – Havelland I,,
+ocd-division/country:de/state:bb/cd:57,Uckermark – Barnim I,,
+ocd-division/country:de/state:bb/cd:58,Oberhavel – Havelland II,,
+ocd-division/country:de/state:bb/cd:59,Märkisch-Oderland – Barnim II,,
+ocd-division/country:de/state:bb/cd:60,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,,
+ocd-division/country:de/state:bb/cd:61,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,,
+ocd-division/country:de/state:bb/cd:62,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,,
+ocd-division/country:de/state:bb/cd:63,Frankfurt (Oder) – Oder-Spree,,
+ocd-division/country:de/state:bb/cd:64,Cottbus – Spree-Neiße,,
+ocd-division/country:de/state:bb/cd:65,Elbe-Elster – Oberspreewald-Lausitz II,,
+ocd-division/country:de/state:be,Berlin,,
+ocd-division/country:de/state:be/cd:75,Berlin-Mitte,,
+ocd-division/country:de/state:be/cd:76,Berlin-Pankow,,
+ocd-division/country:de/state:be/cd:77,Berlin-Reinickendorf,,
+ocd-division/country:de/state:be/cd:78,Berlin-Spandau – Charlottenburg Nord,,
+ocd-division/country:de/state:be/cd:79,Berlin-Steglitz-Zehlendorf,,
+ocd-division/country:de/state:be/cd:80,Berlin-Charlottenburg-Wilmersdorf,,
+ocd-division/country:de/state:be/cd:81,Berlin-Tempelhof-Schöneberg,,
+ocd-division/country:de/state:be/cd:82,Berlin-Neukölln,,
+ocd-division/country:de/state:be/cd:83,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,,
+ocd-division/country:de/state:be/cd:84,Berlin-Treptow-Köpenick,,
+ocd-division/country:de/state:be/cd:85,Berlin-Marzahn-Hellersdorf,,
+ocd-division/country:de/state:be/cd:86,Berlin-Lichtenberg,,
+ocd-division/country:de/state:bw,Baden-Württemberg,,
+ocd-division/country:de/state:bw/cd:258,Stuttgart I,,
+ocd-division/country:de/state:bw/cd:259,Stuttgart II,,
+ocd-division/country:de/state:bw/cd:260,Böblingen,,
+ocd-division/country:de/state:bw/cd:261,Esslingen,,
+ocd-division/country:de/state:bw/cd:262,Nürtingen,,
+ocd-division/country:de/state:bw/cd:263,Göppingen,,
+ocd-division/country:de/state:bw/cd:264,Waiblingen,,
+ocd-division/country:de/state:bw/cd:265,Ludwigsburg,,
+ocd-division/country:de/state:bw/cd:266,Neckar-Zaber,,
+ocd-division/country:de/state:bw/cd:267,Heilbronn,,
+ocd-division/country:de/state:bw/cd:268,Schwäbisch Hall – Hohenlohe,,
+ocd-division/country:de/state:bw/cd:269,Backnang – Schwäbisch Gmünd,,
+ocd-division/country:de/state:bw/cd:270,Aalen – Heidenheim,,
+ocd-division/country:de/state:bw/cd:271,Karlsruhe-Stadt,,
+ocd-division/country:de/state:bw/cd:272,Karlsruhe-Land,,
+ocd-division/country:de/state:bw/cd:273,Rastatt,,
+ocd-division/country:de/state:bw/cd:274,Heidelberg,,
+ocd-division/country:de/state:bw/cd:275,Mannheim,,
+ocd-division/country:de/state:bw/cd:276,Odenwald – Tauber,,
+ocd-division/country:de/state:bw/cd:277,Rhein-Neckar,,
+ocd-division/country:de/state:bw/cd:278,Bruchsal – Schwetzingen,,
+ocd-division/country:de/state:bw/cd:279,Pforzheim,,
+ocd-division/country:de/state:bw/cd:280,Calw,,
+ocd-division/country:de/state:bw/cd:281,Freiburg,,
+ocd-division/country:de/state:bw/cd:282,Lörrach – Müllheim,,
+ocd-division/country:de/state:bw/cd:283,Emmendingen – Lahr,,
+ocd-division/country:de/state:bw/cd:284,Offenburg,,
+ocd-division/country:de/state:bw/cd:285,Rottweil – Tuttlingen,,
+ocd-division/country:de/state:bw/cd:286,Schwarzwald-Baar,,
+ocd-division/country:de/state:bw/cd:287,Konstanz,,
+ocd-division/country:de/state:bw/cd:288,Waldshut,,
+ocd-division/country:de/state:bw/cd:289,Reutlingen,,
+ocd-division/country:de/state:bw/cd:290,Tübingen,,
+ocd-division/country:de/state:bw/cd:291,Ulm,,
+ocd-division/country:de/state:bw/cd:292,Biberach,,
+ocd-division/country:de/state:bw/cd:293,Bodensee,,
+ocd-division/country:de/state:bw/cd:294,Ravensburg,,
+ocd-division/country:de/state:bw/cd:295,Zollernalb – Sigmaringen,,
+ocd-division/country:de/state:by,Bayern,,
+ocd-division/country:de/state:by/cd:212,Altötting,,
+ocd-division/country:de/state:by/cd:213,Erding – Ebersberg,,
+ocd-division/country:de/state:by/cd:214,Freising,,
+ocd-division/country:de/state:by/cd:215,Fürstenfeldbruck,,
+ocd-division/country:de/state:by/cd:216,Ingolstadt,,
+ocd-division/country:de/state:by/cd:217,München-Nord,,
+ocd-division/country:de/state:by/cd:218,München-Ost,,
+ocd-division/country:de/state:by/cd:219,München-Süd,,
+ocd-division/country:de/state:by/cd:220,München-West/Mitte,,
+ocd-division/country:de/state:by/cd:221,München-Land,,
+ocd-division/country:de/state:by/cd:222,Rosenheim,,
+ocd-division/country:de/state:by/cd:223,Bad Tölz-Wolfratshausen – Miesbach,,
+ocd-division/country:de/state:by/cd:224,Starnberg – Landsberg am Lech,,
+ocd-division/country:de/state:by/cd:225,Traunstein,,
+ocd-division/country:de/state:by/cd:226,Weilheim,,
+ocd-division/country:de/state:by/cd:227,Deggendorf,,
+ocd-division/country:de/state:by/cd:228,Landshut,,
+ocd-division/country:de/state:by/cd:229,Passau,,
+ocd-division/country:de/state:by/cd:230,Rottal-Inn,,
+ocd-division/country:de/state:by/cd:231,Straubing,,
+ocd-division/country:de/state:by/cd:232,Amberg,,
+ocd-division/country:de/state:by/cd:233,Regensburg,,
+ocd-division/country:de/state:by/cd:234,Schwandorf,,
+ocd-division/country:de/state:by/cd:235,Weiden,,
+ocd-division/country:de/state:by/cd:236,Bamberg,,
+ocd-division/country:de/state:by/cd:237,Bayreuth,,
+ocd-division/country:de/state:by/cd:238,Coburg,,
+ocd-division/country:de/state:by/cd:239,Hof,,
+ocd-division/country:de/state:by/cd:240,Kulmbach,,
+ocd-division/country:de/state:by/cd:241,Ansbach,,
+ocd-division/country:de/state:by/cd:242,Erlangen,,
+ocd-division/country:de/state:by/cd:243,Fürth,,
+ocd-division/country:de/state:by/cd:244,Nürnberg-Nord,,
+ocd-division/country:de/state:by/cd:245,Nürnberg-Süd,,
+ocd-division/country:de/state:by/cd:246,Roth,,
+ocd-division/country:de/state:by/cd:247,Aschaffenburg,,
+ocd-division/country:de/state:by/cd:248,Bad Kissingen,,
+ocd-division/country:de/state:by/cd:249,Main-Spessart,,
+ocd-division/country:de/state:by/cd:250,Schweinfurt,,
+ocd-division/country:de/state:by/cd:251,Würzburg,,
+ocd-division/country:de/state:by/cd:252,Augsburg-Stadt,,
+ocd-division/country:de/state:by/cd:253,Augsburg-Land,,
+ocd-division/country:de/state:by/cd:254,Donau-Ries,,
+ocd-division/country:de/state:by/cd:255,Neu-Ulm,,
+ocd-division/country:de/state:by/cd:256,Oberallgäu,,
+ocd-division/country:de/state:by/cd:257,Ostallgäu,,
+ocd-division/country:de/state:hb,Bremen,,
+ocd-division/country:de/state:hb/cd:54,Bremen I,,
+ocd-division/country:de/state:hb/cd:55,Bremen II – Bremerhaven,,
+ocd-division/country:de/state:he,Hessen,,
+ocd-division/country:de/state:he/cd:167,Waldeck,,
+ocd-division/country:de/state:he/cd:168,Kassel,,
+ocd-division/country:de/state:he/cd:169,Werra-Meißner – Hersfeld-Rotenburg,,
+ocd-division/country:de/state:he/cd:170,Schwalm-Eder,,
+ocd-division/country:de/state:he/cd:171,Marburg,,
+ocd-division/country:de/state:he/cd:172,Lahn-Dill,,
+ocd-division/country:de/state:he/cd:173,Gießen,,
+ocd-division/country:de/state:he/cd:174,Fulda,,
+ocd-division/country:de/state:he/cd:175,Main-Kinzig – Wetterau II – Schotten,,
+ocd-division/country:de/state:he/cd:176,Hochtaunus,,
+ocd-division/country:de/state:he/cd:177,Wetterau I,,
+ocd-division/country:de/state:he/cd:178,Rheingau-Taunus – Limburg,,
+ocd-division/country:de/state:he/cd:179,Wiesbaden,,
+ocd-division/country:de/state:he/cd:180,Hanau,,
+ocd-division/country:de/state:he/cd:181,Main-Taunus,,
+ocd-division/country:de/state:he/cd:182,Frankfurt am Main I,,
+ocd-division/country:de/state:he/cd:183,Frankfurt am Main II,,
+ocd-division/country:de/state:he/cd:184,Groß-Gerau,,
+ocd-division/country:de/state:he/cd:185,Offenbach,,
+ocd-division/country:de/state:he/cd:186,Darmstadt,,
+ocd-division/country:de/state:he/cd:187,Odenwald,,
+ocd-division/country:de/state:he/cd:188,Bergstraße,,
+ocd-division/country:de/state:hh,Hamburg,,
+ocd-division/country:de/state:hh/cd:18,Hamburg-Mitte,,
+ocd-division/country:de/state:hh/cd:19,Hamburg-Altona,,
+ocd-division/country:de/state:hh/cd:20,Hamburg-Eimsbüttel,,
+ocd-division/country:de/state:hh/cd:21,Hamburg-Nord,,
+ocd-division/country:de/state:hh/cd:22,Hamburg-Wandsbek,,
+ocd-division/country:de/state:hh/cd:23,Hamburg-Bergedorf – Harburg,,
+ocd-division/country:de/state:mv,Mecklenburg-Vorpommern,,
+ocd-division/country:de/state:mv/cd:12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,,
+ocd-division/country:de/state:mv/cd:13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,,
+ocd-division/country:de/state:mv/cd:14,Rostock – Landkreis Rostock II,,
+ocd-division/country:de/state:mv/cd:15,Vorpommern-Rügen – Vorpommern-Greifswald I,,
+ocd-division/country:de/state:mv/cd:16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,,
+ocd-division/country:de/state:mv/cd:17,Mecklenburgische Seenplatte II – Landkreis Rostock III,,
+ocd-division/country:de/state:ni,Niedersachen,,
+ocd-division/country:de/state:ni/cd:24,Aurich – Emden,,
+ocd-division/country:de/state:ni/cd:25,Unterems,,
+ocd-division/country:de/state:ni/cd:26,Friesland – Wilhelmshaven – Wittmund,,
+ocd-division/country:de/state:ni/cd:27,Oldenburg – Ammerland,,
+ocd-division/country:de/state:ni/cd:28,Delmenhorst – Wesermarsch – Oldenburg-Land,,
+ocd-division/country:de/state:ni/cd:29,Cuxhaven – Stade II,,
+ocd-division/country:de/state:ni/cd:30,Stade I – Rotenburg II,,
+ocd-division/country:de/state:ni/cd:31,Mittelems,,
+ocd-division/country:de/state:ni/cd:32,Cloppenburg – Vechta,,
+ocd-division/country:de/state:ni/cd:33,Diepholz – Nienburg I,,
+ocd-division/country:de/state:ni/cd:34,Osterholz – Verden,,
+ocd-division/country:de/state:ni/cd:35,Rotenburg I – Heidekreis,,
+ocd-division/country:de/state:ni/cd:36,Harburg,,
+ocd-division/country:de/state:ni/cd:37,Lüchow-Dannenberg – Lüneburg,,
+ocd-division/country:de/state:ni/cd:38,Osnabrück-Land,,
+ocd-division/country:de/state:ni/cd:39,Stadt Osnabrück,,
+ocd-division/country:de/state:ni/cd:40,Nienburg II – Schaumburg,,
+ocd-division/country:de/state:ni/cd:41,Stadt Hannover I,,
+ocd-division/country:de/state:ni/cd:42,Stadt Hannover II,,
+ocd-division/country:de/state:ni/cd:43,Hannover-Land I,,
+ocd-division/country:de/state:ni/cd:44,Celle – Uelzen,,
+ocd-division/country:de/state:ni/cd:45,Gifhorn – Peine,,
+ocd-division/country:de/state:ni/cd:46,Hameln-Pyrmont – Holzminden,,
+ocd-division/country:de/state:ni/cd:47,Hannover-Land II,,
+ocd-division/country:de/state:ni/cd:48,Hildesheim,,
+ocd-division/country:de/state:ni/cd:49,Salzgitter – Wolfenbüttel,,
+ocd-division/country:de/state:ni/cd:50,Braunschweig,,
+ocd-division/country:de/state:ni/cd:51,Helmstedt – Wolfsburg,,
+ocd-division/country:de/state:ni/cd:52,Goslar – Northeim – Osterode,,
+ocd-division/country:de/state:ni/cd:53,Göttingen,,
+ocd-division/country:de/state:nw,Nordrhein-Westfalen,,
+ocd-division/country:de/state:nw/cd:100,Rheinisch-Bergischer Kreis,,
+ocd-division/country:de/state:nw/cd:101,Leverkusen – Köln IV,,
+ocd-division/country:de/state:nw/cd:102,Wuppertal I,,
+ocd-division/country:de/state:nw/cd:103,Solingen – Remscheid – Wuppertal II,,
+ocd-division/country:de/state:nw/cd:104,Mettmann I,,
+ocd-division/country:de/state:nw/cd:105,Mettmann II,,
+ocd-division/country:de/state:nw/cd:106,Düsseldorf I,,
+ocd-division/country:de/state:nw/cd:107,Düsseldorf II,,
+ocd-division/country:de/state:nw/cd:108,Neuss I,,
+ocd-division/country:de/state:nw/cd:109,Mönchengladbach,,
+ocd-division/country:de/state:nw/cd:110,Krefeld I – Neuss II,,
+ocd-division/country:de/state:nw/cd:111,Viersen,,
+ocd-division/country:de/state:nw/cd:112,Kleve,,
+ocd-division/country:de/state:nw/cd:113,Wesel I,,
+ocd-division/country:de/state:nw/cd:114,Krefeld II – Wesel II,,
+ocd-division/country:de/state:nw/cd:115,Duisburg I,,
+ocd-division/country:de/state:nw/cd:116,Duisburg II,,
+ocd-division/country:de/state:nw/cd:117,Oberhausen – Wesel III,,
+ocd-division/country:de/state:nw/cd:118,Mülheim – Essen I,,
+ocd-division/country:de/state:nw/cd:119,Essen II,,
+ocd-division/country:de/state:nw/cd:120,Essen III,,
+ocd-division/country:de/state:nw/cd:121,Recklinghausen I,,
+ocd-division/country:de/state:nw/cd:122,Recklinghausen II,,
+ocd-division/country:de/state:nw/cd:123,Gelsenkirchen,,
+ocd-division/country:de/state:nw/cd:124,Steinfurt I – Borken I,,
+ocd-division/country:de/state:nw/cd:125,Bottrop – Recklinghausen III,,
+ocd-division/country:de/state:nw/cd:126,Borken II,,
+ocd-division/country:de/state:nw/cd:127,Coesfeld – Steinfurt II,,
+ocd-division/country:de/state:nw/cd:128,Steinfurt III,,
+ocd-division/country:de/state:nw/cd:129,Münster,,
+ocd-division/country:de/state:nw/cd:130,Warendorf,,
+ocd-division/country:de/state:nw/cd:131,Gütersloh I,,
+ocd-division/country:de/state:nw/cd:132,Bielefeld – Gütersloh II,,
+ocd-division/country:de/state:nw/cd:133,Herford – Minden-Lübbecke II,,
+ocd-division/country:de/state:nw/cd:134,Minden-Lübbecke I,,
+ocd-division/country:de/state:nw/cd:135,Lippe I,,
+ocd-division/country:de/state:nw/cd:136,Höxter – Lippe II,,
+ocd-division/country:de/state:nw/cd:137,Paderborn – Gütersloh III,,
+ocd-division/country:de/state:nw/cd:138,Hagen – Ennepe-Ruhr-Kreis I,,
+ocd-division/country:de/state:nw/cd:139,Ennepe-Ruhr-Kreis II,,
+ocd-division/country:de/state:nw/cd:140,Bochum I,,
+ocd-division/country:de/state:nw/cd:141,Herne – Bochum II,,
+ocd-division/country:de/state:nw/cd:142,Dortmund I,,
+ocd-division/country:de/state:nw/cd:143,Dortmund II,,
+ocd-division/country:de/state:nw/cd:144,Unna I,,
+ocd-division/country:de/state:nw/cd:145,Hamm – Unna II,,
+ocd-division/country:de/state:nw/cd:146,Soest,,
+ocd-division/country:de/state:nw/cd:147,Hochsauerlandkreis,,
+ocd-division/country:de/state:nw/cd:148,Siegen-Wittgenstein,,
+ocd-division/country:de/state:nw/cd:149,Olpe – Märkischer Kreis I,,
+ocd-division/country:de/state:nw/cd:150,Märkischer Kreis II,,
+ocd-division/country:de/state:nw/cd:87,Aachen I,,
+ocd-division/country:de/state:nw/cd:88,Aachen II,,
+ocd-division/country:de/state:nw/cd:89,Heinsberg,,
+ocd-division/country:de/state:nw/cd:90,Düren,,
+ocd-division/country:de/state:nw/cd:91,Rhein-Erft-Kreis I,,
+ocd-division/country:de/state:nw/cd:92,Euskirchen – Rhein-Erft-Kreis II,,
+ocd-division/country:de/state:nw/cd:93,Köln I,,
+ocd-division/country:de/state:nw/cd:94,Köln II,,
+ocd-division/country:de/state:nw/cd:95,Köln III,,
+ocd-division/country:de/state:nw/cd:96,Bonn,,
+ocd-division/country:de/state:nw/cd:97,Rhein-Sieg-Kreis I,,
+ocd-division/country:de/state:nw/cd:98,Rhein-Sieg-Kreis II,,
+ocd-division/country:de/state:nw/cd:99,Oberbergischer Kreis,,
+ocd-division/country:de/state:rp,Rheinland-Pfalz,,
+ocd-division/country:de/state:rp/cd:197,Neuwied,,
+ocd-division/country:de/state:rp/cd:198,Ahrweiler,,
+ocd-division/country:de/state:rp/cd:199,Koblenz,,
+ocd-division/country:de/state:rp/cd:200,Mosel/Rhein-Hunsrück,,
+ocd-division/country:de/state:rp/cd:201,Kreuznach,,
+ocd-division/country:de/state:rp/cd:202,Bitburg,,
+ocd-division/country:de/state:rp/cd:203,Trier,,
+ocd-division/country:de/state:rp/cd:204,Montabaur,,
+ocd-division/country:de/state:rp/cd:205,Mainz,,
+ocd-division/country:de/state:rp/cd:206,Worms,,
+ocd-division/country:de/state:rp/cd:207,Ludwigshafen/Frankenthal,,
+ocd-division/country:de/state:rp/cd:208,Neustadt – Speyer,,
+ocd-division/country:de/state:rp/cd:209,Kaiserslautern,,
+ocd-division/country:de/state:rp/cd:210,Pirmasens,,
+ocd-division/country:de/state:rp/cd:211,Südpfalz,,
+ocd-division/country:de/state:sh,Schleswig-Holstein,,
+ocd-division/country:de/state:sh/cd:1,Flensburg – Schleswig,,
+ocd-division/country:de/state:sh/cd:10,Herzogtum Lauenburg – Stormarn-Süd,,
+ocd-division/country:de/state:sh/cd:11,Lübeck,,
+ocd-division/country:de/state:sh/cd:2,Nordfriesland – Dithmarschen Nord,,
+ocd-division/country:de/state:sh/cd:3,Steinburg – Dithmarschen Süd,,
+ocd-division/country:de/state:sh/cd:4,Rendsburg-Eckernförde,,
+ocd-division/country:de/state:sh/cd:5,Kiel,,
+ocd-division/country:de/state:sh/cd:6,Plön – Neumünster,,
+ocd-division/country:de/state:sh/cd:7,Pinneberg,,
+ocd-division/country:de/state:sh/cd:8,Segeberg – Stormarn-Mitte,,
+ocd-division/country:de/state:sh/cd:9,Ostholstein – Stormarn-Nord,,
+ocd-division/country:de/state:sl,Saarland,,
+ocd-division/country:de/state:sl/cd:296,Saarbrücken,,
+ocd-division/country:de/state:sl/cd:297,Saarlouis,,
+ocd-division/country:de/state:sl/cd:298,St. Wendel,,
+ocd-division/country:de/state:sl/cd:299,Homburg,,
+ocd-division/country:de/state:sn,Sachsen,,
+ocd-division/country:de/state:sn/cd:151,Nordsachsen,,
+ocd-division/country:de/state:sn/cd:152,Leipzig I,,
+ocd-division/country:de/state:sn/cd:153,Leipzig II,,
+ocd-division/country:de/state:sn/cd:154,Leipzig-Land,,
+ocd-division/country:de/state:sn/cd:155,Meißen,,
+ocd-division/country:de/state:sn/cd:156,Bautzen I,,
+ocd-division/country:de/state:sn/cd:157,Görlitz,,
+ocd-division/country:de/state:sn/cd:158,Sächsische Schweiz-Osterzgebirge,,
+ocd-division/country:de/state:sn/cd:159,Dresden I,,
+ocd-division/country:de/state:sn/cd:160,Dresden II – Bautzen II,,
+ocd-division/country:de/state:sn/cd:161,Mittelsachsen,,
+ocd-division/country:de/state:sn/cd:162,Chemnitz,,
+ocd-division/country:de/state:sn/cd:163,Chemnitzer Umland – Erzgebirgskreis II,,
+ocd-division/country:de/state:sn/cd:164,Erzgebirgskreis I,,
+ocd-division/country:de/state:sn/cd:165,Zwickau,,
+ocd-division/country:de/state:sn/cd:166,Vogtlandkreis,,
+ocd-division/country:de/state:st,Sachsen-Anhalt,,
+ocd-division/country:de/state:st/cd:66,Altmark,,
+ocd-division/country:de/state:st/cd:67,Börde – Jerichower Land,,
+ocd-division/country:de/state:st/cd:68,Harz,,
+ocd-division/country:de/state:st/cd:69,Magdeburg,,
+ocd-division/country:de/state:st/cd:70,Dessau – Wittenberg,,
+ocd-division/country:de/state:st/cd:71,Anhalt,,
+ocd-division/country:de/state:st/cd:72,Halle,,
+ocd-division/country:de/state:st/cd:73,Burgenland – Saalekreis,,
+ocd-division/country:de/state:st/cd:74,Mansfeld,,
+ocd-division/country:de/state:th,Thüringen,,
+ocd-division/country:de/state:th/cd:189,Eichsfeld – Nordhausen – Kyffhäuserkreis,,
+ocd-division/country:de/state:th/cd:190,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,,
+ocd-division/country:de/state:th/cd:191,Jena – Sömmerda – Weimarer Land I,,
+ocd-division/country:de/state:th/cd:192,Gotha – Ilm-Kreis,,
+ocd-division/country:de/state:th/cd:193,Erfurt – Weimar – Weimarer Land II,,
+ocd-division/country:de/state:th/cd:194,Gera – Greiz – Altenburger Land,,
+ocd-division/country:de/state:th/cd:195,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,,
+ocd-division/country:de/state:th/cd:196,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,,
