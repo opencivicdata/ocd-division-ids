@@ -32,12 +32,12 @@ class CA < Runner
   def names_2013
     puts CSV.generate_line(["id", "name", "name_fr", "validFrom"])
     ShapefileParser.new(
-      "http://ftp.geogratis.gc.ca/pub/nrcan_rncan/vector/geobase_fed_cf/shp_eng/fed_cf_CA_2_1_shp_en.zip",
+      "http://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/files-fichiers/2016/lfed000a16a_e.zip",
       "ed:", {
-        :id => lambda{|record| "#{record.attributes["FEDNUM"]}-2013"},
-        :name => lambda{|record| record.attributes["ENNAME"].gsub("’", "'")},
-        :name_fr => "FRNAME",
-        :sort_as => "FEDNUM",
+        :id => lambda{|record| "#{record.attributes["FEDUID"]}-2013"},
+        :name => lambda{|record| record.attributes["FEDENAME"].gsub("’", "'")},
+        :name_fr => lambda{|record| record.attributes["FEDFNAME"].gsub("’", "'")},
+        :sort_as => "FEDUID",
         :validFrom => lambda{|record| "2015-10-19"},
       }
     ).run(:write_headers => false)
