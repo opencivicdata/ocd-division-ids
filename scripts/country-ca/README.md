@@ -1,16 +1,22 @@
 # Open Civic Data Divisions: Canada
 
 ## Maintenance
+
 Run the following two commands:
 
     ./scripts/country-ca/run-all.sh
     ./scripts/compile.py ca
 
-After running maintenance, manually check that the diffs on the `csv`s make sense:
+After running maintenance, manually check that the diffs on the CSV files make sense:
 
-- If a row is added, check that a new boundary has in fact been added to that jurisdiction, e.g. by visiting the website of the chief electoral officer.
-- If a row is deleted, check that a boundary has in fact been removed from that jurisdiction, or that the row exactly duplicates another row.
-- If a row is changed (usually the boundary name), check that the new name makes sense.
+* If a row is added, check that a new boundary has in fact been added to that jurisdiction, e.g. by visiting the website of the relevant chief electoral officer.
+* If a row is deleted, check that a boundary has in fact been removed from that jurisdiction, or that the row exactly duplicates another row.
+* If a row is changed (usually the boundary name), check that the new name makes sense.
+
+For specific files:
+
+* `ca_municipal_subdivisions.csv` is generated from the Represent API and may have many additions/deletions, as boundary sets are added/removed from the API.
+* For divisions in Quebec only (starting with `24`), `ca_municipal_subdivisions-has_children.csv` scrapes [this page](http://www.electionsquebec.qc.ca/francais/municipal/carte-electorale/liste-des-municipalites-divisees-en-districts-electoraux.php?index=1) and may have many changes between `Y` to `N`. As long as not all the `Y` become `N`, the change should be fine.
 
 ## Identifiers and mappings
 
