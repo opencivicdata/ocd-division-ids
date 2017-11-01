@@ -1,8 +1,16 @@
 # Open Civic Data Divisions: Canada
 
 ## Maintenance
+Run the following two commands:
 
     ./scripts/country-ca/run-all.sh
+    ./scripts/compile.py ca
+
+After running maintenance, manually check that the diffs on the `csv`s make sense:
+
+- If a row is added, check that a new boundary has in fact been added to that jurisdiction, e.g. by visiting the website of the chief electoral officer.
+- If a row is deleted, check that a boundary has in fact been removed from that jurisdiction, or that the row exactly duplicates another row.
+- If a row is changed (usually the boundary name), check that the new name makes sense.
 
 ## Identifiers and mappings
 
