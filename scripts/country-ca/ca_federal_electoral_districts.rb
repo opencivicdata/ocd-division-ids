@@ -31,6 +31,7 @@ class CA < Runner
 
   def names_2013
     puts CSV.generate_line(["id", "name", "name_fr", "validFrom"])
+     # from http://open.canada.ca/data/en/dataset/5f1c2e06-405a-4357-9566-872e69ee2ade
     ShapefileParser.new(
       "http://www12.statcan.gc.ca/census-recensement/2011/geo/bound-limit/files-fichiers/2016/lfed000a16a_e.zip",
       "ed:", {
