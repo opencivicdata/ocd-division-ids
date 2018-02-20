@@ -134,6 +134,3 @@ build_csv_file(data_dir, 'parish_region', True)
 build_csv_file(data_dir, 'district_borough_unitary_ward_region', True, True)
 build_csv_file(data_dir, 'district_borough_unitary_region', True)
 build_csv_file(data_dir, 'county_electoral_division_region', True)
-
-#debug_print('{}/{}'.format(data_dir, 'parish_region'))
-
