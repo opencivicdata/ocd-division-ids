@@ -39,7 +39,7 @@ def make_id(type_id):
     type_id = re.sub('[^\w0-9~_.-]', '~', type_id, re.UNICODE)
     return type_id
 
-def clean_name(const_name):
+def make_name(const_name):
     replacements = [' Assembly Const', ' P Const', ' Const', ' GL',' ED', ' CP']
     for replacement in replacements:
         const_name = const_name.replace(replacement, '')
@@ -65,7 +65,7 @@ def build_csv_file(data_dir, shape_group_name, refine_locals=False):
 
         division_type = record[1].lower()
         row['ocd'] = '{}/{}/{}'.format(ocd_base, division_type, local_id)
-        row['name'] = clean_name(record[0])
+        row['name'] = make_name(record[0])
         row['ordnance_id'] = record[8]
         rows.append(row)
 
