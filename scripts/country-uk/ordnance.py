@@ -30,7 +30,7 @@ def write_csv(filename,csv_columns, dict_data):
             writer.writerow(data)
 
 def make_id(type_id):
-    replacements = ['(',')',',',' Assembly Const', ' P Const', ' GL', ' ED', ' CP']
+    replacements = ['&','(',')',',',' Assembly Const', ' P Const', ' GL', ' ED', ' CP']
     for replacement in replacements:
         type_id = type_id.replace(replacement, '')
 
@@ -40,7 +40,7 @@ def make_id(type_id):
     return type_id
 
 def clean_name(const_name):
-    replacements = [' Assembly Const', ' P Const', ' Const', ' GL',' CP']
+    replacements = [' Assembly Const', ' P Const', ' Const', ' GL',' ED', ' CP']
     for replacement in replacements:
         const_name = const_name.replace(replacement, '')
     return const_name
@@ -79,9 +79,15 @@ ocd_base = 'ocd-division/country:uk'
 
 data_dir = '/Users/showerst/Downloads/bdline_essh_gb/Data/GB'
 
+
+# To see what these files contain,
+# debug_print('{}/{}'.format(data_dir, 'westminster_const_region'))
+
 build_csv_file(data_dir, 'westminster_const_region')
 build_csv_file(data_dir, 'scotland_and_wales_const_region', True)
 build_csv_file(data_dir, 'greater_london_const_region', True)
 build_csv_file(data_dir, 'county_region')
 build_csv_file(data_dir, 'unitary_electoral_division_region', True)
 build_csv_file(data_dir, 'parish_region', True)
+build_csv_file(data_dir, 'district_borough_unitary_ward_region', True)
+build_csv_file(data_dir, 'district_borough_unitary_region', True)
