@@ -3,8 +3,8 @@ import csv
 import re
 
 # Note: This requires the UK Ordnance Survey Boundaries dataset,
-# which is free and open, but requires agreeing to a license and
-# downloading from their site.
+# which is free and liberally licensed, but requires agreeing to a license and
+# downloading via an emailed link from their site.
 # https://www.ordnancesurvey.co.uk/opendatadownload/products.html#BDLINE
 
 
@@ -14,6 +14,9 @@ def read_records(filename):
     for record in records:
         yield record
 
+def debug_print(filename):
+    for record in read_records(filename):
+        print(record)
 
 def get_overview(filename):
     sf = shapefile.Reader(filename)
@@ -48,6 +51,9 @@ def build_csv_file(data_dir, shape_group_name, refine_locals=False):
     rows = []
     shape_file = '{}/{}'.format(data_dir, shape_group_name)
     for record in read_records(shape_file):
+        if record[12] == 'FILLER AREA':
+            continue
+
         row = {}
 
         # in some data files, the record[3] field DESCRIPTIO
