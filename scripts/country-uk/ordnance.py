@@ -10,8 +10,10 @@ import collections
 
 # it also assumes pyshp -- pip3 install pyshp
 
-# Change this
-data_dir = 'bdline_essh_gb/Data/GB'
+# Change this to your download location
+data_dir = 'bdline_essh_gb/Data'
+uk_dir = '{}/GB'.format(data_dir)
+wales_dir = '{}/Wales'.format(data_dir)
 
 # the field list for each data set can be quickly viewed using the get_overview function,
 # and debug_print dumps the data to console
@@ -42,7 +44,7 @@ def write_csv(filename, csv_columns, dict_data):
 
 
 def make_id(type_id):
-    replacements = [' &', '(', ')', ',', ' Assembly Const',
+    replacements = ['\'', ' &', '(', ')', ',', ' Assembly Const',
                     ' P Const', ' GL', ' ED', ' CP', '_CONST']
     for replacement in replacements:
         type_id = type_id.replace(replacement, '')
@@ -61,7 +63,7 @@ def make_name(const_name):
     return const_name
 
 
-def build_csv_file(data_dir, shape_group_name, refine_locals=False, extended_refine=False):
+def build_csv_file(data_dir, shape_group_name):
     """Create the data csv from each shapefile
 
     Arguments:
@@ -75,6 +77,11 @@ def build_csv_file(data_dir, shape_group_name, refine_locals=False, extended_ref
 
     manual_fixes = {'E04001551': 'buckinghamshire_whadden',
                     'E04001852': 'cambridgeshire_whadden',
+    }
+
+    nested_groups = {'utw':'uta',
+                    'diw':'cty',
+                    'mtw':'mtd',
     }
 
     seen_ids = []
@@ -93,19 +100,19 @@ def build_csv_file(data_dir, shape_group_name, refine_locals=False, extended_ref
 
         # in some data files, the record[3] field DESCRIPTIO
         # works fine, in others it would produce dupes
-        if extended_refine:
-            local_id = '{}_{}'.format(record[3], record[0])
-            local_id = make_id(local_id)
-        elif refine_locals:
+        if division_type in nested_groups:
+            parent_id = '{}:{}/'.format(nested_groups[division_type],
+                                    make_id(record[3]))
             local_id = make_id(record[0])
         else:
-            local_id = make_id(record[3])
+            parent_id = ''
+            local_id = make_id(record[0])
 
         # don't assign record[8] to row['ordnance_id] yet to save csv order
         if record[8] in manual_fixes:
             local_id = manual_fixes[record[8]]
 
-        row['id'] = '{}/{}:{}'.format(ocd_base, division_type, local_id)
+        row['id'] = '{}/{}{}:{}'.format(ocd_base, parent_id, division_type, local_id)
         row['name'] = make_name(record[0])
 
         if str(record[8]) != '999999999':
@@ -130,12 +137,12 @@ base = [{'id':'ocd-division/country:uk',
 
 write_csv('identifiers/country-uk/uk.csv', ['id','name'], base)
 
-build_csv_file(data_dir, 'westminster_const_region')
-build_csv_file(data_dir, 'scotland_and_wales_const_region', True)
-build_csv_file(data_dir, 'greater_london_const_region', True)
-build_csv_file(data_dir, 'county_region')
-build_csv_file(data_dir, 'unitary_electoral_division_region', True)
-build_csv_file(data_dir, 'parish_region', True)
-build_csv_file(data_dir, 'district_borough_unitary_ward_region', True, True)
-build_csv_file(data_dir, 'district_borough_unitary_region', True)
-build_csv_file(data_dir, 'county_electoral_division_region', True)
+build_csv_file(uk_dir, 'westminster_const_region')
+build_csv_file(uk_dir, 'scotland_and_wales_const_region')
+build_csv_file(uk_dir, 'greater_london_const_region')
+build_csv_file(uk_dir, 'county_region')
+build_csv_file(uk_dir, 'unitary_electoral_division_region')
+build_csv_file(uk_dir, 'parish_region')
+build_csv_file(uk_dir, 'district_borough_unitary_ward_region')
+build_csv_file(uk_dir, 'district_borough_unitary_region')
+build_csv_file(uk_dir, 'county_electoral_division_region')
