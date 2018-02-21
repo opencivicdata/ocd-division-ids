@@ -13,6 +13,7 @@ The electoral data contains the following sub types, for additional information 
 |cty|County|UK Counties, with a different identifier to keep them distinct from US counties|
 |diw|District Ward|   |
 |dis|District|   |
+|gla|Greater London Authority| |
 |lac|Greater London Authority Assembly Constituency|   |
 |cpc|Council Parish|   |
 |spc|Scottish Parliament Contituency|   |
@@ -21,3 +22,4 @@ The electoral data contains the following sub types, for additional information 
 |mtw|Metropolitan District Ward|   |
 |community|Welsh Community Electoral Areas|(Wales renames things confusingly)[https://en.wikipedia.org/wiki/Wards_and_electoral_divisions_of_the_United_Kingdom#Wales] but their 'communities' are equivalent to Council Parishes in the UK|
 |community_ward|Welsh Community Ward|Child divisions of communities|
+|ceremonial_county|[Ceremonial County](https://en.wikipedia.org/wiki/Ceremonial_counties_of_England)|Lord lieutenancies|

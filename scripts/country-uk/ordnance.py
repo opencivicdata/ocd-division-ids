@@ -13,6 +13,7 @@ import re
 data_dir = 'bdline_essh_gb/Data'
 uk_dir = '{}/GB'.format(data_dir)
 wales_dir = '{}/Wales'.format(data_dir)
+cerem_dir = '{}/Supplementary_Ceremonial'.format(data_dir)
 
 # the field list for each data set can be quickly viewed using the get_overview function,
 # and debug_print dumps the data to console
@@ -148,6 +149,22 @@ def build_csv_file(data_dir, shape_group_name):
     write_csv(csv_filename, rows[0].keys(), rows)
 
 
+def build_ceremonial_csv(data_dir):
+    shape_file = '{}/{}'.format(data_dir,
+                                'Boundary-line-ceremonial-counties_region')
+    rows = []
+    for record in read_records(shape_file):
+        if record[1] == 'Ceremonial County':
+            row = {}
+            local_id = make_id(record[0])
+            row['id'] = '{}/ceremonial_county:{}'.format(ocd_base, local_id)
+            row['name'] = make_name(record[0])
+            rows.append(row)
+
+    csv_filename = 'identifiers/country-uk/ceremonial_counties.csv'
+    write_csv(csv_filename, rows[0].keys(), rows)
+
+
 def build_welsh_csv(data_dir):
     # community_ward_region
     shape_file = '{}/{}'.format(data_dir, 'community_ward_region')
@@ -211,3 +228,4 @@ build_csv_file(uk_dir, 'district_borough_unitary_ward_region')
 build_csv_file(uk_dir, 'district_borough_unitary_region')
 build_csv_file(uk_dir, 'county_electoral_division_region')
 build_welsh_csv(wales_dir)
+build_ceremonial_csv(cerem_dir)
