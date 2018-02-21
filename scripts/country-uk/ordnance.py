@@ -46,9 +46,13 @@ def write_csv(filename, csv_columns, dict_data):
 
 def make_id(type_id):
     replacements = ['\'', ' &', ',', ' Assembly Const',
-                    ' P Const', ' GL', ' ED', ' CP', '_CONST', '(', ')', ]
+                    ' P Const', ' GL', ' ED', ' CP', '_CONST', '(', ')',]
     for replacement in replacements:
         type_id = type_id.replace(replacement, '')
+
+    regex_replacements = [r' County$', r'_county$']
+    for replacement in regex_replacements:
+        type_id = re.sub(replacement, '', type_id, flags=re.IGNORECASE)
 
     type_id = type_id.lower()
     type_id = re.sub('\.? ', '_', type_id)
