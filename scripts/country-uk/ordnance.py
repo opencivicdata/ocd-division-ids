@@ -50,7 +50,13 @@ def make_id(type_id):
     for replacement in replacements:
         type_id = type_id.replace(replacement, '')
 
-    regex_replacements = [r' County$', r'_county$']
+    regex_replacements = [r' County$',
+                    r'_county$',
+                    r' District$',
+                    r'_district$',
+                    r' Authority$',
+                    r'_authority$',
+                    ]
     for replacement in regex_replacements:
         type_id = re.sub(replacement, '', type_id, flags=re.IGNORECASE)
 
