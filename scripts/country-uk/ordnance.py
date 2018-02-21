@@ -69,10 +69,6 @@ def build_csv_file(data_dir, shape_group_name):
     Arguments:
         data_dir String -- base dir
         shape_group_name String -- shapefile prefix
-
-    Keyword Arguments:
-        refine_locals boolean -- use the full name instead of the shapefile code, to avoid duplicates
-        extended_refine boolean -- use the shapefile code AND full name instead of the shapefile code, to avoid duplicates
     """
 
     manual_fixes = {'E04001551': 'buckinghamshire_whadden',
@@ -127,6 +123,47 @@ def build_csv_file(data_dir, shape_group_name):
     write_csv(csv_filename, rows[0].keys(), rows)
 
 
+def build_welsh_csv(data_dir):
+    # community_ward_region
+    shape_file = '{}/{}'.format(data_dir, 'community_ward_region')
+    rows = []
+
+    communities = []
+    for record in read_records(shape_file):
+        row = {}
+        if isinstance(record[0], bytes):
+            record[0] = record[0].decode('latin-1')
+
+        # data error has Llanrumney listed as a CCOMMUNITY
+        if record[1] == 'COMMUNITY' or record[1] == 'CCOMMUNITY':
+            local_id = make_id(record[0])
+            row['id'] = '{}/community:{}'.format(ocd_base, local_id)
+        elif record[1] == 'COMMUNITY WARD':
+            # In this data Ordanance lists out the wards that make up a community council,
+            # but not the base community for the council,
+            # because it's not an electoral division
+            # it is a legislative body though, so add it here
+            if record[2] not in communities:
+                community_row = {}
+                community_id = make_id(record[2])
+                community_row['id'] = '{}/community:{}'.format(ocd_base, community_id)
+                community_row['name'] = record[2]
+                rows.append(community_row)
+
+            local_id = make_id(record[0])
+            parent_id = make_id(record[2])
+            row['id'] = '{}/community:{}/community_ward:{}'.format(ocd_base, parent_id, local_id)
+        elif record[1] == 'NON-COMMUNITY WARD':
+            local_id = make_id(record[0])
+            row['id'] = '{}/non_community_ward:{}'.format(ocd_base, local_id)
+
+        row['name'] = record[0]
+        rows.append(row)
+
+    csv_filename = 'identifiers/country-uk/wales_communities.csv'
+    write_csv(csv_filename, rows[0].keys(), rows)
+
+
 ocd_base = 'ocd-division/country:uk'
 
 # To see what these files contain,
@@ -146,3 +183,4 @@ build_csv_file(uk_dir, 'parish_region')
 build_csv_file(uk_dir, 'district_borough_unitary_ward_region')
 build_csv_file(uk_dir, 'district_borough_unitary_region')
 build_csv_file(uk_dir, 'county_electoral_division_region')
+build_welsh_csv(wales_dir)
