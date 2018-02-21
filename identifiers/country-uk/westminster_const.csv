@@ -1,633 +1,633 @@
 id,name,ordnance_id
-ocd-division/country:uk/wmc:aberavon_co,Aberavon Co,W07000049
-ocd-division/country:uk/wmc:aberconwy_co,Aberconwy Co,W07000058
-ocd-division/country:uk/wmc:aberdeen_north_burgh,Aberdeen North Burgh,S14000001
-ocd-division/country:uk/wmc:airdrie_and_shotts_co,Airdrie and Shotts Co,S14000003
-ocd-division/country:uk/wmc:aldershot_boro,Aldershot Boro,E14000530
-ocd-division/country:uk/wmc:aldridge-brownhills_boro,Aldridge-Brownhills Boro,E14000531
-ocd-division/country:uk/wmc:altrincham_and_sale_west_boro,Altrincham and Sale West Boro,E14000532
-ocd-division/country:uk/wmc:alyn_and_deeside_co,Alyn and Deeside Co,W07000043
-ocd-division/country:uk/wmc:amber_valley_co,Amber Valley Co,E14000533
-ocd-division/country:uk/wmc:angus_co,Angus Co,S14000004
-ocd-division/country:uk/wmc:arfon_co,Arfon Co,W07000057
-ocd-division/country:uk/wmc:arundel_and_south_downs_co,Arundel and South Downs Co,E14000534
-ocd-division/country:uk/wmc:ashfield_co,Ashfield Co,E14000535
-ocd-division/country:uk/wmc:ashford_co,Ashford Co,E14000536
-ocd-division/country:uk/wmc:ashton-under-lyne_boro,Ashton-under-Lyne Boro,E14000537
-ocd-division/country:uk/wmc:aylesbury_co,Aylesbury Co,E14000538
-ocd-division/country:uk/wmc:banbury_co,Banbury Co,E14000539
-ocd-division/country:uk/wmc:barking_boro,Barking Boro,E14000540
-ocd-division/country:uk/wmc:barnsley_central_boro,Barnsley Central Boro,E14000541
-ocd-division/country:uk/wmc:barnsley_east_co,Barnsley East Co,E14000542
-ocd-division/country:uk/wmc:barrow_and_furness_co,Barrow and Furness Co,E14000543
-ocd-division/country:uk/wmc:basildon_and_billericay_boro,Basildon and Billericay Boro,E14000544
-ocd-division/country:uk/wmc:basingstoke_boro,Basingstoke Boro,E14000545
-ocd-division/country:uk/wmc:bassetlaw_co,Bassetlaw Co,E14000546
-ocd-division/country:uk/wmc:bath_boro,Bath Boro,E14000547
-ocd-division/country:uk/wmc:batley_and_spen_boro,Batley and Spen Boro,E14000548
-ocd-division/country:uk/wmc:battersea_boro,Battersea Boro,E14000549
-ocd-division/country:uk/wmc:beaconsfield_co,Beaconsfield Co,E14000550
-ocd-division/country:uk/wmc:beckenham_boro,Beckenham Boro,E14000551
-ocd-division/country:uk/wmc:bedford_boro,Bedford Boro,E14000552
-ocd-division/country:uk/wmc:bermondsey_and_old_southwark_boro,Bermondsey and Old Southwark Boro,E14000553
-ocd-division/country:uk/wmc:berwickshire_roxburgh_and_selkirk_co,"Berwickshire, Roxburgh and Selkirk Co",S14000008
-ocd-division/country:uk/wmc:bethnal_green_and_bow_boro,Bethnal Green and Bow Boro,E14000555
-ocd-division/country:uk/wmc:beverley_and_holderness_co,Beverley and Holderness Co,E14000556
-ocd-division/country:uk/wmc:bexhill_and_battle_co,Bexhill and Battle Co,E14000557
-ocd-division/country:uk/wmc:bexleyheath_and_crayford_boro,Bexleyheath and Crayford Boro,E14000558
-ocd-division/country:uk/wmc:birkenhead_boro,Birkenhead Boro,E14000559
-ocd-division/country:uk/wmc:birmingham_edgbaston_boro,"Birmingham, Edgbaston Boro",E14000560
-ocd-division/country:uk/wmc:birmingham_erdington_boro,"Birmingham, Erdington Boro",E14000561
-ocd-division/country:uk/wmc:birmingham_hall_green_boro,"Birmingham, Hall Green Boro",E14000562
-ocd-division/country:uk/wmc:birmingham_hodge_hill_boro,"Birmingham, Hodge Hill Boro",E14000563
-ocd-division/country:uk/wmc:birmingham_ladywood_boro,"Birmingham, Ladywood Boro",E14000564
-ocd-division/country:uk/wmc:birmingham_northfield_boro,"Birmingham, Northfield Boro",E14000565
-ocd-division/country:uk/wmc:birmingham_perry_barr_boro,"Birmingham, Perry Barr Boro",E14000566
-ocd-division/country:uk/wmc:birmingham_selly_oak_boro,"Birmingham, Selly Oak Boro",E14000567
-ocd-division/country:uk/wmc:birmingham_yardley_boro,"Birmingham, Yardley Boro",E14000568
-ocd-division/country:uk/wmc:bishop_auckland_co,Bishop Auckland Co,E14000569
-ocd-division/country:uk/wmc:blackburn_boro,Blackburn Boro,E14000570
-ocd-division/country:uk/wmc:blackley_and_broughton_boro,Blackley and Broughton Boro,E14000571
-ocd-division/country:uk/wmc:blackpool_north_and_cleveleys_boro,Blackpool North and Cleveleys Boro,E14000572
-ocd-division/country:uk/wmc:blackpool_south_boro,Blackpool South Boro,E14000573
-ocd-division/country:uk/wmc:blaenau_gwent_co,Blaenau Gwent Co,W07000072
-ocd-division/country:uk/wmc:blaydon_boro,Blaydon Boro,E14000574
-ocd-division/country:uk/wmc:blyth_valley_boro,Blyth Valley Boro,E14000575
-ocd-division/country:uk/wmc:bognor_regis_and_littlehampton_co,Bognor Regis and Littlehampton Co,E14000576
-ocd-division/country:uk/wmc:bolsover_co,Bolsover Co,E14000577
-ocd-division/country:uk/wmc:bolton_north_east_boro,Bolton North East Boro,E14000578
-ocd-division/country:uk/wmc:bolton_south_east_boro,Bolton South East Boro,E14000579
-ocd-division/country:uk/wmc:bolton_west_co,Bolton West Co,E14000580
-ocd-division/country:uk/wmc:bootle_boro,Bootle Boro,E14000581
-ocd-division/country:uk/wmc:boston_and_skegness_co,Boston and Skegness Co,E14000582
-ocd-division/country:uk/wmc:bosworth_co,Bosworth Co,E14000583
-ocd-division/country:uk/wmc:bournemouth_east_boro,Bournemouth East Boro,E14000584
-ocd-division/country:uk/wmc:bournemouth_west_boro,Bournemouth West Boro,E14000585
-ocd-division/country:uk/wmc:bracknell_co,Bracknell Co,E14000586
-ocd-division/country:uk/wmc:bradford_east_boro,Bradford East Boro,E14000587
-ocd-division/country:uk/wmc:bradford_south_boro,Bradford South Boro,E14000588
-ocd-division/country:uk/wmc:bradford_west_boro,Bradford West Boro,E14000589
-ocd-division/country:uk/wmc:braintree_co,Braintree Co,E14000590
-ocd-division/country:uk/wmc:brecon_and_radnorshire_co,Brecon and Radnorshire Co,W07000068
-ocd-division/country:uk/wmc:brentford_and_isleworth_boro,Brentford and Isleworth Boro,E14000593
-ocd-division/country:uk/wmc:brentwood_and_ongar_co,Brentwood and Ongar Co,E14000594
-ocd-division/country:uk/wmc:brent_central_boro,Brent Central Boro,E14000591
-ocd-division/country:uk/wmc:brent_north_boro,Brent North Boro,E14000592
-ocd-division/country:uk/wmc:bridgend_co,Bridgend Co,W07000073
-ocd-division/country:uk/wmc:bridgwater_and_west_somerset_co,Bridgwater and West Somerset Co,E14000595
-ocd-division/country:uk/wmc:brigg_and_goole_co,Brigg and Goole Co,E14000596
-ocd-division/country:uk/wmc:brighton_kemptown_boro,"Brighton, Kemptown Boro",E14000597
-ocd-division/country:uk/wmc:brighton_pavilion_boro,"Brighton, Pavilion Boro",E14000598
-ocd-division/country:uk/wmc:bristol_east_boro,Bristol East Boro,E14000599
-ocd-division/country:uk/wmc:bristol_north_west_boro,Bristol North West Boro,E14000600
-ocd-division/country:uk/wmc:bristol_south_boro,Bristol South Boro,E14000601
-ocd-division/country:uk/wmc:bristol_west_boro,Bristol West Boro,E14000602
-ocd-division/country:uk/wmc:broadland_co,Broadland Co,E14000603
-ocd-division/country:uk/wmc:bromley_and_chislehurst_boro,Bromley and Chislehurst Boro,E14000604
-ocd-division/country:uk/wmc:bromsgrove_co,Bromsgrove Co,E14000605
-ocd-division/country:uk/wmc:broxbourne_boro,Broxbourne Boro,E14000606
-ocd-division/country:uk/wmc:broxtowe_co,Broxtowe Co,E14000607
-ocd-division/country:uk/wmc:buckingham_co,Buckingham Co,E14000608
-ocd-division/country:uk/wmc:burnley_boro,Burnley Boro,E14000609
-ocd-division/country:uk/wmc:burton_co,Burton Co,E14000610
-ocd-division/country:uk/wmc:bury_north_boro,Bury North Boro,E14000611
-ocd-division/country:uk/wmc:bury_south_boro,Bury South Boro,E14000612
-ocd-division/country:uk/wmc:bury_st_edmunds_co,Bury St. Edmunds Co,E14000613
-ocd-division/country:uk/wmc:caerphilly_co,Caerphilly Co,W07000076
-ocd-division/country:uk/wmc:calder_valley_co,Calder Valley Co,E14000614
-ocd-division/country:uk/wmc:camberwell_and_peckham_boro,Camberwell and Peckham Boro,E14000615
-ocd-division/country:uk/wmc:cambridge_boro,Cambridge Boro,E14000617
-ocd-division/country:uk/wmc:cannock_chase_co,Cannock Chase Co,E14000618
-ocd-division/country:uk/wmc:canterbury_co,Canterbury Co,E14000619
-ocd-division/country:uk/wmc:cardiff_central_boro,Cardiff Central Boro,W07000050
-ocd-division/country:uk/wmc:cardiff_north_boro,Cardiff North Boro,W07000051
-ocd-division/country:uk/wmc:cardiff_west_boro,Cardiff West Boro,W07000079
-ocd-division/country:uk/wmc:carlisle_boro,Carlisle Boro,E14000620
-ocd-division/country:uk/wmc:carmarthen_east_and_dinefwr_co,Carmarthen East and Dinefwr Co,W07000067
-ocd-division/country:uk/wmc:carshalton_and_wallington_boro,Carshalton and Wallington Boro,E14000621
-ocd-division/country:uk/wmc:castle_point_boro,Castle Point Boro,E14000622
-ocd-division/country:uk/wmc:central_devon_co,Central Devon Co,E14000623
-ocd-division/country:uk/wmc:central_suffolk_and_north_ipswich_co,Central Suffolk and North Ipswich Co,E14000624
-ocd-division/country:uk/wmc:charnwood_co,Charnwood Co,E14000625
-ocd-division/country:uk/wmc:chatham_and_aylesford_co,Chatham and Aylesford Co,E14000626
-ocd-division/country:uk/wmc:cheadle_boro,Cheadle Boro,E14000627
-ocd-division/country:uk/wmc:chelmsford_boro,Chelmsford Boro,E14000628
-ocd-division/country:uk/wmc:chelsea_and_fulham_boro,Chelsea and Fulham Boro,E14000629
-ocd-division/country:uk/wmc:cheltenham_boro,Cheltenham Boro,E14000630
-ocd-division/country:uk/wmc:chesham_and_amersham_co,Chesham and Amersham Co,E14000631
-ocd-division/country:uk/wmc:chesterfield_boro,Chesterfield Boro,E14000632
-ocd-division/country:uk/wmc:chichester_co,Chichester Co,E14000633
-ocd-division/country:uk/wmc:chingford_and_woodford_green_boro,Chingford and Woodford Green Boro,E14000634
-ocd-division/country:uk/wmc:chippenham_co,Chippenham Co,E14000635
-ocd-division/country:uk/wmc:chipping_barnet_boro,Chipping Barnet Boro,E14000636
-ocd-division/country:uk/wmc:chorley_co,Chorley Co,E14000637
-ocd-division/country:uk/wmc:christchurch_co,Christchurch Co,E14000638
-ocd-division/country:uk/wmc:cities_of_london_and_westminster_boro,Cities of London and Westminster Boro,E14000639
-ocd-division/country:uk/wmc:city_of_chester_co,City of Chester Co,E14000640
-ocd-division/country:uk/wmc:city_of_durham_co,City of Durham Co,E14000641
-ocd-division/country:uk/wmc:clacton_co,Clacton Co,E14000642
-ocd-division/country:uk/wmc:cleethorpes_co,Cleethorpes Co,E14000643
-ocd-division/country:uk/wmc:clwyd_south_co,Clwyd South Co,W07000062
-ocd-division/country:uk/wmc:clwyd_west_co,Clwyd West Co,W07000059
-ocd-division/country:uk/wmc:coatbridge_chryston_and_bellshill_burgh,"Coatbridge, Chryston and Bellshill Burgh",S14000011
-ocd-division/country:uk/wmc:colchester_boro,Colchester Boro,E14000644
-ocd-division/country:uk/wmc:colne_valley_co,Colne Valley Co,E14000645
-ocd-division/country:uk/wmc:congleton_co,Congleton Co,E14000646
-ocd-division/country:uk/wmc:copeland_co,Copeland Co,E14000647
-ocd-division/country:uk/wmc:corby_co,Corby Co,E14000648
-ocd-division/country:uk/wmc:coventry_north_east_boro,Coventry North East Boro,E14000649
-ocd-division/country:uk/wmc:coventry_north_west_boro,Coventry North West Boro,E14000650
-ocd-division/country:uk/wmc:coventry_south_boro,Coventry South Boro,E14000651
-ocd-division/country:uk/wmc:crawley_boro,Crawley Boro,E14000652
-ocd-division/country:uk/wmc:crewe_and_nantwich_co,Crewe and Nantwich Co,E14000653
-ocd-division/country:uk/wmc:croydon_central_boro,Croydon Central Boro,E14000654
-ocd-division/country:uk/wmc:croydon_north_boro,Croydon North Boro,E14000655
-ocd-division/country:uk/wmc:croydon_south_boro,Croydon South Boro,E14000656
-ocd-division/country:uk/wmc:cumbernauld_kilsyth_and_kirkintilloch_east_co_cons,"Cumbernauld, Kilsyth and Kirkintilloch East Co",S14000012
-ocd-division/country:uk/wmc:cynon_valley_co,Cynon Valley Co,W07000070
-ocd-division/country:uk/wmc:dagenham_and_rainham_boro,Dagenham and Rainham Boro,E14000657
-ocd-division/country:uk/wmc:darlington_boro,Darlington Boro,E14000658
-ocd-division/country:uk/wmc:dartford_co,Dartford Co,E14000659
-ocd-division/country:uk/wmc:daventry_co,Daventry Co,E14000660
-ocd-division/country:uk/wmc:delyn_co,Delyn Co,W07000042
-ocd-division/country:uk/wmc:denton_and_reddish_boro,Denton and Reddish Boro,E14000661
-ocd-division/country:uk/wmc:derbyshire_dales_co,Derbyshire Dales Co,E14000664
-ocd-division/country:uk/wmc:derby_north_boro,Derby North Boro,E14000662
-ocd-division/country:uk/wmc:derby_south_boro,Derby South Boro,E14000663
-ocd-division/country:uk/wmc:devizes_co,Devizes Co,E14000665
-ocd-division/country:uk/wmc:dewsbury_co,Dewsbury Co,E14000666
-ocd-division/country:uk/wmc:doncaster_central_boro,Doncaster Central Boro,E14000668
-ocd-division/country:uk/wmc:doncaster_north_co,Doncaster North Co,E14000669
-ocd-division/country:uk/wmc:don_valley_co,Don Valley Co,E14000667
-ocd-division/country:uk/wmc:dover_co,Dover Co,E14000670
-ocd-division/country:uk/wmc:dudley_north_boro,Dudley North Boro,E14000671
-ocd-division/country:uk/wmc:dudley_south_boro,Dudley South Boro,E14000672
-ocd-division/country:uk/wmc:dulwich_and_west_norwood_boro,Dulwich and West Norwood Boro,E14000673
-ocd-division/country:uk/wmc:dumfriesshire_clydesdale_and_tweeddale_co,"Dumfriesshire, Clydesdale and Tweeddale Co",S14000014
-ocd-division/country:uk/wmc:dundee_east_burgh,Dundee East Burgh,S14000015
-ocd-division/country:uk/wmc:dundee_west_burgh,Dundee West Burgh,S14000016
-ocd-division/country:uk/wmc:dunfermline_and_west_fife_co,Dunfermline and West Fife Co,S14000017
-ocd-division/country:uk/wmc:ealing_central_and_acton_boro,Ealing Central and Acton Boro,E14000674
-ocd-division/country:uk/wmc:ealing_north_boro,Ealing North Boro,E14000675
-ocd-division/country:uk/wmc:ealing_southall_boro,"Ealing, Southall Boro",E14000676
-ocd-division/country:uk/wmc:easington_co,Easington Co,E14000677
-ocd-division/country:uk/wmc:eastbourne_boro,Eastbourne Boro,E14000684
-ocd-division/country:uk/wmc:eastleigh_boro,Eastleigh Boro,E14000685
-ocd-division/country:uk/wmc:east_devon_co,East Devon Co,E14000678
-ocd-division/country:uk/wmc:east_dunbartonshire_co,East Dunbartonshire Co,S14000018
-ocd-division/country:uk/wmc:east_hampshire_co,East Hampshire Co,E14000680
-ocd-division/country:uk/wmc:east_ham_boro,East Ham Boro,E14000679
-ocd-division/country:uk/wmc:east_kilbride_strathaven_and_lesmahagow_co,"East Kilbride, Strathaven and Lesmahagow Co",S14000019
-ocd-division/country:uk/wmc:east_renfrewshire_co,East Renfrewshire Co,S14000021
-ocd-division/country:uk/wmc:east_surrey_co,East Surrey Co,E14000681
-ocd-division/country:uk/wmc:east_worthing_and_shoreham_co,East Worthing and Shoreham Co,E14000682
-ocd-division/country:uk/wmc:east_yorkshire_co,East Yorkshire Co,E14000683
-ocd-division/country:uk/wmc:eddisbury_co,Eddisbury Co,E14000686
-ocd-division/country:uk/wmc:edinburgh_east_burgh,Edinburgh East Burgh,S14000022
-ocd-division/country:uk/wmc:edinburgh_north_and_leith_burgh,Edinburgh North and Leith Burgh,S14000023
-ocd-division/country:uk/wmc:edinburgh_south_burgh,Edinburgh South Burgh,S14000024
-ocd-division/country:uk/wmc:edinburgh_south_west_burgh,Edinburgh South West Burgh,S14000025
-ocd-division/country:uk/wmc:edmonton_boro,Edmonton Boro,E14000687
-ocd-division/country:uk/wmc:ellesmere_port_and_neston_co,Ellesmere Port and Neston Co,E14000688
-ocd-division/country:uk/wmc:elmet_and_rothwell_co,Elmet and Rothwell Co,E14000689
-ocd-division/country:uk/wmc:eltham_boro,Eltham Boro,E14000690
-ocd-division/country:uk/wmc:enfield_north_boro,Enfield North Boro,E14000691
-ocd-division/country:uk/wmc:enfield_southgate_boro,"Enfield, Southgate Boro",E14000692
-ocd-division/country:uk/wmc:epping_forest_co,Epping Forest Co,E14000693
-ocd-division/country:uk/wmc:epsom_and_ewell_boro,Epsom and Ewell Boro,E14000694
-ocd-division/country:uk/wmc:erewash_co,Erewash Co,E14000695
-ocd-division/country:uk/wmc:erith_and_thamesmead_boro,Erith and Thamesmead Boro,E14000696
-ocd-division/country:uk/wmc:esher_and_walton_boro,Esher and Walton Boro,E14000697
-ocd-division/country:uk/wmc:exeter_boro,Exeter Boro,E14000698
-ocd-division/country:uk/wmc:falkirk_co,Falkirk Co,S14000028
-ocd-division/country:uk/wmc:fareham_co,Fareham Co,E14000699
-ocd-division/country:uk/wmc:faversham_and_mid_kent_co,Faversham and Mid Kent Co,E14000700
-ocd-division/country:uk/wmc:feltham_and_heston_boro,Feltham and Heston Boro,E14000701
-ocd-division/country:uk/wmc:filton_and_bradley_stoke_co,Filton and Bradley Stoke Co,E14000702
-ocd-division/country:uk/wmc:finchley_and_golders_green_boro,Finchley and Golders Green Boro,E14000703
-ocd-division/country:uk/wmc:folkestone_and_hythe_co,Folkestone and Hythe Co,E14000704
-ocd-division/country:uk/wmc:forest_of_dean_co,Forest of Dean Co,E14000705
-ocd-division/country:uk/wmc:fylde_co,Fylde Co,E14000706
-ocd-division/country:uk/wmc:gainsborough_co,Gainsborough Co,E14000707
-ocd-division/country:uk/wmc:garston_and_halewood_boro,Garston and Halewood Boro,E14000708
-ocd-division/country:uk/wmc:gateshead_boro,Gateshead Boro,E14000709
-ocd-division/country:uk/wmc:gedling_co,Gedling Co,E14000710
-ocd-division/country:uk/wmc:gillingham_and_rainham_boro,Gillingham and Rainham Boro,E14000711
-ocd-division/country:uk/wmc:glasgow_central_burgh,Glasgow Central Burgh,S14000029
-ocd-division/country:uk/wmc:glasgow_east_burgh,Glasgow East Burgh,S14000030
-ocd-division/country:uk/wmc:glasgow_north_burgh,Glasgow North Burgh,S14000031
-ocd-division/country:uk/wmc:glasgow_north_east_burgh,Glasgow North East Burgh,S14000032
-ocd-division/country:uk/wmc:glasgow_north_west_burgh,Glasgow North West Burgh,S14000033
-ocd-division/country:uk/wmc:glasgow_south_burgh,Glasgow South Burgh,S14000034
-ocd-division/country:uk/wmc:glasgow_south_west_burgh,Glasgow South West Burgh,S14000035
-ocd-division/country:uk/wmc:glenrothes_co,Glenrothes Co,S14000036
-ocd-division/country:uk/wmc:gloucester_boro,Gloucester Boro,E14000712
-ocd-division/country:uk/wmc:gosport_boro,Gosport Boro,E14000713
-ocd-division/country:uk/wmc:gower_co,Gower Co,W07000046
-ocd-division/country:uk/wmc:grantham_and_stamford_co,Grantham and Stamford Co,E14000714
-ocd-division/country:uk/wmc:gravesham_co,Gravesham Co,E14000715
-ocd-division/country:uk/wmc:great_grimsby_boro,Great Grimsby Boro,E14000716
-ocd-division/country:uk/wmc:great_yarmouth_co,Great Yarmouth Co,E14000717
-ocd-division/country:uk/wmc:greenwich_and_woolwich_boro,Greenwich and Woolwich Boro,E14000718
-ocd-division/country:uk/wmc:guildford_co,Guildford Co,E14000719
-ocd-division/country:uk/wmc:hackney_north_and_stoke_newington_boro,Hackney North and Stoke Newington Boro,E14000720
-ocd-division/country:uk/wmc:hackney_south_and_shoreditch_boro,Hackney South and Shoreditch Boro,E14000721
-ocd-division/country:uk/wmc:halesowen_and_rowley_regis_boro,Halesowen and Rowley Regis Boro,E14000722
-ocd-division/country:uk/wmc:halifax_boro,Halifax Boro,E14000723
-ocd-division/country:uk/wmc:haltemprice_and_howden_co,Haltemprice and Howden Co,E14000724
-ocd-division/country:uk/wmc:halton_co,Halton Co,E14000725
-ocd-division/country:uk/wmc:hammersmith_boro,Hammersmith Boro,E14000726
-ocd-division/country:uk/wmc:hampstead_and_kilburn_boro,Hampstead and Kilburn Boro,E14000727
-ocd-division/country:uk/wmc:harborough_co,Harborough Co,E14000728
-ocd-division/country:uk/wmc:harlow_co,Harlow Co,E14000729
-ocd-division/country:uk/wmc:harrogate_and_knaresborough_co,Harrogate and Knaresborough Co,E14000730
-ocd-division/country:uk/wmc:harrow_east_boro,Harrow East Boro,E14000731
-ocd-division/country:uk/wmc:harrow_west_boro,Harrow West Boro,E14000732
-ocd-division/country:uk/wmc:hartlepool_boro,Hartlepool Boro,E14000733
-ocd-division/country:uk/wmc:harwich_and_north_essex_co,Harwich and North Essex Co,E14000734
-ocd-division/country:uk/wmc:hastings_and_rye_co,Hastings and Rye Co,E14000735
-ocd-division/country:uk/wmc:havant_boro,Havant Boro,E14000736
-ocd-division/country:uk/wmc:hayes_and_harlington_boro,Hayes and Harlington Boro,E14000737
-ocd-division/country:uk/wmc:hazel_grove_co,Hazel Grove Co,E14000738
-ocd-division/country:uk/wmc:hemel_hempstead_co,Hemel Hempstead Co,E14000739
-ocd-division/country:uk/wmc:hemsworth_co,Hemsworth Co,E14000740
-ocd-division/country:uk/wmc:hendon_boro,Hendon Boro,E14000741
-ocd-division/country:uk/wmc:henley_co,Henley Co,E14000742
-ocd-division/country:uk/wmc:hereford_and_south_herefordshire_co,Hereford and South Herefordshire Co,E14000743
-ocd-division/country:uk/wmc:hertford_and_stortford_co,Hertford and Stortford Co,E14000744
-ocd-division/country:uk/wmc:hertsmere_co,Hertsmere Co,E14000745
-ocd-division/country:uk/wmc:hexham_co,Hexham Co,E14000746
-ocd-division/country:uk/wmc:heywood_and_middleton_co,Heywood and Middleton Co,E14000747
-ocd-division/country:uk/wmc:high_peak_co,High Peak Co,E14000748
-ocd-division/country:uk/wmc:hitchin_and_harpenden_co,Hitchin and Harpenden Co,E14000749
-ocd-division/country:uk/wmc:holborn_and_st_pancras_boro,Holborn and St. Pancras Boro,E14000750
-ocd-division/country:uk/wmc:hornchurch_and_upminster_boro,Hornchurch and Upminster Boro,E14000751
-ocd-division/country:uk/wmc:hornsey_and_wood_green_boro,Hornsey and Wood Green Boro,E14000752
-ocd-division/country:uk/wmc:horsham_co,Horsham Co,E14000753
-ocd-division/country:uk/wmc:houghton_and_sunderland_south_boro,Houghton and Sunderland South Boro,E14000754
-ocd-division/country:uk/wmc:hove_boro,Hove Boro,E14000755
-ocd-division/country:uk/wmc:huddersfield_boro,Huddersfield Boro,E14000756
-ocd-division/country:uk/wmc:huntingdon_co,Huntingdon Co,E14000757
-ocd-division/country:uk/wmc:hyndburn_boro,Hyndburn Boro,E14000758
-ocd-division/country:uk/wmc:ilford_north_boro,Ilford North Boro,E14000759
-ocd-division/country:uk/wmc:ilford_south_boro,Ilford South Boro,E14000760
-ocd-division/country:uk/wmc:inverclyde_co,Inverclyde Co,S14000038
-ocd-division/country:uk/wmc:inverness_nairn_badenoch_and_strathspey_co,"Inverness, Nairn, Badenoch and Strathspey Co",S14000039
-ocd-division/country:uk/wmc:ipswich_boro,Ipswich Boro,E14000761
-ocd-division/country:uk/wmc:islington_north_boro,Islington North Boro,E14000763
-ocd-division/country:uk/wmc:islington_south_and_finsbury_boro,Islington South and Finsbury Boro,E14000764
-ocd-division/country:uk/wmc:islwyn_co,Islwyn Co,W07000077
-ocd-division/country:uk/wmc:jarrow_boro,Jarrow Boro,E14000765
-ocd-division/country:uk/wmc:keighley_co,Keighley Co,E14000766
-ocd-division/country:uk/wmc:kenilworth_and_southam_co,Kenilworth and Southam Co,E14000767
-ocd-division/country:uk/wmc:kensington_boro,Kensington Boro,E14000768
-ocd-division/country:uk/wmc:kettering_co,Kettering Co,E14000769
-ocd-division/country:uk/wmc:kilmarnock_and_loudoun_co,Kilmarnock and Loudoun Co,S14000040
-ocd-division/country:uk/wmc:kingston_and_surbiton_boro,Kingston and Surbiton Boro,E14000770
-ocd-division/country:uk/wmc:kingston_upon_hull_east_boro,Kingston upon Hull East Boro,E14000771
-ocd-division/country:uk/wmc:kingston_upon_hull_north_boro,Kingston upon Hull North Boro,E14000772
-ocd-division/country:uk/wmc:kingston_upon_hull_west_and_hessle_boro,Kingston upon Hull West and Hessle Boro,E14000773
-ocd-division/country:uk/wmc:kingswood_boro,Kingswood Boro,E14000774
-ocd-division/country:uk/wmc:knowsley_boro,Knowsley Boro,E14000775
-ocd-division/country:uk/wmc:lanark_and_hamilton_east_co,Lanark and Hamilton East Co,S14000042
-ocd-division/country:uk/wmc:lancaster_and_fleetwood_co,Lancaster and Fleetwood Co,E14000776
-ocd-division/country:uk/wmc:leeds_central_boro,Leeds Central Boro,E14000777
-ocd-division/country:uk/wmc:leeds_east_boro,Leeds East Boro,E14000778
-ocd-division/country:uk/wmc:leeds_north_east_boro,Leeds North East Boro,E14000779
-ocd-division/country:uk/wmc:leeds_north_west_boro,Leeds North West Boro,E14000780
-ocd-division/country:uk/wmc:leeds_west_boro,Leeds West Boro,E14000781
-ocd-division/country:uk/wmc:leicester_east_boro,Leicester East Boro,E14000782
-ocd-division/country:uk/wmc:leicester_south_boro,Leicester South Boro,E14000783
-ocd-division/country:uk/wmc:leicester_west_boro,Leicester West Boro,E14000784
-ocd-division/country:uk/wmc:leigh_co,Leigh Co,E14000785
-ocd-division/country:uk/wmc:lewes_co,Lewes Co,E14000786
-ocd-division/country:uk/wmc:lewisham_deptford_boro,"Lewisham, Deptford Boro",E14000789
-ocd-division/country:uk/wmc:lewisham_east_boro,Lewisham East Boro,E14000787
-ocd-division/country:uk/wmc:lewisham_west_and_penge_boro,Lewisham West and Penge Boro,E14000788
-ocd-division/country:uk/wmc:leyton_and_wanstead_boro,Leyton and Wanstead Boro,E14000790
-ocd-division/country:uk/wmc:lichfield_co,Lichfield Co,E14000791
-ocd-division/country:uk/wmc:lincoln_boro,Lincoln Boro,E14000792
-ocd-division/country:uk/wmc:linlithgow_and_east_falkirk_co,Linlithgow and East Falkirk Co,S14000043
-ocd-division/country:uk/wmc:liverpool_riverside_boro,"Liverpool, Riverside Boro",E14000793
-ocd-division/country:uk/wmc:liverpool_walton_boro,"Liverpool, Walton Boro",E14000794
-ocd-division/country:uk/wmc:liverpool_wavertree_boro,"Liverpool, Wavertree Boro",E14000795
-ocd-division/country:uk/wmc:liverpool_west_derby_boro,"Liverpool, West Derby Boro",E14000796
-ocd-division/country:uk/wmc:livingston_co,Livingston Co,S14000044
-ocd-division/country:uk/wmc:llanelli_co,Llanelli Co,W07000045
-ocd-division/country:uk/wmc:loughborough_co,Loughborough Co,E14000797
-ocd-division/country:uk/wmc:louth_and_horncastle_co,Louth and Horncastle Co,E14000798
-ocd-division/country:uk/wmc:ludlow_co,Ludlow Co,E14000799
-ocd-division/country:uk/wmc:luton_north_boro,Luton North Boro,E14000800
-ocd-division/country:uk/wmc:luton_south_boro,Luton South Boro,E14000801
-ocd-division/country:uk/wmc:macclesfield_co,Macclesfield Co,E14000802
-ocd-division/country:uk/wmc:maidenhead_co,Maidenhead Co,E14000803
-ocd-division/country:uk/wmc:maidstone_and_the_weald_co,Maidstone and The Weald Co,E14000804
-ocd-division/country:uk/wmc:makerfield_co,Makerfield Co,E14000805
-ocd-division/country:uk/wmc:maldon_co,Maldon Co,E14000806
-ocd-division/country:uk/wmc:manchester_central_boro,Manchester Central Boro,E14000807
-ocd-division/country:uk/wmc:manchester_gorton_boro,"Manchester, Gorton Boro",E14000808
-ocd-division/country:uk/wmc:manchester_withington_boro,"Manchester, Withington Boro",E14000809
-ocd-division/country:uk/wmc:mansfield_co,Mansfield Co,E14000810
-ocd-division/country:uk/wmc:meon_valley_co,Meon Valley Co,E14000811
-ocd-division/country:uk/wmc:meriden_co,Meriden Co,E14000812
-ocd-division/country:uk/wmc:merthyr_tydfil_and_rhymney_co,Merthyr Tydfil and Rhymney Co,W07000071
-ocd-division/country:uk/wmc:middlesbrough_boro,Middlesbrough Boro,E14000819
-ocd-division/country:uk/wmc:middlesbrough_south_and_east_cleveland_co,Middlesbrough South and East Cleveland Co,E14000820
-ocd-division/country:uk/wmc:midlothian_co,Midlothian Co,S14000045
-ocd-division/country:uk/wmc:mid_bedfordshire_co,Mid Bedfordshire Co,E14000813
-ocd-division/country:uk/wmc:mid_derbyshire_co,Mid Derbyshire Co,E14000814
-ocd-division/country:uk/wmc:mid_dorset_and_north_poole_co,Mid Dorset and North Poole Co,E14000815
-ocd-division/country:uk/wmc:mid_norfolk_co,Mid Norfolk Co,E14000816
-ocd-division/country:uk/wmc:mid_sussex_co,Mid Sussex Co,E14000817
-ocd-division/country:uk/wmc:mid_worcestershire_co,Mid Worcestershire Co,E14000818
-ocd-division/country:uk/wmc:milton_keynes_north_co,Milton Keynes North Co,E14000821
-ocd-division/country:uk/wmc:milton_keynes_south_boro,Milton Keynes South Boro,E14000822
-ocd-division/country:uk/wmc:mitcham_and_morden_boro,Mitcham and Morden Boro,E14000823
-ocd-division/country:uk/wmc:mole_valley_co,Mole Valley Co,E14000824
-ocd-division/country:uk/wmc:monmouth_co,Monmouth Co,W07000054
-ocd-division/country:uk/wmc:montgomeryshire_co,Montgomeryshire Co,W07000063
-ocd-division/country:uk/wmc:morecambe_and_lunesdale_co,Morecambe and Lunesdale Co,E14000825
-ocd-division/country:uk/wmc:morley_and_outwood_co,Morley and Outwood Co,E14000826
-ocd-division/country:uk/wmc:motherwell_and_wishaw_burgh,Motherwell and Wishaw Burgh,S14000047
-ocd-division/country:uk/wmc:neath_co,Neath Co,W07000069
-ocd-division/country:uk/wmc:newark_co,Newark Co,E14000829
-ocd-division/country:uk/wmc:newbury_co,Newbury Co,E14000830
-ocd-division/country:uk/wmc:newcastle-under-lyme_boro,Newcastle-under-Lyme Boro,E14000834
-ocd-division/country:uk/wmc:newcastle_upon_tyne_central_boro,Newcastle upon Tyne Central Boro,E14000831
-ocd-division/country:uk/wmc:newcastle_upon_tyne_east_boro,Newcastle upon Tyne East Boro,E14000832
-ocd-division/country:uk/wmc:newcastle_upon_tyne_north_boro,Newcastle upon Tyne North Boro,E14000833
-ocd-division/country:uk/wmc:newport_west_co,Newport West Co,W07000056
-ocd-division/country:uk/wmc:newton_abbot_co,Newton Abbot Co,E14000835
-ocd-division/country:uk/wmc:new_forest_east_co,New Forest East Co,E14000827
-ocd-division/country:uk/wmc:new_forest_west_co,New Forest West Co,E14000828
-ocd-division/country:uk/wmc:normanton_pontefract_and_castleford_co,"Normanton, Pontefract and Castleford Co",E14000836
-ocd-division/country:uk/wmc:northampton_north_boro,Northampton North Boro,E14000861
-ocd-division/country:uk/wmc:northampton_south_boro,Northampton South Boro,E14000862
-ocd-division/country:uk/wmc:north_devon_co,North Devon Co,E14000838
-ocd-division/country:uk/wmc:north_dorset_co,North Dorset Co,E14000839
-ocd-division/country:uk/wmc:north_durham_co,North Durham Co,E14000840
-ocd-division/country:uk/wmc:north_east_bedfordshire_co,North East Bedfordshire Co,E14000841
-ocd-division/country:uk/wmc:north_east_cambridgeshire_co,North East Cambridgeshire Co,E14000842
-ocd-division/country:uk/wmc:north_east_derbyshire_co,North East Derbyshire Co,E14000843
-ocd-division/country:uk/wmc:north_east_hampshire_co,North East Hampshire Co,E14000844
-ocd-division/country:uk/wmc:north_east_hertfordshire_co,North East Hertfordshire Co,E14000845
-ocd-division/country:uk/wmc:north_east_somerset_co,North East Somerset Co,E14000846
-ocd-division/country:uk/wmc:north_herefordshire_co,North Herefordshire Co,E14000847
-ocd-division/country:uk/wmc:north_shropshire_co,North Shropshire Co,E14000849
-ocd-division/country:uk/wmc:north_somerset_co,North Somerset Co,E14000850
-ocd-division/country:uk/wmc:north_swindon_co,North Swindon Co,E14000851
-ocd-division/country:uk/wmc:north_thanet_co,North Thanet Co,E14000852
-ocd-division/country:uk/wmc:north_tyneside_boro,North Tyneside Boro,E14000853
-ocd-division/country:uk/wmc:north_warwickshire_co,North Warwickshire Co,E14000854
-ocd-division/country:uk/wmc:north_west_cambridgeshire_co,North West Cambridgeshire Co,E14000855
-ocd-division/country:uk/wmc:north_west_durham_co,North West Durham Co,E14000856
-ocd-division/country:uk/wmc:north_west_hampshire_co,North West Hampshire Co,E14000857
-ocd-division/country:uk/wmc:north_west_leicestershire_co,North West Leicestershire Co,E14000858
-ocd-division/country:uk/wmc:north_west_norfolk_co,North West Norfolk Co,E14000859
-ocd-division/country:uk/wmc:north_wiltshire_co,North Wiltshire Co,E14000860
-ocd-division/country:uk/wmc:norwich_south_boro,Norwich South Boro,E14000864
-ocd-division/country:uk/wmc:nottingham_east_boro,Nottingham East Boro,E14000865
-ocd-division/country:uk/wmc:nottingham_north_boro,Nottingham North Boro,E14000866
-ocd-division/country:uk/wmc:nottingham_south_boro,Nottingham South Boro,E14000867
-ocd-division/country:uk/wmc:nuneaton_co,Nuneaton Co,E14000868
-ocd-division/country:uk/wmc:ochil_and_south_perthshire_co,Ochil and South Perthshire Co,S14000050
-ocd-division/country:uk/wmc:ogmore_co,Ogmore Co,W07000074
-ocd-division/country:uk/wmc:oldham_east_and_saddleworth_co,Oldham East and Saddleworth Co,E14000870
-ocd-division/country:uk/wmc:oldham_west_and_royton_boro,Oldham West and Royton Boro,E14000871
-ocd-division/country:uk/wmc:old_bexley_and_sidcup_boro,Old Bexley and Sidcup Boro,E14000869
-ocd-division/country:uk/wmc:orpington_boro,Orpington Boro,E14000872
-ocd-division/country:uk/wmc:oxford_east_boro,Oxford East Boro,E14000873
-ocd-division/country:uk/wmc:oxford_west_and_abingdon_co,Oxford West and Abingdon Co,E14000874
-ocd-division/country:uk/wmc:paisley_and_renfrewshire_north_co,Paisley and Renfrewshire North Co,S14000052
-ocd-division/country:uk/wmc:paisley_and_renfrewshire_south_co,Paisley and Renfrewshire South Co,S14000053
-ocd-division/country:uk/wmc:pendle_boro,Pendle Boro,E14000875
-ocd-division/country:uk/wmc:penistone_and_stocksbridge_co,Penistone and Stocksbridge Co,E14000876
-ocd-division/country:uk/wmc:penrith_and_the_border_co,Penrith and The Border Co,E14000877
-ocd-division/country:uk/wmc:perth_and_north_perthshire_co,Perth and North Perthshire Co,S14000054
-ocd-division/country:uk/wmc:peterborough_boro,Peterborough Boro,E14000878
-ocd-division/country:uk/wmc:plymouth_moor_view_boro,"Plymouth, Moor View Boro",E14000879
-ocd-division/country:uk/wmc:pontypridd_co,Pontypridd Co,W07000075
-ocd-division/country:uk/wmc:poole_boro,Poole Boro,E14000881
-ocd-division/country:uk/wmc:poplar_and_limehouse_boro,Poplar and Limehouse Boro,E14000882
-ocd-division/country:uk/wmc:portsmouth_north_boro,Portsmouth North Boro,E14000883
-ocd-division/country:uk/wmc:preston_boro,Preston Boro,E14000885
-ocd-division/country:uk/wmc:pudsey_boro,Pudsey Boro,E14000886
-ocd-division/country:uk/wmc:putney_boro,Putney Boro,E14000887
-ocd-division/country:uk/wmc:rayleigh_and_wickford_co,Rayleigh and Wickford Co,E14000888
-ocd-division/country:uk/wmc:reading_east_boro,Reading East Boro,E14000889
-ocd-division/country:uk/wmc:reading_west_co,Reading West Co,E14000890
-ocd-division/country:uk/wmc:redcar_boro,Redcar Boro,E14000891
-ocd-division/country:uk/wmc:redditch_co,Redditch Co,E14000892
-ocd-division/country:uk/wmc:reigate_boro,Reigate Boro,E14000893
-ocd-division/country:uk/wmc:rhondda_co,Rhondda Co,W07000052
-ocd-division/country:uk/wmc:ribble_valley_co,Ribble Valley Co,E14000894
-ocd-division/country:uk/wmc:richmond_yorks_co,Richmond (Yorks) Co,E14000895
-ocd-division/country:uk/wmc:richmond_park_boro,Richmond Park Boro,E14000896
-ocd-division/country:uk/wmc:rochdale_co,Rochdale Co,E14000897
-ocd-division/country:uk/wmc:rochester_and_strood_co,Rochester and Strood Co,E14000898
-ocd-division/country:uk/wmc:rochford_and_southend_east_co,Rochford and Southend East Co,E14000899
-ocd-division/country:uk/wmc:romford_boro,Romford Boro,E14000900
-ocd-division/country:uk/wmc:romsey_and_southampton_north_co,Romsey and Southampton North Co,E14000901
-ocd-division/country:uk/wmc:rossendale_and_darwen_boro,Rossendale and Darwen Boro,E14000902
-ocd-division/country:uk/wmc:rotherham_boro,Rotherham Boro,E14000904
-ocd-division/country:uk/wmc:rother_valley_co,Rother Valley Co,E14000903
-ocd-division/country:uk/wmc:rugby_co,Rugby Co,E14000905
-ocd-division/country:uk/wmc:ruislip_northwood_and_pinner_boro,"Ruislip, Northwood and Pinner Boro",E14000906
-ocd-division/country:uk/wmc:runnymede_and_weybridge_co,Runnymede and Weybridge Co,E14000907
-ocd-division/country:uk/wmc:rushcliffe_co,Rushcliffe Co,E14000908
-ocd-division/country:uk/wmc:rutherglen_and_hamilton_west_burgh,Rutherglen and Hamilton West Burgh,S14000056
-ocd-division/country:uk/wmc:rutland_and_melton_co,Rutland and Melton Co,E14000909
-ocd-division/country:uk/wmc:saffron_walden_co,Saffron Walden Co,E14000910
-ocd-division/country:uk/wmc:salford_and_eccles_boro,Salford and Eccles Boro,E14000911
-ocd-division/country:uk/wmc:salisbury_co,Salisbury Co,E14000912
-ocd-division/country:uk/wmc:scarborough_and_whitby_co,Scarborough and Whitby Co,E14000913
-ocd-division/country:uk/wmc:scunthorpe_co,Scunthorpe Co,E14000914
-ocd-division/country:uk/wmc:sedgefield_co,Sedgefield Co,E14000915
-ocd-division/country:uk/wmc:sefton_central_co,Sefton Central Co,E14000916
-ocd-division/country:uk/wmc:selby_and_ainsty_co,Selby and Ainsty Co,E14000917
-ocd-division/country:uk/wmc:sevenoaks_co,Sevenoaks Co,E14000918
-ocd-division/country:uk/wmc:sheffield_brightside_and_hillsborough_boro,"Sheffield, Brightside and Hillsborough Boro",E14000921
-ocd-division/country:uk/wmc:sheffield_central_boro,Sheffield Central Boro,E14000919
-ocd-division/country:uk/wmc:sheffield_hallam_co,"Sheffield, Hallam Co",E14000922
-ocd-division/country:uk/wmc:sheffield_heeley_boro,"Sheffield, Heeley Boro",E14000923
-ocd-division/country:uk/wmc:sheffield_south_east_boro,Sheffield South East Boro,E14000920
-ocd-division/country:uk/wmc:sherwood_co,Sherwood Co,E14000924
-ocd-division/country:uk/wmc:shipley_co,Shipley Co,E14000925
-ocd-division/country:uk/wmc:shrewsbury_and_atcham_co,Shrewsbury and Atcham Co,E14000926
-ocd-division/country:uk/wmc:sittingbourne_and_sheppey_co,Sittingbourne and Sheppey Co,E14000927
-ocd-division/country:uk/wmc:skipton_and_ripon_co,Skipton and Ripon Co,E14000928
-ocd-division/country:uk/wmc:sleaford_and_north_hykeham_co,Sleaford and North Hykeham Co,E14000929
-ocd-division/country:uk/wmc:slough_boro,Slough Boro,E14000930
-ocd-division/country:uk/wmc:solihull_boro,Solihull Boro,E14000931
-ocd-division/country:uk/wmc:somerton_and_frome_co,Somerton and Frome Co,E14000932
-ocd-division/country:uk/wmc:southampton_itchen_boro,"Southampton, Itchen Boro",E14000955
-ocd-division/country:uk/wmc:southampton_test_boro,"Southampton, Test Boro",E14000956
-ocd-division/country:uk/wmc:southend_west_boro,Southend West Boro,E14000957
-ocd-division/country:uk/wmc:southport_boro,Southport Boro,E14000958
-ocd-division/country:uk/wmc:south_basildon_and_east_thurrock_co,South Basildon and East Thurrock Co,E14000933
-ocd-division/country:uk/wmc:south_cambridgeshire_co,South Cambridgeshire Co,E14000934
-ocd-division/country:uk/wmc:south_derbyshire_co,South Derbyshire Co,E14000935
-ocd-division/country:uk/wmc:south_dorset_co,South Dorset Co,E14000936
-ocd-division/country:uk/wmc:south_east_cambridgeshire_co,South East Cambridgeshire Co,E14000937
-ocd-division/country:uk/wmc:south_holland_and_the_deepings_co,South Holland and The Deepings Co,E14000939
-ocd-division/country:uk/wmc:south_leicestershire_co,South Leicestershire Co,E14000940
-ocd-division/country:uk/wmc:south_norfolk_co,South Norfolk Co,E14000941
-ocd-division/country:uk/wmc:south_northamptonshire_co,South Northamptonshire Co,E14000942
-ocd-division/country:uk/wmc:south_ribble_co,South Ribble Co,E14000943
-ocd-division/country:uk/wmc:south_shields_boro,South Shields Boro,E14000944
-ocd-division/country:uk/wmc:south_staffordshire_co,South Staffordshire Co,E14000945
-ocd-division/country:uk/wmc:south_suffolk_co,South Suffolk Co,E14000946
-ocd-division/country:uk/wmc:south_swindon_co,South Swindon Co,E14000947
-ocd-division/country:uk/wmc:south_thanet_co,South Thanet Co,E14000948
-ocd-division/country:uk/wmc:south_west_bedfordshire_co,South West Bedfordshire Co,E14000949
-ocd-division/country:uk/wmc:south_west_hertfordshire_co,South West Hertfordshire Co,E14000951
-ocd-division/country:uk/wmc:south_west_norfolk_co,South West Norfolk Co,E14000952
-ocd-division/country:uk/wmc:south_west_surrey_co,South West Surrey Co,E14000953
-ocd-division/country:uk/wmc:south_west_wiltshire_co,South West Wiltshire Co,E14000954
-ocd-division/country:uk/wmc:spelthorne_boro,Spelthorne Boro,E14000959
-ocd-division/country:uk/wmc:staffordshire_moorlands_co,Staffordshire Moorlands Co,E14000966
-ocd-division/country:uk/wmc:stafford_co,Stafford Co,E14000965
-ocd-division/country:uk/wmc:stalybridge_and_hyde_co,Stalybridge and Hyde Co,E14000967
-ocd-division/country:uk/wmc:stevenage_co,Stevenage Co,E14000968
-ocd-division/country:uk/wmc:stirling_co,Stirling Co,S14000057
-ocd-division/country:uk/wmc:stockport_boro,Stockport Boro,E14000969
-ocd-division/country:uk/wmc:stockton_north_boro,Stockton North Boro,E14000970
-ocd-division/country:uk/wmc:stockton_south_boro,Stockton South Boro,E14000971
-ocd-division/country:uk/wmc:stoke-on-trent_central_boro,Stoke-on-Trent Central Boro,E14000972
-ocd-division/country:uk/wmc:stoke-on-trent_north_boro,Stoke-on-Trent North Boro,E14000973
-ocd-division/country:uk/wmc:stoke-on-trent_south_boro,Stoke-on-Trent South Boro,E14000974
-ocd-division/country:uk/wmc:stone_co,Stone Co,E14000975
-ocd-division/country:uk/wmc:stourbridge_boro,Stourbridge Boro,E14000976
-ocd-division/country:uk/wmc:stratford-on-avon_co,Stratford-on-Avon Co,E14000977
-ocd-division/country:uk/wmc:streatham_boro,Streatham Boro,E14000978
-ocd-division/country:uk/wmc:stretford_and_urmston_boro,Stretford and Urmston Boro,E14000979
-ocd-division/country:uk/wmc:stroud_co,Stroud Co,E14000980
-ocd-division/country:uk/wmc:st_albans_co,St. Albans Co,E14000960
-ocd-division/country:uk/wmc:st_austell_and_newquay_co,St. Austell and Newquay Co,E14000961
-ocd-division/country:uk/wmc:st_helens_north_boro,St. Helens North Boro,E14000962
-ocd-division/country:uk/wmc:st_helens_south_and_whiston_boro,St. Helens South and Whiston Boro,E14000963
-ocd-division/country:uk/wmc:suffolk_coastal_co,Suffolk Coastal Co,E14000981
-ocd-division/country:uk/wmc:sunderland_central_boro,Sunderland Central Boro,E14000982
-ocd-division/country:uk/wmc:surrey_heath_co,Surrey Heath Co,E14000983
-ocd-division/country:uk/wmc:sutton_and_cheam_boro,Sutton and Cheam Boro,E14000984
-ocd-division/country:uk/wmc:sutton_coldfield_boro,Sutton Coldfield Boro,E14000985
-ocd-division/country:uk/wmc:swansea_east_boro,Swansea East Boro,W07000048
-ocd-division/country:uk/wmc:swansea_west_boro,Swansea West Boro,W07000047
-ocd-division/country:uk/wmc:tamworth_co,Tamworth Co,E14000986
-ocd-division/country:uk/wmc:tatton_co,Tatton Co,E14000987
-ocd-division/country:uk/wmc:taunton_deane_co,Taunton Deane Co,E14000988
-ocd-division/country:uk/wmc:telford_boro,Telford Boro,E14000989
-ocd-division/country:uk/wmc:tewkesbury_co,Tewkesbury Co,E14000990
-ocd-division/country:uk/wmc:the_cotswolds_co,The Cotswolds Co,E14000991
-ocd-division/country:uk/wmc:the_wrekin_co,The Wrekin Co,E14000992
-ocd-division/country:uk/wmc:thirsk_and_malton_co,Thirsk and Malton Co,E14000993
-ocd-division/country:uk/wmc:thornbury_and_yate_co,Thornbury and Yate Co,E14000994
-ocd-division/country:uk/wmc:thurrock_boro,Thurrock Boro,E14000995
-ocd-division/country:uk/wmc:tiverton_and_honiton_co,Tiverton and Honiton Co,E14000996
-ocd-division/country:uk/wmc:tonbridge_and_malling_co,Tonbridge and Malling Co,E14000997
-ocd-division/country:uk/wmc:tooting_boro,Tooting Boro,E14000998
-ocd-division/country:uk/wmc:torbay_boro,Torbay Boro,E14000999
-ocd-division/country:uk/wmc:torfaen_co,Torfaen Co,W07000053
-ocd-division/country:uk/wmc:totnes_co,Totnes Co,E14001001
-ocd-division/country:uk/wmc:tottenham_boro,Tottenham Boro,E14001002
-ocd-division/country:uk/wmc:tunbridge_wells_co,Tunbridge Wells Co,E14001004
-ocd-division/country:uk/wmc:twickenham_boro,Twickenham Boro,E14001005
-ocd-division/country:uk/wmc:tynemouth_boro,Tynemouth Boro,E14001006
-ocd-division/country:uk/wmc:uxbridge_and_south_ruislip_boro,Uxbridge and South Ruislip Boro,E14001007
-ocd-division/country:uk/wmc:vale_of_clwyd_co,Vale of Clwyd Co,W07000060
-ocd-division/country:uk/wmc:vale_of_glamorgan_co,Vale of Glamorgan Co,W07000078
-ocd-division/country:uk/wmc:vauxhall_boro,Vauxhall Boro,E14001008
-ocd-division/country:uk/wmc:wakefield_co,Wakefield Co,E14001009
-ocd-division/country:uk/wmc:wallasey_boro,Wallasey Boro,E14001010
-ocd-division/country:uk/wmc:walsall_north_boro,Walsall North Boro,E14001011
-ocd-division/country:uk/wmc:walsall_south_boro,Walsall South Boro,E14001012
-ocd-division/country:uk/wmc:walthamstow_boro,Walthamstow Boro,E14001013
-ocd-division/country:uk/wmc:wansbeck_co,Wansbeck Co,E14001014
-ocd-division/country:uk/wmc:wantage_co,Wantage Co,E14001015
-ocd-division/country:uk/wmc:warley_boro,Warley Boro,E14001016
-ocd-division/country:uk/wmc:warrington_north_boro,Warrington North Boro,E14001017
-ocd-division/country:uk/wmc:warrington_south_boro,Warrington South Boro,E14001018
-ocd-division/country:uk/wmc:warwick_and_leamington_boro,Warwick and Leamington Boro,E14001019
-ocd-division/country:uk/wmc:washington_and_sunderland_west_boro,Washington and Sunderland West Boro,E14001020
-ocd-division/country:uk/wmc:watford_boro,Watford Boro,E14001021
-ocd-division/country:uk/wmc:waveney_co,Waveney Co,E14001022
-ocd-division/country:uk/wmc:wealden_co,Wealden Co,E14001023
-ocd-division/country:uk/wmc:weaver_vale_co,Weaver Vale Co,E14001024
-ocd-division/country:uk/wmc:wellingborough_co,Wellingborough Co,E14001025
-ocd-division/country:uk/wmc:wells_co,Wells Co,E14001026
-ocd-division/country:uk/wmc:welwyn_hatfield_co,Welwyn Hatfield Co,E14001027
-ocd-division/country:uk/wmc:wentworth_and_dearne_co,Wentworth and Dearne Co,E14001028
-ocd-division/country:uk/wmc:westminster_north_boro,Westminster North Boro,E14001036
-ocd-division/country:uk/wmc:westmorland_and_lonsdale_co,Westmorland and Lonsdale Co,E14001037
-ocd-division/country:uk/wmc:west_bromwich_east_boro,West Bromwich East Boro,E14001029
-ocd-division/country:uk/wmc:west_bromwich_west_boro,West Bromwich West Boro,E14001030
-ocd-division/country:uk/wmc:west_dorset_co,West Dorset Co,E14001031
-ocd-division/country:uk/wmc:west_dunbartonshire_co,West Dunbartonshire Co,S14000059
-ocd-division/country:uk/wmc:west_ham_boro,West Ham Boro,E14001032
-ocd-division/country:uk/wmc:west_lancashire_co,West Lancashire Co,E14001033
-ocd-division/country:uk/wmc:west_suffolk_co,West Suffolk Co,E14001034
-ocd-division/country:uk/wmc:west_worcestershire_co,West Worcestershire Co,E14001035
-ocd-division/country:uk/wmc:wigan_co,Wigan Co,E14001039
-ocd-division/country:uk/wmc:wimbledon_boro,Wimbledon Boro,E14001040
-ocd-division/country:uk/wmc:winchester_co,Winchester Co,E14001041
-ocd-division/country:uk/wmc:windsor_co,Windsor Co,E14001042
-ocd-division/country:uk/wmc:wirral_south_co,Wirral South Co,E14001043
-ocd-division/country:uk/wmc:wirral_west_co,Wirral West Co,E14001044
-ocd-division/country:uk/wmc:witham_co,Witham Co,E14001045
-ocd-division/country:uk/wmc:witney_co,Witney Co,E14001046
-ocd-division/country:uk/wmc:wokingham_co,Wokingham Co,E14001048
-ocd-division/country:uk/wmc:woking_co,Woking Co,E14001047
-ocd-division/country:uk/wmc:wolverhampton_north_east_boro,Wolverhampton North East Boro,E14001049
-ocd-division/country:uk/wmc:wolverhampton_south_east_boro,Wolverhampton South East Boro,E14001050
-ocd-division/country:uk/wmc:wolverhampton_south_west_boro,Wolverhampton South West Boro,E14001051
-ocd-division/country:uk/wmc:worcester_boro,Worcester Boro,E14001052
-ocd-division/country:uk/wmc:workington_co,Workington Co,E14001053
-ocd-division/country:uk/wmc:worsley_and_eccles_south_co,Worsley and Eccles South Co,E14001054
-ocd-division/country:uk/wmc:worthing_west_boro,Worthing West Boro,E14001055
-ocd-division/country:uk/wmc:wrexham_co,Wrexham Co,W07000044
-ocd-division/country:uk/wmc:wycombe_co,Wycombe Co,E14001056
-ocd-division/country:uk/wmc:wyre_and_preston_north_co,Wyre and Preston North Co,E14001057
-ocd-division/country:uk/wmc:wyre_forest_co,Wyre Forest Co,E14001058
-ocd-division/country:uk/wmc:wythenshawe_and_sale_east_boro,Wythenshawe and Sale East Boro,E14001059
-ocd-division/country:uk/wmc:yeovil_co,Yeovil Co,E14001060
-ocd-division/country:uk/wmc:york_central_boro,York Central Boro,E14001061
-ocd-division/country:uk/wmc:york_outer_co,York Outer Co,E14001062
-ocd-division/country:uk/wmc:dwyfor_meirionnydd_co,Dwyfor Meirionnydd Co,W07000061
-ocd-division/country:uk/wmc:ceredigion_co,Ceredigion Co,W07000064
-ocd-division/country:uk/wmc:ynys_mon_co,Ynys Mon Co,W07000041
-ocd-division/country:uk/wmc:newport_east_co,Newport East Co,W07000055
-ocd-division/country:uk/wmc:cardiff_south_and_penarth_boro,Cardiff South and Penarth Boro,W07000080
-ocd-division/country:uk/wmc:weston-super-mare_co,Weston-Super-Mare Co,E14001038
-ocd-division/country:uk/wmc:torridge_and_west_devon_co,Torridge and West Devon Co,E14001000
-ocd-division/country:uk/wmc:north_cornwall_co,North Cornwall Co,E14000837
-ocd-division/country:uk/wmc:portsmouth_south_boro,Portsmouth South Boro,E14000884
-ocd-division/country:uk/wmc:isle_of_wight_co,Isle of Wight Co,E14000762
-ocd-division/country:uk/wmc:north_norfolk_co,North Norfolk Co,E14000848
-ocd-division/country:uk/wmc:berwick-upon-tweed_co,Berwick-upon-Tweed Co,E14000554
-ocd-division/country:uk/wmc:south_east_cornwall_co,South East Cornwall Co,E14000938
-ocd-division/country:uk/wmc:south_west_devon_co,South West Devon Co,E14000950
-ocd-division/country:uk/wmc:plymouth_sutton_and_devonport_boro,"Plymouth, Sutton and Devonport Boro",E14000880
-ocd-division/country:uk/wmc:norwich_north_boro,Norwich North Boro,E14000863
-ocd-division/country:uk/wmc:st_ives_co,St. Ives Co,E14000964
-ocd-division/country:uk/wmc:camborne_and_redruth_co,Camborne and Redruth Co,E14000616
-ocd-division/country:uk/wmc:caithness_sutherland_and_easter_ross_co,"Caithness, Sutherland and Easter Ross Co",S14000009
-ocd-division/country:uk/wmc:ross_skye_and_lochaber_co,"Ross, Skye and Lochaber Co",S14000055
-ocd-division/country:uk/wmc:moray_co,Moray Co,S14000046
-ocd-division/country:uk/wmc:orkney_and_shetland_co,Orkney and Shetland Co,S14000051
-ocd-division/country:uk/wmc:na_h-eileanan_an_iar_co,Na h-Eileanan an Iar Co,S14000027
-ocd-division/country:uk/wmc:argyll_and_bute_co,Argyll and Bute Co,S14000005
-ocd-division/country:uk/wmc:west_aberdeenshire_and_kincardine_co,West Aberdeenshire and Kincardine Co,S14000058
-ocd-division/country:uk/wmc:banff_and_buchan_co,Banff and Buchan Co,S14000007
-ocd-division/country:uk/wmc:north_east_fife_co,North East Fife Co,S14000049
-ocd-division/country:uk/wmc:gordon_co,Gordon Co,S14000037
-ocd-division/country:uk/wmc:kirkcaldy_and_cowdenbeath_co,Kirkcaldy and Cowdenbeath Co,S14000041
-ocd-division/country:uk/wmc:aberdeen_south_burgh,Aberdeen South Burgh,S14000002
-ocd-division/country:uk/wmc:edinburgh_west_burgh,Edinburgh West Burgh,S14000026
-ocd-division/country:uk/wmc:east_lothian_co,East Lothian Co,S14000020
-ocd-division/country:uk/wmc:north_ayrshire_and_arran_co,North Ayrshire and Arran Co,S14000048
-ocd-division/country:uk/wmc:dumfries_and_galloway_co,Dumfries and Galloway Co,S14000013
-ocd-division/country:uk/wmc:carmarthen_west_and_south_pembrokeshire_co,Carmarthen West and South Pembrokeshire Co,W07000066
-ocd-division/country:uk/wmc:ayr_carrick_and_cumnock_co,"Ayr, Carrick and Cumnock Co",S14000006
-ocd-division/country:uk/wmc:central_ayrshire_co,Central Ayrshire Co,S14000010
-ocd-division/country:uk/wmc:preseli_pembrokeshire_co,Preseli Pembrokeshire Co,W07000065
-ocd-division/country:uk/wmc:truro_and_falmouth_co,Truro and Falmouth Co,E14001003
+ocd-division/country:uk/wmc:aberavon_co_const,Aberavon Co,W07000049
+ocd-division/country:uk/wmc:aberconwy_co_const,Aberconwy Co,W07000058
+ocd-division/country:uk/wmc:aberdeen_north_burgh_const,Aberdeen North Burgh,S14000001
+ocd-division/country:uk/wmc:airdrie_and_shotts_co_const,Airdrie and Shotts Co,S14000003
+ocd-division/country:uk/wmc:aldershot_boro_const,Aldershot Boro,E14000530
+ocd-division/country:uk/wmc:aldridge-brownhills_boro_const,Aldridge-Brownhills Boro,E14000531
+ocd-division/country:uk/wmc:altrincham_and_sale_west_boro_const,Altrincham and Sale West Boro,E14000532
+ocd-division/country:uk/wmc:alyn_and_deeside_co_const,Alyn and Deeside Co,W07000043
+ocd-division/country:uk/wmc:amber_valley_co_const,Amber Valley Co,E14000533
+ocd-division/country:uk/wmc:angus_co_const,Angus Co,S14000004
+ocd-division/country:uk/wmc:arfon_co_const,Arfon Co,W07000057
+ocd-division/country:uk/wmc:arundel_and_south_downs_co_const,Arundel and South Downs Co,E14000534
+ocd-division/country:uk/wmc:ashfield_co_const,Ashfield Co,E14000535
+ocd-division/country:uk/wmc:ashford_co_const,Ashford Co,E14000536
+ocd-division/country:uk/wmc:ashton-under-lyne_boro_const,Ashton-under-Lyne Boro,E14000537
+ocd-division/country:uk/wmc:aylesbury_co_const,Aylesbury Co,E14000538
+ocd-division/country:uk/wmc:banbury_co_const,Banbury Co,E14000539
+ocd-division/country:uk/wmc:barking_boro_const,Barking Boro,E14000540
+ocd-division/country:uk/wmc:barnsley_central_boro_const,Barnsley Central Boro,E14000541
+ocd-division/country:uk/wmc:barnsley_east_co_const,Barnsley East Co,E14000542
+ocd-division/country:uk/wmc:barrow_and_furness_co_const,Barrow and Furness Co,E14000543
+ocd-division/country:uk/wmc:basildon_and_billericay_boro_const,Basildon and Billericay Boro,E14000544
+ocd-division/country:uk/wmc:basingstoke_boro_const,Basingstoke Boro,E14000545
+ocd-division/country:uk/wmc:bassetlaw_co_const,Bassetlaw Co,E14000546
+ocd-division/country:uk/wmc:bath_boro_const,Bath Boro,E14000547
+ocd-division/country:uk/wmc:batley_and_spen_boro_const,Batley and Spen Boro,E14000548
+ocd-division/country:uk/wmc:battersea_boro_const,Battersea Boro,E14000549
+ocd-division/country:uk/wmc:beaconsfield_co_const,Beaconsfield Co,E14000550
+ocd-division/country:uk/wmc:beckenham_boro_const,Beckenham Boro,E14000551
+ocd-division/country:uk/wmc:bedford_boro_const,Bedford Boro,E14000552
+ocd-division/country:uk/wmc:bermondsey_and_old_southwark_boro_const,Bermondsey and Old Southwark Boro,E14000553
+ocd-division/country:uk/wmc:berwickshire_roxburgh_and_selkirk_co_const,"Berwickshire, Roxburgh and Selkirk Co",S14000008
+ocd-division/country:uk/wmc:bethnal_green_and_bow_boro_const,Bethnal Green and Bow Boro,E14000555
+ocd-division/country:uk/wmc:beverley_and_holderness_co_const,Beverley and Holderness Co,E14000556
+ocd-division/country:uk/wmc:bexhill_and_battle_co_const,Bexhill and Battle Co,E14000557
+ocd-division/country:uk/wmc:bexleyheath_and_crayford_boro_const,Bexleyheath and Crayford Boro,E14000558
+ocd-division/country:uk/wmc:birkenhead_boro_const,Birkenhead Boro,E14000559
+ocd-division/country:uk/wmc:birmingham_edgbaston_boro_const,"Birmingham, Edgbaston Boro",E14000560
+ocd-division/country:uk/wmc:birmingham_erdington_boro_const,"Birmingham, Erdington Boro",E14000561
+ocd-division/country:uk/wmc:birmingham_hall_green_boro_const,"Birmingham, Hall Green Boro",E14000562
+ocd-division/country:uk/wmc:birmingham_hodge_hill_boro_const,"Birmingham, Hodge Hill Boro",E14000563
+ocd-division/country:uk/wmc:birmingham_ladywood_boro_const,"Birmingham, Ladywood Boro",E14000564
+ocd-division/country:uk/wmc:birmingham_northfield_boro_const,"Birmingham, Northfield Boro",E14000565
+ocd-division/country:uk/wmc:birmingham_perry_barr_boro_const,"Birmingham, Perry Barr Boro",E14000566
+ocd-division/country:uk/wmc:birmingham_selly_oak_boro_const,"Birmingham, Selly Oak Boro",E14000567
+ocd-division/country:uk/wmc:birmingham_yardley_boro_const,"Birmingham, Yardley Boro",E14000568
+ocd-division/country:uk/wmc:bishop_auckland_co_const,Bishop Auckland Co,E14000569
+ocd-division/country:uk/wmc:blackburn_boro_const,Blackburn Boro,E14000570
+ocd-division/country:uk/wmc:blackley_and_broughton_boro_const,Blackley and Broughton Boro,E14000571
+ocd-division/country:uk/wmc:blackpool_north_and_cleveleys_boro_const,Blackpool North and Cleveleys Boro,E14000572
+ocd-division/country:uk/wmc:blackpool_south_boro_const,Blackpool South Boro,E14000573
+ocd-division/country:uk/wmc:blaenau_gwent_co_const,Blaenau Gwent Co,W07000072
+ocd-division/country:uk/wmc:blaydon_boro_const,Blaydon Boro,E14000574
+ocd-division/country:uk/wmc:blyth_valley_boro_const,Blyth Valley Boro,E14000575
+ocd-division/country:uk/wmc:bognor_regis_and_littlehampton_co_const,Bognor Regis and Littlehampton Co,E14000576
+ocd-division/country:uk/wmc:bolsover_co_const,Bolsover Co,E14000577
+ocd-division/country:uk/wmc:bolton_north_east_boro_const,Bolton North East Boro,E14000578
+ocd-division/country:uk/wmc:bolton_south_east_boro_const,Bolton South East Boro,E14000579
+ocd-division/country:uk/wmc:bolton_west_co_const,Bolton West Co,E14000580
+ocd-division/country:uk/wmc:bootle_boro_const,Bootle Boro,E14000581
+ocd-division/country:uk/wmc:boston_and_skegness_co_const,Boston and Skegness Co,E14000582
+ocd-division/country:uk/wmc:bosworth_co_const,Bosworth Co,E14000583
+ocd-division/country:uk/wmc:bournemouth_east_boro_const,Bournemouth East Boro,E14000584
+ocd-division/country:uk/wmc:bournemouth_west_boro_const,Bournemouth West Boro,E14000585
+ocd-division/country:uk/wmc:bracknell_co_const,Bracknell Co,E14000586
+ocd-division/country:uk/wmc:bradford_east_boro_const,Bradford East Boro,E14000587
+ocd-division/country:uk/wmc:bradford_south_boro_const,Bradford South Boro,E14000588
+ocd-division/country:uk/wmc:bradford_west_boro_const,Bradford West Boro,E14000589
+ocd-division/country:uk/wmc:braintree_co_const,Braintree Co,E14000590
+ocd-division/country:uk/wmc:brecon_and_radnorshire_co_const,Brecon and Radnorshire Co,W07000068
+ocd-division/country:uk/wmc:brentford_and_isleworth_boro_const,Brentford and Isleworth Boro,E14000593
+ocd-division/country:uk/wmc:brentwood_and_ongar_co_const,Brentwood and Ongar Co,E14000594
+ocd-division/country:uk/wmc:brent_central_boro_const,Brent Central Boro,E14000591
+ocd-division/country:uk/wmc:brent_north_boro_const,Brent North Boro,E14000592
+ocd-division/country:uk/wmc:bridgend_co_const,Bridgend Co,W07000073
+ocd-division/country:uk/wmc:bridgwater_and_west_somerset_co_const,Bridgwater and West Somerset Co,E14000595
+ocd-division/country:uk/wmc:brigg_and_goole_co_const,Brigg and Goole Co,E14000596
+ocd-division/country:uk/wmc:brighton_kemptown_boro_const,"Brighton, Kemptown Boro",E14000597
+ocd-division/country:uk/wmc:brighton_pavilion_boro_const,"Brighton, Pavilion Boro",E14000598
+ocd-division/country:uk/wmc:bristol_east_boro_const,Bristol East Boro,E14000599
+ocd-division/country:uk/wmc:bristol_north_west_boro_const,Bristol North West Boro,E14000600
+ocd-division/country:uk/wmc:bristol_south_boro_const,Bristol South Boro,E14000601
+ocd-division/country:uk/wmc:bristol_west_boro_const,Bristol West Boro,E14000602
+ocd-division/country:uk/wmc:broadland_co_const,Broadland Co,E14000603
+ocd-division/country:uk/wmc:bromley_and_chislehurst_boro_const,Bromley and Chislehurst Boro,E14000604
+ocd-division/country:uk/wmc:bromsgrove_co_const,Bromsgrove Co,E14000605
+ocd-division/country:uk/wmc:broxbourne_boro_const,Broxbourne Boro,E14000606
+ocd-division/country:uk/wmc:broxtowe_co_const,Broxtowe Co,E14000607
+ocd-division/country:uk/wmc:buckingham_co_const,Buckingham Co,E14000608
+ocd-division/country:uk/wmc:burnley_boro_const,Burnley Boro,E14000609
+ocd-division/country:uk/wmc:burton_co_const,Burton Co,E14000610
+ocd-division/country:uk/wmc:bury_north_boro_const,Bury North Boro,E14000611
+ocd-division/country:uk/wmc:bury_south_boro_const,Bury South Boro,E14000612
+ocd-division/country:uk/wmc:bury_st_edmunds_co_const,Bury St. Edmunds Co,E14000613
+ocd-division/country:uk/wmc:caerphilly_co_const,Caerphilly Co,W07000076
+ocd-division/country:uk/wmc:calder_valley_co_const,Calder Valley Co,E14000614
+ocd-division/country:uk/wmc:camberwell_and_peckham_boro_const,Camberwell and Peckham Boro,E14000615
+ocd-division/country:uk/wmc:cambridge_boro_const,Cambridge Boro,E14000617
+ocd-division/country:uk/wmc:cannock_chase_co_const,Cannock Chase Co,E14000618
+ocd-division/country:uk/wmc:canterbury_co_const,Canterbury Co,E14000619
+ocd-division/country:uk/wmc:cardiff_central_boro_const,Cardiff Central Boro,W07000050
+ocd-division/country:uk/wmc:cardiff_north_boro_const,Cardiff North Boro,W07000051
+ocd-division/country:uk/wmc:cardiff_west_boro_const,Cardiff West Boro,W07000079
+ocd-division/country:uk/wmc:carlisle_boro_const,Carlisle Boro,E14000620
+ocd-division/country:uk/wmc:carmarthen_east_and_dinefwr_co_const,Carmarthen East and Dinefwr Co,W07000067
+ocd-division/country:uk/wmc:carshalton_and_wallington_boro_const,Carshalton and Wallington Boro,E14000621
+ocd-division/country:uk/wmc:castle_point_boro_const,Castle Point Boro,E14000622
+ocd-division/country:uk/wmc:central_devon_co_const,Central Devon Co,E14000623
+ocd-division/country:uk/wmc:central_suffolk_and_north_ipswich_co_const,Central Suffolk and North Ipswich Co,E14000624
+ocd-division/country:uk/wmc:charnwood_co_const,Charnwood Co,E14000625
+ocd-division/country:uk/wmc:chatham_and_aylesford_co_const,Chatham and Aylesford Co,E14000626
+ocd-division/country:uk/wmc:cheadle_boro_const,Cheadle Boro,E14000627
+ocd-division/country:uk/wmc:chelmsford_boro_const,Chelmsford Boro,E14000628
+ocd-division/country:uk/wmc:chelsea_and_fulham_boro_const,Chelsea and Fulham Boro,E14000629
+ocd-division/country:uk/wmc:cheltenham_boro_const,Cheltenham Boro,E14000630
+ocd-division/country:uk/wmc:chesham_and_amersham_co_const,Chesham and Amersham Co,E14000631
+ocd-division/country:uk/wmc:chesterfield_boro_const,Chesterfield Boro,E14000632
+ocd-division/country:uk/wmc:chichester_co_const,Chichester Co,E14000633
+ocd-division/country:uk/wmc:chingford_and_woodford_green_boro_const,Chingford and Woodford Green Boro,E14000634
+ocd-division/country:uk/wmc:chippenham_co_const,Chippenham Co,E14000635
+ocd-division/country:uk/wmc:chipping_barnet_boro_const,Chipping Barnet Boro,E14000636
+ocd-division/country:uk/wmc:chorley_co_const,Chorley Co,E14000637
+ocd-division/country:uk/wmc:christchurch_co_const,Christchurch Co,E14000638
+ocd-division/country:uk/wmc:cities_of_london_and_westminster_boro_const,Cities of London and Westminster Boro,E14000639
+ocd-division/country:uk/wmc:city_of_chester_co_const,City of Chester Co,E14000640
+ocd-division/country:uk/wmc:city_of_durham_co_const,City of Durham Co,E14000641
+ocd-division/country:uk/wmc:clacton_co_const,Clacton Co,E14000642
+ocd-division/country:uk/wmc:cleethorpes_co_const,Cleethorpes Co,E14000643
+ocd-division/country:uk/wmc:clwyd_south_co_const,Clwyd South Co,W07000062
+ocd-division/country:uk/wmc:clwyd_west_co_const,Clwyd West Co,W07000059
+ocd-division/country:uk/wmc:coatbridge_chryston_and_bellshill_burgh_const,"Coatbridge, Chryston and Bellshill Burgh",S14000011
+ocd-division/country:uk/wmc:colchester_boro_const,Colchester Boro,E14000644
+ocd-division/country:uk/wmc:colne_valley_co_const,Colne Valley Co,E14000645
+ocd-division/country:uk/wmc:congleton_co_const,Congleton Co,E14000646
+ocd-division/country:uk/wmc:copeland_co_const,Copeland Co,E14000647
+ocd-division/country:uk/wmc:corby_co_const,Corby Co,E14000648
+ocd-division/country:uk/wmc:coventry_north_east_boro_const,Coventry North East Boro,E14000649
+ocd-division/country:uk/wmc:coventry_north_west_boro_const,Coventry North West Boro,E14000650
+ocd-division/country:uk/wmc:coventry_south_boro_const,Coventry South Boro,E14000651
+ocd-division/country:uk/wmc:crawley_boro_const,Crawley Boro,E14000652
+ocd-division/country:uk/wmc:crewe_and_nantwich_co_const,Crewe and Nantwich Co,E14000653
+ocd-division/country:uk/wmc:croydon_central_boro_const,Croydon Central Boro,E14000654
+ocd-division/country:uk/wmc:croydon_north_boro_const,Croydon North Boro,E14000655
+ocd-division/country:uk/wmc:croydon_south_boro_const,Croydon South Boro,E14000656
+ocd-division/country:uk/wmc:cumbernauld_kilsyth_and_kirkintilloch_east_co_const,"Cumbernauld, Kilsyth and Kirkintilloch East Co",S14000012
+ocd-division/country:uk/wmc:cynon_valley_co_const,Cynon Valley Co,W07000070
+ocd-division/country:uk/wmc:dagenham_and_rainham_boro_const,Dagenham and Rainham Boro,E14000657
+ocd-division/country:uk/wmc:darlington_boro_const,Darlington Boro,E14000658
+ocd-division/country:uk/wmc:dartford_co_const,Dartford Co,E14000659
+ocd-division/country:uk/wmc:daventry_co_const,Daventry Co,E14000660
+ocd-division/country:uk/wmc:delyn_co_const,Delyn Co,W07000042
+ocd-division/country:uk/wmc:denton_and_reddish_boro_const,Denton and Reddish Boro,E14000661
+ocd-division/country:uk/wmc:derbyshire_dales_co_const,Derbyshire Dales Co,E14000664
+ocd-division/country:uk/wmc:derby_north_boro_const,Derby North Boro,E14000662
+ocd-division/country:uk/wmc:derby_south_boro_const,Derby South Boro,E14000663
+ocd-division/country:uk/wmc:devizes_co_const,Devizes Co,E14000665
+ocd-division/country:uk/wmc:dewsbury_co_const,Dewsbury Co,E14000666
+ocd-division/country:uk/wmc:doncaster_central_boro_const,Doncaster Central Boro,E14000668
+ocd-division/country:uk/wmc:doncaster_north_co_const,Doncaster North Co,E14000669
+ocd-division/country:uk/wmc:don_valley_co_const,Don Valley Co,E14000667
+ocd-division/country:uk/wmc:dover_co_const,Dover Co,E14000670
+ocd-division/country:uk/wmc:dudley_north_boro_const,Dudley North Boro,E14000671
+ocd-division/country:uk/wmc:dudley_south_boro_const,Dudley South Boro,E14000672
+ocd-division/country:uk/wmc:dulwich_and_west_norwood_boro_const,Dulwich and West Norwood Boro,E14000673
+ocd-division/country:uk/wmc:dumfriesshire_clydesdale_and_tweeddale_co_const,"Dumfriesshire, Clydesdale and Tweeddale Co",S14000014
+ocd-division/country:uk/wmc:dundee_east_burgh_const,Dundee East Burgh,S14000015
+ocd-division/country:uk/wmc:dundee_west_burgh_const,Dundee West Burgh,S14000016
+ocd-division/country:uk/wmc:dunfermline_and_west_fife_co_const,Dunfermline and West Fife Co,S14000017
+ocd-division/country:uk/wmc:ealing_central_and_acton_boro_const,Ealing Central and Acton Boro,E14000674
+ocd-division/country:uk/wmc:ealing_north_boro_const,Ealing North Boro,E14000675
+ocd-division/country:uk/wmc:ealing_southall_boro_const,"Ealing, Southall Boro",E14000676
+ocd-division/country:uk/wmc:easington_co_const,Easington Co,E14000677
+ocd-division/country:uk/wmc:eastbourne_boro_const,Eastbourne Boro,E14000684
+ocd-division/country:uk/wmc:eastleigh_boro_const,Eastleigh Boro,E14000685
+ocd-division/country:uk/wmc:east_devon_co_const,East Devon Co,E14000678
+ocd-division/country:uk/wmc:east_dunbartonshire_co_const,East Dunbartonshire Co,S14000018
+ocd-division/country:uk/wmc:east_hampshire_co_const,East Hampshire Co,E14000680
+ocd-division/country:uk/wmc:east_ham_boro_const,East Ham Boro,E14000679
+ocd-division/country:uk/wmc:east_kilbride_strathaven_and_lesmahagow_co_const,"East Kilbride, Strathaven and Lesmahagow Co",S14000019
+ocd-division/country:uk/wmc:east_renfrewshire_co_const,East Renfrewshire Co,S14000021
+ocd-division/country:uk/wmc:east_surrey_co_const,East Surrey Co,E14000681
+ocd-division/country:uk/wmc:east_worthing_and_shoreham_co_const,East Worthing and Shoreham Co,E14000682
+ocd-division/country:uk/wmc:east_yorkshire_co_const,East Yorkshire Co,E14000683
+ocd-division/country:uk/wmc:eddisbury_co_const,Eddisbury Co,E14000686
+ocd-division/country:uk/wmc:edinburgh_east_burgh_const,Edinburgh East Burgh,S14000022
+ocd-division/country:uk/wmc:edinburgh_north_and_leith_burgh_const,Edinburgh North and Leith Burgh,S14000023
+ocd-division/country:uk/wmc:edinburgh_south_burgh_const,Edinburgh South Burgh,S14000024
+ocd-division/country:uk/wmc:edinburgh_south_west_burgh_const,Edinburgh South West Burgh,S14000025
+ocd-division/country:uk/wmc:edmonton_boro_const,Edmonton Boro,E14000687
+ocd-division/country:uk/wmc:ellesmere_port_and_neston_co_const,Ellesmere Port and Neston Co,E14000688
+ocd-division/country:uk/wmc:elmet_and_rothwell_co_const,Elmet and Rothwell Co,E14000689
+ocd-division/country:uk/wmc:eltham_boro_const,Eltham Boro,E14000690
+ocd-division/country:uk/wmc:enfield_north_boro_const,Enfield North Boro,E14000691
+ocd-division/country:uk/wmc:enfield_southgate_boro_const,"Enfield, Southgate Boro",E14000692
+ocd-division/country:uk/wmc:epping_forest_co_const,Epping Forest Co,E14000693
+ocd-division/country:uk/wmc:epsom_and_ewell_boro_const,Epsom and Ewell Boro,E14000694
+ocd-division/country:uk/wmc:erewash_co_const,Erewash Co,E14000695
+ocd-division/country:uk/wmc:erith_and_thamesmead_boro_const,Erith and Thamesmead Boro,E14000696
+ocd-division/country:uk/wmc:esher_and_walton_boro_const,Esher and Walton Boro,E14000697
+ocd-division/country:uk/wmc:exeter_boro_const,Exeter Boro,E14000698
+ocd-division/country:uk/wmc:falkirk_co_const,Falkirk Co,S14000028
+ocd-division/country:uk/wmc:fareham_co_const,Fareham Co,E14000699
+ocd-division/country:uk/wmc:faversham_and_mid_kent_co_const,Faversham and Mid Kent Co,E14000700
+ocd-division/country:uk/wmc:feltham_and_heston_boro_const,Feltham and Heston Boro,E14000701
+ocd-division/country:uk/wmc:filton_and_bradley_stoke_co_const,Filton and Bradley Stoke Co,E14000702
+ocd-division/country:uk/wmc:finchley_and_golders_green_boro_const,Finchley and Golders Green Boro,E14000703
+ocd-division/country:uk/wmc:folkestone_and_hythe_co_const,Folkestone and Hythe Co,E14000704
+ocd-division/country:uk/wmc:forest_of_dean_co_const,Forest of Dean Co,E14000705
+ocd-division/country:uk/wmc:fylde_co_const,Fylde Co,E14000706
+ocd-division/country:uk/wmc:gainsborough_co_const,Gainsborough Co,E14000707
+ocd-division/country:uk/wmc:garston_and_halewood_boro_const,Garston and Halewood Boro,E14000708
+ocd-division/country:uk/wmc:gateshead_boro_const,Gateshead Boro,E14000709
+ocd-division/country:uk/wmc:gedling_co_const,Gedling Co,E14000710
+ocd-division/country:uk/wmc:gillingham_and_rainham_boro_const,Gillingham and Rainham Boro,E14000711
+ocd-division/country:uk/wmc:glasgow_central_burgh_const,Glasgow Central Burgh,S14000029
+ocd-division/country:uk/wmc:glasgow_east_burgh_const,Glasgow East Burgh,S14000030
+ocd-division/country:uk/wmc:glasgow_north_burgh_const,Glasgow North Burgh,S14000031
+ocd-division/country:uk/wmc:glasgow_north_east_burgh_const,Glasgow North East Burgh,S14000032
+ocd-division/country:uk/wmc:glasgow_north_west_burgh_const,Glasgow North West Burgh,S14000033
+ocd-division/country:uk/wmc:glasgow_south_burgh_const,Glasgow South Burgh,S14000034
+ocd-division/country:uk/wmc:glasgow_south_west_burgh_const,Glasgow South West Burgh,S14000035
+ocd-division/country:uk/wmc:glenrothes_co_const,Glenrothes Co,S14000036
+ocd-division/country:uk/wmc:gloucester_boro_const,Gloucester Boro,E14000712
+ocd-division/country:uk/wmc:gosport_boro_const,Gosport Boro,E14000713
+ocd-division/country:uk/wmc:gower_co_const,Gower Co,W07000046
+ocd-division/country:uk/wmc:grantham_and_stamford_co_const,Grantham and Stamford Co,E14000714
+ocd-division/country:uk/wmc:gravesham_co_const,Gravesham Co,E14000715
+ocd-division/country:uk/wmc:great_grimsby_boro_const,Great Grimsby Boro,E14000716
+ocd-division/country:uk/wmc:great_yarmouth_co_const,Great Yarmouth Co,E14000717
+ocd-division/country:uk/wmc:greenwich_and_woolwich_boro_const,Greenwich and Woolwich Boro,E14000718
+ocd-division/country:uk/wmc:guildford_co_const,Guildford Co,E14000719
+ocd-division/country:uk/wmc:hackney_north_and_stoke_newington_boro_const,Hackney North and Stoke Newington Boro,E14000720
+ocd-division/country:uk/wmc:hackney_south_and_shoreditch_boro_const,Hackney South and Shoreditch Boro,E14000721
+ocd-division/country:uk/wmc:halesowen_and_rowley_regis_boro_const,Halesowen and Rowley Regis Boro,E14000722
+ocd-division/country:uk/wmc:halifax_boro_const,Halifax Boro,E14000723
+ocd-division/country:uk/wmc:haltemprice_and_howden_co_const,Haltemprice and Howden Co,E14000724
+ocd-division/country:uk/wmc:halton_co_const,Halton Co,E14000725
+ocd-division/country:uk/wmc:hammersmith_boro_const,Hammersmith Boro,E14000726
+ocd-division/country:uk/wmc:hampstead_and_kilburn_boro_const,Hampstead and Kilburn Boro,E14000727
+ocd-division/country:uk/wmc:harborough_co_const,Harborough Co,E14000728
+ocd-division/country:uk/wmc:harlow_co_const,Harlow Co,E14000729
+ocd-division/country:uk/wmc:harrogate_and_knaresborough_co_const,Harrogate and Knaresborough Co,E14000730
+ocd-division/country:uk/wmc:harrow_east_boro_const,Harrow East Boro,E14000731
+ocd-division/country:uk/wmc:harrow_west_boro_const,Harrow West Boro,E14000732
+ocd-division/country:uk/wmc:hartlepool_boro_const,Hartlepool Boro,E14000733
+ocd-division/country:uk/wmc:harwich_and_north_essex_co_const,Harwich and North Essex Co,E14000734
+ocd-division/country:uk/wmc:hastings_and_rye_co_const,Hastings and Rye Co,E14000735
+ocd-division/country:uk/wmc:havant_boro_const,Havant Boro,E14000736
+ocd-division/country:uk/wmc:hayes_and_harlington_boro_const,Hayes and Harlington Boro,E14000737
+ocd-division/country:uk/wmc:hazel_grove_co_const,Hazel Grove Co,E14000738
+ocd-division/country:uk/wmc:hemel_hempstead_co_const,Hemel Hempstead Co,E14000739
+ocd-division/country:uk/wmc:hemsworth_co_const,Hemsworth Co,E14000740
+ocd-division/country:uk/wmc:hendon_boro_const,Hendon Boro,E14000741
+ocd-division/country:uk/wmc:henley_co_const,Henley Co,E14000742
+ocd-division/country:uk/wmc:hereford_and_south_herefordshire_co_const,Hereford and South Herefordshire Co,E14000743
+ocd-division/country:uk/wmc:hertford_and_stortford_co_const,Hertford and Stortford Co,E14000744
+ocd-division/country:uk/wmc:hertsmere_co_const,Hertsmere Co,E14000745
+ocd-division/country:uk/wmc:hexham_co_const,Hexham Co,E14000746
+ocd-division/country:uk/wmc:heywood_and_middleton_co_const,Heywood and Middleton Co,E14000747
+ocd-division/country:uk/wmc:high_peak_co_const,High Peak Co,E14000748
+ocd-division/country:uk/wmc:hitchin_and_harpenden_co_const,Hitchin and Harpenden Co,E14000749
+ocd-division/country:uk/wmc:holborn_and_st_pancras_boro_const,Holborn and St. Pancras Boro,E14000750
+ocd-division/country:uk/wmc:hornchurch_and_upminster_boro_const,Hornchurch and Upminster Boro,E14000751
+ocd-division/country:uk/wmc:hornsey_and_wood_green_boro_const,Hornsey and Wood Green Boro,E14000752
+ocd-division/country:uk/wmc:horsham_co_const,Horsham Co,E14000753
+ocd-division/country:uk/wmc:houghton_and_sunderland_south_boro_const,Houghton and Sunderland South Boro,E14000754
+ocd-division/country:uk/wmc:hove_boro_const,Hove Boro,E14000755
+ocd-division/country:uk/wmc:huddersfield_boro_const,Huddersfield Boro,E14000756
+ocd-division/country:uk/wmc:huntingdon_co_const,Huntingdon Co,E14000757
+ocd-division/country:uk/wmc:hyndburn_boro_const,Hyndburn Boro,E14000758
+ocd-division/country:uk/wmc:ilford_north_boro_const,Ilford North Boro,E14000759
+ocd-division/country:uk/wmc:ilford_south_boro_const,Ilford South Boro,E14000760
+ocd-division/country:uk/wmc:inverclyde_co_const,Inverclyde Co,S14000038
+ocd-division/country:uk/wmc:inverness_nairn_badenoch_and_strathspey_co_const,"Inverness, Nairn, Badenoch and Strathspey Co",S14000039
+ocd-division/country:uk/wmc:ipswich_boro_const,Ipswich Boro,E14000761
+ocd-division/country:uk/wmc:islington_north_boro_const,Islington North Boro,E14000763
+ocd-division/country:uk/wmc:islington_south_and_finsbury_boro_const,Islington South and Finsbury Boro,E14000764
+ocd-division/country:uk/wmc:islwyn_co_const,Islwyn Co,W07000077
+ocd-division/country:uk/wmc:jarrow_boro_const,Jarrow Boro,E14000765
+ocd-division/country:uk/wmc:keighley_co_const,Keighley Co,E14000766
+ocd-division/country:uk/wmc:kenilworth_and_southam_co_const,Kenilworth and Southam Co,E14000767
+ocd-division/country:uk/wmc:kensington_boro_const,Kensington Boro,E14000768
+ocd-division/country:uk/wmc:kettering_co_const,Kettering Co,E14000769
+ocd-division/country:uk/wmc:kilmarnock_and_loudoun_co_const,Kilmarnock and Loudoun Co,S14000040
+ocd-division/country:uk/wmc:kingston_and_surbiton_boro_const,Kingston and Surbiton Boro,E14000770
+ocd-division/country:uk/wmc:kingston_upon_hull_east_boro_const,Kingston upon Hull East Boro,E14000771
+ocd-division/country:uk/wmc:kingston_upon_hull_north_boro_const,Kingston upon Hull North Boro,E14000772
+ocd-division/country:uk/wmc:kingston_upon_hull_west_and_hessle_boro_const,Kingston upon Hull West and Hessle Boro,E14000773
+ocd-division/country:uk/wmc:kingswood_boro_const,Kingswood Boro,E14000774
+ocd-division/country:uk/wmc:knowsley_boro_const,Knowsley Boro,E14000775
+ocd-division/country:uk/wmc:lanark_and_hamilton_east_co_const,Lanark and Hamilton East Co,S14000042
+ocd-division/country:uk/wmc:lancaster_and_fleetwood_co_const,Lancaster and Fleetwood Co,E14000776
+ocd-division/country:uk/wmc:leeds_central_boro_const,Leeds Central Boro,E14000777
+ocd-division/country:uk/wmc:leeds_east_boro_const,Leeds East Boro,E14000778
+ocd-division/country:uk/wmc:leeds_north_east_boro_const,Leeds North East Boro,E14000779
+ocd-division/country:uk/wmc:leeds_north_west_boro_const,Leeds North West Boro,E14000780
+ocd-division/country:uk/wmc:leeds_west_boro_const,Leeds West Boro,E14000781
+ocd-division/country:uk/wmc:leicester_east_boro_const,Leicester East Boro,E14000782
+ocd-division/country:uk/wmc:leicester_south_boro_const,Leicester South Boro,E14000783
+ocd-division/country:uk/wmc:leicester_west_boro_const,Leicester West Boro,E14000784
+ocd-division/country:uk/wmc:leigh_co_const,Leigh Co,E14000785
+ocd-division/country:uk/wmc:lewes_co_const,Lewes Co,E14000786
+ocd-division/country:uk/wmc:lewisham_deptford_boro_const,"Lewisham, Deptford Boro",E14000789
+ocd-division/country:uk/wmc:lewisham_east_boro_const,Lewisham East Boro,E14000787
+ocd-division/country:uk/wmc:lewisham_west_and_penge_boro_const,Lewisham West and Penge Boro,E14000788
+ocd-division/country:uk/wmc:leyton_and_wanstead_boro_const,Leyton and Wanstead Boro,E14000790
+ocd-division/country:uk/wmc:lichfield_co_const,Lichfield Co,E14000791
+ocd-division/country:uk/wmc:lincoln_boro_const,Lincoln Boro,E14000792
+ocd-division/country:uk/wmc:linlithgow_and_east_falkirk_co_const,Linlithgow and East Falkirk Co,S14000043
+ocd-division/country:uk/wmc:liverpool_riverside_boro_const,"Liverpool, Riverside Boro",E14000793
+ocd-division/country:uk/wmc:liverpool_walton_boro_const,"Liverpool, Walton Boro",E14000794
+ocd-division/country:uk/wmc:liverpool_wavertree_boro_const,"Liverpool, Wavertree Boro",E14000795
+ocd-division/country:uk/wmc:liverpool_west_derby_boro_const,"Liverpool, West Derby Boro",E14000796
+ocd-division/country:uk/wmc:livingston_co_const,Livingston Co,S14000044
+ocd-division/country:uk/wmc:llanelli_co_const,Llanelli Co,W07000045
+ocd-division/country:uk/wmc:loughborough_co_const,Loughborough Co,E14000797
+ocd-division/country:uk/wmc:louth_and_horncastle_co_const,Louth and Horncastle Co,E14000798
+ocd-division/country:uk/wmc:ludlow_co_const,Ludlow Co,E14000799
+ocd-division/country:uk/wmc:luton_north_boro_const,Luton North Boro,E14000800
+ocd-division/country:uk/wmc:luton_south_boro_const,Luton South Boro,E14000801
+ocd-division/country:uk/wmc:macclesfield_co_const,Macclesfield Co,E14000802
+ocd-division/country:uk/wmc:maidenhead_co_const,Maidenhead Co,E14000803
+ocd-division/country:uk/wmc:maidstone_and_the_weald_co_const,Maidstone and The Weald Co,E14000804
+ocd-division/country:uk/wmc:makerfield_co_const,Makerfield Co,E14000805
+ocd-division/country:uk/wmc:maldon_co_const,Maldon Co,E14000806
+ocd-division/country:uk/wmc:manchester_central_boro_const,Manchester Central Boro,E14000807
+ocd-division/country:uk/wmc:manchester_gorton_boro_const,"Manchester, Gorton Boro",E14000808
+ocd-division/country:uk/wmc:manchester_withington_boro_const,"Manchester, Withington Boro",E14000809
+ocd-division/country:uk/wmc:mansfield_co_const,Mansfield Co,E14000810
+ocd-division/country:uk/wmc:meon_valley_co_const,Meon Valley Co,E14000811
+ocd-division/country:uk/wmc:meriden_co_const,Meriden Co,E14000812
+ocd-division/country:uk/wmc:merthyr_tydfil_and_rhymney_co_const,Merthyr Tydfil and Rhymney Co,W07000071
+ocd-division/country:uk/wmc:middlesbrough_boro_const,Middlesbrough Boro,E14000819
+ocd-division/country:uk/wmc:middlesbrough_south_and_east_cleveland_co_const,Middlesbrough South and East Cleveland Co,E14000820
+ocd-division/country:uk/wmc:midlothian_co_const,Midlothian Co,S14000045
+ocd-division/country:uk/wmc:mid_bedfordshire_co_const,Mid Bedfordshire Co,E14000813
+ocd-division/country:uk/wmc:mid_derbyshire_co_const,Mid Derbyshire Co,E14000814
+ocd-division/country:uk/wmc:mid_dorset_and_north_poole_co_const,Mid Dorset and North Poole Co,E14000815
+ocd-division/country:uk/wmc:mid_norfolk_co_const,Mid Norfolk Co,E14000816
+ocd-division/country:uk/wmc:mid_sussex_co_const,Mid Sussex Co,E14000817
+ocd-division/country:uk/wmc:mid_worcestershire_co_const,Mid Worcestershire Co,E14000818
+ocd-division/country:uk/wmc:milton_keynes_north_co_const,Milton Keynes North Co,E14000821
+ocd-division/country:uk/wmc:milton_keynes_south_boro_const,Milton Keynes South Boro,E14000822
+ocd-division/country:uk/wmc:mitcham_and_morden_boro_const,Mitcham and Morden Boro,E14000823
+ocd-division/country:uk/wmc:mole_valley_co_const,Mole Valley Co,E14000824
+ocd-division/country:uk/wmc:monmouth_co_const,Monmouth Co,W07000054
+ocd-division/country:uk/wmc:montgomeryshire_co_const,Montgomeryshire Co,W07000063
+ocd-division/country:uk/wmc:morecambe_and_lunesdale_co_const,Morecambe and Lunesdale Co,E14000825
+ocd-division/country:uk/wmc:morley_and_outwood_co_const,Morley and Outwood Co,E14000826
+ocd-division/country:uk/wmc:motherwell_and_wishaw_burgh_const,Motherwell and Wishaw Burgh,S14000047
+ocd-division/country:uk/wmc:neath_co_const,Neath Co,W07000069
+ocd-division/country:uk/wmc:newark_co_const,Newark Co,E14000829
+ocd-division/country:uk/wmc:newbury_co_const,Newbury Co,E14000830
+ocd-division/country:uk/wmc:newcastle-under-lyme_boro_const,Newcastle-under-Lyme Boro,E14000834
+ocd-division/country:uk/wmc:newcastle_upon_tyne_central_boro_const,Newcastle upon Tyne Central Boro,E14000831
+ocd-division/country:uk/wmc:newcastle_upon_tyne_east_boro_const,Newcastle upon Tyne East Boro,E14000832
+ocd-division/country:uk/wmc:newcastle_upon_tyne_north_boro_const,Newcastle upon Tyne North Boro,E14000833
+ocd-division/country:uk/wmc:newport_west_co_const,Newport West Co,W07000056
+ocd-division/country:uk/wmc:newton_abbot_co_const,Newton Abbot Co,E14000835
+ocd-division/country:uk/wmc:new_forest_east_co_const,New Forest East Co,E14000827
+ocd-division/country:uk/wmc:new_forest_west_co_const,New Forest West Co,E14000828
+ocd-division/country:uk/wmc:normanton_pontefract_and_castleford_co_const,"Normanton, Pontefract and Castleford Co",E14000836
+ocd-division/country:uk/wmc:northampton_north_boro_const,Northampton North Boro,E14000861
+ocd-division/country:uk/wmc:northampton_south_boro_const,Northampton South Boro,E14000862
+ocd-division/country:uk/wmc:north_devon_co_const,North Devon Co,E14000838
+ocd-division/country:uk/wmc:north_dorset_co_const,North Dorset Co,E14000839
+ocd-division/country:uk/wmc:north_durham_co_const,North Durham Co,E14000840
+ocd-division/country:uk/wmc:north_east_bedfordshire_co_const,North East Bedfordshire Co,E14000841
+ocd-division/country:uk/wmc:north_east_cambridgeshire_co_const,North East Cambridgeshire Co,E14000842
+ocd-division/country:uk/wmc:north_east_derbyshire_co_const,North East Derbyshire Co,E14000843
+ocd-division/country:uk/wmc:north_east_hampshire_co_const,North East Hampshire Co,E14000844
+ocd-division/country:uk/wmc:north_east_hertfordshire_co_const,North East Hertfordshire Co,E14000845
+ocd-division/country:uk/wmc:north_east_somerset_co_const,North East Somerset Co,E14000846
+ocd-division/country:uk/wmc:north_herefordshire_co_const,North Herefordshire Co,E14000847
+ocd-division/country:uk/wmc:north_shropshire_co_const,North Shropshire Co,E14000849
+ocd-division/country:uk/wmc:north_somerset_co_const,North Somerset Co,E14000850
+ocd-division/country:uk/wmc:north_swindon_co_const,North Swindon Co,E14000851
+ocd-division/country:uk/wmc:north_thanet_co_const,North Thanet Co,E14000852
+ocd-division/country:uk/wmc:north_tyneside_boro_const,North Tyneside Boro,E14000853
+ocd-division/country:uk/wmc:north_warwickshire_co_const,North Warwickshire Co,E14000854
+ocd-division/country:uk/wmc:north_west_cambridgeshire_co_const,North West Cambridgeshire Co,E14000855
+ocd-division/country:uk/wmc:north_west_durham_co_const,North West Durham Co,E14000856
+ocd-division/country:uk/wmc:north_west_hampshire_co_const,North West Hampshire Co,E14000857
+ocd-division/country:uk/wmc:north_west_leicestershire_co_const,North West Leicestershire Co,E14000858
+ocd-division/country:uk/wmc:north_west_norfolk_co_const,North West Norfolk Co,E14000859
+ocd-division/country:uk/wmc:north_wiltshire_co_const,North Wiltshire Co,E14000860
+ocd-division/country:uk/wmc:norwich_south_boro_const,Norwich South Boro,E14000864
+ocd-division/country:uk/wmc:nottingham_east_boro_const,Nottingham East Boro,E14000865
+ocd-division/country:uk/wmc:nottingham_north_boro_const,Nottingham North Boro,E14000866
+ocd-division/country:uk/wmc:nottingham_south_boro_const,Nottingham South Boro,E14000867
+ocd-division/country:uk/wmc:nuneaton_co_const,Nuneaton Co,E14000868
+ocd-division/country:uk/wmc:ochil_and_south_perthshire_co_const,Ochil and South Perthshire Co,S14000050
+ocd-division/country:uk/wmc:ogmore_co_const,Ogmore Co,W07000074
+ocd-division/country:uk/wmc:oldham_east_and_saddleworth_co_const,Oldham East and Saddleworth Co,E14000870
+ocd-division/country:uk/wmc:oldham_west_and_royton_boro_const,Oldham West and Royton Boro,E14000871
+ocd-division/country:uk/wmc:old_bexley_and_sidcup_boro_const,Old Bexley and Sidcup Boro,E14000869
+ocd-division/country:uk/wmc:orpington_boro_const,Orpington Boro,E14000872
+ocd-division/country:uk/wmc:oxford_east_boro_const,Oxford East Boro,E14000873
+ocd-division/country:uk/wmc:oxford_west_and_abingdon_co_const,Oxford West and Abingdon Co,E14000874
+ocd-division/country:uk/wmc:paisley_and_renfrewshire_north_co_const,Paisley and Renfrewshire North Co,S14000052
+ocd-division/country:uk/wmc:paisley_and_renfrewshire_south_co_const,Paisley and Renfrewshire South Co,S14000053
+ocd-division/country:uk/wmc:pendle_boro_const,Pendle Boro,E14000875
+ocd-division/country:uk/wmc:penistone_and_stocksbridge_co_const,Penistone and Stocksbridge Co,E14000876
+ocd-division/country:uk/wmc:penrith_and_the_border_co_const,Penrith and The Border Co,E14000877
+ocd-division/country:uk/wmc:perth_and_north_perthshire_co_const,Perth and North Perthshire Co,S14000054
+ocd-division/country:uk/wmc:peterborough_boro_const,Peterborough Boro,E14000878
+ocd-division/country:uk/wmc:plymouth_moor_view_boro_const,"Plymouth, Moor View Boro",E14000879
+ocd-division/country:uk/wmc:pontypridd_co_const,Pontypridd Co,W07000075
+ocd-division/country:uk/wmc:poole_boro_const,Poole Boro,E14000881
+ocd-division/country:uk/wmc:poplar_and_limehouse_boro_const,Poplar and Limehouse Boro,E14000882
+ocd-division/country:uk/wmc:portsmouth_north_boro_const,Portsmouth North Boro,E14000883
+ocd-division/country:uk/wmc:preston_boro_const,Preston Boro,E14000885
+ocd-division/country:uk/wmc:pudsey_boro_const,Pudsey Boro,E14000886
+ocd-division/country:uk/wmc:putney_boro_const,Putney Boro,E14000887
+ocd-division/country:uk/wmc:rayleigh_and_wickford_co_const,Rayleigh and Wickford Co,E14000888
+ocd-division/country:uk/wmc:reading_east_boro_const,Reading East Boro,E14000889
+ocd-division/country:uk/wmc:reading_west_co_const,Reading West Co,E14000890
+ocd-division/country:uk/wmc:redcar_boro_const,Redcar Boro,E14000891
+ocd-division/country:uk/wmc:redditch_co_const,Redditch Co,E14000892
+ocd-division/country:uk/wmc:reigate_boro_const,Reigate Boro,E14000893
+ocd-division/country:uk/wmc:rhondda_co_const,Rhondda Co,W07000052
+ocd-division/country:uk/wmc:ribble_valley_co_const,Ribble Valley Co,E14000894
+ocd-division/country:uk/wmc:richmond_yorks_co_const,Richmond (Yorks) Co,E14000895
+ocd-division/country:uk/wmc:richmond_park_boro_const,Richmond Park Boro,E14000896
+ocd-division/country:uk/wmc:rochdale_co_const,Rochdale Co,E14000897
+ocd-division/country:uk/wmc:rochester_and_strood_co_const,Rochester and Strood Co,E14000898
+ocd-division/country:uk/wmc:rochford_and_southend_east_co_const,Rochford and Southend East Co,E14000899
+ocd-division/country:uk/wmc:romford_boro_const,Romford Boro,E14000900
+ocd-division/country:uk/wmc:romsey_and_southampton_north_co_const,Romsey and Southampton North Co,E14000901
+ocd-division/country:uk/wmc:rossendale_and_darwen_boro_const,Rossendale and Darwen Boro,E14000902
+ocd-division/country:uk/wmc:rotherham_boro_const,Rotherham Boro,E14000904
+ocd-division/country:uk/wmc:rother_valley_co_const,Rother Valley Co,E14000903
+ocd-division/country:uk/wmc:rugby_co_const,Rugby Co,E14000905
+ocd-division/country:uk/wmc:ruislip_northwood_and_pinner_boro_const,"Ruislip, Northwood and Pinner Boro",E14000906
+ocd-division/country:uk/wmc:runnymede_and_weybridge_co_const,Runnymede and Weybridge Co,E14000907
+ocd-division/country:uk/wmc:rushcliffe_co_const,Rushcliffe Co,E14000908
+ocd-division/country:uk/wmc:rutherglen_and_hamilton_west_burgh_const,Rutherglen and Hamilton West Burgh,S14000056
+ocd-division/country:uk/wmc:rutland_and_melton_co_const,Rutland and Melton Co,E14000909
+ocd-division/country:uk/wmc:saffron_walden_co_const,Saffron Walden Co,E14000910
+ocd-division/country:uk/wmc:salford_and_eccles_boro_const,Salford and Eccles Boro,E14000911
+ocd-division/country:uk/wmc:salisbury_co_const,Salisbury Co,E14000912
+ocd-division/country:uk/wmc:scarborough_and_whitby_co_const,Scarborough and Whitby Co,E14000913
+ocd-division/country:uk/wmc:scunthorpe_co_const,Scunthorpe Co,E14000914
+ocd-division/country:uk/wmc:sedgefield_co_const,Sedgefield Co,E14000915
+ocd-division/country:uk/wmc:sefton_central_co_const,Sefton Central Co,E14000916
+ocd-division/country:uk/wmc:selby_and_ainsty_co_const,Selby and Ainsty Co,E14000917
+ocd-division/country:uk/wmc:sevenoaks_co_const,Sevenoaks Co,E14000918
+ocd-division/country:uk/wmc:sheffield_brightside_and_hillsborough_boro_const,"Sheffield, Brightside and Hillsborough Boro",E14000921
+ocd-division/country:uk/wmc:sheffield_central_boro_const,Sheffield Central Boro,E14000919
+ocd-division/country:uk/wmc:sheffield_hallam_co_const,"Sheffield, Hallam Co",E14000922
+ocd-division/country:uk/wmc:sheffield_heeley_boro_const,"Sheffield, Heeley Boro",E14000923
+ocd-division/country:uk/wmc:sheffield_south_east_boro_const,Sheffield South East Boro,E14000920
+ocd-division/country:uk/wmc:sherwood_co_const,Sherwood Co,E14000924
+ocd-division/country:uk/wmc:shipley_co_const,Shipley Co,E14000925
+ocd-division/country:uk/wmc:shrewsbury_and_atcham_co_const,Shrewsbury and Atcham Co,E14000926
+ocd-division/country:uk/wmc:sittingbourne_and_sheppey_co_const,Sittingbourne and Sheppey Co,E14000927
+ocd-division/country:uk/wmc:skipton_and_ripon_co_const,Skipton and Ripon Co,E14000928
+ocd-division/country:uk/wmc:sleaford_and_north_hykeham_co_const,Sleaford and North Hykeham Co,E14000929
+ocd-division/country:uk/wmc:slough_boro_const,Slough Boro,E14000930
+ocd-division/country:uk/wmc:solihull_boro_const,Solihull Boro,E14000931
+ocd-division/country:uk/wmc:somerton_and_frome_co_const,Somerton and Frome Co,E14000932
+ocd-division/country:uk/wmc:southampton_itchen_boro_const,"Southampton, Itchen Boro",E14000955
+ocd-division/country:uk/wmc:southampton_test_boro_const,"Southampton, Test Boro",E14000956
+ocd-division/country:uk/wmc:southend_west_boro_const,Southend West Boro,E14000957
+ocd-division/country:uk/wmc:southport_boro_const,Southport Boro,E14000958
+ocd-division/country:uk/wmc:south_basildon_and_east_thurrock_co_const,South Basildon and East Thurrock Co,E14000933
+ocd-division/country:uk/wmc:south_cambridgeshire_co_const,South Cambridgeshire Co,E14000934
+ocd-division/country:uk/wmc:south_derbyshire_co_const,South Derbyshire Co,E14000935
+ocd-division/country:uk/wmc:south_dorset_co_const,South Dorset Co,E14000936
+ocd-division/country:uk/wmc:south_east_cambridgeshire_co_const,South East Cambridgeshire Co,E14000937
+ocd-division/country:uk/wmc:south_holland_and_the_deepings_co_const,South Holland and The Deepings Co,E14000939
+ocd-division/country:uk/wmc:south_leicestershire_co_const,South Leicestershire Co,E14000940
+ocd-division/country:uk/wmc:south_norfolk_co_const,South Norfolk Co,E14000941
+ocd-division/country:uk/wmc:south_northamptonshire_co_const,South Northamptonshire Co,E14000942
+ocd-division/country:uk/wmc:south_ribble_co_const,South Ribble Co,E14000943
+ocd-division/country:uk/wmc:south_shields_boro_const,South Shields Boro,E14000944
+ocd-division/country:uk/wmc:south_staffordshire_co_const,South Staffordshire Co,E14000945
+ocd-division/country:uk/wmc:south_suffolk_co_const,South Suffolk Co,E14000946
+ocd-division/country:uk/wmc:south_swindon_co_const,South Swindon Co,E14000947
+ocd-division/country:uk/wmc:south_thanet_co_const,South Thanet Co,E14000948
+ocd-division/country:uk/wmc:south_west_bedfordshire_co_const,South West Bedfordshire Co,E14000949
+ocd-division/country:uk/wmc:south_west_hertfordshire_co_const,South West Hertfordshire Co,E14000951
+ocd-division/country:uk/wmc:south_west_norfolk_co_const,South West Norfolk Co,E14000952
+ocd-division/country:uk/wmc:south_west_surrey_co_const,South West Surrey Co,E14000953
+ocd-division/country:uk/wmc:south_west_wiltshire_co_const,South West Wiltshire Co,E14000954
+ocd-division/country:uk/wmc:spelthorne_boro_const,Spelthorne Boro,E14000959
+ocd-division/country:uk/wmc:staffordshire_moorlands_co_const,Staffordshire Moorlands Co,E14000966
+ocd-division/country:uk/wmc:stafford_co_const,Stafford Co,E14000965
+ocd-division/country:uk/wmc:stalybridge_and_hyde_co_const,Stalybridge and Hyde Co,E14000967
+ocd-division/country:uk/wmc:stevenage_co_const,Stevenage Co,E14000968
+ocd-division/country:uk/wmc:stirling_co_const,Stirling Co,S14000057
+ocd-division/country:uk/wmc:stockport_boro_const,Stockport Boro,E14000969
+ocd-division/country:uk/wmc:stockton_north_boro_const,Stockton North Boro,E14000970
+ocd-division/country:uk/wmc:stockton_south_boro_const,Stockton South Boro,E14000971
+ocd-division/country:uk/wmc:stoke-on-trent_central_boro_const,Stoke-on-Trent Central Boro,E14000972
+ocd-division/country:uk/wmc:stoke-on-trent_north_boro_const,Stoke-on-Trent North Boro,E14000973
+ocd-division/country:uk/wmc:stoke-on-trent_south_boro_const,Stoke-on-Trent South Boro,E14000974
+ocd-division/country:uk/wmc:stone_co_const,Stone Co,E14000975
+ocd-division/country:uk/wmc:stourbridge_boro_const,Stourbridge Boro,E14000976
+ocd-division/country:uk/wmc:stratford-on-avon_co_const,Stratford-on-Avon Co,E14000977
+ocd-division/country:uk/wmc:streatham_boro_const,Streatham Boro,E14000978
+ocd-division/country:uk/wmc:stretford_and_urmston_boro_const,Stretford and Urmston Boro,E14000979
+ocd-division/country:uk/wmc:stroud_co_const,Stroud Co,E14000980
+ocd-division/country:uk/wmc:st_albans_co_const,St. Albans Co,E14000960
+ocd-division/country:uk/wmc:st_austell_and_newquay_co_const,St. Austell and Newquay Co,E14000961
+ocd-division/country:uk/wmc:st_helens_north_boro_const,St. Helens North Boro,E14000962
+ocd-division/country:uk/wmc:st_helens_south_and_whiston_boro_const,St. Helens South and Whiston Boro,E14000963
+ocd-division/country:uk/wmc:suffolk_coastal_co_const,Suffolk Coastal Co,E14000981
+ocd-division/country:uk/wmc:sunderland_central_boro_const,Sunderland Central Boro,E14000982
+ocd-division/country:uk/wmc:surrey_heath_co_const,Surrey Heath Co,E14000983
+ocd-division/country:uk/wmc:sutton_and_cheam_boro_const,Sutton and Cheam Boro,E14000984
+ocd-division/country:uk/wmc:sutton_coldfield_boro_const,Sutton Coldfield Boro,E14000985
+ocd-division/country:uk/wmc:swansea_east_boro_const,Swansea East Boro,W07000048
+ocd-division/country:uk/wmc:swansea_west_boro_const,Swansea West Boro,W07000047
+ocd-division/country:uk/wmc:tamworth_co_const,Tamworth Co,E14000986
+ocd-division/country:uk/wmc:tatton_co_const,Tatton Co,E14000987
+ocd-division/country:uk/wmc:taunton_deane_co_const,Taunton Deane Co,E14000988
+ocd-division/country:uk/wmc:telford_boro_const,Telford Boro,E14000989
+ocd-division/country:uk/wmc:tewkesbury_co_const,Tewkesbury Co,E14000990
+ocd-division/country:uk/wmc:the_cotswolds_co_const,The Cotswolds Co,E14000991
+ocd-division/country:uk/wmc:the_wrekin_co_const,The Wrekin Co,E14000992
+ocd-division/country:uk/wmc:thirsk_and_malton_co_const,Thirsk and Malton Co,E14000993
+ocd-division/country:uk/wmc:thornbury_and_yate_co_const,Thornbury and Yate Co,E14000994
+ocd-division/country:uk/wmc:thurrock_boro_const,Thurrock Boro,E14000995
+ocd-division/country:uk/wmc:tiverton_and_honiton_co_const,Tiverton and Honiton Co,E14000996
+ocd-division/country:uk/wmc:tonbridge_and_malling_co_const,Tonbridge and Malling Co,E14000997
+ocd-division/country:uk/wmc:tooting_boro_const,Tooting Boro,E14000998
+ocd-division/country:uk/wmc:torbay_boro_const,Torbay Boro,E14000999
+ocd-division/country:uk/wmc:torfaen_co_const,Torfaen Co,W07000053
+ocd-division/country:uk/wmc:totnes_co_const,Totnes Co,E14001001
+ocd-division/country:uk/wmc:tottenham_boro_const,Tottenham Boro,E14001002
+ocd-division/country:uk/wmc:tunbridge_wells_co_const,Tunbridge Wells Co,E14001004
+ocd-division/country:uk/wmc:twickenham_boro_const,Twickenham Boro,E14001005
+ocd-division/country:uk/wmc:tynemouth_boro_const,Tynemouth Boro,E14001006
+ocd-division/country:uk/wmc:uxbridge_and_south_ruislip_boro_const,Uxbridge and South Ruislip Boro,E14001007
+ocd-division/country:uk/wmc:vale_of_clwyd_co_const,Vale of Clwyd Co,W07000060
+ocd-division/country:uk/wmc:vale_of_glamorgan_co_const,Vale of Glamorgan Co,W07000078
+ocd-division/country:uk/wmc:vauxhall_boro_const,Vauxhall Boro,E14001008
+ocd-division/country:uk/wmc:wakefield_co_const,Wakefield Co,E14001009
+ocd-division/country:uk/wmc:wallasey_boro_const,Wallasey Boro,E14001010
+ocd-division/country:uk/wmc:walsall_north_boro_const,Walsall North Boro,E14001011
+ocd-division/country:uk/wmc:walsall_south_boro_const,Walsall South Boro,E14001012
+ocd-division/country:uk/wmc:walthamstow_boro_const,Walthamstow Boro,E14001013
+ocd-division/country:uk/wmc:wansbeck_co_const,Wansbeck Co,E14001014
+ocd-division/country:uk/wmc:wantage_co_const,Wantage Co,E14001015
+ocd-division/country:uk/wmc:warley_boro_const,Warley Boro,E14001016
+ocd-division/country:uk/wmc:warrington_north_boro_const,Warrington North Boro,E14001017
+ocd-division/country:uk/wmc:warrington_south_boro_const,Warrington South Boro,E14001018
+ocd-division/country:uk/wmc:warwick_and_leamington_boro_const,Warwick and Leamington Boro,E14001019
+ocd-division/country:uk/wmc:washington_and_sunderland_west_boro_const,Washington and Sunderland West Boro,E14001020
+ocd-division/country:uk/wmc:watford_boro_const,Watford Boro,E14001021
+ocd-division/country:uk/wmc:waveney_co_const,Waveney Co,E14001022
+ocd-division/country:uk/wmc:wealden_co_const,Wealden Co,E14001023
+ocd-division/country:uk/wmc:weaver_vale_co_const,Weaver Vale Co,E14001024
+ocd-division/country:uk/wmc:wellingborough_co_const,Wellingborough Co,E14001025
+ocd-division/country:uk/wmc:wells_co_const,Wells Co,E14001026
+ocd-division/country:uk/wmc:welwyn_hatfield_co_const,Welwyn Hatfield Co,E14001027
+ocd-division/country:uk/wmc:wentworth_and_dearne_co_const,Wentworth and Dearne Co,E14001028
+ocd-division/country:uk/wmc:westminster_north_boro_const,Westminster North Boro,E14001036
+ocd-division/country:uk/wmc:westmorland_and_lonsdale_co_const,Westmorland and Lonsdale Co,E14001037
+ocd-division/country:uk/wmc:west_bromwich_east_boro_const,West Bromwich East Boro,E14001029
+ocd-division/country:uk/wmc:west_bromwich_west_boro_const,West Bromwich West Boro,E14001030
+ocd-division/country:uk/wmc:west_dorset_co_const,West Dorset Co,E14001031
+ocd-division/country:uk/wmc:west_dunbartonshire_co_const,West Dunbartonshire Co,S14000059
+ocd-division/country:uk/wmc:west_ham_boro_const,West Ham Boro,E14001032
+ocd-division/country:uk/wmc:west_lancashire_co_const,West Lancashire Co,E14001033
+ocd-division/country:uk/wmc:west_suffolk_co_const,West Suffolk Co,E14001034
+ocd-division/country:uk/wmc:west_worcestershire_co_const,West Worcestershire Co,E14001035
+ocd-division/country:uk/wmc:wigan_co_const,Wigan Co,E14001039
+ocd-division/country:uk/wmc:wimbledon_boro_const,Wimbledon Boro,E14001040
+ocd-division/country:uk/wmc:winchester_co_const,Winchester Co,E14001041
+ocd-division/country:uk/wmc:windsor_co_const,Windsor Co,E14001042
+ocd-division/country:uk/wmc:wirral_south_co_const,Wirral South Co,E14001043
+ocd-division/country:uk/wmc:wirral_west_co_const,Wirral West Co,E14001044
+ocd-division/country:uk/wmc:witham_co_const,Witham Co,E14001045
+ocd-division/country:uk/wmc:witney_co_const,Witney Co,E14001046
+ocd-division/country:uk/wmc:wokingham_co_const,Wokingham Co,E14001048
+ocd-division/country:uk/wmc:woking_co_const,Woking Co,E14001047
+ocd-division/country:uk/wmc:wolverhampton_north_east_boro_const,Wolverhampton North East Boro,E14001049
+ocd-division/country:uk/wmc:wolverhampton_south_east_boro_const,Wolverhampton South East Boro,E14001050
+ocd-division/country:uk/wmc:wolverhampton_south_west_boro_const,Wolverhampton South West Boro,E14001051
+ocd-division/country:uk/wmc:worcester_boro_const,Worcester Boro,E14001052
+ocd-division/country:uk/wmc:workington_co_const,Workington Co,E14001053
+ocd-division/country:uk/wmc:worsley_and_eccles_south_co_const,Worsley and Eccles South Co,E14001054
+ocd-division/country:uk/wmc:worthing_west_boro_const,Worthing West Boro,E14001055
+ocd-division/country:uk/wmc:wrexham_co_const,Wrexham Co,W07000044
+ocd-division/country:uk/wmc:wycombe_co_const,Wycombe Co,E14001056
+ocd-division/country:uk/wmc:wyre_and_preston_north_co_const,Wyre and Preston North Co,E14001057
+ocd-division/country:uk/wmc:wyre_forest_co_const,Wyre Forest Co,E14001058
+ocd-division/country:uk/wmc:wythenshawe_and_sale_east_boro_const,Wythenshawe and Sale East Boro,E14001059
+ocd-division/country:uk/wmc:yeovil_co_const,Yeovil Co,E14001060
+ocd-division/country:uk/wmc:york_central_boro_const,York Central Boro,E14001061
+ocd-division/country:uk/wmc:york_outer_co_const,York Outer Co,E14001062
+ocd-division/country:uk/wmc:dwyfor_meirionnydd_co_const,Dwyfor Meirionnydd Co,W07000061
+ocd-division/country:uk/wmc:ceredigion_co_const,Ceredigion Co,W07000064
+ocd-division/country:uk/wmc:ynys_mon_co_const,Ynys Mon Co,W07000041
+ocd-division/country:uk/wmc:newport_east_co_const,Newport East Co,W07000055
+ocd-division/country:uk/wmc:cardiff_south_and_penarth_boro_const,Cardiff South and Penarth Boro,W07000080
+ocd-division/country:uk/wmc:weston-super-mare_co_const,Weston-Super-Mare Co,E14001038
+ocd-division/country:uk/wmc:torridge_and_west_devon_co_const,Torridge and West Devon Co,E14001000
+ocd-division/country:uk/wmc:north_cornwall_co_const,North Cornwall Co,E14000837
+ocd-division/country:uk/wmc:portsmouth_south_boro_const,Portsmouth South Boro,E14000884
+ocd-division/country:uk/wmc:isle_of_wight_co_const,Isle of Wight Co,E14000762
+ocd-division/country:uk/wmc:north_norfolk_co_const,North Norfolk Co,E14000848
+ocd-division/country:uk/wmc:berwick-upon-tweed_co_const,Berwick-upon-Tweed Co,E14000554
+ocd-division/country:uk/wmc:south_east_cornwall_co_const,South East Cornwall Co,E14000938
+ocd-division/country:uk/wmc:south_west_devon_co_const,South West Devon Co,E14000950
+ocd-division/country:uk/wmc:plymouth_sutton_and_devonport_boro_const,"Plymouth, Sutton and Devonport Boro",E14000880
+ocd-division/country:uk/wmc:norwich_north_boro_const,Norwich North Boro,E14000863
+ocd-division/country:uk/wmc:st_ives_co_const,St. Ives Co,E14000964
+ocd-division/country:uk/wmc:camborne_and_redruth_co_const,Camborne and Redruth Co,E14000616
+ocd-division/country:uk/wmc:caithness_sutherland_and_easter_ross_co_const,"Caithness, Sutherland and Easter Ross Co",S14000009
+ocd-division/country:uk/wmc:ross_skye_and_lochaber_co_const,"Ross, Skye and Lochaber Co",S14000055
+ocd-division/country:uk/wmc:moray_co_const,Moray Co,S14000046
+ocd-division/country:uk/wmc:orkney_and_shetland_co_const,Orkney and Shetland Co,S14000051
+ocd-division/country:uk/wmc:na_h-eileanan_an_iar_co_const,Na h-Eileanan an Iar Co,S14000027
+ocd-division/country:uk/wmc:argyll_and_bute_co_const,Argyll and Bute Co,S14000005
+ocd-division/country:uk/wmc:west_aberdeenshire_and_kincardine_co_const,West Aberdeenshire and Kincardine Co,S14000058
+ocd-division/country:uk/wmc:banff_and_buchan_co_const,Banff and Buchan Co,S14000007
+ocd-division/country:uk/wmc:north_east_fife_co_const,North East Fife Co,S14000049
+ocd-division/country:uk/wmc:gordon_co_const,Gordon Co,S14000037
+ocd-division/country:uk/wmc:kirkcaldy_and_cowdenbeath_co_const,Kirkcaldy and Cowdenbeath Co,S14000041
+ocd-division/country:uk/wmc:aberdeen_south_burgh_const,Aberdeen South Burgh,S14000002
+ocd-division/country:uk/wmc:edinburgh_west_burgh_const,Edinburgh West Burgh,S14000026
+ocd-division/country:uk/wmc:east_lothian_co_const,East Lothian Co,S14000020
+ocd-division/country:uk/wmc:north_ayrshire_and_arran_co_const,North Ayrshire and Arran Co,S14000048
+ocd-division/country:uk/wmc:dumfries_and_galloway_co_const,Dumfries and Galloway Co,S14000013
+ocd-division/country:uk/wmc:carmarthen_west_and_south_pembrokeshire_co_const,Carmarthen West and South Pembrokeshire Co,W07000066
+ocd-division/country:uk/wmc:ayr_carrick_and_cumnock_co_const,"Ayr, Carrick and Cumnock Co",S14000006
+ocd-division/country:uk/wmc:central_ayrshire_co_const,Central Ayrshire Co,S14000010
+ocd-division/country:uk/wmc:preseli_pembrokeshire_co_const,Preseli Pembrokeshire Co,W07000065
+ocd-division/country:uk/wmc:truro_and_falmouth_co_const,Truro and Falmouth Co,E14001003

@@ -342,7 +342,7 @@ ocd-division/country:uk/cpc:little_paxton,Little Paxton,E04012032
 ocd-division/country:uk/cpc:great_gransden,Great Gransden,E04001704
 ocd-division/country:uk/cpc:southoe_and_midloe,Southoe and Midloe,E04001736
 ocd-division/country:uk/cpc:grafham,Grafham,E04001702
-ocd-division/country:uk/cpc:offord_cluny_and_offord_d~arcy,Offord Cluny and Offord D'Arcy,E04012015
+ocd-division/country:uk/cpc:offord_cluny_and_offord_darcy,Offord Cluny and Offord D'Arcy,E04012015
 ocd-division/country:uk/cpc:buckden,Buckden,E04012021
 ocd-division/country:uk/cpc:barham_and_woolley,Barham and Woolley,E04001676
 ocd-division/country:uk/cpc:brampton,Brampton,E04001678
@@ -543,7 +543,7 @@ ocd-division/country:uk/cpc:natland,Natland,E04002635
 ocd-division/country:uk/cpc:borrowdale,Borrowdale,E04002390
 ocd-division/country:uk/cpc:loweswater,Loweswater,E04002421
 ocd-division/country:uk/cpc:above_derwent,Above Derwent,E04002379
-ocd-division/country:uk/cpc:st_john~s_castlerigg_and_wythburn,St. John's Castlerigg and Wythburn,E04002426
+ocd-division/country:uk/cpc:st_johns_castlerigg_and_wythburn,St. John's Castlerigg and Wythburn,E04002426
 ocd-division/country:uk/cpc:ireby_and_uldale,Ireby and Uldale,E04002415
 ocd-division/country:uk/cpc:caldbeck,Caldbeck,E04002399
 ocd-division/country:uk/cpc:westward,Westward,E04002435
@@ -654,7 +654,7 @@ ocd-division/country:uk/cpc:thrimby,Thrimby,E04002578
 ocd-division/country:uk/cpc:little_strickland,Little Strickland,E04002549
 ocd-division/country:uk/cpc:newby,Newby,E04002562
 ocd-division/country:uk/cpc:sleagill,Sleagill,E04002571
-ocd-division/country:uk/cpc:king~s_meaburn,King's Meaburn,E04002543
+ocd-division/country:uk/cpc:kings_meaburn,King's Meaburn,E04002543
 ocd-division/country:uk/cpc:morland,Morland,E04002556
 ocd-division/country:uk/cpc:hoff,Hoff,E04002539
 ocd-division/country:uk/cpc:ormside,Ormside,E04002563
@@ -947,7 +947,7 @@ ocd-division/country:uk/cpc:brimington,Brimington,E04002712
 ocd-division/country:uk/cpc:chittlehampton,Chittlehampton,E04012206
 ocd-division/country:uk/cpc:braunton,Braunton,E04003075
 ocd-division/country:uk/cpc:chulmleigh,Chulmleigh,E04003082
-ocd-division/country:uk/cpc:king~s_nympton,King's Nympton,E04003098
+ocd-division/country:uk/cpc:kings_nympton,King's Nympton,E04003098
 ocd-division/country:uk/cpc:fremington,Fremington,E04003090
 ocd-division/country:uk/cpc:tawstock,Tawstock,E04003121
 ocd-division/country:uk/cpc:heanton_punchardon,Heanton Punchardon,E04003094
@@ -971,7 +971,7 @@ ocd-division/country:uk/cpc:romansleigh,Romansleigh,E04003114
 ocd-division/country:uk/cpc:meshaw,Meshaw,E04003106
 ocd-division/country:uk/cpc:witheridge,Witheridge,E04003128
 ocd-division/country:uk/cpc:rackenford,Rackenford,E04003113
-ocd-division/country:uk/cpc:bishop~s_nympton,Bishop's Nympton,E04003071
+ocd-division/country:uk/cpc:bishops_nympton,Bishop's Nympton,E04003071
 ocd-division/country:uk/cpc:east_anstey,East Anstey,E04003086
 ocd-division/country:uk/cpc:north_molton,North Molton,E04003110
 ocd-division/country:uk/cpc:twitchen,Twitchen,E04003123
@@ -985,7 +985,7 @@ ocd-division/country:uk/cpc:instow,Instow,E04003096
 ocd-division/country:uk/cpc:barnstaple,Barnstaple,E04003069
 ocd-division/country:uk/cpc:pilton_west,Pilton West,E04003127
 ocd-division/country:uk/cpc:atherington,Atherington,E04003068
-ocd-division/country:uk/cpc:bishop~s_tawton,Bishop's Tawton,E04003072
+ocd-division/country:uk/cpc:bishops_tawton,Bishop's Tawton,E04003072
 ocd-division/country:uk/cpc:george_nympton,George Nympton,E04003092
 ocd-division/country:uk/cpc:filleigh,Filleigh,E04003089
 ocd-division/country:uk/cpc:landkey,Landkey,E04003100
@@ -1004,7 +1004,7 @@ ocd-division/country:uk/cpc:mariansleigh,Mariansleigh,E04003103
 ocd-division/country:uk/cpc:rose_ash,Rose Ash,E04003115
 ocd-division/country:uk/cpc:knowstone,Knowstone,E04003099
 ocd-division/country:uk/cpc:west_anstey,West Anstey,E04003124
-ocd-division/country:uk/cpc:queen~s_nympton,Queen's Nympton,E04003112
+ocd-division/country:uk/cpc:queens_nympton,Queen's Nympton,E04003112
 ocd-division/country:uk/cpc:ashford,Ashford,E04003067
 ocd-division/country:uk/cpc:ugborough,Ugborough,E04003184
 ocd-division/country:uk/cpc:south_brent,South Brent,E04003172
@@ -1519,7 +1519,7 @@ ocd-division/country:uk/cpc:poyntington,Poyntington,E04003585
 ocd-division/country:uk/cpc:north_wootton,North Wootton,E04003574
 ocd-division/country:uk/cpc:haydon,Haydon,E04003544
 ocd-division/country:uk/cpc:caundle_marsh,Caundle Marsh,E04003517
-ocd-division/country:uk/cpc:bishop~s_caundle,Bishop's Caundle,E04003502
+ocd-division/country:uk/cpc:bishops_caundle,Bishop's Caundle,E04003502
 ocd-division/country:uk/cpc:purse_caundle,Purse Caundle,E04003588
 ocd-division/country:uk/cpc:oborne,Oborne,E04003575
 ocd-division/country:uk/cpc:catherston_leweston,Catherston Leweston,E04003515
@@ -1933,7 +1933,7 @@ ocd-division/country:uk/cpc:dengie,Dengie,E04004046
 ocd-division/country:uk/cpc:tillingham,Tillingham,E04004065
 ocd-division/country:uk/cpc:bradwell-on-sea,Bradwell-on-Sea,E04004043
 ocd-division/country:uk/cpc:great_totham,Great Totham,E04004049
-ocd-division/country:uk/cpc:tolleshunt_d~arcy,Tolleshunt D'arcy,E04004067
+ocd-division/country:uk/cpc:tolleshunt_darcy,Tolleshunt D'arcy,E04004067
 ocd-division/country:uk/cpc:tolleshunt_major,Tolleshunt Major,E04004069
 ocd-division/country:uk/cpc:stow_maries,Stow Maries,E04004064
 ocd-division/country:uk/cpc:cold_norton,Cold Norton,E04004045
@@ -2060,7 +2060,7 @@ ocd-division/country:uk/cpc:upleadon,Upleadon,E04004330
 ocd-division/country:uk/cpc:oxenhall,Oxenhall,E04004318
 ocd-division/country:uk/cpc:pauntley,Pauntley,E04004319
 ocd-division/country:uk/cpc:staunton,Staunton,E04004325
-ocd-division/country:uk/cpc:redmarley_d~abitot,Redmarley D'abitot,E04004320
+ocd-division/country:uk/cpc:redmarley_dabitot,Redmarley D'abitot,E04004320
 ocd-division/country:uk/cpc:hartpury,Hartpury,E04004306
 ocd-division/country:uk/cpc:corse,Corse,E04004302
 ocd-division/country:uk/cpc:bromesberrow,Bromesberrow,E04004298
@@ -2201,7 +2201,7 @@ ocd-division/country:uk/cpc:owlpen,Owlpen,E04004371
 ocd-division/country:uk/cpc:nympsfield,Nympsfield,E04004370
 ocd-division/country:uk/cpc:woodchester,Woodchester,E04004386
 ocd-division/country:uk/cpc:leonard_stanley,Leonard Stanley,E04004363
-ocd-division/country:uk/cpc:king~s_stanley,King's Stanley,E04004361
+ocd-division/country:uk/cpc:kings_stanley,King's Stanley,E04004361
 ocd-division/country:uk/cpc:nailsworth,Nailsworth,E04004368
 ocd-division/country:uk/cpc:rodborough,Rodborough,E04004375
 ocd-division/country:uk/cpc:stroud,Stroud,E04004380
@@ -2251,7 +2251,7 @@ ocd-division/country:uk/cpc:shurdington,Shurdington,E04004417
 ocd-division/country:uk/cpc:boddington,Boddington,E04004392
 ocd-division/country:uk/cpc:elmstone_hardwicke,Elmstone Hardwicke,E04004400
 ocd-division/country:uk/cpc:stoke_orchard,Stoke Orchard,E04004423
-ocd-division/country:uk/cpc:bishop~s_cleeve,Bishop's Cleeve,E04004391
+ocd-division/country:uk/cpc:bishops_cleeve,Bishop's Cleeve,E04004391
 ocd-division/country:uk/cpc:gotherington,Gotherington,E04004402
 ocd-division/country:uk/cpc:oxenton,Oxenton,E04004414
 ocd-division/country:uk/cpc:southam,Southam,E04004419
@@ -2365,7 +2365,7 @@ ocd-division/country:uk/cpc:bramshaw,Bramshaw,E04004557
 ocd-division/country:uk/cpc:sandleheath,Sandleheath,E04004584
 ocd-division/country:uk/cpc:hale,Hale,E04004570
 ocd-division/country:uk/cpc:ashurst_and_colbury,Ashurst and Colbury,E04004554
-ocd-division/country:uk/cpc:chandler~s_ford,Chandler's Ford,E04012049
+ocd-division/country:uk/cpc:chandlers_ford,Chandler's Ford,E04012049
 ocd-division/country:uk/cpc:hamble-le-rice,Hamble-le-Rice,E04004532
 ocd-division/country:uk/cpc:hound,Hound,E04004534
 ocd-division/country:uk/cpc:bursledon,Bursledon,E04004530
@@ -2562,7 +2562,7 @@ ocd-division/country:uk/cpc:nash_mills,Nash Mills,E04004706
 ocd-division/country:uk/cpc:nettleden_with_potten_end,Nettleden with Potten End,E04004707
 ocd-division/country:uk/cpc:markyate,Markyate,E04004705
 ocd-division/country:uk/cpc:flaunden,Flaunden,E04004701
-ocd-division/country:uk/cpc:bishop~s_stortford,Bishop's Stortford,E04004720
+ocd-division/country:uk/cpc:bishops_stortford,Bishop's Stortford,E04004720
 ocd-division/country:uk/cpc:tewin,Tewin,E04004752
 ocd-division/country:uk/cpc:datchworth,Datchworth,E04004728
 ocd-division/country:uk/cpc:watton-at-stone,Watton-at-Stone,E04004758
@@ -2626,7 +2626,7 @@ ocd-division/country:uk/cpc:welwyn,Welwyn,E04004822
 ocd-division/country:uk/cpc:woolmer_green,Woolmer Green,E04004823
 ocd-division/country:uk/cpc:ayot_st_peter,Ayot St. Peter,E04004817
 ocd-division/country:uk/cpc:ayot_st_lawrence,Ayot St. Lawrence,E04004816
-ocd-division/country:uk/cpc:king~s_walden,King's Walden,E04004782
+ocd-division/country:uk/cpc:kings_walden,King's Walden,E04004782
 ocd-division/country:uk/cpc:offley,Offley,E04004788
 ocd-division/country:uk/cpc:wymondley,Wymondley,E04004800
 ocd-division/country:uk/cpc:clothall,Clothall,E04004772
@@ -2637,7 +2637,7 @@ ocd-division/country:uk/cpc:lilley,Lilley,E04004785
 ocd-division/country:uk/cpc:hexton,Hexton,E04004775
 ocd-division/country:uk/cpc:pirton,Pirton,E04004789
 ocd-division/country:uk/cpc:codicote,Codicote,E04004773
-ocd-division/country:uk/cpc:st_paul~s_walden,St. Paul's Walden,E04004795
+ocd-division/country:uk/cpc:st_pauls_walden,St. Paul's Walden,E04004795
 ocd-division/country:uk/cpc:knebworth,Knebworth,E04004783
 ocd-division/country:uk/cpc:st_ippolyts,St. Ippolyts,E04004779
 ocd-division/country:uk/cpc:weston,Weston,E04012229
@@ -2833,7 +2833,7 @@ ocd-division/country:uk/cpc:alkham,Alkham,E04004900
 ocd-division/country:uk/cpc:lydden,Lydden,E04004911
 ocd-division/country:uk/cpc:denton_with_wootton,Denton with Wootton,E04004904
 ocd-division/country:uk/cpc:shepherdswell_with_coldred,Shepherdswell with Coldred,E04004920
-ocd-division/country:uk/cpc:st_margaret~s_at_cliffe,St. Margaret's At Cliffe,E04004918
+ocd-division/country:uk/cpc:st_margarets_at_cliffe,St. Margaret's At Cliffe,E04004918
 ocd-division/country:uk/cpc:tilmanstone,Tilmanstone,E04004926
 ocd-division/country:uk/cpc:ripple,Ripple,E04004916
 ocd-division/country:uk/cpc:nonington,Nonington,E04004912
@@ -3035,7 +3035,7 @@ ocd-division/country:uk/cpc:penwortham,Penwortham,E04005298
 ocd-division/country:uk/cpc:samlesbury,Samlesbury,E04005299
 ocd-division/country:uk/cpc:cuerdale,Cuerdale,E04005292
 ocd-division/country:uk/cpc:whitworth,Whitworth,E04005291
-ocd-division/country:uk/cpc:saint_anne~s_on_the_sea,Saint Anne's on the Sea,E04005176
+ocd-division/country:uk/cpc:saint_annes_on_the_sea,Saint Anne's on the Sea,E04005176
 ocd-division/country:uk/cpc:westby-with-plumptons,Westby-with-Plumptons,E04005175
 ocd-division/country:uk/cpc:weeton-with-preese,Weeton-with-Preese,E04005174
 ocd-division/country:uk/cpc:staining,Staining,E04005172
@@ -3274,7 +3274,7 @@ ocd-division/country:uk/cpc:shangton,Shangton,E04005466
 ocd-division/country:uk/cpc:illston_on_the_hill,Illston on the Hill,E04005438
 ocd-division/country:uk/cpc:little_stretton,Little Stretton,E04005448
 ocd-division/country:uk/cpc:houghton_on_the_hill,Houghton on the Hill,E04005435
-ocd-division/country:uk/cpc:king~s_norton,King's Norton,E04005443
+ocd-division/country:uk/cpc:kings_norton,King's Norton,E04005443
 ocd-division/country:uk/cpc:gaulby,Gaulby,E04005426
 ocd-division/country:uk/cpc:rolleston,Rolleston,E04005463
 ocd-division/country:uk/cpc:billesdon,Billesdon,E04005403
@@ -3628,7 +3628,7 @@ ocd-division/country:uk/cpc:temple_bruer_with_temple_high_grange,Temple Bruer wi
 ocd-division/country:uk/cpc:sleaford,Sleaford,E04005832
 ocd-division/country:uk/cpc:kirkby_la_thorpe,Kirkby La Thorpe,E04005809
 ocd-division/country:uk/cpc:ewerby_and_evedon,Ewerby and Evedon,E04005803
-ocd-division/country:uk/cpc:cranwell_brauncewell_and_byard~s_leap,"Cranwell, Brauncewell and Byard's Leap",E04012155
+ocd-division/country:uk/cpc:cranwell_brauncewell_and_byards_leap,"Cranwell, Brauncewell and Byard's Leap",E04012155
 ocd-division/country:uk/cpc:leasingham,Leasingham,E04005811
 ocd-division/country:uk/cpc:scopwick,Scopwick,E04005828
 ocd-division/country:uk/cpc:ruskington,Ruskington,E04005827
@@ -4272,7 +4272,7 @@ ocd-division/country:uk/cpc:griston,Griston,E04006122
 ocd-division/country:uk/cpc:watton,Watton,E04006187
 ocd-division/country:uk/cpc:north_pickenham,North Pickenham,E04006155
 ocd-division/country:uk/cpc:holme_hale,Holme Hale,E04006130
-ocd-division/country:uk/cpc:blo~_norton,Blo' Norton,E04006094
+ocd-division/country:uk/cpc:blo_norton,Blo' Norton,E04006094
 ocd-division/country:uk/cpc:garboldisham,Garboldisham,E04006114
 ocd-division/country:uk/cpc:south_lopham,South Lopham,E04006172
 ocd-division/country:uk/cpc:north_lopham,North Lopham,E04006154
@@ -4477,7 +4477,7 @@ ocd-division/country:uk/cpc:warmington,Warmington,E04012344
 ocd-division/country:uk/cpc:fotheringhay,Fotheringhay,E04006724
 ocd-division/country:uk/cpc:blatherwycke,Blatherwycke,E04006712
 ocd-division/country:uk/cpc:apethorpe,Apethorpe,E04006708
-ocd-division/country:uk/cpc:king~s_cliffe,King's Cliffe,E04006733
+ocd-division/country:uk/cpc:kings_cliffe,King's Cliffe,E04006733
 ocd-division/country:uk/cpc:wakerley,Wakerley,E04006757
 ocd-division/country:uk/cpc:duddington-with-fineshade,Duddington-with-Fineshade,E04006722
 ocd-division/country:uk/cpc:collyweston,Collyweston,E04006717
@@ -4860,7 +4860,7 @@ ocd-division/country:uk/cpc:hutton_hang,Hutton Hang,E04007495
 ocd-division/country:uk/cpc:finghall,Finghall,E04007482
 ocd-division/country:uk/cpc:harmby,Harmby,E04007488
 ocd-division/country:uk/cpc:garriston,Garriston,E04007484
-ocd-division/country:uk/cpc:st_martin~s,St. Martin's,E04007521
+ocd-division/country:uk/cpc:st_martins,St. Martin's,E04007521
 ocd-division/country:uk/cpc:newton-le-willows,Newton-le-Willows,E04007512
 ocd-division/country:uk/cpc:arrathorne,Arrathorne,E04007446
 ocd-division/country:uk/cpc:colburn,Colburn,E04007468
@@ -5867,7 +5867,7 @@ ocd-division/country:uk/cpc:stoke_st_mary,Stoke St. Mary,E04008815
 ocd-division/country:uk/cpc:west_monkton,West Monkton,E04008824
 ocd-division/country:uk/cpc:north_curry,North Curry,E04008802
 ocd-division/country:uk/cpc:stoke_st_gregory,Stoke St. Gregory,E04008814
-ocd-division/country:uk/cpc:bishop~s_lydeard,Bishop's Lydeard,E04012125
+ocd-division/country:uk/cpc:bishops_lydeard,Bishop's Lydeard,E04012125
 ocd-division/country:uk/cpc:burrowbridge,Burrowbridge,E04008784
 ocd-division/country:uk/cpc:otterford,Otterford,E04008807
 ocd-division/country:uk/cpc:sampford_arundel,Sampford Arundel,E04008810
@@ -5881,7 +5881,7 @@ ocd-division/country:uk/cpc:bradford-on-tone,Bradford-on-Tone,E04008783
 ocd-division/country:uk/cpc:oake,Oake,E04008805
 ocd-division/country:uk/cpc:halse,Halse,E04008796
 ocd-division/country:uk/cpc:ash_priors,Ash Priors,E04008778
-ocd-division/country:uk/cpc:bishop~s_hull,Bishop's Hull,E04008781
+ocd-division/country:uk/cpc:bishops_hull,Bishop's Hull,E04008781
 ocd-division/country:uk/cpc:staplegrove,Staplegrove,E04008812
 ocd-division/country:uk/cpc:cheddon_fitzpaine,Cheddon Fitzpaine,E04008785
 ocd-division/country:uk/cpc:curland,Curland,E04008793
@@ -6133,7 +6133,7 @@ ocd-division/country:uk/cpc:lichfield,Lichfield,E04008932
 ocd-division/country:uk/cpc:curborough_and_elmhurst,Curborough and Elmhurst,E04008920
 ocd-division/country:uk/cpc:swinfen_and_packington,Swinfen and Packington,E04008937
 ocd-division/country:uk/cpc:longdon,Longdon,E04008933
-ocd-division/country:uk/cpc:king~s_bromley,King's Bromley,E04008931
+ocd-division/country:uk/cpc:kings_bromley,King's Bromley,E04008931
 ocd-division/country:uk/cpc:fradley_and_streethay,Fradley and Streethay,E04010540
 ocd-division/country:uk/cpc:alrewas,Alrewas,E04010539
 ocd-division/country:uk/cpc:armitage_with_handsacre,Armitage with Handsacre,E04008916
@@ -6787,7 +6787,7 @@ ocd-division/country:uk/cpc:stretton_baskerville,Stretton Baskerville,E04009689
 ocd-division/country:uk/cpc:birdingbury,Birdingbury,E04009662
 ocd-division/country:uk/cpc:princethorpe,Princethorpe,E04009686
 ocd-division/country:uk/cpc:binley_woods,Binley Woods,E04009661
-ocd-division/country:uk/cpc:king~s_newnham,King's Newnham,E04009678
+ocd-division/country:uk/cpc:kings_newnham,King's Newnham,E04009678
 ocd-division/country:uk/cpc:little_lawford,Little Lawford,E04009680
 ocd-division/country:uk/cpc:brinklow,Brinklow,E04009665
 ocd-division/country:uk/cpc:ansty,Ansty,E04009660
@@ -6801,7 +6801,7 @@ ocd-division/country:uk/cpc:lapworth,Lapworth,E04009829
 ocd-division/country:uk/cpc:kenilworth,Kenilworth,E04012431
 ocd-division/country:uk/cpc:sherbourne,Sherbourne,E04009836
 ocd-division/country:uk/cpc:wasperton,Wasperton,E04012205
-ocd-division/country:uk/cpc:bishop~s_tachbrook,Bishop's Tachbrook,E04012707
+ocd-division/country:uk/cpc:bishops_tachbrook,Bishop's Tachbrook,E04012707
 ocd-division/country:uk/cpc:warwick,Warwick,E04012708
 ocd-division/country:uk/cpc:whitnash,Whitnash,E04012709
 ocd-division/country:uk/cpc:radford_semele,Radford Semele,E04009834
@@ -6810,7 +6810,7 @@ ocd-division/country:uk/cpc:offchurch,Offchurch,E04009832
 ocd-division/country:uk/cpc:rowington,Rowington,E04009835
 ocd-division/country:uk/cpc:shrewley,Shrewley,E04009837
 ocd-division/country:uk/cpc:beausale_haseley_honiley_and_wroxall,"Beausale, Haseley, Honiley and Wroxall",E04009845
-ocd-division/country:uk/cpc:leek_wootton_and_guy~s_cliffe,Leek Wootton and Guy's Cliffe,E04012432
+ocd-division/country:uk/cpc:leek_wootton_and_guys_cliffe,Leek Wootton and Guy's Cliffe,E04012432
 ocd-division/country:uk/cpc:cubbington,Cubbington,E04009824
 ocd-division/country:uk/cpc:ashow,Ashow,E04009815
 ocd-division/country:uk/cpc:burton_green,Burton Green,E04012430
@@ -6885,7 +6885,7 @@ ocd-division/country:uk/cpc:lighthorne,Lighthorne,E04009751
 ocd-division/country:uk/cpc:avon_dassett,Avon Dassett,E04009706
 ocd-division/country:uk/cpc:farnborough,Farnborough,E04009732
 ocd-division/country:uk/cpc:burton_dassett,Burton Dassett,E04009717
-ocd-division/country:uk/cpc:bishop~s_itchington,Bishop's Itchington,E04009714
+ocd-division/country:uk/cpc:bishops_itchington,Bishop's Itchington,E04009714
 ocd-division/country:uk/cpc:fenny_compton,Fenny Compton,E04009733
 ocd-division/country:uk/cpc:wormleighton,Wormleighton,E04009809
 ocd-division/country:uk/cpc:priors_hardwick,Priors Hardwick,E04009770
@@ -7095,10 +7095,10 @@ ocd-division/country:uk/cpc:rushwick,Rushwick,E04010336
 ocd-division/country:uk/cpc:bushley,Bushley,E04010293
 ocd-division/country:uk/cpc:queenhill,Queenhill,E04010333
 ocd-division/country:uk/cpc:holdfast,Holdfast,E04010310
-ocd-division/country:uk/cpc:earl~s_croome,Earl's Croome,E04010299
+ocd-division/country:uk/cpc:earls_croome,Earl's Croome,E04010299
 ocd-division/country:uk/cpc:hill_croome,Hill Croome,E04010308
 ocd-division/country:uk/cpc:severn_stoke,Severn Stoke,E04010337
-ocd-division/country:uk/cpc:croome_d~abitot,Croome D'abitot,E04010297
+ocd-division/country:uk/cpc:croome_dabitot,Croome D'abitot,E04010297
 ocd-division/country:uk/cpc:kempsey,Kempsey,E04010312
 ocd-division/country:uk/cpc:stoke_bliss,Stoke Bliss,E04010344
 ocd-division/country:uk/cpc:kyre,Kyre,E04010316
@@ -7213,7 +7213,7 @@ ocd-division/country:uk/cpc:elmley_lovett,Elmley Lovett,E04010390
 ocd-division/country:uk/cpc:elmbridge,Elmbridge,E04010388
 ocd-division/country:uk/cpc:dodderhill,Dodderhill,E04010382
 ocd-division/country:uk/cpc:cookhill,Cookhill,E04010378
-ocd-division/country:uk/cpc:bredon~s_norton,Bredon's Norton,E04010367
+ocd-division/country:uk/cpc:bredons_norton,Bredon's Norton,E04010367
 ocd-division/country:uk/cpc:aston_somerville,Aston Somerville,E04010358
 ocd-division/country:uk/cpc:birlingham,Birlingham,E04010363
 ocd-division/country:uk/cpc:netherton,Netherton,E04010413
@@ -7387,7 +7387,7 @@ ocd-division/country:uk/cpc:wales,Wales,E04000122
 ocd-division/country:uk/cpc:aston_cum_aughton,Aston cum Aughton,E04012108
 ocd-division/country:uk/cpc:todwick,Todwick,E04000119
 ocd-division/country:uk/cpc:north_and_south_anston,North and South Anston,E04000113
-ocd-division/country:uk/cpc:dinnington_st_john~s,Dinnington St. John's,E04012112
+ocd-division/country:uk/cpc:dinnington_st_johns,Dinnington St. John's,E04012112
 ocd-division/country:uk/cpc:thurcroft,Thurcroft,E04000118
 ocd-division/country:uk/cpc:laughton-en-le-morthen,Laughton-en-le-Morthen,E04012114
 ocd-division/country:uk/cpc:maltby,Maltby,E04000128
@@ -7432,7 +7432,7 @@ ocd-division/country:uk/cpc:hockley_heath,Hockley Heath,E04012012
 ocd-division/country:uk/cpc:dickens_heath,Dickens Heath,E04012011
 ocd-division/country:uk/cpc:kingshurst,Kingshurst,E04000154
 ocd-division/country:uk/cpc:castle_bromwich,Castle Bromwich,E04000149
-ocd-division/country:uk/cpc:smith~s_wood,Smith's Wood,E04000156
+ocd-division/country:uk/cpc:smiths_wood,Smith's Wood,E04000156
 ocd-division/country:uk/cpc:fordbridge,Fordbridge,E04000151
 ocd-division/country:uk/cpc:chelmsley_wood,Chelmsley Wood,E04000150
 ocd-division/country:uk/cpc:rainhill,Rainhill,E04000026
@@ -7640,7 +7640,7 @@ ocd-division/country:uk/cpc:sully_and_lavernock_community,Sully and Lavernock Co
 ocd-division/country:uk/cpc:dinas_powys_community,Dinas Powys Community,W04000653
 ocd-division/country:uk/cpc:wick_community,Wick Community,W04000676
 ocd-division/country:uk/cpc:ewenny_community,Ewenny Community,W04000654
-ocd-division/country:uk/cpc:st_bride~s_major_community,St. Bride's Major Community,W04000669
+ocd-division/country:uk/cpc:st_brides_major_community,St. Bride's Major Community,W04000669
 ocd-division/country:uk/cpc:colwinston_community,Colwinston Community,W04000651
 ocd-division/country:uk/cpc:llangan_community,Llangan Community,W04000659
 ocd-division/country:uk/cpc:llandow_community,Llandow Community,W04000657
@@ -7983,7 +7983,7 @@ ocd-division/country:uk/cpc:poulton_and_pulford,Poulton and Pulford,E04012585
 ocd-division/country:uk/cpc:broxton,Broxton,E04011052
 ocd-division/country:uk/cpc:handley,Handley,E04011107
 ocd-division/country:uk/cpc:tushingham-cum-grindley_macefen_and_bradley,"Tushingham-cum-Grindley, Macefen and Bradley",E04012573
-ocd-division/country:uk/cpc:no_man~s_heath_and_district,No Man's Heath and District,E04012570
+ocd-division/country:uk/cpc:no_mans_heath_and_district,No Man's Heath and District,E04012570
 ocd-division/country:uk/cpc:tattenhall_and_district,Tattenhall and District,E04012586
 ocd-division/country:uk/cpc:tiverton_and_tilstone_fearnall,Tiverton and Tilstone Fearnall,E04012592
 ocd-division/country:uk/cpc:allostock,Allostock,E04011036
@@ -8070,7 +8070,7 @@ ocd-division/country:uk/cpc:maxey,Maxey,E04001112
 ocd-division/country:uk/cpc:orton_waterville,Orton Waterville,E04001116
 ocd-division/country:uk/cpc:thornhaugh,Thornhaugh,E04001122
 ocd-division/country:uk/cpc:wittering,Wittering,E04001126
-ocd-division/country:uk/cpc:st_martin~s_without,St. Martin's Without,E04001118
+ocd-division/country:uk/cpc:st_martins_without,St. Martin's Without,E04001118
 ocd-division/country:uk/cpc:barnack,Barnack,E04001102
 ocd-division/country:uk/cpc:ailsworth,Ailsworth,E04001100
 ocd-division/country:uk/cpc:bretton,Bretton,E04001104
@@ -8318,7 +8318,7 @@ ocd-division/country:uk/cpc:carharrack,Carharrack,E04011416
 ocd-division/country:uk/cpc:st_keyne,St. Keyne,E04011563
 ocd-division/country:uk/cpc:torpoint,Torpoint,E04011591
 ocd-division/country:uk/cpc:warbstow_det,Warbstow (DET),E04011604
-ocd-division/country:uk/cpc:st_michael~s_mount,St. Michael's Mount,E04011573
+ocd-division/country:uk/cpc:st_michaels_mount,St. Michael's Mount,E04011573
 ocd-division/country:uk/cpc:millbrook_det,Millbrook (DET),E04011489
 ocd-division/country:uk/cpc:bowes,Bowes,E04010600
 ocd-division/country:uk/cpc:lunedale,Lunedale,E04010660
@@ -8485,7 +8485,7 @@ ocd-division/country:uk/cpc:bodenham,Bodenham,E04000700
 ocd-division/country:uk/cpc:pencombe_with_grendon_warren,Pencombe with Grendon Warren,E04000849
 ocd-division/country:uk/cpc:ford_and_stoke_prior,Ford and Stoke Prior,E04000760
 ocd-division/country:uk/cpc:much_cowarne,Much Cowarne,E04000837
-ocd-division/country:uk/cpc:bishop~s_frome,Bishop's Frome,E04000697
+ocd-division/country:uk/cpc:bishops_frome,Bishop's Frome,E04000697
 ocd-division/country:uk/cpc:cradley,Cradley,E04000732
 ocd-division/country:uk/cpc:avenbury,Avenbury,E04000690
 ocd-division/country:uk/cpc:bromyard_and_winslow,Bromyard and Winslow,E04000716
@@ -8581,7 +8581,7 @@ ocd-division/country:uk/cpc:mansell_gamage,Mansell Gamage,E04000824
 ocd-division/country:uk/cpc:mansell_lacy,Mansell Lacy,E04000825
 ocd-division/country:uk/cpc:yazor,Yazor,E04000919
 ocd-division/country:uk/cpc:brinsop_and_wormsley,Brinsop and Wormsley,E04000712
-ocd-division/country:uk/cpc:king~s_pyon,King's Pyon,E04000786
+ocd-division/country:uk/cpc:kings_pyon,King's Pyon,E04000786
 ocd-division/country:uk/cpc:canon_pyon,Canon Pyon,E04000724
 ocd-division/country:uk/cpc:titley,Titley,E04000886
 ocd-division/country:uk/cpc:dilwyn,Dilwyn,E04000738
@@ -8882,7 +8882,7 @@ ocd-division/country:uk/cpc:dalton_piercy,Dalton Piercy,E04000255
 ocd-division/country:uk/cpc:hart,Hart,E04000258
 ocd-division/country:uk/cpc:headland,Headland,E04000260
 ocd-division/country:uk/cpc:brierton,Brierton,E04000253
-ocd-division/country:uk/cpc:st_mary~s,St. Mary's,E04012732
+ocd-division/country:uk/cpc:st_marys,St. Mary's,E04012732
 ocd-division/country:uk/cpc:chale,Chale,E04001299
 ocd-division/country:uk/cpc:ventnor,Ventnor,E04001316
 ocd-division/country:uk/cpc:bembridge,Bembridge,E04001295
@@ -9231,7 +9231,7 @@ ocd-division/country:uk/cpc:coychurch_higher_community,Coychurch Higher Communit
 ocd-division/country:uk/cpc:garw_valley_community,Garw Valley Community,W04000636
 ocd-division/country:uk/cpc:ogmore_valley_community,Ogmore Valley Community,W04000643
 ocd-division/country:uk/cpc:llangynwyd_lower_community,Llangynwyd Lower Community,W04000638
-ocd-division/country:uk/cpc:st_bride~s_minor_community,St. Bride's Minor Community,W04000646
+ocd-division/country:uk/cpc:st_brides_minor_community,St. Bride's Minor Community,W04000646
 ocd-division/country:uk/cpc:llangynwyd_middle_community,Llangynwyd Middle Community,W04000639
 ocd-division/country:uk/cpc:maesteg_community,Maesteg Community,W04000640
 ocd-division/country:uk/cpc:pyle_community,Pyle Community,W04000649
@@ -9481,7 +9481,7 @@ ocd-division/country:uk/cpc:pimhill,Pimhill,E04011339
 ocd-division/country:uk/cpc:shawbury,Shawbury,E04011353
 ocd-division/country:uk/cpc:sheriffhales,Sheriffhales,E04011355
 ocd-division/country:uk/cpc:myddle_broughton_and_harmer_hill,"Myddle, Broughton and Harmer Hill",E04011326
-ocd-division/country:uk/cpc:child~s_ercall,Child's Ercall,E04011240
+ocd-division/country:uk/cpc:childs_ercall,Child's Ercall,E04011240
 ocd-division/country:uk/cpc:hodnet,Hodnet,E04011284
 ocd-division/country:uk/cpc:stoke_upon_tern,Stoke upon Tern,E04011368
 ocd-division/country:uk/cpc:wem_rural,Wem Rural,E04011379
@@ -9501,7 +9501,7 @@ ocd-division/country:uk/cpc:craven_arms,Craven Arms,E04011258
 ocd-division/country:uk/cpc:culmington,Culmington,E04011260
 ocd-division/country:uk/cpc:mainstone,Mainstone,E04011312
 ocd-division/country:uk/cpc:colebatch,Colebatch,E04011254
-ocd-division/country:uk/cpc:bishop~s_castle,Bishop's Castle,E04011223
+ocd-division/country:uk/cpc:bishops_castle,Bishop's Castle,E04011223
 ocd-division/country:uk/cpc:lydham,Lydham,E04011311
 ocd-division/country:uk/cpc:more,More,E04011320
 ocd-division/country:uk/cpc:acton_scott,Acton Scott,E04011200
@@ -9512,7 +9512,7 @@ ocd-division/country:uk/cpc:all_stretton,All Stretton,E04011204
 ocd-division/country:uk/cpc:church_pulverbatch,Church Pulverbatch,E04011243
 ocd-division/country:uk/cpc:smethcott,Smethcott,E04011361
 ocd-division/country:uk/cpc:leebotwood,Leebotwood,E04011299
-ocd-division/country:uk/cpc:richard~s_castle_shropshire,Richard's Castle (Shropshire),E04011345
+ocd-division/country:uk/cpc:richards_castle_shropshire,Richard's Castle (Shropshire),E04011345
 ocd-division/country:uk/cpc:ludlow,Ludlow,E04011309
 ocd-division/country:uk/cpc:ashford_carbonel,Ashford Carbonel,E04011207
 ocd-division/country:uk/cpc:greete,Greete,E04011277
@@ -9639,7 +9639,7 @@ ocd-division/country:uk/cpc:crymych_community,Crymych Community,W04000421
 ocd-division/country:uk/cpc:nevern_community,Nevern Community,W04000454
 ocd-division/country:uk/cpc:cilgerran_community,Cilgerran Community,W04000937
 ocd-division/country:uk/cpc:dale_community,Dale Community,W04000423
-ocd-division/country:uk/cpc:st_ishmael~s_community,St. Ishmael's Community,W04000469
+ocd-division/country:uk/cpc:st_ishmaels_community,St. Ishmael's Community,W04000469
 ocd-division/country:uk/cpc:hundleton_community,Hundleton Community,W04000943
 ocd-division/country:uk/cpc:llanstadwell_community,Llanstadwell Community,W04000442
 ocd-division/country:uk/cpc:rosemarket_community,Rosemarket Community,W04000951
@@ -9648,9 +9648,9 @@ ocd-division/country:uk/cpc:lamphey_community,Lamphey Community,W04000437
 ocd-division/country:uk/cpc:pembroke_dock_community,Pembroke Dock Community,W04000460
 ocd-division/country:uk/cpc:cosheston_community,Cosheston Community,W04000420
 ocd-division/country:uk/cpc:burton_community,Burton Community,W04000935
-ocd-division/country:uk/cpc:walwyn~s_castle_community,Walwyn's Castle Community,W04000483
+ocd-division/country:uk/cpc:walwyns_castle_community,Walwyn's Castle Community,W04000483
 ocd-division/country:uk/cpc:tiers_cross_community,Tiers Cross Community,W04000955
-ocd-division/country:uk/cpc:merlin~s_bridge_community,Merlin's Bridge Community,W04000450
+ocd-division/country:uk/cpc:merlins_bridge_community,Merlin's Bridge Community,W04000450
 ocd-division/country:uk/cpc:haverfordwest_community,Haverfordwest Community,W04000941
 ocd-division/country:uk/cpc:martletwy_community,Martletwy Community,W04000448
 ocd-division/country:uk/cpc:penally_community,Penally Community,W04000461
@@ -9713,7 +9713,7 @@ ocd-division/country:uk/cpc:melindwr_community,Melindwr Community,W04000393
 ocd-division/country:uk/cpc:trefeurig_community,Trefeurig Community,W04000400
 ocd-division/country:uk/cpc:pontarfynach_community,Pontarfynach Community,W04000397
 ocd-division/country:uk/cpc:tirymynach_community,Tirymynach Community,W04000398
-ocd-division/country:uk/cpc:geneu~r_glyn_community,Geneu'r Glyn Community,W04000368
+ocd-division/country:uk/cpc:geneur_glyn_community,Geneu'r Glyn Community,W04000368
 ocd-division/country:uk/cpc:borth_community,Borth Community,W04000362
 ocd-division/country:uk/cpc:ceulanamaesmawr_community,Ceulanamaesmawr Community,W04000364
 ocd-division/country:uk/cpc:llangynfelyn_community,Llangynfelyn Community,W04000385
@@ -9910,7 +9910,7 @@ ocd-division/country:uk/cpc:halkyn_community,Halkyn Community,W04000991
 ocd-division/country:uk/cpc:flint_community,Flint Community,W04000186
 ocd-division/country:uk/cpc:northop_community,Northop Community,W04000202
 ocd-division/country:uk/cpc:sealand_community,Sealand Community,W04000207
-ocd-division/country:uk/cpc:connah~s_quay_community,Connah's Quay Community,W04000185
+ocd-division/country:uk/cpc:connahs_quay_community,Connah's Quay Community,W04000185
 ocd-division/country:uk/cpc:bagillt_community,Bagillt Community,W04000179
 ocd-division/country:uk/cpc:holywell_community,Holywell Community,W04000192
 ocd-division/country:uk/cpc:hope_community,Hope Community,W04000993
@@ -10449,7 +10449,7 @@ ocd-division/country:uk/cpc:herbrandston_community,Herbrandston Community,W04000
 ocd-division/country:uk/cpc:angle_community,Angle Community,W04000934
 ocd-division/country:uk/cpc:marloes_and_st_brides_community,Marloes and St. Brides Community,W04000447
 ocd-division/country:uk/cpc:solva_community,Solva Community,W04000474
-ocd-division/country:uk/cpc:st_david~s_and_the_cathedral_close_community,St. David's and the Cathedral Close Community,W04000466
+ocd-division/country:uk/cpc:st_davids_and_the_cathedral_close_community,St. David's and the Cathedral Close Community,W04000466
 ocd-division/country:uk/cpc:y_ferwig_community,Y Ferwig Community,W04000403
 ocd-division/country:uk/cpc:stackpole_and_castlemartin_community,Stackpole and Castlemartin Community,W04000954
 ocd-division/country:uk/cpc:st_agnes,St. Agnes,E04011526
@@ -10468,4 +10468,4 @@ ocd-division/country:uk/cpc:trevalga,Trevalga,E04011597
 ocd-division/country:uk/cpc:tresco,Tresco,E04012733
 ocd-division/country:uk/cpc:bryher,Bryher,E04012729
 ocd-division/country:uk/cpc:weston-super-mare,Weston-Super-Mare,E04012104
-ocd-division/country:uk/cpc:queen~s_park,Queen's Park,E04012296
+ocd-division/country:uk/cpc:queens_park,Queen's Park,E04012296

@@ -94,7 +94,7 @@ ocd-division/country:uk/ced:trumpington,Trumpington
 ocd-division/country:uk/ced:newnham,Newnham
 ocd-division/country:uk/ced:castle,Castle
 ocd-division/country:uk/ced:histon_impington,Histon & Impington
-ocd-division/country:uk/ced:queen_edith~s,Queen Edith's
+ocd-division/country:uk/ced:queen_ediths,Queen Edith's
 ocd-division/country:uk/ced:wisbech_west,Wisbech West
 ocd-division/country:uk/ced:wisbech_east,Wisbech East
 ocd-division/country:uk/ced:st_neots_eynesbury,St. Neots Eynesbury
@@ -103,7 +103,7 @@ ocd-division/country:uk/ced:petersfield,Petersfield
 ocd-division/country:uk/ced:market,Market
 ocd-division/country:uk/ced:cherry_hinton,Cherry Hinton
 ocd-division/country:uk/ced:chesterton,Chesterton
-ocd-division/country:uk/ced:king~s_hedges,King's Hedges
+ocd-division/country:uk/ced:kings_hedges,King's Hedges
 ocd-division/country:uk/ced:arbury,Arbury
 ocd-division/country:uk/ced:romsey,Romsey
 ocd-division/country:uk/ced:millom_without,Millom Without
@@ -168,7 +168,7 @@ ocd-division/country:uk/ced:mirehouse,Mirehouse
 ocd-division/country:uk/ced:kendal_castle,Kendal Castle
 ocd-division/country:uk/ced:kendal_nether,Kendal Nether
 ocd-division/country:uk/ced:harrington,Harrington
-ocd-division/country:uk/ced:st_john~s_and_great_clifton,St. John's and Great Clifton
+ocd-division/country:uk/ced:st_johns_and_great_clifton,St. John's and Great Clifton
 ocd-division/country:uk/ced:belah,Belah
 ocd-division/country:uk/ced:penrith_west,Penrith West
 ocd-division/country:uk/ced:penrith_east,Penrith East
@@ -179,7 +179,7 @@ ocd-division/country:uk/ced:bransty,Bransty
 ocd-division/country:uk/ced:kendal_highgate,Kendal Highgate
 ocd-division/country:uk/ced:kendal_strickland_and_fell,Kendal Strickland and Fell
 ocd-division/country:uk/ced:moss_bay_and_moorclose,Moss Bay and Moorclose
-ocd-division/country:uk/ced:st_michael~s,St. Michael's
+ocd-division/country:uk/ced:st_michaels,St. Michael's
 ocd-division/country:uk/ced:morton,Morton
 ocd-division/country:uk/ced:yewdale,Yewdale
 ocd-division/country:uk/ced:denton_holme,Denton Holme
@@ -225,7 +225,7 @@ ocd-division/country:uk/ced:alfreton_and_somercotes,Alfreton and Somercotes
 ocd-division/country:uk/ced:whaley_bridge,Whaley Bridge
 ocd-division/country:uk/ced:clay_cross_south,Clay Cross South
 ocd-division/country:uk/ced:clay_cross_north,Clay Cross North
-ocd-division/country:uk/ced:st_mary~s,St. Mary's
+ocd-division/country:uk/ced:st_marys,St. Mary's
 ocd-division/country:uk/ced:dronfield_east,Dronfield East
 ocd-division/country:uk/ced:staveley,Staveley
 ocd-division/country:uk/ced:shirebrook_and_pleasley,Shirebrook and Pleasley
@@ -297,7 +297,7 @@ ocd-division/country:uk/ced:wearside_topsham,Wearside & Topsham
 ocd-division/country:uk/ced:barnstaple_south,Barnstaple South
 ocd-division/country:uk/ced:barnstaple_north,Barnstaple North
 ocd-division/country:uk/ced:exwick_st_thomas,Exwick & St. Thomas
-ocd-division/country:uk/ced:st_david~s_haven_banks,St. David's & Haven Banks
+ocd-division/country:uk/ced:st_davids_haven_banks,St. David's & Haven Banks
 ocd-division/country:uk/ced:wonford_st_loyes,Wonford & St. Loyes
 ocd-division/country:uk/ced:heavitree_whipton_barton,Heavitree & Whipton Barton
 ocd-division/country:uk/ced:duryard_pennsylvania,Duryard & Pennsylvania
@@ -368,7 +368,7 @@ ocd-division/country:uk/ced:seaford_south,Seaford South
 ocd-division/country:uk/ced:seaford_north,Seaford North
 ocd-division/country:uk/ced:old_town,Old Town
 ocd-division/country:uk/ced:ratton,Ratton
-ocd-division/country:uk/ced:st_anthony~s,St. Anthony's
+ocd-division/country:uk/ced:st_anthonys,St. Anthony's
 ocd-division/country:uk/ced:polegate_watermill,Polegate & Watermill
 ocd-division/country:uk/ced:hailsham_new_town,Hailsham New Town
 ocd-division/country:uk/ced:hailsham_market,Hailsham Market
@@ -501,9 +501,9 @@ ocd-division/country:uk/ced:barnwood_and_hucclecote,Barnwood and Hucclecote
 ocd-division/country:uk/ced:churchdown,Churchdown
 ocd-division/country:uk/ced:charlton_park_and_college,Charlton Park and College
 ocd-division/country:uk/ced:battledown_and_charlton_kings,Battledown and Charlton Kings
-ocd-division/country:uk/ced:st_paul~s_and_swindon,St. Paul's and Swindon
+ocd-division/country:uk/ced:st_pauls_and_swindon,St. Paul's and Swindon
 ocd-division/country:uk/ced:pittville_and_prestbury,Pittville and Prestbury
-ocd-division/country:uk/ced:bishop~s_cleeve,Bishop's Cleeve
+ocd-division/country:uk/ced:bishops_cleeve,Bishop's Cleeve
 ocd-division/country:uk/ced:quedgeley,Quedgeley
 ocd-division/country:uk/ced:grange_and_kingsway,Grange and Kingsway
 ocd-division/country:uk/ced:longlevens,Longlevens
@@ -511,7 +511,7 @@ ocd-division/country:uk/ced:benhall_and_up_hatherley,Benhall and Up Hatherley
 ocd-division/country:uk/ced:hesters_way_and_springbank,Hesters Way and Springbank
 ocd-division/country:uk/ced:leckhampton_and_warden_hill,Leckhampton and Warden Hill
 ocd-division/country:uk/ced:lansdown_and_park,Lansdown and Park
-ocd-division/country:uk/ced:st_mark~s_and_st_peter~s,St. Mark's and St. Peter's
+ocd-division/country:uk/ced:st_marks_and_st_peters,St. Mark's and St. Peter's
 ocd-division/country:uk/ced:all_saints_and_oakley,All Saints and Oakley
 ocd-division/country:uk/ced:barton_and_tredworth,Barton and Tredworth
 ocd-division/country:uk/ced:brockenhurst,Brockenhurst
@@ -578,7 +578,7 @@ ocd-division/country:uk/ced:church_crookham_ewshot,Church Crookham & Ewshot
 ocd-division/country:uk/ced:fleet_town,Fleet Town
 ocd-division/country:uk/ced:farnborough_south,Farnborough South
 ocd-division/country:uk/ced:yateley_east_blackwater,Yateley East & Blackwater
-ocd-division/country:uk/ced:chandler~s_ford,Chandler's Ford
+ocd-division/country:uk/ced:chandlers_ford,Chandler's Ford
 ocd-division/country:uk/ced:lee,Lee
 ocd-division/country:uk/ced:bridgemary,Bridgemary
 ocd-division/country:uk/ced:fareham_sarisbury,Fareham Sarisbury
@@ -603,7 +603,7 @@ ocd-division/country:uk/ced:royston_west_rural,Royston West & Rural
 ocd-division/country:uk/ced:rickmansworth_east_oxhey_park,Rickmansworth East & Oxhey Park
 ocd-division/country:uk/ced:three_rivers_rural,Three Rivers Rural
 ocd-division/country:uk/ced:kings_langley,Kings Langley
-ocd-division/country:uk/ced:st_stephen~s,St. Stephen's
+ocd-division/country:uk/ced:st_stephens,St. Stephen's
 ocd-division/country:uk/ced:watling,Watling
 ocd-division/country:uk/ced:potters_bar_west_shenley,Potters Bar West & Shenley
 ocd-division/country:uk/ced:colney_heath_marshalswick,Colney Heath & Marshalswick
@@ -871,7 +871,6 @@ ocd-division/country:uk/ced:birstall,Birstall
 ocd-division/country:uk/ced:rothley_mountsorrel,Rothley & Mountsorrel
 ocd-division/country:uk/ced:melton_west,Melton West
 ocd-division/country:uk/ced:melton_east,Melton East
-ocd-division/country:uk/ced:st_marys,St. Marys
 ocd-division/country:uk/ced:braunstone,Braunstone
 ocd-division/country:uk/ced:south_west_wigston,South & West Wigston
 ocd-division/country:uk/ced:north_wigston,North Wigston
@@ -970,7 +969,7 @@ ocd-division/country:uk/ced:long_stratton,Long Stratton
 ocd-division/country:uk/ced:henstead,Henstead
 ocd-division/country:uk/ced:thorpe_hamlet,Thorpe Hamlet
 ocd-division/country:uk/ced:acle,Acle
-ocd-division/country:uk/ced:clenchwarton_and_king~s_lynn_south,Clenchwarton and King's Lynn South
+ocd-division/country:uk/ced:clenchwarton_and_kings_lynn_south,Clenchwarton and King's Lynn South
 ocd-division/country:uk/ced:gayton_and_nar_valley,Gayton and Nar Valley
 ocd-division/country:uk/ced:dersingham,Dersingham
 ocd-division/country:uk/ced:fakenham,Fakenham
@@ -996,7 +995,7 @@ ocd-division/country:uk/ced:humbleyard,Humbleyard
 ocd-division/country:uk/ced:lothingland,Lothingland
 ocd-division/country:uk/ced:breydon,Breydon
 ocd-division/country:uk/ced:yarmouth_north_and_central,Yarmouth North and Central
-ocd-division/country:uk/ced:king~s_lynn_north_and_central,King's Lynn North and Central
+ocd-division/country:uk/ced:kings_lynn_north_and_central,King's Lynn North and Central
 ocd-division/country:uk/ced:taverham,Taverham
 ocd-division/country:uk/ced:hevingham_and_spixworth,Hevingham and Spixworth
 ocd-division/country:uk/ced:woodside,Woodside
@@ -1255,14 +1254,14 @@ ocd-division/country:uk/ced:didcot_ladygrove,Didcot Ladygrove
 ocd-division/country:uk/ced:abingdon_south,Abingdon South
 ocd-division/country:uk/ced:abingdon_north,Abingdon North
 ocd-division/country:uk/ced:abingdon_east,Abingdon East
-ocd-division/country:uk/ced:iffley_fields_and_st_mary~s,Iffley Fields and St. Mary's
+ocd-division/country:uk/ced:iffley_fields_and_st_marys,Iffley Fields and St. Mary's
 ocd-division/country:uk/ced:university_parks,University Parks
 ocd-division/country:uk/ced:rose_hill_and_littlemore,Rose Hill and Littlemore
 ocd-division/country:uk/ced:leys,Leys
-ocd-division/country:uk/ced:st_clement~s_and_cowley_marsh,St. Clement's and Cowley Marsh
+ocd-division/country:uk/ced:st_clements_and_cowley_marsh,St. Clement's and Cowley Marsh
 ocd-division/country:uk/ced:churchill_and_lye_valley,Churchill and Lye Valley
 ocd-division/country:uk/ced:headington_and_quarry,Headington and Quarry
-ocd-division/country:uk/ced:st_margaret~s,St. Margaret's
+ocd-division/country:uk/ced:st_margarets,St. Margaret's
 ocd-division/country:uk/ced:banbury_ruscote,Banbury Ruscote
 ocd-division/country:uk/ced:banbury_calthorpe,Banbury Calthorpe
 ocd-division/country:uk/ced:banbury_hardwick,Banbury Hardwick
@@ -1306,7 +1305,7 @@ ocd-division/country:uk/ced:shepton_mallet,Shepton Mallet
 ocd-division/country:uk/ced:frome_east,Frome East
 ocd-division/country:uk/ced:wellington,Wellington
 ocd-division/country:uk/ced:comeytrowe_and_trull,Comeytrowe and Trull
-ocd-division/country:uk/ced:bishop~s_hull_and_taunton_west,Bishop's Hull and Taunton West
+ocd-division/country:uk/ced:bishops_hull_and_taunton_west,Bishop's Hull and Taunton West
 ocd-division/country:uk/ced:taunton_south,Taunton South
 ocd-division/country:uk/ced:yeovil_south,Yeovil South
 ocd-division/country:uk/ced:yeovil_central,Yeovil Central
@@ -1432,9 +1431,9 @@ ocd-division/country:uk/ced:sudbury,Sudbury
 ocd-division/country:uk/ced:stowmarket_south,Stowmarket South
 ocd-division/country:uk/ced:bridge,Bridge
 ocd-division/country:uk/ced:gainsborough,Gainsborough
-ocd-division/country:uk/ced:st_helen~s,St. Helen's
-ocd-division/country:uk/ced:st_john~s,St. John's
-ocd-division/country:uk/ced:st_margaret~s_and_westgate,St. Margaret's and Westgate
+ocd-division/country:uk/ced:st_helens,St. Helen's
+ocd-division/country:uk/ced:st_johns,St. John's
+ocd-division/country:uk/ced:st_margarets_and_westgate,St. Margaret's and Westgate
 ocd-division/country:uk/ced:rushmere,Rushmere
 ocd-division/country:uk/ced:priory_heath,Priory Heath
 ocd-division/country:uk/ced:bixley,Bixley
@@ -1530,7 +1529,7 @@ ocd-division/country:uk/ced:wellesbourne,Wellesbourne
 ocd-division/country:uk/ced:kineton_red_horse,Kineton & Red Horse
 ocd-division/country:uk/ced:feldon,Feldon
 ocd-division/country:uk/ced:arden,Arden
-ocd-division/country:uk/ced:budbrooke_bishop~s_tachbrook,Budbrooke & Bishop's Tachbrook
+ocd-division/country:uk/ced:budbrooke_bishops_tachbrook,Budbrooke & Bishop's Tachbrook
 ocd-division/country:uk/ced:cubbington_leek_wootton,Cubbington & Leek Wootton
 ocd-division/country:uk/ced:lapworth_west_kenilworth,Lapworth & West Kenilworth
 ocd-division/country:uk/ced:dunsmore_leam_valley,Dunsmore & Leam Valley
@@ -1553,7 +1552,7 @@ ocd-division/country:uk/ced:stratford_south,Stratford South
 ocd-division/country:uk/ced:warwick_north,Warwick North
 ocd-division/country:uk/ced:whitnash,Whitnash
 ocd-division/country:uk/ced:leamington_clarendon,Leamington Clarendon
-ocd-division/country:uk/ced:kenilworth_st_john~s,Kenilworth St. John's
+ocd-division/country:uk/ced:kenilworth_st_johns,Kenilworth St. John's
 ocd-division/country:uk/ced:bedworth_west,Bedworth West
 ocd-division/country:uk/ced:bedworth_north,Bedworth North
 ocd-division/country:uk/ced:bedworth_east,Bedworth East
@@ -1587,7 +1586,7 @@ ocd-division/country:uk/ced:petworth,Petworth
 ocd-division/country:uk/ced:billingshurst,Billingshurst
 ocd-division/country:uk/ced:bramber_castle,Bramber Castle
 ocd-division/country:uk/ced:broadbridge,Broadbridge
-ocd-division/country:uk/ced:st_leonard~s_forest,St. Leonard's Forest
+ocd-division/country:uk/ced:st_leonards_forest,St. Leonard's Forest
 ocd-division/country:uk/ced:worth_forest,Worth Forest
 ocd-division/country:uk/ced:lindfield_high_weald,Lindfield & High Weald
 ocd-division/country:uk/ced:the_witterings,The Witterings
@@ -1691,7 +1690,6 @@ ocd-division/country:uk/ced:bedwardine,Bedwardine
 ocd-division/country:uk/ced:st_john,St. John
 ocd-division/country:uk/ced:st_peter,St. Peter
 ocd-division/country:uk/ced:rainbow_hill,Rainbow Hill
-ocd-division/country:uk/ced:st_johns,St. Johns
 ocd-division/country:uk/ced:st_chads,St. Chads
 ocd-division/country:uk/ced:st_barnabas,St. Barnabas
 ocd-division/country:uk/ced:st_georges_and_st_oswald,St. Georges and St. Oswald

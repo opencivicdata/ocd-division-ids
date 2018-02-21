@@ -58,13 +58,13 @@ ocd-division/country:uk/ute:baruc,Baruc,W05000632
 ocd-division/country:uk/ute:dyfan,Dyfan,W05000640
 ocd-division/country:uk/ute:sully,Sully,W05000935
 ocd-division/country:uk/ute:cadoc,Cadoc,W05000634
-ocd-division/country:uk/ute:st_bride~s_major,St. Bride's Major,W05000651
+ocd-division/country:uk/ute:st_brides_major,St. Bride's Major,W05000651
 ocd-division/country:uk/ute:llandow~ewenny,Llandow/Ewenny,W05000644
 ocd-division/country:uk/ute:rhoose,Rhoose,W05000648
 ocd-division/country:uk/ute:cowbridge,Cowbridge,W05000638
 ocd-division/country:uk/ute:wenvoe,Wenvoe,W05000654
 ocd-division/country:uk/ute:dinas_powys,Dinas Powys,W05000932
-ocd-division/country:uk/ute:st_augustine~s,St. Augustine's,W05000650
+ocd-division/country:uk/ute:st_augustines,St. Augustine's,W05000650
 ocd-division/country:uk/ute:castleland,Castleland,W05000635
 ocd-division/country:uk/ute:illtyd,Illtyd,W05000642
 ocd-division/country:uk/ute:buttrills,Buttrills,W05000633
@@ -195,7 +195,7 @@ ocd-division/country:uk/ute:neath_south,Neath South,W05000579
 ocd-division/country:uk/ute:cimla,Cimla,W05000562
 ocd-division/country:uk/ute:coedffranc_north,Coedffranc North,W05000564
 ocd-division/country:uk/ute:bryn-coch_south,Bryn-Coch South,W05000560
-ocd-division/country:uk/ute:godre~r_graig,Godre'r Graig,W05000572
+ocd-division/country:uk/ute:godrer_graig,Godre'r Graig,W05000572
 ocd-division/country:uk/ute:betws_yn_rhos,Betws yn Rhos,W05000114
 ocd-division/country:uk/ute:uwchaled,Uwchaled,W05000149
 ocd-division/country:uk/ute:llangernyw,Llangernyw,W05000132
@@ -312,7 +312,7 @@ ocd-division/country:uk/ute:looe_east,Looe East,E05009204
 ocd-division/country:uk/ute:saltash_north,Saltash North,E05009266
 ocd-division/country:uk/ute:saltash_east,Saltash East,E05009265
 ocd-division/country:uk/ute:wadebridge_west,Wadebridge West,E05009280
-ocd-division/country:uk/ute:bodmin_st_mary~s,Bodmin St. Mary's,E05009161
+ocd-division/country:uk/ute:bodmin_st_marys,Bodmin St. Mary's,E05009161
 ocd-division/country:uk/ute:bodmin_st_leonard,Bodmin St. Leonard,E05009160
 ocd-division/country:uk/ute:bodmin_st_petroc,Bodmin St. Petroc,E05009162
 ocd-division/country:uk/ute:liskeard_north,Liskeard North,E05009202
@@ -381,7 +381,7 @@ ocd-division/country:uk/ute:consett_south,Consett South,E05009049
 ocd-division/country:uk/ute:coundon,Coundon,E05009050
 ocd-division/country:uk/ute:spennymoor,Spennymoor,E05009082
 ocd-division/country:uk/ute:tudhoe,Tudhoe,E05009087
-ocd-division/country:uk/ute:neville~s_cross,Neville's Cross,E05009070
+ocd-division/country:uk/ute:nevilles_cross,Neville's Cross,E05009070
 ocd-division/country:uk/ute:framwellgate_and_newton_hall,Framwellgate and Newton Hall,E05009064
 ocd-division/country:uk/ute:bishop_middleham_and_cornforth,Bishop Middleham and Cornforth,E05009039
 ocd-division/country:uk/ute:belmont,Belmont,E05009036
@@ -747,7 +747,7 @@ ocd-division/country:uk/ute:penrhiwceiber,Penrhiwceiber,W05000681
 ocd-division/country:uk/ute:mountain_ash_west,Mountain Ash West,W05000680
 ocd-division/country:uk/ute:clun,Clun,E05008156
 ocd-division/country:uk/ute:church_stretton_and_craven_arms,Church Stretton and Craven Arms,E05008153
-ocd-division/country:uk/ute:bishop~s_castle,Bishop's Castle,E05008143
+ocd-division/country:uk/ute:bishops_castle,Bishop's Castle,E05008143
 ocd-division/country:uk/ute:market_drayton_east,Market Drayton East,E05008169
 ocd-division/country:uk/ute:corvedale,Corvedale,E05008158
 ocd-division/country:uk/ute:cleobury_mortimer,Cleobury Mortimer,E05008155
@@ -757,7 +757,6 @@ ocd-division/country:uk/ute:alveley_and_claverley,Alveley and Claverley,E0500813
 ocd-division/country:uk/ute:chirbury_and_worthen,Chirbury and Worthen,E05008152
 ocd-division/country:uk/ute:loton,Loton,E05008165
 ocd-division/country:uk/ute:llanymynech,Llanymynech,E05008163
-ocd-division/country:uk/ute:st_martin~s,St. Martin's,E05008183
 ocd-division/country:uk/ute:burnell,Burnell,E05008149
 ocd-division/country:uk/ute:severn_valley,Severn Valley,E05008186
 ocd-division/country:uk/ute:shawbury,Shawbury,E05008187
@@ -834,7 +833,7 @@ ocd-division/country:uk/ute:cilgerran,Cilgerran,W05000949
 ocd-division/country:uk/ute:neyland~_west,Neyland: West,W05000436
 ocd-division/country:uk/ute:pembroke~_st_michael,Pembroke: St. Michael,W05000444
 ocd-division/country:uk/ute:johnston,Johnston,W05000415
-ocd-division/country:uk/ute:merlin~s_bridge,Merlin's Bridge,W05000425
+ocd-division/country:uk/ute:merlins_bridge,Merlin's Bridge,W05000425
 ocd-division/country:uk/ute:haverfordwest~_priory,Haverfordwest: Priory,W05000413
 ocd-division/country:uk/ute:llangwm,Llangwm,W05000956
 ocd-division/country:uk/ute:tenby~_north,Tenby: North,W05000453
@@ -964,9 +963,9 @@ ocd-division/country:uk/ute:wyesham,Wyesham,W05000832
 ocd-division/country:uk/ute:dixton_with_osbaston,Dixton with Osbaston,W05000799
 ocd-division/country:uk/ute:green_lane,Green Lane,W05000802
 ocd-division/country:uk/ute:caldicot_castle,Caldicot Castle,W05000792
-ocd-division/country:uk/ute:st_christopher~s,St. Christopher's,W05000822
+ocd-division/country:uk/ute:st_christophers,St. Christopher's,W05000822
 ocd-division/country:uk/ute:st_kingsmark,St. Kingsmark,W05000823
-ocd-division/country:uk/ute:st_mary~s,St. Mary's,W05000824
+ocd-division/country:uk/ute:st_marys,St. Mary's,W05000824
 ocd-division/country:uk/ute:grofield,Grofield,W05000803
 ocd-division/country:uk/ute:lansdown,Lansdown,W05000804
 ocd-division/country:uk/ute:croesonen,Croesonen,W05000795
@@ -1065,12 +1064,12 @@ ocd-division/country:uk/ute:trelawnyd_and_gwaenysgor,Trelawnyd and Gwaenysgor,W0
 ocd-division/country:uk/ute:gronant,Gronant,W05000205
 ocd-division/country:uk/ute:greenfield,Greenfield,W05000204
 ocd-division/country:uk/ute:flint_trelawny,Flint Trelawny,W05000203
-ocd-division/country:uk/ute:connah~s_quay_golftyn,Connah's Quay Golftyn,W05000195
+ocd-division/country:uk/ute:connahs_quay_golftyn,Connah's Quay Golftyn,W05000195
 ocd-division/country:uk/ute:flint_coleshill,Flint Coleshill,W05000201
 ocd-division/country:uk/ute:bagillt_east,Bagillt East,W05000182
 ocd-division/country:uk/ute:flint_castle,Flint Castle,W05000200
-ocd-division/country:uk/ute:connah~s_quay_wepre,Connah's Quay Wepre,W05000197
-ocd-division/country:uk/ute:connah~s_quay_central,Connah's Quay Central,W05000194
+ocd-division/country:uk/ute:connahs_quay_wepre,Connah's Quay Wepre,W05000197
+ocd-division/country:uk/ute:connahs_quay_central,Connah's Quay Central,W05000194
 ocd-division/country:uk/ute:bagillt_west,Bagillt West,W05000183
 ocd-division/country:uk/ute:holywell_east,Holywell East,W05000212
 ocd-division/country:uk/ute:mold_south,Mold South,W05000220
@@ -1081,7 +1080,7 @@ ocd-division/country:uk/ute:buckley_bistre_east,Buckley Bistre East,W05000187
 ocd-division/country:uk/ute:buckley_pentrobin,Buckley Pentrobin,W05000190
 ocd-division/country:uk/ute:buckley_mountain,Buckley Mountain,W05000189
 ocd-division/country:uk/ute:northop_hall,Northop Hall,W05000225
-ocd-division/country:uk/ute:connah~s_quay_south,Connah's Quay South,W05000196
+ocd-division/country:uk/ute:connahs_quay_south,Connah's Quay South,W05000196
 ocd-division/country:uk/ute:saltney_stonebridge,Saltney Stonebridge,W05000229
 ocd-division/country:uk/ute:shotton_higher,Shotton Higher,W05000232
 ocd-division/country:uk/ute:saltney_mold_junction,Saltney Mold Junction,W05000228
@@ -1159,7 +1158,7 @@ ocd-division/country:uk/ute:warminster_west,Warminster West,E05008413
 ocd-division/country:uk/ute:westbury_east,Westbury East,E05008416
 ocd-division/country:uk/ute:wilton_and_lower_wylye_valley,Wilton and Lower Wylye Valley,E05008419
 ocd-division/country:uk/ute:salisbury_st_francis_and_stratford,Salisbury St. Francis and Stratford,E05008390
-ocd-division/country:uk/ute:salisbury_st_martin~s_and_cathedral,Salisbury St. Martin's and Cathedral,E05008392
+ocd-division/country:uk/ute:salisbury_st_martins_and_cathedral,Salisbury St. Martin's and Cathedral,E05008392
 ocd-division/country:uk/ute:laverstock_ford_and_old_sarum,"Laverstock, Ford and Old Sarum",E05008367
 ocd-division/country:uk/ute:amesbury_east,Amesbury East,E05008329
 ocd-division/country:uk/ute:tidworth,Tidworth,E05008399
@@ -1179,7 +1178,7 @@ ocd-division/country:uk/ute:trowbridge_grove,Trowbridge Grove,E05008405
 ocd-division/country:uk/ute:salisbury_harnham,Salisbury Harnham,E05008388
 ocd-division/country:uk/ute:salisbury_fisherton_and_bemerton_village,Salisbury Fisherton and Bemerton Village,E05008387
 ocd-division/country:uk/ute:salisbury_bemerton,Salisbury Bemerton,E05008386
-ocd-division/country:uk/ute:salisbury_st_mark~s_and_bishopdown,Salisbury St. Mark's and Bishopdown,E05008391
+ocd-division/country:uk/ute:salisbury_st_marks_and_bishopdown,Salisbury St. Mark's and Bishopdown,E05008391
 ocd-division/country:uk/ute:bradford-on-avon_south,Bradford-on-Avon South,E05008334
 ocd-division/country:uk/ute:trowbridge_lambrok,Trowbridge Lambrok,E05008406
 ocd-division/country:uk/ute:trowbridge_central,Trowbridge Central,E05008403
@@ -1202,7 +1201,7 @@ ocd-division/country:uk/ute:marlborough_east,Marlborough East,E05008371
 ocd-division/country:uk/ute:westbury_north,Westbury North,E05008417
 ocd-division/country:uk/ute:trowbridge_drynham,Trowbridge Drynham,E05008404
 ocd-division/country:uk/ute:trowbridge_park,Trowbridge Park,E05008407
-ocd-division/country:uk/ute:salisbury_st_paul~s,Salisbury St. Paul's,E05008393
+ocd-division/country:uk/ute:salisbury_st_pauls,Salisbury St. Paul's,E05008393
 ocd-division/country:uk/ute:salisbury_st_edmund_and_milford,Salisbury St. Edmund and Milford,E05008389
 ocd-division/country:uk/ute:trowbridge_paxcroft,Trowbridge Paxcroft,E05008408
 ocd-division/country:uk/ute:melksham_south,Melksham South,E05008375
@@ -1264,7 +1263,7 @@ ocd-division/country:uk/ute:butetown,Butetown,W05000854
 ocd-division/country:uk/ute:llanengan,Llanengan,W05000080
 ocd-division/country:uk/ute:lligwy,Lligwy,W05000987
 ocd-division/country:uk/ute:tenby~_south,Tenby: South,W05000454
-ocd-division/country:uk/ute:st_david~s,St. David's,W05000447
+ocd-division/country:uk/ute:st_davids,St. David's,W05000447
 ocd-division/country:uk/ute:nettlestone_and_seaview,Nettlestone and Seaview,E05008496
 ocd-division/country:uk/ute:aberdaron,Aberdaron,W05000041
 ocd-division/country:uk/ute:aethwy,Aethwy,W05000981
@@ -1273,7 +1272,7 @@ ocd-division/country:uk/ute:twrcelyn,Twrcelyn,W05000990
 ocd-division/country:uk/ute:talybolion,Talybolion,W05000989
 ocd-division/country:uk/ute:hundleton,Hundleton,W05000414
 ocd-division/country:uk/ute:solva,Solva,W05000452
-ocd-division/country:uk/ute:st_ishmael~s,St. Ishmael's,W05000449
+ocd-division/country:uk/ute:st_ishmaels,St. Ishmael's,W05000449
 ocd-division/country:uk/ute:pen-parc,Pen-parc,W05000391
 ocd-division/country:uk/ute:mill,Mill,W05000814
 ocd-division/country:uk/ute:bamburgh,Bamburgh,E05009097
