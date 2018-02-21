@@ -1,7 +1,6 @@
 import shapefile
 import csv
 import re
-import collections
 
 # Note: This requires the UK Ordnance Survey Electoral Boundaries dataset,
 # which is free and liberally licensed, but requires agreeing to a license and
@@ -17,6 +16,7 @@ wales_dir = '{}/Wales'.format(data_dir)
 
 # the field list for each data set can be quickly viewed using the get_overview function,
 # and debug_print dumps the data to console
+
 
 def read_records(filename):
     sf = shapefile.Reader(filename)
@@ -45,7 +45,7 @@ def write_csv(filename, csv_columns, dict_data):
 
 def make_id(type_id):
     replacements = ['\'', ' &', ',', ' Assembly Const',
-                    ' P Const', ' GL', ' ED', ' CP', '_CONST','(', ')',]
+                    ' P Const', ' GL', ' ED', ' CP', '_CONST', '(', ')', ]
     for replacement in replacements:
         type_id = type_id.replace(replacement, '')
 
@@ -73,12 +73,12 @@ def build_csv_file(data_dir, shape_group_name):
 
     manual_fixes = {'E04001551': 'buckinghamshire_whadden',
                     'E04001852': 'cambridgeshire_whadden',
-    }
+                    }
 
-    nested_groups = {'utw':'uta',
-                    'diw':'cty',
-                    'mtw':'mtd',
-    }
+    nested_groups = {'utw': 'uta',
+                     'diw': 'cty',
+                     'mtw': 'mtd',
+                     }
 
     seen_ids = []
 
@@ -98,7 +98,7 @@ def build_csv_file(data_dir, shape_group_name):
         # works fine, in others it would produce dupes
         if division_type in nested_groups:
             parent_id = '{}:{}/'.format(nested_groups[division_type],
-                                    make_id(record[3]))
+                                        make_id(record[3]))
             local_id = make_id(record[0])
         else:
             parent_id = ''
@@ -108,7 +108,8 @@ def build_csv_file(data_dir, shape_group_name):
         if record[8] in manual_fixes:
             local_id = manual_fixes[record[8]]
 
-        row['id'] = '{}/{}{}:{}'.format(ocd_base, parent_id, division_type, local_id)
+        row['id'] = '{}/{}{}:{}'.format(ocd_base,
+                                        parent_id, division_type, local_id)
         row['name'] = make_name(record[0])
 
         if str(record[8]) != '999999999':
@@ -123,10 +124,11 @@ def build_csv_file(data_dir, shape_group_name):
         # but there are references to both versions in public data...
         # so add an alternate without the B that sameAs's to this
         if '(B)' in record[0]:
-            clean_record = record[0].replace(' (B)','').replace(' (b)','')
+            clean_record = record[0].replace(' (B)', '').replace(' (b)', '')
             original_id = make_id(clean_record)
             original_name = make_name(clean_record)
-            original_ocd = '{}/{}:{}'.format(ocd_base, division_type, original_id)
+            original_ocd = '{}/{}:{}'.format(ocd_base,
+                                             division_type, original_id)
             if original_ocd not in seen_ids:
                 original_row = {}
                 original_row['id'] = original_ocd
@@ -140,7 +142,6 @@ def build_csv_file(data_dir, shape_group_name):
         if row['id'] not in seen_ids:
             seen_ids.append(row['id'])
             rows.append(row)
-
 
     group_name = shape_group_name.replace('_region', '')
     csv_filename = 'identifiers/country-uk/{}.csv'.format(group_name)
@@ -170,13 +171,15 @@ def build_welsh_csv(data_dir):
             if record[2] not in communities:
                 community_row = {}
                 community_id = make_id(record[2])
-                community_row['id'] = '{}/community:{}'.format(ocd_base, community_id)
+                community_row[
+                    'id'] = '{}/community:{}'.format(ocd_base, community_id)
                 community_row['name'] = record[2]
                 rows.append(community_row)
 
             local_id = make_id(record[0])
             parent_id = make_id(record[2])
-            row['id'] = '{}/community:{}/community_ward:{}'.format(ocd_base, parent_id, local_id)
+            row['id'] = '{}/community:{}/community_ward:{}'.format(
+                ocd_base, parent_id, local_id)
         elif record[1] == 'NON-COMMUNITY WARD':
             local_id = make_id(record[0])
             row['id'] = '{}/non_community_ward:{}'.format(ocd_base, local_id)
@@ -193,10 +196,10 @@ ocd_base = 'ocd-division/country:uk'
 # To see what these files contain,
 # debug_print('{}/{}'.format(data_dir, 'westminster_const_region'))
 
-base = [{'id':'ocd-division/country:uk',
-        'name': 'United Kingdom of Great Britain and Northern Ireland'}]
+base = [{'id': 'ocd-division/country:uk',
+         'name': 'United Kingdom of Great Britain and Northern Ireland'}]
 
-write_csv('identifiers/country-uk/uk.csv', ['id','name'], base)
+write_csv('identifiers/country-uk/uk.csv', ['id', 'name'], base)
 
 build_csv_file(uk_dir, 'westminster_const_region')
 build_csv_file(uk_dir, 'scotland_and_wales_const_region')
