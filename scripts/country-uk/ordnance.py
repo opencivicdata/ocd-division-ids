@@ -3,11 +3,18 @@ import csv
 import re
 import collections
 
-# Note: This requires the UK Ordnance Survey Boundaries dataset,
+# Note: This requires the UK Ordnance Survey Electoral Boundaries dataset,
 # which is free and liberally licensed, but requires agreeing to a license and
 # downloading via an emailed link from their site.
 # https://www.ordnancesurvey.co.uk/opendatadownload/products.html#BDLINE
 
+# it also assumes pyshp -- pip3 install pyshp
+
+# Change this
+data_dir = 'bdline_essh_gb/Data/GB'
+
+# the field list for each data set can be quickly viewed using the get_overview function,
+# and debug_print dumps the data to console
 
 def read_records(filename):
     sf = shapefile.Reader(filename)
@@ -75,6 +82,7 @@ def build_csv_file(data_dir, shape_group_name, refine_locals=False, extended_ref
     rows = []
     shape_file = '{}/{}'.format(data_dir, shape_group_name)
     for record in read_records(shape_file):
+        # skip these they're just to make maps nice
         if record[12] == 'FILLER AREA':
             continue
 
@@ -113,9 +121,6 @@ def build_csv_file(data_dir, shape_group_name, refine_locals=False, extended_ref
 
 
 ocd_base = 'ocd-division/country:uk'
-
-data_dir = '/Users/showerst/Downloads/bdline_essh_gb/Data/GB'
-
 
 # To see what these files contain,
 # debug_print('{}/{}'.format(data_dir, 'westminster_const_region'))
