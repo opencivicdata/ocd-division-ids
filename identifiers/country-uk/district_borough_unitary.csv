@@ -1,300 +1,300 @@
 id,name,ordnance_id,sameAs
-ocd-division/country:uk/dis:wycombe_district,Wycombe District,E07000007,
-ocd-division/country:uk/dis:south_bucks_district,South Bucks District,E07000006,
-ocd-division/country:uk/dis:chiltern_district,Chiltern District,E07000005,
-ocd-division/country:uk/dis:aylesbury_vale_district,Aylesbury Vale District,E07000004,
-ocd-division/country:uk/dis:fenland_district,Fenland District,E07000010,
-ocd-division/country:uk/dis:south_cambridgeshire_district,South Cambridgeshire District,E07000012,
-ocd-division/country:uk/dis:east_cambridgeshire_district,East Cambridgeshire District,E07000009,
-ocd-division/country:uk/dis:huntingdonshire_district,Huntingdonshire District,E07000011,
-ocd-division/country:uk/dis:cambridge_district,Cambridge District,,ocd-division/country:uk/dis:cambridge_district_b
+ocd-division/country:uk/dis:wycombe,Wycombe District,E07000007,
+ocd-division/country:uk/dis:south_bucks,South Bucks District,E07000006,
+ocd-division/country:uk/dis:chiltern,Chiltern District,E07000005,
+ocd-division/country:uk/dis:aylesbury_vale,Aylesbury Vale District,E07000004,
+ocd-division/country:uk/dis:fenland,Fenland District,E07000010,
+ocd-division/country:uk/dis:south_cambridgeshire,South Cambridgeshire District,E07000012,
+ocd-division/country:uk/dis:east_cambridgeshire,East Cambridgeshire District,E07000009,
+ocd-division/country:uk/dis:huntingdonshire,Huntingdonshire District,E07000011,
+ocd-division/country:uk/dis:cambridge,Cambridge District,,ocd-division/country:uk/dis:cambridge_district_b
 ocd-division/country:uk/dis:cambridge_district_b,Cambridge District (B),E07000008,
-ocd-division/country:uk/dis:copeland_district,Copeland District,,ocd-division/country:uk/dis:copeland_district_b
+ocd-division/country:uk/dis:copeland,Copeland District,,ocd-division/country:uk/dis:copeland_district_b
 ocd-division/country:uk/dis:copeland_district_b,Copeland District (B),E07000029,
-ocd-division/country:uk/dis:carlisle_district,Carlisle District,,ocd-division/country:uk/dis:carlisle_district_b
+ocd-division/country:uk/dis:carlisle,Carlisle District,,ocd-division/country:uk/dis:carlisle_district_b
 ocd-division/country:uk/dis:carlisle_district_b,Carlisle District (B),E07000028,
-ocd-division/country:uk/dis:south_lakeland_district,South Lakeland District,E07000031,
-ocd-division/country:uk/dis:allerdale_district,Allerdale District,,ocd-division/country:uk/dis:allerdale_district_b
+ocd-division/country:uk/dis:south_lakeland,South Lakeland District,E07000031,
+ocd-division/country:uk/dis:allerdale,Allerdale District,,ocd-division/country:uk/dis:allerdale_district_b
 ocd-division/country:uk/dis:allerdale_district_b,Allerdale District (B),E07000026,
-ocd-division/country:uk/dis:eden_district,Eden District,E07000030,
-ocd-division/country:uk/dis:barrow-in-furness_district,Barrow-in-Furness District,,ocd-division/country:uk/dis:barrow-in-furness_district_b
+ocd-division/country:uk/dis:eden,Eden District,E07000030,
+ocd-division/country:uk/dis:barrow-in-furness,Barrow-in-Furness District,,ocd-division/country:uk/dis:barrow-in-furness_district_b
 ocd-division/country:uk/dis:barrow-in-furness_district_b,Barrow-in-Furness District (B),E07000027,
-ocd-division/country:uk/dis:high_peak_district,High Peak District,,ocd-division/country:uk/dis:high_peak_district_b
+ocd-division/country:uk/dis:high_peak,High Peak District,,ocd-division/country:uk/dis:high_peak_district_b
 ocd-division/country:uk/dis:high_peak_district_b,High Peak District (B),E07000037,
-ocd-division/country:uk/dis:south_derbyshire_district,South Derbyshire District,E07000039,
-ocd-division/country:uk/dis:erewash_district,Erewash District,,ocd-division/country:uk/dis:erewash_district_b
+ocd-division/country:uk/dis:south_derbyshire,South Derbyshire District,E07000039,
+ocd-division/country:uk/dis:erewash,Erewash District,,ocd-division/country:uk/dis:erewash_district_b
 ocd-division/country:uk/dis:erewash_district_b,Erewash District (B),E07000036,
-ocd-division/country:uk/dis:north_east_derbyshire_district,North East Derbyshire District,E07000038,
-ocd-division/country:uk/dis:amber_valley_district,Amber Valley District,,ocd-division/country:uk/dis:amber_valley_district_b
+ocd-division/country:uk/dis:north_east_derbyshire,North East Derbyshire District,E07000038,
+ocd-division/country:uk/dis:amber_valley,Amber Valley District,,ocd-division/country:uk/dis:amber_valley_district_b
 ocd-division/country:uk/dis:amber_valley_district_b,Amber Valley District (B),E07000032,
-ocd-division/country:uk/dis:bolsover_district,Bolsover District,E07000033,
-ocd-division/country:uk/dis:derbyshire_dales_district,Derbyshire Dales District,E07000035,
-ocd-division/country:uk/dis:chesterfield_district,Chesterfield District,,ocd-division/country:uk/dis:chesterfield_district_b
+ocd-division/country:uk/dis:bolsover,Bolsover District,E07000033,
+ocd-division/country:uk/dis:derbyshire_dales,Derbyshire Dales District,E07000035,
+ocd-division/country:uk/dis:chesterfield,Chesterfield District,,ocd-division/country:uk/dis:chesterfield_district_b
 ocd-division/country:uk/dis:chesterfield_district_b,Chesterfield District (B),E07000034,
-ocd-division/country:uk/dis:north_devon_district,North Devon District,E07000043,
-ocd-division/country:uk/dis:east_devon_district,East Devon District,E07000040,
-ocd-division/country:uk/dis:teignbridge_district,Teignbridge District,E07000045,
-ocd-division/country:uk/dis:west_devon_district,West Devon District,,ocd-division/country:uk/dis:west_devon_district_b
+ocd-division/country:uk/dis:north_devon,North Devon District,E07000043,
+ocd-division/country:uk/dis:east_devon,East Devon District,E07000040,
+ocd-division/country:uk/dis:teignbridge,Teignbridge District,E07000045,
+ocd-division/country:uk/dis:west_devon,West Devon District,,ocd-division/country:uk/dis:west_devon_district_b
 ocd-division/country:uk/dis:west_devon_district_b,West Devon District (B),E07000047,
-ocd-division/country:uk/dis:mid_devon_district,Mid Devon District,E07000042,
-ocd-division/country:uk/dis:exeter_district,Exeter District,,ocd-division/country:uk/dis:exeter_district_b
+ocd-division/country:uk/dis:mid_devon,Mid Devon District,E07000042,
+ocd-division/country:uk/dis:exeter,Exeter District,,ocd-division/country:uk/dis:exeter_district_b
 ocd-division/country:uk/dis:exeter_district_b,Exeter District (B),E07000041,
-ocd-division/country:uk/dis:purbeck_district,Purbeck District,E07000051,
-ocd-division/country:uk/dis:christchurch_district,Christchurch District,,ocd-division/country:uk/dis:christchurch_district_b
+ocd-division/country:uk/dis:purbeck,Purbeck District,E07000051,
+ocd-division/country:uk/dis:christchurch,Christchurch District,,ocd-division/country:uk/dis:christchurch_district_b
 ocd-division/country:uk/dis:christchurch_district_b,Christchurch District (B),E07000048,
-ocd-division/country:uk/dis:west_dorset_district,West Dorset District,E07000052,
-ocd-division/country:uk/dis:east_dorset_district,East Dorset District,E07000049,
-ocd-division/country:uk/dis:north_dorset_district,North Dorset District,E07000050,
-ocd-division/country:uk/dis:weymouth_and_portland_district,Weymouth and Portland District,,ocd-division/country:uk/dis:weymouth_and_portland_district_b
+ocd-division/country:uk/dis:west_dorset,West Dorset District,E07000052,
+ocd-division/country:uk/dis:east_dorset,East Dorset District,E07000049,
+ocd-division/country:uk/dis:north_dorset,North Dorset District,E07000050,
+ocd-division/country:uk/dis:weymouth_and_portland,Weymouth and Portland District,,ocd-division/country:uk/dis:weymouth_and_portland_district_b
 ocd-division/country:uk/dis:weymouth_and_portland_district_b,Weymouth and Portland District (B),E07000053,
-ocd-division/country:uk/dis:lewes_district,Lewes District,E07000063,
-ocd-division/country:uk/dis:rother_district,Rother District,E07000064,
-ocd-division/country:uk/dis:wealden_district,Wealden District,E07000065,
-ocd-division/country:uk/dis:eastbourne_district,Eastbourne District,,ocd-division/country:uk/dis:eastbourne_district_b
+ocd-division/country:uk/dis:lewes,Lewes District,E07000063,
+ocd-division/country:uk/dis:rother,Rother District,E07000064,
+ocd-division/country:uk/dis:wealden,Wealden District,E07000065,
+ocd-division/country:uk/dis:eastbourne,Eastbourne District,,ocd-division/country:uk/dis:eastbourne_district_b
 ocd-division/country:uk/dis:eastbourne_district_b,Eastbourne District (B),E07000061,
-ocd-division/country:uk/dis:hastings_district,Hastings District,,ocd-division/country:uk/dis:hastings_district_b
+ocd-division/country:uk/dis:hastings,Hastings District,,ocd-division/country:uk/dis:hastings_district_b
 ocd-division/country:uk/dis:hastings_district_b,Hastings District (B),E07000062,
-ocd-division/country:uk/dis:brentwood_district,Brentwood District,,ocd-division/country:uk/dis:brentwood_district_b
+ocd-division/country:uk/dis:brentwood,Brentwood District,,ocd-division/country:uk/dis:brentwood_district_b
 ocd-division/country:uk/dis:brentwood_district_b,Brentwood District (B),E07000068,
-ocd-division/country:uk/dis:rochford_district,Rochford District,E07000075,
-ocd-division/country:uk/dis:epping_forest_district,Epping Forest District,E07000072,
-ocd-division/country:uk/dis:tendring_district,Tendring District,E07000076,
-ocd-division/country:uk/dis:uttlesford_district,Uttlesford District,E07000077,
-ocd-division/country:uk/dis:chelmsford_district,Chelmsford District,,ocd-division/country:uk/dis:chelmsford_district_b
+ocd-division/country:uk/dis:rochford,Rochford District,E07000075,
+ocd-division/country:uk/dis:epping_forest,Epping Forest District,E07000072,
+ocd-division/country:uk/dis:tendring,Tendring District,E07000076,
+ocd-division/country:uk/dis:uttlesford,Uttlesford District,E07000077,
+ocd-division/country:uk/dis:chelmsford,Chelmsford District,,ocd-division/country:uk/dis:chelmsford_district_b
 ocd-division/country:uk/dis:chelmsford_district_b,Chelmsford District (B),E07000070,
-ocd-division/country:uk/dis:colchester_district,Colchester District,,ocd-division/country:uk/dis:colchester_district_b
+ocd-division/country:uk/dis:colchester,Colchester District,,ocd-division/country:uk/dis:colchester_district_b
 ocd-division/country:uk/dis:colchester_district_b,Colchester District (B),E07000071,
-ocd-division/country:uk/dis:maldon_district,Maldon District,,ocd-division/country:uk/dis:maldon_district_b
+ocd-division/country:uk/dis:maldon,Maldon District,,ocd-division/country:uk/dis:maldon_district_b
 ocd-division/country:uk/dis:maldon_district_b,Maldon District (B),E07000074,
-ocd-division/country:uk/dis:braintree_district,Braintree District,E07000067,
-ocd-division/country:uk/dis:harlow_district,Harlow District,E07000073,
-ocd-division/country:uk/dis:basildon_district,Basildon District,,ocd-division/country:uk/dis:basildon_district_b
+ocd-division/country:uk/dis:braintree,Braintree District,E07000067,
+ocd-division/country:uk/dis:harlow,Harlow District,E07000073,
+ocd-division/country:uk/dis:basildon,Basildon District,,ocd-division/country:uk/dis:basildon_district_b
 ocd-division/country:uk/dis:basildon_district_b,Basildon District (B),E07000066,
-ocd-division/country:uk/dis:castle_point_district,Castle Point District,,ocd-division/country:uk/dis:castle_point_district_b
+ocd-division/country:uk/dis:castle_point,Castle Point District,,ocd-division/country:uk/dis:castle_point_district_b
 ocd-division/country:uk/dis:castle_point_district_b,Castle Point District (B),E07000069,
-ocd-division/country:uk/dis:forest_of_dean_district,Forest of Dean District,E07000080,
-ocd-division/country:uk/dis:cotswold_district,Cotswold District,E07000079,
-ocd-division/country:uk/dis:stroud_district,Stroud District,E07000082,
-ocd-division/country:uk/dis:tewkesbury_district,Tewkesbury District,,ocd-division/country:uk/dis:tewkesbury_district_b
+ocd-division/country:uk/dis:forest_of_dean,Forest of Dean District,E07000080,
+ocd-division/country:uk/dis:cotswold,Cotswold District,E07000079,
+ocd-division/country:uk/dis:stroud,Stroud District,E07000082,
+ocd-division/country:uk/dis:tewkesbury,Tewkesbury District,,ocd-division/country:uk/dis:tewkesbury_district_b
 ocd-division/country:uk/dis:tewkesbury_district_b,Tewkesbury District (B),E07000083,
-ocd-division/country:uk/dis:gloucester_district,Gloucester District,,ocd-division/country:uk/dis:gloucester_district_b
+ocd-division/country:uk/dis:gloucester,Gloucester District,,ocd-division/country:uk/dis:gloucester_district_b
 ocd-division/country:uk/dis:gloucester_district_b,Gloucester District (B),E07000081,
-ocd-division/country:uk/dis:cheltenham_district,Cheltenham District,,ocd-division/country:uk/dis:cheltenham_district_b
+ocd-division/country:uk/dis:cheltenham,Cheltenham District,,ocd-division/country:uk/dis:cheltenham_district_b
 ocd-division/country:uk/dis:cheltenham_district_b,Cheltenham District (B),E07000078,
-ocd-division/country:uk/dis:basingstoke_and_deane_district,Basingstoke and Deane District,,ocd-division/country:uk/dis:basingstoke_and_deane_district_b
+ocd-division/country:uk/dis:basingstoke_and_deane,Basingstoke and Deane District,,ocd-division/country:uk/dis:basingstoke_and_deane_district_b
 ocd-division/country:uk/dis:basingstoke_and_deane_district_b,Basingstoke and Deane District (B),E07000084,
-ocd-division/country:uk/dis:new_forest_district,New Forest District,E07000091,
-ocd-division/country:uk/dis:eastleigh_district,Eastleigh District,,ocd-division/country:uk/dis:eastleigh_district_b
+ocd-division/country:uk/dis:new_forest,New Forest District,E07000091,
+ocd-division/country:uk/dis:eastleigh,Eastleigh District,,ocd-division/country:uk/dis:eastleigh_district_b
 ocd-division/country:uk/dis:eastleigh_district_b,Eastleigh District (B),E07000086,
-ocd-division/country:uk/dis:east_hampshire_district,East Hampshire District,E07000085,
-ocd-division/country:uk/dis:winchester_district,Winchester District,,ocd-division/country:uk/dis:winchester_district_b
+ocd-division/country:uk/dis:east_hampshire,East Hampshire District,E07000085,
+ocd-division/country:uk/dis:winchester,Winchester District,,ocd-division/country:uk/dis:winchester_district_b
 ocd-division/country:uk/dis:winchester_district_b,Winchester District (B),E07000094,
-ocd-division/country:uk/dis:test_valley_district,Test Valley District,E07000093,
-ocd-division/country:uk/dis:hart_district,Hart District,E07000089,
-ocd-division/country:uk/dis:gosport_district,Gosport District,,ocd-division/country:uk/dis:gosport_district_b
+ocd-division/country:uk/dis:test_valley,Test Valley District,E07000093,
+ocd-division/country:uk/dis:hart,Hart District,E07000089,
+ocd-division/country:uk/dis:gosport,Gosport District,,ocd-division/country:uk/dis:gosport_district_b
 ocd-division/country:uk/dis:gosport_district_b,Gosport District (B),E07000088,
-ocd-division/country:uk/dis:fareham_district,Fareham District,,ocd-division/country:uk/dis:fareham_district_b
+ocd-division/country:uk/dis:fareham,Fareham District,,ocd-division/country:uk/dis:fareham_district_b
 ocd-division/country:uk/dis:fareham_district_b,Fareham District (B),E07000087,
-ocd-division/country:uk/dis:havant_district,Havant District,,ocd-division/country:uk/dis:havant_district_b
+ocd-division/country:uk/dis:havant,Havant District,,ocd-division/country:uk/dis:havant_district_b
 ocd-division/country:uk/dis:havant_district_b,Havant District (B),E07000090,
-ocd-division/country:uk/dis:rushmoor_district,Rushmoor District,,ocd-division/country:uk/dis:rushmoor_district_b
+ocd-division/country:uk/dis:rushmoor,Rushmoor District,,ocd-division/country:uk/dis:rushmoor_district_b
 ocd-division/country:uk/dis:rushmoor_district_b,Rushmoor District (B),E07000092,
-ocd-division/country:uk/dis:three_rivers_district,Three Rivers District,E07000102,
-ocd-division/country:uk/dis:hertsmere_district,Hertsmere District,,ocd-division/country:uk/dis:hertsmere_district_b
+ocd-division/country:uk/dis:three_rivers,Three Rivers District,E07000102,
+ocd-division/country:uk/dis:hertsmere,Hertsmere District,,ocd-division/country:uk/dis:hertsmere_district_b
 ocd-division/country:uk/dis:hertsmere_district_b,Hertsmere District (B),E07000098,
-ocd-division/country:uk/dis:broxbourne_district,Broxbourne District,,ocd-division/country:uk/dis:broxbourne_district_b
+ocd-division/country:uk/dis:broxbourne,Broxbourne District,,ocd-division/country:uk/dis:broxbourne_district_b
 ocd-division/country:uk/dis:broxbourne_district_b,Broxbourne District (B),E07000095,
-ocd-division/country:uk/dis:dacorum_district,Dacorum District,,ocd-division/country:uk/dis:dacorum_district_b
+ocd-division/country:uk/dis:dacorum,Dacorum District,,ocd-division/country:uk/dis:dacorum_district_b
 ocd-division/country:uk/dis:dacorum_district_b,Dacorum District (B),E07000096,
-ocd-division/country:uk/dis:east_hertfordshire_district,East Hertfordshire District,E07000242,
-ocd-division/country:uk/dis:st_albans_district,St. Albans District,,ocd-division/country:uk/dis:st_albans_district_b
+ocd-division/country:uk/dis:east_hertfordshire,East Hertfordshire District,E07000242,
+ocd-division/country:uk/dis:st_albans,St. Albans District,,ocd-division/country:uk/dis:st_albans_district_b
 ocd-division/country:uk/dis:st_albans_district_b,St. Albans District (B),E07000240,
-ocd-division/country:uk/dis:welwyn_hatfield_district,Welwyn Hatfield District,,ocd-division/country:uk/dis:welwyn_hatfield_district_b
+ocd-division/country:uk/dis:welwyn_hatfield,Welwyn Hatfield District,,ocd-division/country:uk/dis:welwyn_hatfield_district_b
 ocd-division/country:uk/dis:welwyn_hatfield_district_b,Welwyn Hatfield District (B),E07000241,
-ocd-division/country:uk/dis:north_hertfordshire_district,North Hertfordshire District,E07000099,
-ocd-division/country:uk/dis:watford_district,Watford District,,ocd-division/country:uk/dis:watford_district_b
+ocd-division/country:uk/dis:north_hertfordshire,North Hertfordshire District,E07000099,
+ocd-division/country:uk/dis:watford,Watford District,,ocd-division/country:uk/dis:watford_district_b
 ocd-division/country:uk/dis:watford_district_b,Watford District (B),E07000103,
-ocd-division/country:uk/dis:stevenage_district,Stevenage District,,ocd-division/country:uk/dis:stevenage_district_b
+ocd-division/country:uk/dis:stevenage,Stevenage District,,ocd-division/country:uk/dis:stevenage_district_b
 ocd-division/country:uk/dis:stevenage_district_b,Stevenage District (B),E07000243,
-ocd-division/country:uk/dis:tunbridge_wells_district,Tunbridge Wells District,,ocd-division/country:uk/dis:tunbridge_wells_district_b
+ocd-division/country:uk/dis:tunbridge_wells,Tunbridge Wells District,,ocd-division/country:uk/dis:tunbridge_wells_district_b
 ocd-division/country:uk/dis:tunbridge_wells_district_b,Tunbridge Wells District (B),E07000116,
-ocd-division/country:uk/dis:shepway_district,Shepway District,E07000112,
-ocd-division/country:uk/dis:sevenoaks_district,Sevenoaks District,E07000111,
-ocd-division/country:uk/dis:tonbridge_and_malling_district,Tonbridge and Malling District,,ocd-division/country:uk/dis:tonbridge_and_malling_district_b
+ocd-division/country:uk/dis:shepway,Shepway District,E07000112,
+ocd-division/country:uk/dis:sevenoaks,Sevenoaks District,E07000111,
+ocd-division/country:uk/dis:tonbridge_and_malling,Tonbridge and Malling District,,ocd-division/country:uk/dis:tonbridge_and_malling_district_b
 ocd-division/country:uk/dis:tonbridge_and_malling_district_b,Tonbridge and Malling District (B),E07000115,
-ocd-division/country:uk/dis:thanet_district,Thanet District,E07000114,
-ocd-division/country:uk/dis:ashford_district,Ashford District,,ocd-division/country:uk/dis:ashford_district_b
+ocd-division/country:uk/dis:thanet,Thanet District,E07000114,
+ocd-division/country:uk/dis:ashford,Ashford District,,ocd-division/country:uk/dis:ashford_district_b
 ocd-division/country:uk/dis:ashford_district_b,Ashford District (B),E07000105,
-ocd-division/country:uk/dis:canterbury_district,Canterbury District,,ocd-division/country:uk/dis:canterbury_district_b
+ocd-division/country:uk/dis:canterbury,Canterbury District,,ocd-division/country:uk/dis:canterbury_district_b
 ocd-division/country:uk/dis:canterbury_district_b,Canterbury District (B),E07000106,
-ocd-division/country:uk/dis:dover_district,Dover District,E07000108,
-ocd-division/country:uk/dis:maidstone_district,Maidstone District,,ocd-division/country:uk/dis:maidstone_district_b
+ocd-division/country:uk/dis:dover,Dover District,E07000108,
+ocd-division/country:uk/dis:maidstone,Maidstone District,,ocd-division/country:uk/dis:maidstone_district_b
 ocd-division/country:uk/dis:maidstone_district_b,Maidstone District (B),E07000110,
-ocd-division/country:uk/dis:swale_district,Swale District,,ocd-division/country:uk/dis:swale_district_b
+ocd-division/country:uk/dis:swale,Swale District,,ocd-division/country:uk/dis:swale_district_b
 ocd-division/country:uk/dis:swale_district_b,Swale District (B),E07000113,
-ocd-division/country:uk/dis:dartford_district,Dartford District,,ocd-division/country:uk/dis:dartford_district_b
+ocd-division/country:uk/dis:dartford,Dartford District,,ocd-division/country:uk/dis:dartford_district_b
 ocd-division/country:uk/dis:dartford_district_b,Dartford District (B),E07000107,
-ocd-division/country:uk/dis:gravesham_district,Gravesham District,,ocd-division/country:uk/dis:gravesham_district_b
+ocd-division/country:uk/dis:gravesham,Gravesham District,,ocd-division/country:uk/dis:gravesham_district_b
 ocd-division/country:uk/dis:gravesham_district_b,Gravesham District (B),E07000109,
-ocd-division/country:uk/dis:west_lancashire_district,West Lancashire District,,ocd-division/country:uk/dis:west_lancashire_district_b
+ocd-division/country:uk/dis:west_lancashire,West Lancashire District,,ocd-division/country:uk/dis:west_lancashire_district_b
 ocd-division/country:uk/dis:west_lancashire_district_b,West Lancashire District (B),E07000127,
-ocd-division/country:uk/dis:lancaster_district,Lancaster District,,ocd-division/country:uk/dis:lancaster_district_b
+ocd-division/country:uk/dis:lancaster,Lancaster District,,ocd-division/country:uk/dis:lancaster_district_b
 ocd-division/country:uk/dis:lancaster_district_b,Lancaster District (B),E07000121,
-ocd-division/country:uk/dis:chorley_district,Chorley District,,ocd-division/country:uk/dis:chorley_district_b
+ocd-division/country:uk/dis:chorley,Chorley District,,ocd-division/country:uk/dis:chorley_district_b
 ocd-division/country:uk/dis:chorley_district_b,Chorley District (B),E07000118,
-ocd-division/country:uk/dis:south_ribble_district,South Ribble District,,ocd-division/country:uk/dis:south_ribble_district_b
+ocd-division/country:uk/dis:south_ribble,South Ribble District,,ocd-division/country:uk/dis:south_ribble_district_b
 ocd-division/country:uk/dis:south_ribble_district_b,South Ribble District (B),E07000126,
-ocd-division/country:uk/dis:rossendale_district,Rossendale District,,ocd-division/country:uk/dis:rossendale_district_b
+ocd-division/country:uk/dis:rossendale,Rossendale District,,ocd-division/country:uk/dis:rossendale_district_b
 ocd-division/country:uk/dis:rossendale_district_b,Rossendale District (B),E07000125,
-ocd-division/country:uk/dis:fylde_district,Fylde District,,ocd-division/country:uk/dis:fylde_district_b
+ocd-division/country:uk/dis:fylde,Fylde District,,ocd-division/country:uk/dis:fylde_district_b
 ocd-division/country:uk/dis:fylde_district_b,Fylde District (B),E07000119,
-ocd-division/country:uk/dis:preston_district,Preston District,,ocd-division/country:uk/dis:preston_district_b
+ocd-division/country:uk/dis:preston,Preston District,,ocd-division/country:uk/dis:preston_district_b
 ocd-division/country:uk/dis:preston_district_b,Preston District (B),E07000123,
-ocd-division/country:uk/dis:wyre_district,Wyre District,,ocd-division/country:uk/dis:wyre_district_b
+ocd-division/country:uk/dis:wyre,Wyre District,,ocd-division/country:uk/dis:wyre_district_b
 ocd-division/country:uk/dis:wyre_district_b,Wyre District (B),E07000128,
-ocd-division/country:uk/dis:pendle_district,Pendle District,,ocd-division/country:uk/dis:pendle_district_b
+ocd-division/country:uk/dis:pendle,Pendle District,,ocd-division/country:uk/dis:pendle_district_b
 ocd-division/country:uk/dis:pendle_district_b,Pendle District (B),E07000122,
-ocd-division/country:uk/dis:ribble_valley_district,Ribble Valley District,,ocd-division/country:uk/dis:ribble_valley_district_b
+ocd-division/country:uk/dis:ribble_valley,Ribble Valley District,,ocd-division/country:uk/dis:ribble_valley_district_b
 ocd-division/country:uk/dis:ribble_valley_district_b,Ribble Valley District (B),E07000124,
-ocd-division/country:uk/dis:hyndburn_district,Hyndburn District,,ocd-division/country:uk/dis:hyndburn_district_b
+ocd-division/country:uk/dis:hyndburn,Hyndburn District,,ocd-division/country:uk/dis:hyndburn_district_b
 ocd-division/country:uk/dis:hyndburn_district_b,Hyndburn District (B),E07000120,
-ocd-division/country:uk/dis:burnley_district,Burnley District,,ocd-division/country:uk/dis:burnley_district_b
+ocd-division/country:uk/dis:burnley,Burnley District,,ocd-division/country:uk/dis:burnley_district_b
 ocd-division/country:uk/dis:burnley_district_b,Burnley District (B),E07000117,
-ocd-division/country:uk/dis:hinckley_and_bosworth_district,Hinckley and Bosworth District,,ocd-division/country:uk/dis:hinckley_and_bosworth_district_b
+ocd-division/country:uk/dis:hinckley_and_bosworth,Hinckley and Bosworth District,,ocd-division/country:uk/dis:hinckley_and_bosworth_district_b
 ocd-division/country:uk/dis:hinckley_and_bosworth_district_b,Hinckley and Bosworth District (B),E07000132,
-ocd-division/country:uk/dis:north_west_leicestershire_district,North West Leicestershire District,E07000134,
-ocd-division/country:uk/dis:melton_district,Melton District,,ocd-division/country:uk/dis:melton_district_b
+ocd-division/country:uk/dis:north_west_leicestershire,North West Leicestershire District,E07000134,
+ocd-division/country:uk/dis:melton,Melton District,,ocd-division/country:uk/dis:melton_district_b
 ocd-division/country:uk/dis:melton_district_b,Melton District (B),E07000133,
-ocd-division/country:uk/dis:harborough_district,Harborough District,E07000131,
-ocd-division/country:uk/dis:blaby_district,Blaby District,E07000129,
-ocd-division/country:uk/dis:charnwood_district,Charnwood District,,ocd-division/country:uk/dis:charnwood_district_b
+ocd-division/country:uk/dis:harborough,Harborough District,E07000131,
+ocd-division/country:uk/dis:blaby,Blaby District,E07000129,
+ocd-division/country:uk/dis:charnwood,Charnwood District,,ocd-division/country:uk/dis:charnwood_district_b
 ocd-division/country:uk/dis:charnwood_district_b,Charnwood District (B),E07000130,
-ocd-division/country:uk/dis:oadby_and_wigston_district,Oadby and Wigston District,,ocd-division/country:uk/dis:oadby_and_wigston_district_b
+ocd-division/country:uk/dis:oadby_and_wigston,Oadby and Wigston District,,ocd-division/country:uk/dis:oadby_and_wigston_district_b
 ocd-division/country:uk/dis:oadby_and_wigston_district_b,Oadby and Wigston District (B),E07000135,
-ocd-division/country:uk/dis:west_lindsey_district,West Lindsey District,E07000142,
-ocd-division/country:uk/dis:south_kesteven_district,South Kesteven District,E07000141,
-ocd-division/country:uk/dis:south_holland_district,South Holland District,E07000140,
-ocd-division/country:uk/dis:boston_district,Boston District,,ocd-division/country:uk/dis:boston_district_b
+ocd-division/country:uk/dis:west_lindsey,West Lindsey District,E07000142,
+ocd-division/country:uk/dis:south_kesteven,South Kesteven District,E07000141,
+ocd-division/country:uk/dis:south_holland,South Holland District,E07000140,
+ocd-division/country:uk/dis:boston,Boston District,,ocd-division/country:uk/dis:boston_district_b
 ocd-division/country:uk/dis:boston_district_b,Boston District (B),E07000136,
-ocd-division/country:uk/dis:north_kesteven_district,North Kesteven District,E07000139,
-ocd-division/country:uk/dis:east_lindsey_district,East Lindsey District,E07000137,
-ocd-division/country:uk/dis:lincoln_district,Lincoln District,,ocd-division/country:uk/dis:lincoln_district_b
+ocd-division/country:uk/dis:north_kesteven,North Kesteven District,E07000139,
+ocd-division/country:uk/dis:east_lindsey,East Lindsey District,E07000137,
+ocd-division/country:uk/dis:lincoln,Lincoln District,,ocd-division/country:uk/dis:lincoln_district_b
 ocd-division/country:uk/dis:lincoln_district_b,Lincoln District (B),E07000138,
-ocd-division/country:uk/dis:great_yarmouth_district,Great Yarmouth District,,ocd-division/country:uk/dis:great_yarmouth_district_b
+ocd-division/country:uk/dis:great_yarmouth,Great Yarmouth District,,ocd-division/country:uk/dis:great_yarmouth_district_b
 ocd-division/country:uk/dis:great_yarmouth_district_b,Great Yarmouth District (B),E07000145,
-ocd-division/country:uk/dis:south_norfolk_district,South Norfolk District,E07000149,
-ocd-division/country:uk/dis:kings_lynn_and_west_norfolk_district,King's Lynn and West Norfolk District,,ocd-division/country:uk/dis:kings_lynn_and_west_norfolk_district_b
+ocd-division/country:uk/dis:south_norfolk,South Norfolk District,E07000149,
+ocd-division/country:uk/dis:kings_lynn_and_west_norfolk,King's Lynn and West Norfolk District,,ocd-division/country:uk/dis:kings_lynn_and_west_norfolk_district_b
 ocd-division/country:uk/dis:kings_lynn_and_west_norfolk_district_b,King's Lynn and West Norfolk District (B),E07000146,
-ocd-division/country:uk/dis:breckland_district,Breckland District,E07000143,
-ocd-division/country:uk/dis:norwich_district,Norwich District,,ocd-division/country:uk/dis:norwich_district_b
+ocd-division/country:uk/dis:breckland,Breckland District,E07000143,
+ocd-division/country:uk/dis:norwich,Norwich District,,ocd-division/country:uk/dis:norwich_district_b
 ocd-division/country:uk/dis:norwich_district_b,Norwich District (B),E07000148,
-ocd-division/country:uk/dis:south_northamptonshire_district,South Northamptonshire District,E07000155,
-ocd-division/country:uk/dis:east_northamptonshire_district,East Northamptonshire District,E07000152,
-ocd-division/country:uk/dis:daventry_district,Daventry District,E07000151,
-ocd-division/country:uk/dis:wellingborough_district,Wellingborough District,,ocd-division/country:uk/dis:wellingborough_district_b
+ocd-division/country:uk/dis:south_northamptonshire,South Northamptonshire District,E07000155,
+ocd-division/country:uk/dis:east_northamptonshire,East Northamptonshire District,E07000152,
+ocd-division/country:uk/dis:daventry,Daventry District,E07000151,
+ocd-division/country:uk/dis:wellingborough,Wellingborough District,,ocd-division/country:uk/dis:wellingborough_district_b
 ocd-division/country:uk/dis:wellingborough_district_b,Wellingborough District (B),E07000156,
-ocd-division/country:uk/dis:kettering_district,Kettering District,,ocd-division/country:uk/dis:kettering_district_b
+ocd-division/country:uk/dis:kettering,Kettering District,,ocd-division/country:uk/dis:kettering_district_b
 ocd-division/country:uk/dis:kettering_district_b,Kettering District (B),E07000153,
-ocd-division/country:uk/dis:northampton_district,Northampton District,,ocd-division/country:uk/dis:northampton_district_b
+ocd-division/country:uk/dis:northampton,Northampton District,,ocd-division/country:uk/dis:northampton_district_b
 ocd-division/country:uk/dis:northampton_district_b,Northampton District (B),E07000154,
-ocd-division/country:uk/dis:corby_district,Corby District,,ocd-division/country:uk/dis:corby_district_b
+ocd-division/country:uk/dis:corby,Corby District,,ocd-division/country:uk/dis:corby_district_b
 ocd-division/country:uk/dis:corby_district_b,Corby District (B),E07000150,
-ocd-division/country:uk/dis:scarborough_district,Scarborough District,,ocd-division/country:uk/dis:scarborough_district_b
+ocd-division/country:uk/dis:scarborough,Scarborough District,,ocd-division/country:uk/dis:scarborough_district_b
 ocd-division/country:uk/dis:scarborough_district_b,Scarborough District (B),E07000168,
-ocd-division/country:uk/dis:selby_district,Selby District,E07000169,
-ocd-division/country:uk/dis:craven_district,Craven District,E07000163,
-ocd-division/country:uk/dis:richmondshire_district,Richmondshire District,E07000166,
-ocd-division/country:uk/dis:harrogate_district,Harrogate District,,ocd-division/country:uk/dis:harrogate_district_b
+ocd-division/country:uk/dis:selby,Selby District,E07000169,
+ocd-division/country:uk/dis:craven,Craven District,E07000163,
+ocd-division/country:uk/dis:richmondshire,Richmondshire District,E07000166,
+ocd-division/country:uk/dis:harrogate,Harrogate District,,ocd-division/country:uk/dis:harrogate_district_b
 ocd-division/country:uk/dis:harrogate_district_b,Harrogate District (B),E07000165,
-ocd-division/country:uk/dis:ryedale_district,Ryedale District,E07000167,
-ocd-division/country:uk/dis:hambleton_district,Hambleton District,E07000164,
-ocd-division/country:uk/dis:bassetlaw_district,Bassetlaw District,E07000171,
-ocd-division/country:uk/dis:rushcliffe_district,Rushcliffe District,,ocd-division/country:uk/dis:rushcliffe_district_b
+ocd-division/country:uk/dis:ryedale,Ryedale District,E07000167,
+ocd-division/country:uk/dis:hambleton,Hambleton District,E07000164,
+ocd-division/country:uk/dis:bassetlaw,Bassetlaw District,E07000171,
+ocd-division/country:uk/dis:rushcliffe,Rushcliffe District,,ocd-division/country:uk/dis:rushcliffe_district_b
 ocd-division/country:uk/dis:rushcliffe_district_b,Rushcliffe District (B),E07000176,
-ocd-division/country:uk/dis:gedling_district,Gedling District,,ocd-division/country:uk/dis:gedling_district_b
+ocd-division/country:uk/dis:gedling,Gedling District,,ocd-division/country:uk/dis:gedling_district_b
 ocd-division/country:uk/dis:gedling_district_b,Gedling District (B),E07000173,
-ocd-division/country:uk/dis:ashfield_district,Ashfield District,E07000170,
-ocd-division/country:uk/dis:newark_and_sherwood_district,Newark and Sherwood District,E07000175,
-ocd-division/country:uk/dis:broxtowe_district,Broxtowe District,,ocd-division/country:uk/dis:broxtowe_district_b
+ocd-division/country:uk/dis:ashfield,Ashfield District,E07000170,
+ocd-division/country:uk/dis:newark_and_sherwood,Newark and Sherwood District,E07000175,
+ocd-division/country:uk/dis:broxtowe,Broxtowe District,,ocd-division/country:uk/dis:broxtowe_district_b
 ocd-division/country:uk/dis:broxtowe_district_b,Broxtowe District (B),E07000172,
-ocd-division/country:uk/dis:mansfield_district,Mansfield District,E07000174,
-ocd-division/country:uk/dis:vale_of_white_horse_district,Vale of White Horse District,E07000180,
-ocd-division/country:uk/dis:south_oxfordshire_district,South Oxfordshire District,E07000179,
-ocd-division/country:uk/dis:cherwell_district,Cherwell District,E07000177,
-ocd-division/country:uk/dis:west_oxfordshire_district,West Oxfordshire District,E07000181,
-ocd-division/country:uk/dis:oxford_district,Oxford District,,ocd-division/country:uk/dis:oxford_district_b
+ocd-division/country:uk/dis:mansfield,Mansfield District,E07000174,
+ocd-division/country:uk/dis:vale_of_white_horse,Vale of White Horse District,E07000180,
+ocd-division/country:uk/dis:south_oxfordshire,South Oxfordshire District,E07000179,
+ocd-division/country:uk/dis:cherwell,Cherwell District,E07000177,
+ocd-division/country:uk/dis:west_oxfordshire,West Oxfordshire District,E07000181,
+ocd-division/country:uk/dis:oxford,Oxford District,,ocd-division/country:uk/dis:oxford_district_b
 ocd-division/country:uk/dis:oxford_district_b,Oxford District (B),E07000178,
-ocd-division/country:uk/dis:west_somerset_district,West Somerset District,E07000191,
-ocd-division/country:uk/dis:mendip_district,Mendip District,E07000187,
-ocd-division/country:uk/dis:taunton_deane_district,Taunton Deane District,,ocd-division/country:uk/dis:taunton_deane_district_b
+ocd-division/country:uk/dis:west_somerset,West Somerset District,E07000191,
+ocd-division/country:uk/dis:mendip,Mendip District,E07000187,
+ocd-division/country:uk/dis:taunton_deane,Taunton Deane District,,ocd-division/country:uk/dis:taunton_deane_district_b
 ocd-division/country:uk/dis:taunton_deane_district_b,Taunton Deane District (B),E07000190,
-ocd-division/country:uk/dis:south_somerset_district,South Somerset District,E07000189,
-ocd-division/country:uk/dis:sedgemoor_district,Sedgemoor District,E07000188,
-ocd-division/country:uk/dis:staffordshire_moorlands_district,Staffordshire Moorlands District,E07000198,
-ocd-division/country:uk/dis:south_staffordshire_district,South Staffordshire District,E07000196,
-ocd-division/country:uk/dis:lichfield_district,Lichfield District,E07000194,
-ocd-division/country:uk/dis:newcastle-under-lyme_district,Newcastle-under-Lyme District,,ocd-division/country:uk/dis:newcastle-under-lyme_district_b
+ocd-division/country:uk/dis:south_somerset,South Somerset District,E07000189,
+ocd-division/country:uk/dis:sedgemoor,Sedgemoor District,E07000188,
+ocd-division/country:uk/dis:staffordshire_moorlands,Staffordshire Moorlands District,E07000198,
+ocd-division/country:uk/dis:south_staffordshire,South Staffordshire District,E07000196,
+ocd-division/country:uk/dis:lichfield,Lichfield District,E07000194,
+ocd-division/country:uk/dis:newcastle-under-lyme,Newcastle-under-Lyme District,,ocd-division/country:uk/dis:newcastle-under-lyme_district_b
 ocd-division/country:uk/dis:newcastle-under-lyme_district_b,Newcastle-under-Lyme District (B),E07000195,
-ocd-division/country:uk/dis:stafford_district,Stafford District,,ocd-division/country:uk/dis:stafford_district_b
+ocd-division/country:uk/dis:stafford,Stafford District,,ocd-division/country:uk/dis:stafford_district_b
 ocd-division/country:uk/dis:stafford_district_b,Stafford District (B),E07000197,
-ocd-division/country:uk/dis:east_staffordshire_district,East Staffordshire District,,ocd-division/country:uk/dis:east_staffordshire_district_b
+ocd-division/country:uk/dis:east_staffordshire,East Staffordshire District,,ocd-division/country:uk/dis:east_staffordshire_district_b
 ocd-division/country:uk/dis:east_staffordshire_district_b,East Staffordshire District (B),E07000193,
-ocd-division/country:uk/dis:cannock_chase_district,Cannock Chase District,E07000192,
-ocd-division/country:uk/dis:tamworth_district,Tamworth District,,ocd-division/country:uk/dis:tamworth_district_b
+ocd-division/country:uk/dis:cannock_chase,Cannock Chase District,E07000192,
+ocd-division/country:uk/dis:tamworth,Tamworth District,,ocd-division/country:uk/dis:tamworth_district_b
 ocd-division/country:uk/dis:tamworth_district_b,Tamworth District (B),E07000199,
-ocd-division/country:uk/dis:waveney_district,Waveney District,E07000206,
-ocd-division/country:uk/dis:babergh_district,Babergh District,E07000200,
-ocd-division/country:uk/dis:suffolk_coastal_district,Suffolk Coastal District,E07000205,
-ocd-division/country:uk/dis:st_edmundsbury_district,St. Edmundsbury District,,ocd-division/country:uk/dis:st_edmundsbury_district_b
+ocd-division/country:uk/dis:waveney,Waveney District,E07000206,
+ocd-division/country:uk/dis:babergh,Babergh District,E07000200,
+ocd-division/country:uk/dis:suffolk_coastal,Suffolk Coastal District,E07000205,
+ocd-division/country:uk/dis:st_edmundsbury,St. Edmundsbury District,,ocd-division/country:uk/dis:st_edmundsbury_district_b
 ocd-division/country:uk/dis:st_edmundsbury_district_b,St. Edmundsbury District (B),E07000204,
-ocd-division/country:uk/dis:forest_heath_district,Forest Heath District,E07000201,
-ocd-division/country:uk/dis:mid_suffolk_district,Mid Suffolk District,E07000203,
-ocd-division/country:uk/dis:ipswich_district,Ipswich District,,ocd-division/country:uk/dis:ipswich_district_b
+ocd-division/country:uk/dis:forest_heath,Forest Heath District,E07000201,
+ocd-division/country:uk/dis:mid_suffolk,Mid Suffolk District,E07000203,
+ocd-division/country:uk/dis:ipswich,Ipswich District,,ocd-division/country:uk/dis:ipswich_district_b
 ocd-division/country:uk/dis:ipswich_district_b,Ipswich District (B),E07000202,
-ocd-division/country:uk/dis:waverley_district,Waverley District,,ocd-division/country:uk/dis:waverley_district_b
+ocd-division/country:uk/dis:waverley,Waverley District,,ocd-division/country:uk/dis:waverley_district_b
 ocd-division/country:uk/dis:waverley_district_b,Waverley District (B),E07000216,
-ocd-division/country:uk/dis:tandridge_district,Tandridge District,E07000215,
-ocd-division/country:uk/dis:woking_district,Woking District,,ocd-division/country:uk/dis:woking_district_b
+ocd-division/country:uk/dis:tandridge,Tandridge District,E07000215,
+ocd-division/country:uk/dis:woking,Woking District,,ocd-division/country:uk/dis:woking_district_b
 ocd-division/country:uk/dis:woking_district_b,Woking District (B),E07000217,
-ocd-division/country:uk/dis:surrey_heath_district,Surrey Heath District,,ocd-division/country:uk/dis:surrey_heath_district_b
+ocd-division/country:uk/dis:surrey_heath,Surrey Heath District,,ocd-division/country:uk/dis:surrey_heath_district_b
 ocd-division/country:uk/dis:surrey_heath_district_b,Surrey Heath District (B),E07000214,
-ocd-division/country:uk/dis:runnymede_district,Runnymede District,,ocd-division/country:uk/dis:runnymede_district_b
+ocd-division/country:uk/dis:runnymede,Runnymede District,,ocd-division/country:uk/dis:runnymede_district_b
 ocd-division/country:uk/dis:runnymede_district_b,Runnymede District (B),E07000212,
-ocd-division/country:uk/dis:guildford_district,Guildford District,,ocd-division/country:uk/dis:guildford_district_b
+ocd-division/country:uk/dis:guildford,Guildford District,,ocd-division/country:uk/dis:guildford_district_b
 ocd-division/country:uk/dis:guildford_district_b,Guildford District (B),E07000209,
-ocd-division/country:uk/dis:reigate_and_banstead_district,Reigate and Banstead District,,ocd-division/country:uk/dis:reigate_and_banstead_district_b
+ocd-division/country:uk/dis:reigate_and_banstead,Reigate and Banstead District,,ocd-division/country:uk/dis:reigate_and_banstead_district_b
 ocd-division/country:uk/dis:reigate_and_banstead_district_b,Reigate and Banstead District (B),E07000211,
-ocd-division/country:uk/dis:mole_valley_district,Mole Valley District,E07000210,
-ocd-division/country:uk/dis:elmbridge_district,Elmbridge District,,ocd-division/country:uk/dis:elmbridge_district_b
+ocd-division/country:uk/dis:mole_valley,Mole Valley District,E07000210,
+ocd-division/country:uk/dis:elmbridge,Elmbridge District,,ocd-division/country:uk/dis:elmbridge_district_b
 ocd-division/country:uk/dis:elmbridge_district_b,Elmbridge District (B),E07000207,
-ocd-division/country:uk/dis:spelthorne_district,Spelthorne District,,ocd-division/country:uk/dis:spelthorne_district_b
+ocd-division/country:uk/dis:spelthorne,Spelthorne District,,ocd-division/country:uk/dis:spelthorne_district_b
 ocd-division/country:uk/dis:spelthorne_district_b,Spelthorne District (B),E07000213,
-ocd-division/country:uk/dis:epsom_and_ewell_district,Epsom and Ewell District,,ocd-division/country:uk/dis:epsom_and_ewell_district_b
+ocd-division/country:uk/dis:epsom_and_ewell,Epsom and Ewell District,,ocd-division/country:uk/dis:epsom_and_ewell_district_b
 ocd-division/country:uk/dis:epsom_and_ewell_district_b,Epsom and Ewell District (B),E07000208,
-ocd-division/country:uk/dis:north_warwickshire_district,North Warwickshire District,,ocd-division/country:uk/dis:north_warwickshire_district_b
+ocd-division/country:uk/dis:north_warwickshire,North Warwickshire District,,ocd-division/country:uk/dis:north_warwickshire_district_b
 ocd-division/country:uk/dis:north_warwickshire_district_b,North Warwickshire District (B),E07000218,
-ocd-division/country:uk/dis:rugby_district,Rugby District,,ocd-division/country:uk/dis:rugby_district_b
+ocd-division/country:uk/dis:rugby,Rugby District,,ocd-division/country:uk/dis:rugby_district_b
 ocd-division/country:uk/dis:rugby_district_b,Rugby District (B),E07000220,
-ocd-division/country:uk/dis:warwick_district,Warwick District,E07000222,
-ocd-division/country:uk/dis:stratford-on-avon_district,Stratford-on-Avon District,E07000221,
-ocd-division/country:uk/dis:nuneaton_and_bedworth_district,Nuneaton and Bedworth District,,ocd-division/country:uk/dis:nuneaton_and_bedworth_district_b
+ocd-division/country:uk/dis:warwick,Warwick District,E07000222,
+ocd-division/country:uk/dis:stratford-on-avon,Stratford-on-Avon District,E07000221,
+ocd-division/country:uk/dis:nuneaton_and_bedworth,Nuneaton and Bedworth District,,ocd-division/country:uk/dis:nuneaton_and_bedworth_district_b
 ocd-division/country:uk/dis:nuneaton_and_bedworth_district_b,Nuneaton and Bedworth District (B),E07000219,
-ocd-division/country:uk/dis:arun_district,Arun District,E07000224,
-ocd-division/country:uk/dis:adur_district,Adur District,E07000223,
-ocd-division/country:uk/dis:chichester_district,Chichester District,E07000225,
-ocd-division/country:uk/dis:mid_sussex_district,Mid Sussex District,E07000228,
-ocd-division/country:uk/dis:horsham_district,Horsham District,E07000227,
-ocd-division/country:uk/dis:worthing_district,Worthing District,,ocd-division/country:uk/dis:worthing_district_b
+ocd-division/country:uk/dis:arun,Arun District,E07000224,
+ocd-division/country:uk/dis:adur,Adur District,E07000223,
+ocd-division/country:uk/dis:chichester,Chichester District,E07000225,
+ocd-division/country:uk/dis:mid_sussex,Mid Sussex District,E07000228,
+ocd-division/country:uk/dis:horsham,Horsham District,E07000227,
+ocd-division/country:uk/dis:worthing,Worthing District,,ocd-division/country:uk/dis:worthing_district_b
 ocd-division/country:uk/dis:worthing_district_b,Worthing District (B),E07000229,
-ocd-division/country:uk/dis:crawley_district,Crawley District,,ocd-division/country:uk/dis:crawley_district_b
+ocd-division/country:uk/dis:crawley,Crawley District,,ocd-division/country:uk/dis:crawley_district_b
 ocd-division/country:uk/dis:crawley_district_b,Crawley District (B),E07000226,
-ocd-division/country:uk/dis:malvern_hills_district,Malvern Hills District,E07000235,
-ocd-division/country:uk/dis:wyre_forest_district,Wyre Forest District,E07000239,
-ocd-division/country:uk/dis:wychavon_district,Wychavon District,E07000238,
-ocd-division/country:uk/dis:bromsgrove_district,Bromsgrove District,E07000234,
-ocd-division/country:uk/dis:worcester_district,Worcester District,,ocd-division/country:uk/dis:worcester_district_b
+ocd-division/country:uk/dis:malvern_hills,Malvern Hills District,E07000235,
+ocd-division/country:uk/dis:wyre_forest,Wyre Forest District,E07000239,
+ocd-division/country:uk/dis:wychavon,Wychavon District,E07000238,
+ocd-division/country:uk/dis:bromsgrove,Bromsgrove District,E07000234,
+ocd-division/country:uk/dis:worcester,Worcester District,,ocd-division/country:uk/dis:worcester_district_b
 ocd-division/country:uk/dis:worcester_district_b,Worcester District (B),E07000237,
-ocd-division/country:uk/dis:redditch_district,Redditch District,,ocd-division/country:uk/dis:redditch_district_b
+ocd-division/country:uk/dis:redditch,Redditch District,,ocd-division/country:uk/dis:redditch_district_b
 ocd-division/country:uk/dis:redditch_district_b,Redditch District (B),E07000236,
 ocd-division/country:uk/lbo:kingston_upon_thames_london_boro,Kingston upon Thames London Boro,E09000021,
 ocd-division/country:uk/lbo:croydon_london_boro,Croydon London Boro,E09000008,
@@ -329,77 +329,77 @@ ocd-division/country:uk/lbo:haringey_london_boro,Haringey London Boro,E09000014,
 ocd-division/country:uk/lbo:newham_london_boro,Newham London Boro,E09000025,
 ocd-division/country:uk/lbo:barking_and_dagenham_london_boro,Barking and Dagenham London Boro,E09000002,
 ocd-division/country:uk/lbo:city_and_county_of_the_city_of_london,City and County of the City of London,E09000001,
-ocd-division/country:uk/mtd:barnsley_district,Barnsley District,,ocd-division/country:uk/mtd:barnsley_district_b
+ocd-division/country:uk/mtd:barnsley,Barnsley District,,ocd-division/country:uk/mtd:barnsley_district_b
 ocd-division/country:uk/mtd:barnsley_district_b,Barnsley District (B),E08000016,
-ocd-division/country:uk/mtd:birmingham_district,Birmingham District,,ocd-division/country:uk/mtd:birmingham_district_b
+ocd-division/country:uk/mtd:birmingham,Birmingham District,,ocd-division/country:uk/mtd:birmingham_district_b
 ocd-division/country:uk/mtd:birmingham_district_b,Birmingham District (B),E08000025,
-ocd-division/country:uk/mtd:bolton_district,Bolton District,,ocd-division/country:uk/mtd:bolton_district_b
+ocd-division/country:uk/mtd:bolton,Bolton District,,ocd-division/country:uk/mtd:bolton_district_b
 ocd-division/country:uk/mtd:bolton_district_b,Bolton District (B),E08000001,
-ocd-division/country:uk/mtd:bradford_district,Bradford District,,ocd-division/country:uk/mtd:bradford_district_b
+ocd-division/country:uk/mtd:bradford,Bradford District,,ocd-division/country:uk/mtd:bradford_district_b
 ocd-division/country:uk/mtd:bradford_district_b,Bradford District (B),E08000032,
-ocd-division/country:uk/mtd:bury_district,Bury District,,ocd-division/country:uk/mtd:bury_district_b
+ocd-division/country:uk/mtd:bury,Bury District,,ocd-division/country:uk/mtd:bury_district_b
 ocd-division/country:uk/mtd:bury_district_b,Bury District (B),E08000002,
-ocd-division/country:uk/mtd:calderdale_district,Calderdale District,,ocd-division/country:uk/mtd:calderdale_district_b
+ocd-division/country:uk/mtd:calderdale,Calderdale District,,ocd-division/country:uk/mtd:calderdale_district_b
 ocd-division/country:uk/mtd:calderdale_district_b,Calderdale District (B),E08000033,
-ocd-division/country:uk/mtd:city_of_wolverhampton_district,City of Wolverhampton District,,ocd-division/country:uk/mtd:city_of_wolverhampton_district_b
+ocd-division/country:uk/mtd:city_of_wolverhampton,City of Wolverhampton District,,ocd-division/country:uk/mtd:city_of_wolverhampton_district_b
 ocd-division/country:uk/mtd:city_of_wolverhampton_district_b,City of Wolverhampton District (B),E08000031,
-ocd-division/country:uk/mtd:coventry_district,Coventry District,,ocd-division/country:uk/mtd:coventry_district_b
+ocd-division/country:uk/mtd:coventry,Coventry District,,ocd-division/country:uk/mtd:coventry_district_b
 ocd-division/country:uk/mtd:coventry_district_b,Coventry District (B),E08000026,
-ocd-division/country:uk/mtd:doncaster_district,Doncaster District,,ocd-division/country:uk/mtd:doncaster_district_b
+ocd-division/country:uk/mtd:doncaster,Doncaster District,,ocd-division/country:uk/mtd:doncaster_district_b
 ocd-division/country:uk/mtd:doncaster_district_b,Doncaster District (B),E08000017,
-ocd-division/country:uk/mtd:dudley_district,Dudley District,,ocd-division/country:uk/mtd:dudley_district_b
+ocd-division/country:uk/mtd:dudley,Dudley District,,ocd-division/country:uk/mtd:dudley_district_b
 ocd-division/country:uk/mtd:dudley_district_b,Dudley District (B),E08000027,
-ocd-division/country:uk/mtd:gateshead_district,Gateshead District,,ocd-division/country:uk/mtd:gateshead_district_b
+ocd-division/country:uk/mtd:gateshead,Gateshead District,,ocd-division/country:uk/mtd:gateshead_district_b
 ocd-division/country:uk/mtd:gateshead_district_b,Gateshead District (B),E08000037,
-ocd-division/country:uk/mtd:kirklees_district,Kirklees District,,ocd-division/country:uk/mtd:kirklees_district_b
+ocd-division/country:uk/mtd:kirklees,Kirklees District,,ocd-division/country:uk/mtd:kirklees_district_b
 ocd-division/country:uk/mtd:kirklees_district_b,Kirklees District (B),E08000034,
-ocd-division/country:uk/mtd:knowsley_district,Knowsley District,,ocd-division/country:uk/mtd:knowsley_district_b
+ocd-division/country:uk/mtd:knowsley,Knowsley District,,ocd-division/country:uk/mtd:knowsley_district_b
 ocd-division/country:uk/mtd:knowsley_district_b,Knowsley District (B),E08000011,
-ocd-division/country:uk/mtd:leeds_district,Leeds District,,ocd-division/country:uk/mtd:leeds_district_b
+ocd-division/country:uk/mtd:leeds,Leeds District,,ocd-division/country:uk/mtd:leeds_district_b
 ocd-division/country:uk/mtd:leeds_district_b,Leeds District (B),E08000035,
-ocd-division/country:uk/mtd:liverpool_district,Liverpool District,,ocd-division/country:uk/mtd:liverpool_district_b
+ocd-division/country:uk/mtd:liverpool,Liverpool District,,ocd-division/country:uk/mtd:liverpool_district_b
 ocd-division/country:uk/mtd:liverpool_district_b,Liverpool District (B),E08000012,
-ocd-division/country:uk/mtd:manchester_district,Manchester District,,ocd-division/country:uk/mtd:manchester_district_b
+ocd-division/country:uk/mtd:manchester,Manchester District,,ocd-division/country:uk/mtd:manchester_district_b
 ocd-division/country:uk/mtd:manchester_district_b,Manchester District (B),E08000003,
-ocd-division/country:uk/mtd:newcastle_upon_tyne_district,Newcastle upon Tyne District,,ocd-division/country:uk/mtd:newcastle_upon_tyne_district_b
+ocd-division/country:uk/mtd:newcastle_upon_tyne,Newcastle upon Tyne District,,ocd-division/country:uk/mtd:newcastle_upon_tyne_district_b
 ocd-division/country:uk/mtd:newcastle_upon_tyne_district_b,Newcastle upon Tyne District (B),E08000021,
-ocd-division/country:uk/mtd:north_tyneside_district,North Tyneside District,,ocd-division/country:uk/mtd:north_tyneside_district_b
+ocd-division/country:uk/mtd:north_tyneside,North Tyneside District,,ocd-division/country:uk/mtd:north_tyneside_district_b
 ocd-division/country:uk/mtd:north_tyneside_district_b,North Tyneside District (B),E08000022,
-ocd-division/country:uk/mtd:oldham_district,Oldham District,,ocd-division/country:uk/mtd:oldham_district_b
+ocd-division/country:uk/mtd:oldham,Oldham District,,ocd-division/country:uk/mtd:oldham_district_b
 ocd-division/country:uk/mtd:oldham_district_b,Oldham District (B),E08000004,
-ocd-division/country:uk/mtd:rochdale_district,Rochdale District,,ocd-division/country:uk/mtd:rochdale_district_b
+ocd-division/country:uk/mtd:rochdale,Rochdale District,,ocd-division/country:uk/mtd:rochdale_district_b
 ocd-division/country:uk/mtd:rochdale_district_b,Rochdale District (B),E08000005,
-ocd-division/country:uk/mtd:rotherham_district,Rotherham District,,ocd-division/country:uk/mtd:rotherham_district_b
+ocd-division/country:uk/mtd:rotherham,Rotherham District,,ocd-division/country:uk/mtd:rotherham_district_b
 ocd-division/country:uk/mtd:rotherham_district_b,Rotherham District (B),E08000018,
-ocd-division/country:uk/mtd:salford_district,Salford District,,ocd-division/country:uk/mtd:salford_district_b
+ocd-division/country:uk/mtd:salford,Salford District,,ocd-division/country:uk/mtd:salford_district_b
 ocd-division/country:uk/mtd:salford_district_b,Salford District (B),E08000006,
-ocd-division/country:uk/mtd:sandwell_district,Sandwell District,,ocd-division/country:uk/mtd:sandwell_district_b
+ocd-division/country:uk/mtd:sandwell,Sandwell District,,ocd-division/country:uk/mtd:sandwell_district_b
 ocd-division/country:uk/mtd:sandwell_district_b,Sandwell District (B),E08000028,
-ocd-division/country:uk/mtd:sefton_district,Sefton District,,ocd-division/country:uk/mtd:sefton_district_b
+ocd-division/country:uk/mtd:sefton,Sefton District,,ocd-division/country:uk/mtd:sefton_district_b
 ocd-division/country:uk/mtd:sefton_district_b,Sefton District (B),E08000014,
-ocd-division/country:uk/mtd:sheffield_district,Sheffield District,,ocd-division/country:uk/mtd:sheffield_district_b
+ocd-division/country:uk/mtd:sheffield,Sheffield District,,ocd-division/country:uk/mtd:sheffield_district_b
 ocd-division/country:uk/mtd:sheffield_district_b,Sheffield District (B),E08000019,
-ocd-division/country:uk/mtd:solihull_district,Solihull District,,ocd-division/country:uk/mtd:solihull_district_b
+ocd-division/country:uk/mtd:solihull,Solihull District,,ocd-division/country:uk/mtd:solihull_district_b
 ocd-division/country:uk/mtd:solihull_district_b,Solihull District (B),E08000029,
-ocd-division/country:uk/mtd:south_tyneside_district,South Tyneside District,,ocd-division/country:uk/mtd:south_tyneside_district_b
+ocd-division/country:uk/mtd:south_tyneside,South Tyneside District,,ocd-division/country:uk/mtd:south_tyneside_district_b
 ocd-division/country:uk/mtd:south_tyneside_district_b,South Tyneside District (B),E08000023,
-ocd-division/country:uk/mtd:stockport_district,Stockport District,,ocd-division/country:uk/mtd:stockport_district_b
+ocd-division/country:uk/mtd:stockport,Stockport District,,ocd-division/country:uk/mtd:stockport_district_b
 ocd-division/country:uk/mtd:stockport_district_b,Stockport District (B),E08000007,
-ocd-division/country:uk/mtd:st_helens_district,St. Helens District,,ocd-division/country:uk/mtd:st_helens_district_b
+ocd-division/country:uk/mtd:st_helens,St. Helens District,,ocd-division/country:uk/mtd:st_helens_district_b
 ocd-division/country:uk/mtd:st_helens_district_b,St. Helens District (B),E08000013,
-ocd-division/country:uk/mtd:sunderland_district,Sunderland District,,ocd-division/country:uk/mtd:sunderland_district_b
+ocd-division/country:uk/mtd:sunderland,Sunderland District,,ocd-division/country:uk/mtd:sunderland_district_b
 ocd-division/country:uk/mtd:sunderland_district_b,Sunderland District (B),E08000024,
-ocd-division/country:uk/mtd:tameside_district,Tameside District,,ocd-division/country:uk/mtd:tameside_district_b
+ocd-division/country:uk/mtd:tameside,Tameside District,,ocd-division/country:uk/mtd:tameside_district_b
 ocd-division/country:uk/mtd:tameside_district_b,Tameside District (B),E08000008,
-ocd-division/country:uk/mtd:trafford_district,Trafford District,,ocd-division/country:uk/mtd:trafford_district_b
+ocd-division/country:uk/mtd:trafford,Trafford District,,ocd-division/country:uk/mtd:trafford_district_b
 ocd-division/country:uk/mtd:trafford_district_b,Trafford District (B),E08000009,
-ocd-division/country:uk/mtd:wakefield_district,Wakefield District,,ocd-division/country:uk/mtd:wakefield_district_b
+ocd-division/country:uk/mtd:wakefield,Wakefield District,,ocd-division/country:uk/mtd:wakefield_district_b
 ocd-division/country:uk/mtd:wakefield_district_b,Wakefield District (B),E08000036,
-ocd-division/country:uk/mtd:walsall_district,Walsall District,,ocd-division/country:uk/mtd:walsall_district_b
+ocd-division/country:uk/mtd:walsall,Walsall District,,ocd-division/country:uk/mtd:walsall_district_b
 ocd-division/country:uk/mtd:walsall_district_b,Walsall District (B),E08000030,
-ocd-division/country:uk/mtd:wigan_district,Wigan District,,ocd-division/country:uk/mtd:wigan_district_b
+ocd-division/country:uk/mtd:wigan,Wigan District,,ocd-division/country:uk/mtd:wigan_district_b
 ocd-division/country:uk/mtd:wigan_district_b,Wigan District (B),E08000010,
-ocd-division/country:uk/mtd:wirral_district,Wirral District,,ocd-division/country:uk/mtd:wirral_district_b
+ocd-division/country:uk/mtd:wirral,Wirral District,,ocd-division/country:uk/mtd:wirral_district_b
 ocd-division/country:uk/mtd:wirral_district_b,Wirral District (B),E08000015,
 ocd-division/country:uk/uta:abertawe_-_swansea,Abertawe - Swansea,W06000011,
 ocd-division/country:uk/uta:angus,Angus,S12000041,
@@ -523,10 +523,10 @@ ocd-division/country:uk/uta:wokingham_b,Wokingham (B),E06000041,
 ocd-division/country:uk/uta:wrecsam_-_wrexham,Wrecsam - Wrexham,W06000006,
 ocd-division/country:uk/uta:york,York,,ocd-division/country:uk/uta:york_b
 ocd-division/country:uk/uta:york_b,York (B),E06000014,
-ocd-division/country:uk/dis:broadland_district,Broadland District,E07000144,
-ocd-division/country:uk/dis:north_norfolk_district,North Norfolk District,E07000147,
-ocd-division/country:uk/dis:south_hams_district,South Hams District,E07000044,
-ocd-division/country:uk/dis:torridge_district,Torridge District,E07000046,
+ocd-division/country:uk/dis:broadland,Broadland District,E07000144,
+ocd-division/country:uk/dis:north_norfolk,North Norfolk District,E07000147,
+ocd-division/country:uk/dis:south_hams,South Hams District,E07000044,
+ocd-division/country:uk/dis:torridge,Torridge District,E07000046,
 ocd-division/country:uk/uta:isle_of_wight,Isle of Wight,E06000046,
 ocd-division/country:uk/uta:sir_ynys_mon_-_isle_of_anglesey,Sir Ynys Mon - Isle of Anglesey,W06000001,
 ocd-division/country:uk/uta:gwynedd_-_gwynedd,Gwynedd - Gwynedd,W06000002,
