@@ -44,8 +44,8 @@ def write_csv(filename, csv_columns, dict_data):
 
 
 def make_id(type_id):
-    replacements = ['\'', ' &', '(', ')', ',', ' Assembly Const',
-                    ' P Const', ' GL', ' ED', ' CP', '_CONST']
+    replacements = ['\'', ' &', ',', ' Assembly Const',
+                    ' P Const', ' GL', ' ED', ' CP', '_CONST','(', ')',]
     for replacement in replacements:
         type_id = type_id.replace(replacement, '')
 
@@ -113,10 +113,34 @@ def build_csv_file(data_dir, shape_group_name):
 
         if str(record[8]) != '999999999':
             row['ordnance_id'] = record[8]
+        else:
+            row['ordnance_id'] = ''
+
+        row['sameAs'] = ''
+
+        # they represent aliased rows with (B) (maybe to fix dupes?)
+        # but there seem to be some (B) without an original,
+        # but there are references to both versions in public data...
+        # so add an alternate without the B that sameAs's to this
+        if '(B)' in record[0]:
+            clean_record = record[0].replace(' (B)','').replace(' (b)','')
+            original_id = make_id(clean_record)
+            original_name = make_name(clean_record)
+            original_ocd = '{}/{}:{}'.format(ocd_base, division_type, original_id)
+            if original_ocd not in seen_ids:
+                original_row = {}
+                original_row['id'] = original_ocd
+                original_row['name'] = original_name
+                original_row['ordnance_id'] = ''
+                original_row['sameAs'] = row['id']
+                rows.append(original_row)
+                seen_ids.append(original_ocd)
+                # sadly theres no way to know the OS id from here
 
         if row['id'] not in seen_ids:
             seen_ids.append(row['id'])
             rows.append(row)
+
 
     group_name = shape_group_name.replace('_region', '')
     csv_filename = 'identifiers/country-uk/{}.csv'.format(group_name)
