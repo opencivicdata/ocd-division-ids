@@ -46,17 +46,17 @@ def write_csv(filename, csv_columns, dict_data):
 
 def make_id(type_id):
     replacements = ['\'', ' &', ',', ' Assembly Const',
-                    ' P Const', ' GL', ' ED', ' CP', '_CONST', '(', ')',]
+                    ' P Const', ' GL', ' ED', ' CP', '_CONST', '(', ')', ]
     for replacement in replacements:
         type_id = type_id.replace(replacement, '')
 
     regex_replacements = [r' County$',
-                    r'_county$',
-                    r' District$',
-                    r'_district$',
-                    r' Authority$',
-                    r'_authority$',
-                    ]
+                          r'_county$',
+                          r' District$',
+                          r'_district$',
+                          r' Authority$',
+                          r'_authority$',
+                          ]
     for replacement in regex_replacements:
         type_id = re.sub(replacement, '', type_id, flags=re.IGNORECASE)
 
@@ -74,25 +74,31 @@ def make_name(const_name):
     return const_name
 
 
-def build_csv_file(data_dir, shape_group_name):
+def build_csv_file(data_dir, shape_group_name, potential_parents):
     """Create the data csv from each shapefile
 
     Arguments:
         data_dir String -- base dir
         shape_group_name String -- shapefile prefix
+        potential_parents -- object of {"<type>:<id>" : "<full_ocd_id">} to resolve cases where we only have the direct parent, but need the grandparent(s) to build a correct ID
     """
+    ocd_base = 'ocd-division/country:uk'
 
-    manual_fixes = {'E04001551': 'buckinghamshire_whadden',
-                    'E04001852': 'cambridgeshire_whadden',
-                    }
-
+    # https://www.ordnancesurvey.co.uk/business-and-government/help-and-support/web-services/administrative-boundaries.html
     nested_groups = {'utw': 'uta',
+                     'ute': 'uta',
                      'diw': 'cty',
+                     'dis': 'cty',
+                     'ced': 'cty',
                      'mtw': 'mtd',
+                     'lbo': 'gla',
+                     'lac': 'gla',
+                     'lbw': 'gla',
+                     'spc': 'spe',
+                     'cpc': 'uta',
                      }
 
     seen_ids = []
-
     rows = []
     shape_file = '{}/{}'.format(data_dir, shape_group_name)
     for record in read_records(shape_file):
@@ -102,25 +108,41 @@ def build_csv_file(data_dir, shape_group_name):
 
         row = {}
 
-        # wmc, saw, etc
         division_type = record[1].lower()
 
-        # in some data files, the record[3] field DESCRIPTIO
-        # works fine, in others it would produce dupes
         if division_type in nested_groups:
-            parent_id = '{}:{}/'.format(nested_groups[division_type],
-                                        make_id(record[3]))
-            local_id = make_id(record[0])
+            parent_type = nested_groups[division_type]
+
+            # cpc (parishes) can be children of a few different types
+            if division_type == 'cpc':
+                if record[3] == 'COUNTY_DURHAM' or record[3] == 'COUNTY_OF_HEREFORDSHIRE':
+                    # County Durham is not a county...
+                    parent_type = 'uta'
+                elif 'COUNTY' in record[3]:
+                    parent_type = 'cty'
+                elif 'DISTRICT' in record[3]:
+                    parent_type = 'mtd'
+                elif record[3] == 'GREATER_LONDON_AUTHORITY':
+                    parent_type = 'gla'
+
+            # create a key for the parent, and then look it up in the potential_parents
+            # object to get the full ID, which may include multiple levels of
+            # grandparents
+            parent_key = '{}:{}'.format(parent_type, make_id(record[3]))
+            if parent_key in potential_parents:
+                parent_id = potential_parents[parent_key]
+                local_id = make_id(record[0])
+            else:
+                print("Missing parent record")
+                print("-----")
+                print(shape_group_name)
+                print(parent_key)
+                print(record)
         else:
-            parent_id = ''
+            parent_id = ocd_base
             local_id = make_id(record[0])
 
-        # don't assign record[8] to row['ordnance_id] yet to save csv order
-        if record[8] in manual_fixes:
-            local_id = manual_fixes[record[8]]
-
-        row['id'] = '{}/{}{}:{}'.format(ocd_base,
-                                        parent_id, division_type, local_id)
+        row['id'] = '{}/{}:{}'.format(parent_id, division_type, local_id)
         row['name'] = make_name(record[0])
 
         if str(record[8]) != '999999999':
@@ -130,10 +152,10 @@ def build_csv_file(data_dir, shape_group_name):
 
         row['sameAs'] = ''
 
-        # they represent aliased rows with (B) (maybe to fix dupes?)
-        # but there seem to be some (B) without an original,
+        # Ordnance represents aliased rows with (B) (maybe to fix dupes?)
+        # there seem to be some (B) without an original, in this dataset
         # but there are references to both versions in public data...
-        # so add an alternate without the B that sameAs's to this
+        # so add an alternate without the (B) that sameAs's to this
         if '(B)' in record[0]:
             clean_record = record[0].replace(' (B)', '').replace(' (b)', '')
             original_id = make_id(clean_record)
@@ -148,17 +170,22 @@ def build_csv_file(data_dir, shape_group_name):
                 original_row['sameAs'] = row['id']
                 rows.append(original_row)
                 seen_ids.append(original_ocd)
-                # sadly theres no way to know the OS id from here
+                potential_parents['{}:{}'.format(division_type, local_id)] = row[
+                    'id']
 
+        # there are some dupes in the data
         if row['id'] not in seen_ids:
             seen_ids.append(row['id'])
+            potential_parents['{}:{}'.format(division_type, local_id)] = row[
+                'id']
             rows.append(row)
 
     group_name = shape_group_name.replace('_region', '')
     csv_filename = 'identifiers/country-uk/{}.csv'.format(group_name)
     write_csv(csv_filename, rows[0].keys(), rows)
+    return potential_parents
 
-
+# ceremonial counties have thier own data format
 def build_ceremonial_csv(data_dir):
     shape_file = '{}/{}'.format(data_dir,
                                 'Boundary-line-ceremonial-counties_region')
@@ -224,18 +251,38 @@ ocd_base = 'ocd-division/country:uk'
 # debug_print('{}/{}'.format(data_dir, 'westminster_const_region'))
 
 base = [{'id': 'ocd-division/country:uk',
-         'name': 'United Kingdom of Great Britain and Northern Ireland'}]
+         'name': 'United Kingdom of Great Britain and Northern Ireland'},
+        ]
 
 write_csv('identifiers/country-uk/uk.csv', ['id', 'name'], base)
 
-build_csv_file(uk_dir, 'westminster_const_region')
-build_csv_file(uk_dir, 'scotland_and_wales_const_region')
-build_csv_file(uk_dir, 'greater_london_const_region')
-build_csv_file(uk_dir, 'county_region')
-build_csv_file(uk_dir, 'unitary_electoral_division_region')
-build_csv_file(uk_dir, 'parish_region')
-build_csv_file(uk_dir, 'district_borough_unitary_ward_region')
-build_csv_file(uk_dir, 'district_borough_unitary_region')
-build_csv_file(uk_dir, 'county_electoral_division_region')
+# some entities have multiple parents
+# but only give you the information to get one level up
+potential_parents = {}
+
+potential_parents = build_csv_file(uk_dir, 'county_region', potential_parents)
+potential_parents = build_csv_file(
+    uk_dir, 'westminster_const_region', potential_parents)
+potential_parents = build_csv_file(
+    uk_dir, 'county_electoral_division_region', potential_parents)
+potential_parents = build_csv_file(
+    uk_dir, 'greater_london_const_region', potential_parents)
+potential_parents = build_csv_file(
+    uk_dir, 'district_borough_unitary_region', potential_parents)
+potential_parents = build_csv_file(
+    uk_dir, 'district_borough_unitary_region', potential_parents)
+potential_parents = build_csv_file(uk_dir, 'parish_region', potential_parents)
+potential_parents = build_csv_file(
+    uk_dir, 'european_region_region', potential_parents)
+potential_parents = build_csv_file(
+    uk_dir, 'district_borough_unitary_ward_region', potential_parents)
+potential_parents = build_csv_file(
+    uk_dir, 'scotland_and_wales_region_region', potential_parents)
+potential_parents = build_csv_file(
+    uk_dir, 'scotland_and_wales_const_region', potential_parents)
+
 build_welsh_csv(wales_dir)
 build_ceremonial_csv(cerem_dir)
+
+# debug_print('{}/{}'.format(uk_dir, 'scotland_and_wales_const_region'))
+# print(get_overview('{}/{}'.format(uk_dir, 'greater_london_const_region')))
