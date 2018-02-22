@@ -4,7 +4,7 @@ The UK mapping and place naming agency is called the [Ordnance Survey](https://w
 
 The [Ordnance Survey Boundary Types](https://www.ordnancesurvey.co.uk/business-and-government/help-and-support/web-services/administrative-boundaries.html) page and wiki articles [Administrative Geography of the United Kingdom](https://en.wikipedia.org/wiki/Administrative_geography_of_the_United_Kingdom) and [Subdivisions of England](https://en.wikipedia.org/wiki/Subdivisions_of_England) are helpful.
 
-The electoral data contains the following sub types, for additional information see the [Ordnance Survey administrative geography and civil voting area ontology](http://data.ordnancesurvey.co.uk/ontology/admingeo/).
+The electoral data contains the sub-types in the table below, for additional information see the [Ordnance Survey administrative geography and civil voting area ontology](http://data.ordnancesurvey.co.uk/ontology/admingeo/).
 
 The short codes (ced, cpc, etc) for types were chosen to align with Ordnance survey. In cases where I have added new types (wales) I tried to be more verbose. Welsh community codes prefixed to avoid confusion with the U.S. usage of the word 'community' for a city.
 
@@ -32,8 +32,8 @@ When available in the data, the Ordnance Survey ID, dbpedia, and geonames links 
 |utw|Unitary District Ward| |
 |wac|Welsh Assembly Constituency|   |
 |wae|Welsh Assembly Electoral Region|    |
-|wmc|Westminster Constituency|*House of commons parliamentary constituencies*, these are the national 'lower house' divisions|
-|welsh_community|Welsh Community Electoral Areas|(Wales renames things confusingly)[https://en.wikipedia.org/wiki/Wards_and_electoral_divisions_of_the_United_Kingdom#Wales] but their 'communities' are equivalent to Council Parishes in the UK.|
+|wmc|Westminster Constituency|**House of commons parliamentary constituencies**, these are the national 'lower house' divisions|
+|welsh_community|Welsh Community Electoral Areas|[Wales renames things confusingly](https://en.wikipedia.org/wiki/Wards_and_electoral_divisions_of_the_United_Kingdom#Wales) but their 'communities' are equivalent to Council Parishes in the UK.|
 |welsh_community_ward|Welsh Community Ward|Child divisions of Welsh communities|
 |welsh_noncommunity_ward|Welsh Non-Community Ward|Child divisions of Welsh communities|
 |ceremonial_county|[Ceremonial County](https://en.wikipedia.org/wiki/Ceremonial_counties_of_England)|Lord lieutenancies|
