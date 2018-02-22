@@ -216,7 +216,7 @@ def build_welsh_csv(data_dir):
         # data error has Llanrumney listed as a CCOMMUNITY
         if record[1] == 'COMMUNITY' or record[1] == 'CCOMMUNITY':
             local_id = make_id(record[0])
-            row['id'] = '{}/community:{}'.format(ocd_base, local_id)
+            row['id'] = '{}/welsh_community:{}'.format(ocd_base, local_id)
         elif record[1] == 'COMMUNITY WARD':
             # In this data Ordanance lists out the wards that make up a community council,
             # but not the base community for the council,
@@ -226,17 +226,17 @@ def build_welsh_csv(data_dir):
                 community_row = {}
                 community_id = make_id(record[2])
                 community_row[
-                    'id'] = '{}/community:{}'.format(ocd_base, community_id)
+                    'id'] = '{}/welsh_community:{}'.format(ocd_base, community_id)
                 community_row['name'] = record[2]
                 rows.append(community_row)
 
             local_id = make_id(record[0])
             parent_id = make_id(record[2])
-            row['id'] = '{}/community:{}/community_ward:{}'.format(
+            row['id'] = '{}/welsh_community:{}/welsh_community_ward:{}'.format(
                 ocd_base, parent_id, local_id)
         elif record[1] == 'NON-COMMUNITY WARD':
             local_id = make_id(record[0])
-            row['id'] = '{}/non_community_ward:{}'.format(ocd_base, local_id)
+            row['id'] = '{}/welsh_non_community_ward:{}'.format(ocd_base, local_id)
 
         row['name'] = record[0]
         rows.append(row)
