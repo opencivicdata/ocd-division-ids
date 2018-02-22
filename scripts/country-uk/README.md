@@ -1,8 +1,8 @@
 # country-uk
 
-The UK mapping and place naming agency is called the [Ordnance Survey](https://www.ordnancesurvey.co.uk/). They release much of thier data with open licenses as shapefiles, including a set of all electoral jurisdictions available [here](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#BDLINE).
+The UK mapping and place naming agency is called the [Ordnance Survey](https://www.ordnancesurvey.co.uk/). They release much of thier data with open licenses as shapefiles, including a set of all electoral jurisdictions available [here](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#BDLINE) and a [named places](https://www.ordnancesurvey.co.uk/opendatadownload/products.html#OPNAME) dataset full of towns and cities.
 
-The (Ordnance Survey Boundary Types)[https://www.ordnancesurvey.co.uk/business-and-government/help-and-support/web-services/administrative-boundaries.html] page and wiki articles [Administrative Geography of the United Kingdom](https://en.wikipedia.org/wiki/Administrative_geography_of_the_United_Kingdom) and [Subdivisions of England](https://en.wikipedia.org/wiki/Subdivisions_of_England) are helpful.
+The [Ordnance Survey Boundary Types](https://www.ordnancesurvey.co.uk/business-and-government/help-and-support/web-services/administrative-boundaries.html) page and wiki articles [Administrative Geography of the United Kingdom](https://en.wikipedia.org/wiki/Administrative_geography_of_the_United_Kingdom) and [Subdivisions of England](https://en.wikipedia.org/wiki/Subdivisions_of_England) are helpful.
 
 The electoral data contains the following sub types, for additional information see the [Ordnance Survey administrative geography and civil voting area ontology](http://data.ordnancesurvey.co.uk/ontology/admingeo/).
 
