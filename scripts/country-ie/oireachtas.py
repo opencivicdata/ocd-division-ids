@@ -3,9 +3,11 @@ import json
 import csv
 import re
 
-# fetch the lower / upper houses of the Oreichtas from the IE api
-# https://api.oireachtas.ie/v1/constituencies?chamber=dail
-# https://api.oireachtas.ie/v1/constituencies?chamber=seanad
+# fetch the lower / upper consitutuencies of the Oreichtas from the IE api
+# https://api.oireachtas.ie/
+# /houses to get the houses (sessions in U.S. terminology)
+# /constituencies to get the divisions
+# the Irish Seanad apointments come from some unusual sources, maybe these should be ocd-jurisdictions?
 
 def make_id(type_id):
     replacements = []
@@ -25,13 +27,26 @@ def write_csv(filename, csv_columns, dict_data):
             writer.writerow(data)
 
 
+def get_most_recent_houses():
+    latest = {}
+
+    url = 'https://api.oireachtas.ie/v1/houses'
+    req = requests.get(url)
+    res = json.loads(req.content)
+    for session in res['results']:
+        if session['house']['dateRange']['end'] is None:
+            latest[session['house']['chamberCode']] = session['house']['houseNo']
+
+    return latest
 
 ocd_base = 'ocd-division/country:ie'
 
 rows = []
-for house in ['dail','seanad']:
-    url = 'https://api.oireachtas.ie/v1/constituencies?chamber={}'.format(house)
 
+sessions = get_most_recent_houses()
+
+for house in ['dail','seanad']:
+    url = 'https://api.oireachtas.ie/v1/constituencies?chamber={}&house_no={}&limit=500'.format(house, sessions[house])
     req = requests.get(url)
     res = json.loads(req.content)
     for district in res['results']['house']['constituenciesOrPanels']:
