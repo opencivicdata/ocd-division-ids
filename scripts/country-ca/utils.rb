@@ -12,6 +12,7 @@ require "tempfile"
 
 require "dbf"
 require "faraday"
+require "htmlentities"
 require "mechanize"
 require "nokogiri"
 require "spreadsheet"

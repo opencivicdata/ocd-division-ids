@@ -18,7 +18,7 @@ class ON < Runner
 
   def names
     ShapefileParser.new(
-      "http://www.elections.on.ca/content/dam/NGW/sitecontent/2016/preo/shapefiles/Electoral%20District%20Shapefile.zip",
+      "https://www.elections.on.ca/content/dam/NGW/sitecontent/2016/preo/shapefiles/Electoral%20District%20Shapefile.zip",
       "province:on/ed:", {
         :id => "ED_ID",
         :name => lambda{|record| UnicodeUtils.downcase(record.attributes["ENGLISH_NA"].sub('CHATHAM--KENT--', 'CHATHAM-KENT--').gsub('--', '—')).gsub(/\b(?!(?:and|s|the)\b)(\w)/){UnicodeUtils.upcase($1)}},
@@ -28,7 +28,7 @@ class ON < Runner
 
   def names_2015
     ShapefileParser.new(
-      "http://www.elections.on.ca/content/dam/NGW/sitecontent/2017/preo/2018%20Electoral%20District%20Shapefile.zip",
+      "https://www.elections.on.ca/content/dam/NGW/sitecontent/2017/preo/shapefiles/Electoral%20District%20Shapefile%20-%202018%20General%20Election.zip",
       "province:on/ed:", {
         :id => lambda{|record| "#{record.attributes["ED_ID"]}-2015"},
         :name => "ENGLISH_NA",

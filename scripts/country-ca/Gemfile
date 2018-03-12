@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 gem 'dbf', '~> 2.0.3'
 gem 'faraday'
+gem 'htmlentities'
 gem 'lycopodium', '~> 0.0.2'
 gem 'mechanize'
 gem 'nokogiri'
