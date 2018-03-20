@@ -49,6 +49,8 @@ $DIR/ca_regions.rb                     names-fr > $DIR/../../identifiers/country
 
 echo 'ca_federal_electoral_districts names-2013'
 $DIR/ca_federal_electoral_districts.rb names-2013 > $DIR/../../identifiers/country-ca/ca_federal_electoral_districts-2013.csv
+echo 'ca_ab_electoral_districts names-2017'
+$DIR/ca_ab_electoral_districts.rb names-2017 > $DIR/../../identifiers/country-ca/province-ab-electoral_districts-2017.csv
 echo 'ca_bc_electoral_districts names-2015'
 $DIR/ca_bc_electoral_districts.rb names-2015 > $DIR/../../identifiers/country-ca/province-bc-electoral_districts-2015.csv
 echo 'ca_on_electoral_districts names-2015'
