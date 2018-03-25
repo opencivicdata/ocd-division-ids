@@ -55,6 +55,8 @@ echo 'ca_bc_electoral_districts names-2015'
 $DIR/ca_bc_electoral_districts.rb names-2015 > $DIR/../../identifiers/country-ca/province-bc-electoral_districts-2015.csv
 echo 'ca_on_electoral_districts names-2015'
 $DIR/ca_on_electoral_districts.rb names-2015 > $DIR/../../identifiers/country-ca/province-on-electoral_districts-2015.csv
+echo 'ca_qc_electoral_districts names-2017'
+$DIR/ca_qc_electoral_districts.rb names-2017 > $DIR/../../identifiers/country-ca/province-qc-electoral_districts-2017.csv
 echo 'ca_municipal_subdivisions posts-count'
 $DIR/ca_municipal_subdivisions.rb      posts-count > $DIR/../../identifiers/country-ca/ca_municipal_subdivisions-posts_count.csv
 echo 'ca_municipal_subdivisions has-children'
