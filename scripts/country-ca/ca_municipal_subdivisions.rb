@@ -66,6 +66,10 @@ class MunicipalSubdivision < Runner
         match = matches.find{|match| %w(1201006 1202004 1203004 1206001 2482005).include?(match[:id])}
         if match
           match[:id]
+        elsif boundary_set["name"] == "Paroisse de Plessisville districts"
+          2432045
+        elsif boundary_set["name"] == "Plessisville districts"
+          2432040
         else
           matches = matches.select{|match| %w(C CY MD MÉ RCR T V TV).include?(match[:type])}
           if matches.size == 1
@@ -79,18 +83,19 @@ class MunicipalSubdivision < Runner
       items << [geographic_code, boundary_set]
     end
 
-    type_re = / (borough|district|division|quartier|ward)s\z/
+    type_re = / (borough|district|division|quartier|ward)s(?: \(\d{4}\))?\z/
 
     puts CSV.generate_line(%w(id name))
     items.sort_by{|geographic_code,boundary_set|
-      "#{geographic_code}-#{boundary_set["name"].match(type_re)[1]}"
+      ocd_type = boundary_set["name"].match(type_re)[1]
+      "#{geographic_code}-#{ocd_type}"
     }.each do |geographic_code,boundary_set|
       ocd_type = boundary_set["name"].match(type_re)[1]
 
       JSON.load(open("https://represent.opennorth.ca#{boundary_set["related"]["boundaries_url"]}?limit=0"))["objects"].sort{|a,b|
         # Most identifiers are numbers, but some are "2A" or "2B".
-        a = identifier(a)
-        b = identifier(b)
+        a = identifier(a, boundary_set)
+        b = identifier(b, boundary_set)
 
         if a.class == b.class
           a <=> b
@@ -101,7 +106,7 @@ class MunicipalSubdivision < Runner
         end
       }.each{|boundary|
         output("#{geographic_code.size == 4 ? "cd" : "csd"}:#{geographic_code}/#{ocd_type}:",
-          identifier(boundary),
+          identifier(boundary, boundary_set),
           boundary["name"])
       }
     end
@@ -493,8 +498,8 @@ class MunicipalSubdivision < Runner
 
 private
 
-  def identifier(boundary)
-    if boundary["external_id"].empty?
+  def identifier(boundary, boundary_set)
+    identifier = if boundary["external_id"].empty?
       boundary["name"]
     elsif boundary["external_id"][/\A\d+\z/]
       boundary["external_id"].to_i
@@ -502,6 +507,13 @@ private
       boundary["external_id"].to_f
     else
       boundary["external_id"]
+    end
+
+    match = boundary_set["name"].match(/ \((\d{4})\)\z/)
+    if match
+      "#{identifier}-#{match[1]}"
+    else
+      identifier
     end
   end
 
