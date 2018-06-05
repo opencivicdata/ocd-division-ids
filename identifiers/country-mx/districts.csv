@@ -25,6 +25,7 @@ ocd-division/country:mx/state:cs/fed:9,IX Federal Electoral District of Chiapas
 ocd-division/country:mx/state:cs/fed:10,X Federal Electoral District of Chiapas
 ocd-division/country:mx/state:cs/fed:11,XI Federal Electoral District of Chiapas
 ocd-division/country:mx/state:cs/fed:12,XII Federal Electoral District of Chiapas
+ocd-division/country:mx/state:cs/fed:13,XIII Federal Electoral District of Chiapas
 ocd-division/country:mx/state:ch/fed:1,I Federal Electoral District of Chihuahua
 ocd-division/country:mx/state:ch/fed:2,II Federal Electoral District of Chihuahua
 ocd-division/country:mx/state:ch/fed:3,III Federal Electoral District of Chihuahua
@@ -67,9 +68,6 @@ ocd-division/country:mx/state:df/fed:21,XXI Federal Electoral District of Mexico
 ocd-division/country:mx/state:df/fed:22,XXII Federal Electoral District of Mexico City
 ocd-division/country:mx/state:df/fed:23,XXIII Federal Electoral District of Mexico City
 ocd-division/country:mx/state:df/fed:24,XXIV Federal Electoral District of Mexico City
-ocd-division/country:mx/state:df/fed:25,XXV Federal Electoral District of Mexico City
-ocd-division/country:mx/state:df/fed:26,XXVI Federal Electoral District of Mexico City
-ocd-division/country:mx/state:df/fed:27,XXVII Federal Electoral District of Mexico City
 ocd-division/country:mx/state:dg/fed:1,I Federal Electoral District of Durango
 ocd-division/country:mx/state:dg/fed:2,II Federal Electoral District of Durango
 ocd-division/country:mx/state:dg/fed:3,III Federal Electoral District of Durango
@@ -88,6 +86,7 @@ ocd-division/country:mx/state:gt/fed:11,XI Federal Electoral District of Guanaju
 ocd-division/country:mx/state:gt/fed:12,XII Federal Electoral District of Guanajuato
 ocd-division/country:mx/state:gt/fed:13,XIII Federal Electoral District of Guanajuato
 ocd-division/country:mx/state:gt/fed:14,XIV Federal Electoral District of Guanajuato
+ocd-division/country:mx/state:gt/fed:15,XV Federal Electoral District of Guanajuato
 ocd-division/country:mx/state:gr/fed:1,I Federal Electoral District of Guerrero
 ocd-division/country:mx/state:gr/fed:2,II Federal Electoral District of Guerrero
 ocd-division/country:mx/state:gr/fed:3,III Federal Electoral District of Guerrero
@@ -123,6 +122,7 @@ ocd-division/country:mx/state:ja/fed:16,XVI Federal Electoral District of Jalisc
 ocd-division/country:mx/state:ja/fed:17,XVII Federal Electoral District of Jalisco
 ocd-division/country:mx/state:ja/fed:18,XVIII Federal Electoral District of Jalisco
 ocd-division/country:mx/state:ja/fed:19,XIX Federal Electoral District of Jalisco
+ocd-division/country:mx/state:ja/fed:20,XX Federal Electoral District of Jalisco
 ocd-division/country:mx/state:em/fed:1,I Federal Electoral District of México
 ocd-division/country:mx/state:em/fed:2,II Federal Electoral District of México
 ocd-division/country:mx/state:em/fed:3,III Federal Electoral District of México
@@ -163,6 +163,7 @@ ocd-division/country:mx/state:em/fed:37,XXXVII Federal Electoral District of Mé
 ocd-division/country:mx/state:em/fed:38,XXXVIII Federal Electoral District of México
 ocd-division/country:mx/state:em/fed:39,XXXIX Federal Electoral District of México
 ocd-division/country:mx/state:em/fed:40,XL Federal Electoral District of México
+ocd-division/country:mx/state:em/fed:41,XLI Federal Electoral District of México
 ocd-division/country:mx/state:mi/fed:1,I Federal Electoral District of Michoacán
 ocd-division/country:mx/state:mi/fed:2,II Federal Electoral District of Michoacán
 ocd-division/country:mx/state:mi/fed:3,III Federal Electoral District of Michoacán
@@ -205,7 +206,6 @@ ocd-division/country:mx/state:oa/fed:7,VII Federal Electoral District of Oaxaca
 ocd-division/country:mx/state:oa/fed:8,VIII Federal Electoral District of Oaxaca
 ocd-division/country:mx/state:oa/fed:9,IX Federal Electoral District of Oaxaca
 ocd-division/country:mx/state:oa/fed:10,X Federal Electoral District of Oaxaca
-ocd-division/country:mx/state:oa/fed:11,XI Federal Electoral District of Oaxaca
 ocd-division/country:mx/state:pu/fed:1,I Federal Electoral District of Puebla
 ocd-division/country:mx/state:pu/fed:2,II Federal Electoral District of Puebla
 ocd-division/country:mx/state:pu/fed:3,III Federal Electoral District of Puebla
@@ -221,14 +221,15 @@ ocd-division/country:mx/state:pu/fed:12,XII Federal Electoral District of Puebla
 ocd-division/country:mx/state:pu/fed:13,XIII Federal Electoral District of Puebla
 ocd-division/country:mx/state:pu/fed:14,XIV Federal Electoral District of Puebla
 ocd-division/country:mx/state:pu/fed:15,XV Federal Electoral District of Puebla
-ocd-division/country:mx/state:pu/fed:16,XVI Federal Electoral District of Puebla
 ocd-division/country:mx/state:qt/fed:1,I Federal Electoral District of Querétaro
 ocd-division/country:mx/state:qt/fed:2,II Federal Electoral District of Querétaro
 ocd-division/country:mx/state:qt/fed:3,III Federal Electoral District of Querétaro
 ocd-division/country:mx/state:qt/fed:4,IV Federal Electoral District of Querétaro
+ocd-division/country:mx/state:qt/fed:5,V Federal Electoral District of Querétaro
 ocd-division/country:mx/state:qr/fed:1,I Federal Electoral District of Quintana Roo
 ocd-division/country:mx/state:qr/fed:2,II Federal Electoral District of Quintana Roo
 ocd-division/country:mx/state:qr/fed:3,III Federal Electoral District of Quintana Roo
+ocd-division/country:mx/state:qr/fed:4,IV Federal Electoral District of Quintana Roo
 ocd-division/country:mx/state:sl/fed:1,I Federal Electoral District of San Luis Potosí
 ocd-division/country:mx/state:sl/fed:2,II Federal Electoral District of San Luis Potosí
 ocd-division/country:mx/state:sl/fed:3,III Federal Electoral District of San Luis Potosí
@@ -243,7 +244,6 @@ ocd-division/country:mx/state:si/fed:4,IV Federal Electoral District of Sinaloa
 ocd-division/country:mx/state:si/fed:5,V Federal Electoral District of Sinaloa
 ocd-division/country:mx/state:si/fed:6,VI Federal Electoral District of Sinaloa
 ocd-division/country:mx/state:si/fed:7,VII Federal Electoral District of Sinaloa
-ocd-division/country:mx/state:si/fed:8,VIII Federal Electoral District of Sinaloa
 ocd-division/country:mx/state:so/fed:1,I Federal Electoral District of Sonora
 ocd-division/country:mx/state:so/fed:2,II Federal Electoral District of Sonora
 ocd-division/country:mx/state:so/fed:3,III Federal Electoral District of Sonora
@@ -265,6 +265,7 @@ ocd-division/country:mx/state:tm/fed:5,V Federal Electoral District of Tamaulipa
 ocd-division/country:mx/state:tm/fed:6,VI Federal Electoral District of Tamaulipas
 ocd-division/country:mx/state:tm/fed:7,VII Federal Electoral District of Tamaulipas
 ocd-division/country:mx/state:tm/fed:8,VIII Federal Electoral District of Tamaulipas
+ocd-division/country:mx/state:tm/fed:9,IXFederal Electoral District of Tamaulipas
 ocd-division/country:mx/state:tl/fed:1,I Federal Electoral District of Tlaxcala
 ocd-division/country:mx/state:tl/fed:2,II Federal Electoral District of Tlaxcala
 ocd-division/country:mx/state:tl/fed:3,III Federal Electoral District of Tlaxcala
@@ -288,7 +289,6 @@ ocd-division/country:mx/state:ve/fed:17,XVII Federal Electoral District of Verac
 ocd-division/country:mx/state:ve/fed:18,XVIII Federal Electoral District of Veracruz
 ocd-division/country:mx/state:ve/fed:19,XIX Federal Electoral District of Veracruz
 ocd-division/country:mx/state:ve/fed:20,XX Federal Electoral District of Veracruz
-ocd-division/country:mx/state:ve/fed:21,XXI Federal Electoral District of Veracruz
 ocd-division/country:mx/state:yu/fed:1,I Federal Electoral District of Yucatán
 ocd-division/country:mx/state:yu/fed:2,II Federal Electoral District of Yucatán
 ocd-division/country:mx/state:yu/fed:3,III Federal Electoral District of Yucatán
