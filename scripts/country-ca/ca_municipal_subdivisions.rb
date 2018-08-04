@@ -345,8 +345,7 @@ class MunicipalSubdivision < Runner
 
     # Some Québec municipalities are divided into "quartiers" instead of
     # "districts" (Mireille Loignon <Mloignon@dgeq.qc.ca> 2014-02-07).
-    [ "2402015", # Grande-Rivière
-      "2403005", # Gaspé
+    [ "2403005", # Gaspé
       "2411040", # Trois-Pistole
       "2413095", # Pohénégamook
       "2434120", # Lac-Sergent
@@ -358,6 +357,7 @@ class MunicipalSubdivision < Runner
       "2483065", # Maniwaki
       "2489040", # Senneterre
       "2493005", # Desbiens
+      "2499060", # Eeyou Istchee Baie-James
     ].each do |identifier|
       subdivisions["ocd-division/country:ca/csd:#{identifier}"] = "Y"
     end
