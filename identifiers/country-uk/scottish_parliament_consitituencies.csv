@@ -1,0 +1,74 @@
+id,name,gss_code
+ocd-division/country:uk/spc:aberdeen_central,Aberdeen Central,S16000074
+ocd-division/country:uk/spc:aberdeen_donside,Aberdeen Donside,S16000075
+ocd-division/country:uk/spc:aberdeen_south_and_north_kincardine,Aberdeen South and North Kincardine,S16000076
+ocd-division/country:uk/spc:aberdeenshire_east,Aberdeenshire East,S16000077
+ocd-division/country:uk/spc:aberdeenshire_west,Aberdeenshire West,S16000078
+ocd-division/country:uk/spc:airdrie_and_shotts,Airdrie and Shotts,S16000079
+ocd-division/country:uk/spc:almond_valley,Almond Valley,S16000080
+ocd-division/country:uk/spc:angus_north_and_mearns,Angus North and Mearns,S16000081
+ocd-division/country:uk/spc:angus_south,Angus South,S16000082
+ocd-division/country:uk/spc:argyll_and_bute,Argyll and Bute,S16000083
+ocd-division/country:uk/spc:ayr,Ayr,S16000084
+ocd-division/country:uk/spc:banffshire_and_buchan_coast,Banffshire and Buchan Coast,S16000085
+ocd-division/country:uk/spc:caithness_sutherland_and_ross,"Caithness, Sutherland and Ross",S16000086
+ocd-division/country:uk/spc:carrick_cumnock_and_doon_valley,"Carrick, Cumnock and Doon Valley",S16000087
+ocd-division/country:uk/spc:clackmannanshire_and_dunblane,Clackmannanshire and Dunblane,S16000088
+ocd-division/country:uk/spc:clydebank_and_milngavie,Clydebank and Milngavie,S16000089
+ocd-division/country:uk/spc:clydesdale,Clydesdale,S16000090
+ocd-division/country:uk/spc:coatbridge_and_chryston,Coatbridge and Chryston,S16000091
+ocd-division/country:uk/spc:cowdenbeath,Cowdenbeath,S16000092
+ocd-division/country:uk/spc:cumbernauld_and_kilsyth,Cumbernauld and Kilsyth,S16000093
+ocd-division/country:uk/spc:cunninghame_north,Cunninghame North,S16000094
+ocd-division/country:uk/spc:cunninghame_south,Cunninghame South,S16000095
+ocd-division/country:uk/spc:dumbarton,Dumbarton,S16000096
+ocd-division/country:uk/spc:dumfriesshire,Dumfriesshire,S16000097
+ocd-division/country:uk/spc:glasgow_kelvin,Glasgow Kelvin,S16000117
+ocd-division/country:uk/spc:glasgow_maryhill_and_springburn,Glasgow Maryhill and Springburn,S16000118
+ocd-division/country:uk/spc:glasgow_pollok,Glasgow Pollok,S16000119
+ocd-division/country:uk/spc:glasgow_provan,Glasgow Provan,S16000147
+ocd-division/country:uk/spc:glasgow_shettleston,Glasgow Shettleston,S16000121
+ocd-division/country:uk/spc:glasgow_southside,Glasgow Southside,S16000122
+ocd-division/country:uk/spc:greenock_and_inverclyde,Greenock and Inverclyde,S16000123
+ocd-division/country:uk/spc:hamilton_larkhall_and_stonehouse,"Hamilton, Larkhall and Stonehouse",S16000124
+ocd-division/country:uk/spc:inverness_and_nairn,Inverness and Nairn,S16000125
+ocd-division/country:uk/spc:kilmarnock_and_irvine_valley,Kilmarnock and Irvine Valley,S16000126
+ocd-division/country:uk/spc:kirkcaldy,Kirkcaldy,S16000127
+ocd-division/country:uk/spc:linlithgow,Linlithgow,S16000128
+ocd-division/country:uk/spc:mid_fife_and_glenrothes,Mid Fife and Glenrothes,S16000129
+ocd-division/country:uk/spc:midlothian_north_and_musselburgh,Midlothian North and Musselburgh,S16000130
+ocd-division/country:uk/spc:midlothian_south_tweeddale_and_lauderdale,"Midlothian South, Tweeddale and Lauderdale",S16000131
+ocd-division/country:uk/spc:moray,Moray,S16000132
+ocd-division/country:uk/spc:motherwell_and_wishaw,Motherwell and Wishaw,S16000133
+ocd-division/country:uk/spc:north_east_fife,North East Fife,S16000134
+ocd-division/country:uk/spc:orkney_islands,Orkney Islands,S16000135
+ocd-division/country:uk/spc:paisley,Paisley,S16000136
+ocd-division/country:uk/spc:perthshire_north,Perthshire North,S16000137
+ocd-division/country:uk/spc:perthshire_south_and_kinross-shire,Perthshire South and Kinross-shire,S16000138
+ocd-division/country:uk/spc:renfrewshire_north_and_west,Renfrewshire North and West,S16000139
+ocd-division/country:uk/spc:renfrewshire_south,Renfrewshire South,S16000140
+ocd-division/country:uk/spc:rutherglen,Rutherglen,S16000141
+ocd-division/country:uk/spc:shetland_islands,Shetland Islands,S16000142
+ocd-division/country:uk/spc:skye_lochaber_and_badenoch,"Skye, Lochaber and Badenoch",S16000143
+ocd-division/country:uk/spc:stirling,Stirling,S16000144
+ocd-division/country:uk/spc:strathkelvin_and_bearsden,Strathkelvin and Bearsden,S16000148
+ocd-division/country:uk/spc:uddingston_and_bellshill,Uddingston and Bellshill,S16000146
+ocd-division/country:uk/spc:dundee_city_east,Dundee City East,S16000098
+ocd-division/country:uk/spc:dundee_city_west,Dundee City West,S16000099
+ocd-division/country:uk/spc:dunfermline,Dunfermline,S16000100
+ocd-division/country:uk/spc:east_kilbride,East Kilbride,S16000101
+ocd-division/country:uk/spc:east_lothian,East Lothian,S16000102
+ocd-division/country:uk/spc:eastwood,Eastwood,S16000103
+ocd-division/country:uk/spc:edinburgh_central,Edinburgh Central,S16000104
+ocd-division/country:uk/spc:edinburgh_eastern,Edinburgh Eastern,S16000105
+ocd-division/country:uk/spc:edinburgh_northern_and_leith,Edinburgh Northern and Leith,S16000106
+ocd-division/country:uk/spc:edinburgh_pentlands,Edinburgh Pentlands,S16000107
+ocd-division/country:uk/spc:edinburgh_southern,Edinburgh Southern,S16000108
+ocd-division/country:uk/spc:edinburgh_western,Edinburgh Western,S16000109
+ocd-division/country:uk/spc:na_h-eileanan_an_iar,Na h-Eileanan an Iar,S16000110
+ocd-division/country:uk/spc:ettrick_roxburgh_and_berwickshire,"Ettrick, Roxburgh and Berwickshire",S16000111
+ocd-division/country:uk/spc:falkirk_east,Falkirk East,S16000112
+ocd-division/country:uk/spc:falkirk_west,Falkirk West,S16000113
+ocd-division/country:uk/spc:galloway_and_west_dumfries,Galloway and West Dumfries,S16000114
+ocd-division/country:uk/spc:glasgow_anniesland,Glasgow Anniesland,S16000115
+ocd-division/country:uk/spc:glasgow_cathcart,Glasgow Cathcart,S16000116
