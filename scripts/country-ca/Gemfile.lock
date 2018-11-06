@@ -34,7 +34,7 @@ GEM
       mini_portile2 (~> 2.3.0)
     ntlm-http (0.1.1)
     ruby-ole (1.2.12.1)
-    rubyzip (1.2.1)
+    rubyzip (1.2.2)
     spreadsheet (1.1.7)
       ruby-ole (>= 1.0)
     unf (0.1.4)
