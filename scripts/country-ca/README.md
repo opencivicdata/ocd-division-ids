@@ -91,6 +91,3 @@ The Standard Geographical Classification is an official publication of Statistic
   * `sgc`: To retrieve an identifier from an SGC code
   * `url`: To provide a URL for the jurisdiction
   * `posts_count`: To create posts automatically
-* [scrapers-ca-ruby](https://github.com/opennorth/scrapers-ca-ruby/blob/master/ca_qc_montreal/posts.rb)
-  * `number`: To map numeric borough identifiers to names
-* [comingelections.com](https://github.com/opennorth/comingelections/blob/master/lib/tasks/scrape.rake)
