@@ -542,3 +542,5 @@ ocd-division/country:in/territory:dl/lok_sabha:north_west_delhi,ocd-division/cou
 ocd-division/country:in/territory:dl/lok_sabha:west_delhi,ocd-division/country:in/territory:dl/cd:west_delhi,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/territory:dl/lok_sabha:south_delhi,ocd-division/country:in/territory:dl/cd:south_delhi,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/territory:py/lok_sabha:puducherry,ocd-division/country:in/territory:py/cd:puducherry,Added for backwards compatibility with lok_sabha identifiers
+ocd-division/country:in/lok_sabha:anglo-indian_reserved_seats_1,ocd-division/country:in/cd:anglo-indian_reserved_seats_1,Added for backwards compatibility with lok_sabha identifiers
+ocd-division/country:in/lok_sabha:anglo-indian_reserved_seats_2,ocd-division/country:in/cd:anglo-indian_reserved_seats_2,Added for backwards compatibility with lok_sabha identifiers
