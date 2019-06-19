@@ -8469,652 +8469,344 @@ ocd-division/country:ca/csd:6208073,Cambridge Bay,,,HAM,,Cambridge Bay,,,,,,,
 ocd-division/country:ca/csd:6208081,Gjoa Haven,,,HAM,,Gjoa Haven,,,,,,,
 ocd-division/country:ca/csd:6208087,Taloyoak,,,HAM,,Taloyoak,,,,,,,
 ocd-division/country:ca/csd:6208098,"Kitikmeot, Unorganized",,,NO,N,"Kitikmeot, Unorganized",,,,,,,
-ocd-division/country:ca/ed:10001,Avalon,,,,,Avalon,,,,,,,
-ocd-division/country:ca/ed:10001-2013,Avalon,,,,,Avalon,,,,,,,2015-10-19
-ocd-division/country:ca/ed:10002,Bonavista—Gander—Grand Falls—Windsor,,,,,Bonavista—Gander—Grand Falls—Windsor,,,,,,,
-ocd-division/country:ca/ed:10002-2013,Bonavista—Burin—Trinity,,,,,Bonavista—Burin—Trinity,,,,,,,2015-10-19
-ocd-division/country:ca/ed:10003,Humber—St. Barbe—Baie Verte,,,,,Humber—St. Barbe—Baie Verte,,,,,,,
-ocd-division/country:ca/ed:10003-2013,Coast of Bays—Central—Notre Dame,,,,,Coast of Bays—Central—Notre Dame,,,,,,,2015-10-19
-ocd-division/country:ca/ed:10004,Labrador,,,,,Labrador,,,,,,,
-ocd-division/country:ca/ed:10004-2013,Labrador,,,,,Labrador,,,,,,,2015-10-19
-ocd-division/country:ca/ed:10005,Random—Burin—St. George's,,,,,Random—Burin—St. George's,,,,,,,
-ocd-division/country:ca/ed:10005-2013,Long Range Mountains,,,,,Long Range Mountains,,,,,,,2015-10-19
-ocd-division/country:ca/ed:10006,St. John's East,,,,,St. John's-Est,,,,,,,
-ocd-division/country:ca/ed:10006-2013,St. John's East,,,,,St. John's-Est,,,,,,,2015-10-19
-ocd-division/country:ca/ed:10007,St. John's South—Mount Pearl,,,,,St. John's-Sud—Mount Pearl,,,,,,,
-ocd-division/country:ca/ed:10007-2013,St. John's South—Mount Pearl,,,,,St. John's-Sud—Mount Pearl,,,,,,,2015-10-19
-ocd-division/country:ca/ed:11001,Cardigan,,,,,Cardigan,,,,,,,
-ocd-division/country:ca/ed:11001-2013,Cardigan,,,,,Cardigan,,,,,,,2015-10-19
-ocd-division/country:ca/ed:11002,Charlottetown,,,,,Charlottetown,,,,,,,
-ocd-division/country:ca/ed:11002-2013,Charlottetown,,,,,Charlottetown,,,,,,,2015-10-19
-ocd-division/country:ca/ed:11003,Egmont,,,,,Egmont,,,,,,,
-ocd-division/country:ca/ed:11003-2013,Egmont,,,,,Egmont,,,,,,,2015-10-19
-ocd-division/country:ca/ed:11004,Malpeque,,,,,Malpeque,,,,,,,
-ocd-division/country:ca/ed:11004-2013,Malpeque,,,,,Malpeque,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12001,Cape Breton—Canso,,,,,Cape Breton—Canso,,,,,,,
-ocd-division/country:ca/ed:12001-2013,Cape Breton—Canso,,,,,Cape Breton—Canso,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12002,Central Nova,,,,,Nova-Centre,,,,,,,
-ocd-division/country:ca/ed:12002-2013,Central Nova,,,,,Nova-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12003,Dartmouth—Cole Harbour,,,,,Dartmouth—Cole Harbour,,,,,,,
-ocd-division/country:ca/ed:12003-2013,Cumberland—Colchester,,,,,Cumberland—Colchester,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12004,Halifax,,,,,Halifax,,,,,,,
-ocd-division/country:ca/ed:12004-2013,Dartmouth—Cole Harbour,,,,,Dartmouth—Cole Harbour,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12005,Halifax West,,,,,Halifax-Ouest,,,,,,,
-ocd-division/country:ca/ed:12005-2013,Halifax,,,,,Halifax,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12006,Kings—Hants,,,,,Kings—Hants,,,,,,,
-ocd-division/country:ca/ed:12006-2013,Halifax West,,,,,Halifax-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12007,Cumberland—Colchester—Musquodoboit Valley,,,,,Cumberland—Colchester—Musquodoboit Valley,,,,,,,
-ocd-division/country:ca/ed:12007-2013,Kings—Hants,,,,,Kings—Hants,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12008,Sackville—Eastern Shore,,,,,Sackville—Eastern Shore,,,,,,,
-ocd-division/country:ca/ed:12008-2013,Sackville—Preston—Chezzetcook,,,,,Sackville—Preston—Chezzetcook,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12009,South Shore—St. Margaret's,,,,,South Shore—St. Margaret's,,,,,,,
-ocd-division/country:ca/ed:12009-2013,South Shore—St. Margarets,,,,,South Shore—St. Margarets,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12010,Sydney—Victoria,,,,,Sydney—Victoria,,,,,,,
-ocd-division/country:ca/ed:12010-2013,Sydney—Victoria,,,,,Sydney—Victoria,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12011,West Nova,,,,,Nova-Ouest,,,,,,,
-ocd-division/country:ca/ed:12011-2013,West Nova,,,,,Nova-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13001,Acadie—Bathurst,,,,,Acadie—Bathurst,,,,,,,
-ocd-division/country:ca/ed:13001-2013,Acadie—Bathurst,,,,,Acadie—Bathurst,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13002,Beauséjour,,,,,Beauséjour,,,,,,,
-ocd-division/country:ca/ed:13002-2013,Beauséjour,,,,,Beauséjour,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13003,Fredericton,,,,,Fredericton,,,,,,,
-ocd-division/country:ca/ed:13003-2013,Fredericton,,,,,Fredericton,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13004,Fundy Royal,,,,,Fundy Royal,,,,,,,
-ocd-division/country:ca/ed:13004-2013,Fundy Royal,,,,,Fundy Royal,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13005,Madawaska—Restigouche,,,,,Madawaska—Restigouche,,,,,,,
-ocd-division/country:ca/ed:13005-2013,Madawaska—Restigouche,,,,,Madawaska—Restigouche,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13006,Miramichi,,,,,Miramichi,,,,,,,
-ocd-division/country:ca/ed:13006-2013,Miramichi—Grand Lake,,,,,Miramichi—Grand Lake,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13007,Moncton—Riverview—Dieppe,,,,,Moncton—Riverview—Dieppe,,,,,,,
-ocd-division/country:ca/ed:13007-2013,Moncton—Riverview—Dieppe,,,,,Moncton—Riverview—Dieppe,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13008,New Brunswick Southwest,,,,,Nouveau-Brunswick-Sud-Ouest,,,,,,,
-ocd-division/country:ca/ed:13008-2013,New Brunswick Southwest,,,,,Nouveau-Brunswick-Sud-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13009,Saint John,,,,,Saint John,,,,,,,
-ocd-division/country:ca/ed:13009-2013,Saint John—Rothesay,,,,,Saint John—Rothesay,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13010,Tobique—Mactaquac,,,,,Tobique—Mactaquac,,,,,,,
-ocd-division/country:ca/ed:13010-2013,Tobique—Mactaquac,,,,,Tobique—Mactaquac,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24001,Abitibi—Témiscamingue,,,,,Abitibi—Témiscamingue,,,,,,,
-ocd-division/country:ca/ed:24001-2013,Abitibi—Baie-James—Nunavik—Eeyou,,,,,Abitibi—Baie-James—Nunavik—Eeyou,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24002,Ahuntsic,,,,,Ahuntsic,,,,,,,
-ocd-division/country:ca/ed:24002-2013,Abitibi—Témiscamingue,,,,,Abitibi—Témiscamingue,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24003,Alfred-Pellan,,,,,Alfred-Pellan,,,,,,,
-ocd-division/country:ca/ed:24003-2013,Ahuntsic-Cartierville,,,,,Ahuntsic-Cartierville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24004,Argenteuil—Papineau—Mirabel,,,,,Argenteuil—Papineau—Mirabel,,,,,,,
-ocd-division/country:ca/ed:24004-2013,Alfred-Pellan,,,,,Alfred-Pellan,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24005,Beauce,,,,,Beauce,,,,,,,
-ocd-division/country:ca/ed:24005-2013,Argenteuil—La Petite-Nation,,,,,Argenteuil—La Petite-Nation,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24006,Beauharnois—Salaberry,,,,,Beauharnois—Salaberry,,,,,,,
-ocd-division/country:ca/ed:24006-2013,Avignon—La Mitis—Matane—Matapédia,,,,,Avignon—La Mitis—Matane—Matapédia,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24007,Beauport—Limoilou,,,,,Beauport—Limoilou,,,,,,,
-ocd-division/country:ca/ed:24007-2013,Beauce,,,,,Beauce,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24008,Berthier—Maskinongé,,,,,Berthier—Maskinongé,,,,,,,
-ocd-division/country:ca/ed:24008-2013,Beauport—Limoilou,,,,,Beauport—Limoilou,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24009,Bourassa,,,,,Bourassa,,,,,,,
-ocd-division/country:ca/ed:24009-2013,Bécancour—Nicolet—Saurel,,,,,Bécancour—Nicolet—Saurel,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24010,Brome—Missisquoi,,,,,Brome—Missisquoi,,,,,,,
-ocd-division/country:ca/ed:24010-2013,Bellechasse—Les Etchemins—Lévis,,,,,Bellechasse—Les Etchemins—Lévis,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24011,Brossard—La Prairie,,,,,Brossard—La Prairie,,,,,,,
-ocd-division/country:ca/ed:24011-2013,Beloeil—Chambly,,,,,Beloeil—Chambly,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24012,Chambly—Borduas,,,,,Chambly—Borduas,,,,,,,
-ocd-division/country:ca/ed:24012-2013,Berthier—Maskinongé,,,,,Berthier—Maskinongé,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24013,Charlesbourg—Haute-Saint-Charles,,,,,Charlesbourg—Haute-Saint-Charles,,,,,,,
-ocd-division/country:ca/ed:24013-2013,Thérèse-De Blainville,,,,,Thérèse-De Blainville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24014,Montmorency—Charlevoix—Haute-Côte-Nord,,,,,Montmorency—Charlevoix—Haute-Côte-Nord,,,,,,,
-ocd-division/country:ca/ed:24014-2013,Pierre-Boucher—Les Patriotes—Verchères,,,,,Pierre-Boucher—Les Patriotes—Verchères,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24015,Châteauguay—Saint-Constant,,,,,Châteauguay—Saint-Constant,,,,,,,
-ocd-division/country:ca/ed:24015-2013,Bourassa,,,,,Bourassa,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24016,Chicoutimi—Le Fjord,,,,,Chicoutimi—Le Fjord,,,,,,,
-ocd-division/country:ca/ed:24016-2013,Brome—Missisquoi,,,,,Brome—Missisquoi,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24017,Compton—Stanstead,,,,,Compton—Stanstead,,,,,,,
-ocd-division/country:ca/ed:24017-2013,Brossard—Saint-Lambert,,,,,Brossard—Saint-Lambert,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24018,Drummond,,,,,Drummond,,,,,,,
-ocd-division/country:ca/ed:24018-2013,Rimouski-Neigette—Témiscouata—Les Basques,,,,,Rimouski-Neigette—Témiscouata—Les Basques,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24019,Gaspésie—Îles-de-la-Madeleine,,,,,Gaspésie—Îles-de-la-Madeleine,,,,,,,
-ocd-division/country:ca/ed:24019-2013,Charlesbourg—Haute-Saint-Charles,,,,,Charlesbourg—Haute-Saint-Charles,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24020,Gatineau,,,,,Gatineau,,,,,,,
-ocd-division/country:ca/ed:24020-2013,Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix,,,,,Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24021,Hochelaga,,,,,Hochelaga,,,,,,,
-ocd-division/country:ca/ed:24021-2013,Châteauguay—Lacolle,,,,,Châteauguay—Lacolle,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24022,Honoré-Mercier,,,,,Honoré-Mercier,,,,,,,
-ocd-division/country:ca/ed:24022-2013,Chicoutimi—Le Fjord,,,,,Chicoutimi—Le Fjord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24023,Hull—Aylmer,,,,,Hull—Aylmer,,,,,,,
-ocd-division/country:ca/ed:24023-2013,Compton—Stanstead,,,,,Compton—Stanstead,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24024,Jeanne-Le Ber,,,,,Jeanne-Le Ber,,,,,,,
-ocd-division/country:ca/ed:24024-2013,Dorval—Lachine—LaSalle,,,,,Dorval—Lachine—LaSalle,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24025,Joliette,,,,,Joliette,,,,,,,
-ocd-division/country:ca/ed:24025-2013,Drummond,,,,,Drummond,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24026,Jonquière—Alma,,,,,Jonquière—Alma,,,,,,,
-ocd-division/country:ca/ed:24026-2013,Gaspésie—Les Îles-de-la-Madeleine,,,,,Gaspésie—Les Îles-de-la-Madeleine,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24027,Lac-Saint-Louis,,,,,Lac-Saint-Louis,,,,,,,
-ocd-division/country:ca/ed:24027-2013,Gatineau,,,,,Gatineau,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24028,La Pointe-de-l'Île,,,,,La Pointe-de-l'Île,,,,,,,
-ocd-division/country:ca/ed:24028-2013,Hochelaga,,,,,Hochelaga,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24029,LaSalle—Émard,,,,,LaSalle—Émard,,,,,,,
-ocd-division/country:ca/ed:24029-2013,Honoré-Mercier,,,,,Honoré-Mercier,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24030,Laurentides—Labelle,,,,,Laurentides—Labelle,,,,,,,
-ocd-division/country:ca/ed:24030-2013,Hull—Aylmer,,,,,Hull—Aylmer,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24031,Laurier—Sainte-Marie,,,,,Laurier—Sainte-Marie,,,,,,,
-ocd-division/country:ca/ed:24031-2013,Joliette,,,,,Joliette,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24032,Laval,,,,,Laval,,,,,,,
-ocd-division/country:ca/ed:24032-2013,Jonquière,,,,,Jonquière,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24033,Laval—Les Îles,,,,,Laval—Les Îles,,,,,,,
-ocd-division/country:ca/ed:24033-2013,La Pointe-de-l'Île,,,,,La Pointe-de-l'Île,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24034,Lévis—Bellechasse,,,,,Lévis—Bellechasse,,,,,,,
-ocd-division/country:ca/ed:24034-2013,La Prairie,,,,,La Prairie,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24035,Longueuil—Pierre-Boucher,,,,,Longueuil—Pierre-Boucher,,,,,,,
-ocd-division/country:ca/ed:24035-2013,Lac-Saint-Jean,,,,,Lac-Saint-Jean,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24036,Lotbinière—Chutes-de-la-Chaudière,,,,,Lotbinière—Chutes-de-la-Chaudière,,,,,,,
-ocd-division/country:ca/ed:24036-2013,Lac-Saint-Louis,,,,,Lac-Saint-Louis,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24037,Louis-Hébert,,,,,Louis-Hébert,,,,,,,
-ocd-division/country:ca/ed:24037-2013,LaSalle—Émard—Verdun,,,,,LaSalle—Émard—Verdun,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24038,Louis-Saint-Laurent,,,,,Louis-Saint-Laurent,,,,,,,
-ocd-division/country:ca/ed:24038-2013,Laurentides—Labelle,,,,,Laurentides—Labelle,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24039,Manicouagan,,,,,Manicouagan,,,,,,,
-ocd-division/country:ca/ed:24039-2013,Laurier—Sainte-Marie,,,,,Laurier—Sainte-Marie,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24040,Marc-Aurèle-Fortin,,,,,Marc-Aurèle-Fortin,,,,,,,
-ocd-division/country:ca/ed:24040-2013,Laval—Les Îles,,,,,Laval—Les Îles,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24041,Haute-Gaspésie—La Mitis—Matane—Matapédia,,,,,Haute-Gaspésie—La Mitis—Matane—Matapédia,,,,,,,
-ocd-division/country:ca/ed:24041-2013,Longueuil—Charles-LeMoyne,,,,,Longueuil—Charles-LeMoyne,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24042,Mégantic—L'Érable,,,,,Mégantic—L'Érable,,,,,,,
-ocd-division/country:ca/ed:24042-2013,Lévis—Lotbinière,,,,,Lévis—Lotbinière,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24043,Montcalm,,,,,Montcalm,,,,,,,
-ocd-division/country:ca/ed:24043-2013,Longueuil—Saint-Hubert,,,,,Longueuil—Saint-Hubert,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24044,Mount Royal,,,,,Mont-Royal,,,,,,,
-ocd-division/country:ca/ed:24044-2013,Louis-Hébert,,,,,Louis-Hébert,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24045,Notre-Dame-de-Grâce—Lachine,,,,,Notre-Dame-de-Grâce—Lachine,,,,,,,
-ocd-division/country:ca/ed:24045-2013,Louis-Saint-Laurent,,,,,Louis-Saint-Laurent,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24046,Abitibi—Baie-James—Nunavik—Eeyou,,,,,Abitibi—Baie-James—Nunavik—Eeyou,,,,,,,
-ocd-division/country:ca/ed:24046-2013,Manicouagan,,,,,Manicouagan,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24047,Outremont,,,,,Outremont,,,,,,,
-ocd-division/country:ca/ed:24047-2013,Mégantic—L'Érable,,,,,Mégantic—L'Érable,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24048,Papineau,,,,,Papineau,,,,,,,
-ocd-division/country:ca/ed:24048-2013,Mirabel,,,,,Mirabel,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24049,Pierrefonds—Dollard,,,,,Pierrefonds—Dollard,,,,,,,
-ocd-division/country:ca/ed:24049-2013,Montarville,,,,,Montarville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24050,Pontiac,,,,,Pontiac,,,,,,,
-ocd-division/country:ca/ed:24050-2013,Montcalm,,,,,Montcalm,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24051,Portneuf—Jacques-Cartier,,,,,Portneuf—Jacques-Cartier,,,,,,,
-ocd-division/country:ca/ed:24051-2013,Montmagny—L'Islet—Kamouraska—Rivière-du-Loup,,,,,Montmagny—L'Islet—Kamouraska—Rivière-du-Loup,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24052,Québec,,,,,Québec,,,,,,,
-ocd-division/country:ca/ed:24052-2013,Mount Royal,,,,,Mont-Royal,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24053,Repentigny,,,,,Repentigny,,,,,,,
-ocd-division/country:ca/ed:24053-2013,Notre-Dame-de-Grâce—Westmount,,,,,Notre-Dame-de-Grâce—Westmount,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24054,Bas-Richelieu—Nicolet—Bécancour,,,,,Bas-Richelieu—Nicolet—Bécancour,,,,,,,
-ocd-division/country:ca/ed:24054-2013,Outremont,,,,,Outremont,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24055,Richmond—Arthabaska,,,,,Richmond—Arthabaska,,,,,,,
-ocd-division/country:ca/ed:24055-2013,Papineau,,,,,Papineau,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24056,Rimouski-Neigette—Témiscouata—Les Basques,,,,,Rimouski-Neigette—Témiscouata—Les Basques,,,,,,,
-ocd-division/country:ca/ed:24056-2013,Pierrefonds—Dollard,,,,,Pierrefonds—Dollard,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24057,Rivière-des-Mille-Îles,,,,,Rivière-des-Mille-Îles,,,,,,,
-ocd-division/country:ca/ed:24057-2013,Pontiac,,,,,Pontiac,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24058,Montmagny—L'Islet—Kamouraska—Rivière-du-Loup,,,,,Montmagny—L'Islet—Kamouraska—Rivière-du-Loup,,,,,,,
-ocd-division/country:ca/ed:24058-2013,Portneuf—Jacques-Cartier,,,,,Portneuf—Jacques-Cartier,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24059,Rivière-du-Nord,,,,,Rivière-du-Nord,,,,,,,
-ocd-division/country:ca/ed:24059-2013,Québec,,,,,Québec,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24060,Roberval—Lac-Saint-Jean,,,,,Roberval—Lac-Saint-Jean,,,,,,,
-ocd-division/country:ca/ed:24060-2013,Repentigny,,,,,Repentigny,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24061,Rosemont—La Petite-Patrie,,,,,Rosemont—La Petite-Patrie,,,,,,,
-ocd-division/country:ca/ed:24061-2013,Richmond—Arthabaska,,,,,Richmond—Arthabaska,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24062,Saint-Bruno—Saint-Hubert,,,,,Saint-Bruno—Saint-Hubert,,,,,,,
-ocd-division/country:ca/ed:24062-2013,Rivière-des-Mille-Îles,,,,,Rivière-des-Mille-Îles,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24063,Saint-Hyacinthe—Bagot,,,,,Saint-Hyacinthe—Bagot,,,,,,,
-ocd-division/country:ca/ed:24063-2013,Rivière-du-Nord,,,,,Rivière-du-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24064,Saint-Jean,,,,,Saint-Jean,,,,,,,
-ocd-division/country:ca/ed:24064-2013,Rosemont—La Petite-Patrie,,,,,Rosemont—La Petite-Patrie,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24065,Saint-Lambert,,,,,Saint-Lambert,,,,,,,
-ocd-division/country:ca/ed:24065-2013,Marc-Aurèle-Fortin,,,,,Marc-Aurèle-Fortin,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24066,Saint-Laurent—Cartierville,,,,,Saint-Laurent—Cartierville,,,,,,,
-ocd-division/country:ca/ed:24066-2013,Saint-Hyacinthe—Bagot,,,,,Saint-Hyacinthe—Bagot,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24067,Saint-Léonard—Saint-Michel,,,,,Saint-Léonard—Saint-Michel,,,,,,,
-ocd-division/country:ca/ed:24067-2013,Saint-Jean,,,,,Saint-Jean,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24068,Saint-Maurice—Champlain,,,,,Saint-Maurice—Champlain,,,,,,,
-ocd-division/country:ca/ed:24068-2013,Saint-Laurent,,,,,Saint-Laurent,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24069,Shefford,,,,,Shefford,,,,,,,
-ocd-division/country:ca/ed:24069-2013,Saint-Léonard—Saint-Michel,,,,,Saint-Léonard—Saint-Michel,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24070,Sherbrooke,,,,,Sherbrooke,,,,,,,
-ocd-division/country:ca/ed:24070-2013,Saint-Maurice—Champlain,,,,,Saint-Maurice—Champlain,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24071,Terrebonne—Blainville,,,,,Terrebonne—Blainville,,,,,,,
-ocd-division/country:ca/ed:24071-2013,Salaberry—Suroît,,,,,Salaberry—Suroît,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24072,Trois-Rivières,,,,,Trois-Rivières,,,,,,,
-ocd-division/country:ca/ed:24072-2013,Shefford,,,,,Shefford,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24073,Vaudreuil-Soulanges,,,,,Vaudreuil-Soulanges,,,,,,,
-ocd-division/country:ca/ed:24073-2013,Sherbrooke,,,,,Sherbrooke,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24074,Verchères—Les Patriotes,,,,,Verchères—Les Patriotes,,,,,,,
-ocd-division/country:ca/ed:24074-2013,Vaudreuil—Soulanges,,,,,Vaudreuil—Soulanges,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24075,Westmount—Ville-Marie,,,,,Westmount—Ville-Marie,,,,,,,
-ocd-division/country:ca/ed:24075-2013,Terrebonne,,,,,Terrebonne,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24076-2013,Trois-Rivières,,,,,Trois-Rivières,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24077-2013,Ville-Marie—Le Sud-Ouest—Île-des-Soeurs,,,,,Ville-Marie—Le Sud-Ouest—Île-des-Soeurs,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24078-2013,Vimy,,,,,Vimy,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35001,Ajax—Pickering,,,,,Ajax—Pickering,,,,,,,
-ocd-division/country:ca/ed:35001-2013,Ajax,,,,,Ajax,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35002,Algoma—Manitoulin—Kapuskasing,,,,,Algoma—Manitoulin—Kapuskasing,,,,,,,
-ocd-division/country:ca/ed:35002-2013,Algoma—Manitoulin—Kapuskasing,,,,,Algoma—Manitoulin—Kapuskasing,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35003,Ancaster—Dundas—Flamborough—Westdale,,,,,Ancaster—Dundas—Flamborough—Westdale,,,,,,,
-ocd-division/country:ca/ed:35003-2013,Aurora—Oak Ridges—Richmond Hill,,,,,Aurora—Oak Ridges—Richmond Hill,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35004,Barrie,,,,,Barrie,,,,,,,
-ocd-division/country:ca/ed:35004-2013,Barrie—Innisfil,,,,,Barrie—Innisfil,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35005,Beaches—East York,,,,,Beaches—East York,,,,,,,
-ocd-division/country:ca/ed:35005-2013,Barrie—Springwater—Oro-Medonte,,,,,Barrie—Springwater—Oro-Medonte,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35006,Bramalea—Gore—Malton,,,,,Bramalea—Gore—Malton,,,,,,,
-ocd-division/country:ca/ed:35006-2013,Bay of Quinte,,,,,Baie de Quinte,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35007,Brampton—Springdale,,,,,Brampton—Springdale,,,,,,,
-ocd-division/country:ca/ed:35007-2013,Beaches—East York,,,,,Beaches—East York,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35008,Brampton West,,,,,Brampton-Ouest,,,,,,,
-ocd-division/country:ca/ed:35008-2013,Brampton Centre,,,,,Brampton-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35009,Brant,,,,,Brant,,,,,,,
-ocd-division/country:ca/ed:35009-2013,Brampton East,,,,,Brampton-Est,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35010,Burlington,,,,,Burlington,,,,,,,
-ocd-division/country:ca/ed:35010-2013,Brampton North,,,,,Brampton-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35011,Cambridge,,,,,Cambridge,,,,,,,
-ocd-division/country:ca/ed:35011-2013,Brampton South,,,,,Brampton-Sud,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35012,Carleton—Mississippi Mills,,,,,Carleton—Mississippi Mills,,,,,,,
-ocd-division/country:ca/ed:35012-2013,Brampton West,,,,,Brampton-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35013,Chatham-Kent—Essex,,,,,Chatham-Kent—Essex,,,,,,,
-ocd-division/country:ca/ed:35013-2013,Brantford—Brant,,,,,Brantford—Brant,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35014,Durham,,,,,Durham,,,,,,,
-ocd-division/country:ca/ed:35014-2013,Bruce—Grey—Owen Sound,,,,,Bruce—Grey—Owen Sound,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35015,Davenport,,,,,Davenport,,,,,,,
-ocd-division/country:ca/ed:35015-2013,Burlington,,,,,Burlington,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35016,Don Valley East,,,,,Don Valley-Est,,,,,,,
-ocd-division/country:ca/ed:35016-2013,Cambridge,,,,,Cambridge,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35017,Don Valley West,,,,,Don Valley-Ouest,,,,,,,
-ocd-division/country:ca/ed:35017-2013,Chatham-Kent—Leamington,,,,,Chatham-Kent—Leamington,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35018,Dufferin—Caledon,,,,,Dufferin—Caledon,,,,,,,
-ocd-division/country:ca/ed:35018-2013,Davenport,,,,,Davenport,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35019,Eglinton—Lawrence,,,,,Eglinton—Lawrence,,,,,,,
-ocd-division/country:ca/ed:35019-2013,Don Valley East,,,,,Don Valley-Est,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35020,Elgin—Middlesex—London,,,,,Elgin—Middlesex—London,,,,,,,
-ocd-division/country:ca/ed:35020-2013,Don Valley North,,,,,Don Valley-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35021,Essex,,,,,Essex,,,,,,,
-ocd-division/country:ca/ed:35021-2013,Don Valley West,,,,,Don Valley-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35022,Etobicoke Centre,,,,,Etobicoke-Centre,,,,,,,
-ocd-division/country:ca/ed:35022-2013,Dufferin—Caledon,,,,,Dufferin—Caledon,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35023,Etobicoke—Lakeshore,,,,,Etobicoke—Lakeshore,,,,,,,
-ocd-division/country:ca/ed:35023-2013,Durham,,,,,Durham,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35024,Etobicoke North,,,,,Etobicoke-Nord,,,,,,,
-ocd-division/country:ca/ed:35024-2013,Eglinton—Lawrence,,,,,Eglinton—Lawrence,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35025,Glengarry—Prescott—Russell,,,,,Glengarry—Prescott—Russell,,,,,,,
-ocd-division/country:ca/ed:35025-2013,Elgin—Middlesex—London,,,,,Elgin—Middlesex—London,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35026,Bruce—Grey—Owen Sound,,,,,Bruce—Grey—Owen Sound,,,,,,,
-ocd-division/country:ca/ed:35026-2013,Essex,,,,,Essex,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35027,Guelph,,,,,Guelph,,,,,,,
-ocd-division/country:ca/ed:35027-2013,Etobicoke Centre,,,,,Etobicoke-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35028,Haldimand—Norfolk,,,,,Haldimand—Norfolk,,,,,,,
-ocd-division/country:ca/ed:35028-2013,Etobicoke—Lakeshore,,,,,Etobicoke—Lakeshore,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35029,Haliburton—Kawartha Lakes—Brock,,,,,Haliburton—Kawartha Lakes—Brock,,,,,,,
-ocd-division/country:ca/ed:35029-2013,Etobicoke North,,,,,Etobicoke-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35030,Halton,,,,,Halton,,,,,,,
-ocd-division/country:ca/ed:35030-2013,Flamborough—Glanbrook,,,,,Flamborough—Glanbrook,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35031,Hamilton Centre,,,,,Hamilton-Centre,,,,,,,
-ocd-division/country:ca/ed:35031-2013,Glengarry—Prescott—Russell,,,,,Glengarry—Prescott—Russell,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35032,Hamilton East—Stoney Creek,,,,,Hamilton-Est—Stoney Creek,,,,,,,
-ocd-division/country:ca/ed:35032-2013,Guelph,,,,,Guelph,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35033,Hamilton Mountain,,,,,Hamilton Mountain,,,,,,,
-ocd-division/country:ca/ed:35033-2013,Haldimand—Norfolk,,,,,Haldimand—Norfolk,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35034,Huron—Bruce,,,,,Huron—Bruce,,,,,,,
-ocd-division/country:ca/ed:35034-2013,Haliburton—Kawartha Lakes—Brock,,,,,Haliburton—Kawartha Lakes—Brock,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35035,Kenora,,,,,Kenora,,,,,,,
-ocd-division/country:ca/ed:35035-2013,Hamilton Centre,,,,,Hamilton-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35036,Kingston and the Islands,,,,,Kingston et les Îles,,,,,,,
-ocd-division/country:ca/ed:35036-2013,Hamilton East—Stoney Creek,,,,,Hamilton-Est—Stoney Creek,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35037,Kitchener Centre,,,,,Kitchener-Centre,,,,,,,
-ocd-division/country:ca/ed:35037-2013,Hamilton Mountain,,,,,Hamilton Mountain,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35038,Kitchener—Conestoga,,,,,Kitchener—Conestoga,,,,,,,
-ocd-division/country:ca/ed:35038-2013,Hamilton West—Ancaster—Dundas,,,,,Hamilton-Ouest—Ancaster—Dundas,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35039,Kitchener—Waterloo,,,,,Kitchener—Waterloo,,,,,,,
-ocd-division/country:ca/ed:35039-2013,Hastings—Lennox and Addington,,,,,Hastings—Lennox and Addington,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35040,Lanark—Frontenac—Lennox and Addington,,,,,Lanark—Frontenac—Lennox and Addington,,,,,,,
-ocd-division/country:ca/ed:35040-2013,Huron—Bruce,,,,,Huron—Bruce,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35041,Leeds—Grenville,,,,,Leeds—Grenville,,,,,,,
-ocd-division/country:ca/ed:35041-2013,Kanata—Carleton,,,,,Kanata—Carleton,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35042,London—Fanshawe,,,,,London—Fanshawe,,,,,,,
-ocd-division/country:ca/ed:35042-2013,Kenora,,,,,Kenora,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35043,London North Centre,,,,,London-Centre-Nord,,,,,,,
-ocd-division/country:ca/ed:35043-2013,King—Vaughan,,,,,King—Vaughan,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35044,London West,,,,,London-Ouest,,,,,,,
-ocd-division/country:ca/ed:35044-2013,Kingston and the Islands,,,,,Kingston et les Îles,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35045,Markham—Unionville,,,,,Markham—Unionville,,,,,,,
-ocd-division/country:ca/ed:35045-2013,Kitchener Centre,,,,,Kitchener-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35046,Lambton—Kent—Middlesex,,,,,Lambton—Kent—Middlesex,,,,,,,
-ocd-division/country:ca/ed:35046-2013,Kitchener—Conestoga,,,,,Kitchener—Conestoga,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35047,Mississauga—Brampton South,,,,,Mississauga—Brampton-Sud,,,,,,,
-ocd-division/country:ca/ed:35047-2013,Kitchener South—Hespeler,,,,,Kitchener-Sud—Hespeler,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35048,Mississauga East—Cooksville,,,,,Mississauga-Est—Cooksville,,,,,,,
-ocd-division/country:ca/ed:35048-2013,Lambton—Kent—Middlesex,,,,,Lambton—Kent—Middlesex,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35049,Mississauga—Erindale,,,,,Mississauga—Erindale,,,,,,,
-ocd-division/country:ca/ed:35049-2013,Lanark—Frontenac—Kingston,,,,,Lanark—Frontenac—Kingston,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35050,Mississauga South,,,,,Mississauga-Sud,,,,,,,
-ocd-division/country:ca/ed:35050-2013,Leeds—Grenville—Thousand Islands and Rideau Lakes,,,,,Leeds—Grenville—Thousand Islands et Rideau Lakes,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35051,Mississauga—Streetsville,,,,,Mississauga—Streetsville,,,,,,,
-ocd-division/country:ca/ed:35051-2013,London—Fanshawe,,,,,London—Fanshawe,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35052,Nepean—Carleton,,,,,Nepean—Carleton,,,,,,,
-ocd-division/country:ca/ed:35052-2013,London North Centre,,,,,London-Centre-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35053,Newmarket—Aurora,,,,,Newmarket—Aurora,,,,,,,
-ocd-division/country:ca/ed:35053-2013,London West,,,,,London-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35054,Niagara Falls,,,,,Niagara Falls,,,,,,,
-ocd-division/country:ca/ed:35054-2013,Markham—Stouffville,,,,,Markham—Stouffville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35055,Niagara West—Glanbrook,,,,,Niagara-Ouest—Glanbrook,,,,,,,
-ocd-division/country:ca/ed:35055-2013,Markham—Thornhill,,,,,Markham—Thornhill,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35056,Nickel Belt,,,,,Nickel Belt,,,,,,,
-ocd-division/country:ca/ed:35056-2013,Markham—Unionville,,,,,Markham—Unionville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35057,Nipissing—Timiskaming,,,,,Nipissing—Timiskaming,,,,,,,
-ocd-division/country:ca/ed:35057-2013,Milton,,,,,Milton,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35058,Northumberland—Quinte West,,,,,Northumberland—Quinte West,,,,,,,
-ocd-division/country:ca/ed:35058-2013,Mississauga Centre,,,,,Mississauga-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35059,Oak Ridges—Markham,,,,,Oak Ridges—Markham,,,,,,,
-ocd-division/country:ca/ed:35059-2013,Mississauga East—Cooksville,,,,,Mississauga-Est—Cooksville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35060,Oakville,,,,,Oakville,,,,,,,
-ocd-division/country:ca/ed:35060-2013,Mississauga—Erin Mills,,,,,Mississauga—Erin Mills,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35061,Oshawa,,,,,Oshawa,,,,,,,
-ocd-division/country:ca/ed:35061-2013,Mississauga—Lakeshore,,,,,Mississauga—Lakeshore,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35062,Ottawa Centre,,,,,Ottawa-Centre,,,,,,,
-ocd-division/country:ca/ed:35062-2013,Mississauga—Malton,,,,,Mississauga—Malton,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35063,Ottawa—Orléans,,,,,Ottawa—Orléans,,,,,,,
-ocd-division/country:ca/ed:35063-2013,Mississauga—Streetsville,,,,,Mississauga—Streetsville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35064,Ottawa South,,,,,Ottawa-Sud,,,,,,,
-ocd-division/country:ca/ed:35064-2013,Nepean,,,,,Nepean,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35065,Ottawa—Vanier,,,,,Ottawa—Vanier,,,,,,,
-ocd-division/country:ca/ed:35065-2013,Newmarket—Aurora,,,,,Newmarket—Aurora,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35066,Ottawa West—Nepean,,,,,Ottawa-Ouest—Nepean,,,,,,,
-ocd-division/country:ca/ed:35066-2013,Niagara Centre,,,,,Niagara-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35067,Oxford,,,,,Oxford,,,,,,,
-ocd-division/country:ca/ed:35067-2013,Niagara Falls,,,,,Niagara Falls,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35068,Parkdale—High Park,,,,,Parkdale—High Park,,,,,,,
-ocd-division/country:ca/ed:35068-2013,Niagara West,,,,,Niagara-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35069,Parry Sound—Muskoka,,,,,Parry Sound—Muskoka,,,,,,,
-ocd-division/country:ca/ed:35069-2013,Nickel Belt,,,,,Nickel Belt,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35070,Perth—Wellington,,,,,Perth—Wellington,,,,,,,
-ocd-division/country:ca/ed:35070-2013,Nipissing—Timiskaming,,,,,Nipissing—Timiskaming,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35071,Peterborough,,,,,Peterborough,,,,,,,
-ocd-division/country:ca/ed:35071-2013,Northumberland—Peterborough South,,,,,Northumberland—Peterborough-Sud,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35072,Pickering—Scarborough East,,,,,Pickering—Scarborough-Est,,,,,,,
-ocd-division/country:ca/ed:35072-2013,Oakville,,,,,Oakville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35073,Prince Edward—Hastings,,,,,Prince Edward—Hastings,,,,,,,
-ocd-division/country:ca/ed:35073-2013,Oakville North—Burlington,,,,,Oakville-Nord—Burlington,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35074,Renfrew—Nipissing—Pembroke,,,,,Renfrew—Nipissing—Pembroke,,,,,,,
-ocd-division/country:ca/ed:35074-2013,Oshawa,,,,,Oshawa,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35075,Richmond Hill,,,,,Richmond Hill,,,,,,,
-ocd-division/country:ca/ed:35075-2013,Ottawa Centre,,,,,Ottawa-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35076,St. Catharines,,,,,St. Catharines,,,,,,,
-ocd-division/country:ca/ed:35076-2013,Orléans,,,,,Orléans,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35077,St. Paul's,,,,,St. Paul's,,,,,,,
-ocd-division/country:ca/ed:35077-2013,Ottawa South,,,,,Ottawa-Sud,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35078,Sarnia—Lambton,,,,,Sarnia—Lambton,,,,,,,
-ocd-division/country:ca/ed:35078-2013,Ottawa—Vanier,,,,,Ottawa—Vanier,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35079,Sault Ste. Marie,,,,,Sault Ste. Marie,,,,,,,
-ocd-division/country:ca/ed:35079-2013,Ottawa West—Nepean,,,,,Ottawa-Ouest—Nepean,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35080,Scarborough—Agincourt,,,,,Scarborough—Agincourt,,,,,,,
-ocd-division/country:ca/ed:35080-2013,Oxford,,,,,Oxford,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35081,Scarborough Centre,,,,,Scarborough-Centre,,,,,,,
-ocd-division/country:ca/ed:35081-2013,Parkdale—High Park,,,,,Parkdale—High Park,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35082,Scarborough—Guildwood,,,,,Scarborough—Guildwood,,,,,,,
-ocd-division/country:ca/ed:35082-2013,Parry Sound—Muskoka,,,,,Parry Sound—Muskoka,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35083,Scarborough—Rouge River,,,,,Scarborough—Rouge River,,,,,,,
-ocd-division/country:ca/ed:35083-2013,Perth—Wellington,,,,,Perth—Wellington,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35084,Scarborough Southwest,,,,,Scarborough-Sud-Ouest,,,,,,,
-ocd-division/country:ca/ed:35084-2013,Peterborough—Kawartha,,,,,Peterborough—Kawartha,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35085,Simcoe—Grey,,,,,Simcoe—Grey,,,,,,,
-ocd-division/country:ca/ed:35085-2013,Pickering—Uxbridge,,,,,Pickering—Uxbridge,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35086,Simcoe North,,,,,Simcoe-Nord,,,,,,,
-ocd-division/country:ca/ed:35086-2013,Renfrew—Nipissing—Pembroke,,,,,Renfrew—Nipissing—Pembroke,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35087,Stormont—Dundas—South Glengarry,,,,,Stormont—Dundas—South Glengarry,,,,,,,
-ocd-division/country:ca/ed:35087-2013,Richmond Hill,,,,,Richmond Hill,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35088,Sudbury,,,,,Sudbury,,,,,,,
-ocd-division/country:ca/ed:35088-2013,Carleton,,,,,Carleton,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35089,Thornhill,,,,,Thornhill,,,,,,,
-ocd-division/country:ca/ed:35089-2013,St. Catharines,,,,,St. Catharines,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35090,Thunder Bay—Rainy River,,,,,Thunder Bay—Rainy River,,,,,,,
-ocd-division/country:ca/ed:35090-2013,Toronto—St. Paul's,,,,,Toronto—St. Paul's,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35091,Thunder Bay—Superior North,,,,,Thunder Bay—Superior-Nord,,,,,,,
-ocd-division/country:ca/ed:35091-2013,Sarnia—Lambton,,,,,Sarnia—Lambton,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35092,Timmins—James Bay,,,,,Timmins—Baie James,,,,,,,
-ocd-division/country:ca/ed:35092-2013,Sault Ste. Marie,,,,,Sault Ste. Marie,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35093,Toronto Centre,,,,,Toronto-Centre,,,,,,,
-ocd-division/country:ca/ed:35093-2013,Scarborough—Agincourt,,,,,Scarborough—Agincourt,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35094,Toronto—Danforth,,,,,Toronto—Danforth,,,,,,,
-ocd-division/country:ca/ed:35094-2013,Scarborough Centre,,,,,Scarborough-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35095,Trinity—Spadina,,,,,Trinity—Spadina,,,,,,,
-ocd-division/country:ca/ed:35095-2013,Scarborough—Guildwood,,,,,Scarborough—Guildwood,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35096,Vaughan,,,,,Vaughan,,,,,,,
-ocd-division/country:ca/ed:35096-2013,Scarborough North,,,,,Scarborough-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35097,Welland,,,,,Welland,,,,,,,
-ocd-division/country:ca/ed:35097-2013,Scarborough—Rouge Park,,,,,Scarborough—Rouge Park,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35098,Wellington—Halton Hills,,,,,Wellington—Halton Hills,,,,,,,
-ocd-division/country:ca/ed:35098-2013,Scarborough Southwest,,,,,Scarborough-Sud-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35099,Whitby—Oshawa,,,,,Whitby—Oshawa,,,,,,,
-ocd-division/country:ca/ed:35099-2013,Simcoe—Grey,,,,,Simcoe—Grey,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35100,Willowdale,,,,,Willowdale,,,,,,,
-ocd-division/country:ca/ed:35100-2013,Simcoe North,,,,,Simcoe-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35101,Windsor—Tecumseh,,,,,Windsor—Tecumseh,,,,,,,
-ocd-division/country:ca/ed:35101-2013,Spadina—Fort York,,,,,Spadina—Fort York,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35102,Windsor West,,,,,Windsor-Ouest,,,,,,,
-ocd-division/country:ca/ed:35102-2013,Stormont—Dundas—South Glengarry,,,,,Stormont—Dundas—South Glengarry,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35103,York Centre,,,,,York-Centre,,,,,,,
-ocd-division/country:ca/ed:35103-2013,Sudbury,,,,,Sudbury,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35104,York—Simcoe,,,,,York—Simcoe,,,,,,,
-ocd-division/country:ca/ed:35104-2013,Thornhill,,,,,Thornhill,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35105,York South—Weston,,,,,York-Sud—Weston,,,,,,,
-ocd-division/country:ca/ed:35105-2013,Thunder Bay—Rainy River,,,,,Thunder Bay—Rainy River,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35106,York West,,,,,York-Ouest,,,,,,,
-ocd-division/country:ca/ed:35106-2013,Thunder Bay—Superior North,,,,,Thunder Bay—Supérieur-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35107-2013,Timmins—James Bay,,,,,Timmins—Baie James,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35108-2013,Toronto Centre,,,,,Toronto-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35109-2013,Toronto—Danforth,,,,,Toronto—Danforth,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35110-2013,University—Rosedale,,,,,University—Rosedale,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35111-2013,Vaughan—Woodbridge,,,,,Vaughan—Woodbridge,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35112-2013,Waterloo,,,,,Waterloo,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35113-2013,Wellington—Halton Hills,,,,,Wellington—Halton Hills,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35114-2013,Whitby,,,,,Whitby,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35115-2013,Willowdale,,,,,Willowdale,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35116-2013,Windsor—Tecumseh,,,,,Windsor—Tecumseh,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35117-2013,Windsor West,,,,,Windsor-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35118-2013,York Centre,,,,,York-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35119-2013,York—Simcoe,,,,,York—Simcoe,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35120-2013,York South—Weston,,,,,York-Sud—Weston,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35121-2013,Humber River—Black Creek,,,,,Humber River—Black Creek,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46001,Brandon—Souris,,,,,Brandon—Souris,,,,,,,
-ocd-division/country:ca/ed:46001-2013,Brandon—Souris,,,,,Brandon—Souris,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46002,Charleswood—St. James—Assiniboia,,,,,Charleswood—St. James—Assiniboia,,,,,,,
-ocd-division/country:ca/ed:46002-2013,Charleswood—St. James—Assiniboia—Headingley,,,,,Charleswood—St. James—Assiniboia—Headingley,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46003,Churchill,,,,,Churchill,,,,,,,
-ocd-division/country:ca/ed:46003-2013,Churchill—Keewatinook Aski,,,,,Churchill—Keewatinook Aski,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46004,Dauphin—Swan River—Marquette,,,,,Dauphin—Swan River—Marquette,,,,,,,
-ocd-division/country:ca/ed:46004-2013,Dauphin—Swan River—Neepawa,,,,,Dauphin—Swan River—Neepawa,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46005,Elmwood—Transcona,,,,,Elmwood—Transcona,,,,,,,
-ocd-division/country:ca/ed:46005-2013,Elmwood—Transcona,,,,,Elmwood—Transcona,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46006,Kildonan—St. Paul,,,,,Kildonan—St. Paul,,,,,,,
-ocd-division/country:ca/ed:46006-2013,Kildonan—St. Paul,,,,,Kildonan—St. Paul,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46007,Portage—Lisgar,,,,,Portage—Lisgar,,,,,,,
-ocd-division/country:ca/ed:46007-2013,Portage—Lisgar,,,,,Portage—Lisgar,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46008,Provencher,,,,,Provencher,,,,,,,
-ocd-division/country:ca/ed:46008-2013,Provencher,,,,,Provencher,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46009,Saint Boniface,,,,,Saint-Boniface,,,,,,,
-ocd-division/country:ca/ed:46009-2013,Saint Boniface—Saint Vital,,,,,Saint-Boniface—Saint-Vital,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46010,Selkirk—Interlake,,,,,Selkirk—Interlake,,,,,,,
-ocd-division/country:ca/ed:46010-2013,Selkirk—Interlake—Eastman,,,,,Selkirk—Interlake—Eastman,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46011,Winnipeg Centre,,,,,Winnipeg-Centre,,,,,,,
-ocd-division/country:ca/ed:46011-2013,Winnipeg Centre,,,,,Winnipeg-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46012,Winnipeg North,,,,,Winnipeg-Nord,,,,,,,
-ocd-division/country:ca/ed:46012-2013,Winnipeg North,,,,,Winnipeg-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46013,Winnipeg South,,,,,Winnipeg-Sud,,,,,,,
-ocd-division/country:ca/ed:46013-2013,Winnipeg South,,,,,Winnipeg-Sud,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46014,Winnipeg South Centre,,,,,Winnipeg-Centre-Sud,,,,,,,
-ocd-division/country:ca/ed:46014-2013,Winnipeg South Centre,,,,,Winnipeg-Centre-Sud,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47001,Battlefords—Lloydminster,,,,,Battlefords—Lloydminster,,,,,,,
-ocd-division/country:ca/ed:47001-2013,Battlefords—Lloydminster,,,,,Battlefords—Lloydminster,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47002,Blackstrap,,,,,Blackstrap,,,,,,,
-ocd-division/country:ca/ed:47002-2013,Cypress Hills—Grasslands,,,,,Cypress Hills—Grasslands,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47003,Desnethé—Missinippi—Churchill River,,,,,Desnethé—Missinippi—Rivière Churchill,,,,,,,
-ocd-division/country:ca/ed:47003-2013,Desnethé—Missinippi—Churchill River,,,,,Desnethé—Missinippi—Rivière Churchill,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47004,Cypress Hills—Grasslands,,,,,Cypress Hills—Grasslands,,,,,,,
-ocd-division/country:ca/ed:47004-2013,Carlton Trail—Eagle Creek,,,,,Sentier Carlton—Eagle Creek,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47005,Palliser,,,,,Palliser,,,,,,,
-ocd-division/country:ca/ed:47005-2013,Moose Jaw—Lake Centre—Lanigan,,,,,Moose Jaw—Lake Centre—Lanigan,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47006,Prince Albert,,,,,Prince Albert,,,,,,,
-ocd-division/country:ca/ed:47006-2013,Prince Albert,,,,,Prince Albert,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47007,Regina—Lumsden—Lake Centre,,,,,Regina—Lumsden—Lake Centre,,,,,,,
-ocd-division/country:ca/ed:47007-2013,Regina—Lewvan,,,,,Regina—Lewvan,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47008,Regina—Qu'Appelle,,,,,Regina—Qu'Appelle,,,,,,,
-ocd-division/country:ca/ed:47008-2013,Regina—Qu'Appelle,,,,,Regina—Qu'Appelle,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47009,Saskatoon—Humboldt,,,,,Saskatoon—Humboldt,,,,,,,
-ocd-division/country:ca/ed:47009-2013,Regina—Wascana,,,,,Regina—Wascana,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47010,Saskatoon—Rosetown—Biggar,,,,,Saskatoon—Rosetown—Biggar,,,,,,,
-ocd-division/country:ca/ed:47010-2013,Saskatoon—Grasswood,,,,,Saskatoon—Grasswood,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47011,Saskatoon—Wanuskewin,,,,,Saskatoon—Wanuskewin,,,,,,,
-ocd-division/country:ca/ed:47011-2013,Saskatoon—University,,,,,Saskatoon—University,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47012,Souris—Moose Mountain,,,,,Souris—Moose Mountain,,,,,,,
-ocd-division/country:ca/ed:47012-2013,Saskatoon West,,,,,Saskatoon-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47013,Wascana,,,,,Wascana,,,,,,,
-ocd-division/country:ca/ed:47013-2013,Souris—Moose Mountain,,,,,Souris—Moose Mountain,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47014,Yorkton—Melville,,,,,Yorkton—Melville,,,,,,,
-ocd-division/country:ca/ed:47014-2013,Yorkton—Melville,,,,,Yorkton—Melville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48001,Fort McMurray—Athabasca,,,,,Fort McMurray—Athabasca,,,,,,,
-ocd-division/country:ca/ed:48001-2013,Banff—Airdrie,,,,,Banff—Airdrie,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48002,Calgary East,,,,,Calgary-Est,,,,,,,
-ocd-division/country:ca/ed:48002-2013,Battle River—Crowfoot,,,,,Battle River—Crowfoot,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48003,Calgary Centre-North,,,,,Calgary-Centre-Nord,,,,,,,
-ocd-division/country:ca/ed:48003-2013,Bow River,,,,,Bow River,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48004,Calgary Northeast,,,,,Calgary-Nord-Est,,,,,,,
-ocd-division/country:ca/ed:48004-2013,Calgary Centre,,,,,Calgary-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48005,Calgary—Nose Hill,,,,,Calgary—Nose Hill,,,,,,,
-ocd-division/country:ca/ed:48005-2013,Calgary Confederation,,,,,Calgary Confederation,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48006,Calgary Centre,,,,,Calgary-Centre,,,,,,,
-ocd-division/country:ca/ed:48006-2013,Calgary Forest Lawn,,,,,Calgary Forest Lawn,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48007,Calgary Southeast,,,,,Calgary-Sud-Est,,,,,,,
-ocd-division/country:ca/ed:48007-2013,Calgary Heritage,,,,,Calgary Heritage,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48008,Calgary Southwest,,,,,Calgary-Sud-Ouest,,,,,,,
-ocd-division/country:ca/ed:48008-2013,Calgary Midnapore,,,,,Calgary Midnapore,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48009,Calgary West,,,,,Calgary-Ouest,,,,,,,
-ocd-division/country:ca/ed:48009-2013,Calgary Nose Hill,,,,,Calgary Nose Hill,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48010,Crowfoot,,,,,Crowfoot,,,,,,,
-ocd-division/country:ca/ed:48010-2013,Calgary Rocky Ridge,,,,,Calgary Rocky Ridge,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48011,Edmonton—Mill Woods—Beaumont,,,,,Edmonton—Mill Woods—Beaumont,,,,,,,
-ocd-division/country:ca/ed:48011-2013,Calgary Shepard,,,,,Calgary Shepard,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48012,Edmonton Centre,,,,,Edmonton-Centre,,,,,,,
-ocd-division/country:ca/ed:48012-2013,Calgary Signal Hill,,,,,Calgary Signal Hill,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48013,Edmonton East,,,,,Edmonton-Est,,,,,,,
-ocd-division/country:ca/ed:48013-2013,Calgary Skyview,,,,,Calgary Skyview,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48014,Edmonton—Leduc,,,,,Edmonton—Leduc,,,,,,,
-ocd-division/country:ca/ed:48014-2013,Edmonton Centre,,,,,Edmonton-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48015,Edmonton—St. Albert,,,,,Edmonton—St. Albert,,,,,,,
-ocd-division/country:ca/ed:48015-2013,Edmonton Griesbach,,,,,Edmonton Griesbach,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48016,Edmonton—Sherwood Park,,,,,Edmonton—Sherwood Park,,,,,,,
-ocd-division/country:ca/ed:48016-2013,Edmonton Manning,,,,,Edmonton Manning,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48017,Edmonton—Spruce Grove,,,,,Edmonton—Spruce Grove,,,,,,,
-ocd-division/country:ca/ed:48017-2013,Edmonton Mill Woods,,,,,Edmonton Mill Woods,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48018,Edmonton—Strathcona,,,,,Edmonton—Strathcona,,,,,,,
-ocd-division/country:ca/ed:48018-2013,Edmonton Riverbend,,,,,Edmonton Riverbend,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48019,Lethbridge,,,,,Lethbridge,,,,,,,
-ocd-division/country:ca/ed:48019-2013,Edmonton Strathcona,,,,,Edmonton Strathcona,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48020,Macleod,,,,,Macleod,,,,,,,
-ocd-division/country:ca/ed:48020-2013,Edmonton West,,,,,Edmonton-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48021,Medicine Hat,,,,,Medicine Hat,,,,,,,
-ocd-division/country:ca/ed:48021-2013,Edmonton—Wetaskiwin,,,,,Edmonton—Wetaskiwin,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48022,Peace River,,,,,Peace River,,,,,,,
-ocd-division/country:ca/ed:48022-2013,Foothills,,,,,Foothills,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48023,Red Deer,,,,,Red Deer,,,,,,,
-ocd-division/country:ca/ed:48023-2013,Fort McMurray—Cold Lake,,,,,Fort McMurray—Cold Lake,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48024,Vegreville—Wainwright,,,,,Vegreville—Wainwright,,,,,,,
-ocd-division/country:ca/ed:48024-2013,Grande Prairie—Mackenzie,,,,,Grande Prairie—Mackenzie,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48025,Westlock—St. Paul,,,,,Westlock—St. Paul,,,,,,,
-ocd-division/country:ca/ed:48025-2013,Lakeland,,,,,Lakeland,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48026,Wetaskiwin,,,,,Wetaskiwin,,,,,,,
-ocd-division/country:ca/ed:48026-2013,Lethbridge,,,,,Lethbridge,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48027,Wild Rose,,,,,Wild Rose,,,,,,,
-ocd-division/country:ca/ed:48027-2013,Medicine Hat—Cardston—Warner,,,,,Medicine Hat—Cardston—Warner,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48028,Yellowhead,,,,,Yellowhead,,,,,,,
-ocd-division/country:ca/ed:48028-2013,Peace River—Westlock,,,,,Peace River—Westlock,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48029-2013,Red Deer—Mountain View,,,,,Red Deer—Mountain View,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48030-2013,Red Deer—Lacombe,,,,,Red Deer—Lacombe,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48031-2013,St. Albert—Edmonton,,,,,St. Albert—Edmonton,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48032-2013,Sherwood Park—Fort Saskatchewan,,,,,Sherwood Park—Fort Saskatchewan,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48033-2013,Sturgeon River—Parkland,,,,,Sturgeon River—Parkland,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48034-2013,Yellowhead,,,,,Yellowhead,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59001,Abbotsford,,,,,Abbotsford,,,,,,,
-ocd-division/country:ca/ed:59001-2013,Abbotsford,,,,,Abbotsford,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59002,Burnaby—Douglas,,,,,Burnaby—Douglas,,,,,,,
-ocd-division/country:ca/ed:59002-2013,Burnaby North—Seymour,,,,,Burnaby-Nord—Seymour,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59003,Burnaby—New Westminster,,,,,Burnaby—New Westminster,,,,,,,
-ocd-division/country:ca/ed:59003-2013,Burnaby South,,,,,Burnaby-Sud,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59004,Cariboo—Prince George,,,,,Cariboo—Prince George,,,,,,,
-ocd-division/country:ca/ed:59004-2013,Cariboo—Prince George,,,,,Cariboo—Prince George,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59005,Chilliwack—Fraser Canyon,,,,,Chilliwack—Fraser Canyon,,,,,,,
-ocd-division/country:ca/ed:59005-2013,Central Okanagan—Similkameen—Nicola,,,,,Central Okanagan—Similkameen—Nicola,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59006,Delta—Richmond East,,,,,Delta—Richmond-Est,,,,,,,
-ocd-division/country:ca/ed:59006-2013,Chilliwack—Hope,,,,,Chilliwack—Hope,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59007,Pitt Meadows—Maple Ridge—Mission,,,,,Pitt Meadows—Maple Ridge—Mission,,,,,,,
-ocd-division/country:ca/ed:59007-2013,Cloverdale—Langley City,,,,,Cloverdale—Langley City,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59008,Esquimalt—Juan de Fuca,,,,,Esquimalt—Juan de Fuca,,,,,,,
-ocd-division/country:ca/ed:59008-2013,Coquitlam—Port Coquitlam,,,,,Coquitlam—Port Coquitlam,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59009,Fleetwood—Port Kells,,,,,Fleetwood—Port Kells,,,,,,,
-ocd-division/country:ca/ed:59009-2013,Courtenay—Alberni,,,,,Courtenay—Alberni,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59010,Kamloops—Thompson—Cariboo,,,,,Kamloops—Thompson—Cariboo,,,,,,,
-ocd-division/country:ca/ed:59010-2013,Cowichan—Malahat—Langford,,,,,Cowichan—Malahat—Langford,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59011,Kelowna—Lake Country,,,,,Kelowna—Lake Country,,,,,,,
-ocd-division/country:ca/ed:59011-2013,Delta,,,,,Delta,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59012,Kootenay—Columbia,,,,,Kootenay—Columbia,,,,,,,
-ocd-division/country:ca/ed:59012-2013,Fleetwood—Port Kells,,,,,Fleetwood—Port Kells,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59013,Langley,,,,,Langley,,,,,,,
-ocd-division/country:ca/ed:59013-2013,Kamloops—Thompson—Cariboo,,,,,Kamloops—Thompson—Cariboo,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59014,Nanaimo—Alberni,,,,,Nanaimo—Alberni,,,,,,,
-ocd-division/country:ca/ed:59014-2013,Kelowna—Lake Country,,,,,Kelowna—Lake Country,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59015,Nanaimo—Cowichan,,,,,Nanaimo—Cowichan,,,,,,,
-ocd-division/country:ca/ed:59015-2013,Kootenay—Columbia,,,,,Kootenay—Columbia,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59016,Newton—North Delta,,,,,Newton—Delta-Nord,,,,,,,
-ocd-division/country:ca/ed:59016-2013,Langley—Aldergrove,,,,,Langley—Aldergrove,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59017,New Westminster—Coquitlam,,,,,New Westminster—Coquitlam,,,,,,,
-ocd-division/country:ca/ed:59017-2013,Mission—Matsqui—Fraser Canyon,,,,,Mission—Matsqui—Fraser Canyon,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59018,Okanagan—Shuswap,,,,,Okanagan—Shuswap,,,,,,,
-ocd-division/country:ca/ed:59018-2013,Nanaimo—Ladysmith,,,,,Nanaimo—Ladysmith,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59019,North Vancouver,,,,,North Vancouver,,,,,,,
-ocd-division/country:ca/ed:59019-2013,New Westminster—Burnaby,,,,,New Westminster—Burnaby,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59020,Okanagan—Coquihalla,,,,,Okanagan—Coquihalla,,,,,,,
-ocd-division/country:ca/ed:59020-2013,North Okanagan—Shuswap,,,,,North Okanagan—Shuswap,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59021,Port Moody—Westwood—Port Coquitlam,,,,,Port Moody—Westwood—Port Coquitlam,,,,,,,
-ocd-division/country:ca/ed:59021-2013,North Vancouver,,,,,North Vancouver,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59022,Prince George—Peace River,,,,,Prince George—Peace River,,,,,,,
-ocd-division/country:ca/ed:59022-2013,Pitt Meadows—Maple Ridge,,,,,Pitt Meadows—Maple Ridge,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59023,Richmond,,,,,Richmond,,,,,,,
-ocd-division/country:ca/ed:59023-2013,Port Moody—Coquitlam,,,,,Port Moody—Coquitlam,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59024,Saanich—Gulf Islands,,,,,Saanich—Gulf Islands,,,,,,,
-ocd-division/country:ca/ed:59024-2013,Prince George—Peace River—Northern Rockies,,,,,Prince George—Peace River—Northern Rockies,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59025,Skeena—Bulkley Valley,,,,,Skeena—Bulkley Valley,,,,,,,
-ocd-division/country:ca/ed:59025-2013,Richmond Centre,,,,,Richmond-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59026,British Columbia Southern Interior,,,,,Colombie-Britannique-Southern Interior,,,,,,,
-ocd-division/country:ca/ed:59026-2013,Esquimalt—Saanich—Sooke,,,,,Esquimalt—Saanich—Sooke,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59027,South Surrey—White Rock—Cloverdale,,,,,Surrey-Sud—White Rock—Cloverdale,,,,,,,
-ocd-division/country:ca/ed:59027-2013,Saanich—Gulf Islands,,,,,Saanich—Gulf Islands,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59028,Surrey North,,,,,Surrey-Nord,,,,,,,
-ocd-division/country:ca/ed:59028-2013,Skeena—Bulkley Valley,,,,,Skeena—Bulkley Valley,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59029,Vancouver Centre,,,,,Vancouver-Centre,,,,,,,
-ocd-division/country:ca/ed:59029-2013,South Okanagan—West Kootenay,,,,,Okanagan-Sud—Kootenay-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59030,Vancouver East,,,,,Vancouver-Est,,,,,,,
-ocd-division/country:ca/ed:59030-2013,South Surrey—White Rock,,,,,Surrey-Sud—White Rock,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59031,Vancouver Island North,,,,,Île de Vancouver-Nord,,,,,,,
-ocd-division/country:ca/ed:59031-2013,Steveston—Richmond East,,,,,Steveston—Richmond-Est,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59032,Vancouver Kingsway,,,,,Vancouver Kingsway,,,,,,,
-ocd-division/country:ca/ed:59032-2013,Surrey Centre,,,,,Surrey-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59033,Vancouver Quadra,,,,,Vancouver Quadra,,,,,,,
-ocd-division/country:ca/ed:59033-2013,Surrey—Newton,,,,,Surrey—Newton,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59034,Vancouver South,,,,,Vancouver-Sud,,,,,,,
-ocd-division/country:ca/ed:59034-2013,Vancouver Centre,,,,,Vancouver-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59035,Victoria,,,,,Victoria,,,,,,,
-ocd-division/country:ca/ed:59035-2013,Vancouver East,,,,,Vancouver-Est,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59036,West Vancouver—Sunshine Coast—Sea to Sky Country,,,,,West Vancouver—Sunshine Coast—Sea to Sky Country,,,,,,,
-ocd-division/country:ca/ed:59036-2013,Vancouver Granville,,,,,Vancouver Granville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59037-2013,North Island—Powell River,,,,,North Island—Powell River,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59038-2013,Vancouver Kingsway,,,,,Vancouver Kingsway,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59039-2013,Vancouver Quadra,,,,,Vancouver Quadra,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59040-2013,Vancouver South,,,,,Vancouver-Sud,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59041-2013,Victoria,,,,,Victoria,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59042-2013,West Vancouver—Sunshine Coast—Sea to Sky Country,,,,,West Vancouver—Sunshine Coast—Sea to Sky Country,,,,,,,2015-10-19
-ocd-division/country:ca/ed:60001,Yukon,,,,,Yukon,,,,,,,
-ocd-division/country:ca/ed:60001-2013,Yukon,,,,,Yukon,,,,,,,2015-10-19
-ocd-division/country:ca/ed:61001,Northwest Territories,,,,,Territoires du Nord-Ouest,,,,,,,
-ocd-division/country:ca/ed:61001-2013,Northwest Territories,,,,,Territoires du Nord-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:62001,Nunavut,,,,,Nunavut,,,,,,,
-ocd-division/country:ca/ed:62001-2013,Nunavut,,,,,Nunavut,,,,,,,2015-10-19
+ocd-division/country:ca/ed:10001,Avalon,,,,,Avalon,,,,,,,2015-10-19
+ocd-division/country:ca/ed:10002,Bonavista—Burin—Trinity,,,,,Bonavista—Burin—Trinity,,,,,,,2015-10-19
+ocd-division/country:ca/ed:10003,Coast of Bays—Central—Notre Dame,,,,,Coast of Bays—Central—Notre Dame,,,,,,,2015-10-19
+ocd-division/country:ca/ed:10004,Labrador,,,,,Labrador,,,,,,,2015-10-19
+ocd-division/country:ca/ed:10005,Long Range Mountains,,,,,Long Range Mountains,,,,,,,2015-10-19
+ocd-division/country:ca/ed:10006,St. John's East,,,,,St. John's-Est,,,,,,,2015-10-19
+ocd-division/country:ca/ed:10007,St. John's South—Mount Pearl,,,,,St. John's-Sud—Mount Pearl,,,,,,,2015-10-19
+ocd-division/country:ca/ed:11001,Cardigan,,,,,Cardigan,,,,,,,2015-10-19
+ocd-division/country:ca/ed:11002,Charlottetown,,,,,Charlottetown,,,,,,,2015-10-19
+ocd-division/country:ca/ed:11003,Egmont,,,,,Egmont,,,,,,,2015-10-19
+ocd-division/country:ca/ed:11004,Malpeque,,,,,Malpeque,,,,,,,2015-10-19
+ocd-division/country:ca/ed:12001,Cape Breton—Canso,,,,,Cape Breton—Canso,,,,,,,2015-10-19
+ocd-division/country:ca/ed:12002,Central Nova,,,,,Nova-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:12003,Cumberland—Colchester,,,,,Cumberland—Colchester,,,,,,,2015-10-19
+ocd-division/country:ca/ed:12004,Dartmouth—Cole Harbour,,,,,Dartmouth—Cole Harbour,,,,,,,2015-10-19
+ocd-division/country:ca/ed:12005,Halifax,,,,,Halifax,,,,,,,2015-10-19
+ocd-division/country:ca/ed:12006,Halifax West,,,,,Halifax-Ouest,,,,,,,2015-10-19
+ocd-division/country:ca/ed:12007,Kings—Hants,,,,,Kings—Hants,,,,,,,2015-10-19
+ocd-division/country:ca/ed:12008,Sackville—Preston—Chezzetcook,,,,,Sackville—Preston—Chezzetcook,,,,,,,2015-10-19
+ocd-division/country:ca/ed:12009,South Shore—St. Margarets,,,,,South Shore—St. Margarets,,,,,,,2015-10-19
+ocd-division/country:ca/ed:12010,Sydney—Victoria,,,,,Sydney—Victoria,,,,,,,2015-10-19
+ocd-division/country:ca/ed:12011,West Nova,,,,,Nova-Ouest,,,,,,,2015-10-19
+ocd-division/country:ca/ed:13001,Acadie—Bathurst,,,,,Acadie—Bathurst,,,,,,,2015-10-19
+ocd-division/country:ca/ed:13002,Beauséjour,,,,,Beauséjour,,,,,,,2015-10-19
+ocd-division/country:ca/ed:13003,Fredericton,,,,,Fredericton,,,,,,,2015-10-19
+ocd-division/country:ca/ed:13004,Fundy Royal,,,,,Fundy Royal,,,,,,,2015-10-19
+ocd-division/country:ca/ed:13005,Madawaska—Restigouche,,,,,Madawaska—Restigouche,,,,,,,2015-10-19
+ocd-division/country:ca/ed:13006,Miramichi—Grand Lake,,,,,Miramichi—Grand Lake,,,,,,,2015-10-19
+ocd-division/country:ca/ed:13007,Moncton—Riverview—Dieppe,,,,,Moncton—Riverview—Dieppe,,,,,,,2015-10-19
+ocd-division/country:ca/ed:13008,New Brunswick Southwest,,,,,Nouveau-Brunswick-Sud-Ouest,,,,,,,2015-10-19
+ocd-division/country:ca/ed:13009,Saint John—Rothesay,,,,,Saint John—Rothesay,,,,,,,2015-10-19
+ocd-division/country:ca/ed:13010,Tobique—Mactaquac,,,,,Tobique—Mactaquac,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24001,Abitibi—Baie-James—Nunavik—Eeyou,,,,,Abitibi—Baie-James—Nunavik—Eeyou,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24002,Abitibi—Témiscamingue,,,,,Abitibi—Témiscamingue,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24003,Ahuntsic-Cartierville,,,,,Ahuntsic-Cartierville,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24004,Alfred-Pellan,,,,,Alfred-Pellan,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24005,Argenteuil—La Petite-Nation,,,,,Argenteuil—La Petite-Nation,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24006,Avignon—La Mitis—Matane—Matapédia,,,,,Avignon—La Mitis—Matane—Matapédia,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24007,Beauce,,,,,Beauce,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24008,Beauport—Limoilou,,,,,Beauport—Limoilou,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24009,Bécancour—Nicolet—Saurel,,,,,Bécancour—Nicolet—Saurel,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24010,Bellechasse—Les Etchemins—Lévis,,,,,Bellechasse—Les Etchemins—Lévis,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24011,Beloeil—Chambly,,,,,Beloeil—Chambly,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24012,Berthier—Maskinongé,,,,,Berthier—Maskinongé,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24013,Thérèse-De Blainville,,,,,Thérèse-De Blainville,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24014,Pierre-Boucher—Les Patriotes—Verchères,,,,,Pierre-Boucher—Les Patriotes—Verchères,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24015,Bourassa,,,,,Bourassa,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24016,Brome—Missisquoi,,,,,Brome—Missisquoi,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24017,Brossard—Saint-Lambert,,,,,Brossard—Saint-Lambert,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24018,Rimouski-Neigette—Témiscouata—Les Basques,,,,,Rimouski-Neigette—Témiscouata—Les Basques,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24019,Charlesbourg—Haute-Saint-Charles,,,,,Charlesbourg—Haute-Saint-Charles,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24020,Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix,,,,,Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24021,Châteauguay—Lacolle,,,,,Châteauguay—Lacolle,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24022,Chicoutimi—Le Fjord,,,,,Chicoutimi—Le Fjord,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24023,Compton—Stanstead,,,,,Compton—Stanstead,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24024,Dorval—Lachine—LaSalle,,,,,Dorval—Lachine—LaSalle,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24025,Drummond,,,,,Drummond,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24026,Gaspésie—Les Îles-de-la-Madeleine,,,,,Gaspésie—Les Îles-de-la-Madeleine,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24027,Gatineau,,,,,Gatineau,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24028,Hochelaga,,,,,Hochelaga,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24029,Honoré-Mercier,,,,,Honoré-Mercier,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24030,Hull—Aylmer,,,,,Hull—Aylmer,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24031,Joliette,,,,,Joliette,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24032,Jonquière,,,,,Jonquière,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24033,La Pointe-de-l'Île,,,,,La Pointe-de-l'Île,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24034,La Prairie,,,,,La Prairie,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24035,Lac-Saint-Jean,,,,,Lac-Saint-Jean,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24036,Lac-Saint-Louis,,,,,Lac-Saint-Louis,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24037,LaSalle—Émard—Verdun,,,,,LaSalle—Émard—Verdun,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24038,Laurentides—Labelle,,,,,Laurentides—Labelle,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24039,Laurier—Sainte-Marie,,,,,Laurier—Sainte-Marie,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24040,Laval—Les Îles,,,,,Laval—Les Îles,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24041,Longueuil—Charles-LeMoyne,,,,,Longueuil—Charles-LeMoyne,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24042,Lévis—Lotbinière,,,,,Lévis—Lotbinière,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24043,Longueuil—Saint-Hubert,,,,,Longueuil—Saint-Hubert,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24044,Louis-Hébert,,,,,Louis-Hébert,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24045,Louis-Saint-Laurent,,,,,Louis-Saint-Laurent,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24046,Manicouagan,,,,,Manicouagan,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24047,Mégantic—L'Érable,,,,,Mégantic—L'Érable,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24048,Mirabel,,,,,Mirabel,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24049,Montarville,,,,,Montarville,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24050,Montcalm,,,,,Montcalm,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24051,Montmagny—L'Islet—Kamouraska—Rivière-du-Loup,,,,,Montmagny—L'Islet—Kamouraska—Rivière-du-Loup,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24052,Mount Royal,,,,,Mont-Royal,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24053,Notre-Dame-de-Grâce—Westmount,,,,,Notre-Dame-de-Grâce—Westmount,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24054,Outremont,,,,,Outremont,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24055,Papineau,,,,,Papineau,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24056,Pierrefonds—Dollard,,,,,Pierrefonds—Dollard,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24057,Pontiac,,,,,Pontiac,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24058,Portneuf—Jacques-Cartier,,,,,Portneuf—Jacques-Cartier,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24059,Québec,,,,,Québec,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24060,Repentigny,,,,,Repentigny,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24061,Richmond—Arthabaska,,,,,Richmond—Arthabaska,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24062,Rivière-des-Mille-Îles,,,,,Rivière-des-Mille-Îles,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24063,Rivière-du-Nord,,,,,Rivière-du-Nord,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24064,Rosemont—La Petite-Patrie,,,,,Rosemont—La Petite-Patrie,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24065,Marc-Aurèle-Fortin,,,,,Marc-Aurèle-Fortin,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24066,Saint-Hyacinthe—Bagot,,,,,Saint-Hyacinthe—Bagot,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24067,Saint-Jean,,,,,Saint-Jean,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24068,Saint-Laurent,,,,,Saint-Laurent,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24069,Saint-Léonard—Saint-Michel,,,,,Saint-Léonard—Saint-Michel,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24070,Saint-Maurice—Champlain,,,,,Saint-Maurice—Champlain,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24071,Salaberry—Suroît,,,,,Salaberry—Suroît,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24072,Shefford,,,,,Shefford,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24073,Sherbrooke,,,,,Sherbrooke,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24074,Vaudreuil—Soulanges,,,,,Vaudreuil—Soulanges,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24075,Terrebonne,,,,,Terrebonne,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24076,Trois-Rivières,,,,,Trois-Rivières,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24077,Ville-Marie—Le Sud-Ouest—Île-des-Soeurs,,,,,Ville-Marie—Le Sud-Ouest—Île-des-Soeurs,,,,,,,2015-10-19
+ocd-division/country:ca/ed:24078,Vimy,,,,,Vimy,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35001,Ajax,,,,,Ajax,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35002,Algoma—Manitoulin—Kapuskasing,,,,,Algoma—Manitoulin—Kapuskasing,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35003,Aurora—Oak Ridges—Richmond Hill,,,,,Aurora—Oak Ridges—Richmond Hill,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35004,Barrie—Innisfil,,,,,Barrie—Innisfil,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35005,Barrie—Springwater—Oro-Medonte,,,,,Barrie—Springwater—Oro-Medonte,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35006,Bay of Quinte,,,,,Baie de Quinte,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35007,Beaches—East York,,,,,Beaches—East York,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35008,Brampton Centre,,,,,Brampton-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35009,Brampton East,,,,,Brampton-Est,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35010,Brampton North,,,,,Brampton-Nord,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35011,Brampton South,,,,,Brampton-Sud,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35012,Brampton West,,,,,Brampton-Ouest,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35013,Brantford—Brant,,,,,Brantford—Brant,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35014,Bruce—Grey—Owen Sound,,,,,Bruce—Grey—Owen Sound,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35015,Burlington,,,,,Burlington,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35016,Cambridge,,,,,Cambridge,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35017,Chatham-Kent—Leamington,,,,,Chatham-Kent—Leamington,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35018,Davenport,,,,,Davenport,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35019,Don Valley East,,,,,Don Valley-Est,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35020,Don Valley North,,,,,Don Valley-Nord,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35021,Don Valley West,,,,,Don Valley-Ouest,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35022,Dufferin—Caledon,,,,,Dufferin—Caledon,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35023,Durham,,,,,Durham,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35024,Eglinton—Lawrence,,,,,Eglinton—Lawrence,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35025,Elgin—Middlesex—London,,,,,Elgin—Middlesex—London,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35026,Essex,,,,,Essex,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35027,Etobicoke Centre,,,,,Etobicoke-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35028,Etobicoke—Lakeshore,,,,,Etobicoke—Lakeshore,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35029,Etobicoke North,,,,,Etobicoke-Nord,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35030,Flamborough—Glanbrook,,,,,Flamborough—Glanbrook,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35031,Glengarry—Prescott—Russell,,,,,Glengarry—Prescott—Russell,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35032,Guelph,,,,,Guelph,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35033,Haldimand—Norfolk,,,,,Haldimand—Norfolk,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35034,Haliburton—Kawartha Lakes—Brock,,,,,Haliburton—Kawartha Lakes—Brock,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35035,Hamilton Centre,,,,,Hamilton-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35036,Hamilton East—Stoney Creek,,,,,Hamilton-Est—Stoney Creek,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35037,Hamilton Mountain,,,,,Hamilton Mountain,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35038,Hamilton West—Ancaster—Dundas,,,,,Hamilton-Ouest—Ancaster—Dundas,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35039,Hastings—Lennox and Addington,,,,,Hastings—Lennox and Addington,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35040,Huron—Bruce,,,,,Huron—Bruce,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35041,Kanata—Carleton,,,,,Kanata—Carleton,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35042,Kenora,,,,,Kenora,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35043,King—Vaughan,,,,,King—Vaughan,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35044,Kingston and the Islands,,,,,Kingston et les Îles,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35045,Kitchener Centre,,,,,Kitchener-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35046,Kitchener—Conestoga,,,,,Kitchener—Conestoga,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35047,Kitchener South—Hespeler,,,,,Kitchener-Sud—Hespeler,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35048,Lambton—Kent—Middlesex,,,,,Lambton—Kent—Middlesex,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35049,Lanark—Frontenac—Kingston,,,,,Lanark—Frontenac—Kingston,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35050,Leeds—Grenville—Thousand Islands and Rideau Lakes,,,,,Leeds—Grenville—Thousand Islands et Rideau Lakes,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35051,London—Fanshawe,,,,,London—Fanshawe,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35052,London North Centre,,,,,London-Centre-Nord,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35053,London West,,,,,London-Ouest,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35054,Markham—Stouffville,,,,,Markham—Stouffville,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35055,Markham—Thornhill,,,,,Markham—Thornhill,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35056,Markham—Unionville,,,,,Markham—Unionville,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35057,Milton,,,,,Milton,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35058,Mississauga Centre,,,,,Mississauga-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35059,Mississauga East—Cooksville,,,,,Mississauga-Est—Cooksville,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35060,Mississauga—Erin Mills,,,,,Mississauga—Erin Mills,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35061,Mississauga—Lakeshore,,,,,Mississauga—Lakeshore,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35062,Mississauga—Malton,,,,,Mississauga—Malton,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35063,Mississauga—Streetsville,,,,,Mississauga—Streetsville,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35064,Nepean,,,,,Nepean,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35065,Newmarket—Aurora,,,,,Newmarket—Aurora,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35066,Niagara Centre,,,,,Niagara-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35067,Niagara Falls,,,,,Niagara Falls,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35068,Niagara West,,,,,Niagara-Ouest,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35069,Nickel Belt,,,,,Nickel Belt,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35070,Nipissing—Timiskaming,,,,,Nipissing—Timiskaming,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35071,Northumberland—Peterborough South,,,,,Northumberland—Peterborough-Sud,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35072,Oakville,,,,,Oakville,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35073,Oakville North—Burlington,,,,,Oakville-Nord—Burlington,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35074,Oshawa,,,,,Oshawa,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35075,Ottawa Centre,,,,,Ottawa-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35076,Orléans,,,,,Orléans,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35077,Ottawa South,,,,,Ottawa-Sud,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35078,Ottawa—Vanier,,,,,Ottawa—Vanier,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35079,Ottawa West—Nepean,,,,,Ottawa-Ouest—Nepean,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35080,Oxford,,,,,Oxford,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35081,Parkdale—High Park,,,,,Parkdale—High Park,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35082,Parry Sound—Muskoka,,,,,Parry Sound—Muskoka,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35083,Perth—Wellington,,,,,Perth—Wellington,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35084,Peterborough—Kawartha,,,,,Peterborough—Kawartha,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35085,Pickering—Uxbridge,,,,,Pickering—Uxbridge,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35086,Renfrew—Nipissing—Pembroke,,,,,Renfrew—Nipissing—Pembroke,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35087,Richmond Hill,,,,,Richmond Hill,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35088,Carleton,,,,,Carleton,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35089,St. Catharines,,,,,St. Catharines,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35090,Toronto—St. Paul's,,,,,Toronto—St. Paul's,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35091,Sarnia—Lambton,,,,,Sarnia—Lambton,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35092,Sault Ste. Marie,,,,,Sault Ste. Marie,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35093,Scarborough—Agincourt,,,,,Scarborough—Agincourt,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35094,Scarborough Centre,,,,,Scarborough-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35095,Scarborough—Guildwood,,,,,Scarborough—Guildwood,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35096,Scarborough North,,,,,Scarborough-Nord,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35097,Scarborough—Rouge Park,,,,,Scarborough—Rouge Park,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35098,Scarborough Southwest,,,,,Scarborough-Sud-Ouest,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35099,Simcoe—Grey,,,,,Simcoe—Grey,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35100,Simcoe North,,,,,Simcoe-Nord,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35101,Spadina—Fort York,,,,,Spadina—Fort York,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35102,Stormont—Dundas—South Glengarry,,,,,Stormont—Dundas—South Glengarry,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35103,Sudbury,,,,,Sudbury,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35104,Thornhill,,,,,Thornhill,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35105,Thunder Bay—Rainy River,,,,,Thunder Bay—Rainy River,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35106,Thunder Bay—Superior North,,,,,Thunder Bay—Supérieur-Nord,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35107,Timmins—James Bay,,,,,Timmins—Baie James,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35108,Toronto Centre,,,,,Toronto-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35109,Toronto—Danforth,,,,,Toronto—Danforth,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35110,University—Rosedale,,,,,University—Rosedale,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35111,Vaughan—Woodbridge,,,,,Vaughan—Woodbridge,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35112,Waterloo,,,,,Waterloo,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35113,Wellington—Halton Hills,,,,,Wellington—Halton Hills,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35114,Whitby,,,,,Whitby,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35115,Willowdale,,,,,Willowdale,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35116,Windsor—Tecumseh,,,,,Windsor—Tecumseh,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35117,Windsor West,,,,,Windsor-Ouest,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35118,York Centre,,,,,York-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35119,York—Simcoe,,,,,York—Simcoe,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35120,York South—Weston,,,,,York-Sud—Weston,,,,,,,2015-10-19
+ocd-division/country:ca/ed:35121,Humber River—Black Creek,,,,,Humber River—Black Creek,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46001,Brandon—Souris,,,,,Brandon—Souris,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46002,Charleswood—St. James—Assiniboia—Headingley,,,,,Charleswood—St. James—Assiniboia—Headingley,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46003,Churchill—Keewatinook Aski,,,,,Churchill—Keewatinook Aski,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46004,Dauphin—Swan River—Neepawa,,,,,Dauphin—Swan River—Neepawa,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46005,Elmwood—Transcona,,,,,Elmwood—Transcona,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46006,Kildonan—St. Paul,,,,,Kildonan—St. Paul,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46007,Portage—Lisgar,,,,,Portage—Lisgar,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46008,Provencher,,,,,Provencher,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46009,Saint Boniface—Saint Vital,,,,,Saint-Boniface—Saint-Vital,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46010,Selkirk—Interlake—Eastman,,,,,Selkirk—Interlake—Eastman,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46011,Winnipeg Centre,,,,,Winnipeg-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46012,Winnipeg North,,,,,Winnipeg-Nord,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46013,Winnipeg South,,,,,Winnipeg-Sud,,,,,,,2015-10-19
+ocd-division/country:ca/ed:46014,Winnipeg South Centre,,,,,Winnipeg-Centre-Sud,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47001,Battlefords—Lloydminster,,,,,Battlefords—Lloydminster,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47002,Cypress Hills—Grasslands,,,,,Cypress Hills—Grasslands,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47003,Desnethé—Missinippi—Churchill River,,,,,Desnethé—Missinippi—Rivière Churchill,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47004,Carlton Trail—Eagle Creek,,,,,Sentier Carlton—Eagle Creek,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47005,Moose Jaw—Lake Centre—Lanigan,,,,,Moose Jaw—Lake Centre—Lanigan,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47006,Prince Albert,,,,,Prince Albert,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47007,Regina—Lewvan,,,,,Regina—Lewvan,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47008,Regina—Qu'Appelle,,,,,Regina—Qu'Appelle,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47009,Regina—Wascana,,,,,Regina—Wascana,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47010,Saskatoon—Grasswood,,,,,Saskatoon—Grasswood,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47011,Saskatoon—University,,,,,Saskatoon—University,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47012,Saskatoon West,,,,,Saskatoon-Ouest,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47013,Souris—Moose Mountain,,,,,Souris—Moose Mountain,,,,,,,2015-10-19
+ocd-division/country:ca/ed:47014,Yorkton—Melville,,,,,Yorkton—Melville,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48001,Banff—Airdrie,,,,,Banff—Airdrie,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48002,Battle River—Crowfoot,,,,,Battle River—Crowfoot,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48003,Bow River,,,,,Bow River,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48004,Calgary Centre,,,,,Calgary-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48005,Calgary Confederation,,,,,Calgary Confederation,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48006,Calgary Forest Lawn,,,,,Calgary Forest Lawn,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48007,Calgary Heritage,,,,,Calgary Heritage,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48008,Calgary Midnapore,,,,,Calgary Midnapore,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48009,Calgary Nose Hill,,,,,Calgary Nose Hill,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48010,Calgary Rocky Ridge,,,,,Calgary Rocky Ridge,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48011,Calgary Shepard,,,,,Calgary Shepard,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48012,Calgary Signal Hill,,,,,Calgary Signal Hill,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48013,Calgary Skyview,,,,,Calgary Skyview,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48014,Edmonton Centre,,,,,Edmonton-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48015,Edmonton Griesbach,,,,,Edmonton Griesbach,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48016,Edmonton Manning,,,,,Edmonton Manning,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48017,Edmonton Mill Woods,,,,,Edmonton Mill Woods,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48018,Edmonton Riverbend,,,,,Edmonton Riverbend,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48019,Edmonton Strathcona,,,,,Edmonton Strathcona,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48020,Edmonton West,,,,,Edmonton-Ouest,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48021,Edmonton—Wetaskiwin,,,,,Edmonton—Wetaskiwin,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48022,Foothills,,,,,Foothills,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48023,Fort McMurray—Cold Lake,,,,,Fort McMurray—Cold Lake,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48024,Grande Prairie—Mackenzie,,,,,Grande Prairie—Mackenzie,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48025,Lakeland,,,,,Lakeland,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48026,Lethbridge,,,,,Lethbridge,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48027,Medicine Hat—Cardston—Warner,,,,,Medicine Hat—Cardston—Warner,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48028,Peace River—Westlock,,,,,Peace River—Westlock,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48029,Red Deer—Mountain View,,,,,Red Deer—Mountain View,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48030,Red Deer—Lacombe,,,,,Red Deer—Lacombe,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48031,St. Albert—Edmonton,,,,,St. Albert—Edmonton,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48032,Sherwood Park—Fort Saskatchewan,,,,,Sherwood Park—Fort Saskatchewan,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48033,Sturgeon River—Parkland,,,,,Sturgeon River—Parkland,,,,,,,2015-10-19
+ocd-division/country:ca/ed:48034,Yellowhead,,,,,Yellowhead,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59001,Abbotsford,,,,,Abbotsford,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59002,Burnaby North—Seymour,,,,,Burnaby-Nord—Seymour,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59003,Burnaby South,,,,,Burnaby-Sud,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59004,Cariboo—Prince George,,,,,Cariboo—Prince George,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59005,Central Okanagan—Similkameen—Nicola,,,,,Central Okanagan—Similkameen—Nicola,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59006,Chilliwack—Hope,,,,,Chilliwack—Hope,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59007,Cloverdale—Langley City,,,,,Cloverdale—Langley City,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59008,Coquitlam—Port Coquitlam,,,,,Coquitlam—Port Coquitlam,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59009,Courtenay—Alberni,,,,,Courtenay—Alberni,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59010,Cowichan—Malahat—Langford,,,,,Cowichan—Malahat—Langford,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59011,Delta,,,,,Delta,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59012,Fleetwood—Port Kells,,,,,Fleetwood—Port Kells,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59013,Kamloops—Thompson—Cariboo,,,,,Kamloops—Thompson—Cariboo,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59014,Kelowna—Lake Country,,,,,Kelowna—Lake Country,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59015,Kootenay—Columbia,,,,,Kootenay—Columbia,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59016,Langley—Aldergrove,,,,,Langley—Aldergrove,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59017,Mission—Matsqui—Fraser Canyon,,,,,Mission—Matsqui—Fraser Canyon,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59018,Nanaimo—Ladysmith,,,,,Nanaimo—Ladysmith,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59019,New Westminster—Burnaby,,,,,New Westminster—Burnaby,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59020,North Okanagan—Shuswap,,,,,North Okanagan—Shuswap,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59021,North Vancouver,,,,,North Vancouver,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59022,Pitt Meadows—Maple Ridge,,,,,Pitt Meadows—Maple Ridge,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59023,Port Moody—Coquitlam,,,,,Port Moody—Coquitlam,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59024,Prince George—Peace River—Northern Rockies,,,,,Prince George—Peace River—Northern Rockies,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59025,Richmond Centre,,,,,Richmond-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59026,Esquimalt—Saanich—Sooke,,,,,Esquimalt—Saanich—Sooke,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59027,Saanich—Gulf Islands,,,,,Saanich—Gulf Islands,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59028,Skeena—Bulkley Valley,,,,,Skeena—Bulkley Valley,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59029,South Okanagan—West Kootenay,,,,,Okanagan-Sud—Kootenay-Ouest,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59030,South Surrey—White Rock,,,,,Surrey-Sud—White Rock,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59031,Steveston—Richmond East,,,,,Steveston—Richmond-Est,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59032,Surrey Centre,,,,,Surrey-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59033,Surrey—Newton,,,,,Surrey—Newton,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59034,Vancouver Centre,,,,,Vancouver-Centre,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59035,Vancouver East,,,,,Vancouver-Est,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59036,Vancouver Granville,,,,,Vancouver Granville,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59037,North Island—Powell River,,,,,North Island—Powell River,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59038,Vancouver Kingsway,,,,,Vancouver Kingsway,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59039,Vancouver Quadra,,,,,Vancouver Quadra,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59040,Vancouver South,,,,,Vancouver-Sud,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59041,Victoria,,,,,Victoria,,,,,,,2015-10-19
+ocd-division/country:ca/ed:59042,West Vancouver—Sunshine Coast—Sea to Sky Country,,,,,West Vancouver—Sunshine Coast—Sea to Sky Country,,,,,,,2015-10-19
+ocd-division/country:ca/ed:60001,Yukon,,,,,Yukon,,,,,,,2015-10-19
+ocd-division/country:ca/ed:61001,Northwest Territories,,,,,Territoires du Nord-Ouest,,,,,,,2015-10-19
+ocd-division/country:ca/ed:62001,Nunavut,,,,,Nunavut,,,,,,,2015-10-19
 ocd-division/country:ca/province:ab,Alberta,Alta.,Alb.,,,Alberta,,,,,48,,
 ocd-division/country:ca/province:ab/ed:1,Dunvegan-Central Peace-Notley,,,,,,,,,,,,
 ocd-division/country:ca/province:ab/ed:1-2017,Calgary-Acadia,,,,,,,,,,,,2019-05-31
