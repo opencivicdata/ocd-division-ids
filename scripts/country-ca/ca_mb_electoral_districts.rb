@@ -41,8 +41,8 @@ class MB < Runner
     args = [
       "province:mb/ed:",
       {
-        :id => lambda{|record| "#{record.attributes["ED"].force_encoding("iso-8859-1").encode("utf-8")}-2018"},
-        :name => lambda{|record| record.attributes["ED"].force_encoding("iso-8859-1").encode("utf-8")},
+        :id => lambda{|record| "#{record.attributes["ED"].force_encoding("utf-8").encode("utf-8")}-2018"},
+        :name => lambda{|record| record.attributes["ED"].force_encoding("utf-8").encode("utf-8")},
         :validFrom => lambda{|record| "2019-09-10"},
       },
       nil,
