@@ -37,6 +37,25 @@ class MB < Runner
     end
   end
 
+  def names_2018
+    args = [
+      "province:mb/ed:",
+      {
+        :name => lambda{|record| "#{record.attributes["ED"].force_encoding("iso-8859-1").encode("utf-8")}-2018"},
+        :validFrom => lambda{|record| "2019-09-10"},
+      },
+      nil,
+      {ssl_verify_mode: OpenSSL::SSL::VERIFY_NONE},
+    ]
+
+    ShapefileParser.new(
+      "https://www.electionsmanitoba.ca/downloads/2018_Final_ED_Manitoba_Public_Urban.zip", *args
+    ).run
+    ShapefileParser.new(
+      "https://www.electionsmanitoba.ca/downloads/2018_Final_ED_Winnipeg_Public_Urban.zip", *args
+    ).run(write_headers: false)
+  end
+
 private
 
   def rows(infix)

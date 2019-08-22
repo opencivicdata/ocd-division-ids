@@ -159,11 +159,14 @@ class ShapefileParser
   # @option mappings [String] :name the attribute for the canonical name
   # @option mappings [String] :name_fr the attribute for the French name
   # @option mappings [String] :identifier the attribute for an alternate identifier
-  def initialize(url, prefix, mappings, filter=nil)
+  # @param [Proc] filter a filter of shapefile records
+  # @param [Integer] open_uri_params any open-uri parameters
+  def initialize(url, prefix, mappings, filter=nil, open_uri_parameters=nil)
     @url = url
     @prefix = prefix
     @mappings = mappings
     @filter = filter || lambda {|record| true}
+    @open_uri_parameters = open_uri_parameters || {}
   end
 
   # Outputs identifiers in CSV format.
@@ -178,7 +181,7 @@ class ShapefileParser
       puts CSV.generate_line(headers)
     end
 
-    Zip::File.open(open(@url)) do |zipfile|
+    Zip::File.open(open(@url, @open_uri_parameters)) do |zipfile|
       entry = zipfile.entries.find{|entry| File.extname(entry.name) == ".dbf"}
       if entry
         DBF::Table.new(StringIO.new(zipfile.read(entry))).select do |record|
