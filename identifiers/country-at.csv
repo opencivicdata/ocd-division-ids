@@ -1,50 +1,1 @@
-id,name
-ocd-division/country:at,Österreich
-ocd-division/country:at/state:burgenland,Burgenland
-ocd-division/country:at/state:kärnten,Kärnten
-ocd-division/country:at/state:niederösterreich,Niederösterreich
-ocd-division/country:at/state:oberösterreich,Oberösterreich
-ocd-division/country:at/state:salzburg,Salzburg
-ocd-division/country:at/state:steiermark,Steiermark
-ocd-division/country:at/state:tirol,Tirol
-ocd-division/country:at/state:vorarlberg,Vorarlberg
-ocd-division/country:at/state:wien,Wien
-ocd-division/country:at/state:burgenland/cd:burgenland_nord,Burgenland Nord
-ocd-division/country:at/state:burgenland/cd:burgenland_süd,Burgenland Süd
-ocd-division/country:at/state:kärnten/cd:klagenfurt,Klagenfurt
-ocd-division/country:at/state:kärnten/cd:villach,Villach
-ocd-division/country:at/state:kärnten/cd:kärnten_west,Kärnten West
-ocd-division/country:at/state:kärnten/cd:kärnten_ost,Kärnten Ost
-ocd-division/country:at/state:niederösterreich/cd:weinviertel,Weinviertel
-ocd-division/country:at/state:niederösterreich/cd:waldviertel,Waldviertel
-ocd-division/country:at/state:niederösterreich/cd:mostviertel,Mostviertel
-ocd-division/country:at/state:niederösterreich/cd:niederösterreich_mitte,Niederösterreich Mitte
-ocd-division/country:at/state:niederösterreich/cd:niederösterreich_süd,Niederösterreich Süd
-ocd-division/country:at/state:niederösterreich/cd:thermenregion,Thermenregion
-ocd-division/country:at/state:niederösterreich/cd:niederösterreich_ost,Niederösterreich Ost
-ocd-division/country:at/state:oberösterreich/cd:linz_und_umgebung,Linz und Umgebung
-ocd-division/country:at/state:oberösterreich/cd:innviertel,Innviertel
-ocd-division/country:at/state:oberösterreich/cd:hausruckviertel,Hausruckviertel
-ocd-division/country:at/state:oberösterreich/cd:traunviertel,Traunviertel
-ocd-division/country:at/state:oberösterreich/cd:mühlviertel,Mühlviertel
-ocd-division/country:at/state:salzburg/cd:salzburg_stadt,Salzburg Stadt
-ocd-division/country:at/state:salzburg/cd:flachgau~tennengau,Flachgau/Tennengau
-ocd-division/country:at/state:salzburg/cd:lungau~pinzgau~pongau,Lungau/Pinzgau/Pongau
-ocd-division/country:at/state:steiermark/cd:graz_und_umgebung,Graz und Umgebung
-ocd-division/country:at/state:steiermark/cd:oststeiermark,Oststeiermark
-ocd-division/country:at/state:steiermark/cd:weststeiermark,Weststeiermark
-ocd-division/country:at/state:steiermark/cd:obersteiermark,Obersteiermark
-ocd-division/country:at/state:tirol/cd:innsbruck,Innsbruck
-ocd-division/country:at/state:tirol/cd:innsbruck_land,Innsbruck-Land
-ocd-division/country:at/state:tirol/cd:uterland,Unterland
-ocd-division/country:at/state:tirol/cd:oberland,Oberland
-ocd-division/country:at/state:tirol/cd:osttirol,Osttirol
-ocd-division/country:at/state:vorarlberg/cd:vorarlberg_nord,Vorarlberg Nord
-ocd-division/country:at/state:vorarlberg/cd:vorarlberg_süd,Vorarlberg Süd
-ocd-division/country:at/state:wien/cd:wien_innen-süd,Wien Innen-Süd
-ocd-division/country:at/state:wien/cd:wien_innen-west,Wien Innen-West
-ocd-division/country:at/state:wien/cd:wien_innen-ost,Wien Innen-Ost
-ocd-division/country:at/state:wien/cd:wien_süd,Wien Süd
-ocd-division/country:at/state:wien/cd:wien_süd-west,Wien Süd-West
-ocd-division/country:at/state:wien/cd:wien_nord-west,Wien Nord-West
-ocd-division/country:at/state:wien/cd:wien_nord,Wien Nord
+id,nameocd-division/country:at,Österreichocd-division/country:at/state:burgenland,Burgenlandocd-division/country:at/state:burgenland/cd:burgenland_nord,Burgenland Nordocd-division/country:at/state:burgenland/cd:burgenland_süd,Burgenland Südocd-division/country:at/state:kärnten,Kärntenocd-division/country:at/state:kärnten/cd:klagenfurt,Klagenfurtocd-division/country:at/state:kärnten/cd:kärnten_ost,Kärnten Ostocd-division/country:at/state:kärnten/cd:kärnten_west,Kärnten Westocd-division/country:at/state:kärnten/cd:villach,Villachocd-division/country:at/state:niederösterreich,Niederösterreichocd-division/country:at/state:niederösterreich/cd:mostviertel,Mostviertelocd-division/country:at/state:niederösterreich/cd:niederösterreich_mitte,Niederösterreich Mitteocd-division/country:at/state:niederösterreich/cd:niederösterreich_ost,Niederösterreich Ostocd-division/country:at/state:niederösterreich/cd:niederösterreich_süd,Niederösterreich Südocd-division/country:at/state:niederösterreich/cd:thermenregion,Thermenregionocd-division/country:at/state:niederösterreich/cd:waldviertel,Waldviertelocd-division/country:at/state:niederösterreich/cd:weinviertel,Weinviertelocd-division/country:at/state:oberösterreich,Oberösterreichocd-division/country:at/state:oberösterreich/cd:hausruckviertel,Hausruckviertelocd-division/country:at/state:oberösterreich/cd:innviertel,Innviertelocd-division/country:at/state:oberösterreich/cd:linz_und_umgebung,Linz und Umgebungocd-division/country:at/state:oberösterreich/cd:mühlviertel,Mühlviertelocd-division/country:at/state:oberösterreich/cd:traunviertel,Traunviertelocd-division/country:at/state:salzburg,Salzburgocd-division/country:at/state:salzburg/cd:flachgau~tennengau,Flachgau/Tennengauocd-division/country:at/state:salzburg/cd:lungau~pinzgau~pongau,Lungau/Pinzgau/Pongauocd-division/country:at/state:salzburg/cd:salzburg_stadt,Salzburg Stadtocd-division/country:at/state:steiermark,Steiermarkocd-division/country:at/state:steiermark/cd:graz_und_umgebung,Graz und Umgebungocd-division/country:at/state:steiermark/cd:obersteiermark,Obersteiermarkocd-division/country:at/state:steiermark/cd:oststeiermark,Oststeiermarkocd-division/country:at/state:steiermark/cd:weststeiermark,Weststeiermarkocd-division/country:at/state:tirol,Tirolocd-division/country:at/state:tirol/cd:innsbruck,Innsbruckocd-division/country:at/state:tirol/cd:innsbruck_land,Innsbruck-Landocd-division/country:at/state:tirol/cd:oberland,Oberlandocd-division/country:at/state:tirol/cd:osttirol,Osttirolocd-division/country:at/state:tirol/cd:uterland,Unterlandocd-division/country:at/state:vorarlberg,Vorarlbergocd-division/country:at/state:vorarlberg/cd:vorarlberg_nord,Vorarlberg Nordocd-division/country:at/state:vorarlberg/cd:vorarlberg_süd,Vorarlberg Südocd-division/country:at/state:wien,Wienocd-division/country:at/state:wien/cd:wien_innen-ost,Wien Innen-Ostocd-division/country:at/state:wien/cd:wien_innen-süd,Wien Innen-Südocd-division/country:at/state:wien/cd:wien_innen-west,Wien Innen-Westocd-division/country:at/state:wien/cd:wien_nord,Wien Nordocd-division/country:at/state:wien/cd:wien_nord-west,Wien Nord-Westocd-division/country:at/state:wien/cd:wien_süd,Wien Südocd-division/country:at/state:wien/cd:wien_süd-west,Wien Süd-West
