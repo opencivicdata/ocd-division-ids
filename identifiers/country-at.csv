@@ -1,0 +1,50 @@
+id,name
+ocd-division/country:at,Österreich
+ocd-division/country:at/state:bu,Burgenland
+ocd-division/country:at/state:bu/cd:burgenland_nord,Burgenland Nord
+ocd-division/country:at/state:bu/cd:burgenland_süd,Burgenland Süd
+ocd-division/country:at/state:ka,Kärnten
+ocd-division/country:at/state:ka/cd:klagenfurt,Klagenfurt
+ocd-division/country:at/state:ka/cd:kärnten_ost,Kärnten Ost
+ocd-division/country:at/state:ka/cd:kärnten_west,Kärnten West
+ocd-division/country:at/state:ka/cd:villach,Villach
+ocd-division/country:at/state:no,Niederösterreich
+ocd-division/country:at/state:no/cd:mostviertel,Mostviertel
+ocd-division/country:at/state:no/cd:niederösterreich_mitte,Niederösterreich Mitte
+ocd-division/country:at/state:no/cd:niederösterreich_ost,Niederösterreich Ost
+ocd-division/country:at/state:no/cd:niederösterreich_süd,Niederösterreich Süd
+ocd-division/country:at/state:no/cd:thermenregion,Thermenregion
+ocd-division/country:at/state:no/cd:waldviertel,Waldviertel
+ocd-division/country:at/state:no/cd:weinviertel,Weinviertel
+ocd-division/country:at/state:oo,Oberösterreich
+ocd-division/country:at/state:oo/cd:hausruckviertel,Hausruckviertel
+ocd-division/country:at/state:oo/cd:innviertel,Innviertel
+ocd-division/country:at/state:oo/cd:linz_und_umgebung,Linz und Umgebung
+ocd-division/country:at/state:oo/cd:mühlviertel,Mühlviertel
+ocd-division/country:at/state:oo/cd:traunviertel,Traunviertel
+ocd-division/country:at/state:st,Steiermark
+ocd-division/country:at/state:st/cd:graz_und_umgebung,Graz und Umgebung
+ocd-division/country:at/state:st/cd:obersteiermark,Obersteiermark
+ocd-division/country:at/state:st/cd:oststeiermark,Oststeiermark
+ocd-division/country:at/state:st/cd:weststeiermark,Weststeiermark
+ocd-division/country:at/state:sz,Salzburg
+ocd-division/country:at/state:sz/cd:flachgau~tennengau,Flachgau/Tennengau
+ocd-division/country:at/state:sz/cd:lungau~pinzgau~pongau,Lungau/Pinzgau/Pongau
+ocd-division/country:at/state:sz/cd:salzburg_stadt,Salzburg Stadt
+ocd-division/country:at/state:tr,Tirol
+ocd-division/country:at/state:tr/cd:innsbruck,Innsbruck
+ocd-division/country:at/state:tr/cd:innsbruck_land,Innsbruck-Land
+ocd-division/country:at/state:tr/cd:oberland,Oberland
+ocd-division/country:at/state:tr/cd:osttirol,Osttirol
+ocd-division/country:at/state:tr/cd:uterland,Unterland
+ocd-division/country:at/state:vo,Vorarlberg
+ocd-division/country:at/state:vo/cd:vorarlberg_nord,Vorarlberg Nord
+ocd-division/country:at/state:vo/cd:vorarlberg_süd,Vorarlberg Süd
+ocd-division/country:at/state:wi,Wien
+ocd-division/country:at/state:wi/cd:wien_innen-ost,Wien Innen-Ost
+ocd-division/country:at/state:wi/cd:wien_innen-süd,Wien Innen-Süd
+ocd-division/country:at/state:wi/cd:wien_innen-west,Wien Innen-West
+ocd-division/country:at/state:wi/cd:wien_nord,Wien Nord
+ocd-division/country:at/state:wi/cd:wien_nord-west,Wien Nord-West
+ocd-division/country:at/state:wi/cd:wien_süd,Wien Süd
+ocd-division/country:at/state:wi/cd:wien_süd-west,Wien Süd-West
