@@ -1,24 +1,24 @@
 id,name
-ocd-division/country:pt,República Portuguesa
-ocd-division/country:pt/city:aveiro,Aveiro
-ocd-division/country:pt/city:beja,Beja
-ocd-division/country:pt/city:braga,Braga
-ocd-division/country:pt/city:bragança,Bragança
-ocd-division/country:pt/city:coimbra,Coimbra
-ocd-division/country:pt/city:guarda,Guarda
-ocd-division/country:pt/city:leiria,Leiria
-ocd-division/country:pt/city:lisboa,Lisboa
-ocd-division/country:pt/city:porto,Porto
-ocd-division/country:pt/city:santarém,Santarém
-ocd-division/country:pt/city:setúbal,Setúbal
-ocd-division/country:pt/city:vila_real,Vila Real
-ocd-division/country:pt/city:viseu,Viseu
-ocd-division/country:pt/city:évora,Évora
-ocd-division/country:pt/congressional:europa,Europa
-ocd-division/country:pt/congressional:fora_da_europa,Fora da Europa
-ocd-division/country:pt/state:castelo_branco,Castelo Branco
-ocd-division/country:pt/state:faro,Faro
-ocd-division/country:pt/state:portalegre,Portalegre
-ocd-division/country:pt/state:região_autónoma_da_madeira,Região Autónoma da Madeira
-ocd-division/country:pt/state:região_autónoma_dos_açores,Região Autónoma dos Açores
-ocd-division/country:pt/state:viana_do_castelo,Viana do Castelo
+ocd-division/country:pt,Portugal
+ocd-division/country:pt/autonomous_region:acores,Região Autónoma dos Açores
+ocd-division/country:pt/autonomous_region:ma,Região Autónoma da Madeira
+ocd-division/country:pt/cd:europa,Europa
+ocd-division/country:pt/cd:fora_da_europa,Fora da Europa
+ocd-division/country:pt/region:av,Aveiro
+ocd-division/country:pt/region:ba,Bragança
+ocd-division/country:pt/region:be,Beja
+ocd-division/country:pt/region:br,Braga
+ocd-division/country:pt/region:cb,Castelo Branco
+ocd-division/country:pt/region:co,Coimbra
+ocd-division/country:pt/region:ev,Évora
+ocd-division/country:pt/region:fa,Faro
+ocd-division/country:pt/region:gu,Guarda
+ocd-division/country:pt/region:le,Leiria
+ocd-division/country:pt/region:li,Lisboa
+ocd-division/country:pt/region:pa,Portalegre
+ocd-division/country:pt/region:po,Porto
+ocd-division/country:pt/region:sa,Santarém
+ocd-division/country:pt/region:se,Setúbal
+ocd-division/country:pt/region:vc,Viana do Castelo
+ocd-division/country:pt/region:vi,Viseu
+ocd-division/country:pt/region:vr,Vila Real
