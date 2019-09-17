@@ -263,7 +263,16 @@ class ShapefileRecord
   # @return [Integer] whether the other record is less than, equal to, or
   #   greater than this record
   def <=>(other)
-    sort_as <=> other.sort_as
+    a = sort_as
+    b = other.sort_as
+
+    if a.class == b.class
+      a <=> b
+    elsif a.to_i == b.to_i
+      a.to_s <=> b.to_s
+    else
+      a.to_i <=> b.to_i
+    end
   end
 
   def method_missing(method, *args, &block)
