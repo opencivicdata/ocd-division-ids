@@ -1,7 +1,10 @@
 id,name
 ocd-division/country:es,España
 ocd-division/country:es/autonomous_region:ce,Ceuta
-ocd-division/country:es/autonomous_region:ml,Melillaocd-division/country:es/state:an,Andalucíaocd-division/country:es/state:an/cd:almería,Almeríaocd-division/country:es/state:an/cd:cádiz,Cádiz
+ocd-division/country:es/autonomous_region:ml,Melilla
+ocd-division/country:es/state:an,Andalucía
+ocd-division/country:es/state:an/cd:almería,Almería
+ocd-division/country:es/state:an/cd:cádiz,Cádiz
 ocd-division/country:es/state:an/cd:córdoba,Córdoba
 ocd-division/country:es/state:an/cd:granada,Granada
 ocd-division/country:es/state:an/cd:huelva,Huelva
@@ -31,7 +34,8 @@ ocd-division/country:es/state:cm/cd:albacete,Albacete
 ocd-division/country:es/state:cm/cd:ciudad_real,Ciudad Real
 ocd-division/country:es/state:cm/cd:cuenca,Cuenca
 ocd-division/country:es/state:cm/cd:guadalajara,Guadalajara
-ocd-division/country:es/state:cm/cd:toledo,Toledoocd-division/country:es/state:cn,Canarias
+ocd-division/country:es/state:cm/cd:toledo,Toledo
+ocd-division/country:es/state:cn,Canarias
 ocd-division/country:es/state:cn/cd:las_palmas,Las Palmas
 ocd-division/country:es/state:cn/cd:santa_cruz_de_tenerife,Santa Cruz de Tenerife
 ocd-division/country:es/state:ct,Cataluña
@@ -65,3 +69,4 @@ ocd-division/country:es/state:vc,Comunidad Valenciana
 ocd-division/country:es/state:vc/cd:alicante,Alicante
 ocd-division/country:es/state:vc/cd:castellón_de_la_plana,Castellón de la Plana
 ocd-division/country:es/state:vc/cd:valencia,Valencia
+
