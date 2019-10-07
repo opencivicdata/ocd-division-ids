@@ -15,15 +15,16 @@ new_file = True
 district_replacements = {
     "district": " ",
     "Yamuna Nagar": "Yamunanagar",
-    "Gondiya": "Gondia",
-    "Gurgaon": "Gurugram",
+    "Gondia": "Gondiya",
+    "Gurugram": "Gurgaon",
+    "Goregaon": "Gurgaon",
     "Mewat": "Nuh"
 }
 
 const_replacements = {
+    " ": "_",
     "(": "",
     ")": "",
-    " ": "_",
     "-": "_"
 }
 
@@ -42,11 +43,15 @@ def join_table(consts, districts, state, state_abbr):
   new_table = []
   ht = {}
   for d_row in districts:
-    ht[d_row["district"]] = d_row["abbreviation"].lower()
+    if d_row["district"] in district_replacements:
+      district_key = district_replacements[d_row["district"]]
+    else:
+      district_key = d_row["district"]
+    ht[district_key] = d_row["abbreviation"].lower()
 
   for c_row in consts:
-    # decisions made below on district names
-    # https://en.wikipedia.org/wiki/List_of_districts_of_Haryana#Districts
+    # source of truth on district names:
+    # https://affidavit.eci.gov.in/
     cons_district = c_row["district"]
     for old, new in district_replacements.items():
       if old in cons_district:
