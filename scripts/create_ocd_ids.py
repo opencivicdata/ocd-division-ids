@@ -17,11 +17,40 @@ district_replacements = {
     "Yamuna Nagar": "Yamunanagar",
     "Gondia": "Gondiya",
     "Gurugram": "Gurgaon",
-    "Goregaon": "Gurgaon",
-    "Mewat": "Nuh"
+    "Mewat": "Nuh",
+    "Dhamangaon": "Dhamamgaon",
+    "Deolali": "Devlali",
+    "Chikhali": "Chikhli",
+    "Ballabgarh": "Ballabhgarh",
+    "Kalanwali": "Kalawali",
+    "Navapur": "Nawapur",
+    "Sangole": "Sangola",
+    "Yewla": "Yevla",
+    "Jat": "Jath",
+    "Kalvan": "Kalwan",
+    "Kasba Peth": "Kasbapeth"
 }
 
 const_replacements = {
+    "Yamuna Nagar": "Yamunanagar",
+    "Gondia": "Gondiya",
+    "Gurugram": "Gurgaon",
+    "Mewat": "Nuh",
+    "Dhamangaon": "Dhamamgaon",
+    "Deolali": "Devlali",
+    "Chikhali": "Chikhli",
+    "Ballabgarh": "Ballabhgarh",
+    "Charkhi Dadri": "Dadri",
+    "Kalanwali": "Kalawali",
+    "Navapur": "Nawapur",
+    "Sangole": "Sangola",
+    "Yewla": "Yevla",
+    "Jat": "Jath",
+    "Kalvan": "Kalwan",
+    "Kasba Peth": "Kasbapeth"
+}
+
+punc_replacements = {
     " ": "_",
     "(": "",
     ")": "",
@@ -36,7 +65,6 @@ def read_csv(csv_file):
       for row in csv_reader:
         table.append(row)
   return table
-
 
 def join_table(consts, districts, state, state_abbr):
   # return joined table
@@ -66,9 +94,9 @@ def join_table(consts, districts, state, state_abbr):
       c_row["district"] = None
 
     constituency = c_row["constituency"]
-    if c_row["constituency"] in district_replacements:
-      constituency = cons_district
-    for old, new in const_replacements.items():
+    if c_row["constituency"] in const_replacements:
+      constituency = const_replacements[c_row["constituency"]]
+    for old, new in punc_replacements.items():
       constituency = constituency.replace(old, new)
     c_row["constituency"] = constituency.lower()
     c_row["state"] = state
@@ -84,7 +112,7 @@ def write_to_file(table):
   rest = "state {} district {} {} constituency {}"
   write_header = None
   # used to create top level OCD IDs if they don't exist
-  # parent_set = set()
+  parent_set = set()
   if new_file:
     open_type = "w+"
     new_file = False
@@ -102,9 +130,11 @@ def write_to_file(table):
           "id": ocd_id.format(country, row["state_abbr"], row["district_abbr"], row["constituency"]),
           "name": rest.format(row["state"], row["district"], election, full_const)
       }
-      # parent = ocd_id_row["id"].rsplit("/", 1)
-      # parent_set.add("/".join(parent[:-1]) + "," + row["district"])
+      parent = ocd_id_row["id"].rsplit("/", 1)
+      parent_set.add("/".join(parent[:-1]) + "," + row["district"])
       writer.writerow(ocd_id_row)
+  for parent in sorted(parent_set, key=lambda x: x.split(",")[-1]):
+    print(parent)
 
 for state_abbr, state  in contests.items():
   consts = read_csv("{}_constituencies.csv".format(state_abbr))

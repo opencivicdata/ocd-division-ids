@@ -40,7 +40,7 @@ ocd-division/country:in/state:hr/district:ji/cd:narwana,state Haryana district J
 ocd-division/country:in/state:hr/district:ft/cd:tohana,state Haryana district Fatehabad Vidhan Sabha constituency Tohana
 ocd-division/country:in/state:hr/district:ft/cd:fatehabad,state Haryana district Fatehabad Vidhan Sabha constituency Fatehabad
 ocd-division/country:in/state:hr/district:ft/cd:ratia,state Haryana district Fatehabad Vidhan Sabha constituency Ratia
-ocd-division/country:in/state:hr/district:si/cd:kalanwali,state Haryana district Sirsa Vidhan Sabha constituency Kalanwali
+ocd-division/country:in/state:hr/district:si/cd:kalawali,state Haryana district Sirsa Vidhan Sabha constituency Kalawali
 ocd-division/country:in/state:hr/district:si/cd:dabwali,state Haryana district Sirsa Vidhan Sabha constituency Dabwali
 ocd-division/country:in/state:hr/district:si/cd:rania,state Haryana district Sirsa Vidhan Sabha constituency Rania
 ocd-division/country:in/state:hr/district:si/cd:sirsa,state Haryana district Sirsa Vidhan Sabha constituency Sirsa
@@ -54,7 +54,7 @@ ocd-division/country:in/state:hr/district:hi/cd:hisar,state Haryana district His
 ocd-division/country:in/state:hr/district:hi/cd:nalwa,state Haryana district Hisar Vidhan Sabha constituency Nalwa
 ocd-division/country:in/state:hr/district:bh/cd:loharu,state Haryana district Bhiwani Vidhan Sabha constituency Loharu
 ocd-division/country:in/state:hr/district:cd/cd:badhra,state Haryana district Charkhi Dadri Vidhan Sabha constituency Badhra
-ocd-division/country:in/state:hr/district:cd/cd:charkhi_dadri,state Haryana district Charkhi Dadri Vidhan Sabha constituency Charkhi Dadri
+ocd-division/country:in/state:hr/district:cd/cd:dadri,state Haryana district Charkhi Dadri Vidhan Sabha constituency Dadri
 ocd-division/country:in/state:hr/district:bh/cd:bhiwani,state Haryana district Bhiwani Vidhan Sabha constituency Bhiwani
 ocd-division/country:in/state:hr/district:bh/cd:tosham,state Haryana district Bhiwani Vidhan Sabha constituency Tosham
 ocd-division/country:in/state:hr/district:bh/cd:bawani_khera,state Haryana district Bhiwani Vidhan Sabha constituency Bawani Khera
@@ -86,13 +86,13 @@ ocd-division/country:in/state:hr/district:pl/cd:palwal,state Haryana district Pa
 ocd-division/country:in/state:hr/district:fr/cd:prithla,state Haryana district Faridabad Vidhan Sabha constituency Prithla
 ocd-division/country:in/state:hr/district:fr/cd:faridabad_nit,state Haryana district Faridabad Vidhan Sabha constituency Faridabad Nit
 ocd-division/country:in/state:hr/district:fr/cd:badkhal,state Haryana district Faridabad Vidhan Sabha constituency Badkhal
-ocd-division/country:in/state:hr/district:fr/cd:ballabgarh,state Haryana district Faridabad Vidhan Sabha constituency Ballabgarh
+ocd-division/country:in/state:hr/district:fr/cd:ballabhgarh,state Haryana district Faridabad Vidhan Sabha constituency Ballabhgarh
 ocd-division/country:in/state:hr/district:fr/cd:faridabad,state Haryana district Faridabad Vidhan Sabha constituency Faridabad
 ocd-division/country:in/state:hr/district:fr/cd:tigaon,state Haryana district Faridabad Vidhan Sabha constituency Tigaon
 ocd-division/country:in/state:mh/district:nb/cd:akkalkuwa,state Maharashtra district Nandurbar Vidhan Sabha constituency Akkalkuwa
 ocd-division/country:in/state:mh/district:nb/cd:shahada,state Maharashtra district Nandurbar Vidhan Sabha constituency Shahada
 ocd-division/country:in/state:mh/district:nb/cd:nandurbar,state Maharashtra district Nandurbar Vidhan Sabha constituency Nandurbar
-ocd-division/country:in/state:mh/district:nb/cd:navapur,state Maharashtra district Nandurbar Vidhan Sabha constituency Navapur
+ocd-division/country:in/state:mh/district:nb/cd:nawapur,state Maharashtra district Nandurbar Vidhan Sabha constituency Nawapur
 ocd-division/country:in/state:mh/district:dh/cd:sakri,state Maharashtra district Dhule Vidhan Sabha constituency Sakri
 ocd-division/country:in/state:mh/district:dh/cd:dhule_rural,state Maharashtra district Dhule Vidhan Sabha constituency Dhule Rural
 ocd-division/country:in/state:mh/district:dh/cd:dhule_city,state Maharashtra district Dhule Vidhan Sabha constituency Dhule City
@@ -111,7 +111,7 @@ ocd-division/country:in/state:mh/district:jg/cd:jamner,state Maharashtra distric
 ocd-division/country:in/state:mh/district:jg/cd:muktainagar,state Maharashtra district Jalgaon Vidhan Sabha constituency Muktainagar
 ocd-division/country:in/state:mh/district:bu/cd:malkapur,state Maharashtra district Buldhana Vidhan Sabha constituency Malkapur
 ocd-division/country:in/state:mh/district:bu/cd:buldhana,state Maharashtra district Buldhana Vidhan Sabha constituency Buldhana
-ocd-division/country:in/state:mh/district:bu/cd:chikhali,state Maharashtra district Buldhana Vidhan Sabha constituency Chikhali
+ocd-division/country:in/state:mh/district:bu/cd:chikhli,state Maharashtra district Buldhana Vidhan Sabha constituency Chikhli
 ocd-division/country:in/state:mh/district:bu/cd:sindkhed_raja,state Maharashtra district Buldhana Vidhan Sabha constituency Sindkhed Raja
 ocd-division/country:in/state:mh/district:bu/cd:mehkar,state Maharashtra district Buldhana Vidhan Sabha constituency Mehkar
 ocd-division/country:in/state:mh/district:bu/cd:khamgaon,state Maharashtra district Buldhana Vidhan Sabha constituency Khamgaon
@@ -205,16 +205,16 @@ ocd-division/country:in/state:mh/district:ns/cd:nandgaon,state Maharashtra distr
 ocd-division/country:in/state:mh/district:ns/cd:malegaon_central,state Maharashtra district Nashik Vidhan Sabha constituency Malegaon Central
 ocd-division/country:in/state:mh/district:ns/cd:malegaon_outer,state Maharashtra district Nashik Vidhan Sabha constituency Malegaon Outer
 ocd-division/country:in/state:mh/district:ns/cd:baglan,state Maharashtra district Nashik Vidhan Sabha constituency Baglan
-ocd-division/country:in/state:mh/district:ns/cd:kalvan,state Maharashtra district Nashik Vidhan Sabha constituency Kalvan
+ocd-division/country:in/state:mh/district:ns/cd:kalwan,state Maharashtra district Nashik Vidhan Sabha constituency Kalwan
 ocd-division/country:in/state:mh/district:ns/cd:chandvad,state Maharashtra district Nashik Vidhan Sabha constituency Chandvad
-ocd-division/country:in/state:mh/district:ns/cd:yewla,state Maharashtra district Nashik Vidhan Sabha constituency Yewla
+ocd-division/country:in/state:mh/district:ns/cd:yevla,state Maharashtra district Nashik Vidhan Sabha constituency Yevla
 ocd-division/country:in/state:mh/district:ns/cd:sinnar,state Maharashtra district Nashik Vidhan Sabha constituency Sinnar
 ocd-division/country:in/state:mh/district:ns/cd:niphad,state Maharashtra district Nashik Vidhan Sabha constituency Niphad
 ocd-division/country:in/state:mh/district:ns/cd:dindori,state Maharashtra district Nashik Vidhan Sabha constituency Dindori
 ocd-division/country:in/state:mh/district:ns/cd:nashik_east,state Maharashtra district Nashik Vidhan Sabha constituency Nashik East
 ocd-division/country:in/state:mh/district:ns/cd:nashik_central,state Maharashtra district Nashik Vidhan Sabha constituency Nashik Central
 ocd-division/country:in/state:mh/district:ns/cd:nashik_west,state Maharashtra district Nashik Vidhan Sabha constituency Nashik West
-ocd-division/country:in/state:mh/district:ns/cd:deolali,state Maharashtra district Nashik Vidhan Sabha constituency Deolali
+ocd-division/country:in/state:mh/district:ns/cd:devlali,state Maharashtra district Nashik Vidhan Sabha constituency Devlali
 ocd-division/country:in/state:mh/district:ns/cd:igatpuri,state Maharashtra district Nashik Vidhan Sabha constituency Igatpuri
 ocd-division/country:in/state:mh/district:pl/cd:dahanu,state Maharashtra district Palghar Vidhan Sabha constituency Dahanu
 ocd-division/country:in/state:mh/district:pl/cd:vikramgad,state Maharashtra district Palghar Vidhan Sabha constituency Vikramgad
@@ -251,7 +251,7 @@ ocd-division/country:in/state:mh/district:mu/cd:dindoshi,state Maharashtra distr
 ocd-division/country:in/state:mh/district:mu/cd:kandivali_east,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Kandivali East
 ocd-division/country:in/state:mh/district:mu/cd:charkop,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Charkop
 ocd-division/country:in/state:mh/district:mu/cd:malad_west,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Malad West
-ocd-division/country:in/state:mh/district:mu/cd:mumbai_suburban,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Mumbai Suburban
+ocd-division/country:in/state:mh/district:mu/cd:goregaon,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Goregaon
 ocd-division/country:in/state:mh/district:mu/cd:versova,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Versova
 ocd-division/country:in/state:mh/district:mu/cd:andheri_west,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Andheri West
 ocd-division/country:in/state:mh/district:mu/cd:andheri_east,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Andheri East
@@ -303,7 +303,7 @@ ocd-division/country:in/state:mh/district:pu/cd:khadakwasala,state Maharashtra d
 ocd-division/country:in/state:mh/district:pu/cd:parvati,state Maharashtra district Pune Vidhan Sabha constituency Parvati
 ocd-division/country:in/state:mh/district:pu/cd:hadapsar,state Maharashtra district Pune Vidhan Sabha constituency Hadapsar
 ocd-division/country:in/state:mh/district:pu/cd:pune_cantonment,state Maharashtra district Pune Vidhan Sabha constituency Pune Cantonment
-ocd-division/country:in/state:mh/district:pu/cd:kasba_peth,state Maharashtra district Pune Vidhan Sabha constituency Kasba Peth
+ocd-division/country:in/state:mh/district:pu/cd:kasbapeth,state Maharashtra district Pune Vidhan Sabha constituency Kasbapeth
 ocd-division/country:in/state:mh/district:ah/cd:akole,state Maharashtra district Ahmednagar Vidhan Sabha constituency Akole
 ocd-division/country:in/state:mh/district:ah/cd:sangamner,state Maharashtra district Ahmednagar Vidhan Sabha constituency Sangamner
 ocd-division/country:in/state:mh/district:ah/cd:shirdi,state Maharashtra district Ahmednagar Vidhan Sabha constituency Shirdi
@@ -341,7 +341,7 @@ ocd-division/country:in/state:mh/district:so/cd:solapur_city_central,state Mahar
 ocd-division/country:in/state:mh/district:so/cd:akkalkot,state Maharashtra district Solapur Vidhan Sabha constituency Akkalkot
 ocd-division/country:in/state:mh/district:so/cd:solapur_south,state Maharashtra district Solapur Vidhan Sabha constituency Solapur South
 ocd-division/country:in/state:mh/district:so/cd:pandharpur,state Maharashtra district Solapur Vidhan Sabha constituency Pandharpur
-ocd-division/country:in/state:mh/district:so/cd:sangole,state Maharashtra district Solapur Vidhan Sabha constituency Sangole
+ocd-division/country:in/state:mh/district:so/cd:sangola,state Maharashtra district Solapur Vidhan Sabha constituency Sangola
 ocd-division/country:in/state:mh/district:so/cd:malshiras,state Maharashtra district Solapur Vidhan Sabha constituency Malshiras
 ocd-division/country:in/state:mh/district:st/cd:phaltan,state Maharashtra district Satara Vidhan Sabha constituency Phaltan
 ocd-division/country:in/state:mh/district:st/cd:wai,state Maharashtra district Satara Vidhan Sabha constituency Wai
@@ -376,4 +376,4 @@ ocd-division/country:in/state:mh/district:sn/cd:shirala,state Maharashtra distri
 ocd-division/country:in/state:mh/district:sn/cd:palus_kadegaon,state Maharashtra district Sangli Vidhan Sabha constituency Palus Kadegaon
 ocd-division/country:in/state:mh/district:sn/cd:khanapur,state Maharashtra district Sangli Vidhan Sabha constituency Khanapur
 ocd-division/country:in/state:mh/district:sn/cd:tasgaon_kavathe_mahankal,state Maharashtra district Sangli Vidhan Sabha constituency Tasgaon Kavathe Mahankal
-ocd-division/country:in/state:mh/district:sn/cd:jat,state Maharashtra district Sangli Vidhan Sabha constituency Jat
+ocd-division/country:in/state:mh/district:sn/cd:jath,state Maharashtra district Sangli Vidhan Sabha constituency Jath
