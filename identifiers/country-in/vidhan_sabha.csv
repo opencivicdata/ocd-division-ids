@@ -73,10 +73,10 @@ ocd-division/country:in/state:hr/district:mh/cd:nangal_chaudhry,state Haryana di
 ocd-division/country:in/state:hr/district:re/cd:bawal,state Haryana district Rewari Vidhan Sabha constituency Bawal
 ocd-division/country:in/state:hr/district:re/cd:kosli,state Haryana district Rewari Vidhan Sabha constituency Kosli
 ocd-division/country:in/state:hr/district:re/cd:rewari,state Haryana district Rewari Vidhan Sabha constituency Rewari
-ocd-division/country:in/state:hr/district:gu/cd:pataudi,state Haryana district Gurugram Vidhan Sabha constituency Pataudi
-ocd-division/country:in/state:hr/district:gu/cd:badshahpur,state Haryana district Gurugram Vidhan Sabha constituency Badshahpur
-ocd-division/country:in/state:hr/district:gu/cd:gurugram,state Haryana district Gurugram Vidhan Sabha constituency Gurugram
-ocd-division/country:in/state:hr/district:gu/cd:sohna,state Haryana district Gurugram Vidhan Sabha constituency Sohna
+ocd-division/country:in/state:hr/district:gu/cd:pataudi,state Haryana district Gurgaon Vidhan Sabha constituency Pataudi
+ocd-division/country:in/state:hr/district:gu/cd:badshahpur,state Haryana district Gurgaon Vidhan Sabha constituency Badshahpur
+ocd-division/country:in/state:hr/district:gu/cd:gurgaon,state Haryana district Gurgaon Vidhan Sabha constituency Gurgaon
+ocd-division/country:in/state:hr/district:gu/cd:sohna,state Haryana district Gurgaon Vidhan Sabha constituency Sohna
 ocd-division/country:in/state:hr/district:nh/cd:nuh,state Haryana district Nuh Vidhan Sabha constituency Nuh
 ocd-division/country:in/state:hr/district:nh/cd:ferozepur_jhirka,state Haryana district Nuh Vidhan Sabha constituency Ferozepur Jhirka
 ocd-division/country:in/state:hr/district:nh/cd:punahana,state Haryana district Nuh Vidhan Sabha constituency Punahana
@@ -151,10 +151,10 @@ ocd-division/country:in/state:mh/district:ng/cd:ramtek,state Maharashtra distric
 ocd-division/country:in/state:mh/district:bh/cd:tumsar,state Maharashtra district Bhandara Vidhan Sabha constituency Tumsar
 ocd-division/country:in/state:mh/district:bh/cd:bhandara,state Maharashtra district Bhandara Vidhan Sabha constituency Bhandara
 ocd-division/country:in/state:mh/district:bh/cd:sakoli,state Maharashtra district Bhandara Vidhan Sabha constituency Sakoli
-ocd-division/country:in/state:mh/district:go/cd:arjuni_morgaon,state Maharashtra district Gondia Vidhan Sabha constituency Arjuni Morgaon
-ocd-division/country:in/state:mh/district:go/cd:tirora,state Maharashtra district Gondia Vidhan Sabha constituency Tirora
-ocd-division/country:in/state:mh/district:go/cd:gondia,state Maharashtra district Gondia Vidhan Sabha constituency Gondia
-ocd-division/country:in/state:mh/district:go/cd:amgaon,state Maharashtra district Gondia Vidhan Sabha constituency Amgaon
+ocd-division/country:in/state:mh/district:go/cd:arjuni_morgaon,state Maharashtra district Gondiya Vidhan Sabha constituency Arjuni Morgaon
+ocd-division/country:in/state:mh/district:go/cd:tirora,state Maharashtra district Gondiya Vidhan Sabha constituency Tirora
+ocd-division/country:in/state:mh/district:go/cd:gondiya,state Maharashtra district Gondiya Vidhan Sabha constituency Gondiya
+ocd-division/country:in/state:mh/district:go/cd:amgaon,state Maharashtra district Gondiya Vidhan Sabha constituency Amgaon
 ocd-division/country:in/state:mh/district:ga/cd:armori,state Maharashtra district Gadchiroli Vidhan Sabha constituency Armori
 ocd-division/country:in/state:mh/district:ga/cd:gadchiroli,state Maharashtra district Gadchiroli Vidhan Sabha constituency Gadchiroli
 ocd-division/country:in/state:mh/district:ga/cd:aheri,state Maharashtra district Gadchiroli Vidhan Sabha constituency Aheri
@@ -251,7 +251,7 @@ ocd-division/country:in/state:mh/district:mu/cd:dindoshi,state Maharashtra distr
 ocd-division/country:in/state:mh/district:mu/cd:kandivali_east,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Kandivali East
 ocd-division/country:in/state:mh/district:mu/cd:charkop,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Charkop
 ocd-division/country:in/state:mh/district:mu/cd:malad_west,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Malad West
-ocd-division/country:in/state:mh/district:mu/cd:goregaon,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Goregaon
+ocd-division/country:in/state:mh/district:mu/cd:mumbai_suburban,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Mumbai Suburban
 ocd-division/country:in/state:mh/district:mu/cd:versova,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Versova
 ocd-division/country:in/state:mh/district:mu/cd:andheri_west,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Andheri West
 ocd-division/country:in/state:mh/district:mu/cd:andheri_east,state Maharashtra district Mumbai Suburban Vidhan Sabha constituency Andheri East
