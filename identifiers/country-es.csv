@@ -1,0 +1,71 @@
+id,name
+ocd-division/country:es,España
+ocd-division/country:es/autonomous_city:ce,Ceuta
+ocd-division/country:es/autonomous_city:ml,Melilla
+ocd-division/country:es/autonomous_community:an,Andalucía
+ocd-division/country:es/autonomous_community:an/province:al,Almería
+ocd-division/country:es/autonomous_community:an/province:ca,Cádiz
+ocd-division/country:es/autonomous_community:an/province:co,Córdoba
+ocd-division/country:es/autonomous_community:an/province:gr,Granada
+ocd-division/country:es/autonomous_community:an/province:h,Huelva
+ocd-division/country:es/autonomous_community:an/province:j,Jaén
+ocd-division/country:es/autonomous_community:an/province:ma,Málaga
+ocd-division/country:es/autonomous_community:an/province:sv,Sevilla
+ocd-division/country:es/autonomous_community:ar,Aragón
+ocd-division/country:es/autonomous_community:ar/province:hu,Huesca
+ocd-division/country:es/autonomous_community:ar/province:te,Teruel
+ocd-division/country:es/autonomous_community:ar/province:z,Zaragoza
+ocd-division/country:es/autonomous_community:as,Principado de Asturias
+ocd-division/country:es/autonomous_community:as/province:o,Asturias
+ocd-division/country:es/autonomous_community:cb,Cantabria
+ocd-division/country:es/autonomous_community:cb/province:s,Cantabria
+ocd-division/country:es/autonomous_community:cl,Castilla Y León
+ocd-division/country:es/autonomous_community:cl/province:av,Ávila
+ocd-division/country:es/autonomous_community:cl/province:bu,Burgos
+ocd-division/country:es/autonomous_community:cl/province:ln,León
+ocd-division/country:es/autonomous_community:cl/province:p,Palencia
+ocd-division/country:es/autonomous_community:cl/province:sa,Salamanca
+ocd-division/country:es/autonomous_community:cl/province:sg,Segovia
+ocd-division/country:es/autonomous_community:cl/province:so,Soria
+ocd-division/country:es/autonomous_community:cl/province:va,Valladolid
+ocd-division/country:es/autonomous_community:cl/province:za,Zamora
+ocd-division/country:es/autonomous_community:cm,Castilla-La Mancha
+ocd-division/country:es/autonomous_community:cm/province:ab,Albacete
+ocd-division/country:es/autonomous_community:cm/province:cr,Ciudad Real
+ocd-division/country:es/autonomous_community:cm/province:cu,Cuenca
+ocd-division/country:es/autonomous_community:cm/province:gu,Guadalajara
+ocd-division/country:es/autonomous_community:cm/province:to,Toledo
+ocd-division/country:es/autonomous_community:cn,Canarias
+ocd-division/country:es/autonomous_community:cn/province:gc,Las Palmas
+ocd-division/country:es/autonomous_community:cn/province:tf,Santa Cruz de Tenerife
+ocd-division/country:es/autonomous_community:ct,Cataluña
+ocd-division/country:es/autonomous_community:ct/province:b,Barcelona
+ocd-division/country:es/autonomous_community:ct/province:gi,Girona
+ocd-division/country:es/autonomous_community:ct/province:ld,Lleida
+ocd-division/country:es/autonomous_community:ct/province:t,Tarragona
+ocd-division/country:es/autonomous_community:ex,Extremadura
+ocd-division/country:es/autonomous_community:ex/province:ba,Badajoz
+ocd-division/country:es/autonomous_community:ex/province:cc,Cáceres
+ocd-division/country:es/autonomous_community:ga,Galicia
+ocd-division/country:es/autonomous_community:ga/province:c,A Coruña
+ocd-division/country:es/autonomous_community:ga/province:lu,Lugo
+ocd-division/country:es/autonomous_community:ga/province:or,Ourense
+ocd-division/country:es/autonomous_community:ga/province:po,Pontevedra
+ocd-division/country:es/autonomous_community:ib,Illes Balears
+ocd-division/country:es/autonomous_community:ib/province:pm,Baleares
+ocd-division/country:es/autonomous_community:mc,Región de Murcia
+ocd-division/country:es/autonomous_community:mc/province:mu,Murcia
+ocd-division/country:es/autonomous_community:md,Comunidad de Madrid
+ocd-division/country:es/autonomous_community:md/province:m,Madrid
+ocd-division/country:es/autonomous_community:nc,Comunidad Floral de Navarra
+ocd-division/country:es/autonomous_community:nc/province:na,Navarra
+ocd-division/country:es/autonomous_community:pv,País Vasco
+ocd-division/country:es/autonomous_community:pv/province:aa,Álava
+ocd-division/country:es/autonomous_community:pv/province:bi,Bizkaia
+ocd-division/country:es/autonomous_community:pv/province:ss,Gipuzkoa
+ocd-division/country:es/autonomous_community:ri,La Rioja
+ocd-division/country:es/autonomous_community:ri/province:lo,La Rioja
+ocd-division/country:es/autonomous_community:vc,Comunidad Valenciana
+ocd-division/country:es/autonomous_community:vc/province:a,Alicante
+ocd-division/country:es/autonomous_community:vc/province:cs,Castellón de la Plana
+ocd-division/country:es/autonomous_community:vc/province:v,Valencia
