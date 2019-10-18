@@ -1,44 +1,24 @@
-id,name,sameAs,sameAsNote
-ocd-division/country:pt,Portugal,,
-ocd-division/country:pt/autonomous_region:ac,Região Autónoma dos Açores,,
-ocd-division/country:pt/autonomous_region:ma,Região Autónoma da Madeira,,
-ocd-division/country:pt/cd:europa,Europa,,
-ocd-division/country:pt/cd:fora_da_europa,Fora da Europa,,
-ocd-division/country:pt/district:av,Aveiro,ocd-division/country:pt/region:av,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:ba,Bragança,ocd-division/country:pt/region:ba,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:be,Beja,ocd-division/country:pt/region:be,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:br,Braga,ocd-division/country:pt/region:br,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:cb,Castelo Branco,ocd-division/country:pt/region:cb,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:co,Coimbra,ocd-division/country:pt/region:co,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:ev,Évora,ocd-division/country:pt/region:ev,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:fa,Faro,ocd-division/country:pt/region:fa,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:gu,Guarda,ocd-division/country:pt/region:gu,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:le,Leiria,ocd-division/country:pt/region:le,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:li,Lisboa,ocd-division/country:pt/region:li,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:pa,Portalegre,ocd-division/country:pt/region:pa,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:po,Porto,ocd-division/country:pt/region:po,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:sa,Santarém,ocd-division/country:pt/region:sa,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:se,Setúbal,ocd-division/country:pt/region:se,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:vc,Viana do Castelo,ocd-division/country:pt/region:vc,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:vi,Viseu,ocd-division/country:pt/region:vi,Portugal is divided into eighteen distritos
-ocd-division/country:pt/district:vr,Vila Real,ocd-division/country:pt/region:vr,Portugal is divided into eighteen distritos
-ocd-division/country:pt/region:av,Aveiro,,
-ocd-division/country:pt/region:ba,Bragança,,
-ocd-division/country:pt/region:be,Beja,,
-ocd-division/country:pt/region:br,Braga,,
-ocd-division/country:pt/region:cb,Castelo Branco,,
-ocd-division/country:pt/region:co,Coimbra,,
-ocd-division/country:pt/region:europa,Europa,ocd-division/country:pt/cd:europa,Because Europa is more region as congressionals
-ocd-division/country:pt/region:ev,Évora,,
-ocd-division/country:pt/region:fa,Faro,,
-ocd-division/country:pt/region:fora_da_europa,Fora da Europa,ocd-division/country:pt/cd:fora_da_europa,Because Outside Europa is more region as congressionals
-ocd-division/country:pt/region:gu,Guarda,,
-ocd-division/country:pt/region:le,Leiria,,
-ocd-division/country:pt/region:li,Lisboa,,
-ocd-division/country:pt/region:pa,Portalegre,,
-ocd-division/country:pt/region:po,Porto,,
-ocd-division/country:pt/region:sa,Santarém,,
-ocd-division/country:pt/region:se,Setúbal,,
-ocd-division/country:pt/region:vc,Viana do Castelo,,
-ocd-division/country:pt/region:vi,Viseu,,
-ocd-division/country:pt/region:vr,Vila Real,,
+id,name
+ocd-division/country:pt,Portugal
+ocd-division/country:pt/autonomous_region:ac,Região Autónoma dos Açores
+ocd-division/country:pt/autonomous_region:ma,Região Autónoma da Madeira
+ocd-division/country:pt/cd:europa,Europa
+ocd-division/country:pt/cd:fora_da_europa,Fora da Europa
+ocd-division/country:pt/region:av,Aveiro
+ocd-division/country:pt/region:ba,Bragança
+ocd-division/country:pt/region:be,Beja
+ocd-division/country:pt/region:br,Braga
+ocd-division/country:pt/region:cb,Castelo Branco
+ocd-division/country:pt/region:co,Coimbra
+ocd-division/country:pt/region:ev,Évora
+ocd-division/country:pt/region:fa,Faro
+ocd-division/country:pt/region:gu,Guarda
+ocd-division/country:pt/region:le,Leiria
+ocd-division/country:pt/region:li,Lisboa
+ocd-division/country:pt/region:pa,Portalegre
+ocd-division/country:pt/region:po,Porto
+ocd-division/country:pt/region:sa,Santarém
+ocd-division/country:pt/region:se,Setúbal
+ocd-division/country:pt/region:vc,Viana do Castelo
+ocd-division/country:pt/region:vi,Viseu
+ocd-division/country:pt/region:vr,Vila Real
