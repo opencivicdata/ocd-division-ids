@@ -1,0 +1,116 @@
+id,name,sameAs,sameAsNote
+ocd-division/country:pl,Polska,,
+ocd-division/country:pl/province:ds,Dolnośląskie,ocd-division/country:pl/state:ds,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:ds/cd:legnica,Legnica,ocd-division/country:pl/state:ds/cd:legnica,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:ds/cd:wałbrzych,Wałbrzych,ocd-division/country:pl/state:ds/cd:wałbrzych,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:ds/cd:wrocław,Wrocław,ocd-division/country:pl/state:ds/cd:wrocław,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:kp,Kujawsko-pomorskie,ocd-division/country:pl/state:kp,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:kp/cd:bydgoszcz,Bydgoszcz,ocd-division/country:pl/state:kp/cd:bydgoszcz,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:kp/cd:toruń,Toruń,ocd-division/country:pl/state:kp/cd:toruń,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:lb,Lubuskie,ocd-division/country:pl/state:lb,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:lb/cd:zielona_góra,Zielona Góra,ocd-division/country:pl/state:lb/cd:zielona_góra,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:ld,Łódzkie,ocd-division/country:pl/state:ld,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:ld/cd:piotrków_trybunalski,Piotrków Trybunalski,ocd-division/country:pl/state:ld/cd:piotrków_trybunalski,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:ld/cd:sieradz,Sieradz,ocd-division/country:pl/state:ld/cd:sieradz,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:ld/cd:łódź,Łódź,ocd-division/country:pl/state:ld/cd:łódź,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:lu,Lubelskie,ocd-division/country:pl/state:lu,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:lu/cd:chełm,Chełm,ocd-division/country:pl/state:lu/cd:chełm,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:lu/cd:lublin,Lublin,ocd-division/country:pl/state:lu/cd:lublin,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:ma,Małopolskie,ocd-division/country:pl/state:ma,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:ma/cd:chrzanów,Chrzanów,ocd-division/country:pl/state:ma/cd:chrzanów,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:ma/cd:kraków,Kraków,ocd-division/country:pl/state:ma/cd:kraków,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:ma/cd:nowy_sącz,Nowy Sącz,ocd-division/country:pl/state:ma/cd:nowy_sącz,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:ma/cd:tarnów,Tarnów,ocd-division/country:pl/state:ma/cd:tarnów,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:mz,Mazowieckie,ocd-division/country:pl/state:mz,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:mz/cd:płock,Płock,ocd-division/country:pl/state:mz/cd:płock,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:mz/cd:radom,Radom,ocd-division/country:pl/state:mz/cd:radom,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:mz/cd:siedlce,Siedlce,ocd-division/country:pl/state:mz/cd:siedlce,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:mz/cd:warszawa_i,Warszawa I,ocd-division/country:pl/state:mz/cd:warszawa_i,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:mz/cd:warszawa_ii,Warszawa II,ocd-division/country:pl/state:mz/cd:warszawa_ii,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:op,Opolskie,ocd-division/country:pl/state:op,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:op/cd:opole,Opole,ocd-division/country:pl/state:op/cd:opole,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:pd,Podlaskie,ocd-division/country:pl/state:pd,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:pd/cd:białystok,Białystok,ocd-division/country:pl/state:pd/cd:białystok,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:pk,Podkarpackie,ocd-division/country:pl/state:pk,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:pk/cd:krosno,Krosno,ocd-division/country:pl/state:pk/cd:krosno,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:pk/cd:rzeszów,Rzeszów,ocd-division/country:pl/state:pk/cd:rzeszów,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:pm,Pomorskie,ocd-division/country:pl/state:pm,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:pm/cd:gdańsk,Gdańsk,ocd-division/country:pl/state:pm/cd:gdańsk,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:pm/cd:gdynia,Gdynia,ocd-division/country:pl/state:pm/cd:gdynia,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:sk,Świętokrzyskie,ocd-division/country:pl/state:sk,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:sk/cd:kielce,Kielce,ocd-division/country:pl/state:sk/cd:kielce,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:sl,Śląskie,ocd-division/country:pl/state:sl,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:sl/cd:bielsko-biała,Bielsko-Biała,ocd-division/country:pl/state:sl/cd:bielsko-biała,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:sl/cd:częstochowa,Częstochowa,ocd-division/country:pl/state:sl/cd:częstochowa,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:sl/cd:gliwice,Gliwice,ocd-division/country:pl/state:sl/cd:gliwice,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:sl/cd:katowice,Katowice,ocd-division/country:pl/state:sl/cd:katowice,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:sl/cd:rybnik,Rybnik,ocd-division/country:pl/state:sl/cd:rybnik,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:sl/cd:sosnowiec,Sosnowiec,ocd-division/country:pl/state:sl/cd:sosnowiec,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:wn,Warmińsko-mazurskie,ocd-division/country:pl/state:wn,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:wn/cd:elbląg,Elbląg,ocd-division/country:pl/state:wn/cd:elbląg,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:wn/cd:olsztyn,Olsztyn,ocd-division/country:pl/state:wn/cd:olsztyn,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:wp,Wielkopolskie,ocd-division/country:pl/state:wp,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:wp/cd:kalisz,Kalisz,ocd-division/country:pl/state:wp/cd:kalisz,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:wp/cd:konin,Konin,ocd-division/country:pl/state:wp/cd:konin,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:wp/cd:piła,Piła,ocd-division/country:pl/state:wp/cd:piła,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:wp/cd:poznań,Poznań,ocd-division/country:pl/state:wp/cd:poznań,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:zp,Zachodniopomorskie,ocd-division/country:pl/state:zp,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:zp/cd:koszalin,Koszalin,ocd-division/country:pl/state:zp/cd:koszalin,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/province:zp/cd:szczecin,Szczecin,ocd-division/country:pl/state:zp/cd:szczecin,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/country:pl/state:ds,Dolnośląskie,,
+ocd-division/country:pl/state:ds/cd:legnica,Legnica,,
+ocd-division/country:pl/state:ds/cd:wałbrzych,Wałbrzych,,
+ocd-division/country:pl/state:ds/cd:wrocław,Wrocław,,
+ocd-division/country:pl/state:kp,Kujawsko-pomorskie,,
+ocd-division/country:pl/state:kp/cd:bydgoszcz,Bydgoszcz,,
+ocd-division/country:pl/state:kp/cd:toruń,Toruń,,
+ocd-division/country:pl/state:lb,Lubuskie,,
+ocd-division/country:pl/state:lb/cd:zielona_góra,Zielona Góra,,
+ocd-division/country:pl/state:ld,Łódzkie,,
+ocd-division/country:pl/state:ld/cd:piotrków_trybunalski,Piotrków Trybunalski,,
+ocd-division/country:pl/state:ld/cd:sieradz,Sieradz,,
+ocd-division/country:pl/state:ld/cd:łódź,Łódź,,
+ocd-division/country:pl/state:lu,Lubelskie,,
+ocd-division/country:pl/state:lu/cd:chełm,Chełm,,
+ocd-division/country:pl/state:lu/cd:lublin,Lublin,,
+ocd-division/country:pl/state:ma,Małopolskie,,
+ocd-division/country:pl/state:ma/cd:chrzanów,Chrzanów,,
+ocd-division/country:pl/state:ma/cd:kraków,Kraków,,
+ocd-division/country:pl/state:ma/cd:nowy_sącz,Nowy Sącz,,
+ocd-division/country:pl/state:ma/cd:tarnów,Tarnów,,
+ocd-division/country:pl/state:mz,Mazowieckie,,
+ocd-division/country:pl/state:mz/cd:płock,Płock,,
+ocd-division/country:pl/state:mz/cd:radom,Radom,,
+ocd-division/country:pl/state:mz/cd:siedlce,Siedlce,,
+ocd-division/country:pl/state:mz/cd:warszawa_i,Warszawa I,,
+ocd-division/country:pl/state:mz/cd:warszawa_ii,Warszawa II,,
+ocd-division/country:pl/state:op,Opolskie,,
+ocd-division/country:pl/state:op/cd:opole,Opole,,
+ocd-division/country:pl/state:pd,Podlaskie,,
+ocd-division/country:pl/state:pd/cd:białystok,Białystok,,
+ocd-division/country:pl/state:pk,Podkarpackie,,
+ocd-division/country:pl/state:pk/cd:krosno,Krosno,,
+ocd-division/country:pl/state:pk/cd:rzeszów,Rzeszów,,
+ocd-division/country:pl/state:pm,Pomorskie,,
+ocd-division/country:pl/state:pm/cd:gdańsk,Gdańsk,,
+ocd-division/country:pl/state:pm/cd:gdynia,Gdynia,,
+ocd-division/country:pl/state:sk,Świętokrzyskie,,
+ocd-division/country:pl/state:sk/cd:kielce,Kielce,,
+ocd-division/country:pl/state:sl,Śląskie,,
+ocd-division/country:pl/state:sl/cd:bielsko-biała,Bielsko-Biała,,
+ocd-division/country:pl/state:sl/cd:częstochowa,Częstochowa,,
+ocd-division/country:pl/state:sl/cd:gliwice,Gliwice,,
+ocd-division/country:pl/state:sl/cd:katowice,Katowice,,
+ocd-division/country:pl/state:sl/cd:rybnik,Rybnik,,
+ocd-division/country:pl/state:sl/cd:sosnowiec,Sosnowiec,,
+ocd-division/country:pl/state:wn,Warmińsko-mazurskie,,
+ocd-division/country:pl/state:wn/cd:elbląg,Elbląg,,
+ocd-division/country:pl/state:wn/cd:olsztyn,Olsztyn,,
+ocd-division/country:pl/state:wp,Wielkopolskie,,
+ocd-division/country:pl/state:wp/cd:kalisz,Kalisz,,
+ocd-division/country:pl/state:wp/cd:konin,Konin,,
+ocd-division/country:pl/state:wp/cd:piła,Piła,,
+ocd-division/country:pl/state:wp/cd:poznań,Poznań,,
+ocd-division/country:pl/state:zp,Zachodniopomorskie,,
+ocd-division/country:pl/state:zp/cd:koszalin,Koszalin,,
+ocd-division/country:pl/state:zp/cd:szczecin,Szczecin,,
