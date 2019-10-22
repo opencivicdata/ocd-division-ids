@@ -1,6 +1,4 @@
 id,name
-ocd-division/country:tw/county:tw-mia/district:constituency1,Miaoli County the first electoral district
-ocd-division/country:tw/county:tw-mia/district:constituency2,Miaoli County the second electoral district
 ocd-division/country:tw/special_municipality:tw-khh/district:constituency1,The first electoral district Kaohsiung City
 ocd-division/country:tw/special_municipality:tw-khh/district:constituency2,Kaohsiung second electoral district
 ocd-division/country:tw/special_municipality:tw-khh/district:constituency3,Kaohsiung third electoral district
@@ -63,6 +61,8 @@ ocd-division/country:tw/county:tw-cyq/district:constituency1,Chiayi County the f
 ocd-division/country:tw/county:tw-cyq/district:constituency2,Chiayi County the second election district
 ocd-division/country:tw/county:tw-pif/district:constituency1,Pingtung County the first electoral district
 ocd-division/country:tw/county:tw-pif/district:constituency2,The second electoral district Pingtung County
+ocd-division/country:tw/county:tw-mia/district:constituency1,Miaoli County the first electoral district
+ocd-division/country:tw/county:tw-mia/district:constituency2,Miaoli County the second electoral district
 
 
 
