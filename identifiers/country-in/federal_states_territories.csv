@@ -36,3 +36,134 @@ ocd-division/country:in/territory:dl,Delhi
 ocd-division/country:in/territory:dn,Dadra and Nagar Haveli
 ocd-division/country:in/territory:ld,Lakshadweep
 ocd-division/country:in/territory:py,Puducherry
+ocd-division/country:in/state:br/district:ar,Araria
+ocd-division/country:in/state:br/district:aw,Arwal
+ocd-division/country:in/state:br/district:au,Aurangabad
+ocd-division/country:in/state:br/district:ba,Banka
+ocd-division/country:in/state:br/district:be,Begusarai
+ocd-division/country:in/state:br/district:bg,Bhagalpur
+ocd-division/country:in/state:br/district:bj,Bhojpur
+ocd-division/country:in/state:br/district:bu,Buxar
+ocd-division/country:in/state:br/district:da,Darbhanga
+ocd-division/country:in/state:br/district:ga,Gaya
+ocd-division/country:in/state:br/district:go,Gopalganj
+ocd-division/country:in/state:br/district:je,Jahanabad
+ocd-division/country:in/state:br/district:ja,Jamui
+ocd-division/country:in/state:br/district:km,Kaimur
+ocd-division/country:in/state:br/district:kt,Katihar
+ocd-division/country:in/state:br/district:kh,Khagaria
+ocd-division/country:in/state:br/district:ki,Kishanganj
+ocd-division/country:in/state:br/district:la,Lakhisarai
+ocd-division/country:in/state:br/district:mp,Madhepura
+ocd-division/country:in/state:br/district:mb,Madhubani
+ocd-division/country:in/state:br/district:mg,Munger
+ocd-division/country:in/state:br/district:mz,Muzaffarpur
+ocd-division/country:in/state:br/district:nl,Nalanda
+ocd-division/country:in/state:br/district:nw,Nawada
+ocd-division/country:in/state:br/district:wc,Paschim Champaran
+ocd-division/country:in/state:br/district:pa,Patna
+ocd-division/country:in/state:br/district:pu,Purnia
+ocd-division/country:in/state:br/district:ec,Purvi Champaran
+ocd-division/country:in/state:br/district:ro,Rohtas
+ocd-division/country:in/state:br/district:sh,Saharsa
+ocd-division/country:in/state:br/district:sm,Samastipur
+ocd-division/country:in/state:br/district:sr,Saran
+ocd-division/country:in/state:br/district:sp,Sheikhpura
+ocd-division/country:in/state:br/district:so,Sheohar
+ocd-division/country:in/state:br/district:st,Sitamarhi
+ocd-division/country:in/state:br/district:sw,Siwan
+ocd-division/country:in/state:br/district:su,Supaul
+ocd-division/country:in/state:br/district:va,Vaishali
+ocd-division/country:in/territory:dl/district:cd,Central Delhi
+ocd-division/country:in/territory:dl/district:ed,East Delhi
+ocd-division/country:in/territory:dl/district:nd,New Delhi
+ocd-division/country:in/territory:dl/district:no,North Delhi
+ocd-division/country:in/territory:dl/district:ne,North East Delhi
+ocd-division/country:in/territory:dl/district:nw,North West Delhi
+ocd-division/country:in/territory:dl/district:sh,Shahdara
+ocd-division/country:in/territory:dl/district:sd,South Delhi
+ocd-division/country:in/territory:dl/district:se,South East Delhi
+ocd-division/country:in/territory:dl/district:sw,South West Delhi
+ocd-division/country:in/territory:dl/district:wd,West Delhi
+ocd-division/country:in/state:hr/district:am,Ambala
+ocd-division/country:in/state:hr/district:bh,Bhiwani
+ocd-division/country:in/state:hr/district:cd,Charkhi Dadri
+ocd-division/country:in/state:hr/district:fr,Faridabad
+ocd-division/country:in/state:hr/district:ft,Fatehabad
+ocd-division/country:in/state:hr/district:gu,Gurgaon
+ocd-division/country:in/state:hr/district:hi,Hisar
+ocd-division/country:in/state:hr/district:jh,Jhajjar
+ocd-division/country:in/state:hr/district:ji,Jind
+ocd-division/country:in/state:hr/district:kt,Kaithal
+ocd-division/country:in/state:hr/district:kr,Karnal
+ocd-division/country:in/state:hr/district:ku,Kurukshetra
+ocd-division/country:in/state:hr/district:mh,Mahendragarh
+ocd-division/country:in/state:hr/district:nh,Nuh
+ocd-division/country:in/state:hr/district:pl,Palwal
+ocd-division/country:in/state:hr/district:pk,Panchkula
+ocd-division/country:in/state:hr/district:pp,Panipat
+ocd-division/country:in/state:hr/district:re,Rewari
+ocd-division/country:in/state:hr/district:ro,Rohtak
+ocd-division/country:in/state:hr/district:si,Sirsa
+ocd-division/country:in/state:hr/district:so,Sonipat
+ocd-division/country:in/state:hr/district:yn,Yamunanagar
+ocd-division/country:in/state:jh/district:bo,Bokaro
+ocd-division/country:in/state:jh/district:ch,Chatra
+ocd-division/country:in/state:jh/district:de,Deoghar
+ocd-division/country:in/state:jh/district:dh,Dhanbad
+ocd-division/country:in/state:jh/district:du,Dumka
+ocd-division/country:in/state:jh/district:es,East Singhbhum
+ocd-division/country:in/state:jh/district:ga,Garhwa
+ocd-division/country:in/state:jh/district:gi,Giridih
+ocd-division/country:in/state:jh/district:go,Godda
+ocd-division/country:in/state:jh/district:gu,Gumla
+ocd-division/country:in/state:jh/district:ha,Hazaribagh
+ocd-division/country:in/state:jh/district:ja,Jamtara
+ocd-division/country:in/state:jh/district:kh,Khunti
+ocd-division/country:in/state:jh/district:ko,Kodarma
+ocd-division/country:in/state:jh/district:la,Latehar
+ocd-division/country:in/state:jh/district:lo,Lohardaga
+ocd-division/country:in/state:jh/district:pk,Pakur
+ocd-division/country:in/state:jh/district:pl,Palamu
+ocd-division/country:in/state:jh/district:rm,Ramgarh
+ocd-division/country:in/state:jh/district:ra,Ranchi
+ocd-division/country:in/state:jh/district:sa,Sahebganj
+ocd-division/country:in/state:jh/district:sk,Saraikela Kharswan
+ocd-division/country:in/state:jh/district:si,Simdega
+ocd-division/country:in/state:jh/district:ws,West Singhbhum
+ocd-division/country:in/state:mh/district:ah,Ahmednagar
+ocd-division/country:in/state:mh/district:ak,Akola
+ocd-division/country:in/state:mh/district:am,Amaravati
+ocd-division/country:in/state:mh/district:au,Aurangabad
+ocd-division/country:in/state:mh/district:bi,Beed
+ocd-division/country:in/state:mh/district:bh,Bhandara
+ocd-division/country:in/state:mh/district:bu,Buldhana
+ocd-division/country:in/state:mh/district:ch,Chandrapur
+ocd-division/country:in/state:mh/district:dh,Dhule
+ocd-division/country:in/state:mh/district:ga,Gadchiroli
+ocd-division/country:in/state:mh/district:go,Gondiya
+ocd-division/country:in/state:mh/district:hi,Hingoli
+ocd-division/country:in/state:mh/district:jg,Jalgaon
+ocd-division/country:in/state:mh/district:jn,Jalna
+ocd-division/country:in/state:mh/district:ko,Kolhapur
+ocd-division/country:in/state:mh/district:la,Latur
+ocd-division/country:in/state:mh/district:mc,Mumbai City
+ocd-division/country:in/state:mh/district:mu,Mumbai Suburban
+ocd-division/country:in/state:mh/district:ng,Nagpur
+ocd-division/country:in/state:mh/district:nd,Nanded
+ocd-division/country:in/state:mh/district:nb,Nandurabar
+ocd-division/country:in/state:mh/district:ns,Nashik
+ocd-division/country:in/state:mh/district:os,Osmanabad
+ocd-division/country:in/state:mh/district:pl,Palghar
+ocd-division/country:in/state:mh/district:pa,Parbhani
+ocd-division/country:in/state:mh/district:pu,Pune
+ocd-division/country:in/state:mh/district:rg,Raigad
+ocd-division/country:in/state:mh/district:rt,Ratnagiri
+ocd-division/country:in/state:mh/district:sn,Sangli
+ocd-division/country:in/state:mh/district:st,Satara
+ocd-division/country:in/state:mh/district:si,Sindhudurg
+ocd-division/country:in/state:mh/district:so,Solapur
+ocd-division/country:in/state:mh/district:th,Thane
+ocd-division/country:in/state:mh/district:wr,Wardha
+ocd-division/country:in/state:mh/district:ws,Washim
+ocd-division/country:in/state:mh/district:yt,Yavatmal
