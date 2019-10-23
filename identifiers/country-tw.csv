@@ -32,6 +32,8 @@ ocd-division/country:tw/county:ttt,Taitung
 ocd-division/country:tw/county:yun,Yunlin
 ocd-division/country:tw/county:yun/district:1,Yunlin County Constituency 1
 ocd-division/country:tw/county:yun/district:2,Yunlin County Constituency 2
+ocd-division/country:tw/district:highland_aborigine,Highland Aborigine Constituency
+ocd-division/country:tw/district:lowland_aborigine,Lowland Aborigine Constituency
 ocd-division/country:tw/special_municipality:khh,Kaohsiung
 ocd-division/country:tw/special_municipality:khh/district:1,Kaohsiung City Constituency 1
 ocd-division/country:tw/special_municipality:khh/district:2,Kaohsiung City Constituency 2
