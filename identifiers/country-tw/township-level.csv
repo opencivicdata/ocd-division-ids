@@ -1,70 +1,70 @@
 id,name
 ocd-division/country:tw/district:lowland_aborigine,Lowland Aborigine Constituency
 ocd-division/country:tw/district:highland_aborigine,Highland Aborigine Constituency
-ocd-division/country:tw/special_municipality:khh/district:1,Kaohsiung City Constituency 1
-ocd-division/country:tw/special_municipality:khh/district:2,Kaohsiung City Constituency 2
-ocd-division/country:tw/special_municipality:khh/district:3,Kaohsiung City Constituency 3
-ocd-division/country:tw/special_municipality:khh/district:4,Kaohsiung City Constituency 4
-ocd-division/country:tw/special_municipality:khh/district:5,Kaohsiung City Constituency 5
-ocd-division/country:tw/special_municipality:khh/district:6,Kaohsiung City Constituency 6
-ocd-division/country:tw/special_municipality:khh/district:7,Kaohsiung City Constituency 7
-ocd-division/country:tw/special_municipality:khh/district:8,Kaohsiung City Constituency 8
-ocd-division/country:tw/special_municipality:nwt/district:1,New Taipei City Constituency 1
-ocd-division/country:tw/special_municipality:nwt/district:2,New Taipei City Constituency 2
-ocd-division/country:tw/special_municipality:nwt/district:3,New Taipei City Constituency 3
-ocd-division/country:tw/special_municipality:nwt/district:4,New Taipei City Constituency 4
-ocd-division/country:tw/special_municipality:nwt/district:5,New Taipei City Constituency 5
-ocd-division/country:tw/special_municipality:nwt/district:6,New Taipei City Constituency 6
-ocd-division/country:tw/special_municipality:nwt/district:7,New Taipei City Constituency 7
-ocd-division/country:tw/special_municipality:nwt/district:8,New Taipei City Constituency 8
-ocd-division/country:tw/special_municipality:nwt/district:9,New Taipei City Constituency 9
-ocd-division/country:tw/special_municipality:nwt/district:10,New Taipei City Constituency 10
-ocd-division/country:tw/special_municipality:nwt/district:11,New Taipei City Constituency 11
-ocd-division/country:tw/special_municipality:nwt/district:12,New Taipei City Constituency 12
-ocd-division/country:tw/special_municipality:tpe/district:1,Taipei City Constituency 1
-ocd-division/country:tw/special_municipality:tpe/district:2,Taipei City Constituency 2
-ocd-division/country:tw/special_municipality:tpe/district:3,Taipei City Constituency 3
-ocd-division/country:tw/special_municipality:tpe/district:4,Taipei City Constituency 4
-ocd-division/country:tw/special_municipality:tpe/district:5,Taipei City Constituency 5
-ocd-division/country:tw/special_municipality:tpe/district:6,Taipei City Constituency 6
-ocd-division/country:tw/special_municipality:tpe/district:7,Taipei City Constituency 7
-ocd-division/country:tw/special_municipality:tpe/district:8,Taipei City Constituency 8
-ocd-division/country:tw/special_municipality:tao/district:1,Taoyuan City Constituency 1
-ocd-division/country:tw/special_municipality:tao/district:2,Taoyuan City Constituency 2
-ocd-division/country:tw/special_municipality:tao/district:3,Taoyuan City Constituency 3
-ocd-division/country:tw/special_municipality:tao/district:4,Taoyuan City Constituency 4
-ocd-division/country:tw/special_municipality:tao/district:5,Taoyuan City Constituency 5
-ocd-division/country:tw/special_municipality:tao/district:6,Taoyuan City Constituency 6
-ocd-division/country:tw/special_municipality:txg/district:1,Taichung City Constituency 1
-ocd-division/country:tw/special_municipality:txg/district:2,Taichung City Constituency 2
-ocd-division/country:tw/special_municipality:txg/district:3,Taichung City Constituency 3
-ocd-division/country:tw/special_municipality:txg/district:4,Taichung City Constituency 4
-ocd-division/country:tw/special_municipality:txg/district:5,Taichung City Constituency 5
-ocd-division/country:tw/special_municipality:txg/district:6,Taichung City Constituency 6
-ocd-division/country:tw/special_municipality:txg/district:7,Taichung City Constituency 7
-ocd-division/country:tw/special_municipality:txg/district:8,Taichung City Constituency 8
-ocd-division/country:tw/special_municipality:tnn/district:1,Tainan City Constituency 1
-ocd-division/country:tw/special_municipality:tnn/district:2,Tainan City Constituency 2
-ocd-division/country:tw/special_municipality:tnn/district:3,Tainan City Constituency 3
-ocd-division/country:tw/special_municipality:tnn/district:4,Tainan City Constituency 4
-ocd-division/country:tw/special_municipality:tnn/district:5,Tainan City Constituency 5
-ocd-division/country:tw/special_municipality:tnn/district:6,Tainan City Constituency 6
-ocd-division/country:tw/county:hsq/district:1,Hsinchu County Constituency 1
-ocd-division/country:tw/county:hsq/district:2,Hsinchu County Constituency 2
-ocd-division/country:tw/county:cha/district:1,Changhua County Constituency 1
-ocd-division/country:tw/county:cha/district:2,Changhua County Constituency 2
-ocd-division/country:tw/county:cha/district:3,Changhua County Constituency 3
-ocd-division/country:tw/county:cha/district:4,Changhua County Constituency 4
-ocd-division/country:tw/county:nan/district:1,Nantou County Constituency 1
-ocd-division/country:tw/county:nan/district:2,Nantou County Constituency 2
-ocd-division/country:tw/county:yun/district:1,Yunlin County Constituency 1
-ocd-division/country:tw/county:yun/district:2,Yunlin County Constituency 2
-ocd-division/country:tw/county:cyq/district:1,Chiayi County Constituency 1
-ocd-division/country:tw/county:cyq/district:2,Chiayi County Constituency 2
-ocd-division/country:tw/county:pif/district:1,Pingtung County Constituency 1
-ocd-division/country:tw/county:pif/district:2,Pingtung County Constituency 2
-ocd-division/country:tw/county:mia/district:1,Miaoli County Constituency 1
-ocd-division/country:tw/county:mia/district:2,Miaoli County Constituency 2
+ocd-division/country:tw/province:khh/district:1,Kaohsiung City Constituency 1
+ocd-division/country:tw/province:khh/district:2,Kaohsiung City Constituency 2
+ocd-division/country:tw/province:khh/district:3,Kaohsiung City Constituency 3
+ocd-division/country:tw/province:khh/district:4,Kaohsiung City Constituency 4
+ocd-division/country:tw/province:khh/district:5,Kaohsiung City Constituency 5
+ocd-division/country:tw/province:khh/district:6,Kaohsiung City Constituency 6
+ocd-division/country:tw/province:khh/district:7,Kaohsiung City Constituency 7
+ocd-division/country:tw/province:khh/district:8,Kaohsiung City Constituency 8
+ocd-division/country:tw/province:nwt/district:1,New Taipei City Constituency 1
+ocd-division/country:tw/province:nwt/district:2,New Taipei City Constituency 2
+ocd-division/country:tw/province:nwt/district:3,New Taipei City Constituency 3
+ocd-division/country:tw/province:nwt/district:4,New Taipei City Constituency 4
+ocd-division/country:tw/province:nwt/district:5,New Taipei City Constituency 5
+ocd-division/country:tw/province:nwt/district:6,New Taipei City Constituency 6
+ocd-division/country:tw/province:nwt/district:7,New Taipei City Constituency 7
+ocd-division/country:tw/province:nwt/district:8,New Taipei City Constituency 8
+ocd-division/country:tw/province:nwt/district:9,New Taipei City Constituency 9
+ocd-division/country:tw/province:nwt/district:10,New Taipei City Constituency 10
+ocd-division/country:tw/province:nwt/district:11,New Taipei City Constituency 11
+ocd-division/country:tw/province:nwt/district:12,New Taipei City Constituency 12
+ocd-division/country:tw/province:tpe/district:1,Taipei City Constituency 1
+ocd-division/country:tw/province:tpe/district:2,Taipei City Constituency 2
+ocd-division/country:tw/province:tpe/district:3,Taipei City Constituency 3
+ocd-division/country:tw/province:tpe/district:4,Taipei City Constituency 4
+ocd-division/country:tw/province:tpe/district:5,Taipei City Constituency 5
+ocd-division/country:tw/province:tpe/district:6,Taipei City Constituency 6
+ocd-division/country:tw/province:tpe/district:7,Taipei City Constituency 7
+ocd-division/country:tw/province:tpe/district:8,Taipei City Constituency 8
+ocd-division/country:tw/province:tao/district:1,Taoyuan City Constituency 1
+ocd-division/country:tw/province:tao/district:2,Taoyuan City Constituency 2
+ocd-division/country:tw/province:tao/district:3,Taoyuan City Constituency 3
+ocd-division/country:tw/province:tao/district:4,Taoyuan City Constituency 4
+ocd-division/country:tw/province:tao/district:5,Taoyuan City Constituency 5
+ocd-division/country:tw/province:tao/district:6,Taoyuan City Constituency 6
+ocd-division/country:tw/province:txg/district:1,Taichung City Constituency 1
+ocd-division/country:tw/province:txg/district:2,Taichung City Constituency 2
+ocd-division/country:tw/province:txg/district:3,Taichung City Constituency 3
+ocd-division/country:tw/province:txg/district:4,Taichung City Constituency 4
+ocd-division/country:tw/province:txg/district:5,Taichung City Constituency 5
+ocd-division/country:tw/province:txg/district:6,Taichung City Constituency 6
+ocd-division/country:tw/province:txg/district:7,Taichung City Constituency 7
+ocd-division/country:tw/province:txg/district:8,Taichung City Constituency 8
+ocd-division/country:tw/province:tnn/district:1,Tainan City Constituency 1
+ocd-division/country:tw/province:tnn/district:2,Tainan City Constituency 2
+ocd-division/country:tw/province:tnn/district:3,Tainan City Constituency 3
+ocd-division/country:tw/province:tnn/district:4,Tainan City Constituency 4
+ocd-division/country:tw/province:tnn/district:5,Tainan City Constituency 5
+ocd-division/country:tw/province:tnn/district:6,Tainan City Constituency 6
+ocd-division/country:tw/province:hsq/district:1,Hsinchu County Constituency 1
+ocd-division/country:tw/province:hsq/district:2,Hsinchu County Constituency 2
+ocd-division/country:tw/province:cha/district:1,Changhua County Constituency 1
+ocd-division/country:tw/province:cha/district:2,Changhua County Constituency 2
+ocd-division/country:tw/province:cha/district:3,Changhua County Constituency 3
+ocd-division/country:tw/province:cha/district:4,Changhua County Constituency 4
+ocd-division/country:tw/province:nan/district:1,Nantou County Constituency 1
+ocd-division/country:tw/province:nan/district:2,Nantou County Constituency 2
+ocd-division/country:tw/province:yun/district:1,Yunlin County Constituency 1
+ocd-division/country:tw/province:yun/district:2,Yunlin County Constituency 2
+ocd-division/country:tw/province:cyq/district:1,Chiayi County Constituency 1
+ocd-division/country:tw/province:cyq/district:2,Chiayi County Constituency 2
+ocd-division/country:tw/province:pif/district:1,Pingtung County Constituency 1
+ocd-division/country:tw/province:pif/district:2,Pingtung County Constituency 2
+ocd-division/country:tw/province:mia/district:1,Miaoli County Constituency 1
+ocd-division/country:tw/province:mia/district:2,Miaoli County Constituency 2
 
 
 

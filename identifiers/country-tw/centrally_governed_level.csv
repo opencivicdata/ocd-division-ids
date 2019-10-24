@@ -1,25 +1,25 @@
 id,name
-ocd-division/country:tw/county:cha,Changhua
-ocd-division/country:tw/county:cyq,Chiayi
-ocd-division/country:tw/county:hsq,Hsinchu
-ocd-division/country:tw/county:hua,Hualien
-ocd-division/country:tw/county:kin,Kinmen
-ocd-division/country:tw/county:lie,Lienchiang
-ocd-division/country:tw/county:mia,Miaoli
-ocd-division/country:tw/county:nan,Nantou
-ocd-division/country:tw/county:pen,Penghu
-ocd-division/country:tw/county:pif,Pingtung
-ocd-division/country:tw/county:ttt,Taitung
-ocd-division/country:tw/county:ila,Yilan
-ocd-division/country:tw/county:yun,Yunlin
-ocd-division/country:tw/city:cyi,Chiayi
-ocd-division/country:tw/city:hsz,Hsinchu
-ocd-division/country:tw/city:kee,Keelung
-ocd-division/country:tw/special_municipality:khh,Kaohsiung
-ocd-division/country:tw/special_municipality:nwt,New Taipei
-ocd-division/country:tw/special_municipality:txg,Taichung
-ocd-division/country:tw/special_municipality:tnn,Tainan
-ocd-division/country:tw/special_municipality:tpe,Taipei
-ocd-division/country:tw/special_municipality:tao,Taoyuan
+ocd-division/country:tw/province:cha,Changhua
+ocd-division/country:tw/province:cyq,Chiayi
+ocd-division/country:tw/province:hsq,Hsinchu
+ocd-division/country:tw/province:hua,Hualien
+ocd-division/country:tw/province:kin,Kinmen
+ocd-division/country:tw/province:lie,Lienchiang
+ocd-division/country:tw/province:mia,Miaoli
+ocd-division/country:tw/province:nan,Nantou
+ocd-division/country:tw/province:pen,Penghu
+ocd-division/country:tw/province:pif,Pingtung
+ocd-division/country:tw/province:ttt,Taitung
+ocd-division/country:tw/province:ila,Yilan
+ocd-division/country:tw/province:yun,Yunlin
+ocd-division/country:tw/province:cyi,Chiayi
+ocd-division/country:tw/province:hsz,Hsinchu
+ocd-division/country:tw/province:kee,Keelung
+ocd-division/country:tw/province:khh,Kaohsiung
+ocd-division/country:tw/province:nwt,New Taipei
+ocd-division/country:tw/province:txg,Taichung
+ocd-division/country:tw/province:tnn,Tainan
+ocd-division/country:tw/province:tpe,Taipei
+ocd-division/country:tw/province:tao,Taoyuan
 
 
