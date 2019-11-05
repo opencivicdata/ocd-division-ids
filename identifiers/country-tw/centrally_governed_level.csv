@@ -1,25 +1,23 @@
 id,name
 ocd-division/country:tw/province:cha,Changhua
 ocd-division/country:tw/province:cyq,Chiayi
-ocd-division/country:tw/province:hsq,Hsinchu
+ocd-division/country:tw/province:cyi,Chiayi City
+ocd-division/country:tw/province:hsz,Hsinchu
+ocd-division/country:tw/province:hsq,Hsinchu County
 ocd-division/country:tw/province:hua,Hualien
+ocd-division/country:tw/province:khh,Kaohsiung
+ocd-division/country:tw/province:kee,Keelung
 ocd-division/country:tw/province:kin,Kinmen
 ocd-division/country:tw/province:lie,Lienchiang
 ocd-division/country:tw/province:mia,Miaoli
 ocd-division/country:tw/province:nan,Nantou
+ocd-division/country:tw/province:nwt,New Taipei
 ocd-division/country:tw/province:pen,Penghu
 ocd-division/country:tw/province:pif,Pingtung
-ocd-division/country:tw/province:ttt,Taitung
-ocd-division/country:tw/province:ila,Yilan
-ocd-division/country:tw/province:yun,Yunlin
-ocd-division/country:tw/province:cyi,Chiayi
-ocd-division/country:tw/province:hsz,Hsinchu
-ocd-division/country:tw/province:kee,Keelung
-ocd-division/country:tw/province:khh,Kaohsiung
-ocd-division/country:tw/province:nwt,New Taipei
 ocd-division/country:tw/province:txg,Taichung
 ocd-division/country:tw/province:tnn,Tainan
 ocd-division/country:tw/province:tpe,Taipei
+ocd-division/country:tw/province:ttt,Taitung
 ocd-division/country:tw/province:tao,Taoyuan
-
-
+ocd-division/country:tw/province:ila,Yilan
+ocd-division/country:tw/province:yun,Yunlin
