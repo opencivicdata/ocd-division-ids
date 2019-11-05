@@ -1,0 +1,651 @@
+id,name
+ocd-division/country:gb/part:eng/region:ukc/ed:berwick-upon-tweed,Berwick-upon-Tweed
+ocd-division/country:gb/part:eng/region:ukc/ed:bishop_auckland,Bishop Auckland
+ocd-division/country:gb/part:eng/region:ukc/ed:blaydon,Blaydon
+ocd-division/country:gb/part:eng/region:ukc/ed:blyth_valley,Blyth Valley
+ocd-division/country:gb/part:eng/region:ukc/ed:city_of_durham,City of Durham
+ocd-division/country:gb/part:eng/region:ukc/ed:darlington,Darlington
+ocd-division/country:gb/part:eng/region:ukc/ed:easington,Easington
+ocd-division/country:gb/part:eng/region:ukc/ed:gateshead,Gateshead
+ocd-division/country:gb/part:eng/region:ukc/ed:hartlepool,Hartlepool
+ocd-division/country:gb/part:eng/region:ukc/ed:hexham,Hexham
+ocd-division/country:gb/part:eng/region:ukc/ed:houghton_and_sunderland_south,Houghton and Sunderland South
+ocd-division/country:gb/part:eng/region:ukc/ed:jarrow,Jarrow
+ocd-division/country:gb/part:eng/region:ukc/ed:middlesbrough,Middlesbrough
+ocd-division/country:gb/part:eng/region:ukc/ed:middlesbrough_south_and_east_cleveland,Middlesbrough South and East Cleveland
+ocd-division/country:gb/part:eng/region:ukc/ed:newcastle_upon_tyne_central,Newcastle upon Tyne Central
+ocd-division/country:gb/part:eng/region:ukc/ed:newcastle_upon_tyne_east,Newcastle upon Tyne East
+ocd-division/country:gb/part:eng/region:ukc/ed:newcastle_upon_tyne_north,Newcastle upon Tyne North
+ocd-division/country:gb/part:eng/region:ukc/ed:north_durham,North Durham
+ocd-division/country:gb/part:eng/region:ukc/ed:north_tyneside,North Tyneside
+ocd-division/country:gb/part:eng/region:ukc/ed:north_west_durham,North West Durham
+ocd-division/country:gb/part:eng/region:ukc/ed:redcar,Redcar
+ocd-division/country:gb/part:eng/region:ukc/ed:sedgefield,Sedgefield
+ocd-division/country:gb/part:eng/region:ukc/ed:south_shields,South Shields
+ocd-division/country:gb/part:eng/region:ukc/ed:stockton_north,Stockton North
+ocd-division/country:gb/part:eng/region:ukc/ed:stockton_south,Stockton South
+ocd-division/country:gb/part:eng/region:ukc/ed:sunderland_central,Sunderland Central
+ocd-division/country:gb/part:eng/region:ukc/ed:tynemouth,Tynemouth
+ocd-division/country:gb/part:eng/region:ukc/ed:wansbeck,Wansbeck
+ocd-division/country:gb/part:eng/region:ukc/ed:washington_and_sunderland_west,Washington and Sunderland West
+ocd-division/country:gb/part:eng/region:ukd/ed:altrincham_and_sale_west,Altrincham and Sale West
+ocd-division/country:gb/part:eng/region:ukd/ed:ashton-under-lyne,Ashton-under-Lyne
+ocd-division/country:gb/part:eng/region:ukd/ed:barrow_and_furness,Barrow and Furness
+ocd-division/country:gb/part:eng/region:ukd/ed:birkenhead,Birkenhead
+ocd-division/country:gb/part:eng/region:ukd/ed:blackburn,Blackburn
+ocd-division/country:gb/part:eng/region:ukd/ed:blackley_and_broughton,Blackley and Broughton
+ocd-division/country:gb/part:eng/region:ukd/ed:blackpool_north_and_cleveleys,Blackpool North and Cleveleys
+ocd-division/country:gb/part:eng/region:ukd/ed:blackpool_south,Blackpool South
+ocd-division/country:gb/part:eng/region:ukd/ed:bolton_north_east,Bolton North East
+ocd-division/country:gb/part:eng/region:ukd/ed:bolton_south_east,Bolton South East
+ocd-division/country:gb/part:eng/region:ukd/ed:bolton_west,Bolton West
+ocd-division/country:gb/part:eng/region:ukd/ed:bootle,Bootle
+ocd-division/country:gb/part:eng/region:ukd/ed:burnley,Burnley
+ocd-division/country:gb/part:eng/region:ukd/ed:bury_north,Bury North
+ocd-division/country:gb/part:eng/region:ukd/ed:bury_south,Bury South
+ocd-division/country:gb/part:eng/region:ukd/ed:carlisle,Carlisle
+ocd-division/country:gb/part:eng/region:ukd/ed:cheadle,Cheadle
+ocd-division/country:gb/part:eng/region:ukd/ed:chorley,Chorley
+ocd-division/country:gb/part:eng/region:ukd/ed:city_of_chester,City of Chester
+ocd-division/country:gb/part:eng/region:ukd/ed:congleton,Congleton
+ocd-division/country:gb/part:eng/region:ukd/ed:copeland,Copeland
+ocd-division/country:gb/part:eng/region:ukd/ed:crewe_and_nantwich,Crewe and Nantwich
+ocd-division/country:gb/part:eng/region:ukd/ed:denton_and_reddish,Denton and Reddish
+ocd-division/country:gb/part:eng/region:ukd/ed:eddisbury,Eddisbury
+ocd-division/country:gb/part:eng/region:ukd/ed:ellesmere_port_and_neston,Ellesmere Port and Neston
+ocd-division/country:gb/part:eng/region:ukd/ed:fylde,Fylde
+ocd-division/country:gb/part:eng/region:ukd/ed:garston_and_halewood,Garston and Halewood
+ocd-division/country:gb/part:eng/region:ukd/ed:halton,Halton
+ocd-division/country:gb/part:eng/region:ukd/ed:hazel_grove,Hazel Grove
+ocd-division/country:gb/part:eng/region:ukd/ed:heywood_and_middleton,Heywood and Middleton
+ocd-division/country:gb/part:eng/region:ukd/ed:hyndburn,Hyndburn
+ocd-division/country:gb/part:eng/region:ukd/ed:knowsley,Knowsley
+ocd-division/country:gb/part:eng/region:ukd/ed:lancaster_and_fleetwood,Lancaster and Fleetwood
+ocd-division/country:gb/part:eng/region:ukd/ed:leigh,Leigh
+ocd-division/country:gb/part:eng/region:ukd/ed:liverpool_riverside,Liverpool - Riverside
+ocd-division/country:gb/part:eng/region:ukd/ed:liverpool_walton,Liverpool - Walton
+ocd-division/country:gb/part:eng/region:ukd/ed:liverpool_wavertree,Liverpool - Wavertree
+ocd-division/country:gb/part:eng/region:ukd/ed:liverpool_west_derby,Liverpool - West Derby
+ocd-division/country:gb/part:eng/region:ukd/ed:macclesfield,Macclesfield
+ocd-division/country:gb/part:eng/region:ukd/ed:makerfield,Makerfield
+ocd-division/country:gb/part:eng/region:ukd/ed:manchester_central,Manchester Central
+ocd-division/country:gb/part:eng/region:ukd/ed:manchester_gorton,Manchester - Gorton
+ocd-division/country:gb/part:eng/region:ukd/ed:manchester_withington,Manchester - Withington
+ocd-division/country:gb/part:eng/region:ukd/ed:morecambe_and_lunesdale,Morecambe and Lunesdale
+ocd-division/country:gb/part:eng/region:ukd/ed:oldham_east_and_saddleworth,Oldham East and Saddleworth
+ocd-division/country:gb/part:eng/region:ukd/ed:oldham_west_and_royton,Oldham West and Royton
+ocd-division/country:gb/part:eng/region:ukd/ed:pendle,Pendle
+ocd-division/country:gb/part:eng/region:ukd/ed:penrith_and_the_border,Penrith and The Border
+ocd-division/country:gb/part:eng/region:ukd/ed:preston,Preston
+ocd-division/country:gb/part:eng/region:ukd/ed:ribble_valley,Ribble Valley
+ocd-division/country:gb/part:eng/region:ukd/ed:rochdale,Rochdale
+ocd-division/country:gb/part:eng/region:ukd/ed:rossendale_and_darwen,Rossendale and Darwen
+ocd-division/country:gb/part:eng/region:ukd/ed:salford_and_eccles,Salford and Eccles
+ocd-division/country:gb/part:eng/region:ukd/ed:sefton_central,Sefton Central
+ocd-division/country:gb/part:eng/region:ukd/ed:south_ribble,South Ribble
+ocd-division/country:gb/part:eng/region:ukd/ed:southport,Southport
+ocd-division/country:gb/part:eng/region:ukd/ed:st_helens_north,St Helens North
+ocd-division/country:gb/part:eng/region:ukd/ed:st_helens_south_and_whiston,St Helens South and Whiston
+ocd-division/country:gb/part:eng/region:ukd/ed:stalybridge_and_hyde,Stalybridge and Hyde
+ocd-division/country:gb/part:eng/region:ukd/ed:stockport,Stockport
+ocd-division/country:gb/part:eng/region:ukd/ed:stretford_and_urmston,Stretford and Urmston
+ocd-division/country:gb/part:eng/region:ukd/ed:tatton,Tatton
+ocd-division/country:gb/part:eng/region:ukd/ed:wallasey,Wallasey
+ocd-division/country:gb/part:eng/region:ukd/ed:warrington_north,Warrington North
+ocd-division/country:gb/part:eng/region:ukd/ed:warrington_south,Warrington South
+ocd-division/country:gb/part:eng/region:ukd/ed:weaver_vale,Weaver Vale
+ocd-division/country:gb/part:eng/region:ukd/ed:west_lancashire,West Lancashire
+ocd-division/country:gb/part:eng/region:ukd/ed:westmorland_and_lonsdale,Westmorland and Lonsdale
+ocd-division/country:gb/part:eng/region:ukd/ed:wigan,Wigan
+ocd-division/country:gb/part:eng/region:ukd/ed:wirral_south,Wirral South
+ocd-division/country:gb/part:eng/region:ukd/ed:wirral_west,Wirral West
+ocd-division/country:gb/part:eng/region:ukd/ed:workington,Workington
+ocd-division/country:gb/part:eng/region:ukd/ed:worsley_and_eccles_south,Worsley and Eccles South
+ocd-division/country:gb/part:eng/region:ukd/ed:wyre_and_preston_north,Wyre and Preston North
+ocd-division/country:gb/part:eng/region:ukd/ed:wythenshawe_and_sale_east,Wythenshawe and Sale East
+ocd-division/country:gb/part:eng/region:uke/ed:barnsley_central,Barnsley Central
+ocd-division/country:gb/part:eng/region:uke/ed:barnsley_east,Barnsley East
+ocd-division/country:gb/part:eng/region:uke/ed:batley_and_spen,Batley and Spen
+ocd-division/country:gb/part:eng/region:uke/ed:beverley_and_holderness,Beverley and Holderness
+ocd-division/country:gb/part:eng/region:uke/ed:bradford_east,Bradford East
+ocd-division/country:gb/part:eng/region:uke/ed:bradford_south,Bradford South
+ocd-division/country:gb/part:eng/region:uke/ed:bradford_west,Bradford West
+ocd-division/country:gb/part:eng/region:uke/ed:brigg_and_goole,Brigg and Goole
+ocd-division/country:gb/part:eng/region:uke/ed:calder_valley,Calder Valley
+ocd-division/country:gb/part:eng/region:uke/ed:cleethorpes,Cleethorpes
+ocd-division/country:gb/part:eng/region:uke/ed:colne_valley,Colne Valley
+ocd-division/country:gb/part:eng/region:uke/ed:dewsbury,Dewsbury
+ocd-division/country:gb/part:eng/region:uke/ed:don_valley,Don Valley
+ocd-division/country:gb/part:eng/region:uke/ed:doncaster_central,Doncaster Central
+ocd-division/country:gb/part:eng/region:uke/ed:doncaster_north,Doncaster North
+ocd-division/country:gb/part:eng/region:uke/ed:east_yorkshire,East Yorkshire
+ocd-division/country:gb/part:eng/region:uke/ed:elmet_and_rothwell,Elmet and Rothwell
+ocd-division/country:gb/part:eng/region:uke/ed:great_grimsby,Great Grimsby
+ocd-division/country:gb/part:eng/region:uke/ed:halifax,Halifax
+ocd-division/country:gb/part:eng/region:uke/ed:haltemprice_and_howden,Haltemprice and Howden
+ocd-division/country:gb/part:eng/region:uke/ed:harrogate_and_knaresborough,Harrogate and Knaresborough
+ocd-division/country:gb/part:eng/region:uke/ed:hemsworth,Hemsworth
+ocd-division/country:gb/part:eng/region:uke/ed:huddersfield,Huddersfield
+ocd-division/country:gb/part:eng/region:uke/ed:keighley,Keighley
+ocd-division/country:gb/part:eng/region:uke/ed:kingston_upon_hull_east,Kingston upon Hull East
+ocd-division/country:gb/part:eng/region:uke/ed:kingston_upon_hull_north,Kingston upon Hull North
+ocd-division/country:gb/part:eng/region:uke/ed:kingston_upon_hull_west_and_hessle,Kingston upon Hull West and Hessle
+ocd-division/country:gb/part:eng/region:uke/ed:leeds_central,Leeds Central
+ocd-division/country:gb/part:eng/region:uke/ed:leeds_east,Leeds East
+ocd-division/country:gb/part:eng/region:uke/ed:leeds_north_east,Leeds North East
+ocd-division/country:gb/part:eng/region:uke/ed:leeds_north_west,Leeds North West
+ocd-division/country:gb/part:eng/region:uke/ed:leeds_west,Leeds West
+ocd-division/country:gb/part:eng/region:uke/ed:morley_and_outwood,Morley and Outwood
+ocd-division/country:gb/part:eng/region:uke/ed:normanton_pontefract_and_castleford,Normanton - Pontefract and Castleford
+ocd-division/country:gb/part:eng/region:uke/ed:penistone_and_stocksbridge,Penistone and Stocksbridge
+ocd-division/country:gb/part:eng/region:uke/ed:pudsey,Pudsey
+ocd-division/country:gb/part:eng/region:uke/ed:richmond_yorks,Richmond (Yorks)
+ocd-division/country:gb/part:eng/region:uke/ed:rother_valley,Rother Valley
+ocd-division/country:gb/part:eng/region:uke/ed:rotherham,Rotherham
+ocd-division/country:gb/part:eng/region:uke/ed:scarborough_and_whitby,Scarborough and Whitby
+ocd-division/country:gb/part:eng/region:uke/ed:scunthorpe,Scunthorpe
+ocd-division/country:gb/part:eng/region:uke/ed:selby_and_ainsty,Selby and Ainsty
+ocd-division/country:gb/part:eng/region:uke/ed:sheffield_central,Sheffield Central
+ocd-division/country:gb/part:eng/region:uke/ed:sheffield_south_east,Sheffield South East
+ocd-division/country:gb/part:eng/region:uke/ed:sheffield_brightside_and_hillsborough,Sheffield - Brightside and Hillsborough
+ocd-division/country:gb/part:eng/region:uke/ed:sheffield_hallam,Sheffield - Hallam
+ocd-division/country:gb/part:eng/region:uke/ed:sheffield_heeley,Sheffield - Heeley
+ocd-division/country:gb/part:eng/region:uke/ed:shipley,Shipley
+ocd-division/country:gb/part:eng/region:uke/ed:skipton_and_ripon,Skipton and Ripon
+ocd-division/country:gb/part:eng/region:uke/ed:thirsk_and_malton,Thirsk and Malton
+ocd-division/country:gb/part:eng/region:uke/ed:wakefield,Wakefield
+ocd-division/country:gb/part:eng/region:uke/ed:wentworth_and_dearne,Wentworth and Dearne
+ocd-division/country:gb/part:eng/region:uke/ed:york_central,York Central
+ocd-division/country:gb/part:eng/region:uke/ed:york_outer,York Outer
+ocd-division/country:gb/part:eng/region:ukf/ed:amber_valley,Amber Valley
+ocd-division/country:gb/part:eng/region:ukf/ed:ashfield,Ashfield
+ocd-division/country:gb/part:eng/region:ukf/ed:bassetlaw,Bassetlaw
+ocd-division/country:gb/part:eng/region:ukf/ed:bolsover,Bolsover
+ocd-division/country:gb/part:eng/region:ukf/ed:boston_and_skegness,Boston and Skegness
+ocd-division/country:gb/part:eng/region:ukf/ed:bosworth,Bosworth
+ocd-division/country:gb/part:eng/region:ukf/ed:broxtowe,Broxtowe
+ocd-division/country:gb/part:eng/region:ukf/ed:charnwood,Charnwood
+ocd-division/country:gb/part:eng/region:ukf/ed:chesterfield,Chesterfield
+ocd-division/country:gb/part:eng/region:ukf/ed:corby,Corby
+ocd-division/country:gb/part:eng/region:ukf/ed:daventry,Daventry
+ocd-division/country:gb/part:eng/region:ukf/ed:derby_north,Derby North
+ocd-division/country:gb/part:eng/region:ukf/ed:derby_south,Derby South
+ocd-division/country:gb/part:eng/region:ukf/ed:derbyshire_dales,Derbyshire Dales
+ocd-division/country:gb/part:eng/region:ukf/ed:erewash,Erewash
+ocd-division/country:gb/part:eng/region:ukf/ed:gainsborough,Gainsborough
+ocd-division/country:gb/part:eng/region:ukf/ed:gedling,Gedling
+ocd-division/country:gb/part:eng/region:ukf/ed:grantham_and_stamford,Grantham and Stamford
+ocd-division/country:gb/part:eng/region:ukf/ed:harborough,Harborough
+ocd-division/country:gb/part:eng/region:ukf/ed:high_peak,High Peak
+ocd-division/country:gb/part:eng/region:ukf/ed:kettering,Kettering
+ocd-division/country:gb/part:eng/region:ukf/ed:leicester_east,Leicester East
+ocd-division/country:gb/part:eng/region:ukf/ed:leicester_south,Leicester South
+ocd-division/country:gb/part:eng/region:ukf/ed:leicester_west,Leicester West
+ocd-division/country:gb/part:eng/region:ukf/ed:lincoln,Lincoln
+ocd-division/country:gb/part:eng/region:ukf/ed:loughborough,Loughborough
+ocd-division/country:gb/part:eng/region:ukf/ed:louth_and_horncastle,Louth and Horncastle
+ocd-division/country:gb/part:eng/region:ukf/ed:mansfield,Mansfield
+ocd-division/country:gb/part:eng/region:ukf/ed:mid_derbyshire,Mid Derbyshire
+ocd-division/country:gb/part:eng/region:ukf/ed:newark,Newark
+ocd-division/country:gb/part:eng/region:ukf/ed:north_east_derbyshire,North East Derbyshire
+ocd-division/country:gb/part:eng/region:ukf/ed:north_west_leicestershire,North West Leicestershire
+ocd-division/country:gb/part:eng/region:ukf/ed:northampton_north,Northampton North
+ocd-division/country:gb/part:eng/region:ukf/ed:northampton_south,Northampton South
+ocd-division/country:gb/part:eng/region:ukf/ed:nottingham_east,Nottingham East
+ocd-division/country:gb/part:eng/region:ukf/ed:nottingham_north,Nottingham North
+ocd-division/country:gb/part:eng/region:ukf/ed:nottingham_south,Nottingham South
+ocd-division/country:gb/part:eng/region:ukf/ed:rushcliffe,Rushcliffe
+ocd-division/country:gb/part:eng/region:ukf/ed:rutland_and_melton,Rutland and Melton
+ocd-division/country:gb/part:eng/region:ukf/ed:sherwood,Sherwood
+ocd-division/country:gb/part:eng/region:ukf/ed:sleaford_and_north_hykeham,Sleaford and North Hykeham
+ocd-division/country:gb/part:eng/region:ukf/ed:south_derbyshire,South Derbyshire
+ocd-division/country:gb/part:eng/region:ukf/ed:south_holland_and_the_deepings,South Holland and The Deepings
+ocd-division/country:gb/part:eng/region:ukf/ed:south_leicestershire,South Leicestershire
+ocd-division/country:gb/part:eng/region:ukf/ed:south_northamptonshire,South Northamptonshire
+ocd-division/country:gb/part:eng/region:ukf/ed:wellingborough,Wellingborough
+ocd-division/country:gb/part:eng/region:ukg/ed:aldridge-brownhills,Aldridge-Brownhills
+ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_edgbaston,Birmingham - Edgbaston
+ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_erdington,Birmingham - Erdington
+ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_hall_green,Birmingham - Hall Green
+ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_hodge_hill,Birmingham - Hodge Hill
+ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_ladywood,Birmingham - Ladywood
+ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_northfield,Birmingham - Northfield
+ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_perry_barr,Birmingham - Perry Barr
+ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_selly_oak,Birmingham - Selly Oak
+ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_yardley,Birmingham - Yardley
+ocd-division/country:gb/part:eng/region:ukg/ed:bromsgrove,Bromsgrove
+ocd-division/country:gb/part:eng/region:ukg/ed:burton,Burton
+ocd-division/country:gb/part:eng/region:ukg/ed:cannock_chase,Cannock Chase
+ocd-division/country:gb/part:eng/region:ukg/ed:coventry_north_east,Coventry North East
+ocd-division/country:gb/part:eng/region:ukg/ed:coventry_north_west,Coventry North West
+ocd-division/country:gb/part:eng/region:ukg/ed:coventry_south,Coventry South
+ocd-division/country:gb/part:eng/region:ukg/ed:dudley_north,Dudley North
+ocd-division/country:gb/part:eng/region:ukg/ed:dudley_south,Dudley South
+ocd-division/country:gb/part:eng/region:ukg/ed:halesowen_and_rowley_regis,Halesowen and Rowley Regis
+ocd-division/country:gb/part:eng/region:ukg/ed:hereford_and_south_herefordshire,Hereford and South Herefordshire
+ocd-division/country:gb/part:eng/region:ukg/ed:kenilworth_and_southam,Kenilworth and Southam
+ocd-division/country:gb/part:eng/region:ukg/ed:lichfield,Lichfield
+ocd-division/country:gb/part:eng/region:ukg/ed:ludlow,Ludlow
+ocd-division/country:gb/part:eng/region:ukg/ed:meriden,Meriden
+ocd-division/country:gb/part:eng/region:ukg/ed:mid_worcestershire,Mid Worcestershire
+ocd-division/country:gb/part:eng/region:ukg/ed:newcastle-under-lyme,Newcastle-under-Lyme
+ocd-division/country:gb/part:eng/region:ukg/ed:north_herefordshire,North Herefordshire
+ocd-division/country:gb/part:eng/region:ukg/ed:north_shropshire,North Shropshire
+ocd-division/country:gb/part:eng/region:ukg/ed:north_warwickshire,North Warwickshire
+ocd-division/country:gb/part:eng/region:ukg/ed:nuneaton,Nuneaton
+ocd-division/country:gb/part:eng/region:ukg/ed:redditch,Redditch
+ocd-division/country:gb/part:eng/region:ukg/ed:rugby,Rugby
+ocd-division/country:gb/part:eng/region:ukg/ed:shrewsbury_and_atcham,Shrewsbury and Atcham
+ocd-division/country:gb/part:eng/region:ukg/ed:solihull,Solihull
+ocd-division/country:gb/part:eng/region:ukg/ed:south_staffordshire,South Staffordshire
+ocd-division/country:gb/part:eng/region:ukg/ed:stafford,Stafford
+ocd-division/country:gb/part:eng/region:ukg/ed:staffordshire_moorlands,Staffordshire Moorlands
+ocd-division/country:gb/part:eng/region:ukg/ed:stoke-on-trent_central,Stoke-on-Trent Central
+ocd-division/country:gb/part:eng/region:ukg/ed:stoke-on-trent_north,Stoke-on-Trent North
+ocd-division/country:gb/part:eng/region:ukg/ed:stoke-on-trent_south,Stoke-on-Trent South
+ocd-division/country:gb/part:eng/region:ukg/ed:stone,Stone
+ocd-division/country:gb/part:eng/region:ukg/ed:stourbridge,Stourbridge
+ocd-division/country:gb/part:eng/region:ukg/ed:stratford-on-avon,Stratford-on-Avon
+ocd-division/country:gb/part:eng/region:ukg/ed:sutton_coldfield,Sutton Coldfield
+ocd-division/country:gb/part:eng/region:ukg/ed:tamworth,Tamworth
+ocd-division/country:gb/part:eng/region:ukg/ed:telford,Telford
+ocd-division/country:gb/part:eng/region:ukg/ed:the_wrekin,The Wrekin
+ocd-division/country:gb/part:eng/region:ukg/ed:walsall_north,Walsall North
+ocd-division/country:gb/part:eng/region:ukg/ed:walsall_south,Walsall South
+ocd-division/country:gb/part:eng/region:ukg/ed:warley,Warley
+ocd-division/country:gb/part:eng/region:ukg/ed:warwick_and_leamington,Warwick and Leamington
+ocd-division/country:gb/part:eng/region:ukg/ed:west_bromwich_east,West Bromwich East
+ocd-division/country:gb/part:eng/region:ukg/ed:west_bromwich_west,West Bromwich West
+ocd-division/country:gb/part:eng/region:ukg/ed:west_worcestershire,West Worcestershire
+ocd-division/country:gb/part:eng/region:ukg/ed:wolverhampton_north_east,Wolverhampton North East
+ocd-division/country:gb/part:eng/region:ukg/ed:wolverhampton_south_east,Wolverhampton South East
+ocd-division/country:gb/part:eng/region:ukg/ed:wolverhampton_south_west,Wolverhampton South West
+ocd-division/country:gb/part:eng/region:ukg/ed:worcester,Worcester
+ocd-division/country:gb/part:eng/region:ukg/ed:wyre_forest,Wyre Forest
+ocd-division/country:gb/part:eng/region:ukh/ed:basildon_and_billericay,Basildon and Billericay
+ocd-division/country:gb/part:eng/region:ukh/ed:bedford,Bedford
+ocd-division/country:gb/part:eng/region:ukh/ed:braintree,Braintree
+ocd-division/country:gb/part:eng/region:ukh/ed:brentwood_and_ongar,Brentwood and Ongar
+ocd-division/country:gb/part:eng/region:ukh/ed:broadland,Broadland
+ocd-division/country:gb/part:eng/region:ukh/ed:broxbourne,Broxbourne
+ocd-division/country:gb/part:eng/region:ukh/ed:bury_st_edmunds,Bury St Edmunds
+ocd-division/country:gb/part:eng/region:ukh/ed:cambridge,Cambridge
+ocd-division/country:gb/part:eng/region:ukh/ed:castle_point,Castle Point
+ocd-division/country:gb/part:eng/region:ukh/ed:central_suffolk_and_north_ipswich,Central Suffolk and North Ipswich
+ocd-division/country:gb/part:eng/region:ukh/ed:chelmsford,Chelmsford
+ocd-division/country:gb/part:eng/region:ukh/ed:clacton,Clacton
+ocd-division/country:gb/part:eng/region:ukh/ed:colchester,Colchester
+ocd-division/country:gb/part:eng/region:ukh/ed:epping_forest,Epping Forest
+ocd-division/country:gb/part:eng/region:ukh/ed:great_yarmouth,Great Yarmouth
+ocd-division/country:gb/part:eng/region:ukh/ed:harlow,Harlow
+ocd-division/country:gb/part:eng/region:ukh/ed:harwich_and_north_essex,Harwich and North Essex
+ocd-division/country:gb/part:eng/region:ukh/ed:hemel_hempstead,Hemel Hempstead
+ocd-division/country:gb/part:eng/region:ukh/ed:hertford_and_stortford,Hertford and Stortford
+ocd-division/country:gb/part:eng/region:ukh/ed:hertsmere,Hertsmere
+ocd-division/country:gb/part:eng/region:ukh/ed:hitchin_and_harpenden,Hitchin and Harpenden
+ocd-division/country:gb/part:eng/region:ukh/ed:huntingdon,Huntingdon
+ocd-division/country:gb/part:eng/region:ukh/ed:ipswich,Ipswich
+ocd-division/country:gb/part:eng/region:ukh/ed:luton_north,Luton North
+ocd-division/country:gb/part:eng/region:ukh/ed:luton_south,Luton South
+ocd-division/country:gb/part:eng/region:ukh/ed:maldon,Maldon
+ocd-division/country:gb/part:eng/region:ukh/ed:mid_bedfordshire,Mid Bedfordshire
+ocd-division/country:gb/part:eng/region:ukh/ed:mid_norfolk,Mid Norfolk
+ocd-division/country:gb/part:eng/region:ukh/ed:north_east_bedfordshire,North East Bedfordshire
+ocd-division/country:gb/part:eng/region:ukh/ed:north_east_cambridgeshire,North East Cambridgeshire
+ocd-division/country:gb/part:eng/region:ukh/ed:north_east_hertfordshire,North East Hertfordshire
+ocd-division/country:gb/part:eng/region:ukh/ed:north_norfolk,North Norfolk
+ocd-division/country:gb/part:eng/region:ukh/ed:north_west_cambridgeshire,North West Cambridgeshire
+ocd-division/country:gb/part:eng/region:ukh/ed:north_west_norfolk,North West Norfolk
+ocd-division/country:gb/part:eng/region:ukh/ed:norwich_north,Norwich North
+ocd-division/country:gb/part:eng/region:ukh/ed:norwich_south,Norwich South
+ocd-division/country:gb/part:eng/region:ukh/ed:peterborough,Peterborough
+ocd-division/country:gb/part:eng/region:ukh/ed:rayleigh_and_wickford,Rayleigh and Wickford
+ocd-division/country:gb/part:eng/region:ukh/ed:rochford_and_southend_east,Rochford and Southend East
+ocd-division/country:gb/part:eng/region:ukh/ed:saffron_walden,Saffron Walden
+ocd-division/country:gb/part:eng/region:ukh/ed:south_basildon_and_east_thurrock,South Basildon and East Thurrock
+ocd-division/country:gb/part:eng/region:ukh/ed:south_cambridgeshire,South Cambridgeshire
+ocd-division/country:gb/part:eng/region:ukh/ed:south_east_cambridgeshire,South East Cambridgeshire
+ocd-division/country:gb/part:eng/region:ukh/ed:south_norfolk,South Norfolk
+ocd-division/country:gb/part:eng/region:ukh/ed:south_suffolk,South Suffolk
+ocd-division/country:gb/part:eng/region:ukh/ed:south_west_bedfordshire,South West Bedfordshire
+ocd-division/country:gb/part:eng/region:ukh/ed:south_west_hertfordshire,South West Hertfordshire
+ocd-division/country:gb/part:eng/region:ukh/ed:south_west_norfolk,South West Norfolk
+ocd-division/country:gb/part:eng/region:ukh/ed:southend_west,Southend West
+ocd-division/country:gb/part:eng/region:ukh/ed:st_albans,St Albans
+ocd-division/country:gb/part:eng/region:ukh/ed:stevenage,Stevenage
+ocd-division/country:gb/part:eng/region:ukh/ed:suffolk_coastal,Suffolk Coastal
+ocd-division/country:gb/part:eng/region:ukh/ed:thurrock,Thurrock
+ocd-division/country:gb/part:eng/region:ukh/ed:watford,Watford
+ocd-division/country:gb/part:eng/region:ukh/ed:waveney,Waveney
+ocd-division/country:gb/part:eng/region:ukh/ed:welwyn_hatfield,Welwyn Hatfield
+ocd-division/country:gb/part:eng/region:ukh/ed:west_suffolk,West Suffolk
+ocd-division/country:gb/part:eng/region:ukh/ed:witham,Witham
+ocd-division/country:gb/part:eng/region:uki/ed:barking,Barking
+ocd-division/country:gb/part:eng/region:uki/ed:battersea,Battersea
+ocd-division/country:gb/part:eng/region:uki/ed:beckenham,Beckenham
+ocd-division/country:gb/part:eng/region:uki/ed:bermondsey_and_old_southwark,Bermondsey and Old Southwark
+ocd-division/country:gb/part:eng/region:uki/ed:bethnal_green_and_bow,Bethnal Green and Bow
+ocd-division/country:gb/part:eng/region:uki/ed:bexleyheath_and_crayford,Bexleyheath and Crayford
+ocd-division/country:gb/part:eng/region:uki/ed:brent_central,Brent Central
+ocd-division/country:gb/part:eng/region:uki/ed:brent_north,Brent North
+ocd-division/country:gb/part:eng/region:uki/ed:brentford_and_isleworth,Brentford and Isleworth
+ocd-division/country:gb/part:eng/region:uki/ed:bromley_and_chislehurst,Bromley and Chislehurst
+ocd-division/country:gb/part:eng/region:uki/ed:camberwell_and_peckham,Camberwell and Peckham
+ocd-division/country:gb/part:eng/region:uki/ed:carshalton_and_wallington,Carshalton and Wallington
+ocd-division/country:gb/part:eng/region:uki/ed:chelsea_and_fulham,Chelsea and Fulham
+ocd-division/country:gb/part:eng/region:uki/ed:chingford_and_woodford_green,Chingford and Woodford Green
+ocd-division/country:gb/part:eng/region:uki/ed:chipping_barnet,Chipping Barnet
+ocd-division/country:gb/part:eng/region:uki/ed:cities_of_london_and_westminster,Cities of London and Westminster
+ocd-division/country:gb/part:eng/region:uki/ed:croydon_central,Croydon Central
+ocd-division/country:gb/part:eng/region:uki/ed:croydon_north,Croydon North
+ocd-division/country:gb/part:eng/region:uki/ed:croydon_south,Croydon South
+ocd-division/country:gb/part:eng/region:uki/ed:dagenham_and_rainham,Dagenham and Rainham
+ocd-division/country:gb/part:eng/region:uki/ed:dulwich_and_west_norwood,Dulwich and West Norwood
+ocd-division/country:gb/part:eng/region:uki/ed:ealing_central_and_acton,Ealing Central and Acton
+ocd-division/country:gb/part:eng/region:uki/ed:ealing_north,Ealing North
+ocd-division/country:gb/part:eng/region:uki/ed:ealing_southall,Ealing - Southall
+ocd-division/country:gb/part:eng/region:uki/ed:east_ham,East Ham
+ocd-division/country:gb/part:eng/region:uki/ed:edmonton,Edmonton
+ocd-division/country:gb/part:eng/region:uki/ed:eltham,Eltham
+ocd-division/country:gb/part:eng/region:uki/ed:enfield_north,Enfield North
+ocd-division/country:gb/part:eng/region:uki/ed:enfield_southgate,Enfield - Southgate
+ocd-division/country:gb/part:eng/region:uki/ed:erith_and_thamesmead,Erith and Thamesmead
+ocd-division/country:gb/part:eng/region:uki/ed:feltham_and_heston,Feltham and Heston
+ocd-division/country:gb/part:eng/region:uki/ed:finchley_and_golders_green,Finchley and Golders Green
+ocd-division/country:gb/part:eng/region:uki/ed:greenwich_and_woolwich,Greenwich and Woolwich
+ocd-division/country:gb/part:eng/region:uki/ed:hackney_north_and_stoke_newington,Hackney North and Stoke Newington
+ocd-division/country:gb/part:eng/region:uki/ed:hackney_south_and_shoreditch,Hackney South and Shoreditch
+ocd-division/country:gb/part:eng/region:uki/ed:hammersmith,Hammersmith
+ocd-division/country:gb/part:eng/region:uki/ed:hampstead_and_kilburn,Hampstead and Kilburn
+ocd-division/country:gb/part:eng/region:uki/ed:harrow_east,Harrow East
+ocd-division/country:gb/part:eng/region:uki/ed:harrow_west,Harrow West
+ocd-division/country:gb/part:eng/region:uki/ed:hayes_and_harlington,Hayes and Harlington
+ocd-division/country:gb/part:eng/region:uki/ed:hendon,Hendon
+ocd-division/country:gb/part:eng/region:uki/ed:holborn_and_st_pancras,Holborn and St Pancras
+ocd-division/country:gb/part:eng/region:uki/ed:hornchurch_and_upminster,Hornchurch and Upminster
+ocd-division/country:gb/part:eng/region:uki/ed:hornsey_and_wood_green,Hornsey and Wood Green
+ocd-division/country:gb/part:eng/region:uki/ed:ilford_north,Ilford North
+ocd-division/country:gb/part:eng/region:uki/ed:ilford_south,Ilford South
+ocd-division/country:gb/part:eng/region:uki/ed:islington_north,Islington North
+ocd-division/country:gb/part:eng/region:uki/ed:islington_south_and_finsbury,Islington South and Finsbury
+ocd-division/country:gb/part:eng/region:uki/ed:kensington,Kensington
+ocd-division/country:gb/part:eng/region:uki/ed:kingston_and_surbiton,Kingston and Surbiton
+ocd-division/country:gb/part:eng/region:uki/ed:lewisham_east,Lewisham East
+ocd-division/country:gb/part:eng/region:uki/ed:lewisham_west_and_penge,Lewisham West and Penge
+ocd-division/country:gb/part:eng/region:uki/ed:lewisham_deptford,Lewisham - Deptford
+ocd-division/country:gb/part:eng/region:uki/ed:leyton_and_wanstead,Leyton and Wanstead
+ocd-division/country:gb/part:eng/region:uki/ed:mitcham_and_morden,Mitcham and Morden
+ocd-division/country:gb/part:eng/region:uki/ed:old_bexley_and_sidcup,Old Bexley and Sidcup
+ocd-division/country:gb/part:eng/region:uki/ed:orpington,Orpington
+ocd-division/country:gb/part:eng/region:uki/ed:poplar_and_limehouse,Poplar and Limehouse
+ocd-division/country:gb/part:eng/region:uki/ed:putney,Putney
+ocd-division/country:gb/part:eng/region:uki/ed:richmond_park,Richmond Park
+ocd-division/country:gb/part:eng/region:uki/ed:romford,Romford
+ocd-division/country:gb/part:eng/region:uki/ed:ruislip_northwood_and_pinner,Ruislip - Northwood and Pinner
+ocd-division/country:gb/part:eng/region:uki/ed:streatham,Streatham
+ocd-division/country:gb/part:eng/region:uki/ed:sutton_and_cheam,Sutton and Cheam
+ocd-division/country:gb/part:eng/region:uki/ed:tooting,Tooting
+ocd-division/country:gb/part:eng/region:uki/ed:tottenham,Tottenham
+ocd-division/country:gb/part:eng/region:uki/ed:twickenham,Twickenham
+ocd-division/country:gb/part:eng/region:uki/ed:uxbridge_and_south_ruislip,Uxbridge and South Ruislip
+ocd-division/country:gb/part:eng/region:uki/ed:vauxhall,Vauxhall
+ocd-division/country:gb/part:eng/region:uki/ed:walthamstow,Walthamstow
+ocd-division/country:gb/part:eng/region:uki/ed:west_ham,West Ham
+ocd-division/country:gb/part:eng/region:uki/ed:westminster_north,Westminster North
+ocd-division/country:gb/part:eng/region:uki/ed:wimbledon,Wimbledon
+ocd-division/country:gb/part:eng/region:ukj/ed:aldershot,Aldershot
+ocd-division/country:gb/part:eng/region:ukj/ed:arundel_and_south_downs,Arundel and South Downs
+ocd-division/country:gb/part:eng/region:ukj/ed:ashford,Ashford
+ocd-division/country:gb/part:eng/region:ukj/ed:aylesbury,Aylesbury
+ocd-division/country:gb/part:eng/region:ukj/ed:banbury,Banbury
+ocd-division/country:gb/part:eng/region:ukj/ed:basingstoke,Basingstoke
+ocd-division/country:gb/part:eng/region:ukj/ed:beaconsfield,Beaconsfield
+ocd-division/country:gb/part:eng/region:ukj/ed:bexhill_and_battle,Bexhill and Battle
+ocd-division/country:gb/part:eng/region:ukj/ed:bognor_regis_and_littlehampton,Bognor Regis and Littlehampton
+ocd-division/country:gb/part:eng/region:ukj/ed:bracknell,Bracknell
+ocd-division/country:gb/part:eng/region:ukj/ed:brighton_kemptown,Brighton - Kemptown
+ocd-division/country:gb/part:eng/region:ukj/ed:brighton_pavilion,Brighton - Pavilion
+ocd-division/country:gb/part:eng/region:ukj/ed:buckingham,Buckingham
+ocd-division/country:gb/part:eng/region:ukj/ed:canterbury,Canterbury
+ocd-division/country:gb/part:eng/region:ukj/ed:chatham_and_aylesford,Chatham and Aylesford
+ocd-division/country:gb/part:eng/region:ukj/ed:chesham_and_amersham,Chesham and Amersham
+ocd-division/country:gb/part:eng/region:ukj/ed:chichester,Chichester
+ocd-division/country:gb/part:eng/region:ukj/ed:crawley,Crawley
+ocd-division/country:gb/part:eng/region:ukj/ed:dartford,Dartford
+ocd-division/country:gb/part:eng/region:ukj/ed:dover,Dover
+ocd-division/country:gb/part:eng/region:ukj/ed:east_hampshire,East Hampshire
+ocd-division/country:gb/part:eng/region:ukj/ed:east_surrey,East Surrey
+ocd-division/country:gb/part:eng/region:ukj/ed:east_worthing_and_shoreham,East Worthing and Shoreham
+ocd-division/country:gb/part:eng/region:ukj/ed:eastbourne,Eastbourne
+ocd-division/country:gb/part:eng/region:ukj/ed:eastleigh,Eastleigh
+ocd-division/country:gb/part:eng/region:ukj/ed:epsom_and_ewell,Epsom and Ewell
+ocd-division/country:gb/part:eng/region:ukj/ed:esher_and_walton,Esher and Walton
+ocd-division/country:gb/part:eng/region:ukj/ed:fareham,Fareham
+ocd-division/country:gb/part:eng/region:ukj/ed:faversham_and_mid_kent,Faversham and Mid Kent
+ocd-division/country:gb/part:eng/region:ukj/ed:folkestone_and_hythe,Folkestone and Hythe
+ocd-division/country:gb/part:eng/region:ukj/ed:gillingham_and_rainham,Gillingham and Rainham
+ocd-division/country:gb/part:eng/region:ukj/ed:gosport,Gosport
+ocd-division/country:gb/part:eng/region:ukj/ed:gravesham,Gravesham
+ocd-division/country:gb/part:eng/region:ukj/ed:guildford,Guildford
+ocd-division/country:gb/part:eng/region:ukj/ed:hastings_and_rye,Hastings and Rye
+ocd-division/country:gb/part:eng/region:ukj/ed:havant,Havant
+ocd-division/country:gb/part:eng/region:ukj/ed:henley,Henley
+ocd-division/country:gb/part:eng/region:ukj/ed:horsham,Horsham
+ocd-division/country:gb/part:eng/region:ukj/ed:hove,Hove
+ocd-division/country:gb/part:eng/region:ukj/ed:isle_of_wight,Isle of Wight
+ocd-division/country:gb/part:eng/region:ukj/ed:lewes,Lewes
+ocd-division/country:gb/part:eng/region:ukj/ed:maidenhead,Maidenhead
+ocd-division/country:gb/part:eng/region:ukj/ed:maidstone_and_the_weald,Maidstone and The Weald
+ocd-division/country:gb/part:eng/region:ukj/ed:meon_valley,Meon Valley
+ocd-division/country:gb/part:eng/region:ukj/ed:mid_sussex,Mid Sussex
+ocd-division/country:gb/part:eng/region:ukj/ed:milton_keynes_north,Milton Keynes North
+ocd-division/country:gb/part:eng/region:ukj/ed:milton_keynes_south,Milton Keynes South
+ocd-division/country:gb/part:eng/region:ukj/ed:mole_valley,Mole Valley
+ocd-division/country:gb/part:eng/region:ukj/ed:new_forest_east,New Forest East
+ocd-division/country:gb/part:eng/region:ukj/ed:new_forest_west,New Forest West
+ocd-division/country:gb/part:eng/region:ukj/ed:newbury,Newbury
+ocd-division/country:gb/part:eng/region:ukj/ed:north_east_hampshire,North East Hampshire
+ocd-division/country:gb/part:eng/region:ukj/ed:north_thanet,North Thanet
+ocd-division/country:gb/part:eng/region:ukj/ed:north_west_hampshire,North West Hampshire
+ocd-division/country:gb/part:eng/region:ukj/ed:oxford_east,Oxford East
+ocd-division/country:gb/part:eng/region:ukj/ed:oxford_west_and_abingdon,Oxford West and Abingdon
+ocd-division/country:gb/part:eng/region:ukj/ed:portsmouth_north,Portsmouth North
+ocd-division/country:gb/part:eng/region:ukj/ed:portsmouth_south,Portsmouth South
+ocd-division/country:gb/part:eng/region:ukj/ed:reading_east,Reading East
+ocd-division/country:gb/part:eng/region:ukj/ed:reading_west,Reading West
+ocd-division/country:gb/part:eng/region:ukj/ed:reigate,Reigate
+ocd-division/country:gb/part:eng/region:ukj/ed:rochester_and_strood,Rochester and Strood
+ocd-division/country:gb/part:eng/region:ukj/ed:romsey_and_southampton_north,Romsey and Southampton North
+ocd-division/country:gb/part:eng/region:ukj/ed:runnymede_and_weybridge,Runnymede and Weybridge
+ocd-division/country:gb/part:eng/region:ukj/ed:sevenoaks,Sevenoaks
+ocd-division/country:gb/part:eng/region:ukj/ed:sittingbourne_and_sheppey,Sittingbourne and Sheppey
+ocd-division/country:gb/part:eng/region:ukj/ed:slough,Slough
+ocd-division/country:gb/part:eng/region:ukj/ed:south_thanet,South Thanet
+ocd-division/country:gb/part:eng/region:ukj/ed:south_west_surrey,South West Surrey
+ocd-division/country:gb/part:eng/region:ukj/ed:southampton_itchen,Southampton - Itchen
+ocd-division/country:gb/part:eng/region:ukj/ed:southampton_test,Southampton - Test
+ocd-division/country:gb/part:eng/region:ukj/ed:spelthorne,Spelthorne
+ocd-division/country:gb/part:eng/region:ukj/ed:surrey_heath,Surrey Heath
+ocd-division/country:gb/part:eng/region:ukj/ed:tonbridge_and_malling,Tonbridge and Malling
+ocd-division/country:gb/part:eng/region:ukj/ed:tunbridge_wells,Tunbridge Wells
+ocd-division/country:gb/part:eng/region:ukj/ed:wantage,Wantage
+ocd-division/country:gb/part:eng/region:ukj/ed:wealden,Wealden
+ocd-division/country:gb/part:eng/region:ukj/ed:winchester,Winchester
+ocd-division/country:gb/part:eng/region:ukj/ed:windsor,Windsor
+ocd-division/country:gb/part:eng/region:ukj/ed:witney,Witney
+ocd-division/country:gb/part:eng/region:ukj/ed:woking,Woking
+ocd-division/country:gb/part:eng/region:ukj/ed:wokingham,Wokingham
+ocd-division/country:gb/part:eng/region:ukj/ed:worthing_west,Worthing West
+ocd-division/country:gb/part:eng/region:ukj/ed:wycombe,Wycombe
+ocd-division/country:gb/part:eng/region:ukk/ed:bath,Bath
+ocd-division/country:gb/part:eng/region:ukk/ed:bournemouth_east,Bournemouth East
+ocd-division/country:gb/part:eng/region:ukk/ed:bournemouth_west,Bournemouth West
+ocd-division/country:gb/part:eng/region:ukk/ed:bridgwater_and_west_somerset,Bridgwater and West Somerset
+ocd-division/country:gb/part:eng/region:ukk/ed:bristol_east,Bristol East
+ocd-division/country:gb/part:eng/region:ukk/ed:bristol_north_west,Bristol North West
+ocd-division/country:gb/part:eng/region:ukk/ed:bristol_south,Bristol South
+ocd-division/country:gb/part:eng/region:ukk/ed:bristol_west,Bristol West
+ocd-division/country:gb/part:eng/region:ukk/ed:camborne_and_redruth,Camborne and Redruth
+ocd-division/country:gb/part:eng/region:ukk/ed:central_devon,Central Devon
+ocd-division/country:gb/part:eng/region:ukk/ed:cheltenham,Cheltenham
+ocd-division/country:gb/part:eng/region:ukk/ed:chippenham,Chippenham
+ocd-division/country:gb/part:eng/region:ukk/ed:christchurch,Christchurch
+ocd-division/country:gb/part:eng/region:ukk/ed:devizes,Devizes
+ocd-division/country:gb/part:eng/region:ukk/ed:east_devon,East Devon
+ocd-division/country:gb/part:eng/region:ukk/ed:exeter,Exeter
+ocd-division/country:gb/part:eng/region:ukk/ed:filton_and_bradley_stoke,Filton and Bradley Stoke
+ocd-division/country:gb/part:eng/region:ukk/ed:forest_of_dean,Forest of Dean
+ocd-division/country:gb/part:eng/region:ukk/ed:gloucester,Gloucester
+ocd-division/country:gb/part:eng/region:ukk/ed:kingswood,Kingswood
+ocd-division/country:gb/part:eng/region:ukk/ed:mid_dorset_and_north_poole,Mid Dorset and North Poole
+ocd-division/country:gb/part:eng/region:ukk/ed:newton_abbot,Newton Abbot
+ocd-division/country:gb/part:eng/region:ukk/ed:north_cornwall,North Cornwall
+ocd-division/country:gb/part:eng/region:ukk/ed:north_devon,North Devon
+ocd-division/country:gb/part:eng/region:ukk/ed:north_dorset,North Dorset
+ocd-division/country:gb/part:eng/region:ukk/ed:north_east_somerset,North East Somerset
+ocd-division/country:gb/part:eng/region:ukk/ed:north_somerset,North Somerset
+ocd-division/country:gb/part:eng/region:ukk/ed:north_swindon,North Swindon
+ocd-division/country:gb/part:eng/region:ukk/ed:north_wiltshire,North Wiltshire
+ocd-division/country:gb/part:eng/region:ukk/ed:plymouth_moor_view,Plymouth - Moor View
+ocd-division/country:gb/part:eng/region:ukk/ed:plymouth_sutton_and_devonport,Plymouth - Sutton and Devonport
+ocd-division/country:gb/part:eng/region:ukk/ed:poole,Poole
+ocd-division/country:gb/part:eng/region:ukk/ed:salisbury,Salisbury
+ocd-division/country:gb/part:eng/region:ukk/ed:somerton_and_frome,Somerton and Frome
+ocd-division/country:gb/part:eng/region:ukk/ed:south_dorset,South Dorset
+ocd-division/country:gb/part:eng/region:ukk/ed:south_east_cornwall,South East Cornwall
+ocd-division/country:gb/part:eng/region:ukk/ed:south_swindon,South Swindon
+ocd-division/country:gb/part:eng/region:ukk/ed:south_west_devon,South West Devon
+ocd-division/country:gb/part:eng/region:ukk/ed:south_west_wiltshire,South West Wiltshire
+ocd-division/country:gb/part:eng/region:ukk/ed:st_austell_and_newquay,St Austell and Newquay
+ocd-division/country:gb/part:eng/region:ukk/ed:st_ives,St Ives
+ocd-division/country:gb/part:eng/region:ukk/ed:stroud,Stroud
+ocd-division/country:gb/part:eng/region:ukk/ed:taunton_deane,Taunton Deane
+ocd-division/country:gb/part:eng/region:ukk/ed:tewkesbury,Tewkesbury
+ocd-division/country:gb/part:eng/region:ukk/ed:the_cotswolds,The Cotswolds
+ocd-division/country:gb/part:eng/region:ukk/ed:thornbury_and_yate,Thornbury and Yate
+ocd-division/country:gb/part:eng/region:ukk/ed:tiverton_and_honiton,Tiverton and Honiton
+ocd-division/country:gb/part:eng/region:ukk/ed:torbay,Torbay
+ocd-division/country:gb/part:eng/region:ukk/ed:torridge_and_west_devon,Torridge and West Devon
+ocd-division/country:gb/part:eng/region:ukk/ed:totnes,Totnes
+ocd-division/country:gb/part:eng/region:ukk/ed:truro_and_falmouth,Truro and Falmouth
+ocd-division/country:gb/part:eng/region:ukk/ed:wells,Wells
+ocd-division/country:gb/part:eng/region:ukk/ed:west_dorset,West Dorset
+ocd-division/country:gb/part:eng/region:ukk/ed:weston-super-mare,Weston-super-Mare
+ocd-division/country:gb/part:eng/region:ukk/ed:yeovil,Yeovil
+ocd-division/country:gb/part:nir/ed:belfast_east,Belfast East
+ocd-division/country:gb/part:nir/ed:belfast_north,Belfast North
+ocd-division/country:gb/part:nir/ed:belfast_south,Belfast South
+ocd-division/country:gb/part:nir/ed:belfast_west,Belfast West
+ocd-division/country:gb/part:nir/ed:east_antrim,East Antrim
+ocd-division/country:gb/part:nir/ed:east_londonderry,East Londonderry
+ocd-division/country:gb/part:nir/ed:fermanagh_and_south_tyrone,Fermanagh and South Tyrone
+ocd-division/country:gb/part:nir/ed:foyle,Foyle
+ocd-division/country:gb/part:nir/ed:lagan_valley,Lagan Valley
+ocd-division/country:gb/part:nir/ed:mid_ulster,Mid Ulster
+ocd-division/country:gb/part:nir/ed:newry_and_armagh,Newry and Armagh
+ocd-division/country:gb/part:nir/ed:north_antrim,North Antrim
+ocd-division/country:gb/part:nir/ed:north_down,North Down
+ocd-division/country:gb/part:nir/ed:south_antrim,South Antrim
+ocd-division/country:gb/part:nir/ed:south_down,South Down
+ocd-division/country:gb/part:nir/ed:strangford,Strangford
+ocd-division/country:gb/part:nir/ed:upper_bann,Upper Bann
+ocd-division/country:gb/part:nir/ed:west_tyrone,West Tyrone
+ocd-division/country:gb/part:sct/ed:aberdeen_north,Aberdeen North
+ocd-division/country:gb/part:sct/ed:aberdeen_south,Aberdeen South
+ocd-division/country:gb/part:sct/ed:airdrie_and_shotts,Airdrie and Shotts
+ocd-division/country:gb/part:sct/ed:angus,Angus
+ocd-division/country:gb/part:sct/ed:argyll_and_bute,Argyll and Bute
+ocd-division/country:gb/part:sct/ed:ayr_carrick_and_cumnock,Ayr - Carrick and Cumnock
+ocd-division/country:gb/part:sct/ed:banff_and_buchan,Banff and Buchan
+ocd-division/country:gb/part:sct/ed:berwickshire_roxburgh_and_selkirk,Berwickshire - Roxburgh and Selkirk
+ocd-division/country:gb/part:sct/ed:caithness_sutherland_and_easter_ross,Caithness - Sutherland and Easter Ross
+ocd-division/country:gb/part:sct/ed:central_ayrshire,Central Ayrshire
+ocd-division/country:gb/part:sct/ed:coatbridge_chryston_and_bellshill,Coatbridge - Chryston and Bellshill
+ocd-division/country:gb/part:sct/ed:cumbernauld_kilsyth_and_kirkintilloch_east,Cumbernauld - Kilsyth and Kirkintilloch East
+ocd-division/country:gb/part:sct/ed:dumfries_and_galloway,Dumfries and Galloway
+ocd-division/country:gb/part:sct/ed:dumfriesshire_clydesdale_and_tweeddale,Dumfriesshire - Clydesdale and Tweeddale
+ocd-division/country:gb/part:sct/ed:dundee_east,Dundee East
+ocd-division/country:gb/part:sct/ed:dundee_west,Dundee West
+ocd-division/country:gb/part:sct/ed:dunfermline_and_west_fife,Dunfermline and West Fife
+ocd-division/country:gb/part:sct/ed:east_dunbartonshire,East Dunbartonshire
+ocd-division/country:gb/part:sct/ed:east_kilbride_strathaven_and_lesmahagow,East Kilbride - Strathaven and Lesmahagow
+ocd-division/country:gb/part:sct/ed:east_lothian,East Lothian
+ocd-division/country:gb/part:sct/ed:east_renfrewshire,East Renfrewshire
+ocd-division/country:gb/part:sct/ed:edinburgh_east,Edinburgh East
+ocd-division/country:gb/part:sct/ed:edinburgh_north_and_leith,Edinburgh North and Leith
+ocd-division/country:gb/part:sct/ed:edinburgh_south,Edinburgh South
+ocd-division/country:gb/part:sct/ed:edinburgh_south_west,Edinburgh South West
+ocd-division/country:gb/part:sct/ed:edinburgh_west,Edinburgh West
+ocd-division/country:gb/part:sct/ed:falkirk,Falkirk
+ocd-division/country:gb/part:sct/ed:glasgow_central,Glasgow Central
+ocd-division/country:gb/part:sct/ed:glasgow_east,Glasgow East
+ocd-division/country:gb/part:sct/ed:glasgow_north,Glasgow North
+ocd-division/country:gb/part:sct/ed:glasgow_north_east,Glasgow North East
+ocd-division/country:gb/part:sct/ed:glasgow_north_west,Glasgow North West
+ocd-division/country:gb/part:sct/ed:glasgow_south,Glasgow South
+ocd-division/country:gb/part:sct/ed:glasgow_south_west,Glasgow South West
+ocd-division/country:gb/part:sct/ed:glenrothes,Glenrothes
+ocd-division/country:gb/part:sct/ed:gordon,Gordon
+ocd-division/country:gb/part:sct/ed:inverclyde,Inverclyde
+ocd-division/country:gb/part:sct/ed:inverness_nairn_badenoch_and_strathspey,Inverness - Nairn - Badenoch and Strathspey
+ocd-division/country:gb/part:sct/ed:kilmarnock_and_loudoun,Kilmarnock and Loudoun
+ocd-division/country:gb/part:sct/ed:kirkcaldy_and_cowdenbeath,Kirkcaldy and Cowdenbeath
+ocd-division/country:gb/part:sct/ed:lanark_and_hamilton_east,Lanark and Hamilton East
+ocd-division/country:gb/part:sct/ed:linlithgow_and_east_falkirk,Linlithgow and East Falkirk
+ocd-division/country:gb/part:sct/ed:livingston,Livingston
+ocd-division/country:gb/part:sct/ed:midlothian,Midlothian
+ocd-division/country:gb/part:sct/ed:moray,Moray
+ocd-division/country:gb/part:sct/ed:motherwell_and_wishaw,Motherwell and Wishaw
+ocd-division/country:gb/part:sct/ed:na_h-eileanan_an_iar,Na h-Eileanan an Iar
+ocd-division/country:gb/part:sct/ed:north_ayrshire_and_arran,North Ayrshire and Arran
+ocd-division/country:gb/part:sct/ed:north_east_fife,North East Fife
+ocd-division/country:gb/part:sct/ed:ochil_and_south_perthshire,Ochil and South Perthshire
+ocd-division/country:gb/part:sct/ed:orkney_and_shetland,Orkney and Shetland
+ocd-division/country:gb/part:sct/ed:paisley_and_renfrewshire_north,Paisley and Renfrewshire North
+ocd-division/country:gb/part:sct/ed:paisley_and_renfrewshire_south,Paisley and Renfrewshire South
+ocd-division/country:gb/part:sct/ed:perth_and_north_perthshire,Perth and North Perthshire
+ocd-division/country:gb/part:sct/ed:ross_skye_and_lochaber,Ross - Skye and Lochaber
+ocd-division/country:gb/part:sct/ed:rutherglen_and_hamilton_west,Rutherglen and Hamilton West
+ocd-division/country:gb/part:sct/ed:stirling,Stirling
+ocd-division/country:gb/part:sct/ed:west_aberdeenshire_and_kincardine,West Aberdeenshire and Kincardine
+ocd-division/country:gb/part:sct/ed:west_dunbartonshire,West Dunbartonshire
+ocd-division/country:gb/part:wls/ed:aberavon,Aberavon
+ocd-division/country:gb/part:wls/ed:aberconwy,Aberconwy
+ocd-division/country:gb/part:wls/ed:alyn_and_deeside,Alyn and Deeside
+ocd-division/country:gb/part:wls/ed:arfon,Arfon
+ocd-division/country:gb/part:wls/ed:blaenau_gwent,Blaenau Gwent
+ocd-division/country:gb/part:wls/ed:brecon_and_radnorshire,Brecon and Radnorshire
+ocd-division/country:gb/part:wls/ed:bridgend,Bridgend
+ocd-division/country:gb/part:wls/ed:caerphilly,Caerphilly
+ocd-division/country:gb/part:wls/ed:cardiff_central,Cardiff Central
+ocd-division/country:gb/part:wls/ed:cardiff_north,Cardiff North
+ocd-division/country:gb/part:wls/ed:cardiff_south_and_penarth,Cardiff South and Penarth
+ocd-division/country:gb/part:wls/ed:cardiff_west,Cardiff West
+ocd-division/country:gb/part:wls/ed:carmarthen_east_and_dinefwr,Carmarthen East and Dinefwr
+ocd-division/country:gb/part:wls/ed:carmarthen_west_and_south_pembrokeshire,Carmarthen West and South Pembrokeshire
+ocd-division/country:gb/part:wls/ed:ceredigion,Ceredigion
+ocd-division/country:gb/part:wls/ed:clwyd_south,Clwyd South
+ocd-division/country:gb/part:wls/ed:clwyd_west,Clwyd West
+ocd-division/country:gb/part:wls/ed:cynon_valley,Cynon Valley
+ocd-division/country:gb/part:wls/ed:delyn,Delyn
+ocd-division/country:gb/part:wls/ed:dwyfor_meirionnydd,Dwyfor Meirionnydd
+ocd-division/country:gb/part:wls/ed:gower,Gower
+ocd-division/country:gb/part:wls/ed:islwyn,Islwyn
+ocd-division/country:gb/part:wls/ed:llanelli,Llanelli
+ocd-division/country:gb/part:wls/ed:merthyr_tydfil_and_rhymney,Merthyr Tydfil and Rhymney
+ocd-division/country:gb/part:wls/ed:monmouth,Monmouth
+ocd-division/country:gb/part:wls/ed:montgomeryshire,Montgomeryshire
+ocd-division/country:gb/part:wls/ed:neath,Neath
+ocd-division/country:gb/part:wls/ed:newport_east,Newport East
+ocd-division/country:gb/part:wls/ed:newport_west,Newport West
+ocd-division/country:gb/part:wls/ed:ogmore,Ogmore
+ocd-division/country:gb/part:wls/ed:pontypridd,Pontypridd
+ocd-division/country:gb/part:wls/ed:preseli_pembrokeshire,Preseli Pembrokeshire
+ocd-division/country:gb/part:wls/ed:rhondda,Rhondda
+ocd-division/country:gb/part:wls/ed:swansea_east,Swansea East
+ocd-division/country:gb/part:wls/ed:swansea_west,Swansea West
+ocd-division/country:gb/part:wls/ed:torfaen,Torfaen
+ocd-division/country:gb/part:wls/ed:vale_of_clwyd,Vale of Clwyd
+ocd-division/country:gb/part:wls/ed:vale_of_glamorgan,Vale of Glamorgan
+ocd-division/country:gb/part:wls/ed:wrexham,Wrexham
+ocd-division/country:gb/part:wls/ed:ynys_môn,Ynys Môn
