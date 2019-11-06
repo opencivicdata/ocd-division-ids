@@ -1,0 +1,651 @@
+id,name,gss_code
+ocd-division/country:gb/pcon:aldershot,Aldershot,E14000530
+ocd-division/country:gb/pcon:aldridge-brownhills,Aldridge-Brownhills,E14000531
+ocd-division/country:gb/pcon:altrincham_and_sale_west,Altrincham and Sale West,E14000532
+ocd-division/country:gb/pcon:amber_valley,Amber Valley,E14000533
+ocd-division/country:gb/pcon:arundel_and_south_downs,Arundel and South Downs,E14000534
+ocd-division/country:gb/pcon:ashfield,Ashfield,E14000535
+ocd-division/country:gb/pcon:ashford,Ashford,E14000536
+ocd-division/country:gb/pcon:ashton-under-lyne,Ashton-under-Lyne,E14000537
+ocd-division/country:gb/pcon:aylesbury,Aylesbury,E14000538
+ocd-division/country:gb/pcon:banbury,Banbury,E14000539
+ocd-division/country:gb/pcon:bath,Bath,E14000547
+ocd-division/country:gb/pcon:batley_and_spen,Batley and Spen,E14000548
+ocd-division/country:gb/pcon:bridgend,Bridgend,W07000073
+ocd-division/country:gb/pcon:ogmore,Ogmore,W07000074
+ocd-division/country:gb/pcon:pontypridd,Pontypridd,W07000075
+ocd-division/country:gb/pcon:caerphilly,Caerphilly,W07000076
+ocd-division/country:gb/pcon:islwyn,Islwyn,W07000077
+ocd-division/country:gb/pcon:vale_of_glamorgan,Vale of Glamorgan,W07000078
+ocd-division/country:gb/pcon:cardiff_west,Cardiff West,W07000079
+ocd-division/country:gb/pcon:cardiff_south_and_penarth,Cardiff South and Penarth,W07000080
+ocd-division/country:gb/pcon:barking,Barking,E14000540
+ocd-division/country:gb/pcon:barnsley_central,Barnsley Central,E14000541
+ocd-division/country:gb/pcon:barnsley_east,Barnsley East,E14000542
+ocd-division/country:gb/pcon:barrow_and_furness,Barrow and Furness,E14000543
+ocd-division/country:gb/pcon:basildon_and_billericay,Basildon and Billericay,E14000544
+ocd-division/country:gb/pcon:basingstoke,Basingstoke,E14000545
+ocd-division/country:gb/pcon:bassetlaw,Bassetlaw,E14000546
+ocd-division/country:gb/pcon:battersea,Battersea,E14000549
+ocd-division/country:gb/pcon:beaconsfield,Beaconsfield,E14000550
+ocd-division/country:gb/pcon:beckenham,Beckenham,E14000551
+ocd-division/country:gb/pcon:bootle,Bootle,E14000581
+ocd-division/country:gb/pcon:bedford,Bedford,E14000552
+ocd-division/country:gb/pcon:bermondsey_and_old_southwark,Bermondsey and Old Southwark,E14000553
+ocd-division/country:gb/pcon:berwick-upon-tweed,Berwick-upon-Tweed,E14000554
+ocd-division/country:gb/pcon:bethnal_green_and_bow,Bethnal Green and Bow,E14000555
+ocd-division/country:gb/pcon:beverley_and_holderness,Beverley and Holderness,E14000556
+ocd-division/country:gb/pcon:bexhill_and_battle,Bexhill and Battle,E14000557
+ocd-division/country:gb/pcon:boston_and_skegness,Boston and Skegness,E14000582
+ocd-division/country:gb/pcon:bosworth,Bosworth,E14000583
+ocd-division/country:gb/pcon:bournemouth_east,Bournemouth East,E14000584
+ocd-division/country:gb/pcon:bexleyheath_and_crayford,Bexleyheath and Crayford,E14000558
+ocd-division/country:gb/pcon:bradford_east,Bradford East,E14000587
+ocd-division/country:gb/pcon:bradford_south,Bradford South,E14000588
+ocd-division/country:gb/pcon:bradford_west,Bradford West,E14000589
+ocd-division/country:gb/pcon:braintree,Braintree,E14000590
+ocd-division/country:gb/pcon:birkenhead,Birkenhead,E14000559
+ocd-division/country:gb/pcon:birmingham_edgbaston,"Birmingham, Edgbaston",E14000560
+ocd-division/country:gb/pcon:bury_south,Bury South,E14000612
+ocd-division/country:gb/pcon:bury_st_edmunds,Bury St Edmunds,E14000613
+ocd-division/country:gb/pcon:calder_valley,Calder Valley,E14000614
+ocd-division/country:gb/pcon:birmingham_erdington,"Birmingham, Erdington",E14000561
+ocd-division/country:gb/pcon:chelsea_and_fulham,Chelsea and Fulham,E14000629
+ocd-division/country:gb/pcon:cheltenham,Cheltenham,E14000630
+ocd-division/country:gb/pcon:chesham_and_amersham,Chesham and Amersham,E14000631
+ocd-division/country:gb/pcon:chesterfield,Chesterfield,E14000632
+ocd-division/country:gb/pcon:chichester,Chichester,E14000633
+ocd-division/country:gb/pcon:birmingham_hall_green,"Birmingham, Hall Green",E14000562
+ocd-division/country:gb/pcon:crewe_and_nantwich,Crewe and Nantwich,E14000653
+ocd-division/country:gb/pcon:birmingham_hodge_hill,"Birmingham, Hodge Hill",E14000563
+ocd-division/country:gb/pcon:devizes,Devizes,E14000665
+ocd-division/country:gb/pcon:dewsbury,Dewsbury,E14000666
+ocd-division/country:gb/pcon:don_valley,Don Valley,E14000667
+ocd-division/country:gb/pcon:doncaster_central,Doncaster Central,E14000668
+ocd-division/country:gb/pcon:doncaster_north,Doncaster North,E14000669
+ocd-division/country:gb/pcon:dover,Dover,E14000670
+ocd-division/country:gb/pcon:dudley_north,Dudley North,E14000671
+ocd-division/country:gb/pcon:dudley_south,Dudley South,E14000672
+ocd-division/country:gb/pcon:birmingham_ladywood,"Birmingham, Ladywood",E14000564
+ocd-division/country:gb/pcon:birmingham_northfield,"Birmingham, Northfield",E14000565
+ocd-division/country:gb/pcon:eastleigh,Eastleigh,E14000685
+ocd-division/country:gb/pcon:eddisbury,Eddisbury,E14000686
+ocd-division/country:gb/pcon:birmingham_perry_barr,"Birmingham, Perry Barr",E14000566
+ocd-division/country:gb/pcon:birmingham_selly_oak,"Birmingham, Selly Oak",E14000567
+ocd-division/country:gb/pcon:birmingham_yardley,"Birmingham, Yardley",E14000568
+ocd-division/country:gb/pcon:bishop_auckland,Bishop Auckland,E14000569
+ocd-division/country:gb/pcon:blackburn,Blackburn,E14000570
+ocd-division/country:gb/pcon:vauxhall,Vauxhall,E14001008
+ocd-division/country:gb/pcon:blackley_and_broughton,Blackley and Broughton,E14000571
+ocd-division/country:gb/pcon:blackpool_north_and_cleveleys,Blackpool North and Cleveleys,E14000572
+ocd-division/country:gb/pcon:wakefield,Wakefield,E14001009
+ocd-division/country:gb/pcon:wallasey,Wallasey,E14001010
+ocd-division/country:gb/pcon:blackpool_south,Blackpool South,E14000573
+ocd-division/country:gb/pcon:blaydon,Blaydon,E14000574
+ocd-division/country:gb/pcon:blyth_valley,Blyth Valley,E14000575
+ocd-division/country:gb/pcon:bognor_regis_and_littlehampton,Bognor Regis and Littlehampton,E14000576
+ocd-division/country:gb/pcon:bolsover,Bolsover,E14000577
+ocd-division/country:gb/pcon:bolton_north_east,Bolton North East,E14000578
+ocd-division/country:gb/pcon:bolton_south_east,Bolton South East,E14000579
+ocd-division/country:gb/pcon:bolton_west,Bolton West,E14000580
+ocd-division/country:gb/pcon:yeovil,Yeovil,E14001060
+ocd-division/country:gb/pcon:york_central,York Central,E14001061
+ocd-division/country:gb/pcon:york_outer,York Outer,E14001062
+ocd-division/country:gb/pcon:belfast_east,Belfast East,N06000001
+ocd-division/country:gb/pcon:belfast_north,Belfast North,N06000002
+ocd-division/country:gb/pcon:belfast_south,Belfast South,N06000003
+ocd-division/country:gb/pcon:belfast_west,Belfast West,N06000004
+ocd-division/country:gb/pcon:east_antrim,East Antrim,N06000005
+ocd-division/country:gb/pcon:east_londonderry,East Londonderry,N06000006
+ocd-division/country:gb/pcon:fermanagh_and_south_tyrone,Fermanagh and South Tyrone,N06000007
+ocd-division/country:gb/pcon:foyle,Foyle,N06000008
+ocd-division/country:gb/pcon:lagan_valley,Lagan Valley,N06000009
+ocd-division/country:gb/pcon:mid_ulster,Mid Ulster,N06000010
+ocd-division/country:gb/pcon:newry_and_armagh,Newry and Armagh,N06000011
+ocd-division/country:gb/pcon:north_antrim,North Antrim,N06000012
+ocd-division/country:gb/pcon:north_down,North Down,N06000013
+ocd-division/country:gb/pcon:south_antrim,South Antrim,N06000014
+ocd-division/country:gb/pcon:south_down,South Down,N06000015
+ocd-division/country:gb/pcon:strangford,Strangford,N06000016
+ocd-division/country:gb/pcon:upper_bann,Upper Bann,N06000017
+ocd-division/country:gb/pcon:west_tyrone,West Tyrone,N06000018
+ocd-division/country:gb/pcon:bournemouth_west,Bournemouth West,E14000585
+ocd-division/country:gb/pcon:bracknell,Bracknell,E14000586
+ocd-division/country:gb/pcon:brent_central,Brent Central,E14000591
+ocd-division/country:gb/pcon:dumfriesshire_clydesdale_and_tweeddale,"Dumfriesshire, Clydesdale and Tweeddale",S14000014
+ocd-division/country:gb/pcon:dundee_east,Dundee East,S14000015
+ocd-division/country:gb/pcon:dundee_west,Dundee West,S14000016
+ocd-division/country:gb/pcon:dunfermline_and_west_fife,Dunfermline and West Fife,S14000017
+ocd-division/country:gb/pcon:east_dunbartonshire,East Dunbartonshire,S14000018
+ocd-division/country:gb/pcon:east_kilbride_strathaven_and_lesmahagow,"East Kilbride, Strathaven and Lesmahagow",S14000019
+ocd-division/country:gb/pcon:east_lothian,East Lothian,S14000020
+ocd-division/country:gb/pcon:east_renfrewshire,East Renfrewshire,S14000021
+ocd-division/country:gb/pcon:brent_north,Brent North,E14000592
+ocd-division/country:gb/pcon:brentford_and_isleworth,Brentford and Isleworth,E14000593
+ocd-division/country:gb/pcon:brentwood_and_ongar,Brentwood and Ongar,E14000594
+ocd-division/country:gb/pcon:bridgwater_and_west_somerset,Bridgwater and West Somerset,E14000595
+ocd-division/country:gb/pcon:brigg_and_goole,Brigg and Goole,E14000596
+ocd-division/country:gb/pcon:brighton_kemptown,"Brighton, Kemptown",E14000597
+ocd-division/country:gb/pcon:brighton_pavilion,"Brighton, Pavilion",E14000598
+ocd-division/country:gb/pcon:bristol_east,Bristol East,E14000599
+ocd-division/country:gb/pcon:bristol_north_west,Bristol North West,E14000600
+ocd-division/country:gb/pcon:bristol_south,Bristol South,E14000601
+ocd-division/country:gb/pcon:bristol_west,Bristol West,E14000602
+ocd-division/country:gb/pcon:broadland,Broadland,E14000603
+ocd-division/country:gb/pcon:bromley_and_chislehurst,Bromley and Chislehurst,E14000604
+ocd-division/country:gb/pcon:bromsgrove,Bromsgrove,E14000605
+ocd-division/country:gb/pcon:broxbourne,Broxbourne,E14000606
+ocd-division/country:gb/pcon:broxtowe,Broxtowe,E14000607
+ocd-division/country:gb/pcon:buckingham,Buckingham,E14000608
+ocd-division/country:gb/pcon:burnley,Burnley,E14000609
+ocd-division/country:gb/pcon:burton,Burton,E14000610
+ocd-division/country:gb/pcon:bury_north,Bury North,E14000611
+ocd-division/country:gb/pcon:camberwell_and_peckham,Camberwell and Peckham,E14000615
+ocd-division/country:gb/pcon:camborne_and_redruth,Camborne and Redruth,E14000616
+ocd-division/country:gb/pcon:harrow_east,Harrow East,E14000731
+ocd-division/country:gb/pcon:cambridge,Cambridge,E14000617
+ocd-division/country:gb/pcon:cannock_chase,Cannock Chase,E14000618
+ocd-division/country:gb/pcon:canterbury,Canterbury,E14000619
+ocd-division/country:gb/pcon:carlisle,Carlisle,E14000620
+ocd-division/country:gb/pcon:heywood_and_middleton,Heywood and Middleton,E14000747
+ocd-division/country:gb/pcon:high_peak,High Peak,E14000748
+ocd-division/country:gb/pcon:hitchin_and_harpenden,Hitchin and Harpenden,E14000749
+ocd-division/country:gb/pcon:carshalton_and_wallington,Carshalton and Wallington,E14000621
+ocd-division/country:gb/pcon:castle_point,Castle Point,E14000622
+ocd-division/country:gb/pcon:central_devon,Central Devon,E14000623
+ocd-division/country:gb/pcon:central_suffolk_and_north_ipswich,Central Suffolk and North Ipswich,E14000624
+ocd-division/country:gb/pcon:charnwood,Charnwood,E14000625
+ocd-division/country:gb/pcon:chatham_and_aylesford,Chatham and Aylesford,E14000626
+ocd-division/country:gb/pcon:cheadle,Cheadle,E14000627
+ocd-division/country:gb/pcon:chelmsford,Chelmsford,E14000628
+ocd-division/country:gb/pcon:chingford_and_woodford_green,Chingford and Woodford Green,E14000634
+ocd-division/country:gb/pcon:chippenham,Chippenham,E14000635
+ocd-division/country:gb/pcon:chipping_barnet,Chipping Barnet,E14000636
+ocd-division/country:gb/pcon:chorley,Chorley,E14000637
+ocd-division/country:gb/pcon:christchurch,Christchurch,E14000638
+ocd-division/country:gb/pcon:islington_north,Islington North,E14000763
+ocd-division/country:gb/pcon:cities_of_london_and_westminster,Cities of London and Westminster,E14000639
+ocd-division/country:gb/pcon:city_of_chester,City of Chester,E14000640
+ocd-division/country:gb/pcon:city_of_durham,City of Durham,E14000641
+ocd-division/country:gb/pcon:clacton,Clacton,E14000642
+ocd-division/country:gb/pcon:cleethorpes,Cleethorpes,E14000643
+ocd-division/country:gb/pcon:islington_south_and_finsbury,Islington South and Finsbury,E14000764
+ocd-division/country:gb/pcon:jarrow,Jarrow,E14000765
+ocd-division/country:gb/pcon:keighley,Keighley,E14000766
+ocd-division/country:gb/pcon:kenilworth_and_southam,Kenilworth and Southam,E14000767
+ocd-division/country:gb/pcon:colchester,Colchester,E14000644
+ocd-division/country:gb/pcon:colne_valley,Colne Valley,E14000645
+ocd-division/country:gb/pcon:congleton,Congleton,E14000646
+ocd-division/country:gb/pcon:copeland,Copeland,E14000647
+ocd-division/country:gb/pcon:corby,Corby,E14000648
+ocd-division/country:gb/pcon:coventry_north_east,Coventry North East,E14000649
+ocd-division/country:gb/pcon:coventry_north_west,Coventry North West,E14000650
+ocd-division/country:gb/pcon:coventry_south,Coventry South,E14000651
+ocd-division/country:gb/pcon:crawley,Crawley,E14000652
+ocd-division/country:gb/pcon:croydon_central,Croydon Central,E14000654
+ocd-division/country:gb/pcon:croydon_north,Croydon North,E14000655
+ocd-division/country:gb/pcon:kensington,Kensington,E14000768
+ocd-division/country:gb/pcon:kettering,Kettering,E14000769
+ocd-division/country:gb/pcon:croydon_south,Croydon South,E14000656
+ocd-division/country:gb/pcon:dagenham_and_rainham,Dagenham and Rainham,E14000657
+ocd-division/country:gb/pcon:darlington,Darlington,E14000658
+ocd-division/country:gb/pcon:dartford,Dartford,E14000659
+ocd-division/country:gb/pcon:daventry,Daventry,E14000660
+ocd-division/country:gb/pcon:denton_and_reddish,Denton and Reddish,E14000661
+ocd-division/country:gb/pcon:derby_north,Derby North,E14000662
+ocd-division/country:gb/pcon:derby_south,Derby South,E14000663
+ocd-division/country:gb/pcon:derbyshire_dales,Derbyshire Dales,E14000664
+ocd-division/country:gb/pcon:dulwich_and_west_norwood,Dulwich and West Norwood,E14000673
+ocd-division/country:gb/pcon:luton_north,Luton North,E14000800
+ocd-division/country:gb/pcon:ealing_central_and_acton,Ealing Central and Acton,E14000674
+ocd-division/country:gb/pcon:north_west_cambridgeshire,North West Cambridgeshire,E14000855
+ocd-division/country:gb/pcon:north_west_durham,North West Durham,E14000856
+ocd-division/country:gb/pcon:north_west_hampshire,North West Hampshire,E14000857
+ocd-division/country:gb/pcon:north_west_leicestershire,North West Leicestershire,E14000858
+ocd-division/country:gb/pcon:north_west_norfolk,North West Norfolk,E14000859
+ocd-division/country:gb/pcon:north_wiltshire,North Wiltshire,E14000860
+ocd-division/country:gb/pcon:ealing_north,Ealing North,E14000675
+ocd-division/country:gb/pcon:ealing_southall,"Ealing, Southall",E14000676
+ocd-division/country:gb/pcon:easington,Easington,E14000677
+ocd-division/country:gb/pcon:east_devon,East Devon,E14000678
+ocd-division/country:gb/pcon:east_ham,East Ham,E14000679
+ocd-division/country:gb/pcon:east_hampshire,East Hampshire,E14000680
+ocd-division/country:gb/pcon:east_surrey,East Surrey,E14000681
+ocd-division/country:gb/pcon:east_worthing_and_shoreham,East Worthing and Shoreham,E14000682
+ocd-division/country:gb/pcon:east_yorkshire,East Yorkshire,E14000683
+ocd-division/country:gb/pcon:eastbourne,Eastbourne,E14000684
+ocd-division/country:gb/pcon:edmonton,Edmonton,E14000687
+ocd-division/country:gb/pcon:ellesmere_port_and_neston,Ellesmere Port and Neston,E14000688
+ocd-division/country:gb/pcon:elmet_and_rothwell,Elmet and Rothwell,E14000689
+ocd-division/country:gb/pcon:eltham,Eltham,E14000690
+ocd-division/country:gb/pcon:enfield_north,Enfield North,E14000691
+ocd-division/country:gb/pcon:enfield_southgate,"Enfield, Southgate",E14000692
+ocd-division/country:gb/pcon:epping_forest,Epping Forest,E14000693
+ocd-division/country:gb/pcon:epsom_and_ewell,Epsom and Ewell,E14000694
+ocd-division/country:gb/pcon:erewash,Erewash,E14000695
+ocd-division/country:gb/pcon:erith_and_thamesmead,Erith and Thamesmead,E14000696
+ocd-division/country:gb/pcon:esher_and_walton,Esher and Walton,E14000697
+ocd-division/country:gb/pcon:exeter,Exeter,E14000698
+ocd-division/country:gb/pcon:fareham,Fareham,E14000699
+ocd-division/country:gb/pcon:faversham_and_mid_kent,Faversham and Mid Kent,E14000700
+ocd-division/country:gb/pcon:feltham_and_heston,Feltham and Heston,E14000701
+ocd-division/country:gb/pcon:filton_and_bradley_stoke,Filton and Bradley Stoke,E14000702
+ocd-division/country:gb/pcon:finchley_and_golders_green,Finchley and Golders Green,E14000703
+ocd-division/country:gb/pcon:folkestone_and_hythe,Folkestone and Hythe,E14000704
+ocd-division/country:gb/pcon:forest_of_dean,Forest of Dean,E14000705
+ocd-division/country:gb/pcon:fylde,Fylde,E14000706
+ocd-division/country:gb/pcon:gainsborough,Gainsborough,E14000707
+ocd-division/country:gb/pcon:garston_and_halewood,Garston and Halewood,E14000708
+ocd-division/country:gb/pcon:gateshead,Gateshead,E14000709
+ocd-division/country:gb/pcon:gedling,Gedling,E14000710
+ocd-division/country:gb/pcon:gillingham_and_rainham,Gillingham and Rainham,E14000711
+ocd-division/country:gb/pcon:gloucester,Gloucester,E14000712
+ocd-division/country:gb/pcon:gosport,Gosport,E14000713
+ocd-division/country:gb/pcon:grantham_and_stamford,Grantham and Stamford,E14000714
+ocd-division/country:gb/pcon:gravesham,Gravesham,E14000715
+ocd-division/country:gb/pcon:great_grimsby,Great Grimsby,E14000716
+ocd-division/country:gb/pcon:great_yarmouth,Great Yarmouth,E14000717
+ocd-division/country:gb/pcon:greenwich_and_woolwich,Greenwich and Woolwich,E14000718
+ocd-division/country:gb/pcon:guildford,Guildford,E14000719
+ocd-division/country:gb/pcon:hackney_north_and_stoke_newington,Hackney North and Stoke Newington,E14000720
+ocd-division/country:gb/pcon:portsmouth_south,Portsmouth South,E14000884
+ocd-division/country:gb/pcon:preston,Preston,E14000885
+ocd-division/country:gb/pcon:hackney_south_and_shoreditch,Hackney South and Shoreditch,E14000721
+ocd-division/country:gb/pcon:halesowen_and_rowley_regis,Halesowen and Rowley Regis,E14000722
+ocd-division/country:gb/pcon:halifax,Halifax,E14000723
+ocd-division/country:gb/pcon:haltemprice_and_howden,Haltemprice and Howden,E14000724
+ocd-division/country:gb/pcon:halton,Halton,E14000725
+ocd-division/country:gb/pcon:pudsey,Pudsey,E14000886
+ocd-division/country:gb/pcon:hammersmith,Hammersmith,E14000726
+ocd-division/country:gb/pcon:putney,Putney,E14000887
+ocd-division/country:gb/pcon:rayleigh_and_wickford,Rayleigh and Wickford,E14000888
+ocd-division/country:gb/pcon:reading_east,Reading East,E14000889
+ocd-division/country:gb/pcon:reading_west,Reading West,E14000890
+ocd-division/country:gb/pcon:redcar,Redcar,E14000891
+ocd-division/country:gb/pcon:redditch,Redditch,E14000892
+ocd-division/country:gb/pcon:reigate,Reigate,E14000893
+ocd-division/country:gb/pcon:ribble_valley,Ribble Valley,E14000894
+ocd-division/country:gb/pcon:hampstead_and_kilburn,Hampstead and Kilburn,E14000727
+ocd-division/country:gb/pcon:harborough,Harborough,E14000728
+ocd-division/country:gb/pcon:harlow,Harlow,E14000729
+ocd-division/country:gb/pcon:harrogate_and_knaresborough,Harrogate and Knaresborough,E14000730
+ocd-division/country:gb/pcon:richmond_~yorks~,Richmond (Yorks),E14000895
+ocd-division/country:gb/pcon:harrow_west,Harrow West,E14000732
+ocd-division/country:gb/pcon:hartlepool,Hartlepool,E14000733
+ocd-division/country:gb/pcon:harwich_and_north_essex,Harwich and North Essex,E14000734
+ocd-division/country:gb/pcon:hastings_and_rye,Hastings and Rye,E14000735
+ocd-division/country:gb/pcon:havant,Havant,E14000736
+ocd-division/country:gb/pcon:hayes_and_harlington,Hayes and Harlington,E14000737
+ocd-division/country:gb/pcon:hazel_grove,Hazel Grove,E14000738
+ocd-division/country:gb/pcon:hemel_hempstead,Hemel Hempstead,E14000739
+ocd-division/country:gb/pcon:hemsworth,Hemsworth,E14000740
+ocd-division/country:gb/pcon:hendon,Hendon,E14000741
+ocd-division/country:gb/pcon:henley,Henley,E14000742
+ocd-division/country:gb/pcon:hereford_and_south_herefordshire,Hereford and South Herefordshire,E14000743
+ocd-division/country:gb/pcon:hertford_and_stortford,Hertford and Stortford,E14000744
+ocd-division/country:gb/pcon:hertsmere,Hertsmere,E14000745
+ocd-division/country:gb/pcon:hexham,Hexham,E14000746
+ocd-division/country:gb/pcon:holborn_and_st_pancras,Holborn and St Pancras,E14000750
+ocd-division/country:gb/pcon:hornchurch_and_upminster,Hornchurch and Upminster,E14000751
+ocd-division/country:gb/pcon:sheffield_brightside_and_hillsborough,"Sheffield, Brightside and Hillsborough",E14000921
+ocd-division/country:gb/pcon:sheffield_hallam,"Sheffield, Hallam",E14000922
+ocd-division/country:gb/pcon:sheffield_heeley,"Sheffield, Heeley",E14000923
+ocd-division/country:gb/pcon:sherwood,Sherwood,E14000924
+ocd-division/country:gb/pcon:shipley,Shipley,E14000925
+ocd-division/country:gb/pcon:shrewsbury_and_atcham,Shrewsbury and Atcham,E14000926
+ocd-division/country:gb/pcon:sittingbourne_and_sheppey,Sittingbourne and Sheppey,E14000927
+ocd-division/country:gb/pcon:skipton_and_ripon,Skipton and Ripon,E14000928
+ocd-division/country:gb/pcon:sleaford_and_north_hykeham,Sleaford and North Hykeham,E14000929
+ocd-division/country:gb/pcon:hornsey_and_wood_green,Hornsey and Wood Green,E14000752
+ocd-division/country:gb/pcon:horsham,Horsham,E14000753
+ocd-division/country:gb/pcon:houghton_and_sunderland_south,Houghton and Sunderland South,E14000754
+ocd-division/country:gb/pcon:south_northamptonshire,South Northamptonshire,E14000942
+ocd-division/country:gb/pcon:south_ribble,South Ribble,E14000943
+ocd-division/country:gb/pcon:south_shields,South Shields,E14000944
+ocd-division/country:gb/pcon:south_staffordshire,South Staffordshire,E14000945
+ocd-division/country:gb/pcon:south_suffolk,South Suffolk,E14000946
+ocd-division/country:gb/pcon:south_swindon,South Swindon,E14000947
+ocd-division/country:gb/pcon:south_thanet,South Thanet,E14000948
+ocd-division/country:gb/pcon:south_west_bedfordshire,South West Bedfordshire,E14000949
+ocd-division/country:gb/pcon:south_west_devon,South West Devon,E14000950
+ocd-division/country:gb/pcon:south_west_hertfordshire,South West Hertfordshire,E14000951
+ocd-division/country:gb/pcon:south_west_norfolk,South West Norfolk,E14000952
+ocd-division/country:gb/pcon:south_west_surrey,South West Surrey,E14000953
+ocd-division/country:gb/pcon:south_west_wiltshire,South West Wiltshire,E14000954
+ocd-division/country:gb/pcon:hove,Hove,E14000755
+ocd-division/country:gb/pcon:huddersfield,Huddersfield,E14000756
+ocd-division/country:gb/pcon:huntingdon,Huntingdon,E14000757
+ocd-division/country:gb/pcon:hyndburn,Hyndburn,E14000758
+ocd-division/country:gb/pcon:ilford_north,Ilford North,E14000759
+ocd-division/country:gb/pcon:ilford_south,Ilford South,E14000760
+ocd-division/country:gb/pcon:ipswich,Ipswich,E14000761
+ocd-division/country:gb/pcon:isle_of_wight,Isle of Wight,E14000762
+ocd-division/country:gb/pcon:kingston_and_surbiton,Kingston and Surbiton,E14000770
+ocd-division/country:gb/pcon:kingston_upon_hull_east,Kingston upon Hull East,E14000771
+ocd-division/country:gb/pcon:kingston_upon_hull_north,Kingston upon Hull North,E14000772
+ocd-division/country:gb/pcon:kingston_upon_hull_west_and_hessle,Kingston upon Hull West and Hessle,E14000773
+ocd-division/country:gb/pcon:kingswood,Kingswood,E14000774
+ocd-division/country:gb/pcon:knowsley,Knowsley,E14000775
+ocd-division/country:gb/pcon:lancaster_and_fleetwood,Lancaster and Fleetwood,E14000776
+ocd-division/country:gb/pcon:leeds_central,Leeds Central,E14000777
+ocd-division/country:gb/pcon:leeds_east,Leeds East,E14000778
+ocd-division/country:gb/pcon:leeds_north_east,Leeds North East,E14000779
+ocd-division/country:gb/pcon:leeds_north_west,Leeds North West,E14000780
+ocd-division/country:gb/pcon:leeds_west,Leeds West,E14000781
+ocd-division/country:gb/pcon:leicester_east,Leicester East,E14000782
+ocd-division/country:gb/pcon:leicester_south,Leicester South,E14000783
+ocd-division/country:gb/pcon:leicester_west,Leicester West,E14000784
+ocd-division/country:gb/pcon:leigh,Leigh,E14000785
+ocd-division/country:gb/pcon:lewes,Lewes,E14000786
+ocd-division/country:gb/pcon:lewisham_east,Lewisham East,E14000787
+ocd-division/country:gb/pcon:lewisham_west_and_penge,Lewisham West and Penge,E14000788
+ocd-division/country:gb/pcon:lewisham_deptford,"Lewisham, Deptford",E14000789
+ocd-division/country:gb/pcon:leyton_and_wanstead,Leyton and Wanstead,E14000790
+ocd-division/country:gb/pcon:lichfield,Lichfield,E14000791
+ocd-division/country:gb/pcon:lincoln,Lincoln,E14000792
+ocd-division/country:gb/pcon:liverpool_riverside,"Liverpool, Riverside",E14000793
+ocd-division/country:gb/pcon:liverpool_walton,"Liverpool, Walton",E14000794
+ocd-division/country:gb/pcon:liverpool_wavertree,"Liverpool, Wavertree",E14000795
+ocd-division/country:gb/pcon:liverpool_west_derby,"Liverpool, West Derby",E14000796
+ocd-division/country:gb/pcon:loughborough,Loughborough,E14000797
+ocd-division/country:gb/pcon:louth_and_horncastle,Louth and Horncastle,E14000798
+ocd-division/country:gb/pcon:ludlow,Ludlow,E14000799
+ocd-division/country:gb/pcon:luton_south,Luton South,E14000801
+ocd-division/country:gb/pcon:macclesfield,Macclesfield,E14000802
+ocd-division/country:gb/pcon:maidenhead,Maidenhead,E14000803
+ocd-division/country:gb/pcon:maidstone_and_the_weald,Maidstone and The Weald,E14000804
+ocd-division/country:gb/pcon:makerfield,Makerfield,E14000805
+ocd-division/country:gb/pcon:maldon,Maldon,E14000806
+ocd-division/country:gb/pcon:manchester_central,Manchester Central,E14000807
+ocd-division/country:gb/pcon:manchester_gorton,"Manchester, Gorton",E14000808
+ocd-division/country:gb/pcon:manchester_withington,"Manchester, Withington",E14000809
+ocd-division/country:gb/pcon:mansfield,Mansfield,E14000810
+ocd-division/country:gb/pcon:meon_valley,Meon Valley,E14000811
+ocd-division/country:gb/pcon:meriden,Meriden,E14000812
+ocd-division/country:gb/pcon:mid_bedfordshire,Mid Bedfordshire,E14000813
+ocd-division/country:gb/pcon:mid_derbyshire,Mid Derbyshire,E14000814
+ocd-division/country:gb/pcon:mid_dorset_and_north_poole,Mid Dorset and North Poole,E14000815
+ocd-division/country:gb/pcon:mid_norfolk,Mid Norfolk,E14000816
+ocd-division/country:gb/pcon:mid_sussex,Mid Sussex,E14000817
+ocd-division/country:gb/pcon:mid_worcestershire,Mid Worcestershire,E14000818
+ocd-division/country:gb/pcon:middlesbrough,Middlesbrough,E14000819
+ocd-division/country:gb/pcon:middlesbrough_south_and_east_cleveland,Middlesbrough South and East Cleveland,E14000820
+ocd-division/country:gb/pcon:milton_keynes_north,Milton Keynes North,E14000821
+ocd-division/country:gb/pcon:milton_keynes_south,Milton Keynes South,E14000822
+ocd-division/country:gb/pcon:mitcham_and_morden,Mitcham and Morden,E14000823
+ocd-division/country:gb/pcon:mole_valley,Mole Valley,E14000824
+ocd-division/country:gb/pcon:morecambe_and_lunesdale,Morecambe and Lunesdale,E14000825
+ocd-division/country:gb/pcon:morley_and_outwood,Morley and Outwood,E14000826
+ocd-division/country:gb/pcon:new_forest_east,New Forest East,E14000827
+ocd-division/country:gb/pcon:new_forest_west,New Forest West,E14000828
+ocd-division/country:gb/pcon:newark,Newark,E14000829
+ocd-division/country:gb/pcon:newbury,Newbury,E14000830
+ocd-division/country:gb/pcon:newcastle_upon_tyne_central,Newcastle upon Tyne Central,E14000831
+ocd-division/country:gb/pcon:newcastle_upon_tyne_east,Newcastle upon Tyne East,E14000832
+ocd-division/country:gb/pcon:newcastle_upon_tyne_north,Newcastle upon Tyne North,E14000833
+ocd-division/country:gb/pcon:newcastle-under-lyme,Newcastle-under-Lyme,E14000834
+ocd-division/country:gb/pcon:newton_abbot,Newton Abbot,E14000835
+ocd-division/country:gb/pcon:normanton_pontefract_and_castleford,"Normanton, Pontefract and Castleford",E14000836
+ocd-division/country:gb/pcon:north_cornwall,North Cornwall,E14000837
+ocd-division/country:gb/pcon:north_devon,North Devon,E14000838
+ocd-division/country:gb/pcon:north_dorset,North Dorset,E14000839
+ocd-division/country:gb/pcon:north_durham,North Durham,E14000840
+ocd-division/country:gb/pcon:north_east_bedfordshire,North East Bedfordshire,E14000841
+ocd-division/country:gb/pcon:north_east_cambridgeshire,North East Cambridgeshire,E14000842
+ocd-division/country:gb/pcon:north_east_derbyshire,North East Derbyshire,E14000843
+ocd-division/country:gb/pcon:north_east_hampshire,North East Hampshire,E14000844
+ocd-division/country:gb/pcon:north_east_hertfordshire,North East Hertfordshire,E14000845
+ocd-division/country:gb/pcon:north_east_somerset,North East Somerset,E14000846
+ocd-division/country:gb/pcon:north_herefordshire,North Herefordshire,E14000847
+ocd-division/country:gb/pcon:north_norfolk,North Norfolk,E14000848
+ocd-division/country:gb/pcon:north_shropshire,North Shropshire,E14000849
+ocd-division/country:gb/pcon:north_somerset,North Somerset,E14000850
+ocd-division/country:gb/pcon:north_swindon,North Swindon,E14000851
+ocd-division/country:gb/pcon:north_thanet,North Thanet,E14000852
+ocd-division/country:gb/pcon:north_tyneside,North Tyneside,E14000853
+ocd-division/country:gb/pcon:north_warwickshire,North Warwickshire,E14000854
+ocd-division/country:gb/pcon:northampton_north,Northampton North,E14000861
+ocd-division/country:gb/pcon:northampton_south,Northampton South,E14000862
+ocd-division/country:gb/pcon:norwich_north,Norwich North,E14000863
+ocd-division/country:gb/pcon:norwich_south,Norwich South,E14000864
+ocd-division/country:gb/pcon:nottingham_east,Nottingham East,E14000865
+ocd-division/country:gb/pcon:streatham,Streatham,E14000978
+ocd-division/country:gb/pcon:stretford_and_urmston,Stretford and Urmston,E14000979
+ocd-division/country:gb/pcon:nottingham_north,Nottingham North,E14000866
+ocd-division/country:gb/pcon:stroud,Stroud,E14000980
+ocd-division/country:gb/pcon:suffolk_coastal,Suffolk Coastal,E14000981
+ocd-division/country:gb/pcon:sunderland_central,Sunderland Central,E14000982
+ocd-division/country:gb/pcon:surrey_heath,Surrey Heath,E14000983
+ocd-division/country:gb/pcon:nottingham_south,Nottingham South,E14000867
+ocd-division/country:gb/pcon:nuneaton,Nuneaton,E14000868
+ocd-division/country:gb/pcon:old_bexley_and_sidcup,Old Bexley and Sidcup,E14000869
+ocd-division/country:gb/pcon:oldham_east_and_saddleworth,Oldham East and Saddleworth,E14000870
+ocd-division/country:gb/pcon:oldham_west_and_royton,Oldham West and Royton,E14000871
+ocd-division/country:gb/pcon:orpington,Orpington,E14000872
+ocd-division/country:gb/pcon:oxford_east,Oxford East,E14000873
+ocd-division/country:gb/pcon:oxford_west_and_abingdon,Oxford West and Abingdon,E14000874
+ocd-division/country:gb/pcon:pendle,Pendle,E14000875
+ocd-division/country:gb/pcon:penistone_and_stocksbridge,Penistone and Stocksbridge,E14000876
+ocd-division/country:gb/pcon:penrith_and_the_border,Penrith and The Border,E14000877
+ocd-division/country:gb/pcon:peterborough,Peterborough,E14000878
+ocd-division/country:gb/pcon:plymouth_moor_view,"Plymouth, Moor View",E14000879
+ocd-division/country:gb/pcon:plymouth_sutton_and_devonport,"Plymouth, Sutton and Devonport",E14000880
+ocd-division/country:gb/pcon:poole,Poole,E14000881
+ocd-division/country:gb/pcon:poplar_and_limehouse,Poplar and Limehouse,E14000882
+ocd-division/country:gb/pcon:tooting,Tooting,E14000998
+ocd-division/country:gb/pcon:torbay,Torbay,E14000999
+ocd-division/country:gb/pcon:torridge_and_west_devon,Torridge and West Devon,E14001000
+ocd-division/country:gb/pcon:portsmouth_north,Portsmouth North,E14000883
+ocd-division/country:gb/pcon:richmond_park,Richmond Park,E14000896
+ocd-division/country:gb/pcon:rochdale,Rochdale,E14000897
+ocd-division/country:gb/pcon:rochester_and_strood,Rochester and Strood,E14000898
+ocd-division/country:gb/pcon:rochford_and_southend_east,Rochford and Southend East,E14000899
+ocd-division/country:gb/pcon:totnes,Totnes,E14001001
+ocd-division/country:gb/pcon:romford,Romford,E14000900
+ocd-division/country:gb/pcon:romsey_and_southampton_north,Romsey and Southampton North,E14000901
+ocd-division/country:gb/pcon:rossendale_and_darwen,Rossendale and Darwen,E14000902
+ocd-division/country:gb/pcon:rother_valley,Rother Valley,E14000903
+ocd-division/country:gb/pcon:rotherham,Rotherham,E14000904
+ocd-division/country:gb/pcon:rugby,Rugby,E14000905
+ocd-division/country:gb/pcon:ruislip_northwood_and_pinner,"Ruislip, Northwood and Pinner",E14000906
+ocd-division/country:gb/pcon:runnymede_and_weybridge,Runnymede and Weybridge,E14000907
+ocd-division/country:gb/pcon:rushcliffe,Rushcliffe,E14000908
+ocd-division/country:gb/pcon:rutland_and_melton,Rutland and Melton,E14000909
+ocd-division/country:gb/pcon:saffron_walden,Saffron Walden,E14000910
+ocd-division/country:gb/pcon:salford_and_eccles,Salford and Eccles,E14000911
+ocd-division/country:gb/pcon:salisbury,Salisbury,E14000912
+ocd-division/country:gb/pcon:scarborough_and_whitby,Scarborough and Whitby,E14000913
+ocd-division/country:gb/pcon:scunthorpe,Scunthorpe,E14000914
+ocd-division/country:gb/pcon:sedgefield,Sedgefield,E14000915
+ocd-division/country:gb/pcon:sefton_central,Sefton Central,E14000916
+ocd-division/country:gb/pcon:selby_and_ainsty,Selby and Ainsty,E14000917
+ocd-division/country:gb/pcon:sevenoaks,Sevenoaks,E14000918
+ocd-division/country:gb/pcon:sheffield_central,Sheffield Central,E14000919
+ocd-division/country:gb/pcon:sheffield_south_east,Sheffield South East,E14000920
+ocd-division/country:gb/pcon:slough,Slough,E14000930
+ocd-division/country:gb/pcon:solihull,Solihull,E14000931
+ocd-division/country:gb/pcon:somerton_and_frome,Somerton and Frome,E14000932
+ocd-division/country:gb/pcon:south_basildon_and_east_thurrock,South Basildon and East Thurrock,E14000933
+ocd-division/country:gb/pcon:south_cambridgeshire,South Cambridgeshire,E14000934
+ocd-division/country:gb/pcon:south_derbyshire,South Derbyshire,E14000935
+ocd-division/country:gb/pcon:south_dorset,South Dorset,E14000936
+ocd-division/country:gb/pcon:south_east_cambridgeshire,South East Cambridgeshire,E14000937
+ocd-division/country:gb/pcon:south_east_cornwall,South East Cornwall,E14000938
+ocd-division/country:gb/pcon:south_holland_and_the_deepings,South Holland and The Deepings,E14000939
+ocd-division/country:gb/pcon:south_leicestershire,South Leicestershire,E14000940
+ocd-division/country:gb/pcon:south_norfolk,South Norfolk,E14000941
+ocd-division/country:gb/pcon:southampton_itchen,"Southampton, Itchen",E14000955
+ocd-division/country:gb/pcon:southampton_test,"Southampton, Test",E14000956
+ocd-division/country:gb/pcon:southend_west,Southend West,E14000957
+ocd-division/country:gb/pcon:southport,Southport,E14000958
+ocd-division/country:gb/pcon:spelthorne,Spelthorne,E14000959
+ocd-division/country:gb/pcon:st_albans,St Albans,E14000960
+ocd-division/country:gb/pcon:st_austell_and_newquay,St Austell and Newquay,E14000961
+ocd-division/country:gb/pcon:st_helens_north,St Helens North,E14000962
+ocd-division/country:gb/pcon:st_helens_south_and_whiston,St Helens South and Whiston,E14000963
+ocd-division/country:gb/pcon:st_ives,St Ives,E14000964
+ocd-division/country:gb/pcon:stafford,Stafford,E14000965
+ocd-division/country:gb/pcon:staffordshire_moorlands,Staffordshire Moorlands,E14000966
+ocd-division/country:gb/pcon:stalybridge_and_hyde,Stalybridge and Hyde,E14000967
+ocd-division/country:gb/pcon:stevenage,Stevenage,E14000968
+ocd-division/country:gb/pcon:stockport,Stockport,E14000969
+ocd-division/country:gb/pcon:stockton_north,Stockton North,E14000970
+ocd-division/country:gb/pcon:stockton_south,Stockton South,E14000971
+ocd-division/country:gb/pcon:stoke-on-trent_central,Stoke-on-Trent Central,E14000972
+ocd-division/country:gb/pcon:stoke-on-trent_north,Stoke-on-Trent North,E14000973
+ocd-division/country:gb/pcon:stoke-on-trent_south,Stoke-on-Trent South,E14000974
+ocd-division/country:gb/pcon:stone,Stone,E14000975
+ocd-division/country:gb/pcon:stourbridge,Stourbridge,E14000976
+ocd-division/country:gb/pcon:stratford-on-avon,Stratford-on-Avon,E14000977
+ocd-division/country:gb/pcon:sutton_and_cheam,Sutton and Cheam,E14000984
+ocd-division/country:gb/pcon:sutton_coldfield,Sutton Coldfield,E14000985
+ocd-division/country:gb/pcon:tamworth,Tamworth,E14000986
+ocd-division/country:gb/pcon:tatton,Tatton,E14000987
+ocd-division/country:gb/pcon:taunton_deane,Taunton Deane,E14000988
+ocd-division/country:gb/pcon:telford,Telford,E14000989
+ocd-division/country:gb/pcon:tewkesbury,Tewkesbury,E14000990
+ocd-division/country:gb/pcon:the_cotswolds,The Cotswolds,E14000991
+ocd-division/country:gb/pcon:the_wrekin,The Wrekin,E14000992
+ocd-division/country:gb/pcon:thirsk_and_malton,Thirsk and Malton,E14000993
+ocd-division/country:gb/pcon:thornbury_and_yate,Thornbury and Yate,E14000994
+ocd-division/country:gb/pcon:thurrock,Thurrock,E14000995
+ocd-division/country:gb/pcon:tiverton_and_honiton,Tiverton and Honiton,E14000996
+ocd-division/country:gb/pcon:tonbridge_and_malling,Tonbridge and Malling,E14000997
+ocd-division/country:gb/pcon:tottenham,Tottenham,E14001002
+ocd-division/country:gb/pcon:truro_and_falmouth,Truro and Falmouth,E14001003
+ocd-division/country:gb/pcon:tunbridge_wells,Tunbridge Wells,E14001004
+ocd-division/country:gb/pcon:twickenham,Twickenham,E14001005
+ocd-division/country:gb/pcon:tynemouth,Tynemouth,E14001006
+ocd-division/country:gb/pcon:uxbridge_and_south_ruislip,Uxbridge and South Ruislip,E14001007
+ocd-division/country:gb/pcon:walsall_north,Walsall North,E14001011
+ocd-division/country:gb/pcon:walsall_south,Walsall South,E14001012
+ocd-division/country:gb/pcon:walthamstow,Walthamstow,E14001013
+ocd-division/country:gb/pcon:wansbeck,Wansbeck,E14001014
+ocd-division/country:gb/pcon:wantage,Wantage,E14001015
+ocd-division/country:gb/pcon:warley,Warley,E14001016
+ocd-division/country:gb/pcon:warrington_north,Warrington North,E14001017
+ocd-division/country:gb/pcon:warrington_south,Warrington South,E14001018
+ocd-division/country:gb/pcon:warwick_and_leamington,Warwick and Leamington,E14001019
+ocd-division/country:gb/pcon:washington_and_sunderland_west,Washington and Sunderland West,E14001020
+ocd-division/country:gb/pcon:watford,Watford,E14001021
+ocd-division/country:gb/pcon:waveney,Waveney,E14001022
+ocd-division/country:gb/pcon:wealden,Wealden,E14001023
+ocd-division/country:gb/pcon:weaver_vale,Weaver Vale,E14001024
+ocd-division/country:gb/pcon:wellingborough,Wellingborough,E14001025
+ocd-division/country:gb/pcon:wells,Wells,E14001026
+ocd-division/country:gb/pcon:welwyn_hatfield,Welwyn Hatfield,E14001027
+ocd-division/country:gb/pcon:wentworth_and_dearne,Wentworth and Dearne,E14001028
+ocd-division/country:gb/pcon:west_bromwich_east,West Bromwich East,E14001029
+ocd-division/country:gb/pcon:west_bromwich_west,West Bromwich West,E14001030
+ocd-division/country:gb/pcon:west_dorset,West Dorset,E14001031
+ocd-division/country:gb/pcon:west_ham,West Ham,E14001032
+ocd-division/country:gb/pcon:west_lancashire,West Lancashire,E14001033
+ocd-division/country:gb/pcon:west_suffolk,West Suffolk,E14001034
+ocd-division/country:gb/pcon:west_worcestershire,West Worcestershire,E14001035
+ocd-division/country:gb/pcon:westminster_north,Westminster North,E14001036
+ocd-division/country:gb/pcon:westmorland_and_lonsdale,Westmorland and Lonsdale,E14001037
+ocd-division/country:gb/pcon:weston-super-mare,Weston-Super-Mare,E14001038
+ocd-division/country:gb/pcon:wigan,Wigan,E14001039
+ocd-division/country:gb/pcon:wimbledon,Wimbledon,E14001040
+ocd-division/country:gb/pcon:winchester,Winchester,E14001041
+ocd-division/country:gb/pcon:windsor,Windsor,E14001042
+ocd-division/country:gb/pcon:wirral_south,Wirral South,E14001043
+ocd-division/country:gb/pcon:wirral_west,Wirral West,E14001044
+ocd-division/country:gb/pcon:witham,Witham,E14001045
+ocd-division/country:gb/pcon:witney,Witney,E14001046
+ocd-division/country:gb/pcon:woking,Woking,E14001047
+ocd-division/country:gb/pcon:wokingham,Wokingham,E14001048
+ocd-division/country:gb/pcon:wolverhampton_north_east,Wolverhampton North East,E14001049
+ocd-division/country:gb/pcon:wolverhampton_south_east,Wolverhampton South East,E14001050
+ocd-division/country:gb/pcon:wolverhampton_south_west,Wolverhampton South West,E14001051
+ocd-division/country:gb/pcon:worcester,Worcester,E14001052
+ocd-division/country:gb/pcon:workington,Workington,E14001053
+ocd-division/country:gb/pcon:worsley_and_eccles_south,Worsley and Eccles South,E14001054
+ocd-division/country:gb/pcon:worthing_west,Worthing West,E14001055
+ocd-division/country:gb/pcon:wycombe,Wycombe,E14001056
+ocd-division/country:gb/pcon:wyre_and_preston_north,Wyre and Preston North,E14001057
+ocd-division/country:gb/pcon:wyre_forest,Wyre Forest,E14001058
+ocd-division/country:gb/pcon:wythenshawe_and_sale_east,Wythenshawe and Sale East,E14001059
+ocd-division/country:gb/pcon:aberdeen_north,Aberdeen North,S14000001
+ocd-division/country:gb/pcon:aberdeen_south,Aberdeen South,S14000002
+ocd-division/country:gb/pcon:airdrie_and_shotts,Airdrie and Shotts,S14000003
+ocd-division/country:gb/pcon:angus,Angus,S14000004
+ocd-division/country:gb/pcon:argyll_and_bute,Argyll and Bute,S14000005
+ocd-division/country:gb/pcon:ayr_carrick_and_cumnock,"Ayr, Carrick and Cumnock",S14000006
+ocd-division/country:gb/pcon:banff_and_buchan,Banff and Buchan,S14000007
+ocd-division/country:gb/pcon:berwickshire_roxburgh_and_selkirk,"Berwickshire, Roxburgh and Selkirk",S14000008
+ocd-division/country:gb/pcon:caithness_sutherland_and_easter_ross,"Caithness, Sutherland and Easter Ross",S14000009
+ocd-division/country:gb/pcon:central_ayrshire,Central Ayrshire,S14000010
+ocd-division/country:gb/pcon:coatbridge_chryston_and_bellshill,"Coatbridge, Chryston and Bellshill",S14000011
+ocd-division/country:gb/pcon:cumbernauld_kilsyth_and_kirkintilloch_east,"Cumbernauld, Kilsyth and Kirkintilloch East",S14000012
+ocd-division/country:gb/pcon:dumfries_and_galloway,Dumfries and Galloway,S14000013
+ocd-division/country:gb/pcon:edinburgh_east,Edinburgh East,S14000022
+ocd-division/country:gb/pcon:edinburgh_south,Edinburgh South,S14000024
+ocd-division/country:gb/pcon:edinburgh_south_west,Edinburgh South West,S14000025
+ocd-division/country:gb/pcon:edinburgh_west,Edinburgh West,S14000026
+ocd-division/country:gb/pcon:na_h-eileanan_an_iar,Na h-Eileanan an Iar,S14000027
+ocd-division/country:gb/pcon:falkirk,Falkirk,S14000028
+ocd-division/country:gb/pcon:edinburgh_north_and_leith,Edinburgh North and Leith,S14000023
+ocd-division/country:gb/pcon:glasgow_central,Glasgow Central,S14000029
+ocd-division/country:gb/pcon:glasgow_north_east,Glasgow North East,S14000032
+ocd-division/country:gb/pcon:glasgow_east,Glasgow East,S14000030
+ocd-division/country:gb/pcon:alyn_and_deeside,Alyn and Deeside,W07000043
+ocd-division/country:gb/pcon:wrexham,Wrexham,W07000044
+ocd-division/country:gb/pcon:llanelli,Llanelli,W07000045
+ocd-division/country:gb/pcon:gower,Gower,W07000046
+ocd-division/country:gb/pcon:swansea_west,Swansea West,W07000047
+ocd-division/country:gb/pcon:swansea_east,Swansea East,W07000048
+ocd-division/country:gb/pcon:aberavon,Aberavon,W07000049
+ocd-division/country:gb/pcon:glasgow_north,Glasgow North,S14000031
+ocd-division/country:gb/pcon:glasgow_north_west,Glasgow North West,S14000033
+ocd-division/country:gb/pcon:cardiff_central,Cardiff Central,W07000050
+ocd-division/country:gb/pcon:cardiff_north,Cardiff North,W07000051
+ocd-division/country:gb/pcon:glasgow_south,Glasgow South,S14000034
+ocd-division/country:gb/pcon:rhondda,Rhondda,W07000052
+ocd-division/country:gb/pcon:torfaen,Torfaen,W07000053
+ocd-division/country:gb/pcon:monmouth,Monmouth,W07000054
+ocd-division/country:gb/pcon:newport_east,Newport East,W07000055
+ocd-division/country:gb/pcon:newport_west,Newport West,W07000056
+ocd-division/country:gb/pcon:arfon,Arfon,W07000057
+ocd-division/country:gb/pcon:aberconwy,Aberconwy,W07000058
+ocd-division/country:gb/pcon:clwyd_west,Clwyd West,W07000059
+ocd-division/country:gb/pcon:vale_of_clwyd,Vale of Clwyd,W07000060
+ocd-division/country:gb/pcon:dwyfor_meirionnydd,Dwyfor Meirionnydd,W07000061
+ocd-division/country:gb/pcon:clwyd_south,Clwyd South,W07000062
+ocd-division/country:gb/pcon:montgomeryshire,Montgomeryshire,W07000063
+ocd-division/country:gb/pcon:ceredigion,Ceredigion,W07000064
+ocd-division/country:gb/pcon:preseli_pembrokeshire,Preseli Pembrokeshire,W07000065
+ocd-division/country:gb/pcon:carmarthen_west_and_south_pembrokeshire,Carmarthen West and South Pembrokeshire,W07000066
+ocd-division/country:gb/pcon:carmarthen_east_and_dinefwr,Carmarthen East and Dinefwr,W07000067
+ocd-division/country:gb/pcon:brecon_and_radnorshire,Brecon and Radnorshire,W07000068
+ocd-division/country:gb/pcon:neath,Neath,W07000069
+ocd-division/country:gb/pcon:cynon_valley,Cynon Valley,W07000070
+ocd-division/country:gb/pcon:merthyr_tydfil_and_rhymney,Merthyr Tydfil and Rhymney,W07000071
+ocd-division/country:gb/pcon:blaenau_gwent,Blaenau Gwent,W07000072
+ocd-division/country:gb/pcon:glasgow_south_west,Glasgow South West,S14000035
+ocd-division/country:gb/pcon:glenrothes,Glenrothes,S14000036
+ocd-division/country:gb/pcon:gordon,Gordon,S14000037
+ocd-division/country:gb/pcon:inverclyde,Inverclyde,S14000038
+ocd-division/country:gb/pcon:inverness_nairn_badenoch_and_strathspey,"Inverness, Nairn, Badenoch and Strathspey",S14000039
+ocd-division/country:gb/pcon:kilmarnock_and_loudoun,Kilmarnock and Loudoun,S14000040
+ocd-division/country:gb/pcon:kirkcaldy_and_cowdenbeath,Kirkcaldy and Cowdenbeath,S14000041
+ocd-division/country:gb/pcon:lanark_and_hamilton_east,Lanark and Hamilton East,S14000042
+ocd-division/country:gb/pcon:linlithgow_and_east_falkirk,Linlithgow and East Falkirk,S14000043
+ocd-division/country:gb/pcon:livingston,Livingston,S14000044
+ocd-division/country:gb/pcon:midlothian,Midlothian,S14000045
+ocd-division/country:gb/pcon:moray,Moray,S14000046
+ocd-division/country:gb/pcon:motherwell_and_wishaw,Motherwell and Wishaw,S14000047
+ocd-division/country:gb/pcon:north_ayrshire_and_arran,North Ayrshire and Arran,S14000048
+ocd-division/country:gb/pcon:north_east_fife,North East Fife,S14000049
+ocd-division/country:gb/pcon:ochil_and_south_perthshire,Ochil and South Perthshire,S14000050
+ocd-division/country:gb/pcon:orkney_and_shetland,Orkney and Shetland,S14000051
+ocd-division/country:gb/pcon:paisley_and_renfrewshire_north,Paisley and Renfrewshire North,S14000052
+ocd-division/country:gb/pcon:paisley_and_renfrewshire_south,Paisley and Renfrewshire South,S14000053
+ocd-division/country:gb/pcon:perth_and_north_perthshire,Perth and North Perthshire,S14000054
+ocd-division/country:gb/pcon:ross_skye_and_lochaber,"Ross, Skye and Lochaber",S14000055
+ocd-division/country:gb/pcon:rutherglen_and_hamilton_west,Rutherglen and Hamilton West,S14000056
+ocd-division/country:gb/pcon:stirling,Stirling,S14000057
+ocd-division/country:gb/pcon:west_aberdeenshire_and_kincardine,West Aberdeenshire and Kincardine,S14000058
+ocd-division/country:gb/pcon:west_dunbartonshire,West Dunbartonshire,S14000059
+ocd-division/country:gb/pcon:ynys_mon,Ynys Mon,W07000041
+ocd-division/country:gb/pcon:delyn,Delyn,W07000042
