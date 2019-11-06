@@ -1,10 +1,10 @@
-# Open Civic Data Divisions: UK
+# Open Civic Data Divisions: United Kingdon of Great Britain and Northern Ireland
 
 ## Build
 
 ```
-./scripts/country-uk/build.py
-./scripts/compile.py uk
+./scripts/country-gb/build.py
+./scripts/compile.py gb
 ```
 
 ## Division Types
