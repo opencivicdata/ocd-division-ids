@@ -1,2 +1,6 @@
 id,name,gss_code
 ocd-division/country:gb,United Kingdom,K02000001
+ocd-division/country:gb/part:eng,England,E92000001
+ocd-division/country:gb/part:nir,Northern Ireland,N92000002
+ocd-division/country:gb/part:sct,Scotland,S92000003
+ocd-division/country:gb/part:wls,Wales,W92000004
