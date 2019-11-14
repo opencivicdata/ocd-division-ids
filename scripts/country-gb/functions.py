@@ -52,8 +52,19 @@ def make_slug(name):
     return slug
 
 
-def make_id(prefix, name):
-    return 'ocd-division/country:gb/{prefix}:{slug}'.format(
+def gss_to_constituent_nation_id(gss):
+    constituent_nations = {
+        'W': 'wls',
+        'E': 'eng',
+        'S': 'sct',
+        'N': 'nir',
+    }
+    return constituent_nations[gss[0]]
+
+
+def make_id(prefix, gss, name):
+    return 'ocd-division/country:gb/part:{nation_id}/{prefix}:{slug}'.format(
+        nation_id=gss_to_constituent_nation_id(gss),
         prefix=prefix,
         slug=make_slug(name)
     )
@@ -65,7 +76,7 @@ def make_csv_for_area_type(url, gss_column, name_column, prefix, filename, exclu
 
     for in_row in in_rows:
         out_row = {}
-        out_row['id'] = make_id(prefix, in_row[name_column])
+        out_row['id'] = make_id(prefix, in_row[gss_column], in_row[name_column])
         out_row['name'] = in_row[name_column]
         out_row['gss_code'] = in_row[gss_column]
         if out_row['gss_code'] in exclude:
