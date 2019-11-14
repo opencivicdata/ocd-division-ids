@@ -1,41 +1,41 @@
 id,name,gss_code
-ocd-division/country:gb/pfa:cumbria,Cumbria,E23000002
-ocd-division/country:gb/pfa:lancashire,Lancashire,E23000003
-ocd-division/country:gb/pfa:merseyside,Merseyside,E23000004
-ocd-division/country:gb/pfa:cheshire,Cheshire,E23000006
-ocd-division/country:gb/pfa:northumbria,Northumbria,E23000007
-ocd-division/country:gb/pfa:durham,Durham,E23000008
-ocd-division/country:gb/pfa:north_yorkshire,North Yorkshire,E23000009
-ocd-division/country:gb/pfa:west_yorkshire,West Yorkshire,E23000010
-ocd-division/country:gb/pfa:south_yorkshire,South Yorkshire,E23000011
-ocd-division/country:gb/pfa:humberside,Humberside,E23000012
-ocd-division/country:gb/pfa:cleveland,Cleveland,E23000013
-ocd-division/country:gb/pfa:west_midlands,West Midlands,E23000014
-ocd-division/country:gb/pfa:staffordshire,Staffordshire,E23000015
-ocd-division/country:gb/pfa:west_mercia,West Mercia,E23000016
-ocd-division/country:gb/pfa:warwickshire,Warwickshire,E23000017
-ocd-division/country:gb/pfa:derbyshire,Derbyshire,E23000018
-ocd-division/country:gb/pfa:nottinghamshire,Nottinghamshire,E23000019
-ocd-division/country:gb/pfa:lincolnshire,Lincolnshire,E23000020
-ocd-division/country:gb/pfa:leicestershire,Leicestershire,E23000021
-ocd-division/country:gb/pfa:northamptonshire,Northamptonshire,E23000022
-ocd-division/country:gb/pfa:cambridgeshire,Cambridgeshire,E23000023
-ocd-division/country:gb/pfa:norfolk,Norfolk,E23000024
-ocd-division/country:gb/pfa:suffolk,Suffolk,E23000025
-ocd-division/country:gb/pfa:bedfordshire,Bedfordshire,E23000026
-ocd-division/country:gb/pfa:hertfordshire,Hertfordshire,E23000027
-ocd-division/country:gb/pfa:essex,Essex,E23000028
-ocd-division/country:gb/pfa:thames_valley,Thames Valley,E23000029
-ocd-division/country:gb/pfa:hampshire,Hampshire,E23000030
-ocd-division/country:gb/pfa:surrey,Surrey,E23000031
-ocd-division/country:gb/pfa:kent,Kent,E23000032
-ocd-division/country:gb/pfa:sussex,Sussex,E23000033
-ocd-division/country:gb/pfa:devon_and_cornwall,Devon and Cornwall,E23000035
-ocd-division/country:gb/pfa:avon_and_somerset,Avon and Somerset,E23000036
-ocd-division/country:gb/pfa:gloucestershire,Gloucestershire,E23000037
-ocd-division/country:gb/pfa:wiltshire,Wiltshire,E23000038
-ocd-division/country:gb/pfa:dorset,Dorset,E23000039
-ocd-division/country:gb/pfa:north_wales,North Wales,W15000001
-ocd-division/country:gb/pfa:gwent,Gwent,W15000002
-ocd-division/country:gb/pfa:south_wales,South Wales,W15000003
-ocd-division/country:gb/pfa:dyfed-powys,Dyfed-Powys,W15000004
+ocd-division/country:gb/part:eng/pfa:cumbria,Cumbria,E23000002
+ocd-division/country:gb/part:eng/pfa:lancashire,Lancashire,E23000003
+ocd-division/country:gb/part:eng/pfa:merseyside,Merseyside,E23000004
+ocd-division/country:gb/part:eng/pfa:cheshire,Cheshire,E23000006
+ocd-division/country:gb/part:eng/pfa:northumbria,Northumbria,E23000007
+ocd-division/country:gb/part:eng/pfa:durham,Durham,E23000008
+ocd-division/country:gb/part:eng/pfa:north_yorkshire,North Yorkshire,E23000009
+ocd-division/country:gb/part:eng/pfa:west_yorkshire,West Yorkshire,E23000010
+ocd-division/country:gb/part:eng/pfa:south_yorkshire,South Yorkshire,E23000011
+ocd-division/country:gb/part:eng/pfa:humberside,Humberside,E23000012
+ocd-division/country:gb/part:eng/pfa:cleveland,Cleveland,E23000013
+ocd-division/country:gb/part:eng/pfa:west_midlands,West Midlands,E23000014
+ocd-division/country:gb/part:eng/pfa:staffordshire,Staffordshire,E23000015
+ocd-division/country:gb/part:eng/pfa:west_mercia,West Mercia,E23000016
+ocd-division/country:gb/part:eng/pfa:warwickshire,Warwickshire,E23000017
+ocd-division/country:gb/part:eng/pfa:derbyshire,Derbyshire,E23000018
+ocd-division/country:gb/part:eng/pfa:nottinghamshire,Nottinghamshire,E23000019
+ocd-division/country:gb/part:eng/pfa:lincolnshire,Lincolnshire,E23000020
+ocd-division/country:gb/part:eng/pfa:leicestershire,Leicestershire,E23000021
+ocd-division/country:gb/part:eng/pfa:northamptonshire,Northamptonshire,E23000022
+ocd-division/country:gb/part:eng/pfa:cambridgeshire,Cambridgeshire,E23000023
+ocd-division/country:gb/part:eng/pfa:norfolk,Norfolk,E23000024
+ocd-division/country:gb/part:eng/pfa:suffolk,Suffolk,E23000025
+ocd-division/country:gb/part:eng/pfa:bedfordshire,Bedfordshire,E23000026
+ocd-division/country:gb/part:eng/pfa:hertfordshire,Hertfordshire,E23000027
+ocd-division/country:gb/part:eng/pfa:essex,Essex,E23000028
+ocd-division/country:gb/part:eng/pfa:thames_valley,Thames Valley,E23000029
+ocd-division/country:gb/part:eng/pfa:hampshire,Hampshire,E23000030
+ocd-division/country:gb/part:eng/pfa:surrey,Surrey,E23000031
+ocd-division/country:gb/part:eng/pfa:kent,Kent,E23000032
+ocd-division/country:gb/part:eng/pfa:sussex,Sussex,E23000033
+ocd-division/country:gb/part:eng/pfa:devon_and_cornwall,Devon and Cornwall,E23000035
+ocd-division/country:gb/part:eng/pfa:avon_and_somerset,Avon and Somerset,E23000036
+ocd-division/country:gb/part:eng/pfa:gloucestershire,Gloucestershire,E23000037
+ocd-division/country:gb/part:eng/pfa:wiltshire,Wiltshire,E23000038
+ocd-division/country:gb/part:eng/pfa:dorset,Dorset,E23000039
+ocd-division/country:gb/part:wls/pfa:north_wales,North Wales,W15000001
+ocd-division/country:gb/part:wls/pfa:gwent,Gwent,W15000002
+ocd-division/country:gb/part:wls/pfa:south_wales,South Wales,W15000003
+ocd-division/country:gb/part:wls/pfa:dyfed-powys,Dyfed-Powys,W15000004
