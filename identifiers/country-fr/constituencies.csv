@@ -538,41 +538,41 @@ ocd-division/country:fr/region:if/department:yv/ed:9,Neuvième circonscription d
 ocd-division/country:fr/region:if/department:yv/ed:10,Dixième circonscription des Yvelines
 ocd-division/country:fr/region:if/department:yv/ed:11,Onzième circonscription des Yvelines
 ocd-division/country:fr/region:if/department:yv/ed:12,Douzième circonscription des Yvelines
-ocd-division/country:fr/oversea_department:gp/ed:1,Première circonscription de la Guadeloupe
-ocd-division/country:fr/oversea_department:gp/ed:2,Deuxième circonscription de la Guadeloupe
-ocd-division/country:fr/oversea_department:gp/ed:3,Troisième circonscription de la Guadeloupe
-ocd-division/country:fr/oversea_department:gp/ed:4,Quatrième circonscription de la Guadeloupe
-ocd-division/country:fr/oversea_department:gf/ed:1,Première circonscription de la Guyane
-ocd-division/country:fr/oversea_department:gf/ed:2,Deuxième circonscription de la Guyane
-ocd-division/country:fr/oversea_department:re/ed:1,Première circonscription de La Réunion
-ocd-division/country:fr/oversea_department:re/ed:2,Deuxième circonscription de La Réunion
-ocd-division/country:fr/oversea_department:re/ed:3,Troisième circonscription de La Réunion
-ocd-division/country:fr/oversea_department:re/ed:4,Quatrième circonscription de La Réunion
-ocd-division/country:fr/oversea_department:re/ed:5,Cinquième circonscription de La Réunion
-ocd-division/country:fr/oversea_department:re/ed:6,Sixième circonscription de La Réunion
-ocd-division/country:fr/oversea_department:re/ed:7,Septième circonscription de La Réunion
-ocd-division/country:fr/oversea_department:mq/ed:1,Première circonscription de la Martinique
-ocd-division/country:fr/oversea_department:mq/ed:2,Deuxième circonscription de la Martinique
-ocd-division/country:fr/oversea_department:mq/ed:3,Troisième circonscription de la Martinique
-ocd-division/country:fr/oversea_department:mq/ed:4,Quatrième circonscription de la Martinique
-ocd-division/country:fr/oversea_department:yt/ed:1,Première circonscription de Mayotte
-ocd-division/country:fr/oversea_department:yt/ed:2,Deuxième circonscription de Mayotte
-ocd-division/country:fr/oversea_department:nc/ed:1,Première circonscription de Nouvelle-Calédonie
-ocd-division/country:fr/oversea_department:nc/ed:2,Deuxième circonscription de Nouvelle-Calédonie
-ocd-division/country:fr/oversea_department:pf/ed:1,Première circonscription de la Polynésie française
-ocd-division/country:fr/oversea_department:pf/ed:2,Deuxième circonscription de la Polynésie française
-ocd-division/country:fr/oversea_department:pf/ed:3,Troisième circonscription de la Polynésie française
-ocd-division/country:fr/oversea_department:mf/ed:1,Circonscription de Saint-Barthélemy et Saint-Martin
-ocd-division/country:fr/oversea_department:pm/ed:1,Circonscription législative de Saint-Pierre-et-Miquelon
-ocd-division/country:fr/oversea_department:wf/ed:1,Circonscription de Wallis-et-Futuna
-ocd-division/country:fr/oversea_department:francais_etablis_hors_de_france/ed:1,Première circonscription des Français établis hors de France
-ocd-division/country:fr/oversea_department:francais_etablis_hors_de_france/ed:2,Deuxième circonscription des Français établis hors de France
-ocd-division/country:fr/oversea_department:francais_etablis_hors_de_france/ed:3,Troisième circonscription des Français établis hors de France
-ocd-division/country:fr/oversea_department:francais_etablis_hors_de_france/ed:4,Quatrième circonscription des Français établis hors de France
-ocd-division/country:fr/oversea_department:francais_etablis_hors_de_france/ed:5,Cinquième circonscription des Français établis hors de France
-ocd-division/country:fr/oversea_department:francais_etablis_hors_de_france/ed:6,Sixième circonscription des Français établis hors de France
-ocd-division/country:fr/oversea_department:francais_etablis_hors_de_france/ed:7,Septième circonscription des Français établis hors de France
-ocd-division/country:fr/oversea_department:francais_etablis_hors_de_france/ed:8,Huitième circonscription des Français établis hors de France
-ocd-division/country:fr/oversea_department:francais_etablis_hors_de_france/ed:9,Neuvième circonscription des Français établis hors de France
-ocd-division/country:fr/oversea_department:francais_etablis_hors_de_france/ed:10,Dixième circonscription des Français établis hors de France
-ocd-division/country:fr/oversea_department:francais_etablis_hors_de_france/ed:11,Onzième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:gp/ed:1,Première circonscription de la Guadeloupe
+ocd-division/country:fr/overseas_department:gp/ed:2,Deuxième circonscription de la Guadeloupe
+ocd-division/country:fr/overseas_department:gp/ed:3,Troisième circonscription de la Guadeloupe
+ocd-division/country:fr/overseas_department:gp/ed:4,Quatrième circonscription de la Guadeloupe
+ocd-division/country:fr/overseas_department:gf/ed:1,Première circonscription de la Guyane
+ocd-division/country:fr/overseas_department:gf/ed:2,Deuxième circonscription de la Guyane
+ocd-division/country:fr/overseas_department:re/ed:1,Première circonscription de La Réunion
+ocd-division/country:fr/overseas_department:re/ed:2,Deuxième circonscription de La Réunion
+ocd-division/country:fr/overseas_department:re/ed:3,Troisième circonscription de La Réunion
+ocd-division/country:fr/overseas_department:re/ed:4,Quatrième circonscription de La Réunion
+ocd-division/country:fr/overseas_department:re/ed:5,Cinquième circonscription de La Réunion
+ocd-division/country:fr/overseas_department:re/ed:6,Sixième circonscription de La Réunion
+ocd-division/country:fr/overseas_department:re/ed:7,Septième circonscription de La Réunion
+ocd-division/country:fr/overseas_department:mq/ed:1,Première circonscription de la Martinique
+ocd-division/country:fr/overseas_department:mq/ed:2,Deuxième circonscription de la Martinique
+ocd-division/country:fr/overseas_department:mq/ed:3,Troisième circonscription de la Martinique
+ocd-division/country:fr/overseas_department:mq/ed:4,Quatrième circonscription de la Martinique
+ocd-division/country:fr/overseas_department:yt/ed:1,Première circonscription de Mayotte
+ocd-division/country:fr/overseas_department:yt/ed:2,Deuxième circonscription de Mayotte
+ocd-division/country:fr/overseas_department:nc/ed:1,Première circonscription de Nouvelle-Calédonie
+ocd-division/country:fr/overseas_department:nc/ed:2,Deuxième circonscription de Nouvelle-Calédonie
+ocd-division/country:fr/overseas_department:pf/ed:1,Première circonscription de la Polynésie française
+ocd-division/country:fr/overseas_department:pf/ed:2,Deuxième circonscription de la Polynésie française
+ocd-division/country:fr/overseas_department:pf/ed:3,Troisième circonscription de la Polynésie française
+ocd-division/country:fr/overseas_department:mf/ed:1,Circonscription de Saint-Barthélemy et Saint-Martin
+ocd-division/country:fr/overseas_department:pm/ed:1,Circonscription législative de Saint-Pierre-et-Miquelon
+ocd-division/country:fr/overseas_department:wf/ed:1,Circonscription de Wallis-et-Futuna
+ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:1,Première circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:2,Deuxième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:3,Troisième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:4,Quatrième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:5,Cinquième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:6,Sixième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:7,Septième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:8,Huitième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:9,Neuvième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:10,Dixième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:11,Onzième circonscription des Français établis hors de France
