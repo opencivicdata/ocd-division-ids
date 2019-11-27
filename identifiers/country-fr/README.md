@@ -4,7 +4,7 @@
 
 * `region`: Regions of France (Primary subdivisions)
 * `department`: Departments of France (Further subdivisions of primary subdivisions)
-* `oversea_department`: Overseas Departments of France (Outside France)
+* `overseas_department`: Overseas Departments of France (Outside France)
 * `ed`: Constituencies of the National Assembly of France (Subdivided into numbers in the corresponding department)
 
 ## Notes
