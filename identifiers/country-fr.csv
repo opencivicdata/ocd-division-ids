@@ -1,17 +1,17 @@
 id,name
 ocd-division/country:fr,France
-ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france,Français établis hors de France
-ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:1,Première circonscription des Français établis hors de France
-ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:10,Dixième circonscription des Français établis hors de France
-ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:11,Onzième circonscription des Français établis hors de France
-ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:2,Deuxième circonscription des Français établis hors de France
-ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:3,Troisième circonscription des Français établis hors de France
-ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:4,Quatrième circonscription des Français établis hors de France
-ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:5,Cinquième circonscription des Français établis hors de France
-ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:6,Sixième circonscription des Français établis hors de France
-ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:7,Septième circonscription des Français établis hors de France
-ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:8,Huitième circonscription des Français établis hors de France
-ocd-division/country:fr/overseas_department:francais_etablis_hors_de_france/ed:9,Neuvième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora,Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:1,Première circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:10,Dixième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:11,Onzième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:2,Deuxième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:3,Troisième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:4,Quatrième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:5,Cinquième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:6,Sixième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:7,Septième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:8,Huitième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:9,Neuvième circonscription des Français établis hors de France
 ocd-division/country:fr/overseas_department:gf,Guyane
 ocd-division/country:fr/overseas_department:gf/ed:1,Première circonscription de la Guyane
 ocd-division/country:fr/overseas_department:gf/ed:2,Deuxième circonscription de la Guyane
