@@ -57,7 +57,7 @@ With that in mind, below are some interesting OCD Identifiers that might not see
 	
 ## cd
 
-* At-large congressional districts (AK, DE, MT, ND, SD, VT, WY) have the district number 1
+* At-large congressional districts (AK, DE, MT, ND, SD, VT, WY) have at-large in their identifier instead of a number.
 
 ## sldl (State Legislature distict -- lower)
 
