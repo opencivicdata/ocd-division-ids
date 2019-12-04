@@ -55,13 +55,6 @@ ocd-division/country:us/state:md/county:baltimore_city,ocd-division/country:us/s
 ocd-division/country:us/state:nv/county:carson_city,ocd-division/country:us/state:nv/place:carson_city,Carson City NV -- indepdent city: not a county
 ocd-division/country:us/state:mo/county:st_louis_city,ocd-division/country:us/state:mo/place:st_louis,St Louis (City) MO is an independent city: not a county; do not confuse with St Louis County
 ocd-division/country:us/state:mo/county:st_louis_county,ocd-division/country:us/state:mo/county:st_louis,St Louis (County) MO is not to be confused with St Louis (city)
-ocd-division/country:us/state:ak/cd:1,ocd-division/country:us/state:ak,Alaska's at-large congressional district
-ocd-division/country:us/state:de/cd:1,ocd-division/country:us/state:de,Deleware's at-large congressional district
-ocd-division/country:us/state:mt/cd:1,ocd-division/country:us/state:mt,Montana's at-large congressional district
-ocd-division/country:us/state:nd/cd:1,ocd-division/country:us/state:nd,North Dakota's at-large congressional district
-ocd-division/country:us/state:sd/cd:1,ocd-division/country:us/state:sd,South Dakota's at-large congressional district
-ocd-division/country:us/state:vt/cd:1,ocd-division/country:us/state:vt,Vermont's at-large congressional district
-ocd-division/country:us/state:wy/cd:1,ocd-division/country:us/state:wy,Wyoming's at-large congressional district
 ocd-division/country:us/state:hi/place:honolulu,ocd-division/country:us/state:hi/county:honolulu,Honolulu HI city-county -- census does not recognize city
 ocd-division/country:us/state:ca/place:angels_camp,ocd-division/country:us/state:ca/place:angels,Angels Camp CA -- census considers Camp to be suffix
 ocd-division/country:us/state:al/place:mountainboro,ocd-division/country:us/state:al/place:boaz,Mountainboro AL is a neighborhood only -- used to be separate -- now consolidated with Boaz
