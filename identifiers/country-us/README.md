@@ -57,8 +57,7 @@ With that in mind, below are some interesting OCD Identifiers that might not see
 	
 ## cd
 
-* At-large congressional districts (AK, DE, MT, ND, SD, VT, WY) do not have division identifiers because they are coterminous with the state.
-* The [exceptions file](https://github.com/opencivicdata/ocd-division-ids/blob/master/identifiers/country-us/README.md) includes this idiosyncracy of U.S. congressional districts.
+* At-large congressional districts (AK, DE, MT, ND, SD, VT, WY) have at-large in their identifier instead of a number.
 
 ## sldl (State Legislature distict -- lower)
 
