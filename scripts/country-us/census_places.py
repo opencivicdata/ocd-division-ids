@@ -40,10 +40,7 @@ def _ordinal(value):
 
     return '{}{}'.format(value, ordval)
 
-#BASE_URL = 'http://www2.census.gov/geo/gazetteer/20{}_Gazetteer/'.format(VINTAGE)
 BASE_URL = 'https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2018_Gazetteer/'.format(VINTAGE)
-#2018_Gaz_116CDs_national.zip
-
 
 TYPES = {
     'county': {
@@ -334,9 +331,6 @@ class SLDProcessor(Processor):
     def get_urls(self):
         yield ('', BASE_URL + '20{}_Gaz_{}_national.zip'.format(
             VINTAGE, self.district_type), {})
-        # yield (' (obsolete)',
-        #        'https://www.census.gov/geo/maps-data/data/docs/gazetteer'
-        #        '/Gaz_{}_national.zip'.format(self.district_type), {})
 
     def process_row(self, row):
         state = us.states.lookup(row['USPS'])
