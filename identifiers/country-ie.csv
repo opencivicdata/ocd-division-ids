@@ -1,7 +1,5 @@
 id,name
 ocd-division/country:ie,Ireland
-ocd-division/country:ie/cd:an_deisceart,South
-ocd-division/country:ie/cd:baile_átha_cliath,Dublin
 ocd-division/country:ie/cd:carlow-kilkenny,Carlow-Kilkenny
 ocd-division/country:ie/cd:cavan-monaghan,Cavan-Monaghan
 ocd-division/country:ie/cd:clare,Clare
@@ -27,17 +25,14 @@ ocd-division/country:ie/cd:galway_west,Galway West
 ocd-division/country:ie/cd:kerry,Kerry
 ocd-division/country:ie/cd:kildare_north,Kildare North
 ocd-division/country:ie/cd:kildare_south,Kildare South
-ocd-division/country:ie/cd:laois,Laois
 ocd-division/country:ie/cd:laois-offaly,Laois-Offaly
 ocd-division/country:ie/cd:limerick_city,Limerick City
 ocd-division/country:ie/cd:limerick_county,Limerick County
 ocd-division/country:ie/cd:longford-westmeath,Longford-Westmeath
 ocd-division/country:ie/cd:louth,Louth
-ocd-division/country:ie/cd:lár-tíre-_an_tiar-thuaisceart,Midlands–North-West
 ocd-division/country:ie/cd:mayo,Mayo
 ocd-division/country:ie/cd:meath_east,Meath East
 ocd-division/country:ie/cd:meath_west,Meath West
-ocd-division/country:ie/cd:offaly,Offaly
 ocd-division/country:ie/cd:roscommon-galway,Roscommon-Galway
 ocd-division/country:ie/cd:sligo-leitrim,Sligo-Leitrim
 ocd-division/country:ie/cd:tipperary,Tipperary
