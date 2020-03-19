@@ -1,10 +1,10 @@
 # The UK Parliament (House of Commons) has members at consitituency level
 # in England, Wales, Scotland and Northern Ireland
 pcon = {
-    # data from: http://geoportal.statistics.gov.uk/datasets/westminster-parliamentary-constituencies-december-2017-full-extent-boundaries-in-the-uk-wgs84
-    'url': 'https://opendata.arcgis.com/datasets/5c582cef61d04618928639dd17e4f896_1.csv',
-    'gss_column': 'pcon17cd',
-    'name_column': 'pcon17nm',
+    # data from: https://geoportal.statistics.gov.uk/datasets/westminster-parliamentary-constituencies-december-2018-uk-bfe
+    'url': 'https://opendata.arcgis.com/datasets/78690ecedd5545c097637132d8c9e3b3_0.csv',
+    'gss_column': 'pcon18cd',
+    'name_column': 'pcon18nm',
     'prefix': 'pcon',
     'filename': 'uk_parliament_consitituencies.csv'
 }
