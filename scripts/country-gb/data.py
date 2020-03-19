@@ -6,7 +6,8 @@ pcon = {
     'gss_column': 'pcon18cd',
     'name_column': 'pcon18nm',
     'prefix': 'pcon',
-    'filename': 'uk_parliament_consitituencies.csv'
+    'filename': 'uk_parliament_consitituencies.csv',
+    'use_nation_clause': False,
 }
 
 
@@ -17,7 +18,8 @@ spc = {
     'gss_column': 'spc16cd',
     'name_column': 'spc16nm',
     'prefix': 'spc',
-    'filename': 'scottish_parliament_consitituencies.csv'
+    'filename': 'scottish_parliament_consitituencies.csv',
+    'use_nation_clause': True,
 }
 spr = {
     # data from: http://geoportal.statistics.gov.uk/datasets/scottish-parliamentary-regions-may-2016-full-extent-boundaries-in-scotland
@@ -25,7 +27,8 @@ spr = {
     'gss_column': 'spr16cd',
     'name_column': 'spr16nm',
     'prefix': 'spr',
-    'filename': 'scottish_parliament_regions.csv'
+    'filename': 'scottish_parliament_regions.csv',
+    'use_nation_clause': True,
 }
 
 
@@ -37,7 +40,8 @@ nawc = {
     'gss_column': 'nawc17cd',
     'name_column': 'nawc17nm',
     'prefix': 'nawc',
-    'filename': 'naw_consitituencies.csv'
+    'filename': 'naw_consitituencies.csv',
+    'use_nation_clause': True,
 }
 nawr = {
     # data from: http://geoportal.statistics.gov.uk/datasets/national-assembly-for-wales-electoral-regions-december-2017-wa-bfe
@@ -45,7 +49,8 @@ nawr = {
     'gss_column': 'nawer17cd',
     'name_column': 'nawer17nm',
     'prefix': 'nawr',
-    'filename': 'naw_regions.csv'
+    'filename': 'naw_regions.csv',
+    'use_nation_clause': True,
 }
 
 
@@ -56,7 +61,8 @@ cauth = {
     'gss_column': 'cauth17cd',
     'name_column': 'cauth17nm',
     'prefix': 'cauth',
-    'filename': 'combined_authorities.csv'
+    'filename': 'combined_authorities.csv',
+    'use_nation_clause': False,
 }
 
 
@@ -69,6 +75,7 @@ pfa = {
     'name_column': 'pfa17nm',
     'prefix': 'pfa',
     'filename': 'police_force_areas.csv',
+    'use_nation_clause': False,
     'exclude': [
         # These areas don't elect a Police & Crime Commissioner:
         'E23000001',  # Metropolitan Police
