@@ -1,4 +1,4 @@
-# The UK Parliament (House of Commons) has members at consitituency level
+# The UK Parliament (House of Commons) has members at constituency level
 # in England, Wales, Scotland and Northern Ireland
 pcon = {
     # data from: https://geoportal.statistics.gov.uk/datasets/westminster-parliamentary-constituencies-december-2018-uk-bfe
@@ -6,19 +6,19 @@ pcon = {
     'gss_column': 'pcon18cd',
     'name_column': 'pcon18nm',
     'prefix': 'pcon',
-    'filename': 'uk_parliament_consitituencies.csv',
+    'filename': 'uk_parliament_constituencies.csv',
     'use_nation_clause': False,
 }
 
 
-# The Scottish Parliament has members at both consitituency and regional levels
+# The Scottish Parliament has members at both constituency and regional levels
 spc = {
     # data from: http://geoportal.statistics.gov.uk/datasets/scottish-parliamentary-constituencies-may-2016-full-extent-boundaries-in-scotland
     'url': 'https://opendata.arcgis.com/datasets/00436d85fa664f0fb7dce4a1aff83f27_1.csv',
     'gss_column': 'spc16cd',
     'name_column': 'spc16nm',
     'prefix': 'spc',
-    'filename': 'scottish_parliament_consitituencies.csv',
+    'filename': 'scottish_parliament_constituencies.csv',
     'use_nation_clause': True,
 }
 spr = {
@@ -33,14 +33,14 @@ spr = {
 
 
 # The National Assembly for Wales has members
-# at both consitituency and regional levels
+# at both constituency and regional levels
 nawc = {
     # data from: http://geoportal.statistics.gov.uk/datasets/national-assembly-for-wales-constituencies-december-2017-wa-bfe
     'url': 'https://opendata.arcgis.com/datasets/7a4dc40d6c9e4abf8d2fa3b369395d93_1.csv',
     'gss_column': 'nawc17cd',
     'name_column': 'nawc17nm',
     'prefix': 'nawc',
-    'filename': 'naw_consitituencies.csv',
+    'filename': 'naw_constituencies.csv',
     'use_nation_clause': True,
 }
 nawr = {
