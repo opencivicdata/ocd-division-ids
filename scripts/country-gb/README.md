@@ -9,11 +9,8 @@
 
 ## Division Types
 
-* `pcon`: UK Parliament Consitituencies
-* `spc`: Scottish Parliament Consitituencies
-* `spr`: Scottish Parliament Regions
-* `nawc`: National Assembly for Wales Consitituencies
-* `nawr`: National Assembly for Wales Regions
+* `con`: UK Parliament/Scottish Parliament/National Assembly for Wales Constituencies
+* `reg`: Scottish Parliament Regions/National Assembly for Wales
 * `cauth`: Combined Authorities
 * `pfa`: Police Force Areas
 
