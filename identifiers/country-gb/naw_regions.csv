@@ -1,6 +1,6 @@
 id,name,gss_code
-ocd-division/country:gb/part:wls/nawr:north_wales,North Wales,W10000001
-ocd-division/country:gb/part:wls/nawr:mid_and_west_wales,Mid and West Wales,W10000006
-ocd-division/country:gb/part:wls/nawr:south_wales_central,South Wales Central,W10000007
-ocd-division/country:gb/part:wls/nawr:south_wales_east,South Wales East,W10000008
-ocd-division/country:gb/part:wls/nawr:south_wales_west,South Wales West,W10000009
+ocd-division/country:gb/part:wls/reg:north_wales,North Wales,W10000001
+ocd-division/country:gb/part:wls/reg:mid_and_west_wales,Mid and West Wales,W10000006
+ocd-division/country:gb/part:wls/reg:south_wales_central,South Wales Central,W10000007
+ocd-division/country:gb/part:wls/reg:south_wales_east,South Wales East,W10000008
+ocd-division/country:gb/part:wls/reg:south_wales_west,South Wales West,W10000009

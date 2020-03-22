@@ -5,7 +5,7 @@ pcon = {
     'url': 'https://opendata.arcgis.com/datasets/78690ecedd5545c097637132d8c9e3b3_0.csv',
     'gss_column': 'pcon18cd',
     'name_column': 'pcon18nm',
-    'prefix': 'pcon',
+    'prefix': 'con',
     'filename': 'uk_parliament_constituencies.csv',
     'use_nation_clause': False,
 }
@@ -17,7 +17,7 @@ spc = {
     'url': 'https://opendata.arcgis.com/datasets/00436d85fa664f0fb7dce4a1aff83f27_1.csv',
     'gss_column': 'spc16cd',
     'name_column': 'spc16nm',
-    'prefix': 'spc',
+    'prefix': 'con',
     'filename': 'scottish_parliament_constituencies.csv',
     'use_nation_clause': True,
 }
@@ -26,7 +26,7 @@ spr = {
     'url': 'https://opendata.arcgis.com/datasets/c890fc7b1ad14311bb71660ec6524c9e_1.csv',
     'gss_column': 'spr16cd',
     'name_column': 'spr16nm',
-    'prefix': 'spr',
+    'prefix': 'reg',
     'filename': 'scottish_parliament_regions.csv',
     'use_nation_clause': True,
 }
@@ -39,7 +39,7 @@ nawc = {
     'url': 'https://opendata.arcgis.com/datasets/7a4dc40d6c9e4abf8d2fa3b369395d93_1.csv',
     'gss_column': 'nawc17cd',
     'name_column': 'nawc17nm',
-    'prefix': 'nawc',
+    'prefix': 'con',
     'filename': 'naw_constituencies.csv',
     'use_nation_clause': True,
 }
@@ -48,7 +48,7 @@ nawr = {
     'url': 'https://opendata.arcgis.com/datasets/d10026914aa64c4cadcfafad73f81bf7_1.csv',
     'gss_column': 'nawer17cd',
     'name_column': 'nawer17nm',
-    'prefix': 'nawr',
+    'prefix': 'reg',
     'filename': 'naw_regions.csv',
     'use_nation_clause': True,
 }
