@@ -1,0 +1,699 @@
+id,name
+ocd-division/country:fr,France
+ocd-division/country:fr/overseas_department:diaspora,Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:1,Première circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:10,Dixième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:11,Onzième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:2,Deuxième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:3,Troisième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:4,Quatrième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:5,Cinquième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:6,Sixième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:7,Septième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:8,Huitième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:diaspora/ed:9,Neuvième circonscription des Français établis hors de France
+ocd-division/country:fr/overseas_department:gf,Guyane
+ocd-division/country:fr/overseas_department:gf/ed:1,Première circonscription de la Guyane
+ocd-division/country:fr/overseas_department:gf/ed:2,Deuxième circonscription de la Guyane
+ocd-division/country:fr/overseas_department:gp,Guadeloupe
+ocd-division/country:fr/overseas_department:gp/ed:1,Première circonscription de la Guadeloupe
+ocd-division/country:fr/overseas_department:gp/ed:2,Deuxième circonscription de la Guadeloupe
+ocd-division/country:fr/overseas_department:gp/ed:3,Troisième circonscription de la Guadeloupe
+ocd-division/country:fr/overseas_department:gp/ed:4,Quatrième circonscription de la Guadeloupe
+ocd-division/country:fr/overseas_department:mf,St-Barthélemy/St-Martin
+ocd-division/country:fr/overseas_department:mf/ed:1,Circonscription de Saint-Barthélemy et Saint-Martin
+ocd-division/country:fr/overseas_department:mq,Martinique
+ocd-division/country:fr/overseas_department:mq/ed:1,Première circonscription de la Martinique
+ocd-division/country:fr/overseas_department:mq/ed:2,Deuxième circonscription de la Martinique
+ocd-division/country:fr/overseas_department:mq/ed:3,Troisième circonscription de la Martinique
+ocd-division/country:fr/overseas_department:mq/ed:4,Quatrième circonscription de la Martinique
+ocd-division/country:fr/overseas_department:nc,Nouvelle-Calédonie
+ocd-division/country:fr/overseas_department:nc/ed:1,Première circonscription de Nouvelle-Calédonie
+ocd-division/country:fr/overseas_department:nc/ed:2,Deuxième circonscription de Nouvelle-Calédonie
+ocd-division/country:fr/overseas_department:pf,Polynésie français
+ocd-division/country:fr/overseas_department:pf/ed:1,Première circonscription de la Polynésie française
+ocd-division/country:fr/overseas_department:pf/ed:2,Deuxième circonscription de la Polynésie française
+ocd-division/country:fr/overseas_department:pf/ed:3,Troisième circonscription de la Polynésie française
+ocd-division/country:fr/overseas_department:pm,St-Pierre-et-Miquelon
+ocd-division/country:fr/overseas_department:pm/ed:1,Circonscription législative de Saint-Pierre-et-Miquelon
+ocd-division/country:fr/overseas_department:re,La Réunion
+ocd-division/country:fr/overseas_department:re/ed:1,Première circonscription de La Réunion
+ocd-division/country:fr/overseas_department:re/ed:2,Deuxième circonscription de La Réunion
+ocd-division/country:fr/overseas_department:re/ed:3,Troisième circonscription de La Réunion
+ocd-division/country:fr/overseas_department:re/ed:4,Quatrième circonscription de La Réunion
+ocd-division/country:fr/overseas_department:re/ed:5,Cinquième circonscription de La Réunion
+ocd-division/country:fr/overseas_department:re/ed:6,Sixième circonscription de La Réunion
+ocd-division/country:fr/overseas_department:re/ed:7,Septième circonscription de La Réunion
+ocd-division/country:fr/overseas_department:wf,Wallis-et-Futuna
+ocd-division/country:fr/overseas_department:wf/ed:1,Circonscription de Wallis-et-Futuna
+ocd-division/country:fr/overseas_department:yt,Mayotte
+ocd-division/country:fr/overseas_department:yt/ed:1,Première circonscription de Mayotte
+ocd-division/country:fr/overseas_department:yt/ed:2,Deuxième circonscription de Mayotte
+ocd-division/country:fr/region:ac,Nouvelle-Aquitaine
+ocd-division/country:fr/region:ac/department:cm,Charente-Maritime
+ocd-division/country:fr/region:ac/department:cm/ed:1,Première circonscription de la Charente-Maritime
+ocd-division/country:fr/region:ac/department:cm/ed:2,Deuxième circonscription de la Charente-Maritime
+ocd-division/country:fr/region:ac/department:cm/ed:3,Troisième circonscription de la Charente-Maritime
+ocd-division/country:fr/region:ac/department:cm/ed:4,Quatrième circonscription de la Charente-Maritime
+ocd-division/country:fr/region:ac/department:cm/ed:5,Cinquième circonscription de la Charente-Maritime
+ocd-division/country:fr/region:ac/department:cr,Creuse
+ocd-division/country:fr/region:ac/department:cr/ed:1,Première circonscription de la Creuse
+ocd-division/country:fr/region:ac/department:ct,Charente
+ocd-division/country:fr/region:ac/department:ct/ed:1,Première circonscription de la Charente
+ocd-division/country:fr/region:ac/department:ct/ed:2,Deuxième circonscription de la Charente
+ocd-division/country:fr/region:ac/department:ct/ed:3,Troisième circonscription de la Charente
+ocd-division/country:fr/region:ac/department:cz,Corrèze
+ocd-division/country:fr/region:ac/department:cz/ed:1,Première circonscription de la Corrèze
+ocd-division/country:fr/region:ac/department:cz/ed:2,Deuxième circonscription de la Corrèze
+ocd-division/country:fr/region:ac/department:dd,Dordogne
+ocd-division/country:fr/region:ac/department:dd/ed:1,Première circonscription de la Dordogne
+ocd-division/country:fr/region:ac/department:dd/ed:2,Deuxième circonscription de la Dordogne
+ocd-division/country:fr/region:ac/department:dd/ed:3,Troisième circonscription de la Dordogne
+ocd-division/country:fr/region:ac/department:dd/ed:4,Quatrième circonscription de la Dordogne
+ocd-division/country:fr/region:ac/department:ds,Deux-Sèvres
+ocd-division/country:fr/region:ac/department:ds/ed:1,Première circonscription des Deux-Sèvres
+ocd-division/country:fr/region:ac/department:ds/ed:2,Deuxième circonscription des Deux-Sèvres
+ocd-division/country:fr/region:ac/department:ds/ed:3,Troisième circonscription des Deux-Sèvres
+ocd-division/country:fr/region:ac/department:gi,Gironde
+ocd-division/country:fr/region:ac/department:gi/ed:1,Première circonscription de la Gironde
+ocd-division/country:fr/region:ac/department:gi/ed:10,Dixième circonscription de la Gironde
+ocd-division/country:fr/region:ac/department:gi/ed:11,Onzième circonscription de la Gironde
+ocd-division/country:fr/region:ac/department:gi/ed:12,Douzième circonscription de la Gironde
+ocd-division/country:fr/region:ac/department:gi/ed:2,Deuxième circonscription de la Gironde
+ocd-division/country:fr/region:ac/department:gi/ed:3,Troisième circonscription de la Gironde
+ocd-division/country:fr/region:ac/department:gi/ed:4,Quatrième circonscription de la Gironde
+ocd-division/country:fr/region:ac/department:gi/ed:5,Cinquième circonscription de la Gironde
+ocd-division/country:fr/region:ac/department:gi/ed:6,Sixième circonscription de la Gironde
+ocd-division/country:fr/region:ac/department:gi/ed:7,Septième circonscription de la Gironde
+ocd-division/country:fr/region:ac/department:gi/ed:8,Huitième circonscription de la Gironde
+ocd-division/country:fr/region:ac/department:gi/ed:9,Neuvième circonscription de la Gironde
+ocd-division/country:fr/region:ac/department:hv,Haute-Vienne
+ocd-division/country:fr/region:ac/department:hv/ed:1,Première circonscription de la Haute-Vienne
+ocd-division/country:fr/region:ac/department:hv/ed:2,Deuxième circonscription de la Haute-Vienne
+ocd-division/country:fr/region:ac/department:hv/ed:3,Troisième circonscription de la Haute-Vienne
+ocd-division/country:fr/region:ac/department:ld,Landes
+ocd-division/country:fr/region:ac/department:ld/ed:1,Première circonscription des Landes
+ocd-division/country:fr/region:ac/department:ld/ed:2,Deuxième circonscription des Landes
+ocd-division/country:fr/region:ac/department:ld/ed:3,Troisième circonscription des Landes
+ocd-division/country:fr/region:ac/department:lg,Lot-et-Garonne
+ocd-division/country:fr/region:ac/department:lg/ed:1,Première circonscription de Lot-et-Garonne
+ocd-division/country:fr/region:ac/department:lg/ed:2,Deuxième circonscription de Lot-et-Garonne
+ocd-division/country:fr/region:ac/department:lg/ed:3,Troisième circonscription de Lot-et-Garonne
+ocd-division/country:fr/region:ac/department:pa,Pyrénées-Atlantiques
+ocd-division/country:fr/region:ac/department:pa/ed:1,Première circonscription des Pyrénées-Atlantiques
+ocd-division/country:fr/region:ac/department:pa/ed:2,Deuxième circonscription des Pyrénées-Atlantiques
+ocd-division/country:fr/region:ac/department:pa/ed:3,Troisième circonscription des Pyrénées-Atlantiques
+ocd-division/country:fr/region:ac/department:pa/ed:4,Quatrième circonscription des Pyrénées-Atlantiques
+ocd-division/country:fr/region:ac/department:pa/ed:5,Cinquième circonscription des Pyrénées-Atlantiques
+ocd-division/country:fr/region:ac/department:pa/ed:6,Sixième circonscription des Pyrénées-Atlantiques
+ocd-division/country:fr/region:ac/department:vn,Vienne
+ocd-division/country:fr/region:ac/department:vn/ed:1,Première circonscription de la Vienne
+ocd-division/country:fr/region:ac/department:vn/ed:2,Deuxième circonscription de la Vienne
+ocd-division/country:fr/region:ac/department:vn/ed:3,Troisième circonscription de la Vienne
+ocd-division/country:fr/region:ac/department:vn/ed:4,Quatrième circonscription de la Vienne
+ocd-division/country:fr/region:ao,Grand Est
+ocd-division/country:fr/region:ao/department:ab,Aube
+ocd-division/country:fr/region:ao/department:ab/ed:1,Première circonscription de l'Aube
+ocd-division/country:fr/region:ao/department:ab/ed:2,Deuxième circonscription de l'Aube
+ocd-division/country:fr/region:ao/department:ab/ed:3,Troisième circonscription de l'Aube
+ocd-division/country:fr/region:ao/department:an,Ardennes
+ocd-division/country:fr/region:ao/department:an/ed:1,Première circonscription des Ardennes
+ocd-division/country:fr/region:ao/department:an/ed:2,Deuxième circonscription des Ardennes
+ocd-division/country:fr/region:ao/department:an/ed:3,Troisième circonscription des Ardennes
+ocd-division/country:fr/region:ao/department:br,Bas-Rhin
+ocd-division/country:fr/region:ao/department:br/ed:1,Première circonscription du Bas-Thin
+ocd-division/country:fr/region:ao/department:br/ed:2,Deuxième circonscription du Bas-Thin
+ocd-division/country:fr/region:ao/department:br/ed:3,Troisième circonscription du Bas-Thin
+ocd-division/country:fr/region:ao/department:br/ed:4,Quatrième circonscription du Bas-Thin
+ocd-division/country:fr/region:ao/department:br/ed:5,Cinquième circonscription du Bas-Thin
+ocd-division/country:fr/region:ao/department:br/ed:6,Sixième circonscription du Bas-Thin
+ocd-division/country:fr/region:ao/department:br/ed:7,Septième circonscription du Bas-Thin
+ocd-division/country:fr/region:ao/department:br/ed:8,Huitième circonscription du Bas-Thin
+ocd-division/country:fr/region:ao/department:br/ed:9,Neuvième circonscription du Bas-Thin
+ocd-division/country:fr/region:ao/department:hm,Haut-Rhin
+ocd-division/country:fr/region:ao/department:hm/ed:1,Première circonscription du Haut-Rhin
+ocd-division/country:fr/region:ao/department:hm/ed:2,Deuxième circonscription du Haut-Rhin
+ocd-division/country:fr/region:ao/department:hm/ed:3,Troisième circonscription du Haut-Rhin
+ocd-division/country:fr/region:ao/department:hm/ed:4,Quatrième circonscription du Haut-Rhin
+ocd-division/country:fr/region:ao/department:hm/ed:5,Cinquième circonscription du Haut-Rhin
+ocd-division/country:fr/region:ao/department:hm/ed:6,Sixième circonscription du Haut-Rhin
+ocd-division/country:fr/region:ao/department:hr,Haute-Marne
+ocd-division/country:fr/region:ao/department:hr/ed:1,Première circonscription de la Haute-Marne
+ocd-division/country:fr/region:ao/department:hr/ed:2,Deuxième circonscription de la Haute-Marne
+ocd-division/country:fr/region:ao/department:mm,Meurthe-et-Moselle
+ocd-division/country:fr/region:ao/department:mm/ed:1,Première circonscription de Meurthe-et-Moselle
+ocd-division/country:fr/region:ao/department:mm/ed:2,Deuxième circonscription de Meurthe-et-Moselle
+ocd-division/country:fr/region:ao/department:mm/ed:3,Troisième circonscription de Meurthe-et-Moselle
+ocd-division/country:fr/region:ao/department:mm/ed:4,Quatrième circonscription de Meurthe-et-Moselle
+ocd-division/country:fr/region:ao/department:mm/ed:5,Cinquième circonscription de Meurthe-et-Moselle
+ocd-division/country:fr/region:ao/department:mm/ed:6,Sixième circonscription de Meurthe-et-Moselle
+ocd-division/country:fr/region:ao/department:mo,Moselle
+ocd-division/country:fr/region:ao/department:mo/ed:1,Première circonscription de la Moselle
+ocd-division/country:fr/region:ao/department:mo/ed:2,Deuxième circonscription de la Moselle
+ocd-division/country:fr/region:ao/department:mo/ed:3,Troisième circonscription de la Moselle
+ocd-division/country:fr/region:ao/department:mo/ed:4,Quatrième circonscription de la Moselle
+ocd-division/country:fr/region:ao/department:mo/ed:5,Cinquième circonscription de la Moselle
+ocd-division/country:fr/region:ao/department:mo/ed:6,Sixième circonscription de la Moselle
+ocd-division/country:fr/region:ao/department:mo/ed:7,Septième circonscription de la Moselle
+ocd-division/country:fr/region:ao/department:mo/ed:8,Huitième circonscription de la Moselle
+ocd-division/country:fr/region:ao/department:mo/ed:9,Neuvième circonscription de la Moselle
+ocd-division/country:fr/region:ao/department:mr,Marne
+ocd-division/country:fr/region:ao/department:mr/ed:1,Première circonscription de la Marne
+ocd-division/country:fr/region:ao/department:mr/ed:2,Deuxième circonscription de la Marne
+ocd-division/country:fr/region:ao/department:mr/ed:3,Troisième circonscription de la Marne
+ocd-division/country:fr/region:ao/department:mr/ed:4,Quatrième circonscription de la Marne
+ocd-division/country:fr/region:ao/department:mr/ed:5,Cinquième circonscription de la Marne
+ocd-division/country:fr/region:ao/department:ms,Meuse
+ocd-division/country:fr/region:ao/department:ms/ed:1,Première circonscription de la Meuse
+ocd-division/country:fr/region:ao/department:ms/ed:2,Deuxième circonscription de la Meuse
+ocd-division/country:fr/region:ao/department:vg,Vosges
+ocd-division/country:fr/region:ao/department:vg/ed:1,Première circonscription des Vosges
+ocd-division/country:fr/region:ao/department:vg/ed:2,Deuxième circonscription des Vosges
+ocd-division/country:fr/region:ao/department:vg/ed:3,Troisième circonscription des Vosges
+ocd-division/country:fr/region:ao/department:vg/ed:4,Quatrième circonscription des Vosges
+ocd-division/country:fr/region:ar,Auvergne-Rhône-Alpes
+ocd-division/country:fr/region:ar/department:ah,Ardèche
+ocd-division/country:fr/region:ar/department:ah/ed:1,Première circonscription de l'Ardèche
+ocd-division/country:fr/region:ar/department:ah/ed:2,Deuxième circonscription de l'Ardèche
+ocd-division/country:fr/region:ar/department:ah/ed:3,Troisième circonscription de l'Ardèche
+ocd-division/country:fr/region:ar/department:ai,Ain
+ocd-division/country:fr/region:ar/department:ai/ed:1,Première circonscription de l'Ain
+ocd-division/country:fr/region:ar/department:ai/ed:2,Deuxième circonscription de l'Ain
+ocd-division/country:fr/region:ar/department:ai/ed:3,Troisième circonscription de l'Ain
+ocd-division/country:fr/region:ar/department:ai/ed:4,Quatrième circonscription de l'Ain
+ocd-division/country:fr/region:ar/department:ai/ed:5,Cinquième circonscription de l'Ain
+ocd-division/country:fr/region:ar/department:al,Allier
+ocd-division/country:fr/region:ar/department:al/ed:1,Première circonscription de l'Allier
+ocd-division/country:fr/region:ar/department:al/ed:2,Deuxième circonscription de l'Allier
+ocd-division/country:fr/region:ar/department:al/ed:3,Troisième circonscription de l'Allier
+ocd-division/country:fr/region:ar/department:cl,Cantal
+ocd-division/country:fr/region:ar/department:cl/ed:1,Première circonscription du Cantal
+ocd-division/country:fr/region:ar/department:cl/ed:2,Deuxième circonscription du Cantal
+ocd-division/country:fr/region:ar/department:dm,Drôme
+ocd-division/country:fr/region:ar/department:dm/ed:1,Première circonscription de la Drôme
+ocd-division/country:fr/region:ar/department:dm/ed:2,Deuxième circonscription de la Drôme
+ocd-division/country:fr/region:ar/department:dm/ed:3,Troisième circonscription de la Drôme
+ocd-division/country:fr/region:ar/department:dm/ed:4,Quatrième circonscription de la Drôme
+ocd-division/country:fr/region:ar/department:hl,Haute-Loire
+ocd-division/country:fr/region:ar/department:hl/ed:1,Première circonscription de la Haute-Loire
+ocd-division/country:fr/region:ar/department:hl/ed:2,Deuxième circonscription de la Haute-Loire
+ocd-division/country:fr/region:ar/department:hs,Haute-Savoie
+ocd-division/country:fr/region:ar/department:hs/ed:1,Première circonscription de la Haute-Savoie
+ocd-division/country:fr/region:ar/department:hs/ed:2,Deuxième circonscription de la Haute-Savoie
+ocd-division/country:fr/region:ar/department:hs/ed:3,Troisième circonscription de la Haute-Savoie
+ocd-division/country:fr/region:ar/department:hs/ed:4,Quatrième circonscription de la Haute-Savoie
+ocd-division/country:fr/region:ar/department:hs/ed:5,Cinquième circonscription de la Haute-Savoie
+ocd-division/country:fr/region:ar/department:hs/ed:6,Sixième circonscription de la Haute-Savoie
+ocd-division/country:fr/region:ar/department:is,Isère
+ocd-division/country:fr/region:ar/department:is/ed:1,Première circonscription de l'Isère
+ocd-division/country:fr/region:ar/department:is/ed:10,Dixième circonscription de l'Isère
+ocd-division/country:fr/region:ar/department:is/ed:2,Deuxième circonscription de l'Isère
+ocd-division/country:fr/region:ar/department:is/ed:3,Troisième circonscription de l'Isère
+ocd-division/country:fr/region:ar/department:is/ed:4,Quatrième circonscription de l'Isère
+ocd-division/country:fr/region:ar/department:is/ed:5,Cinquième circonscription de l'Isère
+ocd-division/country:fr/region:ar/department:is/ed:6,Sixième circonscription de l'Isère
+ocd-division/country:fr/region:ar/department:is/ed:7,Septième circonscription de l'Isère
+ocd-division/country:fr/region:ar/department:is/ed:8,Huitième circonscription de l'Isère
+ocd-division/country:fr/region:ar/department:is/ed:9,Neuvième circonscription de l'Isère
+ocd-division/country:fr/region:ar/department:lr,Loire
+ocd-division/country:fr/region:ar/department:lr/ed:1,Première circonscription de la Loire
+ocd-division/country:fr/region:ar/department:lr/ed:2,Deuxième circonscription de la Loire
+ocd-division/country:fr/region:ar/department:lr/ed:3,Troisième circonscription de la Loire
+ocd-division/country:fr/region:ar/department:lr/ed:4,Quatrième circonscription de la Loire
+ocd-division/country:fr/region:ar/department:lr/ed:5,Cinquième circonscription de la Loire
+ocd-division/country:fr/region:ar/department:lr/ed:6,Sixième circonscription de la Loire
+ocd-division/country:fr/region:ar/department:pd,Puy-de-Dôme
+ocd-division/country:fr/region:ar/department:pd/ed:1,Première circonscription du Puy-de-Dôme
+ocd-division/country:fr/region:ar/department:pd/ed:2,Deuxième circonscription du Puy-de-Dôme
+ocd-division/country:fr/region:ar/department:pd/ed:3,Troisième circonscription du Puy-de-Dôme
+ocd-division/country:fr/region:ar/department:pd/ed:4,Quatrième circonscription du Puy-de-Dôme
+ocd-division/country:fr/region:ar/department:pd/ed:5,Cinquième circonscription du Puy-de-Dôme
+ocd-division/country:fr/region:ar/department:rh,Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:1,Première circonscription du Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:10,Dixième circonscription du Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:11,Onzième circonscription du Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:12,Douzième circonscription du Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:13,Treizième circonscription du Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:14,Quatorzième circonscription du Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:2,Deuxième circonscription du Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:3,Troisième circonscription du Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:4,Quatrième circonscription du Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:5,Cinquième circonscription du Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:6,Sixième circonscription du Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:7,Septième circonscription du Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:8,Huitième circonscription du Rhône
+ocd-division/country:fr/region:ar/department:rh/ed:9,Neuvième circonscription du Rhône
+ocd-division/country:fr/region:ar/department:sv,Savoie
+ocd-division/country:fr/region:ar/department:sv/ed:1,Première circonscription de la Savoie
+ocd-division/country:fr/region:ar/department:sv/ed:2,Deuxième circonscription de la Savoie
+ocd-division/country:fr/region:ar/department:sv/ed:3,Troisième circonscription de la Savoie
+ocd-division/country:fr/region:ar/department:sv/ed:4,Quatrième circonscription de la Savoie
+ocd-division/country:fr/region:bf,Bourgogne-Franche-Comté
+ocd-division/country:fr/region:bf/department:co,Côte-d'Or
+ocd-division/country:fr/region:bf/department:co/ed:1,Première circonscription de la Côte-d'Or
+ocd-division/country:fr/region:bf/department:co/ed:2,Deuxième circonscription de la Côte-d'Or
+ocd-division/country:fr/region:bf/department:co/ed:3,Troisième circonscription de la Côte-d'Or
+ocd-division/country:fr/region:bf/department:co/ed:4,Quatrième circonscription de la Côte-d'Or
+ocd-division/country:fr/region:bf/department:co/ed:5,Cinquième circonscription de la Côte-d'Or
+ocd-division/country:fr/region:bf/department:db,Doubs
+ocd-division/country:fr/region:bf/department:db/ed:1,Première circonscription du Doubs
+ocd-division/country:fr/region:bf/department:db/ed:2,Deuxième circonscription du Doubs
+ocd-division/country:fr/region:bf/department:db/ed:3,Troisième circonscription du Doubs
+ocd-division/country:fr/region:bf/department:db/ed:4,Quatrième circonscription du Calvados
+ocd-division/country:fr/region:bf/department:db/ed:5,Cinquième circonscription du Calvados
+ocd-division/country:fr/region:bf/department:hn,Haute-Saône
+ocd-division/country:fr/region:bf/department:hn/ed:1,Première circonscription de la Haute-Saône
+ocd-division/country:fr/region:bf/department:hn/ed:2,Deuxième circonscription de la Haute-Saône
+ocd-division/country:fr/region:bf/department:ju,Jura
+ocd-division/country:fr/region:bf/department:ju/ed:1,Première circonscription du Jura
+ocd-division/country:fr/region:bf/department:ju/ed:2,Deuxième circonscription du Jura
+ocd-division/country:fr/region:bf/department:ju/ed:3,Troisième circonscription du Jura
+ocd-division/country:fr/region:bf/department:ni,Nièvre
+ocd-division/country:fr/region:bf/department:ni/ed:1,Première circonscription de la Nièvre
+ocd-division/country:fr/region:bf/department:ni/ed:2,Deuxième circonscription de la Nièvre
+ocd-division/country:fr/region:bf/department:sl,Saône-et-Loire
+ocd-division/country:fr/region:bf/department:sl/ed:1,Première circonscription de Saône-et-Loire
+ocd-division/country:fr/region:bf/department:sl/ed:2,Deuxième circonscription de Saône-et-Loire
+ocd-division/country:fr/region:bf/department:sl/ed:3,Troisième circonscription de Saône-et-Loire
+ocd-division/country:fr/region:bf/department:sl/ed:4,Quatrième circonscription de Saône-et-Loire
+ocd-division/country:fr/region:bf/department:sl/ed:5,Cinquième circonscription de Saône-et-Loire
+ocd-division/country:fr/region:bf/department:tb,Territoire de Belfort
+ocd-division/country:fr/region:bf/department:tb/ed:1,Première circonscription du Territoire de Belfort
+ocd-division/country:fr/region:bf/department:tb/ed:2,Deuxième circonscription du Territoire de Belfort
+ocd-division/country:fr/region:bf/department:yo,Yonne
+ocd-division/country:fr/region:bf/department:yo/ed:1,Première circonscription de l'Yonne
+ocd-division/country:fr/region:bf/department:yo/ed:2,Deuxième circonscription de l'Yonne
+ocd-division/country:fr/region:bf/department:yo/ed:3,Troisième circonscription de l'Yonne
+ocd-division/country:fr/region:bt,Bretagne
+ocd-division/country:fr/region:bt/department:ca,Côtes-d'Armor
+ocd-division/country:fr/region:bt/department:ca/ed:1,Première circonscription des Côtes-d'Armor
+ocd-division/country:fr/region:bt/department:ca/ed:2,Deuxième circonscription des Côtes-d'Armor
+ocd-division/country:fr/region:bt/department:ca/ed:3,Troisième circonscription des Côtes-d'Armor
+ocd-division/country:fr/region:bt/department:ca/ed:4,Quatrième circonscription des Côtes-d'Armor
+ocd-division/country:fr/region:bt/department:ca/ed:5,Cinquième circonscription des Côtes-d'Armor
+ocd-division/country:fr/region:bt/department:fi,Finistère
+ocd-division/country:fr/region:bt/department:fi/ed:1,Première circonscription du Finistère
+ocd-division/country:fr/region:bt/department:fi/ed:2,Deuxième circonscription du Finistère
+ocd-division/country:fr/region:bt/department:fi/ed:3,Troisième circonscription du Finistère
+ocd-division/country:fr/region:bt/department:fi/ed:4,Quatrième circonscription du Finistère
+ocd-division/country:fr/region:bt/department:fi/ed:5,Cinquième circonscription du Finistère
+ocd-division/country:fr/region:bt/department:fi/ed:6,Sixième circonscription du Finistère
+ocd-division/country:fr/region:bt/department:fi/ed:7,Septième circonscription du Finistère
+ocd-division/country:fr/region:bt/department:fi/ed:8,Huitième circonscription du Finistère
+ocd-division/country:fr/region:bt/department:iv,Ille-et-Vilaine
+ocd-division/country:fr/region:bt/department:iv/ed:1,Première circonscription d'Ille-et-Vilaine
+ocd-division/country:fr/region:bt/department:iv/ed:2,Deuxième circonscription d'Ille-et-Vilaine
+ocd-division/country:fr/region:bt/department:iv/ed:3,Troisième circonscription d'Ille-et-Vilaine
+ocd-division/country:fr/region:bt/department:iv/ed:4,Quatrième circonscription d'Ille-et-Vilaine
+ocd-division/country:fr/region:bt/department:iv/ed:5,Cinquième circonscription d'Ille-et-Vilaine
+ocd-division/country:fr/region:bt/department:iv/ed:6,Sixième circonscription d'Ille-et-Vilaine
+ocd-division/country:fr/region:bt/department:iv/ed:7,Septième circonscription d'Ille-et-Vilaine
+ocd-division/country:fr/region:bt/department:iv/ed:8,Huitième circonscription d'Ille-et-Vilaine
+ocd-division/country:fr/region:bt/department:mb,Morbihan
+ocd-division/country:fr/region:bt/department:mb/ed:1,Première circonscription du Morbihan
+ocd-division/country:fr/region:bt/department:mb/ed:2,Deuxième circonscription du Morbihan
+ocd-division/country:fr/region:bt/department:mb/ed:3,Troisième circonscription du Morbihan
+ocd-division/country:fr/region:bt/department:mb/ed:4,Quatrième circonscription du Morbihan
+ocd-division/country:fr/region:bt/department:mb/ed:5,Cinquième circonscription du Morbihan
+ocd-division/country:fr/region:bt/department:mb/ed:6,Sixième circonscription du Morbihan
+ocd-division/country:fr/region:ce,Corse
+ocd-division/country:fr/region:ce/department:cs,Corse-du-Sud
+ocd-division/country:fr/region:ce/department:cs/ed:1,Première circonscription de la Corse-du-Sud
+ocd-division/country:fr/region:ce/department:cs/ed:2,Deuxième circonscription de la Corse-du-Sud
+ocd-division/country:fr/region:ce/department:hc,Haute-Corse
+ocd-division/country:fr/region:ce/department:hc/ed:1,Première circonscription de la Haute-Corse
+ocd-division/country:fr/region:ce/department:hc/ed:2,Deuxième circonscription de la Haute-Corse
+ocd-division/country:fr/region:cn,Centre-Val de Loire
+ocd-division/country:fr/region:cn/department:ch,Cher
+ocd-division/country:fr/region:cn/department:ch/ed:1,Première circonscription du Cher
+ocd-division/country:fr/region:cn/department:ch/ed:2,Deuxième circonscription du Cher
+ocd-division/country:fr/region:cn/department:ch/ed:3,Troisième circonscription du Cher
+ocd-division/country:fr/region:cn/department:el,Eure-et-Loir
+ocd-division/country:fr/region:cn/department:el/ed:1,Première circonscription d'Eure-et-Loir
+ocd-division/country:fr/region:cn/department:el/ed:2,Deuxième circonscription d'Eure-et-Loir
+ocd-division/country:fr/region:cn/department:el/ed:3,Troisième circonscription d'Eure-et-Loir
+ocd-division/country:fr/region:cn/department:el/ed:4,Quatrième circonscription d'Eure-et-Loir
+ocd-division/country:fr/region:cn/department:il,Indre-et-Loire
+ocd-division/country:fr/region:cn/department:il/ed:1,Première circonscription de l'Indre-et-Loire
+ocd-division/country:fr/region:cn/department:il/ed:2,Deuxième circonscription de l'Indre-et-Loire
+ocd-division/country:fr/region:cn/department:il/ed:3,Troisième circonscription de l'Indre-et-Loire
+ocd-division/country:fr/region:cn/department:il/ed:4,Quatrième circonscription de l'Indre-et-Loire
+ocd-division/country:fr/region:cn/department:il/ed:5,Cinquième circonscription de l'Indre-et-Loire
+ocd-division/country:fr/region:cn/department:in,Indre
+ocd-division/country:fr/region:cn/department:in/ed:1,Première circonscription de l'Indre
+ocd-division/country:fr/region:cn/department:in/ed:2,Deuxième circonscription de l'Indre
+ocd-division/country:fr/region:cn/department:lc,Loir-et-Cher
+ocd-division/country:fr/region:cn/department:lc/ed:1,Première circonscription de Loir-et-Cher
+ocd-division/country:fr/region:cn/department:lc/ed:2,Deuxième circonscription de Loir-et-Cher
+ocd-division/country:fr/region:cn/department:lc/ed:3,Troisième circonscription de Loir-et-Cher
+ocd-division/country:fr/region:cn/department:lt,Loiret
+ocd-division/country:fr/region:cn/department:lt/ed:1,Première circonscription du Loiret
+ocd-division/country:fr/region:cn/department:lt/ed:2,Deuxième circonscription du Loiret
+ocd-division/country:fr/region:cn/department:lt/ed:3,Troisième circonscription du Loiret
+ocd-division/country:fr/region:cn/department:lt/ed:4,Quatrième circonscription du Loiret
+ocd-division/country:fr/region:cn/department:lt/ed:5,Cinquième circonscription du Loiret
+ocd-division/country:fr/region:cn/department:lt/ed:6,Sixième circonscription du Loiret
+ocd-division/country:fr/region:if,Île-de-France
+ocd-division/country:fr/region:if/department:es,Essonne
+ocd-division/country:fr/region:if/department:es/ed:1,Première circonscription de l'Essonne
+ocd-division/country:fr/region:if/department:es/ed:10,Dixième circonscription de l'Essonne
+ocd-division/country:fr/region:if/department:es/ed:2,Deuxième circonscription de l'Essonne
+ocd-division/country:fr/region:if/department:es/ed:3,Troisième circonscription de l'Essonne
+ocd-division/country:fr/region:if/department:es/ed:4,Quatrième circonscription de l'Essonne
+ocd-division/country:fr/region:if/department:es/ed:5,Cinquième circonscription de l'Essonne
+ocd-division/country:fr/region:if/department:es/ed:6,Sixième circonscription de l'Essonne
+ocd-division/country:fr/region:if/department:es/ed:7,Septième circonscription de l'Essonne
+ocd-division/country:fr/region:if/department:es/ed:8,Huitième circonscription de l'Essonne
+ocd-division/country:fr/region:if/department:es/ed:9,Neuvième circonscription de l'Essonne
+ocd-division/country:fr/region:if/department:hd,Hauts-de-Seine
+ocd-division/country:fr/region:if/department:hd/ed:1,Première circonscription des Hauts-de-Seine
+ocd-division/country:fr/region:if/department:hd/ed:10,Dixième circonscription des Hauts-de-Seine
+ocd-division/country:fr/region:if/department:hd/ed:11,Onzième circonscription des Hauts-de-Seine
+ocd-division/country:fr/region:if/department:hd/ed:12,Douzième circonscription des Hauts-de-Seine
+ocd-division/country:fr/region:if/department:hd/ed:13,Treizième circonscription des Hauts-de-Seine
+ocd-division/country:fr/region:if/department:hd/ed:2,Deuxième circonscription des Hauts-de-Seine
+ocd-division/country:fr/region:if/department:hd/ed:3,Troisième circonscription des Hauts-de-Seine
+ocd-division/country:fr/region:if/department:hd/ed:4,Quatrième circonscription des Hauts-de-Seine
+ocd-division/country:fr/region:if/department:hd/ed:5,Cinquième circonscription des Hauts-de-Seine
+ocd-division/country:fr/region:if/department:hd/ed:6,Sixième circonscription des Hauts-de-Seine
+ocd-division/country:fr/region:if/department:hd/ed:7,Septième circonscription des Hauts-de-Seine
+ocd-division/country:fr/region:if/department:hd/ed:8,Huitième circonscription des Hauts-de-Seine
+ocd-division/country:fr/region:if/department:hd/ed:9,Neuvième circonscription des Hauts-de-Seine
+ocd-division/country:fr/region:if/department:se,Seine-et-Marne
+ocd-division/country:fr/region:if/department:se/ed:1,Première circonscription de Seine-et-Marne
+ocd-division/country:fr/region:if/department:se/ed:10,Dixième circonscription de Seine-et-Marne
+ocd-division/country:fr/region:if/department:se/ed:11,Onzième circonscription de Seine-et-Marne
+ocd-division/country:fr/region:if/department:se/ed:2,Deuxième circonscription de Seine-et-Marne
+ocd-division/country:fr/region:if/department:se/ed:3,Troisième circonscription de Seine-et-Marne
+ocd-division/country:fr/region:if/department:se/ed:4,Quatrième circonscription de Seine-et-Marne
+ocd-division/country:fr/region:if/department:se/ed:5,Cinquième circonscription de Seine-et-Marne
+ocd-division/country:fr/region:if/department:se/ed:6,Sixième circonscription de Seine-et-Marne
+ocd-division/country:fr/region:if/department:se/ed:7,Septième circonscription de Seine-et-Marne
+ocd-division/country:fr/region:if/department:se/ed:8,Huitième circonscription de Seine-et-Marne
+ocd-division/country:fr/region:if/department:se/ed:9,Neuvième circonscription de Seine-et-Marne
+ocd-division/country:fr/region:if/department:ss,Seine-Saint-Denis
+ocd-division/country:fr/region:if/department:ss/ed:1,Première circonscription de la Seine-Saint-Denis
+ocd-division/country:fr/region:if/department:ss/ed:10,Dixième circonscription de la Seine-Saint-Denis
+ocd-division/country:fr/region:if/department:ss/ed:11,Onzième circonscription de la Seine-Saint-Denis
+ocd-division/country:fr/region:if/department:ss/ed:12,Douzième circonscription de la Seine-Saint-Denis
+ocd-division/country:fr/region:if/department:ss/ed:2,Deuxième circonscription de la Seine-Saint-Denis
+ocd-division/country:fr/region:if/department:ss/ed:3,Troisième circonscription de la Seine-Saint-Denis
+ocd-division/country:fr/region:if/department:ss/ed:4,Quatrième circonscription de la Seine-Saint-Denis
+ocd-division/country:fr/region:if/department:ss/ed:5,Cinquième circonscription de la Seine-Saint-Denis
+ocd-division/country:fr/region:if/department:ss/ed:6,Sixième circonscription de la Seine-Saint-Denis
+ocd-division/country:fr/region:if/department:ss/ed:7,Septième circonscription de la Seine-Saint-Denis
+ocd-division/country:fr/region:if/department:ss/ed:8,Huitième circonscription de la Seine-Saint-Denis
+ocd-division/country:fr/region:if/department:ss/ed:9,Neuvième circonscription de la Seine-Saint-Denis
+ocd-division/country:fr/region:if/department:vm,Val-de-Marne
+ocd-division/country:fr/region:if/department:vm/ed:1,Première circonscription du Val-de-Marne
+ocd-division/country:fr/region:if/department:vm/ed:10,Dixième circonscription du Val-de-Marne
+ocd-division/country:fr/region:if/department:vm/ed:11,Onzième circonscription du Val-de-Marne
+ocd-division/country:fr/region:if/department:vm/ed:2,Deuxième circonscription du Val-de-Marne
+ocd-division/country:fr/region:if/department:vm/ed:3,Troisième circonscription du Val-de-Marne
+ocd-division/country:fr/region:if/department:vm/ed:4,Quatrième circonscription du Val-de-Marne
+ocd-division/country:fr/region:if/department:vm/ed:5,Cinquième circonscription du Val-de-Marne
+ocd-division/country:fr/region:if/department:vm/ed:6,Sixième circonscription du Val-de-Marne
+ocd-division/country:fr/region:if/department:vm/ed:7,Septième circonscription du Val-de-Marne
+ocd-division/country:fr/region:if/department:vm/ed:8,Huitième circonscription du Val-de-Marne
+ocd-division/country:fr/region:if/department:vm/ed:9,Neuvième circonscription du Val-de-Marne
+ocd-division/country:fr/region:if/department:vo,Val-d'Oise
+ocd-division/country:fr/region:if/department:vo/ed:1,Première circonscription du Val-d'Oise
+ocd-division/country:fr/region:if/department:vo/ed:10,Dixième circonscription du Val-d'Oise
+ocd-division/country:fr/region:if/department:vo/ed:2,Deuxième circonscription du Val-d'Oise
+ocd-division/country:fr/region:if/department:vo/ed:3,Troisième circonscription du Val-d'Oise
+ocd-division/country:fr/region:if/department:vo/ed:4,Quatrième circonscription du Val-d'Oise
+ocd-division/country:fr/region:if/department:vo/ed:5,Cinquième circonscription du Val-d'Oise
+ocd-division/country:fr/region:if/department:vo/ed:6,Sixième circonscription du Val-d'Oise
+ocd-division/country:fr/region:if/department:vo/ed:7,Septième circonscription du Val-d'Oise
+ocd-division/country:fr/region:if/department:vo/ed:8,Huitième circonscription du Val-d'Oise
+ocd-division/country:fr/region:if/department:vo/ed:9,Neuvième circonscription du Val-d'Oise
+ocd-division/country:fr/region:if/department:vp,Paris
+ocd-division/country:fr/region:if/department:vp/ed:1,Première circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:10,Dixième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:11,Onzième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:12,Douzième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:13,Treizième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:14,Quatorzième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:15,Quinzième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:16,Seizième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:17,Dix-septième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:18,Dix-huitième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:2,Deuxième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:3,Troisième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:4,Quatrième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:5,Cinquième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:6,Sixième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:7,Septième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:8,Huitième circonscription de Paris
+ocd-division/country:fr/region:if/department:vp/ed:9,Neuvième circonscription de Paris
+ocd-division/country:fr/region:if/department:yv,Yvelines
+ocd-division/country:fr/region:if/department:yv/ed:1,Première circonscription des Yvelines
+ocd-division/country:fr/region:if/department:yv/ed:10,Dixième circonscription des Yvelines
+ocd-division/country:fr/region:if/department:yv/ed:11,Onzième circonscription des Yvelines
+ocd-division/country:fr/region:if/department:yv/ed:12,Douzième circonscription des Yvelines
+ocd-division/country:fr/region:if/department:yv/ed:2,Deuxième circonscription des Yvelines
+ocd-division/country:fr/region:if/department:yv/ed:3,Troisième circonscription des Yvelines
+ocd-division/country:fr/region:if/department:yv/ed:4,Quatrième circonscription des Yvelines
+ocd-division/country:fr/region:if/department:yv/ed:5,Cinquième circonscription des Yvelines
+ocd-division/country:fr/region:if/department:yv/ed:6,Sixième circonscription des Yvelines
+ocd-division/country:fr/region:if/department:yv/ed:7,Septième circonscription des Yvelines
+ocd-division/country:fr/region:if/department:yv/ed:8,Huitième circonscription des Yvelines
+ocd-division/country:fr/region:if/department:yv/ed:9,Neuvième circonscription des Yvelines
+ocd-division/country:fr/region:lp,Occitanie
+ocd-division/country:fr/region:lp/department:ad,Aude
+ocd-division/country:fr/region:lp/department:ad/ed:1,Première circonscription de l'Aude
+ocd-division/country:fr/region:lp/department:ad/ed:2,Deuxième circonscription de l'Aude
+ocd-division/country:fr/region:lp/department:ad/ed:3,Troisième circonscription de l'Aude
+ocd-division/country:fr/region:lp/department:ag,Ariège
+ocd-division/country:fr/region:lp/department:ag/ed:1,Première circonscription de l'Ariège
+ocd-division/country:fr/region:lp/department:ag/ed:2,Deuxième circonscription de l'Ariège
+ocd-division/country:fr/region:lp/department:av,Aveyron
+ocd-division/country:fr/region:lp/department:av/ed:1,Première circonscription de l'Aveyron
+ocd-division/country:fr/region:lp/department:av/ed:2,Deuxième circonscription de l'Aveyron
+ocd-division/country:fr/region:lp/department:av/ed:3,Troisième circonscription de l'Aveyron
+ocd-division/country:fr/region:lp/department:ga,Gard
+ocd-division/country:fr/region:lp/department:ga/ed:1,Première circonscription du Gard
+ocd-division/country:fr/region:lp/department:ga/ed:2,Deuxième circonscription du Gard
+ocd-division/country:fr/region:lp/department:ga/ed:3,Troisième circonscription du Gard
+ocd-division/country:fr/region:lp/department:ga/ed:4,Quatrième circonscription du Gard
+ocd-division/country:fr/region:lp/department:ga/ed:5,Cinquième circonscription du Gard
+ocd-division/country:fr/region:lp/department:ga/ed:6,Sixième circonscription du Gard
+ocd-division/country:fr/region:lp/department:ge,Gers
+ocd-division/country:fr/region:lp/department:ge/ed:1,Première circonscription du Gers
+ocd-division/country:fr/region:lp/department:ge/ed:2,Deuxième circonscription du Gers
+ocd-division/country:fr/region:lp/department:he,Hérault
+ocd-division/country:fr/region:lp/department:he/ed:1,Première circonscription de l'Hérault
+ocd-division/country:fr/region:lp/department:he/ed:2,Deuxième circonscription de l'Hérault
+ocd-division/country:fr/region:lp/department:he/ed:3,Troisième circonscription de l'Hérault
+ocd-division/country:fr/region:lp/department:he/ed:4,Quatrième circonscription de l'Hérault
+ocd-division/country:fr/region:lp/department:he/ed:5,Cinquième circonscription de l'Hérault
+ocd-division/country:fr/region:lp/department:he/ed:6,Sixième circonscription de l'Hérault
+ocd-division/country:fr/region:lp/department:he/ed:7,Septième circonscription de l'Hérault
+ocd-division/country:fr/region:lp/department:he/ed:8,Huitième circonscription de l'Hérault
+ocd-division/country:fr/region:lp/department:he/ed:9,Neuvième circonscription de l'Hérault
+ocd-division/country:fr/region:lp/department:hg,Haute-Garonne
+ocd-division/country:fr/region:lp/department:hg/ed:1,Première circonscription de la Haute-Garonne
+ocd-division/country:fr/region:lp/department:hg/ed:10,Dixième circonscription de la Haute-Garonne
+ocd-division/country:fr/region:lp/department:hg/ed:2,Deuxième circonscription de la Haute-Garonne
+ocd-division/country:fr/region:lp/department:hg/ed:3,Troisième circonscription de la Haute-Garonne
+ocd-division/country:fr/region:lp/department:hg/ed:4,Quatrième circonscription de la Haute-Garonne
+ocd-division/country:fr/region:lp/department:hg/ed:5,Cinquième circonscription de la Haute-Garonne
+ocd-division/country:fr/region:lp/department:hg/ed:6,Sixième circonscription de la Haute-Garonne
+ocd-division/country:fr/region:lp/department:hg/ed:7,Septième circonscription de la Haute-Garonne
+ocd-division/country:fr/region:lp/department:hg/ed:8,Huitième circonscription de la Haute-Garonne
+ocd-division/country:fr/region:lp/department:hg/ed:9,Neuvième circonscription de la Haute-Garonne
+ocd-division/country:fr/region:lp/department:hp,Hautes-Pyrénées
+ocd-division/country:fr/region:lp/department:hp/ed:1,Première circonscription des Hautes-Pyrénées
+ocd-division/country:fr/region:lp/department:hp/ed:2,Deuxième circonscription des Hautes-Pyrénées
+ocd-division/country:fr/region:lp/department:lo,Lot
+ocd-division/country:fr/region:lp/department:lo/ed:1,Première circonscription du Lot
+ocd-division/country:fr/region:lp/department:lo/ed:2,Deuxième circonscription du Lot
+ocd-division/country:fr/region:lp/department:lz,Lozère
+ocd-division/country:fr/region:lp/department:lz/ed:1,Première circonscription de la Lozère
+ocd-division/country:fr/region:lp/department:po,Pyrénées-Orientales
+ocd-division/country:fr/region:lp/department:po/ed:1,Première circonscription des Pyrénées-Orientales
+ocd-division/country:fr/region:lp/department:po/ed:2,Deuxième circonscription des Pyrénées-Orientales
+ocd-division/country:fr/region:lp/department:po/ed:3,Troisième circonscription des Pyrénées-Orientales
+ocd-division/country:fr/region:lp/department:po/ed:4,Quatrième circonscription des Pyrénées-Orientales
+ocd-division/country:fr/region:lp/department:ta,Tarn
+ocd-division/country:fr/region:lp/department:ta/ed:1,Première circonscription du Tarn
+ocd-division/country:fr/region:lp/department:ta/ed:2,Deuxième circonscription du Tarn
+ocd-division/country:fr/region:lp/department:ta/ed:3,Troisième circonscription du Tarn
+ocd-division/country:fr/region:lp/department:tg,Tarn-et-Garonne
+ocd-division/country:fr/region:lp/department:tg/ed:1,Première circonscription de Tarn-et-Garonne
+ocd-division/country:fr/region:lp/department:tg/ed:2,Deuxième circonscription de Tarn-et-Garonne
+ocd-division/country:fr/region:nc,Hauts-de-France
+ocd-division/country:fr/region:nc/department:as,Aisne
+ocd-division/country:fr/region:nc/department:as/ed:1,Première circonscription de l'Aisne
+ocd-division/country:fr/region:nc/department:as/ed:2,Deuxième circonscription de l'Aisne
+ocd-division/country:fr/region:nc/department:as/ed:3,Troisième circonscription de l'Aisne
+ocd-division/country:fr/region:nc/department:as/ed:4,Quatrième circonscription de l'Aisne
+ocd-division/country:fr/region:nc/department:as/ed:5,Cinquième circonscription de l'Aisne
+ocd-division/country:fr/region:nc/department:no,Nord
+ocd-division/country:fr/region:nc/department:no/ed:1,Première circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:10,Dixième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:11,Onzième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:12,Douzième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:13,Treizième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:14,Quatorzième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:15,Quinzième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:16,Seizième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:17,Dix-septième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:18,Dix-huitième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:19,Dix-neuvième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:2,Deuxième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:20,Vingtième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:21,Vingt et unième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:3,Troisième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:4,Quatrième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:5,Cinquième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:6,Sixième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:7,Septième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:8,Huitième circonscription du Nord
+ocd-division/country:fr/region:nc/department:no/ed:9,Neuvième circonscription du Nord
+ocd-division/country:fr/region:nc/department:oi,Oise
+ocd-division/country:fr/region:nc/department:oi/ed:1,Première circonscription de l'Oise
+ocd-division/country:fr/region:nc/department:oi/ed:2,Deuxième circonscription de l'Oise
+ocd-division/country:fr/region:nc/department:oi/ed:3,Troisième circonscription de l'Oise
+ocd-division/country:fr/region:nc/department:oi/ed:4,Quatrième circonscription de l'Oise
+ocd-division/country:fr/region:nc/department:oi/ed:5,Cinquième circonscription de l'Oise
+ocd-division/country:fr/region:nc/department:oi/ed:6,Sixième circonscription de l'Oise
+ocd-division/country:fr/region:nc/department:oi/ed:7,Septième circonscription de l'Oise
+ocd-division/country:fr/region:nc/department:pc,Pas-de-Calais
+ocd-division/country:fr/region:nc/department:pc/ed:1,Première circonscription du Pas-de-Calais
+ocd-division/country:fr/region:nc/department:pc/ed:10,Dixième circonscription du Pas-de-Calais
+ocd-division/country:fr/region:nc/department:pc/ed:11,Onzième circonscription du Pas-de-Calais
+ocd-division/country:fr/region:nc/department:pc/ed:12,Douzième circonscription du Pas-de-Calais
+ocd-division/country:fr/region:nc/department:pc/ed:2,Deuxième circonscription du Pas-de-Calais
+ocd-division/country:fr/region:nc/department:pc/ed:3,Troisième circonscription du Pas-de-Calais
+ocd-division/country:fr/region:nc/department:pc/ed:4,Quatrième circonscription du Pas-de-Calais
+ocd-division/country:fr/region:nc/department:pc/ed:5,Cinquième circonscription du Pas-de-Calais
+ocd-division/country:fr/region:nc/department:pc/ed:6,Sixième circonscription du Pas-de-Calais
+ocd-division/country:fr/region:nc/department:pc/ed:7,Septième circonscription du Pas-de-Calais
+ocd-division/country:fr/region:nc/department:pc/ed:8,Huitième circonscription du Pas-de-Calais
+ocd-division/country:fr/region:nc/department:pc/ed:9,Neuvième circonscription du Pas-de-Calais
+ocd-division/country:fr/region:nc/department:so,Somme
+ocd-division/country:fr/region:nc/department:so/ed:1,Première circonscription de la Somme
+ocd-division/country:fr/region:nc/department:so/ed:2,Deuxième circonscription de la Somme
+ocd-division/country:fr/region:nc/department:so/ed:3,Troisième circonscription de la Somme
+ocd-division/country:fr/region:nc/department:so/ed:4,Quatrième circonscription de la Somme
+ocd-division/country:fr/region:nc/department:so/ed:5,Cinquième circonscription de la Somme
+ocd-division/country:fr/region:nd,Normandie
+ocd-division/country:fr/region:nd/department:cv,Calvados
+ocd-division/country:fr/region:nd/department:cv/ed:1,Première circonscription du Calvados
+ocd-division/country:fr/region:nd/department:cv/ed:2,Deuxième circonscription du Calvados
+ocd-division/country:fr/region:nd/department:cv/ed:3,Troisième circonscription du Calvados
+ocd-division/country:fr/region:nd/department:cv/ed:4,Quatrième circonscription du Calvados
+ocd-division/country:fr/region:nd/department:cv/ed:5,Cinquième circonscription du Calvados
+ocd-division/country:fr/region:nd/department:cv/ed:6,Sixième circonscription du Calvados
+ocd-division/country:fr/region:nd/department:eu,Eure
+ocd-division/country:fr/region:nd/department:eu/ed:1,Première circonscription de l'Eure
+ocd-division/country:fr/region:nd/department:eu/ed:2,Deuxième circonscription de l'Eure
+ocd-division/country:fr/region:nd/department:eu/ed:3,Troisième circonscription de l'Eure
+ocd-division/country:fr/region:nd/department:eu/ed:4,Quatrième circonscription de l'Eure
+ocd-division/country:fr/region:nd/department:eu/ed:5,Cinquième circonscription de l'Eure
+ocd-division/country:fr/region:nd/department:mh,Manche
+ocd-division/country:fr/region:nd/department:mh/ed:1,Première circonscription de la Manche
+ocd-division/country:fr/region:nd/department:mh/ed:2,Deuxième circonscription de la Manche
+ocd-division/country:fr/region:nd/department:mh/ed:3,Troisième circonscription de la Manche
+ocd-division/country:fr/region:nd/department:mh/ed:4,Quatrième circonscription de la Manche
+ocd-division/country:fr/region:nd/department:or,Orne
+ocd-division/country:fr/region:nd/department:or/ed:1,Première circonscription de l'Orne
+ocd-division/country:fr/region:nd/department:or/ed:2,Deuxième circonscription de l'Orne
+ocd-division/country:fr/region:nd/department:or/ed:3,Troisième circonscription de l'Orne
+ocd-division/country:fr/region:nd/department:sm,Seine-Maritime
+ocd-division/country:fr/region:nd/department:sm/ed:1,Première circonscription de la Seine-Maritime
+ocd-division/country:fr/region:nd/department:sm/ed:10,Dixième circonscription de la Seine-Maritime
+ocd-division/country:fr/region:nd/department:sm/ed:2,Deuxième circonscription de la Seine-Maritime
+ocd-division/country:fr/region:nd/department:sm/ed:3,Troisième circonscription de la Seine-Maritime
+ocd-division/country:fr/region:nd/department:sm/ed:4,Quatrième circonscription de la Seine-Maritime
+ocd-division/country:fr/region:nd/department:sm/ed:5,Cinquième circonscription de la Seine-Maritime
+ocd-division/country:fr/region:nd/department:sm/ed:6,Sixième circonscription de la Seine-Maritime
+ocd-division/country:fr/region:nd/department:sm/ed:7,Septième circonscription de la Seine-Maritime
+ocd-division/country:fr/region:nd/department:sm/ed:8,Huitième circonscription de la Seine-Maritime
+ocd-division/country:fr/region:nd/department:sm/ed:9,Neuvième circonscription de la Seine-Maritime
+ocd-division/country:fr/region:pl,Pays de la Loire
+ocd-division/country:fr/region:pl/department:la,Loire-Atlantique
+ocd-division/country:fr/region:pl/department:la/ed:1,Première circonscription de la Loire-Atlantique
+ocd-division/country:fr/region:pl/department:la/ed:10,Dixième circonscription de la Loire-Atlantique
+ocd-division/country:fr/region:pl/department:la/ed:2,Deuxième circonscription de la Loire-Atlantique
+ocd-division/country:fr/region:pl/department:la/ed:3,Troisième circonscription de la Loire-Atlantique
+ocd-division/country:fr/region:pl/department:la/ed:4,Quatrième circonscription de la Loire-Atlantique
+ocd-division/country:fr/region:pl/department:la/ed:5,Cinquième circonscription de la Loire-Atlantique
+ocd-division/country:fr/region:pl/department:la/ed:6,Sixième circonscription de la Loire-Atlantique
+ocd-division/country:fr/region:pl/department:la/ed:7,Septième circonscription de la Loire-Atlantique
+ocd-division/country:fr/region:pl/department:la/ed:8,Huitième circonscription de la Loire-Atlantique
+ocd-division/country:fr/region:pl/department:la/ed:9,Neuvième circonscription de la Loire-Atlantique
+ocd-division/country:fr/region:pl/department:ml,Maine-et-Loire
+ocd-division/country:fr/region:pl/department:ml/ed:1,Première circonscription de Maine-et-Loire
+ocd-division/country:fr/region:pl/department:ml/ed:2,Deuxième circonscription de Maine-et-Loire
+ocd-division/country:fr/region:pl/department:ml/ed:3,Troisième circonscription de Maine-et-Loire
+ocd-division/country:fr/region:pl/department:ml/ed:4,Quatrième circonscription de Maine-et-Loire
+ocd-division/country:fr/region:pl/department:ml/ed:5,Cinquième circonscription de Maine-et-Loire
+ocd-division/country:fr/region:pl/department:ml/ed:6,Sixième circonscription de Maine-et-Loire
+ocd-division/country:fr/region:pl/department:ml/ed:7,Septième circonscription de Maine-et-Loire
+ocd-division/country:fr/region:pl/department:my,Mayenne
+ocd-division/country:fr/region:pl/department:my/ed:1,Première circonscription de la Mayenne
+ocd-division/country:fr/region:pl/department:my/ed:2,Deuxième circonscription de la Mayenne
+ocd-division/country:fr/region:pl/department:my/ed:3,Troisième circonscription de la Mayenne
+ocd-division/country:fr/region:pl/department:st,Sarthe
+ocd-division/country:fr/region:pl/department:st/ed:1,Première circonscription de la Sarthe
+ocd-division/country:fr/region:pl/department:st/ed:2,Deuxième circonscription de la Sarthe
+ocd-division/country:fr/region:pl/department:st/ed:3,Troisième circonscription de la Sarthe
+ocd-division/country:fr/region:pl/department:st/ed:4,Quatrième circonscription de la Sarthe
+ocd-division/country:fr/region:pl/department:st/ed:5,Cinquième circonscription de la Sarthe
+ocd-division/country:fr/region:pl/department:vd,Vendée
+ocd-division/country:fr/region:pl/department:vd/ed:1,Première circonscription de la Vendée
+ocd-division/country:fr/region:pl/department:vd/ed:2,Deuxième circonscription de la Vendée
+ocd-division/country:fr/region:pl/department:vd/ed:3,Troisième circonscription de la Vendée
+ocd-division/country:fr/region:pl/department:vd/ed:4,Quatrième circonscription de la Vendée
+ocd-division/country:fr/region:pl/department:vd/ed:5,Cinquième circonscription de la Vendée
+ocd-division/country:fr/region:pr,Provence-Alpes-Côte d'Azur
+ocd-division/country:fr/region:pr/department:am,Alpes-Maritimes
+ocd-division/country:fr/region:pr/department:am/ed:1,Première circonscription des Alpes-Maritimes
+ocd-division/country:fr/region:pr/department:am/ed:2,Deuxième circonscription des Alpes-Maritimes
+ocd-division/country:fr/region:pr/department:am/ed:3,Troisième circonscription des Alpes-Maritimes
+ocd-division/country:fr/region:pr/department:am/ed:4,Quatrième circonscription des Alpes-Maritimes
+ocd-division/country:fr/region:pr/department:am/ed:5,Cinquième circonscription des Alpes-Maritimes
+ocd-division/country:fr/region:pr/department:am/ed:6,Sixième circonscription des Alpes-Maritimes
+ocd-division/country:fr/region:pr/department:am/ed:7,Septième circonscription des Alpes-Maritimes
+ocd-division/country:fr/region:pr/department:am/ed:8,Huitième circonscription des Alpes-Maritimes
+ocd-division/country:fr/region:pr/department:am/ed:9,Neuvième circonscription des Alpes-Maritimes
+ocd-division/country:fr/region:pr/department:ap,Alpes-de-Haute-Provence
+ocd-division/country:fr/region:pr/department:ap/ed:1,Première circonscription des Alpes-de-Haute-Provence
+ocd-division/country:fr/region:pr/department:ap/ed:2,Deuxième circonscription des Alpes-de-Haute-Provence
+ocd-division/country:fr/region:pr/department:bd,Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:1,Première circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:10,Dixième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:11,Onzième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:12,Douzième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:13,Treizième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:14,Quatorzième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:15,Quinzième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:16,Seizième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:2,Deuxième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:3,Troisième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:4,Quatrième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:5,Cinquième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:6,Sixième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:7,Septième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:8,Huitième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:bd/ed:9,Neuvième circonscription des Bouches-du-Rhône
+ocd-division/country:fr/region:pr/department:ha,Hautes-Alpes
+ocd-division/country:fr/region:pr/department:ha/ed:1,Première circonscription des Hautes-Alpes
+ocd-division/country:fr/region:pr/department:ha/ed:2,Deuxième circonscription des Hautes-Alpes
+ocd-division/country:fr/region:pr/department:vc,Vaucluse
+ocd-division/country:fr/region:pr/department:vc/ed:1,Première circonscription de Vaucluse
+ocd-division/country:fr/region:pr/department:vc/ed:2,Deuxième circonscription de Vaucluse
+ocd-division/country:fr/region:pr/department:vc/ed:3,Troisième circonscription de Vaucluse
+ocd-division/country:fr/region:pr/department:vc/ed:4,Quatrième circonscription de Vaucluse
+ocd-division/country:fr/region:pr/department:vc/ed:5,Cinquième circonscription de Vaucluse
+ocd-division/country:fr/region:pr/department:vr,Var
+ocd-division/country:fr/region:pr/department:vr/ed:1,Première circonscription du Var
+ocd-division/country:fr/region:pr/department:vr/ed:2,Deuxième circonscription du Var
+ocd-division/country:fr/region:pr/department:vr/ed:3,Troisième circonscription du Var
+ocd-division/country:fr/region:pr/department:vr/ed:4,Quatrième circonscription du Var
+ocd-division/country:fr/region:pr/department:vr/ed:5,Cinquième circonscription du Var
+ocd-division/country:fr/region:pr/department:vr/ed:6,Sixième circonscription du Var
+ocd-division/country:fr/region:pr/department:vr/ed:7,Septième circonscription du Var
+ocd-division/country:fr/region:pr/department:vr/ed:8,Huitième circonscription du Var
