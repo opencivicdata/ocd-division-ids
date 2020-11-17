@@ -1,26 +1,26 @@
 id,name
 ocd-division/country:ar,Argentina
-ocd-division/country:ar/autonomous_city:df,Buenos Aires City
-ocd-division/country:ar/state:ba,Buenos Aires
-ocd-division/country:ar/state:cb,Córdoba
-ocd-division/country:ar/state:cc,Chaco
-ocd-division/country:ar/state:ch,Chubut
-ocd-division/country:ar/state:cn,Corrientes
-ocd-division/country:ar/state:ct,Catamarca
-ocd-division/country:ar/state:er,Entre Ríos
-ocd-division/country:ar/state:fm,Formosa
-ocd-division/country:ar/state:jy,Jujuy
-ocd-division/country:ar/state:lp,La Pampa
-ocd-division/country:ar/state:lr,La Rioja
-ocd-division/country:ar/state:mn,Misiones
-ocd-division/country:ar/state:mz,Mendoza
-ocd-division/country:ar/state:nq,Neuquén
-ocd-division/country:ar/state:rn,Río Negro
-ocd-division/country:ar/state:sa,Salta
-ocd-division/country:ar/state:sc,Santa Cruz
-ocd-division/country:ar/state:se,Santiago del Estero
-ocd-division/country:ar/state:sf,Santa Fe
-ocd-division/country:ar/state:sj,San Juan
-ocd-division/country:ar/state:sl,San Luis
-ocd-division/country:ar/state:tf,Tierra del Fuego
-ocd-division/country:ar/state:tm,Tucumá
+ocd-division/country:ar/autonomous_city:c,Buenos Aires City
+ocd-division/country:ar/province:a,Salta
+ocd-division/country:ar/province:b,Buenos Aires
+ocd-division/country:ar/province:d,San Luis
+ocd-division/country:ar/province:e,Entre Ríoss
+ocd-division/country:ar/province:f,La Rioja
+ocd-division/country:ar/province:g,Santiago del Estero
+ocd-division/country:ar/province:h,Chaco
+ocd-division/country:ar/province:j,San Juan
+ocd-division/country:ar/province:k,Catamarca
+ocd-division/country:ar/province:l,La Pampa
+ocd-division/country:ar/province:m,Mendoza
+ocd-division/country:ar/province:n,Misiones
+ocd-division/country:ar/province:p,Formosa
+ocd-division/country:ar/province:q,Neuquénn
+ocd-division/country:ar/province:r,Río Negroo
+ocd-division/country:ar/province:s,Santa Fe
+ocd-division/country:ar/province:t,Tucumáá
+ocd-division/country:ar/province:u,Chubut
+ocd-division/country:ar/province:v,Tierra del Fuego
+ocd-division/country:ar/province:w,Corrientes
+ocd-division/country:ar/province:x,Córdoba
+ocd-division/country:ar/province:y,Jujuy
+ocd-division/country:ar/province:z,Santa Cruz
