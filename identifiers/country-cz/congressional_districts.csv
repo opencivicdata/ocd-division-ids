@@ -1,0 +1,82 @@
+id,name
+ocd-division/country:cz/region:pm/cd:pm1,Praha 1
+ocd-division/country:cz/region:pm/cd:pm2,Praha 2
+ocd-division/country:cz/region:pm/cd:pm4,Praha 4
+ocd-division/country:cz/region:pm/cd:pm5,Praha 5
+ocd-division/country:cz/region:pm/cd:pm6,Praha 6
+ocd-division/country:cz/region:pm/cd:pm8,Praha 8
+ocd-division/country:cz/region:pm/cd:pm9,Praha 9
+ocd-division/country:cz/region:pm/cd:pm10,Praha 10
+ocd-division/country:cz/region:pm/cd:pm11,Praha 11
+ocd-division/country:cz/region:pm/cd:pm12,Praha 12
+ocd-division/country:cz/region:ck/cd:ck,Český Krumlov
+ocd-division/country:cz/region:ck/cd:st,Strakonice
+ocd-division/country:cz/region:ck/cd:ta,Tábor
+ocd-division/country:cz/region:ck/cd:cb,České Budějovice
+ocd-division/country:cz/region:bk/cd:bk,Blansko
+ocd-division/country:cz/region:bk/cd:zn,Znojmo
+ocd-division/country:cz/region:bk/cd:bm1,Brno-město 1
+ocd-division/country:cz/region:bk/cd:bv,Břeclav
+ocd-division/country:cz/region:bk/cd:vy,Vyškov
+ocd-division/country:cz/region:bk/cd:bm2,Brno-město 2
+ocd-division/country:cz/region:bk/cd:bm3,Brno-město 3
+ocd-division/country:cz/region:bk/cd:bm4,Brno-město 4
+ocd-division/country:cz/region:bk/cd:ho,Hodonín
+ocd-division/country:cz/region:kk/cd:kv,Karlovy Vary District
+ocd-division/country:cz/region:kk/cd:so,Sokolov
+ocd-division/country:cz/region:kk/cd:ch,Cheb
+ocd-division/country:cz/region:hk/cd:hk,Hradec Králové District
+ocd-division/country:cz/region:hk/cd:jc,Jičín
+ocd-division/country:cz/region:hk/cd:tu,Trutnov
+ocd-division/country:cz/region:hk/cd:na,Náchod
+ocd-division/country:cz/region:hk/cd:rk,Rychnov nad Kněžnou
+ocd-division/country:cz/region:lk/cd:lb,Liberec District
+ocd-division/country:cz/region:lk/cd:jn,Jablonec nad Nisou
+ocd-division/country:cz/region:lk/cd:cl,Česká Lípa
+ocd-division/country:cz/region:vk/cd:br,Bruntál
+ocd-division/country:cz/region:vk/cd:nj,Nový Jičín
+ocd-division/country:cz/region:vk/cd:op,Opava
+ocd-division/country:cz/region:vk/cd:fm1,Frýdek-Místek 1
+ocd-division/country:cz/region:vk/cd:ov1,Ostrava-město 1
+ocd-division/country:cz/region:vk/cd:ov2,Ostrava-město 2
+ocd-division/country:cz/region:vk/cd:ov3,Ostrava-město 3
+ocd-division/country:cz/region:vk/cd:fm2,Frýdek-Místek 2
+ocd-division/country:cz/region:vk/cd:ki1,Karviná 1
+ocd-division/country:cz/region:vk/cd:ki2,Karviná 2
+ocd-division/country:cz/region:ok/cd:oc1,Olomouc 1
+ocd-division/country:cz/region:ok/cd:oc2,Olomouc 2
+ocd-division/country:cz/region:ok/cd:pv,Prostějov
+ocd-division/country:cz/region:ok/cd:pr,Přerov
+ocd-division/country:cz/region:ok/cd:su,Šumperk
+ocd-division/country:cz/region:ek/cd:pu,Pardubice District
+ocd-division/country:cz/region:ek/cd:cr,Chrudim
+ocd-division/country:cz/region:ek/cd:uo,Ústí nad Orlicí
+ocd-division/country:cz/region:ek/cd:sy,Svitavy
+ocd-division/country:cz/region:pk/cd:do,Domažlice
+ocd-division/country:cz/region:pk/cd:pm1,Plzeň-město 1
+ocd-division/country:cz/region:pk/cd:pm2,Plzeň-město 2
+ocd-division/country:cz/region:pk/cd:ro,Rokycany
+ocd-division/country:cz/region:sk/cd:be,Beroun
+ocd-division/country:cz/region:sk/cd:pb,Příbram
+ocd-division/country:cz/region:sk/cd:me,Mělník
+ocd-division/country:cz/region:sk/cd:kl,Kladno
+ocd-division/country:cz/region:sk/cd:mb,Mladá Boleslav
+ocd-division/country:cz/region:sk/cd:kh,Kutná Hora
+ocd-division/country:cz/region:sk/cd:bn,Benešov
+ocd-division/country:cz/region:sk/cd:ko,Kolín
+ocd-division/country:cz/region:uk/cd:lt,Litoměřice
+ocd-division/country:cz/region:uk/cd:ul,Ústí nad Labem District
+ocd-division/country:cz/region:uk/cd:tp,Teplice
+ocd-division/country:cz/region:uk/cd:dc,Děčín
+ocd-division/country:cz/region:uk/cd:mo,Most
+ocd-division/country:cz/region:uk/cd:cv,Chomutov
+ocd-division/country:cz/region:uk/cd:ln,Louny
+ocd-division/country:cz/region:jk/cd:pe,Pelhřimov
+ocd-division/country:cz/region:jk/cd:zr,Žďár nad Sázavou
+ocd-division/country:cz/region:jk/cd:ji,Jihlava
+ocd-division/country:cz/region:jk/cd:tr,Třebíč
+ocd-division/country:cz/region:zk/cd:km,Kroměříž
+ocd-division/country:cz/region:zk/cd:vs,Vsetín
+ocd-division/country:cz/region:zk/cd:zl1,Zlín 1
+ocd-division/country:cz/region:zk/cd:zl2,Zlín 2
+ocd-division/country:cz/region:zk/cd:uh,Uherské Hradiště
