@@ -1,5 +1,10 @@
 id,name
 ocd-division/country:mx,Mexico
+ocd-division/country:mx/region:1,Mexico first region
+ocd-division/country:mx/region:2,Mexico second region
+ocd-division/country:mx/region:3,Mexico third region
+ocd-division/country:mx/region:4,Mexico forth region
+ocd-division/country:mx/region:5,Mexico fifth region
 ocd-division/country:mx/state:ag,Aguascalientes
 ocd-division/country:mx/state:ag/fed:1,I Federal Electoral District of Aguascalientes
 ocd-division/country:mx/state:ag/fed:2,II Federal Electoral District of Aguascalientes
