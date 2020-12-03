@@ -1,5 +1,10 @@
 id,name
 ocd-division/country:mx,Mexico
+ocd-division/country:mx/region:1,Primera
+ocd-division/country:mx/region:2,Segunda
+ocd-division/country:mx/region:3,Tercera
+ocd-division/country:mx/region:4,Cuarta
+ocd-division/country:mx/region:5,Quinta
 ocd-division/country:mx/state:ag,Aguascalientes
 ocd-division/country:mx/state:bc,Baja California
 ocd-division/country:mx/state:bs,Baja California Sur
