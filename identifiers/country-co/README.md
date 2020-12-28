@@ -1,6 +1,6 @@
 # OCD Division Identifier
 
-This folder list the following administrative divisions of Argentina : 
+This folder list the following administrative divisions of Colombia : 
 * Regions of Colombia
   [ref](https://en.wikipedia.org/wiki/Departments_of_Colombia) as **region**.
 *  Indigenous communities, Afro-Colombian communities and Colombian citizens resident abroad as **special**.
