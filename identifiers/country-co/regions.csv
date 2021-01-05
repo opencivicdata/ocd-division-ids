@@ -1,38 +1,38 @@
 id,name
 ocd-division/country:co,Colombia
-ocd-division/country:co/region:am,Amazonas
-ocd-division/country:co/region:an,Antioquia
-ocd-division/country:co/region:ar,Arauca
-ocd-division/country:co/region:at,Atlántico
-ocd-division/country:co/region:bl,Bolívar
-ocd-division/country:co/region:by,Boyacá
-ocd-division/country:co/region:ca,Cauca
-ocd-division/country:co/region:ce,Cesar
-ocd-division/country:co/region:ch,Chocó
-ocd-division/country:co/region:cl,Caldas
-ocd-division/country:co/region:co,Córdoba
-ocd-division/country:co/region:cq,Caquetá
-ocd-division/country:co/region:cs,Casanare
-ocd-division/country:co/region:cu,Cundinamarca
-ocd-division/country:co/region:dc,Distrito Capital
-ocd-division/country:co/region:gn,Guainía
-ocd-division/country:co/region:gv,Guaviare
-ocd-division/country:co/region:hu,Huila
-ocd-division/country:co/region:lg,La Guajira
-ocd-division/country:co/region:ma,Magdalena
-ocd-division/country:co/region:me,Meta
-ocd-division/country:co/region:na,Nariño
-ocd-division/country:co/region:ns,Norte de Santander
-ocd-division/country:co/region:pu,Putumayo
-ocd-division/country:co/region:qd,Quindío
-ocd-division/country:co/region:ri,Risaralda
-ocd-division/country:co/region:sa,San Andrés y Providencia
-ocd-division/country:co/region:st,Santander
-ocd-division/country:co/region:su,Sucre
-ocd-division/country:co/region:to,Tolima
-ocd-division/country:co/region:vc,Valle del Cauca
-ocd-division/country:co/region:vd,Vichada
-ocd-division/country:co/region:vp,Vaupés
+ocd-division/country:co/capital_district:dc,Distrito Capital de Bogotá
+ocd-division/country:co/department:am,Amazonas
+ocd-division/country:co/department:an,Antioquia
+ocd-division/country:co/department:ar,Arauca
+ocd-division/country:co/department:at,Atlántico
+ocd-division/country:co/department:bl,Bolívar
+ocd-division/country:co/department:by,Boyacá
+ocd-division/country:co/department:ca,Cauca
+ocd-division/country:co/department:ce,Cesar
+ocd-division/country:co/department:ch,Chocó
+ocd-division/country:co/department:cl,Caldas
+ocd-division/country:co/department:co,Córdoba
+ocd-division/country:co/department:cq,Caquetá
+ocd-division/country:co/department:cs,Casanare
+ocd-division/country:co/department:cu,Cundinamarca
+ocd-division/country:co/department:gn,Guainía
+ocd-division/country:co/department:gv,Guaviare
+ocd-division/country:co/department:hu,Huila
+ocd-division/country:co/department:lg,La Guajira
+ocd-division/country:co/department:ma,Magdalena
+ocd-division/country:co/department:me,Meta
+ocd-division/country:co/department:na,Nariño
+ocd-division/country:co/department:ns,Norte de Santander
+ocd-division/country:co/department:pu,Putumayo
+ocd-division/country:co/department:qd,Quindío
+ocd-division/country:co/department:ri,Risaralda
+ocd-division/country:co/department:sa,San Andrés y Providencia
+ocd-division/country:co/department:st,Santander
+ocd-division/country:co/department:su,Sucre
+ocd-division/country:co/department:to,Tolima
+ocd-division/country:co/department:vc,Valle del Cauca
+ocd-division/country:co/department:vd,Vichada
+ocd-division/country:co/department:vp,Vaupés
 ocd-division/country:co/special:indegenous,Indigenous communities
 ocd-division/country:co/special:afro-colombian,Afro-Colombian communities
 ocd-division/country:co/special:diaspora,Colombian citizens resident abroad
