@@ -24,3 +24,6 @@ ocd-division/country:ec/province:sd,Santo Domingo de los Tsáchilas
 ocd-division/country:ec/province:u,Sucumbíos
 ocd-division/country:ec/province:t,Tungurahua
 ocd-division/country:ec/province:z,Zamora Chinchipe
+ocd-division/country:ec/special:america_latina_el_caribe_y_africa,"America Latina, El Caribe y Africa"
+ocd-division/country:ec/special:estados_unidos_y_canada,Estados Unidos y Canadá
+ocd-division/country:ec/special:europa_asia_y_oceania,"Europa, Asia y Oceanía"

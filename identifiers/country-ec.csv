@@ -7,13 +7,23 @@ ocd-division/country:ec/province:d,Orellana
 ocd-division/country:ec/province:e,Esmeraldas
 ocd-division/country:ec/province:f,Cañar
 ocd-division/country:ec/province:g,Guayas
+ocd-division/country:ec/province:g/ed:1,Distrito 1
+ocd-division/country:ec/province:g/ed:2,Distrito 2
+ocd-division/country:ec/province:g/ed:3,Distrito 3
+ocd-division/country:ec/province:g/ed:4,Distrito 4
 ocd-division/country:ec/province:h,Chimborazo
 ocd-division/country:ec/province:i,Imbabura
 ocd-division/country:ec/province:l,Loja
 ocd-division/country:ec/province:m,Manabí
+ocd-division/country:ec/province:m/ed:1,Distrito 1
+ocd-division/country:ec/province:m/ed:2,Distrito 2
 ocd-division/country:ec/province:n,Napo
 ocd-division/country:ec/province:o,El Oro
 ocd-division/country:ec/province:p,Pichincha
+ocd-division/country:ec/province:p/ed:1,Distrito Quito Norte
+ocd-division/country:ec/province:p/ed:2,Distrito Quito Sur
+ocd-division/country:ec/province:p/ed:3,Distrito Parroquias Rural
+ocd-division/country:ec/province:p/ed:4,Distrito Pichincha
 ocd-division/country:ec/province:r,Los Ríos
 ocd-division/country:ec/province:s,Morona Santiago
 ocd-division/country:ec/province:sd,Santo Domingo de los Tsáchilas
@@ -24,3 +34,6 @@ ocd-division/country:ec/province:w,Galápagos
 ocd-division/country:ec/province:x,Cotopaxi
 ocd-division/country:ec/province:y,Pastaza
 ocd-division/country:ec/province:z,Zamora Chinchipe
+ocd-division/country:ec/special:america_latina_el_caribe_y_africa,"America Latina, El Caribe y Africa"
+ocd-division/country:ec/special:estados_unidos_y_canada,Estados Unidos y Canadá
+ocd-division/country:ec/special:europa_asia_y_oceania,"Europa, Asia y Oceanía"
