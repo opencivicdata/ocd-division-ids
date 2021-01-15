@@ -1,11 +1,11 @@
 id,name
-ocd-division/country:ec/province:p/ed:1,Distrito Quito Norte
-ocd-division/country:ec/province:p/ed:2,Distrito Quito Sur
-ocd-division/country:ec/province:p/ed:3,Distrito Parroquias Rural
-ocd-division/country:ec/province:p/ed:4,Distrito Pichincha
-ocd-division/country:ec/province:m/ed:1,Distrito 1
-ocd-division/country:ec/province:m/ed:2,Distrito 2
 ocd-division/country:ec/province:g/ed:1,Distrito 1
 ocd-division/country:ec/province:g/ed:2,Distrito 2
 ocd-division/country:ec/province:g/ed:3,Distrito 3
 ocd-division/country:ec/province:g/ed:4,Distrito 4
+ocd-division/country:ec/province:m/ed:1,Distrito 1
+ocd-division/country:ec/province:m/ed:2,Distrito 2
+ocd-division/country:ec/province:p/ed:1,Distrito Quito Norte
+ocd-division/country:ec/province:p/ed:2,Distrito Quito Sur
+ocd-division/country:ec/province:p/ed:3,Distrito Parroquias Rural
+ocd-division/country:ec/province:p/ed:4,Distrito Pichincha
