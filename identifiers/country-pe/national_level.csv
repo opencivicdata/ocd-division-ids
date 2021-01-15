@@ -1,28 +1,28 @@
 id,name
 ocd-division/country:pe,Peru
-ocd-division/country:pe/province:lp,Lima
-ocd-division/country:pe/region:am,Amazonas
-ocd-division/country:pe/region:an,Ancash
-ocd-division/country:pe/region:ap,Apurímac
-ocd-division/country:pe/region:ar,Arequipa
-ocd-division/country:pe/region:ay,Ayacucho
-ocd-division/country:pe/region:cj,Cajamarca
-ocd-division/country:pe/region:cl,Callao
-ocd-division/country:pe/region:cs,Cusco
-ocd-division/country:pe/region:hv,Huancavelica
-ocd-division/country:pe/region:hc,Huánuco
-ocd-division/country:pe/region:ic,Ica
-ocd-division/country:pe/region:ju,Junín
-ocd-division/country:pe/region:ll,La Libertad
-ocd-division/country:pe/region:lb,Lambayeque
-ocd-division/country:pe/region:lr,Lima Region
-ocd-division/country:pe/region:lo,Loreto
-ocd-division/country:pe/region:md,Madre de Dios
-ocd-division/country:pe/region:mq,Moquegua
-ocd-division/country:pe/region:pa,Pasco
-ocd-division/country:pe/region:pi,Piura
-ocd-division/country:pe/region:pu,Puno
-ocd-division/country:pe/region:sm,San Martín
-ocd-division/country:pe/region:ta,Tacna
-ocd-division/country:pe/region:tu,Tumbes
-ocd-division/country:pe/region:uc,Ucayali
+ocd-division/country:pe/province:lma,Municipalidad Metropolitana de Lima
+ocd-division/country:pe/region:ama,Amazonas
+ocd-division/country:pe/region:anc,Ancash
+ocd-division/country:pe/region:apu,Apurímac
+ocd-division/country:pe/region:are,Arequipa
+ocd-division/country:pe/region:aya,Ayacucho
+ocd-division/country:pe/region:caj,Cajamarca
+ocd-division/country:pe/region:cal,El Callao
+ocd-division/country:pe/region:cus,Cusco
+ocd-division/country:pe/region:huc,Huánuco
+ocd-division/country:pe/region:huv,Huancavelica
+ocd-division/country:pe/region:ica,Ica
+ocd-division/country:pe/region:jun,Junín
+ocd-division/country:pe/region:lal,La Libertad
+ocd-division/country:pe/region:lam,Lambayeque
+ocd-division/country:pe/region:lim,Lima
+ocd-division/country:pe/region:lor,Loreto
+ocd-division/country:pe/region:mdd,Madre de Dios
+ocd-division/country:pe/region:moq,Moquegua
+ocd-division/country:pe/region:pas,Pasco
+ocd-division/country:pe/region:piu,Piura
+ocd-division/country:pe/region:pun,Puno
+ocd-division/country:pe/region:sam,San Martín
+ocd-division/country:pe/region:tac,Tacna
+ocd-division/country:pe/region:tum,Tumbes
+ocd-division/country:pe/region:uca,Ucayali
