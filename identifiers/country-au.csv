@@ -1,6 +1,5 @@
 id,name
 ocd-division/country:au,Australia
-ocd-division/country:au/federal_electorate:fraser,Australian Capital Territory and Jarvis Bay Territory - Federal House of Representatives Fraser electorate
 ocd-division/country:au/state:nsw,New South Wales
 ocd-division/country:au/state:nsw/federal_electorate:banks,New South Wales - Federal House of Representatives Banks electorate
 ocd-division/country:au/state:nsw/federal_electorate:barton,New South Wales - Federal House of Representatives Barton electorate
@@ -155,6 +154,7 @@ ocd-division/country:au/state:wa/federal_electorate:swan,Western Australia - Fed
 ocd-division/country:au/state:wa/federal_electorate:tangney,Western Australia - Federal House of Representatives Tangney electorate
 ocd-division/country:au/territory:act,Australian Capital Territory
 ocd-division/country:au/territory:act/federal_electorate:canberra,Australian Capital Territory - Federal House of Representatives Canberra electorate
+ocd-division/country:au/territory:act/federal_electorate:fraser,Australian Capital Territory and Jarvis Bay Territory - Federal House of Representatives Fraser electorate
 ocd-division/country:au/territory:jbt,Jervis Bay Territory
 ocd-division/country:au/territory:nt,Northern Territory
 ocd-division/country:au/territory:nt/federal_electorate:lingiari,Northern Territory - Federal House of Representatives Lingiari electorate
