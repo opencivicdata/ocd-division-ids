@@ -78,6 +78,7 @@ COUNTRY_UNIQUE_FIELDS = {
 def main():
     parser = argparse.ArgumentParser(description='combine component CSV files into one')
     parser.add_argument('country', type=str, default=None, help='country to compile')
+    parser.add_argument('--output_csv', type=str, default=None, help='output location for compiled csv')
     args = parser.parse_args()
     country = args.country.lower()
 
@@ -220,7 +221,7 @@ def main():
     field_order += sorted(all_keys)
 
     # write output file
-    output_file = 'identifiers/country-{}.csv'.format(country)
+    output_file = args.output_csv or 'identifiers/country-{}.csv'.format(country)
     print('writing', output_file)
     with open(output_file, 'w') as out:
         out = csv.DictWriter(out, fieldnames=field_order)
