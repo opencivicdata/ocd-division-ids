@@ -1,3 +1,4 @@
 *swp
 cache/*
 __pycache__
+bazel-*
