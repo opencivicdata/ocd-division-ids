@@ -26,7 +26,7 @@ class TestSourcesMatchCommittedCSV(unittest.TestCase):
     # Read what's in the repo.
     committed_csv_path = F'identifiers/country-{country_code}.csv'
     try:
-      with open(committed_csv_path, 'r') as committed_file:
+      with open(committed_csv_path, 'r', encoding='UTF-8') as committed_file:
         committed_csv = committed_file.read()
     except FileNotFoundError:
       # In the case that the commited csv file does not exist, we treat it as an
@@ -40,7 +40,7 @@ class TestSourcesMatchCommittedCSV(unittest.TestCase):
     ], check=True)
 
     # Read the output of the compiler.
-    with open(compiler_output_path, 'r') as compiler_output_file:
+    with open(compiler_output_path, 'r', encoding='UTF-8') as compiler_output_file:
       compiler_output = compiler_output_file.read()
 
     return committed_csv, compiler_output

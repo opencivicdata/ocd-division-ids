@@ -42,7 +42,7 @@ def abort(msg):
 
 def open_csv(filename):
     """ return a DictReader iterable regardless of input CSV type """
-    fh = open(filename)
+    fh = open(filename, encoding='UTF-8')
     first_row = next(csv.reader(fh))
     if 'ocd-division/country' in first_row[0]:
         if len(first_row) == 2:
@@ -223,7 +223,7 @@ def main():
     # write output file
     output_file = args.output_csv or 'identifiers/country-{}.csv'.format(country)
     print('writing', output_file)
-    with open(output_file, 'w') as out:
+    with open(output_file, 'w', encoding='UTF-8') as out:
         out = csv.DictWriter(out, fieldnames=field_order)
         out.writeheader()
         for id_, row in sorted(ids.items()):
