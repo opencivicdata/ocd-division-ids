@@ -1,0 +1,11 @@
+README
+ 
+File contents:
+*    federal_states_territories.csv: contains the list of states and union territories
+*    districts.csv: contains the electoral districts in each state and union territories
+*    vidhan_sabha.csv: contains the electoral constituencies in each state and union territories for the Vidhan Sabha
+*    lok_sabha.csv: contains electoral constituencies in each state and union territories for the Lok Sabha
+ 
+Currently, we have OCD-ID coverage for the following:
+*    Lok Sabha 
+*    Vidhan Sabha (except for Jammu & Kashmir)
