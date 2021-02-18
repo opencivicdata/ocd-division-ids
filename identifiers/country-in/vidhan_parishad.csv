@@ -1,11 +1,9 @@
 id,name
-ocd-division/country:in/state:ap/special:graduate,Graduate
 ocd-division/country:in/state:ap/special:graduate/ed:east_godavari_west_godavari,East Godavari-West Godavari
 ocd-division/country:in/state:ap/special:graduate/ed:krishna_guntur,Krishna-Guntur
 ocd-division/country:in/state:ap/special:graduate/ed:kurnool_kadapa_anantapur,Kurnool-Kadapa-Anantapur
 ocd-division/country:in/state:ap/special:graduate/ed:prakasam_nellore_chittoor,Prakasam-Nellore-Chittoor
 ocd-division/country:in/state:ap/special:graduate/ed:vishakapatnam_vizianagaram_srikakulam,Vishakapatnam-Vizianagaram-Srikakulam
-ocd-division/country:in/state:ap/special:local_authority,Local body
 ocd-division/country:in/state:ap/special:local_authority/ed:anantapur,Anantapur
 ocd-division/country:in/state:ap/special:local_authority/ed:chittoor,Chittoor
 ocd-division/country:in/state:ap/special:local_authority/ed:east_godavari,East Godavari
@@ -18,20 +16,17 @@ ocd-division/country:in/state:ap/special:local_authority/ed:srikakulam,Srikakula
 ocd-division/country:in/state:ap/special:local_authority/ed:vishakapatnam,Vishakapatnam
 ocd-division/country:in/state:ap/special:local_authority/ed:vizianagaram,Vizianagaram
 ocd-division/country:in/state:ap/special:local_authority/ed:west_godavari,West Godavari
-ocd-division/country:in/state:ap/special:teacher,Teacher
 ocd-division/country:in/state:ap/special:teacher/ed:anantapur_kadapa_kurnool,Anantapur-Kadapa-Kurnool
 ocd-division/country:in/state:ap/special:teacher/ed:chittoor_nellore_prakasam,Chittoor-Nellore-Prakasam
 ocd-division/country:in/state:ap/special:teacher/ed:east_godavari_west_godavari,East Godavari-West Godavari
 ocd-division/country:in/state:ap/special:teacher/ed:guntur_krishna,Guntur-Krishna
 ocd-division/country:in/state:ap/special:teacher/ed:srikakulam_vizianagaram_vishakapatnam,Srikakulam-Vizianagaram-Vishakapatnam
-ocd-division/country:in/state:br/special:graduate,Graduate
 ocd-division/country:in/state:br/special:graduate/ed:darbhanga,Darbhanga
 ocd-division/country:in/state:br/special:graduate/ed:gaya,Gaya
 ocd-division/country:in/state:br/special:graduate/ed:koshi,Koshi
 ocd-division/country:in/state:br/special:graduate/ed:patna,Patna
 ocd-division/country:in/state:br/special:graduate/ed:saran,Saran
 ocd-division/country:in/state:br/special:graduate/ed:tirhut,Tirhut
-ocd-division/country:in/state:br/special:local_body,Local body
 ocd-division/country:in/state:br/special:local_body/ed:aurangabad,Aurangabad
 ocd-division/country:in/state:br/special:local_body/ed:begusarai_khagaria,Begusarai-Khagaria
 ocd-division/country:in/state:br/special:local_body/ed:bhagalpur_banka,Bhagalpur-Banka
@@ -56,14 +51,12 @@ ocd-division/country:in/state:br/special:local_body/ed:sitamarhi_sheohar,Sitamar
 ocd-division/country:in/state:br/special:local_body/ed:siwan,Siwan
 ocd-division/country:in/state:br/special:local_body/ed:vaishali,Vaishali
 ocd-division/country:in/state:br/special:local_body/ed:west_champaran,West Champaran
-ocd-division/country:in/state:br/special:teacher,Teacher
 ocd-division/country:in/state:br/special:teacher/ed:darbhanga,Darbhanga
 ocd-division/country:in/state:br/special:teacher/ed:gaya,Gaya
 ocd-division/country:in/state:br/special:teacher/ed:koshi,Koshi
 ocd-division/country:in/state:br/special:teacher/ed:patna,Patna
 ocd-division/country:in/state:br/special:teacher/ed:saran,Saran
 ocd-division/country:in/state:br/special:teacher/ed:tirhut,Tirhut
-ocd-division/country:in/state:ka/special:graduate,Graduate
 ocd-division/country:in/state:ka/special:graduate/ed:bangalore,Bangalore
 ocd-division/country:in/state:ka/special:graduate/ed:karnataka_north_east,Karnataka North-East
 ocd-division/country:in/state:ka/special:graduate/ed:karnataka_north_west,Karnataka North-West
@@ -71,7 +64,6 @@ ocd-division/country:in/state:ka/special:graduate/ed:karnataka_south,Karnataka S
 ocd-division/country:in/state:ka/special:graduate/ed:karnataka_south_east,Karnataka South-East
 ocd-division/country:in/state:ka/special:graduate/ed:karnataka_south_west,Karnataka South-West
 ocd-division/country:in/state:ka/special:graduate/ed:karnataka_west,Karnataka West
-ocd-division/country:in/state:ka/special:local_authority,Local body
 ocd-division/country:in/state:ka/special:local_authority/ed:bangalore,Bangalore
 ocd-division/country:in/state:ka/special:local_authority/ed:bangalore_rural,Bangalore Rural
 ocd-division/country:in/state:ka/special:local_authority/ed:belgaum,Belgaum
@@ -93,7 +85,6 @@ ocd-division/country:in/state:ka/special:local_authority/ed:raichur,Raichur
 ocd-division/country:in/state:ka/special:local_authority/ed:shimoga,Shimoga
 ocd-division/country:in/state:ka/special:local_authority/ed:tumkur,Tumkur
 ocd-division/country:in/state:ka/special:local_authority/ed:uttara_kannada,Uttara Kannada
-ocd-division/country:in/state:ka/special:teacher,Teacher
 ocd-division/country:in/state:ka/special:teacher/ed:bangalore,Bangalore
 ocd-division/country:in/state:ka/special:teacher/ed:karnataka_north_east,Karnataka North-East
 ocd-division/country:in/state:ka/special:teacher/ed:karnataka_north_west,Karnataka North-West
@@ -101,7 +92,6 @@ ocd-division/country:in/state:ka/special:teacher/ed:karnataka_south,Karnataka So
 ocd-division/country:in/state:ka/special:teacher/ed:karnataka_south_east,Karnataka South-East
 ocd-division/country:in/state:ka/special:teacher/ed:karnataka_south_west,Karnataka South-West
 ocd-division/country:in/state:ka/special:teacher/ed:karnataka_west,Karnataka West
-ocd-division/country:in/state:mh/special:graduate,Graduate
 ocd-division/country:in/state:mh/special:graduate/ed:amravati,Amravati
 ocd-division/country:in/state:mh/special:graduate/ed:aurangabad,Aurangabad
 ocd-division/country:in/state:mh/special:graduate/ed:konkan,Konkan
@@ -109,7 +99,6 @@ ocd-division/country:in/state:mh/special:graduate/ed:mumbai,Mumbai
 ocd-division/country:in/state:mh/special:graduate/ed:nagpur,Nagpur
 ocd-division/country:in/state:mh/special:graduate/ed:nashik,Nashik
 ocd-division/country:in/state:mh/special:graduate/ed:pune,Pune
-ocd-division/country:in/state:mh/special:local_authority,Local body
 ocd-division/country:in/state:mh/special:local_authority/ed:ahmednagar,Ahmednagar
 ocd-division/country:in/state:mh/special:local_authority/ed:akola_buldhana_washim,Akola-Buldhana-Washim
 ocd-division/country:in/state:mh/special:local_authority/ed:amravati,Amravati
@@ -131,7 +120,6 @@ ocd-division/country:in/state:mh/special:local_authority/ed:solapur,Solapur
 ocd-division/country:in/state:mh/special:local_authority/ed:thane,Thane
 ocd-division/country:in/state:mh/special:local_authority/ed:wardha_chandrpur_gadchiroli,Wardha-Chandrpur-Gadchiroli
 ocd-division/country:in/state:mh/special:local_authority/ed:yavatmal,Yavatmal
-ocd-division/country:in/state:mh/special:teacher,Teacher
 ocd-division/country:in/state:mh/special:teacher/ed:amravati,Amravati
 ocd-division/country:in/state:mh/special:teacher/ed:aurangabad,Aurangabad
 ocd-division/country:in/state:mh/special:teacher/ed:konkan,Konkan
@@ -139,11 +127,9 @@ ocd-division/country:in/state:mh/special:teacher/ed:mumbai,Mumbai
 ocd-division/country:in/state:mh/special:teacher/ed:nagpur,Nagpur
 ocd-division/country:in/state:mh/special:teacher/ed:nashik,Nashik
 ocd-division/country:in/state:mh/special:teacher/ed:pune,Pune
-ocd-division/country:in/state:tg/special:graduate,Graduate
 ocd-division/country:in/state:tg/special:graduate/ed:karimnagar_medak_nizamabad_adilabad,Karimnagar-Medak-Nizamabad-Adilabad
 ocd-division/country:in/state:tg/special:graduate/ed:mahabubnagar_ranga_reddy_hyderabad,Mahabubnagar-Ranga Reddy-Hyderabad
 ocd-division/country:in/state:tg/special:graduate/ed:warangal_khammam_nalgonda,Warangal-Khammam-Nalgonda
-ocd-division/country:in/state:tg/special:local_authority,Local body
 ocd-division/country:in/state:tg/special:local_authority/ed:adilabad,Adilabad
 ocd-division/country:in/state:tg/special:local_authority/ed:hyderabad,Hyderabad
 ocd-division/country:in/state:tg/special:local_authority/ed:karimnagar,Karimnagar
@@ -154,11 +140,9 @@ ocd-division/country:in/state:tg/special:local_authority/ed:nalgonda,Nalgonda
 ocd-division/country:in/state:tg/special:local_authority/ed:nizamabad,Nizamabad
 ocd-division/country:in/state:tg/special:local_authority/ed:rangareddy,Rangareddy
 ocd-division/country:in/state:tg/special:local_authority/ed:warangal,Warangal
-ocd-division/country:in/state:tg/special:teacher,Teacher
 ocd-division/country:in/state:tg/special:teacher/ed:hyderabad_ranga_reddy_mahabubnagar,Hyderabad-Ranga Reddy-Mahabubnagar
 ocd-division/country:in/state:tg/special:teacher/ed:karimnagar_medak_adilabad,Karimnagar-Medak-Adilabad
 ocd-division/country:in/state:tg/special:teacher/ed:warangal_khammam_nalgonda,Warangal-Khammam-Nalgonda
-ocd-division/country:in/state:up/special:graduate,Graduate
 ocd-division/country:in/state:up/special:graduate/ed:agra,Agra
 ocd-division/country:in/state:up/special:graduate/ed:allahabad_jhansi,Allahabad-Jhansi
 ocd-division/country:in/state:up/special:graduate/ed:bareilly_moradabad_block,Bareilly - Moradabad Block
@@ -167,7 +151,6 @@ ocd-division/country:in/state:up/special:graduate/ed:kanpur_division,Kanpur Divi
 ocd-division/country:in/state:up/special:graduate/ed:lucknow,Lucknow
 ocd-division/country:in/state:up/special:graduate/ed:meerut_division,Meerut Division
 ocd-division/country:in/state:up/special:graduate/ed:varanasi,Varanasi
-ocd-division/country:in/state:up/special:local_authority,Local body
 ocd-division/country:in/state:up/special:local_authority/ed:agra_firozabad,Agra - Firozabad
 ocd-division/country:in/state:up/special:local_authority/ed:aligarh,Aligarh
 ocd-division/country:in/state:up/special:local_authority/ed:allahabad_kaushambi,Allahabad-Kaushambi
@@ -204,7 +187,6 @@ ocd-division/country:in/state:up/special:local_authority/ed:rampur_bareilly,Ramp
 ocd-division/country:in/state:up/special:local_authority/ed:sitapur,Sitapur
 ocd-division/country:in/state:up/special:local_authority/ed:sultanpur,Sultanpur
 ocd-division/country:in/state:up/special:local_authority/ed:varanasi,Varanasi
-ocd-division/country:in/state:up/special:teacher,Teacher
 ocd-division/country:in/state:up/special:teacher/ed:agra,Agra
 ocd-division/country:in/state:up/special:teacher/ed:allahabad_jhansi_block,Allahabad - Jhansi Block
 ocd-division/country:in/state:up/special:teacher/ed:bareilly_moradabad,Bareilly-Moradabad
