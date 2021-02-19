@@ -6,7 +6,7 @@ File contents in `country-in` directory:
 *    districts.csv: contains the electoral districts in each state and union territories
 *    vidhan_sabha.csv: contains the electoral constituencies in each state and union territories for the Vidhan Sabha
 *    vidhan_parishad.csv: contains the electoral constituencies for the Vidhan Parishad
-*    special.csv: contains the top level special constituenties for the Vidhan Parishad
+*    vidhan_parishad_special.csv: contains the top level special constituenties for the Vidhan Parishad
 *    lok_sabha.csv: contains electoral constituencies in each state and union territories for the Lok Sabha
  
 Currently, we have OCD-ID coverage for the following:
@@ -19,7 +19,7 @@ OCD ID Types used in `country-in`:
 *    territory - represents the union territories of India
 *    district - electoral districts delimited by the Election Commissions of India
 *    special:graduate - electoral division only for graduates used 
-*    special:teacher - electoral division only for graduates used 
+*    special:teacher - electoral division only for teachers used 
 *    special:local_authority - electoral division only for local authorities 
 *    special:local_body - electoral division only for local bodies
 
