@@ -1,0 +1,16 @@
+name: Test
+
+# We want testing for new pull requests before they are merged.
+on: [push, pull_request]
+
+jobs:
+  test:
+    name: Run tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+      - name: Install Bazel
+        run: sudo apt install bazel
+      - name: Run tests
+        run: bazel test :all --test_output=errors
