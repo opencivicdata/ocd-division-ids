@@ -26,3 +26,5 @@ ocd-division/country:pe/region:sam,San Martín
 ocd-division/country:pe/region:tac,Tacna
 ocd-division/country:pe/region:tum,Tumbes
 ocd-division/country:pe/region:uca,Ucayali
+ocd-division/country:pe/special:diaspora,Overseas residents
+ocd-division/country:pe/special:diaspora/ed:peruanos_residentes_en_el_extrajero,Peruanos Residentes En El Extranjero
