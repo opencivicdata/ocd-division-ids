@@ -10,6 +10,16 @@ import subprocess
 import unittest
 
 
+def sort_csv_lines(csv_text):
+  """Sorts the rows of a csv text, except for the header row.
+
+  This is for ordering-independent comparison.
+  """
+  lines = csv_text.splitlines()
+  lines[1:] = sorted(lines[1:])
+  return lines
+
+
 class TestSourcesMatchCommittedCSV(unittest.TestCase):
   """Check that what's committed matches the output of the compiler.
 
@@ -55,7 +65,7 @@ class TestSourcesMatchCommittedCSV(unittest.TestCase):
         country_code = m.group(1)
         committed_csv, compiler_output = self.get_committed_and_compiled_data(
             country_code)
-        if committed_csv != compiler_output:
+        if sort_csv_lines(committed_csv) != sort_csv_lines(compiler_output):
           mismatches.append(country_code)
     # Rather than assert as we go, which would bail out on the first failure, we
     # compile a list of all the mismatching countries, and print a message that
