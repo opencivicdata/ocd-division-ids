@@ -1,13 +1,13 @@
 id,name
-ocd-division/country:et,Ethiopia
-ocd-division/country:et/regional_state:af,Afar
-ocd-division/country:et/regional_state:am,Amhara
-ocd-division/country:et/regional_state:be,Benishangul-Gumuz
-ocd-division/country:et/regional_state:ga,Gambela
-ocd-division/country:et/regional_state:ha,Harari
-ocd-division/country:et/regional_state:or,Oromia
-ocd-division/country:et/regional_state:so,Somali
-ocd-division/country:et/regional_state:sn,"Southern Nations, Nationalities, and Peoples"
-ocd-division/country:et/regional_state:ti,Tigray
-ocd-division/country:et/administration:aa,Addis Ababa
-ocd-division/country:et/administration:dd,Dire Dawa
+ocd-division/country:et/state:af,Afar Region
+ocd-division/country:et/state:am,Amhara Region
+ocd-division/country:et/state:be,Benishangul-Gumuz Region
+ocd-division/country:et/state:ga,Gambela Region
+ocd-division/country:et/state:ha,Harari Region
+ocd-division/country:et/state:or,Oromia Region
+ocd-division/country:et/state:so,Somali Region
+ocd-division/country:et/state:sn,"Southern Nations, Nationalities, And Peoples Region"
+ocd-division/country:et/state:ti,Tigray Region
+ocd-division/country:et/administration:aa,Addis Ababa City
+ocd-division/country:et/administration:dd,Dire Dawa City
+ocd-division/country:et/state:si,Sidama Region
