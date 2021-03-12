@@ -1,7 +1,6 @@
 id,name
 ocd-division/country:cz,Czech Republic
 ocd-division/country:cz/capital_city:10/district:11,Prague
-ocd-division/country:cz/region:20,Central Bohemia
 ocd-division/country:cz/region:20/district:201,Benešov
 ocd-division/country:cz/region:20/district:202,Beroun
 ocd-division/country:cz/region:20/district:203,Kladno
