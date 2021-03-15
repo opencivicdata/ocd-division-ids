@@ -10,7 +10,7 @@ class PE < Runner
     puts CSV.generate_line(%w(id name))
     Nokogiri::HTML(URI.open("https://www.electionspei.ca/provincial-district-and-poll-maps")).css("h2 + p + ul li a").each do |li|
       number, name = li.text.normalize_space.match(/District (\d+) (.+)/)[1,2]
-      output("province:pe/ed:", number, name.sub(" - ", "-")) # numbered list
+      output("province:pe/ed:", number, name) # numbered list
     end
   end
 end
