@@ -8,13 +8,9 @@ require File.expand_path(File.join("..", "utils.rb"), __FILE__)
 class PE < Runner
   def names
     puts CSV.generate_line(%w(id name))
-    # The shapefile from gov.pe.ca does not have one feature per district. The
-    # KML file from electionspei.ca has district names in all-caps.
-    # @see http://www.gov.pe.ca/gis/index.php3?number=77868&lang=E
-    # @see http://www.electionspei.ca/provincial/districts/index.php
-    Nokogiri::HTML(open("http://www.electionspei.ca/provincial/districts/index.php")).css("ol li").each_with_index do |li,index|
-      name = li.text.normalize_space.sub(" - ", "-") # hyphen
-      output("province:pe/ed:", index + 1, name) # numbered list
+    Nokogiri::HTML(URI.open("https://www.electionspei.ca/provincial-district-and-poll-maps")).css("h2 + p + ul li a").each do |li|
+      number, name = li.text.normalize_space.match(/District (\d+) (.+)/)[1,2]
+      output("province:pe/ed:", number, name) # numbered list
     end
   end
 end
