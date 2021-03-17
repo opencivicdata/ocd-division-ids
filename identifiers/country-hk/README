@@ -1,0 +1,5 @@
+README
+
+OCD ID Types used in `country-hk`:
+*    geographical_constituency: represents geographically demarcated constituencies in Hong Kong
+*    functional_constituency: represents professional or special interest group-based constituencies with limited electorates.
