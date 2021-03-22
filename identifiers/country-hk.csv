@@ -2,7 +2,7 @@ id,name
 ocd-division/country:hk,Hong Kong
 ocd-division/country:hk/functional_constituency:accountancy,Accountancy
 ocd-division/country:hk/functional_constituency:agriculture_and_fisheries,Agriculture and Fisheries
-ocd-division/country:hk/functional_constituency:architectural_surveying_and_planning,"""Architectural, Surveying, Planning and Landscape"""
+ocd-division/country:hk/functional_constituency:architectural_surveying_and_planning,"Architectural, Surveying, Planning and Landscape"
 ocd-division/country:hk/functional_constituency:catering,Catering
 ocd-division/country:hk/functional_constituency:commercial_first,Commercial (First)
 ocd-division/country:hk/functional_constituency:commercial_second,Commercial (Second)
@@ -24,7 +24,7 @@ ocd-division/country:hk/functional_constituency:legal,Legal
 ocd-division/country:hk/functional_constituency:medical,Medical
 ocd-division/country:hk/functional_constituency:real_estate_and_construction,Real Estate and Construction
 ocd-division/country:hk/functional_constituency:social_welfare,Social Welfare
-ocd-division/country:hk/functional_constituency:sports_performing_arts_culture_and_publication,"""Sports, Performing Arts, Culture and Publication"""
+ocd-division/country:hk/functional_constituency:sports_performing_arts_culture_and_publication,"Sports, Performing Arts, Culture and Publication"
 ocd-division/country:hk/functional_constituency:textiles_and_garment,Textiles and Garment
 ocd-division/country:hk/functional_constituency:tourism,Tourism
 ocd-division/country:hk/functional_constituency:transport,Transport
