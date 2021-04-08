@@ -214,7 +214,7 @@ ocd-division/country:de/land:nw/wahlkreis:heinsberg,ocd-division/country:de/stat
 ocd-division/country:de/land:nw/wahlkreis:herford_~_minden-lübbecke_ii,ocd-division/country:de/state:nw/cd:133,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:herne_~_bochum_ii,ocd-division/country:de/state:nw/cd:141,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:hochsauerlandkreis,ocd-division/country:de/state:nw/cd:147,Added for backwards compatibility with land/wahlkreis identifiers
-ocd-division/country:de/land:nw/wahlkreis:höxter_~_lippe_ii,ocd-division/country:de/state:nw/cd:136,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:höxter_~_gütersloh_iii_~_lippe_ii,ocd-division/country:de/state:nw/cd:136,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:kleve,ocd-division/country:de/state:nw/cd:112,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:köln_iii,ocd-division/country:de/state:nw/cd:95,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:köln_ii,ocd-division/country:de/state:nw/cd:94,Added for backwards compatibility with land/wahlkreis identifiers
@@ -234,7 +234,7 @@ ocd-division/country:de/land:nw/wahlkreis:neuss_i,ocd-division/country:de/state:
 ocd-division/country:de/land:nw/wahlkreis:oberbergischer_kreis,ocd-division/country:de/state:nw/cd:99,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:oberhausen_~_wesel_iii,ocd-division/country:de/state:nw/cd:117,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:olpe_~_märkischer_kreis_i,ocd-division/country:de/state:nw/cd:149,Added for backwards compatibility with land/wahlkreis identifiers
-ocd-division/country:de/land:nw/wahlkreis:paderborn_~_gütersloh_iii,ocd-division/country:de/state:nw/cd:137,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:paderborn,ocd-division/country:de/state:nw/cd:137,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:recklinghausen_ii,ocd-division/country:de/state:nw/cd:122,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:recklinghausen_i,ocd-division/country:de/state:nw/cd:121,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:rhein-erft-kreis_i,ocd-division/country:de/state:nw/cd:91,Added for backwards compatibility with land/wahlkreis identifiers

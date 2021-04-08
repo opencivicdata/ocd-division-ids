@@ -150,7 +150,7 @@ ocd-division/country:de/land:mv/wahlkreis:mecklenburgische_seenplatte_ii_~_landk
 ocd-division/country:de/land:mv/wahlkreis:rostock_~_landkreis_rostock_ii,Rostock – Landkreis Rostock II,ocd-division/country:de/state:mv/cd:14,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:mv/wahlkreis:schwerin_~_ludwigslust-parchim_i_~_nordwestmecklenburg_i,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,ocd-division/country:de/state:mv/cd:12,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:mv/wahlkreis:vorpommern-rügen_~_vorpommern-greifswald_i,Vorpommern-Rügen – Vorpommern-Greifswald I,ocd-division/country:de/state:mv/cd:15,Added for backwards compatibility with land/wahlkreis identifiers
-ocd-division/country:de/land:ni,Niedersachen,ocd-division/country:de/state:ni,Added for backwards compatibility with land identifiers
+ocd-division/country:de/land:ni,Niedersachsen,ocd-division/country:de/state:ni,Added for backwards compatibility with land identifiers
 ocd-division/country:de/land:ni/wahlkreis:aurich_~_emden,Aurich – Emden,ocd-division/country:de/state:ni/cd:24,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:ni/wahlkreis:braunschweig,Braunschweig,ocd-division/country:de/state:ni/cd:50,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:ni/wahlkreis:celle_~_uelzen,Celle – Uelzen,ocd-division/country:de/state:ni/cd:44,Added for backwards compatibility with land/wahlkreis identifiers
@@ -209,7 +209,7 @@ ocd-division/country:de/land:nw/wahlkreis:heinsberg,Heinsberg,ocd-division/count
 ocd-division/country:de/land:nw/wahlkreis:herford_~_minden-lübbecke_ii,Herford – Minden-Lübbecke II,ocd-division/country:de/state:nw/cd:133,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:herne_~_bochum_ii,Herne – Bochum II,ocd-division/country:de/state:nw/cd:141,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:hochsauerlandkreis,Hochsauerlandkreis,ocd-division/country:de/state:nw/cd:147,Added for backwards compatibility with land/wahlkreis identifiers
-ocd-division/country:de/land:nw/wahlkreis:höxter_~_lippe_ii,Höxter – Lippe II,ocd-division/country:de/state:nw/cd:136,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:höxter_~_gütersloh_iii_~_lippe_ii,Höxter – Gütersloh III – Lippe II,ocd-division/country:de/state:nw/cd:136,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:kleve,Kleve,ocd-division/country:de/state:nw/cd:112,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:krefeld_i_~_neuss_ii,Krefeld I – Neuss II,ocd-division/country:de/state:nw/cd:110,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:krefeld_ii_~_wesel_ii,Krefeld II – Wesel II,ocd-division/country:de/state:nw/cd:114,Added for backwards compatibility with land/wahlkreis identifiers
@@ -229,7 +229,7 @@ ocd-division/country:de/land:nw/wahlkreis:neuss_i,Neuss I,ocd-division/country:d
 ocd-division/country:de/land:nw/wahlkreis:oberbergischer_kreis,Oberbergischer Kreis,ocd-division/country:de/state:nw/cd:99,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:oberhausen_~_wesel_iii,Oberhausen – Wesel III,ocd-division/country:de/state:nw/cd:117,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:olpe_~_märkischer_kreis_i,Olpe – Märkischer Kreis I,ocd-division/country:de/state:nw/cd:149,Added for backwards compatibility with land/wahlkreis identifiers
-ocd-division/country:de/land:nw/wahlkreis:paderborn_~_gütersloh_iii,Paderborn – Gütersloh III,ocd-division/country:de/state:nw/cd:137,Added for backwards compatibility with land/wahlkreis identifiers
+ocd-division/country:de/land:nw/wahlkreis:paderborn,Paderborn,ocd-division/country:de/state:nw/cd:137,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:recklinghausen_i,Recklinghausen I,ocd-division/country:de/state:nw/cd:121,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:recklinghausen_ii,Recklinghausen II,ocd-division/country:de/state:nw/cd:122,Added for backwards compatibility with land/wahlkreis identifiers
 ocd-division/country:de/land:nw/wahlkreis:rhein-erft-kreis_i,Rhein-Erft-Kreis I,ocd-division/country:de/state:nw/cd:91,Added for backwards compatibility with land/wahlkreis identifiers
@@ -465,7 +465,7 @@ ocd-division/country:de/state:mv/cd:14,Rostock – Landkreis Rostock II,,
 ocd-division/country:de/state:mv/cd:15,Vorpommern-Rügen – Vorpommern-Greifswald I,,
 ocd-division/country:de/state:mv/cd:16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,,
 ocd-division/country:de/state:mv/cd:17,Mecklenburgische Seenplatte II – Landkreis Rostock III,,
-ocd-division/country:de/state:ni,Niedersachen,,
+ocd-division/country:de/state:ni,Niedersachsen,,
 ocd-division/country:de/state:ni/cd:24,Aurich – Emden,,
 ocd-division/country:de/state:ni/cd:25,Unterems,,
 ocd-division/country:de/state:ni/cd:26,Friesland – Wilhelmshaven – Wittmund,,
@@ -533,8 +533,8 @@ ocd-division/country:de/state:nw/cd:132,Bielefeld – Gütersloh II,,
 ocd-division/country:de/state:nw/cd:133,Herford – Minden-Lübbecke II,,
 ocd-division/country:de/state:nw/cd:134,Minden-Lübbecke I,,
 ocd-division/country:de/state:nw/cd:135,Lippe I,,
-ocd-division/country:de/state:nw/cd:136,Höxter – Lippe II,,
-ocd-division/country:de/state:nw/cd:137,Paderborn – Gütersloh III,,
+ocd-division/country:de/state:nw/cd:136,Höxter – Gütersloh III – Lippe II,,
+ocd-division/country:de/state:nw/cd:137,Paderborn,,
 ocd-division/country:de/state:nw/cd:138,Hagen – Ennepe-Ruhr-Kreis I,,
 ocd-division/country:de/state:nw/cd:139,Ennepe-Ruhr-Kreis II,,
 ocd-division/country:de/state:nw/cd:140,Bochum I,,
