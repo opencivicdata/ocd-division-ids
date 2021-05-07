@@ -1,0 +1,13 @@
+README
+
+File contents in `country-jp` directory:
+*   jp_top_level_ocdid.csv: contains country level OCD-ID
+*   prefectures.csv: contains the list of prefectures in Japan
+*   single_member_constituencies.csv: contains the list of single member constituencies for Japan House of Representatives
+*   multi_seat_constituencies.csv: contains the list of multi member constituencies for Japan House of Representatives
+
+OCD ID Types used used:
+*   prefecture : represents the prefectures of Japan
+*   block_ed : represents electoral districts for proportional representation
+*   ed : represents electoral districts in single seat constituencies
+*   at_large_district : electoral districts formed by merging two or more prefectures
