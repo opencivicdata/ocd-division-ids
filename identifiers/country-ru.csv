@@ -1,2 +1,306 @@
 id,name
 ocd-division/country:ru,Russian Federation
+ocd-division/country:ru/state:ad,Republic of Adygea
+ocd-division/country:ru/state:ad/ed:1,Adyghe  
+ocd-division/country:ru/state:al,Altai Republic
+ocd-division/country:ru/state:al/ed:2,Altai  
+ocd-division/country:ru/state:alt,Altai Krai
+ocd-division/country:ru/state:alt/ed:39,Barnaul  
+ocd-division/country:ru/state:alt/ed:40,Rubtsovsky  
+ocd-division/country:ru/state:alt/ed:41,Biysk  
+ocd-division/country:ru/state:alt/ed:42,Slavgorod  
+ocd-division/country:ru/state:amu,Amur Oblast
+ocd-division/country:ru/state:amu/ed:71,Amur  
+ocd-division/country:ru/state:ark,Arkhangelsk Oblast
+ocd-division/country:ru/state:ark/ed:72,Arkhangelsk  
+ocd-division/country:ru/state:ark/ed:73,Kotlas  
+ocd-division/country:ru/state:ast,Astrakhan Oblast
+ocd-division/country:ru/state:ast/ed:74,Astrakhan  
+ocd-division/country:ru/state:ba,Republic of Bashkortostan
+ocd-division/country:ru/state:ba/ed:3,Ufa  
+ocd-division/country:ru/state:ba/ed:4,Annunciation  
+ocd-division/country:ru/state:ba/ed:5,Beloretsk  
+ocd-division/country:ru/state:ba/ed:6,Neftekamsk  
+ocd-division/country:ru/state:ba/ed:7,Salavat  
+ocd-division/country:ru/state:ba/ed:8,Sterlitamak  
+ocd-division/country:ru/state:bel,Belgorod Oblast
+ocd-division/country:ru/state:bel/ed:75,Belgorod  
+ocd-division/country:ru/state:bel/ed:76,Starooskolsk  
+ocd-division/country:ru/state:bry,Bryansk Oblast
+ocd-division/country:ru/state:bry/ed:77,Bryansk  
+ocd-division/country:ru/state:bry/ed:78,Unecha  
+ocd-division/country:ru/state:bu,Republic of Buryatia
+ocd-division/country:ru/state:bu/ed:9,Buryat  
+ocd-division/country:ru/state:ce,Chechen Republic
+ocd-division/country:ru/state:ce/ed:36,Chechen  
+ocd-division/country:ru/state:che,Chelyabinsk Oblast
+ocd-division/country:ru/state:che/ed:189,Chelyabinsk  
+ocd-division/country:ru/state:che/ed:190,Metallurgical  
+ocd-division/country:ru/state:che/ed:191,Korkino  
+ocd-division/country:ru/state:che/ed:192,Magnitogorsk  
+ocd-division/country:ru/state:che/ed:193,Zlatoust  
+ocd-division/country:ru/state:chu,Chukotka Autonomous Okrug
+ocd-division/country:ru/state:chu/ed:224,Chukotka  
+ocd-division/country:ru/state:cu,Chuvash Republic
+ocd-division/country:ru/state:cu/ed:37,Kanash  
+ocd-division/country:ru/state:cu/ed:38,Cheboksary  
+ocd-division/country:ru/state:da,Republic of Dagestan
+ocd-division/country:ru/state:da/ed:10,Northern  
+ocd-division/country:ru/state:da/ed:11,Central  
+ocd-division/country:ru/state:da/ed:12,Southern  
+ocd-division/country:ru/state:in,Republic of Ingushetia
+ocd-division/country:ru/state:in/ed:13,Ingush  
+ocd-division/country:ru/state:irk,Irkutsk Oblast
+ocd-division/country:ru/state:irk/ed:93,Irkutsk  
+ocd-division/country:ru/state:irk/ed:94,Angarsk  
+ocd-division/country:ru/state:irk/ed:95,Shelekhovsky  
+ocd-division/country:ru/state:irk/ed:96,Fraternal  
+ocd-division/country:ru/state:iva,Ivanovo Oblast
+ocd-division/country:ru/state:iva/ed:91,Ivanovo  
+ocd-division/country:ru/state:iva/ed:92,Kineshma  
+ocd-division/country:ru/state:kam,Kamchatka Krai
+ocd-division/country:ru/state:kam/ed:45,Kamchatka  
+ocd-division/country:ru/state:kb,Kabardino-Balkarian Republic
+ocd-division/country:ru/state:kb/ed:14,Kabardino-Balkarian  
+ocd-division/country:ru/state:kc,Karachay-Cherkess Republic
+ocd-division/country:ru/state:kc/ed:16,Karachay-Cherkess  
+ocd-division/country:ru/state:kda,Krasnodar Krai
+ocd-division/country:ru/state:kda/ed:46,​​Krasnodar  
+ocd-division/country:ru/state:kda/ed:47,Krasnoarmeyskiy  
+ocd-division/country:ru/state:kda/ed:48,Slavic  
+ocd-division/country:ru/state:kda/ed:49,Tuapse  
+ocd-division/country:ru/state:kda/ed:50,Sochi  
+ocd-division/country:ru/state:kda/ed:51,Tikhoretsk  
+ocd-division/country:ru/state:kda/ed:52,Armavir  
+ocd-division/country:ru/state:kda/ed:53,Kanev  
+ocd-division/country:ru/state:kem,Kemerovo Oblast
+ocd-division/country:ru/state:kem/ed:101,Kemerovo  
+ocd-division/country:ru/state:kem/ed:102,Prokopyevsk  
+ocd-division/country:ru/state:kem/ed:103,Factory  
+ocd-division/country:ru/state:kem/ed:104,Novokuznetsk  
+ocd-division/country:ru/state:kgd,Kaliningrad Oblast
+ocd-division/country:ru/state:kgd/ed:97,Kaliningrad  
+ocd-division/country:ru/state:kgd/ed:98,Central  
+ocd-division/country:ru/state:kgn,Kurgan Oblast
+ocd-division/country:ru/state:kgn/ed:108,Kurgan  
+ocd-division/country:ru/state:kha,Khabarovsk Krai
+ocd-division/country:ru/state:kha/ed:69,Khabarovsk  
+ocd-division/country:ru/state:kha/ed:70,Komsomol  
+ocd-division/country:ru/state:khm,Khanty-Mansi Autonomous Okrug–Yugra
+ocd-division/country:ru/state:khm/ed:222,Khanty-Mansi  
+ocd-division/country:ru/state:khm/ed:223,Nizhnevartovsk  
+ocd-division/country:ru/state:kir,Kirov Oblast
+ocd-division/country:ru/state:kir/ed:105,Kirov  
+ocd-division/country:ru/state:kir/ed:106,Kirovo-Chepetsk  
+ocd-division/country:ru/state:kk,Republic of Khakassia
+ocd-division/country:ru/state:kk/ed:35,Khakass  
+ocd-division/country:ru/state:kl,Republic of Kalmykia
+ocd-division/country:ru/state:kl/ed:15,Kalmyk  
+ocd-division/country:ru/state:klu,Kaluga Oblast
+ocd-division/country:ru/state:klu/ed:100,Obninsk  
+ocd-division/country:ru/state:klu/ed:99,Kaluga  
+ocd-division/country:ru/state:ko,Komi Republic
+ocd-division/country:ru/state:ko/ed:18,Syktyvkar  
+ocd-division/country:ru/state:kos,Kostroma Oblast
+ocd-division/country:ru/state:kos/ed:107,Kostroma  
+ocd-division/country:ru/state:kr,Republic of Karelia
+ocd-division/country:ru/state:kr/ed:17,Karelian  
+ocd-division/country:ru/state:krs,Kursk Oblast
+ocd-division/country:ru/state:krs/ed:109,Kursk  
+ocd-division/country:ru/state:krs/ed:110,Seimas  
+ocd-division/country:ru/state:kya,Krasnoyarsk Krai
+ocd-division/country:ru/state:kya/ed:54,Krasnoyarsk  
+ocd-division/country:ru/state:kya/ed:55,Central  
+ocd-division/country:ru/state:kya/ed:56,Divnogorsk  
+ocd-division/country:ru/state:kya/ed:57,Yenisei  
+ocd-division/country:ru/state:len,Leningrad Oblast
+ocd-division/country:ru/state:len/ed:111,Vsevolozhsk  
+ocd-division/country:ru/state:len/ed:112,Kingisepp  
+ocd-division/country:ru/state:len/ed:113,Volkhov  
+ocd-division/country:ru/state:lip,Lipetsk Oblast
+ocd-division/country:ru/state:lip/ed:114,Lipetsk  
+ocd-division/country:ru/state:lip/ed:115,Left-bank  
+ocd-division/country:ru/state:mag,Magadan Oblast
+ocd-division/country:ru/state:mag/ed:116,Magadan  
+ocd-division/country:ru/state:me,Mari El Republic
+ocd-division/country:ru/state:me/ed:22,Mari  
+ocd-division/country:ru/state:mo,Republic of Mordovia
+ocd-division/country:ru/state:mo/ed:23,Mordovian  
+ocd-division/country:ru/state:mos,Moscow Oblast
+ocd-division/country:ru/state:mos/ed:117,Balashikha  
+ocd-division/country:ru/state:mos/ed:118,Dmitrovsky  
+ocd-division/country:ru/state:mos/ed:119,Kolomna  
+ocd-division/country:ru/state:mos/ed:120,Krasnogorsk  
+ocd-division/country:ru/state:mos/ed:121,Lyuberetsk  
+ocd-division/country:ru/state:mos/ed:122,Odintsovo  
+ocd-division/country:ru/state:mos/ed:123,Orekhovo-Zuevsky  
+ocd-division/country:ru/state:mos/ed:124,Podolsk  
+ocd-division/country:ru/state:mos/ed:125,Sergiev Posad  
+ocd-division/country:ru/state:mos/ed:126,Serpukhov  
+ocd-division/country:ru/state:mos/ed:127,Shchelkovo  
+ocd-division/country:ru/state:mow,Moscow
+ocd-division/country:ru/state:mow/ed:196,Babushkinsky  
+ocd-division/country:ru/state:mow/ed:197,Kuntsevo  
+ocd-division/country:ru/state:mow/ed:198,Leningrad  
+ocd-division/country:ru/state:mow/ed:199,Lublin  
+ocd-division/country:ru/state:mow/ed:200,Medvedkovsky  
+ocd-division/country:ru/state:mow/ed:201,Nagatinsky  
+ocd-division/country:ru/state:mow/ed:202,Novomoskovsk  
+ocd-division/country:ru/state:mow/ed:203,Orekhovo-Borisov  
+ocd-division/country:ru/state:mow/ed:204,Perovsky  
+ocd-division/country:ru/state:mow/ed:205,Preobrazhensky  
+ocd-division/country:ru/state:mow/ed:206,Tushino  
+ocd-division/country:ru/state:mow/ed:207,Khovrinsky  
+ocd-division/country:ru/state:mow/ed:208,Central  
+ocd-division/country:ru/state:mow/ed:209,Cheryomushkinsky  
+ocd-division/country:ru/state:mow/ed:210,Chertanovsky  
+ocd-division/country:ru/state:mur,Murmansk Oblast
+ocd-division/country:ru/state:mur/ed:128,Murmansk  
+ocd-division/country:ru/state:nen,Nenets Autonomous Okrug
+ocd-division/country:ru/state:nen/ed:221,Nenets  
+ocd-division/country:ru/state:ngr,Novgorod Oblast
+ocd-division/country:ru/state:ngr/ed:134,Novgorod  
+ocd-division/country:ru/state:niz,Nizhny Novgorod Region
+ocd-division/country:ru/state:niz/ed:129,Nizhny Novgorod  
+ocd-division/country:ru/state:niz/ed:130,Prioksky  
+ocd-division/country:ru/state:niz/ed:131,Avtozavodsky  
+ocd-division/country:ru/state:niz/ed:132,Kanavino  
+ocd-division/country:ru/state:niz/ed:133,Bor  
+ocd-division/country:ru/state:nvs,Novosibirsk Oblast
+ocd-division/country:ru/state:nvs/ed:135,Novosibirsk  
+ocd-division/country:ru/state:nvs/ed:136,Central  
+ocd-division/country:ru/state:nvs/ed:137,Iskitim  
+ocd-division/country:ru/state:nvs/ed:138,Baraba  
+ocd-division/country:ru/state:oms,Omsk Oblast
+ocd-division/country:ru/state:oms/ed:139,Omsk  
+ocd-division/country:ru/state:oms/ed:140,Moskalensk  
+ocd-division/country:ru/state:oms/ed:141,Lyubinsky  
+ocd-division/country:ru/state:ore,Orenburg Oblast
+ocd-division/country:ru/state:ore/ed:142,Orenburg  
+ocd-division/country:ru/state:ore/ed:143,Buguruslan  
+ocd-division/country:ru/state:ore/ed:144,Orsk  
+ocd-division/country:ru/state:orl,Oryol Oblast
+ocd-division/country:ru/state:orl/ed:145,Oryol  
+ocd-division/country:ru/state:per,Perm Krai
+ocd-division/country:ru/state:per/ed:58,Perm  
+ocd-division/country:ru/state:per/ed:59,Chusovoy  
+ocd-division/country:ru/state:per/ed:60,Kungur  
+ocd-division/country:ru/state:per/ed:61,Kudymkar  
+ocd-division/country:ru/state:pnz,Penza Oblast
+ocd-division/country:ru/state:pnz/ed:146,Penza  
+ocd-division/country:ru/state:pnz/ed:147,Lermontov  
+ocd-division/country:ru/state:pri,Primorsky Krai
+ocd-division/country:ru/state:pri/ed:62,Vladivostok  
+ocd-division/country:ru/state:pri/ed:63,Artyomovsk  
+ocd-division/country:ru/state:pri/ed:64,Arsenyevsky  
+ocd-division/country:ru/state:psk,Pskov Oblast
+ocd-division/country:ru/state:psk/ed:148,Pskov  
+ocd-division/country:ru/state:ros,Rostov Oblast
+ocd-division/country:ru/state:ros/ed:149,Rostov  
+ocd-division/country:ru/state:ros/ed:150,Lower Don  
+ocd-division/country:ru/state:ros/ed:151,Taganrog  
+ocd-division/country:ru/state:ros/ed:152,Southern  
+ocd-division/country:ru/state:ros/ed:153,Belokalitvin  
+ocd-division/country:ru/state:ros/ed:154,Shakhty  
+ocd-division/country:ru/state:ros/ed:155,Volgodonsk  
+ocd-division/country:ru/state:rya,Ryazan Oblast
+ocd-division/country:ru/state:rya/ed:156,Ryazan  
+ocd-division/country:ru/state:rya/ed:157,Skopinsky  
+ocd-division/country:ru/state:sa,Republic of Sakha (Yakutia)
+ocd-division/country:ru/state:sa/ed:24,Yakutsk  
+ocd-division/country:ru/state:sak,Sakhalin Oblast
+ocd-division/country:ru/state:sak/ed:167,Sakhalin  
+ocd-division/country:ru/state:sam,Samara Oblast
+ocd-division/country:ru/state:sam/ed:158,Samara  
+ocd-division/country:ru/state:sam/ed:159,Togliatti  
+ocd-division/country:ru/state:sam/ed:160,Krasnoglinsky  
+ocd-division/country:ru/state:sam/ed:161,Zhigulevsky  
+ocd-division/country:ru/state:sam/ed:162,Industrial  
+ocd-division/country:ru/state:sar,Saratov Oblast
+ocd-division/country:ru/state:sar/ed:163,Saratov  
+ocd-division/country:ru/state:sar/ed:164,Balakovo  
+ocd-division/country:ru/state:sar/ed:165,Balashov  
+ocd-division/country:ru/state:sar/ed:166,Engels  
+ocd-division/country:ru/state:se,Republic of North Ossetia–Alania
+ocd-division/country:ru/state:se/ed:25,North Ossetian  
+ocd-division/country:ru/state:smo,Smolensk Oblast
+ocd-division/country:ru/state:smo/ed:175,Smolensk  
+ocd-division/country:ru/state:smo/ed:176,Roslavl  
+ocd-division/country:ru/state:spe,Saint Petersburg
+ocd-division/country:ru/state:spe/ed:211,Eastern  
+ocd-division/country:ru/state:spe/ed:212,Western  
+ocd-division/country:ru/state:spe/ed:213,Northern  
+ocd-division/country:ru/state:spe/ed:214,North-East  
+ocd-division/country:ru/state:spe/ed:215,Northwest  
+ocd-division/country:ru/state:spe/ed:216,Central  
+ocd-division/country:ru/state:spe/ed:217,South-East  
+ocd-division/country:ru/state:spe/ed:218,Southern  
+ocd-division/country:ru/state:sta,Stavropol Krai
+ocd-division/country:ru/state:sta/ed:65,Stavropol  
+ocd-division/country:ru/state:sta/ed:66,Nevinnomyssk  
+ocd-division/country:ru/state:sta/ed:67,Kavminvodsky  
+ocd-division/country:ru/state:sta/ed:68,Georgievsky  
+ocd-division/country:ru/state:sve,Sverdlovsk Oblast
+ocd-division/country:ru/state:sve/ed:168,Sverdlovsk  
+ocd-division/country:ru/state:sve/ed:169,Kamensk-Uralsky  
+ocd-division/country:ru/state:sve/ed:170,Berezovsky  
+ocd-division/country:ru/state:sve/ed:171,Nizhniy Tagil  
+ocd-division/country:ru/state:sve/ed:172,Asbestos  
+ocd-division/country:ru/state:sve/ed:173,Pervouralsk  
+ocd-division/country:ru/state:sve/ed:174,Serov  
+ocd-division/country:ru/state:ta,Republic of Tatarstan
+ocd-division/country:ru/state:ta/ed:26,Volga  
+ocd-division/country:ru/state:ta/ed:27,Moscow  
+ocd-division/country:ru/state:ta/ed:28,Nizhnekamsk  
+ocd-division/country:ru/state:ta/ed:29,Naberezhno-Chelninsky  
+ocd-division/country:ru/state:ta/ed:30,Almetyevsk  
+ocd-division/country:ru/state:ta/ed:31,Central  
+ocd-division/country:ru/state:tam,Tambov Oblast
+ocd-division/country:ru/state:tam/ed:177,Tambov  
+ocd-division/country:ru/state:tam/ed:178,Rasskazovsky  
+ocd-division/country:ru/state:tom,Tomsk Oblast
+ocd-division/country:ru/state:tom/ed:181,Tomsk  
+ocd-division/country:ru/state:tom/ed:182,Obsk  
+ocd-division/country:ru/state:tul,Tula Oblast
+ocd-division/country:ru/state:tul/ed:183,Tula  
+ocd-division/country:ru/state:tul/ed:184,Novomoskovsk  
+ocd-division/country:ru/state:tve,Tver Oblast
+ocd-division/country:ru/state:tve/ed:179,Tver  
+ocd-division/country:ru/state:tve/ed:180,Zavolzhsky  
+ocd-division/country:ru/state:ty,Tuva Republic
+ocd-division/country:ru/state:ty/ed:32,Tyva  
+ocd-division/country:ru/state:tyu,Tyumen Oblast
+ocd-division/country:ru/state:tyu/ed:185,Tyumen  
+ocd-division/country:ru/state:tyu/ed:186,Zavodoukovsky  
+ocd-division/country:ru/state:ud,Udmurt Republic
+ocd-division/country:ru/state:ud/ed:33,Udmurt  
+ocd-division/country:ru/state:ud/ed:34,Izhevsk  
+ocd-division/country:ru/state:uly,Ulyanovsk Oblast
+ocd-division/country:ru/state:uly/ed:187,Ulyanovsk  
+ocd-division/country:ru/state:uly/ed:188,Radishchevsky  
+ocd-division/country:ru/state:vgg,Volgograd Oblast
+ocd-division/country:ru/state:vgg/ed:81,Volgograd  
+ocd-division/country:ru/state:vgg/ed:82,Krasnoarmeysk  
+ocd-division/country:ru/state:vgg/ed:83,Mikhailovsky  
+ocd-division/country:ru/state:vgg/ed:84,Volzhsky  
+ocd-division/country:ru/state:vla,Vladimir Oblast
+ocd-division/country:ru/state:vla/ed:79,Vladimir  
+ocd-division/country:ru/state:vla/ed:80,Suzdal  
+ocd-division/country:ru/state:vlg,Vologda Oblast
+ocd-division/country:ru/state:vlg/ed:85,Vologda  
+ocd-division/country:ru/state:vlg/ed:86,Cherepovets  
+ocd-division/country:ru/state:vor,Voronezh Oblast
+ocd-division/country:ru/state:vor/ed:87,Voronezh  
+ocd-division/country:ru/state:vor/ed:88,Right-bank  
+ocd-division/country:ru/state:vor/ed:89,Anninsky  
+ocd-division/country:ru/state:vor/ed:90,Pavlovsky  
+ocd-division/country:ru/state:yan,Yamalo-Nenets Autonomous Okrug
+ocd-division/country:ru/state:yan/ed:225,Yamalo-Nenets  
+ocd-division/country:ru/state:yar,Yaroslavl Oblast
+ocd-division/country:ru/state:yar/ed:194,Yaroslavl  
+ocd-division/country:ru/state:yar/ed:195,Rostov  
+ocd-division/country:ru/state:yev,Jewish Autonomous Oblast
+ocd-division/country:ru/state:yev/ed:220,Jewish  
+ocd-division/country:ru/state:zab,Zabaykalsky Krai
+ocd-division/country:ru/state:zab/ed:43,Chita  
+ocd-division/country:ru/state:zab/ed:44,Daursky  
