@@ -9,6 +9,6 @@ File contents in `country-jp` directory:
 
 OCD ID Types used used:
 *   prefecture : represents the prefectures of Japan
-*   block_ed : represents electoral districts for proportional representation for Japan House of Representatives
+*   mmc : represents electoral districts for proportional representation for Japan House of Representatives (multi seat constituencies)
 *   ed : represents electoral districts in single seat constituencies for Japan House of Representatives
 *   at_large_district : electoral districts for the Japanese House of Councilors, made up of prefectures or combined prefectures
