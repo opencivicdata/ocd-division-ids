@@ -18,7 +18,7 @@ if sys.version_info < (3, 0):
 
 
 def validate_id(id_):
-    id_regex = re.compile(r'^ocd-division/(country|region):[a-z]{2}(/[^\W\d]+:[\w.~-]+)*$', re.U)
+    id_regex = re.compile(r'^ocd-division/(country|region):[a-z]{2}(/[^\W\d]+[-]?[^\W\d]+:[\w.~-]+)*$', re.U)
     if not (id_regex.match(id_) and id_.lower() == id_):
         raise ValueError('invalid id: ' + id_)
 
