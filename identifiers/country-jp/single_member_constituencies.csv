@@ -1,66 +1,5 @@
 id,name
-ocd-division/country:jp,Japan
-ocd-division/country:jp/at-large:aichi,Aichi
-ocd-division/country:jp/at-large:akita,Akita
-ocd-division/country:jp/at-large:aomori,Aomori
-ocd-division/country:jp/at-large:chiba,Chiba
-ocd-division/country:jp/at-large:ehime,Ehime
-ocd-division/country:jp/at-large:fukui,Fukui
-ocd-division/country:jp/at-large:fukuoka,Fukuoka
-ocd-division/country:jp/at-large:fukushima,Fukushima
-ocd-division/country:jp/at-large:gifu,Gifu
-ocd-division/country:jp/at-large:gunma,Gunma
-ocd-division/country:jp/at-large:hiroshima,Hiroshima
-ocd-division/country:jp/at-large:hokkaido,Hokkaido
-ocd-division/country:jp/at-large:hyogo,Hyogo
-ocd-division/country:jp/at-large:ibaraki,Ibaraki
-ocd-division/country:jp/at-large:ishikawa,Ishikawa
-ocd-division/country:jp/at-large:iwate,Iwate
-ocd-division/country:jp/at-large:kagawa,Kagawa
-ocd-division/country:jp/at-large:kagoshima,Kagoshima
-ocd-division/country:jp/at-large:kanagawa,Kanagawa
-ocd-division/country:jp/at-large:kumamoto,Kumamoto
-ocd-division/country:jp/at-large:kyoto,Kyoto
-ocd-division/country:jp/at-large:mie,Mie
-ocd-division/country:jp/at-large:miyagi,Miyagi
-ocd-division/country:jp/at-large:miyazaki,Miyazaki
-ocd-division/country:jp/at-large:nagano,Nagano
-ocd-division/country:jp/at-large:nagasaki,Nagasaki
-ocd-division/country:jp/at-large:nara,Nara
-ocd-division/country:jp/at-large:niigata,Niigata
-ocd-division/country:jp/at-large:okayama,Okayama
-ocd-division/country:jp/at-large:okinawa,Okinawa
-ocd-division/country:jp/at-large:osaka,Osaka
-ocd-division/country:jp/at-large:saga,Saga
-ocd-division/country:jp/at-large:saitama,Saitama
-ocd-division/country:jp/at-large:shiga,Shiga
-ocd-division/country:jp/at-large:shizuoka,Shizuoka
-ocd-division/country:jp/at-large:tochigi,Tochigi
-ocd-division/country:jp/at-large:tokushima-kochi,Tokushima-Kochi
-ocd-division/country:jp/at-large:tokyo,Tokyo
-ocd-division/country:jp/at-large:tottori-shimane,Tottori-Shimane
-ocd-division/country:jp/at-large:toyama,Toyama
-ocd-division/country:jp/at-large:wakayama,Wakayama
-ocd-division/country:jp/at-large:yamagata,Yamagata
-ocd-division/country:jp/at-large:yamaguchi,Yamaguchi
-ocd-division/country:jp/at-large:yamanashi,Yamanashi
-ocd-division/country:jp/at-large:ōita,Ōita
-ocd-division/country:jp/block:chugoku,Chugoku
-ocd-division/country:jp/block:hokkaido,Hokkaido
-ocd-division/country:jp/block:hokuriku_shinetsu,Hokuriku Shinetsu
-ocd-division/country:jp/block:kinki,Kinki
-ocd-division/country:jp/block:kyushu,Kyushu
-ocd-division/country:jp/block:north_kanto,North Kanto
-ocd-division/country:jp/block:shikoku,Shikoku
-ocd-division/country:jp/block:south_kanto,South Kanto
-ocd-division/country:jp/block:tohoku,Tohoku
-ocd-division/country:jp/block:tokai,Tokai
-ocd-division/country:jp/block:tokyo,Tokyo
-ocd-division/country:jp/prefecture:01,Hokkaido
 ocd-division/country:jp/prefecture:01/ed:1,Hokkaido 1
-ocd-division/country:jp/prefecture:01/ed:10,Hokkaido 10
-ocd-division/country:jp/prefecture:01/ed:11,Hokkaido 11
-ocd-division/country:jp/prefecture:01/ed:12,Hokkaido 12
 ocd-division/country:jp/prefecture:01/ed:2,Hokkaido 2
 ocd-division/country:jp/prefecture:01/ed:3,Hokkaido 3
 ocd-division/country:jp/prefecture:01/ed:4,Hokkaido 4
@@ -69,36 +8,32 @@ ocd-division/country:jp/prefecture:01/ed:6,Hokkaido 6
 ocd-division/country:jp/prefecture:01/ed:7,Hokkaido 7
 ocd-division/country:jp/prefecture:01/ed:8,Hokkaido 8
 ocd-division/country:jp/prefecture:01/ed:9,Hokkaido 9
-ocd-division/country:jp/prefecture:02,Aomori
+ocd-division/country:jp/prefecture:01/ed:10,Hokkaido 10
+ocd-division/country:jp/prefecture:01/ed:11,Hokkaido 11
+ocd-division/country:jp/prefecture:01/ed:12,Hokkaido 12
 ocd-division/country:jp/prefecture:02/ed:1,Aomori 1
 ocd-division/country:jp/prefecture:02/ed:2,Aomori 2
 ocd-division/country:jp/prefecture:02/ed:3,Aomori 3
-ocd-division/country:jp/prefecture:03,Iwate
 ocd-division/country:jp/prefecture:03/ed:1,Iwate 1
 ocd-division/country:jp/prefecture:03/ed:2,Iwate 2
 ocd-division/country:jp/prefecture:03/ed:3,Iwate 3
-ocd-division/country:jp/prefecture:04,Miyagi
 ocd-division/country:jp/prefecture:04/ed:1,Miyagi 1
 ocd-division/country:jp/prefecture:04/ed:2,Miyagi 2
 ocd-division/country:jp/prefecture:04/ed:3,Miyagi 3
 ocd-division/country:jp/prefecture:04/ed:4,Miyagi 4
 ocd-division/country:jp/prefecture:04/ed:5,Miyagi 5
 ocd-division/country:jp/prefecture:04/ed:6,Miyagi 6
-ocd-division/country:jp/prefecture:05,Akita
 ocd-division/country:jp/prefecture:05/ed:1,Akita 1
 ocd-division/country:jp/prefecture:05/ed:2,Akita 2
 ocd-division/country:jp/prefecture:05/ed:3,Akita 3
-ocd-division/country:jp/prefecture:06,Yamagata
 ocd-division/country:jp/prefecture:06/ed:1,Yamagata 1
 ocd-division/country:jp/prefecture:06/ed:2,Yamagata 2
 ocd-division/country:jp/prefecture:06/ed:3,Yamagata 3
-ocd-division/country:jp/prefecture:07,Fukushima
 ocd-division/country:jp/prefecture:07/ed:1,Fukushima 1
 ocd-division/country:jp/prefecture:07/ed:2,Fukushima 2
 ocd-division/country:jp/prefecture:07/ed:3,Fukushima 3
 ocd-division/country:jp/prefecture:07/ed:4,Fukushima 4
 ocd-division/country:jp/prefecture:07/ed:5,Fukushima 5
-ocd-division/country:jp/prefecture:08,Ibaraki
 ocd-division/country:jp/prefecture:08/ed:1,Ibaraki 1
 ocd-division/country:jp/prefecture:08/ed:2,Ibaraki 2
 ocd-division/country:jp/prefecture:08/ed:3,Ibaraki 3
@@ -106,26 +41,17 @@ ocd-division/country:jp/prefecture:08/ed:4,Ibaraki 4
 ocd-division/country:jp/prefecture:08/ed:5,Ibaraki 5
 ocd-division/country:jp/prefecture:08/ed:6,Ibaraki 6
 ocd-division/country:jp/prefecture:08/ed:7,Ibaraki 7
-ocd-division/country:jp/prefecture:09,Tochigi
 ocd-division/country:jp/prefecture:09/ed:1,Tochigi 1
 ocd-division/country:jp/prefecture:09/ed:2,Tochigi 2
 ocd-division/country:jp/prefecture:09/ed:3,Tochigi 3
 ocd-division/country:jp/prefecture:09/ed:4,Tochigi 4
 ocd-division/country:jp/prefecture:09/ed:5,Tochigi 5
-ocd-division/country:jp/prefecture:10,Gunma
 ocd-division/country:jp/prefecture:10/ed:1,Gunma 1
 ocd-division/country:jp/prefecture:10/ed:2,Gunma 2
 ocd-division/country:jp/prefecture:10/ed:3,Gunma 3
 ocd-division/country:jp/prefecture:10/ed:4,Gunma 4
 ocd-division/country:jp/prefecture:10/ed:5,Gunma 5
-ocd-division/country:jp/prefecture:11,Saitama
 ocd-division/country:jp/prefecture:11/ed:1,Saitama 1
-ocd-division/country:jp/prefecture:11/ed:10,Saitama 10
-ocd-division/country:jp/prefecture:11/ed:11,Saitama 11
-ocd-division/country:jp/prefecture:11/ed:12,Saitama 12
-ocd-division/country:jp/prefecture:11/ed:13,Saitama 13
-ocd-division/country:jp/prefecture:11/ed:14,Saitama 14
-ocd-division/country:jp/prefecture:11/ed:15,Saitama 15
 ocd-division/country:jp/prefecture:11/ed:2,Saitama 2
 ocd-division/country:jp/prefecture:11/ed:3,Saitama 3
 ocd-division/country:jp/prefecture:11/ed:4,Saitama 4
@@ -134,12 +60,13 @@ ocd-division/country:jp/prefecture:11/ed:6,Saitama 6
 ocd-division/country:jp/prefecture:11/ed:7,Saitama 7
 ocd-division/country:jp/prefecture:11/ed:8,Saitama 8
 ocd-division/country:jp/prefecture:11/ed:9,Saitama 9
-ocd-division/country:jp/prefecture:12,Chiba
+ocd-division/country:jp/prefecture:11/ed:10,Saitama 10
+ocd-division/country:jp/prefecture:11/ed:11,Saitama 11
+ocd-division/country:jp/prefecture:11/ed:12,Saitama 12
+ocd-division/country:jp/prefecture:11/ed:13,Saitama 13
+ocd-division/country:jp/prefecture:11/ed:14,Saitama 14
+ocd-division/country:jp/prefecture:11/ed:15,Saitama 15
 ocd-division/country:jp/prefecture:12/ed:1,Chiba 1
-ocd-division/country:jp/prefecture:12/ed:10,Chiba 10
-ocd-division/country:jp/prefecture:12/ed:11,Chiba 11
-ocd-division/country:jp/prefecture:12/ed:12,Chiba 12
-ocd-division/country:jp/prefecture:12/ed:13,Chiba 13
 ocd-division/country:jp/prefecture:12/ed:2,Chiba 2
 ocd-division/country:jp/prefecture:12/ed:3,Chiba 3
 ocd-division/country:jp/prefecture:12/ed:4,Chiba 4
@@ -148,8 +75,39 @@ ocd-division/country:jp/prefecture:12/ed:6,Chiba 6
 ocd-division/country:jp/prefecture:12/ed:7,Chiba 7
 ocd-division/country:jp/prefecture:12/ed:8,Chiba 8
 ocd-division/country:jp/prefecture:12/ed:9,Chiba 9
-ocd-division/country:jp/prefecture:13,Tokyo
+ocd-division/country:jp/prefecture:12/ed:10,Chiba 10
+ocd-division/country:jp/prefecture:12/ed:11,Chiba 11
+ocd-division/country:jp/prefecture:12/ed:12,Chiba 12
+ocd-division/country:jp/prefecture:12/ed:13,Chiba 13
+ocd-division/country:jp/prefecture:14/ed:1,Kanagawa 1
+ocd-division/country:jp/prefecture:14/ed:2,Kanagawa 2
+ocd-division/country:jp/prefecture:14/ed:3,Kanagawa 3
+ocd-division/country:jp/prefecture:14/ed:4,Kanagawa 4
+ocd-division/country:jp/prefecture:14/ed:5,Kanagawa 5
+ocd-division/country:jp/prefecture:14/ed:6,Kanagawa 6
+ocd-division/country:jp/prefecture:14/ed:7,Kanagawa 7
+ocd-division/country:jp/prefecture:14/ed:8,Kanagawa 8
+ocd-division/country:jp/prefecture:14/ed:9,Kanagawa 9
+ocd-division/country:jp/prefecture:14/ed:10,Kanagawa 10
+ocd-division/country:jp/prefecture:14/ed:11,Kanagawa 11
+ocd-division/country:jp/prefecture:14/ed:12,Kanagawa 12
+ocd-division/country:jp/prefecture:14/ed:13,Kanagawa 13
+ocd-division/country:jp/prefecture:14/ed:14,Kanagawa 14
+ocd-division/country:jp/prefecture:14/ed:15,Kanagawa 15
+ocd-division/country:jp/prefecture:14/ed:16,Kanagawa 16
+ocd-division/country:jp/prefecture:14/ed:17,Kanagawa 17
+ocd-division/country:jp/prefecture:14/ed:18,Kanagawa 18
+ocd-division/country:jp/prefecture:19/ed:1,Yamanashi 1
+ocd-division/country:jp/prefecture:19/ed:2,Yamanashi 2
 ocd-division/country:jp/prefecture:13/ed:1,Tokyo 1
+ocd-division/country:jp/prefecture:13/ed:2,Tokyo 2
+ocd-division/country:jp/prefecture:13/ed:3,Tokyo 3
+ocd-division/country:jp/prefecture:13/ed:4,Tokyo 4
+ocd-division/country:jp/prefecture:13/ed:5,Tokyo 5
+ocd-division/country:jp/prefecture:13/ed:6,Tokyo 6
+ocd-division/country:jp/prefecture:13/ed:7,Tokyo 7
+ocd-division/country:jp/prefecture:13/ed:8,Tokyo 8
+ocd-division/country:jp/prefecture:13/ed:9,Tokyo 9
 ocd-division/country:jp/prefecture:13/ed:10,Tokyo 10
 ocd-division/country:jp/prefecture:13/ed:11,Tokyo 11
 ocd-division/country:jp/prefecture:13/ed:12,Tokyo 12
@@ -160,73 +118,36 @@ ocd-division/country:jp/prefecture:13/ed:16,Tokyo 16
 ocd-division/country:jp/prefecture:13/ed:17,Tokyo 17
 ocd-division/country:jp/prefecture:13/ed:18,Tokyo 18
 ocd-division/country:jp/prefecture:13/ed:19,Tokyo 19
-ocd-division/country:jp/prefecture:13/ed:2,Tokyo 2
 ocd-division/country:jp/prefecture:13/ed:20,Tokyo 20
 ocd-division/country:jp/prefecture:13/ed:21,Tokyo 21
 ocd-division/country:jp/prefecture:13/ed:22,Tokyo 22
 ocd-division/country:jp/prefecture:13/ed:23,Tokyo 23
 ocd-division/country:jp/prefecture:13/ed:24,Tokyo 24
 ocd-division/country:jp/prefecture:13/ed:25,Tokyo 25
-ocd-division/country:jp/prefecture:13/ed:3,Tokyo 3
-ocd-division/country:jp/prefecture:13/ed:4,Tokyo 4
-ocd-division/country:jp/prefecture:13/ed:5,Tokyo 5
-ocd-division/country:jp/prefecture:13/ed:6,Tokyo 6
-ocd-division/country:jp/prefecture:13/ed:7,Tokyo 7
-ocd-division/country:jp/prefecture:13/ed:8,Tokyo 8
-ocd-division/country:jp/prefecture:13/ed:9,Tokyo 9
-ocd-division/country:jp/prefecture:14,Kanagawa
-ocd-division/country:jp/prefecture:14/ed:1,Kanagawa 1
-ocd-division/country:jp/prefecture:14/ed:10,Kanagawa 10
-ocd-division/country:jp/prefecture:14/ed:11,Kanagawa 11
-ocd-division/country:jp/prefecture:14/ed:12,Kanagawa 12
-ocd-division/country:jp/prefecture:14/ed:13,Kanagawa 13
-ocd-division/country:jp/prefecture:14/ed:14,Kanagawa 14
-ocd-division/country:jp/prefecture:14/ed:15,Kanagawa 15
-ocd-division/country:jp/prefecture:14/ed:16,Kanagawa 16
-ocd-division/country:jp/prefecture:14/ed:17,Kanagawa 17
-ocd-division/country:jp/prefecture:14/ed:18,Kanagawa 18
-ocd-division/country:jp/prefecture:14/ed:2,Kanagawa 2
-ocd-division/country:jp/prefecture:14/ed:3,Kanagawa 3
-ocd-division/country:jp/prefecture:14/ed:4,Kanagawa 4
-ocd-division/country:jp/prefecture:14/ed:5,Kanagawa 5
-ocd-division/country:jp/prefecture:14/ed:6,Kanagawa 6
-ocd-division/country:jp/prefecture:14/ed:7,Kanagawa 7
-ocd-division/country:jp/prefecture:14/ed:8,Kanagawa 8
-ocd-division/country:jp/prefecture:14/ed:9,Kanagawa 9
-ocd-division/country:jp/prefecture:15,Niigata
 ocd-division/country:jp/prefecture:15/ed:1,Niigata 1
 ocd-division/country:jp/prefecture:15/ed:2,Niigata 2
 ocd-division/country:jp/prefecture:15/ed:3,Niigata 3
 ocd-division/country:jp/prefecture:15/ed:4,Niigata 4
 ocd-division/country:jp/prefecture:15/ed:5,Niigata 5
 ocd-division/country:jp/prefecture:15/ed:6,Niigata 6
-ocd-division/country:jp/prefecture:16,Toyama
 ocd-division/country:jp/prefecture:16/ed:1,Toyama 1
 ocd-division/country:jp/prefecture:16/ed:2,Toyama 2
 ocd-division/country:jp/prefecture:16/ed:3,Toyama 3
-ocd-division/country:jp/prefecture:17,Ishikawa
 ocd-division/country:jp/prefecture:17/ed:1,Ishikawa 1
 ocd-division/country:jp/prefecture:17/ed:2,Ishikawa 2
 ocd-division/country:jp/prefecture:17/ed:3,Ishikawa 3
-ocd-division/country:jp/prefecture:18,Fukui
 ocd-division/country:jp/prefecture:18/ed:1,Fukui 1
 ocd-division/country:jp/prefecture:18/ed:2,Fukui 2
-ocd-division/country:jp/prefecture:19,Yamanashi
-ocd-division/country:jp/prefecture:19/ed:1,Yamanashi 1
-ocd-division/country:jp/prefecture:19/ed:2,Yamanashi 2
-ocd-division/country:jp/prefecture:20,Nagano
 ocd-division/country:jp/prefecture:20/ed:1,Nagano 1
 ocd-division/country:jp/prefecture:20/ed:2,Nagano 2
 ocd-division/country:jp/prefecture:20/ed:3,Nagano 3
 ocd-division/country:jp/prefecture:20/ed:4,Nagano 4
 ocd-division/country:jp/prefecture:20/ed:5,Nagano 5
-ocd-division/country:jp/prefecture:21,Gifu
 ocd-division/country:jp/prefecture:21/ed:1,Gifu 1
 ocd-division/country:jp/prefecture:21/ed:2,Gifu 2
 ocd-division/country:jp/prefecture:21/ed:3,Gifu 3
 ocd-division/country:jp/prefecture:21/ed:4,Gifu 4
 ocd-division/country:jp/prefecture:21/ed:5,Gifu 5
-ocd-division/country:jp/prefecture:22,Shizuoka
 ocd-division/country:jp/prefecture:22/ed:1,Shizuoka 1
 ocd-division/country:jp/prefecture:22/ed:2,Shizuoka 2
 ocd-division/country:jp/prefecture:22/ed:3,Shizuoka 3
@@ -235,14 +156,7 @@ ocd-division/country:jp/prefecture:22/ed:5,Shizuoka 5
 ocd-division/country:jp/prefecture:22/ed:6,Shizuoka 6
 ocd-division/country:jp/prefecture:22/ed:7,Shizuoka 7
 ocd-division/country:jp/prefecture:22/ed:8,Shizuoka 8
-ocd-division/country:jp/prefecture:23,Aichi
 ocd-division/country:jp/prefecture:23/ed:1,Aichi 1
-ocd-division/country:jp/prefecture:23/ed:10,Aichi 10
-ocd-division/country:jp/prefecture:23/ed:11,Aichi 11
-ocd-division/country:jp/prefecture:23/ed:12,Aichi 12
-ocd-division/country:jp/prefecture:23/ed:13,Aichi 13
-ocd-division/country:jp/prefecture:23/ed:14,Aichi 14
-ocd-division/country:jp/prefecture:23/ed:15,Aichi 15
 ocd-division/country:jp/prefecture:23/ed:2,Aichi 2
 ocd-division/country:jp/prefecture:23/ed:3,Aichi 3
 ocd-division/country:jp/prefecture:23/ed:4,Aichi 4
@@ -251,25 +165,35 @@ ocd-division/country:jp/prefecture:23/ed:6,Aichi 6
 ocd-division/country:jp/prefecture:23/ed:7,Aichi 7
 ocd-division/country:jp/prefecture:23/ed:8,Aichi 8
 ocd-division/country:jp/prefecture:23/ed:9,Aichi 9
-ocd-division/country:jp/prefecture:24,Mie
+ocd-division/country:jp/prefecture:23/ed:10,Aichi 10
+ocd-division/country:jp/prefecture:23/ed:11,Aichi 11
+ocd-division/country:jp/prefecture:23/ed:12,Aichi 12
+ocd-division/country:jp/prefecture:23/ed:13,Aichi 13
+ocd-division/country:jp/prefecture:23/ed:14,Aichi 14
+ocd-division/country:jp/prefecture:23/ed:15,Aichi 15
 ocd-division/country:jp/prefecture:24/ed:1,Mie 1
 ocd-division/country:jp/prefecture:24/ed:2,Mie 2
 ocd-division/country:jp/prefecture:24/ed:3,Mie 3
 ocd-division/country:jp/prefecture:24/ed:4,Mie 4
-ocd-division/country:jp/prefecture:25,Shiga
 ocd-division/country:jp/prefecture:25/ed:1,Shiga 1
 ocd-division/country:jp/prefecture:25/ed:2,Shiga 2
 ocd-division/country:jp/prefecture:25/ed:3,Shiga 3
 ocd-division/country:jp/prefecture:25/ed:4,Shiga 4
-ocd-division/country:jp/prefecture:26,Kyoto
 ocd-division/country:jp/prefecture:26/ed:1,Kyoto 1
 ocd-division/country:jp/prefecture:26/ed:2,Kyoto 2
 ocd-division/country:jp/prefecture:26/ed:3,Kyoto 3
 ocd-division/country:jp/prefecture:26/ed:4,Kyoto 4
 ocd-division/country:jp/prefecture:26/ed:5,Kyoto 5
 ocd-division/country:jp/prefecture:26/ed:6,Kyoto 6
-ocd-division/country:jp/prefecture:27,Osaka
 ocd-division/country:jp/prefecture:27/ed:1,Osaka 1
+ocd-division/country:jp/prefecture:27/ed:2,Osaka 2
+ocd-division/country:jp/prefecture:27/ed:3,Osaka 3
+ocd-division/country:jp/prefecture:27/ed:4,Osaka 4
+ocd-division/country:jp/prefecture:27/ed:5,Osaka 5
+ocd-division/country:jp/prefecture:27/ed:6,Osaka 6
+ocd-division/country:jp/prefecture:27/ed:7,Osaka 7
+ocd-division/country:jp/prefecture:27/ed:8,Osaka 8
+ocd-division/country:jp/prefecture:27/ed:9,Osaka 9
 ocd-division/country:jp/prefecture:27/ed:10,Osaka 10
 ocd-division/country:jp/prefecture:27/ed:11,Osaka 11
 ocd-division/country:jp/prefecture:27/ed:12,Osaka 12
@@ -280,19 +204,7 @@ ocd-division/country:jp/prefecture:27/ed:16,Osaka 16
 ocd-division/country:jp/prefecture:27/ed:17,Osaka 17
 ocd-division/country:jp/prefecture:27/ed:18,Osaka 18
 ocd-division/country:jp/prefecture:27/ed:19,Osaka 19
-ocd-division/country:jp/prefecture:27/ed:2,Osaka 2
-ocd-division/country:jp/prefecture:27/ed:3,Osaka 3
-ocd-division/country:jp/prefecture:27/ed:4,Osaka 4
-ocd-division/country:jp/prefecture:27/ed:5,Osaka 5
-ocd-division/country:jp/prefecture:27/ed:6,Osaka 6
-ocd-division/country:jp/prefecture:27/ed:7,Osaka 7
-ocd-division/country:jp/prefecture:27/ed:8,Osaka 8
-ocd-division/country:jp/prefecture:27/ed:9,Osaka 9
-ocd-division/country:jp/prefecture:28,Hyōgo
 ocd-division/country:jp/prefecture:28/ed:1,Hyōgo 1
-ocd-division/country:jp/prefecture:28/ed:10,Hyōgo 10
-ocd-division/country:jp/prefecture:28/ed:11,Hyōgo 11
-ocd-division/country:jp/prefecture:28/ed:12,Hyōgo 12
 ocd-division/country:jp/prefecture:28/ed:2,Hyōgo 2
 ocd-division/country:jp/prefecture:28/ed:3,Hyōgo 3
 ocd-division/country:jp/prefecture:28/ed:4,Hyōgo 4
@@ -301,27 +213,24 @@ ocd-division/country:jp/prefecture:28/ed:6,Hyōgo 6
 ocd-division/country:jp/prefecture:28/ed:7,Hyōgo 7
 ocd-division/country:jp/prefecture:28/ed:8,Hyōgo 8
 ocd-division/country:jp/prefecture:28/ed:9,Hyōgo 9
-ocd-division/country:jp/prefecture:29,Nara
+ocd-division/country:jp/prefecture:28/ed:10,Hyōgo 10
+ocd-division/country:jp/prefecture:28/ed:11,Hyōgo 11
+ocd-division/country:jp/prefecture:28/ed:12,Hyōgo 12
 ocd-division/country:jp/prefecture:29/ed:1,Nara 1
 ocd-division/country:jp/prefecture:29/ed:2,Nara 2
 ocd-division/country:jp/prefecture:29/ed:3,Nara 3
-ocd-division/country:jp/prefecture:30,Wakayama
 ocd-division/country:jp/prefecture:30/ed:1,Wakayama 1
 ocd-division/country:jp/prefecture:30/ed:2,Wakayama 2
 ocd-division/country:jp/prefecture:30/ed:3,Wakayama 3
-ocd-division/country:jp/prefecture:31,Tottori
 ocd-division/country:jp/prefecture:31/ed:1,Tottori 1
 ocd-division/country:jp/prefecture:31/ed:2,Tottori 2
-ocd-division/country:jp/prefecture:32,Shimane
 ocd-division/country:jp/prefecture:32/ed:1,Shimane 1
 ocd-division/country:jp/prefecture:32/ed:2,Shimane 2
-ocd-division/country:jp/prefecture:33,Okayama
 ocd-division/country:jp/prefecture:33/ed:1,Okayama 1
 ocd-division/country:jp/prefecture:33/ed:2,Okayama 2
 ocd-division/country:jp/prefecture:33/ed:3,Okayama 3
 ocd-division/country:jp/prefecture:33/ed:4,Okayama 4
 ocd-division/country:jp/prefecture:33/ed:5,Okayama 5
-ocd-division/country:jp/prefecture:34,Hiroshima
 ocd-division/country:jp/prefecture:34/ed:1,Hiroshima 1
 ocd-division/country:jp/prefecture:34/ed:2,Hiroshima 2
 ocd-division/country:jp/prefecture:34/ed:3,Hiroshima 3
@@ -329,30 +238,22 @@ ocd-division/country:jp/prefecture:34/ed:4,Hiroshima 4
 ocd-division/country:jp/prefecture:34/ed:5,Hiroshima 5
 ocd-division/country:jp/prefecture:34/ed:6,Hiroshima 6
 ocd-division/country:jp/prefecture:34/ed:7,Hiroshima 7
-ocd-division/country:jp/prefecture:35,Yamaguchi
 ocd-division/country:jp/prefecture:35/ed:1,Yamaguchi 1
 ocd-division/country:jp/prefecture:35/ed:2,Yamaguchi 2
 ocd-division/country:jp/prefecture:35/ed:3,Yamaguchi 3
 ocd-division/country:jp/prefecture:35/ed:4,Yamaguchi 4
-ocd-division/country:jp/prefecture:36,Tokushima
 ocd-division/country:jp/prefecture:36/ed:1,Tokushima 1
 ocd-division/country:jp/prefecture:36/ed:2,Tokushima 2
-ocd-division/country:jp/prefecture:37,Kagawa
 ocd-division/country:jp/prefecture:37/ed:1,Kagawa 1
 ocd-division/country:jp/prefecture:37/ed:2,Kagawa 2
 ocd-division/country:jp/prefecture:37/ed:3,Kagawa 3
-ocd-division/country:jp/prefecture:38,Ehime
 ocd-division/country:jp/prefecture:38/ed:1,Ehime 1
 ocd-division/country:jp/prefecture:38/ed:2,Ehime 2
 ocd-division/country:jp/prefecture:38/ed:3,Ehime 3
 ocd-division/country:jp/prefecture:38/ed:4,Ehime 4
-ocd-division/country:jp/prefecture:39,Kōchi
 ocd-division/country:jp/prefecture:39/ed:1,Kōchi 1
 ocd-division/country:jp/prefecture:39/ed:2,Kōchi 2
-ocd-division/country:jp/prefecture:40,Fukuoka
 ocd-division/country:jp/prefecture:40/ed:1,Fukuoka 1
-ocd-division/country:jp/prefecture:40/ed:10,Fukuoka 10
-ocd-division/country:jp/prefecture:40/ed:11,Fukuoka 11
 ocd-division/country:jp/prefecture:40/ed:2,Fukuoka 2
 ocd-division/country:jp/prefecture:40/ed:3,Fukuoka 3
 ocd-division/country:jp/prefecture:40/ed:4,Fukuoka 4
@@ -361,33 +262,28 @@ ocd-division/country:jp/prefecture:40/ed:6,Fukuoka 6
 ocd-division/country:jp/prefecture:40/ed:7,Fukuoka 7
 ocd-division/country:jp/prefecture:40/ed:8,Fukuoka 8
 ocd-division/country:jp/prefecture:40/ed:9,Fukuoka 9
-ocd-division/country:jp/prefecture:41,Saga
+ocd-division/country:jp/prefecture:40/ed:10,Fukuoka 10
+ocd-division/country:jp/prefecture:40/ed:11,Fukuoka 11
 ocd-division/country:jp/prefecture:41/ed:1,Saga 1
 ocd-division/country:jp/prefecture:41/ed:2,Saga 2
-ocd-division/country:jp/prefecture:42,Nagasaki
 ocd-division/country:jp/prefecture:42/ed:1,Nagasaki 1
 ocd-division/country:jp/prefecture:42/ed:2,Nagasaki 2
 ocd-division/country:jp/prefecture:42/ed:3,Nagasaki 3
 ocd-division/country:jp/prefecture:42/ed:4,Nagasaki 4
-ocd-division/country:jp/prefecture:43,Kumamoto
 ocd-division/country:jp/prefecture:43/ed:1,Kumamoto 1
 ocd-division/country:jp/prefecture:43/ed:2,Kumamoto 2
 ocd-division/country:jp/prefecture:43/ed:3,Kumamoto 3
 ocd-division/country:jp/prefecture:43/ed:4,Kumamoto 4
-ocd-division/country:jp/prefecture:44,Ōita
 ocd-division/country:jp/prefecture:44/ed:1,Ōita 1
 ocd-division/country:jp/prefecture:44/ed:2,Ōita 2
 ocd-division/country:jp/prefecture:44/ed:3,Ōita 3
-ocd-division/country:jp/prefecture:45,Miyazaki
 ocd-division/country:jp/prefecture:45/ed:1,Miyazaki 1
 ocd-division/country:jp/prefecture:45/ed:2,Miyazaki 2
 ocd-division/country:jp/prefecture:45/ed:3,Miyazaki 3
-ocd-division/country:jp/prefecture:46,Kagoshima
 ocd-division/country:jp/prefecture:46/ed:1,Kagoshima 1
 ocd-division/country:jp/prefecture:46/ed:2,Kagoshima 2
 ocd-division/country:jp/prefecture:46/ed:3,Kagoshima 3
 ocd-division/country:jp/prefecture:46/ed:4,Kagoshima 4
-ocd-division/country:jp/prefecture:47,Okinawa
 ocd-division/country:jp/prefecture:47/ed:1,Okinawa 1
 ocd-division/country:jp/prefecture:47/ed:2,Okinawa 2
 ocd-division/country:jp/prefecture:47/ed:3,Okinawa 3
