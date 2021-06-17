@@ -9,6 +9,7 @@ ocd-division/country:in/state:ap/special:local_authority/ed:chittoor,Chittoor
 ocd-division/country:in/state:ap/special:local_authority/ed:east_godavari,East Godavari
 ocd-division/country:in/state:ap/special:local_authority/ed:guntur,Guntur
 ocd-division/country:in/state:ap/special:local_authority/ed:kadapa,Kadapa
+ocd-division/country:in/state:ap/special:local_authority/ed:krishna,Krishna
 ocd-division/country:in/state:ap/special:local_authority/ed:kurnool,Kurnool
 ocd-division/country:in/state:ap/special:local_authority/ed:nellore,Nellore
 ocd-division/country:in/state:ap/special:local_authority/ed:prakasam,Prakasam
@@ -104,6 +105,7 @@ ocd-division/country:in/state:mh/special:local_authority/ed:akola_buldhana_washi
 ocd-division/country:in/state:mh/special:local_authority/ed:amravati,Amravati
 ocd-division/country:in/state:mh/special:local_authority/ed:aurangabad_jalna,Aurangabad-Jalna
 ocd-division/country:in/state:mh/special:local_authority/ed:bhandara,Bhandara
+ocd-division/country:in/state:mh/special:local_authority/ed:bhandara-gondia,Bhandara-Gondia
 ocd-division/country:in/state:mh/special:local_authority/ed:dhule_nandurbar,Dhule-Nandurbar
 ocd-division/country:in/state:mh/special:local_authority/ed:jalgaon,Jalgaon
 ocd-division/country:in/state:mh/special:local_authority/ed:kolhapur,Kolhapur
@@ -113,11 +115,13 @@ ocd-division/country:in/state:mh/special:local_authority/ed:nanded,Nanded
 ocd-division/country:in/state:mh/special:local_authority/ed:nashik,Nashik
 ocd-division/country:in/state:mh/special:local_authority/ed:osmanabad_beed_latur,Osmanabad-Beed-Latur
 ocd-division/country:in/state:mh/special:local_authority/ed:parbhani,Parbhani
+ocd-division/country:in/state:mh/special:local_authority/ed:parbhani-hingoli,Parbhani-Hingoli
 ocd-division/country:in/state:mh/special:local_authority/ed:pune,Pune
 ocd-division/country:in/state:mh/special:local_authority/ed:raigad_ratnagiri_sindhudurg,Raigad-Ratnagiri-Sindhudurg
 ocd-division/country:in/state:mh/special:local_authority/ed:sangli_satara,Sangli-Satara
 ocd-division/country:in/state:mh/special:local_authority/ed:solapur,Solapur
 ocd-division/country:in/state:mh/special:local_authority/ed:thane,Thane
+ocd-division/country:in/state:mh/special:local_authority/ed:thane-palghar,Thane-Palghar
 ocd-division/country:in/state:mh/special:local_authority/ed:wardha_chandrpur_gadchiroli,Wardha-Chandrpur-Gadchiroli
 ocd-division/country:in/state:mh/special:local_authority/ed:yavatmal,Yavatmal
 ocd-division/country:in/state:mh/special:teacher/ed:amravati,Amravati

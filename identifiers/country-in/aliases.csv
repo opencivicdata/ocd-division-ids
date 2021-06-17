@@ -544,3 +544,6 @@ ocd-division/country:in/territory:dl/lok_sabha:south_delhi,ocd-division/country:
 ocd-division/country:in/territory:py/lok_sabha:puducherry,ocd-division/country:in/territory:py/cd:puducherry,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/lok_sabha:anglo-indian_reserved_seats_1,ocd-division/country:in/cd:anglo-indian_reserved_seats_1,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/lok_sabha:anglo-indian_reserved_seats_2,ocd-division/country:in/cd:anglo-indian_reserved_seats_2,Added for backwards compatibility with lok_sabha identifiers
+ocd-division/country:in/state:mh/special:local_authority/ed:thane,ocd-division/country:in/state:mh/special:local_authority/ed:thane-palghar,Added for backwards compatibility with vidhan_parishad identifiers
+ocd-division/country:in/state:mh/special:local_authority/ed:parbhani,ocd-division/country:in/state:mh/special:local_authority/ed:parbhani-hingoli,Added for backwards compatibility with vidhan_parishad identifiers
+ocd-division/country:in/state:mh/special:local_authority/ed:bhandara,ocd-division/country:in/state:mh/special:local_authority/ed:bhandara-gondia,Added for backwards compatibility with vidhan_parishad identifiers
