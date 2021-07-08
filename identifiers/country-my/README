@@ -1,0 +1,10 @@
+README
+
+File contents in `country-my` directory:
+*   top_level_ocdid.csv: contains country level OCD-ID
+*   federal_states_terrirories.csv: contains the list of states and federal territories in Malaysia
+*   constituencies.csv: contains the list of single member constituencies for Malaysian House of Representatives
+
+OCD ID Types used used:
+*   state : represents the states of Malaysia
+*   federal_territory : represents federal territories of Malaysia
