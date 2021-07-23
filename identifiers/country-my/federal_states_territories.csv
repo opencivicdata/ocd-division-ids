@@ -8,10 +8,10 @@ ocd-division/country:my/state:06,Pahang
 ocd-division/country:my/state:07,Pulau Pinang
 ocd-division/country:my/state:08,Perak
 ocd-division/country:my/state:09,Perlis
-ocd-division/country:my/state:12,Sabah
-ocd-division/country:my/state:13,Sarawak
 ocd-division/country:my/state:10,Selangor
 ocd-division/country:my/state:11,Terengganu
-ocd-division/country:my/federal_territory:14,Wilayah Persekutuan Kuala Lumpur
-ocd-division/country:my/federal_territory:15,Wilayah Persekutuan Labuan
-ocd-division/country:my/federal_territory:16,Wilayah Persekutuan Putrajaya
+ocd-division/country:my/state:12,Sabah
+ocd-division/country:my/state:13,Sarawak
+ocd-division/country:my/territory:14,Wilayah Persekutuan Kuala Lumpur
+ocd-division/country:my/territory:15,Wilayah Persekutuan Labuan
+ocd-division/country:my/territory:16,Wilayah Persekutuan Putrajaya
