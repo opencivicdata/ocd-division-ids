@@ -1,8 +1,8 @@
 id,name
 ocd-division/country:is,Iceland
+ocd-division/country:is/ed:northeast,Northeast
+ocd-division/country:is/ed:northwest,Northwest
 ocd-division/country:is/ed:reykjavik_north,Reykjavík North
 ocd-division/country:is/ed:reykjavik_south,Reykjavík South
-ocd-division/country:is/ed:southwest,Southwest
-ocd-division/country:is/ed:northwest,Northwest
-ocd-division/country:is/ed:northeast,Northeast
 ocd-division/country:is/ed:south,South
+ocd-division/country:is/ed:southwest,Southwest
