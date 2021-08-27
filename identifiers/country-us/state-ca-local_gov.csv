@@ -1,3 +1,4 @@
+id,name
 ocd-division/country:us/state:ca/county:alameda/council_district:1,Alameda County CA Board of Supervisors District 1
 ocd-division/country:us/state:ca/county:alameda/council_district:2,Alameda County CA Board of Supervisors District 2
 ocd-division/country:us/state:ca/county:alameda/council_district:3,Alameda County CA Board of Supervisors District 3
@@ -479,3 +480,20 @@ ocd-division/country:us/state:ca/county:los_angeles/water:san_gabriel_valley_mun
 ocd-division/country:us/state:ca/county:los_angeles/water:three_valleys_municipal,Three Valleys Municipal Water
 ocd-division/country:us/state:ca/county:los_angeles/water:upper_san_gabriel_valley_municipal,Upper San Gabriel Valley Municipal Water
 ocd-division/country:us/state:ca/county:los_angeles/water:west_basin_municipal,West Basin Municipal Water
+ocd-division/country:us/state:ca/place:santa_rosa/council_district:1,Santa Rosa CA city council district 1
+ocd-division/country:us/state:ca/place:santa_rosa/council_district:2,Santa Rosa CA city council district 2
+ocd-division/country:us/state:ca/place:santa_rosa/council_district:3,Santa Rosa CA city council district 3
+ocd-division/country:us/state:ca/place:santa_rosa/council_district:4,Santa Rosa CA city council district 4
+ocd-division/country:us/state:ca/place:santa_rosa/council_district:5,Santa Rosa CA city council district 5
+ocd-division/country:us/state:ca/place:santa_rosa/council_district:6,Santa Rosa CA city council district 6
+ocd-division/country:us/state:ca/place:santa_rosa/council_district:7,Santa Rosa CA city council district 7
+ocd-division/country:us/state:ca/place:roseville/council_district:1,Roseville CA city council district 1
+ocd-division/country:us/state:ca/place:roseville/council_district:2,Roseville CA city council district 2
+ocd-division/country:us/state:ca/place:roseville/council_district:3,Roseville CA city council district 3
+ocd-division/country:us/state:ca/place:roseville/council_district:4,Roseville CA city council district 4
+ocd-division/country:us/state:ca/place:roseville/council_district:5,Roseville CA city council district 5
+ocd-division/country:us/state:ca/place:visalia/council_district:1,Visalia CA city council district 1
+ocd-division/country:us/state:ca/place:visalia/council_district:2,Visalia CA city council district 2
+ocd-division/country:us/state:ca/place:visalia/council_district:3,Visalia CA city council district 3
+ocd-division/country:us/state:ca/place:visalia/council_district:4,Visalia CA city council district 4
+ocd-division/country:us/state:ca/place:visalia/council_district:5,Visalia CA city council district 5
