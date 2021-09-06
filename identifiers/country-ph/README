@@ -1,0 +1,8 @@
+README
+
+File contents in `country-ph` directory:
+*   top_level_ocdid.csv: contains country level OCD-ID
+*   congressional_district.csv: contains the list of congressional districts for single member constituencies of the Philippines House of Representatives
+
+OCD ID Types used used:
+*   cd : represents the congressional districts
