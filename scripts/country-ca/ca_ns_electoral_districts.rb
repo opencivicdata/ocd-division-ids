@@ -9,10 +9,10 @@ class NS < Runner
   # @see https://electionsnovascotia.ca/content/maps-and-boundary-files
   def names
     ShapefileParser.new(
-      "http://electionsnovascotia.ca/sites/default/files/NS_EDBoundaries2012.zip",
+      "https://www.electionsnovascotia.ca/sites/default/files/NS_2019ED_Bnds.zip",
       "province:ns/ed:", {
-        :id => "DIST_NO",
-        :name => "DISTRICT",
+        :id => "ED_NO",
+        :name => "ED_NAME",
       }
     ).run
   end

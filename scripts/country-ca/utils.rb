@@ -181,7 +181,7 @@ class ShapefileParser
       puts CSV.generate_line(headers)
     end
 
-    Zip::File.open(open(@url, @open_uri_parameters)) do |zipfile|
+    Zip::File.open(URI.open(@url, @open_uri_parameters)) do |zipfile|
       entry = zipfile.entries.find{|entry| File.extname(entry.name) == ".dbf"}
       if entry
         DBF::Table.new(StringIO.new(zipfile.read(entry))).select do |record|
