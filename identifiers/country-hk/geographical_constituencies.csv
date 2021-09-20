@@ -1,6 +1,14 @@
-id,name
-ocd-division/country:hk/geographical_constituency:hk_island,Hong Kong Island
-ocd-division/country:hk/geographical_constituency:kowloon_west,Kowloon West
-ocd-division/country:hk/geographical_constituency:kowloon_east,Kowloon East
-ocd-division/country:hk/geographical_constituency:new_territories_west,New Territories West
-ocd-division/country:hk/geographical_constituency:new_territories_east,New Territories East
+id,name,validFrom,validTo
+ocd-division/country:hk/geographical_constituency:hk_island,Hong Kong Island,,2021-06-01
+ocd-division/country:hk/geographical_constituency:hk_island_east,Hong Kong Island East,2021-06-01,
+ocd-division/country:hk/geographical_constituency:hk_island_west,Hong Kong Island West,2021-06-01,
+ocd-division/country:hk/geographical_constituency:kowloon_central,Kowloon Central,2021-06-01,
+ocd-division/country:hk/geographical_constituency:kowloon_east,Kowloon East,,
+ocd-division/country:hk/geographical_constituency:kowloon_west,Kowloon West,,
+ocd-division/country:hk/geographical_constituency:new_territories_east,New Territories East,,
+ocd-division/country:hk/geographical_constituency:new_territories_north,New Territories North,2021-06-01,
+ocd-division/country:hk/geographical_constituency:new_territories_north_east,New Territories North East,2021-06-01,
+ocd-division/country:hk/geographical_constituency:new_territories_north_west,New Territories North West,2021-06-01,
+ocd-division/country:hk/geographical_constituency:new_territories_south_east,New Territories South East,2021-06-01,
+ocd-division/country:hk/geographical_constituency:new_territories_south_west,New Territories South West,2021-06-01,
+ocd-division/country:hk/geographical_constituency:new_territories_west,New Territories West,,
