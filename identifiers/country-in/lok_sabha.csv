@@ -1,546 +1,548 @@
-id,name
-ocd-division/country:in/state:ap/cd:araku,Andhra Pradesh Lok Sabha constituency Araku (ST)
-ocd-division/country:in/state:ap/cd:srikakulam,Andhra Pradesh Lok Sabha constituency Srikakulam
-ocd-division/country:in/state:ap/cd:vizianagaram,Andhra Pradesh Lok Sabha constituency Vizianagaram
-ocd-division/country:in/state:ap/cd:visakhapatnam,Andhra Pradesh Lok Sabha constituency Visakhapatnam
-ocd-division/country:in/state:ap/cd:anakapalli,Andhra Pradesh Lok Sabha constituency Anakapalli
-ocd-division/country:in/state:ap/cd:kakinada,Andhra Pradesh Lok Sabha constituency Kakinada
-ocd-division/country:in/state:ap/cd:amalapuram,Andhra Pradesh Lok Sabha constituency Amalapuram (SC)
-ocd-division/country:in/state:ap/cd:rajahmundry,Andhra Pradesh Lok Sabha constituency Rajahmundry
-ocd-division/country:in/state:ap/cd:narasapuram,Andhra Pradesh Lok Sabha constituency Narasapuram
-ocd-division/country:in/state:ap/cd:eluru,Andhra Pradesh Lok Sabha constituency Eluru
-ocd-division/country:in/state:ap/cd:machilipatnam,Andhra Pradesh Lok Sabha constituency Machilipatnam
-ocd-division/country:in/state:ap/cd:vijayawada,Andhra Pradesh Lok Sabha constituency Vijayawada
-ocd-division/country:in/state:ap/cd:guntur,Andhra Pradesh Lok Sabha constituency Guntur
-ocd-division/country:in/state:ap/cd:narasaraopet,Andhra Pradesh Lok Sabha constituency Narasaraopet
-ocd-division/country:in/state:ap/cd:bapatla,Andhra Pradesh Lok Sabha constituency Bapatla (SC)
-ocd-division/country:in/state:ap/cd:ongole,Andhra Pradesh Lok Sabha constituency Ongole
-ocd-division/country:in/state:ap/cd:nandyal,Andhra Pradesh Lok Sabha constituency Nandyal
-ocd-division/country:in/state:ap/cd:kurnool,Andhra Pradesh Lok Sabha constituency Kurnool
-ocd-division/country:in/state:ap/cd:anantapur,Andhra Pradesh Lok Sabha constituency Anantapur
-ocd-division/country:in/state:ap/cd:hindupur,Andhra Pradesh Lok Sabha constituency Hindupur
-ocd-division/country:in/state:ap/cd:kadapa,Andhra Pradesh Lok Sabha constituency Kadapa
-ocd-division/country:in/state:ap/cd:nellore,Andhra Pradesh Lok Sabha constituency Nellore
-ocd-division/country:in/state:ap/cd:tirupati,Andhra Pradesh Lok Sabha constituency Tirupati (SC)
-ocd-division/country:in/state:ap/cd:rajampet,Andhra Pradesh Lok Sabha constituency Rajampet
-ocd-division/country:in/state:ap/cd:chittoor,Andhra Pradesh Lok Sabha constituency Chittoor (SC)
-ocd-division/country:in/state:ar/cd:arunachal_west,Arunachal Pradesh Lok Sabha constituency Arunachal West
-ocd-division/country:in/state:ar/cd:arunachal_east,Arunachal Pradesh Lok Sabha constituency Arunachal East
-ocd-division/country:in/state:as/cd:karimganj,Assam Lok Sabha constituency Karimganj (SC)
-ocd-division/country:in/state:as/cd:silchar,Assam Lok Sabha constituency Silchar
-ocd-division/country:in/state:as/cd:autonomous_district,Assam Lok Sabha constituency Autonomous District (ST)
-ocd-division/country:in/state:as/cd:dhubri,Assam Lok Sabha constituency Dhubri
-ocd-division/country:in/state:as/cd:kokrajhar,Assam Lok Sabha constituency Kokrajhar (ST)
-ocd-division/country:in/state:as/cd:barpeta,Assam Lok Sabha constituency Barpeta
-ocd-division/country:in/state:as/cd:gauhati,Assam Lok Sabha constituency Gauhati
-ocd-division/country:in/state:as/cd:mangaldoi,Assam Lok Sabha constituency Mangaldoi
-ocd-division/country:in/state:as/cd:tezpur,Assam Lok Sabha constituency Tezpur
-ocd-division/country:in/state:as/cd:nowgong,Assam Lok Sabha constituency Nowgong
-ocd-division/country:in/state:as/cd:kaliabor,Assam Lok Sabha constituency Kaliabor
-ocd-division/country:in/state:as/cd:jorhat,Assam Lok Sabha constituency Jorhat
-ocd-division/country:in/state:as/cd:dibrugarh,Assam Lok Sabha constituency Dibrugarh
-ocd-division/country:in/state:as/cd:lakhimpur,Assam Lok Sabha constituency Lakhimpur
-ocd-division/country:in/state:br/cd:valmiki_nagar,Bihar Lok Sabha constituency Valmiki Nagar
-ocd-division/country:in/state:br/cd:paschim_champaran,Bihar Lok Sabha constituency Paschim Champaran
-ocd-division/country:in/state:br/cd:purvi_champaran,Bihar Lok Sabha constituency Purvi Champaran
-ocd-division/country:in/state:br/cd:sheohar,Bihar Lok Sabha constituency Sheohar
-ocd-division/country:in/state:br/cd:sitamarhi,Bihar Lok Sabha constituency Sitamarhi
-ocd-division/country:in/state:br/cd:madhubani,Bihar Lok Sabha constituency Madhubani
-ocd-division/country:in/state:br/cd:jhanjharpur,Bihar Lok Sabha constituency Jhanjharpur
-ocd-division/country:in/state:br/cd:supaul,Bihar Lok Sabha constituency Supaul
-ocd-division/country:in/state:br/cd:araria,Bihar Lok Sabha constituency Araria
-ocd-division/country:in/state:br/cd:kishanganj,Bihar Lok Sabha constituency Kishanganj
-ocd-division/country:in/state:br/cd:katihar,Bihar Lok Sabha constituency Katihar
-ocd-division/country:in/state:br/cd:purnia,Bihar Lok Sabha constituency Purnia
-ocd-division/country:in/state:br/cd:madhepura,Bihar Lok Sabha constituency Madhepura
-ocd-division/country:in/state:br/cd:darbhanga,Bihar Lok Sabha constituency Darbhanga
-ocd-division/country:in/state:br/cd:muzaffarpur,Bihar Lok Sabha constituency Muzaffarpur
-ocd-division/country:in/state:br/cd:vaishali,Bihar Lok Sabha constituency Vaishali
-ocd-division/country:in/state:br/cd:gopalganj,Bihar Lok Sabha constituency Gopalganj (SC)
-ocd-division/country:in/state:br/cd:siwan,Bihar Lok Sabha constituency Siwan
-ocd-division/country:in/state:br/cd:maharajganj,Bihar Lok Sabha constituency Maharajganj
-ocd-division/country:in/state:br/cd:saran,Bihar Lok Sabha constituency Saran
-ocd-division/country:in/state:br/cd:hajipur,Bihar Lok Sabha constituency Hajipur (SC)
-ocd-division/country:in/state:br/cd:ujiarpur,Bihar Lok Sabha constituency Ujiarpur
-ocd-division/country:in/state:br/cd:samastipur,Bihar Lok Sabha constituency Samastipur (SC)
-ocd-division/country:in/state:br/cd:begusarai,Bihar Lok Sabha constituency Begusarai
-ocd-division/country:in/state:br/cd:khagaria,Bihar Lok Sabha constituency Khagaria
-ocd-division/country:in/state:br/cd:bhagalpur,Bihar Lok Sabha constituency Bhagalpur
-ocd-division/country:in/state:br/cd:banka,Bihar Lok Sabha constituency Banka
-ocd-division/country:in/state:br/cd:munger,Bihar Lok Sabha constituency Munger
-ocd-division/country:in/state:br/cd:nalanda,Bihar Lok Sabha constituency Nalanda
-ocd-division/country:in/state:br/cd:patna_sahib,Bihar Lok Sabha constituency Patna Sahib
-ocd-division/country:in/state:br/cd:pataliputra,Bihar Lok Sabha constituency Pataliputra
-ocd-division/country:in/state:br/cd:arrah,Bihar Lok Sabha constituency Arrah
-ocd-division/country:in/state:br/cd:buxar,Bihar Lok Sabha constituency Buxar
-ocd-division/country:in/state:br/cd:sasaram,Bihar Lok Sabha constituency Sasaram (SC)
-ocd-division/country:in/state:br/cd:karakat,Bihar Lok Sabha constituency Karakat
-ocd-division/country:in/state:br/cd:jahanabad,Bihar Lok Sabha constituency Jahanabad
-ocd-division/country:in/state:br/cd:aurangabad,Bihar Lok Sabha constituency Aurangabad
-ocd-division/country:in/state:br/cd:gaya,Bihar Lok Sabha constituency Gaya (SC)
-ocd-division/country:in/state:br/cd:nawada,Bihar Lok Sabha constituency Nawada
-ocd-division/country:in/state:br/cd:jamui,Bihar Lok Sabha constituency Jamui (SC)
-ocd-division/country:in/state:ct/cd:sarguja,Chhattisgarh Lok Sabha constituency Sarguja (ST)
-ocd-division/country:in/state:ct/cd:raigarh,Chhattisgarh Lok Sabha constituency Raigarh (ST)
-ocd-division/country:in/state:ct/cd:janjgir,Chhattisgarh Lok Sabha constituency Janjgir (SC)
-ocd-division/country:in/state:ct/cd:korba,Chhattisgarh Lok Sabha constituency Korba
-ocd-division/country:in/state:ct/cd:bilaspur,Chhattisgarh Lok Sabha constituency Bilaspur
-ocd-division/country:in/state:ct/cd:rajnandgaon,Chhattisgarh Lok Sabha constituency Rajnandgaon
-ocd-division/country:in/state:ct/cd:durg,Chhattisgarh Lok Sabha constituency Durg
-ocd-division/country:in/state:ct/cd:raipur,Chhattisgarh Lok Sabha constituency Raipur
-ocd-division/country:in/state:ct/cd:mahasamund,Chhattisgarh Lok Sabha constituency Mahasamund
-ocd-division/country:in/state:ct/cd:bastar,Chhattisgarh Lok Sabha constituency Bastar (ST)
-ocd-division/country:in/state:ct/cd:kanker,Chhattisgarh Lok Sabha constituency Kanker (ST)
-ocd-division/country:in/state:ga/cd:north_goa,Goa Lok Sabha constituency North Goa
-ocd-division/country:in/state:ga/cd:south_goa,Goa Lok Sabha constituency South Goa
-ocd-division/country:in/state:gj/cd:kachchh,Gujarat Lok Sabha constituency Kachchh (SC)
-ocd-division/country:in/state:gj/cd:banaskantha,Gujarat Lok Sabha constituency Banaskantha
-ocd-division/country:in/state:gj/cd:patan,Gujarat Lok Sabha constituency Patan
-ocd-division/country:in/state:gj/cd:mahesana,Gujarat Lok Sabha constituency Mahesana
-ocd-division/country:in/state:gj/cd:sabarkantha,Gujarat Lok Sabha constituency Sabarkantha
-ocd-division/country:in/state:gj/cd:gandhinagar,Gujarat Lok Sabha constituency Gandhinagar
-ocd-division/country:in/state:gj/cd:ahmedabad_east,Gujarat Lok Sabha constituency Ahmedabad East
-ocd-division/country:in/state:gj/cd:ahmedabad_west,Gujarat Lok Sabha constituency Ahmedabad West (SC)
-ocd-division/country:in/state:gj/cd:surendranagar,Gujarat Lok Sabha constituency Surendranagar
-ocd-division/country:in/state:gj/cd:rajkot,Gujarat Lok Sabha constituency Rajkot
-ocd-division/country:in/state:gj/cd:porbandar,Gujarat Lok Sabha constituency Porbandar
-ocd-division/country:in/state:gj/cd:jamnagar,Gujarat Lok Sabha constituency Jamnagar
-ocd-division/country:in/state:gj/cd:junagadh,Gujarat Lok Sabha constituency Junagadh
-ocd-division/country:in/state:gj/cd:amreli,Gujarat Lok Sabha constituency Amreli
-ocd-division/country:in/state:gj/cd:bhavnagar,Gujarat Lok Sabha constituency Bhavnagar
-ocd-division/country:in/state:gj/cd:anand,Gujarat Lok Sabha constituency Anand
-ocd-division/country:in/state:gj/cd:kheda,Gujarat Lok Sabha constituency Kheda
-ocd-division/country:in/state:gj/cd:panchmahal,Gujarat Lok Sabha constituency Panchmahal
-ocd-division/country:in/state:gj/cd:dahod,Gujarat Lok Sabha constituency Dahod (ST)
-ocd-division/country:in/state:gj/cd:vadodara,Gujarat Lok Sabha constituency Vadodara
-ocd-division/country:in/state:gj/cd:chhota_udaipur,Gujarat Lok Sabha constituency Chhota Udaipur (ST)
-ocd-division/country:in/state:gj/cd:bharuch,Gujarat Lok Sabha constituency Bharuch
-ocd-division/country:in/state:gj/cd:bardoli,Gujarat Lok Sabha constituency Bardoli (ST)
-ocd-division/country:in/state:gj/cd:surat,Gujarat Lok Sabha constituency Surat
-ocd-division/country:in/state:gj/cd:navsari,Gujarat Lok Sabha constituency Navsari
-ocd-division/country:in/state:gj/cd:valsad,Gujarat Lok Sabha constituency Valsad (ST)
-ocd-division/country:in/state:hr/cd:ambala,Haryana Lok Sabha constituency Ambala (SC)
-ocd-division/country:in/state:hr/cd:kurukshetra,Haryana Lok Sabha constituency Kurukshetra
-ocd-division/country:in/state:hr/cd:sirsa,Haryana Lok Sabha constituency Sirsa (SC)
-ocd-division/country:in/state:hr/cd:hissar,Haryana Lok Sabha constituency Hissar
-ocd-division/country:in/state:hr/cd:karnal,Haryana Lok Sabha constituency Karnal
-ocd-division/country:in/state:hr/cd:sonipat,Haryana Lok Sabha constituency Sonipat
-ocd-division/country:in/state:hr/cd:rohtak,Haryana Lok Sabha constituency Rohtak
-ocd-division/country:in/state:hr/cd:bhiwani-mahendragarh,Haryana Lok Sabha constituency Bhiwani-Mahendragarh
-ocd-division/country:in/state:hr/cd:gurgaon,Haryana Lok Sabha constituency Gurgaon
-ocd-division/country:in/state:hr/cd:faridabad,Haryana Lok Sabha constituency Faridabad
-ocd-division/country:in/state:hp/cd:kangra,Himachal Pradesh Lok Sabha constituency Kangra
-ocd-division/country:in/state:hp/cd:mandi,Himachal Pradesh Lok Sabha constituency Mandi
-ocd-division/country:in/state:hp/cd:hamirpur,Himachal Pradesh Lok Sabha constituency Hamirpur
-ocd-division/country:in/state:hp/cd:shimla,Himachal Pradesh Lok Sabha constituency Shimla (SC)
-ocd-division/country:in/state:jk/cd:baramulla,Jammu and Kashmir Lok Sabha constituency Baramulla
-ocd-division/country:in/state:jk/cd:srinagar,Jammu and Kashmir Lok Sabha constituency Srinagar
-ocd-division/country:in/state:jk/cd:anantnag,Jammu and Kashmir Lok Sabha constituency Anantnag
-ocd-division/country:in/state:jk/cd:ladakh,Jammu and Kashmir Lok Sabha constituency Ladakh
-ocd-division/country:in/state:jk/cd:udhampur,Jammu and Kashmir Lok Sabha constituency Udhampur
-ocd-division/country:in/state:jk/cd:jammu,Jammu and Kashmir Lok Sabha constituency Jammu
-ocd-division/country:in/state:jh/cd:rajmahal,Jharkhand Lok Sabha constituency Rajmahal (ST)
-ocd-division/country:in/state:jh/cd:dumka,Jharkhand Lok Sabha constituency Dumka (ST)
-ocd-division/country:in/state:jh/cd:godda,Jharkhand Lok Sabha constituency Godda
-ocd-division/country:in/state:jh/cd:chatra,Jharkhand Lok Sabha constituency Chatra
-ocd-division/country:in/state:jh/cd:kodarma,Jharkhand Lok Sabha constituency Kodarma
-ocd-division/country:in/state:jh/cd:giridih,Jharkhand Lok Sabha constituency Giridih
-ocd-division/country:in/state:jh/cd:dhanbad,Jharkhand Lok Sabha constituency Dhanbad
-ocd-division/country:in/state:jh/cd:ranchi,Jharkhand Lok Sabha constituency Ranchi
-ocd-division/country:in/state:jh/cd:jamshedpur,Jharkhand Lok Sabha constituency Jamshedpur
-ocd-division/country:in/state:jh/cd:singhbhum,Jharkhand Lok Sabha constituency Singhbhum (ST)
-ocd-division/country:in/state:jh/cd:khunti,Jharkhand Lok Sabha constituency Khunti (ST)
-ocd-division/country:in/state:jh/cd:lohardaga,Jharkhand Lok Sabha constituency Lohardaga (ST)
-ocd-division/country:in/state:jh/cd:palamau,Jharkhand Lok Sabha constituency Palamau (SC)
-ocd-division/country:in/state:jh/cd:hazaribagh,Jharkhand Lok Sabha constituency Hazaribagh
-ocd-division/country:in/state:ka/cd:chikkodi,Karnataka Lok Sabha constituency Chikkodi
-ocd-division/country:in/state:ka/cd:belagavi,Karnataka Lok Sabha constituency Belagavi
-ocd-division/country:in/state:ka/cd:bagalkot,Karnataka Lok Sabha constituency Bagalkot
-ocd-division/country:in/state:ka/cd:bijapur,Karnataka Lok Sabha constituency Bijapur (SC)
-ocd-division/country:in/state:ka/cd:kalaburagi,Karnataka Lok Sabha constituency Kalaburagi (SC)
-ocd-division/country:in/state:ka/cd:raichur,Karnataka Lok Sabha constituency Raichur (ST)
-ocd-division/country:in/state:ka/cd:bidar,Karnataka Lok Sabha constituency Bidar
-ocd-division/country:in/state:ka/cd:koppal,Karnataka Lok Sabha constituency Koppal
-ocd-division/country:in/state:ka/cd:bellary,Karnataka Lok Sabha constituency Bellary (ST)
-ocd-division/country:in/state:ka/cd:haveri,Karnataka Lok Sabha constituency Haveri
-ocd-division/country:in/state:ka/cd:dharwad,Karnataka Lok Sabha constituency Dharwad
-ocd-division/country:in/state:ka/cd:uttara_kannada,Karnataka Lok Sabha constituency Uttara Kannada
-ocd-division/country:in/state:ka/cd:davanagere,Karnataka Lok Sabha constituency Davanagere
-ocd-division/country:in/state:ka/cd:shimoga,Karnataka Lok Sabha constituency Shimoga
-ocd-division/country:in/state:ka/cd:udupi_chikmagalur,Karnataka Lok Sabha constituency Udupi Chikmagalur
-ocd-division/country:in/state:ka/cd:hassan,Karnataka Lok Sabha constituency Hassan
-ocd-division/country:in/state:ka/cd:dakshina_kannada,Karnataka Lok Sabha constituency Dakshina Kannada
-ocd-division/country:in/state:ka/cd:chitradurga,Karnataka Lok Sabha constituency Chitradurga (SC)
-ocd-division/country:in/state:ka/cd:tumkur,Karnataka Lok Sabha constituency Tumkur
-ocd-division/country:in/state:ka/cd:mandya,Karnataka Lok Sabha constituency Mandya
-ocd-division/country:in/state:ka/cd:mysore,Karnataka Lok Sabha constituency Mysore
-ocd-division/country:in/state:ka/cd:chamarajanagar,Karnataka Lok Sabha constituency Chamarajanagar (SC)
-ocd-division/country:in/state:ka/cd:bangalore_rural,Karnataka Lok Sabha constituency Bangalore Rural
-ocd-division/country:in/state:ka/cd:bangalore_north,Karnataka Lok Sabha constituency Bangalore North
-ocd-division/country:in/state:ka/cd:bangalore_central,Karnataka Lok Sabha constituency Bangalore Central
-ocd-division/country:in/state:ka/cd:bangalore_south,Karnataka Lok Sabha constituency Bangalore South
-ocd-division/country:in/state:ka/cd:chikballapur,Karnataka Lok Sabha constituency Chikballapur
-ocd-division/country:in/state:ka/cd:kolar,Karnataka Lok Sabha constituency Kolar (SC)
-ocd-division/country:in/state:kl/cd:kasaragod,Kerala Lok Sabha constituency Kasaragod
-ocd-division/country:in/state:kl/cd:kannur,Kerala Lok Sabha constituency Kannur
-ocd-division/country:in/state:kl/cd:vatakara,Kerala Lok Sabha constituency Vatakara
-ocd-division/country:in/state:kl/cd:wayanad,Kerala Lok Sabha constituency Wayanad
-ocd-division/country:in/state:kl/cd:kozhikode,Kerala Lok Sabha constituency Kozhikode
-ocd-division/country:in/state:kl/cd:malappuram,Kerala Lok Sabha constituency Malappuram
-ocd-division/country:in/state:kl/cd:ponnani,Kerala Lok Sabha constituency Ponnani
-ocd-division/country:in/state:kl/cd:palakkad,Kerala Lok Sabha constituency Palakkad
-ocd-division/country:in/state:kl/cd:alathur,Kerala Lok Sabha constituency Alathur (SC)
-ocd-division/country:in/state:kl/cd:thrissur,Kerala Lok Sabha constituency Thrissur
-ocd-division/country:in/state:kl/cd:chalakudy,Kerala Lok Sabha constituency Chalakudy
-ocd-division/country:in/state:kl/cd:ernakulam,Kerala Lok Sabha constituency Ernakulam
-ocd-division/country:in/state:kl/cd:idukki,Kerala Lok Sabha constituency Idukki
-ocd-division/country:in/state:kl/cd:kottayam,Kerala Lok Sabha constituency Kottayam
-ocd-division/country:in/state:kl/cd:alappuzha,Kerala Lok Sabha constituency Alappuzha
-ocd-division/country:in/state:kl/cd:mavelikara,Kerala Lok Sabha constituency Mavelikara (SC)
-ocd-division/country:in/state:kl/cd:pathanamthitta,Kerala Lok Sabha constituency Pathanamthitta
-ocd-division/country:in/state:kl/cd:kollam,Kerala Lok Sabha constituency Kollam
-ocd-division/country:in/state:kl/cd:attingal,Kerala Lok Sabha constituency Attingal
-ocd-division/country:in/state:kl/cd:thiruvananthapuram,Kerala Lok Sabha constituency Thiruvananthapuram
-ocd-division/country:in/state:mp/cd:morena,Madhya Pradesh Lok Sabha constituency Morena
-ocd-division/country:in/state:mp/cd:bhind,Madhya Pradesh Lok Sabha constituency Bhind (SC)
-ocd-division/country:in/state:mp/cd:gwalior,Madhya Pradesh Lok Sabha constituency Gwalior
-ocd-division/country:in/state:mp/cd:guna,Madhya Pradesh Lok Sabha constituency Guna
-ocd-division/country:in/state:mp/cd:sagar,Madhya Pradesh Lok Sabha constituency Sagar
-ocd-division/country:in/state:mp/cd:tikamgarh,Madhya Pradesh Lok Sabha constituency Tikamgarh (SC)
-ocd-division/country:in/state:mp/cd:damoh,Madhya Pradesh Lok Sabha constituency Damoh
-ocd-division/country:in/state:mp/cd:khajuraho,Madhya Pradesh Lok Sabha constituency Khajuraho
-ocd-division/country:in/state:mp/cd:satna,Madhya Pradesh Lok Sabha constituency Satna
-ocd-division/country:in/state:mp/cd:rewa,Madhya Pradesh Lok Sabha constituency Rewa
-ocd-division/country:in/state:mp/cd:sidhi,Madhya Pradesh Lok Sabha constituency Sidhi
-ocd-division/country:in/state:mp/cd:shahdol,Madhya Pradesh Lok Sabha constituency Shahdol (ST)
-ocd-division/country:in/state:mp/cd:jabalpur,Madhya Pradesh Lok Sabha constituency Jabalpur
-ocd-division/country:in/state:mp/cd:mandla,Madhya Pradesh Lok Sabha constituency Mandla (ST)
-ocd-division/country:in/state:mp/cd:balaghat,Madhya Pradesh Lok Sabha constituency Balaghat
-ocd-division/country:in/state:mp/cd:chhindwara,Madhya Pradesh Lok Sabha constituency Chhindwara
-ocd-division/country:in/state:mp/cd:hoshangabad,Madhya Pradesh Lok Sabha constituency Hoshangabad
-ocd-division/country:in/state:mp/cd:vidisha,Madhya Pradesh Lok Sabha constituency Vidisha
-ocd-division/country:in/state:mp/cd:bhopal,Madhya Pradesh Lok Sabha constituency Bhopal
-ocd-division/country:in/state:mp/cd:rajgarh,Madhya Pradesh Lok Sabha constituency Rajgarh
-ocd-division/country:in/state:mp/cd:dewas,Madhya Pradesh Lok Sabha constituency Dewas (SC)
-ocd-division/country:in/state:mp/cd:ujjain,Madhya Pradesh Lok Sabha constituency Ujjain (SC)
-ocd-division/country:in/state:mp/cd:mandsaur,Madhya Pradesh Lok Sabha constituency Mandsaur
-ocd-division/country:in/state:mp/cd:ratlam,Madhya Pradesh Lok Sabha constituency Ratlam (ST)
-ocd-division/country:in/state:mp/cd:dhar,Madhya Pradesh Lok Sabha constituency Dhar (ST)
-ocd-division/country:in/state:mp/cd:indore,Madhya Pradesh Lok Sabha constituency Indore
-ocd-division/country:in/state:mp/cd:khargone,Madhya Pradesh Lok Sabha constituency Khargone (ST)
-ocd-division/country:in/state:mp/cd:khandwa,Madhya Pradesh Lok Sabha constituency Khandwa
-ocd-division/country:in/state:mp/cd:betul,Madhya Pradesh Lok Sabha constituency Betul (ST)
-ocd-division/country:in/state:mh/cd:nandurbar,Maharashtra Lok Sabha constituency Nandurbar (ST)
-ocd-division/country:in/state:mh/cd:dhule,Maharashtra Lok Sabha constituency Dhule
-ocd-division/country:in/state:mh/cd:jalgaon,Maharashtra Lok Sabha constituency Jalgaon
-ocd-division/country:in/state:mh/cd:raver,Maharashtra Lok Sabha constituency Raver
-ocd-division/country:in/state:mh/cd:buldhana,Maharashtra Lok Sabha constituency Buldhana
-ocd-division/country:in/state:mh/cd:akola,Maharashtra Lok Sabha constituency Akola
-ocd-division/country:in/state:mh/cd:amravati,Maharashtra Lok Sabha constituency Amravati (SC)
-ocd-division/country:in/state:mh/cd:wardha,Maharashtra Lok Sabha constituency Wardha
-ocd-division/country:in/state:mh/cd:ramtek,Maharashtra Lok Sabha constituency Ramtek (SC)
-ocd-division/country:in/state:mh/cd:nagpur,Maharashtra Lok Sabha constituency Nagpur
-ocd-division/country:in/state:mh/cd:bhandara-gondiya,Maharashtra Lok Sabha constituency Bhandara-Gondiya
-ocd-division/country:in/state:mh/cd:gadchiroli-chimur,Maharashtra Lok Sabha constituency Gadchiroli-Chimur (ST)
-ocd-division/country:in/state:mh/cd:chandrapur,Maharashtra Lok Sabha constituency Chandrapur
-ocd-division/country:in/state:mh/cd:yavatmal-washim,Maharashtra Lok Sabha constituency Yavatmal-Washim
-ocd-division/country:in/state:mh/cd:hingoli,Maharashtra Lok Sabha constituency Hingoli
-ocd-division/country:in/state:mh/cd:nanded,Maharashtra Lok Sabha constituency Nanded
-ocd-division/country:in/state:mh/cd:parbhani,Maharashtra Lok Sabha constituency Parbhani
-ocd-division/country:in/state:mh/cd:jalna,Maharashtra Lok Sabha constituency Jalna
-ocd-division/country:in/state:mh/cd:aurangabad,Maharashtra Lok Sabha constituency Aurangabad
-ocd-division/country:in/state:mh/cd:dindori,Maharashtra Lok Sabha constituency Dindori (ST)
-ocd-division/country:in/state:mh/cd:nashik,Maharashtra Lok Sabha constituency Nashik
-ocd-division/country:in/state:mh/cd:palghar,Maharashtra Lok Sabha constituency Palghar (ST)
-ocd-division/country:in/state:mh/cd:bhiwandi,Maharashtra Lok Sabha constituency Bhiwandi
-ocd-division/country:in/state:mh/cd:kalyan,Maharashtra Lok Sabha constituency Kalyan
-ocd-division/country:in/state:mh/cd:thane,Maharashtra Lok Sabha constituency Thane
-ocd-division/country:in/state:mh/cd:mumbai_north,Maharashtra Lok Sabha constituency Mumbai North
-ocd-division/country:in/state:mh/cd:mumbai_north_west,Maharashtra Lok Sabha constituency Mumbai North West
-ocd-division/country:in/state:mh/cd:mumbai_north_east,Maharashtra Lok Sabha constituency Mumbai North East
-ocd-division/country:in/state:mh/cd:mumbai_north_central,Maharashtra Lok Sabha constituency Mumbai North Central
-ocd-division/country:in/state:mh/cd:mumbai_south_central,Maharashtra Lok Sabha constituency Mumbai South Central
-ocd-division/country:in/state:mh/cd:mumbai_south,Maharashtra Lok Sabha constituency Mumbai South
-ocd-division/country:in/state:mh/cd:raigad,Maharashtra Lok Sabha constituency Raigad
-ocd-division/country:in/state:mh/cd:maval,Maharashtra Lok Sabha constituency Maval
-ocd-division/country:in/state:mh/cd:pune,Maharashtra Lok Sabha constituency Pune
-ocd-division/country:in/state:mh/cd:baramati,Maharashtra Lok Sabha constituency Baramati
-ocd-division/country:in/state:mh/cd:shirur,Maharashtra Lok Sabha constituency Shirur
-ocd-division/country:in/state:mh/cd:ahmednagar,Maharashtra Lok Sabha constituency Ahmednagar
-ocd-division/country:in/state:mh/cd:shirdi,Maharashtra Lok Sabha constituency Shirdi (SC)
-ocd-division/country:in/state:mh/cd:beed,Maharashtra Lok Sabha constituency Beed
-ocd-division/country:in/state:mh/cd:osmanabad,Maharashtra Lok Sabha constituency Osmanabad
-ocd-division/country:in/state:mh/cd:latur,Maharashtra Lok Sabha constituency Latur (SC)
-ocd-division/country:in/state:mh/cd:solapur,Maharashtra Lok Sabha constituency Solapur (SC)
-ocd-division/country:in/state:mh/cd:madha,Maharashtra Lok Sabha constituency Madha
-ocd-division/country:in/state:mh/cd:sangli,Maharashtra Lok Sabha constituency Sangli
-ocd-division/country:in/state:mh/cd:satara,Maharashtra Lok Sabha constituency Satara
-ocd-division/country:in/state:mh/cd:ratnagiri-sindhudurg,Maharashtra Lok Sabha constituency Ratnagiri-Sindhudurg
-ocd-division/country:in/state:mh/cd:kolhapur,Maharashtra Lok Sabha constituency Kolhapur
-ocd-division/country:in/state:mh/cd:hatkanangle,Maharashtra Lok Sabha constituency Hatkanangle
-ocd-division/country:in/state:mn/cd:inner_manipur,Manipur Lok Sabha constituency Inner Manipur
-ocd-division/country:in/state:mn/cd:outer_manipur,Manipur Lok Sabha constituency Outer Manipur (ST)
-ocd-division/country:in/state:ml/cd:shillong,Meghalaya Lok Sabha constituency Shillong (ST)
-ocd-division/country:in/state:ml/cd:tura,Meghalaya Lok Sabha constituency Tura (ST)
-ocd-division/country:in/state:mz/cd:mizoram,Mizoram Lok Sabha constituency Mizoram (ST)
-ocd-division/country:in/state:nl/cd:nagaland,Nagaland Lok Sabha constituency Nagaland
-ocd-division/country:in/state:or/cd:bargarh,Odisha Lok Sabha constituency Bargarh
-ocd-division/country:in/state:or/cd:sundargarh,Odisha Lok Sabha constituency Sundargarh (ST)
-ocd-division/country:in/state:or/cd:sambalpur,Odisha Lok Sabha constituency Sambalpur
-ocd-division/country:in/state:or/cd:keonjhar,Odisha Lok Sabha constituency Keonjhar (ST)
-ocd-division/country:in/state:or/cd:mayurbhanj,Odisha Lok Sabha constituency Mayurbhanj (ST)
-ocd-division/country:in/state:or/cd:balasore,Odisha Lok Sabha constituency Balasore
-ocd-division/country:in/state:or/cd:bhadrak,Odisha Lok Sabha constituency Bhadrak (SC)
-ocd-division/country:in/state:or/cd:jajpur,Odisha Lok Sabha constituency Jajpur (SC)
-ocd-division/country:in/state:or/cd:dhenkanal,Odisha Lok Sabha constituency Dhenkanal
-ocd-division/country:in/state:or/cd:bolangir,Odisha Lok Sabha constituency Bolangir
-ocd-division/country:in/state:or/cd:kalahandi,Odisha Lok Sabha constituency Kalahandi
-ocd-division/country:in/state:or/cd:nabarangpur,Odisha Lok Sabha constituency Nabarangpur (ST)
-ocd-division/country:in/state:or/cd:kandhamal,Odisha Lok Sabha constituency Kandhamal
-ocd-division/country:in/state:or/cd:cuttack,Odisha Lok Sabha constituency Cuttack
-ocd-division/country:in/state:or/cd:kendrapara,Odisha Lok Sabha constituency Kendrapara
-ocd-division/country:in/state:or/cd:jagatsinghpur,Odisha Lok Sabha constituency Jagatsinghpur (SC)
-ocd-division/country:in/state:or/cd:puri,Odisha Lok Sabha constituency Puri
-ocd-division/country:in/state:or/cd:bhubaneswar,Odisha Lok Sabha constituency Bhubaneswar
-ocd-division/country:in/state:or/cd:aska,Odisha Lok Sabha constituency Aska
-ocd-division/country:in/state:or/cd:berhampur,Odisha Lok Sabha constituency Berhampur
-ocd-division/country:in/state:or/cd:koraput,Odisha Lok Sabha constituency Koraput (ST)
-ocd-division/country:in/state:pb/cd:gurdaspur,Punjab Lok Sabha constituency Gurdaspur
-ocd-division/country:in/state:pb/cd:amritsar,Punjab Lok Sabha constituency Amritsar
-ocd-division/country:in/state:pb/cd:khadoor_sahib,Punjab Lok Sabha constituency Khadoor Sahib
-ocd-division/country:in/state:pb/cd:jalandhar,Punjab Lok Sabha constituency Jalandhar (SC)
-ocd-division/country:in/state:pb/cd:hoshiarpur,Punjab Lok Sabha constituency Hoshiarpur (SC)
-ocd-division/country:in/state:pb/cd:anandpur_sahib,Punjab Lok Sabha constituency Anandpur Sahib
-ocd-division/country:in/state:pb/cd:ludhiana,Punjab Lok Sabha constituency Ludhiana
-ocd-division/country:in/state:pb/cd:fatehgarh_sahib,Punjab Lok Sabha constituency Fatehgarh Sahib (SC)
-ocd-division/country:in/state:pb/cd:faridkot,Punjab Lok Sabha constituency Faridkot (SC)
-ocd-division/country:in/state:pb/cd:firozpur,Punjab Lok Sabha constituency Firozpur
-ocd-division/country:in/state:pb/cd:bathinda,Punjab Lok Sabha constituency Bathinda
-ocd-division/country:in/state:pb/cd:sangrur,Punjab Lok Sabha constituency Sangrur
-ocd-division/country:in/state:pb/cd:patiala,Punjab Lok Sabha constituency Patiala
-ocd-division/country:in/state:rj/cd:ganganagar,Rajasthan Lok Sabha constituency Ganganagar (SC)
-ocd-division/country:in/state:rj/cd:bikaner,Rajasthan Lok Sabha constituency Bikaner (SC)
-ocd-division/country:in/state:rj/cd:churu,Rajasthan Lok Sabha constituency Churu
-ocd-division/country:in/state:rj/cd:jhunjhunu,Rajasthan Lok Sabha constituency Jhunjhunu
-ocd-division/country:in/state:rj/cd:sikar,Rajasthan Lok Sabha constituency Sikar
-ocd-division/country:in/state:rj/cd:jaipur_rural,Rajasthan Lok Sabha constituency Jaipur Rural
-ocd-division/country:in/state:rj/cd:jaipur,Rajasthan Lok Sabha constituency Jaipur
-ocd-division/country:in/state:rj/cd:alwar,Rajasthan Lok Sabha constituency Alwar
-ocd-division/country:in/state:rj/cd:bharatpur,Rajasthan Lok Sabha constituency Bharatpur (SC)
-ocd-division/country:in/state:rj/cd:karauli-dholpur,Rajasthan Lok Sabha constituency Karauli-Dholpur (SC)
-ocd-division/country:in/state:rj/cd:dausa,Rajasthan Lok Sabha constituency Dausa (ST)
-ocd-division/country:in/state:rj/cd:tonk-sawai_madhopur,Rajasthan Lok Sabha constituency Tonk-Sawai Madhopur
-ocd-division/country:in/state:rj/cd:ajmer,Rajasthan Lok Sabha constituency Ajmer
-ocd-division/country:in/state:rj/cd:nagaur,Rajasthan Lok Sabha constituency Nagaur
-ocd-division/country:in/state:rj/cd:pali,Rajasthan Lok Sabha constituency Pali
-ocd-division/country:in/state:rj/cd:jodhpur,Rajasthan Lok Sabha constituency Jodhpur
-ocd-division/country:in/state:rj/cd:barmer,Rajasthan Lok Sabha constituency Barmer
-ocd-division/country:in/state:rj/cd:jalore,Rajasthan Lok Sabha constituency Jalore
-ocd-division/country:in/state:rj/cd:udaipur,Rajasthan Lok Sabha constituency Udaipur (ST)
-ocd-division/country:in/state:rj/cd:banswara,Rajasthan Lok Sabha constituency Banswara (ST)
-ocd-division/country:in/state:rj/cd:chittorgarh,Rajasthan Lok Sabha constituency Chittorgarh
-ocd-division/country:in/state:rj/cd:rajsamand,Rajasthan Lok Sabha constituency Rajsamand
-ocd-division/country:in/state:rj/cd:bhilwara,Rajasthan Lok Sabha constituency Bhilwara
-ocd-division/country:in/state:rj/cd:kota,Rajasthan Lok Sabha constituency Kota
-ocd-division/country:in/state:rj/cd:jhalawar-baran,Rajasthan Lok Sabha constituency Jhalawar-Baran
-ocd-division/country:in/state:sk/cd:sikkim,Sikkim Lok Sabha constituency Sikkim
-ocd-division/country:in/state:tn/cd:thiruvallur,Tamil Nadu Lok Sabha constituency Thiruvallur (SC)
-ocd-division/country:in/state:tn/cd:chennai_north,Tamil Nadu Lok Sabha constituency Chennai North
-ocd-division/country:in/state:tn/cd:chennai_south,Tamil Nadu Lok Sabha constituency Chennai South
-ocd-division/country:in/state:tn/cd:chennai_central,Tamil Nadu Lok Sabha constituency Chennai Central
-ocd-division/country:in/state:tn/cd:sriperumbudur,Tamil Nadu Lok Sabha constituency Sriperumbudur
-ocd-division/country:in/state:tn/cd:kancheepuram,Tamil Nadu Lok Sabha constituency Kancheepuram (SC)
-ocd-division/country:in/state:tn/cd:arakkonam,Tamil Nadu Lok Sabha constituency Arakkonam
-ocd-division/country:in/state:tn/cd:vellore,Tamil Nadu Lok Sabha constituency Vellore
-ocd-division/country:in/state:tn/cd:krishnagiri,Tamil Nadu Lok Sabha constituency Krishnagiri
-ocd-division/country:in/state:tn/cd:dharmapuri,Tamil Nadu Lok Sabha constituency Dharmapuri
-ocd-division/country:in/state:tn/cd:tiruvannamalai,Tamil Nadu Lok Sabha constituency Tiruvannamalai
-ocd-division/country:in/state:tn/cd:arani,Tamil Nadu Lok Sabha constituency Arani
-ocd-division/country:in/state:tn/cd:villupuram,Tamil Nadu Lok Sabha constituency Villupuram (SC)
-ocd-division/country:in/state:tn/cd:kallakurichi,Tamil Nadu Lok Sabha constituency Kallakurichi
-ocd-division/country:in/state:tn/cd:salem,Tamil Nadu Lok Sabha constituency Salem
-ocd-division/country:in/state:tn/cd:namakkal,Tamil Nadu Lok Sabha constituency Namakkal
-ocd-division/country:in/state:tn/cd:erode,Tamil Nadu Lok Sabha constituency Erode
-ocd-division/country:in/state:tn/cd:tiruppur,Tamil Nadu Lok Sabha constituency Tiruppur
-ocd-division/country:in/state:tn/cd:nilgiris,Tamil Nadu Lok Sabha constituency Nilgiris (SC)
-ocd-division/country:in/state:tn/cd:coimbatore,Tamil Nadu Lok Sabha constituency Coimbatore
-ocd-division/country:in/state:tn/cd:pollachi,Tamil Nadu Lok Sabha constituency Pollachi
-ocd-division/country:in/state:tn/cd:dindigul,Tamil Nadu Lok Sabha constituency Dindigul
-ocd-division/country:in/state:tn/cd:karur,Tamil Nadu Lok Sabha constituency Karur
-ocd-division/country:in/state:tn/cd:tiruchirappalli,Tamil Nadu Lok Sabha constituency Tiruchirappalli
-ocd-division/country:in/state:tn/cd:perambalur,Tamil Nadu Lok Sabha constituency Perambalur
-ocd-division/country:in/state:tn/cd:cuddalore,Tamil Nadu Lok Sabha constituency Cuddalore
-ocd-division/country:in/state:tn/cd:chidambaram,Tamil Nadu Lok Sabha constituency Chidambaram (SC)
-ocd-division/country:in/state:tn/cd:mayiladuturai,Tamil Nadu Lok Sabha constituency Mayiladuturai
-ocd-division/country:in/state:tn/cd:nagapattinam,Tamil Nadu Lok Sabha constituency Nagapattinam (SC)
-ocd-division/country:in/state:tn/cd:thanjavur,Tamil Nadu Lok Sabha constituency Thanjavur
-ocd-division/country:in/state:tn/cd:sivaganga,Tamil Nadu Lok Sabha constituency Sivaganga
-ocd-division/country:in/state:tn/cd:madurai,Tamil Nadu Lok Sabha constituency Madurai
-ocd-division/country:in/state:tn/cd:theni,Tamil Nadu Lok Sabha constituency Theni
-ocd-division/country:in/state:tn/cd:virudhunagar,Tamil Nadu Lok Sabha constituency Virudhunagar
-ocd-division/country:in/state:tn/cd:ramanathapuram,Tamil Nadu Lok Sabha constituency Ramanathapuram
-ocd-division/country:in/state:tn/cd:thoothukudi,Tamil Nadu Lok Sabha constituency Thoothukudi
-ocd-division/country:in/state:tn/cd:tenkasi,Tamil Nadu Lok Sabha constituency Tenkasi (SC)
-ocd-division/country:in/state:tn/cd:tirunelveli,Tamil Nadu Lok Sabha constituency Tirunelveli
-ocd-division/country:in/state:tn/cd:kanyakumari,Tamil Nadu Lok Sabha constituency Kanyakumari
-ocd-division/country:in/state:tg/cd:adilabad,Telangana Lok Sabha constituency Adilabad (ST)
-ocd-division/country:in/state:tg/cd:peddapalle,Telangana Lok Sabha constituency Peddapalle (SC)
-ocd-division/country:in/state:tg/cd:karimnagar,Telangana Lok Sabha constituency Karimnagar
-ocd-division/country:in/state:tg/cd:nizamabad,Telangana Lok Sabha constituency Nizamabad
-ocd-division/country:in/state:tg/cd:zahirabad,Telangana Lok Sabha constituency Zahirabad
-ocd-division/country:in/state:tg/cd:medak,Telangana Lok Sabha constituency Medak
-ocd-division/country:in/state:tg/cd:malkajgiri,Telangana Lok Sabha constituency Malkajgiri
-ocd-division/country:in/state:tg/cd:secunderabad,Telangana Lok Sabha constituency Secunderabad
-ocd-division/country:in/state:tg/cd:hyderabad,Telangana Lok Sabha constituency Hyderabad
-ocd-division/country:in/state:tg/cd:chevella,Telangana Lok Sabha constituency Chevella
-ocd-division/country:in/state:tg/cd:mahbubnagar,Telangana Lok Sabha constituency Mahbubnagar
-ocd-division/country:in/state:tg/cd:nagarkurnool,Telangana Lok Sabha constituency Nagarkurnool (SC)
-ocd-division/country:in/state:tg/cd:nalgonda,Telangana Lok Sabha constituency Nalgonda
-ocd-division/country:in/state:tg/cd:bhongir,Telangana Lok Sabha constituency Bhongir
-ocd-division/country:in/state:tg/cd:warangal,Telangana Lok Sabha constituency Warangal (SC)
-ocd-division/country:in/state:tg/cd:mahabubabad,Telangana Lok Sabha constituency Mahabubabad (ST)
-ocd-division/country:in/state:tg/cd:khammam,Telangana Lok Sabha constituency Khammam
-ocd-division/country:in/state:tr/cd:tripura_west,Tripura Lok Sabha constituency Tripura West
-ocd-division/country:in/state:tr/cd:tripura_east,Tripura Lok Sabha constituency Tripura East (ST)
-ocd-division/country:in/state:up/cd:saharanpur,Uttar Pradesh Lok Sabha constituency Saharanpur
-ocd-division/country:in/state:up/cd:kairana,Uttar Pradesh Lok Sabha constituency Kairana
-ocd-division/country:in/state:up/cd:muzaffarnagar,Uttar Pradesh Lok Sabha constituency Muzaffarnagar
-ocd-division/country:in/state:up/cd:bijnor,Uttar Pradesh Lok Sabha constituency Bijnor
-ocd-division/country:in/state:up/cd:nagina,Uttar Pradesh Lok Sabha constituency Nagina (SC)
-ocd-division/country:in/state:up/cd:moradabad,Uttar Pradesh Lok Sabha constituency Moradabad
-ocd-division/country:in/state:up/cd:rampur,Uttar Pradesh Lok Sabha constituency Rampur
-ocd-division/country:in/state:up/cd:sambhal,Uttar Pradesh Lok Sabha constituency Sambhal
-ocd-division/country:in/state:up/cd:amroha,Uttar Pradesh Lok Sabha constituency Amroha
-ocd-division/country:in/state:up/cd:meerut,Uttar Pradesh Lok Sabha constituency Meerut
-ocd-division/country:in/state:up/cd:baghpat,Uttar Pradesh Lok Sabha constituency Baghpat
-ocd-division/country:in/state:up/cd:ghaziabad,Uttar Pradesh Lok Sabha constituency Ghaziabad
-ocd-division/country:in/state:up/cd:gautam_buddha_nagar,Uttar Pradesh Lok Sabha constituency Gautam Buddha Nagar
-ocd-division/country:in/state:up/cd:bulandshahr,Uttar Pradesh Lok Sabha constituency Bulandshahr (SC)
-ocd-division/country:in/state:up/cd:aligarh,Uttar Pradesh Lok Sabha constituency Aligarh
-ocd-division/country:in/state:up/cd:hathras,Uttar Pradesh Lok Sabha constituency Hathras (SC)
-ocd-division/country:in/state:up/cd:mathura,Uttar Pradesh Lok Sabha constituency Mathura
-ocd-division/country:in/state:up/cd:agra,Uttar Pradesh Lok Sabha constituency Agra (SC)
-ocd-division/country:in/state:up/cd:fatehpur_sikri,Uttar Pradesh Lok Sabha constituency Fatehpur Sikri
-ocd-division/country:in/state:up/cd:firozabad,Uttar Pradesh Lok Sabha constituency Firozabad
-ocd-division/country:in/state:up/cd:mainpuri,Uttar Pradesh Lok Sabha constituency Mainpuri
-ocd-division/country:in/state:up/cd:etah,Uttar Pradesh Lok Sabha constituency Etah
-ocd-division/country:in/state:up/cd:badaun,Uttar Pradesh Lok Sabha constituency Badaun
-ocd-division/country:in/state:up/cd:aonla,Uttar Pradesh Lok Sabha constituency Aonla
-ocd-division/country:in/state:up/cd:bareilly,Uttar Pradesh Lok Sabha constituency Bareilly
-ocd-division/country:in/state:up/cd:pilibhit,Uttar Pradesh Lok Sabha constituency Pilibhit
-ocd-division/country:in/state:up/cd:shahjahanpur,Uttar Pradesh Lok Sabha constituency Shahjahanpur (SC)
-ocd-division/country:in/state:up/cd:kheri,Uttar Pradesh Lok Sabha constituency Kheri
-ocd-division/country:in/state:up/cd:dhaurahra,Uttar Pradesh Lok Sabha constituency Dhaurahra
-ocd-division/country:in/state:up/cd:sitapur,Uttar Pradesh Lok Sabha constituency Sitapur
-ocd-division/country:in/state:up/cd:hardoi,Uttar Pradesh Lok Sabha constituency Hardoi (SC)
-ocd-division/country:in/state:up/cd:misrikh,Uttar Pradesh Lok Sabha constituency Misrikh (SC)
-ocd-division/country:in/state:up/cd:unnao,Uttar Pradesh Lok Sabha constituency Unnao
-ocd-division/country:in/state:up/cd:mohanlalganj,Uttar Pradesh Lok Sabha constituency Mohanlalganj (SC)
-ocd-division/country:in/state:up/cd:lucknow,Uttar Pradesh Lok Sabha constituency Lucknow
-ocd-division/country:in/state:up/cd:rae_bareli,Uttar Pradesh Lok Sabha constituency Rae Bareli
-ocd-division/country:in/state:up/cd:amethi,Uttar Pradesh Lok Sabha constituency Amethi
-ocd-division/country:in/state:up/cd:sultanpur,Uttar Pradesh Lok Sabha constituency Sultanpur
-ocd-division/country:in/state:up/cd:pratapgarh,Uttar Pradesh Lok Sabha constituency Pratapgarh
-ocd-division/country:in/state:up/cd:farrukhabad,Uttar Pradesh Lok Sabha constituency Farrukhabad
-ocd-division/country:in/state:up/cd:etawah,Uttar Pradesh Lok Sabha constituency Etawah (SC)
-ocd-division/country:in/state:up/cd:kannauj,Uttar Pradesh Lok Sabha constituency Kannauj
-ocd-division/country:in/state:up/cd:kanpur_urban,Uttar Pradesh Lok Sabha constituency Kanpur Urban
-ocd-division/country:in/state:up/cd:akbarpur,Uttar Pradesh Lok Sabha constituency Akbarpur
-ocd-division/country:in/state:up/cd:jalaun,Uttar Pradesh Lok Sabha constituency Jalaun (SC)
-ocd-division/country:in/state:up/cd:jhansi,Uttar Pradesh Lok Sabha constituency Jhansi
-ocd-division/country:in/state:up/cd:hamirpur,Uttar Pradesh Lok Sabha constituency Hamirpur
-ocd-division/country:in/state:up/cd:banda,Uttar Pradesh Lok Sabha constituency Banda
-ocd-division/country:in/state:up/cd:fatehpur,Uttar Pradesh Lok Sabha constituency Fatehpur
-ocd-division/country:in/state:up/cd:kaushambi,Uttar Pradesh Lok Sabha constituency Kaushambi (SC)
-ocd-division/country:in/state:up/cd:phulpur,Uttar Pradesh Lok Sabha constituency Phulpur
-ocd-division/country:in/state:up/cd:allahabad,Uttar Pradesh Lok Sabha constituency Allahabad
-ocd-division/country:in/state:up/cd:barabanki,Uttar Pradesh Lok Sabha constituency Barabanki (SC)
-ocd-division/country:in/state:up/cd:faizabad,Uttar Pradesh Lok Sabha constituency Faizabad
-ocd-division/country:in/state:up/cd:ambedkar_nagar,Uttar Pradesh Lok Sabha constituency Ambedkar Nagar
-ocd-division/country:in/state:up/cd:bahraich,Uttar Pradesh Lok Sabha constituency Bahraich (SC)
-ocd-division/country:in/state:up/cd:kaiserganj,Uttar Pradesh Lok Sabha constituency Kaiserganj
-ocd-division/country:in/state:up/cd:shrawasti,Uttar Pradesh Lok Sabha constituency Shrawasti
-ocd-division/country:in/state:up/cd:gonda,Uttar Pradesh Lok Sabha constituency Gonda
-ocd-division/country:in/state:up/cd:domariyaganj,Uttar Pradesh Lok Sabha constituency Domariyaganj
-ocd-division/country:in/state:up/cd:basti,Uttar Pradesh Lok Sabha constituency Basti
-ocd-division/country:in/state:up/cd:sant_kabir_nagar,Uttar Pradesh Lok Sabha constituency Sant Kabir Nagar
-ocd-division/country:in/state:up/cd:maharajganj,Uttar Pradesh Lok Sabha constituency Maharajganj
-ocd-division/country:in/state:up/cd:gorakhpur,Uttar Pradesh Lok Sabha constituency Gorakhpur
-ocd-division/country:in/state:up/cd:kushi_nagar,Uttar Pradesh Lok Sabha constituency Kushi Nagar
-ocd-division/country:in/state:up/cd:deoria,Uttar Pradesh Lok Sabha constituency Deoria
-ocd-division/country:in/state:up/cd:bansgaon,Uttar Pradesh Lok Sabha constituency Bansgaon (SC)
-ocd-division/country:in/state:up/cd:lalganj,Uttar Pradesh Lok Sabha constituency Lalganj (SC)
-ocd-division/country:in/state:up/cd:azamgarh,Uttar Pradesh Lok Sabha constituency Azamgarh
-ocd-division/country:in/state:up/cd:ghosi,Uttar Pradesh Lok Sabha constituency Ghosi
-ocd-division/country:in/state:up/cd:salempur,Uttar Pradesh Lok Sabha constituency Salempur
-ocd-division/country:in/state:up/cd:ballia,Uttar Pradesh Lok Sabha constituency Ballia
-ocd-division/country:in/state:up/cd:jaunpur,Uttar Pradesh Lok Sabha constituency Jaunpur
-ocd-division/country:in/state:up/cd:machhlishahr,Uttar Pradesh Lok Sabha constituency Machhlishahr (SC)
-ocd-division/country:in/state:up/cd:ghazipur,Uttar Pradesh Lok Sabha constituency Ghazipur
-ocd-division/country:in/state:up/cd:chandauli,Uttar Pradesh Lok Sabha constituency Chandauli
-ocd-division/country:in/state:up/cd:varanasi,Uttar Pradesh Lok Sabha constituency Varanasi
-ocd-division/country:in/state:up/cd:bhadohi,Uttar Pradesh Lok Sabha constituency Bhadohi
-ocd-division/country:in/state:up/cd:mirzapur,Uttar Pradesh Lok Sabha constituency Mirzapur
-ocd-division/country:in/state:up/cd:robertsganj,Uttar Pradesh Lok Sabha constituency Robertsganj (SC)
-ocd-division/country:in/state:ut/cd:tehri_garhwal,Uttarakhand Lok Sabha constituency Tehri Garhwal
-ocd-division/country:in/state:ut/cd:garhwal,Uttarakhand Lok Sabha constituency Garhwal
-ocd-division/country:in/state:ut/cd:almora,Uttarakhand Lok Sabha constituency Almora (SC)
-ocd-division/country:in/state:ut/cd:nainital-udhamsingh_nagar,Uttarakhand Lok Sabha constituency Nainital-Udhamsingh Nagar
-ocd-division/country:in/state:ut/cd:haridwar,Uttarakhand Lok Sabha constituency Haridwar
-ocd-division/country:in/state:wb/cd:cooch_behar,West Bengal Lok Sabha constituency Cooch Behar (SC)
-ocd-division/country:in/state:wb/cd:alipurduars,West Bengal Lok Sabha constituency Alipurduars (ST)
-ocd-division/country:in/state:wb/cd:jalpaiguri,West Bengal Lok Sabha constituency Jalpaiguri (SC)
-ocd-division/country:in/state:wb/cd:darjeeling,West Bengal Lok Sabha constituency Darjeeling
-ocd-division/country:in/state:wb/cd:raiganj,West Bengal Lok Sabha constituency Raiganj
-ocd-division/country:in/state:wb/cd:balurghat,West Bengal Lok Sabha constituency Balurghat
-ocd-division/country:in/state:wb/cd:maldaha_uttar,West Bengal Lok Sabha constituency Maldaha Uttar
-ocd-division/country:in/state:wb/cd:maldaha_dakshin,West Bengal Lok Sabha constituency Maldaha Dakshin
-ocd-division/country:in/state:wb/cd:jangipur,West Bengal Lok Sabha constituency Jangipur
-ocd-division/country:in/state:wb/cd:baharampur,West Bengal Lok Sabha constituency Baharampur
-ocd-division/country:in/state:wb/cd:murshidabad,West Bengal Lok Sabha constituency Murshidabad
-ocd-division/country:in/state:wb/cd:krishnanagar,West Bengal Lok Sabha constituency Krishnanagar
-ocd-division/country:in/state:wb/cd:ranaghat,West Bengal Lok Sabha constituency Ranaghat (SC)
-ocd-division/country:in/state:wb/cd:bangaon,West Bengal Lok Sabha constituency Bangaon (SC)
-ocd-division/country:in/state:wb/cd:barrackpur,West Bengal Lok Sabha constituency Barrackpur
-ocd-division/country:in/state:wb/cd:dum_dum,West Bengal Lok Sabha constituency Dum Dum
-ocd-division/country:in/state:wb/cd:barasat,West Bengal Lok Sabha constituency Barasat
-ocd-division/country:in/state:wb/cd:basirhat,West Bengal Lok Sabha constituency Basirhat
-ocd-division/country:in/state:wb/cd:jaynagar,West Bengal Lok Sabha constituency Jaynagar (SC)
-ocd-division/country:in/state:wb/cd:mathurapur,West Bengal Lok Sabha constituency Mathurapur (SC)
-ocd-division/country:in/state:wb/cd:diamond_harbour,West Bengal Lok Sabha constituency Diamond Harbour
-ocd-division/country:in/state:wb/cd:jadavpur,West Bengal Lok Sabha constituency Jadavpur
-ocd-division/country:in/state:wb/cd:kolkata_dakshin,West Bengal Lok Sabha constituency Kolkata Dakshin
-ocd-division/country:in/state:wb/cd:kolkata_uttar,West Bengal Lok Sabha constituency Kolkata Uttar
-ocd-division/country:in/state:wb/cd:howrah,West Bengal Lok Sabha constituency Howrah
-ocd-division/country:in/state:wb/cd:uluberia,West Bengal Lok Sabha constituency Uluberia
-ocd-division/country:in/state:wb/cd:srerampur,West Bengal Lok Sabha constituency Srerampur
-ocd-division/country:in/state:wb/cd:hooghly,West Bengal Lok Sabha constituency Hooghly
-ocd-division/country:in/state:wb/cd:arambag,West Bengal Lok Sabha constituency Arambag (SC)
-ocd-division/country:in/state:wb/cd:tamluk,West Bengal Lok Sabha constituency Tamluk
-ocd-division/country:in/state:wb/cd:kanthi,West Bengal Lok Sabha constituency Kanthi
-ocd-division/country:in/state:wb/cd:ghatal,West Bengal Lok Sabha constituency Ghatal
-ocd-division/country:in/state:wb/cd:jhargram,West Bengal Lok Sabha constituency Jhargram (ST)
-ocd-division/country:in/state:wb/cd:medinipur,West Bengal Lok Sabha constituency Medinipur
-ocd-division/country:in/state:wb/cd:purulia,West Bengal Lok Sabha constituency Purulia
-ocd-division/country:in/state:wb/cd:bankura,West Bengal Lok Sabha constituency Bankura
-ocd-division/country:in/state:wb/cd:bishnupur,West Bengal Lok Sabha constituency Bishnupur (SC)
-ocd-division/country:in/state:wb/cd:bardhaman_purba,West Bengal Lok Sabha constituency Bardhaman Purba (SC)
-ocd-division/country:in/state:wb/cd:bardhaman-durgapur,West Bengal Lok Sabha constituency Bardhaman-Durgapur
-ocd-division/country:in/state:wb/cd:asansol,West Bengal Lok Sabha constituency Asansol
-ocd-division/country:in/state:wb/cd:bolpur,West Bengal Lok Sabha constituency Bolpur (SC)
-ocd-division/country:in/state:wb/cd:birbhum,West Bengal Lok Sabha constituency Birbhum
-ocd-division/country:in/territory:an/cd:andaman_and_nicobar_islands,Andaman and Nicobar Islands Lok Sabha constituency Andaman and Nicobar Islands
-ocd-division/country:in/territory:ch/cd:chandigarh,Chandigarh Lok Sabha constituency Chandigarh
-ocd-division/country:in/territory:dn/cd:dadra_and_nagar_haveli,Dadra and Nagar Haveli Lok Sabha constituency Dadra and Nagar Haveli (ST)
-ocd-division/country:in/territory:dd/cd:daman_and_diu,Daman and Diu Lok Sabha constituency Daman and Diu
-ocd-division/country:in/territory:ld/cd:lakshadweep,Lakshadweep Lok Sabha constituency Lakshadweep (ST)
-ocd-division/country:in/territory:dl/cd:chandni_chowk,Delhi Lok Sabha constituency Chandni Chowk
-ocd-division/country:in/territory:dl/cd:north_east_delhi,Delhi Lok Sabha constituency North East Delhi
-ocd-division/country:in/territory:dl/cd:east_delhi,Delhi Lok Sabha constituency East Delhi
-ocd-division/country:in/territory:dl/cd:new_delhi,Delhi Lok Sabha constituency New Delhi
-ocd-division/country:in/territory:dl/cd:north_west_delhi,Delhi Lok Sabha constituency North West Delhi (SC)
-ocd-division/country:in/territory:dl/cd:west_delhi,Delhi Lok Sabha constituency West Delhi
-ocd-division/country:in/territory:dl/cd:south_delhi,Delhi Lok Sabha constituency South Delhi
-ocd-division/country:in/territory:py/cd:puducherry,Puducherry Lok Sabha constituency Puducherry
-ocd-division/country:in/cd:anglo-indian_reserved_seats_1,Nominated Lok Sabha constituency Anglo-Indian reserved seat 1
-ocd-division/country:in/cd:anglo-indian_reserved_seats_2,Nominated Lok Sabha constituency Anglo-Indian reserved seat 2
+id,name,validFrom,validTo
+ocd-division/country:in/state:ap/cd:araku,Andhra Pradesh Lok Sabha constituency Araku (ST),,
+ocd-division/country:in/state:ap/cd:srikakulam,Andhra Pradesh Lok Sabha constituency Srikakulam,,
+ocd-division/country:in/state:ap/cd:vizianagaram,Andhra Pradesh Lok Sabha constituency Vizianagaram,,
+ocd-division/country:in/state:ap/cd:visakhapatnam,Andhra Pradesh Lok Sabha constituency Visakhapatnam,,
+ocd-division/country:in/state:ap/cd:anakapalli,Andhra Pradesh Lok Sabha constituency Anakapalli,,
+ocd-division/country:in/state:ap/cd:kakinada,Andhra Pradesh Lok Sabha constituency Kakinada,,
+ocd-division/country:in/state:ap/cd:amalapuram,Andhra Pradesh Lok Sabha constituency Amalapuram (SC),,
+ocd-division/country:in/state:ap/cd:rajahmundry,Andhra Pradesh Lok Sabha constituency Rajahmundry,,
+ocd-division/country:in/state:ap/cd:narasapuram,Andhra Pradesh Lok Sabha constituency Narasapuram,,
+ocd-division/country:in/state:ap/cd:eluru,Andhra Pradesh Lok Sabha constituency Eluru,,
+ocd-division/country:in/state:ap/cd:machilipatnam,Andhra Pradesh Lok Sabha constituency Machilipatnam,,
+ocd-division/country:in/state:ap/cd:vijayawada,Andhra Pradesh Lok Sabha constituency Vijayawada,,
+ocd-division/country:in/state:ap/cd:guntur,Andhra Pradesh Lok Sabha constituency Guntur,,
+ocd-division/country:in/state:ap/cd:narasaraopet,Andhra Pradesh Lok Sabha constituency Narasaraopet,,
+ocd-division/country:in/state:ap/cd:bapatla,Andhra Pradesh Lok Sabha constituency Bapatla (SC),,
+ocd-division/country:in/state:ap/cd:ongole,Andhra Pradesh Lok Sabha constituency Ongole,,
+ocd-division/country:in/state:ap/cd:nandyal,Andhra Pradesh Lok Sabha constituency Nandyal,,
+ocd-division/country:in/state:ap/cd:kurnool,Andhra Pradesh Lok Sabha constituency Kurnool,,
+ocd-division/country:in/state:ap/cd:anantapur,Andhra Pradesh Lok Sabha constituency Anantapur,,
+ocd-division/country:in/state:ap/cd:hindupur,Andhra Pradesh Lok Sabha constituency Hindupur,,
+ocd-division/country:in/state:ap/cd:kadapa,Andhra Pradesh Lok Sabha constituency Kadapa,,
+ocd-division/country:in/state:ap/cd:nellore,Andhra Pradesh Lok Sabha constituency Nellore,,
+ocd-division/country:in/state:ap/cd:tirupati,Andhra Pradesh Lok Sabha constituency Tirupati (SC),,
+ocd-division/country:in/state:ap/cd:rajampet,Andhra Pradesh Lok Sabha constituency Rajampet,,
+ocd-division/country:in/state:ap/cd:chittoor,Andhra Pradesh Lok Sabha constituency Chittoor (SC),,
+ocd-division/country:in/state:ar/cd:arunachal_west,Arunachal Pradesh Lok Sabha constituency Arunachal West,,
+ocd-division/country:in/state:ar/cd:arunachal_east,Arunachal Pradesh Lok Sabha constituency Arunachal East,,
+ocd-division/country:in/state:as/cd:karimganj,Assam Lok Sabha constituency Karimganj (SC),,
+ocd-division/country:in/state:as/cd:silchar,Assam Lok Sabha constituency Silchar,,
+ocd-division/country:in/state:as/cd:autonomous_district,Assam Lok Sabha constituency Autonomous District (ST),,
+ocd-division/country:in/state:as/cd:dhubri,Assam Lok Sabha constituency Dhubri,,
+ocd-division/country:in/state:as/cd:kokrajhar,Assam Lok Sabha constituency Kokrajhar (ST),,
+ocd-division/country:in/state:as/cd:barpeta,Assam Lok Sabha constituency Barpeta,,
+ocd-division/country:in/state:as/cd:gauhati,Assam Lok Sabha constituency Gauhati,,
+ocd-division/country:in/state:as/cd:mangaldoi,Assam Lok Sabha constituency Mangaldoi,,
+ocd-division/country:in/state:as/cd:tezpur,Assam Lok Sabha constituency Tezpur,,
+ocd-division/country:in/state:as/cd:nowgong,Assam Lok Sabha constituency Nowgong,,
+ocd-division/country:in/state:as/cd:kaliabor,Assam Lok Sabha constituency Kaliabor,,
+ocd-division/country:in/state:as/cd:jorhat,Assam Lok Sabha constituency Jorhat,,
+ocd-division/country:in/state:as/cd:dibrugarh,Assam Lok Sabha constituency Dibrugarh,,
+ocd-division/country:in/state:as/cd:lakhimpur,Assam Lok Sabha constituency Lakhimpur,,
+ocd-division/country:in/state:br/cd:valmiki_nagar,Bihar Lok Sabha constituency Valmiki Nagar,,
+ocd-division/country:in/state:br/cd:paschim_champaran,Bihar Lok Sabha constituency Paschim Champaran,,
+ocd-division/country:in/state:br/cd:purvi_champaran,Bihar Lok Sabha constituency Purvi Champaran,,
+ocd-division/country:in/state:br/cd:sheohar,Bihar Lok Sabha constituency Sheohar,,
+ocd-division/country:in/state:br/cd:sitamarhi,Bihar Lok Sabha constituency Sitamarhi,,
+ocd-division/country:in/state:br/cd:madhubani,Bihar Lok Sabha constituency Madhubani,,
+ocd-division/country:in/state:br/cd:jhanjharpur,Bihar Lok Sabha constituency Jhanjharpur,,
+ocd-division/country:in/state:br/cd:supaul,Bihar Lok Sabha constituency Supaul,,
+ocd-division/country:in/state:br/cd:araria,Bihar Lok Sabha constituency Araria,,
+ocd-division/country:in/state:br/cd:kishanganj,Bihar Lok Sabha constituency Kishanganj,,
+ocd-division/country:in/state:br/cd:katihar,Bihar Lok Sabha constituency Katihar,,
+ocd-division/country:in/state:br/cd:purnia,Bihar Lok Sabha constituency Purnia,,
+ocd-division/country:in/state:br/cd:madhepura,Bihar Lok Sabha constituency Madhepura,,
+ocd-division/country:in/state:br/cd:darbhanga,Bihar Lok Sabha constituency Darbhanga,,
+ocd-division/country:in/state:br/cd:muzaffarpur,Bihar Lok Sabha constituency Muzaffarpur,,
+ocd-division/country:in/state:br/cd:vaishali,Bihar Lok Sabha constituency Vaishali,,
+ocd-division/country:in/state:br/cd:gopalganj,Bihar Lok Sabha constituency Gopalganj (SC),,
+ocd-division/country:in/state:br/cd:siwan,Bihar Lok Sabha constituency Siwan,,
+ocd-division/country:in/state:br/cd:maharajganj,Bihar Lok Sabha constituency Maharajganj,,
+ocd-division/country:in/state:br/cd:saran,Bihar Lok Sabha constituency Saran,,
+ocd-division/country:in/state:br/cd:hajipur,Bihar Lok Sabha constituency Hajipur (SC),,
+ocd-division/country:in/state:br/cd:ujiarpur,Bihar Lok Sabha constituency Ujiarpur,,
+ocd-division/country:in/state:br/cd:samastipur,Bihar Lok Sabha constituency Samastipur (SC),,
+ocd-division/country:in/state:br/cd:begusarai,Bihar Lok Sabha constituency Begusarai,,
+ocd-division/country:in/state:br/cd:khagaria,Bihar Lok Sabha constituency Khagaria,,
+ocd-division/country:in/state:br/cd:bhagalpur,Bihar Lok Sabha constituency Bhagalpur,,
+ocd-division/country:in/state:br/cd:banka,Bihar Lok Sabha constituency Banka,,
+ocd-division/country:in/state:br/cd:munger,Bihar Lok Sabha constituency Munger,,
+ocd-division/country:in/state:br/cd:nalanda,Bihar Lok Sabha constituency Nalanda,,
+ocd-division/country:in/state:br/cd:patna_sahib,Bihar Lok Sabha constituency Patna Sahib,,
+ocd-division/country:in/state:br/cd:pataliputra,Bihar Lok Sabha constituency Pataliputra,,
+ocd-division/country:in/state:br/cd:arrah,Bihar Lok Sabha constituency Arrah,,
+ocd-division/country:in/state:br/cd:buxar,Bihar Lok Sabha constituency Buxar,,
+ocd-division/country:in/state:br/cd:sasaram,Bihar Lok Sabha constituency Sasaram (SC),,
+ocd-division/country:in/state:br/cd:karakat,Bihar Lok Sabha constituency Karakat,,
+ocd-division/country:in/state:br/cd:jahanabad,Bihar Lok Sabha constituency Jahanabad,,
+ocd-division/country:in/state:br/cd:aurangabad,Bihar Lok Sabha constituency Aurangabad,,
+ocd-division/country:in/state:br/cd:gaya,Bihar Lok Sabha constituency Gaya (SC),,
+ocd-division/country:in/state:br/cd:nawada,Bihar Lok Sabha constituency Nawada,,
+ocd-division/country:in/state:br/cd:jamui,Bihar Lok Sabha constituency Jamui (SC),,
+ocd-division/country:in/state:ct/cd:sarguja,Chhattisgarh Lok Sabha constituency Sarguja (ST),,
+ocd-division/country:in/state:ct/cd:raigarh,Chhattisgarh Lok Sabha constituency Raigarh (ST),,
+ocd-division/country:in/state:ct/cd:janjgir,Chhattisgarh Lok Sabha constituency Janjgir (SC),,
+ocd-division/country:in/state:ct/cd:korba,Chhattisgarh Lok Sabha constituency Korba,,
+ocd-division/country:in/state:ct/cd:bilaspur,Chhattisgarh Lok Sabha constituency Bilaspur,,
+ocd-division/country:in/state:ct/cd:rajnandgaon,Chhattisgarh Lok Sabha constituency Rajnandgaon,,
+ocd-division/country:in/state:ct/cd:durg,Chhattisgarh Lok Sabha constituency Durg,,
+ocd-division/country:in/state:ct/cd:raipur,Chhattisgarh Lok Sabha constituency Raipur,,
+ocd-division/country:in/state:ct/cd:mahasamund,Chhattisgarh Lok Sabha constituency Mahasamund,,
+ocd-division/country:in/state:ct/cd:bastar,Chhattisgarh Lok Sabha constituency Bastar (ST),,
+ocd-division/country:in/state:ct/cd:kanker,Chhattisgarh Lok Sabha constituency Kanker (ST),,
+ocd-division/country:in/state:ga/cd:north_goa,Goa Lok Sabha constituency North Goa,,
+ocd-division/country:in/state:ga/cd:south_goa,Goa Lok Sabha constituency South Goa,,
+ocd-division/country:in/state:gj/cd:kachchh,Gujarat Lok Sabha constituency Kachchh (SC),,
+ocd-division/country:in/state:gj/cd:banaskantha,Gujarat Lok Sabha constituency Banaskantha,,
+ocd-division/country:in/state:gj/cd:patan,Gujarat Lok Sabha constituency Patan,,
+ocd-division/country:in/state:gj/cd:mahesana,Gujarat Lok Sabha constituency Mahesana,,
+ocd-division/country:in/state:gj/cd:sabarkantha,Gujarat Lok Sabha constituency Sabarkantha,,
+ocd-division/country:in/state:gj/cd:gandhinagar,Gujarat Lok Sabha constituency Gandhinagar,,
+ocd-division/country:in/state:gj/cd:ahmedabad_east,Gujarat Lok Sabha constituency Ahmedabad East,,
+ocd-division/country:in/state:gj/cd:ahmedabad_west,Gujarat Lok Sabha constituency Ahmedabad West (SC),,
+ocd-division/country:in/state:gj/cd:surendranagar,Gujarat Lok Sabha constituency Surendranagar,,
+ocd-division/country:in/state:gj/cd:rajkot,Gujarat Lok Sabha constituency Rajkot,,
+ocd-division/country:in/state:gj/cd:porbandar,Gujarat Lok Sabha constituency Porbandar,,
+ocd-division/country:in/state:gj/cd:jamnagar,Gujarat Lok Sabha constituency Jamnagar,,
+ocd-division/country:in/state:gj/cd:junagadh,Gujarat Lok Sabha constituency Junagadh,,
+ocd-division/country:in/state:gj/cd:amreli,Gujarat Lok Sabha constituency Amreli,,
+ocd-division/country:in/state:gj/cd:bhavnagar,Gujarat Lok Sabha constituency Bhavnagar,,
+ocd-division/country:in/state:gj/cd:anand,Gujarat Lok Sabha constituency Anand,,
+ocd-division/country:in/state:gj/cd:kheda,Gujarat Lok Sabha constituency Kheda,,
+ocd-division/country:in/state:gj/cd:panchmahal,Gujarat Lok Sabha constituency Panchmahal,,
+ocd-division/country:in/state:gj/cd:dahod,Gujarat Lok Sabha constituency Dahod (ST),,
+ocd-division/country:in/state:gj/cd:vadodara,Gujarat Lok Sabha constituency Vadodara,,
+ocd-division/country:in/state:gj/cd:chhota_udaipur,Gujarat Lok Sabha constituency Chhota Udaipur (ST),,
+ocd-division/country:in/state:gj/cd:bharuch,Gujarat Lok Sabha constituency Bharuch,,
+ocd-division/country:in/state:gj/cd:bardoli,Gujarat Lok Sabha constituency Bardoli (ST),,
+ocd-division/country:in/state:gj/cd:surat,Gujarat Lok Sabha constituency Surat,,
+ocd-division/country:in/state:gj/cd:navsari,Gujarat Lok Sabha constituency Navsari,,
+ocd-division/country:in/state:gj/cd:valsad,Gujarat Lok Sabha constituency Valsad (ST),,
+ocd-division/country:in/state:hr/cd:ambala,Haryana Lok Sabha constituency Ambala (SC),,
+ocd-division/country:in/state:hr/cd:kurukshetra,Haryana Lok Sabha constituency Kurukshetra,,
+ocd-division/country:in/state:hr/cd:sirsa,Haryana Lok Sabha constituency Sirsa (SC),,
+ocd-division/country:in/state:hr/cd:hissar,Haryana Lok Sabha constituency Hissar,,
+ocd-division/country:in/state:hr/cd:karnal,Haryana Lok Sabha constituency Karnal,,
+ocd-division/country:in/state:hr/cd:sonipat,Haryana Lok Sabha constituency Sonipat,,
+ocd-division/country:in/state:hr/cd:rohtak,Haryana Lok Sabha constituency Rohtak,,
+ocd-division/country:in/state:hr/cd:bhiwani-mahendragarh,Haryana Lok Sabha constituency Bhiwani-Mahendragarh,,
+ocd-division/country:in/state:hr/cd:gurgaon,Haryana Lok Sabha constituency Gurgaon,,
+ocd-division/country:in/state:hr/cd:faridabad,Haryana Lok Sabha constituency Faridabad,,
+ocd-division/country:in/state:hp/cd:kangra,Himachal Pradesh Lok Sabha constituency Kangra,,
+ocd-division/country:in/state:hp/cd:mandi,Himachal Pradesh Lok Sabha constituency Mandi,,
+ocd-division/country:in/state:hp/cd:hamirpur,Himachal Pradesh Lok Sabha constituency Hamirpur,,
+ocd-division/country:in/state:hp/cd:shimla,Himachal Pradesh Lok Sabha constituency Shimla (SC),,
+ocd-division/country:in/state:jk/cd:baramulla,Jammu and Kashmir Lok Sabha constituency Baramulla,,
+ocd-division/country:in/state:jk/cd:srinagar,Jammu and Kashmir Lok Sabha constituency Srinagar,,
+ocd-division/country:in/state:jk/cd:anantnag,Jammu and Kashmir Lok Sabha constituency Anantnag,,
+ocd-division/country:in/state:jk/cd:ladakh,Jammu and Kashmir Lok Sabha constituency Ladakh,,
+ocd-division/country:in/state:jk/cd:udhampur,Jammu and Kashmir Lok Sabha constituency Udhampur,,
+ocd-division/country:in/state:jk/cd:jammu,Jammu and Kashmir Lok Sabha constituency Jammu,,
+ocd-division/country:in/state:jh/cd:rajmahal,Jharkhand Lok Sabha constituency Rajmahal (ST),,
+ocd-division/country:in/state:jh/cd:dumka,Jharkhand Lok Sabha constituency Dumka (ST),,
+ocd-division/country:in/state:jh/cd:godda,Jharkhand Lok Sabha constituency Godda,,
+ocd-division/country:in/state:jh/cd:chatra,Jharkhand Lok Sabha constituency Chatra,,
+ocd-division/country:in/state:jh/cd:kodarma,Jharkhand Lok Sabha constituency Kodarma,,
+ocd-division/country:in/state:jh/cd:giridih,Jharkhand Lok Sabha constituency Giridih,,
+ocd-division/country:in/state:jh/cd:dhanbad,Jharkhand Lok Sabha constituency Dhanbad,,
+ocd-division/country:in/state:jh/cd:ranchi,Jharkhand Lok Sabha constituency Ranchi,,
+ocd-division/country:in/state:jh/cd:jamshedpur,Jharkhand Lok Sabha constituency Jamshedpur,,
+ocd-division/country:in/state:jh/cd:singhbhum,Jharkhand Lok Sabha constituency Singhbhum (ST),,
+ocd-division/country:in/state:jh/cd:khunti,Jharkhand Lok Sabha constituency Khunti (ST),,
+ocd-division/country:in/state:jh/cd:lohardaga,Jharkhand Lok Sabha constituency Lohardaga (ST),,
+ocd-division/country:in/state:jh/cd:palamau,Jharkhand Lok Sabha constituency Palamau (SC),,
+ocd-division/country:in/state:jh/cd:hazaribagh,Jharkhand Lok Sabha constituency Hazaribagh,,
+ocd-division/country:in/state:ka/cd:chikkodi,Karnataka Lok Sabha constituency Chikkodi,,
+ocd-division/country:in/state:ka/cd:belagavi,Karnataka Lok Sabha constituency Belagavi,,
+ocd-division/country:in/state:ka/cd:bagalkot,Karnataka Lok Sabha constituency Bagalkot,,
+ocd-division/country:in/state:ka/cd:bijapur,Karnataka Lok Sabha constituency Bijapur (SC),,
+ocd-division/country:in/state:ka/cd:kalaburagi,Karnataka Lok Sabha constituency Kalaburagi (SC),,
+ocd-division/country:in/state:ka/cd:raichur,Karnataka Lok Sabha constituency Raichur (ST),,
+ocd-division/country:in/state:ka/cd:bidar,Karnataka Lok Sabha constituency Bidar,,
+ocd-division/country:in/state:ka/cd:koppal,Karnataka Lok Sabha constituency Koppal,,
+ocd-division/country:in/state:ka/cd:bellary,Karnataka Lok Sabha constituency Bellary (ST),,
+ocd-division/country:in/state:ka/cd:haveri,Karnataka Lok Sabha constituency Haveri,,
+ocd-division/country:in/state:ka/cd:dharwad,Karnataka Lok Sabha constituency Dharwad,,
+ocd-division/country:in/state:ka/cd:uttara_kannada,Karnataka Lok Sabha constituency Uttara Kannada,,
+ocd-division/country:in/state:ka/cd:davanagere,Karnataka Lok Sabha constituency Davanagere,,
+ocd-division/country:in/state:ka/cd:shimoga,Karnataka Lok Sabha constituency Shimoga,,
+ocd-division/country:in/state:ka/cd:udupi_chikmagalur,Karnataka Lok Sabha constituency Udupi Chikmagalur,,
+ocd-division/country:in/state:ka/cd:hassan,Karnataka Lok Sabha constituency Hassan,,
+ocd-division/country:in/state:ka/cd:dakshina_kannada,Karnataka Lok Sabha constituency Dakshina Kannada,,
+ocd-division/country:in/state:ka/cd:chitradurga,Karnataka Lok Sabha constituency Chitradurga (SC),,
+ocd-division/country:in/state:ka/cd:tumkur,Karnataka Lok Sabha constituency Tumkur,,
+ocd-division/country:in/state:ka/cd:mandya,Karnataka Lok Sabha constituency Mandya,,
+ocd-division/country:in/state:ka/cd:mysore,Karnataka Lok Sabha constituency Mysore,,
+ocd-division/country:in/state:ka/cd:chamarajanagar,Karnataka Lok Sabha constituency Chamarajanagar (SC),,
+ocd-division/country:in/state:ka/cd:bangalore_rural,Karnataka Lok Sabha constituency Bangalore Rural,,
+ocd-division/country:in/state:ka/cd:bangalore_north,Karnataka Lok Sabha constituency Bangalore North,,
+ocd-division/country:in/state:ka/cd:bangalore_central,Karnataka Lok Sabha constituency Bangalore Central,,
+ocd-division/country:in/state:ka/cd:bangalore_south,Karnataka Lok Sabha constituency Bangalore South,,
+ocd-division/country:in/state:ka/cd:chikballapur,Karnataka Lok Sabha constituency Chikballapur,,
+ocd-division/country:in/state:ka/cd:kolar,Karnataka Lok Sabha constituency Kolar (SC),,
+ocd-division/country:in/state:kl/cd:kasaragod,Kerala Lok Sabha constituency Kasaragod,,
+ocd-division/country:in/state:kl/cd:kannur,Kerala Lok Sabha constituency Kannur,,
+ocd-division/country:in/state:kl/cd:vatakara,Kerala Lok Sabha constituency Vatakara,,
+ocd-division/country:in/state:kl/cd:wayanad,Kerala Lok Sabha constituency Wayanad,,
+ocd-division/country:in/state:kl/cd:kozhikode,Kerala Lok Sabha constituency Kozhikode,,
+ocd-division/country:in/state:kl/cd:malappuram,Kerala Lok Sabha constituency Malappuram,,
+ocd-division/country:in/state:kl/cd:ponnani,Kerala Lok Sabha constituency Ponnani,,
+ocd-division/country:in/state:kl/cd:palakkad,Kerala Lok Sabha constituency Palakkad,,
+ocd-division/country:in/state:kl/cd:alathur,Kerala Lok Sabha constituency Alathur (SC),,
+ocd-division/country:in/state:kl/cd:thrissur,Kerala Lok Sabha constituency Thrissur,,
+ocd-division/country:in/state:kl/cd:chalakudy,Kerala Lok Sabha constituency Chalakudy,,
+ocd-division/country:in/state:kl/cd:ernakulam,Kerala Lok Sabha constituency Ernakulam,,
+ocd-division/country:in/state:kl/cd:idukki,Kerala Lok Sabha constituency Idukki,,
+ocd-division/country:in/state:kl/cd:kottayam,Kerala Lok Sabha constituency Kottayam,,
+ocd-division/country:in/state:kl/cd:alappuzha,Kerala Lok Sabha constituency Alappuzha,,
+ocd-division/country:in/state:kl/cd:mavelikara,Kerala Lok Sabha constituency Mavelikara (SC),,
+ocd-division/country:in/state:kl/cd:pathanamthitta,Kerala Lok Sabha constituency Pathanamthitta,,
+ocd-division/country:in/state:kl/cd:kollam,Kerala Lok Sabha constituency Kollam,,
+ocd-division/country:in/state:kl/cd:attingal,Kerala Lok Sabha constituency Attingal,,
+ocd-division/country:in/state:kl/cd:thiruvananthapuram,Kerala Lok Sabha constituency Thiruvananthapuram,,
+ocd-division/country:in/state:mp/cd:morena,Madhya Pradesh Lok Sabha constituency Morena,,
+ocd-division/country:in/state:mp/cd:bhind,Madhya Pradesh Lok Sabha constituency Bhind (SC),,
+ocd-division/country:in/state:mp/cd:gwalior,Madhya Pradesh Lok Sabha constituency Gwalior,,
+ocd-division/country:in/state:mp/cd:guna,Madhya Pradesh Lok Sabha constituency Guna,,
+ocd-division/country:in/state:mp/cd:sagar,Madhya Pradesh Lok Sabha constituency Sagar,,
+ocd-division/country:in/state:mp/cd:tikamgarh,Madhya Pradesh Lok Sabha constituency Tikamgarh (SC),,
+ocd-division/country:in/state:mp/cd:damoh,Madhya Pradesh Lok Sabha constituency Damoh,,
+ocd-division/country:in/state:mp/cd:khajuraho,Madhya Pradesh Lok Sabha constituency Khajuraho,,
+ocd-division/country:in/state:mp/cd:satna,Madhya Pradesh Lok Sabha constituency Satna,,
+ocd-division/country:in/state:mp/cd:rewa,Madhya Pradesh Lok Sabha constituency Rewa,,
+ocd-division/country:in/state:mp/cd:sidhi,Madhya Pradesh Lok Sabha constituency Sidhi,,
+ocd-division/country:in/state:mp/cd:shahdol,Madhya Pradesh Lok Sabha constituency Shahdol (ST),,
+ocd-division/country:in/state:mp/cd:jabalpur,Madhya Pradesh Lok Sabha constituency Jabalpur,,
+ocd-division/country:in/state:mp/cd:mandla,Madhya Pradesh Lok Sabha constituency Mandla (ST),,
+ocd-division/country:in/state:mp/cd:balaghat,Madhya Pradesh Lok Sabha constituency Balaghat,,
+ocd-division/country:in/state:mp/cd:chhindwara,Madhya Pradesh Lok Sabha constituency Chhindwara,,
+ocd-division/country:in/state:mp/cd:hoshangabad,Madhya Pradesh Lok Sabha constituency Hoshangabad,,
+ocd-division/country:in/state:mp/cd:vidisha,Madhya Pradesh Lok Sabha constituency Vidisha,,
+ocd-division/country:in/state:mp/cd:bhopal,Madhya Pradesh Lok Sabha constituency Bhopal,,
+ocd-division/country:in/state:mp/cd:rajgarh,Madhya Pradesh Lok Sabha constituency Rajgarh,,
+ocd-division/country:in/state:mp/cd:dewas,Madhya Pradesh Lok Sabha constituency Dewas (SC),,
+ocd-division/country:in/state:mp/cd:ujjain,Madhya Pradesh Lok Sabha constituency Ujjain (SC),,
+ocd-division/country:in/state:mp/cd:mandsaur,Madhya Pradesh Lok Sabha constituency Mandsaur,,
+ocd-division/country:in/state:mp/cd:ratlam,Madhya Pradesh Lok Sabha constituency Ratlam (ST),,
+ocd-division/country:in/state:mp/cd:dhar,Madhya Pradesh Lok Sabha constituency Dhar (ST),,
+ocd-division/country:in/state:mp/cd:indore,Madhya Pradesh Lok Sabha constituency Indore,,
+ocd-division/country:in/state:mp/cd:khargone,Madhya Pradesh Lok Sabha constituency Khargone (ST),,
+ocd-division/country:in/state:mp/cd:khandwa,Madhya Pradesh Lok Sabha constituency Khandwa,,
+ocd-division/country:in/state:mp/cd:betul,Madhya Pradesh Lok Sabha constituency Betul (ST),,
+ocd-division/country:in/state:mh/cd:nandurbar,Maharashtra Lok Sabha constituency Nandurbar (ST),,
+ocd-division/country:in/state:mh/cd:dhule,Maharashtra Lok Sabha constituency Dhule,,
+ocd-division/country:in/state:mh/cd:jalgaon,Maharashtra Lok Sabha constituency Jalgaon,,
+ocd-division/country:in/state:mh/cd:raver,Maharashtra Lok Sabha constituency Raver,,
+ocd-division/country:in/state:mh/cd:buldhana,Maharashtra Lok Sabha constituency Buldhana,,
+ocd-division/country:in/state:mh/cd:akola,Maharashtra Lok Sabha constituency Akola,,
+ocd-division/country:in/state:mh/cd:amravati,Maharashtra Lok Sabha constituency Amravati (SC),,
+ocd-division/country:in/state:mh/cd:wardha,Maharashtra Lok Sabha constituency Wardha,,
+ocd-division/country:in/state:mh/cd:ramtek,Maharashtra Lok Sabha constituency Ramtek (SC),,
+ocd-division/country:in/state:mh/cd:nagpur,Maharashtra Lok Sabha constituency Nagpur,,
+ocd-division/country:in/state:mh/cd:bhandara-gondiya,Maharashtra Lok Sabha constituency Bhandara-Gondiya,,
+ocd-division/country:in/state:mh/cd:gadchiroli-chimur,Maharashtra Lok Sabha constituency Gadchiroli-Chimur (ST),,
+ocd-division/country:in/state:mh/cd:chandrapur,Maharashtra Lok Sabha constituency Chandrapur,,
+ocd-division/country:in/state:mh/cd:yavatmal-washim,Maharashtra Lok Sabha constituency Yavatmal-Washim,,
+ocd-division/country:in/state:mh/cd:hingoli,Maharashtra Lok Sabha constituency Hingoli,,
+ocd-division/country:in/state:mh/cd:nanded,Maharashtra Lok Sabha constituency Nanded,,
+ocd-division/country:in/state:mh/cd:parbhani,Maharashtra Lok Sabha constituency Parbhani,,
+ocd-division/country:in/state:mh/cd:jalna,Maharashtra Lok Sabha constituency Jalna,,
+ocd-division/country:in/state:mh/cd:aurangabad,Maharashtra Lok Sabha constituency Aurangabad,,
+ocd-division/country:in/state:mh/cd:dindori,Maharashtra Lok Sabha constituency Dindori (ST),,
+ocd-division/country:in/state:mh/cd:nashik,Maharashtra Lok Sabha constituency Nashik,,
+ocd-division/country:in/state:mh/cd:palghar,Maharashtra Lok Sabha constituency Palghar (ST),,
+ocd-division/country:in/state:mh/cd:bhiwandi,Maharashtra Lok Sabha constituency Bhiwandi,,
+ocd-division/country:in/state:mh/cd:kalyan,Maharashtra Lok Sabha constituency Kalyan,,
+ocd-division/country:in/state:mh/cd:thane,Maharashtra Lok Sabha constituency Thane,,
+ocd-division/country:in/state:mh/cd:mumbai_north,Maharashtra Lok Sabha constituency Mumbai North,,
+ocd-division/country:in/state:mh/cd:mumbai_north_west,Maharashtra Lok Sabha constituency Mumbai North West,,
+ocd-division/country:in/state:mh/cd:mumbai_north_east,Maharashtra Lok Sabha constituency Mumbai North East,,
+ocd-division/country:in/state:mh/cd:mumbai_north_central,Maharashtra Lok Sabha constituency Mumbai North Central,,
+ocd-division/country:in/state:mh/cd:mumbai_south_central,Maharashtra Lok Sabha constituency Mumbai South Central,,
+ocd-division/country:in/state:mh/cd:mumbai_south,Maharashtra Lok Sabha constituency Mumbai South,,
+ocd-division/country:in/state:mh/cd:raigad,Maharashtra Lok Sabha constituency Raigad,,
+ocd-division/country:in/state:mh/cd:maval,Maharashtra Lok Sabha constituency Maval,,
+ocd-division/country:in/state:mh/cd:pune,Maharashtra Lok Sabha constituency Pune,,
+ocd-division/country:in/state:mh/cd:baramati,Maharashtra Lok Sabha constituency Baramati,,
+ocd-division/country:in/state:mh/cd:shirur,Maharashtra Lok Sabha constituency Shirur,,
+ocd-division/country:in/state:mh/cd:ahmednagar,Maharashtra Lok Sabha constituency Ahmednagar,,
+ocd-division/country:in/state:mh/cd:shirdi,Maharashtra Lok Sabha constituency Shirdi (SC),,
+ocd-division/country:in/state:mh/cd:beed,Maharashtra Lok Sabha constituency Beed,,
+ocd-division/country:in/state:mh/cd:osmanabad,Maharashtra Lok Sabha constituency Osmanabad,,
+ocd-division/country:in/state:mh/cd:latur,Maharashtra Lok Sabha constituency Latur (SC),,
+ocd-division/country:in/state:mh/cd:solapur,Maharashtra Lok Sabha constituency Solapur (SC),,
+ocd-division/country:in/state:mh/cd:madha,Maharashtra Lok Sabha constituency Madha,,
+ocd-division/country:in/state:mh/cd:sangli,Maharashtra Lok Sabha constituency Sangli,,
+ocd-division/country:in/state:mh/cd:satara,Maharashtra Lok Sabha constituency Satara,,
+ocd-division/country:in/state:mh/cd:ratnagiri-sindhudurg,Maharashtra Lok Sabha constituency Ratnagiri-Sindhudurg,,
+ocd-division/country:in/state:mh/cd:kolhapur,Maharashtra Lok Sabha constituency Kolhapur,,
+ocd-division/country:in/state:mh/cd:hatkanangle,Maharashtra Lok Sabha constituency Hatkanangle,,
+ocd-division/country:in/state:mn/cd:inner_manipur,Manipur Lok Sabha constituency Inner Manipur,,
+ocd-division/country:in/state:mn/cd:outer_manipur,Manipur Lok Sabha constituency Outer Manipur (ST),,
+ocd-division/country:in/state:ml/cd:shillong,Meghalaya Lok Sabha constituency Shillong (ST),,
+ocd-division/country:in/state:ml/cd:tura,Meghalaya Lok Sabha constituency Tura (ST),,
+ocd-division/country:in/state:mz/cd:mizoram,Mizoram Lok Sabha constituency Mizoram (ST),,
+ocd-division/country:in/state:nl/cd:nagaland,Nagaland Lok Sabha constituency Nagaland,,
+ocd-division/country:in/state:or/cd:bargarh,Odisha Lok Sabha constituency Bargarh,,
+ocd-division/country:in/state:or/cd:sundargarh,Odisha Lok Sabha constituency Sundargarh (ST),,
+ocd-division/country:in/state:or/cd:sambalpur,Odisha Lok Sabha constituency Sambalpur,,
+ocd-division/country:in/state:or/cd:keonjhar,Odisha Lok Sabha constituency Keonjhar (ST),,
+ocd-division/country:in/state:or/cd:mayurbhanj,Odisha Lok Sabha constituency Mayurbhanj (ST),,
+ocd-division/country:in/state:or/cd:balasore,Odisha Lok Sabha constituency Balasore,,
+ocd-division/country:in/state:or/cd:bhadrak,Odisha Lok Sabha constituency Bhadrak (SC),,
+ocd-division/country:in/state:or/cd:jajpur,Odisha Lok Sabha constituency Jajpur (SC),,
+ocd-division/country:in/state:or/cd:dhenkanal,Odisha Lok Sabha constituency Dhenkanal,,
+ocd-division/country:in/state:or/cd:bolangir,Odisha Lok Sabha constituency Bolangir,,
+ocd-division/country:in/state:or/cd:kalahandi,Odisha Lok Sabha constituency Kalahandi,,
+ocd-division/country:in/state:or/cd:nabarangpur,Odisha Lok Sabha constituency Nabarangpur (ST),,
+ocd-division/country:in/state:or/cd:kandhamal,Odisha Lok Sabha constituency Kandhamal,,
+ocd-division/country:in/state:or/cd:cuttack,Odisha Lok Sabha constituency Cuttack,,
+ocd-division/country:in/state:or/cd:kendrapara,Odisha Lok Sabha constituency Kendrapara,,
+ocd-division/country:in/state:or/cd:jagatsinghpur,Odisha Lok Sabha constituency Jagatsinghpur (SC),,
+ocd-division/country:in/state:or/cd:puri,Odisha Lok Sabha constituency Puri,,
+ocd-division/country:in/state:or/cd:bhubaneswar,Odisha Lok Sabha constituency Bhubaneswar,,
+ocd-division/country:in/state:or/cd:aska,Odisha Lok Sabha constituency Aska,,
+ocd-division/country:in/state:or/cd:berhampur,Odisha Lok Sabha constituency Berhampur,,
+ocd-division/country:in/state:or/cd:koraput,Odisha Lok Sabha constituency Koraput (ST),,
+ocd-division/country:in/state:pb/cd:gurdaspur,Punjab Lok Sabha constituency Gurdaspur,,
+ocd-division/country:in/state:pb/cd:amritsar,Punjab Lok Sabha constituency Amritsar,,
+ocd-division/country:in/state:pb/cd:khadoor_sahib,Punjab Lok Sabha constituency Khadoor Sahib,,
+ocd-division/country:in/state:pb/cd:jalandhar,Punjab Lok Sabha constituency Jalandhar (SC),,
+ocd-division/country:in/state:pb/cd:hoshiarpur,Punjab Lok Sabha constituency Hoshiarpur (SC),,
+ocd-division/country:in/state:pb/cd:anandpur_sahib,Punjab Lok Sabha constituency Anandpur Sahib,,
+ocd-division/country:in/state:pb/cd:ludhiana,Punjab Lok Sabha constituency Ludhiana,,
+ocd-division/country:in/state:pb/cd:fatehgarh_sahib,Punjab Lok Sabha constituency Fatehgarh Sahib (SC),,
+ocd-division/country:in/state:pb/cd:faridkot,Punjab Lok Sabha constituency Faridkot (SC),,
+ocd-division/country:in/state:pb/cd:firozpur,Punjab Lok Sabha constituency Firozpur,,
+ocd-division/country:in/state:pb/cd:bathinda,Punjab Lok Sabha constituency Bathinda,,
+ocd-division/country:in/state:pb/cd:sangrur,Punjab Lok Sabha constituency Sangrur,,
+ocd-division/country:in/state:pb/cd:patiala,Punjab Lok Sabha constituency Patiala,,
+ocd-division/country:in/state:rj/cd:ganganagar,Rajasthan Lok Sabha constituency Ganganagar (SC),,
+ocd-division/country:in/state:rj/cd:bikaner,Rajasthan Lok Sabha constituency Bikaner (SC),,
+ocd-division/country:in/state:rj/cd:churu,Rajasthan Lok Sabha constituency Churu,,
+ocd-division/country:in/state:rj/cd:jhunjhunu,Rajasthan Lok Sabha constituency Jhunjhunu,,
+ocd-division/country:in/state:rj/cd:sikar,Rajasthan Lok Sabha constituency Sikar,,
+ocd-division/country:in/state:rj/cd:jaipur_rural,Rajasthan Lok Sabha constituency Jaipur Rural,,
+ocd-division/country:in/state:rj/cd:jaipur,Rajasthan Lok Sabha constituency Jaipur,,
+ocd-division/country:in/state:rj/cd:alwar,Rajasthan Lok Sabha constituency Alwar,,
+ocd-division/country:in/state:rj/cd:bharatpur,Rajasthan Lok Sabha constituency Bharatpur (SC),,
+ocd-division/country:in/state:rj/cd:karauli-dholpur,Rajasthan Lok Sabha constituency Karauli-Dholpur (SC),,
+ocd-division/country:in/state:rj/cd:dausa,Rajasthan Lok Sabha constituency Dausa (ST),,
+ocd-division/country:in/state:rj/cd:tonk-sawai_madhopur,Rajasthan Lok Sabha constituency Tonk-Sawai Madhopur,,
+ocd-division/country:in/state:rj/cd:ajmer,Rajasthan Lok Sabha constituency Ajmer,,
+ocd-division/country:in/state:rj/cd:nagaur,Rajasthan Lok Sabha constituency Nagaur,,
+ocd-division/country:in/state:rj/cd:pali,Rajasthan Lok Sabha constituency Pali,,
+ocd-division/country:in/state:rj/cd:jodhpur,Rajasthan Lok Sabha constituency Jodhpur,,
+ocd-division/country:in/state:rj/cd:barmer,Rajasthan Lok Sabha constituency Barmer,,
+ocd-division/country:in/state:rj/cd:jalore,Rajasthan Lok Sabha constituency Jalore,,
+ocd-division/country:in/state:rj/cd:udaipur,Rajasthan Lok Sabha constituency Udaipur (ST),,
+ocd-division/country:in/state:rj/cd:banswara,Rajasthan Lok Sabha constituency Banswara (ST),,
+ocd-division/country:in/state:rj/cd:chittorgarh,Rajasthan Lok Sabha constituency Chittorgarh,,
+ocd-division/country:in/state:rj/cd:rajsamand,Rajasthan Lok Sabha constituency Rajsamand,,
+ocd-division/country:in/state:rj/cd:bhilwara,Rajasthan Lok Sabha constituency Bhilwara,,
+ocd-division/country:in/state:rj/cd:kota,Rajasthan Lok Sabha constituency Kota,,
+ocd-division/country:in/state:rj/cd:jhalawar-baran,Rajasthan Lok Sabha constituency Jhalawar-Baran,,
+ocd-division/country:in/state:sk/cd:sikkim,Sikkim Lok Sabha constituency Sikkim,,
+ocd-division/country:in/state:tn/cd:thiruvallur,Tamil Nadu Lok Sabha constituency Thiruvallur (SC),,
+ocd-division/country:in/state:tn/cd:chennai_north,Tamil Nadu Lok Sabha constituency Chennai North,,
+ocd-division/country:in/state:tn/cd:chennai_south,Tamil Nadu Lok Sabha constituency Chennai South,,
+ocd-division/country:in/state:tn/cd:chennai_central,Tamil Nadu Lok Sabha constituency Chennai Central,,
+ocd-division/country:in/state:tn/cd:sriperumbudur,Tamil Nadu Lok Sabha constituency Sriperumbudur,,
+ocd-division/country:in/state:tn/cd:kancheepuram,Tamil Nadu Lok Sabha constituency Kancheepuram (SC),,
+ocd-division/country:in/state:tn/cd:arakkonam,Tamil Nadu Lok Sabha constituency Arakkonam,,
+ocd-division/country:in/state:tn/cd:vellore,Tamil Nadu Lok Sabha constituency Vellore,,
+ocd-division/country:in/state:tn/cd:krishnagiri,Tamil Nadu Lok Sabha constituency Krishnagiri,,
+ocd-division/country:in/state:tn/cd:dharmapuri,Tamil Nadu Lok Sabha constituency Dharmapuri,,
+ocd-division/country:in/state:tn/cd:tiruvannamalai,Tamil Nadu Lok Sabha constituency Tiruvannamalai,,
+ocd-division/country:in/state:tn/cd:arani,Tamil Nadu Lok Sabha constituency Arani,,
+ocd-division/country:in/state:tn/cd:villupuram,Tamil Nadu Lok Sabha constituency Villupuram (SC),,
+ocd-division/country:in/state:tn/cd:kallakurichi,Tamil Nadu Lok Sabha constituency Kallakurichi,,
+ocd-division/country:in/state:tn/cd:salem,Tamil Nadu Lok Sabha constituency Salem,,
+ocd-division/country:in/state:tn/cd:namakkal,Tamil Nadu Lok Sabha constituency Namakkal,,
+ocd-division/country:in/state:tn/cd:erode,Tamil Nadu Lok Sabha constituency Erode,,
+ocd-division/country:in/state:tn/cd:tiruppur,Tamil Nadu Lok Sabha constituency Tiruppur,,
+ocd-division/country:in/state:tn/cd:nilgiris,Tamil Nadu Lok Sabha constituency Nilgiris (SC),,
+ocd-division/country:in/state:tn/cd:coimbatore,Tamil Nadu Lok Sabha constituency Coimbatore,,
+ocd-division/country:in/state:tn/cd:pollachi,Tamil Nadu Lok Sabha constituency Pollachi,,
+ocd-division/country:in/state:tn/cd:dindigul,Tamil Nadu Lok Sabha constituency Dindigul,,
+ocd-division/country:in/state:tn/cd:karur,Tamil Nadu Lok Sabha constituency Karur,,
+ocd-division/country:in/state:tn/cd:tiruchirappalli,Tamil Nadu Lok Sabha constituency Tiruchirappalli,,
+ocd-division/country:in/state:tn/cd:perambalur,Tamil Nadu Lok Sabha constituency Perambalur,,
+ocd-division/country:in/state:tn/cd:cuddalore,Tamil Nadu Lok Sabha constituency Cuddalore,,
+ocd-division/country:in/state:tn/cd:chidambaram,Tamil Nadu Lok Sabha constituency Chidambaram (SC),,
+ocd-division/country:in/state:tn/cd:mayiladuturai,Tamil Nadu Lok Sabha constituency Mayiladuturai,,
+ocd-division/country:in/state:tn/cd:nagapattinam,Tamil Nadu Lok Sabha constituency Nagapattinam (SC),,
+ocd-division/country:in/state:tn/cd:thanjavur,Tamil Nadu Lok Sabha constituency Thanjavur,,
+ocd-division/country:in/state:tn/cd:sivaganga,Tamil Nadu Lok Sabha constituency Sivaganga,,
+ocd-division/country:in/state:tn/cd:madurai,Tamil Nadu Lok Sabha constituency Madurai,,
+ocd-division/country:in/state:tn/cd:theni,Tamil Nadu Lok Sabha constituency Theni,,
+ocd-division/country:in/state:tn/cd:virudhunagar,Tamil Nadu Lok Sabha constituency Virudhunagar,,
+ocd-division/country:in/state:tn/cd:ramanathapuram,Tamil Nadu Lok Sabha constituency Ramanathapuram,,
+ocd-division/country:in/state:tn/cd:thoothukudi,Tamil Nadu Lok Sabha constituency Thoothukudi,,
+ocd-division/country:in/state:tn/cd:tenkasi,Tamil Nadu Lok Sabha constituency Tenkasi (SC),,
+ocd-division/country:in/state:tn/cd:tirunelveli,Tamil Nadu Lok Sabha constituency Tirunelveli,,
+ocd-division/country:in/state:tn/cd:kanyakumari,Tamil Nadu Lok Sabha constituency Kanyakumari,,
+ocd-division/country:in/state:tg/cd:adilabad,Telangana Lok Sabha constituency Adilabad (ST),,
+ocd-division/country:in/state:tg/cd:peddapalle,Telangana Lok Sabha constituency Peddapalle (SC),,
+ocd-division/country:in/state:tg/cd:karimnagar,Telangana Lok Sabha constituency Karimnagar,,
+ocd-division/country:in/state:tg/cd:nizamabad,Telangana Lok Sabha constituency Nizamabad,,
+ocd-division/country:in/state:tg/cd:zahirabad,Telangana Lok Sabha constituency Zahirabad,,
+ocd-division/country:in/state:tg/cd:medak,Telangana Lok Sabha constituency Medak,,
+ocd-division/country:in/state:tg/cd:malkajgiri,Telangana Lok Sabha constituency Malkajgiri,,
+ocd-division/country:in/state:tg/cd:secunderabad,Telangana Lok Sabha constituency Secunderabad,,
+ocd-division/country:in/state:tg/cd:hyderabad,Telangana Lok Sabha constituency Hyderabad,,
+ocd-division/country:in/state:tg/cd:chevella,Telangana Lok Sabha constituency Chevella,,
+ocd-division/country:in/state:tg/cd:mahbubnagar,Telangana Lok Sabha constituency Mahbubnagar,,
+ocd-division/country:in/state:tg/cd:nagarkurnool,Telangana Lok Sabha constituency Nagarkurnool (SC),,
+ocd-division/country:in/state:tg/cd:nalgonda,Telangana Lok Sabha constituency Nalgonda,,
+ocd-division/country:in/state:tg/cd:bhongir,Telangana Lok Sabha constituency Bhongir,,
+ocd-division/country:in/state:tg/cd:warangal,Telangana Lok Sabha constituency Warangal (SC),,
+ocd-division/country:in/state:tg/cd:mahabubabad,Telangana Lok Sabha constituency Mahabubabad (ST),,
+ocd-division/country:in/state:tg/cd:khammam,Telangana Lok Sabha constituency Khammam,,
+ocd-division/country:in/state:tr/cd:tripura_west,Tripura Lok Sabha constituency Tripura West,,
+ocd-division/country:in/state:tr/cd:tripura_east,Tripura Lok Sabha constituency Tripura East (ST),,
+ocd-division/country:in/state:up/cd:saharanpur,Uttar Pradesh Lok Sabha constituency Saharanpur,,
+ocd-division/country:in/state:up/cd:kairana,Uttar Pradesh Lok Sabha constituency Kairana,,
+ocd-division/country:in/state:up/cd:muzaffarnagar,Uttar Pradesh Lok Sabha constituency Muzaffarnagar,,
+ocd-division/country:in/state:up/cd:bijnor,Uttar Pradesh Lok Sabha constituency Bijnor,,
+ocd-division/country:in/state:up/cd:nagina,Uttar Pradesh Lok Sabha constituency Nagina (SC),,
+ocd-division/country:in/state:up/cd:moradabad,Uttar Pradesh Lok Sabha constituency Moradabad,,
+ocd-division/country:in/state:up/cd:rampur,Uttar Pradesh Lok Sabha constituency Rampur,,
+ocd-division/country:in/state:up/cd:sambhal,Uttar Pradesh Lok Sabha constituency Sambhal,,
+ocd-division/country:in/state:up/cd:amroha,Uttar Pradesh Lok Sabha constituency Amroha,,
+ocd-division/country:in/state:up/cd:meerut,Uttar Pradesh Lok Sabha constituency Meerut,,
+ocd-division/country:in/state:up/cd:baghpat,Uttar Pradesh Lok Sabha constituency Baghpat,,
+ocd-division/country:in/state:up/cd:ghaziabad,Uttar Pradesh Lok Sabha constituency Ghaziabad,,
+ocd-division/country:in/state:up/cd:gautam_buddha_nagar,Uttar Pradesh Lok Sabha constituency Gautam Buddha Nagar,,
+ocd-division/country:in/state:up/cd:bulandshahr,Uttar Pradesh Lok Sabha constituency Bulandshahr (SC),,
+ocd-division/country:in/state:up/cd:aligarh,Uttar Pradesh Lok Sabha constituency Aligarh,,
+ocd-division/country:in/state:up/cd:hathras,Uttar Pradesh Lok Sabha constituency Hathras (SC),,
+ocd-division/country:in/state:up/cd:mathura,Uttar Pradesh Lok Sabha constituency Mathura,,
+ocd-division/country:in/state:up/cd:agra,Uttar Pradesh Lok Sabha constituency Agra (SC),,
+ocd-division/country:in/state:up/cd:fatehpur_sikri,Uttar Pradesh Lok Sabha constituency Fatehpur Sikri,,
+ocd-division/country:in/state:up/cd:firozabad,Uttar Pradesh Lok Sabha constituency Firozabad,,
+ocd-division/country:in/state:up/cd:mainpuri,Uttar Pradesh Lok Sabha constituency Mainpuri,,
+ocd-division/country:in/state:up/cd:etah,Uttar Pradesh Lok Sabha constituency Etah,,
+ocd-division/country:in/state:up/cd:badaun,Uttar Pradesh Lok Sabha constituency Badaun,,
+ocd-division/country:in/state:up/cd:aonla,Uttar Pradesh Lok Sabha constituency Aonla,,
+ocd-division/country:in/state:up/cd:bareilly,Uttar Pradesh Lok Sabha constituency Bareilly,,
+ocd-division/country:in/state:up/cd:pilibhit,Uttar Pradesh Lok Sabha constituency Pilibhit,,
+ocd-division/country:in/state:up/cd:shahjahanpur,Uttar Pradesh Lok Sabha constituency Shahjahanpur (SC),,
+ocd-division/country:in/state:up/cd:kheri,Uttar Pradesh Lok Sabha constituency Kheri,,
+ocd-division/country:in/state:up/cd:dhaurahra,Uttar Pradesh Lok Sabha constituency Dhaurahra,,
+ocd-division/country:in/state:up/cd:sitapur,Uttar Pradesh Lok Sabha constituency Sitapur,,
+ocd-division/country:in/state:up/cd:hardoi,Uttar Pradesh Lok Sabha constituency Hardoi (SC),,
+ocd-division/country:in/state:up/cd:misrikh,Uttar Pradesh Lok Sabha constituency Misrikh (SC),,
+ocd-division/country:in/state:up/cd:unnao,Uttar Pradesh Lok Sabha constituency Unnao,,
+ocd-division/country:in/state:up/cd:mohanlalganj,Uttar Pradesh Lok Sabha constituency Mohanlalganj (SC),,
+ocd-division/country:in/state:up/cd:lucknow,Uttar Pradesh Lok Sabha constituency Lucknow,,
+ocd-division/country:in/state:up/cd:rae_bareli,Uttar Pradesh Lok Sabha constituency Rae Bareli,,
+ocd-division/country:in/state:up/cd:amethi,Uttar Pradesh Lok Sabha constituency Amethi,,
+ocd-division/country:in/state:up/cd:sultanpur,Uttar Pradesh Lok Sabha constituency Sultanpur,,
+ocd-division/country:in/state:up/cd:pratapgarh,Uttar Pradesh Lok Sabha constituency Pratapgarh,,
+ocd-division/country:in/state:up/cd:farrukhabad,Uttar Pradesh Lok Sabha constituency Farrukhabad,,
+ocd-division/country:in/state:up/cd:etawah,Uttar Pradesh Lok Sabha constituency Etawah (SC),,
+ocd-division/country:in/state:up/cd:kannauj,Uttar Pradesh Lok Sabha constituency Kannauj,,
+ocd-division/country:in/state:up/cd:kanpur_urban,Uttar Pradesh Lok Sabha constituency Kanpur Urban,,
+ocd-division/country:in/state:up/cd:akbarpur,Uttar Pradesh Lok Sabha constituency Akbarpur,,
+ocd-division/country:in/state:up/cd:jalaun,Uttar Pradesh Lok Sabha constituency Jalaun (SC),,
+ocd-division/country:in/state:up/cd:jhansi,Uttar Pradesh Lok Sabha constituency Jhansi,,
+ocd-division/country:in/state:up/cd:hamirpur,Uttar Pradesh Lok Sabha constituency Hamirpur,,
+ocd-division/country:in/state:up/cd:banda,Uttar Pradesh Lok Sabha constituency Banda,,
+ocd-division/country:in/state:up/cd:fatehpur,Uttar Pradesh Lok Sabha constituency Fatehpur,,
+ocd-division/country:in/state:up/cd:kaushambi,Uttar Pradesh Lok Sabha constituency Kaushambi (SC),,
+ocd-division/country:in/state:up/cd:phulpur,Uttar Pradesh Lok Sabha constituency Phulpur,,
+ocd-division/country:in/state:up/cd:allahabad,Uttar Pradesh Lok Sabha constituency Allahabad,,
+ocd-division/country:in/state:up/cd:barabanki,Uttar Pradesh Lok Sabha constituency Barabanki (SC),,
+ocd-division/country:in/state:up/cd:faizabad,Uttar Pradesh Lok Sabha constituency Faizabad,,
+ocd-division/country:in/state:up/cd:ambedkar_nagar,Uttar Pradesh Lok Sabha constituency Ambedkar Nagar,,
+ocd-division/country:in/state:up/cd:bahraich,Uttar Pradesh Lok Sabha constituency Bahraich (SC),,
+ocd-division/country:in/state:up/cd:kaiserganj,Uttar Pradesh Lok Sabha constituency Kaiserganj,,
+ocd-division/country:in/state:up/cd:shrawasti,Uttar Pradesh Lok Sabha constituency Shrawasti,,
+ocd-division/country:in/state:up/cd:gonda,Uttar Pradesh Lok Sabha constituency Gonda,,
+ocd-division/country:in/state:up/cd:domariyaganj,Uttar Pradesh Lok Sabha constituency Domariyaganj,,
+ocd-division/country:in/state:up/cd:basti,Uttar Pradesh Lok Sabha constituency Basti,,
+ocd-division/country:in/state:up/cd:sant_kabir_nagar,Uttar Pradesh Lok Sabha constituency Sant Kabir Nagar,,
+ocd-division/country:in/state:up/cd:maharajganj,Uttar Pradesh Lok Sabha constituency Maharajganj,,
+ocd-division/country:in/state:up/cd:gorakhpur,Uttar Pradesh Lok Sabha constituency Gorakhpur,,
+ocd-division/country:in/state:up/cd:kushi_nagar,Uttar Pradesh Lok Sabha constituency Kushi Nagar,,
+ocd-division/country:in/state:up/cd:deoria,Uttar Pradesh Lok Sabha constituency Deoria,,
+ocd-division/country:in/state:up/cd:bansgaon,Uttar Pradesh Lok Sabha constituency Bansgaon (SC),,
+ocd-division/country:in/state:up/cd:lalganj,Uttar Pradesh Lok Sabha constituency Lalganj (SC),,
+ocd-division/country:in/state:up/cd:azamgarh,Uttar Pradesh Lok Sabha constituency Azamgarh,,
+ocd-division/country:in/state:up/cd:ghosi,Uttar Pradesh Lok Sabha constituency Ghosi,,
+ocd-division/country:in/state:up/cd:salempur,Uttar Pradesh Lok Sabha constituency Salempur,,
+ocd-division/country:in/state:up/cd:ballia,Uttar Pradesh Lok Sabha constituency Ballia,,
+ocd-division/country:in/state:up/cd:jaunpur,Uttar Pradesh Lok Sabha constituency Jaunpur,,
+ocd-division/country:in/state:up/cd:machhlishahr,Uttar Pradesh Lok Sabha constituency Machhlishahr (SC),,
+ocd-division/country:in/state:up/cd:ghazipur,Uttar Pradesh Lok Sabha constituency Ghazipur,,
+ocd-division/country:in/state:up/cd:chandauli,Uttar Pradesh Lok Sabha constituency Chandauli,,
+ocd-division/country:in/state:up/cd:varanasi,Uttar Pradesh Lok Sabha constituency Varanasi,,
+ocd-division/country:in/state:up/cd:bhadohi,Uttar Pradesh Lok Sabha constituency Bhadohi,,
+ocd-division/country:in/state:up/cd:mirzapur,Uttar Pradesh Lok Sabha constituency Mirzapur,,
+ocd-division/country:in/state:up/cd:robertsganj,Uttar Pradesh Lok Sabha constituency Robertsganj (SC),,
+ocd-division/country:in/state:ut/cd:tehri_garhwal,Uttarakhand Lok Sabha constituency Tehri Garhwal,,
+ocd-division/country:in/state:ut/cd:garhwal,Uttarakhand Lok Sabha constituency Garhwal,,
+ocd-division/country:in/state:ut/cd:almora,Uttarakhand Lok Sabha constituency Almora (SC),,
+ocd-division/country:in/state:ut/cd:nainital-udhamsingh_nagar,Uttarakhand Lok Sabha constituency Nainital-Udhamsingh Nagar,,
+ocd-division/country:in/state:ut/cd:haridwar,Uttarakhand Lok Sabha constituency Haridwar,,
+ocd-division/country:in/state:wb/cd:cooch_behar,West Bengal Lok Sabha constituency Cooch Behar (SC),,
+ocd-division/country:in/state:wb/cd:alipurduars,West Bengal Lok Sabha constituency Alipurduars (ST),,
+ocd-division/country:in/state:wb/cd:jalpaiguri,West Bengal Lok Sabha constituency Jalpaiguri (SC),,
+ocd-division/country:in/state:wb/cd:darjeeling,West Bengal Lok Sabha constituency Darjeeling,,
+ocd-division/country:in/state:wb/cd:raiganj,West Bengal Lok Sabha constituency Raiganj,,
+ocd-division/country:in/state:wb/cd:balurghat,West Bengal Lok Sabha constituency Balurghat,,
+ocd-division/country:in/state:wb/cd:maldaha_uttar,West Bengal Lok Sabha constituency Maldaha Uttar,,
+ocd-division/country:in/state:wb/cd:maldaha_dakshin,West Bengal Lok Sabha constituency Maldaha Dakshin,,
+ocd-division/country:in/state:wb/cd:jangipur,West Bengal Lok Sabha constituency Jangipur,,
+ocd-division/country:in/state:wb/cd:baharampur,West Bengal Lok Sabha constituency Baharampur,,
+ocd-division/country:in/state:wb/cd:murshidabad,West Bengal Lok Sabha constituency Murshidabad,,
+ocd-division/country:in/state:wb/cd:krishnanagar,West Bengal Lok Sabha constituency Krishnanagar,,
+ocd-division/country:in/state:wb/cd:ranaghat,West Bengal Lok Sabha constituency Ranaghat (SC),,
+ocd-division/country:in/state:wb/cd:bangaon,West Bengal Lok Sabha constituency Bangaon (SC),,
+ocd-division/country:in/state:wb/cd:barrackpur,West Bengal Lok Sabha constituency Barrackpur,,
+ocd-division/country:in/state:wb/cd:dum_dum,West Bengal Lok Sabha constituency Dum Dum,,
+ocd-division/country:in/state:wb/cd:barasat,West Bengal Lok Sabha constituency Barasat,,
+ocd-division/country:in/state:wb/cd:basirhat,West Bengal Lok Sabha constituency Basirhat,,
+ocd-division/country:in/state:wb/cd:jaynagar,West Bengal Lok Sabha constituency Jaynagar (SC),,
+ocd-division/country:in/state:wb/cd:mathurapur,West Bengal Lok Sabha constituency Mathurapur (SC),,
+ocd-division/country:in/state:wb/cd:diamond_harbour,West Bengal Lok Sabha constituency Diamond Harbour,,
+ocd-division/country:in/state:wb/cd:jadavpur,West Bengal Lok Sabha constituency Jadavpur,,
+ocd-division/country:in/state:wb/cd:kolkata_dakshin,West Bengal Lok Sabha constituency Kolkata Dakshin,,
+ocd-division/country:in/state:wb/cd:kolkata_uttar,West Bengal Lok Sabha constituency Kolkata Uttar,,
+ocd-division/country:in/state:wb/cd:howrah,West Bengal Lok Sabha constituency Howrah,,
+ocd-division/country:in/state:wb/cd:uluberia,West Bengal Lok Sabha constituency Uluberia,,
+ocd-division/country:in/state:wb/cd:srerampur,West Bengal Lok Sabha constituency Srerampur,,
+ocd-division/country:in/state:wb/cd:hooghly,West Bengal Lok Sabha constituency Hooghly,,
+ocd-division/country:in/state:wb/cd:arambag,West Bengal Lok Sabha constituency Arambag (SC),,
+ocd-division/country:in/state:wb/cd:tamluk,West Bengal Lok Sabha constituency Tamluk,,
+ocd-division/country:in/state:wb/cd:kanthi,West Bengal Lok Sabha constituency Kanthi,,
+ocd-division/country:in/state:wb/cd:ghatal,West Bengal Lok Sabha constituency Ghatal,,
+ocd-division/country:in/state:wb/cd:jhargram,West Bengal Lok Sabha constituency Jhargram (ST),,
+ocd-division/country:in/state:wb/cd:medinipur,West Bengal Lok Sabha constituency Medinipur,,
+ocd-division/country:in/state:wb/cd:purulia,West Bengal Lok Sabha constituency Purulia,,
+ocd-division/country:in/state:wb/cd:bankura,West Bengal Lok Sabha constituency Bankura,,
+ocd-division/country:in/state:wb/cd:bishnupur,West Bengal Lok Sabha constituency Bishnupur (SC),,
+ocd-division/country:in/state:wb/cd:bardhaman_purba,West Bengal Lok Sabha constituency Bardhaman Purba (SC),,
+ocd-division/country:in/state:wb/cd:bardhaman-durgapur,West Bengal Lok Sabha constituency Bardhaman-Durgapur,,
+ocd-division/country:in/state:wb/cd:asansol,West Bengal Lok Sabha constituency Asansol,,
+ocd-division/country:in/state:wb/cd:bolpur,West Bengal Lok Sabha constituency Bolpur (SC),,
+ocd-division/country:in/state:wb/cd:birbhum,West Bengal Lok Sabha constituency Birbhum,,
+ocd-division/country:in/territory:an/cd:andaman_and_nicobar_islands,Andaman and Nicobar Islands Lok Sabha constituency Andaman and Nicobar Islands,,
+ocd-division/country:in/territory:ch/cd:chandigarh,Chandigarh Lok Sabha constituency Chandigarh,,
+ocd-division/country:in/territory:dn/cd:dadra_and_nagar_haveli,Dadra and Nagar Haveli Lok Sabha constituency Dadra and Nagar Haveli (ST),,2020-01-25
+ocd-division/country:in/territory:dd/cd:daman_and_diu,Daman and Diu Lok Sabha constituency Daman and Diu,,2020-01-25
+ocd-division/country:in/territory:dh/cd:dadra_and_nagar_haveli,Dadra and Nagar Haveli and Daman and Diu Lok Sabha constituency Nagar Haveli,2020-01-26,
+ocd-division/country:in/territory:dh/cd:daman_and_diu,Dadra and Nagar Haveli and Daman and Diu Lok Sabha constituency Daman and Diu,2020-01-26,
+ocd-division/country:in/territory:ld/cd:lakshadweep,Lakshadweep Lok Sabha constituency Lakshadweep (ST),,
+ocd-division/country:in/territory:dl/cd:chandni_chowk,Delhi Lok Sabha constituency Chandni Chowk,,
+ocd-division/country:in/territory:dl/cd:north_east_delhi,Delhi Lok Sabha constituency North East Delhi,,
+ocd-division/country:in/territory:dl/cd:east_delhi,Delhi Lok Sabha constituency East Delhi,,
+ocd-division/country:in/territory:dl/cd:new_delhi,Delhi Lok Sabha constituency New Delhi,,
+ocd-division/country:in/territory:dl/cd:north_west_delhi,Delhi Lok Sabha constituency North West Delhi (SC),,
+ocd-division/country:in/territory:dl/cd:west_delhi,Delhi Lok Sabha constituency West Delhi,,
+ocd-division/country:in/territory:dl/cd:south_delhi,Delhi Lok Sabha constituency South Delhi,,
+ocd-division/country:in/territory:py/cd:puducherry,Puducherry Lok Sabha constituency Puducherry,,
+ocd-division/country:in/cd:anglo-indian_reserved_seats_1,Nominated Lok Sabha constituency Anglo-Indian reserved seat 1,,
+ocd-division/country:in/cd:anglo-indian_reserved_seats_2,Nominated Lok Sabha constituency Anglo-Indian reserved seat 2,,
