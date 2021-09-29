@@ -23,7 +23,7 @@ With that in mind, below are some interesting OCD Identifiers that might not see
 	
 ## place
 
-* Drop "city", "township", "borough" (etc) from the name of a place type unless the word city is in the census’s [place gazetteer file](http://www.census.gov/geo/maps-data/data/docs/gazetteer/Gaz_places_national.zip). Two examples:
+* Drop "city", "township", "borough" (etc) from the name of a place type unless the word city is in the census’s [place gazetteer file](https://www2.census.gov/geo/docs/maps-data/data/gazetteer/2021_Gazetteer/2021_Gaz_place_national.zip). Two examples:
 	* ocd-division/country:us/state:mo/place:[jefferson_city](http://en.wikipedia.org/wiki/Jefferson_City,_Missouri)
 	* ocd-division/country:us/state:mo/place:[jennings](http://en.wikipedia.org/wiki/Jennings,_MO)
 * Sometimes, for disambiguity, place reisdes under county. Example:
