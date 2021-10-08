@@ -1,38 +1,39 @@
-id,name
-ocd-division/country:in,India
-ocd-division/country:in/state:ap,Andhra Pradesh
-ocd-division/country:in/state:ar,Arunachal Pradesh
-ocd-division/country:in/state:as,Assam
-ocd-division/country:in/state:br,Bihar
-ocd-division/country:in/state:ct,Chhattisgarh
-ocd-division/country:in/state:ga,Goa
-ocd-division/country:in/state:gj,Gujarat
-ocd-division/country:in/state:hp,Himachal Pradesh
-ocd-division/country:in/state:hr,Haryana
-ocd-division/country:in/state:jh,Jharkhand
-ocd-division/country:in/state:jk,Jammu and Kashmir
-ocd-division/country:in/state:ka,Karnataka
-ocd-division/country:in/state:kl,Kerala
-ocd-division/country:in/state:mh,Maharashtra
-ocd-division/country:in/state:ml,Meghalaya
-ocd-division/country:in/state:mn,Manipur
-ocd-division/country:in/state:mp,Madhya Pradesh
-ocd-division/country:in/state:mz,Mizoram
-ocd-division/country:in/state:nl,Nagaland
-ocd-division/country:in/state:or,Orissa
-ocd-division/country:in/state:pb,Punjab
-ocd-division/country:in/state:rj,Rajasthan
-ocd-division/country:in/state:sk,Sikkim
-ocd-division/country:in/state:tg,Telangana
-ocd-division/country:in/state:tn,Tamil Nadu
-ocd-division/country:in/state:tr,Tripura
-ocd-division/country:in/state:up,Uttar Pradesh
-ocd-division/country:in/state:ut,Uttarakhand
-ocd-division/country:in/state:wb,West Bengal
-ocd-division/country:in/territory:an,Andaman and Nicobar Islands
-ocd-division/country:in/territory:ch,Chandigarh
-ocd-division/country:in/territory:dd,Daman and Diu
-ocd-division/country:in/territory:dl,Delhi
-ocd-division/country:in/territory:dn,Dadra and Nagar Haveli
-ocd-division/country:in/territory:ld,Lakshadweep
-ocd-division/country:in/territory:py,Puducherry
+id,name,validFrom,validTo
+ocd-division/country:in,India,,
+ocd-division/country:in/state:ap,Andhra Pradesh,,
+ocd-division/country:in/state:ar,Arunachal Pradesh,,
+ocd-division/country:in/state:as,Assam,,
+ocd-division/country:in/state:br,Bihar,,
+ocd-division/country:in/state:ct,Chhattisgarh,,
+ocd-division/country:in/state:ga,Goa,,
+ocd-division/country:in/state:gj,Gujarat,,
+ocd-division/country:in/state:hp,Himachal Pradesh,,
+ocd-division/country:in/state:hr,Haryana,,
+ocd-division/country:in/state:jh,Jharkhand,,
+ocd-division/country:in/state:jk,Jammu and Kashmir,,
+ocd-division/country:in/state:ka,Karnataka,,
+ocd-division/country:in/state:kl,Kerala,,
+ocd-division/country:in/state:mh,Maharashtra,,
+ocd-division/country:in/state:ml,Meghalaya,,
+ocd-division/country:in/state:mn,Manipur,,
+ocd-division/country:in/state:mp,Madhya Pradesh,,
+ocd-division/country:in/state:mz,Mizoram,,
+ocd-division/country:in/state:nl,Nagaland,,
+ocd-division/country:in/state:or,Orissa,,
+ocd-division/country:in/state:pb,Punjab,,
+ocd-division/country:in/state:rj,Rajasthan,,
+ocd-division/country:in/state:sk,Sikkim,,
+ocd-division/country:in/state:tg,Telangana,,
+ocd-division/country:in/state:tn,Tamil Nadu,,
+ocd-division/country:in/state:tr,Tripura,,
+ocd-division/country:in/state:up,Uttar Pradesh,,
+ocd-division/country:in/state:ut,Uttarakhand,,
+ocd-division/country:in/state:wb,West Bengal,,
+ocd-division/country:in/territory:an,Andaman and Nicobar Islands,,
+ocd-division/country:in/territory:ch,Chandigarh,,
+ocd-division/country:in/territory:dd,Daman and Diu,,2020-01-25
+ocd-division/country:in/territory:dh,Dadra and Nagar Haveli and Daman and Diu,2020-01-26,
+ocd-division/country:in/territory:dl,Delhi,,
+ocd-division/country:in/territory:dn,Dadra and Nagar Haveli,,2020-01-25
+ocd-division/country:in/territory:ld,Lakshadweep,,
+ocd-division/country:in/territory:py,Puducherry,,
