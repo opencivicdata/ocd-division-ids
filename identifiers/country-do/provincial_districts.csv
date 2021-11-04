@@ -1,4 +1,16 @@
 id,name
+ocd-division/country:do/district:01,Distrito Nacional (Santo Domingo)
+ocd-division/country:do/district:01/ed:1,Distrito Nacional (Santo Domingo) - 1
+ocd-division/country:do/district:01/ed:2,Distrito Nacional (Santo Domingo) - 2
+ocd-division/country:do/district:01/ed:3,Distrito Nacional (Santo Domingo) - 3
+ocd-division/country:do/province:02,Azua
+ocd-division/country:do/province:03,Baoruco
+ocd-division/country:do/province:04,Barahona
+ocd-division/country:do/province:05,Dajabón
+ocd-division/country:do/province:06,Duarte
+ocd-division/country:do/province:07,Elías Piña
+ocd-division/country:do/province:08,El Seibo
+ocd-division/country:do/province:09,Espaillat
 ocd-division/country:do/province:10,Independencia
 ocd-division/country:do/province:11,La Altagracia
 ocd-division/country:do/province:12,La Romana
@@ -14,7 +26,6 @@ ocd-division/country:do/province:18/ed:1,Puerto Plata - 1
 ocd-division/country:do/province:18/ed:2,Puerto Plata - 2
 ocd-division/country:do/province:18/ed:3,Puerto Plata - 3
 ocd-division/country:do/province:19,Hermanas Mirabal
-ocd-division/country:do/province:2,Azua
 ocd-division/country:do/province:20,Samaná
 ocd-division/country:do/province:21,San Cristóbal
 ocd-division/country:do/province:21/ed:1,San Cristóbal - 1 
@@ -31,7 +42,6 @@ ocd-division/country:do/province:26,Santiago Rodríguez
 ocd-division/country:do/province:27,Valverde
 ocd-division/country:do/province:28,Monseñor Nouel
 ocd-division/country:do/province:29,Monte Plata
-ocd-division/country:do/province:3,Baoruco
 ocd-division/country:do/province:30,Hato Mayor
 ocd-division/country:do/province:31,San José de Ocoa
 ocd-division/country:do/province:32,Santo Domingo
@@ -41,17 +51,7 @@ ocd-division/country:do/province:32/ed:3,Santo Domingo - 3
 ocd-division/country:do/province:32/ed:4,Santo Domingo - 4
 ocd-division/country:do/province:32/ed:5,Santo Domingo - 5
 ocd-division/country:do/province:32/ed:6,Santo Domingo - 6
-ocd-division/country:do/province:4,Barahona
-ocd-division/country:do/province:5,Dajabón
-ocd-division/country:do/province:6,Duarte
-ocd-division/country:do/province:7,Elías Piña
-ocd-division/country:do/province:8,El Seibo
-ocd-division/country:do/province:9,Espaillat
 ocd-division/country:do/special:diaspora,Overseas
 ocd-division/country:do/special:diaspora/ed:1,Overseas -1 
 ocd-division/country:do/special:diaspora/ed:2,Overseas -2
 ocd-division/country:do/special:diaspora/ed:3,Overseas -3
-ocd-division/country:do/state:1,Distrito Nacional (Santo Domingo)
-ocd-division/country:do/state:1/ed:1,Distrito Nacional (Santo Domingo) - 1
-ocd-division/country:do/state:1/ed:2,Distrito Nacional (Santo Domingo) - 2
-ocd-division/country:do/state:1/ed:3,Distrito Nacional (Santo Domingo) - 3
