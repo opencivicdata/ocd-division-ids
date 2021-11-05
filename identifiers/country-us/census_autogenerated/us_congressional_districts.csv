@@ -1,4 +1,5 @@
 id,name,census_geoid,validThrough
+ocd-division/country:us/district:dc/cd:at-large,District of Columbia's at-large congressional district,,
 ocd-division/country:us/state:ak/cd:at-large,Alaska's at-large congressional district,,
 ocd-division/country:us/state:al/cd:1,Alabama's 1st congressional district,cd-0101,
 ocd-division/country:us/state:al/cd:2,Alabama's 2nd congressional district,cd-0102,
