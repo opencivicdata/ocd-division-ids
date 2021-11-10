@@ -1,0 +1,7 @@
+README
+
+File contents in `country-lk` directory:
+*   electoral_districts.csv: contains 22 multi-member electoral districts for Sri Lankan Parliament
+
+OCD ID Types used used:
+*   ed : represents the electoral district
