@@ -1,2 +1,33 @@
 id,name
 ocd-division/country:eg,Egypt
+ocd-division/country:eg/ed:cairo_central_southern_delta,"Cairo, Central and Southern Delta"
+ocd-division/country:eg/ed:eastern_delta,Eastern Delta
+ocd-division/country:eg/ed:northern_central_southern_upper_egypt,"Northern, Central and Southern Upper Egypt"
+ocd-division/country:eg/ed:western_delta,Western Delta
+ocd-division/country:eg/governorate:alx,Al Iskandarīyah
+ocd-division/country:eg/governorate:asn,Aswān
+ocd-division/country:eg/governorate:ast,Asyūţ
+ocd-division/country:eg/governorate:ba,Al Baḩr al Aḩmar
+ocd-division/country:eg/governorate:bh,Al Buḩayrah
+ocd-division/country:eg/governorate:bns,Banī Suwayf
+ocd-division/country:eg/governorate:c,Al Qāhirah
+ocd-division/country:eg/governorate:dk,Ad Daqahlīyah
+ocd-division/country:eg/governorate:dt,Dumyāţ
+ocd-division/country:eg/governorate:fym,Al Fayyūm
+ocd-division/country:eg/governorate:gh,Al Gharbīyah
+ocd-division/country:eg/governorate:gz,Al Jīzah
+ocd-division/country:eg/governorate:is,Al Ismā'īlīyah
+ocd-division/country:eg/governorate:js,Janūb Sīnā'
+ocd-division/country:eg/governorate:kb,Al Qalyūbīyah
+ocd-division/country:eg/governorate:kfs,Kafr ash Shaykh
+ocd-division/country:eg/governorate:kn,Qinā
+ocd-division/country:eg/governorate:lx,Al Uqşur
+ocd-division/country:eg/governorate:mn,Al Minyā
+ocd-division/country:eg/governorate:mnf,Al Minūfīyah
+ocd-division/country:eg/governorate:mt,Maţrūḩ
+ocd-division/country:eg/governorate:pts,Būr Sa‘īd
+ocd-division/country:eg/governorate:shg,Sūhāj
+ocd-division/country:eg/governorate:shr,Ash Sharqīyah
+ocd-division/country:eg/governorate:sin,Shamāl Sīnā'
+ocd-division/country:eg/governorate:suz,As Suways
+ocd-division/country:eg/governorate:wad,Al Wādī al Jadīd
