@@ -1,83 +1,49 @@
 id,name
-ocd-division/country:do,Dominican Republic
-ocd-division/country:do/district:01,Distrito Nacional (Santo Domingo)
 ocd-division/country:do/district:01/ed:1,Distrito Nacional (Santo Domingo) - 1
 ocd-division/country:do/district:01/ed:2,Distrito Nacional (Santo Domingo) - 2
 ocd-division/country:do/district:01/ed:3,Distrito Nacional (Santo Domingo) - 3
-ocd-division/country:do/province:02,Azua
 ocd-division/country:do/province:02/ed:at-large,Azua
-ocd-division/country:do/province:03,Baoruco
 ocd-division/country:do/province:03/ed:at-large,Baoruco
-ocd-division/country:do/province:04,Barahona
 ocd-division/country:do/province:04/ed:at-large,Barahona
-ocd-division/country:do/province:05,Dajabón
 ocd-division/country:do/province:05/ed:at-large,Dajabón
-ocd-division/country:do/province:06,Duarte
 ocd-division/country:do/province:06/ed:at-large,Duarte
-ocd-division/country:do/province:07,Elías Piña
 ocd-division/country:do/province:07/ed:at-large,Elías Piña
-ocd-division/country:do/province:08,El Seibo
 ocd-division/country:do/province:08/ed:at-large,El Seibo
-ocd-division/country:do/province:09,Espaillat
 ocd-division/country:do/province:09/ed:at-large,Espaillat
-ocd-division/country:do/province:10,Independencia
 ocd-division/country:do/province:10/ed:at-large,Independencia
-ocd-division/country:do/province:11,La Altagracia
 ocd-division/country:do/province:11/ed:at-large,La Altagracia
-ocd-division/country:do/province:12,La Romana
 ocd-division/country:do/province:12/ed:at-large,La Romana
-ocd-division/country:do/province:13,La Vega
 ocd-division/country:do/province:13/ed:1,La Vega - 1
 ocd-division/country:do/province:13/ed:2,La Vega - 2
-ocd-division/country:do/province:14,María Trinidad Sánchez
 ocd-division/country:do/province:14/ed:at-large,María Trinidad Sánchez
-ocd-division/country:do/province:15,Monte Cristi
 ocd-division/country:do/province:15/ed:at-large,Monte Cristi
-ocd-division/country:do/province:16,Pedernales
 ocd-division/country:do/province:16/ed:at-large,Pedernales
-ocd-division/country:do/province:17,Peravia
 ocd-division/country:do/province:17/ed:at-large,Peravia
-ocd-division/country:do/province:18,Puerto Plata
 ocd-division/country:do/province:18/ed:1,Puerto Plata - 1
 ocd-division/country:do/province:18/ed:2,Puerto Plata - 2
-ocd-division/country:do/province:19,Hermanas Mirabal
 ocd-division/country:do/province:19/ed:at-large,Hermanas Mirabal
-ocd-division/country:do/province:20,Samaná
 ocd-division/country:do/province:20/ed:at-large,Samaná
-ocd-division/country:do/province:21,San Cristóbal
 ocd-division/country:do/province:21/ed:1,San Cristóbal - 1 
 ocd-division/country:do/province:21/ed:2,San Cristóbal - 2
 ocd-division/country:do/province:21/ed:3,San Cristóbal - 3
-ocd-division/country:do/province:22,San Juan
 ocd-division/country:do/province:22/ed:at-large,San Juan
-ocd-division/country:do/province:23,San Pedro de Macorís
 ocd-division/country:do/province:23/ed:at-large,San Pedro de Macorís
-ocd-division/country:do/province:24,Sánchez Ramírez
 ocd-division/country:do/province:24/ed:at-large,Sánchez Ramírez
-ocd-division/country:do/province:25,Santiago
 ocd-division/country:do/province:25/ed:1,Santiago - 1
 ocd-division/country:do/province:25/ed:2,Santiago - 2
 ocd-division/country:do/province:25/ed:3,Santiago - 3
-ocd-division/country:do/province:26,Santiago Rodríguez
 ocd-division/country:do/province:26/ed:at-large,Santiago Rodríguez
-ocd-division/country:do/province:27,Valverde
 ocd-division/country:do/province:27/ed:at-large,Valverde
-ocd-division/country:do/province:28,Monseñor Nouel
 ocd-division/country:do/province:28/ed:at-large,Monseñor Nouel
-ocd-division/country:do/province:29,Monte Plata
 ocd-division/country:do/province:29/ed:at-large,Monte Plata
-ocd-division/country:do/province:30,Hato Mayor
 ocd-division/country:do/province:30/ed:at-large,Hato Mayor
-ocd-division/country:do/province:31,San José de Ocoa
 ocd-division/country:do/province:31/ed:at-large,San José de Ocoa
-ocd-division/country:do/province:32,Santo Domingo
 ocd-division/country:do/province:32/ed:1,Santo Domingo - 1
 ocd-division/country:do/province:32/ed:2,Santo Domingo - 2
 ocd-division/country:do/province:32/ed:3,Santo Domingo - 3
 ocd-division/country:do/province:32/ed:4,Santo Domingo - 4
 ocd-division/country:do/province:32/ed:5,Santo Domingo - 5
 ocd-division/country:do/province:32/ed:6,Santo Domingo - 6
-ocd-division/country:do/special:diaspora,Overseas
 ocd-division/country:do/special:diaspora/ed:1,Overseas - 1
 ocd-division/country:do/special:diaspora/ed:2,Overseas - 2
 ocd-division/country:do/special:diaspora/ed:3,Overseas - 3
