@@ -1,31 +1,21 @@
 id,name
-ocd-division/country:eg,Egypt
-ocd-division/country:eg/ed:cairo_central_southern_delta,"Cairo, Central and Southern Delta"
-ocd-division/country:eg/ed:eastern_delta,Eastern Delta
-ocd-division/country:eg/ed:northern_central_southern_upper_egypt,"Northern, Central and Southern Upper Egypt"
-ocd-division/country:eg/ed:western_delta,Western Delta
-ocd-division/country:eg/governorate:alx,Al Iskandarīyah
 ocd-division/country:eg/governorate:alx/ed:1,Al Iskandarīyah - 1st district
 ocd-division/country:eg/governorate:alx/ed:2,Al Iskandarīyah - 2nd district
 ocd-division/country:eg/governorate:alx/ed:3,Al Iskandarīyah - 3rd district
 ocd-division/country:eg/governorate:alx/ed:4,Al Iskandarīyah - 4th district
 ocd-division/country:eg/governorate:alx/ed:5,Al Iskandarīyah - 5th district
 ocd-division/country:eg/governorate:alx/ed:6,Al Iskandarīyah - 6th district
-ocd-division/country:eg/governorate:asn,Aswān
 ocd-division/country:eg/governorate:asn/ed:1,Aswān - 1st district
 ocd-division/country:eg/governorate:asn/ed:2,Aswān - 2nd district
 ocd-division/country:eg/governorate:asn/ed:3,Aswān - 3rd district
 ocd-division/country:eg/governorate:asn/ed:4,Aswān - 4th district
-ocd-division/country:eg/governorate:ast,Asyūţ
 ocd-division/country:eg/governorate:ast/ed:1,Asyūţ - 1st district
 ocd-division/country:eg/governorate:ast/ed:2,Asyūţ - 2nd district
 ocd-division/country:eg/governorate:ast/ed:3,Asyūţ - 3rd district
 ocd-division/country:eg/governorate:ast/ed:4,Asyūţ - 4th district
-ocd-division/country:eg/governorate:ba,Al Baḩr al Aḩmar
 ocd-division/country:eg/governorate:ba/ed:1,Al Baḩr al Aḩmar - 1st district
 ocd-division/country:eg/governorate:ba/ed:2,Al Baḩr al Aḩmar - 2nd district
 ocd-division/country:eg/governorate:ba/ed:3,Al Baḩr al Aḩmar - 3rd district
-ocd-division/country:eg/governorate:bh,Al Buḩayrah
 ocd-division/country:eg/governorate:bh/ed:1,Al Buḩayrah - 1st district
 ocd-division/country:eg/governorate:bh/ed:2,Al Buḩayrah - 2nd district
 ocd-division/country:eg/governorate:bh/ed:3,Al Buḩayrah - 3rd district
@@ -35,12 +25,10 @@ ocd-division/country:eg/governorate:bh/ed:6,Al Buḩayrah - 6th district
 ocd-division/country:eg/governorate:bh/ed:7,Al Buḩayrah - 7th district
 ocd-division/country:eg/governorate:bh/ed:8,Al Buḩayrah - 8th district
 ocd-division/country:eg/governorate:bh/ed:9,Al Buḩayrah - 9th district
-ocd-division/country:eg/governorate:bns,Banī Suwayf
 ocd-division/country:eg/governorate:bns/ed:1,Banī Suwayf - 1st district
 ocd-division/country:eg/governorate:bns/ed:2,Banī Suwayf - 2nd district
 ocd-division/country:eg/governorate:bns/ed:3,Banī Suwayf - 3rd district
 ocd-division/country:eg/governorate:bns/ed:4,Banī Suwayf - 4th district
-ocd-division/country:eg/governorate:c,Al Qāhirah
 ocd-division/country:eg/governorate:c/ed:1,Al Qāhirah - 1st district
 ocd-division/country:eg/governorate:c/ed:10,Al Qāhirah - 10th district
 ocd-division/country:eg/governorate:c/ed:11,Al Qāhirah - 11th district
@@ -60,7 +48,6 @@ ocd-division/country:eg/governorate:c/ed:6,Al Qāhirah - 6th district
 ocd-division/country:eg/governorate:c/ed:7,Al Qāhirah - 7th district
 ocd-division/country:eg/governorate:c/ed:8,Al Qāhirah - 8th district
 ocd-division/country:eg/governorate:c/ed:9,Al Qāhirah - 9th district
-ocd-division/country:eg/governorate:dk,Ad Daqahlīyah
 ocd-division/country:eg/governorate:dk/ed:1,Ad Daqahlīyah - 1st district
 ocd-division/country:eg/governorate:dk/ed:10,Ad Daqahlīyah - 10th district
 ocd-division/country:eg/governorate:dk/ed:2,Ad Daqahlīyah - 2nd district
@@ -71,15 +58,12 @@ ocd-division/country:eg/governorate:dk/ed:6,Ad Daqahlīyah - 6th district
 ocd-division/country:eg/governorate:dk/ed:7,Ad Daqahlīyah - 7th district
 ocd-division/country:eg/governorate:dk/ed:8,Ad Daqahlīyah - 8th district
 ocd-division/country:eg/governorate:dk/ed:9,Ad Daqahlīyah - 9th district
-ocd-division/country:eg/governorate:dt,Dumyāţ
 ocd-division/country:eg/governorate:dt/ed:1,Dumyāţ - 1st district
 ocd-division/country:eg/governorate:dt/ed:2,Dumyāţ - 2nd district
-ocd-division/country:eg/governorate:fym,Al Fayyūm
 ocd-division/country:eg/governorate:fym/ed:1,Al Fayyūm - 1st district
 ocd-division/country:eg/governorate:fym/ed:2,Al Fayyūm - 2nd district
 ocd-division/country:eg/governorate:fym/ed:3,Al Fayyūm - 3rd district
 ocd-division/country:eg/governorate:fym/ed:4,Al Fayyūm - 4th district
-ocd-division/country:eg/governorate:gh,Al Gharbīyah
 ocd-division/country:eg/governorate:gh/ed:1,Al Gharbīyah - 1st district
 ocd-division/country:eg/governorate:gh/ed:2,Al Gharbīyah - 2nd district
 ocd-division/country:eg/governorate:gh/ed:3,Al Gharbīyah - 3rd district
@@ -87,7 +71,6 @@ ocd-division/country:eg/governorate:gh/ed:4,Al Gharbīyah - 4th district
 ocd-division/country:eg/governorate:gh/ed:5,Al Gharbīyah - 5th district
 ocd-division/country:eg/governorate:gh/ed:6,Al Gharbīyah - 6th district
 ocd-division/country:eg/governorate:gh/ed:7,Al Gharbīyah - 7th district
-ocd-division/country:eg/governorate:gz,Al Jīzah
 ocd-division/country:eg/governorate:gz/ed:1,Al Jīzah - 1st district
 ocd-division/country:eg/governorate:gz/ed:10,Al Jīzah - 10th district
 ocd-division/country:eg/governorate:gz/ed:11,Al Jīzah - 11th district
@@ -100,55 +83,44 @@ ocd-division/country:eg/governorate:gz/ed:6,Al Jīzah - 6th district
 ocd-division/country:eg/governorate:gz/ed:7,Al Jīzah - 7th district
 ocd-division/country:eg/governorate:gz/ed:8,Al Jīzah - 8th district
 ocd-division/country:eg/governorate:gz/ed:9,Al Jīzah - 9th district
-ocd-division/country:eg/governorate:is,Al Ismā'īlīyah
 ocd-division/country:eg/governorate:is/ed:1,Al Ismā'īlīyah - 1st district
 ocd-division/country:eg/governorate:is/ed:2,Al Ismā'īlīyah - 2nd district
 ocd-division/country:eg/governorate:is/ed:3,Al Ismā'īlīyah - 3rd district
-ocd-division/country:eg/governorate:js,Janūb Sīnā'
 ocd-division/country:eg/governorate:js/ed:1,Janūb Sīnā' - 1st district
 ocd-division/country:eg/governorate:js/ed:2,Janūb Sīnā' - 2nd district
-ocd-division/country:eg/governorate:kb,Al Qalyūbīyah
 ocd-division/country:eg/governorate:kb/ed:1,Al Qalyūbīyah - 1st district
 ocd-division/country:eg/governorate:kb/ed:2,Al Qalyūbīyah - 2nd district
 ocd-division/country:eg/governorate:kb/ed:3,Al Qalyūbīyah - 3rd district
 ocd-division/country:eg/governorate:kb/ed:4,Al Qalyūbīyah - 4th district
 ocd-division/country:eg/governorate:kb/ed:5,Al Qalyūbīyah - 5th district
 ocd-division/country:eg/governorate:kb/ed:6,Al Qalyūbīyah - 6th district
-ocd-division/country:eg/governorate:kfs,Kafr ash Shaykh
 ocd-division/country:eg/governorate:kfs/ed:1,Kafr ash Shaykh - 1st district
 ocd-division/country:eg/governorate:kfs/ed:2,Kafr ash Shaykh - 2nd district
 ocd-division/country:eg/governorate:kfs/ed:3,Kafr ash Shaykh - 3rd district
 ocd-division/country:eg/governorate:kfs/ed:4,Kafr ash Shaykh - 4th district
-ocd-division/country:eg/governorate:kn,Qinā
 ocd-division/country:eg/governorate:kn/ed:1,Qinā - 1st district
 ocd-division/country:eg/governorate:kn/ed:2,Qinā - 2nd district
 ocd-division/country:eg/governorate:kn/ed:3,Qinā - 3rd district
 ocd-division/country:eg/governorate:kn/ed:4,Qinā - 4th district
-ocd-division/country:eg/governorate:lx,Al Uqşur
 ocd-division/country:eg/governorate:lx/ed:1,Al Uqşur - 1st district
 ocd-division/country:eg/governorate:lx/ed:2,Al Uqşur - 2nd district
 ocd-division/country:eg/governorate:lx/ed:3,Al Uqşur - 3rd district
-ocd-division/country:eg/governorate:mn,Al Minyā
 ocd-division/country:eg/governorate:mn/ed:1,Al Minyā - 1st district
 ocd-division/country:eg/governorate:mn/ed:2,Al Minyā - 2nd district
 ocd-division/country:eg/governorate:mn/ed:3,Al Minyā - 3rd district
 ocd-division/country:eg/governorate:mn/ed:4,Al Minyā - 4th district
 ocd-division/country:eg/governorate:mn/ed:5,Al Minyā - 5th district
 ocd-division/country:eg/governorate:mn/ed:6,Al Minyā - 6th district
-ocd-division/country:eg/governorate:mnf,Al Minūfīyah
 ocd-division/country:eg/governorate:mnf/ed:1,Al Minūfīyah - 1st district
 ocd-division/country:eg/governorate:mnf/ed:2,Al Minūfīyah - 2nd district
 ocd-division/country:eg/governorate:mnf/ed:3,Al Minūfīyah - 3rd district
 ocd-division/country:eg/governorate:mnf/ed:4,Al Minūfīyah - 4th district
 ocd-division/country:eg/governorate:mnf/ed:5,Al Minūfīyah - 5th district
 ocd-division/country:eg/governorate:mnf/ed:6,Al Minūfīyah - 6th district
-ocd-division/country:eg/governorate:mt,Maţrūḩ
 ocd-division/country:eg/governorate:mt/ed:1,Maţrūḩ - 1st district
 ocd-division/country:eg/governorate:mt/ed:2,Maţrūḩ - 2nd district
-ocd-division/country:eg/governorate:pts,Būr Sa‘īd
 ocd-division/country:eg/governorate:pts/ed:1,Būr Sa‘īd - 1st district
 ocd-division/country:eg/governorate:pts/ed:2,Būr Sa‘īd - 2nd district
-ocd-division/country:eg/governorate:shg,Sūhāj
 ocd-division/country:eg/governorate:shg/ed:1,Sūhāj - 1st district
 ocd-division/country:eg/governorate:shg/ed:2,Sūhāj - 2nd district
 ocd-division/country:eg/governorate:shg/ed:3,Sūhāj - 3rd district
@@ -157,7 +129,6 @@ ocd-division/country:eg/governorate:shg/ed:5,Sūhāj - 5th district
 ocd-division/country:eg/governorate:shg/ed:6,Sūhāj - 6th district
 ocd-division/country:eg/governorate:shg/ed:7,Sūhāj - 7th district
 ocd-division/country:eg/governorate:shg/ed:8,Sūhāj - 8th district
-ocd-division/country:eg/governorate:shr,Ash Sharqīyah
 ocd-division/country:eg/governorate:shr/ed:1,Ash Sharqīyah - 1st district
 ocd-division/country:eg/governorate:shr/ed:2,Ash Sharqīyah - 2nd district
 ocd-division/country:eg/governorate:shr/ed:3,Ash Sharqīyah - 3rd district
@@ -166,11 +137,8 @@ ocd-division/country:eg/governorate:shr/ed:5,Ash Sharqīyah - 5th district
 ocd-division/country:eg/governorate:shr/ed:6,Ash Sharqīyah - 6th district
 ocd-division/country:eg/governorate:shr/ed:7,Ash Sharqīyah - 7th district
 ocd-division/country:eg/governorate:shr/ed:8,Ash Sharqīyah - 8th district
-ocd-division/country:eg/governorate:sin,Shamāl Sīnā'
 ocd-division/country:eg/governorate:sin/ed:1,Shamāl Sīnā' - 1st district
 ocd-division/country:eg/governorate:sin/ed:2,Shamāl Sīnā' - 2nd district
-ocd-division/country:eg/governorate:suz,As Suways
 ocd-division/country:eg/governorate:suz/ed:1,As Suways - 1st district
-ocd-division/country:eg/governorate:wad,Al Wādī al Jadīd
 ocd-division/country:eg/governorate:wad/ed:1,Al Wādī al Jadīd - 1st district
 ocd-division/country:eg/governorate:wad/ed:2,Al Wādī al Jadīd - 2nd district
