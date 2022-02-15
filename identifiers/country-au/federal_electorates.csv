@@ -1,151 +1,164 @@
-id,name
-ocd-division/country:au/state:sa/federal_electorate:adelaide,South Australia - Federal House of Representatives Adelaide electorate
-ocd-division/country:au/state:vic/federal_electorate:aston,Victoria - Federal House of Representatives Aston electorate
-ocd-division/country:au/state:vic/federal_electorate:ballarat,Victoria - Federal House of Representatives Ballarat electorate
-ocd-division/country:au/state:nsw/federal_electorate:banks,New South Wales - Federal House of Representatives Banks electorate
-ocd-division/country:au/state:sa/federal_electorate:barker,South Australia - Federal House of Representatives Barker electorate
-ocd-division/country:au/state:nsw/federal_electorate:barton,New South Wales - Federal House of Representatives Barton electorate
-ocd-division/country:au/state:tas/federal_electorate:bass,Tasmania - Federal House of Representatives Bass electorate
-ocd-division/country:au/state:vic/federal_electorate:batman,Victoria - Federal House of Representatives Batman electorate
-ocd-division/country:au/state:vic/federal_electorate:bendigo,Victoria - Federal House of Representatives Bendigo electorate
-ocd-division/country:au/state:nsw/federal_electorate:bennelong,New South Wales - Federal House of Representatives Bennelong electorate
-ocd-division/country:au/state:nsw/federal_electorate:berowra,New South Wales - Federal House of Representatives Berowra electorate
-ocd-division/country:au/state:qld/federal_electorate:blair,Queensland - Federal House of Representatives Blair electorate
-ocd-division/country:au/state:nsw/federal_electorate:blaxland,New South Wales - Federal House of Representatives Blaxland electorate
-ocd-division/country:au/state:qld/federal_electorate:bonner,Queensland - Federal House of Representatives Bonner electorate
-ocd-division/country:au/state:sa/federal_electorate:boothby,South Australia - Federal House of Representatives Boothby electorate
-ocd-division/country:au/state:qld/federal_electorate:bowman,Queensland - Federal House of Representatives Bowman electorate
-ocd-division/country:au/state:tas/federal_electorate:braddon,Tasmania - Federal House of Representatives Braddon electorate
-ocd-division/country:au/state:nsw/federal_electorate:bradfield,New South Wales - Federal House of Representatives Bradfield electorate
-ocd-division/country:au/state:wa/federal_electorate:brand,Western Australia - Federal House of Representatives Brand electorate
-ocd-division/country:au/state:qld/federal_electorate:brisbane,Queensland - Federal House of Representatives Brisbane electorate
-ocd-division/country:au/state:vic/federal_electorate:bruce,Victoria - Federal House of Representatives Bruce electorate
-ocd-division/country:au/state:nsw/federal_electorate:calare,New South Wales - Federal House of Representatives Calare electorate
-ocd-division/country:au/state:vic/federal_electorate:calwell,Victoria - Federal House of Representatives Calwell electorate
-ocd-division/country:au/territory:act/federal_electorate:canberra,Australian Capital Territory - Federal House of Representatives Canberra electorate
-ocd-division/country:au/state:wa/federal_electorate:canning,Western Australia - Federal House of Representatives Canning electorate
-ocd-division/country:au/state:qld/federal_electorate:capricornia,Queensland - Federal House of Representatives Capricornia electorate
-ocd-division/country:au/state:vic/federal_electorate:casey,Victoria - Federal House of Representatives Casey electorate
-ocd-division/country:au/state:nsw/federal_electorate:charlton,New South Wales - Federal House of Representatives Charlton electorate
-ocd-division/country:au/state:nsw/federal_electorate:chifley,New South Wales - Federal House of Representatives Chifley electorate
-ocd-division/country:au/state:vic/federal_electorate:chisholm,Victoria - Federal House of Representatives Chisholm electorate
-ocd-division/country:au/state:nsw/federal_electorate:cook,New South Wales - Federal House of Representatives Cook electorate
-ocd-division/country:au/state:vic/federal_electorate:corangamite,Victoria - Federal House of Representatives Corangamite electorate
-ocd-division/country:au/state:vic/federal_electorate:corio,Victoria - Federal House of Representatives Corio electorate
-ocd-division/country:au/state:wa/federal_electorate:cowan,Western Australia - Federal House of Representatives Cowan electorate
-ocd-division/country:au/state:nsw/federal_electorate:cowper,New South Wales - Federal House of Representatives Cowper electorate
-ocd-division/country:au/state:nsw/federal_electorate:cunningham,New South Wales - Federal House of Representatives Cunningham electorate
-ocd-division/country:au/state:wa/federal_electorate:curtin,Western Australia - Federal House of Representatives Curtin electorate
-ocd-division/country:au/state:qld/federal_electorate:dawson,Queensland - Federal House of Representatives Dawson electorate
-ocd-division/country:au/state:vic/federal_electorate:deakin,Victoria - Federal House of Representatives Deakin electorate
-ocd-division/country:au/state:tas/federal_electorate:denison,Tasmania - Federal House of Representatives Denison electorate
-ocd-division/country:au/state:qld/federal_electorate:dickson,Queensland - Federal House of Representatives Dickson electorate
-ocd-division/country:au/state:nsw/federal_electorate:dobell,New South Wales - Federal House of Representatives Dobell electorate
-ocd-division/country:au/state:vic/federal_electorate:dunkley,Victoria - Federal House of Representatives Dunkley electorate
-ocd-division/country:au/state:wa/federal_electorate:durack,Western Australia - Federal House of Representatives Durack electorate
-ocd-division/country:au/state:nsw/federal_electorate:eden-monaro,New South Wales - Federal House of Representatives Eden-Monaro electorate
-ocd-division/country:au/state:qld/federal_electorate:fadden,Queensland - Federal House of Representatives Fadden electorate
-ocd-division/country:au/state:qld/federal_electorate:fairfax,Queensland - Federal House of Representatives Fairfax electorate
-ocd-division/country:au/state:nsw/federal_electorate:farrer,New South Wales - Federal House of Representatives Farrer electorate
-ocd-division/country:au/state:qld/federal_electorate:fisher,Queensland - Federal House of Representatives Fisher electorate
-ocd-division/country:au/state:vic/federal_electorate:flinders,Victoria - Federal House of Representatives Flinders electorate
-ocd-division/country:au/state:qld/federal_electorate:flynn,Queensland - Federal House of Representatives Flynn electorate
-ocd-division/country:au/state:qld/federal_electorate:forde,Queensland - Federal House of Representatives Forde electorate
-ocd-division/country:au/state:wa/federal_electorate:forrest,Western Australia - Federal House of Representatives Forrest electorate
-ocd-division/country:au/state:nsw/federal_electorate:fowler,New South Wales - Federal House of Representatives Fowler electorate
-ocd-division/country:au/state:tas/federal_electorate:franklin,Tasmania - Federal House of Representatives Franklin electorate
-ocd-division/country:au/territory:act/federal_electorate:fraser,Australian Capital Territory and Jarvis Bay Territory - Federal House of Representatives Fraser electorate
-ocd-division/country:au/state:wa/federal_electorate:fremantle,Western Australia - Federal House of Representatives Fremantle electorate
-ocd-division/country:au/state:vic/federal_electorate:gellibrand,Victoria - Federal House of Representatives Gellibrand electorate
-ocd-division/country:au/state:nsw/federal_electorate:gilmore,New South Wales - Federal House of Representatives Gilmore electorate
-ocd-division/country:au/state:vic/federal_electorate:gippsland,Victoria - Federal House of Representatives Gippsland electorate
-ocd-division/country:au/state:vic/federal_electorate:goldstein,Victoria - Federal House of Representatives Goldstein electorate
-ocd-division/country:au/state:vic/federal_electorate:gorton,Victoria - Federal House of Representatives Gorton electorate
-ocd-division/country:au/state:nsw/federal_electorate:grayndler,New South Wales - Federal House of Representatives Grayndler electorate
-ocd-division/country:au/state:nsw/federal_electorate:greenway,New South Wales - Federal House of Representatives Greenway electorate
-ocd-division/country:au/state:sa/federal_electorate:grey,South Australia - Federal House of Representatives Grey electorate
-ocd-division/country:au/state:qld/federal_electorate:griffith,Queensland - Federal House of Representatives Griffith electorate
-ocd-division/country:au/state:qld/federal_electorate:groom,Queensland - Federal House of Representatives Groom electorate
-ocd-division/country:au/state:wa/federal_electorate:hasluck,Western Australia - Federal House of Representatives Hasluck electorate
-ocd-division/country:au/state:qld/federal_electorate:herbert,Queensland - Federal House of Representatives Herbert electorate
-ocd-division/country:au/state:vic/federal_electorate:higgins,Victoria - Federal House of Representatives Higgins electorate
-ocd-division/country:au/state:sa/federal_electorate:hindmarsh,South Australia - Federal House of Representatives Hindmarsh electorate
-ocd-division/country:au/state:qld/federal_electorate:hinkler,Queensland - Federal House of Representatives Hinkler electorate
-ocd-division/country:au/state:vic/federal_electorate:holt,Victoria - Federal House of Representatives Holt electorate
-ocd-division/country:au/state:vic/federal_electorate:hotham,Victoria - Federal House of Representatives Hotham electorate
-ocd-division/country:au/state:nsw/federal_electorate:hughes,New South Wales - Federal House of Representatives Hughes electorate
-ocd-division/country:au/state:nsw/federal_electorate:hume,New South Wales - Federal House of Representatives Hume electorate
-ocd-division/country:au/state:nsw/federal_electorate:hunter,New South Wales - Federal House of Representatives Hunter electorate
-ocd-division/country:au/state:vic/federal_electorate:indi,Victoria - Federal House of Representatives Indi electorate
-ocd-division/country:au/state:vic/federal_electorate:isaacs,Victoria - Federal House of Representatives Isaacs electorate
-ocd-division/country:au/state:vic/federal_electorate:jagajaga,Victoria - Federal House of Representatives Jagajaga electorate
-ocd-division/country:au/state:qld/federal_electorate:kennedy,Queensland - Federal House of Representatives Kennedy electorate
-ocd-division/country:au/state:nsw/federal_electorate:kingsford_smith,New South Wales - Federal House of Representatives Kingsford Smith electorate
-ocd-division/country:au/state:sa/federal_electorate:kingston,South Australia - Federal House of Representatives Kingston electorate
-ocd-division/country:au/state:vic/federal_electorate:kooyong,Victoria - Federal House of Representatives Kooyong electorate
-ocd-division/country:au/state:vic/federal_electorate:la_trobe,Victoria - Federal House of Representatives La Trobe electorate
-ocd-division/country:au/state:vic/federal_electorate:lalor,Victoria - Federal House of Representatives Lalor electorate
-ocd-division/country:au/state:qld/federal_electorate:leichhardt,Queensland - Federal House of Representatives Leichhardt electorate
-ocd-division/country:au/state:qld/federal_electorate:lilley,Queensland - Federal House of Representatives Lilley electorate
-ocd-division/country:au/state:nsw/federal_electorate:lindsay,New South Wales - Federal House of Representatives Lindsay electorate
-ocd-division/country:au/territory:nt/federal_electorate:lingiari,Northern Territory - Federal House of Representatives Lingiari electorate
-ocd-division/country:au/state:qld/federal_electorate:longman,Queensland - Federal House of Representatives Longman electorate
-ocd-division/country:au/state:nsw/federal_electorate:lyne,New South Wales - Federal House of Representatives Lyne electorate
-ocd-division/country:au/state:tas/federal_electorate:lyons,Tasmania - Federal House of Representatives Lyons electorate
-ocd-division/country:au/state:nsw/federal_electorate:macarthur,New South Wales - Federal House of Representatives Macarthur electorate
-ocd-division/country:au/state:nsw/federal_electorate:mackellar,New South Wales - Federal House of Representatives Mackellar electorate
-ocd-division/country:au/state:nsw/federal_electorate:macquarie,New South Wales - Federal House of Representatives Macquarie electorate
-ocd-division/country:au/state:sa/federal_electorate:makin,South Australia - Federal House of Representatives Makin electorate
-ocd-division/country:au/state:vic/federal_electorate:mallee,Victoria - Federal House of Representatives Mallee electorate
-ocd-division/country:au/state:qld/federal_electorate:maranoa,Queensland - Federal House of Representatives Maranoa electorate
-ocd-division/country:au/state:vic/federal_electorate:maribyrnong,Victoria - Federal House of Representatives Maribyrnong electorate
-ocd-division/country:au/state:sa/federal_electorate:mayo,South Australia - Federal House of Representatives Mayo electorate
-ocd-division/country:au/state:vic/federal_electorate:mcewen,Victoria - Federal House of Representatives McEwen electorate
-ocd-division/country:au/state:nsw/federal_electorate:mcmahon,New South Wales - Federal House of Representatives McMahon electorate
-ocd-division/country:au/state:vic/federal_electorate:mcmillan,Victoria - Federal House of Representatives McMillan electorate
-ocd-division/country:au/state:qld/federal_electorate:mcpherson,Queensland - Federal House of Representatives McPherson electorate
-ocd-division/country:au/state:vic/federal_electorate:melbourne,Victoria - Federal House of Representatives Melbourne electorate
-ocd-division/country:au/state:vic/federal_electorate:melbourne_ports,Victoria - Federal House of Representatives Melbourne Ports electorate
-ocd-division/country:au/state:vic/federal_electorate:menzies,Victoria - Federal House of Representatives Menzies electorate
-ocd-division/country:au/state:nsw/federal_electorate:mitchell,New South Wales - Federal House of Representatives Mitchell electorate
-ocd-division/country:au/state:qld/federal_electorate:moncrieff,Queensland - Federal House of Representatives Moncrieff electorate
-ocd-division/country:au/state:wa/federal_electorate:moore,Western Australia - Federal House of Representatives Moore electorate
-ocd-division/country:au/state:qld/federal_electorate:moreton,Queensland - Federal House of Representatives Moreton electorate
-ocd-division/country:au/state:vic/federal_electorate:murray,Victoria - Federal House of Representatives Murray electorate
-ocd-division/country:au/state:nsw/federal_electorate:new_england,New South Wales - Federal House of Representatives New England electorate
-ocd-division/country:au/state:nsw/federal_electorate:newcastle,New South Wales - Federal House of Representatives Newcastle electorate
-ocd-division/country:au/state:nsw/federal_electorate:north_sydney,New South Wales - Federal House of Representatives North Sydney electorate
-ocd-division/country:au/state:wa/federal_electorate:o~connor,Western Australia - Federal House of Representatives O'Connor electorate
-ocd-division/country:au/state:qld/federal_electorate:oxley,Queensland - Federal House of Representatives Oxley electorate
-ocd-division/country:au/state:nsw/federal_electorate:page,New South Wales - Federal House of Representatives Page electorate
-ocd-division/country:au/state:nsw/federal_electorate:parkes,New South Wales - Federal House of Representatives Parkes electorate
-ocd-division/country:au/state:nsw/federal_electorate:parramatta,New South Wales - Federal House of Representatives Parramatta electorate
-ocd-division/country:au/state:nsw/federal_electorate:paterson,New South Wales - Federal House of Representatives Paterson electorate
-ocd-division/country:au/state:wa/federal_electorate:pearce,Western Australia - Federal House of Representatives Pearce electorate
-ocd-division/country:au/state:wa/federal_electorate:perth,Western Australia - Federal House of Representatives Perth electorate
-ocd-division/country:au/state:qld/federal_electorate:petrie,Queensland - Federal House of Representatives Petrie electorate
-ocd-division/country:au/state:sa/federal_electorate:port_adelaide,South Australia - Federal House of Representatives Port Adelaide electorate
-ocd-division/country:au/state:qld/federal_electorate:rankin,Queensland - Federal House of Representatives Rankin electorate
-ocd-division/country:au/state:nsw/federal_electorate:reid,New South Wales - Federal House of Representatives Reid electorate
-ocd-division/country:au/state:nsw/federal_electorate:richmond,New South Wales - Federal House of Representatives Richmond electorate
-ocd-division/country:au/state:nsw/federal_electorate:riverina,New South Wales - Federal House of Representatives Riverina electorate
-ocd-division/country:au/state:nsw/federal_electorate:robertson,New South Wales - Federal House of Representatives Robertson electorate
-ocd-division/country:au/state:qld/federal_electorate:ryan,Queensland - Federal House of Representatives Ryan electorate
-ocd-division/country:au/state:vic/federal_electorate:scullin,Victoria - Federal House of Representatives Scullin electorate
-ocd-division/country:au/state:nsw/federal_electorate:shortland,New South Wales - Federal House of Representatives Shortland electorate
-ocd-division/country:au/territory:nt/federal_electorate:solomon,Northern Territory - Federal House of Representatives Solomon electorate
-ocd-division/country:au/state:wa/federal_electorate:stirling,Western Australia - Federal House of Representatives Stirling electorate
-ocd-division/country:au/state:sa/federal_electorate:sturt,South Australia - Federal House of Representatives Sturt electorate
-ocd-division/country:au/state:wa/federal_electorate:swan,Western Australia - Federal House of Representatives Swan electorate
-ocd-division/country:au/state:nsw/federal_electorate:sydney,New South Wales - Federal House of Representatives Sydney electorate
-ocd-division/country:au/state:wa/federal_electorate:tangney,Western Australia - Federal House of Representatives Tangney electorate
-ocd-division/country:au/state:nsw/federal_electorate:throsby,New South Wales - Federal House of Representatives Throsby electorate
-ocd-division/country:au/state:sa/federal_electorate:wakefield,South Australia - Federal House of Representatives Wakefield electorate
-ocd-division/country:au/state:vic/federal_electorate:wannon,Victoria - Federal House of Representatives Wannon electorate
-ocd-division/country:au/state:nsw/federal_electorate:warringah,New South Wales - Federal House of Representatives Warringah electorate
-ocd-division/country:au/state:nsw/federal_electorate:watson,New South Wales - Federal House of Representatives Watson electorate
-ocd-division/country:au/state:nsw/federal_electorate:wentworth,New South Wales - Federal House of Representatives Wentworth electorate
-ocd-division/country:au/state:nsw/federal_electorate:werriwa,New South Wales - Federal House of Representatives Werriwa electorate
-ocd-division/country:au/state:qld/federal_electorate:wide_bay,Queensland - Federal House of Representatives Wide Bay electorate
-ocd-division/country:au/state:vic/federal_electorate:wills,Victoria - Federal House of Representatives Wills electorate
-ocd-division/country:au/state:qld/federal_electorate:wright,Queensland - Federal House of Representatives Wright electorate
+id,name,validFrom,validTo
+ocd-division/country:au/state:nsw/federal_electorate:banks,New South Wales - Federal House of Representatives Banks electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:barton,New South Wales - Federal House of Representatives Barton electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:bennelong,New South Wales - Federal House of Representatives Bennelong electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:berowra,New South Wales - Federal House of Representatives Berowra electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:blaxland,New South Wales - Federal House of Representatives Blaxland electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:bradfield,New South Wales - Federal House of Representatives Bradfield electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:calare,New South Wales - Federal House of Representatives Calare electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:charlton,New South Wales - Federal House of Representatives Charlton electorate,,2016-02-24
+ocd-division/country:au/state:nsw/federal_electorate:chifley,New South Wales - Federal House of Representatives Chifley electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:cook,New South Wales - Federal House of Representatives Cook electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:cowper,New South Wales - Federal House of Representatives Cowper electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:cunningham,New South Wales - Federal House of Representatives Cunningham electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:dobell,New South Wales - Federal House of Representatives Dobell electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:eden-monaro,New South Wales - Federal House of Representatives Eden-Monaro electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:farrer,New South Wales - Federal House of Representatives Farrer electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:fowler,New South Wales - Federal House of Representatives Fowler electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:gilmore,New South Wales - Federal House of Representatives Gilmore electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:grayndler,New South Wales - Federal House of Representatives Grayndler electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:greenway,New South Wales - Federal House of Representatives Greenway electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:hughes,New South Wales - Federal House of Representatives Hughes electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:hume,New South Wales - Federal House of Representatives Hume electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:hunter,New South Wales - Federal House of Representatives Hunter electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:kingsford_smith,New South Wales - Federal House of Representatives Kingsford Smith electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:lindsay,New South Wales - Federal House of Representatives Lindsay electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:lyne,New South Wales - Federal House of Representatives Lyne electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:macarthur,New South Wales - Federal House of Representatives Macarthur electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:mackellar,New South Wales - Federal House of Representatives Mackellar electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:macquarie,New South Wales - Federal House of Representatives Macquarie electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:mcmahon,New South Wales - Federal House of Representatives McMahon electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:mitchell,New South Wales - Federal House of Representatives Mitchell electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:new_england,New South Wales - Federal House of Representatives New England electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:newcastle,New South Wales - Federal House of Representatives Newcastle electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:north_sydney,New South Wales - Federal House of Representatives North Sydney electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:page,New South Wales - Federal House of Representatives Page electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:parkes,New South Wales - Federal House of Representatives Parkes electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:parramatta,New South Wales - Federal House of Representatives Parramatta electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:paterson,New South Wales - Federal House of Representatives Paterson electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:reid,New South Wales - Federal House of Representatives Reid electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:richmond,New South Wales - Federal House of Representatives Richmond electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:riverina,New South Wales - Federal House of Representatives Riverina electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:robertson,New South Wales - Federal House of Representatives Robertson electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:shortland,New South Wales - Federal House of Representatives Shortland electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:sydney,New South Wales - Federal House of Representatives Sydney electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:throsby,New South Wales - Federal House of Representatives Throsby electorate,,2016-02-24
+ocd-division/country:au/state:nsw/federal_electorate:warringah,New South Wales - Federal House of Representatives Warringah electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:watson,New South Wales - Federal House of Representatives Watson electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:wentworth,New South Wales - Federal House of Representatives Wentworth electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:werriwa,New South Wales - Federal House of Representatives Werriwa electorate,,
+ocd-division/country:au/state:nsw/federal_electorate:whitlam,New South Wales - Federal House of Representatives Whitlam electorate,2016-02-25,
+ocd-division/country:au/state:qld/federal_electorate:blair,Queensland - Federal House of Representatives Blair electorate,,
+ocd-division/country:au/state:qld/federal_electorate:bonner,Queensland - Federal House of Representatives Bonner electorate,,
+ocd-division/country:au/state:qld/federal_electorate:bowman,Queensland - Federal House of Representatives Bowman electorate,,
+ocd-division/country:au/state:qld/federal_electorate:brisbane,Queensland - Federal House of Representatives Brisbane electorate,,
+ocd-division/country:au/state:qld/federal_electorate:capricornia,Queensland - Federal House of Representatives Capricornia electorate,,
+ocd-division/country:au/state:qld/federal_electorate:dawson,Queensland - Federal House of Representatives Dawson electorate,,
+ocd-division/country:au/state:qld/federal_electorate:dickson,Queensland - Federal House of Representatives Dickson electorate,,
+ocd-division/country:au/state:qld/federal_electorate:fadden,Queensland - Federal House of Representatives Fadden electorate,,
+ocd-division/country:au/state:qld/federal_electorate:fairfax,Queensland - Federal House of Representatives Fairfax electorate,,
+ocd-division/country:au/state:qld/federal_electorate:fisher,Queensland - Federal House of Representatives Fisher electorate,,
+ocd-division/country:au/state:qld/federal_electorate:flynn,Queensland - Federal House of Representatives Flynn electorate,,
+ocd-division/country:au/state:qld/federal_electorate:forde,Queensland - Federal House of Representatives Forde electorate,,
+ocd-division/country:au/state:qld/federal_electorate:griffith,Queensland - Federal House of Representatives Griffith electorate,,
+ocd-division/country:au/state:qld/federal_electorate:groom,Queensland - Federal House of Representatives Groom electorate,,
+ocd-division/country:au/state:qld/federal_electorate:herbert,Queensland - Federal House of Representatives Herbert electorate,,
+ocd-division/country:au/state:qld/federal_electorate:hinkler,Queensland - Federal House of Representatives Hinkler electorate,,
+ocd-division/country:au/state:qld/federal_electorate:kennedy,Queensland - Federal House of Representatives Kennedy electorate,,
+ocd-division/country:au/state:qld/federal_electorate:leichhardt,Queensland - Federal House of Representatives Leichhardt electorate,,
+ocd-division/country:au/state:qld/federal_electorate:lilley,Queensland - Federal House of Representatives Lilley electorate,,
+ocd-division/country:au/state:qld/federal_electorate:longman,Queensland - Federal House of Representatives Longman electorate,,
+ocd-division/country:au/state:qld/federal_electorate:maranoa,Queensland - Federal House of Representatives Maranoa electorate,,
+ocd-division/country:au/state:qld/federal_electorate:mcpherson,Queensland - Federal House of Representatives McPherson electorate,,
+ocd-division/country:au/state:qld/federal_electorate:moncrieff,Queensland - Federal House of Representatives Moncrieff electorate,,
+ocd-division/country:au/state:qld/federal_electorate:moreton,Queensland - Federal House of Representatives Moreton electorate,,
+ocd-division/country:au/state:qld/federal_electorate:oxley,Queensland - Federal House of Representatives Oxley electorate,,
+ocd-division/country:au/state:qld/federal_electorate:petrie,Queensland - Federal House of Representatives Petrie electorate,,
+ocd-division/country:au/state:qld/federal_electorate:rankin,Queensland - Federal House of Representatives Rankin electorate,,
+ocd-division/country:au/state:qld/federal_electorate:ryan,Queensland - Federal House of Representatives Ryan electorate,,
+ocd-division/country:au/state:qld/federal_electorate:wide_bay,Queensland - Federal House of Representatives Wide Bay electorate,,
+ocd-division/country:au/state:qld/federal_electorate:wright,Queensland - Federal House of Representatives Wright electorate,,
+ocd-division/country:au/state:sa/federal_electorate:adelaide,South Australia - Federal House of Representatives Adelaide electorate,,
+ocd-division/country:au/state:sa/federal_electorate:barker,South Australia - Federal House of Representatives Barker electorate,,
+ocd-division/country:au/state:sa/federal_electorate:boothby,South Australia - Federal House of Representatives Boothby electorate,,
+ocd-division/country:au/state:sa/federal_electorate:grey,South Australia - Federal House of Representatives Grey electorate,,
+ocd-division/country:au/state:sa/federal_electorate:hindmarsh,South Australia - Federal House of Representatives Hindmarsh electorate,,
+ocd-division/country:au/state:sa/federal_electorate:kingston,South Australia - Federal House of Representatives Kingston electorate,,
+ocd-division/country:au/state:sa/federal_electorate:makin,South Australia - Federal House of Representatives Makin electorate,,
+ocd-division/country:au/state:sa/federal_electorate:mayo,South Australia - Federal House of Representatives Mayo electorate,,
+ocd-division/country:au/state:sa/federal_electorate:port_adelaide,South Australia - Federal House of Representatives Port Adelaide electorate,,2018-07-19
+ocd-division/country:au/state:sa/federal_electorate:spence,South Australia - Federal House of Representatives Spence electorate,2018-07-20,
+ocd-division/country:au/state:sa/federal_electorate:sturt,South Australia - Federal House of Representatives Sturt electorate,,
+ocd-division/country:au/state:sa/federal_electorate:wakefield,South Australia - Federal House of Representatives Wakefield electorate,,2018-07-19
+ocd-division/country:au/state:tas/federal_electorate:bass,Tasmania - Federal House of Representatives Bass electorate,,
+ocd-division/country:au/state:tas/federal_electorate:braddon,Tasmania - Federal House of Representatives Braddon electorate,,
+ocd-division/country:au/state:tas/federal_electorate:clark,Tasmania - Federal House of Representatives Clark electorate,2017-11-14,
+ocd-division/country:au/state:tas/federal_electorate:denison,Tasmania - Federal House of Representatives Denison electorate,,2017-11-13
+ocd-division/country:au/state:tas/federal_electorate:franklin,Tasmania - Federal House of Representatives Franklin electorate,,
+ocd-division/country:au/state:tas/federal_electorate:lyons,Tasmania - Federal House of Representatives Lyons electorate,,
+ocd-division/country:au/state:vic/federal_electorate:aston,Victoria - Federal House of Representatives Aston electorate,,
+ocd-division/country:au/state:vic/federal_electorate:ballarat,Victoria - Federal House of Representatives Ballarat electorate,,
+ocd-division/country:au/state:vic/federal_electorate:batman,Victoria - Federal House of Representatives Batman electorate,,2018-07-12
+ocd-division/country:au/state:vic/federal_electorate:bendigo,Victoria - Federal House of Representatives Bendigo electorate,,
+ocd-division/country:au/state:vic/federal_electorate:bruce,Victoria - Federal House of Representatives Bruce electorate,,
+ocd-division/country:au/state:vic/federal_electorate:calwell,Victoria - Federal House of Representatives Calwell electorate,,
+ocd-division/country:au/state:vic/federal_electorate:casey,Victoria - Federal House of Representatives Casey electorate,,
+ocd-division/country:au/state:vic/federal_electorate:chisholm,Victoria - Federal House of Representatives Chisholm electorate,,
+ocd-division/country:au/state:vic/federal_electorate:cooper,Victoria - Federal House of Representatives Cooper electorate,2018-07-13,
+ocd-division/country:au/state:vic/federal_electorate:corangamite,Victoria - Federal House of Representatives Corangamite electorate,,2021-07-25
+ocd-division/country:au/state:vic/federal_electorate:corio,Victoria - Federal House of Representatives Corio electorate,,
+ocd-division/country:au/state:vic/federal_electorate:deakin,Victoria - Federal House of Representatives Deakin electorate,,
+ocd-division/country:au/state:vic/federal_electorate:dunkley,Victoria - Federal House of Representatives Dunkley electorate,,
+ocd-division/country:au/state:vic/federal_electorate:flinders,Victoria - Federal House of Representatives Flinders electorate,,
+ocd-division/country:au/state:vic/federal_electorate:fraser,Victoria - Federal House of Representatives Fraser electorate,2018-07-13,
+ocd-division/country:au/state:vic/federal_electorate:gellibrand,Victoria - Federal House of Representatives Gellibrand electorate,,
+ocd-division/country:au/state:vic/federal_electorate:gippsland,Victoria - Federal House of Representatives Gippsland electorate,,
+ocd-division/country:au/state:vic/federal_electorate:goldstein,Victoria - Federal House of Representatives Goldstein electorate,,
+ocd-division/country:au/state:vic/federal_electorate:gorton,Victoria - Federal House of Representatives Gorton electorate,,
+ocd-division/country:au/state:vic/federal_electorate:hawke,Victoria - Federal House of Representatives Hawke electorate,2021-07-26,
+ocd-division/country:au/state:vic/federal_electorate:higgins,Victoria - Federal House of Representatives Higgins electorate,,
+ocd-division/country:au/state:vic/federal_electorate:holt,Victoria - Federal House of Representatives Holt electorate,,
+ocd-division/country:au/state:vic/federal_electorate:hotham,Victoria - Federal House of Representatives Hotham electorate,,
+ocd-division/country:au/state:vic/federal_electorate:indi,Victoria - Federal House of Representatives Indi electorate,,
+ocd-division/country:au/state:vic/federal_electorate:isaacs,Victoria - Federal House of Representatives Isaacs electorate,,
+ocd-division/country:au/state:vic/federal_electorate:jagajaga,Victoria - Federal House of Representatives Jagajaga electorate,,
+ocd-division/country:au/state:vic/federal_electorate:kooyong,Victoria - Federal House of Representatives Kooyong electorate,,
+ocd-division/country:au/state:vic/federal_electorate:la_trobe,Victoria - Federal House of Representatives La Trobe electorate,,
+ocd-division/country:au/state:vic/federal_electorate:lalor,Victoria - Federal House of Representatives Lalor electorate,,
+ocd-division/country:au/state:vic/federal_electorate:macnamara,Victoria - Federal House of Representatives Macnamara electorate,2018-07-13,
+ocd-division/country:au/state:vic/federal_electorate:mallee,Victoria - Federal House of Representatives Mallee electorate,,
+ocd-division/country:au/state:vic/federal_electorate:maribyrnong,Victoria - Federal House of Representatives Maribyrnong electorate,,
+ocd-division/country:au/state:vic/federal_electorate:mcewen,Victoria - Federal House of Representatives McEwen electorate,,
+ocd-division/country:au/state:vic/federal_electorate:mcmillan,Victoria - Federal House of Representatives McMillan electorate,,2018-07-12
+ocd-division/country:au/state:vic/federal_electorate:melbourne,Victoria - Federal House of Representatives Melbourne electorate,,
+ocd-division/country:au/state:vic/federal_electorate:melbourne_ports,Victoria - Federal House of Representatives Melbourne Ports electorate,,2018-07-12
+ocd-division/country:au/state:vic/federal_electorate:menzies,Victoria - Federal House of Representatives Menzies electorate,,
+ocd-division/country:au/state:vic/federal_electorate:monash,Victoria - Federal House of Representatives Monash electorate,2018-07-13,
+ocd-division/country:au/state:vic/federal_electorate:murray,Victoria - Federal House of Representatives Murray electorate,,2018-07-12
+ocd-division/country:au/state:vic/federal_electorate:nicholls,Victoria - Federal House of Representatives Nicholls electorate,2018-07-13,
+ocd-division/country:au/state:vic/federal_electorate:scullin,Victoria - Federal House of Representatives Scullin electorate,,
+ocd-division/country:au/state:vic/federal_electorate:tucker,Victoria - Federal House of Representatives Tucker electorate,2021-07-26,
+ocd-division/country:au/state:vic/federal_electorate:wannon,Victoria - Federal House of Representatives Wannon electorate,,
+ocd-division/country:au/state:vic/federal_electorate:wills,Victoria - Federal House of Representatives Wills electorate,,
+ocd-division/country:au/state:wa/federal_electorate:brand,Western Australia - Federal House of Representatives Brand electorate,,
+ocd-division/country:au/state:wa/federal_electorate:burt,Western Australia - Federal House of Representatives Burt electorate,2016-01-28,
+ocd-division/country:au/state:wa/federal_electorate:canning,Western Australia - Federal House of Representatives Canning electorate,,
+ocd-division/country:au/state:wa/federal_electorate:cowan,Western Australia - Federal House of Representatives Cowan electorate,,
+ocd-division/country:au/state:wa/federal_electorate:curtin,Western Australia - Federal House of Representatives Curtin electorate,,
+ocd-division/country:au/state:wa/federal_electorate:durack,Western Australia - Federal House of Representatives Durack electorate,,
+ocd-division/country:au/state:wa/federal_electorate:forrest,Western Australia - Federal House of Representatives Forrest electorate,,
+ocd-division/country:au/state:wa/federal_electorate:fremantle,Western Australia - Federal House of Representatives Fremantle electorate,,
+ocd-division/country:au/state:wa/federal_electorate:hasluck,Western Australia - Federal House of Representatives Hasluck electorate,,
+ocd-division/country:au/state:wa/federal_electorate:moore,Western Australia - Federal House of Representatives Moore electorate,,
+ocd-division/country:au/state:wa/federal_electorate:o~connor,Western Australia - Federal House of Representatives O'Connor electorate,,
+ocd-division/country:au/state:wa/federal_electorate:pearce,Western Australia - Federal House of Representatives Pearce electorate,,
+ocd-division/country:au/state:wa/federal_electorate:perth,Western Australia - Federal House of Representatives Perth electorate,,
+ocd-division/country:au/state:wa/federal_electorate:stirling,Western Australia - Federal House of Representatives Stirling electorate,,2021-09-01
+ocd-division/country:au/state:wa/federal_electorate:swan,Western Australia - Federal House of Representatives Swan electorate,,
+ocd-division/country:au/state:wa/federal_electorate:tangney,Western Australia - Federal House of Representatives Tangney electorate,,
+ocd-division/country:au/territory:act/federal_electorate:bean,Australian Capital Territory - Federal House of Representatives Bean electorate,2018-07-13,
+ocd-division/country:au/territory:act/federal_electorate:canberra,Australian Capital Territory - Federal House of Representatives Canberra electorate,,
+ocd-division/country:au/territory:act/federal_electorate:fenner,Australian Capital Territory - Federal House of Representatives Fenner electorate,2016-01-28,
+ocd-division/country:au/territory:act/federal_electorate:fraser,Australian Capital Territory and Jarvis Bay Territory - Federal House of Representatives Fraser electorate,,2016-01-27
+ocd-division/country:au/territory:nt/federal_electorate:lingiari,Northern Territory - Federal House of Representatives Lingiari electorate,,
+ocd-division/country:au/territory:nt/federal_electorate:solomon,Northern Territory - Federal House of Representatives Solomon electorate,,
