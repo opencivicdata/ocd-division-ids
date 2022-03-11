@@ -22,6 +22,7 @@ ocd-division/country:us/state:tn/county:benton/council_district:4,Benton County 
 ocd-division/country:us/state:tn/county:benton/council_district:5,Benton County Commission District 5
 ocd-division/country:us/state:tn/county:benton/council_district:6,Benton County Commission District 6
 ocd-division/country:us/state:tn/county:blount/council_district:1,Blount County Commission District 1
+ocd-division/country:us/state:tn/county:blount/council_district:10,Blount County Commission District 10
 ocd-division/country:us/state:tn/county:blount/council_district:2,Blount County Commission District 2
 ocd-division/country:us/state:tn/county:blount/council_district:3,Blount County Commission District 3
 ocd-division/country:us/state:tn/county:blount/council_district:4,Blount County Commission District 4
@@ -30,7 +31,6 @@ ocd-division/country:us/state:tn/county:blount/council_district:6,Blount County 
 ocd-division/country:us/state:tn/county:blount/council_district:7,Blount County Commission District 7
 ocd-division/country:us/state:tn/county:blount/council_district:8,Blount County Commission District 8
 ocd-division/country:us/state:tn/county:blount/council_district:9,Blount County Commission District 9
-ocd-division/country:us/state:tn/county:blount/council_district:10,Blount County Commission District 10
 ocd-division/country:us/state:tn/county:bradley/council_district:1,Bradley County Commission District 1
 ocd-division/country:us/state:tn/county:bradley/council_district:2,Bradley County Commission District 2
 ocd-division/country:us/state:tn/county:bradley/council_district:3,Bradley County Commission District 3
@@ -48,6 +48,15 @@ ocd-division/country:us/state:tn/county:cannon/council_district:2,Cannon County 
 ocd-division/country:us/state:tn/county:cannon/council_district:3,Cannon County Commission District 3
 ocd-division/country:us/state:tn/county:cannon/council_district:4,Cannon County Commission District 4
 ocd-division/country:us/state:tn/county:cannon/council_district:5,Cannon County Commission District 5
+ocd-division/country:us/state:tn/county:carroll/council_district:1,Carroll County Commission District 1
+ocd-division/country:us/state:tn/county:carroll/council_district:2,Carroll County Commission District 2
+ocd-division/country:us/state:tn/county:carroll/council_district:3,Carroll County Commission District 3
+ocd-division/country:us/state:tn/county:carroll/council_district:4,Carroll County Commission District 4
+ocd-division/country:us/state:tn/county:carroll/council_district:5,Carroll County Commission District 5
+ocd-division/country:us/state:tn/county:carroll/council_district:6,Carroll County Commission District 6
+ocd-division/country:us/state:tn/county:carroll/council_district:7,Carroll County Commission District 7
+ocd-division/country:us/state:tn/county:carroll/council_district:8,Carroll County Commission District 8
+ocd-division/country:us/state:tn/county:carroll/council_district:9,Carroll County Commission District 9
 ocd-division/country:us/state:tn/county:carter/council_district:1,Carter County Commission District 1
 ocd-division/country:us/state:tn/county:carter/council_district:2,Carter County Commission District 2
 ocd-division/country:us/state:tn/county:carter/council_district:3,Carter County Commission District 3
@@ -56,6 +65,15 @@ ocd-division/country:us/state:tn/county:carter/council_district:5,Carter County 
 ocd-division/country:us/state:tn/county:carter/council_district:6,Carter County Commission District 6
 ocd-division/country:us/state:tn/county:carter/council_district:7,Carter County Commission District 7
 ocd-division/country:us/state:tn/county:carter/council_district:8,Carter County Commission District 8
+ocd-division/country:us/state:tn/place:chattanooga/council_district:1,Chattanooga TN city council district 1
+ocd-division/country:us/state:tn/place:chattanooga/council_district:2,Chattanooga TN city council district 2
+ocd-division/country:us/state:tn/place:chattanooga/council_district:3,Chattanooga TN city council district 3
+ocd-division/country:us/state:tn/place:chattanooga/council_district:4,Chattanooga TN city council district 4
+ocd-division/country:us/state:tn/place:chattanooga/council_district:5,Chattanooga TN city council district 5
+ocd-division/country:us/state:tn/place:chattanooga/council_district:6,Chattanooga TN city council district 6
+ocd-division/country:us/state:tn/place:chattanooga/council_district:7,Chattanooga TN city council district 7
+ocd-division/country:us/state:tn/place:chattanooga/council_district:8,Chattanooga TN city council district 8
+ocd-division/country:us/state:tn/place:chattanooga/council_district:9,Chattanooga TN city council district 9
 ocd-division/country:us/state:tn/county:cheatham/council_district:1,Cheatham County Commission District 1
 ocd-division/country:us/state:tn/county:cheatham/council_district:2,Cheatham County Commission District 2
 ocd-division/country:us/state:tn/county:cheatham/council_district:3,Cheatham County Commission District 3
@@ -68,6 +86,27 @@ ocd-division/country:us/state:tn/county:chester/council_district:3,Chester Count
 ocd-division/country:us/state:tn/county:chester/council_district:4,Chester County Commission District 4
 ocd-division/country:us/state:tn/county:chester/council_district:5,Chester County Commission District 5
 ocd-division/country:us/state:tn/county:chester/council_district:6,Chester County Commission District 6
+ocd-division/country:us/state:tn/county:claiborne/council_district:1,Claiborne County Commission District 1
+ocd-division/country:us/state:tn/county:claiborne/council_district:2,Claiborne County Commission District 2
+ocd-division/country:us/state:tn/county:claiborne/council_district:3,Claiborne County Commission District 3
+ocd-division/country:us/state:tn/county:claiborne/council_district:4,Claiborne County Commission District 4
+ocd-division/country:us/state:tn/county:claiborne/council_district:5,Claiborne County Commission District 5
+ocd-division/country:us/state:tn/county:claiborne/council_district:6,Claiborne County Commission District 6
+ocd-division/country:us/state:tn/county:claiborne/council_district:7,Claiborne County Commission District 7
+ocd-division/country:us/state:tn/county:claiborne/council_district:8,Claiborne County Commission District 8
+ocd-division/country:us/state:tn/county:claiborne/council_district:9,Claiborne County Commission District 9
+ocd-division/country:us/state:tn/place:clarksville/ward:1,Clarksville TN ward 1
+ocd-division/country:us/state:tn/place:clarksville/ward:10,Clarksville TN ward 10
+ocd-division/country:us/state:tn/place:clarksville/ward:11,Clarksville TN ward 11
+ocd-division/country:us/state:tn/place:clarksville/ward:12,Clarksville TN ward 12
+ocd-division/country:us/state:tn/place:clarksville/ward:2,Clarksville TN ward 2
+ocd-division/country:us/state:tn/place:clarksville/ward:3,Clarksville TN ward 3
+ocd-division/country:us/state:tn/place:clarksville/ward:4,Clarksville TN ward 4
+ocd-division/country:us/state:tn/place:clarksville/ward:5,Clarksville TN ward 5
+ocd-division/country:us/state:tn/place:clarksville/ward:6,Clarksville TN ward 6
+ocd-division/country:us/state:tn/place:clarksville/ward:7,Clarksville TN ward 7
+ocd-division/country:us/state:tn/place:clarksville/ward:8,Clarksville TN ward 8
+ocd-division/country:us/state:tn/place:clarksville/ward:9,Clarksville TN ward 9
 ocd-division/country:us/state:tn/county:cocke/council_district:1,Cocke County Commission District 1
 ocd-division/country:us/state:tn/county:cocke/council_district:2,Cocke County Commission District 2
 ocd-division/country:us/state:tn/county:cocke/council_district:3,Cocke County Commission District 3
@@ -76,14 +115,6 @@ ocd-division/country:us/state:tn/county:cocke/council_district:5,Cocke County Co
 ocd-division/country:us/state:tn/county:cocke/council_district:6,Cocke County Commission District 6
 ocd-division/country:us/state:tn/county:cocke/council_district:7,Cocke County Commission District 7
 ocd-division/country:us/state:tn/county:coffee/council_district:1,Coffee County Commission District 1
-ocd-division/country:us/state:tn/county:coffee/council_district:2,Coffee County Commission District 2
-ocd-division/country:us/state:tn/county:coffee/council_district:3,Coffee County Commission District 3
-ocd-division/country:us/state:tn/county:coffee/council_district:4,Coffee County Commission District 4
-ocd-division/country:us/state:tn/county:coffee/council_district:5,Coffee County Commission District 5
-ocd-division/country:us/state:tn/county:coffee/council_district:6,Coffee County Commission District 6
-ocd-division/country:us/state:tn/county:coffee/council_district:7,Coffee County Commission District 7
-ocd-division/country:us/state:tn/county:coffee/council_district:8,Coffee County Commission District 8
-ocd-division/country:us/state:tn/county:coffee/council_district:9,Coffee County Commission District 9
 ocd-division/country:us/state:tn/county:coffee/council_district:10,Coffee County Commission District 10
 ocd-division/country:us/state:tn/county:coffee/council_district:11,Coffee County Commission District 11
 ocd-division/country:us/state:tn/county:coffee/council_district:12,Coffee County Commission District 12
@@ -94,8 +125,16 @@ ocd-division/country:us/state:tn/county:coffee/council_district:16,Coffee County
 ocd-division/country:us/state:tn/county:coffee/council_district:17,Coffee County Commission District 17
 ocd-division/country:us/state:tn/county:coffee/council_district:18,Coffee County Commission District 18
 ocd-division/country:us/state:tn/county:coffee/council_district:19,Coffee County Commission District 19
+ocd-division/country:us/state:tn/county:coffee/council_district:2,Coffee County Commission District 2
 ocd-division/country:us/state:tn/county:coffee/council_district:20,Coffee County Commission District 20
 ocd-division/country:us/state:tn/county:coffee/council_district:21,Coffee County Commission District 21
+ocd-division/country:us/state:tn/county:coffee/council_district:3,Coffee County Commission District 3
+ocd-division/country:us/state:tn/county:coffee/council_district:4,Coffee County Commission District 4
+ocd-division/country:us/state:tn/county:coffee/council_district:5,Coffee County Commission District 5
+ocd-division/country:us/state:tn/county:coffee/council_district:6,Coffee County Commission District 6
+ocd-division/country:us/state:tn/county:coffee/council_district:7,Coffee County Commission District 7
+ocd-division/country:us/state:tn/county:coffee/council_district:8,Coffee County Commission District 8
+ocd-division/country:us/state:tn/county:coffee/council_district:9,Coffee County Commission District 9
 ocd-division/country:us/state:tn/county:cumberland/council_district:1,Cumberland County Commission District 1
 ocd-division/country:us/state:tn/county:cumberland/council_district:2,Cumberland County Commission District 2
 ocd-division/country:us/state:tn/county:cumberland/council_district:3,Cumberland County Commission District 3
@@ -106,14 +145,6 @@ ocd-division/country:us/state:tn/county:cumberland/council_district:7,Cumberland
 ocd-division/country:us/state:tn/county:cumberland/council_district:8,Cumberland County Commission District 8
 ocd-division/country:us/state:tn/county:cumberland/council_district:9,Cumberland County Commission District 9
 ocd-division/country:us/state:tn/county:davidson/council_district:1,Davidson County and Nashville TN metropolitan council district 1
-ocd-division/country:us/state:tn/county:davidson/council_district:2,Davidson County and Nashville TN metropolitan council district 2
-ocd-division/country:us/state:tn/county:davidson/council_district:3,Davidson County and Nashville TN metropolitan council district 3
-ocd-division/country:us/state:tn/county:davidson/council_district:4,Davidson County and Nashville TN metropolitan council district 4
-ocd-division/country:us/state:tn/county:davidson/council_district:5,Davidson County and Nashville TN metropolitan council district 5
-ocd-division/country:us/state:tn/county:davidson/council_district:6,Davidson County and Nashville TN metropolitan council district 6
-ocd-division/country:us/state:tn/county:davidson/council_district:7,Davidson County and Nashville TN metropolitan council district 7
-ocd-division/country:us/state:tn/county:davidson/council_district:8,Davidson County and Nashville TN metropolitan council district 8
-ocd-division/country:us/state:tn/county:davidson/council_district:9,Davidson County and Nashville TN metropolitan council district 9
 ocd-division/country:us/state:tn/county:davidson/council_district:10,Davidson County and Nashville TN metropolitan council district 10
 ocd-division/country:us/state:tn/county:davidson/council_district:11,Davidson County and Nashville TN metropolitan council district 11
 ocd-division/country:us/state:tn/county:davidson/council_district:12,Davidson County and Nashville TN metropolitan council district 12
@@ -124,6 +155,7 @@ ocd-division/country:us/state:tn/county:davidson/council_district:16,Davidson Co
 ocd-division/country:us/state:tn/county:davidson/council_district:17,Davidson County and Nashville TN metropolitan council district 17
 ocd-division/country:us/state:tn/county:davidson/council_district:18,Davidson County and Nashville TN metropolitan council district 18
 ocd-division/country:us/state:tn/county:davidson/council_district:19,Davidson County and Nashville TN metropolitan council district 19
+ocd-division/country:us/state:tn/county:davidson/council_district:2,Davidson County and Nashville TN metropolitan council district 2
 ocd-division/country:us/state:tn/county:davidson/council_district:20,Davidson County and Nashville TN metropolitan council district 20
 ocd-division/country:us/state:tn/county:davidson/council_district:21,Davidson County and Nashville TN metropolitan council district 21
 ocd-division/country:us/state:tn/county:davidson/council_district:22,Davidson County and Nashville TN metropolitan council district 22
@@ -134,12 +166,26 @@ ocd-division/country:us/state:tn/county:davidson/council_district:26,Davidson Co
 ocd-division/country:us/state:tn/county:davidson/council_district:27,Davidson County and Nashville TN metropolitan council district 27
 ocd-division/country:us/state:tn/county:davidson/council_district:28,Davidson County and Nashville TN metropolitan council district 28
 ocd-division/country:us/state:tn/county:davidson/council_district:29,Davidson County and Nashville TN metropolitan council district 29
+ocd-division/country:us/state:tn/county:davidson/council_district:3,Davidson County and Nashville TN metropolitan council district 3
 ocd-division/country:us/state:tn/county:davidson/council_district:30,Davidson County and Nashville TN metropolitan council district 30
 ocd-division/country:us/state:tn/county:davidson/council_district:31,Davidson County and Nashville TN metropolitan council district 31
 ocd-division/country:us/state:tn/county:davidson/council_district:32,Davidson County and Nashville TN metropolitan council district 32
 ocd-division/country:us/state:tn/county:davidson/council_district:33,Davidson County and Nashville TN metropolitan council district 33
 ocd-division/country:us/state:tn/county:davidson/council_district:34,Davidson County and Nashville TN metropolitan council district 34
 ocd-division/country:us/state:tn/county:davidson/council_district:35,Davidson County and Nashville TN metropolitan council district 35
+ocd-division/country:us/state:tn/county:davidson/council_district:4,Davidson County and Nashville TN metropolitan council district 4
+ocd-division/country:us/state:tn/county:davidson/council_district:5,Davidson County and Nashville TN metropolitan council district 5
+ocd-division/country:us/state:tn/county:davidson/council_district:6,Davidson County and Nashville TN metropolitan council district 6
+ocd-division/country:us/state:tn/county:davidson/council_district:7,Davidson County and Nashville TN metropolitan council district 7
+ocd-division/country:us/state:tn/county:davidson/council_district:8,Davidson County and Nashville TN metropolitan council district 8
+ocd-division/country:us/state:tn/county:davidson/council_district:9,Davidson County and Nashville TN metropolitan council district 9
+ocd-division/country:us/state:tn/county:dekalb/council_district:1,DeKalb County Commission District 1
+ocd-division/country:us/state:tn/county:dekalb/council_district:2,DeKalb County Commission District 2
+ocd-division/country:us/state:tn/county:dekalb/council_district:3,DeKalb County Commission District 3
+ocd-division/country:us/state:tn/county:dekalb/council_district:4,DeKalb County Commission District 4
+ocd-division/country:us/state:tn/county:dekalb/council_district:5,DeKalb County Commission District 5
+ocd-division/country:us/state:tn/county:dekalb/council_district:6,DeKalb County Commission District 6
+ocd-division/country:us/state:tn/county:dekalb/council_district:7,DeKalb County Commission District 7
 ocd-division/country:us/state:tn/county:decatur/council_district:1,Decatur County Commission District 1
 ocd-division/country:us/state:tn/county:decatur/council_district:2,Decatur County Commission District 2
 ocd-division/country:us/state:tn/county:decatur/council_district:3,Decatur County Commission District 3
@@ -149,14 +195,10 @@ ocd-division/country:us/state:tn/county:decatur/council_district:6,Decatur Count
 ocd-division/country:us/state:tn/county:decatur/council_district:7,Decatur County Commission District 7
 ocd-division/country:us/state:tn/county:decatur/council_district:8,Decatur County Commission District 8
 ocd-division/country:us/state:tn/county:decatur/council_district:9,Decatur County Commission District 9
-ocd-division/country:us/state:tn/county:dekalb/council_district:1,DeKalb County Commission District 1
-ocd-division/country:us/state:tn/county:dekalb/council_district:2,DeKalb County Commission District 2
-ocd-division/country:us/state:tn/county:dekalb/council_district:3,DeKalb County Commission District 3
-ocd-division/country:us/state:tn/county:dekalb/council_district:4,DeKalb County Commission District 4
-ocd-division/country:us/state:tn/county:dekalb/council_district:5,DeKalb County Commission District 5
-ocd-division/country:us/state:tn/county:dekalb/council_district:6,DeKalb County Commission District 6
-ocd-division/country:us/state:tn/county:dekalb/council_district:7,DeKalb County Commission District 7
 ocd-division/country:us/state:tn/county:dickson/council_district:1,Dickson County Commission District 1
+ocd-division/country:us/state:tn/county:dickson/council_district:10,Dickson County Commission District 10
+ocd-division/country:us/state:tn/county:dickson/council_district:11,Dickson County Commission District 11
+ocd-division/country:us/state:tn/county:dickson/council_district:12,Dickson County Commission District 12
 ocd-division/country:us/state:tn/county:dickson/council_district:2,Dickson County Commission District 2
 ocd-division/country:us/state:tn/county:dickson/council_district:3,Dickson County Commission District 3
 ocd-division/country:us/state:tn/county:dickson/council_district:4,Dickson County Commission District 4
@@ -165,16 +207,33 @@ ocd-division/country:us/state:tn/county:dickson/council_district:6,Dickson Count
 ocd-division/country:us/state:tn/county:dickson/council_district:7,Dickson County Commission District 7
 ocd-division/country:us/state:tn/county:dickson/council_district:8,Dickson County Commission District 8
 ocd-division/country:us/state:tn/county:dickson/council_district:9,Dickson County Commission District 9
-ocd-division/country:us/state:tn/county:dickson/council_district:10,Dickson County Commission District 10
-ocd-division/country:us/state:tn/county:dickson/council_district:11,Dickson County Commission District 11
-ocd-division/country:us/state:tn/county:dickson/council_district:12,Dickson County Commission District 12
+ocd-division/country:us/state:tn/county:dyer/council_district:a,Dyer County Commission District A
+ocd-division/country:us/state:tn/county:dyer/council_district:b,Dyer County Commission District B
+ocd-division/country:us/state:tn/county:dyer/council_district:c,Dyer County Commission District C
+ocd-division/country:us/state:tn/county:dyer/council_district:d,Dyer County Commission District D
+ocd-division/country:us/state:tn/county:dyer/council_district:e,Dyer County Commission District E
+ocd-division/country:us/state:tn/county:dyer/council_district:f,Dyer County Commission District F
+ocd-division/country:us/state:tn/county:dyer/council_district:g,Dyer County Commission District G
+ocd-division/country:us/state:tn/county:dyer/council_district:h,Dyer County Commission District H
+ocd-division/country:us/state:tn/county:dyer/council_district:i,Dyer County Commission District I
+ocd-division/country:us/state:tn/county:dyer/council_district:j,Dyer County Commission District J
+ocd-division/country:us/state:tn/county:fayette/council_district:1,Fayette County Commission District 1
+ocd-division/country:us/state:tn/county:fayette/council_district:2,Fayette County Commission District 2
+ocd-division/country:us/state:tn/county:fayette/council_district:3,Fayette County Commission District 3
+ocd-division/country:us/state:tn/county:fayette/council_district:4,Fayette County Commission District 4
+ocd-division/country:us/state:tn/county:fayette/council_district:5,Fayette County Commission District 5
+ocd-division/country:us/state:tn/county:fayette/council_district:6,Fayette County Commission District 6
+ocd-division/country:us/state:tn/county:fayette/council_district:7,Fayette County Commission District 7
+ocd-division/country:us/state:tn/county:fayette/council_district:8,Fayette County Commission District 8
+ocd-division/country:us/state:tn/county:franklin/council_district:1,Franklin County Commission District 1
+ocd-division/country:us/state:tn/county:franklin/council_district:2,Franklin County Commission District 2
+ocd-division/country:us/state:tn/county:franklin/council_district:3,Franklin County Commission District 3
+ocd-division/country:us/state:tn/county:franklin/council_district:4,Franklin County Commission District 4
+ocd-division/country:us/state:tn/county:franklin/council_district:5,Franklin County Commission District 5
+ocd-division/country:us/state:tn/county:franklin/council_district:6,Franklin County Commission District 6
+ocd-division/country:us/state:tn/county:franklin/council_district:7,Franklin County Commission District 7
+ocd-division/country:us/state:tn/county:franklin/council_district:8,Franklin County Commission District 8
 ocd-division/country:us/state:tn/county:gibson/council_district:1,Gibson County Commission District 1
-ocd-division/country:us/state:tn/county:gibson/council_district:4,Gibson County Commission District 4
-ocd-division/country:us/state:tn/county:gibson/council_district:5,Gibson County Commission District 5
-ocd-division/country:us/state:tn/county:gibson/council_district:6,Gibson County Commission District 6
-ocd-division/country:us/state:tn/county:gibson/council_district:7,Gibson County Commission District 7
-ocd-division/country:us/state:tn/county:gibson/council_district:8,Gibson County Commission District 8
-ocd-division/country:us/state:tn/county:gibson/council_district:9,Gibson County Commission District 9
 ocd-division/country:us/state:tn/county:gibson/council_district:10,Gibson County Commission District 10
 ocd-division/country:us/state:tn/county:gibson/council_district:11,Gibson County Commission District 11
 ocd-division/country:us/state:tn/county:gibson/council_district:12,Gibson County Commission District 12
@@ -185,6 +244,12 @@ ocd-division/country:us/state:tn/county:gibson/council_district:16,Gibson County
 ocd-division/country:us/state:tn/county:gibson/council_district:17,Gibson County Commission District 17
 ocd-division/country:us/state:tn/county:gibson/council_district:18,Gibson County Commission District 18
 ocd-division/country:us/state:tn/county:gibson/council_district:19,Gibson County Commission District 19
+ocd-division/country:us/state:tn/county:gibson/council_district:4,Gibson County Commission District 4
+ocd-division/country:us/state:tn/county:gibson/council_district:5,Gibson County Commission District 5
+ocd-division/country:us/state:tn/county:gibson/council_district:6,Gibson County Commission District 6
+ocd-division/country:us/state:tn/county:gibson/council_district:7,Gibson County Commission District 7
+ocd-division/country:us/state:tn/county:gibson/council_district:8,Gibson County Commission District 8
+ocd-division/country:us/state:tn/county:gibson/council_district:9,Gibson County Commission District 9
 ocd-division/country:us/state:tn/county:giles/council_district:1,Giles County Commission District 1
 ocd-division/country:us/state:tn/county:giles/council_district:2,Giles County Commission District 2
 ocd-division/country:us/state:tn/county:giles/council_district:3,Giles County Commission District 3
@@ -206,6 +271,11 @@ ocd-division/country:us/state:tn/county:greene/council_district:6,Greene County 
 ocd-division/country:us/state:tn/county:greene/council_district:7,Greene County Commission District 7
 ocd-division/country:us/state:tn/county:greene/council_district:8,Greene County Commission District 8
 ocd-division/country:us/state:tn/county:hamblen/council_district:1,Hamblen County Commission District 1
+ocd-division/country:us/state:tn/county:hamblen/council_district:10,Hamblen County Commission District 10
+ocd-division/country:us/state:tn/county:hamblen/council_district:11,Hamblen County Commission District 11
+ocd-division/country:us/state:tn/county:hamblen/council_district:12,Hamblen County Commission District 12
+ocd-division/country:us/state:tn/county:hamblen/council_district:13,Hamblen County Commission District 13
+ocd-division/country:us/state:tn/county:hamblen/council_district:14,Hamblen County Commission District 14
 ocd-division/country:us/state:tn/county:hamblen/council_district:2,Hamblen County Commission District 2
 ocd-division/country:us/state:tn/county:hamblen/council_district:3,Hamblen County Commission District 3
 ocd-division/country:us/state:tn/county:hamblen/council_district:4,Hamblen County Commission District 4
@@ -214,11 +284,6 @@ ocd-division/country:us/state:tn/county:hamblen/council_district:6,Hamblen Count
 ocd-division/country:us/state:tn/county:hamblen/council_district:7,Hamblen County Commission District 7
 ocd-division/country:us/state:tn/county:hamblen/council_district:8,Hamblen County Commission District 8
 ocd-division/country:us/state:tn/county:hamblen/council_district:9,Hamblen County Commission District 9
-ocd-division/country:us/state:tn/county:hamblen/council_district:10,Hamblen County Commission District 10
-ocd-division/country:us/state:tn/county:hamblen/council_district:11,Hamblen County Commission District 11
-ocd-division/country:us/state:tn/county:hamblen/council_district:12,Hamblen County Commission District 12
-ocd-division/country:us/state:tn/county:hamblen/council_district:13,Hamblen County Commission District 13
-ocd-division/country:us/state:tn/county:hamblen/council_district:14,Hamblen County Commission District 14
 ocd-division/country:us/state:tn/county:hamilton/council_district:1,Hamilton County Commission District 1
 ocd-division/country:us/state:tn/county:hamilton/council_district:2,Hamilton County Commission District 2
 ocd-division/country:us/state:tn/county:hamilton/council_district:3,Hamilton County Commission District 3
@@ -228,6 +293,31 @@ ocd-division/country:us/state:tn/county:hamilton/council_district:6,Hamilton Cou
 ocd-division/country:us/state:tn/county:hamilton/council_district:7,Hamilton County Commission District 7
 ocd-division/country:us/state:tn/county:hamilton/council_district:8,Hamilton County Commission District 8
 ocd-division/country:us/state:tn/county:hamilton/council_district:9,Hamilton County Commission District 9
+ocd-division/country:us/state:tn/county:hancock/council_district:1,Hancock County Commission District 1
+ocd-division/country:us/state:tn/county:hancock/council_district:2,Hancock County Commission District 2
+ocd-division/country:us/state:tn/county:hancock/council_district:3,Hancock County Commission District 3
+ocd-division/country:us/state:tn/county:hancock/council_district:4,Hancock County Commission District 4
+ocd-division/country:us/state:tn/county:hancock/council_district:5,Hancock County Commission District 5
+ocd-division/country:us/state:tn/county:hancock/council_district:6,Hancock County Commission District 6
+ocd-division/country:us/state:tn/county:hancock/council_district:7,Hancock County Commission District 7
+ocd-division/country:us/state:tn/county:hardeman/council_district:1,Hardeman County Commission District 1
+ocd-division/country:us/state:tn/county:hardeman/council_district:2,Hardeman County Commission District 2
+ocd-division/country:us/state:tn/county:hardeman/council_district:3,Hardeman County Commission District 3
+ocd-division/country:us/state:tn/county:hardeman/council_district:4,Hardeman County Commission District 4
+ocd-division/country:us/state:tn/county:hardeman/council_district:5,Hardeman County Commission District 5
+ocd-division/country:us/state:tn/county:hardeman/council_district:6,Hardeman County Commission District 6
+ocd-division/country:us/state:tn/county:hardeman/council_district:7,Hardeman County Commission District 7
+ocd-division/country:us/state:tn/county:hardeman/council_district:8,Hardeman County Commission District 8
+ocd-division/country:us/state:tn/county:hardin/council_district:1,Hardin County Commission District 1
+ocd-division/country:us/state:tn/county:hardin/council_district:10,Hardin County Commission District 10
+ocd-division/country:us/state:tn/county:hardin/council_district:2,Hardin County Commission District 2
+ocd-division/country:us/state:tn/county:hardin/council_district:3,Hardin County Commission District 3
+ocd-division/country:us/state:tn/county:hardin/council_district:4,Hardin County Commission District 4
+ocd-division/country:us/state:tn/county:hardin/council_district:5,Hardin County Commission District 5
+ocd-division/country:us/state:tn/county:hardin/council_district:6,Hardin County Commission District 6
+ocd-division/country:us/state:tn/county:hardin/council_district:7,Hardin County Commission District 7
+ocd-division/country:us/state:tn/county:hardin/council_district:8,Hardin County Commission District 8
+ocd-division/country:us/state:tn/county:hardin/council_district:9,Hardin County Commission District 9
 ocd-division/country:us/state:tn/county:hawkins/council_district:1,Hawkins County Commission District 1
 ocd-division/country:us/state:tn/county:hawkins/council_district:2,Hawkins County Commission District 2
 ocd-division/country:us/state:tn/county:hawkins/council_district:3,Hawkins County Commission District 3
@@ -236,6 +326,7 @@ ocd-division/country:us/state:tn/county:hawkins/council_district:5,Hawkins Count
 ocd-division/country:us/state:tn/county:hawkins/council_district:6,Hawkins County Commission District 6
 ocd-division/country:us/state:tn/county:hawkins/council_district:7,Hawkins County Commission District 7
 ocd-division/country:us/state:tn/county:haywood/council_district:1,Haywood County Commission District 1
+ocd-division/country:us/state:tn/county:haywood/council_district:10,Haywood County Commission District 10
 ocd-division/country:us/state:tn/county:haywood/council_district:2,Haywood County Commission District 2
 ocd-division/country:us/state:tn/county:haywood/council_district:3,Haywood County Commission District 3
 ocd-division/country:us/state:tn/county:haywood/council_district:4,Haywood County Commission District 4
@@ -244,7 +335,13 @@ ocd-division/country:us/state:tn/county:haywood/council_district:6,Haywood Count
 ocd-division/country:us/state:tn/county:haywood/council_district:7,Haywood County Commission District 7
 ocd-division/country:us/state:tn/county:haywood/council_district:8,Haywood County Commission District 8
 ocd-division/country:us/state:tn/county:haywood/council_district:9,Haywood County Commission District 9
-ocd-division/country:us/state:tn/county:haywood/council_district:10,Haywood County Commission District 10
+ocd-division/country:us/state:tn/county:henderson/council_district:1,Henderson County Commission District 1
+ocd-division/country:us/state:tn/county:henderson/council_district:2,Henderson County Commission District 2
+ocd-division/country:us/state:tn/county:henderson/council_district:3,Henderson County Commission District 3
+ocd-division/country:us/state:tn/county:henderson/council_district:4,Henderson County Commission District 4
+ocd-division/country:us/state:tn/county:henderson/council_district:5,Henderson County Commission District 5
+ocd-division/country:us/state:tn/county:henderson/council_district:6,Henderson County Commission District 6
+ocd-division/country:us/state:tn/county:henderson/council_district:7,Henderson County Commission District 7
 ocd-division/country:us/state:tn/county:henry/council_district:1,Henry County Commission District 1
 ocd-division/country:us/state:tn/county:henry/council_district:2,Henry County Commission District 2
 ocd-division/country:us/state:tn/county:henry/council_district:3,Henry County Commission District 3
@@ -278,6 +375,7 @@ ocd-division/country:us/state:tn/county:jackson/council_district:4,Jackson Count
 ocd-division/country:us/state:tn/county:jackson/council_district:5,Jackson County Commission District 5
 ocd-division/country:us/state:tn/county:jackson/council_district:6,Jackson County Commission District 6
 ocd-division/country:us/state:tn/county:jefferson/council_district:1,Jefferson County Commission District 1
+ocd-division/country:us/state:tn/county:jefferson/council_district:10,Jefferson County Commission District 10
 ocd-division/country:us/state:tn/county:jefferson/council_district:2,Jefferson County Commission District 2
 ocd-division/country:us/state:tn/county:jefferson/council_district:3,Jefferson County Commission District 3
 ocd-division/country:us/state:tn/county:jefferson/council_district:4,Jefferson County Commission District 4
@@ -286,7 +384,6 @@ ocd-division/country:us/state:tn/county:jefferson/council_district:6,Jefferson C
 ocd-division/country:us/state:tn/county:jefferson/council_district:7,Jefferson County Commission District 7
 ocd-division/country:us/state:tn/county:jefferson/council_district:8,Jefferson County Commission District 8
 ocd-division/country:us/state:tn/county:jefferson/council_district:9,Jefferson County Commission District 9
-ocd-division/country:us/state:tn/county:jefferson/council_district:10,Jefferson County Commission District 10
 ocd-division/country:us/state:tn/county:johnson/council_district:1,Johnson County Commission District 1
 ocd-division/country:us/state:tn/county:johnson/council_district:2,Johnson County Commission District 2
 ocd-division/country:us/state:tn/county:johnson/council_district:3,Johnson County Commission District 3
@@ -303,6 +400,12 @@ ocd-division/country:us/state:tn/county:knox/council_district:6,Knox County TN C
 ocd-division/country:us/state:tn/county:knox/council_district:7,Knox County TN County Commission District 7
 ocd-division/country:us/state:tn/county:knox/council_district:8,Knox County TN County Commission District 8
 ocd-division/country:us/state:tn/county:knox/council_district:9,Knox County TN County Commission District 9
+ocd-division/country:us/state:tn/place:knoxville/council_district:1,Knoxville TN city council district 1
+ocd-division/country:us/state:tn/place:knoxville/council_district:2,Knoxville TN city council district 2
+ocd-division/country:us/state:tn/place:knoxville/council_district:3,Knoxville TN city council district 3
+ocd-division/country:us/state:tn/place:knoxville/council_district:4,Knoxville TN city council district 4
+ocd-division/country:us/state:tn/place:knoxville/council_district:5,Knoxville TN city council district 5
+ocd-division/country:us/state:tn/place:knoxville/council_district:6,Knoxville TN city council district 6
 ocd-division/country:us/state:tn/county:lauderdale/council_district:1,Lauderdale County Commission District 1
 ocd-division/country:us/state:tn/county:lauderdale/council_district:2,Lauderdale County Commission District 2
 ocd-division/country:us/state:tn/county:lauderdale/council_district:3,Lauderdale County Commission District 3
@@ -312,14 +415,6 @@ ocd-division/country:us/state:tn/county:lauderdale/council_district:6,Lauderdale
 ocd-division/country:us/state:tn/county:lauderdale/council_district:7,Lauderdale County Commission District 7
 ocd-division/country:us/state:tn/county:lauderdale/council_district:8,Lauderdale County Commission District 8
 ocd-division/country:us/state:tn/county:lawrence/council_district:1,Lawrence County Commission District 1
-ocd-division/country:us/state:tn/county:lawrence/council_district:2,Lawrence County Commission District 2
-ocd-division/country:us/state:tn/county:lawrence/council_district:3,Lawrence County Commission District 3
-ocd-division/country:us/state:tn/county:lawrence/council_district:4,Lawrence County Commission District 4
-ocd-division/country:us/state:tn/county:lawrence/council_district:5,Lawrence County Commission District 5
-ocd-division/country:us/state:tn/county:lawrence/council_district:6,Lawrence County Commission District 6
-ocd-division/country:us/state:tn/county:lawrence/council_district:7,Lawrence County Commission District 7
-ocd-division/country:us/state:tn/county:lawrence/council_district:8,Lawrence County Commission District 8
-ocd-division/country:us/state:tn/county:lawrence/council_district:9,Lawrence County Commission District 9
 ocd-division/country:us/state:tn/county:lawrence/council_district:10,Lawrence County Commission District 10
 ocd-division/country:us/state:tn/county:lawrence/council_district:11,Lawrence County Commission District 11
 ocd-division/country:us/state:tn/county:lawrence/council_district:12,Lawrence County Commission District 12
@@ -329,6 +424,14 @@ ocd-division/country:us/state:tn/county:lawrence/council_district:15,Lawrence Co
 ocd-division/country:us/state:tn/county:lawrence/council_district:16,Lawrence County Commission District 16
 ocd-division/country:us/state:tn/county:lawrence/council_district:17,Lawrence County Commission District 17
 ocd-division/country:us/state:tn/county:lawrence/council_district:18,Lawrence County Commission District 18
+ocd-division/country:us/state:tn/county:lawrence/council_district:2,Lawrence County Commission District 2
+ocd-division/country:us/state:tn/county:lawrence/council_district:3,Lawrence County Commission District 3
+ocd-division/country:us/state:tn/county:lawrence/council_district:4,Lawrence County Commission District 4
+ocd-division/country:us/state:tn/county:lawrence/council_district:5,Lawrence County Commission District 5
+ocd-division/country:us/state:tn/county:lawrence/council_district:6,Lawrence County Commission District 6
+ocd-division/country:us/state:tn/county:lawrence/council_district:7,Lawrence County Commission District 7
+ocd-division/country:us/state:tn/county:lawrence/council_district:8,Lawrence County Commission District 8
+ocd-division/country:us/state:tn/county:lawrence/council_district:9,Lawrence County Commission District 9
 ocd-division/country:us/state:tn/county:lewis/council_district:1,Lewis County Commission District 1
 ocd-division/country:us/state:tn/county:lewis/council_district:2,Lewis County Commission District 2
 ocd-division/country:us/state:tn/county:lewis/council_district:3,Lewis County Commission District 3
@@ -338,6 +441,14 @@ ocd-division/country:us/state:tn/county:lewis/council_district:6,Lewis County Co
 ocd-division/country:us/state:tn/county:lewis/council_district:7,Lewis County Commission District 7
 ocd-division/country:us/state:tn/county:lewis/council_district:8,Lewis County Commission District 8
 ocd-division/country:us/state:tn/county:lewis/council_district:9,Lewis County Commission District 9
+ocd-division/country:us/state:tn/county:lincoln/council_district:1,Lincoln County Commission District 1
+ocd-division/country:us/state:tn/county:lincoln/council_district:2,Lincoln County Commission District 2
+ocd-division/country:us/state:tn/county:lincoln/council_district:3,Lincoln County Commission District 3
+ocd-division/country:us/state:tn/county:lincoln/council_district:4,Lincoln County Commission District 4
+ocd-division/country:us/state:tn/county:lincoln/council_district:5,Lincoln County Commission District 5
+ocd-division/country:us/state:tn/county:lincoln/council_district:6,Lincoln County Commission District 6
+ocd-division/country:us/state:tn/county:lincoln/council_district:7,Lincoln County Commission District 7
+ocd-division/country:us/state:tn/county:lincoln/council_district:8,Lincoln County Commission District 8
 ocd-division/country:us/state:tn/county:loudon/council_district:1,Loudon County Commission District 1
 ocd-division/country:us/state:tn/county:loudon/council_district:2,Loudon County Commission District 2
 ocd-division/country:us/state:tn/county:loudon/council_district:3,Loudon County Commission District 3
@@ -346,14 +457,6 @@ ocd-division/country:us/state:tn/county:loudon/council_district:5,Loudon County 
 ocd-division/country:us/state:tn/county:loudon/council_district:6,Loudon County Commission District 6
 ocd-division/country:us/state:tn/county:loudon/council_district:7,Loudon County Commission District 7
 ocd-division/country:us/state:tn/county:macon/council_district:1,Macon County Commission District 1
-ocd-division/country:us/state:tn/county:macon/council_district:2,Macon County Commission District 2
-ocd-division/country:us/state:tn/county:macon/council_district:3,Macon County Commission District 3
-ocd-division/country:us/state:tn/county:macon/council_district:4,Macon County Commission District 4
-ocd-division/country:us/state:tn/county:macon/council_district:5,Macon County Commission District 5
-ocd-division/country:us/state:tn/county:macon/council_district:6,Macon County Commission District 6
-ocd-division/country:us/state:tn/county:macon/council_district:7,Macon County Commission District 7
-ocd-division/country:us/state:tn/county:macon/council_district:8,Macon County Commission District 8
-ocd-division/country:us/state:tn/county:macon/council_district:9,Macon County Commission District 9
 ocd-division/country:us/state:tn/county:macon/council_district:10,Macon County Commission District 10
 ocd-division/country:us/state:tn/county:macon/council_district:11,Macon County Commission District 11
 ocd-division/country:us/state:tn/county:macon/council_district:12,Macon County Commission District 12
@@ -364,8 +467,17 @@ ocd-division/country:us/state:tn/county:macon/council_district:16,Macon County C
 ocd-division/country:us/state:tn/county:macon/council_district:17,Macon County Commission District 17
 ocd-division/country:us/state:tn/county:macon/council_district:18,Macon County Commission District 18
 ocd-division/country:us/state:tn/county:macon/council_district:19,Macon County Commission District 19
+ocd-division/country:us/state:tn/county:macon/council_district:2,Macon County Commission District 2
 ocd-division/country:us/state:tn/county:macon/council_district:20,Macon County Commission District 20
+ocd-division/country:us/state:tn/county:macon/council_district:3,Macon County Commission District 3
+ocd-division/country:us/state:tn/county:macon/council_district:4,Macon County Commission District 4
+ocd-division/country:us/state:tn/county:macon/council_district:5,Macon County Commission District 5
+ocd-division/country:us/state:tn/county:macon/council_district:6,Macon County Commission District 6
+ocd-division/country:us/state:tn/county:macon/council_district:7,Macon County Commission District 7
+ocd-division/country:us/state:tn/county:macon/council_district:8,Macon County Commission District 8
+ocd-division/country:us/state:tn/county:macon/council_district:9,Macon County Commission District 9
 ocd-division/country:us/state:tn/county:madison/council_district:1,Madison County Commission District 1
+ocd-division/country:us/state:tn/county:madison/council_district:10,Madison County Commission District 10
 ocd-division/country:us/state:tn/county:madison/council_district:2,Madison County Commission District 2
 ocd-division/country:us/state:tn/county:madison/council_district:3,Madison County Commission District 3
 ocd-division/country:us/state:tn/county:madison/council_district:4,Madison County Commission District 4
@@ -374,7 +486,6 @@ ocd-division/country:us/state:tn/county:madison/council_district:6,Madison Count
 ocd-division/country:us/state:tn/county:madison/council_district:7,Madison County Commission District 7
 ocd-division/country:us/state:tn/county:madison/council_district:8,Madison County Commission District 8
 ocd-division/country:us/state:tn/county:madison/council_district:9,Madison County Commission District 9
-ocd-division/country:us/state:tn/county:madison/council_district:10,Madison County Commission District 10
 ocd-division/country:us/state:tn/county:marion/council_district:1,Marion County Commission District 1
 ocd-division/country:us/state:tn/county:marion/council_district:2,Marion County Commission District 2
 ocd-division/country:us/state:tn/county:marion/council_district:3,Marion County Commission District 3
@@ -390,6 +501,8 @@ ocd-division/country:us/state:tn/county:marshall/council_district:7,Marshall Cou
 ocd-division/country:us/state:tn/county:marshall/council_district:8,Marshall County Commission District 8
 ocd-division/country:us/state:tn/county:marshall/council_district:9,Marshall County Commission District 9
 ocd-division/country:us/state:tn/county:maury/council_district:1,Maury County Commission District 1
+ocd-division/country:us/state:tn/county:maury/council_district:10,Maury County Commission District 10
+ocd-division/country:us/state:tn/county:maury/council_district:11,Maury County Commission District 11
 ocd-division/country:us/state:tn/county:maury/council_district:2,Maury County Commission District 2
 ocd-division/country:us/state:tn/county:maury/council_district:3,Maury County Commission District 3
 ocd-division/country:us/state:tn/county:maury/council_district:4,Maury County Commission District 4
@@ -398,27 +511,37 @@ ocd-division/country:us/state:tn/county:maury/council_district:6,Maury County Co
 ocd-division/country:us/state:tn/county:maury/council_district:7,Maury County Commission District 7
 ocd-division/country:us/state:tn/county:maury/council_district:8,Maury County Commission District 8
 ocd-division/country:us/state:tn/county:maury/council_district:9,Maury County Commission District 9
-ocd-division/country:us/state:tn/county:maury/council_district:10,Maury County Commission District 10
-ocd-division/country:us/state:tn/county:maury/council_district:11,Maury County Commission District 11
 ocd-division/country:us/state:tn/county:mcminn/council_district:1,McMinn County Commission District 1
 ocd-division/country:us/state:tn/county:mcminn/council_district:2,McMinn County Commission District 2
 ocd-division/country:us/state:tn/county:mcminn/council_district:3,McMinn County Commission District 3
 ocd-division/country:us/state:tn/county:mcminn/council_district:4,McMinn County Commission District 4
 ocd-division/country:us/state:tn/county:mcminn/council_district:5,McMinn County Commission District 5
+ocd-division/country:us/state:tn/county:mcnairy/council_district:1,McNairy County Commission District 1
+ocd-division/country:us/state:tn/county:mcnairy/council_district:2,McNairy County Commission District 2
+ocd-division/country:us/state:tn/county:mcnairy/council_district:3,McNairy County Commission District 3
+ocd-division/country:us/state:tn/county:mcnairy/council_district:4,McNairy County Commission District 4
+ocd-division/country:us/state:tn/county:mcnairy/council_district:5,McNairy County Commission District 5
+ocd-division/country:us/state:tn/county:mcnairy/council_district:6,McNairy County Commission District 6
+ocd-division/country:us/state:tn/county:mcnairy/council_district:7,McNairy County Commission District 7
 ocd-division/country:us/state:tn/county:meigs/council_district:1,Meigs County Commission District 1
 ocd-division/country:us/state:tn/county:meigs/council_district:2,Meigs County Commission District 2
 ocd-division/country:us/state:tn/county:meigs/council_district:3,Meigs County Commission District 3
 ocd-division/country:us/state:tn/county:meigs/council_district:4,Meigs County Commission District 4
 ocd-division/country:us/state:tn/county:meigs/council_district:5,Meigs County Commission District 5
+ocd-division/country:us/state:tn/place:memphis/council_district:1,Memphis TN city council district 1
+ocd-division/country:us/state:tn/place:memphis/council_district:2,Memphis TN city council district 2
+ocd-division/country:us/state:tn/place:memphis/council_district:3,Memphis TN city council district 3
+ocd-division/country:us/state:tn/place:memphis/council_district:4,Memphis TN city council district 4
+ocd-division/country:us/state:tn/place:memphis/council_district:5,Memphis TN city council district 5
+ocd-division/country:us/state:tn/place:memphis/council_district:6,Memphis TN city council district 6
+ocd-division/country:us/state:tn/place:memphis/council_district:7,Memphis TN city council district 7
+ocd-division/country:us/state:tn/place:memphis/council_district:8,Memphis TN city council district 8 (super)
+ocd-division/country:us/state:tn/place:memphis/council_district:9,Memphis TN city council district 9 (super)
+ocd-division/country:us/state:tn/county:monroe/council_district:1,Monroe County Commission District 1
+ocd-division/country:us/state:tn/county:monroe/council_district:2,Monroe County Commission District 2
+ocd-division/country:us/state:tn/county:monroe/council_district:3,Monroe County Commission District 3
+ocd-division/country:us/state:tn/county:monroe/council_district:4,Monroe County Commission District 4
 ocd-division/country:us/state:tn/county:montgomery/council_district:1,Montgomery County Commission District 1
-ocd-division/country:us/state:tn/county:montgomery/council_district:2,Montgomery County Commission District 2
-ocd-division/country:us/state:tn/county:montgomery/council_district:3,Montgomery County Commission District 3
-ocd-division/country:us/state:tn/county:montgomery/council_district:4,Montgomery County Commission District 4
-ocd-division/country:us/state:tn/county:montgomery/council_district:5,Montgomery County Commission District 5
-ocd-division/country:us/state:tn/county:montgomery/council_district:6,Montgomery County Commission District 6
-ocd-division/country:us/state:tn/county:montgomery/council_district:7,Montgomery County Commission District 7
-ocd-division/country:us/state:tn/county:montgomery/council_district:8,Montgomery County Commission District 8
-ocd-division/country:us/state:tn/county:montgomery/council_district:9,Montgomery County Commission District 9
 ocd-division/country:us/state:tn/county:montgomery/council_district:10,Montgomery County Commission District 10
 ocd-division/country:us/state:tn/county:montgomery/council_district:11,Montgomery County Commission District 11
 ocd-division/country:us/state:tn/county:montgomery/council_district:12,Montgomery County Commission District 12
@@ -429,15 +552,40 @@ ocd-division/country:us/state:tn/county:montgomery/council_district:16,Montgomer
 ocd-division/country:us/state:tn/county:montgomery/council_district:17,Montgomery County Commission District 17
 ocd-division/country:us/state:tn/county:montgomery/council_district:18,Montgomery County Commission District 18
 ocd-division/country:us/state:tn/county:montgomery/council_district:19,Montgomery County Commission District 19
+ocd-division/country:us/state:tn/county:montgomery/council_district:2,Montgomery County Commission District 2
 ocd-division/country:us/state:tn/county:montgomery/council_district:20,Montgomery County Commission District 20
 ocd-division/country:us/state:tn/county:montgomery/council_district:21,Montgomery County Commission District 21
+ocd-division/country:us/state:tn/county:montgomery/council_district:3,Montgomery County Commission District 3
+ocd-division/country:us/state:tn/county:montgomery/council_district:4,Montgomery County Commission District 4
+ocd-division/country:us/state:tn/county:montgomery/council_district:5,Montgomery County Commission District 5
+ocd-division/country:us/state:tn/county:montgomery/council_district:6,Montgomery County Commission District 6
+ocd-division/country:us/state:tn/county:montgomery/council_district:7,Montgomery County Commission District 7
+ocd-division/country:us/state:tn/county:montgomery/council_district:8,Montgomery County Commission District 8
+ocd-division/country:us/state:tn/county:montgomery/council_district:9,Montgomery County Commission District 9
 ocd-division/country:us/state:tn/county:morgan/council_district:1,Morgan County Commission District 1
 ocd-division/country:us/state:tn/county:morgan/council_district:2,Morgan County Commission District 2
 ocd-division/country:us/state:tn/county:morgan/council_district:3,Morgan County Commission District 3
 ocd-division/country:us/state:tn/county:morgan/council_district:4,Morgan County Commission District 4
 ocd-division/country:us/state:tn/county:morgan/council_district:5,Morgan County Commission District 5
 ocd-division/country:us/state:tn/county:morgan/council_district:6,Morgan County Commission District 6
+ocd-division/country:us/state:tn/county:overton/council_district:1,Overton County Commission District 1
+ocd-division/country:us/state:tn/county:overton/council_district:2,Overton County Commission District 2
+ocd-division/country:us/state:tn/county:overton/council_district:3,Overton County Commission District 3
+ocd-division/country:us/state:tn/county:overton/council_district:4,Overton County Commission District 4
+ocd-division/country:us/state:tn/county:overton/council_district:5,Overton County Commission District 5
+ocd-division/country:us/state:tn/county:perry/council_district:1,Perry County Commission District 1
+ocd-division/country:us/state:tn/county:perry/council_district:2,Perry County Commission District 2
+ocd-division/country:us/state:tn/county:perry/council_district:3,Perry County Commission District 3
+ocd-division/country:us/state:tn/county:perry/council_district:4,Perry County Commission District 4
+ocd-division/country:us/state:tn/county:perry/council_district:5,Perry County Commission District 5
+ocd-division/country:us/state:tn/county:perry/council_district:6,Perry County Commission District 6
+ocd-division/country:us/state:tn/county:polk/council_district:1,Polk County Commission District 1
+ocd-division/country:us/state:tn/county:polk/council_district:2,Polk County Commission District 2
+ocd-division/country:us/state:tn/county:polk/council_district:3,Polk County Commission District 3
 ocd-division/country:us/state:tn/county:putnam/council_district:1,Putnam County Commission District 1
+ocd-division/country:us/state:tn/county:putnam/council_district:10,Putnam County Commission District 10
+ocd-division/country:us/state:tn/county:putnam/council_district:11,Putnam County Commission District 11
+ocd-division/country:us/state:tn/county:putnam/council_district:12,Putnam County Commission District 12
 ocd-division/country:us/state:tn/county:putnam/council_district:2,Putnam County Commission District 2
 ocd-division/country:us/state:tn/county:putnam/council_district:3,Putnam County Commission District 3
 ocd-division/country:us/state:tn/county:putnam/council_district:4,Putnam County Commission District 4
@@ -446,9 +594,6 @@ ocd-division/country:us/state:tn/county:putnam/council_district:6,Putnam County 
 ocd-division/country:us/state:tn/county:putnam/council_district:7,Putnam County Commission District 7
 ocd-division/country:us/state:tn/county:putnam/council_district:8,Putnam County Commission District 8
 ocd-division/country:us/state:tn/county:putnam/council_district:9,Putnam County Commission District 9
-ocd-division/country:us/state:tn/county:putnam/council_district:10,Putnam County Commission District 10
-ocd-division/country:us/state:tn/county:putnam/council_district:11,Putnam County Commission District 11
-ocd-division/country:us/state:tn/county:putnam/council_district:12,Putnam County Commission District 12
 ocd-division/country:us/state:tn/county:rhea/council_district:1,Rhea County Commission District 1
 ocd-division/country:us/state:tn/county:rhea/council_district:2,Rhea County Commission District 2
 ocd-division/country:us/state:tn/county:rhea/council_district:3,Rhea County Commission District 3
@@ -466,6 +611,9 @@ ocd-division/country:us/state:tn/county:roane/council_district:5,Roane County Co
 ocd-division/country:us/state:tn/county:roane/council_district:6,Roane County Commission District 6
 ocd-division/country:us/state:tn/county:roane/council_district:7,Roane County Commission District 7
 ocd-division/country:us/state:tn/county:robertson/council_district:1,Robertson County Commission District 1
+ocd-division/country:us/state:tn/county:robertson/council_district:10,Robertson County Commission District 10
+ocd-division/country:us/state:tn/county:robertson/council_district:11,Robertson County Commission District 11
+ocd-division/country:us/state:tn/county:robertson/council_district:12,Robertson County Commission District 12
 ocd-division/country:us/state:tn/county:robertson/council_district:2,Robertson County Commission District 2
 ocd-division/country:us/state:tn/county:robertson/council_district:3,Robertson County Commission District 3
 ocd-division/country:us/state:tn/county:robertson/council_district:4,Robertson County Commission District 4
@@ -474,18 +622,7 @@ ocd-division/country:us/state:tn/county:robertson/council_district:6,Robertson C
 ocd-division/country:us/state:tn/county:robertson/council_district:7,Robertson County Commission District 7
 ocd-division/country:us/state:tn/county:robertson/council_district:8,Robertson County Commission District 8
 ocd-division/country:us/state:tn/county:robertson/council_district:9,Robertson County Commission District 9
-ocd-division/country:us/state:tn/county:robertson/council_district:10,Robertson County Commission District 10
-ocd-division/country:us/state:tn/county:robertson/council_district:11,Robertson County Commission District 11
-ocd-division/country:us/state:tn/county:robertson/council_district:12,Robertson County Commission District 12
 ocd-division/country:us/state:tn/county:rutherford/council_district:1,Rutherford County Commission District 1
-ocd-division/country:us/state:tn/county:rutherford/council_district:2,Rutherford County Commission District 2
-ocd-division/country:us/state:tn/county:rutherford/council_district:3,Rutherford County Commission District 3
-ocd-division/country:us/state:tn/county:rutherford/council_district:4,Rutherford County Commission District 4
-ocd-division/country:us/state:tn/county:rutherford/council_district:5,Rutherford County Commission District 5
-ocd-division/country:us/state:tn/county:rutherford/council_district:6,Rutherford County Commission District 6
-ocd-division/country:us/state:tn/county:rutherford/council_district:7,Rutherford County Commission District 7
-ocd-division/country:us/state:tn/county:rutherford/council_district:8,Rutherford County Commission District 8
-ocd-division/country:us/state:tn/county:rutherford/council_district:9,Rutherford County Commission District 9
 ocd-division/country:us/state:tn/county:rutherford/council_district:10,Rutherford County Commission District 10
 ocd-division/country:us/state:tn/county:rutherford/council_district:11,Rutherford County Commission District 11
 ocd-division/country:us/state:tn/county:rutherford/council_district:12,Rutherford County Commission District 12
@@ -496,8 +633,16 @@ ocd-division/country:us/state:tn/county:rutherford/council_district:16,Rutherfor
 ocd-division/country:us/state:tn/county:rutherford/council_district:17,Rutherford County Commission District 17
 ocd-division/country:us/state:tn/county:rutherford/council_district:18,Rutherford County Commission District 18
 ocd-division/country:us/state:tn/county:rutherford/council_district:19,Rutherford County Commission District 19
+ocd-division/country:us/state:tn/county:rutherford/council_district:2,Rutherford County Commission District 2
 ocd-division/country:us/state:tn/county:rutherford/council_district:20,Rutherford County Commission District 20
 ocd-division/country:us/state:tn/county:rutherford/council_district:21,Rutherford County Commission District 21
+ocd-division/country:us/state:tn/county:rutherford/council_district:3,Rutherford County Commission District 3
+ocd-division/country:us/state:tn/county:rutherford/council_district:4,Rutherford County Commission District 4
+ocd-division/country:us/state:tn/county:rutherford/council_district:5,Rutherford County Commission District 5
+ocd-division/country:us/state:tn/county:rutherford/council_district:6,Rutherford County Commission District 6
+ocd-division/country:us/state:tn/county:rutherford/council_district:7,Rutherford County Commission District 7
+ocd-division/country:us/state:tn/county:rutherford/council_district:8,Rutherford County Commission District 8
+ocd-division/country:us/state:tn/county:rutherford/council_district:9,Rutherford County Commission District 9
 ocd-division/country:us/state:tn/county:scott/council_district:1,Scott County Commission District 1
 ocd-division/country:us/state:tn/county:scott/council_district:2,Scott County Commission District 2
 ocd-division/country:us/state:tn/county:scott/council_district:3,Scott County Commission District 3
@@ -505,6 +650,28 @@ ocd-division/country:us/state:tn/county:scott/council_district:4,Scott County Co
 ocd-division/country:us/state:tn/county:scott/council_district:5,Scott County Commission District 5
 ocd-division/country:us/state:tn/county:scott/council_district:6,Scott County Commission District 6
 ocd-division/country:us/state:tn/county:scott/council_district:7,Scott County Commission District 7
+ocd-division/country:us/state:tn/county:sevier/council_district:1,Sevier County Commission District 1
+ocd-division/country:us/state:tn/county:sevier/council_district:10,Sevier County Commission District 10
+ocd-division/country:us/state:tn/county:sevier/council_district:11,Sevier County Commission District 11
+ocd-division/country:us/state:tn/county:sevier/council_district:2,Sevier County Commission District 2
+ocd-division/country:us/state:tn/county:sevier/council_district:3,Sevier County Commission District 3
+ocd-division/country:us/state:tn/county:sevier/council_district:4,Sevier County Commission District 4
+ocd-division/country:us/state:tn/county:sevier/council_district:5,Sevier County Commission District 5
+ocd-division/country:us/state:tn/county:sevier/council_district:6,Sevier County Commission District 6
+ocd-division/country:us/state:tn/county:sevier/council_district:7,Sevier County Commission District 7
+ocd-division/country:us/state:tn/county:sevier/council_district:8,Sevier County Commission District 8
+ocd-division/country:us/state:tn/county:sevier/council_district:9,Sevier County Commission District 9
+ocd-division/country:us/state:tn/county:unicoi/council_district:1,Shelby County Commission District 1
+ocd-division/country:us/state:tn/county:shelby/council_district:10,Shelby County Commission District 10
+ocd-division/country:us/state:tn/county:shelby/council_district:11,Shelby County Commission District 11
+ocd-division/country:us/state:tn/county:shelby/council_district:12,Shelby County Commission District 12
+ocd-division/country:us/state:tn/county:shelby/council_district:13,Shelby County Commission District 13
+ocd-division/country:us/state:tn/county:unicoi/council_district:2,Shelby County Commission District 2
+ocd-division/country:us/state:tn/county:unicoi/council_district:3,Shelby County Commission District 3
+ocd-division/country:us/state:tn/county:shelby/council_district:6,Shelby County Commission District 6
+ocd-division/country:us/state:tn/county:shelby/council_district:7,Shelby County Commission District 7
+ocd-division/country:us/state:tn/county:shelby/council_district:8,Shelby County Commission District 8
+ocd-division/country:us/state:tn/county:shelby/council_district:9,Shelby County Commission District 9
 ocd-division/country:us/state:tn/county:shelby/council_district:1,Shelby County TN Board of Commissioners District 1
 ocd-division/country:us/state:tn/county:shelby/council_district:2,Shelby County TN Board of Commissioners District 2
 ocd-division/country:us/state:tn/county:shelby/council_district:3,Shelby County TN Board of Commissioners District 3
@@ -526,6 +693,8 @@ ocd-division/country:us/state:tn/county:stewart/council_district:5,Stewart Count
 ocd-division/country:us/state:tn/county:stewart/council_district:6,Stewart County Commission District 6
 ocd-division/country:us/state:tn/county:stewart/council_district:7,Stewart County Commission District 7
 ocd-division/country:us/state:tn/county:sullivan/council_district:1,Sullivan County Commission District 1
+ocd-division/country:us/state:tn/county:sullivan/council_district:10,Sullivan County Commission District 10
+ocd-division/country:us/state:tn/county:sullivan/council_district:11,Sullivan County Commission District 11
 ocd-division/country:us/state:tn/county:sullivan/council_district:2,Sullivan County Commission District 2
 ocd-division/country:us/state:tn/county:sullivan/council_district:3,Sullivan County Commission District 3
 ocd-division/country:us/state:tn/county:sullivan/council_district:4,Sullivan County Commission District 4
@@ -534,9 +703,10 @@ ocd-division/country:us/state:tn/county:sullivan/council_district:6,Sullivan Cou
 ocd-division/country:us/state:tn/county:sullivan/council_district:7,Sullivan County Commission District 7
 ocd-division/country:us/state:tn/county:sullivan/council_district:8,Sullivan County Commission District 8
 ocd-division/country:us/state:tn/county:sullivan/council_district:9,Sullivan County Commission District 9
-ocd-division/country:us/state:tn/county:sullivan/council_district:10,Sullivan County Commission District 10
-ocd-division/country:us/state:tn/county:sullivan/council_district:11,Sullivan County Commission District 11
 ocd-division/country:us/state:tn/county:sumner/council_district:1,Sumner County Commission District 1
+ocd-division/country:us/state:tn/county:sumner/council_district:10,Sumner County Commission District 10
+ocd-division/country:us/state:tn/county:sumner/council_district:11,Sumner County Commission District 11
+ocd-division/country:us/state:tn/county:sumner/council_district:12,Sumner County Commission District 12
 ocd-division/country:us/state:tn/county:sumner/council_district:2,Sumner County Commission District 2
 ocd-division/country:us/state:tn/county:sumner/council_district:3,Sumner County Commission District 3
 ocd-division/country:us/state:tn/county:sumner/council_district:4,Sumner County Commission District 4
@@ -545,9 +715,6 @@ ocd-division/country:us/state:tn/county:sumner/council_district:6,Sumner County 
 ocd-division/country:us/state:tn/county:sumner/council_district:7,Sumner County Commission District 7
 ocd-division/country:us/state:tn/county:sumner/council_district:8,Sumner County Commission District 8
 ocd-division/country:us/state:tn/county:sumner/council_district:9,Sumner County Commission District 9
-ocd-division/country:us/state:tn/county:sumner/council_district:10,Sumner County Commission District 10
-ocd-division/country:us/state:tn/county:sumner/council_district:11,Sumner County Commission District 11
-ocd-division/country:us/state:tn/county:sumner/council_district:12,Sumner County Commission District 12
 ocd-division/country:us/state:tn/county:tipton/council_district:1,Tipton County Commission District 1
 ocd-division/country:us/state:tn/county:tipton/council_district:2,Tipton County Commission District 2
 ocd-division/country:us/state:tn/county:tipton/council_district:3,Tipton County Commission District 3
@@ -558,6 +725,7 @@ ocd-division/country:us/state:tn/county:tipton/council_district:7,Tipton County 
 ocd-division/country:us/state:tn/county:tipton/council_district:8,Tipton County Commission District 8
 ocd-division/country:us/state:tn/county:tipton/council_district:9,Tipton County Commission District 9
 ocd-division/country:us/state:tn/county:trousdale/council_district:1,Trousdale County Commission District 1
+ocd-division/country:us/state:tn/county:trousdale/council_district:10,Trousdale County Commission District 10
 ocd-division/country:us/state:tn/county:trousdale/council_district:2,Trousdale County Commission District 2
 ocd-division/country:us/state:tn/county:trousdale/council_district:3,Trousdale County Commission District 3
 ocd-division/country:us/state:tn/county:trousdale/council_district:4,Trousdale County Commission District 4
@@ -566,7 +734,6 @@ ocd-division/country:us/state:tn/county:trousdale/council_district:6,Trousdale C
 ocd-division/country:us/state:tn/county:trousdale/council_district:7,Trousdale County Commission District 7
 ocd-division/country:us/state:tn/county:trousdale/council_district:8,Trousdale County Commission District 8
 ocd-division/country:us/state:tn/county:trousdale/council_district:9,Trousdale County Commission District 9
-ocd-division/country:us/state:tn/county:trousdale/council_district:10,Trousdale County Commission District 10
 ocd-division/country:us/state:tn/county:union/council_district:1,Union County Commission District 1
 ocd-division/country:us/state:tn/county:union/council_district:2,Union County Commission District 2
 ocd-division/country:us/state:tn/county:union/council_district:3,Union County Commission District 3
@@ -574,7 +741,15 @@ ocd-division/country:us/state:tn/county:union/council_district:4,Union County Co
 ocd-division/country:us/state:tn/county:union/council_district:5,Union County Commission District 5
 ocd-division/country:us/state:tn/county:union/council_district:6,Union County Commission District 6
 ocd-division/country:us/state:tn/county:union/council_district:7,Union County Commission District 7
+ocd-division/country:us/state:tn/county:van_buren/council_district:1,Van Buren County Commission District 1
+ocd-division/country:us/state:tn/county:van_buren/council_district:2,Van Buren County Commission District 2
+ocd-division/country:us/state:tn/county:van_buren/council_district:3,Van Buren County Commission District 3
+ocd-division/country:us/state:tn/county:van_buren/council_district:4,Van Buren County Commission District 4
+ocd-division/country:us/state:tn/county:van_buren/council_district:5,Van Buren County Commission District 5
 ocd-division/country:us/state:tn/county:warren/council_district:1,Warren County Commission District 1
+ocd-division/country:us/state:tn/county:warren/council_district:10,Warren County Commission District 10
+ocd-division/country:us/state:tn/county:warren/council_district:11,Warren County Commission District 11
+ocd-division/country:us/state:tn/county:warren/council_district:12,Warren County Commission District 12
 ocd-division/country:us/state:tn/county:warren/council_district:2,Warren County Commission District 2
 ocd-division/country:us/state:tn/county:warren/council_district:3,Warren County Commission District 3
 ocd-division/country:us/state:tn/county:warren/council_district:4,Warren County Commission District 4
@@ -583,9 +758,6 @@ ocd-division/country:us/state:tn/county:warren/council_district:6,Warren County 
 ocd-division/country:us/state:tn/county:warren/council_district:7,Warren County Commission District 7
 ocd-division/country:us/state:tn/county:warren/council_district:8,Warren County Commission District 8
 ocd-division/country:us/state:tn/county:warren/council_district:9,Warren County Commission District 9
-ocd-division/country:us/state:tn/county:warren/council_district:10,Warren County Commission District 10
-ocd-division/country:us/state:tn/county:warren/council_district:11,Warren County Commission District 11
-ocd-division/country:us/state:tn/county:warren/council_district:12,Warren County Commission District 12
 ocd-division/country:us/state:tn/county:washington/council_district:1,Washington County Commission District 1
 ocd-division/country:us/state:tn/county:washington/council_district:2,Washington County Commission District 2
 ocd-division/country:us/state:tn/county:washington/council_district:3,Washington County Commission District 3
@@ -619,6 +791,9 @@ ocd-division/country:us/state:tn/county:white/council_district:5,White County Co
 ocd-division/country:us/state:tn/county:white/council_district:6,White County Commission District 6
 ocd-division/country:us/state:tn/county:white/council_district:7,White County Commission District 7
 ocd-division/country:us/state:tn/county:williamson/council_district:1,Williamson County Commission District 1
+ocd-division/country:us/state:tn/county:williamson/council_district:10,Williamson County Commission District 10
+ocd-division/country:us/state:tn/county:williamson/council_district:11,Williamson County Commission District 11
+ocd-division/country:us/state:tn/county:williamson/council_district:12,Williamson County Commission District 12
 ocd-division/country:us/state:tn/county:williamson/council_district:2,Williamson County Commission District 2
 ocd-division/country:us/state:tn/county:williamson/council_district:3,Williamson County Commission District 3
 ocd-division/country:us/state:tn/county:williamson/council_district:4,Williamson County Commission District 4
@@ -627,18 +802,7 @@ ocd-division/country:us/state:tn/county:williamson/council_district:6,Williamson
 ocd-division/country:us/state:tn/county:williamson/council_district:7,Williamson County Commission District 7
 ocd-division/country:us/state:tn/county:williamson/council_district:8,Williamson County Commission District 8
 ocd-division/country:us/state:tn/county:williamson/council_district:9,Williamson County Commission District 9
-ocd-division/country:us/state:tn/county:williamson/council_district:10,Williamson County Commission District 10
-ocd-division/country:us/state:tn/county:williamson/council_district:11,Williamson County Commission District 11
-ocd-division/country:us/state:tn/county:williamson/council_district:12,Williamson County Commission District 12
 ocd-division/country:us/state:tn/county:wilson/council_district:1,Wilson County Commission District 1
-ocd-division/country:us/state:tn/county:wilson/council_district:2,Wilson County Commission District 2
-ocd-division/country:us/state:tn/county:wilson/council_district:3,Wilson County Commission District 3
-ocd-division/country:us/state:tn/county:wilson/council_district:4,Wilson County Commission District 4
-ocd-division/country:us/state:tn/county:wilson/council_district:5,Wilson County Commission District 5
-ocd-division/country:us/state:tn/county:wilson/council_district:6,Wilson County Commission District 6
-ocd-division/country:us/state:tn/county:wilson/council_district:7,Wilson County Commission District 7
-ocd-division/country:us/state:tn/county:wilson/council_district:8,Wilson County Commission District 8
-ocd-division/country:us/state:tn/county:wilson/council_district:9,Wilson County Commission District 9
 ocd-division/country:us/state:tn/county:wilson/council_district:10,Wilson County Commission District 10
 ocd-division/country:us/state:tn/county:wilson/council_district:11,Wilson County Commission District 11
 ocd-division/country:us/state:tn/county:wilson/council_district:12,Wilson County Commission District 12
@@ -649,45 +813,17 @@ ocd-division/country:us/state:tn/county:wilson/council_district:16,Wilson County
 ocd-division/country:us/state:tn/county:wilson/council_district:17,Wilson County Commission District 17
 ocd-division/country:us/state:tn/county:wilson/council_district:18,Wilson County Commission District 18
 ocd-division/country:us/state:tn/county:wilson/council_district:19,Wilson County Commission District 19
+ocd-division/country:us/state:tn/county:wilson/council_district:2,Wilson County Commission District 2
 ocd-division/country:us/state:tn/county:wilson/council_district:20,Wilson County Commission District 20
 ocd-division/country:us/state:tn/county:wilson/council_district:21,Wilson County Commission District 21
 ocd-division/country:us/state:tn/county:wilson/council_district:22,Wilson County Commission District 22
 ocd-division/country:us/state:tn/county:wilson/council_district:23,Wilson County Commission District 23
 ocd-division/country:us/state:tn/county:wilson/council_district:24,Wilson County Commission District 24
 ocd-division/country:us/state:tn/county:wilson/council_district:25,Wilson County Commission District 25
-ocd-division/country:us/state:tn/place:chattanooga/council_district:1,Chattanooga TN city council district 1
-ocd-division/country:us/state:tn/place:chattanooga/council_district:2,Chattanooga TN city council district 2
-ocd-division/country:us/state:tn/place:chattanooga/council_district:3,Chattanooga TN city council district 3
-ocd-division/country:us/state:tn/place:chattanooga/council_district:4,Chattanooga TN city council district 4
-ocd-division/country:us/state:tn/place:chattanooga/council_district:5,Chattanooga TN city council district 5
-ocd-division/country:us/state:tn/place:chattanooga/council_district:6,Chattanooga TN city council district 6
-ocd-division/country:us/state:tn/place:chattanooga/council_district:7,Chattanooga TN city council district 7
-ocd-division/country:us/state:tn/place:chattanooga/council_district:8,Chattanooga TN city council district 8
-ocd-division/country:us/state:tn/place:chattanooga/council_district:9,Chattanooga TN city council district 9
-ocd-division/country:us/state:tn/place:clarksville/ward:1,Clarksville TN ward 1
-ocd-division/country:us/state:tn/place:clarksville/ward:2,Clarksville TN ward 2
-ocd-division/country:us/state:tn/place:clarksville/ward:3,Clarksville TN ward 3
-ocd-division/country:us/state:tn/place:clarksville/ward:4,Clarksville TN ward 4
-ocd-division/country:us/state:tn/place:clarksville/ward:5,Clarksville TN ward 5
-ocd-division/country:us/state:tn/place:clarksville/ward:6,Clarksville TN ward 6
-ocd-division/country:us/state:tn/place:clarksville/ward:7,Clarksville TN ward 7
-ocd-division/country:us/state:tn/place:clarksville/ward:8,Clarksville TN ward 8
-ocd-division/country:us/state:tn/place:clarksville/ward:9,Clarksville TN ward 9
-ocd-division/country:us/state:tn/place:clarksville/ward:10,Clarksville TN ward 10
-ocd-division/country:us/state:tn/place:clarksville/ward:11,Clarksville TN ward 11
-ocd-division/country:us/state:tn/place:clarksville/ward:12,Clarksville TN ward 12
-ocd-division/country:us/state:tn/place:knoxville/council_district:1,Knoxville TN city council district 1
-ocd-division/country:us/state:tn/place:knoxville/council_district:2,Knoxville TN city council district 2
-ocd-division/country:us/state:tn/place:knoxville/council_district:3,Knoxville TN city council district 3
-ocd-division/country:us/state:tn/place:knoxville/council_district:4,Knoxville TN city council district 4
-ocd-division/country:us/state:tn/place:knoxville/council_district:5,Knoxville TN city council district 5
-ocd-division/country:us/state:tn/place:knoxville/council_district:6,Knoxville TN city council district 6
-ocd-division/country:us/state:tn/place:memphis/council_district:1,Memphis TN city council district 1
-ocd-division/country:us/state:tn/place:memphis/council_district:2,Memphis TN city council district 2
-ocd-division/country:us/state:tn/place:memphis/council_district:3,Memphis TN city council district 3
-ocd-division/country:us/state:tn/place:memphis/council_district:4,Memphis TN city council district 4
-ocd-division/country:us/state:tn/place:memphis/council_district:5,Memphis TN city council district 5
-ocd-division/country:us/state:tn/place:memphis/council_district:6,Memphis TN city council district 6
-ocd-division/country:us/state:tn/place:memphis/council_district:7,Memphis TN city council district 7
-ocd-division/country:us/state:tn/place:memphis/council_district:8,Memphis TN city council district 8 (super)
-ocd-division/country:us/state:tn/place:memphis/council_district:9,Memphis TN city council district 9 (super)
+ocd-division/country:us/state:tn/county:wilson/council_district:3,Wilson County Commission District 3
+ocd-division/country:us/state:tn/county:wilson/council_district:4,Wilson County Commission District 4
+ocd-division/country:us/state:tn/county:wilson/council_district:5,Wilson County Commission District 5
+ocd-division/country:us/state:tn/county:wilson/council_district:6,Wilson County Commission District 6
+ocd-division/country:us/state:tn/county:wilson/council_district:7,Wilson County Commission District 7
+ocd-division/country:us/state:tn/county:wilson/council_district:8,Wilson County Commission District 8
+ocd-division/country:us/state:tn/county:wilson/council_district:9,Wilson County Commission District 9
