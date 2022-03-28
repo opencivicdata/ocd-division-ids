@@ -2,6 +2,13 @@ id,name,sameAs,sameAsNote,validFrom,validTo
 ocd-division/country:in,India,,,,
 ocd-division/country:in/cd:anglo-indian_reserved_seats_1,Nominated Lok Sabha constituency Anglo-Indian reserved seat 1,,,,
 ocd-division/country:in/cd:anglo-indian_reserved_seats_2,Nominated Lok Sabha constituency Anglo-Indian reserved seat 2,,,,
+ocd-division/country:in/high_court:bombay,Bombay High Court,,,,
+ocd-division/country:in/high_court:calcutta,Calcutta High Court,,,,
+ocd-division/country:in/high_court:gauhati,Gauhati High Court,,,,
+ocd-division/country:in/high_court:jammu_kashmir_ladakh,High Court of Jammu and Kashmir and Ladakh,,,,
+ocd-division/country:in/high_court:kerala,Kerala High Court,,,,
+ocd-division/country:in/high_court:madras,Madras High Court,,,,
+ocd-division/country:in/high_court:punjab_haryana,Punjab and Haryana High Court,,,,
 ocd-division/country:in/lok_sabha:anglo-indian_reserved_seats_1,Nominated Lok Sabha constituency Anglo-Indian reserved seat 1,ocd-division/country:in/cd:anglo-indian_reserved_seats_1,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/lok_sabha:anglo-indian_reserved_seats_2,Nominated Lok Sabha constituency Anglo-Indian reserved seat 2,ocd-division/country:in/cd:anglo-indian_reserved_seats_2,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:ap,Andhra Pradesh,,,,
@@ -1753,7 +1760,7 @@ ocd-division/country:in/state:jh/lok_sabha:palamau,Jharkhand Lok Sabha constitue
 ocd-division/country:in/state:jh/lok_sabha:rajmahal,Jharkhand Lok Sabha constituency Rajmahal (ST),ocd-division/country:in/state:jh/cd:rajmahal,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:jh/lok_sabha:ranchi,Jharkhand Lok Sabha constituency Ranchi,ocd-division/country:in/state:jh/cd:ranchi,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:jh/lok_sabha:singhbhum,Jharkhand Lok Sabha constituency Singhbhum (ST),ocd-division/country:in/state:jh/cd:singhbhum,Added for backwards compatibility with lok_sabha identifiers,,
-ocd-division/country:in/state:jk,Jammu and Kashmir,,,,
+ocd-division/country:in/state:jk,Jammu and Kashmir,,,,2019-10-30
 ocd-division/country:in/state:jk/cd:anantnag,Jammu and Kashmir Lok Sabha constituency Anantnag,,,,
 ocd-division/country:in/state:jk/cd:baramulla,Jammu and Kashmir Lok Sabha constituency Baramulla,,,,
 ocd-division/country:in/state:jk/cd:jammu,Jammu and Kashmir Lok Sabha constituency Jammu,,,,
@@ -6035,6 +6042,7 @@ ocd-division/country:in/territory:dl/lok_sabha:west_delhi,Delhi Lok Sabha consti
 ocd-division/country:in/territory:dn,Dadra and Nagar Haveli,,,,2020-01-25
 ocd-division/country:in/territory:dn/cd:dadra_and_nagar_haveli,Dadra and Nagar Haveli Lok Sabha constituency Dadra and Nagar Haveli (ST),,,,2020-01-25
 ocd-division/country:in/territory:dn/lok_sabha:dadra_and_nagar_haveli,Dadra and Nagar Haveli and Daman and Diu Lok Sabha constituency Nagar Haveli,ocd-division/country:in/territory:dh/cd:dadra_and_nagar_haveli,Updated as per Bill No. 366 of 2019 for Merger of Union Territories,,
+ocd-division/country:in/territory:jk,Jammu and Kashmir and Ladakh,,,2019-10-31,
 ocd-division/country:in/territory:ld,Lakshadweep,,,,
 ocd-division/country:in/territory:ld/cd:lakshadweep,Lakshadweep Lok Sabha constituency Lakshadweep (ST),,,,
 ocd-division/country:in/territory:ld/lok_sabha:lakshadweep,Lakshadweep Lok Sabha constituency Lakshadweep (ST),ocd-division/country:in/territory:ld/cd:lakshadweep,Added for backwards compatibility with lok_sabha identifiers,,

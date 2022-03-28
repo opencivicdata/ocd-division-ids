@@ -10,7 +10,7 @@ ocd-division/country:in/state:gj,Gujarat,,
 ocd-division/country:in/state:hp,Himachal Pradesh,,
 ocd-division/country:in/state:hr,Haryana,,
 ocd-division/country:in/state:jh,Jharkhand,,
-ocd-division/country:in/state:jk,Jammu and Kashmir,,
+ocd-division/country:in/state:jk,Jammu and Kashmir,,2019-10-30
 ocd-division/country:in/state:ka,Karnataka,,
 ocd-division/country:in/state:kl,Kerala,,
 ocd-division/country:in/state:mh,Maharashtra,,
@@ -35,5 +35,6 @@ ocd-division/country:in/territory:dd,Daman and Diu,,2020-01-25
 ocd-division/country:in/territory:dh,Dadra and Nagar Haveli and Daman and Diu,2020-01-26,
 ocd-division/country:in/territory:dl,Delhi,,
 ocd-division/country:in/territory:dn,Dadra and Nagar Haveli,,2020-01-25
+ocd-division/country:in/territory:jk,Jammu and Kashmir and Ladakh,2019-10-31,
 ocd-division/country:in/territory:ld,Lakshadweep,,
 ocd-division/country:in/territory:py,Puducherry,,
