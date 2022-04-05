@@ -20,6 +20,7 @@ ocd-division/country:ph/cd:baguio,Baguio's at-large
 ocd-division/country:ph/cd:basilan,Basilan's at-large
 ocd-division/country:ph/cd:bataan_1st,Bataan's 1st
 ocd-division/country:ph/cd:bataan_2nd,Bataan's 2nd
+ocd-division/country:ph/cd:bataan_3rd,Bataan's 3rd
 ocd-division/country:ph/cd:batanes,Batanes's at-large
 ocd-division/country:ph/cd:batangas_1st,Batangas's 1st
 ocd-division/country:ph/cd:batangas_2nd,Batangas's 2nd
@@ -41,6 +42,8 @@ ocd-division/country:ph/cd:bulacan_1st,Bulacan's 1st
 ocd-division/country:ph/cd:bulacan_2nd,Bulacan's 2nd
 ocd-division/country:ph/cd:bulacan_3rd,Bulacan's 3rd
 ocd-division/country:ph/cd:bulacan_4th,Bulacan's 4th
+ocd-division/country:ph/cd:bulacan_5th,Bulacan's 5th
+ocd-division/country:ph/cd:bulacan_6th,Bulacan's 6th
 ocd-division/country:ph/cd:cagayan_1st,Cagayan's 1st
 ocd-division/country:ph/cd:cagayan_2nd,Cagayan's 2nd
 ocd-division/country:ph/cd:cagayan_3rd,Cagayan's 3rd
@@ -49,6 +52,7 @@ ocd-division/country:ph/cd:cagayan_de_oro_2nd,Cagayan de Oro's 2nd
 ocd-division/country:ph/cd:calamba,Calamba's at-large
 ocd-division/country:ph/cd:caloocan_1st,Caloocan's 1st
 ocd-division/country:ph/cd:caloocan_2nd,Caloocan's 2nd
+ocd-division/country:ph/cd:caloocan_3rd,Caloocan's 3rd
 ocd-division/country:ph/cd:camarines_norte_1st,Camarines Norte's 1st
 ocd-division/country:ph/cd:camarines_norte_2nd,Camarines Norte's 2nd
 ocd-division/country:ph/cd:camarines_sur_1st,Camarines Sur's 1st
@@ -93,6 +97,7 @@ ocd-division/country:ph/cd:davao_oriental_1st,Davao Oriental's 1st
 ocd-division/country:ph/cd:davao_oriental_2nd,Davao Oriental's 2nd
 ocd-division/country:ph/cd:dinagat_islands,Dinagat Islands's at-large
 ocd-division/country:ph/cd:eastern_samar,Eastern Samar's at-large
+ocd-division/country:ph/cd:general_santos,General Santos' at-large
 ocd-division/country:ph/cd:guimaras,Guimaras's at-large
 ocd-division/country:ph/cd:ifugao,Ifugao's at-large
 ocd-division/country:ph/cd:iligan,Iligan's at-large
@@ -136,6 +141,7 @@ ocd-division/country:ph/cd:makati_1st,Makati's 1st
 ocd-division/country:ph/cd:makati_2nd,Makati's 2nd
 ocd-division/country:ph/cd:malabon,Malabon's at-large
 ocd-division/country:ph/cd:mandaluyong,Mandaluyong's at-large
+ocd-division/country:ph/cd:mandaue,Mandaue's at-large
 ocd-division/country:ph/cd:manila_1st,Manila's 1st
 ocd-division/country:ph/cd:manila_2nd,Manila's 2nd
 ocd-division/country:ph/cd:manila_3rd,Manila's 3rd
@@ -204,11 +210,14 @@ ocd-division/country:ph/cd:quezon_city_6th,Quezon City's 6th
 ocd-division/country:ph/cd:quirino,Quirino's at-large
 ocd-division/country:ph/cd:rizal_1st,Rizal's 1st
 ocd-division/country:ph/cd:rizal_2nd,Rizal's 2nd
+ocd-division/country:ph/cd:rizal_3rd,Rizal's 3rd
+ocd-division/country:ph/cd:rizal_4th,Rizal's 4th
 ocd-division/country:ph/cd:romblon,Romblon's at-large
 ocd-division/country:ph/cd:samar_1st,Samar's 1st
 ocd-division/country:ph/cd:samar_2nd,Samar's 2nd
 ocd-division/country:ph/cd:san_jose_del_monte,San Jose del Monte's at-large
 ocd-division/country:ph/cd:san_juan,San Juan's at-large
+ocd-division/country:ph/cd:santa_rosa,Santa Rosa's at-large
 ocd-division/country:ph/cd:sarangani,Sarangani's at-large
 ocd-division/country:ph/cd:siquijor,Siquijor's at-large
 ocd-division/country:ph/cd:sorsogon_1st,Sorsogon's 1st
@@ -216,6 +225,8 @@ ocd-division/country:ph/cd:sorsogon_2nd,Sorsogon's 2nd
 ocd-division/country:ph/cd:south_cotabato_1st,South Cotabato's 1st
 ocd-division/country:ph/cd:south_cotabato_2nd,South Cotabato's 2nd
 ocd-division/country:ph/cd:southern_leyte,Southern Leyte's at-large
+ocd-division/country:ph/cd:southern_leyte_1st,Southern Leyte's 1st
+ocd-division/country:ph/cd:southern_leyte_2nd,Southern Leyte's 2nd
 ocd-division/country:ph/cd:sultan_kudarat_1st,Sultan Kudarat's 1st
 ocd-division/country:ph/cd:sultan_kudarat_2nd,Sultan Kudarat's 2nd
 ocd-division/country:ph/cd:sulu_1st,Sulu's 1st
