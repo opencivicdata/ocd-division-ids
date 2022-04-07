@@ -1,7 +1,30 @@
 id,name
-ocd-division/country:my/state:09/ed:p001,Padang Besar
-ocd-division/country:my/state:09/ed:p002,Kangar
-ocd-division/country:my/state:09/ed:p003,Arau
+ocd-division/country:my/state:01/ed:p140,Segamat
+ocd-division/country:my/state:01/ed:p141,Sekijang
+ocd-division/country:my/state:01/ed:p142,Labis
+ocd-division/country:my/state:01/ed:p143,Pagoh
+ocd-division/country:my/state:01/ed:p144,Ledang
+ocd-division/country:my/state:01/ed:p145,Bakri
+ocd-division/country:my/state:01/ed:p146,Muar
+ocd-division/country:my/state:01/ed:p147,Parit Sulong
+ocd-division/country:my/state:01/ed:p148,Ayer Hitam
+ocd-division/country:my/state:01/ed:p149,Sri Gading
+ocd-division/country:my/state:01/ed:p150,Batu Pahat
+ocd-division/country:my/state:01/ed:p151,Simpang Renggam
+ocd-division/country:my/state:01/ed:p152,Kluang
+ocd-division/country:my/state:01/ed:p153,Sembrong
+ocd-division/country:my/state:01/ed:p154,Mersing
+ocd-division/country:my/state:01/ed:p155,Tenggara
+ocd-division/country:my/state:01/ed:p156,Kota Tinggi
+ocd-division/country:my/state:01/ed:p157,Pengerang
+ocd-division/country:my/state:01/ed:p158,Tebrau
+ocd-division/country:my/state:01/ed:p159,Pasir Gudang
+ocd-division/country:my/state:01/ed:p160,Johor Bahru
+ocd-division/country:my/state:01/ed:p161,Pulai
+ocd-division/country:my/state:01/ed:p162,Gelang Patah
+ocd-division/country:my/state:01/ed:p163,Kulai
+ocd-division/country:my/state:01/ed:p164,Pontian
+ocd-division/country:my/state:01/ed:p165,Tanjong Piai
 ocd-division/country:my/state:02/ed:p004,Langkawi
 ocd-division/country:my/state:02/ed:p005,Jerlun
 ocd-division/country:my/state:02/ed:p006,Kubang Pasu
@@ -31,14 +54,34 @@ ocd-division/country:my/state:03/ed:p029,Machang
 ocd-division/country:my/state:03/ed:p030,Jeli
 ocd-division/country:my/state:03/ed:p031,Kuala Krai
 ocd-division/country:my/state:03/ed:p032,Gua Musang
-ocd-division/country:my/state:11/ed:p033,Besut
-ocd-division/country:my/state:11/ed:p034,Setiu
-ocd-division/country:my/state:11/ed:p035,Kuala Nerus
-ocd-division/country:my/state:11/ed:p036,Kuala Terengganu
-ocd-division/country:my/state:11/ed:p037,Marang
-ocd-division/country:my/state:11/ed:p038,Hulu Terengganu
-ocd-division/country:my/state:11/ed:p039,Dungun
-ocd-division/country:my/state:11/ed:p040,Kemaman
+ocd-division/country:my/state:04/ed:p134,Masjid Tanah
+ocd-division/country:my/state:04/ed:p135,Alor Gajah
+ocd-division/country:my/state:04/ed:p136,Tangga Batu
+ocd-division/country:my/state:04/ed:p137,Bukit Katil
+ocd-division/country:my/state:04/ed:p138,Kota Melaka
+ocd-division/country:my/state:04/ed:p139,Jasin
+ocd-division/country:my/state:05/ed:p126,Jelebu
+ocd-division/country:my/state:05/ed:p127,Jempol
+ocd-division/country:my/state:05/ed:p128,Seremban
+ocd-division/country:my/state:05/ed:p129,Kuala Pilah
+ocd-division/country:my/state:05/ed:p130,Rasah
+ocd-division/country:my/state:05/ed:p131,Rembau
+ocd-division/country:my/state:05/ed:p132,Telok Kemang
+ocd-division/country:my/state:05/ed:p133,Tampin
+ocd-division/country:my/state:06/ed:p078,Cameron Highlands
+ocd-division/country:my/state:06/ed:p079,Lipis
+ocd-division/country:my/state:06/ed:p080,Raub
+ocd-division/country:my/state:06/ed:p081,Jerantut
+ocd-division/country:my/state:06/ed:p082,Indera Mahkota
+ocd-division/country:my/state:06/ed:p083,Kuantan
+ocd-division/country:my/state:06/ed:p084,Paya Besar
+ocd-division/country:my/state:06/ed:p085,Pekan
+ocd-division/country:my/state:06/ed:p086,Maran
+ocd-division/country:my/state:06/ed:p087,Kuala Krau
+ocd-division/country:my/state:06/ed:p088,Temerloh
+ocd-division/country:my/state:06/ed:p089,Bentong
+ocd-division/country:my/state:06/ed:p090,Bera
+ocd-division/country:my/state:06/ed:p091,Rompin
 ocd-division/country:my/state:07/ed:p041,Kepala Batas
 ocd-division/country:my/state:07/ed:p042,Tasek Gelugor
 ocd-division/country:my/state:07/ed:p043,Bagan
@@ -76,20 +119,9 @@ ocd-division/country:my/state:08/ed:p074,Lumut
 ocd-division/country:my/state:08/ed:p075,Bagan Datok
 ocd-division/country:my/state:08/ed:p076,Telok Intan
 ocd-division/country:my/state:08/ed:p077,Tanjong Malim
-ocd-division/country:my/state:06/ed:p078,Cameron Highlands
-ocd-division/country:my/state:06/ed:p079,Lipis
-ocd-division/country:my/state:06/ed:p080,Raub
-ocd-division/country:my/state:06/ed:p081,Jerantut
-ocd-division/country:my/state:06/ed:p082,Indera Mahkota
-ocd-division/country:my/state:06/ed:p083,Kuantan
-ocd-division/country:my/state:06/ed:p084,Paya Besar
-ocd-division/country:my/state:06/ed:p085,Pekan
-ocd-division/country:my/state:06/ed:p086,Maran
-ocd-division/country:my/state:06/ed:p087,Kuala Krau
-ocd-division/country:my/state:06/ed:p088,Temerloh
-ocd-division/country:my/state:06/ed:p089,Bentong
-ocd-division/country:my/state:06/ed:p090,Bera
-ocd-division/country:my/state:06/ed:p091,Rompin
+ocd-division/country:my/state:09/ed:p001,Padang Besar
+ocd-division/country:my/state:09/ed:p002,Kangar
+ocd-division/country:my/state:09/ed:p003,Arau
 ocd-division/country:my/state:10/ed:p092,Sabak Bernam
 ocd-division/country:my/state:10/ed:p093,Sungai Besar
 ocd-division/country:my/state:10/ed:p094,Hulu Selangor
@@ -100,71 +132,26 @@ ocd-division/country:my/state:10/ed:p098,Gombak
 ocd-division/country:my/state:10/ed:p099,Ampang
 ocd-division/country:my/state:10/ed:p100,Pandan
 ocd-division/country:my/state:10/ed:p101,Hulu Langat
-ocd-division/country:my/state:10/ed:p102,Bangi
+ocd-division/country:my/state:10/ed:p102,Serdang
 ocd-division/country:my/state:10/ed:p103,Puchong
-ocd-division/country:my/state:10/ed:p104,Subang
-ocd-division/country:my/state:10/ed:p105,Petaling Jaya
-ocd-division/country:my/state:10/ed:p106,Damansara
-ocd-division/country:my/state:10/ed:p107,Sungai Buloh
+ocd-division/country:my/state:10/ed:p104,Kelana Jaya
+ocd-division/country:my/state:10/ed:p105,Petaling Jaya Selatan
+ocd-division/country:my/state:10/ed:p106,Petaling Jaya Utara
+ocd-division/country:my/state:10/ed:p107,Subang
 ocd-division/country:my/state:10/ed:p108,Shah Alam
 ocd-division/country:my/state:10/ed:p109,Kapar
 ocd-division/country:my/state:10/ed:p110,Klang
 ocd-division/country:my/state:10/ed:p111,Kota Raja
 ocd-division/country:my/state:10/ed:p112,Kuala Langat
 ocd-division/country:my/state:10/ed:p113,Sepang
-ocd-division/country:my/territory:14/ed:p114,Kepong
-ocd-division/country:my/territory:14/ed:p115,Batu
-ocd-division/country:my/territory:14/ed:p116,Wangsa Maju
-ocd-division/country:my/territory:14/ed:p117,Segambut
-ocd-division/country:my/territory:14/ed:p118,Setiawangsa
-ocd-division/country:my/territory:14/ed:p119,Titiwangsa
-ocd-division/country:my/territory:14/ed:p120,Bukit Bintang
-ocd-division/country:my/territory:14/ed:p121,Lembah Pantai
-ocd-division/country:my/territory:14/ed:p122,Seputeh
-ocd-division/country:my/territory:14/ed:p123,Cheras
-ocd-division/country:my/territory:14/ed:p124,Bandar Tun Razak
-ocd-division/country:my/territory:16/ed:p125,Putrajaya
-ocd-division/country:my/state:05/ed:p126,Jelebu
-ocd-division/country:my/state:05/ed:p127,Jempol
-ocd-division/country:my/state:05/ed:p128,Seremban
-ocd-division/country:my/state:05/ed:p129,Kuala Pilah
-ocd-division/country:my/state:05/ed:p130,Rasah
-ocd-division/country:my/state:05/ed:p131,Rembau
-ocd-division/country:my/state:05/ed:p132,Port Dickson
-ocd-division/country:my/state:05/ed:p133,Tampin
-ocd-division/country:my/state:04/ed:p134,Masjid Tanah
-ocd-division/country:my/state:04/ed:p135,Alor Gajah
-ocd-division/country:my/state:04/ed:p136,Tangga Batu
-ocd-division/country:my/state:04/ed:p137,Hang Tuah Jaya
-ocd-division/country:my/state:04/ed:p138,Kota Melaka
-ocd-division/country:my/state:04/ed:p139,Jasin
-ocd-division/country:my/state:01/ed:p140,Segamat
-ocd-division/country:my/state:01/ed:p141,Sekijang
-ocd-division/country:my/state:01/ed:p142,Labis
-ocd-division/country:my/state:01/ed:p143,Pagoh
-ocd-division/country:my/state:01/ed:p144,Ledang
-ocd-division/country:my/state:01/ed:p145,Bakri
-ocd-division/country:my/state:01/ed:p146,Muar
-ocd-division/country:my/state:01/ed:p147,Parit Sulong
-ocd-division/country:my/state:01/ed:p148,Ayer Hitam
-ocd-division/country:my/state:01/ed:p149,Sri Gading
-ocd-division/country:my/state:01/ed:p150,Batu Pahat
-ocd-division/country:my/state:01/ed:p151,Simpang Renggam
-ocd-division/country:my/state:01/ed:p152,Kluang
-ocd-division/country:my/state:01/ed:p153,Sembrong
-ocd-division/country:my/state:01/ed:p154,Mersing
-ocd-division/country:my/state:01/ed:p155,Tenggara
-ocd-division/country:my/state:01/ed:p156,Kota Tinggi
-ocd-division/country:my/state:01/ed:p157,Pengerang
-ocd-division/country:my/state:01/ed:p158,Tebrau
-ocd-division/country:my/state:01/ed:p159,Pasir Gudang
-ocd-division/country:my/state:01/ed:p160,Johor Bahru
-ocd-division/country:my/state:01/ed:p161,Pulai
-ocd-division/country:my/state:01/ed:p162,Iskandar Puteri
-ocd-division/country:my/state:01/ed:p163,Kulai
-ocd-division/country:my/state:01/ed:p164,Pontian
-ocd-division/country:my/state:01/ed:p165,Tanjong Piai
-ocd-division/country:my/territory:15/ed:p166,Labuan
+ocd-division/country:my/state:11/ed:p033,Besut
+ocd-division/country:my/state:11/ed:p034,Setiu
+ocd-division/country:my/state:11/ed:p035,Kuala Nerus
+ocd-division/country:my/state:11/ed:p036,Kuala Terengganu
+ocd-division/country:my/state:11/ed:p037,Marang
+ocd-division/country:my/state:11/ed:p038,Hulu Terengganu
+ocd-division/country:my/state:11/ed:p039,Dungun
+ocd-division/country:my/state:11/ed:p040,Kemaman
 ocd-division/country:my/state:12/ed:p167,Kudat
 ocd-division/country:my/state:12/ed:p168,Kota Marudu
 ocd-division/country:my/state:12/ed:p169,Kota Belud
@@ -186,7 +173,7 @@ ocd-division/country:my/state:12/ed:p184,Libaran
 ocd-division/country:my/state:12/ed:p185,Batu Sapi
 ocd-division/country:my/state:12/ed:p186,Sandakan
 ocd-division/country:my/state:12/ed:p187,Kinabatangan
-ocd-division/country:my/state:12/ed:p188,Lahad Datu
+ocd-division/country:my/state:12/ed:p188,Silam
 ocd-division/country:my/state:12/ed:p189,Semporna
 ocd-division/country:my/state:12/ed:p190,Tawau
 ocd-division/country:my/state:12/ed:p191,Kalabakan
@@ -196,7 +183,7 @@ ocd-division/country:my/state:13/ed:p194,Petra Jaya
 ocd-division/country:my/state:13/ed:p195,Bandar Kuching
 ocd-division/country:my/state:13/ed:p196,Stampin
 ocd-division/country:my/state:13/ed:p197,Kota Samarahan
-ocd-division/country:my/state:13/ed:p198,Puncak Borneo
+ocd-division/country:my/state:13/ed:p198,Mambong
 ocd-division/country:my/state:13/ed:p199,Serian
 ocd-division/country:my/state:13/ed:p200,Batang Sadong
 ocd-division/country:my/state:13/ed:p201,Batang Lupar
@@ -221,3 +208,16 @@ ocd-division/country:my/state:13/ed:p219,Miri
 ocd-division/country:my/state:13/ed:p220,Baram
 ocd-division/country:my/state:13/ed:p221,Limbang
 ocd-division/country:my/state:13/ed:p222,Lawas
+ocd-division/country:my/territory:14/ed:p114,Kepong
+ocd-division/country:my/territory:14/ed:p115,Batu
+ocd-division/country:my/territory:14/ed:p116,Wangsa Maju
+ocd-division/country:my/territory:14/ed:p117,Segambut
+ocd-division/country:my/territory:14/ed:p118,Setiawangsa
+ocd-division/country:my/territory:14/ed:p119,Titiwangsa
+ocd-division/country:my/territory:14/ed:p120,Bukit Bintang
+ocd-division/country:my/territory:14/ed:p121,Lembah Pantai
+ocd-division/country:my/territory:14/ed:p122,Seputeh
+ocd-division/country:my/territory:14/ed:p123,Cheras
+ocd-division/country:my/territory:14/ed:p124,Bandar Tun Razak
+ocd-division/country:my/territory:15/ed:p166,Labuan
+ocd-division/country:my/territory:16/ed:p125,Putrajaya

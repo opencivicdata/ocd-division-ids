@@ -1,240 +1,471 @@
-id,name
-ocd-division/country:my,Malaysia
-ocd-division/country:my/state:01,Johor
-ocd-division/country:my/state:01/ed:p140,Segamat
-ocd-division/country:my/state:01/ed:p141,Sekijang
-ocd-division/country:my/state:01/ed:p142,Labis
-ocd-division/country:my/state:01/ed:p143,Pagoh
-ocd-division/country:my/state:01/ed:p144,Ledang
-ocd-division/country:my/state:01/ed:p145,Bakri
-ocd-division/country:my/state:01/ed:p146,Muar
-ocd-division/country:my/state:01/ed:p147,Parit Sulong
-ocd-division/country:my/state:01/ed:p148,Ayer Hitam
-ocd-division/country:my/state:01/ed:p149,Sri Gading
-ocd-division/country:my/state:01/ed:p150,Batu Pahat
-ocd-division/country:my/state:01/ed:p151,Simpang Renggam
-ocd-division/country:my/state:01/ed:p152,Kluang
-ocd-division/country:my/state:01/ed:p153,Sembrong
-ocd-division/country:my/state:01/ed:p154,Mersing
-ocd-division/country:my/state:01/ed:p155,Tenggara
-ocd-division/country:my/state:01/ed:p156,Kota Tinggi
-ocd-division/country:my/state:01/ed:p157,Pengerang
-ocd-division/country:my/state:01/ed:p158,Tebrau
-ocd-division/country:my/state:01/ed:p159,Pasir Gudang
-ocd-division/country:my/state:01/ed:p160,Johor Bahru
-ocd-division/country:my/state:01/ed:p161,Pulai
-ocd-division/country:my/state:01/ed:p162,Iskandar Puteri
-ocd-division/country:my/state:01/ed:p163,Kulai
-ocd-division/country:my/state:01/ed:p164,Pontian
-ocd-division/country:my/state:01/ed:p165,Tanjong Piai
-ocd-division/country:my/state:02,Kedah
-ocd-division/country:my/state:02/ed:p004,Langkawi
-ocd-division/country:my/state:02/ed:p005,Jerlun
-ocd-division/country:my/state:02/ed:p006,Kubang Pasu
-ocd-division/country:my/state:02/ed:p007,Padang Terap
-ocd-division/country:my/state:02/ed:p008,Pokok Sena
-ocd-division/country:my/state:02/ed:p009,Alor Setar
-ocd-division/country:my/state:02/ed:p010,Kuala Kedah
-ocd-division/country:my/state:02/ed:p011,Pendang
-ocd-division/country:my/state:02/ed:p012,Jerai
-ocd-division/country:my/state:02/ed:p013,Sik
-ocd-division/country:my/state:02/ed:p014,Merbok
-ocd-division/country:my/state:02/ed:p015,Sungai Petani
-ocd-division/country:my/state:02/ed:p016,Baling
-ocd-division/country:my/state:02/ed:p017,Padang Serai
-ocd-division/country:my/state:02/ed:p018,Kulim-Bandar Baharu
-ocd-division/country:my/state:03,Kelantan
-ocd-division/country:my/state:03/ed:p019,Tumpat
-ocd-division/country:my/state:03/ed:p020,Pengkalan Chepa
-ocd-division/country:my/state:03/ed:p021,Kota Bharu
-ocd-division/country:my/state:03/ed:p022,Pasir Mas
-ocd-division/country:my/state:03/ed:p023,Rantau Panjang
-ocd-division/country:my/state:03/ed:p024,Kubang Kerian
-ocd-division/country:my/state:03/ed:p025,Bachok
-ocd-division/country:my/state:03/ed:p026,Ketereh
-ocd-division/country:my/state:03/ed:p027,Tanah Merah
-ocd-division/country:my/state:03/ed:p028,Pasir Puteh
-ocd-division/country:my/state:03/ed:p029,Machang
-ocd-division/country:my/state:03/ed:p030,Jeli
-ocd-division/country:my/state:03/ed:p031,Kuala Krai
-ocd-division/country:my/state:03/ed:p032,Gua Musang
-ocd-division/country:my/state:04,Melaka
-ocd-division/country:my/state:04/ed:p134,Masjid Tanah
-ocd-division/country:my/state:04/ed:p135,Alor Gajah
-ocd-division/country:my/state:04/ed:p136,Tangga Batu
-ocd-division/country:my/state:04/ed:p137,Hang Tuah Jaya
-ocd-division/country:my/state:04/ed:p138,Kota Melaka
-ocd-division/country:my/state:04/ed:p139,Jasin
-ocd-division/country:my/state:05,Negeri Sembilan
-ocd-division/country:my/state:05/ed:p126,Jelebu
-ocd-division/country:my/state:05/ed:p127,Jempol
-ocd-division/country:my/state:05/ed:p128,Seremban
-ocd-division/country:my/state:05/ed:p129,Kuala Pilah
-ocd-division/country:my/state:05/ed:p130,Rasah
-ocd-division/country:my/state:05/ed:p131,Rembau
-ocd-division/country:my/state:05/ed:p132,Port Dickson
-ocd-division/country:my/state:05/ed:p133,Tampin
-ocd-division/country:my/state:06,Pahang
-ocd-division/country:my/state:06/ed:p078,Cameron Highlands
-ocd-division/country:my/state:06/ed:p079,Lipis
-ocd-division/country:my/state:06/ed:p080,Raub
-ocd-division/country:my/state:06/ed:p081,Jerantut
-ocd-division/country:my/state:06/ed:p082,Indera Mahkota
-ocd-division/country:my/state:06/ed:p083,Kuantan
-ocd-division/country:my/state:06/ed:p084,Paya Besar
-ocd-division/country:my/state:06/ed:p085,Pekan
-ocd-division/country:my/state:06/ed:p086,Maran
-ocd-division/country:my/state:06/ed:p087,Kuala Krau
-ocd-division/country:my/state:06/ed:p088,Temerloh
-ocd-division/country:my/state:06/ed:p089,Bentong
-ocd-division/country:my/state:06/ed:p090,Bera
-ocd-division/country:my/state:06/ed:p091,Rompin
-ocd-division/country:my/state:07,Pulau Pinang
-ocd-division/country:my/state:07/ed:p041,Kepala Batas
-ocd-division/country:my/state:07/ed:p042,Tasek Gelugor
-ocd-division/country:my/state:07/ed:p043,Bagan
-ocd-division/country:my/state:07/ed:p044,Permatang Pauh
-ocd-division/country:my/state:07/ed:p045,Bukit Mertajam
-ocd-division/country:my/state:07/ed:p046,Batu Kawan
-ocd-division/country:my/state:07/ed:p047,Nibong Tebal
-ocd-division/country:my/state:07/ed:p048,Bukit Bendera
-ocd-division/country:my/state:07/ed:p049,Tanjong
-ocd-division/country:my/state:07/ed:p050,Jelutong
-ocd-division/country:my/state:07/ed:p051,Bukit Gelugor
-ocd-division/country:my/state:07/ed:p052,Bayan Baru
-ocd-division/country:my/state:07/ed:p053,Balik Pulau
-ocd-division/country:my/state:08,Perak
-ocd-division/country:my/state:08/ed:p054,Gerik
-ocd-division/country:my/state:08/ed:p055,Lenggong
-ocd-division/country:my/state:08/ed:p056,Larut
-ocd-division/country:my/state:08/ed:p057,Parit Buntar
-ocd-division/country:my/state:08/ed:p058,Bagan Serai
-ocd-division/country:my/state:08/ed:p059,Bukit Gantang
-ocd-division/country:my/state:08/ed:p060,Taiping
-ocd-division/country:my/state:08/ed:p061,Padang Rengas
-ocd-division/country:my/state:08/ed:p062,Sungai Siput
-ocd-division/country:my/state:08/ed:p063,Tambun
-ocd-division/country:my/state:08/ed:p064,Ipoh Timor
-ocd-division/country:my/state:08/ed:p065,Ipoh Barat
-ocd-division/country:my/state:08/ed:p066,Batu Gajah
-ocd-division/country:my/state:08/ed:p067,Kuala Kangsar
-ocd-division/country:my/state:08/ed:p068,Beruas
-ocd-division/country:my/state:08/ed:p069,Parit
-ocd-division/country:my/state:08/ed:p070,Kampar
-ocd-division/country:my/state:08/ed:p071,Gopeng
-ocd-division/country:my/state:08/ed:p072,Tapah
-ocd-division/country:my/state:08/ed:p073,Pasir Salak
-ocd-division/country:my/state:08/ed:p074,Lumut
-ocd-division/country:my/state:08/ed:p075,Bagan Datok
-ocd-division/country:my/state:08/ed:p076,Telok Intan
-ocd-division/country:my/state:08/ed:p077,Tanjong Malim
-ocd-division/country:my/state:09,Perlis
-ocd-division/country:my/state:09/ed:p001,Padang Besar
-ocd-division/country:my/state:09/ed:p002,Kangar
-ocd-division/country:my/state:09/ed:p003,Arau
-ocd-division/country:my/state:10,Selangor
-ocd-division/country:my/state:10/ed:p092,Sabak Bernam
-ocd-division/country:my/state:10/ed:p093,Sungai Besar
-ocd-division/country:my/state:10/ed:p094,Hulu Selangor
-ocd-division/country:my/state:10/ed:p095,Tanjong Karang
-ocd-division/country:my/state:10/ed:p096,Kuala Selangor
-ocd-division/country:my/state:10/ed:p097,Selayang
-ocd-division/country:my/state:10/ed:p098,Gombak
-ocd-division/country:my/state:10/ed:p099,Ampang
-ocd-division/country:my/state:10/ed:p100,Pandan
-ocd-division/country:my/state:10/ed:p101,Hulu Langat
-ocd-division/country:my/state:10/ed:p102,Bangi
-ocd-division/country:my/state:10/ed:p103,Puchong
-ocd-division/country:my/state:10/ed:p104,Subang
-ocd-division/country:my/state:10/ed:p105,Petaling Jaya
-ocd-division/country:my/state:10/ed:p106,Damansara
-ocd-division/country:my/state:10/ed:p107,Sungai Buloh
-ocd-division/country:my/state:10/ed:p108,Shah Alam
-ocd-division/country:my/state:10/ed:p109,Kapar
-ocd-division/country:my/state:10/ed:p110,Klang
-ocd-division/country:my/state:10/ed:p111,Kota Raja
-ocd-division/country:my/state:10/ed:p112,Kuala Langat
-ocd-division/country:my/state:10/ed:p113,Sepang
-ocd-division/country:my/state:11,Terengganu
-ocd-division/country:my/state:11/ed:p033,Besut
-ocd-division/country:my/state:11/ed:p034,Setiu
-ocd-division/country:my/state:11/ed:p035,Kuala Nerus
-ocd-division/country:my/state:11/ed:p036,Kuala Terengganu
-ocd-division/country:my/state:11/ed:p037,Marang
-ocd-division/country:my/state:11/ed:p038,Hulu Terengganu
-ocd-division/country:my/state:11/ed:p039,Dungun
-ocd-division/country:my/state:11/ed:p040,Kemaman
-ocd-division/country:my/state:12,Sabah
-ocd-division/country:my/state:12/ed:p167,Kudat
-ocd-division/country:my/state:12/ed:p168,Kota Marudu
-ocd-division/country:my/state:12/ed:p169,Kota Belud
-ocd-division/country:my/state:12/ed:p170,Tuaran
-ocd-division/country:my/state:12/ed:p171,Sepanggar
-ocd-division/country:my/state:12/ed:p172,Kota Kinabalu
-ocd-division/country:my/state:12/ed:p173,Putatan
-ocd-division/country:my/state:12/ed:p174,Penampang
-ocd-division/country:my/state:12/ed:p175,Papar
-ocd-division/country:my/state:12/ed:p176,Kimanis
-ocd-division/country:my/state:12/ed:p177,Beaufort
-ocd-division/country:my/state:12/ed:p178,Sipitang
-ocd-division/country:my/state:12/ed:p179,Ranau
-ocd-division/country:my/state:12/ed:p180,Keningau
-ocd-division/country:my/state:12/ed:p181,Tenom
-ocd-division/country:my/state:12/ed:p182,Pensiangan
-ocd-division/country:my/state:12/ed:p183,Beluran
-ocd-division/country:my/state:12/ed:p184,Libaran
-ocd-division/country:my/state:12/ed:p185,Batu Sapi
-ocd-division/country:my/state:12/ed:p186,Sandakan
-ocd-division/country:my/state:12/ed:p187,Kinabatangan
-ocd-division/country:my/state:12/ed:p188,Lahad Datu
-ocd-division/country:my/state:12/ed:p189,Semporna
-ocd-division/country:my/state:12/ed:p190,Tawau
-ocd-division/country:my/state:12/ed:p191,Kalabakan
-ocd-division/country:my/state:13,Sarawak
-ocd-division/country:my/state:13/ed:p192,Mas Gading
-ocd-division/country:my/state:13/ed:p193,Santubong
-ocd-division/country:my/state:13/ed:p194,Petra Jaya
-ocd-division/country:my/state:13/ed:p195,Bandar Kuching
-ocd-division/country:my/state:13/ed:p196,Stampin
-ocd-division/country:my/state:13/ed:p197,Kota Samarahan
-ocd-division/country:my/state:13/ed:p198,Puncak Borneo
-ocd-division/country:my/state:13/ed:p199,Serian
-ocd-division/country:my/state:13/ed:p200,Batang Sadong
-ocd-division/country:my/state:13/ed:p201,Batang Lupar
-ocd-division/country:my/state:13/ed:p202,Sri Aman
-ocd-division/country:my/state:13/ed:p203,Lubok Antu
-ocd-division/country:my/state:13/ed:p204,Betong
-ocd-division/country:my/state:13/ed:p205,Saratok
-ocd-division/country:my/state:13/ed:p206,Tanjong Manis
-ocd-division/country:my/state:13/ed:p207,Igan
-ocd-division/country:my/state:13/ed:p208,Sarikei
-ocd-division/country:my/state:13/ed:p209,Julau
-ocd-division/country:my/state:13/ed:p210,Kanowit
-ocd-division/country:my/state:13/ed:p211,Lanang
-ocd-division/country:my/state:13/ed:p212,Sibu
-ocd-division/country:my/state:13/ed:p213,Mukah
-ocd-division/country:my/state:13/ed:p214,Selangau
-ocd-division/country:my/state:13/ed:p215,Kapit
-ocd-division/country:my/state:13/ed:p216,Hulu Rajang
-ocd-division/country:my/state:13/ed:p217,Bintulu
-ocd-division/country:my/state:13/ed:p218,Sibuti
-ocd-division/country:my/state:13/ed:p219,Miri
-ocd-division/country:my/state:13/ed:p220,Baram
-ocd-division/country:my/state:13/ed:p221,Limbang
-ocd-division/country:my/state:13/ed:p222,Lawas
-ocd-division/country:my/territory:14,Wilayah Persekutuan Kuala Lumpur
-ocd-division/country:my/territory:14/ed:p114,Kepong
-ocd-division/country:my/territory:14/ed:p115,Batu
-ocd-division/country:my/territory:14/ed:p116,Wangsa Maju
-ocd-division/country:my/territory:14/ed:p117,Segambut
-ocd-division/country:my/territory:14/ed:p118,Setiawangsa
-ocd-division/country:my/territory:14/ed:p119,Titiwangsa
-ocd-division/country:my/territory:14/ed:p120,Bukit Bintang
-ocd-division/country:my/territory:14/ed:p121,Lembah Pantai
-ocd-division/country:my/territory:14/ed:p122,Seputeh
-ocd-division/country:my/territory:14/ed:p123,Cheras
-ocd-division/country:my/territory:14/ed:p124,Bandar Tun Razak
-ocd-division/country:my/territory:15,Wilayah Persekutuan Labuan
-ocd-division/country:my/territory:15/ed:p166,Labuan
-ocd-division/country:my/territory:16,Wilayah Persekutuan Putrajaya
-ocd-division/country:my/territory:16/ed:p125,Putrajaya
+id,name,sameAs,sameAsNote
+ocd-division/country:my,Malaysia,,
+ocd-division/country:my/state:01,Johor,,
+ocd-division/country:my/state:01/ed:ayer_hitam,Ayer Hitam,,
+ocd-division/country:my/state:01/ed:bakri,Bakri,,
+ocd-division/country:my/state:01/ed:batu_pahat,Batu Pahat,,
+ocd-division/country:my/state:01/ed:gelang_patah,Gelang Patah,,
+ocd-division/country:my/state:01/ed:iskandar_puteri,Iskandar Puteri,,
+ocd-division/country:my/state:01/ed:johor_bahru,Johor Bahru,,
+ocd-division/country:my/state:01/ed:kluang,Kluang,,
+ocd-division/country:my/state:01/ed:kota_tinggi,Kota Tinggi,,
+ocd-division/country:my/state:01/ed:kulai,Kulai,,
+ocd-division/country:my/state:01/ed:labis,Labis,,
+ocd-division/country:my/state:01/ed:ledang,Ledang,,
+ocd-division/country:my/state:01/ed:mersing,Mersing,,
+ocd-division/country:my/state:01/ed:muar,Muar,,
+ocd-division/country:my/state:01/ed:p140,Segamat,ocd-division/country:my/state:01/ed:segamat,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p141,Sekijang,ocd-division/country:my/state:01/ed:sekijang,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p142,Labis,ocd-division/country:my/state:01/ed:labis,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p143,Pagoh,ocd-division/country:my/state:01/ed:pagoh,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p144,Ledang,ocd-division/country:my/state:01/ed:ledang,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p145,Bakri,ocd-division/country:my/state:01/ed:bakri,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p146,Muar,ocd-division/country:my/state:01/ed:muar,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p147,Parit Sulong,ocd-division/country:my/state:01/ed:parit_sulong,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p148,Ayer Hitam,ocd-division/country:my/state:01/ed:ayer_hitam,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p149,Sri Gading,ocd-division/country:my/state:01/ed:sri_gading,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p150,Batu Pahat,ocd-division/country:my/state:01/ed:batu_pahat,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p151,Simpang Renggam,ocd-division/country:my/state:01/ed:simpang_renggam,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p152,Kluang,ocd-division/country:my/state:01/ed:kluang,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p153,Sembrong,ocd-division/country:my/state:01/ed:sembrong,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p154,Mersing,ocd-division/country:my/state:01/ed:mersing,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p155,Tenggara,ocd-division/country:my/state:01/ed:tenggara,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p156,Kota Tinggi,ocd-division/country:my/state:01/ed:kota_tinggi,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p157,Pengerang,ocd-division/country:my/state:01/ed:pengerang,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p158,Tebrau,ocd-division/country:my/state:01/ed:tebrau,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p159,Pasir Gudang,ocd-division/country:my/state:01/ed:pasir_gudang,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p160,Johor Bahru,ocd-division/country:my/state:01/ed:johor_bahru,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p161,Pulai,ocd-division/country:my/state:01/ed:pulai,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p162,Gelang Patah,ocd-division/country:my/state:01/ed:gelang_patah,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p163,Kulai,ocd-division/country:my/state:01/ed:kulai,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p164,Pontian,ocd-division/country:my/state:01/ed:pontian,Added for backwards compatability
+ocd-division/country:my/state:01/ed:p165,Tanjong Piai,ocd-division/country:my/state:01/ed:tanjong_piai,Added for backwards compatability
+ocd-division/country:my/state:01/ed:pagoh,Pagoh,,
+ocd-division/country:my/state:01/ed:parit_sulong,Parit Sulong,,
+ocd-division/country:my/state:01/ed:pasir_gudang,Pasir Gudang,,
+ocd-division/country:my/state:01/ed:pengerang,Pengerang,,
+ocd-division/country:my/state:01/ed:pontian,Pontian,,
+ocd-division/country:my/state:01/ed:pulai,Pulai,,
+ocd-division/country:my/state:01/ed:segamat,Segamat,,
+ocd-division/country:my/state:01/ed:sekijang,Sekijang,,
+ocd-division/country:my/state:01/ed:sembrong,Sembrong,,
+ocd-division/country:my/state:01/ed:simpang_renggam,Simpang Renggam,,
+ocd-division/country:my/state:01/ed:sri_gading,Sri Gading,,
+ocd-division/country:my/state:01/ed:tanjong_piai,Tanjong Piai,,
+ocd-division/country:my/state:01/ed:tebrau,Tebrau,,
+ocd-division/country:my/state:01/ed:tenggara,Tenggara,,
+ocd-division/country:my/state:02,Kedah,,
+ocd-division/country:my/state:02/ed:alor_setar,Alor Setar,,
+ocd-division/country:my/state:02/ed:baling,Baling,,
+ocd-division/country:my/state:02/ed:jerai,Jerai,,
+ocd-division/country:my/state:02/ed:jerlun,Jerlun,,
+ocd-division/country:my/state:02/ed:kuala_kedah,Kuala Kedah,,
+ocd-division/country:my/state:02/ed:kubang_pasu,Kubang Pasu,,
+ocd-division/country:my/state:02/ed:kulim-bandar_baharu,Kulim-Bandar Baharu,,
+ocd-division/country:my/state:02/ed:langkawi,Langkawi,,
+ocd-division/country:my/state:02/ed:merbok,Merbok,,
+ocd-division/country:my/state:02/ed:p004,Langkawi,ocd-division/country:my/state:02/ed:langkawi,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p005,Jerlun,ocd-division/country:my/state:02/ed:jerlun,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p006,Kubang Pasu,ocd-division/country:my/state:02/ed:kubang_pasu,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p007,Padang Terap,ocd-division/country:my/state:02/ed:padang_terap,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p008,Pokok Sena,ocd-division/country:my/state:02/ed:pokok_sena,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p009,Alor Setar,ocd-division/country:my/state:02/ed:alor_setar,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p010,Kuala Kedah,ocd-division/country:my/state:02/ed:kuala_kedah,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p011,Pendang,ocd-division/country:my/state:02/ed:pendang,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p012,Jerai,ocd-division/country:my/state:02/ed:jerai,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p013,Sik,ocd-division/country:my/state:02/ed:sik,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p014,Merbok,ocd-division/country:my/state:02/ed:merbok,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p015,Sungai Petani,ocd-division/country:my/state:02/ed:sungai_petani,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p016,Baling,ocd-division/country:my/state:02/ed:baling,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p017,Padang Serai,ocd-division/country:my/state:02/ed:padang_serai,Added for backwards compatability
+ocd-division/country:my/state:02/ed:p018,Kulim-Bandar Baharu,ocd-division/country:my/state:02/ed:kulim-bandar_baharu,Added for backwards compatability
+ocd-division/country:my/state:02/ed:padang_serai,Padang Serai,,
+ocd-division/country:my/state:02/ed:padang_terap,Padang Terap,,
+ocd-division/country:my/state:02/ed:pendang,Pendang,,
+ocd-division/country:my/state:02/ed:pokok_sena,Pokok Sena,,
+ocd-division/country:my/state:02/ed:sik,Sik,,
+ocd-division/country:my/state:02/ed:sungai_petani,Sungai Petani,,
+ocd-division/country:my/state:03,Kelantan,,
+ocd-division/country:my/state:03/ed:bachok,Bachok,,
+ocd-division/country:my/state:03/ed:gua_musang,Gua Musang,,
+ocd-division/country:my/state:03/ed:jeli,Jeli,,
+ocd-division/country:my/state:03/ed:ketereh,Ketereh,,
+ocd-division/country:my/state:03/ed:kota_bharu,Kota Bharu,,
+ocd-division/country:my/state:03/ed:kuala_krai,Kuala Krai,,
+ocd-division/country:my/state:03/ed:kubang_kerian,Kubang Kerian,,
+ocd-division/country:my/state:03/ed:machang,Machang,,
+ocd-division/country:my/state:03/ed:p019,Tumpat,ocd-division/country:my/state:03/ed:tumpat,Added for backwards compatability
+ocd-division/country:my/state:03/ed:p020,Pengkalan Chepa,ocd-division/country:my/state:03/ed:pengkalan_chepa,Added for backwards compatability
+ocd-division/country:my/state:03/ed:p021,Kota Bharu,ocd-division/country:my/state:03/ed:kota_bharu,Added for backwards compatability
+ocd-division/country:my/state:03/ed:p022,Pasir Mas,ocd-division/country:my/state:03/ed:pasir_mas,Added for backwards compatability
+ocd-division/country:my/state:03/ed:p023,Rantau Panjang,ocd-division/country:my/state:03/ed:rantau_panjang,Added for backwards compatability
+ocd-division/country:my/state:03/ed:p024,Kubang Kerian,ocd-division/country:my/state:03/ed:kubang_kerian,Added for backwards compatability
+ocd-division/country:my/state:03/ed:p025,Bachok,ocd-division/country:my/state:03/ed:bachok,Added for backwards compatability
+ocd-division/country:my/state:03/ed:p026,Ketereh,ocd-division/country:my/state:03/ed:ketereh,Added for backwards compatability
+ocd-division/country:my/state:03/ed:p027,Tanah Merah,ocd-division/country:my/state:03/ed:tanah_merah,Added for backwards compatability
+ocd-division/country:my/state:03/ed:p028,Pasir Puteh,ocd-division/country:my/state:03/ed:pasir_puteh,Added for backwards compatability
+ocd-division/country:my/state:03/ed:p029,Machang,ocd-division/country:my/state:03/ed:machang,Added for backwards compatability
+ocd-division/country:my/state:03/ed:p030,Jeli,ocd-division/country:my/state:03/ed:jeli,Added for backwards compatability
+ocd-division/country:my/state:03/ed:p031,Kuala Krai,ocd-division/country:my/state:03/ed:kuala_krai,Added for backwards compatability
+ocd-division/country:my/state:03/ed:p032,Gua Musang,ocd-division/country:my/state:03/ed:gua_musang,Added for backwards compatability
+ocd-division/country:my/state:03/ed:pasir_mas,Pasir Mas,,
+ocd-division/country:my/state:03/ed:pasir_puteh,Pasir Puteh,,
+ocd-division/country:my/state:03/ed:pengkalan_chepa,Pengkalan Chepa,,
+ocd-division/country:my/state:03/ed:rantau_panjang,Rantau Panjang,,
+ocd-division/country:my/state:03/ed:tanah_merah,Tanah Merah,,
+ocd-division/country:my/state:03/ed:tumpat,Tumpat,,
+ocd-division/country:my/state:04,Melaka,,
+ocd-division/country:my/state:04/ed:alor_gajah,Alor Gajah,,
+ocd-division/country:my/state:04/ed:bukit_katil,Bukit Katil,,
+ocd-division/country:my/state:04/ed:hang_tuah_jaya,Hang Tuah Jaya,,
+ocd-division/country:my/state:04/ed:jasin,Jasin,,
+ocd-division/country:my/state:04/ed:kota_melaka,Kota Melaka,,
+ocd-division/country:my/state:04/ed:masjid_tanah,Masjid Tanah,,
+ocd-division/country:my/state:04/ed:p134,Masjid Tanah,ocd-division/country:my/state:04/ed:masjid_tanah,Added for backwards compatability
+ocd-division/country:my/state:04/ed:p135,Alor Gajah,ocd-division/country:my/state:04/ed:alor_gajah,Added for backwards compatability
+ocd-division/country:my/state:04/ed:p136,Tangga Batu,ocd-division/country:my/state:04/ed:tangga_batu,Added for backwards compatability
+ocd-division/country:my/state:04/ed:p137,Bukit Katil,ocd-division/country:my/state:04/ed:bukit_katil,Added for backwards compatability
+ocd-division/country:my/state:04/ed:p138,Kota Melaka,ocd-division/country:my/state:04/ed:kota_melaka,Added for backwards compatability
+ocd-division/country:my/state:04/ed:p139,Jasin,ocd-division/country:my/state:04/ed:jasin,Added for backwards compatability
+ocd-division/country:my/state:04/ed:tangga_batu,Tangga Batu,,
+ocd-division/country:my/state:05,Negeri Sembilan,,
+ocd-division/country:my/state:05/ed:jelebu,Jelebu,,
+ocd-division/country:my/state:05/ed:jempol,Jempol,,
+ocd-division/country:my/state:05/ed:kuala_pilah,Kuala Pilah,,
+ocd-division/country:my/state:05/ed:p126,Jelebu,ocd-division/country:my/state:05/ed:jelebu,Added for backwards compatability
+ocd-division/country:my/state:05/ed:p127,Jempol,ocd-division/country:my/state:05/ed:jempol,Added for backwards compatability
+ocd-division/country:my/state:05/ed:p128,Seremban,ocd-division/country:my/state:05/ed:seremban,Added for backwards compatability
+ocd-division/country:my/state:05/ed:p129,Kuala Pilah,ocd-division/country:my/state:05/ed:kuala_pilah,Added for backwards compatability
+ocd-division/country:my/state:05/ed:p130,Rasah,ocd-division/country:my/state:05/ed:rasah,Added for backwards compatability
+ocd-division/country:my/state:05/ed:p131,Rembau,ocd-division/country:my/state:05/ed:rembau,Added for backwards compatability
+ocd-division/country:my/state:05/ed:p132,Telok Kemang,ocd-division/country:my/state:05/ed:telok_kemang,Added for backwards compatability
+ocd-division/country:my/state:05/ed:p133,Tampin,ocd-division/country:my/state:05/ed:tampin,Added for backwards compatability
+ocd-division/country:my/state:05/ed:port_dickson,Port Dickson,,
+ocd-division/country:my/state:05/ed:rasah,Rasah,,
+ocd-division/country:my/state:05/ed:rembau,Rembau,,
+ocd-division/country:my/state:05/ed:seremban,Seremban,,
+ocd-division/country:my/state:05/ed:tampin,Tampin,,
+ocd-division/country:my/state:05/ed:telok_kemang,Telok Kemang,,
+ocd-division/country:my/state:06,Pahang,,
+ocd-division/country:my/state:06/ed:bentong,Bentong,,
+ocd-division/country:my/state:06/ed:bera,Bera,,
+ocd-division/country:my/state:06/ed:cameron_highlands,Cameron Highlands,,
+ocd-division/country:my/state:06/ed:indera_mahkota,Indera Mahkota,,
+ocd-division/country:my/state:06/ed:jerantut,Jerantut,,
+ocd-division/country:my/state:06/ed:kuala_krau,Kuala Krau,,
+ocd-division/country:my/state:06/ed:kuantan,Kuantan,,
+ocd-division/country:my/state:06/ed:lipis,Lipis,,
+ocd-division/country:my/state:06/ed:maran,Maran,,
+ocd-division/country:my/state:06/ed:p078,Cameron Highlands,ocd-division/country:my/state:06/ed:cameron_highlands,Added for backwards compatability
+ocd-division/country:my/state:06/ed:p079,Lipis,ocd-division/country:my/state:06/ed:lipis,Added for backwards compatability
+ocd-division/country:my/state:06/ed:p080,Raub,ocd-division/country:my/state:06/ed:raub,Added for backwards compatability
+ocd-division/country:my/state:06/ed:p081,Jerantut,ocd-division/country:my/state:06/ed:jerantut,Added for backwards compatability
+ocd-division/country:my/state:06/ed:p082,Indera Mahkota,ocd-division/country:my/state:06/ed:indera_mahkota,Added for backwards compatability
+ocd-division/country:my/state:06/ed:p083,Kuantan,ocd-division/country:my/state:06/ed:kuantan,Added for backwards compatability
+ocd-division/country:my/state:06/ed:p084,Paya Besar,ocd-division/country:my/state:06/ed:paya_besar,Added for backwards compatability
+ocd-division/country:my/state:06/ed:p085,Pekan,ocd-division/country:my/state:06/ed:pekan,Added for backwards compatability
+ocd-division/country:my/state:06/ed:p086,Maran,ocd-division/country:my/state:06/ed:maran,Added for backwards compatability
+ocd-division/country:my/state:06/ed:p087,Kuala Krau,ocd-division/country:my/state:06/ed:kuala_krau,Added for backwards compatability
+ocd-division/country:my/state:06/ed:p088,Temerloh,ocd-division/country:my/state:06/ed:temerloh,Added for backwards compatability
+ocd-division/country:my/state:06/ed:p089,Bentong,ocd-division/country:my/state:06/ed:bentong,Added for backwards compatability
+ocd-division/country:my/state:06/ed:p090,Bera,ocd-division/country:my/state:06/ed:bera,Added for backwards compatability
+ocd-division/country:my/state:06/ed:p091,Rompin,ocd-division/country:my/state:06/ed:rompin,Added for backwards compatability
+ocd-division/country:my/state:06/ed:paya_besar,Paya Besar,,
+ocd-division/country:my/state:06/ed:pekan,Pekan,,
+ocd-division/country:my/state:06/ed:raub,Raub,,
+ocd-division/country:my/state:06/ed:rompin,Rompin,,
+ocd-division/country:my/state:06/ed:temerloh,Temerloh,,
+ocd-division/country:my/state:07,Pulau Pinang,,
+ocd-division/country:my/state:07/ed:bagan,Bagan,,
+ocd-division/country:my/state:07/ed:balik_pulau,Balik Pulau,,
+ocd-division/country:my/state:07/ed:batu_kawan,Batu Kawan,,
+ocd-division/country:my/state:07/ed:bayan_baru,Bayan Baru,,
+ocd-division/country:my/state:07/ed:bukit_bendera,Bukit Bendera,,
+ocd-division/country:my/state:07/ed:bukit_gelugor,Bukit Gelugor,,
+ocd-division/country:my/state:07/ed:bukit_mertajam,Bukit Mertajam,,
+ocd-division/country:my/state:07/ed:jelutong,Jelutong,,
+ocd-division/country:my/state:07/ed:kepala_batas,Kepala Batas,,
+ocd-division/country:my/state:07/ed:nibong_tebal,Nibong Tebal,,
+ocd-division/country:my/state:07/ed:p041,Kepala Batas,ocd-division/country:my/state:07/ed:kepala_batas,Added for backwards compatability
+ocd-division/country:my/state:07/ed:p042,Tasek Gelugor,ocd-division/country:my/state:07/ed:tasek_gelugor,Added for backwards compatability
+ocd-division/country:my/state:07/ed:p043,Bagan,ocd-division/country:my/state:07/ed:bagan,Added for backwards compatability
+ocd-division/country:my/state:07/ed:p044,Permatang Pauh,ocd-division/country:my/state:07/ed:permatang_pauh,Added for backwards compatability
+ocd-division/country:my/state:07/ed:p045,Bukit Mertajam,ocd-division/country:my/state:07/ed:bukit_mertajam,Added for backwards compatability
+ocd-division/country:my/state:07/ed:p046,Batu Kawan,ocd-division/country:my/state:07/ed:batu_kawan,Added for backwards compatability
+ocd-division/country:my/state:07/ed:p047,Nibong Tebal,ocd-division/country:my/state:07/ed:nibong_tebal,Added for backwards compatability
+ocd-division/country:my/state:07/ed:p048,Bukit Bendera,ocd-division/country:my/state:07/ed:bukit_bendera,Added for backwards compatability
+ocd-division/country:my/state:07/ed:p049,Tanjong,ocd-division/country:my/state:07/ed:tanjong,Added for backwards compatability
+ocd-division/country:my/state:07/ed:p050,Jelutong,ocd-division/country:my/state:07/ed:jelutong,Added for backwards compatability
+ocd-division/country:my/state:07/ed:p051,Bukit Gelugor,ocd-division/country:my/state:07/ed:bukit_gelugor,Added for backwards compatability
+ocd-division/country:my/state:07/ed:p052,Bayan Baru,ocd-division/country:my/state:07/ed:bayan_baru,Added for backwards compatability
+ocd-division/country:my/state:07/ed:p053,Balik Pulau,ocd-division/country:my/state:07/ed:balik_pulau,Added for backwards compatability
+ocd-division/country:my/state:07/ed:permatang_pauh,Permatang Pauh,,
+ocd-division/country:my/state:07/ed:tanjong,Tanjong,,
+ocd-division/country:my/state:07/ed:tasek_gelugor,Tasek Gelugor,,
+ocd-division/country:my/state:08,Perak,,
+ocd-division/country:my/state:08/ed:bagan_datok,Bagan Datok,,
+ocd-division/country:my/state:08/ed:bagan_serai,Bagan Serai,,
+ocd-division/country:my/state:08/ed:batu_gajah,Batu Gajah,,
+ocd-division/country:my/state:08/ed:beruas,Beruas,,
+ocd-division/country:my/state:08/ed:bukit_gantang,Bukit Gantang,,
+ocd-division/country:my/state:08/ed:gerik,Gerik,,
+ocd-division/country:my/state:08/ed:gopeng,Gopeng,,
+ocd-division/country:my/state:08/ed:ipoh_barat,Ipoh Barat,,
+ocd-division/country:my/state:08/ed:ipoh_timor,Ipoh Timor,,
+ocd-division/country:my/state:08/ed:kampar,Kampar,,
+ocd-division/country:my/state:08/ed:kuala_kangsar,Kuala Kangsar,,
+ocd-division/country:my/state:08/ed:larut,Larut,,
+ocd-division/country:my/state:08/ed:lenggong,Lenggong,,
+ocd-division/country:my/state:08/ed:lumut,Lumut,,
+ocd-division/country:my/state:08/ed:p054,Gerik,ocd-division/country:my/state:08/ed:gerik,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p055,Lenggong,ocd-division/country:my/state:08/ed:lenggong,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p056,Larut,ocd-division/country:my/state:08/ed:larut,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p057,Parit Buntar,ocd-division/country:my/state:08/ed:parit_buntar,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p058,Bagan Serai,ocd-division/country:my/state:08/ed:bagan_serai,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p059,Bukit Gantang,ocd-division/country:my/state:08/ed:bukit_gantang,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p060,Taiping,ocd-division/country:my/state:08/ed:taiping,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p061,Padang Rengas,ocd-division/country:my/state:08/ed:padang_rengas,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p062,Sungai Siput,ocd-division/country:my/state:08/ed:sungai_siput,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p063,Tambun,ocd-division/country:my/state:08/ed:tambun,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p064,Ipoh Timor,ocd-division/country:my/state:08/ed:ipoh_timor,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p065,Ipoh Barat,ocd-division/country:my/state:08/ed:ipoh_barat,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p066,Batu Gajah,ocd-division/country:my/state:08/ed:batu_gajah,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p067,Kuala Kangsar,ocd-division/country:my/state:08/ed:kuala_kangsar,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p068,Beruas,ocd-division/country:my/state:08/ed:beruas,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p069,Parit,ocd-division/country:my/state:08/ed:parit,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p070,Kampar,ocd-division/country:my/state:08/ed:kampar,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p071,Gopeng,ocd-division/country:my/state:08/ed:gopeng,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p072,Tapah,ocd-division/country:my/state:08/ed:tapah,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p073,Pasir Salak,ocd-division/country:my/state:08/ed:pasir_salak,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p074,Lumut,ocd-division/country:my/state:08/ed:lumut,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p075,Bagan Datok,ocd-division/country:my/state:08/ed:bagan_datok,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p076,Telok Intan,ocd-division/country:my/state:08/ed:telok_intan,Added for backwards compatability
+ocd-division/country:my/state:08/ed:p077,Tanjong Malim,ocd-division/country:my/state:08/ed:tanjong_malim,Added for backwards compatability
+ocd-division/country:my/state:08/ed:padang_rengas,Padang Rengas,,
+ocd-division/country:my/state:08/ed:parit,Parit,,
+ocd-division/country:my/state:08/ed:parit_buntar,Parit Buntar,,
+ocd-division/country:my/state:08/ed:pasir_salak,Pasir Salak,,
+ocd-division/country:my/state:08/ed:sungai_siput,Sungai Siput,,
+ocd-division/country:my/state:08/ed:taiping,Taiping,,
+ocd-division/country:my/state:08/ed:tambun,Tambun,,
+ocd-division/country:my/state:08/ed:tanjong_malim,Tanjong Malim,,
+ocd-division/country:my/state:08/ed:tapah,Tapah,,
+ocd-division/country:my/state:08/ed:telok_intan,Telok Intan,,
+ocd-division/country:my/state:09,Perlis,,
+ocd-division/country:my/state:09/ed:arau,Arau,,
+ocd-division/country:my/state:09/ed:kangar,Kangar,,
+ocd-division/country:my/state:09/ed:p001,Padang Besar,ocd-division/country:my/state:09/ed:padang_besar,Added for backwards compatability
+ocd-division/country:my/state:09/ed:p002,Kangar,ocd-division/country:my/state:09/ed:kangar,Added for backwards compatability
+ocd-division/country:my/state:09/ed:p003,Arau,ocd-division/country:my/state:09/ed:arau,Added for backwards compatability
+ocd-division/country:my/state:09/ed:padang_besar,Padang Besar,,
+ocd-division/country:my/state:10,Selangor,,
+ocd-division/country:my/state:10/ed:ampang,Ampang,,
+ocd-division/country:my/state:10/ed:bangi,Bangi,,
+ocd-division/country:my/state:10/ed:damansara,Damansara,,
+ocd-division/country:my/state:10/ed:gombak,Gombak,,
+ocd-division/country:my/state:10/ed:hulu_langat,Hulu Langat,,
+ocd-division/country:my/state:10/ed:hulu_selangor,Hulu Selangor,,
+ocd-division/country:my/state:10/ed:kapar,Kapar,,
+ocd-division/country:my/state:10/ed:kelana_jaya,Kelana Jaya,,
+ocd-division/country:my/state:10/ed:klang,Klang,,
+ocd-division/country:my/state:10/ed:kota_raja,Kota Raja,,
+ocd-division/country:my/state:10/ed:kuala_langat,Kuala Langat,,
+ocd-division/country:my/state:10/ed:kuala_selangor,Kuala Selangor,,
+ocd-division/country:my/state:10/ed:p092,Sabak Bernam,ocd-division/country:my/state:10/ed:sabak_bernam,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p093,Sungai Besar,ocd-division/country:my/state:10/ed:sungai_besar,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p094,Hulu Selangor,ocd-division/country:my/state:10/ed:hulu_selangor,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p095,Tanjong Karang,ocd-division/country:my/state:10/ed:tanjong_karang,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p096,Kuala Selangor,ocd-division/country:my/state:10/ed:kuala_selangor,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p097,Selayang,ocd-division/country:my/state:10/ed:selayang,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p098,Gombak,ocd-division/country:my/state:10/ed:gombak,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p099,Ampang,ocd-division/country:my/state:10/ed:ampang,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p100,Pandan,ocd-division/country:my/state:10/ed:pandan,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p101,Hulu Langat,ocd-division/country:my/state:10/ed:hulu_langat,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p102,Serdang,ocd-division/country:my/state:10/ed:serdang,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p103,Puchong,ocd-division/country:my/state:10/ed:puchong,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p104,Kelana Jaya,ocd-division/country:my/state:10/ed:kelana_jaya,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p105,Petaling Jaya Selatan,ocd-division/country:my/state:10/ed:petaling_jaya_selatan,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p106,Petaling Jaya Utara,ocd-division/country:my/state:10/ed:petaling_jaya_utara,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p107,Subang,ocd-division/country:my/state:10/ed:subang,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p108,Shah Alam,ocd-division/country:my/state:10/ed:shah_alam,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p109,Kapar,ocd-division/country:my/state:10/ed:kapar,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p110,Klang,ocd-division/country:my/state:10/ed:klang,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p111,Kota Raja,ocd-division/country:my/state:10/ed:kota_raja,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p112,Kuala Langat,ocd-division/country:my/state:10/ed:kuala_langat,Added for backwards compatability
+ocd-division/country:my/state:10/ed:p113,Sepang,ocd-division/country:my/state:10/ed:sepang,Added for backwards compatability
+ocd-division/country:my/state:10/ed:pandan,Pandan,,
+ocd-division/country:my/state:10/ed:petaling_jaya,Petaling Jaya,,
+ocd-division/country:my/state:10/ed:petaling_jaya_selatan,Petaling Jaya Selatan,,
+ocd-division/country:my/state:10/ed:petaling_jaya_utara,Petaling Jaya Utara,,
+ocd-division/country:my/state:10/ed:puchong,Puchong,,
+ocd-division/country:my/state:10/ed:sabak_bernam,Sabak Bernam,,
+ocd-division/country:my/state:10/ed:selayang,Selayang,,
+ocd-division/country:my/state:10/ed:sepang,Sepang,,
+ocd-division/country:my/state:10/ed:serdang,Serdang,,
+ocd-division/country:my/state:10/ed:shah_alam,Shah Alam,,
+ocd-division/country:my/state:10/ed:subang,Subang,,
+ocd-division/country:my/state:10/ed:sungai_besar,Sungai Besar,,
+ocd-division/country:my/state:10/ed:sungai_buloh,Sungai Buloh,,
+ocd-division/country:my/state:10/ed:tanjong_karang,Tanjong Karang,,
+ocd-division/country:my/state:11,Terengganu,,
+ocd-division/country:my/state:11/ed:besut,Besut,,
+ocd-division/country:my/state:11/ed:dungun,Dungun,,
+ocd-division/country:my/state:11/ed:hulu_terengganu,Hulu Terengganu,,
+ocd-division/country:my/state:11/ed:kemaman,Kemaman,,
+ocd-division/country:my/state:11/ed:kuala_nerus,Kuala Nerus,,
+ocd-division/country:my/state:11/ed:kuala_terengganu,Kuala Terengganu,,
+ocd-division/country:my/state:11/ed:marang,Marang,,
+ocd-division/country:my/state:11/ed:p033,Besut,ocd-division/country:my/state:11/ed:besut,Added for backwards compatability
+ocd-division/country:my/state:11/ed:p034,Setiu,ocd-division/country:my/state:11/ed:setiu,Added for backwards compatability
+ocd-division/country:my/state:11/ed:p035,Kuala Nerus,ocd-division/country:my/state:11/ed:kuala_nerus,Added for backwards compatability
+ocd-division/country:my/state:11/ed:p036,Kuala Terengganu,ocd-division/country:my/state:11/ed:kuala_terengganu,Added for backwards compatability
+ocd-division/country:my/state:11/ed:p037,Marang,ocd-division/country:my/state:11/ed:marang,Added for backwards compatability
+ocd-division/country:my/state:11/ed:p038,Hulu Terengganu,ocd-division/country:my/state:11/ed:hulu_terengganu,Added for backwards compatability
+ocd-division/country:my/state:11/ed:p039,Dungun,ocd-division/country:my/state:11/ed:dungun,Added for backwards compatability
+ocd-division/country:my/state:11/ed:p040,Kemaman,ocd-division/country:my/state:11/ed:kemaman,Added for backwards compatability
+ocd-division/country:my/state:11/ed:setiu,Setiu,,
+ocd-division/country:my/state:12,Sabah,,
+ocd-division/country:my/state:12/ed:batu_sapi,Batu Sapi,,
+ocd-division/country:my/state:12/ed:beaufort,Beaufort,,
+ocd-division/country:my/state:12/ed:beluran,Beluran,,
+ocd-division/country:my/state:12/ed:kalabakan,Kalabakan,,
+ocd-division/country:my/state:12/ed:keningau,Keningau,,
+ocd-division/country:my/state:12/ed:kimanis,Kimanis,,
+ocd-division/country:my/state:12/ed:kinabatangan,Kinabatangan,,
+ocd-division/country:my/state:12/ed:kota_belud,Kota Belud,,
+ocd-division/country:my/state:12/ed:kota_kinabalu,Kota Kinabalu,,
+ocd-division/country:my/state:12/ed:kota_marudu,Kota Marudu,,
+ocd-division/country:my/state:12/ed:kudat,Kudat,,
+ocd-division/country:my/state:12/ed:lahad_datu,Lahad Datu,,
+ocd-division/country:my/state:12/ed:libaran,Libaran,,
+ocd-division/country:my/state:12/ed:p167,Kudat,ocd-division/country:my/state:12/ed:kudat,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p168,Kota Marudu,ocd-division/country:my/state:12/ed:kota_marudu,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p169,Kota Belud,ocd-division/country:my/state:12/ed:kota_belud,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p170,Tuaran,ocd-division/country:my/state:12/ed:tuaran,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p171,Sepanggar,ocd-division/country:my/state:12/ed:sepanggar,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p172,Kota Kinabalu,ocd-division/country:my/state:12/ed:kota_kinabalu,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p173,Putatan,ocd-division/country:my/state:12/ed:putatan,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p174,Penampang,ocd-division/country:my/state:12/ed:penampang,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p175,Papar,ocd-division/country:my/state:12/ed:papar,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p176,Kimanis,ocd-division/country:my/state:12/ed:kimanis,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p177,Beaufort,ocd-division/country:my/state:12/ed:beaufort,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p178,Sipitang,ocd-division/country:my/state:12/ed:sipitang,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p179,Ranau,ocd-division/country:my/state:12/ed:ranau,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p180,Keningau,ocd-division/country:my/state:12/ed:keningau,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p181,Tenom,ocd-division/country:my/state:12/ed:tenom,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p182,Pensiangan,ocd-division/country:my/state:12/ed:pensiangan,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p183,Beluran,ocd-division/country:my/state:12/ed:beluran,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p184,Libaran,ocd-division/country:my/state:12/ed:libaran,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p185,Batu Sapi,ocd-division/country:my/state:12/ed:batu_sapi,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p186,Sandakan,ocd-division/country:my/state:12/ed:sandakan,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p187,Kinabatangan,ocd-division/country:my/state:12/ed:kinabatangan,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p188,Silam,ocd-division/country:my/state:12/ed:silam,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p189,Semporna,ocd-division/country:my/state:12/ed:semporna,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p190,Tawau,ocd-division/country:my/state:12/ed:tawau,Added for backwards compatability
+ocd-division/country:my/state:12/ed:p191,Kalabakan,ocd-division/country:my/state:12/ed:kalabakan,Added for backwards compatability
+ocd-division/country:my/state:12/ed:papar,Papar,,
+ocd-division/country:my/state:12/ed:penampang,Penampang,,
+ocd-division/country:my/state:12/ed:pensiangan,Pensiangan,,
+ocd-division/country:my/state:12/ed:putatan,Putatan,,
+ocd-division/country:my/state:12/ed:ranau,Ranau,,
+ocd-division/country:my/state:12/ed:sandakan,Sandakan,,
+ocd-division/country:my/state:12/ed:semporna,Semporna,,
+ocd-division/country:my/state:12/ed:sepanggar,Sepanggar,,
+ocd-division/country:my/state:12/ed:silam,Silam,,
+ocd-division/country:my/state:12/ed:sipitang,Sipitang,,
+ocd-division/country:my/state:12/ed:tawau,Tawau,,
+ocd-division/country:my/state:12/ed:tenom,Tenom,,
+ocd-division/country:my/state:12/ed:tuaran,Tuaran,,
+ocd-division/country:my/state:13,Sarawak,,
+ocd-division/country:my/state:13/ed:bandar_kuching,Bandar Kuching,,
+ocd-division/country:my/state:13/ed:baram,Baram,,
+ocd-division/country:my/state:13/ed:batang_lupar,Batang Lupar,,
+ocd-division/country:my/state:13/ed:batang_sadong,Batang Sadong,,
+ocd-division/country:my/state:13/ed:betong,Betong,,
+ocd-division/country:my/state:13/ed:bintulu,Bintulu,,
+ocd-division/country:my/state:13/ed:hulu_rajang,Hulu Rajang,,
+ocd-division/country:my/state:13/ed:igan,Igan,,
+ocd-division/country:my/state:13/ed:julau,Julau,,
+ocd-division/country:my/state:13/ed:kanowit,Kanowit,,
+ocd-division/country:my/state:13/ed:kapit,Kapit,,
+ocd-division/country:my/state:13/ed:kota_samarahan,Kota Samarahan,,
+ocd-division/country:my/state:13/ed:lanang,Lanang,,
+ocd-division/country:my/state:13/ed:lawas,Lawas,,
+ocd-division/country:my/state:13/ed:limbang,Limbang,,
+ocd-division/country:my/state:13/ed:lubok_antu,Lubok Antu,,
+ocd-division/country:my/state:13/ed:mambong,Mambong,,
+ocd-division/country:my/state:13/ed:mas_gading,Mas Gading,,
+ocd-division/country:my/state:13/ed:miri,Miri,,
+ocd-division/country:my/state:13/ed:mukah,Mukah,,
+ocd-division/country:my/state:13/ed:p192,Mas Gading,ocd-division/country:my/state:13/ed:mas_gading,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p193,Santubong,ocd-division/country:my/state:13/ed:santubong,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p194,Petra Jaya,ocd-division/country:my/state:13/ed:petra_jaya,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p195,Bandar Kuching,ocd-division/country:my/state:13/ed:bandar_kuching,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p196,Stampin,ocd-division/country:my/state:13/ed:stampin,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p197,Kota Samarahan,ocd-division/country:my/state:13/ed:kota_samarahan,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p198,Mambong,ocd-division/country:my/state:13/ed:mambong,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p199,Serian,ocd-division/country:my/state:13/ed:serian,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p200,Batang Sadong,ocd-division/country:my/state:13/ed:batang_sadong,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p201,Batang Lupar,ocd-division/country:my/state:13/ed:batang_lupar,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p202,Sri Aman,ocd-division/country:my/state:13/ed:sri_aman,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p203,Lubok Antu,ocd-division/country:my/state:13/ed:lubok_antu,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p204,Betong,ocd-division/country:my/state:13/ed:betong,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p205,Saratok,ocd-division/country:my/state:13/ed:saratok,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p206,Tanjong Manis,ocd-division/country:my/state:13/ed:tanjong_manis,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p207,Igan,ocd-division/country:my/state:13/ed:igan,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p208,Sarikei,ocd-division/country:my/state:13/ed:sarikei,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p209,Julau,ocd-division/country:my/state:13/ed:julau,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p210,Kanowit,ocd-division/country:my/state:13/ed:kanowit,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p211,Lanang,ocd-division/country:my/state:13/ed:lanang,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p212,Sibu,ocd-division/country:my/state:13/ed:sibu,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p213,Mukah,ocd-division/country:my/state:13/ed:mukah,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p214,Selangau,ocd-division/country:my/state:13/ed:selangau,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p215,Kapit,ocd-division/country:my/state:13/ed:kapit,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p216,Hulu Rajang,ocd-division/country:my/state:13/ed:hulu_rajang,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p217,Bintulu,ocd-division/country:my/state:13/ed:bintulu,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p218,Sibuti,ocd-division/country:my/state:13/ed:sibuti,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p219,Miri,ocd-division/country:my/state:13/ed:miri,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p220,Baram,ocd-division/country:my/state:13/ed:baram,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p221,Limbang,ocd-division/country:my/state:13/ed:limbang,Added for backwards compatability
+ocd-division/country:my/state:13/ed:p222,Lawas,ocd-division/country:my/state:13/ed:lawas,Added for backwards compatability
+ocd-division/country:my/state:13/ed:petra_jaya,Petra Jaya,,
+ocd-division/country:my/state:13/ed:puncak_borneo,Puncak Borneo,,
+ocd-division/country:my/state:13/ed:santubong,Santubong,,
+ocd-division/country:my/state:13/ed:saratok,Saratok,,
+ocd-division/country:my/state:13/ed:sarikei,Sarikei,,
+ocd-division/country:my/state:13/ed:selangau,Selangau,,
+ocd-division/country:my/state:13/ed:serian,Serian,,
+ocd-division/country:my/state:13/ed:sibu,Sibu,,
+ocd-division/country:my/state:13/ed:sibuti,Sibuti,,
+ocd-division/country:my/state:13/ed:sri_aman,Sri Aman,,
+ocd-division/country:my/state:13/ed:stampin,Stampin,,
+ocd-division/country:my/state:13/ed:tanjong_manis,Tanjong Manis,,
+ocd-division/country:my/territory:14,Wilayah Persekutuan Kuala Lumpur,,
+ocd-division/country:my/territory:14/ed:bandar_tun_razak,Bandar Tun Razak,,
+ocd-division/country:my/territory:14/ed:batu,Batu,,
+ocd-division/country:my/territory:14/ed:bukit_bintang,Bukit Bintang,,
+ocd-division/country:my/territory:14/ed:cheras,Cheras,,
+ocd-division/country:my/territory:14/ed:kepong,Kepong,,
+ocd-division/country:my/territory:14/ed:lembah_pantai,Lembah Pantai,,
+ocd-division/country:my/territory:14/ed:p114,Kepong,ocd-division/country:my/territory:14/ed:kepong,Added for backwards compatability
+ocd-division/country:my/territory:14/ed:p115,Batu,ocd-division/country:my/territory:14/ed:batu,Added for backwards compatability
+ocd-division/country:my/territory:14/ed:p116,Wangsa Maju,ocd-division/country:my/territory:14/ed:wangsa_maju,Added for backwards compatability
+ocd-division/country:my/territory:14/ed:p117,Segambut,ocd-division/country:my/territory:14/ed:segambut,Added for backwards compatability
+ocd-division/country:my/territory:14/ed:p118,Setiawangsa,ocd-division/country:my/territory:14/ed:setiawangsa,Added for backwards compatability
+ocd-division/country:my/territory:14/ed:p119,Titiwangsa,ocd-division/country:my/territory:14/ed:titiwangsa,Added for backwards compatability
+ocd-division/country:my/territory:14/ed:p120,Bukit Bintang,ocd-division/country:my/territory:14/ed:bukit_bintang,Added for backwards compatability
+ocd-division/country:my/territory:14/ed:p121,Lembah Pantai,ocd-division/country:my/territory:14/ed:lembah_pantai,Added for backwards compatability
+ocd-division/country:my/territory:14/ed:p122,Seputeh,ocd-division/country:my/territory:14/ed:seputeh,Added for backwards compatability
+ocd-division/country:my/territory:14/ed:p123,Cheras,ocd-division/country:my/territory:14/ed:cheras,Added for backwards compatability
+ocd-division/country:my/territory:14/ed:p124,Bandar Tun Razak,ocd-division/country:my/territory:14/ed:bandar_tun_razak,Added for backwards compatability
+ocd-division/country:my/territory:14/ed:segambut,Segambut,,
+ocd-division/country:my/territory:14/ed:seputeh,Seputeh,,
+ocd-division/country:my/territory:14/ed:setiawangsa,Setiawangsa,,
+ocd-division/country:my/territory:14/ed:titiwangsa,Titiwangsa,,
+ocd-division/country:my/territory:14/ed:wangsa_maju,Wangsa Maju,,
+ocd-division/country:my/territory:15,Wilayah Persekutuan Labuan,,
+ocd-division/country:my/territory:15/ed:labuan,Labuan,,
+ocd-division/country:my/territory:15/ed:p166,Labuan,ocd-division/country:my/territory:15/ed:labuan,Added for backwards compatability
+ocd-division/country:my/territory:16,Wilayah Persekutuan Putrajaya,,
+ocd-division/country:my/territory:16/ed:p125,Putrajaya,ocd-division/country:my/territory:16/ed:putrajaya,Added for backwards compatability
+ocd-division/country:my/territory:16/ed:putrajaya,Putrajaya,,
