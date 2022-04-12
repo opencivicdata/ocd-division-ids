@@ -18,10 +18,12 @@ ocd-division/country:kr/ed:bucheon_city_2,Bucheon City Second
 ocd-division/country:kr/ed:bucheon_city_3,Bucheon City Third
 ocd-division/country:kr/ed:bucheon_city_fourth,Bucheon City Fourth
 ocd-division/country:kr/ed:buk_district,Buk District
-ocd-division/country:kr/ed:buk_district_1,Buk District First
-ocd-division/country:kr/ed:buk_district_2,Buk District Second
 ocd-division/country:kr/ed:buk_district_and_gangseo_district_1,Buk District and Gangseo District First
 ocd-division/country:kr/ed:buk_district_and_gangseo_district_2,Buk District and Gangseo District Second
+ocd-division/country:kr/ed:bukd_district_1,Buk District First (Daegu)
+ocd-division/country:kr/ed:bukd_district_2,Buk District Second (Daegu)
+ocd-division/country:kr/ed:bukg_district_1,Buk District First (Gwangju)
+ocd-division/country:kr/ed:bukg_district_2,Buk District Second (Gwangju)
 ocd-division/country:kr/ed:bupyeong_district_1,Bupyeong District First
 ocd-division/country:kr/ed:bupyeong_district_2,Bupyeong District Second
 ocd-division/country:kr/ed:busanjin_district_1,Busanjin District First
@@ -51,13 +53,13 @@ ocd-division/country:kr/ed:damyang_county-hampyeong_county-yeonggwang_county_and
 ocd-division/country:kr/ed:dangjin_city,Dangjin City
 ocd-division/country:kr/ed:dobong_1,Dobong First
 ocd-division/country:kr/ed:dobong_2,Dobong Second
-ocd-division/country:kr/ed:dong_district,Dong District
 ocd-division/country:kr/ed:dong_district_1,Dong District First
 ocd-division/country:kr/ed:dong_district_2,Dong District Second
 ocd-division/country:kr/ed:dong_district_and_michuhol_district_1,Dong District and Michuhol District First
 ocd-division/country:kr/ed:dong_district_and_michuhol_district_2,Dong District and Michuhol District Second
 ocd-division/country:kr/ed:dong_district_and_nam_district_1,Dong District and Nam District First
 ocd-division/country:kr/ed:dong_district_and_nam_district_2,Dong District and Nam District Second
+ocd-division/country:kr/ed:dongd_district,Dong District (Daejeon)
 ocd-division/country:kr/ed:dongdaemun_1,Dongdaemun First
 ocd-division/country:kr/ed:dongdaemun_2,Dongdaemun Second
 ocd-division/country:kr/ed:dongducheon_city_and_yeoncheon_county,Dongducheon City and Yeoncheon County
@@ -65,6 +67,7 @@ ocd-division/country:kr/ed:donghae_city-taebaek_city-samcheok_city_and_jeongseon
 ocd-division/country:kr/ed:dongjak_1,Dongjak First
 ocd-division/country:kr/ed:dongjak_2,Dongjak Second
 ocd-division/country:kr/ed:dongnae_district,Dongnae District
+ocd-division/country:kr/ed:dongu_district,Dong District (Ulsan)
 ocd-division/country:kr/ed:eunpyeong_1,Eunpyeong First
 ocd-division/country:kr/ed:eunpyeong_2,Eunpyeong Second
 ocd-division/country:kr/ed:gangbuk_1,Gangbuk First
@@ -142,20 +145,23 @@ ocd-division/country:kr/ed:jinju_city_2,Jinju City Second
 ocd-division/country:kr/ed:jongno,Jongno
 ocd-division/country:kr/ed:jung_and_seongdong_1,Jung and Seongdong First
 ocd-division/country:kr/ed:jung_and_seongdong_2,Jung and Seongdong Second
-ocd-division/country:kr/ed:jung_district,Jung District
 ocd-division/country:kr/ed:jung_district-ganghwa_district_and_ongjin_county,"Jung District, Ganghwa District and Ongjin County"
 ocd-division/country:kr/ed:jung_district_and_nam_district,Jung District and Nam District
+ocd-division/country:kr/ed:jungd_district,Jung District (Daejeon)
 ocd-division/country:kr/ed:jungnang_1,Jungnang First
 ocd-division/country:kr/ed:jungnang_2,Jungnang Second
+ocd-division/country:kr/ed:jungu_district,Jung District (Ulsan)
 ocd-division/country:kr/ed:mapo_1,Mapo First
 ocd-division/country:kr/ed:mapo_2,Mapo Second
 ocd-division/country:kr/ed:milyang_city-uiryeong_county-haman_county_and_changnyeong_county,"Milyang City, Uiryeong County, Haman County and Changnyeong County"
 ocd-division/country:kr/ed:mokpo_city,Mokpo City
 ocd-division/country:kr/ed:naju_city_and_hwasun_county,Naju City and Hwasun County
-ocd-division/country:kr/ed:nam_district_1,Nam District First
-ocd-division/country:kr/ed:nam_district_2,Nam District Second
+ocd-division/country:kr/ed:namb_district_1,Nam District First (Busan)
+ocd-division/country:kr/ed:namb_district_2,Nam District Second (Busan)
 ocd-division/country:kr/ed:namdong_district_1,Namdong District First
 ocd-division/country:kr/ed:namdong_district_2,Namdong District Second
+ocd-division/country:kr/ed:namu_district_1,Nam District First (Ulsan)
+ocd-division/country:kr/ed:namu_district_2,Nam District Second (Ulsan)
 ocd-division/country:kr/ed:namwon_city-imsil_county_and_sunchang_county,"Namwon City, Imsil County and Sunchang County"
 ocd-division/country:kr/ed:namyangju_city_1,Namyangju City First
 ocd-division/country:kr/ed:namyangju_city_2,Namyangju City Second
@@ -180,14 +186,18 @@ ocd-division/country:kr/ed:sangju_city_and_mungyeong_city,Sangju City and Mungye
 ocd-division/country:kr/ed:sasang_district,Sasang District
 ocd-division/country:kr/ed:sejong_city_1,Sejong City First
 ocd-division/country:kr/ed:sejong_city_2,Sejong City Second
-ocd-division/country:kr/ed:seo_district,Seo District
-ocd-division/country:kr/ed:seo_district_1,Seo District First
-ocd-division/country:kr/ed:seo_district_2,Seo District Second
+ocd-division/country:kr/ed:seo_district,Seo District (Daegu)
 ocd-division/country:kr/ed:seocho_1,Seocho First
 ocd-division/country:kr/ed:seocho_2,Seocho Second
+ocd-division/country:kr/ed:seod_district_1,Seo District First (Daejeon)
+ocd-division/country:kr/ed:seod_district_2,Seo District Second (Daejeon)
 ocd-division/country:kr/ed:seodaemun_1,Seodaemun First
 ocd-division/country:kr/ed:seodaemun_2,Seodaemun Second
+ocd-division/country:kr/ed:seog_district_1,Seo District First (Gwangju)
+ocd-division/country:kr/ed:seog_district_2,Seo District Second (Gwangju)
 ocd-division/country:kr/ed:seogwipo_city,Seogwipo City
+ocd-division/country:kr/ed:seoi_district_1,Seo District First (Incheon)
+ocd-division/country:kr/ed:seoi_district_2,Seo District Second (Incheon)
 ocd-division/country:kr/ed:seongbuk_1,Seongbuk First
 ocd-division/country:kr/ed:seongbuk_2,Seongbuk Second
 ocd-division/country:kr/ed:seongnam_bundang_district_1,Seongnam Bundang District First
