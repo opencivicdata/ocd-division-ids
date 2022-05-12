@@ -775,42 +775,54 @@ ocd-division/country:us/state:md/sldu:46,Maryland State Senate district 46
 ocd-division/country:us/state:md/sldu:47,Maryland State Senate district 47
 ocd-division/country:us/state:ma/sldu:1st_suffolk,Massachusetts First Suffolk district
 ocd-division/country:us/state:ma/sldu:2nd_suffolk,Massachusetts Second Suffolk district
+ocd-division/country:us/state:ma/sldu:3rd_suffolk,Massachusetts Third Suffolk district
 ocd-division/country:us/state:ma/sldu:hampden,Massachusetts Hampden district
+ocd-division/country:us/state:ma/sldu:hampden_hampshire_and_worcester,"Massachusetts Hampden, Hampshire & Worcester district"
 ocd-division/country:us/state:ma/sldu:berkshire_hampshire_franklin_and_hampden,"Massachusetts Berkshire, Hampshire, Franklin & Hampden district"
-ocd-division/country:us/state:ma/sldu:2nd_hampden_and_hampshire,Massachusetts Second Hampden & Hampshire district
+ocd-division/country:us/state:ma/sldu:2nd_hampden_and_hampshire,Massachusetts Second Hampden & Hampshire district (obsolete)
 ocd-division/country:us/state:ma/sldu:hampshire_franklin_and_worcester,"Massachusetts Hampshire, Franklin & Worcester district"
 ocd-division/country:us/state:ma/sldu:1st_hampden_and_hampshire,Massachusetts First Hampden & Hampshire district
-ocd-division/country:us/state:ma/sldu:worcester_hampden_hampshire_and_middlesex,"Massachusetts Worcester, Hampden, Hampshire & Middlesex district"
+ocd-division/country:us/state:ma/sldu:worcester_hampden_hampshire_and_middlesex,"Massachusetts Worcester, Hampden, Hampshire & Middlesex district (obsolete)"
 ocd-division/country:us/state:ma/sldu:worcester_and_middlesex,Massachusetts Worcester & Middlesex district
 ocd-division/country:us/state:ma/sldu:1st_worcester,Massachusetts First Worcester district
 ocd-division/country:us/state:ma/sldu:2nd_worcester,Massachusetts Second Worcester district
-ocd-division/country:us/state:ma/sldu:worcester_and_norfolk,Massachusetts Worcester & Norfolk district
+ocd-division/country:us/state:ma/sldu:3rd_worcester,Massachusetts Third Worcester district
+ocd-division/country:us/state:ma/sldu:4th_worcester,Massachusetts Fourth Worcester district
+ocd-division/country:us/state:ma/sldu:worcester_and_norfolk,Massachusetts Worcester & Norfolk district (obsolete)
 ocd-division/country:us/state:ma/sldu:1st_middlesex,Massachusetts First Middlesex district
-ocd-division/country:us/state:ma/sldu:middlesex_and_worcester,Massachusetts Middlesex & Worcester district
-ocd-division/country:us/state:ma/sldu:2nd_middlesex_and_norfolk,Massachusetts Second Middlesex & Norfolk district
-ocd-division/country:us/state:ma/sldu:3rd_middlesex,Massachusetts Third Middlesex district
-ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_middlesex,"Massachusetts Norfolk, Bristol & Middlesex district"
+ocd-division/country:us/state:ma/sldu:2nd_middlesex_and_norfolk,Massachusetts Second Middlesex & Norfolk district (obsolete)
+ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_middlesex,"Massachusetts Norfolk, Bristol & Middlesex district (obsolete)"
 ocd-division/country:us/state:ma/sldu:2nd_essex_and_middlesex,Massachusetts Second Essex & Middlesex district
 ocd-division/country:us/state:ma/sldu:1st_essex,Massachusetts First Essex district
 ocd-division/country:us/state:ma/sldu:1st_essex_and_middlesex,Massachusetts First Essex & Middlesex district
 ocd-division/country:us/state:ma/sldu:2nd_essex,Massachusetts Second Essex district
 ocd-division/country:us/state:ma/sldu:3rd_essex,Massachusetts Third Essex district
-ocd-division/country:us/state:ma/sldu:5th_middlesex,Massachusetts Fifth Middlesex district
-ocd-division/country:us/state:ma/sldu:4th_middlesex,Massachusetts Fourth Middlesex district
+ocd-division/country:us/state:ma/sldu:5th_middlesex,Massachusetts Fifth Middlesex district (obsolete)
+ocd-division/country:us/state:ma/sldu:4th_middlesex,Massachusetts Fourth Middlesex district (obsolete)
 ocd-division/country:us/state:ma/sldu:2nd_middlesex,Massachusetts Second Middlesex district
+ocd-division/country:us/state:ma/sldu:3rd_middlesex,Massachusetts Third Middlesex district
 ocd-division/country:us/state:ma/sldu:middlesex_and_suffolk,Massachusetts Middlesex & Suffolk district
-ocd-division/country:us/state:ma/sldu:1st_suffolk_and_middlesex,Massachusetts First Suffolk & Middlesex district
-ocd-division/country:us/state:ma/sldu:2nd_suffolk_and_middlesex,Massachusetts Second Suffolk & Middlesex district
+ocd-division/country:us/state:ma/sldu:middlesex_and_worcester,Massachusetts Middlesex & Worcester district
+ocd-division/country:us/state:ma/sldu:norfolk_and_middlesex,Massachusetts Norfolk & Middlesex district
+ocd-division/country:us/state:ma/sldu:1st_suffolk_and_middlesex,Massachusetts First Suffolk & Middlesex district (obsolete)
+ocd-division/country:us/state:ma/sldu:suffolk_and_middlesex,Massachusetts Suffolk & Middlesex district
+ocd-division/country:us/state:ma/sldu:worcester_and_hampden,Massachusetts Worcester & Hampden district
+ocd-division/country:us/state:ma/sldu:worcester_and_hampshire,Massachusetts Worcester & Hampshire district
+ocd-division/country:us/state:ma/sldu:2nd_suffolk_and_middlesex,Massachusetts Second Suffolk & Middlesex district (obsolete)
 ocd-division/country:us/state:ma/sldu:1st_middlesex_and_norfolk,Massachusetts First Middlesex & Norfolk district
 ocd-division/country:us/state:ma/sldu:norfolk_and_suffolk,Massachusetts Norfolk & Suffolk district
 ocd-division/country:us/state:ma/sldu:bristol_and_norfolk,Massachusetts Bristol & Norfolk district
 ocd-division/country:us/state:ma/sldu:norfolk_bristol_and_plymouth,"Massachusetts Norfolk, Bristol & Plymouth district"
+ocd-division/country:us/state:ma/sldu:norfolk_worcester_and_middlesex,"Massachusetts Norfolk, Worcester & Middlesex district"
 ocd-division/country:us/state:ma/sldu:norfolk_and_plymouth,Massachusetts Norfolk & Plymouth district
-ocd-division/country:us/state:ma/sldu:plymouth_and_norfolk,Massachusetts Plymouth & Norfolk district
-ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_bristol,Massachusetts Second Plymouth & Bristol district
-ocd-division/country:us/state:ma/sldu:1st_plymouth_and_bristol,Massachusetts First Plymouth & Bristol district
+ocd-division/country:us/state:ma/sldu:plymouth_and_norfolk,Massachusetts Plymouth & Norfolk district (obsolete)
+ocd-division/country:us/state:ma/sldu:1st_plymouth_and_norfolk,Massachusetts First Plymouth & Norfolk district
+ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_norfolk,Massachusetts Second Plymouth & Norfolk district
+ocd-division/country:us/state:ma/sldu:2nd_plymouth_and_bristol,Massachusetts Second Plymouth & Bristol district (obsolete)
+ocd-division/country:us/state:ma/sldu:1st_plymouth_and_bristol,Massachusetts First Plymouth & Bristol district (obsolete)
 ocd-division/country:us/state:ma/sldu:1st_bristol_and_plymouth,Massachusetts First Bristol & Plymouth district
 ocd-division/country:us/state:ma/sldu:2nd_bristol_and_plymouth,Massachusetts Second Bristol & Plymouth district
+ocd-division/country:us/state:ma/sldu:3rd_bristol_and_plymouth,Massachusetts Third Bristol & Plymouth district
 ocd-division/country:us/state:ma/sldu:plymouth_and_barnstable,Massachusetts Plymouth & Barnstable district
 ocd-division/country:us/state:ma/sldu:cape_and_islands,Massachusetts Cape & Islands district
 ocd-division/country:us/state:mi/sldu:1,Michigan State Senate district 1
