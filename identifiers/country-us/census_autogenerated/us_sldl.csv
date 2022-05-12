@@ -1796,13 +1796,27 @@ ocd-division/country:us/state:me/sldl:148,Maine State House district 148
 ocd-division/country:us/state:me/sldl:149,Maine State House district 149
 ocd-division/country:us/state:me/sldl:150,Maine State House district 150
 ocd-division/country:us/state:me/sldl:151,Maine State House district 151
+ocd-division/country:us/state:md/sldl:1a,Maryland State Legislative Subdistrict 1A
+ocd-division/country:us/state:md/sldl:1b,Maryland State Legislative Subdistrict 1B
+ocd-division/country:us/state:md/sldl:1c,Maryland State Legislative Subdistrict 1C
+ocd-division/country:us/state:md/sldl:2a,Maryland State Legislative Subdistrict 2A
+ocd-division/country:us/state:md/sldl:2b,Maryland State Legislative Subdistrict 2B
+ocd-division/country:us/state:md/sldl:3,Maryland State Legislative district 3
+ocd-division/country:us/state:md/sldl:3a,Maryland State Legislative Subdistrict 3A
+ocd-division/country:us/state:md/sldl:3b,Maryland State Legislative Subdistrict 3B
 ocd-division/country:us/state:md/sldl:4,Maryland State Legislative district 4
 ocd-division/country:us/state:md/sldl:5,Maryland State Legislative district 5
 ocd-division/country:us/state:md/sldl:6,Maryland State Legislative district 6
-ocd-division/country:us/state:md/sldl:7,Maryland State Legislative district 7
+ocd-division/country:us/state:md/sldl:7,Maryland State Legislative district 7 (obsolete)
+ocd-division/country:us/state:md/sldl:7a,Maryland State Legislative Subdistrict 7A
+ocd-division/country:us/state:md/sldl:7b,Maryland State Legislative Subdistrict 7B
 ocd-division/country:us/state:md/sldl:8,Maryland State Legislative district 8
+ocd-division/country:us/state:md/sldl:9a,Maryland State Legislative Subdistrict 9A
+ocd-division/country:us/state:md/sldl:9b,Maryland State Legislative Subdistrict 9B
 ocd-division/country:us/state:md/sldl:10,Maryland State Legislative district 10
 ocd-division/country:us/state:md/sldl:11,Maryland State Legislative district 11
+ocd-division/country:us/state:md/sldl:11a,Maryland State Legislative Subdistrict 11A
+ocd-division/country:us/state:md/sldl:11b,Maryland State Legislative Subdistrict 11B
 ocd-division/country:us/state:md/sldl:12,Maryland State Legislative district 12
 ocd-division/country:us/state:md/sldl:13,Maryland State Legislative district 13
 ocd-division/country:us/state:md/sldl:14,Maryland State Legislative district 14
@@ -1811,36 +1825,19 @@ ocd-division/country:us/state:md/sldl:16,Maryland State Legislative district 16
 ocd-division/country:us/state:md/sldl:17,Maryland State Legislative district 17
 ocd-division/country:us/state:md/sldl:18,Maryland State Legislative district 18
 ocd-division/country:us/state:md/sldl:19,Maryland State Legislative district 19
-ocd-division/country:us/state:md/sldl:1a,Maryland State Legislative Subdistrict 1A
-ocd-division/country:us/state:md/sldl:1b,Maryland State Legislative Subdistrict 1B
-ocd-division/country:us/state:md/sldl:1c,Maryland State Legislative Subdistrict 1C
 ocd-division/country:us/state:md/sldl:20,Maryland State Legislative district 20
 ocd-division/country:us/state:md/sldl:21,Maryland State Legislative district 21
 ocd-division/country:us/state:md/sldl:22,Maryland State Legislative district 22
+ocd-division/country:us/state:md/sldl:23,Maryland State Legislative district 23
+ocd-division/country:us/state:md/sldl:23a,Maryland State Legislative Subdistrict 23A
+ocd-division/country:us/state:md/sldl:23b,Maryland State Legislative Subdistrict 23B
 ocd-division/country:us/state:md/sldl:24,Maryland State Legislative district 24
 ocd-division/country:us/state:md/sldl:25,Maryland State Legislative district 25
 ocd-division/country:us/state:md/sldl:26,Maryland State Legislative district 26
-ocd-division/country:us/state:md/sldl:28,Maryland State Legislative district 28
-ocd-division/country:us/state:md/sldl:2a,Maryland State Legislative Subdistrict 2A
-ocd-division/country:us/state:md/sldl:2b,Maryland State Legislative Subdistrict 2B
-ocd-division/country:us/state:md/sldl:32,Maryland State Legislative district 32
-ocd-division/country:us/state:md/sldl:33,Maryland State Legislative district 33
-ocd-division/country:us/state:md/sldl:36,Maryland State Legislative district 36
-ocd-division/country:us/state:md/sldl:39,Maryland State Legislative district 39
-ocd-division/country:us/state:md/sldl:3a,Maryland State Legislative Subdistrict 3A
-ocd-division/country:us/state:md/sldl:3b,Maryland State Legislative Subdistrict 3B
-ocd-division/country:us/state:md/sldl:40,Maryland State Legislative district 40
-ocd-division/country:us/state:md/sldl:41,Maryland State Legislative district 41
-ocd-division/country:us/state:md/sldl:43,Maryland State Legislative district 43
-ocd-division/country:us/state:md/sldl:45,Maryland State Legislative district 45
-ocd-division/country:us/state:md/sldl:46,Maryland State Legislative district 46
-ocd-division/country:us/state:md/sldl:9a,Maryland State Legislative Subdistrict 9A
-ocd-division/country:us/state:md/sldl:9b,Maryland State Legislative Subdistrict 9B
-ocd-division/country:us/state:md/sldl:23a,Maryland State Legislative Subdistrict 23A
-ocd-division/country:us/state:md/sldl:23b,Maryland State Legislative Subdistrict 23B
 ocd-division/country:us/state:md/sldl:27a,Maryland State Legislative Subdistrict 27A
 ocd-division/country:us/state:md/sldl:27b,Maryland State Legislative Subdistrict 27B
 ocd-division/country:us/state:md/sldl:27c,Maryland State Legislative Subdistrict 27C
+ocd-division/country:us/state:md/sldl:28,Maryland State Legislative district 28
 ocd-division/country:us/state:md/sldl:29a,Maryland State Legislative Subdistrict 29A
 ocd-division/country:us/state:md/sldl:29b,Maryland State Legislative Subdistrict 29B
 ocd-division/country:us/state:md/sldl:29c,Maryland State Legislative Subdistrict 29C
@@ -1848,19 +1845,34 @@ ocd-division/country:us/state:md/sldl:30a,Maryland State Legislative Subdistrict
 ocd-division/country:us/state:md/sldl:30b,Maryland State Legislative Subdistrict 30B
 ocd-division/country:us/state:md/sldl:31a,Maryland State Legislative Subdistrict 31A
 ocd-division/country:us/state:md/sldl:31b,Maryland State Legislative Subdistrict 31B
+ocd-division/country:us/state:md/sldl:32,Maryland State Legislative district 32
+ocd-division/country:us/state:md/sldl:33,Maryland State Legislative district 33 (obsolete)
+ocd-division/country:us/state:md/sldl:33a,Maryland State Legislative Subdistrict 33A
+ocd-division/country:us/state:md/sldl:33b,Maryland State Legislative Subdistrict 33B
+ocd-division/country:us/state:md/sldl:33c,Maryland State Legislative Subdistrict 33C
 ocd-division/country:us/state:md/sldl:34a,Maryland State Legislative Subdistrict 34A
 ocd-division/country:us/state:md/sldl:34b,Maryland State Legislative Subdistrict 34B
 ocd-division/country:us/state:md/sldl:35a,Maryland State Legislative Subdistrict 35A
 ocd-division/country:us/state:md/sldl:35b,Maryland State Legislative Subdistrict 35B
+ocd-division/country:us/state:md/sldl:36,Maryland State Legislative district 36
 ocd-division/country:us/state:md/sldl:37a,Maryland State Legislative Subdistrict 37A
 ocd-division/country:us/state:md/sldl:37b,Maryland State Legislative Subdistrict 37B
 ocd-division/country:us/state:md/sldl:38a,Maryland State Legislative Subdistrict 38A
 ocd-division/country:us/state:md/sldl:38b,Maryland State Legislative Subdistrict 38B
 ocd-division/country:us/state:md/sldl:38c,Maryland State Legislative Subdistrict 38C
+ocd-division/country:us/state:md/sldl:39,Maryland State Legislative district 39
+ocd-division/country:us/state:md/sldl:40,Maryland State Legislative district 40
+ocd-division/country:us/state:md/sldl:41,Maryland State Legislative district 41
 ocd-division/country:us/state:md/sldl:42a,Maryland State Legislative Subdistrict 42A
 ocd-division/country:us/state:md/sldl:42b,Maryland State Legislative Subdistrict 42B
+ocd-division/country:us/state:md/sldl:42c,Maryland State Legislative Subdistrict 42C
+ocd-division/country:us/state:md/sldl:43,Maryland State Legislative district 43 (obsolete)
+ocd-division/country:us/state:md/sldl:43a,Maryland State Legislative Subdistrict 43A
+ocd-division/country:us/state:md/sldl:43b,Maryland State Legislative Subdistrict 43B
 ocd-division/country:us/state:md/sldl:44a,Maryland State Legislative Subdistrict 44A
 ocd-division/country:us/state:md/sldl:44b,Maryland State Legislative Subdistrict 44B
+ocd-division/country:us/state:md/sldl:45,Maryland State Legislative district 45
+ocd-division/country:us/state:md/sldl:46,Maryland State Legislative district 46
 ocd-division/country:us/state:md/sldl:47a,Maryland State Legislative Subdistrict 47A
 ocd-division/country:us/state:md/sldl:47b,Maryland State Legislative Subdistrict 47B
 ocd-division/country:us/state:ma/sldl:1st_barnstable,Massachusetts 1st Barnstable district
@@ -4869,8 +4881,6 @@ ocd-division/country:us/state:md/sldl:5a,Maryland State Legislative Subdistrict 
 ocd-division/country:us/state:md/sldl:5b,Maryland State Legislative Subdistrict 5B (obsolete)
 ocd-division/country:us/state:md/sldl:12a,Maryland State Legislative Subdistrict 12A (obsolete)
 ocd-division/country:us/state:md/sldl:12b,Maryland State Legislative Subdistrict 12B (obsolete)
-ocd-division/country:us/state:md/sldl:33a,Maryland State Legislative Subdistrict 33A (obsolete)
-ocd-division/country:us/state:md/sldl:33b,Maryland State Legislative Subdistrict 33B (obsolete)
 ocd-division/country:us/state:vt/sldl:chittenden-3-10,Vermont Chittenden-3-10 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:addison-rutland-1,Vermont Addison-Rutland-1 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:bennington-5,Vermont Bennington-5 State House district (obsolete)
