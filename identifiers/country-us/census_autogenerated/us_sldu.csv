@@ -1778,12 +1778,18 @@ ocd-division/country:us/state:ut/sldu:29,Utah State Senate district 29
 ocd-division/country:us/state:vt/sldu:addison,Vermont Addison State Senate district
 ocd-division/country:us/state:vt/sldu:bennington,Vermont Bennington State Senate district
 ocd-division/country:us/state:vt/sldu:caledonia,Vermont Caledonia State Senate district
-ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Vermont Grand-Isle-Chittenden State Senate district
-ocd-division/country:us/state:vt/sldu:chittenden,Vermont Chittenden State Senate district
-ocd-division/country:us/state:vt/sldu:essex-orleans,Vermont Essex-Orleans State Senate district
+ocd-division/country:us/state:vt/sldu:grand_isle,Vermont Grand Isle State Senate district
+ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Vermont Grand-Isle-Chittenden State Senate district (obsolete)
+ocd-division/country:us/state:vt/sldu:chittenden,Vermont Chittenden State Senate district (obsolete)
+ocd-division/country:us/state:vt/sldu:chittenden_central,Vermont Chittenden Central State Senate district
+ocd-division/country:us/state:vt/sldu:chittenden_north,Vermont Chittenden North State Senate district
+ocd-division/country:us/state:vt/sldu:chittenden_southeast,Vermont Chittenden Southeast State Senate district
+ocd-division/country:us/state:vt/sldu:essex,Vermont Essex State Senate district
+ocd-division/country:us/state:vt/sldu:essex-orleans,Vermont Essex-Orleans State Senate district (obsolete)
 ocd-division/country:us/state:vt/sldu:franklin,Vermont Franklin State Senate district
 ocd-division/country:us/state:vt/sldu:lamoille,Vermont Lamoille State Senate district
 ocd-division/country:us/state:vt/sldu:orange,Vermont Orange State Senate district
+ocd-division/country:us/state:vt/sldu:orleans,Vermont Orleans State Senate district
 ocd-division/country:us/state:vt/sldu:rutland,Vermont Rutland State Senate district
 ocd-division/country:us/state:vt/sldu:washington,Vermont Washington State Senate district
 ocd-division/country:us/state:vt/sldu:windham,Vermont Windham State Senate district
@@ -1992,5 +1998,4 @@ ocd-division/country:us/state:nv/sldu:washoe_county_4,Nevada Washoe County Senat
 ocd-division/country:us/state:nv/sldu:capital,Nevada Capital Senatorial district (obsolete)
 ocd-division/country:us/state:nv/sldu:central_nevada,Nevada Central Nevada Senatorial district (obsolete)
 ocd-division/country:us/state:nv/sldu:rural_nevada,Nevada Rural Nevada Senatorial district (obsolete)
-ocd-division/country:us/state:vt/sldu:grand_isle,Vermont Grand Isle State Senate district (obsolete)
 ocd-division/country:us/state:wv/sldu:817,West Virginia State Senate district 817 (obsolete)
