@@ -4325,50 +4325,75 @@ ocd-division/country:us/state:vt/sldl:addison-4,Vermont Addison-4 State House di
 ocd-division/country:us/state:vt/sldl:addison-5,Vermont Addison-5 State House district
 ocd-division/country:us/state:vt/sldl:addison-rutland,Vermont Addison-Rutland State House district
 ocd-division/country:us/state:vt/sldl:bennington-1,Vermont Bennington-1 State House district
+ocd-division/country:us/state:vt/sldl:bennington-2,Vermont Bennington-2 State House district
 ocd-division/country:us/state:vt/sldl:bennington-3,Vermont Bennington-3 State House district
 ocd-division/country:us/state:vt/sldl:bennington-4,Vermont Bennington-4 State House district
 ocd-division/country:us/state:vt/sldl:bennington-rutland,Vermont Bennington-Rutland State House district
-ocd-division/country:us/state:vt/sldl:bennington-2-1,Vermont Bennington-2-1 State House district
-ocd-division/country:us/state:vt/sldl:bennington-2-2,Vermont Bennington-2-2 State House district
+ocd-division/country:us/state:vt/sldl:bennington-2-1,Vermont Bennington-2-1 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:bennington-2-2,Vermont Bennington-2-2 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:chittenden-1,Vermont Chittenden-1 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-2,Vermont Chittenden-2 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-3,Vermont Chittenden-3 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-4,Vermont Chittenden-4 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-5,Vermont Chittenden-5 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-6,Vermont Chittenden-6 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-7,Vermont Chittenden-7 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-8,Vermont Chittenden-8 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-9,Vermont Chittenden-9 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-10,Vermont Chittenden-10 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-4-1,Vermont Chittenden-4-1 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-4-2,Vermont Chittenden-4-2 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-5-1,Vermont Chittenden-5-1 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-5-2,Vermont Chittenden-5-2 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-6-1,Vermont Chittenden-6-1 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-6-2,Vermont Chittenden-6-2 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-6-3,Vermont Chittenden-6-3 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-6-4,Vermont Chittenden-6-4 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-6-5,Vermont Chittenden-6-5 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-6-6,Vermont Chittenden-6-6 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-6-7,Vermont Chittenden-6-7 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-7-1,Vermont Chittenden-7-1 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-7-2,Vermont Chittenden-7-2 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-7-3,Vermont Chittenden-7-3 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-7-4,Vermont Chittenden-7-4 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-8-1,Vermont Chittenden-8-1 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-8-2,Vermont Chittenden-8-2 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-8-3,Vermont Chittenden-8-3 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-9-1,Vermont Chittenden-9-1 State House district
-ocd-division/country:us/state:vt/sldl:chittenden-9-2,Vermont Chittenden-9-2 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-11,Vermont Chittenden-11 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-12,Vermont Chittenden-12 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-13,Vermont Chittenden-13 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-14,Vermont Chittenden-14 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-15,Vermont Chittenden-15 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-16,Vermont Chittenden-16 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-17,Vermont Chittenden-17 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-18,Vermont Chittenden-18 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-19,Vermont Chittenden-19 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-20,Vermont Chittenden-20 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-21,Vermont Chittenden-21 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-22,Vermont Chittenden-22 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-23,Vermont Chittenden-23 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-24,Vermont Chittenden-24 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-25,Vermont Chittenden-25 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-4-1,Vermont Chittenden-4-1 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-4-2,Vermont Chittenden-4-2 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-5-1,Vermont Chittenden-5-1 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-5-2,Vermont Chittenden-5-2 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-6-1,Vermont Chittenden-6-1 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-6-2,Vermont Chittenden-6-2 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-6-3,Vermont Chittenden-6-3 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-6-4,Vermont Chittenden-6-4 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-6-5,Vermont Chittenden-6-5 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-6-6,Vermont Chittenden-6-6 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-6-7,Vermont Chittenden-6-7 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-7-1,Vermont Chittenden-7-1 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-7-2,Vermont Chittenden-7-2 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-7-3,Vermont Chittenden-7-3 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-7-4,Vermont Chittenden-7-4 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-8-1,Vermont Chittenden-8-1 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-8-2,Vermont Chittenden-8-2 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-8-3,Vermont Chittenden-8-3 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-9-1,Vermont Chittenden-9-1 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-9-2,Vermont Chittenden-9-2 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:chittenden-franklin,Vermont Chittenden-Franklin State House district
 ocd-division/country:us/state:vt/sldl:caledonia-1,Vermont Caledonia-1 State House district
 ocd-division/country:us/state:vt/sldl:caledonia-2,Vermont Caledonia-2 State House district
 ocd-division/country:us/state:vt/sldl:caledonia-3,Vermont Caledonia-3 State House district
 ocd-division/country:us/state:vt/sldl:caledonia-4,Vermont Caledonia-4 State House district
 ocd-division/country:us/state:vt/sldl:caledonia-washington,Vermont Caledonia-Washington State House district
 ocd-division/country:us/state:vt/sldl:essex-caledonia,Vermont Essex-Caledonia State House district
-ocd-division/country:us/state:vt/sldl:essex-caledonia-orleans,Vermont Essex-Caledonia-Orleans State House district
+ocd-division/country:us/state:vt/sldl:essex-orleans,Vermont Essex-Orleans State House district
+ocd-division/country:us/state:vt/sldl:essex-caledonia-orleans,Vermont Essex-Caledonia-Orleans State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:franklin-1,Vermont Franklin-1 State House district
 ocd-division/country:us/state:vt/sldl:franklin-2,Vermont Franklin-2 State House district
 ocd-division/country:us/state:vt/sldl:franklin-4,Vermont Franklin-4 State House district
 ocd-division/country:us/state:vt/sldl:franklin-5,Vermont Franklin-5 State House district
 ocd-division/country:us/state:vt/sldl:franklin-6,Vermont Franklin-6 State House district
 ocd-division/country:us/state:vt/sldl:franklin-7,Vermont Franklin-7 State House district
-ocd-division/country:us/state:vt/sldl:franklin-3-1,Vermont Franklin-3-1 State House district
-ocd-division/country:us/state:vt/sldl:franklin-3-2,Vermont Franklin-3-2 State House district
+ocd-division/country:us/state:vt/sldl:franklin-8,Vermont Franklin-8 State House district
+ocd-division/country:us/state:vt/sldl:franklin-3-1,Vermont Franklin-3-1 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:franklin-3-2,Vermont Franklin-3-2 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:grand_isle-chittenden,Vermont Grand-Isle-Chittenden State House district
 ocd-division/country:us/state:vt/sldl:lamoille-1,Vermont Lamoille-1 State House district
 ocd-division/country:us/state:vt/sldl:lamoille-2,Vermont Lamoille-2 State House district
@@ -4376,32 +4401,45 @@ ocd-division/country:us/state:vt/sldl:lamoille-3,Vermont Lamoille-3 State House 
 ocd-division/country:us/state:vt/sldl:lamoille-washington,Vermont Lamoille-Washington State House district
 ocd-division/country:us/state:vt/sldl:orleans-1,Vermont Orleans-1 State House district
 ocd-division/country:us/state:vt/sldl:orleans-2,Vermont Orleans-2 State House district
+ocd-division/country:us/state:vt/sldl:orleans-3,Vermont Orleans-3 State House district
+ocd-division/country:us/state:vt/sldl:orleans-4,Vermont Orleans-4 State House district
 ocd-division/country:us/state:vt/sldl:orange-caledonia,Vermont Orange-Caledonia State House district
 ocd-division/country:us/state:vt/sldl:orleans-lamoille,Vermont Orleans-Lamoille State House district
 ocd-division/country:us/state:vt/sldl:orleans-caledonia,Vermont Orleans-Caledonia State House district
 ocd-division/country:us/state:vt/sldl:orange-1,Vermont Orange-1 State House district
 ocd-division/country:us/state:vt/sldl:orange-2,Vermont Orange-2 State House district
+ocd-division/country:us/state:vt/sldl:orange-3,Vermont Orange-3 State House district
 ocd-division/country:us/state:vt/sldl:orange-washington-addison,Vermont Orange-Washington-Addison State House district
 ocd-division/country:us/state:vt/sldl:rutland-1,Vermont Rutland-1 State House district
 ocd-division/country:us/state:vt/sldl:rutland-2,Vermont Rutland-2 State House district
 ocd-division/country:us/state:vt/sldl:rutland-3,Vermont Rutland-3 State House district
 ocd-division/country:us/state:vt/sldl:rutland-4,Vermont Rutland-4 State House district
+ocd-division/country:us/state:vt/sldl:rutland-5,Vermont Rutland-5 State House district
 ocd-division/country:us/state:vt/sldl:rutland-6,Vermont Rutland-6 State House district
+ocd-division/country:us/state:vt/sldl:rutland-7,Vermont Rutland-7 State House district
+ocd-division/country:us/state:vt/sldl:rutland-8,Vermont Rutland-8 State House district
+ocd-division/country:us/state:vt/sldl:rutland-9,Vermont Rutland-9 State House district
+ocd-division/country:us/state:vt/sldl:rutland-10,Vermont Rutland-10 State House district
+ocd-division/country:us/state:vt/sldl:rutland-11,Vermont Rutland-11 State House district
 ocd-division/country:us/state:vt/sldl:rutland-bennington,Vermont Rutland-Bennington State House district
-ocd-division/country:us/state:vt/sldl:rutland-windsor-1,Vermont Rutland-Windsor-1 State House district
-ocd-division/country:us/state:vt/sldl:rutland-5-1,Vermont Rutland-5-1 State House district
-ocd-division/country:us/state:vt/sldl:rutland-5-2,Vermont Rutland-5-2 State House district
-ocd-division/country:us/state:vt/sldl:rutland-5-3,Vermont Rutland-5-3 State House district
-ocd-division/country:us/state:vt/sldl:rutland-5-4,Vermont Rutland-5-4 State House district
-ocd-division/country:us/state:vt/sldl:rutland-windsor-2,Vermont Rutland-Windsor-2 State House district
+ocd-division/country:us/state:vt/sldl:rutland-windsor,Vermont Rutland-Windsor State House district
+ocd-division/country:us/state:vt/sldl:rutland-windsor-1,Vermont Rutland-Windsor-1 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:rutland-5-1,Vermont Rutland-5-1 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:rutland-5-2,Vermont Rutland-5-2 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:rutland-5-3,Vermont Rutland-5-3 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:rutland-5-4,Vermont Rutland-5-4 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:rutland-windsor-2,Vermont Rutland-Windsor-2 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:windham-1,Vermont Windham-1 State House district
 ocd-division/country:us/state:vt/sldl:windham-3,Vermont Windham-3 State House district
 ocd-division/country:us/state:vt/sldl:windham-4,Vermont Windham-4 State House district
 ocd-division/country:us/state:vt/sldl:windham-5,Vermont Windham-5 State House district
 ocd-division/country:us/state:vt/sldl:windham-6,Vermont Windham-6 State House district
-ocd-division/country:us/state:vt/sldl:windham-2-1,Vermont Windham-2-1 State House district
-ocd-division/country:us/state:vt/sldl:windham-2-2,Vermont Windham-2-2 State House district
-ocd-division/country:us/state:vt/sldl:windham-2-3,Vermont Windham-2-3 State House district
+ocd-division/country:us/state:vt/sldl:windham-7,Vermont Windham-7 State House district
+ocd-division/country:us/state:vt/sldl:windham-8,Vermont Windham-8 State House district
+ocd-division/country:us/state:vt/sldl:windham-9,Vermont Windham-9 State House district
+ocd-division/country:us/state:vt/sldl:windham-2-1,Vermont Windham-2-1 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:windham-2-2,Vermont Windham-2-2 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:windham-2-3,Vermont Windham-2-3 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:washington-1,Vermont Washington-1 State House district
 ocd-division/country:us/state:vt/sldl:washington-2,Vermont Washington-2 State House district
 ocd-division/country:us/state:vt/sldl:washington-3,Vermont Washington-3 State House district
@@ -4410,16 +4448,18 @@ ocd-division/country:us/state:vt/sldl:washington-5,Vermont Washington-5 State Ho
 ocd-division/country:us/state:vt/sldl:washington-6,Vermont Washington-6 State House district
 ocd-division/country:us/state:vt/sldl:washington-7,Vermont Washington-7 State House district
 ocd-division/country:us/state:vt/sldl:washington-chittenden,Vermont Washington-Chittenden State House district
+ocd-division/country:us/state:vt/sldl:washington-orange,Vermont Washington-Orange State House district
 ocd-division/country:us/state:vt/sldl:windham-bennington-windsor,Vermont Windham-Bennington-Windsor State House district
 ocd-division/country:us/state:vt/sldl:windham-bennington,Vermont Windham-Bennington State House district
 ocd-division/country:us/state:vt/sldl:windsor-1,Vermont Windsor-1 State House district
 ocd-division/country:us/state:vt/sldl:windsor-2,Vermont Windsor-2 State House district
 ocd-division/country:us/state:vt/sldl:windsor-5,Vermont Windsor-5 State House district
+ocd-division/country:us/state:vt/sldl:windsor-6,Vermont Windsor-6 State House district
 ocd-division/country:us/state:vt/sldl:windsor-rutland,Vermont Windsor-Rutland State House district
-ocd-division/country:us/state:vt/sldl:windsor-3-1,Vermont Windsor-3-1 State House district
-ocd-division/country:us/state:vt/sldl:windsor-3-2,Vermont Windsor-3-2 State House district
-ocd-division/country:us/state:vt/sldl:windsor-4-1,Vermont Windsor-4-1 State House district
-ocd-division/country:us/state:vt/sldl:windsor-4-2,Vermont Windsor-4-2 State House district
+ocd-division/country:us/state:vt/sldl:windsor-3-1,Vermont Windsor-3-1 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:windsor-3-2,Vermont Windsor-3-2 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:windsor-4-1,Vermont Windsor-4-1 State House district (obsolete)
+ocd-division/country:us/state:vt/sldl:windsor-4-2,Vermont Windsor-4-2 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:windsor-orange-1,Vermont Windsor-Orange-1 State House district
 ocd-division/country:us/state:vt/sldl:windsor-orange-2,Vermont Windsor-Orange-2 State House district
 ocd-division/country:us/state:va/sldl:1,Virginia State House district 1
@@ -4853,9 +4893,6 @@ ocd-division/country:us/state:vt/sldl:chittenden-3-10,Vermont Chittenden-3-10 St
 ocd-division/country:us/state:vt/sldl:addison-rutland-1,Vermont Addison-Rutland-1 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:bennington-5,Vermont Bennington-5 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:bennington-rutland-1,Vermont Bennington-Rutland-1 State House district (obsolete)
-ocd-division/country:us/state:vt/sldl:chittenden-4,Vermont Chittenden-4 State House district (obsolete)
-ocd-division/country:us/state:vt/sldl:chittenden-8,Vermont Chittenden-8 State House district (obsolete)
-ocd-division/country:us/state:vt/sldl:chittenden-9,Vermont Chittenden-9 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:chittenden-1-1,Vermont Chittenden-1-1 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:chittenden-1-2,Vermont Chittenden-1-2 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:chittenden-3-1,Vermont Chittenden-3-1 State House district (obsolete)
@@ -4878,8 +4915,6 @@ ocd-division/country:us/state:vt/sldl:orange-addison-1,Vermont Orange-Addison-1 
 ocd-division/country:us/state:vt/sldl:orange-caledonia-1,Vermont Orange-Caledonia-1 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:orleans-caledonia-1,Vermont Orleans-Caledonia-1 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:orleans-franklin-1,Vermont Orleans-Franklin-1 State House district (obsolete)
-ocd-division/country:us/state:vt/sldl:rutland-7,Vermont Rutland-7 State House district (obsolete)
-ocd-division/country:us/state:vt/sldl:rutland-8,Vermont Rutland-8 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:rutland-1-1,Vermont Rutland-1-1 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:rutland-1-2,Vermont Rutland-1-2 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:washington-3-1,Vermont Washington-3-1 State House district (obsolete)
