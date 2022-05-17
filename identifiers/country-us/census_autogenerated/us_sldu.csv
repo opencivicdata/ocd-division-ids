@@ -1672,9 +1672,13 @@ ocd-division/country:us/state:sd/sldu:22,South Dakota State Senate district 22
 ocd-division/country:us/state:sd/sldu:23,South Dakota State Senate district 23
 ocd-division/country:us/state:sd/sldu:24,South Dakota State Senate district 24
 ocd-division/country:us/state:sd/sldu:25,South Dakota State Senate district 25
-ocd-division/country:us/state:sd/sldu:26,South Dakota State Senate district 26
+ocd-division/country:us/state:sd/sldu:26,South Dakota State Senate district 26 (obsolete)
+ocd-division/country:us/state:sd/sldu:26a,South Dakota State Senate district 26A
+ocd-division/country:us/state:sd/sldu:26b,South Dakota State Senate district 26B
 ocd-division/country:us/state:sd/sldu:27,South Dakota State Senate district 27
-ocd-division/country:us/state:sd/sldu:28,South Dakota State Senate district 28
+ocd-division/country:us/state:sd/sldu:28,South Dakota State Senate district 28 (obsolete)
+ocd-division/country:us/state:sd/sldu:28a,South Dakota State Senate district 28A
+ocd-division/country:us/state:sd/sldu:28b,South Dakota State Senate district 28B
 ocd-division/country:us/state:sd/sldu:29,South Dakota State Senate district 29
 ocd-division/country:us/state:sd/sldu:30,South Dakota State Senate district 30
 ocd-division/country:us/state:sd/sldu:31,South Dakota State Senate district 31
