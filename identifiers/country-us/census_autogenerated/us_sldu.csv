@@ -1358,12 +1358,16 @@ ocd-division/country:us/state:nc/sldu:50,North Carolina State Senate district 50
 ocd-division/country:us/state:nd/sldu:1,North Dakota State Senate district 1
 ocd-division/country:us/state:nd/sldu:2,North Dakota State Senate district 2
 ocd-division/country:us/state:nd/sldu:3,North Dakota State Senate district 3
-ocd-division/country:us/state:nd/sldu:4,North Dakota State Senate district 4
+ocd-division/country:us/state:nd/sldu:4,North Dakota State Senate district 4 (obsolete)
+ocd-division/country:us/state:nd/sldu:4a,North Dakota State Senate district 4A
+ocd-division/country:us/state:nd/sldu:4b,North Dakota State Senate district 4B
 ocd-division/country:us/state:nd/sldu:5,North Dakota State Senate district 5
 ocd-division/country:us/state:nd/sldu:6,North Dakota State Senate district 6
 ocd-division/country:us/state:nd/sldu:7,North Dakota State Senate district 7
 ocd-division/country:us/state:nd/sldu:8,North Dakota State Senate district 8
-ocd-division/country:us/state:nd/sldu:9,North Dakota State Senate district 9
+ocd-division/country:us/state:nd/sldu:9,North Dakota State Senate district 9 (obsolete)
+ocd-division/country:us/state:nd/sldu:9a,North Dakota State Senate district 9A
+ocd-division/country:us/state:nd/sldu:9b,North Dakota State Senate district 9B
 ocd-division/country:us/state:nd/sldu:10,North Dakota State Senate district 10
 ocd-division/country:us/state:nd/sldu:11,North Dakota State Senate district 11
 ocd-division/country:us/state:nd/sldu:12,North Dakota State Senate district 12

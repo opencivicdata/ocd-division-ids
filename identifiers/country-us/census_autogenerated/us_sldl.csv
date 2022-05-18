@@ -3251,12 +3251,16 @@ ocd-division/country:us/state:nc/sldl:120,North Carolina State House district 12
 ocd-division/country:us/state:nd/sldl:1,North Dakota State House district 1
 ocd-division/country:us/state:nd/sldl:2,North Dakota State House district 2
 ocd-division/country:us/state:nd/sldl:3,North Dakota State House district 3
-ocd-division/country:us/state:nd/sldl:4,North Dakota State House district 4
+ocd-division/country:us/state:nd/sldl:4,North Dakota State House district 4 (obsolete)
+ocd-division/country:us/state:nd/sldl:4a,North Dakota State House district 4A
+ocd-division/country:us/state:nd/sldl:4b,North Dakota State House district 4B
 ocd-division/country:us/state:nd/sldl:5,North Dakota State House district 5
 ocd-division/country:us/state:nd/sldl:6,North Dakota State House district 6
 ocd-division/country:us/state:nd/sldl:7,North Dakota State House district 7
 ocd-division/country:us/state:nd/sldl:8,North Dakota State House district 8
-ocd-division/country:us/state:nd/sldl:9,North Dakota State House district 9
+ocd-division/country:us/state:nd/sldl:9,North Dakota State House district 9 (obsolete)
+ocd-division/country:us/state:nd/sldl:9a,North Dakota State House district 9A
+ocd-division/country:us/state:nd/sldl:9b,North Dakota State House district 9B
 ocd-division/country:us/state:nd/sldl:10,North Dakota State House district 10
 ocd-division/country:us/state:nd/sldl:11,North Dakota State House district 11
 ocd-division/country:us/state:nd/sldl:12,North Dakota State House district 12
