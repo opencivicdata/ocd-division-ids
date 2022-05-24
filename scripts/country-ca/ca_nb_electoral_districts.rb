@@ -10,7 +10,7 @@ class NB < Runner
     # Also available as inconsistently formatted lists.
     # @see http://www2.gnb.ca/content/gnb/fr/contacts/dept_renderer.154.html#structure
     ShapefileParser.new(
-      "https://geonb.snb.ca/downloads/prov_electoral_districts/geonb_2014_ped-cep_shp.zip",
+      "https://www.electionsnb.ca/content/dam/enb/pdf/2016PEDMaps-CEPCartes/Provincial_Electoral_Districts_2018.zip",
       "province:nb/ed:", {
         :id => "DIST_ID",
         :name => "PED_Name_E",
