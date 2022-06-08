@@ -64,6 +64,9 @@ ocd-division/country:us/state:ne/county:clay/council_district:4,Clay County Supe
 ocd-division/country:us/state:ne/county:clay/council_district:5,Clay County Supervisor District 5
 ocd-division/country:us/state:ne/county:clay/council_district:6,Clay County Supervisor District 6
 ocd-division/country:us/state:ne/county:clay/council_district:7,Clay County Supervisor District 7
+ocd-division/country:us/state:ne/county:colfax/council_district:1,Colfax County Commission District 1
+ocd-division/country:us/state:ne/county:colfax/council_district:2,Colfax County Commission District 2
+ocd-division/country:us/state:ne/county:colfax/council_district:3,Colfax County Commission District 3
 ocd-division/country:us/state:ne/county:cuming/council_district:1,Cuming County Supervisor District 1
 ocd-division/country:us/state:ne/county:cuming/council_district:2,Cuming County Supervisor District 2
 ocd-division/country:us/state:ne/county:cuming/council_district:3,Cuming County Supervisor District 3
@@ -86,6 +89,16 @@ ocd-division/country:us/state:ne/county:dawson/council_district:2,Dawson County 
 ocd-division/country:us/state:ne/county:dawson/council_district:3,Dawson County Comission District 3
 ocd-division/country:us/state:ne/county:dawson/council_district:4,Dawson County Comission District 4
 ocd-division/country:us/state:ne/county:dawson/council_district:5,Dawson County Comission District 5
+ocd-division/country:us/state:ne/county:deuel/council_district:big_springs,Deuel County Commission District Big Springs
+ocd-division/country:us/state:ne/county:deuel/council_district:chappell,Deuel County Commission District Chappell
+ocd-division/country:us/state:ne/county:deuel/council_district:swan,Deuel County Commission District Swan
+ocd-division/country:us/state:ne/county:dixon/council_district:1,Dixon County Supervisor District 1
+ocd-division/country:us/state:ne/county:dixon/council_district:2,Dixon County Supervisor District 2
+ocd-division/country:us/state:ne/county:dixon/council_district:3,Dixon County Supervisor District 3
+ocd-division/country:us/state:ne/county:dixon/council_district:4,Dixon County Supervisor District 4
+ocd-division/country:us/state:ne/county:dixon/council_district:5,Dixon County Supervisor District 5
+ocd-division/country:us/state:ne/county:dixon/council_district:6,Dixon County Supervisor District 6
+ocd-division/country:us/state:ne/county:dixon/council_district:7,Dixon County Supervisor District 7
 ocd-division/country:us/state:ne/county:dodge/council_district:1,Dodge County Supervisor District 1
 ocd-division/country:us/state:ne/county:dodge/council_district:2,Dodge County Supervisor District 2
 ocd-division/country:us/state:ne/county:dodge/council_district:3,Dodge County Supervisor District 3
@@ -114,6 +127,9 @@ ocd-division/country:us/state:ne/county:franklin/council_district:4,Franklin Cou
 ocd-division/country:us/state:ne/county:franklin/council_district:5,Franklin County Supervisor District 5
 ocd-division/country:us/state:ne/county:franklin/council_district:6,Franklin County Supervisor District 6
 ocd-division/country:us/state:ne/county:franklin/council_district:7,Franklin County Supervisor District 7
+ocd-division/country:us/state:ne/county:furnas/council_district:1,Furnas County Commission District 1
+ocd-division/country:us/state:ne/county:furnas/council_district:2,Furnas County Commission District 2
+ocd-division/country:us/state:ne/county:furnas/council_district:3,Furnas County Commission District 3
 ocd-division/country:us/state:ne/county:gage/council_district:1,Gage County Supervisor District 1
 ocd-division/country:us/state:ne/county:gage/council_district:2,Gage County Supervisor District 2
 ocd-division/country:us/state:ne/county:gage/council_district:3,Gage County Supervisor District 3
@@ -152,6 +168,9 @@ ocd-division/country:us/state:ne/county:harlan/council_district:7,Harlan County 
 ocd-division/country:us/state:ne/county:hayes/council_district:1,Hayes County Comission District 1
 ocd-division/country:us/state:ne/county:hayes/council_district:2,Hayes County Comission District 2
 ocd-division/country:us/state:ne/county:hayes/council_district:3,Hayes County Comission District 3
+ocd-division/country:us/state:ne/county:hitchcock/council_district:1,Hitchcock County Commission District 1
+ocd-division/country:us/state:ne/county:hitchcock/council_district:2,Hitchcock County Commission District 2
+ocd-division/country:us/state:ne/county:hitchcock/council_district:3,Hitchcock County Commission District 3
 ocd-division/country:us/state:ne/county:holt/council_district:1,Holt County Supervisor District 1
 ocd-division/country:us/state:ne/county:holt/council_district:2,Holt County Supervisor District 2
 ocd-division/country:us/state:ne/county:holt/council_district:3,Holt County Supervisor District 3
@@ -159,6 +178,9 @@ ocd-division/country:us/state:ne/county:holt/council_district:4,Holt County Supe
 ocd-division/country:us/state:ne/county:holt/council_district:5,Holt County Supervisor District 5
 ocd-division/country:us/state:ne/county:holt/council_district:6,Holt County Supervisor District 6
 ocd-division/country:us/state:ne/county:holt/council_district:7,Holt County Supervisor District 7
+ocd-division/country:us/state:ne/county:howard/council_district:1,Howard County Commission District 1
+ocd-division/country:us/state:ne/county:howard/council_district:2,Howard County Commission District 2
+ocd-division/country:us/state:ne/county:howard/council_district:3,Howard County Commission District 3
 ocd-division/country:us/state:ne/county:jefferson/council_district:1,Jefferson County Comission District 1
 ocd-division/country:us/state:ne/county:jefferson/council_district:2,Jefferson County Comission District 2
 ocd-division/country:us/state:ne/county:jefferson/council_district:3,Jefferson County Comission District 3
@@ -172,6 +194,11 @@ ocd-division/country:us/state:ne/county:kearney/council_district:4,Kearney Count
 ocd-division/country:us/state:ne/county:kearney/council_district:5,Kearney County Supervisor District 5
 ocd-division/country:us/state:ne/county:kearney/council_district:6,Kearney County Supervisor District 6
 ocd-division/country:us/state:ne/county:kearney/council_district:7,Kearney County Supervisor District 7
+ocd-division/country:us/state:ne/county:keith/council_district:1,Keith County Commission District 1
+ocd-division/country:us/state:ne/county:keith/council_district:2,Keith County Commission District 2
+ocd-division/country:us/state:ne/county:keith/council_district:3,Keith County Commission District 3
+ocd-division/country:us/state:ne/county:keith/council_district:4,Keith County Commission District 4
+ocd-division/country:us/state:ne/county:keith/council_district:5,Keith County Commission District 5
 ocd-division/country:us/state:ne/county:knox/council_district:1,Knox County Supervisor District 1
 ocd-division/country:us/state:ne/county:knox/council_district:2,Knox County Supervisor District 2
 ocd-division/country:us/state:ne/county:knox/council_district:3,Knox County Supervisor District 3
@@ -187,6 +214,12 @@ ocd-division/country:us/state:ne/county:lancaster/council_district:5,Lancaster C
 ocd-division/country:us/state:ne/county:lincoln/council_district:1,Lincoln County Comission District 1
 ocd-division/country:us/state:ne/county:lincoln/council_district:2,Lincoln County Comission District 2
 ocd-division/country:us/state:ne/county:lincoln/council_district:3,Lincoln County Comission District 3
+ocd-division/country:us/state:ne/county:lincoln/council_district:4,Lincoln County Commission District 4
+ocd-division/country:us/state:ne/county:lincoln/council_district:5,Lincoln County Commission District 5
+ocd-division/country:us/state:ne/place:lincoln/council_district:1,Lincoln NE city council district 1
+ocd-division/country:us/state:ne/place:lincoln/council_district:2,Lincoln NE city council district 2
+ocd-division/country:us/state:ne/place:lincoln/council_district:3,Lincoln NE city council district 3
+ocd-division/country:us/state:ne/place:lincoln/council_district:4,Lincoln NE city council district 4
 ocd-division/country:us/state:ne/county:logan/council_district:1,Logan County Commission District 1
 ocd-division/country:us/state:ne/county:logan/council_district:2,Logan County Commission District 2
 ocd-division/country:us/state:ne/county:logan/council_district:3,Logan County Commission District 3
@@ -202,11 +235,21 @@ ocd-division/country:us/state:ne/county:nemaha/council_district:3,Nemaha County 
 ocd-division/country:us/state:ne/county:nuckolls/council_district:1,Nuckolls County Comission District 1
 ocd-division/country:us/state:ne/county:nuckolls/council_district:2,Nuckolls County Comission District 2
 ocd-division/country:us/state:ne/county:nuckolls/council_district:3,Nuckolls County Comission District 3
+ocd-division/country:us/state:ne/place:omaha/council_district:1,Omaha NE city council district 1
+ocd-division/country:us/state:ne/place:omaha/council_district:2,Omaha NE city council district 2
+ocd-division/country:us/state:ne/place:omaha/council_district:3,Omaha NE city council district 3
+ocd-division/country:us/state:ne/place:omaha/council_district:4,Omaha NE city council district 4
+ocd-division/country:us/state:ne/place:omaha/council_district:5,Omaha NE city council district 5
+ocd-division/country:us/state:ne/place:omaha/council_district:6,Omaha NE city council district 6
+ocd-division/country:us/state:ne/place:omaha/council_district:7,Omaha NE city council district 7
 ocd-division/country:us/state:ne/county:otoe/council_district:1,Otoe County Comission District 1
 ocd-division/country:us/state:ne/county:otoe/council_district:2,Otoe County Comission District 2
 ocd-division/country:us/state:ne/county:otoe/council_district:3,Otoe County Comission District 3
 ocd-division/country:us/state:ne/county:otoe/council_district:4,Otoe County Comission District 4
 ocd-division/country:us/state:ne/county:otoe/council_district:5,Otoe County Comission District 5
+ocd-division/country:us/state:ne/county:pawnee/council_district:1,Pawnee County Commission District 1
+ocd-division/country:us/state:ne/county:pawnee/council_district:2,Pawnee County Commission District 2
+ocd-division/country:us/state:ne/county:pawnee/council_district:3,Pawnee County Commission District 3
 ocd-division/country:us/state:ne/county:perkins/council_district:1,Perkins County Comission District 1
 ocd-division/country:us/state:ne/county:perkins/council_district:2,Perkins County Comission District 2
 ocd-division/country:us/state:ne/county:perkins/council_district:3,Perkins County Comission District 3
@@ -299,14 +342,3 @@ ocd-division/country:us/state:ne/county:york/council_district:2,York County Comi
 ocd-division/country:us/state:ne/county:york/council_district:3,York County Comission District 3
 ocd-division/country:us/state:ne/county:york/council_district:4,York County Comission District 4
 ocd-division/country:us/state:ne/county:york/council_district:5,York County Comission District 5
-ocd-division/country:us/state:ne/place:lincoln/council_district:1,Lincoln NE city council district 1
-ocd-division/country:us/state:ne/place:lincoln/council_district:2,Lincoln NE city council district 2
-ocd-division/country:us/state:ne/place:lincoln/council_district:3,Lincoln NE city council district 3
-ocd-division/country:us/state:ne/place:lincoln/council_district:4,Lincoln NE city council district 4
-ocd-division/country:us/state:ne/place:omaha/council_district:1,Omaha NE city council district 1
-ocd-division/country:us/state:ne/place:omaha/council_district:2,Omaha NE city council district 2
-ocd-division/country:us/state:ne/place:omaha/council_district:3,Omaha NE city council district 3
-ocd-division/country:us/state:ne/place:omaha/council_district:4,Omaha NE city council district 4
-ocd-division/country:us/state:ne/place:omaha/council_district:5,Omaha NE city council district 5
-ocd-division/country:us/state:ne/place:omaha/council_district:6,Omaha NE city council district 6
-ocd-division/country:us/state:ne/place:omaha/council_district:7,Omaha NE city council district 7
