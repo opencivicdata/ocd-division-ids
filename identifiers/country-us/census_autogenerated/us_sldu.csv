@@ -1768,7 +1768,12 @@ ocd-division/country:us/state:vt/sldu:bennington,Vermont Bennington State Senate
 ocd-division/country:us/state:vt/sldu:caledonia,Vermont Caledonia State Senate district
 ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Vermont Grand-Isle-Chittenden State Senate district
 ocd-division/country:us/state:vt/sldu:chittenden,Vermont Chittenden State Senate district
+ocd-division/country:us/state:vt/sldu:chittenden_central,Vermont Chittenden Central State Senate district
+ocd-division/country:us/state:vt/sldu:chittenden_north,Vermont Chittenden North State Senate district
+ocd-division/country:us/state:vt/sldu:chittenden_southeast,Vermont Chittenden Southeast State Senate district
 ocd-division/country:us/state:vt/sldu:essex-orleans,Vermont Essex-Orleans State Senate district
+ocd-division/country:us/state:vt/sldu:essex,Vermont Essex State Senate district
+ocd-division/country:us/state:vt/sldu:orleans,Vermont Orleans State Senate district
 ocd-division/country:us/state:vt/sldu:franklin,Vermont Franklin State Senate district
 ocd-division/country:us/state:vt/sldu:lamoille,Vermont Lamoille State Senate district
 ocd-division/country:us/state:vt/sldu:orange,Vermont Orange State Senate district
@@ -1945,6 +1950,7 @@ ocd-division/country:us/state:wy/sldu:27,Wyoming State Senate district 27
 ocd-division/country:us/state:wy/sldu:28,Wyoming State Senate district 28
 ocd-division/country:us/state:wy/sldu:29,Wyoming State Senate district 29
 ocd-division/country:us/state:wy/sldu:30,Wyoming State Senate district 30
+ocd-division/country:us/state:wy/sldu:31,Wyoming State Senate district 31
 ocd-division/country:us/territory:pr/sldu:1,Puerto Rico State Senate district I
 ocd-division/country:us/territory:pr/sldu:2,Puerto Rico State Senate district II
 ocd-division/country:us/territory:pr/sldu:3,Puerto Rico State Senate district III
@@ -1953,6 +1959,23 @@ ocd-division/country:us/territory:pr/sldu:5,Puerto Rico State Senate district V
 ocd-division/country:us/territory:pr/sldu:6,Puerto Rico State Senate district VI
 ocd-division/country:us/territory:pr/sldu:7,Puerto Rico State Senate district VII
 ocd-division/country:us/territory:pr/sldu:8,Puerto Rico State Senate district VIII
+ocd-division/country:us/territory:as/sldu:1,American Samoa State Senate district 1
+ocd-division/country:us/territory:as/sldu:2,American Samoa State Senate district 2
+ocd-division/country:us/territory:as/sldu:3,American Samoa State Senate district 3
+ocd-division/country:us/territory:as/sldu:4,American Samoa State Senate district 4
+ocd-division/country:us/territory:as/sldu:5,American Samoa State Senate district 5
+ocd-division/country:us/territory:as/sldu:6,American Samoa State Senate district 6
+ocd-division/country:us/territory:as/sldu:7,American Samoa State Senate district 7
+ocd-division/country:us/territory:as/sldu:8,American Samoa State Senate district 8
+ocd-division/country:us/territory:as/sldu:9,American Samoa State Senate district 9
+ocd-division/country:us/territory:as/sldu:10,American Samoa State Senate district 10
+ocd-division/country:us/territory:as/sldu:11,American Samoa State Senate district 11
+ocd-division/country:us/territory:as/sldu:12,American Samoa State Senate district 12
+ocd-division/country:us/territory:mp/sldu:1,Northern Mariana Islands State Senate district 1
+ocd-division/country:us/territory:mp/sldu:2,Northern Mariana Islands State Senate district 2
+ocd-division/country:us/territory:mp/sldu:3,Northern Mariana Islands State Senate district 3
+ocd-division/country:us/territory:vi/sldu:st_croix,U.S. Virgin Islands Senate St. Croix District
+ocd-division/country:us/territory:vi/sldu:st_thomas-st_john,U.S. Virgin Islands Senate St. Thomas-St. John District
 ocd-division/country:us/state:ma/sldu:berkshire_hampshire_and_franklin,"Massachusetts Berkshire, Hampshire & Franklin district (obsolete)"
 ocd-division/country:us/state:ma/sldu:3rd_essex_and_middlesex,Massachusetts Third Essex & Middlesex district (obsolete)
 ocd-division/country:us/state:ma/sldu:hampshire_and_franklin,Massachusetts Hampshire & Franklin district (obsolete)
