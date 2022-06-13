@@ -1800,9 +1800,13 @@ ocd-division/country:us/state:md/sldl:4,Maryland State Legislative district 4
 ocd-division/country:us/state:md/sldl:5,Maryland State Legislative district 5
 ocd-division/country:us/state:md/sldl:6,Maryland State Legislative district 6
 ocd-division/country:us/state:md/sldl:7,Maryland State Legislative district 7
+ocd-division/country:us/state:md/sldl:7a,Maryland State Legislative Subdistrict 7a
+ocd-division/country:us/state:md/sldl:7b,Maryland State Legislative Subdistrict 7b
 ocd-division/country:us/state:md/sldl:8,Maryland State Legislative district 8
 ocd-division/country:us/state:md/sldl:10,Maryland State Legislative district 10
 ocd-division/country:us/state:md/sldl:11,Maryland State Legislative district 11
+ocd-division/country:us/state:md/sldl:11a,Maryland State Legislative Subdistrict 11A
+ocd-division/country:us/state:md/sldl:11b,Maryland State Legislative Subdistrict 11B
 ocd-division/country:us/state:md/sldl:12,Maryland State Legislative district 12
 ocd-division/country:us/state:md/sldl:13,Maryland State Legislative district 13
 ocd-division/country:us/state:md/sldl:14,Maryland State Legislative district 14
@@ -1827,11 +1831,14 @@ ocd-division/country:us/state:md/sldl:32,Maryland State Legislative district 32
 ocd-division/country:us/state:md/sldl:33,Maryland State Legislative district 33
 ocd-division/country:us/state:md/sldl:36,Maryland State Legislative district 36
 ocd-division/country:us/state:md/sldl:39,Maryland State Legislative district 39
+ocd-division/country:us/state:md/sldl:3,Maryland State Legislative district 3
 ocd-division/country:us/state:md/sldl:3a,Maryland State Legislative Subdistrict 3A
 ocd-division/country:us/state:md/sldl:3b,Maryland State Legislative Subdistrict 3B
 ocd-division/country:us/state:md/sldl:40,Maryland State Legislative district 40
 ocd-division/country:us/state:md/sldl:41,Maryland State Legislative district 41
 ocd-division/country:us/state:md/sldl:43,Maryland State Legislative district 43
+ocd-division/country:us/state:md/sldl:43a,Maryland State Legislative Subdistrict 43a
+ocd-division/country:us/state:md/sldl:43b,Maryland State Legislative Subdistrict 43b
 ocd-division/country:us/state:md/sldl:45,Maryland State Legislative district 45
 ocd-division/country:us/state:md/sldl:46,Maryland State Legislative district 46
 ocd-division/country:us/state:md/sldl:9a,Maryland State Legislative Subdistrict 9A
@@ -1859,6 +1866,7 @@ ocd-division/country:us/state:md/sldl:38b,Maryland State Legislative Subdistrict
 ocd-division/country:us/state:md/sldl:38c,Maryland State Legislative Subdistrict 38C
 ocd-division/country:us/state:md/sldl:42a,Maryland State Legislative Subdistrict 42A
 ocd-division/country:us/state:md/sldl:42b,Maryland State Legislative Subdistrict 42B
+ocd-division/country:us/state:md/sldl:42c,Maryland State Legislative Subdistrict 42C
 ocd-division/country:us/state:md/sldl:44a,Maryland State Legislative Subdistrict 44A
 ocd-division/country:us/state:md/sldl:44b,Maryland State Legislative Subdistrict 44B
 ocd-division/country:us/state:md/sldl:47a,Maryland State Legislative Subdistrict 47A
@@ -1959,6 +1967,7 @@ ocd-division/country:us/state:ma/sldl:35th_middlesex,Massachusetts 35th Middlese
 ocd-division/country:us/state:ma/sldl:36th_middlesex,Massachusetts 36th Middlesex district
 ocd-division/country:us/state:ma/sldl:37th_middlesex,Massachusetts 37th Middlesex district
 ocd-division/country:us/state:ma/sldl:18th_worcester,Massachusetts 18th Worcester district
+ocd-division/country:us/state:ma/sldl:19th_worcester,Massachusetts 19th Worcester district
 ocd-division/country:us/state:ma/sldl:5th_barnstable,Massachusetts 5th Barnstable district
 ocd-division/country:us/state:ma/sldl:1st_norfolk,Massachusetts 1st Norfolk district
 ocd-division/country:us/state:ma/sldl:2nd_norfolk,Massachusetts 2nd Norfolk district
@@ -2701,12 +2710,16 @@ ocd-division/country:us/state:nh/sldl:belknap_4,New Hampshire State House distri
 ocd-division/country:us/state:nh/sldl:belknap_5,New Hampshire State House district Belknap County No. 5
 ocd-division/country:us/state:nh/sldl:belknap_6,New Hampshire State House district Belknap County No. 6
 ocd-division/country:us/state:nh/sldl:belknap_7,New Hampshire State House district Belknap County No. 7
+ocd-division/country:us/state:nh/sldl:belknap_8,New Hampshire State House district Belknap County No. 8
+ocd-division/country:us/state:nh/sldl:belknap_9,New Hampshire State House district Belknap County No. 9
 ocd-division/country:us/state:nh/sldl:carroll_1,New Hampshire State House district Carroll County No. 1
 ocd-division/country:us/state:nh/sldl:carroll_2,New Hampshire State House district Carroll County No. 2
 ocd-division/country:us/state:nh/sldl:carroll_3,New Hampshire State House district Carroll County No. 3
 ocd-division/country:us/state:nh/sldl:carroll_4,New Hampshire State House district Carroll County No. 4
 ocd-division/country:us/state:nh/sldl:carroll_5,New Hampshire State House district Carroll County No. 5
 ocd-division/country:us/state:nh/sldl:carroll_6,New Hampshire State House district Carroll County No. 6
+ocd-division/country:us/state:nh/sldl:carroll_7,New Hampshire State House district Carroll County No. 7
+ocd-division/country:us/state:nh/sldl:carroll_8,New Hampshire State House district Carroll County No. 8
 ocd-division/country:us/state:nh/sldl:cheshire_1,New Hampshire State House district Cheshire County No. 1
 ocd-division/country:us/state:nh/sldl:cheshire_2,New Hampshire State House district Cheshire County No. 2
 ocd-division/country:us/state:nh/sldl:cheshire_3,New Hampshire State House district Cheshire County No. 3
@@ -2720,12 +2733,18 @@ ocd-division/country:us/state:nh/sldl:cheshire_10,New Hampshire State House dist
 ocd-division/country:us/state:nh/sldl:cheshire_11,New Hampshire State House district Cheshire County No. 11
 ocd-division/country:us/state:nh/sldl:cheshire_12,New Hampshire State House district Cheshire County No. 12
 ocd-division/country:us/state:nh/sldl:cheshire_13,New Hampshire State House district Cheshire County No. 13
+ocd-division/country:us/state:nh/sldl:cheshire_14,New Hampshire State House district Cheshire County No. 14
+ocd-division/country:us/state:nh/sldl:cheshire_15,New Hampshire State House district Cheshire County No. 15
+ocd-division/country:us/state:nh/sldl:cheshire_16,New Hampshire State House district Cheshire County No. 16
+ocd-division/country:us/state:nh/sldl:cheshire_17,New Hampshire State House district Cheshire County No. 17
+ocd-division/country:us/state:nh/sldl:cheshire_18,New Hampshire State House district Cheshire County No. 18
 ocd-division/country:us/state:nh/sldl:coos_1,New Hampshire State House district Coos County No. 1
 ocd-division/country:us/state:nh/sldl:coos_2,New Hampshire State House district Coos County No. 2
 ocd-division/country:us/state:nh/sldl:coos_3,New Hampshire State House district Coos County No. 3
 ocd-division/country:us/state:nh/sldl:coos_4,New Hampshire State House district Coos County No. 4
 ocd-division/country:us/state:nh/sldl:coos_5,New Hampshire State House district Coos County No. 5
 ocd-division/country:us/state:nh/sldl:coos_6,New Hampshire State House district Coos County No. 6
+ocd-division/country:us/state:nh/sldl:coos_7,New Hampshire State House district Coos County No. 7
 ocd-division/country:us/state:nh/sldl:grafton_1,New Hampshire State House district Grafton County No. 1
 ocd-division/country:us/state:nh/sldl:grafton_2,New Hampshire State House district Grafton County No. 2
 ocd-division/country:us/state:nh/sldl:grafton_3,New Hampshire State House district Grafton County No. 3
@@ -2739,6 +2758,11 @@ ocd-division/country:us/state:nh/sldl:grafton_10,New Hampshire State House distr
 ocd-division/country:us/state:nh/sldl:grafton_11,New Hampshire State House district Grafton County No. 11
 ocd-division/country:us/state:nh/sldl:grafton_12,New Hampshire State House district Grafton County No. 12
 ocd-division/country:us/state:nh/sldl:grafton_13,New Hampshire State House district Grafton County No. 13
+ocd-division/country:us/state:nh/sldl:grafton_14,New Hampshire State House district Grafton County No. 14
+ocd-division/country:us/state:nh/sldl:grafton_15,New Hampshire State House district Grafton County No. 15
+ocd-division/country:us/state:nh/sldl:grafton_16,New Hampshire State House district Grafton County No. 16
+ocd-division/country:us/state:nh/sldl:grafton_17,New Hampshire State House district Grafton County No. 17
+ocd-division/country:us/state:nh/sldl:grafton_18,New Hampshire State House district Grafton County No. 18
 ocd-division/country:us/state:nh/sldl:hillsborough_1,New Hampshire State House district Hillsborough County No. 1
 ocd-division/country:us/state:nh/sldl:hillsborough_2,New Hampshire State House district Hillsborough County No. 2
 ocd-division/country:us/state:nh/sldl:hillsborough_3,New Hampshire State House district Hillsborough County No. 3
@@ -2776,6 +2800,14 @@ ocd-division/country:us/state:nh/sldl:hillsborough_34,New Hampshire State House 
 ocd-division/country:us/state:nh/sldl:hillsborough_35,New Hampshire State House district Hillsborough County No. 35
 ocd-division/country:us/state:nh/sldl:hillsborough_36,New Hampshire State House district Hillsborough County No. 36
 ocd-division/country:us/state:nh/sldl:hillsborough_37,New Hampshire State House district Hillsborough County No. 37
+ocd-division/country:us/state:nh/sldl:hillsborough_38,New Hampshire State House district Hillsborough County No. 38
+ocd-division/country:us/state:nh/sldl:hillsborough_39,New Hampshire State House district Hillsborough County No. 39
+ocd-division/country:us/state:nh/sldl:hillsborough_40,New Hampshire State House district Hillsborough County No. 40
+ocd-division/country:us/state:nh/sldl:hillsborough_41,New Hampshire State House district Hillsborough County No. 41
+ocd-division/country:us/state:nh/sldl:hillsborough_42,New Hampshire State House district Hillsborough County No. 42
+ocd-division/country:us/state:nh/sldl:hillsborough_43,New Hampshire State House district Hillsborough County No. 43
+ocd-division/country:us/state:nh/sldl:hillsborough_44,New Hampshire State House district Hillsborough County No. 44
+ocd-division/country:us/state:nh/sldl:hillsborough_45,New Hampshire State House district Hillsborough County No. 45
 ocd-division/country:us/state:nh/sldl:merrimack_1,New Hampshire State House district Merrimack County No. 1
 ocd-division/country:us/state:nh/sldl:merrimack_2,New Hampshire State House district Merrimack County No. 2
 ocd-division/country:us/state:nh/sldl:merrimack_3,New Hampshire State House district Merrimack County No. 3
@@ -2800,6 +2832,12 @@ ocd-division/country:us/state:nh/sldl:merrimack_21,New Hampshire State House dis
 ocd-division/country:us/state:nh/sldl:merrimack_22,New Hampshire State House district Merrimack County No. 22
 ocd-division/country:us/state:nh/sldl:merrimack_23,New Hampshire State House district Merrimack County No. 23
 ocd-division/country:us/state:nh/sldl:merrimack_24,New Hampshire State House district Merrimack County No. 24
+ocd-division/country:us/state:nh/sldl:merrimack_25,New Hampshire State House district Merrimack County No. 25
+ocd-division/country:us/state:nh/sldl:merrimack_26,New Hampshire State House district Merrimack County No. 26
+ocd-division/country:us/state:nh/sldl:merrimack_27,New Hampshire State House district Merrimack County No. 27
+ocd-division/country:us/state:nh/sldl:merrimack_28,New Hampshire State House district Merrimack County No. 28
+ocd-division/country:us/state:nh/sldl:merrimack_29,New Hampshire State House district Merrimack County No. 29
+ocd-division/country:us/state:nh/sldl:merrimack_30,New Hampshire State House district Merrimack County No. 30
 ocd-division/country:us/state:nh/sldl:rockingham_1,New Hampshire State House district Rockingham County No. 1
 ocd-division/country:us/state:nh/sldl:rockingham_2,New Hampshire State House district Rockingham County No. 2
 ocd-division/country:us/state:nh/sldl:rockingham_3,New Hampshire State House district Rockingham County No. 3
@@ -2829,6 +2867,17 @@ ocd-division/country:us/state:nh/sldl:rockingham_26,New Hampshire State House di
 ocd-division/country:us/state:nh/sldl:rockingham_27,New Hampshire State House district Rockingham County No. 27
 ocd-division/country:us/state:nh/sldl:rockingham_28,New Hampshire State House district Rockingham County No. 28
 ocd-division/country:us/state:nh/sldl:rockingham_29,New Hampshire State House district Rockingham County No. 29
+ocd-division/country:us/state:nh/sldl:rockingham_30,New Hampshire State House district Rockingham County No. 30
+ocd-division/country:us/state:nh/sldl:rockingham_31,New Hampshire State House district Rockingham County No. 31
+ocd-division/country:us/state:nh/sldl:rockingham_32,New Hampshire State House district Rockingham County No. 32
+ocd-division/country:us/state:nh/sldl:rockingham_33,New Hampshire State House district Rockingham County No. 33
+ocd-division/country:us/state:nh/sldl:rockingham_34,New Hampshire State House district Rockingham County No. 34
+ocd-division/country:us/state:nh/sldl:rockingham_35,New Hampshire State House district Rockingham County No. 35
+ocd-division/country:us/state:nh/sldl:rockingham_36,New Hampshire State House district Rockingham County No. 36
+ocd-division/country:us/state:nh/sldl:rockingham_37,New Hampshire State House district Rockingham County No. 37
+ocd-division/country:us/state:nh/sldl:rockingham_38,New Hampshire State House district Rockingham County No. 38
+ocd-division/country:us/state:nh/sldl:rockingham_39,New Hampshire State House district Rockingham County No. 39
+ocd-division/country:us/state:nh/sldl:rockingham_40,New Hampshire State House district Rockingham County No. 40
 ocd-division/country:us/state:nh/sldl:strafford_1,New Hampshire State House district Strafford County No. 1
 ocd-division/country:us/state:nh/sldl:strafford_2,New Hampshire State House district Strafford County No. 2
 ocd-division/country:us/state:nh/sldl:strafford_3,New Hampshire State House district Strafford County No. 3
@@ -2847,6 +2896,13 @@ ocd-division/country:us/state:nh/sldl:strafford_15,New Hampshire State House dis
 ocd-division/country:us/state:nh/sldl:strafford_16,New Hampshire State House district Strafford County No. 16
 ocd-division/country:us/state:nh/sldl:strafford_17,New Hampshire State House district Strafford County No. 17
 ocd-division/country:us/state:nh/sldl:strafford_18,New Hampshire State House district Strafford County No. 18
+ocd-division/country:us/state:nh/sldl:strafford_19,New Hampshire State House district Strafford County No. 19
+ocd-division/country:us/state:nh/sldl:strafford_20,New Hampshire State House district Strafford County No. 20
+ocd-division/country:us/state:nh/sldl:strafford_21,New Hampshire State House district Strafford County No. 21
+ocd-division/country:us/state:nh/sldl:strafford_22,New Hampshire State House district Strafford County No. 22
+ocd-division/country:us/state:nh/sldl:strafford_23,New Hampshire State House district Strafford County No. 23
+ocd-division/country:us/state:nh/sldl:strafford_24,New Hampshire State House district Strafford County No. 24
+ocd-division/country:us/state:nh/sldl:strafford_25,New Hampshire State House district Strafford County No. 25
 ocd-division/country:us/state:nh/sldl:sullivan_1,New Hampshire State House district Sullivan County No. 1
 ocd-division/country:us/state:nh/sldl:sullivan_2,New Hampshire State House district Sullivan County No. 2
 ocd-division/country:us/state:nh/sldl:sullivan_3,New Hampshire State House district Sullivan County No. 3
@@ -2855,6 +2911,9 @@ ocd-division/country:us/state:nh/sldl:sullivan_5,New Hampshire State House distr
 ocd-division/country:us/state:nh/sldl:sullivan_6,New Hampshire State House district Sullivan County No. 6
 ocd-division/country:us/state:nh/sldl:sullivan_7,New Hampshire State House district Sullivan County No. 7
 ocd-division/country:us/state:nh/sldl:sullivan_8,New Hampshire State House district Sullivan County No. 8
+ocd-division/country:us/state:nh/sldl:sullivan_9,New Hampshire State House district Sullivan County No. 9
+ocd-division/country:us/state:nh/sldl:sullivan_10,New Hampshire State House district Sullivan County No. 10
+ocd-division/country:us/state:nh/sldl:sullivan_11,New Hampshire State House district Sullivan County No. 11
 ocd-division/country:us/state:nj/sldl:1,New Jersey General Assembly district 1
 ocd-division/country:us/state:nj/sldl:2,New Jersey General Assembly district 2
 ocd-division/country:us/state:nj/sldl:3,New Jersey General Assembly district 3
@@ -3239,11 +3298,15 @@ ocd-division/country:us/state:nd/sldl:1,North Dakota State House district 1
 ocd-division/country:us/state:nd/sldl:2,North Dakota State House district 2
 ocd-division/country:us/state:nd/sldl:3,North Dakota State House district 3
 ocd-division/country:us/state:nd/sldl:4,North Dakota State House district 4
+ocd-division/country:us/state:nd/sldl:4a,North Dakota State House Subdistrict 4a
+ocd-division/country:us/state:nd/sldl:4b,North Dakota State House Subdistrict 4b
 ocd-division/country:us/state:nd/sldl:5,North Dakota State House district 5
 ocd-division/country:us/state:nd/sldl:6,North Dakota State House district 6
 ocd-division/country:us/state:nd/sldl:7,North Dakota State House district 7
 ocd-division/country:us/state:nd/sldl:8,North Dakota State House district 8
 ocd-division/country:us/state:nd/sldl:9,North Dakota State House district 9
+ocd-division/country:us/state:nd/sldl:9a,North Dakota State House Subdistrict 9a
+ocd-division/country:us/state:nd/sldl:9b,North Dakota State House Subdistrict 9b
 ocd-division/country:us/state:nd/sldl:10,North Dakota State House district 10
 ocd-division/country:us/state:nd/sldl:11,North Dakota State House district 11
 ocd-division/country:us/state:nd/sldl:12,North Dakota State House district 12
@@ -4315,6 +4378,7 @@ ocd-division/country:us/state:vt/sldl:bennington-1,Vermont Bennington-1 State Ho
 ocd-division/country:us/state:vt/sldl:bennington-3,Vermont Bennington-3 State House district
 ocd-division/country:us/state:vt/sldl:bennington-4,Vermont Bennington-4 State House district
 ocd-division/country:us/state:vt/sldl:bennington-rutland,Vermont Bennington-Rutland State House district
+ocd-division/country:us/state:vt/sldl:bennington-2,Vermont Bennington-2 State House district
 ocd-division/country:us/state:vt/sldl:bennington-2-1,Vermont Bennington-2-1 State House district
 ocd-division/country:us/state:vt/sldl:bennington-2-2,Vermont Bennington-2-2 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-1,Vermont Chittenden-1 State House district
@@ -4323,8 +4387,10 @@ ocd-division/country:us/state:vt/sldl:chittenden-3,Vermont Chittenden-3 State Ho
 ocd-division/country:us/state:vt/sldl:chittenden-10,Vermont Chittenden-10 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-4-1,Vermont Chittenden-4-1 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-4-2,Vermont Chittenden-4-2 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-5,Vermont Chittenden-5 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-5-1,Vermont Chittenden-5-1 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-5-2,Vermont Chittenden-5-2 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-6,Vermont Chittenden-6 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-6-1,Vermont Chittenden-6-1 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-6-2,Vermont Chittenden-6-2 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-6-3,Vermont Chittenden-6-3 State House district
@@ -4332,6 +4398,7 @@ ocd-division/country:us/state:vt/sldl:chittenden-6-4,Vermont Chittenden-6-4 Stat
 ocd-division/country:us/state:vt/sldl:chittenden-6-5,Vermont Chittenden-6-5 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-6-6,Vermont Chittenden-6-6 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-6-7,Vermont Chittenden-6-7 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-7,Vermont Chittenden-7 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-7-1,Vermont Chittenden-7-1 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-7-2,Vermont Chittenden-7-2 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-7-3,Vermont Chittenden-7-3 State House district
@@ -4341,19 +4408,38 @@ ocd-division/country:us/state:vt/sldl:chittenden-8-2,Vermont Chittenden-8-2 Stat
 ocd-division/country:us/state:vt/sldl:chittenden-8-3,Vermont Chittenden-8-3 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-9-1,Vermont Chittenden-9-1 State House district
 ocd-division/country:us/state:vt/sldl:chittenden-9-2,Vermont Chittenden-9-2 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-11,Vermont Chittenden-11 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-12,Vermont Chittenden-12 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-13,Vermont Chittenden-13 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-14,Vermont Chittenden-14 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-15,Vermont Chittenden-15 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-16,Vermont Chittenden-16 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-17,Vermont Chittenden-17 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-18,Vermont Chittenden-18 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-19,Vermont Chittenden-19 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-20,Vermont Chittenden-20 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-21,Vermont Chittenden-21 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-22,Vermont Chittenden-22 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-23,Vermont Chittenden-23 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-24,Vermont Chittenden-24 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-25,Vermont Chittenden-25 State House district
+ocd-division/country:us/state:vt/sldl:chittenden-franklin,Vermont Chittenden-Franklin State House district
 ocd-division/country:us/state:vt/sldl:caledonia-1,Vermont Caledonia-1 State House district
 ocd-division/country:us/state:vt/sldl:caledonia-2,Vermont Caledonia-2 State House district
 ocd-division/country:us/state:vt/sldl:caledonia-3,Vermont Caledonia-3 State House district
 ocd-division/country:us/state:vt/sldl:caledonia-4,Vermont Caledonia-4 State House district
 ocd-division/country:us/state:vt/sldl:caledonia-washington,Vermont Caledonia-Washington State House district
 ocd-division/country:us/state:vt/sldl:essex-caledonia,Vermont Essex-Caledonia State House district
+ocd-division/country:us/state:vt/sldl:caledonia-essex,Vermont Caledonia-Essex State House district
 ocd-division/country:us/state:vt/sldl:essex-caledonia-orleans,Vermont Essex-Caledonia-Orleans State House district
+ocd-division/country:us/state:vt/sldl:essex-orleans,Vermont Essex-Orleans State House district
 ocd-division/country:us/state:vt/sldl:franklin-1,Vermont Franklin-1 State House district
 ocd-division/country:us/state:vt/sldl:franklin-2,Vermont Franklin-2 State House district
 ocd-division/country:us/state:vt/sldl:franklin-4,Vermont Franklin-4 State House district
 ocd-division/country:us/state:vt/sldl:franklin-5,Vermont Franklin-5 State House district
 ocd-division/country:us/state:vt/sldl:franklin-6,Vermont Franklin-6 State House district
 ocd-division/country:us/state:vt/sldl:franklin-7,Vermont Franklin-7 State House district
+ocd-division/country:us/state:vt/sldl:franklin-8,Vermont Franklin-8 State House district
 ocd-division/country:us/state:vt/sldl:franklin-3-1,Vermont Franklin-3-1 State House district
 ocd-division/country:us/state:vt/sldl:franklin-3-2,Vermont Franklin-3-2 State House district
 ocd-division/country:us/state:vt/sldl:grand_isle-chittenden,Vermont Grand-Isle-Chittenden State House district
@@ -4363,11 +4449,14 @@ ocd-division/country:us/state:vt/sldl:lamoille-3,Vermont Lamoille-3 State House 
 ocd-division/country:us/state:vt/sldl:lamoille-washington,Vermont Lamoille-Washington State House district
 ocd-division/country:us/state:vt/sldl:orleans-1,Vermont Orleans-1 State House district
 ocd-division/country:us/state:vt/sldl:orleans-2,Vermont Orleans-2 State House district
+ocd-division/country:us/state:vt/sldl:orleans-3,Vermont Orleans-3 State House district
+ocd-division/country:us/state:vt/sldl:orleans-4,Vermont Orleans-4 State House district
 ocd-division/country:us/state:vt/sldl:orange-caledonia,Vermont Orange-Caledonia State House district
 ocd-division/country:us/state:vt/sldl:orleans-lamoille,Vermont Orleans-Lamoille State House district
 ocd-division/country:us/state:vt/sldl:orleans-caledonia,Vermont Orleans-Caledonia State House district
 ocd-division/country:us/state:vt/sldl:orange-1,Vermont Orange-1 State House district
 ocd-division/country:us/state:vt/sldl:orange-2,Vermont Orange-2 State House district
+ocd-division/country:us/state:vt/sldl:orange-3,Vermont Orange-3 State House district
 ocd-division/country:us/state:vt/sldl:orange-washington-addison,Vermont Orange-Washington-Addison State House district
 ocd-division/country:us/state:vt/sldl:rutland-1,Vermont Rutland-1 State House district
 ocd-division/country:us/state:vt/sldl:rutland-2,Vermont Rutland-2 State House district
@@ -4376,19 +4465,28 @@ ocd-division/country:us/state:vt/sldl:rutland-4,Vermont Rutland-4 State House di
 ocd-division/country:us/state:vt/sldl:rutland-6,Vermont Rutland-6 State House district
 ocd-division/country:us/state:vt/sldl:rutland-bennington,Vermont Rutland-Bennington State House district
 ocd-division/country:us/state:vt/sldl:rutland-windsor-1,Vermont Rutland-Windsor-1 State House district
+ocd-division/country:us/state:vt/sldl:rutland-5,Vermont Rutland-5 State House district
 ocd-division/country:us/state:vt/sldl:rutland-5-1,Vermont Rutland-5-1 State House district
 ocd-division/country:us/state:vt/sldl:rutland-5-2,Vermont Rutland-5-2 State House district
 ocd-division/country:us/state:vt/sldl:rutland-5-3,Vermont Rutland-5-3 State House district
 ocd-division/country:us/state:vt/sldl:rutland-5-4,Vermont Rutland-5-4 State House district
+ocd-division/country:us/state:vt/sldl:rutland-9,Vermont Rutland-9 State House district
+ocd-division/country:us/state:vt/sldl:rutland-10,Vermont Rutland-10 State House district
+ocd-division/country:us/state:vt/sldl:rutland-11,Vermont Rutland-11 State House district
 ocd-division/country:us/state:vt/sldl:rutland-windsor-2,Vermont Rutland-Windsor-2 State House district
+ocd-division/country:us/state:vt/sldl:rutland-windsor,Vermont Rutland-Windsor State House district
 ocd-division/country:us/state:vt/sldl:windham-1,Vermont Windham-1 State House district
 ocd-division/country:us/state:vt/sldl:windham-3,Vermont Windham-3 State House district
 ocd-division/country:us/state:vt/sldl:windham-4,Vermont Windham-4 State House district
 ocd-division/country:us/state:vt/sldl:windham-5,Vermont Windham-5 State House district
 ocd-division/country:us/state:vt/sldl:windham-6,Vermont Windham-6 State House district
+ocd-division/country:us/state:vt/sldl:windham-7,Vermont Windham-7 State House district
+ocd-division/country:us/state:vt/sldl:windham-8,Vermont Windham-8 State House district
+ocd-division/country:us/state:vt/sldl:windham-9,Vermont Windham-9 State House district
 ocd-division/country:us/state:vt/sldl:windham-2-1,Vermont Windham-2-1 State House district
 ocd-division/country:us/state:vt/sldl:windham-2-2,Vermont Windham-2-2 State House district
 ocd-division/country:us/state:vt/sldl:windham-2-3,Vermont Windham-2-3 State House district
+ocd-division/country:us/state:vt/sldl:windham-windsor-bennington,Vermont Windham-Windsor-Bennington State House district
 ocd-division/country:us/state:vt/sldl:washington-1,Vermont Washington-1 State House district
 ocd-division/country:us/state:vt/sldl:washington-2,Vermont Washington-2 State House district
 ocd-division/country:us/state:vt/sldl:washington-3,Vermont Washington-3 State House district
@@ -4396,13 +4494,17 @@ ocd-division/country:us/state:vt/sldl:washington-4,Vermont Washington-4 State Ho
 ocd-division/country:us/state:vt/sldl:washington-5,Vermont Washington-5 State House district
 ocd-division/country:us/state:vt/sldl:washington-6,Vermont Washington-6 State House district
 ocd-division/country:us/state:vt/sldl:washington-7,Vermont Washington-7 State House district
+ocd-division/country:us/state:vt/sldl:washington-orange,Vermont Washington-Orange State House district
 ocd-division/country:us/state:vt/sldl:washington-chittenden,Vermont Washington-Chittenden State House district
 ocd-division/country:us/state:vt/sldl:windham-bennington-windsor,Vermont Windham-Bennington-Windsor State House district
 ocd-division/country:us/state:vt/sldl:windham-bennington,Vermont Windham-Bennington State House district
 ocd-division/country:us/state:vt/sldl:windsor-1,Vermont Windsor-1 State House district
 ocd-division/country:us/state:vt/sldl:windsor-2,Vermont Windsor-2 State House district
 ocd-division/country:us/state:vt/sldl:windsor-5,Vermont Windsor-5 State House district
+ocd-division/country:us/state:vt/sldl:windsor-6,Vermont Windsor-6 State House district
 ocd-division/country:us/state:vt/sldl:windsor-rutland,Vermont Windsor-Rutland State House district
+ocd-division/country:us/state:vt/sldl:windsor-addison,Vermont Windsor-Addison State House district
+ocd-division/country:us/state:vt/sldl:windsor-windham,Vermont Windsor-Windham State House district
 ocd-division/country:us/state:vt/sldl:windsor-3-1,Vermont Windsor-3-1 State House district
 ocd-division/country:us/state:vt/sldl:windsor-3-2,Vermont Windsor-3-2 State House district
 ocd-division/country:us/state:vt/sldl:windsor-4-1,Vermont Windsor-4-1 State House district
@@ -4817,6 +4919,8 @@ ocd-division/country:us/state:wy/sldl:57,Wyoming State House district 57
 ocd-division/country:us/state:wy/sldl:58,Wyoming State House district 58
 ocd-division/country:us/state:wy/sldl:59,Wyoming State House district 59
 ocd-division/country:us/state:wy/sldl:60,Wyoming State House district 60
+ocd-division/country:us/state:wy/sldl:61,Wyoming State House district 61
+ocd-division/country:us/state:wy/sldl:62,Wyoming State House district 62
 ocd-division/country:us/territory:pr/sldl:1,Puerto Rico State House district 1
 ocd-division/country:us/territory:pr/sldl:2,Puerto Rico State House district 2
 ocd-division/country:us/territory:pr/sldl:3,Puerto Rico State House district 3
@@ -4857,6 +4961,31 @@ ocd-division/country:us/territory:pr/sldl:37,Puerto Rico State House district 37
 ocd-division/country:us/territory:pr/sldl:38,Puerto Rico State House district 38
 ocd-division/country:us/territory:pr/sldl:39,Puerto Rico State House district 39
 ocd-division/country:us/territory:pr/sldl:40,Puerto Rico State House district 40
+ocd-division/country:us/territory:as/sldl:1,American Samoa State House district 1
+ocd-division/country:us/territory:as/sldl:10,American Samoa State House district 10
+ocd-division/country:us/territory:as/sldl:11,American Samoa State House district 11
+ocd-division/country:us/territory:as/sldl:12,American Samoa State House district 12
+ocd-division/country:us/territory:as/sldl:13,American Samoa State House district 13
+ocd-division/country:us/territory:as/sldl:14,American Samoa State House district 14
+ocd-division/country:us/territory:as/sldl:15,American Samoa State House district 15
+ocd-division/country:us/territory:as/sldl:16,American Samoa State House district 16
+ocd-division/country:us/territory:as/sldl:17,American Samoa State House district 17
+ocd-division/country:us/territory:as/sldl:2,American Samoa State House district 2
+ocd-division/country:us/territory:as/sldl:3,American Samoa State House district 3
+ocd-division/country:us/territory:as/sldl:4,American Samoa State House district 4
+ocd-division/country:us/territory:as/sldl:5,American Samoa State House district 5
+ocd-division/country:us/territory:as/sldl:6,American Samoa State House district 6
+ocd-division/country:us/territory:as/sldl:7,American Samoa State House district 7
+ocd-division/country:us/territory:as/sldl:8,American Samoa State House district 8
+ocd-division/country:us/territory:as/sldl:9,American Samoa State House district 9
+ocd-division/country:us/territory:mp/sldl:1,Northern Mariana Islands State House district 1
+ocd-division/country:us/territory:mp/sldl:2,Northern Mariana Islands State House district 2
+ocd-division/country:us/territory:mp/sldl:3,Northern Mariana Islands State House district 3
+ocd-division/country:us/territory:mp/sldl:4,Northern Mariana Islands State House district 4
+ocd-division/country:us/territory:mp/sldl:5,Northern Mariana Islands State House district 5
+ocd-division/country:us/territory:mp/sldl:6,Northern Mariana Islands State House district 6
+ocd-division/country:us/territory:mp/sldl:7,Northern Mariana Islands State House district 7
+ocd-division/country:us/territory:as/sldl:swains_island,American Samoa House of Representatives Swains Island District
 ocd-division/country:us/state:md/sldl:2c,Maryland State Legislative Subdistrict 2C (obsolete)
 ocd-division/country:us/state:md/sldl:30,Maryland State Legislative district 30 (obsolete)
 ocd-division/country:us/state:md/sldl:31,Maryland State Legislative district 31 (obsolete)
@@ -4869,8 +4998,9 @@ ocd-division/country:us/state:md/sldl:5a,Maryland State Legislative Subdistrict 
 ocd-division/country:us/state:md/sldl:5b,Maryland State Legislative Subdistrict 5B (obsolete)
 ocd-division/country:us/state:md/sldl:12a,Maryland State Legislative Subdistrict 12A (obsolete)
 ocd-division/country:us/state:md/sldl:12b,Maryland State Legislative Subdistrict 12B (obsolete)
-ocd-division/country:us/state:md/sldl:33a,Maryland State Legislative Subdistrict 33A (obsolete)
-ocd-division/country:us/state:md/sldl:33b,Maryland State Legislative Subdistrict 33B (obsolete)
+ocd-division/country:us/state:md/sldl:33a,Maryland State Legislative Subdistrict 33A
+ocd-division/country:us/state:md/sldl:33b,Maryland State Legislative Subdistrict 33B
+ocd-division/country:us/state:md/sldl:33c,Maryland State Legislative Subdistrict 33C
 ocd-division/country:us/state:vt/sldl:chittenden-3-10,Vermont Chittenden-3-10 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:addison-rutland-1,Vermont Addison-Rutland-1 State House district (obsolete)
 ocd-division/country:us/state:vt/sldl:bennington-5,Vermont Bennington-5 State House district (obsolete)
