@@ -1,6 +1,13 @@
 id,name
-ocd-division/country:se,Sweden
 ocd-division/country:se/ed:1,Municipality of Stockholm
+ocd-division/country:se/ed:2,Stockholm county constituency
+ocd-division/country:se/ed:3,Uppsala county
+ocd-division/country:se/ed:4,Södermanland county
+ocd-division/country:se/ed:5,Östergötland county
+ocd-division/country:se/ed:6,Jönköping county
+ocd-division/country:se/ed:7,Kronoberg county
+ocd-division/country:se/ed:8,Kalmar county
+ocd-division/country:se/ed:9,Gotland county
 ocd-division/country:se/ed:10,Blekinge county
 ocd-division/country:se/ed:11,Municipality of Malmö
 ocd-division/country:se/ed:12,Skåne county western constituency
@@ -11,7 +18,6 @@ ocd-division/country:se/ed:16,Municipality of Gothenburg
 ocd-division/country:se/ed:17,Västra Götaland county western constituency
 ocd-division/country:se/ed:18,Västra Götaland county northern constituency
 ocd-division/country:se/ed:19,Västra Götaland county southern constituency
-ocd-division/country:se/ed:2,Stockholm county constituency
 ocd-division/country:se/ed:20,Västra Götaland county eastern constituency
 ocd-division/country:se/ed:21,Värmland county
 ocd-division/country:se/ed:22,Örebro county
@@ -22,10 +28,3 @@ ocd-division/country:se/ed:26,Västernorrland county
 ocd-division/country:se/ed:27,Jämtland county
 ocd-division/country:se/ed:28,Västerbotten county
 ocd-division/country:se/ed:29,Norrbotten county.
-ocd-division/country:se/ed:3,Uppsala county
-ocd-division/country:se/ed:4,Södermanland county
-ocd-division/country:se/ed:5,Östergötland county
-ocd-division/country:se/ed:6,Jönköping county
-ocd-division/country:se/ed:7,Kronoberg county
-ocd-division/country:se/ed:8,Kalmar county
-ocd-division/country:se/ed:9,Gotland county
