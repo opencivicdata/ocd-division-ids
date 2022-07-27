@@ -1,30 +1,30 @@
 id,name
-ocd-division/country:se/ed:1,Municipality of Stockholm
-ocd-division/country:se/ed:2,Stockholm county constituency
-ocd-division/country:se/ed:3,Uppsala county
-ocd-division/country:se/ed:4,Södermanland county
-ocd-division/country:se/ed:5,Östergötland county
-ocd-division/country:se/ed:6,Jönköping county
-ocd-division/country:se/ed:7,Kronoberg county
-ocd-division/country:se/ed:8,Kalmar county
-ocd-division/country:se/ed:9,Gotland county
-ocd-division/country:se/ed:10,Blekinge county
-ocd-division/country:se/ed:11,Municipality of Malmö
-ocd-division/country:se/ed:12,Skåne county western constituency
-ocd-division/country:se/ed:13,Skåne county southern constituency
-ocd-division/country:se/ed:14,Skåne county northern and eastern constituency
-ocd-division/country:se/ed:15,Halland county
-ocd-division/country:se/ed:16,Municipality of Gothenburg
-ocd-division/country:se/ed:17,Västra Götaland county western constituency
-ocd-division/country:se/ed:18,Västra Götaland county northern constituency
-ocd-division/country:se/ed:19,Västra Götaland county southern constituency
-ocd-division/country:se/ed:20,Västra Götaland county eastern constituency
-ocd-division/country:se/ed:21,Värmland county
-ocd-division/country:se/ed:22,Örebro county
-ocd-division/country:se/ed:23,Västmanland county
-ocd-division/country:se/ed:24,Dalarna county
-ocd-division/country:se/ed:25,Gävleborg county
-ocd-division/country:se/ed:26,Västernorrland county
-ocd-division/country:se/ed:27,Jämtland county
-ocd-division/country:se/ed:28,Västerbotten county
-ocd-division/country:se/ed:29,Norrbotten county
+ocd-division/country:se/ed:blekinge,Blekinge county
+ocd-division/country:se/ed:dalarna,Dalarna county
+ocd-division/country:se/ed:gavleborg,Gävleborg county
+ocd-division/country:se/ed:gothenburg_municipality,Municipality of Gothenburg
+ocd-division/country:se/ed:gotland,Gotland county
+ocd-division/country:se/ed:halland,Halland county
+ocd-division/country:se/ed:jamtland,Jämtland county
+ocd-division/country:se/ed:jonkoping,Jönköping county
+ocd-division/country:se/ed:kalmar,Kalmar county
+ocd-division/country:se/ed:kronoberg,Kronoberg county
+ocd-division/country:se/ed:malmo_municipality,Municipality of Malmö
+ocd-division/country:se/ed:norrbotten,Norrbotten county
+ocd-division/country:se/ed:orebro,Örebro county
+ocd-division/country:se/ed:ostergotland,Östergötland county
+ocd-division/country:se/ed:skane_northern_eastern,Skåne county northern and eastern constituency
+ocd-division/country:se/ed:skane_southern,Skåne county southern constituency
+ocd-division/country:se/ed:skane_western,Skåne county western constituency
+ocd-division/country:se/ed:sodermanland,Södermanland county
+ocd-division/country:se/ed:stockholm_county,Stockholm county constituency
+ocd-division/country:se/ed:stockholm_municipality,Municipality of Stockholm
+ocd-division/country:se/ed:uppsala,Uppsala county
+ocd-division/country:se/ed:varmland,Värmland county
+ocd-division/country:se/ed:vasterbotten,Västerbotten county
+ocd-division/country:se/ed:vasternorrland,Västernorrland county
+ocd-division/country:se/ed:vastmanland,Västmanland county
+ocd-division/country:se/ed:vastra_gotaland_eastern,Västra Götaland county eastern constituency
+ocd-division/country:se/ed:vastra_gotaland_northern,Västra Götaland county northern constituency
+ocd-division/country:se/ed:vastra_gotaland_southern,Västra Götaland county southern constituency
+ocd-division/country:se/ed:vastra_gotaland_western,Västra Götaland county western constituency
