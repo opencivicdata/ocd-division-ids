@@ -1,2 +1,7 @@
 id,name
 ocd-division/country:lv,Latvia
+ocd-division/country:lv/ed:kurzeme,Kurzeme
+ocd-division/country:lv/ed:latgale,Latgale
+ocd-division/country:lv/ed:riga,Riga
+ocd-division/country:lv/ed:vidzeme,Vidzeme
+ocd-division/country:lv/ed:zemgale,Zemgale
