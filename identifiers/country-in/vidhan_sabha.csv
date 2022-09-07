@@ -1154,6 +1154,13 @@ ocd-division/country:in/state:jh/district:ws/cd:chakradharpur,Chakradharpur
 ocd-division/country:in/state:jh/district:ws/cd:jaganathpur,Jaganathpur
 ocd-division/country:in/state:jh/district:ws/cd:majhganon,Majhganon
 ocd-division/country:in/state:jh/district:ws/cd:manoharpur,Manoharpur
+ocd-division/country:in/state:ka/district:bc/cd:chamrajpet,Chamrajpet
+ocd-division/country:in/state:ka/district:bc/cd:chickpet,Chickpet
+ocd-division/country:in/state:ka/district:bc/cd:gandhi_nagar,Gandhi Nagar
+ocd-division/country:in/state:ka/district:bc/cd:rajaji_nagar,Rajaji Nagar
+ocd-division/country:in/state:ka/district:bc/cd:rajarajeshwarinagar,Rajarajeshwarinagar
+ocd-division/country:in/state:ka/district:bc/cd:shanti_nagar,Shanti Nagar
+ocd-division/country:in/state:ka/district:bc/cd:shivajinagar,Shivajinagar
 ocd-division/country:in/state:ka/district:be/cd:arabhavi,Arabhavi
 ocd-division/country:in/state:ka/district:be/cd:athani,Athani
 ocd-division/country:in/state:ka/district:be/cd:bailhongal,Bailhongal
@@ -1179,6 +1186,13 @@ ocd-division/country:in/state:ka/district:bg/cd:hungund,Hungund
 ocd-division/country:in/state:ka/district:bg/cd:jamkhandi,Jamkhandi
 ocd-division/country:in/state:ka/district:bg/cd:mudhol,Mudhol (SC)
 ocd-division/country:in/state:ka/district:bg/cd:terdal,Terdal
+ocd-division/country:in/state:ka/district:bh/cd:cv_raman_nagar,C.V. Raman Nagar (SC)
+ocd-division/country:in/state:ka/district:bh/cd:hebbal,Hebbal
+ocd-division/country:in/state:ka/district:bh/cd:krpura,K.R.Pura
+ocd-division/country:in/state:ka/district:bh/cd:mahalakshmi_layout,Mahalakshmi Layout
+ocd-division/country:in/state:ka/district:bh/cd:malleshwaram,Malleshwaram
+ocd-division/country:in/state:ka/district:bh/cd:pulakeshinagar,Pulakeshinagar (SC)
+ocd-division/country:in/state:ka/district:bh/cd:sarvagnanagar,Sarvagnanagar
 ocd-division/country:in/state:ka/district:bi/cd:aurad,Aurad (SC)
 ocd-division/country:in/state:ka/district:bi/cd:basavakalyan,Basavakalyan
 ocd-division/country:in/state:ka/district:bi/cd:bhalki,Bhalki
@@ -1202,46 +1216,33 @@ ocd-division/country:in/state:ka/district:bl/cd:kudligi,Kudligi (ST)
 ocd-division/country:in/state:ka/district:bl/cd:sandur,Sandur (ST)
 ocd-division/country:in/state:ka/district:bl/cd:siruguppa,Siruguppa (ST)
 ocd-division/country:in/state:ka/district:bl/cd:vijayanagara,Vijayanagara
-ocd-division/country:in/state:ka/district:bu/cd:anekal,Anekal (SC)
-ocd-division/country:in/state:ka/district:bu/cd:bangalore_south,Bangalore South
-ocd-division/country:in/state:ka/district:bs/cd:basavanagudi,Basavanagudi
-ocd-division/country:in/state:ka/district:bs/cd:bommanahalli,Bommanahalli
-ocd-division/country:in/state:ka/district:bs/cd:btmlayout,B.T.M.Layout
-ocd-division/country:in/state:ka/district:bu/cd:byatarayanapura,Byatarayanapura
-ocd-division/country:in/state:ka/district:bc/cd:chamrajpet,Chamrajpet
-ocd-division/country:in/state:ka/district:bc/cd:chickpet,Chickpet
-ocd-division/country:in/state:ka/district:bh/cd:cv_raman_nagar,C.V. Raman Nagar (SC)
-ocd-division/country:in/state:ka/district:bu/cd:dasarahalli,Dasarahalli
-ocd-division/country:in/state:ka/district:bc/cd:gandhi_nagar,Gandhi Nagar
-ocd-division/country:in/state:ka/district:bs/cd:govindraj_nagar,Govindraj Nagar
-ocd-division/country:in/state:ka/district:bh/cd:hebbal,Hebbal
-ocd-division/country:in/state:ka/district:bs/cd:jayanagar,Jayanagar
-ocd-division/country:in/state:ka/district:bh/cd:krpura,K.R.Pura
-ocd-division/country:in/state:ka/district:bu/cd:mahadevapura,Mahadevapura (SC)
-ocd-division/country:in/state:ka/district:bh/cd:mahalakshmi_layout,Mahalakshmi Layout
-ocd-division/country:in/state:ka/district:bh/cd:malleshwaram,Malleshwaram
-ocd-division/country:in/state:ka/district:bs/cd:padmanaba_nagar,Padmanaba Nagar
-ocd-division/country:in/state:ka/district:bh/cd:pulakeshinagar,Pulakeshinagar (SC)
-ocd-division/country:in/state:ka/district:bc/cd:rajaji_nagar,Rajaji Nagar
-ocd-division/country:in/state:ka/district:bc/cd:rajarajeshwarinagar,Rajarajeshwarinagar
-ocd-division/country:in/state:ka/district:bh/cd:sarvagnanagar,Sarvagnanagar
-ocd-division/country:in/state:ka/district:bc/cd:shanti_nagar,Shanti Nagar
-ocd-division/country:in/state:ka/district:bc/cd:shivajinagar,Shivajinagar
-ocd-division/country:in/state:ka/district:bs/cd:vijay_nagar,Vijay Nagar
-ocd-division/country:in/state:ka/district:bu/cd:yelahanka,Yelahanka
-ocd-division/country:in/state:ka/district:bu/cd:yeshvanthapura,Yeshvanthapura
-ocd-division/country:in/state:ka/district:rm/cd:channapatna,Channapatna
 ocd-division/country:in/state:ka/district:br/cd:devanahalli,Devanahalli (SC)
 ocd-division/country:in/state:ka/district:br/cd:doddaballapur,Doddaballapur
 ocd-division/country:in/state:ka/district:br/cd:hosakote,Hosakote
-ocd-division/country:in/state:ka/district:rm/cd:kanakapura,Kanakapura
-ocd-division/country:in/state:ka/district:rm/cd:magadi,Magadi
 ocd-division/country:in/state:ka/district:br/cd:nelamangala,Nelamangala (SC)
-ocd-division/country:in/state:ka/district:rm/cd:ramanagaram,Ramanagaram
+ocd-division/country:in/state:ka/district:bs/cd:basavanagudi,Basavanagudi
+ocd-division/country:in/state:ka/district:bs/cd:bommanahalli,Bommanahalli
+ocd-division/country:in/state:ka/district:bs/cd:btmlayout,B.T.M.Layout
+ocd-division/country:in/state:ka/district:bs/cd:govindraj_nagar,Govindraj Nagar
+ocd-division/country:in/state:ka/district:bs/cd:jayanagar,Jayanagar
+ocd-division/country:in/state:ka/district:bs/cd:padmanaba_nagar,Padmanaba Nagar
+ocd-division/country:in/state:ka/district:bs/cd:vijay_nagar,Vijay Nagar
+ocd-division/country:in/state:ka/district:bu/cd:anekal,Anekal (SC)
+ocd-division/country:in/state:ka/district:bu/cd:bangalore_south,Bangalore South
+ocd-division/country:in/state:ka/district:bu/cd:byatarayanapura,Byatarayanapura
+ocd-division/country:in/state:ka/district:bu/cd:dasarahalli,Dasarahalli
+ocd-division/country:in/state:ka/district:bu/cd:mahadevapura,Mahadevapura (SC)
+ocd-division/country:in/state:ka/district:bu/cd:yelahanka,Yelahanka
+ocd-division/country:in/state:ka/district:bu/cd:yeshvanthapura,Yeshvanthapura
 ocd-division/country:in/state:ka/district:ca/cd:chamarajanagar,Chamarajanagar
 ocd-division/country:in/state:ka/district:ca/cd:gundlupet,Gundlupet
 ocd-division/country:in/state:ka/district:ca/cd:hanur,Hanur
 ocd-division/country:in/state:ka/district:ca/cd:kollegal,Kollegal (SC)
+ocd-division/country:in/state:ka/district:cb/cd:bagepalli,Bagepalli
+ocd-division/country:in/state:ka/district:cb/cd:chikkaballapur,Chikkaballapur
+ocd-division/country:in/state:ka/district:cb/cd:chintamani,Chintamani
+ocd-division/country:in/state:ka/district:cb/cd:gauribidanur,Gauribidanur
+ocd-division/country:in/state:ka/district:cb/cd:sidlaghatta,Sidlaghatta
 ocd-division/country:in/state:ka/district:ch/cd:challakere,Challakere (ST)
 ocd-division/country:in/state:ka/district:ch/cd:chitradurga,Chitradurga
 ocd-division/country:in/state:ka/district:ch/cd:hiriyur,Hiriyur
@@ -1287,12 +1288,8 @@ ocd-division/country:in/state:ka/district:gu/cd:chittapur,Chittapur (SC)
 ocd-division/country:in/state:ka/district:gu/cd:gulbarga_dakshin,Gulbarga Dakshin
 ocd-division/country:in/state:ka/district:gu/cd:gulbarga_rural,Gulbarga Rural (SC)
 ocd-division/country:in/state:ka/district:gu/cd:gulbarga_uttar,Gulbarga Uttar
-ocd-division/country:in/state:ka/district:ya/cd:gurmitkal,Gurmitkal
 ocd-division/country:in/state:ka/district:gu/cd:jewargi,Jewargi
 ocd-division/country:in/state:ka/district:gu/cd:sedam,Sedam
-ocd-division/country:in/state:ka/district:ya/cd:shahapur,Shahapur
-ocd-division/country:in/state:ka/district:ya/cd:shorapur,Shorapur (ST)
-ocd-division/country:in/state:ka/district:ya/cd:yadgir,Yadgir
 ocd-division/country:in/state:ka/district:ha/cd:byadgi,Byadgi
 ocd-division/country:in/state:ka/district:ha/cd:hangal,Hangal
 ocd-division/country:in/state:ka/district:ha/cd:haveri,Haveri (SC)
@@ -1308,16 +1305,11 @@ ocd-division/country:in/state:ka/district:hs/cd:sakaleshpur,Sakaleshpur (SC)
 ocd-division/country:in/state:ka/district:hs/cd:shravanabelagola,Shravanabelagola
 ocd-division/country:in/state:ka/district:kd/cd:madikeri,Madikeri
 ocd-division/country:in/state:ka/district:kd/cd:virajpet,Virajpet
-ocd-division/country:in/state:ka/district:cb/cd:bagepalli,Bagepalli
 ocd-division/country:in/state:ka/district:ko/cd:bangarapet,Bangarapet (SC)
-ocd-division/country:in/state:ka/district:cb/cd:chikkaballapur,Chikkaballapur
-ocd-division/country:in/state:ka/district:cb/cd:chintamani,Chintamani
-ocd-division/country:in/state:ka/district:cb/cd:gauribidanur,Gauribidanur
 ocd-division/country:in/state:ka/district:ko/cd:kolar,Kolar
 ocd-division/country:in/state:ka/district:ko/cd:kolar_gold_field,Kolar Gold Field (SC)
 ocd-division/country:in/state:ka/district:ko/cd:malur,Malur
 ocd-division/country:in/state:ka/district:ko/cd:mulbagal,Mulbagal (SC)
-ocd-division/country:in/state:ka/district:cb/cd:sidlaghatta,Sidlaghatta
 ocd-division/country:in/state:ka/district:ko/cd:srinivaspur,Srinivaspur
 ocd-division/country:in/state:ka/district:kp/cd:gangawati,Gangawati
 ocd-division/country:in/state:ka/district:kp/cd:kanakagiri,Kanakagiri (SC)
@@ -1349,6 +1341,10 @@ ocd-division/country:in/state:ka/district:ra/cd:maski,Maski (ST)
 ocd-division/country:in/state:ka/district:ra/cd:raichur,Raichur
 ocd-division/country:in/state:ka/district:ra/cd:raichur_rural,Raichur Rural (ST)
 ocd-division/country:in/state:ka/district:ra/cd:sindhanur,Sindhanur
+ocd-division/country:in/state:ka/district:rm/cd:channapatna,Channapatna
+ocd-division/country:in/state:ka/district:rm/cd:kanakapura,Kanakapura
+ocd-division/country:in/state:ka/district:rm/cd:magadi,Magadi
+ocd-division/country:in/state:ka/district:rm/cd:ramanagaram,Ramanagaram
 ocd-division/country:in/state:ka/district:sh/cd:bhadravati,Bhadravati
 ocd-division/country:in/state:ka/district:sh/cd:sagar,Sagar
 ocd-division/country:in/state:ka/district:sh/cd:shikaripura,Shikaripura
@@ -1368,8 +1364,8 @@ ocd-division/country:in/state:ka/district:tu/cd:tumkur_city,Tumkur City
 ocd-division/country:in/state:ka/district:tu/cd:tumkur_rural,Tumkur Rural
 ocd-division/country:in/state:ka/district:tu/cd:turuvekere,Turuvekere
 ocd-division/country:in/state:ka/district:ud/cd:byndoor,Byndoor
-ocd-division/country:in/state:ka/district:ud/cd:kaup,Kaup
 ocd-division/country:in/state:ka/district:ud/cd:karkala,Karkala
+ocd-division/country:in/state:ka/district:ud/cd:kaup,Kaup
 ocd-division/country:in/state:ka/district:ud/cd:kundapura,Kundapura
 ocd-division/country:in/state:ka/district:ud/cd:udupi,Udupi
 ocd-division/country:in/state:ka/district:ut/cd:bhatkal,Bhatkal
@@ -1378,6 +1374,10 @@ ocd-division/country:in/state:ka/district:ut/cd:karwar,Karwar
 ocd-division/country:in/state:ka/district:ut/cd:kumta,Kumta
 ocd-division/country:in/state:ka/district:ut/cd:sirsi,Sirsi
 ocd-division/country:in/state:ka/district:ut/cd:yellapur,Yellapur
+ocd-division/country:in/state:ka/district:ya/cd:gurmitkal,Gurmitkal
+ocd-division/country:in/state:ka/district:ya/cd:shahapur,Shahapur
+ocd-division/country:in/state:ka/district:ya/cd:shorapur,Shorapur (ST)
+ocd-division/country:in/state:ka/district:ya/cd:yadgir,Yadgir
 ocd-division/country:in/state:kl/district:al/cd:alappuzha,Alappuzha
 ocd-division/country:in/state:kl/district:al/cd:ambalapuzha,Ambalapuzha
 ocd-division/country:in/state:kl/district:al/cd:aroor,Aroor
@@ -2075,7 +2075,7 @@ ocd-division/country:in/state:mp/district:pa/cd:gunnour,Gunnour (SC)
 ocd-division/country:in/state:mp/district:pa/cd:panna,Panna
 ocd-division/country:in/state:mp/district:pa/cd:pawai,Pawai
 ocd-division/country:in/state:mp/district:ra/cd:bhojpur,Bhojpur
-ocd-division/country:in/state:mp/district:ra/cd:sanchi,Sanchi (SC) 
+ocd-division/country:in/state:mp/district:ra/cd:sanchi,Sanchi (SC)
 ocd-division/country:in/state:mp/district:ra/cd:silwani,Silwani
 ocd-division/country:in/state:mp/district:ra/cd:udaipura,Udaipura
 ocd-division/country:in/state:mp/district:re/cd:deotalab,Deotalab
@@ -2152,7 +2152,7 @@ ocd-division/country:in/state:mp/district:uj/cd:ujjain_south,Ujjain South
 ocd-division/country:in/state:mp/district:um/cd:bandhavgarh,Bandhavgarh (ST)
 ocd-division/country:in/state:mp/district:um/cd:manapur,Manapur (ST)
 ocd-division/country:in/state:mp/district:vi/cd:basoda,Basoda
-ocd-division/country:in/state:mp/district:vi/cd:kurwai,Kurwai (SC) 
+ocd-division/country:in/state:mp/district:vi/cd:kurwai,Kurwai (SC)
 ocd-division/country:in/state:mp/district:vi/cd:shamshabad,Shamshabad
 ocd-division/country:in/state:mp/district:vi/cd:sironj,Sironj
 ocd-division/country:in/state:mp/district:vi/cd:vidisha,Vidisha
@@ -2871,6 +2871,8 @@ ocd-division/country:in/state:tg/district:wr/cd:narsampet,Narsampet
 ocd-division/country:in/state:tg/district:wr/cd:parkal,Parkal
 ocd-division/country:in/state:tg/district:yb/cd:alair,Alair
 ocd-division/country:in/state:tg/district:yb/cd:bhongir,Bhongir
+ocd-division/country:in/state:tn/district:ar/cd:ariyalur,Ariyalur
+ocd-division/country:in/state:tn/district:ar/cd:jayankondam,Jayankondam
 ocd-division/country:in/state:tn/district:ch/cd:anna_nagar,Anna Nagar
 ocd-division/country:in/state:tn/district:ch/cd:chepauk-thiruvallikeni,Chepauk-Thiruvallikeni
 ocd-division/country:in/state:tn/district:ch/cd:drradhakrishnan_nagar,Dr.Radhakrishnan Nagar
@@ -2887,21 +2889,15 @@ ocd-division/country:in/state:tn/district:ch/cd:thousand_lights,Thousand Lights
 ocd-division/country:in/state:tn/district:ch/cd:velachery,Velachery
 ocd-division/country:in/state:tn/district:ch/cd:villivakkam,Villivakkam
 ocd-division/country:in/state:tn/district:ch/cd:virugampakkam,Virugampakkam
-ocd-division/country:in/state:tn/district:tp/cd:avanashi,Avanashi (SC)
 ocd-division/country:in/state:tn/district:co/cd:coimbatore_north,Coimbatore (North)
 ocd-division/country:in/state:tn/district:co/cd:coimbatore_south,Coimbatore (South)
 ocd-division/country:in/state:tn/district:co/cd:kavundampalayam,Kavundampalayam
 ocd-division/country:in/state:tn/district:co/cd:kinathukadavu,Kinathukadavu
-ocd-division/country:in/state:tn/district:tp/cd:madathukulam,Madathukulam
 ocd-division/country:in/state:tn/district:co/cd:mettuppalayam,Mettuppalayam
-ocd-division/country:in/state:tn/district:tp/cd:palladam,Palladam
 ocd-division/country:in/state:tn/district:co/cd:pollachi,Pollachi
 ocd-division/country:in/state:tn/district:co/cd:singanallur,Singanallur
 ocd-division/country:in/state:tn/district:co/cd:sulur,Sulur
 ocd-division/country:in/state:tn/district:co/cd:thondamuthur,Thondamuthur
-ocd-division/country:in/state:tn/district:tp/cd:tiruppur_north,Tiruppur (North)
-ocd-division/country:in/state:tn/district:tp/cd:tiruppur_south,Tiruppur (South)
-ocd-division/country:in/state:tn/district:tp/cd:udumalaipettai,Udumalaipettai
 ocd-division/country:in/state:tn/district:co/cd:valparai,Valparai (SC)
 ocd-division/country:in/state:tn/district:cu/cd:bhuvanagiri,Bhuvanagiri
 ocd-division/country:in/state:tn/district:cu/cd:chidambaram,Chidambaram
@@ -2927,11 +2923,9 @@ ocd-division/country:in/state:tn/district:di/cd:vedasandur,Vedasandur
 ocd-division/country:in/state:tn/district:er/cd:anthiyur,Anthiyur
 ocd-division/country:in/state:tn/district:er/cd:bhavani,Bhavani
 ocd-division/country:in/state:tn/district:er/cd:bhavanisagar,Bhavanisagar (SC)
-ocd-division/country:in/state:tn/district:tp/cd:dharapuram,Dharapuram (SC)
 ocd-division/country:in/state:tn/district:er/cd:erode_east,Erode (East)
 ocd-division/country:in/state:tn/district:er/cd:erode_west,Erode (West)
 ocd-division/country:in/state:tn/district:er/cd:gobichettipalayam,Gobichettipalayam
-ocd-division/country:in/state:tn/district:tp/cd:kangayam,Kangayam
 ocd-division/country:in/state:tn/district:er/cd:modakkurichi,Modakkurichi
 ocd-division/country:in/state:tn/district:er/cd:perundurai,Perundurai
 ocd-division/country:in/state:tn/district:ka/cd:aravakurichi,Aravakurichi
@@ -2983,8 +2977,6 @@ ocd-division/country:in/state:tn/district:ng/cd:nagapattinam,Nagapattinam
 ocd-division/country:in/state:tn/district:ng/cd:poompuhar,Poompuhar
 ocd-division/country:in/state:tn/district:ng/cd:sirkazhi,Sirkazhi (SC)
 ocd-division/country:in/state:tn/district:ng/cd:vedaranyam,Vedaranyam
-ocd-division/country:in/state:tn/district:ar/cd:ariyalur,Ariyalur
-ocd-division/country:in/state:tn/district:ar/cd:jayankondam,Jayankondam
 ocd-division/country:in/state:tn/district:pe/cd:kunnam,Kunnam
 ocd-division/country:in/state:tn/district:pe/cd:perambalur,Perambalur (SC)
 ocd-division/country:in/state:tn/district:pu/cd:alangudi,Alangudi
@@ -3046,6 +3038,14 @@ ocd-division/country:in/state:tn/district:to/cd:srivaikuntam,Srivaikuntam
 ocd-division/country:in/state:tn/district:to/cd:thoothukkudi,Thoothukkudi
 ocd-division/country:in/state:tn/district:to/cd:tiruchendur,Tiruchendur
 ocd-division/country:in/state:tn/district:to/cd:vilathikulam,Vilathikulam
+ocd-division/country:in/state:tn/district:tp/cd:avanashi,Avanashi (SC)
+ocd-division/country:in/state:tn/district:tp/cd:dharapuram,Dharapuram (SC)
+ocd-division/country:in/state:tn/district:tp/cd:kangayam,Kangayam
+ocd-division/country:in/state:tn/district:tp/cd:madathukulam,Madathukulam
+ocd-division/country:in/state:tn/district:tp/cd:palladam,Palladam
+ocd-division/country:in/state:tn/district:tp/cd:tiruppur_north,Tiruppur (North)
+ocd-division/country:in/state:tn/district:tp/cd:tiruppur_south,Tiruppur (South)
+ocd-division/country:in/state:tn/district:tp/cd:udumalaipettai,Udumalaipettai
 ocd-division/country:in/state:tn/district:tr/cd:ambattur,Ambattur
 ocd-division/country:in/state:tn/district:tr/cd:avadi,Avadi
 ocd-division/country:in/state:tn/district:tr/cd:gummidipoondi,Gummidipoondi
@@ -3111,59 +3111,59 @@ ocd-division/country:in/state:tr/district:dh/cd:kamalpur,Kamalpur
 ocd-division/country:in/state:tr/district:dh/cd:karmachhara,Karmachhara
 ocd-division/country:in/state:tr/district:dh/cd:raima_valley,Raima Valley (ST)
 ocd-division/country:in/state:tr/district:dh/cd:surma,Surma (SC)
-ocd-division/country:in/state:tr/district:nt/cd:bagbassa,Bagbassa
-ocd-division/country:in/state:tr/district:un/cd:chandipur,Chandipur
-ocd-division/country:in/state:tr/district:nt/cd:dharmanagar,Dharmanagar
-ocd-division/country:in/state:tr/district:un/cd:fatikroy,Fatikroy (SC)
-ocd-division/country:in/state:tr/district:nt/cd:jubarajnagar,Jubarajnagar
-ocd-division/country:in/state:tr/district:nt/cd:kadamtala-kurti,Kadamtala-Kurti
-ocd-division/country:in/state:tr/district:un/cd:kailashahar,Kailashahar
-ocd-division/country:in/state:tr/district:nt/cd:kanchanpur,Kanchanpur (ST)
-ocd-division/country:in/state:tr/district:un/cd:pabiachhara,Pabiachhara (SC)
-ocd-division/country:in/state:tr/district:nt/cd:panisagar,Panisagar
-ocd-division/country:in/state:tr/district:nt/cd:pencharthal,Pencharthal (ST)
 ocd-division/country:in/state:tr/district:go/cd:amarpur,Amarpur
 ocd-division/country:in/state:tr/district:go/cd:ampinagar,Ampinagar (ST)
 ocd-division/country:in/state:tr/district:go/cd:bagma,Bagma (ST)
-ocd-division/country:in/state:tr/district:st/cd:belonia,Belonia
-ocd-division/country:in/state:tr/district:st/cd:hrishyamukh,Hrishyamukh
-ocd-division/country:in/state:tr/district:st/cd:jolaibari,Jolaibari (ST)
 ocd-division/country:in/state:tr/district:go/cd:kakraban-salgarh,Kakraban-Salgarh (SC)
 ocd-division/country:in/state:tr/district:go/cd:karbook,Karbook (ST)
-ocd-division/country:in/state:tr/district:st/cd:manu,Manu (ST)
 ocd-division/country:in/state:tr/district:go/cd:matarbari,Matarbari
 ocd-division/country:in/state:tr/district:go/cd:radhakishorepur,Radhakishorepur
-ocd-division/country:in/state:tr/district:st/cd:rajnagar,Rajnagar (SC)
-ocd-division/country:in/state:tr/district:st/cd:sabroom,Sabroom
-ocd-division/country:in/state:tr/district:st/cd:santirbazar,Santirbazar (ST)
-ocd-division/country:in/state:tr/district:wt/cd:agartala,Agartala
 ocd-division/country:in/state:tr/district:kh/cd:asharambari,Asharambari (ST)
-ocd-division/country:in/state:tr/district:wt/cd:badharghat,Badharghat (SC)
-ocd-division/country:in/state:tr/district:wt/cd:bamutia,Bamutia (SC)
-ocd-division/country:in/state:tr/district:wt/cd:banamalipur,Banamalipur
-ocd-division/country:in/state:tr/district:wt/cd:barjala,Barjala (SC)
+ocd-division/country:in/state:tr/district:kh/cd:kalyanpur-pramodenagar,Kalyanpur-Pramodenagar
+ocd-division/country:in/state:tr/district:kh/cd:khowai,Khowai
+ocd-division/country:in/state:tr/district:kh/cd:krishnapur,Krishnapur (ST)
+ocd-division/country:in/state:tr/district:kh/cd:ramchandraghat,Ramchandraghat (ST)
+ocd-division/country:in/state:tr/district:kh/cd:teliamura,Teliamura
+ocd-division/country:in/state:tr/district:nt/cd:bagbassa,Bagbassa
+ocd-division/country:in/state:tr/district:nt/cd:dharmanagar,Dharmanagar
+ocd-division/country:in/state:tr/district:nt/cd:jubarajnagar,Jubarajnagar
+ocd-division/country:in/state:tr/district:nt/cd:kadamtala-kurti,Kadamtala-Kurti
+ocd-division/country:in/state:tr/district:nt/cd:kanchanpur,Kanchanpur (ST)
+ocd-division/country:in/state:tr/district:nt/cd:panisagar,Panisagar
+ocd-division/country:in/state:tr/district:nt/cd:pencharthal,Pencharthal (ST)
 ocd-division/country:in/state:tr/district:se/cd:bishalgarh,Bishalgarh
 ocd-division/country:in/state:tr/district:se/cd:boxanagar,Boxanagar
 ocd-division/country:in/state:tr/district:se/cd:charilam,Charilam (ST)
 ocd-division/country:in/state:tr/district:se/cd:dhanpur,Dhanpur
 ocd-division/country:in/state:tr/district:se/cd:golaghati,Golaghati (ST)
-ocd-division/country:in/state:tr/district:kh/cd:kalyanpur-pramodenagar,Kalyanpur-Pramodenagar
 ocd-division/country:in/state:tr/district:se/cd:kamalasagar,Kamalasagar
+ocd-division/country:in/state:tr/district:se/cd:nalchar,Nalchar (SC)
+ocd-division/country:in/state:tr/district:se/cd:sonamura,Sonamura
+ocd-division/country:in/state:tr/district:se/cd:takarjala,Takarjala (ST)
+ocd-division/country:in/state:tr/district:st/cd:belonia,Belonia
+ocd-division/country:in/state:tr/district:st/cd:hrishyamukh,Hrishyamukh
+ocd-division/country:in/state:tr/district:st/cd:jolaibari,Jolaibari (ST)
+ocd-division/country:in/state:tr/district:st/cd:manu,Manu (ST)
+ocd-division/country:in/state:tr/district:st/cd:rajnagar,Rajnagar (SC)
+ocd-division/country:in/state:tr/district:st/cd:sabroom,Sabroom
+ocd-division/country:in/state:tr/district:st/cd:santirbazar,Santirbazar (ST)
+ocd-division/country:in/state:tr/district:un/cd:chandipur,Chandipur
+ocd-division/country:in/state:tr/district:un/cd:fatikroy,Fatikroy (SC)
+ocd-division/country:in/state:tr/district:un/cd:kailashahar,Kailashahar
+ocd-division/country:in/state:tr/district:un/cd:pabiachhara,Pabiachhara (SC)
+ocd-division/country:in/state:tr/district:wt/cd:agartala,Agartala
+ocd-division/country:in/state:tr/district:wt/cd:badharghat,Badharghat (SC)
+ocd-division/country:in/state:tr/district:wt/cd:bamutia,Bamutia (SC)
+ocd-division/country:in/state:tr/district:wt/cd:banamalipur,Banamalipur
+ocd-division/country:in/state:tr/district:wt/cd:barjala,Barjala (SC)
 ocd-division/country:in/state:tr/district:wt/cd:khayerpur,Khayerpur
-ocd-division/country:in/state:tr/district:kh/cd:khowai,Khowai
-ocd-division/country:in/state:tr/district:kh/cd:krishnapur,Krishnapur (ST)
 ocd-division/country:in/state:tr/district:wt/cd:majlishpur,Majlishpur
 ocd-division/country:in/state:tr/district:wt/cd:mandaibazar,Mandaibazar (ST)
 ocd-division/country:in/state:tr/district:wt/cd:mohanpur,Mohanpur
-ocd-division/country:in/state:tr/district:se/cd:nalchar,Nalchar (SC)
 ocd-division/country:in/state:tr/district:wt/cd:pratapgarh,Pratapgarh (SC)
-ocd-division/country:in/state:tr/district:kh/cd:ramchandraghat,Ramchandraghat (ST)
 ocd-division/country:in/state:tr/district:wt/cd:ramnagar,Ramnagar
 ocd-division/country:in/state:tr/district:wt/cd:simna,Simna (ST)
-ocd-division/country:in/state:tr/district:se/cd:sonamura,Sonamura
 ocd-division/country:in/state:tr/district:wt/cd:suryamaninagar,Suryamaninagar
-ocd-division/country:in/state:tr/district:se/cd:takarjala,Takarjala (ST)
-ocd-division/country:in/state:tr/district:kh/cd:teliamura,Teliamura
 ocd-division/country:in/state:tr/district:wt/cd:town_bordowali,Town Bordowali
 ocd-division/country:in/state:up/district:ag/cd:agra_cantonment,Agra Cantonment (SC)
 ocd-division/country:in/state:up/district:ag/cd:agra_north,Agra North
@@ -3174,18 +3174,6 @@ ocd-division/country:in/state:up/district:ag/cd:etmadpur,Etmadpur
 ocd-division/country:in/state:up/district:ag/cd:fatehabad,Fatehabad
 ocd-division/country:in/state:up/district:ag/cd:fatehpur_sikri,Fatehpur Sikri
 ocd-division/country:in/state:up/district:ag/cd:kheragarh,Kheragarh
-ocd-division/country:in/state:up/district:py/cd:allahabad_north,Allahabad North
-ocd-division/country:in/state:up/district:py/cd:allahabad_south,Allahabad South
-ocd-division/country:in/state:up/district:py/cd:allahabad_west,Allahabad West
-ocd-division/country:in/state:up/district:py/cd:bara,Bara (SC)
-ocd-division/country:in/state:up/district:py/cd:handia,Handia
-ocd-division/country:in/state:up/district:py/cd:karachhana,Karachhana
-ocd-division/country:in/state:up/district:py/cd:koraon,Koraon (SC)
-ocd-division/country:in/state:up/district:py/cd:meja,Meja
-ocd-division/country:in/state:up/district:py/cd:phaphamau,Phaphamau
-ocd-division/country:in/state:up/district:py/cd:phulpur,Phulpur
-ocd-division/country:in/state:up/district:py/cd:pratappur,Pratappur
-ocd-division/country:in/state:up/district:py/cd:soraon,Soraon (SC)
 ocd-division/country:in/state:up/district:al/cd:aligarh,Aligarh
 ocd-division/country:in/state:up/district:al/cd:atrauli,Atrauli
 ocd-division/country:in/state:up/district:al/cd:barauli,Barauli
@@ -3193,14 +3181,28 @@ ocd-division/country:in/state:up/district:al/cd:chharra,Chharra
 ocd-division/country:in/state:up/district:al/cd:iglas,Iglas (SC)
 ocd-division/country:in/state:up/district:al/cd:khair,Khair (SC)
 ocd-division/country:in/state:up/district:al/cd:koil,Koil
+ocd-division/country:in/state:up/district:am/cd:amethi,Amethi
+ocd-division/country:in/state:up/district:am/cd:gauriganj,Gauriganj
+ocd-division/country:in/state:up/district:am/cd:jagdishpur,Jagdishpur (SC)
+ocd-division/country:in/state:up/district:am/cd:tiloi,Tiloi
 ocd-division/country:in/state:up/district:an/cd:akbarpur,Akbarpur
 ocd-division/country:in/state:up/district:an/cd:alapur,Alapur (SC)
 ocd-division/country:in/state:up/district:an/cd:jalalpur,Jalalpur
 ocd-division/country:in/state:up/district:an/cd:katehari,Katehari
 ocd-division/country:in/state:up/district:an/cd:tanda,Tanda
+ocd-division/country:in/state:up/district:ar/cd:amroha,Amroha
+ocd-division/country:in/state:up/district:ar/cd:dhanaura,Dhanaura (SC)
+ocd-division/country:in/state:up/district:ar/cd:hasanpur,Hasanpur
+ocd-division/country:in/state:up/district:ar/cd:naugawan_sadat,Naugawan Sadat
 ocd-division/country:in/state:up/district:au/cd:auraiya,Auraiya (SC)
 ocd-division/country:in/state:up/district:au/cd:bidhuna,Bidhuna
 ocd-division/country:in/state:up/district:au/cd:dibiyapur,Dibiyapur
+ocd-division/country:in/state:up/district:ay/cd:ayodhya,Ayodhya
+ocd-division/country:in/state:up/district:ay/cd:bikapur,Bikapur
+ocd-division/country:in/state:up/district:ay/cd:dariyabad,Dariyabad
+ocd-division/country:in/state:up/district:ay/cd:goshainganj,Goshainganj
+ocd-division/country:in/state:up/district:ay/cd:milkipur,Milkipur (SC)
+ocd-division/country:in/state:up/district:ay/cd:rudauli,Rudauli
 ocd-division/country:in/state:up/district:az/cd:atraulia,Atraulia
 ocd-division/country:in/state:up/district:az/cd:azamgarh,Azamgarh
 ocd-division/country:in/state:up/district:az/cd:didarganj,Didarganj
@@ -3215,11 +3217,9 @@ ocd-division/country:in/state:up/district:ba/cd:baghpat,Baghpat
 ocd-division/country:in/state:up/district:ba/cd:baraut,Baraut
 ocd-division/country:in/state:up/district:ba/cd:chhaprauli,Chhaprauli
 ocd-division/country:in/state:up/district:bb/cd:barabanki,Barabanki
-ocd-division/country:in/state:up/district:ay/cd:dariyabad,Dariyabad
 ocd-division/country:in/state:up/district:bb/cd:haidergarh,Haidergarh (SC)
 ocd-division/country:in/state:up/district:bb/cd:kursi,Kursi
 ocd-division/country:in/state:up/district:bb/cd:ramnagar,Ramnagar
-ocd-division/country:in/state:up/district:ay/cd:rudauli,Rudauli
 ocd-division/country:in/state:up/district:bb/cd:zaidpur,Zaidpur (SC)
 ocd-division/country:in/state:up/district:bd/cd:anupshahr,Anupshahr
 ocd-division/country:in/state:up/district:bd/cd:bulandshahr,Bulandshahr
@@ -3254,6 +3254,9 @@ ocd-division/country:in/state:up/district:bn/cd:baberu,Baberu
 ocd-division/country:in/state:up/district:bn/cd:banda,Banda
 ocd-division/country:in/state:up/district:bn/cd:naraini,Naraini (SC)
 ocd-division/country:in/state:up/district:bn/cd:tindwari,Tindwari
+ocd-division/country:in/state:up/district:bo/cd:aurai,Aurai (SC)
+ocd-division/country:in/state:up/district:bo/cd:bhadohi,Bhadohi
+ocd-division/country:in/state:up/district:bo/cd:gyanpur,Gyanpur
 ocd-division/country:in/state:up/district:bp/cd:balrampur,Balrampur (SC)
 ocd-division/country:in/state:up/district:bp/cd:gainsari,Gainsari
 ocd-division/country:in/state:up/district:bp/cd:tulsipur,Tulsipur
@@ -3293,12 +3296,9 @@ ocd-division/country:in/state:up/district:de/cd:rampur_karkhana,Rampur Karkhana
 ocd-division/country:in/state:up/district:de/cd:rudrapur,Rudrapur
 ocd-division/country:in/state:up/district:de/cd:salempur,Salempur (SC)
 ocd-division/country:in/state:up/district:et/cd:aliganj,Aliganj
-ocd-division/country:in/state:up/district:ka/cd:amanpur,Amanpur
 ocd-division/country:in/state:up/district:et/cd:etah,Etah
 ocd-division/country:in/state:up/district:et/cd:jalesar,Jalesar (SC)
-ocd-division/country:in/state:up/district:ka/cd:kasganj,Kasganj
 ocd-division/country:in/state:up/district:et/cd:marhara,Marhara
-ocd-division/country:in/state:up/district:ka/cd:patiyali,Patiyali
 ocd-division/country:in/state:up/district:ew/cd:bharthana,Bharthana (SC)
 ocd-division/country:in/state:up/district:ew/cd:etawah,Etawah
 ocd-division/country:in/state:up/district:ew/cd:jaswantnagar,Jaswantnagar
@@ -3317,10 +3317,6 @@ ocd-division/country:in/state:up/district:ft/cd:fatehpur,Fatehpur
 ocd-division/country:in/state:up/district:ft/cd:husainganj,Husainganj
 ocd-division/country:in/state:up/district:ft/cd:jahanabad,Jahanabad
 ocd-division/country:in/state:up/district:ft/cd:khaga,Khaga (SC)
-ocd-division/country:in/state:up/district:ay/cd:ayodhya,Ayodhya
-ocd-division/country:in/state:up/district:ay/cd:bikapur,Bikapur
-ocd-division/country:in/state:up/district:ay/cd:goshainganj,Goshainganj
-ocd-division/country:in/state:up/district:ay/cd:milkipur,Milkipur (SC)
 ocd-division/country:in/state:up/district:gb/cd:dadri,Dadri
 ocd-division/country:in/state:up/district:gb/cd:jewar,Jewar
 ocd-division/country:in/state:up/district:gb/cd:noida,Noida
@@ -3348,13 +3344,13 @@ ocd-division/country:in/state:up/district:gr/cd:khajani,Khajani (SC)
 ocd-division/country:in/state:up/district:gr/cd:pipraich,Pipraich
 ocd-division/country:in/state:up/district:gr/cd:sahajanwa,Sahajanwa
 ocd-division/country:in/state:up/district:gz/cd:dholana,Dholana
-ocd-division/country:in/state:up/district:ha/cd:garhmukteshwar,Garhmukteshwar
 ocd-division/country:in/state:up/district:gz/cd:ghaziabad,Ghaziabad
-ocd-division/country:in/state:up/district:ha/cd:hapur,Hapur
 ocd-division/country:in/state:up/district:gz/cd:loni,Loni
 ocd-division/country:in/state:up/district:gz/cd:modinagar,Modinagar
 ocd-division/country:in/state:up/district:gz/cd:muradnagar,Muradnagar
 ocd-division/country:in/state:up/district:gz/cd:sahibabad,Sahibabad
+ocd-division/country:in/state:up/district:ha/cd:garhmukteshwar,Garhmukteshwar
+ocd-division/country:in/state:up/district:ha/cd:hapur,Hapur
 ocd-division/country:in/state:up/district:hm/cd:hamirpur,Hamirpur
 ocd-division/country:in/state:up/district:hm/cd:rath,Rath (SC)
 ocd-division/country:in/state:up/district:hr/cd:balamau,Balamau (SC)
@@ -3365,6 +3361,9 @@ ocd-division/country:in/state:up/district:hr/cd:sandi,Sandi (SC)
 ocd-division/country:in/state:up/district:hr/cd:sandila,Sandila
 ocd-division/country:in/state:up/district:hr/cd:sawaijpur,Sawaijpur
 ocd-division/country:in/state:up/district:hr/cd:shahabad,Shahabad
+ocd-division/country:in/state:up/district:ht/cd:hathras,Hathras (SC)
+ocd-division/country:in/state:up/district:ht/cd:sadabad,Sadabad
+ocd-division/country:in/state:up/district:ht/cd:sikandra_rao,Sikandra Rao
 ocd-division/country:in/state:up/district:jh/cd:babina,Babina
 ocd-division/country:in/state:up/district:jh/cd:garautha,Garautha
 ocd-division/country:in/state:up/district:jh/cd:jhansi_nagar,Jhansi Nagar
@@ -3372,10 +3371,6 @@ ocd-division/country:in/state:up/district:jh/cd:mauranipur,Mauranipur (SC)
 ocd-division/country:in/state:up/district:jl/cd:kalpi,Kalpi
 ocd-division/country:in/state:up/district:jl/cd:madhogarh,Madhogarh
 ocd-division/country:in/state:up/district:jl/cd:orai,Orai (SC)
-ocd-division/country:in/state:up/district:ar/cd:amroha,Amroha
-ocd-division/country:in/state:up/district:ar/cd:dhanaura,Dhanaura (SC)
-ocd-division/country:in/state:up/district:ar/cd:hasanpur,Hasanpur
-ocd-division/country:in/state:up/district:ar/cd:naugawan_sadat,Naugawan Sadat
 ocd-division/country:in/state:up/district:ju/cd:badlapur,Badlapur
 ocd-division/country:in/state:up/district:ju/cd:jaunpur,Jaunpur
 ocd-division/country:in/state:up/district:ju/cd:kerakat,Kerakat (SC)
@@ -3385,18 +3380,13 @@ ocd-division/country:in/state:up/district:ju/cd:mariyahu,Mariyahu
 ocd-division/country:in/state:up/district:ju/cd:mungra_badshahpur,Mungra Badshahpur
 ocd-division/country:in/state:up/district:ju/cd:shahganj,Shahganj
 ocd-division/country:in/state:up/district:ju/cd:zafrabad,Zafrabad
+ocd-division/country:in/state:up/district:ka/cd:amanpur,Amanpur
+ocd-division/country:in/state:up/district:ka/cd:kasganj,Kasganj
+ocd-division/country:in/state:up/district:ka/cd:patiyali,Patiyali
 ocd-division/country:in/state:up/district:kd/cd:akbarpur_raniya,Akbarpur Raniya
 ocd-division/country:in/state:up/district:kd/cd:bhognipur,Bhognipur
 ocd-division/country:in/state:up/district:kd/cd:rasulabad,Rasulabad (SC)
 ocd-division/country:in/state:up/district:kd/cd:sikandra,Sikandra
-ocd-division/country:in/state:up/district:lk/cd:dhaurahra,Dhaurahra
-ocd-division/country:in/state:up/district:lk/cd:gola_gokrannath,Gola Gokrannath
-ocd-division/country:in/state:up/district:lk/cd:kasta,Kasta (SC)
-ocd-division/country:in/state:up/district:lk/cd:lakhimpur,Lakhimpur
-ocd-division/country:in/state:up/district:lk/cd:mohammadi,Mohammadi
-ocd-division/country:in/state:up/district:lk/cd:nighasan,Nighasan
-ocd-division/country:in/state:up/district:lk/cd:palia,Palia
-ocd-division/country:in/state:up/district:lk/cd:srinagar,Srinagar (SC)
 ocd-division/country:in/state:up/district:kj/cd:chhibramau,Chhibramau
 ocd-division/country:in/state:up/district:kj/cd:kannauj,Kannauj (SC)
 ocd-division/country:in/state:up/district:kj/cd:tirwa,Tirwa
@@ -3422,6 +3412,14 @@ ocd-division/country:in/state:up/district:ku/cd:ramkola,Ramkola (SC)
 ocd-division/country:in/state:up/district:ku/cd:tamkuhi_raj,Tamkuhi Raj
 ocd-division/country:in/state:up/district:la/cd:lalitpur,Lalitpur
 ocd-division/country:in/state:up/district:la/cd:mehroni,Mehroni (SC)
+ocd-division/country:in/state:up/district:lk/cd:dhaurahra,Dhaurahra
+ocd-division/country:in/state:up/district:lk/cd:gola_gokrannath,Gola Gokrannath
+ocd-division/country:in/state:up/district:lk/cd:kasta,Kasta (SC)
+ocd-division/country:in/state:up/district:lk/cd:lakhimpur,Lakhimpur
+ocd-division/country:in/state:up/district:lk/cd:mohammadi,Mohammadi
+ocd-division/country:in/state:up/district:lk/cd:nighasan,Nighasan
+ocd-division/country:in/state:up/district:lk/cd:palia,Palia
+ocd-division/country:in/state:up/district:lk/cd:srinagar,Srinagar (SC)
 ocd-division/country:in/state:up/district:lu/cd:bakshi_kaa_talab,Bakshi Kaa Talab
 ocd-division/country:in/state:up/district:lu/cd:lucknow_cantt,Lucknow Cantt
 ocd-division/country:in/state:up/district:lu/cd:lucknow_central,Lucknow Central
@@ -3454,17 +3452,10 @@ ocd-division/country:in/state:up/district:mi/cd:chunar,Chunar
 ocd-division/country:in/state:up/district:mi/cd:majhawan,Majhawan
 ocd-division/country:in/state:up/district:mi/cd:marihan,Marihan
 ocd-division/country:in/state:up/district:mi/cd:mirzapur,Mirzapur
-ocd-division/country:in/state:up/district:ht/cd:hathras,Hathras (SC)
-ocd-division/country:in/state:up/district:ht/cd:sadabad,Sadabad
-ocd-division/country:in/state:up/district:ht/cd:sikandra_rao,Sikandra Rao
-ocd-division/country:in/state:up/district:sm/cd:asmoli,Asmoli
-ocd-division/country:in/state:up/district:sm/cd:bilari,Bilari
-ocd-division/country:in/state:up/district:sm/cd:chandausi,Chandausi (SC)
 ocd-division/country:in/state:up/district:mo/cd:kanth,Kanth
 ocd-division/country:in/state:up/district:mo/cd:kundarki,Kundarki
 ocd-division/country:in/state:up/district:mo/cd:moradabad_nagar,Moradabad Nagar
 ocd-division/country:in/state:up/district:mo/cd:moradabad_rural,Moradabad Rural
-ocd-division/country:in/state:up/district:sm/cd:sambhal,Sambhal
 ocd-division/country:in/state:up/district:mo/cd:thakurdwara,Thakurdwara
 ocd-division/country:in/state:up/district:mp/cd:bhongaon,Bhongaon
 ocd-division/country:in/state:up/district:mp/cd:karhal,Karhal
@@ -3477,13 +3468,10 @@ ocd-division/country:in/state:up/district:mt/cd:mant,Mant
 ocd-division/country:in/state:up/district:mt/cd:mathura,Mathura
 ocd-division/country:in/state:up/district:mu/cd:budhana,Budhana
 ocd-division/country:in/state:up/district:mu/cd:charthawal,Charthawal
-ocd-division/country:in/state:up/district:sl/cd:kairana,Kairana
 ocd-division/country:in/state:up/district:mu/cd:khatauli,Khatauli
 ocd-division/country:in/state:up/district:mu/cd:meerapur,Meerapur
 ocd-division/country:in/state:up/district:mu/cd:muzaffarnagar,Muzaffarnagar
 ocd-division/country:in/state:up/district:mu/cd:purqazi,Purqazi (SC)
-ocd-division/country:in/state:up/district:sl/cd:shamli,Shamli
-ocd-division/country:in/state:up/district:sl/cd:thana_bhawan,Thana Bhawan
 ocd-division/country:in/state:up/district:pi/cd:barkhera,Barkhera
 ocd-division/country:in/state:up/district:pi/cd:bisalpur,Bisalpur
 ocd-division/country:in/state:up/district:pi/cd:pilibhit,Pilibhit
@@ -3495,6 +3483,18 @@ ocd-division/country:in/state:up/district:pr/cd:patti,Patti
 ocd-division/country:in/state:up/district:pr/cd:pratapgarh,Pratapgarh
 ocd-division/country:in/state:up/district:pr/cd:rampur_khas,Rampur Khas
 ocd-division/country:in/state:up/district:pr/cd:raniganj,Raniganj
+ocd-division/country:in/state:up/district:py/cd:allahabad_north,Allahabad North
+ocd-division/country:in/state:up/district:py/cd:allahabad_south,Allahabad South
+ocd-division/country:in/state:up/district:py/cd:allahabad_west,Allahabad West
+ocd-division/country:in/state:up/district:py/cd:bara,Bara (SC)
+ocd-division/country:in/state:up/district:py/cd:handia,Handia
+ocd-division/country:in/state:up/district:py/cd:karachhana,Karachhana
+ocd-division/country:in/state:up/district:py/cd:koraon,Koraon (SC)
+ocd-division/country:in/state:up/district:py/cd:meja,Meja
+ocd-division/country:in/state:up/district:py/cd:phaphamau,Phaphamau
+ocd-division/country:in/state:up/district:py/cd:phulpur,Phulpur
+ocd-division/country:in/state:up/district:py/cd:pratappur,Pratappur
+ocd-division/country:in/state:up/district:py/cd:soraon,Soraon (SC)
 ocd-division/country:in/state:up/district:ra/cd:bilaspur,Bilaspur
 ocd-division/country:in/state:up/district:ra/cd:chamraua,Chamraua
 ocd-division/country:in/state:up/district:ra/cd:milak,Milak (SC)
@@ -3505,7 +3505,6 @@ ocd-division/country:in/state:up/district:rb/cd:harchandpur,Harchandpur
 ocd-division/country:in/state:up/district:rb/cd:rae_bareli,Rae Bareli
 ocd-division/country:in/state:up/district:rb/cd:salon,Salon (SC)
 ocd-division/country:in/state:up/district:rb/cd:sareni,Sareni
-ocd-division/country:in/state:up/district:am/cd:tiloi,Tiloi
 ocd-division/country:in/state:up/district:rb/cd:unchahar,Unchahar
 ocd-division/country:in/state:up/district:sa/cd:behat,Behat
 ocd-division/country:in/state:up/district:sa/cd:deoband,Deoband
@@ -3534,6 +3533,13 @@ ocd-division/country:in/state:up/district:sj/cd:tilhar,Tilhar
 ocd-division/country:in/state:up/district:sk/cd:dhanghata,Dhanghata (SC)
 ocd-division/country:in/state:up/district:sk/cd:khalilabad,Khalilabad
 ocd-division/country:in/state:up/district:sk/cd:menhdawal,Menhdawal
+ocd-division/country:in/state:up/district:sl/cd:kairana,Kairana
+ocd-division/country:in/state:up/district:sl/cd:shamli,Shamli
+ocd-division/country:in/state:up/district:sl/cd:thana_bhawan,Thana Bhawan
+ocd-division/country:in/state:up/district:sm/cd:asmoli,Asmoli
+ocd-division/country:in/state:up/district:sm/cd:bilari,Bilari
+ocd-division/country:in/state:up/district:sm/cd:chandausi,Chandausi (SC)
+ocd-division/country:in/state:up/district:sm/cd:sambhal,Sambhal
 ocd-division/country:in/state:up/district:sn/cd:bansi,Bansi
 ocd-division/country:in/state:up/district:sn/cd:domariaganj,Domariaganj
 ocd-division/country:in/state:up/district:sn/cd:itwa,Itwa
@@ -3543,13 +3549,7 @@ ocd-division/country:in/state:up/district:so/cd:duddhi,Duddhi (SC)
 ocd-division/country:in/state:up/district:so/cd:ghorawal,Ghorawal
 ocd-division/country:in/state:up/district:so/cd:obra,Obra
 ocd-division/country:in/state:up/district:so/cd:robertsganj,Robertsganj
-ocd-division/country:in/state:up/district:bo/cd:aurai,Aurai (SC)
-ocd-division/country:in/state:up/district:bo/cd:bhadohi,Bhadohi
-ocd-division/country:in/state:up/district:bo/cd:gyanpur,Gyanpur
-ocd-division/country:in/state:up/district:am/cd:amethi,Amethi
-ocd-division/country:in/state:up/district:am/cd:gauriganj,Gauriganj
 ocd-division/country:in/state:up/district:su/cd:isauli,Isauli
-ocd-division/country:in/state:up/district:am/cd:jagdishpur,Jagdishpur (SC)
 ocd-division/country:in/state:up/district:su/cd:kadipur,Kadipur (SC)
 ocd-division/country:in/state:up/district:su/cd:lambhua,Lambhua
 ocd-division/country:in/state:up/district:su/cd:sadar,Sadar
@@ -3638,6 +3638,11 @@ ocd-division/country:in/state:ut/district:un/cd:sitarganj,Sitarganj
 ocd-division/country:in/state:ut/district:ut/cd:gangotri,Gangotri
 ocd-division/country:in/state:ut/district:ut/cd:purola,Purola (SC)
 ocd-division/country:in/state:ut/district:ut/cd:yamunotri,Yamunotri
+ocd-division/country:in/state:wb/district:al/cd:alipurduars,Alipurduars
+ocd-division/country:in/state:wb/district:al/cd:falakata,Falakata (Sc)
+ocd-division/country:in/state:wb/district:al/cd:kalchini,Kalchini(St)
+ocd-division/country:in/state:wb/district:al/cd:kumargram,Kumargram (St)
+ocd-division/country:in/state:wb/district:al/cd:madarihat,Madarihat (St)
 ocd-division/country:in/state:wb/district:ba/cd:bankura,Bankura
 ocd-division/country:in/state:wb/district:ba/cd:barjora,Barjora
 ocd-division/country:in/state:wb/district:ba/cd:bishnupur,Bishnupur
@@ -3661,31 +3666,6 @@ ocd-division/country:in/state:wb/district:bi/cd:nanoor,Nanoor (Sc)
 ocd-division/country:in/state:wb/district:bi/cd:rampurhat,Rampurhat
 ocd-division/country:in/state:wb/district:bi/cd:sainthia,Sainthia (Sc)
 ocd-division/country:in/state:wb/district:bi/cd:suri,Suri
-ocd-division/country:in/state:wb/district:pa/cd:asansol_dakshin,Asansol Dakshin
-ocd-division/country:in/state:wb/district:pa/cd:asansol_uttar,Asansol Uttar
-ocd-division/country:in/state:wb/district:pb/cd:ausgram,Ausgram (Sc)
-ocd-division/country:in/state:wb/district:pa/cd:barabani,Barabani
-ocd-division/country:in/state:wb/district:pb/cd:bardhaman_uttar,Bardhaman Uttar (Sc)
-ocd-division/country:in/state:wb/district:pb/cd:bardhamandakshin,Bardhamandakshin
-ocd-division/country:in/state:wb/district:pb/cd:bhatar,Bhatar
-ocd-division/country:in/state:wb/district:pa/cd:durgapur_paschim,Durgapur Paschim
-ocd-division/country:in/state:wb/district:pa/cd:durgapur_purba,Durgapur Purba
-ocd-division/country:in/state:wb/district:pb/cd:galsi,Galsi (Sc)
-ocd-division/country:in/state:wb/district:pb/cd:jamalpur,Jamalpur (Sc)
-ocd-division/country:in/state:wb/district:pa/cd:jamuria,Jamuria
-ocd-division/country:in/state:wb/district:pb/cd:kalna,Kalna (Sc)
-ocd-division/country:in/state:wb/district:pb/cd:katwa,Katwa
-ocd-division/country:in/state:wb/district:pb/cd:ketugram,Ketugram
-ocd-division/country:in/state:wb/district:pb/cd:khandaghosh,Khandaghosh(Sc)
-ocd-division/country:in/state:wb/district:pa/cd:kulti,Kulti
-ocd-division/country:in/state:wb/district:pb/cd:mangalkot,Mangalkot
-ocd-division/country:in/state:wb/district:pb/cd:memari,Memari
-ocd-division/country:in/state:wb/district:pb/cd:monteswar,Monteswar
-ocd-division/country:in/state:wb/district:pa/cd:pandabeswar,Pandabeswar
-ocd-division/country:in/state:wb/district:pb/cd:purbasthali_uttar,Purbasthali Uttar
-ocd-division/country:in/state:wb/district:pb/cd:purbasthalidakshin,Purbasthalidakshin
-ocd-division/country:in/state:wb/district:pb/cd:raina,Raina (Sc)
-ocd-division/country:in/state:wb/district:pa/cd:raniganj,Raniganj
 ocd-division/country:in/state:wb/district:co/cd:coochbehar_dakshin,Coochbehar Dakshin
 ocd-division/country:in/state:wb/district:co/cd:coochbehar_uttar,Coochbehar Uttar (Sc)
 ocd-division/country:in/state:wb/district:co/cd:dinhata,Dinhata
@@ -3741,29 +3721,28 @@ ocd-division/country:in/state:wb/district:ho/cd:udaynarayanpur,Udaynarayanpur
 ocd-division/country:in/state:wb/district:ho/cd:uluberia_dakshin,Uluberia Dakshin
 ocd-division/country:in/state:wb/district:ho/cd:uluberia_purba,Uluberia Purba
 ocd-division/country:in/state:wb/district:ho/cd:uluberia_uttar,Uluberia Uttar (Sc)
-ocd-division/country:in/state:wb/district:al/cd:alipurduars,Alipurduars
 ocd-division/country:in/state:wb/district:ja/cd:dabgram-fulbari,Dabgram-Fulbari
 ocd-division/country:in/state:wb/district:ja/cd:dhupguri,Dhupguri(Sc)
-ocd-division/country:in/state:wb/district:al/cd:falakata,Falakata (Sc)
 ocd-division/country:in/state:wb/district:ja/cd:jalpaiguri,Jalpaiguri(Sc)
-ocd-division/country:in/state:wb/district:al/cd:kalchini,Kalchini(St)
-ocd-division/country:in/state:wb/district:al/cd:kumargram,Kumargram (St)
-ocd-division/country:in/state:wb/district:al/cd:madarihat,Madarihat (St)
 ocd-division/country:in/state:wb/district:ja/cd:mal,Mal (St)
 ocd-division/country:in/state:wb/district:ja/cd:maynaguri,Maynaguri(Sc)
 ocd-division/country:in/state:wb/district:ja/cd:nagrakata,Nagrakata (St)
 ocd-division/country:in/state:wb/district:ja/cd:rajganj,Rajganj(Sc)
-ocd-division/country:in/state:wb/district:ks/cd:ballygunge,Ballygunge
+ocd-division/country:in/state:wb/district:jh/cd:binpur,Binpur (St)
+ocd-division/country:in/state:wb/district:jh/cd:gopiballavpur,Gopiballavpur
+ocd-division/country:in/state:wb/district:jh/cd:jhargram,Jhargram
+ocd-division/country:in/state:wb/district:jh/cd:nayagram,Nayagram (St)
 ocd-division/country:in/state:wb/district:kn/cd:beleghata,Beleghata
-ocd-division/country:in/state:wb/district:ks/cd:bhabanipur,Bhabanipur
 ocd-division/country:in/state:wb/district:kn/cd:chowrangee,Chowrangee
 ocd-division/country:in/state:wb/district:kn/cd:entally,Entally
 ocd-division/country:in/state:wb/district:kn/cd:jorasanko,Jorasanko
 ocd-division/country:in/state:wb/district:kn/cd:kashipur-belgachhia,Kashipur-Belgachhia
-ocd-division/country:in/state:wb/district:ks/cd:kolkata_port,Kolkata Port
 ocd-division/country:in/state:wb/district:kn/cd:maniktala,Maniktala
-ocd-division/country:in/state:wb/district:ks/cd:rashbehari,Rashbehari
 ocd-division/country:in/state:wb/district:kn/cd:shyampukur,Shyampukur
+ocd-division/country:in/state:wb/district:ks/cd:ballygunge,Ballygunge
+ocd-division/country:in/state:wb/district:ks/cd:bhabanipur,Bhabanipur
+ocd-division/country:in/state:wb/district:ks/cd:kolkata_port,Kolkata Port
+ocd-division/country:in/state:wb/district:ks/cd:rashbehari,Rashbehari
 ocd-division/country:in/state:wb/district:md/cd:baisnabnagar,Baisnabnagar
 ocd-division/country:in/state:wb/district:md/cd:chanchal,Chanchal
 ocd-division/country:in/state:wb/district:md/cd:english_bazar,English Bazar
@@ -3848,22 +3827,43 @@ ocd-division/country:in/state:wb/district:np/cd:rajarhat_gopalpur,Rajarhat Gopal
 ocd-division/country:in/state:wb/district:np/cd:rajarhat_new_town,Rajarhat New Town
 ocd-division/country:in/state:wb/district:np/cd:sandeshkhali,Sandeshkhali(St)
 ocd-division/country:in/state:wb/district:np/cd:swarupnagar,Swarupnagar (Sc)
-ocd-division/country:in/state:wb/district:jh/cd:binpur,Binpur (St)
+ocd-division/country:in/state:wb/district:pa/cd:asansol_dakshin,Asansol Dakshin
+ocd-division/country:in/state:wb/district:pa/cd:asansol_uttar,Asansol Uttar
+ocd-division/country:in/state:wb/district:pa/cd:barabani,Barabani
+ocd-division/country:in/state:wb/district:pa/cd:durgapur_paschim,Durgapur Paschim
+ocd-division/country:in/state:wb/district:pa/cd:durgapur_purba,Durgapur Purba
+ocd-division/country:in/state:wb/district:pa/cd:jamuria,Jamuria
+ocd-division/country:in/state:wb/district:pa/cd:kulti,Kulti
+ocd-division/country:in/state:wb/district:pa/cd:pandabeswar,Pandabeswar
+ocd-division/country:in/state:wb/district:pa/cd:raniganj,Raniganj
+ocd-division/country:in/state:wb/district:pb/cd:ausgram,Ausgram (Sc)
+ocd-division/country:in/state:wb/district:pb/cd:bardhaman_uttar,Bardhaman Uttar (Sc)
+ocd-division/country:in/state:wb/district:pb/cd:bardhamandakshin,Bardhamandakshin
+ocd-division/country:in/state:wb/district:pb/cd:bhatar,Bhatar
+ocd-division/country:in/state:wb/district:pb/cd:galsi,Galsi (Sc)
+ocd-division/country:in/state:wb/district:pb/cd:jamalpur,Jamalpur (Sc)
+ocd-division/country:in/state:wb/district:pb/cd:kalna,Kalna (Sc)
+ocd-division/country:in/state:wb/district:pb/cd:katwa,Katwa
+ocd-division/country:in/state:wb/district:pb/cd:ketugram,Ketugram
+ocd-division/country:in/state:wb/district:pb/cd:khandaghosh,Khandaghosh(Sc)
+ocd-division/country:in/state:wb/district:pb/cd:mangalkot,Mangalkot
+ocd-division/country:in/state:wb/district:pb/cd:memari,Memari
+ocd-division/country:in/state:wb/district:pb/cd:monteswar,Monteswar
+ocd-division/country:in/state:wb/district:pb/cd:purbasthali_uttar,Purbasthali Uttar
+ocd-division/country:in/state:wb/district:pb/cd:purbasthalidakshin,Purbasthalidakshin
+ocd-division/country:in/state:wb/district:pb/cd:raina,Raina (Sc)
 ocd-division/country:in/state:wb/district:pm/cd:chandrakona,Chandrakona (Sc)
 ocd-division/country:in/state:wb/district:pm/cd:dantan,Dantan
 ocd-division/country:in/state:wb/district:pm/cd:daspur,Daspur
 ocd-division/country:in/state:wb/district:pm/cd:debra,Debra
 ocd-division/country:in/state:wb/district:pm/cd:garbeta,Garbeta
 ocd-division/country:in/state:wb/district:pm/cd:ghatal,Ghatal (Sc)
-ocd-division/country:in/state:wb/district:jh/cd:gopiballavpur,Gopiballavpur
-ocd-division/country:in/state:wb/district:jh/cd:jhargram,Jhargram
 ocd-division/country:in/state:wb/district:pm/cd:keshiary,Keshiary (St)
 ocd-division/country:in/state:wb/district:pm/cd:keshpur,Keshpur (Sc)
 ocd-division/country:in/state:wb/district:pm/cd:kharagpur,Kharagpur
 ocd-division/country:in/state:wb/district:pm/cd:kharagpur_sadar,Kharagpur Sadar
 ocd-division/country:in/state:wb/district:pm/cd:medinipur,Medinipur
 ocd-division/country:in/state:wb/district:pm/cd:narayangarh,Narayangarh
-ocd-division/country:in/state:wb/district:jh/cd:nayagram,Nayagram (St)
 ocd-division/country:in/state:wb/district:pm/cd:pingla,Pingla
 ocd-division/country:in/state:wb/district:pm/cd:sabang,Sabang
 ocd-division/country:in/state:wb/district:pm/cd:salboni,Salboni
@@ -4002,6 +4002,96 @@ ocd-division/country:in/territory:dl/district:wd/cd:moti_nagar,Moti Nagar
 ocd-division/country:in/territory:dl/district:wd/cd:nangloi_jat,Nangloi Jat
 ocd-division/country:in/territory:dl/district:wd/cd:rajouri_garden,Rajouri Garden
 ocd-division/country:in/territory:dl/district:wd/cd:tilak_nagar,Tilak Nagar
+ocd-division/country:in/territory:jk/district:an/cd:anantnag,Anantnag
+ocd-division/country:in/territory:jk/district:an/cd:anantnag_west,Anantnag West
+ocd-division/country:in/territory:jk/district:an/cd:dooru,Dooru
+ocd-division/country:in/territory:jk/district:an/cd:kokernag,Kokernag (ST)
+ocd-division/country:in/territory:jk/district:an/cd:pahalgam,Pahalgam
+ocd-division/country:in/territory:jk/district:an/cd:shangus-anantnag_east,Shangus - Anantnag East
+ocd-division/country:in/territory:jk/district:an/cd:srigufwara-bijbehra,Srigufwara-Bijbehra
+ocd-division/country:in/territory:jk/district:bn/cd:bandipora,Bandipora
+ocd-division/country:in/territory:jk/district:bn/cd:gurez,Gurez (ST)
+ocd-division/country:in/territory:jk/district:bn/cd:sonawari,Sonawari
+ocd-division/country:in/territory:jk/district:br/cd:baramulla,Baramulla
+ocd-division/country:in/territory:jk/district:br/cd:gulmarg,Gulmarg
+ocd-division/country:in/territory:jk/district:br/cd:pattan,Pattan
+ocd-division/country:in/territory:jk/district:br/cd:rafiabad,Rafiabad
+ocd-division/country:in/territory:jk/district:br/cd:sopore,Sopore
+ocd-division/country:in/territory:jk/district:br/cd:uri,Uri
+ocd-division/country:in/territory:jk/district:br/cd:wagoora-kreeri,Wagoora-Kreeri
+ocd-division/country:in/territory:jk/district:bu/cd:beerwah,Beerwah
+ocd-division/country:in/territory:jk/district:bu/cd:budgam,Budgam
+ocd-division/country:in/territory:jk/district:bu/cd:chadoora,Chadoora
+ocd-division/country:in/territory:jk/district:bu/cd:chrar-i-sharief,Chrar-i-Sharief
+ocd-division/country:in/territory:jk/district:bu/cd:khan_sahib,Khan Sahib
+ocd-division/country:in/territory:jk/district:do/cd:bhadarwah,Bhadarwah
+ocd-division/country:in/territory:jk/district:do/cd:doda,Doda
+ocd-division/country:in/territory:jk/district:do/cd:doda_west,Doda West
+ocd-division/country:in/territory:jk/district:ga/cd:ganderbal,Ganderbal
+ocd-division/country:in/territory:jk/district:ga/cd:kangan,Kangan (ST)
+ocd-division/country:in/territory:jk/district:ja/cd:akhnoor,Akhnoor (SC)
+ocd-division/country:in/territory:jk/district:ja/cd:bahu,Bahu
+ocd-division/country:in/territory:jk/district:ja/cd:bishnah,Bishnah (SC)
+ocd-division/country:in/territory:jk/district:ja/cd:chhamb,Chhamb
+ocd-division/country:in/territory:jk/district:ja/cd:jammu_east,Jammu East
+ocd-division/country:in/territory:jk/district:ja/cd:jammu_north,Jammu North
+ocd-division/country:in/territory:jk/district:ja/cd:jammu_west,Jammu West
+ocd-division/country:in/territory:jk/district:ja/cd:marh,Marh (SC)
+ocd-division/country:in/territory:jk/district:ja/cd:nagrota,Nagrota
+ocd-division/country:in/territory:jk/district:ja/cd:rs_pura-jammu_south,R.S. Pura - Jammu South
+ocd-division/country:in/territory:jk/district:ja/cd:suchetgarh,Suchetgarh (SC)
+ocd-division/country:in/territory:jk/district:ka/cd:bani,Bani
+ocd-division/country:in/territory:jk/district:ka/cd:basohli,Basohli
+ocd-division/country:in/territory:jk/district:ka/cd:billawar,Billawar
+ocd-division/country:in/territory:jk/district:ka/cd:hiranagar,Hiranagar
+ocd-division/country:in/territory:jk/district:ka/cd:jasrota,Jasrota
+ocd-division/country:in/territory:jk/district:ka/cd:kathua,Kathua (SC)
+ocd-division/country:in/territory:jk/district:ki/cd:inderwal,Inderwal
+ocd-division/country:in/territory:jk/district:ki/cd:kishtwar,Kishtwar
+ocd-division/country:in/territory:jk/district:ki/cd:padder-nagseni,Padder-Nagseni
+ocd-division/country:in/territory:jk/district:kl/cd:d_h_pora,D. H. Pora
+ocd-division/country:in/territory:jk/district:kl/cd:devsar,Devsar
+ocd-division/country:in/territory:jk/district:kl/cd:kulgam,Kulgam
+ocd-division/country:in/territory:jk/district:kp/cd:handwara,Handwara
+ocd-division/country:in/territory:jk/district:kp/cd:karnah,Karnah
+ocd-division/country:in/territory:jk/district:kp/cd:kupwara,Kupwara
+ocd-division/country:in/territory:jk/district:kp/cd:langate,Langate
+ocd-division/country:in/territory:jk/district:kp/cd:lolab,Lolab
+ocd-division/country:in/territory:jk/district:kp/cd:trehgam,Trehgam
+ocd-division/country:in/territory:jk/district:po/cd:mendhar,Mendhar (ST)
+ocd-division/country:in/territory:jk/district:po/cd:poonch_haveli,Poonch Haveli
+ocd-division/country:in/territory:jk/district:po/cd:surankote,Surankote (ST)
+ocd-division/country:in/territory:jk/district:pu/cd:pampore,Pampore
+ocd-division/country:in/territory:jk/district:pu/cd:pulwama,Pulwama
+ocd-division/country:in/territory:jk/district:pu/cd:rajpora,Rajpora
+ocd-division/country:in/territory:jk/district:pu/cd:tral,Tral
+ocd-division/country:in/territory:jk/district:re/cd:gulabgarh,Gulabgarh (ST)
+ocd-division/country:in/territory:jk/district:re/cd:reasi,Reasi
+ocd-division/country:in/territory:jk/district:re/cd:shri_mata_vaishno_devi,Shri Mata Vaishno Devi
+ocd-division/country:in/territory:jk/district:rj/cd:budhal,Budhal (ST)
+ocd-division/country:in/territory:jk/district:rj/cd:kalakote-sunderbani,Kalakote - Sunderbani
+ocd-division/country:in/territory:jk/district:rj/cd:nowshera,Nowshera
+ocd-division/country:in/territory:jk/district:rj/cd:rajouri,Rajouri (ST)
+ocd-division/country:in/territory:jk/district:rj/cd:thannamandi,Thannamandi (ST)
+ocd-division/country:in/territory:jk/district:rm/cd:banihal,Banihal
+ocd-division/country:in/territory:jk/district:rm/cd:ramban,Ramban
+ocd-division/country:in/territory:jk/district:sa/cd:ramgarh,Ramgarh (SC)
+ocd-division/country:in/territory:jk/district:sa/cd:samba,Samba
+ocd-division/country:in/territory:jk/district:sa/cd:vijaypur,Vijaypur
+ocd-division/country:in/territory:jk/district:sh/cd:shopian,Shopian
+ocd-division/country:in/territory:jk/district:sh/cd:zainapora,Zainapora
+ocd-division/country:in/territory:jk/district:sr/cd:central_shalteng,Central Shalteng
+ocd-division/country:in/territory:jk/district:sr/cd:channapora,Channapora
+ocd-division/country:in/territory:jk/district:sr/cd:eidgah,Eidgah
+ocd-division/country:in/territory:jk/district:sr/cd:habba_kadal,Habba Kadal
+ocd-division/country:in/territory:jk/district:sr/cd:hazratbal,Hazratbal
+ocd-division/country:in/territory:jk/district:sr/cd:khanyar,Khanyar
+ocd-division/country:in/territory:jk/district:sr/cd:lal_chowk,Lal Chowk
+ocd-division/country:in/territory:jk/district:sr/cd:zadibal,Zadibal
+ocd-division/country:in/territory:jk/district:ud/cd:chenani,Chenani
+ocd-division/country:in/territory:jk/district:ud/cd:ramnagar,Ramnagar (SC)
+ocd-division/country:in/territory:jk/district:ud/cd:udhampur_east,Udhampur East
+ocd-division/country:in/territory:jk/district:ud/cd:udhampur_west,Udhampur West
 ocd-division/country:in/territory:py/district:ka/cd:karaikal_north,Karaikal North
 ocd-division/country:in/territory:py/district:ka/cd:karaikal_south,Karaikal South
 ocd-division/country:in/territory:py/district:ka/cd:nedungadu,Nedungadu
