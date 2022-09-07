@@ -198,17 +198,41 @@ ocd-division/country:in/state:hr/district:ro,Rohtak
 ocd-division/country:in/state:hr/district:si,Sirsa
 ocd-division/country:in/state:hr/district:so,Sonipat
 ocd-division/country:in/state:hr/district:yn,Yamunanagar
+ocd-division/country:in/state:jh/district:bo,Bokaro
+ocd-division/country:in/state:jh/district:ch,Chatra
+ocd-division/country:in/state:jh/district:de,Deoghar
+ocd-division/country:in/state:jh/district:dh,Dhanbad
+ocd-division/country:in/state:jh/district:du,Dumka
+ocd-division/country:in/state:jh/district:es,East Singhbhum
+ocd-division/country:in/state:jh/district:ga,Garhwa
+ocd-division/country:in/state:jh/district:gi,Giridih
+ocd-division/country:in/state:jh/district:go,Godda
+ocd-division/country:in/state:jh/district:gu,Gumla
+ocd-division/country:in/state:jh/district:ha,Hazaribagh
+ocd-division/country:in/state:jh/district:ja,Jamtara
+ocd-division/country:in/state:jh/district:kh,Khunti
+ocd-division/country:in/state:jh/district:ko,Kodarma
+ocd-division/country:in/state:jh/district:la,Latehar
+ocd-division/country:in/state:jh/district:lo,Lohardaga
+ocd-division/country:in/state:jh/district:pk,Pakur
+ocd-division/country:in/state:jh/district:pl,Palamu
+ocd-division/country:in/state:jh/district:ra,Ranchi
+ocd-division/country:in/state:jh/district:rm,Ramgarh
+ocd-division/country:in/state:jh/district:sa,Sahebganj
+ocd-division/country:in/state:jh/district:si,Simdega
+ocd-division/country:in/state:jh/district:sk,Saraikela Kharswan
+ocd-division/country:in/state:jh/district:ws,West Singhbhum
+ocd-division/country:in/state:ka/district:bc,Bangalore BBMP Central
 ocd-division/country:in/state:ka/district:be,Belgaum
 ocd-division/country:in/state:ka/district:bg,Bagalkot
+ocd-division/country:in/state:ka/district:bh,Bangalore BBMP North
 ocd-division/country:in/state:ka/district:bi,Bidar
 ocd-division/country:in/state:ka/district:bj,Bijapur
 ocd-division/country:in/state:ka/district:bl,Bellary
 ocd-division/country:in/state:ka/district:bn,Bangalore
-ocd-division/country:in/state:ka/district:bc,Bangalore BBMP Central
-ocd-division/country:in/state:ka/district:bh,Bangalore BBMP North
+ocd-division/country:in/state:ka/district:br,Bangalore Rural
 ocd-division/country:in/state:ka/district:bs,Bangalore BBMP South
 ocd-division/country:in/state:ka/district:bu,Bangalore Urban
-ocd-division/country:in/state:ka/district:br,Bangalore Rural
 ocd-division/country:in/state:ka/district:ca,Chamarajanagar
 ocd-division/country:in/state:ka/district:cb,Chikkaballapur
 ocd-division/country:in/state:ka/district:ch,Chitradurga
@@ -246,30 +270,6 @@ ocd-division/country:in/state:kl/district:pt,Pathanamthitta
 ocd-division/country:in/state:kl/district:th,Thrissur
 ocd-division/country:in/state:kl/district:ti,Thiruvananthapuram
 ocd-division/country:in/state:kl/district:wa,Wayanad
-ocd-division/country:in/state:jh/district:bo,Bokaro
-ocd-division/country:in/state:jh/district:ch,Chatra
-ocd-division/country:in/state:jh/district:de,Deoghar
-ocd-division/country:in/state:jh/district:dh,Dhanbad
-ocd-division/country:in/state:jh/district:du,Dumka
-ocd-division/country:in/state:jh/district:es,East Singhbhum
-ocd-division/country:in/state:jh/district:ga,Garhwa
-ocd-division/country:in/state:jh/district:gi,Giridih
-ocd-division/country:in/state:jh/district:go,Godda
-ocd-division/country:in/state:jh/district:gu,Gumla
-ocd-division/country:in/state:jh/district:ha,Hazaribagh
-ocd-division/country:in/state:jh/district:ja,Jamtara
-ocd-division/country:in/state:jh/district:kh,Khunti
-ocd-division/country:in/state:jh/district:ko,Kodarma
-ocd-division/country:in/state:jh/district:la,Latehar
-ocd-division/country:in/state:jh/district:lo,Lohardaga
-ocd-division/country:in/state:jh/district:pk,Pakur
-ocd-division/country:in/state:jh/district:pl,Palamu
-ocd-division/country:in/state:jh/district:ra,Ranchi
-ocd-division/country:in/state:jh/district:rm,Ramgarh
-ocd-division/country:in/state:jh/district:sa,Sahebganj
-ocd-division/country:in/state:jh/district:si,Simdega
-ocd-division/country:in/state:jh/district:sk,Saraikela Kharswan
-ocd-division/country:in/state:jh/district:ws,West Singhbhum
 ocd-division/country:in/state:mh/district:ah,Ahmednagar
 ocd-division/country:in/state:mh/district:ak,Akola
 ocd-division/country:in/state:mh/district:am,Amaravati
@@ -544,9 +544,9 @@ ocd-division/country:in/state:tn/district:ta,Thanjavur
 ocd-division/country:in/state:tn/district:tc,Tiruchirappalli
 ocd-division/country:in/state:tn/district:th,Theni
 ocd-division/country:in/state:tn/district:ti,Thiruvarur
-ocd-division/country:in/state:tn/district:tp,Tiruppur
 ocd-division/country:in/state:tn/district:tn,The Nilgiris
 ocd-division/country:in/state:tn/district:to,Thoothukkudi
+ocd-division/country:in/state:tn/district:tp,Tiruppur
 ocd-division/country:in/state:tn/district:tr,Thiruvallur
 ocd-division/country:in/state:tn/district:tu,Tirunelveli
 ocd-division/country:in/state:tn/district:tv,Tiruvannamalai
@@ -565,10 +565,10 @@ ocd-division/country:in/state:up/district:ag,Agra
 ocd-division/country:in/state:up/district:ah,Allahabad
 ocd-division/country:in/state:up/district:al,Aligarh
 ocd-division/country:in/state:up/district:am,Amethi
-ocd-division/country:in/state:up/district:ar,Amroha
-ocd-division/country:in/state:up/district:ay,Ayodhya
 ocd-division/country:in/state:up/district:an,Ambedkar Nagar
+ocd-division/country:in/state:up/district:ar,Amroha
 ocd-division/country:in/state:up/district:au,Auraiya
+ocd-division/country:in/state:up/district:ay,Ayodhya
 ocd-division/country:in/state:up/district:az,Azamgarh
 ocd-division/country:in/state:up/district:ba,Baghpat
 ocd-division/country:in/state:up/district:bb,Barabanki
@@ -598,8 +598,8 @@ ocd-division/country:in/state:up/district:gr,Gorakhpur
 ocd-division/country:in/state:up/district:gz,Ghaziabad
 ocd-division/country:in/state:up/district:ha,Hapur
 ocd-division/country:in/state:up/district:hm,Hamirpur
-ocd-division/country:in/state:up/district:ht,Hathras
 ocd-division/country:in/state:up/district:hr,Hardoi
+ocd-division/country:in/state:up/district:ht,Hathras
 ocd-division/country:in/state:up/district:jh,Jhansi
 ocd-division/country:in/state:up/district:jl,Jalaun
 ocd-division/country:in/state:up/district:jp,Jyotiba Phule Nagar
@@ -667,8 +667,8 @@ ocd-division/country:in/state:wb/district:ho,Howrah
 ocd-division/country:in/state:wb/district:ja,Jalpaiguri
 ocd-division/country:in/state:wb/district:jh,Jhargram
 ocd-division/country:in/state:wb/district:kn,Kolkata North
-ocd-division/country:in/state:wb/district:ks,Kolkata South
 ocd-division/country:in/state:wb/district:ko,Kolkata
+ocd-division/country:in/state:wb/district:ks,Kolkata South
 ocd-division/country:in/state:wb/district:ma,Maldaha
 ocd-division/country:in/state:wb/district:md,Malda
 ocd-division/country:in/state:wb/district:mu,Murshidabad
@@ -692,6 +692,26 @@ ocd-division/country:in/territory:dl/district:se,South East Delhi
 ocd-division/country:in/territory:dl/district:sh,Shahdara
 ocd-division/country:in/territory:dl/district:sw,South West Delhi
 ocd-division/country:in/territory:dl/district:wd,West Delhi
+ocd-division/country:in/territory:jk/district:an,Anantnag
+ocd-division/country:in/territory:jk/district:bn,Bandipora
+ocd-division/country:in/territory:jk/district:br,Baramulla
+ocd-division/country:in/territory:jk/district:bu,Budgam
+ocd-division/country:in/territory:jk/district:do,Doda
+ocd-division/country:in/territory:jk/district:ga,Ganderbal
+ocd-division/country:in/territory:jk/district:ja,Jammu
+ocd-division/country:in/territory:jk/district:ka,Kathua
+ocd-division/country:in/territory:jk/district:ki,Kishtawar
+ocd-division/country:in/territory:jk/district:kl,Kulgam
+ocd-division/country:in/territory:jk/district:kp,Kupwara
+ocd-division/country:in/territory:jk/district:po,Poonch
+ocd-division/country:in/territory:jk/district:pu,Pulwama
+ocd-division/country:in/territory:jk/district:re,Reasi
+ocd-division/country:in/territory:jk/district:rj,Rajouri
+ocd-division/country:in/territory:jk/district:rm,Ramban
+ocd-division/country:in/territory:jk/district:sa,Samba
+ocd-division/country:in/territory:jk/district:sh,Shopian
+ocd-division/country:in/territory:jk/district:sr,Srinagar
+ocd-division/country:in/territory:jk/district:ud,Udhampur
 ocd-division/country:in/territory:py/district:ka,Karaikal
 ocd-division/country:in/territory:py/district:ma,Mahe
 ocd-division/country:in/territory:py/district:pu,Puducherry
