@@ -88,6 +88,8 @@ ocd-division/country:us/state:sc/county:chester/council_district:6,Chester Counc
 ocd-division/country:us/state:sc/county:clarendon/council_district:1,Clarendon Council District 1
 ocd-division/country:us/state:sc/county:clarendon/council_district:2,Clarendon Council District 2
 ocd-division/country:us/state:sc/county:clarendon/council_district:3,Clarendon Council District 3
+ocd-division/country:us/state:sc/county:colleton/council_district:eastern,Colleton Council District Eastern
+ocd-division/country:us/state:sc/county:colleton/council_district:western,Colleton Council District Western
 ocd-division/country:us/state:sc/county:darlington/council_district:1,Darlington Council District 1
 ocd-division/country:us/state:sc/county:darlington/council_district:2,Darlington Council District 2
 ocd-division/country:us/state:sc/county:darlington/council_district:3,Darlington Council District 3
@@ -297,10 +299,6 @@ ocd-division/country:us/state:sc/county:york/council_district:4,York County SC C
 ocd-division/country:us/state:sc/county:york/council_district:5,York County SC County Council District 5
 ocd-division/country:us/state:sc/county:york/council_district:6,York County SC County Council District 6
 ocd-division/country:us/state:sc/county:york/council_district:7,York County SC County Council District 7
-ocd-division/country:us/state:sc/place:columbia/council_district:1,Columbia SC city council district 1
-ocd-division/country:us/state:sc/place:columbia/council_district:2,Columbia SC city council district 2
-ocd-division/country:us/state:sc/place:columbia/council_district:3,Columbia SC city council district 3
-ocd-division/country:us/state:sc/place:columbia/council_district:4,Columbia SC city council district 4
 ocd-division/country:us/state:sc/place:charleston/council_district:1,Charleston SC city council district 1
 ocd-division/country:us/state:sc/place:charleston/council_district:2,Charleston SC city council district 2
 ocd-division/country:us/state:sc/place:charleston/council_district:3,Charleston SC city council district 3
@@ -313,6 +311,10 @@ ocd-division/country:us/state:sc/place:charleston/council_district:9,Charleston 
 ocd-division/country:us/state:sc/place:charleston/council_district:10,Charleston SC city council district 10
 ocd-division/country:us/state:sc/place:charleston/council_district:11,Charleston SC city council district 11
 ocd-division/country:us/state:sc/place:charleston/council_district:12,Charleston SC city council district 12
+ocd-division/country:us/state:sc/place:columbia/council_district:1,Columbia SC city council district 1
+ocd-division/country:us/state:sc/place:columbia/council_district:2,Columbia SC city council district 2
+ocd-division/country:us/state:sc/place:columbia/council_district:3,Columbia SC city council district 3
+ocd-division/country:us/state:sc/place:columbia/council_district:4,Columbia SC city council district 4
 ocd-division/country:us/state:sc/place:north_charleston/council_district:1,North Charleston SC city council district 1
 ocd-division/country:us/state:sc/place:north_charleston/council_district:2,North Charleston SC city council district 2
 ocd-division/country:us/state:sc/place:north_charleston/council_district:3,North Charleston SC city council district 3
