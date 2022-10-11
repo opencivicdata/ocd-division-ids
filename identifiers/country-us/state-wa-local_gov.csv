@@ -17,6 +17,7 @@ ocd-division/country:us/state:wa/county:clark/council_district:1,Clark County WA
 ocd-division/country:us/state:wa/county:clark/council_district:2,Clark County WA County Commissioner District 2
 ocd-division/country:us/state:wa/county:clark/council_district:3,Clark County WA County Commissioner District 3
 ocd-division/country:us/state:wa/county:clark/council_district:4,Clark County WA County Commissioner District 4
+ocd-division/country:us/state:wa/county:clark/council_district:5,Clark County WA County Commissioner District 5
 ocd-division/country:us/state:wa/county:columbia/council_district:1,Columbia County District 1
 ocd-division/country:us/state:wa/county:columbia/council_district:2,Columbia County District 2
 ocd-division/country:us/state:wa/county:columbia/council_district:3,Columbia County District 3
@@ -104,6 +105,8 @@ ocd-division/country:us/state:wa/county:snohomish/council_district:5,Snohomish C
 ocd-division/country:us/state:wa/county:spokane/council_district:1,Spokane County WA County Commissioner District 1
 ocd-division/country:us/state:wa/county:spokane/council_district:2,Spokane County WA County Commissioner District 2
 ocd-division/country:us/state:wa/county:spokane/council_district:3,Spokane County WA County Commissioner District 3
+ocd-division/country:us/state:wa/county:spokane/council_district:4,Spokane County WA County Commissioner District 4
+ocd-division/country:us/state:wa/county:spokane/council_district:5,Spokane County WA County Commissioner District 5
 ocd-division/country:us/state:wa/county:stevens/council_district:1,Stevens County District 1
 ocd-division/country:us/state:wa/county:stevens/council_district:2,Stevens County District 2
 ocd-division/country:us/state:wa/county:stevens/council_district:3,Stevens County District 3
@@ -127,13 +130,12 @@ ocd-division/country:us/state:wa/county:whitman/council_district:3,Whitman Count
 ocd-division/country:us/state:wa/county:yakima/council_district:1,Yakima County District 1
 ocd-division/country:us/state:wa/county:yakima/council_district:2,Yakima County District 2
 ocd-division/country:us/state:wa/county:yakima/council_district:3,Yakima County District 3
-ocd-division/country:us/state:wa/place:seattle/school_board_district:1,Seattle WA School Board District District 1
-ocd-division/country:us/state:wa/place:seattle/school_board_district:2,Seattle WA School Board District District 2
-ocd-division/country:us/state:wa/place:seattle/school_board_district:3,Seattle WA School Board District District 3
-ocd-division/country:us/state:wa/place:seattle/school_board_district:4,Seattle WA School Board District District 4
-ocd-division/country:us/state:wa/place:seattle/school_board_district:5,Seattle WA School Board District District 5
-ocd-division/country:us/state:wa/place:seattle/school_board_district:6,Seattle WA School Board District District 6
-ocd-division/country:us/state:wa/place:seattle/school_board_district:7,Seattle WA School Board District District 7
+ocd-division/country:us/state:wa/place:kennewick/ward:1,Kennewick WA Ward 1
+ocd-division/country:us/state:wa/place:kennewick/ward:2,Kennewick WA Ward 2
+ocd-division/country:us/state:wa/place:kennewick/ward:3,Kennewick WA Ward 3
+ocd-division/country:us/state:wa/place:raymond/ward:1,Raymond WA Ward 1
+ocd-division/country:us/state:wa/place:raymond/ward:2,Raymond WA Ward 2
+ocd-division/country:us/state:wa/place:raymond/ward:3,Raymond WA Ward 3
 ocd-division/country:us/state:wa/place:seattle/council_district:1,Seattle WA City Council District 1
 ocd-division/country:us/state:wa/place:seattle/council_district:2,Seattle WA City Council District 2
 ocd-division/country:us/state:wa/place:seattle/council_district:3,Seattle WA City Council District 3
@@ -141,6 +143,13 @@ ocd-division/country:us/state:wa/place:seattle/council_district:4,Seattle WA Cit
 ocd-division/country:us/state:wa/place:seattle/council_district:5,Seattle WA City Council District 5
 ocd-division/country:us/state:wa/place:seattle/council_district:6,Seattle WA City Council District 6
 ocd-division/country:us/state:wa/place:seattle/council_district:7,Seattle WA City Council District 7
+ocd-division/country:us/state:wa/place:seattle/school_board_district:1,Seattle WA School Board District District 1
+ocd-division/country:us/state:wa/place:seattle/school_board_district:2,Seattle WA School Board District District 2
+ocd-division/country:us/state:wa/place:seattle/school_board_district:3,Seattle WA School Board District District 3
+ocd-division/country:us/state:wa/place:seattle/school_board_district:4,Seattle WA School Board District District 4
+ocd-division/country:us/state:wa/place:seattle/school_board_district:5,Seattle WA School Board District District 5
+ocd-division/country:us/state:wa/place:seattle/school_board_district:6,Seattle WA School Board District District 6
+ocd-division/country:us/state:wa/place:seattle/school_board_district:7,Seattle WA School Board District District 7
 ocd-division/country:us/state:wa/place:spokane/council_district:1,Spokane WA City Council district 1
 ocd-division/country:us/state:wa/place:spokane/council_district:2,Spokane WA City Council district 2
 ocd-division/country:us/state:wa/place:spokane/council_district:3,Spokane WA City Council district 3
@@ -149,9 +158,3 @@ ocd-division/country:us/state:wa/place:tacoma/council_district:2,Tacoma WA City 
 ocd-division/country:us/state:wa/place:tacoma/council_district:3,Tacoma WA City Council district 3
 ocd-division/country:us/state:wa/place:tacoma/council_district:4,Tacoma WA City Council district 4
 ocd-division/country:us/state:wa/place:tacoma/council_district:5,Tacoma WA City Council district 5
-ocd-division/country:us/state:wa/place:kennewick/ward:1,Kennewick WA Ward 1
-ocd-division/country:us/state:wa/place:kennewick/ward:2,Kennewick WA Ward 2
-ocd-division/country:us/state:wa/place:kennewick/ward:3,Kennewick WA Ward 3
-ocd-division/country:us/state:wa/place:raymond/ward:1,Raymond WA Ward 1
-ocd-division/country:us/state:wa/place:raymond/ward:2,Raymond WA Ward 2
-ocd-division/country:us/state:wa/place:raymond/ward:3,Raymond WA Ward 3
