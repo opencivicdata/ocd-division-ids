@@ -1,0 +1,923 @@
+ocd-division/country:ca/territory:yt/ed:1,ocd-division/country:ca/territory:yt/ed:copperbelt_north,Copperbelt North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:2,ocd-division/country:ca/territory:yt/ed:copperbelt_south,Copperbelt South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:3,ocd-division/country:ca/territory:yt/ed:klondike,Klondike -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:4,ocd-division/country:ca/territory:yt/ed:kluane,Kluane -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:5,ocd-division/country:ca/territory:yt/ed:lake_laberge,Lake Laberge -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:6,ocd-division/country:ca/territory:yt/ed:mayo-tatchun,Mayo-Tatchun -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:7,ocd-division/country:ca/territory:yt/ed:mount_lorne-southern_lakes,Mount Lorne-Southern Lakes -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:8,ocd-division/country:ca/territory:yt/ed:mountainview,Mountainview -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:9,ocd-division/country:ca/territory:yt/ed:pelly-nisutlin,Pelly-Nisutlin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:10,ocd-division/country:ca/territory:yt/ed:porter_creek_centre,Porter Creek Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:11,ocd-division/country:ca/territory:yt/ed:porter_creek_north,Porter Creek North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:12,ocd-division/country:ca/territory:yt/ed:porter_creek_south,Porter Creek South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:13,ocd-division/country:ca/territory:yt/ed:riverdale_north,Riverdale North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:14,ocd-division/country:ca/territory:yt/ed:riverdale_south,Riverdale South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:15,ocd-division/country:ca/territory:yt/ed:takhini-kopper_king,Takhini-Kopper King -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:16,ocd-division/country:ca/territory:yt/ed:vuntut_gwitchin,Vuntut Gwitchin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:17,ocd-division/country:ca/territory:yt/ed:watson_lake,Watson Lake -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:18,ocd-division/country:ca/territory:yt/ed:whitehorse_centre,Whitehorse Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:19,ocd-division/country:ca/territory:yt/ed:whitehorse_west,Whitehorse West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:10001-2013,ocd-division/country:ca/ed:avalon,Avalon -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:10002-2013,ocd-division/country:ca/ed:bonavista—burin—trinity,Bonavista—Burin—Trinity -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:10003-2013,ocd-division/country:ca/ed:coast_of_bays—central—notre_dame,Coast of Bays—Central—Notre Dame -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:10004-2013,ocd-division/country:ca/ed:labrador,Labrador -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:10005-2013,ocd-division/country:ca/ed:long_range_mountains,Long Range Mountains -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:10006-2013,ocd-division/country:ca/ed:st._john's_east,St. John's East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:10007-2013,ocd-division/country:ca/ed:st._john's_south—mount_pearl,St. John's South—Mount Pearl -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:11001-2013,ocd-division/country:ca/ed:cardigan,Cardigan -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:11002-2013,ocd-division/country:ca/ed:charlottetown,Charlottetown -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:11003-2013,ocd-division/country:ca/ed:egmont,Egmont -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:11004-2013,ocd-division/country:ca/ed:malpeque,Malpeque -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:12001-2013,ocd-division/country:ca/ed:cape_breton—canso,Cape Breton—Canso -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:12002-2013,ocd-division/country:ca/ed:central_nova,Central Nova -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:12003-2013,ocd-division/country:ca/ed:cumberland—colchester,Cumberland—Colchester -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:12004-2013,ocd-division/country:ca/ed:dartmouth—cole_harbour,Dartmouth—Cole Harbour -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:12005-2013,ocd-division/country:ca/ed:halifax,Halifax -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:12006-2013,ocd-division/country:ca/ed:halifax_west,Halifax West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:12007-2013,ocd-division/country:ca/ed:kings—hants,Kings—Hants -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:12008-2013,ocd-division/country:ca/ed:sackville—preston—chezzetcook,Sackville—Preston—Chezzetcook -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:12009-2013,ocd-division/country:ca/ed:south_shore—st._margarets,South Shore—St. Margarets -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:12010-2013,ocd-division/country:ca/ed:sydney—victoria,Sydney—Victoria -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:12011-2013,ocd-division/country:ca/ed:west_nova,West Nova -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:13001-2013,ocd-division/country:ca/ed:acadie—bathurst,Acadie—Bathurst -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:13002-2013,ocd-division/country:ca/ed:beauséjour,Beauséjour -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:13003-2013,ocd-division/country:ca/ed:fredericton,Fredericton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:13004-2013,ocd-division/country:ca/ed:fundy_royal,Fundy Royal -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:13005-2013,ocd-division/country:ca/ed:madawaska—restigouche,Madawaska—Restigouche -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:13006-2013,ocd-division/country:ca/ed:miramichi—grand_lake,Miramichi—Grand Lake -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:13007-2013,ocd-division/country:ca/ed:moncton—riverview—dieppe,Moncton—Riverview—Dieppe -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:13008-2013,ocd-division/country:ca/ed:new_brunswick_southwest,New Brunswick Southwest -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:13009-2013,ocd-division/country:ca/ed:saint_john—rothesay,Saint John—Rothesay -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:13010-2013,ocd-division/country:ca/ed:tobique—mactaquac,Tobique—Mactaquac -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24001-2013,ocd-division/country:ca/ed:abitibi—baie-james—nunavik—eeyou,Abitibi—Baie-James—Nunavik—Eeyou -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24002-2013,ocd-division/country:ca/ed:abitibi—témiscamingue,Abitibi—Témiscamingue -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24003-2013,ocd-division/country:ca/ed:ahuntsic-cartierville,Ahuntsic-Cartierville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24004-2013,ocd-division/country:ca/ed:alfred-pellan,Alfred-Pellan -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24005-2013,ocd-division/country:ca/ed:argenteuil—la_petite-nation,Argenteuil—La Petite-Nation -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24006-2013,ocd-division/country:ca/ed:avignon—la_mitis—matane—matapédia,Avignon—La Mitis—Matane—Matapédia -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24007-2013,ocd-division/country:ca/ed:beauce,Beauce -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24008-2013,ocd-division/country:ca/ed:beauport—limoilou,Beauport—Limoilou -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24009-2013,ocd-division/country:ca/ed:bécancour—nicolet—saurel,Bécancour—Nicolet—Saurel -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24010-2013,ocd-division/country:ca/ed:bellechasse—les_etchemins—lévis,Bellechasse—Les Etchemins—Lévis -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24011-2013,ocd-division/country:ca/ed:beloeil—chambly,Beloeil—Chambly -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24012-2013,ocd-division/country:ca/ed:berthier—maskinongé,Berthier—Maskinongé -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24013-2013,ocd-division/country:ca/ed:thérèse-de_blainville,Thérèse-De Blainville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24014-2013,ocd-division/country:ca/ed:pierre-boucher—les_patriotes—verchères,Pierre-Boucher—Les Patriotes—Verchères -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24015-2013,ocd-division/country:ca/ed:bourassa,Bourassa -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24016-2013,ocd-division/country:ca/ed:brome—missisquoi,Brome—Missisquoi -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24017-2013,ocd-division/country:ca/ed:brossard—saint-lambert,Brossard—Saint-Lambert -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24018-2013,ocd-division/country:ca/ed:rimouski-neigette—témiscouata—les_basques,Rimouski-Neigette—Témiscouata—Les Basques -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24019-2013,ocd-division/country:ca/ed:charlesbourg—haute-saint-charles,Charlesbourg—Haute-Saint-Charles -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24020-2013,ocd-division/country:ca/ed:beauport—côte-de-beaupré—île_d'orléans—charlevoix,Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24021-2013,ocd-division/country:ca/ed:châteauguay—lacolle,Châteauguay—Lacolle -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24022-2013,ocd-division/country:ca/ed:chicoutimi—le_fjord,Chicoutimi—Le Fjord -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24023-2013,ocd-division/country:ca/ed:compton—stanstead,Compton—Stanstead -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24024-2013,ocd-division/country:ca/ed:dorval—lachine—lasalle,Dorval—Lachine—LaSalle -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24025-2013,ocd-division/country:ca/ed:drummond,Drummond -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24026-2013,ocd-division/country:ca/ed:gaspésie—les_îles-de-la-madeleine,Gaspésie—Les Îles-de-la-Madeleine -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24027-2013,ocd-division/country:ca/ed:gatineau,Gatineau -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24028-2013,ocd-division/country:ca/ed:hochelaga,Hochelaga -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24029-2013,ocd-division/country:ca/ed:honoré-mercier,Honoré-Mercier -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24030-2013,ocd-division/country:ca/ed:hull—aylmer,Hull—Aylmer -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24031-2013,ocd-division/country:ca/ed:joliette,Joliette -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24032-2013,ocd-division/country:ca/ed:jonquière,Jonquière -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24033-2013,ocd-division/country:ca/ed:la_pointe-de-l'île,La Pointe-de-l'Île -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24034-2013,ocd-division/country:ca/ed:la_prairie,La Prairie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24035-2013,ocd-division/country:ca/ed:lac-saint-jean,Lac-Saint-Jean -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24036-2013,ocd-division/country:ca/ed:lac-saint-louis,Lac-Saint-Louis -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24037-2013,ocd-division/country:ca/ed:lasalle—émard—verdun,LaSalle—Émard—Verdun -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24038-2013,ocd-division/country:ca/ed:laurentides—labelle,Laurentides—Labelle -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24039-2013,ocd-division/country:ca/ed:laurier—sainte-marie,Laurier—Sainte-Marie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24040-2013,ocd-division/country:ca/ed:laval—les_îles,Laval—Les Îles -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24041-2013,ocd-division/country:ca/ed:longueuil—charles-lemoyne,Longueuil—Charles-LeMoyne -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24042-2013,ocd-division/country:ca/ed:lévis—lotbinière,Lévis—Lotbinière -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24043-2013,ocd-division/country:ca/ed:longueuil—saint-hubert,Longueuil—Saint-Hubert -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24044-2013,ocd-division/country:ca/ed:louis-hébert,Louis-Hébert -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24045-2013,ocd-division/country:ca/ed:louis-saint-laurent,Louis-Saint-Laurent -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24046-2013,ocd-division/country:ca/ed:manicouagan,Manicouagan -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24047-2013,ocd-division/country:ca/ed:mégantic—l'érable,Mégantic—L'Érable -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24048-2013,ocd-division/country:ca/ed:mirabel,Mirabel -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24049-2013,ocd-division/country:ca/ed:montarville,Montarville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24050-2013,ocd-division/country:ca/ed:montcalm,Montcalm -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24051-2013,ocd-division/country:ca/ed:montmagny—l'islet—kamouraska—rivière-du-loup,Montmagny—L'Islet—Kamouraska—Rivière-du-Loup -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24052-2013,ocd-division/country:ca/ed:mount_royal,Mount Royal -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24053-2013,ocd-division/country:ca/ed:notre-dame-de-grâce—westmount,Notre-Dame-de-Grâce—Westmount -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24054-2013,ocd-division/country:ca/ed:outremont,Outremont -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24055-2013,ocd-division/country:ca/ed:papineau,Papineau -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24056-2013,ocd-division/country:ca/ed:pierrefonds—dollard,Pierrefonds—Dollard -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24057-2013,ocd-division/country:ca/ed:pontiac,Pontiac -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24058-2013,ocd-division/country:ca/ed:portneuf—jacques-cartier,Portneuf—Jacques-Cartier -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24059-2013,ocd-division/country:ca/ed:québec,Québec -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24060-2013,ocd-division/country:ca/ed:repentigny,Repentigny -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24061-2013,ocd-division/country:ca/ed:richmond—arthabaska,Richmond—Arthabaska -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24062-2013,ocd-division/country:ca/ed:rivière-des-mille-îles,Rivière-des-Mille-Îles -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24063-2013,ocd-division/country:ca/ed:rivière-du-nord,Rivière-du-Nord -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24064-2013,ocd-division/country:ca/ed:rosemont—la_petite-patrie,Rosemont—La Petite-Patrie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24065-2013,ocd-division/country:ca/ed:marc-aurèle-fortin,Marc-Aurèle-Fortin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24066-2013,ocd-division/country:ca/ed:saint-hyacinthe—bagot,Saint-Hyacinthe—Bagot -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24067-2013,ocd-division/country:ca/ed:saint-jean,Saint-Jean -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24068-2013,ocd-division/country:ca/ed:saint-laurent,Saint-Laurent -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24069-2013,ocd-division/country:ca/ed:saint-léonard—saint-michel,Saint-Léonard—Saint-Michel -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24070-2013,ocd-division/country:ca/ed:saint-maurice—champlain,Saint-Maurice—Champlain -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24071-2013,ocd-division/country:ca/ed:salaberry—suroît,Salaberry—Suroît -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24072-2013,ocd-division/country:ca/ed:shefford,Shefford -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24073-2013,ocd-division/country:ca/ed:sherbrooke,Sherbrooke -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24074-2013,ocd-division/country:ca/ed:vaudreuil—soulanges,Vaudreuil—Soulanges -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24075-2013,ocd-division/country:ca/ed:terrebonne,Terrebonne -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24076-2013,ocd-division/country:ca/ed:trois-rivières,Trois-Rivières -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24077-2013,ocd-division/country:ca/ed:ville-marie—le_sud-ouest—île-des-soeurs,Ville-Marie—Le Sud-Ouest—Île-des-Soeurs -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:24078-2013,ocd-division/country:ca/ed:vimy,Vimy -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35001-2013,ocd-division/country:ca/ed:ajax,Ajax -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35002-2013,ocd-division/country:ca/ed:algoma—manitoulin—kapuskasing,Algoma—Manitoulin—Kapuskasing -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35003-2013,ocd-division/country:ca/ed:aurora—oak_ridges—richmond_hill,Aurora—Oak Ridges—Richmond Hill -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35004-2013,ocd-division/country:ca/ed:barrie—innisfil,Barrie—Innisfil -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35005-2013,ocd-division/country:ca/ed:barrie—springwater—oro-medonte,Barrie—Springwater—Oro-Medonte -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35006-2013,ocd-division/country:ca/ed:bay_of_quinte,Bay of Quinte -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35007-2013,ocd-division/country:ca/ed:beaches—east_york,Beaches—East York -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35008-2013,ocd-division/country:ca/ed:brampton_centre,Brampton Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35009-2013,ocd-division/country:ca/ed:brampton_east,Brampton East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35010-2013,ocd-division/country:ca/ed:brampton_north,Brampton North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35011-2013,ocd-division/country:ca/ed:brampton_south,Brampton South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35012-2013,ocd-division/country:ca/ed:brampton_west,Brampton West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35013-2013,ocd-division/country:ca/ed:brantford—brant,Brantford—Brant -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35014-2013,ocd-division/country:ca/ed:bruce—grey—owen_sound,Bruce—Grey—Owen Sound -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35015-2013,ocd-division/country:ca/ed:burlington,Burlington -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35016-2013,ocd-division/country:ca/ed:cambridge,Cambridge -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35017-2013,ocd-division/country:ca/ed:chatham-kent—leamington,Chatham-Kent—Leamington -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35018-2013,ocd-division/country:ca/ed:davenport,Davenport -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35019-2013,ocd-division/country:ca/ed:don_valley_east,Don Valley East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35020-2013,ocd-division/country:ca/ed:don_valley_north,Don Valley North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35021-2013,ocd-division/country:ca/ed:don_valley_west,Don Valley West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35022-2013,ocd-division/country:ca/ed:dufferin—caledon,Dufferin—Caledon -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35023-2013,ocd-division/country:ca/ed:durham,Durham -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35024-2013,ocd-division/country:ca/ed:eglinton—lawrence,Eglinton—Lawrence -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35025-2013,ocd-division/country:ca/ed:elgin—middlesex—london,Elgin—Middlesex—London -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35026-2013,ocd-division/country:ca/ed:essex,Essex -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35027-2013,ocd-division/country:ca/ed:etobicoke_centre,Etobicoke Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35028-2013,ocd-division/country:ca/ed:etobicoke—lakeshore,Etobicoke—Lakeshore -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35029-2013,ocd-division/country:ca/ed:etobicoke_north,Etobicoke North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35030-2013,ocd-division/country:ca/ed:flamborough—glanbrook,Flamborough—Glanbrook -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35031-2013,ocd-division/country:ca/ed:glengarry—prescott—russell,Glengarry—Prescott—Russell -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35032-2013,ocd-division/country:ca/ed:guelph,Guelph -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35033-2013,ocd-division/country:ca/ed:haldimand—norfolk,Haldimand—Norfolk -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35034-2013,ocd-division/country:ca/ed:haliburton—kawartha_lakes—brock,Haliburton—Kawartha Lakes—Brock -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35035-2013,ocd-division/country:ca/ed:hamilton_centre,Hamilton Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35036-2013,ocd-division/country:ca/ed:hamilton_east—stoney_creek,Hamilton East—Stoney Creek -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35037-2013,ocd-division/country:ca/ed:hamilton_mountain,Hamilton Mountain -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35038-2013,ocd-division/country:ca/ed:hamilton_west—ancaster—dundas,Hamilton West—Ancaster—Dundas -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35039-2013,ocd-division/country:ca/ed:hastings—lennox_and_addington,Hastings—Lennox and Addington -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35040-2013,ocd-division/country:ca/ed:huron—bruce,Huron—Bruce -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35041-2013,ocd-division/country:ca/ed:kanata—carleton,Kanata—Carleton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35042-2013,ocd-division/country:ca/ed:kenora,Kenora -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35043-2013,ocd-division/country:ca/ed:king—vaughan,King—Vaughan -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35044-2013,ocd-division/country:ca/ed:kingston_and_the_islands,Kingston and the Islands -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35045-2013,ocd-division/country:ca/ed:kitchener_centre,Kitchener Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35046-2013,ocd-division/country:ca/ed:kitchener—conestoga,Kitchener—Conestoga -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35047-2013,ocd-division/country:ca/ed:kitchener_south—hespeler,Kitchener South—Hespeler -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35048-2013,ocd-division/country:ca/ed:lambton—kent—middlesex,Lambton—Kent—Middlesex -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35049-2013,ocd-division/country:ca/ed:lanark—frontenac—kingston,Lanark—Frontenac—Kingston -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35050-2013,ocd-division/country:ca/ed:leeds—grenville—thousand_islands_and_rideau_lakes,Leeds—Grenville—Thousand Islands and Rideau Lakes -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35051-2013,ocd-division/country:ca/ed:london—fanshawe,London—Fanshawe -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35052-2013,ocd-division/country:ca/ed:london_north_centre,London North Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35053-2013,ocd-division/country:ca/ed:london_west,London West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35054-2013,ocd-division/country:ca/ed:markham—stouffville,Markham—Stouffville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35055-2013,ocd-division/country:ca/ed:markham—thornhill,Markham—Thornhill -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35056-2013,ocd-division/country:ca/ed:markham—unionville,Markham—Unionville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35057-2013,ocd-division/country:ca/ed:milton,Milton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35058-2013,ocd-division/country:ca/ed:mississauga_centre,Mississauga Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35059-2013,ocd-division/country:ca/ed:mississauga_east—cooksville,Mississauga East—Cooksville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35060-2013,ocd-division/country:ca/ed:mississauga—erin_mills,Mississauga—Erin Mills -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35061-2013,ocd-division/country:ca/ed:mississauga—lakeshore,Mississauga—Lakeshore -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35062-2013,ocd-division/country:ca/ed:mississauga—malton,Mississauga—Malton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35063-2013,ocd-division/country:ca/ed:mississauga—streetsville,Mississauga—Streetsville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35064-2013,ocd-division/country:ca/ed:nepean,Nepean -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35065-2013,ocd-division/country:ca/ed:newmarket—aurora,Newmarket—Aurora -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35066-2013,ocd-division/country:ca/ed:niagara_centre,Niagara Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35067-2013,ocd-division/country:ca/ed:niagara_falls,Niagara Falls -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35068-2013,ocd-division/country:ca/ed:niagara_west,Niagara West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35069-2013,ocd-division/country:ca/ed:nickel_belt,Nickel Belt -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35070-2013,ocd-division/country:ca/ed:nipissing—timiskaming,Nipissing—Timiskaming -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35071-2013,ocd-division/country:ca/ed:northumberland—peterborough_south,Northumberland—Peterborough South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35072-2013,ocd-division/country:ca/ed:oakville,Oakville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35073-2013,ocd-division/country:ca/ed:oakville_north—burlington,Oakville North—Burlington -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35074-2013,ocd-division/country:ca/ed:oshawa,Oshawa -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35075-2013,ocd-division/country:ca/ed:ottawa_centre,Ottawa Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35076-2013,ocd-division/country:ca/ed:orléans,Orléans -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35077-2013,ocd-division/country:ca/ed:ottawa_south,Ottawa South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35078-2013,ocd-division/country:ca/ed:ottawa—vanier,Ottawa—Vanier -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35079-2013,ocd-division/country:ca/ed:ottawa_west—nepean,Ottawa West—Nepean -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35080-2013,ocd-division/country:ca/ed:oxford,Oxford -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35081-2013,ocd-division/country:ca/ed:parkdale—high_park,Parkdale—High Park -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35082-2013,ocd-division/country:ca/ed:parry_sound—muskoka,Parry Sound—Muskoka -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35083-2013,ocd-division/country:ca/ed:perth—wellington,Perth—Wellington -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35084-2013,ocd-division/country:ca/ed:peterborough—kawartha,Peterborough—Kawartha -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35085-2013,ocd-division/country:ca/ed:pickering—uxbridge,Pickering—Uxbridge -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35086-2013,ocd-division/country:ca/ed:renfrew—nipissing—pembroke,Renfrew—Nipissing—Pembroke -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35087-2013,ocd-division/country:ca/ed:richmond_hill,Richmond Hill -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35088-2013,ocd-division/country:ca/ed:carleton,Carleton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35089-2013,ocd-division/country:ca/ed:st._catharines,St. Catharines -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35090-2013,ocd-division/country:ca/ed:toronto—st._paul's,Toronto—St. Paul's -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35091-2013,ocd-division/country:ca/ed:sarnia—lambton,Sarnia—Lambton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35092-2013,ocd-division/country:ca/ed:sault_ste._marie,Sault Ste. Marie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35093-2013,ocd-division/country:ca/ed:scarborough—agincourt,Scarborough—Agincourt -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35094-2013,ocd-division/country:ca/ed:scarborough_centre,Scarborough Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35095-2013,ocd-division/country:ca/ed:scarborough—guildwood,Scarborough—Guildwood -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35096-2013,ocd-division/country:ca/ed:scarborough_north,Scarborough North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35097-2013,ocd-division/country:ca/ed:scarborough—rouge_park,Scarborough—Rouge Park -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35098-2013,ocd-division/country:ca/ed:scarborough_southwest,Scarborough Southwest -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35099-2013,ocd-division/country:ca/ed:simcoe—grey,Simcoe—Grey -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35100-2013,ocd-division/country:ca/ed:simcoe_north,Simcoe North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35101-2013,ocd-division/country:ca/ed:spadina—fort_york,Spadina—Fort York -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35102-2013,ocd-division/country:ca/ed:stormont—dundas—south_glengarry,Stormont—Dundas—South Glengarry -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35103-2013,ocd-division/country:ca/ed:sudbury,Sudbury -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35104-2013,ocd-division/country:ca/ed:thornhill,Thornhill -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35105-2013,ocd-division/country:ca/ed:thunder_bay—rainy_river,Thunder Bay—Rainy River -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35106-2013,ocd-division/country:ca/ed:thunder_bay—superior_north,Thunder Bay—Superior North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35107-2013,ocd-division/country:ca/ed:timmins—james_bay,Timmins—James Bay -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35108-2013,ocd-division/country:ca/ed:toronto_centre,Toronto Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35109-2013,ocd-division/country:ca/ed:toronto—danforth,Toronto—Danforth -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35110-2013,ocd-division/country:ca/ed:university—rosedale,University—Rosedale -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35111-2013,ocd-division/country:ca/ed:vaughan—woodbridge,Vaughan—Woodbridge -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35112-2013,ocd-division/country:ca/ed:waterloo,Waterloo -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35113-2013,ocd-division/country:ca/ed:wellington—halton_hills,Wellington—Halton Hills -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35114-2013,ocd-division/country:ca/ed:whitby,Whitby -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35115-2013,ocd-division/country:ca/ed:willowdale,Willowdale -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35116-2013,ocd-division/country:ca/ed:windsor—tecumseh,Windsor—Tecumseh -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35117-2013,ocd-division/country:ca/ed:windsor_west,Windsor West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35118-2013,ocd-division/country:ca/ed:york_centre,York Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35119-2013,ocd-division/country:ca/ed:york—simcoe,York—Simcoe -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35120-2013,ocd-division/country:ca/ed:york_south—weston,York South—Weston -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:35121-2013,ocd-division/country:ca/ed:humber_river—black_creek,Humber River—Black Creek -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46001-2013,ocd-division/country:ca/ed:brandon—souris,Brandon—Souris -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46002-2013,ocd-division/country:ca/ed:charleswood—st._james—assiniboia—headingley,Charleswood—St. James—Assiniboia—Headingley -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46003-2013,ocd-division/country:ca/ed:churchill—keewatinook_aski,Churchill—Keewatinook Aski -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46004-2013,ocd-division/country:ca/ed:dauphin—swan_river—neepawa,Dauphin—Swan River—Neepawa -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46005-2013,ocd-division/country:ca/ed:elmwood—transcona,Elmwood—Transcona -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46006-2013,ocd-division/country:ca/ed:kildonan—st._paul,Kildonan—St. Paul -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46007-2013,ocd-division/country:ca/ed:portage—lisgar,Portage—Lisgar -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46008-2013,ocd-division/country:ca/ed:provencher,Provencher -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46009-2013,ocd-division/country:ca/ed:saint_boniface—saint_vital,Saint Boniface—Saint Vital -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46010-2013,ocd-division/country:ca/ed:selkirk—interlake—eastman,Selkirk—Interlake—Eastman -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46011-2013,ocd-division/country:ca/ed:winnipeg_centre,Winnipeg Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46012-2013,ocd-division/country:ca/ed:winnipeg_north,Winnipeg North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46013-2013,ocd-division/country:ca/ed:winnipeg_south,Winnipeg South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:46014-2013,ocd-division/country:ca/ed:winnipeg_south_centre,Winnipeg South Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47001-2013,ocd-division/country:ca/ed:battlefords—lloydminster,Battlefords—Lloydminster -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47002-2013,ocd-division/country:ca/ed:cypress_hills—grasslands,Cypress Hills—Grasslands -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47003-2013,ocd-division/country:ca/ed:desnethé—missinippi—churchill_river,Desnethé—Missinippi—Churchill River -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47004-2013,ocd-division/country:ca/ed:carlton_trail—eagle_creek,Carlton Trail—Eagle Creek -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47005-2013,ocd-division/country:ca/ed:moose_jaw—lake_centre—lanigan,Moose Jaw—Lake Centre—Lanigan -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47006-2013,ocd-division/country:ca/ed:prince_albert,Prince Albert -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47007-2013,ocd-division/country:ca/ed:regina—lewvan,Regina—Lewvan -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47008-2013,ocd-division/country:ca/ed:regina—qu'appelle,Regina—Qu'Appelle -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47009-2013,ocd-division/country:ca/ed:regina—wascana,Regina—Wascana -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47010-2013,ocd-division/country:ca/ed:saskatoon—grasswood,Saskatoon—Grasswood -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47011-2013,ocd-division/country:ca/ed:saskatoon—university,Saskatoon—University -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47012-2013,ocd-division/country:ca/ed:saskatoon_west,Saskatoon West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47013-2013,ocd-division/country:ca/ed:souris—moose_mountain,Souris—Moose Mountain -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:47014-2013,ocd-division/country:ca/ed:yorkton—melville,Yorkton—Melville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48001-2013,ocd-division/country:ca/ed:banff—airdrie,Banff—Airdrie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48002-2013,ocd-division/country:ca/ed:battle_river—crowfoot,Battle River—Crowfoot -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48003-2013,ocd-division/country:ca/ed:bow_river,Bow River -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48004-2013,ocd-division/country:ca/ed:calgary_centre,Calgary Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48005-2013,ocd-division/country:ca/ed:calgary_confederation,Calgary Confederation -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48006-2013,ocd-division/country:ca/ed:calgary_forest_lawn,Calgary Forest Lawn -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48007-2013,ocd-division/country:ca/ed:calgary_heritage,Calgary Heritage -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48008-2013,ocd-division/country:ca/ed:calgary_midnapore,Calgary Midnapore -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48009-2013,ocd-division/country:ca/ed:calgary_nose_hill,Calgary Nose Hill -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48010-2013,ocd-division/country:ca/ed:calgary_rocky_ridge,Calgary Rocky Ridge -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48011-2013,ocd-division/country:ca/ed:calgary_shepard,Calgary Shepard -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48012-2013,ocd-division/country:ca/ed:calgary_signal_hill,Calgary Signal Hill -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48013-2013,ocd-division/country:ca/ed:calgary_skyview,Calgary Skyview -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48014-2013,ocd-division/country:ca/ed:edmonton_centre,Edmonton Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48015-2013,ocd-division/country:ca/ed:edmonton_griesbach,Edmonton Griesbach -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48016-2013,ocd-division/country:ca/ed:edmonton_manning,Edmonton Manning -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48017-2013,ocd-division/country:ca/ed:edmonton_mill_woods,Edmonton Mill Woods -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48018-2013,ocd-division/country:ca/ed:edmonton_riverbend,Edmonton Riverbend -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48019-2013,ocd-division/country:ca/ed:edmonton_strathcona,Edmonton Strathcona -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48020-2013,ocd-division/country:ca/ed:edmonton_west,Edmonton West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48021-2013,ocd-division/country:ca/ed:edmonton—wetaskiwin,Edmonton—Wetaskiwin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48022-2013,ocd-division/country:ca/ed:foothills,Foothills -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48023-2013,ocd-division/country:ca/ed:fort_mcmurray—cold_lake,Fort McMurray—Cold Lake -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48024-2013,ocd-division/country:ca/ed:grande_prairie—mackenzie,Grande Prairie—Mackenzie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48025-2013,ocd-division/country:ca/ed:lakeland,Lakeland -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48026-2013,ocd-division/country:ca/ed:lethbridge,Lethbridge -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48027-2013,ocd-division/country:ca/ed:medicine_hat—cardston—warner,Medicine Hat—Cardston—Warner -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48028-2013,ocd-division/country:ca/ed:peace_river—westlock,Peace River—Westlock -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48029-2013,ocd-division/country:ca/ed:red_deer—mountain_view,Red Deer—Mountain View -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48030-2013,ocd-division/country:ca/ed:red_deer—lacombe,Red Deer—Lacombe -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48031-2013,ocd-division/country:ca/ed:st._albert—edmonton,St. Albert—Edmonton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48032-2013,ocd-division/country:ca/ed:sherwood_park—fort_saskatchewan,Sherwood Park—Fort Saskatchewan -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48033-2013,ocd-division/country:ca/ed:sturgeon_river—parkland,Sturgeon River—Parkland -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:48034-2013,ocd-division/country:ca/ed:yellowhead,Yellowhead -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59001-2013,ocd-division/country:ca/ed:abbotsford,Abbotsford -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59002-2013,ocd-division/country:ca/ed:burnaby_north—seymour,Burnaby North—Seymour -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59003-2013,ocd-division/country:ca/ed:burnaby_south,Burnaby South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59004-2013,ocd-division/country:ca/ed:cariboo—prince_george,Cariboo—Prince George -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59005-2013,ocd-division/country:ca/ed:central_okanagan—similkameen—nicola,Central Okanagan—Similkameen—Nicola -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59006-2013,ocd-division/country:ca/ed:chilliwack—hope,Chilliwack—Hope -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59007-2013,ocd-division/country:ca/ed:cloverdale—langley_city,Cloverdale—Langley City -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59008-2013,ocd-division/country:ca/ed:coquitlam—port_coquitlam,Coquitlam—Port Coquitlam -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59009-2013,ocd-division/country:ca/ed:courtenay—alberni,Courtenay—Alberni -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59010-2013,ocd-division/country:ca/ed:cowichan—malahat—langford,Cowichan—Malahat—Langford -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59011-2013,ocd-division/country:ca/ed:delta,Delta -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59012-2013,ocd-division/country:ca/ed:fleetwood—port_kells,Fleetwood—Port Kells -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59013-2013,ocd-division/country:ca/ed:kamloops—thompson—cariboo,Kamloops—Thompson—Cariboo -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59014-2013,ocd-division/country:ca/ed:kelowna—lake_country,Kelowna—Lake Country -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59015-2013,ocd-division/country:ca/ed:kootenay—columbia,Kootenay—Columbia -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59016-2013,ocd-division/country:ca/ed:langley—aldergrove,Langley—Aldergrove -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59017-2013,ocd-division/country:ca/ed:mission—matsqui—fraser_canyon,Mission—Matsqui—Fraser Canyon -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59018-2013,ocd-division/country:ca/ed:nanaimo—ladysmith,Nanaimo—Ladysmith -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59019-2013,ocd-division/country:ca/ed:new_westminster—burnaby,New Westminster—Burnaby -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59020-2013,ocd-division/country:ca/ed:north_okanagan—shuswap,North Okanagan—Shuswap -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59021-2013,ocd-division/country:ca/ed:north_vancouver,North Vancouver -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59022-2013,ocd-division/country:ca/ed:pitt_meadows—maple_ridge,Pitt Meadows—Maple Ridge -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59023-2013,ocd-division/country:ca/ed:port_moody—coquitlam,Port Moody—Coquitlam -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59024-2013,ocd-division/country:ca/ed:prince_george—peace_river—northern_rockies,Prince George—Peace River—Northern Rockies -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59025-2013,ocd-division/country:ca/ed:richmond_centre,Richmond Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59026-2013,ocd-division/country:ca/ed:esquimalt—saanich—sooke,Esquimalt—Saanich—Sooke -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59027-2013,ocd-division/country:ca/ed:saanich—gulf_islands,Saanich—Gulf Islands -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59028-2013,ocd-division/country:ca/ed:skeena—bulkley_valley,Skeena—Bulkley Valley -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59029-2013,ocd-division/country:ca/ed:south_okanagan—west_kootenay,South Okanagan—West Kootenay -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59030-2013,ocd-division/country:ca/ed:south_surrey—white_rock,South Surrey—White Rock -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59031-2013,ocd-division/country:ca/ed:steveston—richmond_east,Steveston—Richmond East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59032-2013,ocd-division/country:ca/ed:surrey_centre,Surrey Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59033-2013,ocd-division/country:ca/ed:surrey—newton,Surrey—Newton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59034-2013,ocd-division/country:ca/ed:vancouver_centre,Vancouver Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59035-2013,ocd-division/country:ca/ed:vancouver_east,Vancouver East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59036-2013,ocd-division/country:ca/ed:vancouver_granville,Vancouver Granville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59037-2013,ocd-division/country:ca/ed:north_island—powell_river,North Island—Powell River -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59038-2013,ocd-division/country:ca/ed:vancouver_kingsway,Vancouver Kingsway -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59039-2013,ocd-division/country:ca/ed:vancouver_quadra,Vancouver Quadra -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59040-2013,ocd-division/country:ca/ed:vancouver_south,Vancouver South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59041-2013,ocd-division/country:ca/ed:victoria,Victoria -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:59042-2013,ocd-division/country:ca/ed:west_vancouver—sunshine_coast—sea_to_sky_country,West Vancouver—Sunshine Coast—Sea to Sky Country -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:60001-2013,ocd-division/country:ca/ed:yukon,Yukon -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:61001-2013,ocd-division/country:ca/ed:northwest_territories,Northwest Territories -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/ed:62001-2013,ocd-division/country:ca/ed:nunavut,Nunavut -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:1-2017,ocd-division/country:ca/province:ab/ed:calgary-acadia,Calgary-Acadia -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:2-2017,ocd-division/country:ca/province:ab/ed:calgary-beddington,Calgary-Beddington -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:3-2017,ocd-division/country:ca/province:ab/ed:calgary-bow,Calgary-Bow -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:4-2017,ocd-division/country:ca/province:ab/ed:calgary-buffalo,Calgary-Buffalo -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:5-2017,ocd-division/country:ca/province:ab/ed:calgary-cross,Calgary-Cross -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:6-2017,ocd-division/country:ca/province:ab/ed:calgary-currie,Calgary-Currie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:7-2017,ocd-division/country:ca/province:ab/ed:calgary-east,Calgary-East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:8-2017,ocd-division/country:ca/province:ab/ed:calgary-edgemont,Calgary-Edgemont -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:9-2017,ocd-division/country:ca/province:ab/ed:calgary-elbow,Calgary-Elbow -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:10-2017,ocd-division/country:ca/province:ab/ed:calgary-falconridge,Calgary-Falconridge -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:11-2017,ocd-division/country:ca/province:ab/ed:calgary-fish_creek,Calgary-Fish Creek -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:12-2017,ocd-division/country:ca/province:ab/ed:calgary-foothills,Calgary-Foothills -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:13-2017,ocd-division/country:ca/province:ab/ed:calgary-glenmore,Calgary-Glenmore -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:14-2017,ocd-division/country:ca/province:ab/ed:calgary-hays,Calgary-Hays -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:15-2017,ocd-division/country:ca/province:ab/ed:calgary-klein,Calgary-Klein -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:16-2017,ocd-division/country:ca/province:ab/ed:calgary-lougheed,Calgary-Lougheed -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:17-2017,ocd-division/country:ca/province:ab/ed:calgary-mccall,Calgary-McCall -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:18-2017,ocd-division/country:ca/province:ab/ed:calgary-mountain_view,Calgary-Mountain View -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:19-2017,ocd-division/country:ca/province:ab/ed:calgary-north,Calgary-North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:20-2017,ocd-division/country:ca/province:ab/ed:calgary-north_east,Calgary-North East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:21-2017,ocd-division/country:ca/province:ab/ed:calgary-north_west,Calgary-North West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:22-2017,ocd-division/country:ca/province:ab/ed:calgary-peigan,Calgary-Peigan -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:23-2017,ocd-division/country:ca/province:ab/ed:calgary-shaw,Calgary-Shaw -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:24-2017,ocd-division/country:ca/province:ab/ed:calgary-south_east,Calgary-South East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:25-2017,ocd-division/country:ca/province:ab/ed:calgary-varsity,Calgary-Varsity -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:26-2017,ocd-division/country:ca/province:ab/ed:calgary-west,Calgary-West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:27-2017,ocd-division/country:ca/province:ab/ed:edmonton-beverly-clareview,Edmonton-Beverly-Clareview -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:28-2017,ocd-division/country:ca/province:ab/ed:edmonton-castle_downs,Edmonton-Castle Downs -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:29-2017,ocd-division/country:ca/province:ab/ed:edmonton-city_centre,Edmonton-City Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:30-2017,ocd-division/country:ca/province:ab/ed:edmonton-decore,Edmonton-Decore -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:31-2017,ocd-division/country:ca/province:ab/ed:edmonton-ellerslie,Edmonton-Ellerslie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:32-2017,ocd-division/country:ca/province:ab/ed:edmonton-glenora,Edmonton-Glenora -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:33-2017,ocd-division/country:ca/province:ab/ed:edmonton-gold_bar,Edmonton-Gold Bar -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:34-2017,ocd-division/country:ca/province:ab/ed:edmonton-highlands-norwood,Edmonton-Highlands-Norwood -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:35-2017,ocd-division/country:ca/province:ab/ed:edmonton-manning,Edmonton-Manning -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:36-2017,ocd-division/country:ca/province:ab/ed:edmonton-mcclung,Edmonton-McClung -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:37-2017,ocd-division/country:ca/province:ab/ed:edmonton-meadows,Edmonton-Meadows -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:38-2017,ocd-division/country:ca/province:ab/ed:edmonton-mill_woods,Edmonton-Mill Woods -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:39-2017,ocd-division/country:ca/province:ab/ed:edmonton-north_west,Edmonton-North West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:40-2017,ocd-division/country:ca/province:ab/ed:edmonton-riverview,Edmonton-Riverview -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:41-2017,ocd-division/country:ca/province:ab/ed:edmonton-rutherford,Edmonton-Rutherford -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:42-2017,ocd-division/country:ca/province:ab/ed:edmonton-south,Edmonton-South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:43-2017,ocd-division/country:ca/province:ab/ed:edmonton-south_west,Edmonton-South West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:44-2017,ocd-division/country:ca/province:ab/ed:edmonton-strathcona,Edmonton-Strathcona -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:45-2017,ocd-division/country:ca/province:ab/ed:edmonton-west_henday,Edmonton-West Henday -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:46-2017,ocd-division/country:ca/province:ab/ed:edmonton-whitemud,Edmonton-Whitemud -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:47-2017,ocd-division/country:ca/province:ab/ed:airdrie-cochrane,Airdrie-Cochrane -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:48-2017,ocd-division/country:ca/province:ab/ed:airdrie-east,Airdrie-East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:49-2017,ocd-division/country:ca/province:ab/ed:athabasca-barrhead-westlock,Athabasca-Barrhead-Westlock -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:50-2017,ocd-division/country:ca/province:ab/ed:banff-kananaskis,Banff-Kananaskis -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:51-2017,ocd-division/country:ca/province:ab/ed:bonnyville-cold_lake-st._paul,Bonnyville-Cold Lake-St. Paul -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:52-2017,ocd-division/country:ca/province:ab/ed:brooks-medicine_hat,Brooks-Medicine Hat -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:53-2017,ocd-division/country:ca/province:ab/ed:camrose,Camrose -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:54-2017,ocd-division/country:ca/province:ab/ed:cardston-siksika,Cardston-Siksika -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:55-2017,ocd-division/country:ca/province:ab/ed:central_peace-notley,Central Peace-Notley -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:56-2017,ocd-division/country:ca/province:ab/ed:chestermere-strathmore,Chestermere-Strathmore -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:57-2017,ocd-division/country:ca/province:ab/ed:cypress-medicine_hat,Cypress-Medicine Hat -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:58-2017,ocd-division/country:ca/province:ab/ed:drayton_valley-devon,Drayton Valley-Devon -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:59-2017,ocd-division/country:ca/province:ab/ed:drumheller-stettler,Drumheller-Stettler -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:60-2017,ocd-division/country:ca/province:ab/ed:fort_mcmurray-lac_la_biche,Fort McMurray-Lac La Biche -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:61-2017,ocd-division/country:ca/province:ab/ed:fort_mcmurray-wood_buffalo,Fort McMurray-Wood Buffalo -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:62-2017,ocd-division/country:ca/province:ab/ed:fort_saskatchewan-vegreville,Fort Saskatchewan-Vegreville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:63-2017,ocd-division/country:ca/province:ab/ed:grande_prairie,Grande Prairie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:64-2017,ocd-division/country:ca/province:ab/ed:grande_prairie-wapiti,Grande Prairie-Wapiti -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:65-2017,ocd-division/country:ca/province:ab/ed:highwood,Highwood -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:66-2017,ocd-division/country:ca/province:ab/ed:innisfail-sylvan_lake,Innisfail-Sylvan Lake -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:67-2017,ocd-division/country:ca/province:ab/ed:lac_ste._anne-parkland,Lac Ste. Anne-Parkland -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:68-2017,ocd-division/country:ca/province:ab/ed:lacombe-ponoka,Lacombe-Ponoka -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:69-2017,ocd-division/country:ca/province:ab/ed:leduc-beaumont,Leduc-Beaumont -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:70-2017,ocd-division/country:ca/province:ab/ed:lesser_slave_lake,Lesser Slave Lake -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:71-2017,ocd-division/country:ca/province:ab/ed:lethbridge-east,Lethbridge-East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:72-2017,ocd-division/country:ca/province:ab/ed:lethbridge-west,Lethbridge-West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:73-2017,ocd-division/country:ca/province:ab/ed:livingstone-macleod,Livingstone-Macleod -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:74-2017,ocd-division/country:ca/province:ab/ed:maskwacis-wetaskiwin,Maskwacis-Wetaskiwin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:75-2017,ocd-division/country:ca/province:ab/ed:morinville-st._albert,Morinville-St. Albert -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:76-2017,ocd-division/country:ca/province:ab/ed:olds-didsbury-three_hills,Olds-Didsbury-Three Hills -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:77-2017,ocd-division/country:ca/province:ab/ed:peace_river,Peace River -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:78-2017,ocd-division/country:ca/province:ab/ed:red_deer-north,Red Deer-North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:79-2017,ocd-division/country:ca/province:ab/ed:red_deer-south,Red Deer-South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:80-2017,ocd-division/country:ca/province:ab/ed:rimbey-rocky_mountain_house-sundre,Rimbey-Rocky Mountain House-Sundre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:81-2017,ocd-division/country:ca/province:ab/ed:sherwood_park,Sherwood Park -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:82-2017,ocd-division/country:ca/province:ab/ed:spruce_grove-stony_plain,Spruce Grove-Stony Plain -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:83-2017,ocd-division/country:ca/province:ab/ed:st._albert,St. Albert -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:84-2017,ocd-division/country:ca/province:ab/ed:strathcona-sherwood_park,Strathcona-Sherwood Park -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:85-2017,ocd-division/country:ca/province:ab/ed:taber-warner,Taber-Warner -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:86-2017,ocd-division/country:ca/province:ab/ed:vermilion-lloydminster-wainwright,Vermilion-Lloydminster-Wainwright -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ab/ed:87-2017,ocd-division/country:ca/province:ab/ed:west_yellowhead,West Yellowhead -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:1,ocd-division/country:ca/province:nb/ed:restigouche_west,Restigouche West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:2,ocd-division/country:ca/province:nb/ed:campbellton-dalhousie,Campbellton-Dalhousie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:3,ocd-division/country:ca/province:nb/ed:restigouche-chaleur,Restigouche-Chaleur -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:4,ocd-division/country:ca/province:nb/ed:bathurst_west-beresford,Bathurst West-Beresford -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:5,ocd-division/country:ca/province:nb/ed:bathurst_east-nepisiguit-saint-isidore,Bathurst East-Nepisiguit-Saint-Isidore -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:6,ocd-division/country:ca/province:nb/ed:caraquet,Caraquet -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:7,ocd-division/country:ca/province:nb/ed:shippagan-lamèque-miscou,Shippagan-Lamèque-Miscou -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:8,ocd-division/country:ca/province:nb/ed:tracadie-sheila,Tracadie-Sheila -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:9,ocd-division/country:ca/province:nb/ed:miramichi_bay-neguac,Miramichi Bay-Neguac -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:10,ocd-division/country:ca/province:nb/ed:miramichi,Miramichi -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:11,ocd-division/country:ca/province:nb/ed:southwest_miramichi-bay_du_vin,Southwest Miramichi-Bay du Vin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:12,ocd-division/country:ca/province:nb/ed:kent_north,Kent North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:13,ocd-division/country:ca/province:nb/ed:kent_south,Kent South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:14,ocd-division/country:ca/province:nb/ed:shediac_bay-dieppe,Shediac Bay-Dieppe -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:15,ocd-division/country:ca/province:nb/ed:shediac-beaubassin-cap-pelé,Shediac-Beaubassin-Cap-Pelé -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:16,ocd-division/country:ca/province:nb/ed:memramcook-tantramar,Memramcook-Tantramar -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:17,ocd-division/country:ca/province:nb/ed:dieppe,Dieppe -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:18,ocd-division/country:ca/province:nb/ed:moncton_east,Moncton East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:19,ocd-division/country:ca/province:nb/ed:moncton_centre,Moncton Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:20,ocd-division/country:ca/province:nb/ed:moncton_south,Moncton South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:21,ocd-division/country:ca/province:nb/ed:moncton_northwest,Moncton Northwest -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:22,ocd-division/country:ca/province:nb/ed:moncton_southwest,Moncton Southwest -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:23,ocd-division/country:ca/province:nb/ed:riverview,Riverview -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:24,ocd-division/country:ca/province:nb/ed:albert,Albert -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:25,ocd-division/country:ca/province:nb/ed:gagetown-petitcodiac,Gagetown-Petitcodiac -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:26,ocd-division/country:ca/province:nb/ed:sussex-fundy-st._martins,Sussex-Fundy-St. Martins -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:27,ocd-division/country:ca/province:nb/ed:hampton,Hampton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:28,ocd-division/country:ca/province:nb/ed:quispamsis,Quispamsis -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:29,ocd-division/country:ca/province:nb/ed:rothesay,Rothesay -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:30,ocd-division/country:ca/province:nb/ed:saint_john_east,Saint John East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:31,ocd-division/country:ca/province:nb/ed:portland-simonds,Portland-Simonds -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:32,ocd-division/country:ca/province:nb/ed:saint_john_harbour,Saint John Harbour -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:33,ocd-division/country:ca/province:nb/ed:saint_john_lancaster,Saint John Lancaster -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:34,ocd-division/country:ca/province:nb/ed:kings_centre,Kings Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:35,ocd-division/country:ca/province:nb/ed:fundy-the_isles-saint_john_west,Fundy-The Isles-Saint John West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:36,ocd-division/country:ca/province:nb/ed:saint_croix,Saint Croix -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:37,ocd-division/country:ca/province:nb/ed:oromocto-lincoln-fredericton,Oromocto-Lincoln-Fredericton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:38,ocd-division/country:ca/province:nb/ed:fredericton-grand_lake,Fredericton-Grand Lake -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:39,ocd-division/country:ca/province:nb/ed:new_maryland-sunbury,New Maryland-Sunbury -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:40,ocd-division/country:ca/province:nb/ed:fredericton_south,Fredericton South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:41,ocd-division/country:ca/province:nb/ed:fredericton_north,Fredericton North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:42,ocd-division/country:ca/province:nb/ed:fredericton-york,Fredericton-York -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:43,ocd-division/country:ca/province:nb/ed:fredericton_west-hanwell,Fredericton West-Hanwell -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:44,ocd-division/country:ca/province:nb/ed:carleton-york,Carleton-York -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:45,ocd-division/country:ca/province:nb/ed:carleton,Carleton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:46,ocd-division/country:ca/province:nb/ed:carleton-victoria,Carleton-Victoria -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:47,ocd-division/country:ca/province:nb/ed:victoria-la_vallée,Victoria-La Vallée -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:48,ocd-division/country:ca/province:nb/ed:edmundston-madawaska_centre,Edmundston-Madawaska Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:nb/ed:49,ocd-division/country:ca/province:nb/ed:madawaska_les_lacs-edmundston,Madawaska Les Lacs-Edmundston -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:1,ocd-division/country:ca/province:ns/ed:annapolis,Annapolis -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:2,ocd-division/country:ca/province:ns/ed:antigonish,Antigonish -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:3,ocd-division/country:ca/province:ns/ed:argyle,Argyle -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:4,ocd-division/country:ca/province:ns/ed:bedford_basin,Bedford Basin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:5,ocd-division/country:ca/province:ns/ed:bedford_south,Bedford South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:6,ocd-division/country:ca/province:ns/ed:cape_breton_centre-whitney_pier,Cape Breton Centre-Whitney Pier -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:7,ocd-division/country:ca/province:ns/ed:cape_breton_east,Cape Breton East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:8,ocd-division/country:ca/province:ns/ed:chester-st._margaret's,Chester-St. Margaret's -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:9,ocd-division/country:ca/province:ns/ed:clare,Clare -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:10,ocd-division/country:ca/province:ns/ed:clayton_park_west,Clayton Park West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:11,ocd-division/country:ca/province:ns/ed:colchester-musquodoboit_valley,Colchester-Musquodoboit Valley -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:12,ocd-division/country:ca/province:ns/ed:colchester_north,Colchester North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:13,ocd-division/country:ca/province:ns/ed:cole_harbour,Cole Harbour -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:14,ocd-division/country:ca/province:ns/ed:cole_harbour-dartmouth,Cole Harbour-Dartmouth -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:15,ocd-division/country:ca/province:ns/ed:cumberland_north,Cumberland North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:16,ocd-division/country:ca/province:ns/ed:cumberland_south,Cumberland South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:17,ocd-division/country:ca/province:ns/ed:dartmouth_east,Dartmouth East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:18,ocd-division/country:ca/province:ns/ed:dartmouth_north,Dartmouth North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:19,ocd-division/country:ca/province:ns/ed:dartmouth_south,Dartmouth South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:20,ocd-division/country:ca/province:ns/ed:digby-annapolis,Digby-Annapolis -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:21,ocd-division/country:ca/province:ns/ed:eastern_passage,Eastern Passage -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:22,ocd-division/country:ca/province:ns/ed:eastern_shore,Eastern Shore -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:23,ocd-division/country:ca/province:ns/ed:fairview-clayton_park,Fairview-Clayton Park -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:24,ocd-division/country:ca/province:ns/ed:glace_bay-dominion,Glace Bay-Dominion -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:25,ocd-division/country:ca/province:ns/ed:guysborough-tracadie,Guysborough-Tracadie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:26,ocd-division/country:ca/province:ns/ed:halifax_armdale,Halifax Armdale -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:27,ocd-division/country:ca/province:ns/ed:halifax_atlantic,Halifax Atlantic -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:28,ocd-division/country:ca/province:ns/ed:halifax_chebucto,Halifax Chebucto -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:29,ocd-division/country:ca/province:ns/ed:halifax_citadel-sable_island,Halifax Citadel-Sable Island -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:30,ocd-division/country:ca/province:ns/ed:halifax_needham,Halifax Needham -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:31,ocd-division/country:ca/province:ns/ed:hammonds_plains-lucasville,Hammonds Plains-Lucasville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:32,ocd-division/country:ca/province:ns/ed:hants_east,Hants East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:33,ocd-division/country:ca/province:ns/ed:hants_west,Hants West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:34,ocd-division/country:ca/province:ns/ed:inverness,Inverness -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:35,ocd-division/country:ca/province:ns/ed:kings_north,Kings North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:36,ocd-division/country:ca/province:ns/ed:kings_south,Kings South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:37,ocd-division/country:ca/province:ns/ed:kings_west,Kings West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:38,ocd-division/country:ca/province:ns/ed:lunenburg,Lunenburg -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:39,ocd-division/country:ca/province:ns/ed:lunenburg_west,Lunenburg West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:40,ocd-division/country:ca/province:ns/ed:northside-westmount,Northside-Westmount -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:41,ocd-division/country:ca/province:ns/ed:pictou_centre,Pictou Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:42,ocd-division/country:ca/province:ns/ed:pictou_east,Pictou East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:43,ocd-division/country:ca/province:ns/ed:pictou_west,Pictou West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:44,ocd-division/country:ca/province:ns/ed:preston,Preston -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:45,ocd-division/country:ca/province:ns/ed:queens,Queens -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:46,ocd-division/country:ca/province:ns/ed:richmond,Richmond -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:47,ocd-division/country:ca/province:ns/ed:sackville-cobequid,Sackville-Cobequid -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:48,ocd-division/country:ca/province:ns/ed:sackville-uniacke,Sackville-Uniacke -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:49,ocd-division/country:ca/province:ns/ed:shelburne,Shelburne -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:50,ocd-division/country:ca/province:ns/ed:sydney-membertou,Sydney-Membertou -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:51,ocd-division/country:ca/province:ns/ed:timberlea-prospect,Timberlea-Prospect -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:52,ocd-division/country:ca/province:ns/ed:truro-bible_hill-millbrook-salmon_river,Truro-Bible Hill-Millbrook-Salmon River -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:53,ocd-division/country:ca/province:ns/ed:victoria-the_lakes,Victoria-The Lakes -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:54,ocd-division/country:ca/province:ns/ed:waverley-fall_river-beaver_bank,Waverley-Fall River-Beaver Bank -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:ns/ed:55,ocd-division/country:ca/province:ns/ed:yarmouth,Yarmouth -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:1-2015,ocd-division/country:ca/province:on/ed:ajax,Ajax -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:2-2015,ocd-division/country:ca/province:on/ed:algoma—manitoulin,Algoma—Manitoulin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:3-2015,ocd-division/country:ca/province:on/ed:aurora—oak_ridges—richmond_hill,Aurora—Oak Ridges—Richmond Hill -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:4-2015,ocd-division/country:ca/province:on/ed:barrie—innisfil,Barrie—Innisfil -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:5-2015,ocd-division/country:ca/province:on/ed:barrie—springwater—oro-medonte,Barrie—Springwater—Oro-Medonte -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:6-2015,ocd-division/country:ca/province:on/ed:bay_of_quinte,Bay of Quinte -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:7-2015,ocd-division/country:ca/province:on/ed:beaches—east_york,Beaches—East York -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:8-2015,ocd-division/country:ca/province:on/ed:brampton_centre,Brampton Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:9-2015,ocd-division/country:ca/province:on/ed:brampton_east,Brampton East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:10-2015,ocd-division/country:ca/province:on/ed:brampton_north,Brampton North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:11-2015,ocd-division/country:ca/province:on/ed:brampton_south,Brampton South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:12-2015,ocd-division/country:ca/province:on/ed:brampton_west,Brampton West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:13-2015,ocd-division/country:ca/province:on/ed:brantford—brant,Brantford—Brant -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:14-2015,ocd-division/country:ca/province:on/ed:bruce—grey—owen_sound,Bruce—Grey—Owen Sound -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:15-2015,ocd-division/country:ca/province:on/ed:burlington,Burlington -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:16-2015,ocd-division/country:ca/province:on/ed:cambridge,Cambridge -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:17-2015,ocd-division/country:ca/province:on/ed:carleton,Carleton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:18-2015,ocd-division/country:ca/province:on/ed:chatham-kent—leamington,Chatham-Kent—Leamington -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:19-2015,ocd-division/country:ca/province:on/ed:davenport,Davenport -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:20-2015,ocd-division/country:ca/province:on/ed:don_valley_east,Don Valley East -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:21-2015,ocd-division/country:ca/province:on/ed:don_valley_north,Don Valley North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:22-2015,ocd-division/country:ca/province:on/ed:don_valley_west,Don Valley West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:23-2015,ocd-division/country:ca/province:on/ed:dufferin—caledon,Dufferin—Caledon -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:24-2015,ocd-division/country:ca/province:on/ed:durham,Durham -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:25-2015,ocd-division/country:ca/province:on/ed:eglinton—lawrence,Eglinton—Lawrence -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:26-2015,ocd-division/country:ca/province:on/ed:elgin—middlesex—london,Elgin—Middlesex—London -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:27-2015,ocd-division/country:ca/province:on/ed:essex,Essex -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:28-2015,ocd-division/country:ca/province:on/ed:etobicoke_centre,Etobicoke Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:29-2015,ocd-division/country:ca/province:on/ed:etobicoke—lakeshore,Etobicoke—Lakeshore -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:30-2015,ocd-division/country:ca/province:on/ed:etobicoke_north,Etobicoke North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:31-2015,ocd-division/country:ca/province:on/ed:flamborough—glanbrook,Flamborough—Glanbrook -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:32-2015,ocd-division/country:ca/province:on/ed:glengarry—prescott—russell,Glengarry—Prescott—Russell -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:33-2015,ocd-division/country:ca/province:on/ed:guelph,Guelph -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:34-2015,ocd-division/country:ca/province:on/ed:haldimand—norfolk,Haldimand—Norfolk -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:35-2015,ocd-division/country:ca/province:on/ed:haliburton—kawartha_lakes—brock,Haliburton—Kawartha Lakes—Brock -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:36-2015,ocd-division/country:ca/province:on/ed:hamilton_centre,Hamilton Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:37-2015,ocd-division/country:ca/province:on/ed:hamilton_east—stoney_creek,Hamilton East—Stoney Creek -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:38-2015,ocd-division/country:ca/province:on/ed:hamilton_mountain,Hamilton Mountain -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:39-2015,ocd-division/country:ca/province:on/ed:hamilton_west—ancaster—dundas,Hamilton West—Ancaster—Dundas -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:40-2015,ocd-division/country:ca/province:on/ed:hastings—lennox_and_addington,Hastings—Lennox and Addington -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:41-2015,ocd-division/country:ca/province:on/ed:humber_river—black_creek,Humber River—Black Creek -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:42-2015,ocd-division/country:ca/province:on/ed:huron—bruce,Huron—Bruce -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:43-2015,ocd-division/country:ca/province:on/ed:kanata—carleton,Kanata—Carleton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:44-2015,ocd-division/country:ca/province:on/ed:kenora—rainy_river,Kenora—Rainy River -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:45-2015,ocd-division/country:ca/province:on/ed:king—vaughan,King—Vaughan -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:46-2015,ocd-division/country:ca/province:on/ed:kingston_and_the_islands,Kingston and the Islands -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:47-2015,ocd-division/country:ca/province:on/ed:kitchener_centre,Kitchener Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:48-2015,ocd-division/country:ca/province:on/ed:kitchener—conestoga,Kitchener—Conestoga -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:49-2015,ocd-division/country:ca/province:on/ed:kitchener_south—hespeler,Kitchener South—Hespeler -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:50-2015,ocd-division/country:ca/province:on/ed:lambton—kent—middlesex,Lambton—Kent—Middlesex -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:51-2015,ocd-division/country:ca/province:on/ed:lanark—frontenac—kingston,Lanark—Frontenac—Kingston -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:52-2015,ocd-division/country:ca/province:on/ed:leeds—grenville—thousand_islands_and_rideau_lakes,Leeds—Grenville—Thousand Islands and Rideau Lakes -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:53-2015,ocd-division/country:ca/province:on/ed:london—fanshawe,London—Fanshawe -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:54-2015,ocd-division/country:ca/province:on/ed:london_north_centre,London North Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:55-2015,ocd-division/country:ca/province:on/ed:london_west,London West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:56-2015,ocd-division/country:ca/province:on/ed:markham—stouffville,Markham—Stouffville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:57-2015,ocd-division/country:ca/province:on/ed:markham—thornhill,Markham—Thornhill -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:58-2015,ocd-division/country:ca/province:on/ed:markham—unionville,Markham—Unionville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:59-2015,ocd-division/country:ca/province:on/ed:milton,Milton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:60-2015,ocd-division/country:ca/province:on/ed:mississauga_centre,Mississauga Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:61-2015,ocd-division/country:ca/province:on/ed:mississauga_east—cooksville,Mississauga East—Cooksville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:62-2015,ocd-division/country:ca/province:on/ed:mississauga—erin_mills,Mississauga—Erin Mills -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:63-2015,ocd-division/country:ca/province:on/ed:mississauga—lakeshore,Mississauga—Lakeshore -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:64-2015,ocd-division/country:ca/province:on/ed:mississauga—malton,Mississauga—Malton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:65-2015,ocd-division/country:ca/province:on/ed:mississauga—streetsville,Mississauga—Streetsville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:66-2015,ocd-division/country:ca/province:on/ed:nepean,Nepean -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:67-2015,ocd-division/country:ca/province:on/ed:newmarket—aurora,Newmarket—Aurora -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:68-2015,ocd-division/country:ca/province:on/ed:niagara_centre,Niagara Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:69-2015,ocd-division/country:ca/province:on/ed:niagara_falls,Niagara Falls -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:70-2015,ocd-division/country:ca/province:on/ed:niagara_west,Niagara West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:71-2015,ocd-division/country:ca/province:on/ed:nickel_belt,Nickel Belt -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:72-2015,ocd-division/country:ca/province:on/ed:nipissing,Nipissing -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:73-2015,ocd-division/country:ca/province:on/ed:northumberland—peterborough_south,Northumberland—Peterborough South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:74-2015,ocd-division/country:ca/province:on/ed:oakville,Oakville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:75-2015,ocd-division/country:ca/province:on/ed:oakville_north—burlington,Oakville North—Burlington -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:76-2015,ocd-division/country:ca/province:on/ed:orléans,Orléans -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:77-2015,ocd-division/country:ca/province:on/ed:oshawa,Oshawa -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:78-2015,ocd-division/country:ca/province:on/ed:ottawa_centre,Ottawa Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:79-2015,ocd-division/country:ca/province:on/ed:ottawa_south,Ottawa South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:80-2015,ocd-division/country:ca/province:on/ed:ottawa—vanier,Ottawa—Vanier -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:81-2015,ocd-division/country:ca/province:on/ed:ottawa_west—nepean,Ottawa West—Nepean -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:82-2015,ocd-division/country:ca/province:on/ed:oxford,Oxford -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:83-2015,ocd-division/country:ca/province:on/ed:parkdale—high_park,Parkdale—High Park -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:84-2015,ocd-division/country:ca/province:on/ed:parry_sound—muskoka,Parry Sound—Muskoka -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:85-2015,ocd-division/country:ca/province:on/ed:perth—wellington,Perth—Wellington -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:86-2015,ocd-division/country:ca/province:on/ed:peterborough—kawartha,Peterborough—Kawartha -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:87-2015,ocd-division/country:ca/province:on/ed:pickering—uxbridge,Pickering—Uxbridge -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:88-2015,ocd-division/country:ca/province:on/ed:renfrew—nipissing—pembroke,Renfrew—Nipissing—Pembroke -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:89-2015,ocd-division/country:ca/province:on/ed:richmond_hill,Richmond Hill -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:90-2015,ocd-division/country:ca/province:on/ed:st._catharines,St. Catharines -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:91-2015,ocd-division/country:ca/province:on/ed:sarnia—lambton,Sarnia—Lambton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:92-2015,ocd-division/country:ca/province:on/ed:sault_ste._marie,Sault Ste. Marie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:93-2015,ocd-division/country:ca/province:on/ed:scarborough—agincourt,Scarborough—Agincourt -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:94-2015,ocd-division/country:ca/province:on/ed:scarborough_centre,Scarborough Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:95-2015,ocd-division/country:ca/province:on/ed:scarborough—guildwood,Scarborough—Guildwood -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:96-2015,ocd-division/country:ca/province:on/ed:scarborough_north,Scarborough North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:97-2015,ocd-division/country:ca/province:on/ed:scarborough—rouge_park,Scarborough—Rouge Park -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:98-2015,ocd-division/country:ca/province:on/ed:scarborough_southwest,Scarborough Southwest -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:99-2015,ocd-division/country:ca/province:on/ed:simcoe—grey,Simcoe—Grey -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:100-2015,ocd-division/country:ca/province:on/ed:simcoe_north,Simcoe North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:101-2015,ocd-division/country:ca/province:on/ed:spadina—fort_york,Spadina—Fort York -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:102-2015,ocd-division/country:ca/province:on/ed:stormont—dundas—south_glengarry,Stormont—Dundas—South Glengarry -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:103-2015,ocd-division/country:ca/province:on/ed:sudbury,Sudbury -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:104-2015,ocd-division/country:ca/province:on/ed:thornhill,Thornhill -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:105-2015,ocd-division/country:ca/province:on/ed:thunder_bay—atikokan,Thunder Bay—Atikokan -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:106-2015,ocd-division/country:ca/province:on/ed:thunder_bay—superior_north,Thunder Bay—Superior North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:107-2015,ocd-division/country:ca/province:on/ed:timiskaming—cochrane,Timiskaming—Cochrane -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:108-2015,ocd-division/country:ca/province:on/ed:timmins,Timmins -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:109-2015,ocd-division/country:ca/province:on/ed:toronto_centre,Toronto Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:110-2015,ocd-division/country:ca/province:on/ed:toronto—danforth,Toronto—Danforth -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:111-2015,ocd-division/country:ca/province:on/ed:toronto—st._paul's,Toronto—St. Paul's -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:112-2015,ocd-division/country:ca/province:on/ed:university—rosedale,University—Rosedale -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:113-2015,ocd-division/country:ca/province:on/ed:vaughan—woodbridge,Vaughan—Woodbridge -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:114-2015,ocd-division/country:ca/province:on/ed:waterloo,Waterloo -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:115-2015,ocd-division/country:ca/province:on/ed:wellington—halton_hills,Wellington—Halton Hills -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:116-2015,ocd-division/country:ca/province:on/ed:whitby,Whitby -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:117-2015,ocd-division/country:ca/province:on/ed:willowdale,Willowdale -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:118-2015,ocd-division/country:ca/province:on/ed:windsor—tecumseh,Windsor—Tecumseh -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:119-2015,ocd-division/country:ca/province:on/ed:windsor_west,Windsor West -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:120-2015,ocd-division/country:ca/province:on/ed:york_centre,York Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:121-2015,ocd-division/country:ca/province:on/ed:york—simcoe,York—Simcoe -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:122-2015,ocd-division/country:ca/province:on/ed:york_south—weston,York South—Weston -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:123-2015,ocd-division/country:ca/province:on/ed:kiiwetinoong,Kiiwetinoong -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:on/ed:124-2015,ocd-division/country:ca/province:on/ed:mushkegowuk—james_bay,Mushkegowuk—James Bay -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:1,ocd-division/country:ca/province:pe/ed:souris-elmira,Souris - Elmira -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:2,ocd-division/country:ca/province:pe/ed:georgetown-pownal,Georgetown - Pownal -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:3,ocd-division/country:ca/province:pe/ed:montague-kilmuir,Montague - Kilmuir -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:4,ocd-division/country:ca/province:pe/ed:belfast-murray_river,Belfast - Murray River -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:5,ocd-division/country:ca/province:pe/ed:mermaid-stratford,Mermaid - Stratford -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:6,ocd-division/country:ca/province:pe/ed:stratford-keppoch,Stratford - Keppoch -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:7,ocd-division/country:ca/province:pe/ed:morell-donagh,Morell - Donagh -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:8,ocd-division/country:ca/province:pe/ed:stanhope-marshfield,Stanhope - Marshfield -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:9,ocd-division/country:ca/province:pe/ed:charlottetown-hillsborough_park,Charlottetown - Hillsborough Park -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:10,ocd-division/country:ca/province:pe/ed:charlottetown-winsloe,Charlottetown - Winsloe -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:11,ocd-division/country:ca/province:pe/ed:charlottetown-belvedere,Charlottetown - Belvedere -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:12,ocd-division/country:ca/province:pe/ed:charlottetown-victoria_park,Charlottetown - Victoria Park -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:13,ocd-division/country:ca/province:pe/ed:charlottetown-brighton,Charlottetown - Brighton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:14,ocd-division/country:ca/province:pe/ed:charlottetown-west_royalty,Charlottetown - West Royalty -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:15,ocd-division/country:ca/province:pe/ed:brackley-hunter_river,Brackley - Hunter River -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:16,ocd-division/country:ca/province:pe/ed:cornwall-meadowbank,Cornwall - Meadowbank -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:17,ocd-division/country:ca/province:pe/ed:new_haven-rocky_point,New Haven - Rocky Point -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:18,ocd-division/country:ca/province:pe/ed:rustico-emerald,Rustico - Emerald -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:19,ocd-division/country:ca/province:pe/ed:borden-kinkora,Borden - Kinkora -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:20,ocd-division/country:ca/province:pe/ed:kensington-malpeque,Kensington - Malpeque -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:21,ocd-division/country:ca/province:pe/ed:summerside-wilmot,Summerside - Wilmot -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:22,ocd-division/country:ca/province:pe/ed:summerside-south_drive,Summerside - South Drive -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:23,ocd-division/country:ca/province:pe/ed:tyne_valley-sherbrooke,Tyne Valley - Sherbrooke -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:24,ocd-division/country:ca/province:pe/ed:evangeline-miscouche,Evangeline - Miscouche -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:25,ocd-division/country:ca/province:pe/ed:o'leary-inverness,O'Leary - Inverness -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:26,ocd-division/country:ca/province:pe/ed:alberton-bloomfield,Alberton - Bloomfield -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:pe/ed:27,ocd-division/country:ca/province:pe/ed:tignish-palmer_road,Tignish - Palmer Road -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:104-2017,ocd-division/country:ca/province:qc/ed:mégantic,Mégantic -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:110-2017,ocd-division/country:ca/province:qc/ed:saint-françois,Saint-François -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:116-2017,ocd-division/country:ca/province:qc/ed:sherbrooke,Sherbrooke -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:120-2017,ocd-division/country:ca/province:qc/ed:orford,Orford -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:126-2017,ocd-division/country:ca/province:qc/ed:johnson,Johnson -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:132-2017,ocd-division/country:ca/province:qc/ed:richmond,Richmond -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:138-2017,ocd-division/country:ca/province:qc/ed:drummond-bois-francs,Drummond-Bois-Francs -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:144-2017,ocd-division/country:ca/province:qc/ed:arthabaska,Arthabaska -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:150-2017,ocd-division/country:ca/province:qc/ed:nicolet-bécancour,Nicolet-Bécancour -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:204-2017,ocd-division/country:ca/province:qc/ed:brome-missisquoi,Brome-Missisquoi -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:206-2017,ocd-division/country:ca/province:qc/ed:granby,Granby -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:210-2017,ocd-division/country:ca/province:qc/ed:iberville,Iberville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:212-2017,ocd-division/country:ca/province:qc/ed:saint-jean,Saint-Jean -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:216-2017,ocd-division/country:ca/province:qc/ed:huntingdon,Huntingdon -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:218-2017,ocd-division/country:ca/province:qc/ed:beauharnois,Beauharnois -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:220-2017,ocd-division/country:ca/province:qc/ed:soulanges,Soulanges -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:224-2017,ocd-division/country:ca/province:qc/ed:vaudreuil,Vaudreuil -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:226-2017,ocd-division/country:ca/province:qc/ed:châteauguay,Châteauguay -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:230-2017,ocd-division/country:ca/province:qc/ed:sanguinet,Sanguinet -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:232-2017,ocd-division/country:ca/province:qc/ed:la_prairie,La Prairie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:236-2017,ocd-division/country:ca/province:qc/ed:la_pinière,La Pinière -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:238-2017,ocd-division/country:ca/province:qc/ed:chambly,Chambly -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:240-2017,ocd-division/country:ca/province:qc/ed:vachon,Vachon -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:244-2017,ocd-division/country:ca/province:qc/ed:laporte,Laporte -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:246-2017,ocd-division/country:ca/province:qc/ed:marie-victorin,Marie-Victorin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:250-2017,ocd-division/country:ca/province:qc/ed:taillon,Taillon -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:252-2017,ocd-division/country:ca/province:qc/ed:montarville,Montarville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:256-2017,ocd-division/country:ca/province:qc/ed:verchères,Verchères -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:258-2017,ocd-division/country:ca/province:qc/ed:borduas,Borduas -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:260-2017,ocd-division/country:ca/province:qc/ed:saint-hyacinthe,Saint-Hyacinthe -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:264-2017,ocd-division/country:ca/province:qc/ed:richelieu,Richelieu -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:300-2017,ocd-division/country:ca/province:qc/ed:verdun,Verdun -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:304-2017,ocd-division/country:ca/province:qc/ed:marguerite-bourgeoys,Marguerite-Bourgeoys -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:306-2017,ocd-division/country:ca/province:qc/ed:marquette,Marquette -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:310-2017,ocd-division/country:ca/province:qc/ed:jacques-cartier,Jacques-Cartier -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:312-2017,ocd-division/country:ca/province:qc/ed:nelligan,Nelligan -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:316-2017,ocd-division/country:ca/province:qc/ed:robert-baldwin,Robert-Baldwin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:318-2017,ocd-division/country:ca/province:qc/ed:saint-laurent,Saint-Laurent -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:320-2017,ocd-division/country:ca/province:qc/ed:d'arcy-mcgee,D'Arcy-McGee -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:324-2017,ocd-division/country:ca/province:qc/ed:notre-dame-de-grâce,Notre-Dame-de-Grâce -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:326-2017,ocd-division/country:ca/province:qc/ed:saint-henri-sainte-anne,Saint-Henri-Sainte-Anne -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:330-2017,ocd-division/country:ca/province:qc/ed:sainte-marie-saint-jacques,Sainte-Marie-Saint-Jacques -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:332-2017,ocd-division/country:ca/province:qc/ed:westmount-saint-louis,Westmount-Saint-Louis -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:336-2017,ocd-division/country:ca/province:qc/ed:mont-royal-outremont,Mont-Royal-Outremont -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:338-2017,ocd-division/country:ca/province:qc/ed:acadie,Acadie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:340-2017,ocd-division/country:ca/province:qc/ed:maurice-richard,Maurice-Richard -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:344-2017,ocd-division/country:ca/province:qc/ed:laurier-dorion,Laurier-Dorion -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:346-2017,ocd-division/country:ca/province:qc/ed:gouin,Gouin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:350-2017,ocd-division/country:ca/province:qc/ed:mercier,Mercier -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:352-2017,ocd-division/country:ca/province:qc/ed:hochelaga-maisonneuve,Hochelaga-Maisonneuve -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:356-2017,ocd-division/country:ca/province:qc/ed:rosemont,Rosemont -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:358-2017,ocd-division/country:ca/province:qc/ed:viau,Viau -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:360-2017,ocd-division/country:ca/province:qc/ed:bourassa-sauvé,Bourassa-Sauvé -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:364-2017,ocd-division/country:ca/province:qc/ed:jeanne-mance-viger,Jeanne-Mance-Viger -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:366-2017,ocd-division/country:ca/province:qc/ed:anjou-louis-riel,Anjou-Louis-Riel -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:370-2017,ocd-division/country:ca/province:qc/ed:bourget,Bourget -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:380-2017,ocd-division/country:ca/province:qc/ed:pointe-aux-trembles,Pointe-aux-Trembles -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:390-2017,ocd-division/country:ca/province:qc/ed:lafontaine,LaFontaine -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:454-2017,ocd-division/country:ca/province:qc/ed:laval-des-rapides,Laval-des-Rapides -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:460-2017,ocd-division/country:ca/province:qc/ed:chomedey,Chomedey -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:466-2017,ocd-division/country:ca/province:qc/ed:fabre,Fabre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:470-2017,ocd-division/country:ca/province:qc/ed:sainte-rose,Sainte-Rose -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:476-2017,ocd-division/country:ca/province:qc/ed:vimont,Vimont -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:482-2017,ocd-division/country:ca/province:qc/ed:mille-îles,Mille-Îles -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:502-2017,ocd-division/country:ca/province:qc/ed:groulx,Groulx -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:508-2017,ocd-division/country:ca/province:qc/ed:deux-montagnes,Deux-Montagnes -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:514-2017,ocd-division/country:ca/province:qc/ed:mirabel,Mirabel -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:520-2017,ocd-division/country:ca/province:qc/ed:argenteuil,Argenteuil -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:526-2017,ocd-division/country:ca/province:qc/ed:saint-jérôme,Saint-Jérôme -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:530-2017,ocd-division/country:ca/province:qc/ed:les_plaines,Les Plaines -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:536-2017,ocd-division/country:ca/province:qc/ed:blainville,Blainville -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:542-2017,ocd-division/country:ca/province:qc/ed:terrebonne,Terrebonne -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:548-2017,ocd-division/country:ca/province:qc/ed:masson,Masson -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:554-2017,ocd-division/country:ca/province:qc/ed:l'assomption,L'Assomption -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:560-2017,ocd-division/country:ca/province:qc/ed:repentigny,Repentigny -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:566-2017,ocd-division/country:ca/province:qc/ed:berthier,Berthier -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:570-2017,ocd-division/country:ca/province:qc/ed:joliette,Joliette -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:576-2017,ocd-division/country:ca/province:qc/ed:rousseau,Rousseau -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:582-2017,ocd-division/country:ca/province:qc/ed:prévost,Prévost -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:588-2017,ocd-division/country:ca/province:qc/ed:bertrand,Bertrand -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:594-2017,ocd-division/country:ca/province:qc/ed:labelle,Labelle -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:602-2017,ocd-division/country:ca/province:qc/ed:hull,Hull -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:608-2017,ocd-division/country:ca/province:qc/ed:pontiac,Pontiac -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:614-2017,ocd-division/country:ca/province:qc/ed:gatineau,Gatineau -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:620-2017,ocd-division/country:ca/province:qc/ed:chapleau,Chapleau -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:626-2017,ocd-division/country:ca/province:qc/ed:papineau,Papineau -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:636-2017,ocd-division/country:ca/province:qc/ed:rouyn-noranda-témiscamingue,Rouyn-Noranda-Témiscamingue -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:642-2017,ocd-division/country:ca/province:qc/ed:abitibi-ouest,Abitibi-Ouest -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:648-2017,ocd-division/country:ca/province:qc/ed:abitibi-est,Abitibi-Est -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:660-2017,ocd-division/country:ca/province:qc/ed:trois-rivières,Trois-Rivières -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:666-2017,ocd-division/country:ca/province:qc/ed:maskinongé,Maskinongé -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:670-2017,ocd-division/country:ca/province:qc/ed:laviolette-saint-maurice,Laviolette-Saint-Maurice -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:676-2017,ocd-division/country:ca/province:qc/ed:champlain,Champlain -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:702-2017,ocd-division/country:ca/province:qc/ed:jean-talon,Jean-Talon -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:708-2017,ocd-division/country:ca/province:qc/ed:louis-hébert,Louis-Hébert -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:714-2017,ocd-division/country:ca/province:qc/ed:portneuf,Portneuf -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:720-2017,ocd-division/country:ca/province:qc/ed:la_peltrie,La Peltrie -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:726-2017,ocd-division/country:ca/province:qc/ed:vanier-les_rivières,Vanier-Les Rivières -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:730-2017,ocd-division/country:ca/province:qc/ed:taschereau,Taschereau -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:736-2017,ocd-division/country:ca/province:qc/ed:jean-lesage,Jean-Lesage -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:742-2017,ocd-division/country:ca/province:qc/ed:montmorency,Montmorency -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:748-2017,ocd-division/country:ca/province:qc/ed:charlesbourg,Charlesbourg -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:754-2017,ocd-division/country:ca/province:qc/ed:chauveau,Chauveau -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:760-2017,ocd-division/country:ca/province:qc/ed:charlevoix-côte-de-beaupré,Charlevoix-Côte-de-Beaupré -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:802-2017,ocd-division/country:ca/province:qc/ed:beauce-sud,Beauce-Sud -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:806-2017,ocd-division/country:ca/province:qc/ed:beauce-nord,Beauce-Nord -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:810-2017,ocd-division/country:ca/province:qc/ed:lotbinière-frontenac,Lotbinière-Frontenac -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:814-2017,ocd-division/country:ca/province:qc/ed:chutes-de-la-chaudière,Chutes-de-la-Chaudière -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:818-2017,ocd-division/country:ca/province:qc/ed:lévis,Lévis -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:822-2017,ocd-division/country:ca/province:qc/ed:bellechasse,Bellechasse -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:826-2017,ocd-division/country:ca/province:qc/ed:côte-du-sud,Côte-du-Sud -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:834-2017,ocd-division/country:ca/province:qc/ed:rivière-du-loup-témiscouata,Rivière-du-Loup-Témiscouata -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:838-2017,ocd-division/country:ca/province:qc/ed:rimouski,Rimouski -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:842-2017,ocd-division/country:ca/province:qc/ed:matane-matapédia,Matane-Matapédia -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:850-2017,ocd-division/country:ca/province:qc/ed:bonaventure,Bonaventure -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:854-2017,ocd-division/country:ca/province:qc/ed:gaspé,Gaspé -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:858-2017,ocd-division/country:ca/province:qc/ed:îles-de-la-madeleine,Îles-de-la-Madeleine -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:902-2017,ocd-division/country:ca/province:qc/ed:duplessis,Duplessis -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:906-2017,ocd-division/country:ca/province:qc/ed:rené-lévesque,René-Lévesque -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:914-2017,ocd-division/country:ca/province:qc/ed:dubuc,Dubuc -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:918-2017,ocd-division/country:ca/province:qc/ed:chicoutimi,Chicoutimi -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:922-2017,ocd-division/country:ca/province:qc/ed:jonquière,Jonquière -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:926-2017,ocd-division/country:ca/province:qc/ed:lac-saint-jean,Lac-Saint-Jean -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:930-2017,ocd-division/country:ca/province:qc/ed:roberval,Roberval -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:qc/ed:938-2017,ocd-division/country:ca/province:qc/ed:ungava,Ungava -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:1,ocd-division/country:ca/province:sk/ed:arm_river,Arm River -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:2,ocd-division/country:ca/province:sk/ed:athabasca,Athabasca -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:3,ocd-division/country:ca/province:sk/ed:batoche,Batoche -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:4,ocd-division/country:ca/province:sk/ed:biggar-sask_valley,Biggar-Sask Valley -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:5,ocd-division/country:ca/province:sk/ed:cannington,Cannington -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:6,ocd-division/country:ca/province:sk/ed:canora-pelly,Canora-Pelly -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:7,ocd-division/country:ca/province:sk/ed:carrot_river_valley,Carrot River Valley -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:8,ocd-division/country:ca/province:sk/ed:cumberland,Cumberland -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:9,ocd-division/country:ca/province:sk/ed:cut_knife-turtleford,Cut Knife-Turtleford -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:10,ocd-division/country:ca/province:sk/ed:cypress_hills,Cypress Hills -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:11,ocd-division/country:ca/province:sk/ed:estevan,Estevan -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:12,ocd-division/country:ca/province:sk/ed:humboldt-watrous,Humboldt-Watrous -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:13,ocd-division/country:ca/province:sk/ed:indian_head-milestone,Indian Head-Milestone -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:14,ocd-division/country:ca/province:sk/ed:kelvington-wadena,Kelvington-Wadena -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:15,ocd-division/country:ca/province:sk/ed:kindersley,Kindersley -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:16,ocd-division/country:ca/province:sk/ed:last_mountain-touchwood,Last Mountain-Touchwood -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:17,ocd-division/country:ca/province:sk/ed:lloydminster,Lloydminster -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:18,ocd-division/country:ca/province:sk/ed:lumsden-morse,Lumsden-Morse -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:19,ocd-division/country:ca/province:sk/ed:martensville-warman,Martensville-Warman -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:20,ocd-division/country:ca/province:sk/ed:meadow_lake,Meadow Lake -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:21,ocd-division/country:ca/province:sk/ed:melfort,Melfort -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:22,ocd-division/country:ca/province:sk/ed:melville-saltcoats,Melville-Saltcoats -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:23,ocd-division/country:ca/province:sk/ed:moose_jaw_north,Moose Jaw North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:24,ocd-division/country:ca/province:sk/ed:moose_jaw_wakamow,Moose Jaw Wakamow -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:25,ocd-division/country:ca/province:sk/ed:moosomin,Moosomin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:26,ocd-division/country:ca/province:sk/ed:prince_albert_carlton,Prince Albert Carlton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:27,ocd-division/country:ca/province:sk/ed:prince_albert_northcote,Prince Albert Northcote -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:28,ocd-division/country:ca/province:sk/ed:regina_coronation_park,Regina Coronation Park -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:29,ocd-division/country:ca/province:sk/ed:regina_douglas_park,Regina Douglas Park -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:30,ocd-division/country:ca/province:sk/ed:regina_elphinstone-centre,Regina Elphinstone-Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:31,ocd-division/country:ca/province:sk/ed:regina_gardiner_park,Regina Gardiner Park -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:32,ocd-division/country:ca/province:sk/ed:regina_lakeview,Regina Lakeview -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:33,ocd-division/country:ca/province:sk/ed:regina_northeast,Regina Northeast -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:34,ocd-division/country:ca/province:sk/ed:regina_pasqua,Regina Pasqua -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:35,ocd-division/country:ca/province:sk/ed:regina_rochdale,Regina Rochdale -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:36,ocd-division/country:ca/province:sk/ed:regina_rosemont,Regina Rosemont -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:37,ocd-division/country:ca/province:sk/ed:regina_university,Regina University -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:38,ocd-division/country:ca/province:sk/ed:regina_walsh_acres,Regina Walsh Acres -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:39,ocd-division/country:ca/province:sk/ed:regina_wascana_plains,Regina Wascana Plains -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:40,ocd-division/country:ca/province:sk/ed:rosetown-elrose,Rosetown-Elrose -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:41,ocd-division/country:ca/province:sk/ed:rosthern-shellbrook,Rosthern-Shellbrook -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:42,ocd-division/country:ca/province:sk/ed:saskatchewan_rivers,Saskatchewan Rivers -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:43,ocd-division/country:ca/province:sk/ed:saskatoon_centre,Saskatoon Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:44,ocd-division/country:ca/province:sk/ed:saskatoon_churchill-wildwood,Saskatoon Churchill-Wildwood -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:45,ocd-division/country:ca/province:sk/ed:saskatoon_eastview,Saskatoon Eastview -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:46,ocd-division/country:ca/province:sk/ed:saskatoon_fairview,Saskatoon Fairview -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:47,ocd-division/country:ca/province:sk/ed:saskatoon_meewasin,Saskatoon Meewasin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:48,ocd-division/country:ca/province:sk/ed:saskatoon_northwest,Saskatoon Northwest -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:49,ocd-division/country:ca/province:sk/ed:saskatoon_nutana,Saskatoon Nutana -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:50,ocd-division/country:ca/province:sk/ed:saskatoon_riversdale,Saskatoon Riversdale -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:51,ocd-division/country:ca/province:sk/ed:saskatoon_silverspring-sutherland,Saskatoon Silverspring-Sutherland -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:52,ocd-division/country:ca/province:sk/ed:saskatoon_southeast,Saskatoon Southeast -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:53,ocd-division/country:ca/province:sk/ed:saskatoon_stonebridge-dakota,Saskatoon Stonebridge-Dakota -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:54,ocd-division/country:ca/province:sk/ed:saskatoon_university,Saskatoon University -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:55,ocd-division/country:ca/province:sk/ed:saskatoon_westview,Saskatoon Westview -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:56,ocd-division/country:ca/province:sk/ed:saskatoon_willowgrove,Saskatoon Willowgrove -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:57,ocd-division/country:ca/province:sk/ed:swift_current,Swift Current -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:58,ocd-division/country:ca/province:sk/ed:the_battlefords,The Battlefords -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:59,ocd-division/country:ca/province:sk/ed:weyburn-big_muddy,Weyburn-Big Muddy -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:60,ocd-division/country:ca/province:sk/ed:wood_river,Wood River -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/province:sk/ed:61,ocd-division/country:ca/province:sk/ed:yorkton,Yorkton -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:1,ocd-division/country:ca/territory:nt/ed:nunakput,Nunakput -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:2,ocd-division/country:ca/territory:nt/ed:inuvik_boot_lake,Inuvik Boot Lake -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:3,ocd-division/country:ca/territory:nt/ed:inuvik_twin_lakes,Inuvik Twin Lakes -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:4,ocd-division/country:ca/territory:nt/ed:mackenzie-delta,Mackenzie-Delta -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:5,ocd-division/country:ca/territory:nt/ed:sahtu,Sahtu -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:6,ocd-division/country:ca/territory:nt/ed:nahendeh,Nahendeh -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:7,ocd-division/country:ca/territory:nt/ed:monfwi,Monfwi -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:8,ocd-division/country:ca/territory:nt/ed:tu_nedhe,Tu Nedhe -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:9,ocd-division/country:ca/territory:nt/ed:deh_cho,Deh Cho -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:10,ocd-division/country:ca/territory:nt/ed:thebacha,Thebacha -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:11,ocd-division/country:ca/territory:nt/ed:weledeh,Weledeh -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:12,ocd-division/country:ca/territory:nt/ed:hay_river_south,Hay River South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:13,ocd-division/country:ca/territory:nt/ed:hay_river_north,Hay River North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:14,ocd-division/country:ca/territory:nt/ed:range_lake,Range Lake -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:15,ocd-division/country:ca/territory:nt/ed:yellowknife_south,Yellowknife South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:16,ocd-division/country:ca/territory:nt/ed:kam_lake,Kam Lake -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:17,ocd-division/country:ca/territory:nt/ed:frame_lake,Frame Lake -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:18,ocd-division/country:ca/territory:nt/ed:yellowknife_centre,Yellowknife Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:nt/ed:19,ocd-division/country:ca/territory:nt/ed:great_slave,Great Slave -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:1,ocd-division/country:ca/territory:yt/ed:copperbelt_north,Copperbelt North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:2,ocd-division/country:ca/territory:yt/ed:copperbelt_south,Copperbelt South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:3,ocd-division/country:ca/territory:yt/ed:klondike,Klondike -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:4,ocd-division/country:ca/territory:yt/ed:kluane,Kluane -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:5,ocd-division/country:ca/territory:yt/ed:lake_laberge,Lake Laberge -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:6,ocd-division/country:ca/territory:yt/ed:mayo-tatchun,Mayo-Tatchun -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:7,ocd-division/country:ca/territory:yt/ed:mount_lorne-southern_lakes,Mount Lorne-Southern Lakes -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:8,ocd-division/country:ca/territory:yt/ed:mountainview,Mountainview -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:9,ocd-division/country:ca/territory:yt/ed:pelly-nisutlin,Pelly-Nisutlin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:10,ocd-division/country:ca/territory:yt/ed:porter_creek_centre,Porter Creek Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:11,ocd-division/country:ca/territory:yt/ed:porter_creek_north,Porter Creek North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:12,ocd-division/country:ca/territory:yt/ed:porter_creek_south,Porter Creek South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:13,ocd-division/country:ca/territory:yt/ed:riverdale_north,Riverdale North -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:14,ocd-division/country:ca/territory:yt/ed:riverdale_south,Riverdale South -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:15,ocd-division/country:ca/territory:yt/ed:takhini-kopper_king,Takhini-Kopper King -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:16,ocd-division/country:ca/territory:yt/ed:vuntut_gwitchin,Vuntut Gwitchin -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:17,ocd-division/country:ca/territory:yt/ed:watson_lake,Watson Lake -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:18,ocd-division/country:ca/territory:yt/ed:whitehorse_centre,Whitehorse Centre -- numeric ocd ids replaced with district name based ocd ids
+ocd-division/country:ca/territory:yt/ed:19,ocd-division/country:ca/territory:yt/ed:whitehorse_west,Whitehorse West -- numeric ocd ids replaced with district name based ocd ids
