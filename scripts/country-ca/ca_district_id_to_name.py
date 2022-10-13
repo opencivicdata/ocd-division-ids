@@ -11,8 +11,8 @@ import os
 
 def createDistrictId(id, name):
   idSegments = id.split(':')
-  districtName = name.lower().replace(' ', '_')
-  districtName = districtName.replace('_-_', '-')
+  # remove special characters from name
+  districtName = name.lower().replace(' ', '_').replace('—', '-').replace("'", "").replace('_-_', '-')
   idSegments[-1] = districtName
   return ":".join(idSegments)
 
