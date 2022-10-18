@@ -1549,15 +1549,15 @@ ocd-division/country:us/state:va/circuit_court:31,VA State Circuit Court - 31st 
 ocd-division/country:us/state:wa/court_of_appeals:1,WA State Court of Appeals - 1st Division
 ocd-division/country:us/state:wa/court_of_appeals:2,WA State Court of Appeals - 2nd Division
 ocd-division/country:us/state:wa/court_of_appeals:3,WA State Court of Appeals - 3rd Division
-ocd-division/country:us/state:wa/court_of_appeals:division_1_district_1,WA State Court of Appeals - 1st Division District 1
-ocd-division/country:us/state:wa/court_of_appeals:division_1_district_2,WA State Court of Appeals - 1st Division District 2
-ocd-division/country:us/state:wa/court_of_appeals:division_1_district_3,WA State Court of Appeals - 1st Division District 3
-ocd-division/country:us/state:wa/court_of_appeals:division_2_district_1,WA State Court of Appeals - 2nd Division District 1
-ocd-division/country:us/state:wa/court_of_appeals:division_2_district_2,WA State Court of Appeals - 2nd Division District 2
-ocd-division/country:us/state:wa/court_of_appeals:division_2_district_3,WA State Court of Appeals - 2nd Division District 3
-ocd-division/country:us/state:wa/court_of_appeals:division_3_district_1,WA State Court of Appeals - 3rd Division District 1
-ocd-division/country:us/state:wa/court_of_appeals:division_3_district_2,WA State Court of Appeals - 3rd Division District 2
-ocd-division/country:us/state:wa/court_of_appeals:division_3_district_3,WA State Court of Appeals - 3rd Division District 3
+ocd-division/country:us/state:wa/court_of_appeals:1/district:1,WA State Court of Appeals - 1st Division District 1
+ocd-division/country:us/state:wa/court_of_appeals:1/district:2,WA State Court of Appeals - 1st Division District 2
+ocd-division/country:us/state:wa/court_of_appeals:1/district:3,WA State Court of Appeals - 1st Division District 3
+ocd-division/country:us/state:wa/court_of_appeals:2/district:1,WA State Court of Appeals - 2nd Division District 1
+ocd-division/country:us/state:wa/court_of_appeals:2/district:2,WA State Court of Appeals - 2nd Division District 2
+ocd-division/country:us/state:wa/court_of_appeals:2/district:3,WA State Court of Appeals - 2nd Division District 3
+ocd-division/country:us/state:wa/court_of_appeals:3/district:1,WA State Court of Appeals - 3rd Division District 1
+ocd-division/country:us/state:wa/court_of_appeals:3/district:2,WA State Court of Appeals - 3rd Division District 2
+ocd-division/country:us/state:wa/court_of_appeals:3/district:3,WA State Court of Appeals - 3rd Division District 3
 ocd-division/country:us/state:wi/circuit_court:1,WI State Circuit Court - 1st District
 ocd-division/country:us/state:wi/circuit_court:2,WI State Circuit Court - 2nd District
 ocd-division/country:us/state:wi/circuit_court:3,WI State Circuit Court - 3rd District
