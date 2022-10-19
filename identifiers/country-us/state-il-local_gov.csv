@@ -107,8 +107,6 @@ ocd-division/country:us/state:il/county:cook/council_district:14,Cook County Com
 ocd-division/country:us/state:il/county:cook/council_district:15,Cook County Commission District 15
 ocd-division/country:us/state:il/county:cook/council_district:16,Cook County Commission District 16
 ocd-division/country:us/state:il/county:cook/council_district:17,Cook County Commission District 17
-ocd-division/country:us/state:il/sewer:mwrd,Metropolitan Water Reclamation District
-ocd-division/country:us/state:il/transit:rta,Regional Transit Authority
 ocd-division/country:us/state:il/county:crawford/council_district:1,Crawford County Board District 1
 ocd-division/country:us/state:il/county:crawford/council_district:2,Crawford County Board District 2
 ocd-division/country:us/state:il/county:crawford/council_district:3,Crawford County Board District 3
@@ -165,9 +163,17 @@ ocd-division/country:us/state:il/county:fayette/council_district:7,Fayette Count
 ocd-division/country:us/state:il/county:ford/council_district:1,Ford County Board District 1
 ocd-division/country:us/state:il/county:ford/council_district:2,Ford County Board District 2
 ocd-division/country:us/state:il/county:ford/council_district:3,Ford County Board District 3
+ocd-division/country:us/state:il/county:fulton/council_district:1,Fulton County Board Member District 1
+ocd-division/country:us/state:il/county:fulton/council_district:2,Fulton County Board Member District 2
+ocd-division/country:us/state:il/county:fulton/council_district:3,Fulton County Board Member District 3
 ocd-division/country:us/state:il/county:grundy/council_district:1,Grundy County Board District 1
 ocd-division/country:us/state:il/county:grundy/council_district:2,Grundy County Board District 2
 ocd-division/country:us/state:il/county:grundy/council_district:3,Grundy County Board District 3
+ocd-division/country:us/state:il/county:hancock/council_district:1,Hancock County Board Member District 1
+ocd-division/country:us/state:il/county:hancock/council_district:2,Hancock County Board Member District 2
+ocd-division/country:us/state:il/county:hancock/council_district:3,Hancock County Board Member District 3
+ocd-division/country:us/state:il/county:hancock/council_district:4,Hancock County Board Member District 4
+ocd-division/country:us/state:il/county:hancock/council_district:5,Hancock County Board Member District 5
 ocd-division/country:us/state:il/county:henry/council_district:1,Henry County Board District 1
 ocd-division/country:us/state:il/county:henry/council_district:2,Henry County Board District 2
 ocd-division/country:us/state:il/county:iroquois/council_district:1,Iroquois County Board District 1
@@ -181,6 +187,23 @@ ocd-division/country:us/state:il/county:jackson/council_district:4,Jackson Count
 ocd-division/country:us/state:il/county:jackson/council_district:5,Jackson County Board District 5
 ocd-division/country:us/state:il/county:jackson/council_district:6,Jackson County Board District 6
 ocd-division/country:us/state:il/county:jackson/council_district:7,Jackson County Board District 7
+ocd-division/country:us/state:il/county:jefferson/council_district:1,Jefferson County Board Member District 1
+ocd-division/country:us/state:il/county:jefferson/council_district:2,Jefferson County Board Member District 2
+ocd-division/country:us/state:il/county:jefferson/council_district:3,Jefferson County Board Member District 3
+ocd-division/country:us/state:il/county:jefferson/council_district:4,Jefferson County Board Member District 4
+ocd-division/country:us/state:il/county:jefferson/council_district:5,Jefferson County Board Member District 5
+ocd-division/country:us/state:il/county:jefferson/council_district:6,Jefferson County Board Member District 6
+ocd-division/country:us/state:il/county:jefferson/council_district:7,Jefferson County Board Member District 7
+ocd-division/country:us/state:il/county:jefferson/council_district:8,Jefferson County Board Member District 8
+ocd-division/country:us/state:il/county:jefferson/council_district:9,Jefferson County Board Member District 9
+ocd-division/country:us/state:il/county:jefferson/council_district:10,Jefferson County Board Member District 10
+ocd-division/country:us/state:il/county:jefferson/council_district:11,Jefferson County Board Member District 11
+ocd-division/country:us/state:il/county:jefferson/council_district:12,Jefferson County Board Member District 12
+ocd-division/country:us/state:il/county:jefferson/council_district:13,Jefferson County Board Member District 13
+ocd-division/country:us/state:il/county:jersey/council_district:1,Jersey County Board Member District 1
+ocd-division/country:us/state:il/county:jersey/council_district:2,Jersey County Board Member District 2
+ocd-division/country:us/state:il/county:jersey/council_district:3,Jersey County Board Member District 3
+ocd-division/country:us/state:il/county:jersey/council_district:4,Jersey County Board Member District 4
 ocd-division/country:us/state:il/county:jo_daviess/council_district:1,Jo Daviess County Board District 1
 ocd-division/country:us/state:il/county:jo_daviess/council_district:2,Jo Daviess County Board District 2
 ocd-division/country:us/state:il/county:jo_daviess/council_district:3,Jo Daviess County Board District 3
@@ -321,6 +344,12 @@ ocd-division/country:us/state:il/county:lee/council_district:4,Lee County Board 
 ocd-division/country:us/state:il/county:livingston/council_district:1,Livingston County Board District 1
 ocd-division/country:us/state:il/county:livingston/council_district:2,Livingston County Board District 2
 ocd-division/country:us/state:il/county:livingston/council_district:3,Livingston County Board District 3
+ocd-division/country:us/state:il/county:logan/council_district:1,Logan County Board Member District 1
+ocd-division/country:us/state:il/county:logan/council_district:2,Logan County Board Member District 2
+ocd-division/country:us/state:il/county:logan/council_district:3,Logan County Board Member District 3
+ocd-division/country:us/state:il/county:logan/council_district:4,Logan County Board Member District 4
+ocd-division/country:us/state:il/county:logan/council_district:5,Logan County Board Member District 5
+ocd-division/country:us/state:il/county:logan/council_district:6,Logan County Board Member District 6
 ocd-division/country:us/state:il/county:macon/council_district:1,Macon County Board District 1
 ocd-division/country:us/state:il/county:macon/council_district:2,Macon County Board District 2
 ocd-division/country:us/state:il/county:macon/council_district:3,Macon County Board District 3
@@ -371,12 +400,18 @@ ocd-division/country:us/state:il/county:marshall/council_district:2,Marshall Cou
 ocd-division/country:us/state:il/county:marshall/council_district:3,Marshall County Board District 3
 ocd-division/country:us/state:il/county:mason/council_district:1,Mason County Board District 1
 ocd-division/country:us/state:il/county:mason/council_district:2,Mason County Board District 2
+ocd-division/country:us/state:il/county:mcdonough/council_district:1,McDonough County Board Member District 1
+ocd-division/country:us/state:il/county:mcdonough/council_district:2,McDonough County Board Member District 2
+ocd-division/country:us/state:il/county:mcdonough/council_district:3,McDonough County Board Member District 3
 ocd-division/country:us/state:il/county:mchenry/council_district:1,McHenry County Board District 1
 ocd-division/country:us/state:il/county:mchenry/council_district:2,McHenry County Board District 2
 ocd-division/country:us/state:il/county:mchenry/council_district:3,McHenry County Board District 3
 ocd-division/country:us/state:il/county:mchenry/council_district:4,McHenry County Board District 4
 ocd-division/country:us/state:il/county:mchenry/council_district:5,McHenry County Board District 5
 ocd-division/country:us/state:il/county:mchenry/council_district:6,McHenry County Board District 6
+ocd-division/country:us/state:il/county:mchenry/council_district:7,McHenry County Board District 7
+ocd-division/country:us/state:il/county:mchenry/council_district:8,McHenry County Board District 8
+ocd-division/country:us/state:il/county:mchenry/council_district:9,McHenry County Board District 9
 ocd-division/country:us/state:il/county:mclean/council_district:1,McLean County Board District 1
 ocd-division/country:us/state:il/county:mclean/council_district:2,McLean County Board District 2
 ocd-division/country:us/state:il/county:mclean/council_district:3,McLean County Board District 3
@@ -610,6 +645,16 @@ ocd-division/country:us/state:il/county:winnebago/council_district:20,Winnebago 
 ocd-division/country:us/state:il/county:woodford/council_district:1,Woodford County Board District 1
 ocd-division/country:us/state:il/county:woodford/council_district:2,Woodford County Board District 2
 ocd-division/country:us/state:il/county:woodford/council_district:3,Woodford County Board District 3
+ocd-division/country:us/state:il/place:aurora/ward:1,Aurora IL ward 1
+ocd-division/country:us/state:il/place:aurora/ward:2,Aurora IL ward 2
+ocd-division/country:us/state:il/place:aurora/ward:3,Aurora IL ward 3
+ocd-division/country:us/state:il/place:aurora/ward:4,Aurora IL ward 4
+ocd-division/country:us/state:il/place:aurora/ward:5,Aurora IL ward 5
+ocd-division/country:us/state:il/place:aurora/ward:6,Aurora IL ward 6
+ocd-division/country:us/state:il/place:aurora/ward:7,Aurora IL ward 7
+ocd-division/country:us/state:il/place:aurora/ward:8,Aurora IL ward 8
+ocd-division/country:us/state:il/place:aurora/ward:9,Aurora IL ward 9
+ocd-division/country:us/state:il/place:aurora/ward:10,Aurora IL ward 10
 ocd-division/country:us/state:il/place:chicago/ward:1,Chicago IL - ward 1
 ocd-division/country:us/state:il/place:chicago/ward:2,Chicago IL - ward 2
 ocd-division/country:us/state:il/place:chicago/ward:3,Chicago IL - ward 3
@@ -660,21 +705,16 @@ ocd-division/country:us/state:il/place:chicago/ward:47,Chicago IL - ward 47
 ocd-division/country:us/state:il/place:chicago/ward:48,Chicago IL - ward 48
 ocd-division/country:us/state:il/place:chicago/ward:49,Chicago IL - ward 49
 ocd-division/country:us/state:il/place:chicago/ward:50,Chicago IL - ward 50
-ocd-division/country:us/state:il/place:aurora/ward:1,Aurora IL ward 1
-ocd-division/country:us/state:il/place:aurora/ward:2,Aurora IL ward 2
-ocd-division/country:us/state:il/place:aurora/ward:3,Aurora IL ward 3
-ocd-division/country:us/state:il/place:aurora/ward:4,Aurora IL ward 4
-ocd-division/country:us/state:il/place:aurora/ward:5,Aurora IL ward 5
-ocd-division/country:us/state:il/place:aurora/ward:6,Aurora IL ward 6
-ocd-division/country:us/state:il/place:aurora/ward:7,Aurora IL ward 7
-ocd-division/country:us/state:il/place:aurora/ward:8,Aurora IL ward 8
-ocd-division/country:us/state:il/place:aurora/ward:9,Aurora IL ward 9
-ocd-division/country:us/state:il/place:aurora/ward:10,Aurora IL ward 10
 ocd-division/country:us/state:il/place:joliet/council_district:1,Joliet IL city council district 1
 ocd-division/country:us/state:il/place:joliet/council_district:2,Joliet IL city council district 2
 ocd-division/country:us/state:il/place:joliet/council_district:3,Joliet IL city council district 3
 ocd-division/country:us/state:il/place:joliet/council_district:4,Joliet IL city council district 4
 ocd-division/country:us/state:il/place:joliet/council_district:5,Joliet IL city council district 5
+ocd-division/country:us/state:il/place:peoria/council_district:1,Peoria IL city council district 1
+ocd-division/country:us/state:il/place:peoria/council_district:2,Peoria IL city council district 2
+ocd-division/country:us/state:il/place:peoria/council_district:3,Peoria IL city council district 3
+ocd-division/country:us/state:il/place:peoria/council_district:4,Peoria IL city council district 4
+ocd-division/country:us/state:il/place:peoria/council_district:5,Peoria IL city council district 5
 ocd-division/country:us/state:il/place:rockford/ward:1,Rockford IL ward 1
 ocd-division/country:us/state:il/place:rockford/ward:2,Rockford IL ward 2
 ocd-division/country:us/state:il/place:rockford/ward:3,Rockford IL ward 3
@@ -689,11 +729,6 @@ ocd-division/country:us/state:il/place:rockford/ward:11,Rockford IL ward 11
 ocd-division/country:us/state:il/place:rockford/ward:12,Rockford IL ward 12
 ocd-division/country:us/state:il/place:rockford/ward:13,Rockford IL ward 13
 ocd-division/country:us/state:il/place:rockford/ward:14,Rockford IL ward 14
-ocd-division/country:us/state:il/place:peoria/council_district:1,Peoria IL city council district 1
-ocd-division/country:us/state:il/place:peoria/council_district:2,Peoria IL city council district 2
-ocd-division/country:us/state:il/place:peoria/council_district:3,Peoria IL city council district 3
-ocd-division/country:us/state:il/place:peoria/council_district:4,Peoria IL city council district 4
-ocd-division/country:us/state:il/place:peoria/council_district:5,Peoria IL city council district 5
 ocd-division/country:us/state:il/place:springfield/ward:1,Springfield IL ward 1
 ocd-division/country:us/state:il/place:springfield/ward:2,Springfield IL ward 2
 ocd-division/country:us/state:il/place:springfield/ward:3,Springfield IL ward 3
@@ -704,37 +739,5 @@ ocd-division/country:us/state:il/place:springfield/ward:7,Springfield IL ward 7
 ocd-division/country:us/state:il/place:springfield/ward:8,Springfield IL ward 8
 ocd-division/country:us/state:il/place:springfield/ward:9,Springfield IL ward 9
 ocd-division/country:us/state:il/place:springfield/ward:10,Springfield IL ward 10
-ocd-division/country:us/state:il/county:fulton/council_district:1,Fulton County Board Member District 1
-ocd-division/country:us/state:il/county:fulton/council_district:2,Fulton County Board Member District 2
-ocd-division/country:us/state:il/county:fulton/council_district:3,Fulton County Board Member District 3
-ocd-division/country:us/state:il/county:hancock/council_district:1,Hancock County Board Member District 1
-ocd-division/country:us/state:il/county:hancock/council_district:2,Hancock County Board Member District 2
-ocd-division/country:us/state:il/county:hancock/council_district:3,Hancock County Board Member District 3
-ocd-division/country:us/state:il/county:hancock/council_district:4,Hancock County Board Member District 4
-ocd-division/country:us/state:il/county:hancock/council_district:5,Hancock County Board Member District 5
-ocd-division/country:us/state:il/county:jefferson/council_district:1,Jefferson County Board Member District 1
-ocd-division/country:us/state:il/county:jefferson/council_district:10,Jefferson County Board Member District 10
-ocd-division/country:us/state:il/county:jefferson/council_district:11,Jefferson County Board Member District 11
-ocd-division/country:us/state:il/county:jefferson/council_district:12,Jefferson County Board Member District 12
-ocd-division/country:us/state:il/county:jefferson/council_district:13,Jefferson County Board Member District 13
-ocd-division/country:us/state:il/county:jefferson/council_district:2,Jefferson County Board Member District 2
-ocd-division/country:us/state:il/county:jefferson/council_district:3,Jefferson County Board Member District 3
-ocd-division/country:us/state:il/county:jefferson/council_district:4,Jefferson County Board Member District 4
-ocd-division/country:us/state:il/county:jefferson/council_district:5,Jefferson County Board Member District 5
-ocd-division/country:us/state:il/county:jefferson/council_district:6,Jefferson County Board Member District 6
-ocd-division/country:us/state:il/county:jefferson/council_district:7,Jefferson County Board Member District 7
-ocd-division/country:us/state:il/county:jefferson/council_district:8,Jefferson County Board Member District 8
-ocd-division/country:us/state:il/county:jefferson/council_district:9,Jefferson County Board Member District 9
-ocd-division/country:us/state:il/county:jersey/council_district:1,Jersey County Board Member District 1
-ocd-division/country:us/state:il/county:jersey/council_district:2,Jersey County Board Member District 2
-ocd-division/country:us/state:il/county:jersey/council_district:3,Jersey County Board Member District 3
-ocd-division/country:us/state:il/county:jersey/council_district:4,Jersey County Board Member District 4
-ocd-division/country:us/state:il/county:logan/council_district:1,Logan County Board Member District 1
-ocd-division/country:us/state:il/county:logan/council_district:2,Logan County Board Member District 2
-ocd-division/country:us/state:il/county:logan/council_district:3,Logan County Board Member District 3
-ocd-division/country:us/state:il/county:logan/council_district:4,Logan County Board Member District 4
-ocd-division/country:us/state:il/county:logan/council_district:5,Logan County Board Member District 5
-ocd-division/country:us/state:il/county:logan/council_district:6,Logan County Board Member District 6
-ocd-division/country:us/state:il/county:mcdonough/council_district:1,McDonough County Board Member District 1
-ocd-division/country:us/state:il/county:mcdonough/council_district:2,McDonough County Board Member District 2
-ocd-division/country:us/state:il/county:mcdonough/council_district:3,McDonough County Board Member District 3
+ocd-division/country:us/state:il/sewer:mwrd,Metropolitan Water Reclamation District
+ocd-division/country:us/state:il/transit:rta,Regional Transit Authority
