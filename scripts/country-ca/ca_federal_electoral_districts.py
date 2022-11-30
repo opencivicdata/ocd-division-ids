@@ -12,6 +12,7 @@ import sys
 from datetime import datetime, timedelta
 
 import pandas as pd
+import copy
 
 corrections = {
     "Fort Nelson—Peace River": ("1976", "1978"),
@@ -33,6 +34,21 @@ renamed = {
     "St. Boniface": "Saint Boniface",
     "Saint-Léonard": "Saint-Léonard—Saint-Michel",  # Saint-Léonard 1976-1977's information is repeated in 1988-1997.
     "Terrebonne": "Terrebonne—Blainville",
+}
+alias_corrections = {
+    "Argenteuil": "ocd-division/country:ca/province:qc/ed:argenteuil-deux-montagnes",
+    "Beauharnois": "ocd-division/country:ca/province:qc/ed:beauharnois-salaberry",
+    "Charlesbourg": "ocd-division/country:ca/province:qc/ed:charlesbourg-haute-saint-charles",
+    "Chicoutimi": "ocd-division/country:ca/province:qc/ed:chicoutimi-le_fjord",
+    "Huron": "ocd-division/country:ca/province:on/ed:huron-bruce",
+    "Longueuil": "ocd-division/country:ca/province:qc/ed:longueuil-saint-hubert",
+    "Maisonneuve": "ocd-division/country:ca/province:qc/ed:maisonneuve-rosemont",
+    "Missisquoi": "ocd-division/country:ca/province:qc/ed:brome-missisquoi",
+    "North Okanagan—Shuswap": "ocd-division/country:ca/province:bc/ed:okanagan-shuswap",
+    "Richelieu": "ocd-division/country:ca/province:qc/ed:bas-richelieu-nicolet-bécancour",
+    "Rimouski": "ocd-division/country:ca/province:qc/ed:rimouski-mitis",
+    "Sarnia": "ocd-division/country:ca/province:on/ed:sarnia-lambton",
+    "Témiscouata": "ocd-division/country:ca/province:qc/ed:rivière-du-loup-témiscouata"
 }
 
 pd.set_option("display.max_columns", None)
@@ -113,13 +129,13 @@ df["id"] = (
             "New Brunswick": "province",
             "Newfoundland and Labrador": "province",
             "Nova Scotia": "province",
-            "Nunavut": "province",
             "Ontario": "province",
             "Prince Edward Island": "province",
             "Quebec": "province",
             "Saskatchewan": "province",
             "Yukon": "territory",
             "Northwest Territories": "territory",
+            "Nunavut": "territory",
         }
     )
     + ":"
@@ -196,7 +212,7 @@ seen = set()
 taken = set()
 
 # Append years to duplicate names within abolished and current districts.
-for key, dups in (("abolished", True), ("current", False)):
+for key, dups in (("abolished", True), ("current", True), ("aliases", True)):
     d = dfs[key]["df"]
     for label, row in d.iterrows():
         if row["id"] not in seen:
@@ -224,24 +240,34 @@ for key, dups in (("abolished", True), ("current", False)):
 # - the name of the electoral district was changed in
 d = dfs["aliases"]["df"]
 for label, row in d.sort_values("validFrom", ascending=False).iterrows():
+    if row["name"] in alias_corrections:
+      d.at[label, "sameAs"] = alias_corrections[row["name"]]
+      continue
     regex = r' for the (?:name|word[s:]?) "' + re.escape(row["name"]).replace("—", " ?--? ?").lower() + r'\.?"'
     matches = df[df["Additional Information"].str.contains(regex, regex=True)]
-    # TODO Swap to the assertion once there is no more output.
-    # assert len(matches) <= 1, f"{matches}\n\nMultiple matches found for {row['name']}."
-    if len(matches) > 1:
-        print(f"{matches}\n\n{row}\n\nMultiple matches found for {row['name']}.")
-
     if not matches.empty:
-        d.at[label, "sameAs"] = matches.iloc[0]["id"]
+      # Filter out matches where validFrom is later than the validThrough of rename
+      for _, match in matches.iterrows():
+        if not pd.isna(match["validThrough"]):
+          if (int(row["validFrom"][:4]) + 1 > int(match["validThrough"][:4])):
+            continue
+        pd.set_option('mode.chained_assignment',None)
+        dfs["abolished"]["df"].loc[df["id"] == row["id"], "validFrom"] = match["validFrom"]
+        d.at[label, "sameAs"] = match["id"]
+    assert len(matches) <= 1, f"{matches}\n\nMultiple matches found for {row['name']}."
 
-# TODO Restore this check once remaining aliases are resolved.
-# assert (d["sameAs"] != "").all(), f"{len(d[d['sameAs'] == ''])} aliases do not have a sameAs value."
+dfs["aliases"]["df"].drop(columns=["validFrom", "validThrough"])
+
+# Add remaining ids with no sameAs to abolished ids and remove them from aliases
+abolishedIds = dfs["abolished"]["df"].loc[:,"id"].values.tolist()
+noSameAsDf = dfs["aliases"]["df"].loc[df["sameAs"] == ""]
+filteredNoSameAsDf = noSameAsDf.loc[~df["id"].isin(abolishedIds)]
+dfs["abolished"]["df"] = pd.concat([dfs["abolished"]["df"], filteredNoSameAsDf])
+dfs["aliases"]["df"].drop(noSameAsDf.index, inplace=True)
+assert (d["sameAs"] != "").all(), f"{len(d[d['sameAs'] == ''])} aliases do not have a sameAs value."
 
 # TODO
-# - Check that district timelines for aliases are adjacent (can also compare to the year in which it was changed in Additional Information)
-# - Set the validFrom of the referred division to the validFrom of the referent division
 # - Check the districts with Additional Information of "by-election: as a result of british columbia joining confederation, 1871-07-20, special election"
-
 basedir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 outdir = os.path.join(basedir, "identifiers", "country-ca")
 for suffix, props in dfs.items():
