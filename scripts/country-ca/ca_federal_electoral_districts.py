@@ -283,8 +283,6 @@ for label, row in d.sort_values("validFrom", ascending=False).iterrows():
 
 assert (d["sameAs"] != "").all(), f"{len(d[d['sameAs'] == ''])} aliases do not have a sameAs value."
 
-# TODO
-# - Check the districts with Additional Information of "by-election: as a result of british columbia joining confederation, 1871-07-20, special election"
 basedir = os.path.dirname(os.path.dirname(os.path.dirname(os.path.realpath(__file__))))
 outdir = os.path.join(basedir, "identifiers", "country-ca")
 for suffix, props in dfs.items():
