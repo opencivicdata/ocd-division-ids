@@ -40,6 +40,7 @@ alias_corrections = {
     "Beauharnois": "ocd-division/country:ca/province:qc/ed:beauharnois-salaberry",
     "Charlesbourg": "ocd-division/country:ca/province:qc/ed:charlesbourg-haute-saint-charles",
     "Chicoutimi": "ocd-division/country:ca/province:qc/ed:chicoutimi-le_fjord",
+    "Gloucester—Carleton": "ocd-division/country:ca/province:on/ed:orléans",
     "Huron": "ocd-division/country:ca/province:on/ed:huron-bruce",
     "Longueuil": "ocd-division/country:ca/province:qc/ed:longueuil-saint-hubert",
     "Maisonneuve": "ocd-division/country:ca/province:qc/ed:maisonneuve-rosemont",
@@ -202,7 +203,7 @@ dfs = {
     # Federal electoral districts that have been renamed.
     "aliases": {
         "df": df[(df["Currently Active"] == "Not Active") & ~abolished_condition],
-        "columns": ["validFrom", "validThrough", "sameAs"],
+        "columns": ["sameAs"],
     },
 }
 
@@ -254,16 +255,32 @@ for label, row in d.sort_values("validFrom", ascending=False).iterrows():
         pd.set_option('mode.chained_assignment',None)
         dfs["abolished"]["df"].loc[df["id"] == row["id"], "validFrom"] = match["validFrom"]
         d.at[label, "sameAs"] = match["id"]
+    else:
+      d.at[label, "sameAs"] = ""
     assert len(matches) <= 1, f"{matches}\n\nMultiple matches found for {row['name']}."
 
-dfs["aliases"]["df"].drop(columns=["validFrom", "validThrough"])
-
-# Add remaining ids with no sameAs to abolished ids and remove them from aliases
+# Add remaining ids  to abolished ids and remove them from aliases
 abolishedIds = dfs["abolished"]["df"].loc[:,"id"].values.tolist()
-noSameAsDf = dfs["aliases"]["df"].loc[df["sameAs"] == ""]
-filteredNoSameAsDf = noSameAsDf.loc[~df["id"].isin(abolishedIds)]
+noSameAsIds = d[d['sameAs'] == '']
+filteredNoSameAsDf = noSameAsIds.loc[~df["id"].isin(abolishedIds)]
 dfs["abolished"]["df"] = pd.concat([dfs["abolished"]["df"], filteredNoSameAsDf])
-dfs["aliases"]["df"].drop(noSameAsDf.index, inplace=True)
+dfs["aliases"]["df"] = d[d['sameAs'] != '']
+
+d = dfs["aliases"]["df"]
+for label, row in d.sort_values("validFrom", ascending=False).iterrows():
+  sameAs = row["sameAs"]
+  rowId = row["id"]
+  idsToChange = []
+  if sameAs in d["id"].values:
+    print(row["name"])
+    print(d.loc[d["id"] == row["sameAs"]]["sameAs"].values[0])
+    print("\n")
+    idsToChange.append(rowId)
+    rowId = sameAs
+    sameAs = d.loc[d["id"] == sameAs]["sameAs"].values[0]
+  for ocdId in idsToChange:
+    dfs["aliases"]["df"].at[label, "sameAs"] = sameAs
+
 assert (d["sameAs"] != "").all(), f"{len(d[d['sameAs'] == ''])} aliases do not have a sameAs value."
 
 # TODO

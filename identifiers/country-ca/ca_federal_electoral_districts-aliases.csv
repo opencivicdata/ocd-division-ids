@@ -1,1 +1,163 @@
-id,name,validFrom,validThrough,sameAs
+id,name,sameAs
+ocd-division/country:ca/province:ab/ed:athabasca,Athabasca,ocd-division/country:ca/province:ab/ed:fort_mcmurray-athabasca
+ocd-division/country:ca/province:ab/ed:battle_river-2004,Battle River,ocd-division/country:ca/province:ab/ed:westlock-st._paul
+ocd-division/country:ca/province:ab/ed:calgary_north_centre,Calgary North Centre,ocd-division/country:ca/province:ab/ed:calgary_centre-north
+ocd-division/country:ca/province:ab/ed:calgary_south_centre,Calgary South Centre,ocd-division/country:ca/province:ab/ed:calgary_centre
+ocd-division/country:ca/province:ab/ed:edmonton-beaumont,Edmonton—Beaumont,ocd-division/country:ca/province:ab/ed:edmonton-mill_woods-beaumont
+ocd-division/country:ca/province:ab/ed:edmonton_east-1917,Edmonton East,ocd-division/country:ca/province:ab/ed:edmonton_centre-east
+ocd-division/country:ca/province:ab/ed:lethbridge-1917,Lethbridge,ocd-division/country:ca/province:ab/ed:lethbridge-foothills
+ocd-division/country:ca/province:ab/ed:medicine_hat,Medicine Hat,ocd-division/country:ca/province:ab/ed:medicine_hat-cardston-warner
+ocd-division/country:ca/province:ab/ed:westlock-st._paul-2004,Westlock—St. Paul,ocd-division/country:ca/province:ab/ed:battle_river
+ocd-division/country:ca/province:bc/ed:burnaby-richmond,Burnaby—Richmond,ocd-division/country:ca/province:bc/ed:burnaby-richmond-delta
+ocd-division/country:ca/province:bc/ed:dewdney-alouette,Dewdney—Alouette,ocd-division/country:ca/province:bc/ed:pitt_meadows-maple_ridge-mission
+ocd-division/country:ca/province:bc/ed:fort_nelson-peace_river,Fort Nelson—Peace River,ocd-division/country:ca/province:bc/ed:prince_george-peace_river
+ocd-division/country:ca/province:bc/ed:kamloops-1988,Kamloops,ocd-division/country:ca/province:bc/ed:kamloops_thompson_and_highland_valleys
+ocd-division/country:ca/province:bc/ed:kamloops-thompson,Kamloops—Thompson,ocd-division/country:ca/province:bc/ed:kamloops-thompson-cariboo
+ocd-division/country:ca/province:bc/ed:kelowna,Kelowna,ocd-division/country:ca/province:bc/ed:kelowna-lake_country
+ocd-division/country:ca/province:bc/ed:nanaimo,Nanaimo,ocd-division/country:ca/province:bc/ed:nanaimo-cowichan-the_islands
+ocd-division/country:ca/province:bc/ed:north_okanagan-shuswap-2004,North Okanagan—Shuswap,ocd-division/country:ca/province:bc/ed:okanagan-shuswap
+ocd-division/country:ca/province:bc/ed:port_moody-coquitlam-1988,Port Moody—Coquitlam,ocd-division/country:ca/province:bc/ed:port_moody-coquitlam-port_coquitlam
+ocd-division/country:ca/province:bc/ed:southern_interior,Southern Interior,ocd-division/country:ca/province:bc/ed:british_columbia_southern_interior
+ocd-division/country:ca/province:bc/ed:surrey,Surrey,ocd-division/country:ca/province:bc/ed:surrey-white_rock
+ocd-division/country:ca/province:bc/ed:surrey-white_rock-1988,Surrey—White Rock,ocd-division/country:ca/province:bc/ed:surrey-white_rock-south_langley
+ocd-division/country:ca/province:bc/ed:west_kootenay-okanagan,West Kootenay—Okanagan,ocd-division/country:ca/province:bc/ed:kootenay-boundary-okanagan
+ocd-division/country:ca/province:bc/ed:west_vancouver-sunshine_coast,West Vancouver—Sunshine Coast,ocd-division/country:ca/province:bc/ed:west_vancouver-sunshine_coast-sea_to_sky_country
+ocd-division/country:ca/province:mb/ed:charleswood-assiniboine,Charleswood—Assiniboine,ocd-division/country:ca/province:mb/ed:charleswood_st._james-assiniboia
+ocd-division/country:ca/province:mb/ed:charleswood-st._james,Charleswood—St. James,ocd-division/country:ca/province:mb/ed:charleswood-st._james-assiniboia
+ocd-division/country:ca/province:mb/ed:dauphin,Dauphin,ocd-division/country:ca/province:mb/ed:dauphin-swan_river-marquette
+ocd-division/country:ca/province:mb/ed:dauphin-swan_river,Dauphin—Swan River,ocd-division/country:ca/province:mb/ed:dauphin-swan_river-marquette
+ocd-division/country:ca/province:mb/ed:selkirk-1988,Selkirk,ocd-division/country:ca/province:mb/ed:selkirk-red_river
+ocd-division/country:ca/province:mb/ed:winnipeg-st._paul,Winnipeg—St. Paul,ocd-division/country:ca/province:mb/ed:winnipeg_north-st._paul
+ocd-division/country:ca/province:mb/ed:winnipeg_north-1917,Winnipeg North,ocd-division/country:ca/province:mb/ed:winnipeg_north_centre
+ocd-division/country:ca/province:nb/ed:beauséjour-1988,Beauséjour,ocd-division/country:ca/province:nb/ed:beauséjour-petitcodiac
+ocd-division/country:ca/province:nb/ed:charlotte-1997,Charlotte,ocd-division/country:ca/province:nb/ed:new_brunswick_southwest
+ocd-division/country:ca/province:nb/ed:fredericton-1988,Fredericton,ocd-division/country:ca/province:nb/ed:fredericton-york-sunbury
+ocd-division/country:ca/province:nb/ed:fundy,Fundy,ocd-division/country:ca/province:nb/ed:fundy_royal
+ocd-division/country:ca/province:nb/ed:gloucester,Gloucester,ocd-division/country:ca/province:nb/ed:acadie-bathurst
+ocd-division/country:ca/province:nb/ed:moncton,Moncton,ocd-division/country:ca/province:nb/ed:moncton-riverview-dieppe
+ocd-division/country:ca/province:nb/ed:northumberland,Northumberland,ocd-division/country:ca/province:nb/ed:northumberland-miramichi
+ocd-division/country:ca/province:nb/ed:restigouche-1968,Restigouche,ocd-division/country:ca/province:nb/ed:restigouche-chaleur
+ocd-division/country:ca/province:nb/ed:st._croix-belleisle,St. Croix—Belleisle,ocd-division/country:ca/province:nb/ed:new_brunswick_southwest
+ocd-division/country:ca/province:nl/ed:bonavista-exploits,Bonavista—Exploits,ocd-division/country:ca/province:nl/ed:bonavista-gander-grand_falls-windsor
+ocd-division/country:ca/province:nl/ed:humber-st._barbe,Humber—St. Barbe,ocd-division/country:ca/province:nl/ed:humber-port_au_port-st._barbe
+ocd-division/country:ca/province:ns/ed:bras_d~or,Bras d'Or,ocd-division/country:ca/province:ns/ed:bras_d~or-cape_breton
+ocd-division/country:ca/province:ns/ed:north_nova,North Nova,ocd-division/country:ca/province:ns/ed:cumberland-colchester-musquodoboit_valley
+ocd-division/country:ca/province:ns/ed:sackville-eastern_shore-1997,Sackville—Eastern Shore,ocd-division/country:ca/province:ns/ed:sackville-musquodoboit_valley-eastern_shore
+ocd-division/country:ca/province:on/ed:algoma-1968,Algoma,ocd-division/country:ca/province:on/ed:algoma-manitoulin
+ocd-division/country:ca/province:on/ed:barrie-simcoe,Barrie—Simcoe,ocd-division/country:ca/province:on/ed:barrie-simcoe-bradford
+ocd-division/country:ca/province:on/ed:beaches-woodbine,Beaches—Woodbine,ocd-division/country:ca/province:on/ed:beaches-east_york
+ocd-division/country:ca/province:on/ed:bramalea-gore-malton-1990,Bramalea—Gore—Malton,ocd-division/country:ca/province:on/ed:bramalea-gore-malton-springdale
+ocd-division/country:ca/province:on/ed:brampton-malton,Brampton—Malton,ocd-division/country:ca/province:on/ed:bramalea-gore-malton
+ocd-division/country:ca/province:on/ed:brant-1968,Brant,ocd-division/country:ca/province:on/ed:brantford-brant
+ocd-division/country:ca/province:on/ed:broadview-greenwood,Broadview—Greenwood,ocd-division/country:ca/province:on/ed:toronto-danforth
+ocd-division/country:ca/province:on/ed:bruce,Bruce,ocd-division/country:ca/province:on/ed:bruce-grey-owen_sound
+ocd-division/country:ca/province:on/ed:bruce-grey,Bruce—Grey,ocd-division/country:ca/province:on/ed:bruce-grey-owen_sound
+ocd-division/country:ca/province:on/ed:carleton-gloucester,Carleton—Gloucester,ocd-division/country:ca/province:on/ed:orléans
+ocd-division/country:ca/province:on/ed:carleton-gloucester-1997,Carleton—Gloucester,ocd-division/country:ca/province:on/ed:orléans
+ocd-division/country:ca/province:on/ed:carleton-lanark,Carleton—Lanark,ocd-division/country:ca/province:on/ed:carleton-mississippi_mills
+ocd-division/country:ca/province:on/ed:clarington-scugog-uxbridge,Clarington—Scugog—Uxbridge,ocd-division/country:ca/province:on/ed:durham
+ocd-division/country:ca/province:on/ed:cochrane-1979,Cochrane,ocd-division/country:ca/province:on/ed:cochrane-superior
+ocd-division/country:ca/province:on/ed:elgin,Elgin,ocd-division/country:ca/province:on/ed:elgin-norfolk
+ocd-division/country:ca/province:on/ed:glengarry-prescott,Glengarry—Prescott,ocd-division/country:ca/province:on/ed:glengarry-prescott-russell
+ocd-division/country:ca/province:on/ed:gloucester-carleton,Gloucester—Carleton,ocd-division/country:ca/province:on/ed:orléans
+ocd-division/country:ca/province:on/ed:grey-bruce-owen_sound,Grey—Bruce—Owen Sound,ocd-division/country:ca/province:on/ed:bruce-grey-owen_sound
+ocd-division/country:ca/province:on/ed:high_park,High Park,ocd-division/country:ca/province:on/ed:high_park-humber_valley
+ocd-division/country:ca/province:on/ed:huron,Huron,ocd-division/country:ca/province:on/ed:huron-bruce
+ocd-division/country:ca/province:on/ed:kent-essex-1997,Kent—Essex,ocd-division/country:ca/province:on/ed:chatham-kent-essex
+ocd-division/country:ca/province:on/ed:kitchener-conestoga-2004,Kitchener—Conestoga,ocd-division/country:ca/province:on/ed:kitchener-conestoga
+ocd-division/country:ca/province:on/ed:kitchener-wilmot-wellesley-woolwich,Kitchener—Wilmot—Wellesley—Woolwich,ocd-division/country:ca/province:on/ed:kitchener-conestoga
+ocd-division/country:ca/province:on/ed:lakeshore,Lakeshore,ocd-division/country:ca/province:on/ed:toronto-lakeshore
+ocd-division/country:ca/province:on/ed:lanark_and_renfrew,Lanark and Renfrew,ocd-division/country:ca/province:on/ed:lanark-renfrew-carleton
+ocd-division/country:ca/province:on/ed:leeds-grenville,Leeds—Grenville,ocd-division/country:ca/province:on/ed:leeds-grenville-thousand_islands_and_rideau_lakes
+ocd-division/country:ca/province:on/ed:markham-1988,Markham,ocd-division/country:ca/province:on/ed:markham-whitchurch-stouffville
+ocd-division/country:ca/province:on/ed:middlesex,Middlesex,ocd-division/country:ca/province:on/ed:middlesex-london-lambton
+ocd-division/country:ca/province:on/ed:middlesex-kent-lambton,Middlesex—Kent—Lambton,ocd-division/country:ca/province:on/ed:lambton-kent-middlesex
+ocd-division/country:ca/province:on/ed:ottawa-orléans,Ottawa—Orléans,ocd-division/country:ca/province:on/ed:orléans
+ocd-division/country:ca/province:on/ed:ottawa_east,Ottawa East,ocd-division/country:ca/province:on/ed:ottawa-vanier
+ocd-division/country:ca/province:on/ed:peel_south,Peel South,ocd-division/country:ca/province:on/ed:mississauga
+ocd-division/country:ca/province:on/ed:perth-1935,Perth,ocd-division/country:ca/province:on/ed:perth-wilmot
+ocd-division/country:ca/province:on/ed:peterborough,Peterborough,ocd-division/country:ca/province:on/ed:peterborough-kawartha
+ocd-division/country:ca/province:on/ed:renfrew,Renfrew,ocd-division/country:ca/province:on/ed:renfrew-nipissing-pembroke
+ocd-division/country:ca/province:on/ed:renfrew_north,Renfrew North,ocd-division/country:ca/province:on/ed:renfrew_north-nipissing_east
+ocd-division/country:ca/province:on/ed:sarnia,Sarnia,ocd-division/country:ca/province:on/ed:sarnia-lambton
+ocd-division/country:ca/province:on/ed:sarnia-1979,Sarnia,ocd-division/country:ca/province:on/ed:sarnia-lambton
+ocd-division/country:ca/province:on/ed:stormont-dundas,Stormont—Dundas,ocd-division/country:ca/province:on/ed:stormont-dundas-charlottenburgh
+ocd-division/country:ca/province:on/ed:thunder_bay-nipigon,Thunder Bay—Nipigon,ocd-division/country:ca/province:on/ed:thunder_bay-superior_north
+ocd-division/country:ca/province:on/ed:timiskaming-1935,Timiskaming,ocd-division/country:ca/province:on/ed:timiskaming-french_river
+ocd-division/country:ca/province:on/ed:victoria-haliburton,Victoria—Haliburton,ocd-division/country:ca/province:on/ed:haliburton-victoria-brock
+ocd-division/country:ca/province:on/ed:waterloo-1968,Waterloo,ocd-division/country:ca/province:on/ed:waterloo-cambridge
+ocd-division/country:ca/province:on/ed:wellington-grey,Wellington—Grey,ocd-division/country:ca/province:on/ed:wellington-grey-dufferin-waterloo
+ocd-division/country:ca/province:on/ed:wentworth-burlington,Wentworth—Burlington,ocd-division/country:ca/province:on/ed:ancaster-dundas-flamborough-aldershot
+ocd-division/country:ca/province:on/ed:york_west-1917,York West,ocd-division/country:ca/province:on/ed:humber_river-black_creek
+ocd-division/country:ca/province:qc/ed:abitibi,Abitibi,ocd-division/country:ca/province:qc/ed:abitibi-baie-james-nunavik
+ocd-division/country:ca/province:qc/ed:argenteuil-1968,Argenteuil,ocd-division/country:ca/province:qc/ed:argenteuil-deux-montagnes
+ocd-division/country:ca/province:qc/ed:argenteuil-1979,Argenteuil,ocd-division/country:ca/province:qc/ed:argenteuil-deux-montagnes
+ocd-division/country:ca/province:qc/ed:argenteuil-mirabel,Argenteuil—Mirabel,ocd-division/country:ca/province:qc/ed:argenteuil-papineau-mirabel
+ocd-division/country:ca/province:qc/ed:argenteuil-papineau,Argenteuil—Papineau,ocd-division/country:ca/province:qc/ed:argenteuil-papineau-mirabel
+ocd-division/country:ca/province:qc/ed:beauharnois-1968,Beauharnois,ocd-division/country:ca/province:qc/ed:beauharnois-salaberry
+ocd-division/country:ca/province:qc/ed:beauport,Beauport,ocd-division/country:ca/province:qc/ed:beauport-limoilou
+ocd-division/country:ca/province:qc/ed:beauport-montmorency-orléans,Beauport—Montmorency—Orléans,ocd-division/country:ca/province:qc/ed:beauport-montmorency-côte-de-beaupré-île-d~orléans
+ocd-division/country:ca/province:qc/ed:bellechasse-montmagny-l~islet,Bellechasse—Montmagny—L'Islet,ocd-division/country:ca/province:qc/ed:bellechasse-etchemins-montmagny-l~islet
+ocd-division/country:ca/province:qc/ed:berthier-1968,Berthier,ocd-division/country:ca/province:qc/ed:berthier-maskinongé
+ocd-division/country:ca/province:qc/ed:berthier-maskinongé-1975,Berthier—Maskinongé,ocd-division/country:ca/province:qc/ed:berthier-maskinongé-lanaudière
+ocd-division/country:ca/province:qc/ed:bonaventure,Bonaventure,ocd-division/country:ca/province:qc/ed:bonaventure-îles-de-la-madeleine
+ocd-division/country:ca/province:qc/ed:bourassa-1968,Bourassa,ocd-division/country:ca/province:qc/ed:montreal-bourassa
+ocd-division/country:ca/province:qc/ed:charlesbourg,Charlesbourg,ocd-division/country:ca/province:qc/ed:charlesbourg-haute-saint-charles
+ocd-division/country:ca/province:qc/ed:charlesbourg-2004,Charlesbourg,ocd-division/country:ca/province:qc/ed:charlesbourg-haute-saint-charles
+ocd-division/country:ca/province:qc/ed:charlevoix-montmorency-2004,Charlevoix—Montmorency,ocd-division/country:ca/province:qc/ed:beauport-côte-de-beaupré-île_d~orléans-charlevoix
+ocd-division/country:ca/province:qc/ed:chicoutimi,Chicoutimi,ocd-division/country:ca/province:qc/ed:chicoutimi-le_fjord
+ocd-division/country:ca/province:qc/ed:chicoutimi-2013,Chicoutimi,ocd-division/country:ca/province:qc/ed:chicoutimi-le_fjord
+ocd-division/country:ca/province:qc/ed:compton-1968,Compton,ocd-division/country:ca/province:qc/ed:mégantic-compton-stanstead
+ocd-division/country:ca/province:qc/ed:duvernay,Duvernay,ocd-division/country:ca/province:qc/ed:laval_east
+ocd-division/country:ca/province:qc/ed:hull,Hull,ocd-division/country:ca/province:qc/ed:hull-aylmer
+ocd-division/country:ca/province:qc/ed:lac-saint-jean-1949,Lac-Saint-Jean,ocd-division/country:ca/province:qc/ed:lac-saint-jean-saguenay
+ocd-division/country:ca/province:qc/ed:lachine-1968,Lachine,ocd-division/country:ca/province:qc/ed:lachine-lakeshore
+ocd-division/country:ca/province:qc/ed:lafontaine,Lafontaine,ocd-division/country:ca/province:qc/ed:lafontaine-rosemont
+ocd-division/country:ca/province:qc/ed:langelier,Langelier,ocd-division/country:ca/province:qc/ed:québec
+ocd-division/country:ca/province:qc/ed:laprairie-1968,Laprairie,ocd-division/country:ca/province:qc/ed:la_prairie
+ocd-division/country:ca/province:qc/ed:lasalle-1968,Lasalle,ocd-division/country:ca/province:qc/ed:lasalle-émard-côte_saint-paul
+ocd-division/country:ca/province:qc/ed:laurier-2004,Laurier,ocd-division/country:ca/province:qc/ed:laurier-sainte-marie
+ocd-division/country:ca/province:qc/ed:laval-1979,Laval,ocd-division/country:ca/province:qc/ed:laval_west
+ocd-division/country:ca/province:qc/ed:laval-des-rapides,Laval-des-Rapides,ocd-division/country:ca/province:qc/ed:laval_centre
+ocd-division/country:ca/province:qc/ed:longueuil,Longueuil,ocd-division/country:ca/province:qc/ed:longueuil-saint-hubert
+ocd-division/country:ca/province:qc/ed:lotbinière,Lotbinière,ocd-division/country:ca/province:qc/ed:lotbinière-l~érable
+ocd-division/country:ca/province:qc/ed:lévis,Lévis,ocd-division/country:ca/province:qc/ed:lévis-et-chutes-de-la-chaudière
+ocd-division/country:ca/province:qc/ed:maisonneuve-1968,Maisonneuve,ocd-division/country:ca/province:qc/ed:maisonneuve-rosemont
+ocd-division/country:ca/province:qc/ed:matapédia-matane-1979,Matapédia—Matane,ocd-division/country:ca/province:qc/ed:haute-gaspésie-la_mitis-matane-matapédia
+ocd-division/country:ca/province:qc/ed:mercier-1935,Mercier,ocd-division/country:ca/province:qc/ed:montreal-mercier
+ocd-division/country:ca/province:qc/ed:missisquoi-1968,Missisquoi,ocd-division/country:ca/province:qc/ed:brome-missisquoi
+ocd-division/country:ca/province:qc/ed:missisquoi-1979,Missisquoi,ocd-division/country:ca/province:qc/ed:brome-missisquoi
+ocd-division/country:ca/province:qc/ed:montmorency-1968,Montmorency,ocd-division/country:ca/province:qc/ed:beauport-montmorency-côte-de-beaupré-île-d~orléans
+ocd-division/country:ca/province:qc/ed:montmorency-orléans,Montmorency—Orléans,ocd-division/country:ca/province:qc/ed:beauport-montmorency-côte-de-beaupré-île-d~orléans
+ocd-division/country:ca/province:qc/ed:nunavik-eeyou,Nunavik—Eeyou,ocd-division/country:ca/province:qc/ed:abitibi-baie-james-nunavik-eeyou
+ocd-division/country:ca/province:qc/ed:pontiac-1968,Pontiac,ocd-division/country:ca/province:qc/ed:pontiac-gatineau-labelle
+ocd-division/country:ca/province:qc/ed:portneuf,Portneuf,ocd-division/country:ca/province:qc/ed:portneuf-jacques-cartier
+ocd-division/country:ca/province:qc/ed:richelieu-1968,Richelieu,ocd-division/country:ca/province:qc/ed:bas-richelieu-nicolet-bécancour
+ocd-division/country:ca/province:qc/ed:richelieu-2004,Richelieu,ocd-division/country:ca/province:qc/ed:bas-richelieu-nicolet-bécancour
+ocd-division/country:ca/province:qc/ed:richmond,Richmond,ocd-division/country:ca/province:qc/ed:richmond-wolfe
+ocd-division/country:ca/province:qc/ed:rimouski,Rimouski,ocd-division/country:ca/province:qc/ed:rimouski-neigette-et-la_mitis
+ocd-division/country:ca/province:qc/ed:rimouski-1997,Rimouski,ocd-division/country:ca/province:qc/ed:rimouski-neigette-et-la_mitis
+ocd-division/country:ca/province:qc/ed:rimouski-mitis,Rimouski—Mitis,ocd-division/country:ca/province:qc/ed:rimouski-neigette-et-la_mitis
+ocd-division/country:ca/province:qc/ed:rimouski-témiscouata,Rimouski—Témiscouata,ocd-division/country:ca/province:qc/ed:rimouski-neigette-témiscouata-les_basques
+ocd-division/country:ca/province:qc/ed:rimouski-témiscouata-2004,Rimouski—Témiscouata,ocd-division/country:ca/province:qc/ed:rimouski-neigette-témiscouata-les_basques
+ocd-division/country:ca/province:qc/ed:roberval,Roberval,ocd-division/country:ca/province:qc/ed:roberval-lac-saint-jean
+ocd-division/country:ca/province:qc/ed:rosemont,Rosemont,ocd-division/country:ca/province:qc/ed:rosemont-petite-patrie
+ocd-division/country:ca/province:qc/ed:saint-eustache-sainte-thérèse,Saint-Eustache—Sainte-Thérèse,ocd-division/country:ca/province:qc/ed:rivière-des-mille-îles
+ocd-division/country:ca/province:qc/ed:saint-hubert,Saint-Hubert,ocd-division/country:ca/province:qc/ed:saint-bruno-saint-hubert
+ocd-division/country:ca/province:qc/ed:saint-hyacinthe,Saint-Hyacinthe,ocd-division/country:ca/province:qc/ed:saint-hyacinthe-bagot
+ocd-division/country:ca/province:qc/ed:saint-laurent-1988,Saint-Laurent,ocd-division/country:ca/province:qc/ed:saint-laurent-cartierville
+ocd-division/country:ca/province:qc/ed:saint-michel,Saint-Michel,ocd-division/country:ca/province:qc/ed:saint-michel-ahuntsic
+ocd-division/country:ca/province:qc/ed:sainte-marie-1979,Sainte-Marie,ocd-division/country:ca/province:qc/ed:montreal-sainte_marie
+ocd-division/country:ca/province:qc/ed:trois-rivières-1949,Trois-Rivières,ocd-division/country:ca/province:qc/ed:trois-rivières_métropolitain
+ocd-division/country:ca/province:qc/ed:témiscouata,Témiscouata,ocd-division/country:ca/province:qc/ed:rivière-du-loup-témiscouata
+ocd-division/country:ca/province:qc/ed:témiscouata-1968,Témiscouata,ocd-division/country:ca/province:qc/ed:rivière-du-loup-témiscouata
+ocd-division/country:ca/province:qc/ed:vaudreuil-1968,Vaudreuil,ocd-division/country:ca/province:qc/ed:vaudreuil-soulanges
+ocd-division/country:ca/province:qc/ed:verchères-1979,Verchères,ocd-division/country:ca/province:qc/ed:verchères-les_patriotes
+ocd-division/country:ca/province:qc/ed:verdun-1953,Verdun,ocd-division/country:ca/province:qc/ed:verdun-saint-paul
+ocd-division/country:ca/province:qc/ed:verdun-saint-henri,Verdun—Saint-Henri,ocd-division/country:ca/province:qc/ed:verdun-saint-henri-saint-paul-pointe_saint-charles
+ocd-division/country:ca/province:qc/ed:westmount,Westmount,ocd-division/country:ca/province:qc/ed:saint-henri-westmount
+ocd-division/country:ca/province:sk/ed:churchill_river,Churchill River,ocd-division/country:ca/province:sk/ed:desnethé-missinippi-churchill_river
+ocd-division/country:ca/province:sk/ed:qu~appelle-1997,Qu'Appelle,ocd-division/country:ca/province:sk/ed:regina-qu~appelle
+ocd-division/country:ca/province:sk/ed:regina-arm_river,Regina—Arm River,ocd-division/country:ca/province:sk/ed:regina-lumsden-lake_centre
+ocd-division/country:ca/province:sk/ed:saskatoon-rosetown,Saskatoon—Rosetown,ocd-division/country:ca/province:sk/ed:saskatoon-rosetown-biggar
+ocd-division/country:ca/province:sk/ed:wanuskewin,Wanuskewin,ocd-division/country:ca/province:sk/ed:saskatoon-wanuskewin
