@@ -1,30 +1,30 @@
 id,name
 ocd-division/country:au/state:wa/region:agricultural,Agricultural Region
-ocd-division/country:au/state:wa/region:south_metropolitan,South Metropolitan Region
-ocd-division/country:au/state:wa/region:north_metropolitan,North Metropolitan Region
-ocd-division/country:au/state:wa/region:east_metropolitan,East Metropolitan Region
-ocd-division/country:au/state:wa/region:mining_pastoral,Mining and Pastoral Region
-ocd-division/country:au/state:wa/region:south_west,South West Region
-ocd-division/country:au/state:tas/district:launceston,Launceston
-ocd-division/country:au/state:tas/district:windermere,Windermere
 ocd-division/country:au/state:tas/district:derwent,Derwent
-ocd-division/country:au/state:tas/district:murchison,Murchison
-ocd-division/country:au/state:tas/district:mersey,Mersey
-ocd-division/country:au/state:tas/district:huon,Huon
-ocd-division/country:au/state:tas/district:montgomery,Montgomery
-ocd-division/country:au/state:tas/district:prosser,Prosser
-ocd-division/country:au/state:tas/district:rumney,Rumney
-ocd-division/country:au/state:tas/district:rosevears,Rosevears
-ocd-division/country:au/state:tas/district:mcintyre,McIntyre
-ocd-division/country:au/state:tas/district:hobart,Hobart
-ocd-division/country:au/state:tas/district:nelson,Nelson
-ocd-division/country:au/state:tas/district:elwick,Elwick
-ocd-division/country:au/state:tas/district:pembroke,Pembroke
-ocd-division/country:au/state:vic/region:north-eastern_metropolitan,North - Eastern Metropolitan Region
+ocd-division/country:au/state:wa/region:east_metropolitan,East Metropolitan Region
 ocd-division/country:au/state:vic/region:eastern_victoria,Eastern Victoria
+ocd-division/country:au/state:tas/district:elwick,Elwick
+ocd-division/country:au/state:tas/district:hobart,Hobart
+ocd-division/country:au/state:tas/district:huon,Huon
+ocd-division/country:au/state:tas/district:launceston,Launceston
+ocd-division/country:au/state:tas/district:mcintyre,McIntyre
+ocd-division/country:au/state:tas/district:mersey,Mersey
+ocd-division/country:au/state:wa/region:mining_pastoral,Mining and Pastoral Region
+ocd-division/country:au/state:tas/district:montgomery,Montgomery
+ocd-division/country:au/state:tas/district:murchison,Murchison
+ocd-division/country:au/state:tas/district:nelson,Nelson
+ocd-division/country:au/state:vic/region:north-eastern_metropolitan,North - Eastern Metropolitan Region
+ocd-division/country:au/state:wa/region:north_metropolitan,North Metropolitan Region
 ocd-division/country:au/state:vic/region:northern_metropolitan,Northern Metropolitan
 ocd-division/country:au/state:vic/region:northern_victoria,Northern Victoria
+ocd-division/country:au/state:tas/district:pembroke,Pembroke
+ocd-division/country:au/state:tas/district:prosser,Prosser
+ocd-division/country:au/state:tas/district:rosevears,Rosevears
+ocd-division/country:au/state:tas/district:rumney,Rumney
 ocd-division/country:au/state:vic/region:south-eastern_metropolitan,South Eastern Metropolitan
+ocd-division/country:au/state:wa/region:south_metropolitan,South Metropolitan Region
+ocd-division/country:au/state:wa/region:south_west,South West Region
 ocd-division/country:au/state:vic/region:southern_metropolitan,Southern Metropolitan
 ocd-division/country:au/state:vic/region:western_metropolitan,Western Metropolitan
 ocd-division/country:au/state:vic/region:western_victoria,Western Victoria
+ocd-division/country:au/state:tas/district:windermere,Windermere
