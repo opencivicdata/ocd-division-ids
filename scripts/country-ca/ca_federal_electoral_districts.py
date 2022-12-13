@@ -14,14 +14,6 @@ from datetime import datetime, timedelta
 import pandas as pd
 import copy
 
-corrections = {
-    "Fort Nelson—Peace River": ("1976", "1978"),
-    "Gloucester—Carleton": ("1996", "1997"),
-    "Regina—Arm River": ("1996", "1997"),
-    "Rimouski": ("1997", "1997"),
-    "Saskatchewan": ("1905", "1907"),
-    "Saskatoon—Rosetown": ("1996", "1997"),
-}
 abolished = {
     "Cariboo District",
 }
@@ -90,10 +82,18 @@ for substring in (
     df = df[~df["Additional Information"].str.contains(substring)]
 
 # Add missing dates if provided in "Additional Information". (Hardcoded, since fewer than ten.)
+missing = {
+    "Fort Nelson—Peace River": ("1976", "1978"),
+    "Gloucester—Carleton": ("1996", "1997"),
+    "Regina—Arm River": ("1996", "1997"),
+    "Rimouski": ("1997", "1997"),
+    "Saskatchewan": ("1905", "1907"),
+    "Saskatoon—Rosetown": ("1996", "1997"),
+}
 condition = df["validFrom"].isna() & df["validThrough"].isna()
-assert len(df[condition]) >= len(corrections), f"{df[condition]}\n\nThe code contains more corrections than necessary."
+assert len(df[condition]) >= len(missing), f"{df[condition]}\n\nThe code contains more missing values than necessary."
 for label, row in df[condition].iterrows():
-    valid_from, valid_through = corrections[row["name"]]
+    valid_from, valid_through = missing[row["name"]]
     df.at[label, "validFrom"] = valid_from
     df.at[label, "validThrough"] = valid_through
 
