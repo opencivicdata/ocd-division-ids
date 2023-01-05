@@ -3,8 +3,12 @@ README
 File contents in `country-au` directory:
 *   federal_electorates: contains electorates for the Australian House of Representatives
 *   states.csv: contains states and territories in Australia
+*   assemblies.csv: contains the state legislative assembly electorates (sldl)
+*   councils.csv: contains the state legislative council electorates (sldu)
 
 OCD ID Types used used:
 *   federal_electorate : represents the electorates for the Australian House of Representatives
 *   state: states in Australia
 *   territory: territories in Australia
+*   sldl: state legislature district lower
+*   sldu: state legislature district upper
