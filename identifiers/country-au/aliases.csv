@@ -1,0 +1,5 @@
+id,name,validFrom,validThrough,sameAs
+ocd-division/country:au/state:nsw/sldl:mulgoa,Mulgoa,1999,2023-03-25,ocd-division/country:au/state:nsw/sldl:badgerys_creek
+ocd-division/country:au/state:nsw/sldl:baulkham_hills,Baulkham Hills,1991,2023-03-25,ocd-division/country:au/state:nsw/sldl:Kellyville
+ocd-division/country:au/state:nsw/sldl:ku-ring-gai,Ku-ring-gai,1973,2023-03-25,ocd-division/country:au/state:nsw/sldl:wahroonga,
+ocd-division/country:au/state:nsw/sldl:seven_hills,Seven Hills,2015,2023-03-25,ocd-division/country:au/state:nsw/sldl:winston_hills
