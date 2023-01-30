@@ -1,20 +1,20 @@
 id,name
 ocd-division/country:py,Paraguay
 ocd-division/country:py/capital:asu,Asunción
-ocd-division/country:py/department:py-1,Concepción
-ocd-division/country:py/department:py-10,Alto Paraná
-ocd-division/country:py/department:py-11,Central
-ocd-division/country:py/department:py-12,Ñeembucú
-ocd-division/country:py/department:py-13,Amambay
-ocd-division/country:py/department:py-14,Canindeyú
-ocd-division/country:py/department:py-15,Presidente Hayes
-ocd-division/country:py/department:py-16,Alto Paraguay
-ocd-division/country:py/department:py-19,Boquerón
-ocd-division/country:py/department:py-2,San Pedro
-ocd-division/country:py/department:py-3,Cordillera
-ocd-division/country:py/department:py-4,Guairá
-ocd-division/country:py/department:py-5,Caaguazú
-ocd-division/country:py/department:py-6,Caazapá
-ocd-division/country:py/department:py-7,Itapúa
-ocd-division/country:py/department:py-8,Misiones
-ocd-division/country:py/department:py-9,Paraguarí
+ocd-division/country:py/department:1,Concepción
+ocd-division/country:py/department:10,Alto Paraná
+ocd-division/country:py/department:11,Central
+ocd-division/country:py/department:12,Ñeembucú
+ocd-division/country:py/department:13,Amambay
+ocd-division/country:py/department:14,Canindeyú
+ocd-division/country:py/department:15,Presidente Hayes
+ocd-division/country:py/department:16,Alto Paraguay
+ocd-division/country:py/department:19,Boquerón
+ocd-division/country:py/department:2,San Pedro
+ocd-division/country:py/department:3,Cordillera
+ocd-division/country:py/department:4,Guairá
+ocd-division/country:py/department:5,Caaguazú
+ocd-division/country:py/department:6,Caazapá
+ocd-division/country:py/department:7,Itapúa
+ocd-division/country:py/department:8,Misiones
+ocd-division/country:py/department:9,Paraguarí
