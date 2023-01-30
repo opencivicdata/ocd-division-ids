@@ -1,421 +1,421 @@
 id,name,validFrom,validThrough
-ocd-division/country:au/state:sa/sldl:adelaide,Adelaide
-ocd-division/country:au/state:wa/sldl:albany,Albany
-ocd-division/country:au/state:vic/sldl:albert_park,Albert Park
-ocd-division/country:au/state:nsw/sldl:albury,Albury
-ocd-division/country:au/state:qld/sldl:algester,Algester
-ocd-division/country:au/territory:nt/sldl:arafura,Arafura
-ocd-division/country:au/territory:nt/sldl:araluen,Araluen
-ocd-division/country:au/state:wa/sldl:armadale,Armadale
-ocd-division/country:au/territory:nt/sldl:arnhem,Arnhem
-ocd-division/country:au/state:vic/sldl:ashwood,Ashwood
-ocd-division/country:au/state:qld/sldl:aspley,Aspley
-ocd-division/country:au/state:nsw/sldl:auburn,Auburn
-ocd-division/country:au/state:sa/sldl:badcoe,Badcoe
-ocd-division/country:au/state:wa/sldl:balcatta,Balcatta
-ocd-division/country:au/state:wa/sldl:baldivis,Baldivis
-ocd-division/country:au/state:nsw/sldl:ballina,Ballina
-ocd-division/country:au/state:nsw/sldl:balmain,Balmain
-ocd-division/country:au/state:qld/sldl:bancroft,Bancroft
-ocd-division/country:au/state:nsw/sldl:bankstown,Bankstown
-ocd-division/country:au/territory:nt/sldl:barkly,Barkly
-ocd-division/country:au/state:qld/sldl:barron_river,Barron River
-ocd-division/country:au/state:nsw/sldl:barwon,Barwon
-ocd-division/country:au/state:tas/sldl:bass,Bass
-ocd-division/country:au/state:vic/sldl:bass,Bass
-ocd-division/country:au/state:wa/sldl:bassendean,Bassendean
-ocd-division/country:au/state:wa/sldl:bateman,Bateman
-ocd-division/country:au/state:nsw/sldl:bathurst,Bathurst
+ocd-division/country:au/state:sa/sldl:adelaide,Adelaide,,
+ocd-division/country:au/state:wa/sldl:albany,Albany,,
+ocd-division/country:au/state:vic/sldl:albert_park,Albert Park,,
+ocd-division/country:au/state:nsw/sldl:albury,Albury,,
+ocd-division/country:au/state:qld/sldl:algester,Algester,,
+ocd-division/country:au/territory:nt/sldl:arafura,Arafura,,
+ocd-division/country:au/territory:nt/sldl:araluen,Araluen,,
+ocd-division/country:au/state:wa/sldl:armadale,Armadale,,
+ocd-division/country:au/territory:nt/sldl:arnhem,Arnhem,,
+ocd-division/country:au/state:vic/sldl:ashwood,Ashwood,,
+ocd-division/country:au/state:qld/sldl:aspley,Aspley,,
+ocd-division/country:au/state:nsw/sldl:auburn,Auburn,,
+ocd-division/country:au/state:sa/sldl:badcoe,Badcoe,,
+ocd-division/country:au/state:wa/sldl:balcatta,Balcatta,,
+ocd-division/country:au/state:wa/sldl:baldivis,Baldivis,,
+ocd-division/country:au/state:nsw/sldl:ballina,Ballina,,
+ocd-division/country:au/state:nsw/sldl:balmain,Balmain,,
+ocd-division/country:au/state:qld/sldl:bancroft,Bancroft,,
+ocd-division/country:au/state:nsw/sldl:bankstown,Bankstown,,
+ocd-division/country:au/territory:nt/sldl:barkly,Barkly,,
+ocd-division/country:au/state:qld/sldl:barron_river,Barron River,,
+ocd-division/country:au/state:nsw/sldl:barwon,Barwon,,
+ocd-division/country:au/state:tas/sldl:bass,Bass,,
+ocd-division/country:au/state:vic/sldl:bass,Bass,,
+ocd-division/country:au/state:wa/sldl:bassendean,Bassendean,,
+ocd-division/country:au/state:wa/sldl:bateman,Bateman,,
+ocd-division/country:au/state:nsw/sldl:bathurst,Bathurst,,
 ocd-division/country:au/state:nsw/sldl:baulkham_hills,Baulkham Hills,1991,2023-03-25
-ocd-division/country:au/state:vic/sldl:bayswater,Bayswater
-ocd-division/country:au/state:nsw/sldl:bega,Bega
-ocd-division/country:au/state:vic/sldl:bellarine,Bellarine
-ocd-division/country:au/state:wa/sldl:belmont,Belmont
-ocd-division/country:au/state:vic/sldl:benambra,Benambra
-ocd-division/country:au/state:vic/sldl:bendigo_east,Bendigo East
-ocd-division/country:au/state:vic/sldl:bendigo_west,Bendigo West
-ocd-division/country:au/state:vic/sldl:bentleigh,Bentleigh
-ocd-division/country:au/state:vic/sldl:berwick,Berwick
-ocd-division/country:au/state:wa/sldl:bicton,Bicton
-ocd-division/country:au/state:sa/sldl:black,Black
-ocd-division/country:au/state:nsw/sldl:blacktown,Blacktown
-ocd-division/country:au/territory:nt/sldl:blain,Blain
-ocd-division/country:au/state:nsw/sldl:blue_mountains,Blue Mountains
-ocd-division/country:au/state:qld/sldl:bonney,Bonney
-ocd-division/country:au/state:vic/sldl:box_hill,Box Hill
-ocd-division/country:au/state:tas/sldl:braddon,Braddon
-ocd-division/country:au/state:sa/sldl:bragg,Bragg
-ocd-division/country:au/territory:nt/sldl:braitling,Braitling
-ocd-division/country:au/territory:nt/sldl:brennan,Brennan
-ocd-division/country:au/state:vic/sldl:brighton,Brighton
-ocd-division/country:au/territory:act/sldl:brindabella,Brindabella
-ocd-division/country:au/state:vic/sldl:broadmeadows,Broadmeadows
-ocd-division/country:au/state:qld/sldl:broadwater,Broadwater
-ocd-division/country:au/state:vic/sldl:brunswick,Brunswick
-ocd-division/country:au/state:qld/sldl:buderim,Buderim
-ocd-division/country:au/state:qld/sldl:bulimba,Bulimba
-ocd-division/country:au/state:vic/sldl:bulleen,Bulleen
-ocd-division/country:au/state:wa/sldl:bunbury,Bunbury
-ocd-division/country:au/state:qld/sldl:bundaberg,Bundaberg
-ocd-division/country:au/state:qld/sldl:bundamba,Bundamba
-ocd-division/country:au/state:vic/sldl:bundoora,Bundoora
-ocd-division/country:au/state:qld/sldl:burdekin,Burdekin
-ocd-division/country:au/state:qld/sldl:burleigh,Burleigh
-ocd-division/country:au/state:qld/sldl:burnett,Burnett
-ocd-division/country:au/state:wa/sldl:burns_beach,Burns Beach
-ocd-division/country:au/state:wa/sldl:butler,Butler
-ocd-division/country:au/state:nsw/sldl:cabramatta,Cabramatta
-ocd-division/country:au/state:qld/sldl:cairns,Cairns
-ocd-division/country:au/state:qld/sldl:callide,Callide
-ocd-division/country:au/state:qld/sldl:caloundra,Caloundra
-ocd-division/country:au/state:nsw/sldl:camden,Camden
-ocd-division/country:au/state:nsw/sldl:campbelltown,Campbelltown
-ocd-division/country:au/state:wa/sldl:cannington,Cannington
-ocd-division/country:au/state:nsw/sldl:canterbury,Canterbury
-ocd-division/country:au/state:qld/sldl:capalaba,Capalaba
-ocd-division/country:au/state:wa/sldl:carine,Carine
-ocd-division/country:au/state:vic/sldl:carrum,Carrum
-ocd-division/country:au/state:nsw/sldl:castle_hill,Castle Hill
-ocd-division/country:au/territory:nt/sldl:casuarina,Casuarina
-ocd-division/country:au/state:vic/sldl:caulfield,Caulfield
-ocd-division/country:au/state:wa/sldl:central_wheatbelt,Central Wheatbelt
-ocd-division/country:au/state:nsw/sldl:cessnock,Cessnock
-ocd-division/country:au/state:sa/sldl:chaffey,Chaffey
-ocd-division/country:au/state:nsw/sldl:charlestown,Charlestown
-ocd-division/country:au/state:qld/sldl:chatsworth,Chatsworth
-ocd-division/country:au/state:sa/sldl:cheltenham,Cheltenham
-ocd-division/country:au/state:wa/sldl:churchlands,Churchlands
-ocd-division/country:au/state:nsw/sldl:clarence,Clarence
-ocd-division/country:au/state:vic/sldl:clarinda,Clarinda
-ocd-division/country:au/state:tas/sldl:clark,Clark
-ocd-division/country:au/state:qld/sldl:clayfield,Clayfield
-ocd-division/country:au/state:wa/sldl:cockburn,Cockburn
-ocd-division/country:au/state:nsw/sldl:coffs_harbour,Coffs Harbour
-ocd-division/country:au/state:wa/sldl:collie-preston,Collie-Preston
-ocd-division/country:au/state:sa/sldl:colton,Colton
-ocd-division/country:au/state:qld/sldl:condamine,Condamine
-ocd-division/country:au/state:nsw/sldl:coogee,Coogee
-ocd-division/country:au/state:qld/sldl:cook,Cook
-ocd-division/country:au/state:qld/sldl:coomera,Coomera
-ocd-division/country:au/state:qld/sldl:cooper,Cooper
-ocd-division/country:au/state:nsw/sldl:cootamundra,Cootamundra
-ocd-division/country:au/state:wa/sldl:cottesloe,Cottesloe
-ocd-division/country:au/state:vic/sldl:cranbourne,Cranbourne
-ocd-division/country:au/state:nsw/sldl:cronulla,Cronulla
-ocd-division/country:au/state:sa/sldl:croydon,Croydon
-ocd-division/country:au/state:vic/sldl:croydon,Croydon
-ocd-division/country:au/state:qld/sldl:currumbin,Currumbin
-ocd-division/country:au/territory:nt/sldl:daly,Daly
-ocd-division/country:au/state:vic/sldl:dandenong,Dandenong
-ocd-division/country:au/state:wa/sldl:darling_range,Darling Range
-ocd-division/country:au/state:sa/sldl:davenport,Davenport
-ocd-division/country:au/state:nsw/sldl:davidson,Davidson
-ocd-division/country:au/state:wa/sldl:dawesville,Dawesville
-ocd-division/country:au/state:nsw/sldl:drummoyne,Drummoyne
-ocd-division/country:au/territory:nt/sldl:drysdale,Drysdale
-ocd-division/country:au/state:nsw/sldl:dubbo,Dubbo
-ocd-division/country:au/state:sa/sldl:dunstan,Dunstan
-ocd-division/country:au/state:nsw/sldl:east_hills,East Hills
-ocd-division/country:au/state:vic/sldl:eildon,Eildon
-ocd-division/country:au/state:sa/sldl:elder,Elder
-ocd-division/country:au/state:sa/sldl:elizabeth,Elizabeth
-ocd-division/country:au/state:vic/sldl:eltham,Eltham
-ocd-division/country:au/state:sa/sldl:enfield,Enfield
-ocd-division/country:au/state:nsw/sldl:epping,Epping
-ocd-division/country:au/state:vic/sldl:essendon,Essendon
-ocd-division/country:au/state:vic/sldl:eureka,Eureka
-ocd-division/country:au/state:vic/sldl:euroa,Euroa
-ocd-division/country:au/state:vic/sldl:evelyn,Evelyn
-ocd-division/country:au/state:qld/sldl:everton,Everton
-ocd-division/country:au/state:nsw/sldl:fairfield,Fairfield
-ocd-division/country:au/territory:nt/sldl:fannie_bay,Fannie Bay
-ocd-division/country:au/state:qld/sldl:ferny_grove,Ferny Grove
-ocd-division/country:au/state:sa/sldl:finniss,Finniss
-ocd-division/country:au/state:sa/sldl:flinders,Flinders
-ocd-division/country:au/state:sa/sldl:florey,Florey
-ocd-division/country:au/territory:nt/sldl:fong_lim,Fong Lim
-ocd-division/country:au/state:vic/sldl:footscray,Footscray
-ocd-division/country:au/state:wa/sldl:forrestfield,Forrestfield
-ocd-division/country:au/state:tas/sldl:franklin,Franklin
-ocd-division/country:au/state:vic/sldl:frankston,Frankston
-ocd-division/country:au/state:wa/sldl:fremantle,Fremantle
-ocd-division/country:au/state:sa/sldl:frome,Frome
-ocd-division/country:au/state:qld/sldl:gaven,Gaven
-ocd-division/country:au/state:vic/sldl:geelong,Geelong
-ocd-division/country:au/state:wa/sldl:geraldton,Geraldton
-ocd-division/country:au/state:sa/sldl:gibson,Gibson
-ocd-division/country:au/state:sa/sldl:giles,Giles
-ocd-division/country:au/territory:act/sldl:ginninderra,Ginninderra
-ocd-division/country:au/state:vic/sldl:gippsland_east,Gippsland East
-ocd-division/country:au/state:vic/sldl:gippsland_south,Gippsland South
-ocd-division/country:au/state:qld/sldl:gladstone,Gladstone
-ocd-division/country:au/state:qld/sldl:glass_house,Glass House
-ocd-division/country:au/state:vic/sldl:glen_waverley,Glen Waverley
-ocd-division/country:au/state:nsw/sldl:gosford,Gosford
-ocd-division/country:au/state:nsw/sldl:goulburn,Goulburn
-ocd-division/country:au/territory:nt/sldl:goyder,Goyder
-ocd-division/country:au/state:nsw/sldl:granville,Granville
-ocd-division/country:au/state:qld/sldl:greenslopes,Greenslopes
-ocd-division/country:au/state:vic/sldl:greenvale,Greenvale
-ocd-division/country:au/state:qld/sldl:gregory,Gregory
-ocd-division/country:au/territory:nt/sldl:gwoja,Gwoja
-ocd-division/country:au/state:qld/sldl:gympie,Gympie
-ocd-division/country:au/state:sa/sldl:hammond,Hammond
-ocd-division/country:au/state:sa/sldl:hartley,Hartley
-ocd-division/country:au/state:vic/sldl:hastings,Hastings
-ocd-division/country:au/state:nsw/sldl:hawkesbury,Hawkesbury
-ocd-division/country:au/state:vic/sldl:hawthorn,Hawthorn
-ocd-division/country:au/state:nsw/sldl:heathcote,Heathcote
-ocd-division/country:au/state:nsw/sldl:heffron,Heffron
-ocd-division/country:au/state:qld/sldl:hervey_bay,Hervey Bay
-ocd-division/country:au/state:sa/sldl:heysen,Heysen
-ocd-division/country:au/state:qld/sldl:hill,Hill
-ocd-division/country:au/state:wa/sldl:hillarys,Hillarys
-ocd-division/country:au/state:qld/sldl:hinchinbrook,Hinchinbrook
-ocd-division/country:au/state:nsw/sldl:holsworthy,Holsworthy
-ocd-division/country:au/state:nsw/sldl:hornsby,Hornsby
-ocd-division/country:au/state:sa/sldl:hurtle_vale,Hurtle Vale
-ocd-division/country:au/state:qld/sldl:inala,Inala
-ocd-division/country:au/state:qld/sldl:ipswich,Ipswich
-ocd-division/country:au/state:qld/sldl:ipswich_west,Ipswich West
-ocd-division/country:au/state:vic/sldl:ivanhoe,Ivanhoe
-ocd-division/country:au/state:wa/sldl:jandakot,Jandakot
-ocd-division/country:au/territory:nt/sldl:johnston,Johnston
-ocd-division/country:au/state:wa/sldl:joondalup,Joondalup
-ocd-division/country:au/state:qld/sldl:jordan,Jordan
-ocd-division/country:au/state:wa/sldl:kalamunda,Kalamunda
-ocd-division/country:au/state:wa/sldl:kalgoorlie,Kalgoorlie
-ocd-division/country:au/state:vic/sldl:kalkallo,Kalkallo
-ocd-division/country:au/territory:nt/sldl:karama,Karama
-ocd-division/country:au/territory:nt/sldl:katherine,Katherine
-ocd-division/country:au/state:sa/sldl:kaurna,Kaurna
-ocd-division/country:au/state:sa/sldl:kavel,Kavel
-ocd-division/country:au/state:qld/sldl:kawana,Kawana
-ocd-division/country:au/state:nsw/sldl:keira,Keira
-ocd-division/country:au/state:qld/sldl:keppel,Keppel
-ocd-division/country:au/state:vic/sldl:kew,Kew
-ocd-division/country:au/state:nsw/sldl:kiama,Kiama
-ocd-division/country:au/state:wa/sldl:kimberley,Kimberley
-ocd-division/country:au/state:sa/sldl:king,King
-ocd-division/country:au/state:wa/sldl:kingsley,Kingsley
-ocd-division/country:au/state:nsw/sldl:kogarah,Kogarah
-ocd-division/country:au/state:vic/sldl:kororoit,Kororoit
+ocd-division/country:au/state:vic/sldl:bayswater,Bayswater,,
+ocd-division/country:au/state:nsw/sldl:bega,Bega,,
+ocd-division/country:au/state:vic/sldl:bellarine,Bellarine,,
+ocd-division/country:au/state:wa/sldl:belmont,Belmont,,
+ocd-division/country:au/state:vic/sldl:benambra,Benambra,,
+ocd-division/country:au/state:vic/sldl:bendigo_east,Bendigo East,,
+ocd-division/country:au/state:vic/sldl:bendigo_west,Bendigo West,,
+ocd-division/country:au/state:vic/sldl:bentleigh,Bentleigh,,
+ocd-division/country:au/state:vic/sldl:berwick,Berwick,,
+ocd-division/country:au/state:wa/sldl:bicton,Bicton,,
+ocd-division/country:au/state:sa/sldl:black,Black,,
+ocd-division/country:au/state:nsw/sldl:blacktown,Blacktown,,
+ocd-division/country:au/territory:nt/sldl:blain,Blain,,
+ocd-division/country:au/state:nsw/sldl:blue_mountains,Blue Mountains,,
+ocd-division/country:au/state:qld/sldl:bonney,Bonney,,
+ocd-division/country:au/state:vic/sldl:box_hill,Box Hill,,
+ocd-division/country:au/state:tas/sldl:braddon,Braddon,,
+ocd-division/country:au/state:sa/sldl:bragg,Bragg,,
+ocd-division/country:au/territory:nt/sldl:braitling,Braitling,,
+ocd-division/country:au/territory:nt/sldl:brennan,Brennan,,
+ocd-division/country:au/state:vic/sldl:brighton,Brighton,,
+ocd-division/country:au/territory:act/sldl:brindabella,Brindabella,,
+ocd-division/country:au/state:vic/sldl:broadmeadows,Broadmeadows,,
+ocd-division/country:au/state:qld/sldl:broadwater,Broadwater,,
+ocd-division/country:au/state:vic/sldl:brunswick,Brunswick,,
+ocd-division/country:au/state:qld/sldl:buderim,Buderim,,
+ocd-division/country:au/state:qld/sldl:bulimba,Bulimba,,
+ocd-division/country:au/state:vic/sldl:bulleen,Bulleen,,
+ocd-division/country:au/state:wa/sldl:bunbury,Bunbury,,
+ocd-division/country:au/state:qld/sldl:bundaberg,Bundaberg,,
+ocd-division/country:au/state:qld/sldl:bundamba,Bundamba,,
+ocd-division/country:au/state:vic/sldl:bundoora,Bundoora,,
+ocd-division/country:au/state:qld/sldl:burdekin,Burdekin,,
+ocd-division/country:au/state:qld/sldl:burleigh,Burleigh,,
+ocd-division/country:au/state:qld/sldl:burnett,Burnett,,
+ocd-division/country:au/state:wa/sldl:burns_beach,Burns Beach,,
+ocd-division/country:au/state:wa/sldl:butler,Butler,,
+ocd-division/country:au/state:nsw/sldl:cabramatta,Cabramatta,,
+ocd-division/country:au/state:qld/sldl:cairns,Cairns,,
+ocd-division/country:au/state:qld/sldl:callide,Callide,,
+ocd-division/country:au/state:qld/sldl:caloundra,Caloundra,,
+ocd-division/country:au/state:nsw/sldl:camden,Camden,,
+ocd-division/country:au/state:nsw/sldl:campbelltown,Campbelltown,,
+ocd-division/country:au/state:wa/sldl:cannington,Cannington,,
+ocd-division/country:au/state:nsw/sldl:canterbury,Canterbury,,
+ocd-division/country:au/state:qld/sldl:capalaba,Capalaba,,
+ocd-division/country:au/state:wa/sldl:carine,Carine,,
+ocd-division/country:au/state:vic/sldl:carrum,Carrum,,
+ocd-division/country:au/state:nsw/sldl:castle_hill,Castle Hill,,
+ocd-division/country:au/territory:nt/sldl:casuarina,Casuarina,,
+ocd-division/country:au/state:vic/sldl:caulfield,Caulfield,,
+ocd-division/country:au/state:wa/sldl:central_wheatbelt,Central Wheatbelt,,
+ocd-division/country:au/state:nsw/sldl:cessnock,Cessnock,,
+ocd-division/country:au/state:sa/sldl:chaffey,Chaffey,,
+ocd-division/country:au/state:nsw/sldl:charlestown,Charlestown,,
+ocd-division/country:au/state:qld/sldl:chatsworth,Chatsworth,,
+ocd-division/country:au/state:sa/sldl:cheltenham,Cheltenham,,
+ocd-division/country:au/state:wa/sldl:churchlands,Churchlands,,
+ocd-division/country:au/state:nsw/sldl:clarence,Clarence,,
+ocd-division/country:au/state:vic/sldl:clarinda,Clarinda,,
+ocd-division/country:au/state:tas/sldl:clark,Clark,,
+ocd-division/country:au/state:qld/sldl:clayfield,Clayfield,,
+ocd-division/country:au/state:wa/sldl:cockburn,Cockburn,,
+ocd-division/country:au/state:nsw/sldl:coffs_harbour,Coffs Harbour,,
+ocd-division/country:au/state:wa/sldl:collie-preston,Collie-Preston,,
+ocd-division/country:au/state:sa/sldl:colton,Colton,,
+ocd-division/country:au/state:qld/sldl:condamine,Condamine,,
+ocd-division/country:au/state:nsw/sldl:coogee,Coogee,,
+ocd-division/country:au/state:qld/sldl:cook,Cook,,
+ocd-division/country:au/state:qld/sldl:coomera,Coomera,,
+ocd-division/country:au/state:qld/sldl:cooper,Cooper,,
+ocd-division/country:au/state:nsw/sldl:cootamundra,Cootamundra,,
+ocd-division/country:au/state:wa/sldl:cottesloe,Cottesloe,,
+ocd-division/country:au/state:vic/sldl:cranbourne,Cranbourne,,
+ocd-division/country:au/state:nsw/sldl:cronulla,Cronulla,,
+ocd-division/country:au/state:sa/sldl:croydon,Croydon,,
+ocd-division/country:au/state:vic/sldl:croydon,Croydon,,
+ocd-division/country:au/state:qld/sldl:currumbin,Currumbin,,
+ocd-division/country:au/territory:nt/sldl:daly,Daly,,
+ocd-division/country:au/state:vic/sldl:dandenong,Dandenong,,
+ocd-division/country:au/state:wa/sldl:darling_range,Darling Range,,
+ocd-division/country:au/state:sa/sldl:davenport,Davenport,,
+ocd-division/country:au/state:nsw/sldl:davidson,Davidson,,
+ocd-division/country:au/state:wa/sldl:dawesville,Dawesville,,
+ocd-division/country:au/state:nsw/sldl:drummoyne,Drummoyne,,
+ocd-division/country:au/territory:nt/sldl:drysdale,Drysdale,,
+ocd-division/country:au/state:nsw/sldl:dubbo,Dubbo,,
+ocd-division/country:au/state:sa/sldl:dunstan,Dunstan,,
+ocd-division/country:au/state:nsw/sldl:east_hills,East Hills,,
+ocd-division/country:au/state:vic/sldl:eildon,Eildon,,
+ocd-division/country:au/state:sa/sldl:elder,Elder,,
+ocd-division/country:au/state:sa/sldl:elizabeth,Elizabeth,,
+ocd-division/country:au/state:vic/sldl:eltham,Eltham,,
+ocd-division/country:au/state:sa/sldl:enfield,Enfield,,
+ocd-division/country:au/state:nsw/sldl:epping,Epping,,
+ocd-division/country:au/state:vic/sldl:essendon,Essendon,,
+ocd-division/country:au/state:vic/sldl:eureka,Eureka,,
+ocd-division/country:au/state:vic/sldl:euroa,Euroa,,
+ocd-division/country:au/state:vic/sldl:evelyn,Evelyn,,
+ocd-division/country:au/state:qld/sldl:everton,Everton,,
+ocd-division/country:au/state:nsw/sldl:fairfield,Fairfield,,
+ocd-division/country:au/territory:nt/sldl:fannie_bay,Fannie Bay,,
+ocd-division/country:au/state:qld/sldl:ferny_grove,Ferny Grove,,
+ocd-division/country:au/state:sa/sldl:finniss,Finniss,,
+ocd-division/country:au/state:sa/sldl:flinders,Flinders,,
+ocd-division/country:au/state:sa/sldl:florey,Florey,,
+ocd-division/country:au/territory:nt/sldl:fong_lim,Fong Lim,,
+ocd-division/country:au/state:vic/sldl:footscray,Footscray,,
+ocd-division/country:au/state:wa/sldl:forrestfield,Forrestfield,,
+ocd-division/country:au/state:tas/sldl:franklin,Franklin,,
+ocd-division/country:au/state:vic/sldl:frankston,Frankston,,
+ocd-division/country:au/state:wa/sldl:fremantle,Fremantle,,
+ocd-division/country:au/state:sa/sldl:frome,Frome,,
+ocd-division/country:au/state:qld/sldl:gaven,Gaven,,
+ocd-division/country:au/state:vic/sldl:geelong,Geelong,,
+ocd-division/country:au/state:wa/sldl:geraldton,Geraldton,,
+ocd-division/country:au/state:sa/sldl:gibson,Gibson,,
+ocd-division/country:au/state:sa/sldl:giles,Giles,,
+ocd-division/country:au/territory:act/sldl:ginninderra,Ginninderra,,
+ocd-division/country:au/state:vic/sldl:gippsland_east,Gippsland East,,
+ocd-division/country:au/state:vic/sldl:gippsland_south,Gippsland South,,
+ocd-division/country:au/state:qld/sldl:gladstone,Gladstone,,
+ocd-division/country:au/state:qld/sldl:glass_house,Glass House,,
+ocd-division/country:au/state:vic/sldl:glen_waverley,Glen Waverley,,
+ocd-division/country:au/state:nsw/sldl:gosford,Gosford,,
+ocd-division/country:au/state:nsw/sldl:goulburn,Goulburn,,
+ocd-division/country:au/territory:nt/sldl:goyder,Goyder,,
+ocd-division/country:au/state:nsw/sldl:granville,Granville,,
+ocd-division/country:au/state:qld/sldl:greenslopes,Greenslopes,,
+ocd-division/country:au/state:vic/sldl:greenvale,Greenvale,,
+ocd-division/country:au/state:qld/sldl:gregory,Gregory,,
+ocd-division/country:au/territory:nt/sldl:gwoja,Gwoja,,
+ocd-division/country:au/state:qld/sldl:gympie,Gympie,,
+ocd-division/country:au/state:sa/sldl:hammond,Hammond,,
+ocd-division/country:au/state:sa/sldl:hartley,Hartley,,
+ocd-division/country:au/state:vic/sldl:hastings,Hastings,,
+ocd-division/country:au/state:nsw/sldl:hawkesbury,Hawkesbury,,
+ocd-division/country:au/state:vic/sldl:hawthorn,Hawthorn,,
+ocd-division/country:au/state:nsw/sldl:heathcote,Heathcote,,
+ocd-division/country:au/state:nsw/sldl:heffron,Heffron,,
+ocd-division/country:au/state:qld/sldl:hervey_bay,Hervey Bay,,
+ocd-division/country:au/state:sa/sldl:heysen,Heysen,,
+ocd-division/country:au/state:qld/sldl:hill,Hill,,
+ocd-division/country:au/state:wa/sldl:hillarys,Hillarys,,
+ocd-division/country:au/state:qld/sldl:hinchinbrook,Hinchinbrook,,
+ocd-division/country:au/state:nsw/sldl:holsworthy,Holsworthy,,
+ocd-division/country:au/state:nsw/sldl:hornsby,Hornsby,,
+ocd-division/country:au/state:sa/sldl:hurtle_vale,Hurtle Vale,,
+ocd-division/country:au/state:qld/sldl:inala,Inala,,
+ocd-division/country:au/state:qld/sldl:ipswich,Ipswich,,
+ocd-division/country:au/state:qld/sldl:ipswich_west,Ipswich West,,
+ocd-division/country:au/state:vic/sldl:ivanhoe,Ivanhoe,,
+ocd-division/country:au/state:wa/sldl:jandakot,Jandakot,,
+ocd-division/country:au/territory:nt/sldl:johnston,Johnston,,
+ocd-division/country:au/state:wa/sldl:joondalup,Joondalup,,
+ocd-division/country:au/state:qld/sldl:jordan,Jordan,,
+ocd-division/country:au/state:wa/sldl:kalamunda,Kalamunda,,
+ocd-division/country:au/state:wa/sldl:kalgoorlie,Kalgoorlie,,
+ocd-division/country:au/state:vic/sldl:kalkallo,Kalkallo,,
+ocd-division/country:au/territory:nt/sldl:karama,Karama,,
+ocd-division/country:au/territory:nt/sldl:katherine,Katherine,,
+ocd-division/country:au/state:sa/sldl:kaurna,Kaurna,,
+ocd-division/country:au/state:sa/sldl:kavel,Kavel,,
+ocd-division/country:au/state:qld/sldl:kawana,Kawana,,
+ocd-division/country:au/state:nsw/sldl:keira,Keira,,
+ocd-division/country:au/state:qld/sldl:keppel,Keppel,,
+ocd-division/country:au/state:vic/sldl:kew,Kew,,
+ocd-division/country:au/state:nsw/sldl:kiama,Kiama,,
+ocd-division/country:au/state:wa/sldl:kimberley,Kimberley,,
+ocd-division/country:au/state:sa/sldl:king,King,,
+ocd-division/country:au/state:wa/sldl:kingsley,Kingsley,,
+ocd-division/country:au/state:nsw/sldl:kogarah,Kogarah,,
+ocd-division/country:au/state:vic/sldl:kororoit,Kororoit,,
 ocd-division/country:au/state:nsw/sldl:ku-ring-gai,Ku-ring-gai,1973,2023-03-25
-ocd-division/country:au/territory:act/sldl:kurrajong,Kurrajong
-ocd-division/country:au/state:qld/sldl:kurwongbah,Kurwongbah
-ocd-division/country:au/state:wa/sldl:kwinana,Kwinana
-ocd-division/country:au/state:nsw/sldl:lake_macquarie,Lake Macquarie
+ocd-division/country:au/territory:act/sldl:kurrajong,Kurrajong,,
+ocd-division/country:au/state:qld/sldl:kurwongbah,Kurwongbah,,
+ocd-division/country:au/state:wa/sldl:kwinana,Kwinana,,
+ocd-division/country:au/state:nsw/sldl:lake_macquarie,Lake Macquarie,,
 ocd-division/country:au/state:nsw/sldl:lakemba,Lakemba,1927,2023-03-25
-ocd-division/country:au/state:wa/sldl:landsdale,Landsdale
-ocd-division/country:au/state:nsw/sldl:lane_cove,Lane Cove
-ocd-division/country:au/state:vic/sldl:lara,Lara
-ocd-division/country:au/state:vic/sldl:laverton,Laverton
-ocd-division/country:au/state:sa/sldl:lee,Lee
-ocd-division/country:au/state:sa/sldl:light,Light
-ocd-division/country:au/state:nsw/sldl:lismore,Lismore
-ocd-division/country:au/state:nsw/sldl:liverpool,Liverpool
-ocd-division/country:au/state:qld/sldl:lockyer,Lockyer
-ocd-division/country:au/state:qld/sldl:logan,Logan
-ocd-division/country:au/state:nsw/sldl:londonderry,Londonderry
-ocd-division/country:au/state:vic/sldl:lowan,Lowan
-ocd-division/country:au/state:tas/sldl:lyons,Lyons
-ocd-division/country:au/state:qld/sldl:lytton,Lytton
-ocd-division/country:au/state:qld/sldl:macalister,Macalister
-ocd-division/country:au/state:vic/sldl:macedon,Macedon
-ocd-division/country:au/state:qld/sldl:mackay,Mackay
-ocd-division/country:au/state:sa/sldl:mackillop,MacKillop
-ocd-division/country:au/state:nsw/sldl:macquarie_fields,Macquarie Fields
-ocd-division/country:au/state:nsw/sldl:maitland,Maitland
-ocd-division/country:au/state:qld/sldl:maiwar,Maiwar
-ocd-division/country:au/state:vic/sldl:malvern,Malvern
-ocd-division/country:au/state:wa/sldl:mandurah,Mandurah
-ocd-division/country:au/state:nsw/sldl:manly,Manly
-ocd-division/country:au/state:qld/sldl:mansfield,Mansfield
-ocd-division/country:au/state:qld/sldl:maroochydore,Maroochydore
-ocd-division/country:au/state:nsw/sldl:maroubra,Maroubra
-ocd-division/country:au/state:qld/sldl:maryborough,Maryborough
-ocd-division/country:au/state:sa/sldl:mawson,Mawson
-ocd-division/country:au/state:wa/sldl:maylands,Maylands
-ocd-division/country:au/state:qld/sldl:mcconnel,McConnel
-ocd-division/country:au/state:vic/sldl:melbourne,Melbourne
-ocd-division/country:au/state:vic/sldl:melton,Melton
-ocd-division/country:au/state:qld/sldl:mermaid_beach,Mermaid Beach
-ocd-division/country:au/state:wa/sldl:midland,Midland
-ocd-division/country:au/state:vic/sldl:mildura,Mildura
-ocd-division/country:au/state:vic/sldl:mill_park,Mill Park
-ocd-division/country:au/state:qld/sldl:miller,Miller
-ocd-division/country:au/state:nsw/sldl:miranda,Miranda
-ocd-division/country:au/state:qld/sldl:mirani,Mirani
-ocd-division/country:au/state:wa/sldl:mirrabooka,Mirrabooka
-ocd-division/country:au/state:qld/sldl:moggill,Moggill
-ocd-division/country:au/state:nsw/sldl:monaro,Monaro
-ocd-division/country:au/state:vic/sldl:monbulk,Monbulk
-ocd-division/country:au/state:wa/sldl:moore,Moore
-ocd-division/country:au/state:qld/sldl:morayfield,Morayfield
-ocd-division/country:au/state:vic/sldl:mordialloc,Mordialloc
-ocd-division/country:au/state:sa/sldl:morialta,Morialta
-ocd-division/country:au/state:wa/sldl:morley,Morley
-ocd-division/country:au/state:vic/sldl:mornington,Mornington
-ocd-division/country:au/state:sa/sldl:morphett,Morphett
-ocd-division/country:au/state:vic/sldl:morwell,Morwell
-ocd-division/country:au/state:nsw/sldl:mount_druitt,Mount Druitt
-ocd-division/country:au/state:sa/sldl:mount_gambier,Mount Gambier
-ocd-division/country:au/state:wa/sldl:mount_lawley,Mount Lawley
-ocd-division/country:au/state:qld/sldl:mount_ommaney,Mount Ommaney
-ocd-division/country:au/state:qld/sldl:mudgeeraba,Mudgeeraba
+ocd-division/country:au/state:wa/sldl:landsdale,Landsdale,,
+ocd-division/country:au/state:nsw/sldl:lane_cove,Lane Cove,,
+ocd-division/country:au/state:vic/sldl:lara,Lara,,
+ocd-division/country:au/state:vic/sldl:laverton,Laverton,,
+ocd-division/country:au/state:sa/sldl:lee,Lee,,
+ocd-division/country:au/state:sa/sldl:light,Light,,
+ocd-division/country:au/state:nsw/sldl:lismore,Lismore,,
+ocd-division/country:au/state:nsw/sldl:liverpool,Liverpool,,
+ocd-division/country:au/state:qld/sldl:lockyer,Lockyer,,
+ocd-division/country:au/state:qld/sldl:logan,Logan,,
+ocd-division/country:au/state:nsw/sldl:londonderry,Londonderry,,
+ocd-division/country:au/state:vic/sldl:lowan,Lowan,,
+ocd-division/country:au/state:tas/sldl:lyons,Lyons,,
+ocd-division/country:au/state:qld/sldl:lytton,Lytton,,
+ocd-division/country:au/state:qld/sldl:macalister,Macalister,,
+ocd-division/country:au/state:vic/sldl:macedon,Macedon,,
+ocd-division/country:au/state:qld/sldl:mackay,Mackay,,
+ocd-division/country:au/state:sa/sldl:mackillop,MacKillop,,
+ocd-division/country:au/state:nsw/sldl:macquarie_fields,Macquarie Fields,,
+ocd-division/country:au/state:nsw/sldl:maitland,Maitland,,
+ocd-division/country:au/state:qld/sldl:maiwar,Maiwar,,
+ocd-division/country:au/state:vic/sldl:malvern,Malvern,,
+ocd-division/country:au/state:wa/sldl:mandurah,Mandurah,,
+ocd-division/country:au/state:nsw/sldl:manly,Manly,,
+ocd-division/country:au/state:qld/sldl:mansfield,Mansfield,,
+ocd-division/country:au/state:qld/sldl:maroochydore,Maroochydore,,
+ocd-division/country:au/state:nsw/sldl:maroubra,Maroubra,,
+ocd-division/country:au/state:qld/sldl:maryborough,Maryborough,,
+ocd-division/country:au/state:sa/sldl:mawson,Mawson,,
+ocd-division/country:au/state:wa/sldl:maylands,Maylands,,
+ocd-division/country:au/state:qld/sldl:mcconnel,McConnel,,
+ocd-division/country:au/state:vic/sldl:melbourne,Melbourne,,
+ocd-division/country:au/state:vic/sldl:melton,Melton,,
+ocd-division/country:au/state:qld/sldl:mermaid_beach,Mermaid Beach,,
+ocd-division/country:au/state:wa/sldl:midland,Midland,,
+ocd-division/country:au/state:vic/sldl:mildura,Mildura,,
+ocd-division/country:au/state:vic/sldl:mill_park,Mill Park,,
+ocd-division/country:au/state:qld/sldl:miller,Miller,,
+ocd-division/country:au/state:nsw/sldl:miranda,Miranda,,
+ocd-division/country:au/state:qld/sldl:mirani,Mirani,,
+ocd-division/country:au/state:wa/sldl:mirrabooka,Mirrabooka,,
+ocd-division/country:au/state:qld/sldl:moggill,Moggill,,
+ocd-division/country:au/state:nsw/sldl:monaro,Monaro,,
+ocd-division/country:au/state:vic/sldl:monbulk,Monbulk,,
+ocd-division/country:au/state:wa/sldl:moore,Moore,,
+ocd-division/country:au/state:qld/sldl:morayfield,Morayfield,,
+ocd-division/country:au/state:vic/sldl:mordialloc,Mordialloc,,
+ocd-division/country:au/state:sa/sldl:morialta,Morialta,,
+ocd-division/country:au/state:wa/sldl:morley,Morley,,
+ocd-division/country:au/state:vic/sldl:mornington,Mornington,,
+ocd-division/country:au/state:sa/sldl:morphett,Morphett,,
+ocd-division/country:au/state:vic/sldl:morwell,Morwell,,
+ocd-division/country:au/state:nsw/sldl:mount_druitt,Mount Druitt,,
+ocd-division/country:au/state:sa/sldl:mount_gambier,Mount Gambier,,
+ocd-division/country:au/state:wa/sldl:mount_lawley,Mount Lawley,,
+ocd-division/country:au/state:qld/sldl:mount_ommaney,Mount Ommaney,,
+ocd-division/country:au/state:qld/sldl:mudgeeraba,Mudgeeraba,,
 ocd-division/country:au/state:nsw/sldl:mulgoa,Mulgoa,1999,2023-03-25
-ocd-division/country:au/state:qld/sldl:mulgrave,Mulgrave
-ocd-division/country:au/state:vic/sldl:mulgrave,Mulgrave
-ocd-division/country:au/territory:nt/sldl:mulka,Mulka
-ocd-division/country:au/state:qld/sldl:mundingburra,Mundingburra
-ocd-division/country:au/state:nsw/sldl:murray,Murray
-ocd-division/country:au/state:vic/sldl:murray_plains,Murray Plains
-ocd-division/country:au/state:wa/sldl:murray-wellington,Murray-Wellington
-ocd-division/country:au/state:qld/sldl:murrumba,Murrumba
-ocd-division/country:au/territory:act/sldl:murrumbidgee,Murrumbidgee
-ocd-division/country:au/state:nsw/sldl:myall_lakes,Myall Lakes
-ocd-division/country:au/territory:nt/sldl:namatjira,Namatjira
-ocd-division/country:au/state:qld/sldl:nanango,Nanango
-ocd-division/country:au/state:vic/sldl:narracan,Narracan
-ocd-division/country:au/state:vic/sldl:narre_warren_north,Narre Warren North
-ocd-division/country:au/state:vic/sldl:narre_warren_south,Narre Warren South
-ocd-division/country:au/state:sa/sldl:narungga,Narungga
-ocd-division/country:au/state:wa/sldl:nedlands,Nedlands
-ocd-division/country:au/territory:nt/sldl:nelson,Nelson
-ocd-division/country:au/state:vic/sldl:nepean,Nepean
-ocd-division/country:au/state:nsw/sldl:newcastle,Newcastle
-ocd-division/country:au/state:sa/sldl:newland,Newland
-ocd-division/country:au/state:nsw/sldl:newtown,Newtown
-ocd-division/country:au/state:qld/sldl:nicklin,Nicklin
-ocd-division/country:au/state:vic/sldl:niddrie,Niddrie
-ocd-division/country:au/territory:nt/sldl:nightcliff,Nightcliff
-ocd-division/country:au/state:qld/sldl:ninderry,Ninderry
-ocd-division/country:au/state:qld/sldl:noosa,Noosa
-ocd-division/country:au/state:nsw/sldl:north_shore,North Shore
-ocd-division/country:au/state:wa/sldl:north_west_central,North West Central
-ocd-division/country:au/state:vic/sldl:northcote,Northcote
-ocd-division/country:au/state:nsw/sldl:northern_tablelands,Northern Tablelands
-ocd-division/country:au/state:qld/sldl:nudgee,Nudgee
-ocd-division/country:au/state:vic/sldl:oakleigh,Oakleigh
-ocd-division/country:au/state:nsw/sldl:oatley,Oatley
-ocd-division/country:au/state:qld/sldl:oodgeroo,Oodgeroo
-ocd-division/country:au/state:nsw/sldl:orange,Orange
-ocd-division/country:au/state:vic/sldl:ovens_valley,Ovens Valley
-ocd-division/country:au/state:nsw/sldl:oxley,Oxley
-ocd-division/country:au/state:vic/sldl:pakenham,Pakenham
-ocd-division/country:au/state:nsw/sldl:parramatta,Parramatta
-ocd-division/country:au/state:vic/sldl:pascoe_vale,Pascoe Vale
-ocd-division/country:au/state:nsw/sldl:penrith,Penrith
-ocd-division/country:au/state:wa/sldl:perth,Perth
-ocd-division/country:au/state:wa/sldl:pilbara,Pilbara
-ocd-division/country:au/state:qld/sldl:pine_rivers,Pine Rivers
-ocd-division/country:au/state:nsw/sldl:pittwater,Pittwater
-ocd-division/country:au/state:sa/sldl:playford,Playford
-ocd-division/country:au/state:vic/sldl:point_cook,Point Cook
-ocd-division/country:au/state:vic/sldl:polwarth,Polwarth
-ocd-division/country:au/state:sa/sldl:port_adelaide,Port Adelaide
-ocd-division/country:au/territory:nt/sldl:port_darwin,Port Darwin
-ocd-division/country:au/state:nsw/sldl:port_macquarie,Port Macquarie
-ocd-division/country:au/state:nsw/sldl:port_stephens,Port Stephens
-ocd-division/country:au/state:vic/sldl:prahran,Prahran
-ocd-division/country:au/state:vic/sldl:preston,Preston
-ocd-division/country:au/state:nsw/sldl:prospect,Prospect
-ocd-division/country:au/state:qld/sldl:pumicestone,Pumicestone
-ocd-division/country:au/state:sa/sldl:ramsay,Ramsay
-ocd-division/country:au/state:qld/sldl:redcliffe,Redcliffe
-ocd-division/country:au/state:qld/sldl:redlands,Redlands
-ocd-division/country:au/state:sa/sldl:reynell,Reynell
-ocd-division/country:au/state:vic/sldl:richmond,Richmond
-ocd-division/country:au/state:vic/sldl:ringwood,Ringwood
-ocd-division/country:au/state:vic/sldl:ripon,Ripon
-ocd-division/country:au/state:nsw/sldl:riverstone,Riverstone
-ocd-division/country:au/state:wa/sldl:riverton,Riverton
-ocd-division/country:au/state:nsw/sldl:rockdale,Rockdale
-ocd-division/country:au/state:qld/sldl:rockhampton,Rockhampton
-ocd-division/country:au/state:wa/sldl:rockingham,Rockingham
-ocd-division/country:au/state:wa/sldl:roe,Roe
-ocd-division/country:au/state:vic/sldl:rowville,Rowville
-ocd-division/country:au/state:nsw/sldl:ryde,Ryde
-ocd-division/country:au/territory:nt/sldl:sanderson,Sanderson
-ocd-division/country:au/state:qld/sldl:sandgate,Sandgate
-ocd-division/country:au/state:vic/sldl:sandringham,Sandringham
-ocd-division/country:au/state:wa/sldl:scarborough,Scarborough
-ocd-division/country:au/state:qld/sldl:scenic_rim,Scenic Rim
-ocd-division/country:au/state:sa/sldl:schubert,Schubert
+ocd-division/country:au/state:qld/sldl:mulgrave,Mulgrave,,
+ocd-division/country:au/state:vic/sldl:mulgrave,Mulgrave,,
+ocd-division/country:au/territory:nt/sldl:mulka,Mulka,,
+ocd-division/country:au/state:qld/sldl:mundingburra,Mundingburra,,
+ocd-division/country:au/state:nsw/sldl:murray,Murray,,
+ocd-division/country:au/state:vic/sldl:murray_plains,Murray Plains,,
+ocd-division/country:au/state:wa/sldl:murray-wellington,Murray-Wellington,,
+ocd-division/country:au/state:qld/sldl:murrumba,Murrumba,,
+ocd-division/country:au/territory:act/sldl:murrumbidgee,Murrumbidgee,,
+ocd-division/country:au/state:nsw/sldl:myall_lakes,Myall Lakes,,
+ocd-division/country:au/territory:nt/sldl:namatjira,Namatjira,,
+ocd-division/country:au/state:qld/sldl:nanango,Nanango,,
+ocd-division/country:au/state:vic/sldl:narracan,Narracan,,
+ocd-division/country:au/state:vic/sldl:narre_warren_north,Narre Warren North,,
+ocd-division/country:au/state:vic/sldl:narre_warren_south,Narre Warren South,,
+ocd-division/country:au/state:sa/sldl:narungga,Narungga,,
+ocd-division/country:au/state:wa/sldl:nedlands,Nedlands,,
+ocd-division/country:au/territory:nt/sldl:nelson,Nelson,,
+ocd-division/country:au/state:vic/sldl:nepean,Nepean,,
+ocd-division/country:au/state:nsw/sldl:newcastle,Newcastle,,
+ocd-division/country:au/state:sa/sldl:newland,Newland,,
+ocd-division/country:au/state:nsw/sldl:newtown,Newtown,,
+ocd-division/country:au/state:qld/sldl:nicklin,Nicklin,,
+ocd-division/country:au/state:vic/sldl:niddrie,Niddrie,,
+ocd-division/country:au/territory:nt/sldl:nightcliff,Nightcliff,,
+ocd-division/country:au/state:qld/sldl:ninderry,Ninderry,,
+ocd-division/country:au/state:qld/sldl:noosa,Noosa,,
+ocd-division/country:au/state:nsw/sldl:north_shore,North Shore,,
+ocd-division/country:au/state:wa/sldl:north_west_central,North West Central,,
+ocd-division/country:au/state:vic/sldl:northcote,Northcote,,
+ocd-division/country:au/state:nsw/sldl:northern_tablelands,Northern Tablelands,,
+ocd-division/country:au/state:qld/sldl:nudgee,Nudgee,,
+ocd-division/country:au/state:vic/sldl:oakleigh,Oakleigh,,
+ocd-division/country:au/state:nsw/sldl:oatley,Oatley,,
+ocd-division/country:au/state:qld/sldl:oodgeroo,Oodgeroo,,
+ocd-division/country:au/state:nsw/sldl:orange,Orange,,
+ocd-division/country:au/state:vic/sldl:ovens_valley,Ovens Valley,,
+ocd-division/country:au/state:nsw/sldl:oxley,Oxley,,
+ocd-division/country:au/state:vic/sldl:pakenham,Pakenham,,
+ocd-division/country:au/state:nsw/sldl:parramatta,Parramatta,,
+ocd-division/country:au/state:vic/sldl:pascoe_vale,Pascoe Vale,,
+ocd-division/country:au/state:nsw/sldl:penrith,Penrith,,
+ocd-division/country:au/state:wa/sldl:perth,Perth,,
+ocd-division/country:au/state:wa/sldl:pilbara,Pilbara,,
+ocd-division/country:au/state:qld/sldl:pine_rivers,Pine Rivers,,
+ocd-division/country:au/state:nsw/sldl:pittwater,Pittwater,,
+ocd-division/country:au/state:sa/sldl:playford,Playford,,
+ocd-division/country:au/state:vic/sldl:point_cook,Point Cook,,
+ocd-division/country:au/state:vic/sldl:polwarth,Polwarth,,
+ocd-division/country:au/state:sa/sldl:port_adelaide,Port Adelaide,,
+ocd-division/country:au/territory:nt/sldl:port_darwin,Port Darwin,,
+ocd-division/country:au/state:nsw/sldl:port_macquarie,Port Macquarie,,
+ocd-division/country:au/state:nsw/sldl:port_stephens,Port Stephens,,
+ocd-division/country:au/state:vic/sldl:prahran,Prahran,,
+ocd-division/country:au/state:vic/sldl:preston,Preston,,
+ocd-division/country:au/state:nsw/sldl:prospect,Prospect,,
+ocd-division/country:au/state:qld/sldl:pumicestone,Pumicestone,,
+ocd-division/country:au/state:sa/sldl:ramsay,Ramsay,,
+ocd-division/country:au/state:qld/sldl:redcliffe,Redcliffe,,
+ocd-division/country:au/state:qld/sldl:redlands,Redlands,,
+ocd-division/country:au/state:sa/sldl:reynell,Reynell,,
+ocd-division/country:au/state:vic/sldl:richmond,Richmond,,
+ocd-division/country:au/state:vic/sldl:ringwood,Ringwood,,
+ocd-division/country:au/state:vic/sldl:ripon,Ripon,,
+ocd-division/country:au/state:nsw/sldl:riverstone,Riverstone,,
+ocd-division/country:au/state:wa/sldl:riverton,Riverton,,
+ocd-division/country:au/state:nsw/sldl:rockdale,Rockdale,,
+ocd-division/country:au/state:qld/sldl:rockhampton,Rockhampton,,
+ocd-division/country:au/state:wa/sldl:rockingham,Rockingham,,
+ocd-division/country:au/state:wa/sldl:roe,Roe,,
+ocd-division/country:au/state:vic/sldl:rowville,Rowville,,
+ocd-division/country:au/state:nsw/sldl:ryde,Ryde,,
+ocd-division/country:au/territory:nt/sldl:sanderson,Sanderson,,
+ocd-division/country:au/state:qld/sldl:sandgate,Sandgate,,
+ocd-division/country:au/state:vic/sldl:sandringham,Sandringham,,
+ocd-division/country:au/state:wa/sldl:scarborough,Scarborough,,
+ocd-division/country:au/state:qld/sldl:scenic_rim,Scenic Rim,,
+ocd-division/country:au/state:sa/sldl:schubert,Schubert,,
 ocd-division/country:au/state:nsw/sldl:seven_hills,Seven Hills,2015,2023-03-25
-ocd-division/country:au/state:nsw/sldl:shellharbour,Shellharbour
-ocd-division/country:au/state:vic/sldl:shepparton,Shepparton
-ocd-division/country:au/state:vic/sldl:south_barwon,South Barwon
-ocd-division/country:au/state:qld/sldl:south_brisbane,South Brisbane
-ocd-division/country:au/state:nsw/sldl:south_coast,South Coast
-ocd-division/country:au/state:wa/sldl:south_perth,South Perth
-ocd-division/country:au/state:qld/sldl:southern_downs,Southern Downs
-ocd-division/country:au/state:wa/sldl:southern_river,Southern River
-ocd-division/country:au/state:qld/sldl:southport,Southport
-ocd-division/country:au/state:vic/sldl:south-west_coast,South-West Coast
-ocd-division/country:au/territory:nt/sldl:spillett,Spillett
-ocd-division/country:au/state:qld/sldl:springwood,Springwood
-ocd-division/country:au/state:vic/sldl:st_albans,St Albans
-ocd-division/country:au/state:qld/sldl:stafford,Stafford
-ocd-division/country:au/state:nsw/sldl:strathfield,Strathfield
-ocd-division/country:au/state:qld/sldl:stretton,Stretton
-ocd-division/country:au/state:sa/sldl:stuart,Stuart
-ocd-division/country:au/state:nsw/sldl:summer_hill,Summer Hill
-ocd-division/country:au/state:vic/sldl:sunbury,Sunbury
-ocd-division/country:au/state:qld/sldl:surfers_paradise,Surfers Paradise
-ocd-division/country:au/state:wa/sldl:swan_hills,Swan Hills
-ocd-division/country:au/state:nsw/sldl:swansea,Swansea
-ocd-division/country:au/state:vic/sldl:sydenham,Sydenham
-ocd-division/country:au/state:nsw/sldl:sydney,Sydney
-ocd-division/country:au/state:nsw/sldl:tamworth,Tamworth
-ocd-division/country:au/state:vic/sldl:tarneit,Tarneit
-ocd-division/country:au/state:sa/sldl:taylor,Taylor
-ocd-division/country:au/state:nsw/sldl:terrigal,Terrigal
-ocd-division/country:au/state:nsw/sldl:the_entrance,The Entrance
-ocd-division/country:au/state:qld/sldl:theodore,Theodore
-ocd-division/country:au/state:vic/sldl:thomastown,Thomastown
-ocd-division/country:au/state:wa/sldl:thornlie,Thornlie
-ocd-division/country:au/state:qld/sldl:thuringowa,Thuringowa
-ocd-division/country:au/state:qld/sldl:toohey,Toohey
-ocd-division/country:au/state:qld/sldl:toowoomba_north,Toowoomba North
-ocd-division/country:au/state:qld/sldl:toowoomba_south,Toowoomba South
-ocd-division/country:au/state:sa/sldl:torrens,Torrens
-ocd-division/country:au/state:qld/sldl:townsville,Townsville
-ocd-division/country:au/state:qld/sldl:traeger,Traeger
-ocd-division/country:au/state:nsw/sldl:tweed,Tweed
-ocd-division/country:au/state:sa/sldl:unley,Unley
-ocd-division/country:au/state:nsw/sldl:upper_hunter,Upper Hunter
-ocd-division/country:au/state:wa/sldl:vasse,Vasse
-ocd-division/country:au/state:nsw/sldl:vaucluse,Vaucluse
-ocd-division/country:au/state:wa/sldl:victoria_park,Victoria Park
-ocd-division/country:au/state:nsw/sldl:wagga_wagga,Wagga Wagga
-ocd-division/country:au/state:sa/sldl:waite,Waite
-ocd-division/country:au/state:nsw/sldl:wakehurst,Wakehurst
-ocd-division/country:au/state:nsw/sldl:wallsend,Wallsend
-ocd-division/country:au/territory:nt/sldl:wanguri,Wanguri
-ocd-division/country:au/state:wa/sldl:wanneroo,Wanneroo
-ocd-division/country:au/state:wa/sldl:warnbro,Warnbro
-ocd-division/country:au/state:vic/sldl:warrandyte,Warrandyte
-ocd-division/country:au/state:qld/sldl:warrego,Warrego
-ocd-division/country:au/state:wa/sldl:warren-blackwood,Warren-Blackwood
-ocd-division/country:au/state:qld/sldl:waterford,Waterford
-ocd-division/country:au/state:vic/sldl:wendouree,Wendouree
-ocd-division/country:au/state:vic/sldl:werribee,Werribee
-ocd-division/country:au/state:wa/sldl:west_swan,West Swan
-ocd-division/country:au/state:sa/sldl:west_torrens,West Torrens
-ocd-division/country:au/state:qld/sldl:whitsunday,Whitsunday
-ocd-division/country:au/state:wa/sldl:willagee,Willagee
-ocd-division/country:au/state:vic/sldl:williamstown,Williamstown
-ocd-division/country:au/state:nsw/sldl:willoughby,Willoughby
-ocd-division/country:au/state:nsw/sldl:wollondilly,Wollondilly
-ocd-division/country:au/state:nsw/sldl:wollongong,Wollongong
-ocd-division/country:au/state:qld/sldl:woodridge,Woodridge
-ocd-division/country:au/state:sa/sldl:wright,Wright
-ocd-division/country:au/state:nsw/sldl:wyong,Wyong
-ocd-division/country:au/state:vic/sldl:yan_yean,Yan Yean
-ocd-division/country:au/territory:act/sldl:yerrabi,Yerrabi
-ocd-division/country:au/state:nsw/sldl:leppington,Leppington
-ocd-division/country:au/state:nsw/sldl:badgerys_creek,Badgerys Creek
-ocd-division/country:au/state:nsw/sldl:Kellyville,Kellyville
-ocd-division/country:au/state:nsw/sldl:wahroonga,Wahroonga
-ocd-division/country:au/state:nsw/sldl:winston_hills,Winston Hills
+ocd-division/country:au/state:nsw/sldl:shellharbour,Shellharbour,,
+ocd-division/country:au/state:vic/sldl:shepparton,Shepparton,,
+ocd-division/country:au/state:vic/sldl:south_barwon,South Barwon,,
+ocd-division/country:au/state:qld/sldl:south_brisbane,South Brisbane,,
+ocd-division/country:au/state:nsw/sldl:south_coast,South Coast,,
+ocd-division/country:au/state:wa/sldl:south_perth,South Perth,,
+ocd-division/country:au/state:qld/sldl:southern_downs,Southern Downs,,
+ocd-division/country:au/state:wa/sldl:southern_river,Southern River,,
+ocd-division/country:au/state:qld/sldl:southport,Southport,,
+ocd-division/country:au/state:vic/sldl:south-west_coast,South-West Coast,,
+ocd-division/country:au/territory:nt/sldl:spillett,Spillett,,
+ocd-division/country:au/state:qld/sldl:springwood,Springwood,,
+ocd-division/country:au/state:vic/sldl:st_albans,St Albans,,
+ocd-division/country:au/state:qld/sldl:stafford,Stafford,,
+ocd-division/country:au/state:nsw/sldl:strathfield,Strathfield,,
+ocd-division/country:au/state:qld/sldl:stretton,Stretton,,
+ocd-division/country:au/state:sa/sldl:stuart,Stuart,,
+ocd-division/country:au/state:nsw/sldl:summer_hill,Summer Hill,,
+ocd-division/country:au/state:vic/sldl:sunbury,Sunbury,,
+ocd-division/country:au/state:qld/sldl:surfers_paradise,Surfers Paradise,,
+ocd-division/country:au/state:wa/sldl:swan_hills,Swan Hills,,
+ocd-division/country:au/state:nsw/sldl:swansea,Swansea,,
+ocd-division/country:au/state:vic/sldl:sydenham,Sydenham,,
+ocd-division/country:au/state:nsw/sldl:sydney,Sydney,,
+ocd-division/country:au/state:nsw/sldl:tamworth,Tamworth,,
+ocd-division/country:au/state:vic/sldl:tarneit,Tarneit,,
+ocd-division/country:au/state:sa/sldl:taylor,Taylor,,
+ocd-division/country:au/state:nsw/sldl:terrigal,Terrigal,,
+ocd-division/country:au/state:nsw/sldl:the_entrance,The Entrance,,
+ocd-division/country:au/state:qld/sldl:theodore,Theodore,,
+ocd-division/country:au/state:vic/sldl:thomastown,Thomastown,,
+ocd-division/country:au/state:wa/sldl:thornlie,Thornlie,,
+ocd-division/country:au/state:qld/sldl:thuringowa,Thuringowa,,
+ocd-division/country:au/state:qld/sldl:toohey,Toohey,,
+ocd-division/country:au/state:qld/sldl:toowoomba_north,Toowoomba North,,
+ocd-division/country:au/state:qld/sldl:toowoomba_south,Toowoomba South,,
+ocd-division/country:au/state:sa/sldl:torrens,Torrens,,
+ocd-division/country:au/state:qld/sldl:townsville,Townsville,,
+ocd-division/country:au/state:qld/sldl:traeger,Traeger,,
+ocd-division/country:au/state:nsw/sldl:tweed,Tweed,,
+ocd-division/country:au/state:sa/sldl:unley,Unley,,
+ocd-division/country:au/state:nsw/sldl:upper_hunter,Upper Hunter,,
+ocd-division/country:au/state:wa/sldl:vasse,Vasse,,
+ocd-division/country:au/state:nsw/sldl:vaucluse,Vaucluse,,
+ocd-division/country:au/state:wa/sldl:victoria_park,Victoria Park,,
+ocd-division/country:au/state:nsw/sldl:wagga_wagga,Wagga Wagga,,
+ocd-division/country:au/state:sa/sldl:waite,Waite,,
+ocd-division/country:au/state:nsw/sldl:wakehurst,Wakehurst,,
+ocd-division/country:au/state:nsw/sldl:wallsend,Wallsend,,
+ocd-division/country:au/territory:nt/sldl:wanguri,Wanguri,,
+ocd-division/country:au/state:wa/sldl:wanneroo,Wanneroo,,
+ocd-division/country:au/state:wa/sldl:warnbro,Warnbro,,
+ocd-division/country:au/state:vic/sldl:warrandyte,Warrandyte,,
+ocd-division/country:au/state:qld/sldl:warrego,Warrego,,
+ocd-division/country:au/state:wa/sldl:warren-blackwood,Warren-Blackwood,,
+ocd-division/country:au/state:qld/sldl:waterford,Waterford,,
+ocd-division/country:au/state:vic/sldl:wendouree,Wendouree,,
+ocd-division/country:au/state:vic/sldl:werribee,Werribee,,
+ocd-division/country:au/state:wa/sldl:west_swan,West Swan,,
+ocd-division/country:au/state:sa/sldl:west_torrens,West Torrens,,
+ocd-division/country:au/state:qld/sldl:whitsunday,Whitsunday,,
+ocd-division/country:au/state:wa/sldl:willagee,Willagee,,
+ocd-division/country:au/state:vic/sldl:williamstown,Williamstown,,
+ocd-division/country:au/state:nsw/sldl:willoughby,Willoughby,,
+ocd-division/country:au/state:nsw/sldl:wollondilly,Wollondilly,,
+ocd-division/country:au/state:nsw/sldl:wollongong,Wollongong,,
+ocd-division/country:au/state:qld/sldl:woodridge,Woodridge,,
+ocd-division/country:au/state:sa/sldl:wright,Wright,,
+ocd-division/country:au/state:nsw/sldl:wyong,Wyong,,
+ocd-division/country:au/state:vic/sldl:yan_yean,Yan Yean,,
+ocd-division/country:au/territory:act/sldl:yerrabi,Yerrabi,,
+ocd-division/country:au/state:nsw/sldl:leppington,Leppington,,
+ocd-division/country:au/state:nsw/sldl:badgerys_creek,Badgerys Creek,,
+ocd-division/country:au/state:nsw/sldl:Kellyville,Kellyville,,
+ocd-division/country:au/state:nsw/sldl:wahroonga,Wahroonga,,
+ocd-division/country:au/state:nsw/sldl:winston_hills,Winston Hills,,
