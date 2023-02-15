@@ -1,4 +1,4 @@
-id,name,validFrom,validTo
+id,name,validFrom,validThrough
 ocd-division/country:us/state:al/sldl:1,Alabama State House district 1,,
 ocd-division/country:us/state:al/sldl:2,Alabama State House district 2,,
 ocd-division/country:us/state:al/sldl:3,Alabama State House district 3,,
