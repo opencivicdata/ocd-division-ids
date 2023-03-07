@@ -1,5 +1,18 @@
 id,name
 ocd-division/country:fi,Finland
+ocd-division/country:fi/ed:haeme,Häme
+ocd-division/country:fi/ed:helsinki,Helsinki
+ocd-division/country:fi/ed:kaakois-suomi,Kaakkois-Suomen
+ocd-division/country:fi/ed:keski-suomi,Keski-Suomi
+ocd-division/country:fi/ed:lappi,Lappi
+ocd-division/country:fi/ed:oulu,Oulu
+ocd-division/country:fi/ed:pirkanmaa,Pirkanmaa
+ocd-division/country:fi/ed:satakunta,Satakunta
+ocd-division/country:fi/ed:savo-karjala,Savo-Karjalan
+ocd-division/country:fi/ed:uusimaa,Uusimaa
+ocd-division/country:fi/ed:vaasa,Vaasa
+ocd-division/country:fi/ed:vaesinais-suomi,Varsinais-Suomi
+ocd-division/country:fi/ed:åland,Åland
 ocd-division/country:fi/kunta:akaa,Akaa
 ocd-division/country:fi/kunta:alajärvi,Alajärvi
 ocd-division/country:fi/kunta:alavieska,Alavieska
@@ -409,16 +422,3 @@ ocd-division/country:fi/seutukunta:äänekoski,Äänekoski
 ocd-division/country:fi/seutukunta:åboland-turunmaa,Åboland-Turunmaa
 ocd-division/country:fi/seutukunta:ålands_landsbygd,Ålands landsbygd
 ocd-division/country:fi/seutukunta:ålands_skärgård,Ålands skärgård
-ocd-division/country:fi/vaalipiirit:haeme,Häme
-ocd-division/country:fi/vaalipiirit:helsinki,Helsinki
-ocd-division/country:fi/vaalipiirit:kaakois-suomi,Kaakkois-Suomen
-ocd-division/country:fi/vaalipiirit:keski-suomi,Keski-Suomi
-ocd-division/country:fi/vaalipiirit:lappi,Lappi
-ocd-division/country:fi/vaalipiirit:oulu,Oulu
-ocd-division/country:fi/vaalipiirit:pirkanmaa,Pirkanmaa
-ocd-division/country:fi/vaalipiirit:satakunta,Satakunta
-ocd-division/country:fi/vaalipiirit:savo-karjala,Savo-Karjalan
-ocd-division/country:fi/vaalipiirit:uusimaa,Uusimaa
-ocd-division/country:fi/vaalipiirit:vaasa,Vaasa
-ocd-division/country:fi/vaalipiirit:vaesinais-suomi,Varsinais-Suomi
-ocd-division/country:fi/vaalipiirit:åland,Åland
