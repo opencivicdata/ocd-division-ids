@@ -1,14 +1,14 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.1)
+    addressable (2.8.4)
       public_suffix (>= 2.0.2, < 6.0)
-    connection_pool (2.3.0)
+    connection_pool (2.4.0)
     dbf (2.0.13)
       fastercsv (~> 1.5)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
-    faraday (2.7.2)
+    faraday (2.7.4)
       faraday-net_http (>= 2.0, < 3.1)
       ruby2_keywords (>= 0.0.4)
     faraday-net_http (3.0.2)
@@ -17,7 +17,7 @@ GEM
     http-cookie (1.0.5)
       domain_name (~> 0.5)
     lycopodium (0.0.3)
-    mechanize (2.8.5)
+    mechanize (2.9.1)
       addressable (~> 2.8)
       domain_name (~> 0.5, >= 0.5.20190701)
       http-cookie (~> 1.0, >= 1.0.3)
@@ -30,11 +30,13 @@ GEM
       webrobots (~> 0.1.2)
     mime-types (3.4.1)
       mime-types-data (~> 3.2015)
-    mime-types-data (3.2022.0105)
+    mime-types-data (3.2023.0218.1)
     net-http-digest_auth (1.4.1)
-    net-http-persistent (4.0.1)
+    net-http-persistent (4.0.2)
       connection_pool (~> 2.2)
     nokogiri (1.13.10-arm64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.13.10-x86_64-darwin)
       racc (~> 1.4)
     public_suffix (5.0.1)
     racc (1.6.2)
@@ -48,7 +50,7 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode_utils (1.4.0)
-    webrick (1.7.0)
+    webrick (1.8.1)
     webrobots (0.1.2)
 
 PLATFORMS
