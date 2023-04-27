@@ -1,0 +1,8 @@
+README
+
+File contents in `country-ke` directory:
+*   counties: contains 47 counties of Kenya
+*   national_assembly: contains 290 constituencies in Kenya for Kenyan National Assembly
+
+OCD ID Types used used:
+*   county: represents a county in Kenya
