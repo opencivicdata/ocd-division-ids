@@ -19,8 +19,15 @@ OCD ID Types used used:
 *   special_region: represents a special region, or a subdivision of Indonesia's administrative district with a special status
 *   capital_district: represents a capital district, or a subdivision of Indonesia's administrative district with a special status
 
-Addition of New OCD_ID for both Regions and Dewan_perwakilan_rakyat :
-Papua Tengah
-Papua Selatan
-Papua Pengunungan
-Papua Barat Daya
+**File Contents**
+File contents in `country-id` directory:
+*   regions.csv: contains Level 1 administrative subdivision of Indonesia, comprising of 36 provinces and 2 special regions
+*   dewan_perwakilan_rakyat.csv: contains the list of electoral districts for the People's Representative Council of the Republic of Indonesia (Dewan Perwakilan Rakyat)
+
+OCD ID Types used used:
+*   ed : represents the electoral district
+*   province: represents a province, or a subdivision of Indonesia's administrative district
+*   special_region: represents a special region, or a subdivision of Indonesia's administrative district with a special status
+*   capital_district: represents a capital district, or a subdivision of Indonesia's administrative district with a special status
+
+Four new constituencies has been updated in regions.csv and dewan_perwakilan_rakyat.csv
