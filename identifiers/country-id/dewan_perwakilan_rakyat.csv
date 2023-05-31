@@ -63,6 +63,10 @@ ocd-division/country:id/ed:nusa_tenggara_timur_1,Nusa Tenggara Timur 1
 ocd-division/country:id/ed:nusa_tenggara_timur_2,Nusa Tenggara Timur 2
 ocd-division/country:id/ed:papua,Papua
 ocd-division/country:id/ed:papua_barat,Papua Barat
+ocd-division/country:id/ed:papua_barat_daya,Papua Barat Daya
+ocd-division/country:id/ed:papua_pengunungan,Papua Pengunungan
+ocd-division/country:id/ed:papua_selatan,Papua Selatan
+ocd-division/country:id/ed:papua_tengah,Papua Tengah
 ocd-division/country:id/ed:riau_1,Riau 1
 ocd-division/country:id/ed:riau_2,Riau 2
 ocd-division/country:id/ed:sulawesi_barat,Sulawesi Barat
@@ -79,7 +83,5 @@ ocd-division/country:id/ed:sumatra_selatan_2,Sumatra Selatan 2
 ocd-division/country:id/ed:sumatra_utara_1,Sumatra Utara 1
 ocd-division/country:id/ed:sumatra_utara_2,Sumatra Utara 2
 ocd-division/country:id/ed:sumatra_utara_3,Sumatra Utara 3
-ocd-division/country:id/ed:papua_tengah,Papua Tengah
-ocd-division/country:id/ed:papua_selatan,Papua Selatan
-ocd-division/country:id/ed:papua_pengunungan,Papua Pengunungan
-ocd-division/country:id/ed:papua_barat_daya,Papua Barat Daya
+
+
