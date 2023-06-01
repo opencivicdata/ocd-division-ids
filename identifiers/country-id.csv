@@ -65,6 +65,10 @@ ocd-division/country:id/ed:nusa_tenggara_timur_1,Nusa Tenggara Timur 1
 ocd-division/country:id/ed:nusa_tenggara_timur_2,Nusa Tenggara Timur 2
 ocd-division/country:id/ed:papua,Papua
 ocd-division/country:id/ed:papua_barat,Papua Barat
+ocd-division/country:id/ed:papua_barat_daya,Papua Barat Daya
+ocd-division/country:id/ed:papua_pengunungan,Papua Pengunungan
+ocd-division/country:id/ed:papua_selatan,Papua Selatan
+ocd-division/country:id/ed:papua_tengah,Papua Tengah
 ocd-division/country:id/ed:riau_1,Riau 1
 ocd-division/country:id/ed:riau_2,Riau 2
 ocd-division/country:id/ed:sulawesi_barat,Sulawesi Barat
@@ -103,7 +107,11 @@ ocd-division/country:id/province:mu,Maluku Utara
 ocd-division/country:id/province:nb,Nusa Tenggara Barat
 ocd-division/country:id/province:nt,Nusa Tenggara Timur
 ocd-division/country:id/province:pa,Papua
+ocd-division/country:id/province:papua_barat_daya,Papua Barat Daya
 ocd-division/country:id/province:pb,Papua Barat
+ocd-division/country:id/province:pe,Papua Pengunungan
+ocd-division/country:id/province:ps,Papua Selatan
+ocd-division/country:id/province:pt,Papua Tengah
 ocd-division/country:id/province:ri,Riau
 ocd-division/country:id/province:sa,Sulawesi Utara
 ocd-division/country:id/province:sb,Sumatera Barat
@@ -114,3 +122,5 @@ ocd-division/country:id/province:ss,Sumatera Selatan
 ocd-division/country:id/province:st,Sulawesi Tengah
 ocd-division/country:id/province:su,Sumatera Utara
 ocd-division/country:id/special_region:yo,Yogyakarta
+
+
