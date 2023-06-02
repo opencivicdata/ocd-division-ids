@@ -10,7 +10,7 @@ Indonesia has a bicameral legislature, also called People's Consultative Assembl
 **File Contents**
 
 File contents in `country-id` directory:
-*   regions.csv: contains Level 1 administrative subdivision of Indonesia, comprising of 32 provinces and 2 special regions
+*   regions.csv: contains Level 1 administrative subdivision of Indonesia, comprising of 36 provinces and 2 special regions
 *   dewan_perwakilan_rakyat.csv: contains the list of electoral districts for the People's Representative Council of the Republic of Indonesia (Dewan Perwakilan Rakyat)
 
 OCD ID Types used used:
