@@ -37,7 +37,14 @@ ocd-division/country:es/autonomous_community:cm/province:gu,Guadalajara
 ocd-division/country:es/autonomous_community:cm/province:to,Toledo
 ocd-division/country:es/autonomous_community:cn,Canarias
 ocd-division/country:es/autonomous_community:cn/province:gc,Las Palmas
+ocd-division/country:es/autonomous_community:cn/province:gc-1,Gran Canaria
+ocd-division/country:es/autonomous_community:cn/province:gc-2,Lanzarote
+ocd-division/country:es/autonomous_community:cn/province:gc-3,Fuerteventura
 ocd-division/country:es/autonomous_community:cn/province:tf,Santa Cruz de Tenerife
+ocd-division/country:es/autonomous_community:cn/province:tf-1,Tenerife
+ocd-division/country:es/autonomous_community:cn/province:tf-2,La Gomera
+ocd-division/country:es/autonomous_community:cn/province:tf-3,El Hierro
+ocd-division/country:es/autonomous_community:cn/province:tf-4,La Palma
 ocd-division/country:es/autonomous_community:ct,Cataluña
 ocd-division/country:es/autonomous_community:ct/province:b,Barcelona
 ocd-division/country:es/autonomous_community:ct/province:gi,Girona
@@ -53,6 +60,9 @@ ocd-division/country:es/autonomous_community:ga/province:or,Ourense
 ocd-division/country:es/autonomous_community:ga/province:po,Pontevedra
 ocd-division/country:es/autonomous_community:ib,Illes Balears
 ocd-division/country:es/autonomous_community:ib/province:pm,Baleares
+ocd-division/country:es/autonomous_community:ib/province:pm-1,Mallorca
+ocd-division/country:es/autonomous_community:ib/province:pm-2,Menorca
+ocd-division/country:es/autonomous_community:ib/province:pm-3,Ibiza-Formentera
 ocd-division/country:es/autonomous_community:mc,Región de Murcia
 ocd-division/country:es/autonomous_community:mc/province:mu,Murcia
 ocd-division/country:es/autonomous_community:md,Comunidad de Madrid
