@@ -435,6 +435,11 @@ ocd-division/country:us/state:wi/cd:8,Wisconsin's 8th congressional district,cd-
 ocd-division/country:us/state:wv/cd:1,West Virginia's 1st congressional district,cd-5401,
 ocd-division/country:us/state:wv/cd:2,West Virginia's 2nd congressional district,cd-5402,
 ocd-division/country:us/state:wy/cd:at-large,Wyoming's at-large congressional district,,
+ocd-division/country:us/territory:as/cd:at-large,American Samoa's at-large congressional district,cd-6098,
+ocd-division/country:us/territory:gu/cd:at-large,Guam's at-large congressional district,cd-6698,
+ocd-division/country:us/territory:mp/cd:at-large,Northern Mariana Islands' at-large congressional district,cd-6998,
+ocd-division/country:us/territory:pr/cd:at-large,Puerto Rico's at-large congressional district,cd-7298,
+ocd-division/country:us/territory:vi/cd:at-large,Virgin Islands' at-large congressional district,cd-7898,
 ocd-division/country:us/state:il/cd:19,Illinois's 19th congressional district (obsolete as of 2012),cd-1719,2013-01-03
 ocd-division/country:us/state:ia/cd:5,Iowa's 5th congressional district (obsolete as of 2012),cd-1905,2013-01-03
 ocd-division/country:us/state:la/cd:7,Louisiana's 7th congressional district (obsolete as of 2012),cd-2207,2013-01-03
