@@ -1,4 +1,4 @@
-id,name,validFrom,validTo
+id,name,validThrough,validFrom
 ocd-division/country:hk/functional_constituency:heung_yee_kuk,Heung Yee Kuk,,
 ocd-division/country:hk/functional_constituency:agriculture_and_fisheries,Agriculture and Fisheries,,
 ocd-division/country:hk/functional_constituency:insurance,Insurance,,
@@ -24,8 +24,8 @@ ocd-division/country:hk/functional_constituency:sports_performing_arts_culture_a
 ocd-division/country:hk/functional_constituency:import_and_export,Import and Export,,
 ocd-division/country:hk/functional_constituency:textiles_and_garment,Textiles and Garment,,
 ocd-division/country:hk/functional_constituency:wholesale_and_retail,Wholesale and Retail,,
-ocd-division/country:hk/functional_constituency:information_technology,Information Technology,,2021
-ocd-division/country:hk/functional_constituency:technology_and_innovation,Technology and Innovation,2021,
+ocd-division/country:hk/functional_constituency:information_technology,Information Technology,2021,
+ocd-division/country:hk/functional_constituency:technology_and_innovation,Technology and Innovation,,2021
 ocd-division/country:hk/functional_constituency:catering,Catering,,
 ocd-division/country:hk/functional_constituency:district_council_first,District Council (First),,
 ocd-division/country:hk/functional_constituency:district_council_second,District Council (Second),,
