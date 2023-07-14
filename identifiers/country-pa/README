@@ -3,7 +3,7 @@ README
 File contents in `country-pa` directory:
 *   top_level.csv: contains country level OCD-ID
 *   provinces.csv: contains the list of provinces in Panama [https://en.wikipedia.org/wiki/Provinces_of_Panama]
-*   electoral_districts.csv: contains list of electoral districts (71 circuits) in Panama
+*   electoral_districts.csv: contains list of electoral districts (39 circuits) in Panama
 
 OCD ID Types used used:
 *   province : represents the provinces in Panama
