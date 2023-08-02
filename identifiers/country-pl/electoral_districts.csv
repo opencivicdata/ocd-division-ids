@@ -1,41 +1,101 @@
-ocd-division/country:pl/state:ds/cd:legnica,Legnica
-ocd-division/country:pl/state:ds/cd:wałbrzych,Wałbrzych
-ocd-division/country:pl/state:ds/cd:wrocław,Wrocław
-ocd-division/country:pl/state:kp/cd:bydgoszcz,Bydgoszcz
-ocd-division/country:pl/state:kp/cd:toruń,Toruń
-ocd-division/country:pl/state:lu/cd:lublin,Lublin
-ocd-division/country:pl/state:lu/cd:chełm,Chełm
-ocd-division/country:pl/state:lb/cd:zielona_góra,Zielona Góra
-ocd-division/country:pl/state:ld/cd:łódź,Łódź
-ocd-division/country:pl/state:ld/cd:piotrków_trybunalski,Piotrków Trybunalski
-ocd-division/country:pl/state:ld/cd:sieradz,Sieradz
-ocd-division/country:pl/state:ma/cd:chrzanów,Chrzanów
-ocd-division/country:pl/state:ma/cd:kraków,Kraków
-ocd-division/country:pl/state:ma/cd:nowy_sącz,Nowy Sącz
-ocd-division/country:pl/state:ma/cd:tarnów,Tarnów
-ocd-division/country:pl/state:mz/cd:płock,Płock
-ocd-division/country:pl/state:mz/cd:radom,Radom
-ocd-division/country:pl/state:mz/cd:siedlce,Siedlce
-ocd-division/country:pl/state:mz/cd:warszawa_i,Warszawa I
-ocd-division/country:pl/state:mz/cd:warszawa_ii,Warszawa II
-ocd-division/country:pl/state:op/cd:opole,Opole
-ocd-division/country:pl/state:pk/cd:krosno,Krosno
-ocd-division/country:pl/state:pk/cd:rzeszów,Rzeszów
-ocd-division/country:pl/state:pd/cd:białystok,Białystok
-ocd-division/country:pl/state:pm/cd:gdańsk,Gdańsk
-ocd-division/country:pl/state:pm/cd:gdynia,Gdynia
-ocd-division/country:pl/state:sl/cd:bielsko-biała,Bielsko-Biała
-ocd-division/country:pl/state:sl/cd:częstochowa,Częstochowa
-ocd-division/country:pl/state:sl/cd:gliwice,Gliwice
-ocd-division/country:pl/state:sl/cd:rybnik,Rybnik
-ocd-division/country:pl/state:sl/cd:katowice,Katowice
-ocd-division/country:pl/state:sl/cd:sosnowiec,Sosnowiec
-ocd-division/country:pl/state:sk/cd:kielce,Kielce
-ocd-division/country:pl/state:wn/cd:elbląg,Elbląg
-ocd-division/country:pl/state:wn/cd:olsztyn,Olsztyn
-ocd-division/country:pl/state:wp/cd:kalisz,Kalisz
-ocd-division/country:pl/state:wp/cd:konin,Konin
-ocd-division/country:pl/state:wp/cd:piła,Piła
-ocd-division/country:pl/state:wp/cd:poznań,Poznań
-ocd-division/country:pl/state:zp/cd:koszalin,Koszalin
-ocd-division/country:pl/state:zp/cd:szczecin,Szczecin
+id,name
+ocd-division/country:pl/state:ds/cd:legnica/ed:1,Legnica 1
+ocd-division/country:pl/state:ds/cd:legnica/ed:2,Legnica 2
+ocd-division/country:pl/state:ds/cd:legnica/ed:3,Legnica 3
+ocd-division/country:pl/state:ds/cd:wałbrzych/ed:1,Wałbrzych 1
+ocd-division/country:pl/state:ds/cd:wałbrzych/ed:2,Wałbrzych 2
+ocd-division/country:pl/state:ds/cd:wrocław/ed:1,Wrocław 1
+ocd-division/country:pl/state:ds/cd:wrocław/ed:2,Wrocław 2
+ocd-division/country:pl/state:ds/cd:wrocław/ed:3,Wrocław 3
+ocd-division/country:pl/state:kp/cd:bydgoszcz/ed:1,Bydgoszcz 1
+ocd-division/country:pl/state:kp/cd:bydgoszcz/ed:2,Bydgoszcz 2
+ocd-division/country:pl/state:kp/cd:toruń/ed:1,Toruń 1
+ocd-division/country:pl/state:kp/cd:toruń/ed:2,Toruń 2
+ocd-division/country:pl/state:kp/cd:toruń/ed:3,Toruń 3
+ocd-division/country:pl/state:lu/cd:lublin/ed:1,Lublin 1
+ocd-division/country:pl/state:lu/cd:lublin/ed:2,Lublin 2
+ocd-division/country:pl/state:lu/cd:lublin/ed:3,Lublin 3
+ocd-division/country:pl/state:lu/cd:chełm/ed:1,Chełm 1
+ocd-division/country:pl/state:lu/cd:chełm/ed:2,Chełm 2
+ocd-division/country:pl/state:lu/cd:chełm/ed:3,Chełm 3
+ocd-division/country:pl/state:lb/cd:zielona_góra/ed:1,Zielona Góra 1
+ocd-division/country:pl/state:lb/cd:zielona_góra/ed:2,Zielona Góra 2
+ocd-division/country:pl/state:lb/cd:zielona_góra/ed:3,Zielona Góra 3
+ocd-division/country:pl/state:ld/cd:łódź/ed:1,Łódź 1
+ocd-division/country:pl/state:ld/cd:łódź/ed:2,Łódź 2
+ocd-division/country:pl/state:ld/cd:sieradz/ed:1,Sieradz 1
+ocd-division/country:pl/state:ld/cd:sieradz/ed:2,Sieradz 2
+ocd-division/country:pl/state:ld/cd:sieradz/ed:3,Sieradz 3
+ocd-division/country:pl/state:ld/cd:piotrków_trybunalski/ed:1,Piotrków Trybunalski 1
+ocd-division/country:pl/state:ld/cd:piotrków_trybunalski/ed:2,Piotrków Trybunalski 2
+ocd-division/country:pl/state:ma/cd:kraków_i/ed:1,Kraków I 1
+ocd-division/country:pl/state:ma/cd:kraków_ii/ed:1,Kraków II 1
+ocd-division/country:pl/state:ma/cd:kraków_ii/ed:2,Kraków II 2
+ocd-division/country:pl/state:ma/cd:kraków_ii/ed:3,Kraków II 3
+ocd-division/country:pl/state:ma/cd:tarnów/ed:1,Tarnów 1
+ocd-division/country:pl/state:ma/cd:tarnów/ed:2,Tarnów 2
+ocd-division/country:pl/state:ma/cd:nowy_sącz/ed:1,Nowy Sącz 1
+ocd-division/country:pl/state:ma/cd:nowy_sącz/ed:2,Nowy Sącz 2
+ocd-division/country:pl/state:mz/cd:płock/ed:1,Płock 1
+ocd-division/country:pl/state:mz/cd:płock/ed:2,Płock 2
+ocd-division/country:pl/state:mz/cd:warszawa_i/ed:1,Warszawa I 1
+ocd-division/country:pl/state:mz/cd:warszawa_i/ed:2,Warszawa I 2
+ocd-division/country:pl/state:mz/cd:warszawa_i/ed:3,Warszawa I 3
+ocd-division/country:pl/state:mz/cd:warszawa_i/ed:4,Warszawa I 4
+ocd-division/country:pl/state:mz/cd:warszawa_ii/ed:1,Warszawa II 1
+ocd-division/country:pl/state:mz/cd:warszawa_ii/ed:2,Warszawa II 2
+ocd-division/country:pl/state:mz/cd:siedlce/ed:1,Siedlce 1
+ocd-division/country:pl/state:mz/cd:siedlce/ed:2,Siedlce 2
+ocd-division/country:pl/state:mz/cd:siedlce/ed:3,Siedlce 3
+ocd-division/country:pl/state:mz/cd:radom/ed:1,Radom 1
+ocd-division/country:pl/state:mz/cd:radom/ed:2,Radom 2
+ocd-division/country:pl/state:op/cd:opole/ed:1,Opole 1
+ocd-division/country:pl/state:op/cd:opole/ed:2,Opole 2
+ocd-division/country:pl/state:op/cd:opole/ed:3,Opole 3
+ocd-division/country:pl/state:pk/cd:rzeszów/ed:1,Rzeszów 1
+ocd-division/country:pl/state:pk/cd:rzeszów/ed:2,Rzeszów 2
+ocd-division/country:pl/state:pk/cd:rzeszów/ed:3,Rzeszów 3
+ocd-division/country:pl/state:pk/cd:krosno/ed:1,Krosno 1
+ocd-division/country:pl/state:pk/cd:krosno/ed:2,Krosno 2
+ocd-division/country:pl/state:pd/cd:białystok/ed:1,Białystok 1
+ocd-division/country:pl/state:pd/cd:białystok/ed:2,Białystok 2
+ocd-division/country:pl/state:pd/cd:białystok/ed:3,Białystok 3
+ocd-division/country:pl/state:pm/cd:słupsk/ed:1,Słupsk 1
+ocd-division/country:pl/state:pm/cd:słupsk/ed:2,Słupsk 2
+ocd-division/country:pl/state:pm/cd:słupsk/ed:3,Słupsk 3
+ocd-division/country:pl/state:pm/cd:gdańsk/ed:1,Gdańsk 1
+ocd-division/country:pl/state:pm/cd:gdańsk/ed:2,Gdańsk 2
+ocd-division/country:pl/state:pm/cd:gdańsk/ed:3,Gdańsk 3
+ocd-division/country:pl/state:sl/cd:częstochowa/ed:1,Częstochowa 1
+ocd-division/country:pl/state:sl/cd:częstochowa/ed:2,Częstochowa 2
+ocd-division/country:pl/state:sl/cd:bielsko-biała_i/ed:1,Bielsko-Biała I 1
+ocd-division/country:pl/state:sl/cd:bielsko-biała_i/ed:2,Bielsko-Biała I 2
+ocd-division/country:pl/state:sl/cd:bielsko-biała_ii/ed:1,Bielsko-Biała II 1
+ocd-division/country:pl/state:sl/cd:bielsko-biała_ii/ed:2,Bielsko-Biała II 2
+ocd-division/country:pl/state:sl/cd:katowice_i/ed:1,Katowice I 1
+ocd-division/country:pl/state:sl/cd:katowice_i/ed:2,Katowice I 2
+ocd-division/country:pl/state:sl/cd:katowice_ii/ed:1,Katowice II 1
+ocd-division/country:pl/state:sl/cd:katowice_ii/ed:2,Katowice II 2
+ocd-division/country:pl/state:sl/cd:katowice_ii/ed:3,Katowice II 3
+ocd-division/country:pl/state:sl/cd:katowice_iii/ed:1,Katowice III 1
+ocd-division/country:pl/state:sl/cd:katowice_iii/ed:2,Katowice III 2
+ocd-division/country:pl/state:sk/cd:kielce/ed:1,Kielce 1
+ocd-division/country:pl/state:sk/cd:kielce/ed:2,Kielce 2
+ocd-division/country:pl/state:sk/cd:kielce/ed:3,Kielce 3
+ocd-division/country:pl/state:wn/cd:elbląg/ed:1,Elbląg 1
+ocd-division/country:pl/state:wn/cd:elbląg/ed:2,Elbląg 2
+ocd-division/country:pl/state:wn/cd:olsztyn/ed:1,Olsztyn 1
+ocd-division/country:pl/state:wn/cd:olsztyn/ed:2,Olsztyn 2
+ocd-division/country:pl/state:wp/cd:piła/ed:1,Piła 1
+ocd-division/country:pl/state:wp/cd:piła/ed:2,Piła 2
+ocd-division/country:pl/state:wp/cd:poznań/ed:1,Poznań 1
+ocd-division/country:pl/state:wp/cd:poznań/ed:2,Poznań 2
+ocd-division/country:pl/state:wp/cd:konin/ed:1,Konin 1
+ocd-division/country:pl/state:wp/cd:konin/ed:2,Konin 2
+ocd-division/country:pl/state:wp/cd:kalisz/ed:1,Kalisz 1
+ocd-division/country:pl/state:wp/cd:kalisz/ed:2,Kalisz 2
+ocd-division/country:pl/state:wp/cd:kalisz/ed:3,Kalisz 3
+ocd-division/country:pl/state:zp/cd:szczecin/ed:1,Szczecin 1
+ocd-division/country:pl/state:zp/cd:szczecin/ed:2,Szczecin 2
+ocd-division/country:pl/state:zp/cd:koszalin/ed:1,Koszalin 1
+ocd-division/country:pl/state:zp/cd:koszalin/ed:2,Koszalin 2
