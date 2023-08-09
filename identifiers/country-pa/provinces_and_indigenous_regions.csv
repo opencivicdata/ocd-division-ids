@@ -1,13 +1,15 @@
 id,name
-ocd-division/country:pa/province:bocas_del_toro,Bocas del Toro
-ocd-division/country:pa/province:chiriqui,Chiriquí
-ocd-division/country:pa/province:cocle,Coclé
-ocd-division/country:pa/province:colon,Colón
-ocd-division/country:pa/province:darien,Darién
-ocd-division/country:pa/province:herrera,Herrera
-ocd-division/country:pa/province:los_santos,Los Santos
-ocd-division/country:pa/province:panama,Panamá
-ocd-division/country:pa/province:panama_oeste,Panamá Oeste
-ocd-division/country:pa/province:veraguas,Veraguas
-ocd-division/country:pa/territory:kuna_yala,Kuna Yala
-ocd-division/country:pa/territory:ngabe-bugle,Ngäbe-Buglé
+ocd-division/country:pa/province:1,Bocas del Toro
+ocd-division/country:pa/province:2,Coclé
+ocd-division/country:pa/province:3,Colón
+ocd-division/country:pa/province:4,Chiriquí
+ocd-division/country:pa/province:5,Darién
+ocd-division/country:pa/province:6,Herrera
+ocd-division/country:pa/province:7,Los Santos
+ocd-division/country:pa/province:8,Panamá
+ocd-division/country:pa/province:9,Veraguas
+ocd-division/country:pa/province:10,Panamá Oeste
+ocd-division/country:pa/territory:em,Emberá-Wounaan
+ocd-division/country:pa/territory:ky,Guna Yala
+ocd-division/country:pa/territory:nb,Ngäbe-Buglé
+ocd-division/country:pa/territory:nt,Naso Tjër Di

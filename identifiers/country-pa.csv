@@ -1,53 +1,55 @@
 id,name
 ocd-division/country:pa,Panama
-ocd-division/country:pa/province:bocas_del_toro,Bocas del Toro
-ocd-division/country:pa/province:bocas_del_toro/cp:1,Bocas del Toro
-ocd-division/country:pa/province:chiriqui,Chiriquí
-ocd-division/country:pa/province:chiriqui/cp:1,Chiriquí-1
-ocd-division/country:pa/province:chiriqui/cp:3,Chiriquí-3
-ocd-division/country:pa/province:chiriqui/cu:2,Chiriquí-2
-ocd-division/country:pa/province:chiriqui/cu:4,Chiriquí-4
-ocd-division/country:pa/province:chiriqui/cu:5,Chiriquí-5
-ocd-division/country:pa/province:chiriqui/cu:6,Chiriquí-6
-ocd-division/country:pa/province:cocle,Coclé
-ocd-division/country:pa/province:cocle/cp:1,Coclé-1
-ocd-division/country:pa/province:cocle/cp:2,Coclé-2
-ocd-division/country:pa/province:cocle/cp:3,Coclé-3
-ocd-division/country:pa/province:cocle/cp:4,Coclé-4
-ocd-division/country:pa/province:colon,Colón
-ocd-division/country:pa/province:colon/cp:1,Colón-1
-ocd-division/country:pa/province:colon/cu:2,Colón-2
-ocd-division/country:pa/province:darien,Darién
-ocd-division/country:pa/province:darien/cu:1,Darién-1
-ocd-division/country:pa/province:darien/cu:2,Darién-2
-ocd-division/country:pa/province:herrera,Herrera
-ocd-division/country:pa/province:herrera/cu:1,Herrera-1
-ocd-division/country:pa/province:herrera/cu:2,Herrera-2
-ocd-division/country:pa/province:herrera/cu:3,Herrera-3
-ocd-division/country:pa/province:los_santos,Los Santos
-ocd-division/country:pa/province:los_santos/cu:1,Los Santos-1
-ocd-division/country:pa/province:los_santos/cu:2,Los Santos-2
-ocd-division/country:pa/province:panama,Panamá
-ocd-division/country:pa/province:panama/cp:1,Panamá-1
-ocd-division/country:pa/province:panama/cp:6,Panamá-6
-ocd-division/country:pa/province:panama/cu:2,Panamá-2
-ocd-division/country:pa/province:panama/cu:3,Panamá-3
-ocd-division/country:pa/province:panama/cu:4,Panamá-4
-ocd-division/country:pa/province:panama/cu:5,Panamá-5
-ocd-division/country:pa/province:panama_oeste,Panamá Oeste
-ocd-division/country:pa/province:panama_oeste/cp:1,Panamá Oeste-1
-ocd-division/country:pa/province:panama_oeste/cp:2,Panamá Oeste-2
-ocd-division/country:pa/province:panama_oeste/cp:3,Panamá Oeste-3
-ocd-division/country:pa/province:panama_oeste/cp:4,Panamá Oeste-4
-ocd-division/country:pa/province:veraguas,Veraguas
-ocd-division/country:pa/province:veraguas/cp:1,Veraguas-1
-ocd-division/country:pa/province:veraguas/cu:2,Veraguas-2
-ocd-division/country:pa/province:veraguas/cu:3,Veraguas-3
-ocd-division/country:pa/province:veraguas/cu:4,Veraguas-4
-ocd-division/country:pa/territory:kuna_yala,Kuna Yala
-ocd-division/country:pa/territory:kuna_yala/cu:1,Kuna Yala-1
-ocd-division/country:pa/territory:kuna_yala/cu:2,Kuna Yala-2
-ocd-division/country:pa/territory:ngabe-bugle,Ngäbe-Buglé
-ocd-division/country:pa/territory:ngabe-bugle/cu:1,Ngäbe-Buglé-1
-ocd-division/country:pa/territory:ngabe-bugle/cu:2,Ngäbe-Buglé-2
-ocd-division/country:pa/territory:ngabe-bugle/cu:3,Ngäbe-Buglé-3
+ocd-division/country:pa/province:1,Bocas del Toro
+ocd-division/country:pa/province:1/ed:1,Bocas del Toro
+ocd-division/country:pa/province:10,Panamá Oeste
+ocd-division/country:pa/province:10/ed:1,Panamá Oeste-1
+ocd-division/country:pa/province:10/ed:2,Panamá Oeste-2
+ocd-division/country:pa/province:10/ed:3,Panamá Oeste-3
+ocd-division/country:pa/province:10/ed:4,Panamá Oeste-4
+ocd-division/country:pa/province:2,Coclé
+ocd-division/country:pa/province:2/ed:1,Coclé-1
+ocd-division/country:pa/province:2/ed:2,Coclé-2
+ocd-division/country:pa/province:2/ed:3,Coclé-3
+ocd-division/country:pa/province:2/ed:4,Coclé-4
+ocd-division/country:pa/province:3,Colón
+ocd-division/country:pa/province:3/ed:1,Colón-1
+ocd-division/country:pa/province:3/ed:2,Colón-2
+ocd-division/country:pa/province:4,Chiriquí
+ocd-division/country:pa/province:4/ed:1,Chiriquí-1
+ocd-division/country:pa/province:4/ed:2,Chiriquí-2
+ocd-division/country:pa/province:4/ed:3,Chiriquí-3
+ocd-division/country:pa/province:4/ed:4,Chiriquí-4
+ocd-division/country:pa/province:4/ed:5,Chiriquí-5
+ocd-division/country:pa/province:4/ed:6,Chiriquí-6
+ocd-division/country:pa/province:5,Darién
+ocd-division/country:pa/province:5/ed:1,Darién-1
+ocd-division/country:pa/province:5/ed:2,Darién-2
+ocd-division/country:pa/province:6,Herrera
+ocd-division/country:pa/province:6/ed:1,Herrera-1
+ocd-division/country:pa/province:6/ed:2,Herrera-2
+ocd-division/country:pa/province:6/ed:3,Herrera-3
+ocd-division/country:pa/province:7,Los Santos
+ocd-division/country:pa/province:7/ed:1,Los Santos-1
+ocd-division/country:pa/province:7/ed:2,Los Santos-2
+ocd-division/country:pa/province:8,Panamá
+ocd-division/country:pa/province:8/ed:1,Panamá-1
+ocd-division/country:pa/province:8/ed:2,Panamá-2
+ocd-division/country:pa/province:8/ed:3,Panamá-3
+ocd-division/country:pa/province:8/ed:4,Panamá-4
+ocd-division/country:pa/province:8/ed:5,Panamá-5
+ocd-division/country:pa/province:8/ed:6,Panamá-6
+ocd-division/country:pa/province:9,Veraguas
+ocd-division/country:pa/province:9/ed:1,Veraguas-1
+ocd-division/country:pa/province:9/ed:2,Veraguas-2
+ocd-division/country:pa/province:9/ed:3,Veraguas-3
+ocd-division/country:pa/province:9/ed:4,Veraguas-4
+ocd-division/country:pa/territory:em,Emberá-Wounaan
+ocd-division/country:pa/territory:ky,Guna Yala
+ocd-division/country:pa/territory:ky/ed:1,Guna Yala-1
+ocd-division/country:pa/territory:ky/ed:2,Guna Yala-2
+ocd-division/country:pa/territory:nb,Ngäbe-Buglé
+ocd-division/country:pa/territory:nb/ed:1,Ngäbe-Buglé-1
+ocd-division/country:pa/territory:nb/ed:2,Ngäbe-Buglé-2
+ocd-division/country:pa/territory:nb/ed:3,Ngäbe-Buglé-3
+ocd-division/country:pa/territory:nt,Naso Tjër Di
