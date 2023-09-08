@@ -1,4 +1,4 @@
-id,name,census-geoid,validFrom,validThrough
+id,name,census_geoid,validFrom,validThrough
 ocd-division/country:us/state:al/sldu:1,Alabama State Senate district 1,sldu-01001,,
 ocd-division/country:us/state:al/sldu:2,Alabama State Senate district 2,sldu-01002,,
 ocd-division/country:us/state:al/sldu:3,Alabama State Senate district 3,sldu-01003,,
