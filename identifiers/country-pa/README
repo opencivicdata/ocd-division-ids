@@ -1,0 +1,10 @@
+Open Civic Data Divisions: Panama
+
+File contents in `country-pa` directory:
+*   top_level.csv: contains country level OCD-ID
+*   provinces_and_indigenous_regions.csv: contains the list of provinces and indigenous regions in Panama [https://en.wikipedia.org/wiki/Provinces_of_Panama]
+*   electoral_districts.csv: contains list of electoral districts (39 circuits) in Panama
+
+OCD ID Types used:
+*   province : represents the provinces in Panama
+*   territory : represents the indigenous regions in Panama
