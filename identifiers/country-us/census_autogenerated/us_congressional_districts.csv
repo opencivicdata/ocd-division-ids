@@ -1,6 +1,6 @@
 id,name,census_geoid,validThrough
-ocd-division/country:us/district:dc/cd:at-large,District of Columbia's at-large congressional district,,
-ocd-division/country:us/state:ak/cd:at-large,Alaska's at-large congressional district,,
+ocd-division/country:us/district:dc/cd:at-large,District of Columbia's at-large congressional district,cd-1198,
+ocd-division/country:us/state:ak/cd:at-large,Alaska's at-large congressional district,cd-0200,
 ocd-division/country:us/state:al/cd:1,Alabama's 1st congressional district,cd-0101,
 ocd-division/country:us/state:al/cd:2,Alabama's 2nd congressional district,cd-0102,
 ocd-division/country:us/state:al/cd:3,Alabama's 3rd congressional district,cd-0103,
@@ -86,7 +86,7 @@ ocd-division/country:us/state:ct/cd:2,Connecticut's 2nd congressional district,c
 ocd-division/country:us/state:ct/cd:3,Connecticut's 3rd congressional district,cd-0903,
 ocd-division/country:us/state:ct/cd:4,Connecticut's 4th congressional district,cd-0904,
 ocd-division/country:us/state:ct/cd:5,Connecticut's 5th congressional district,cd-0905,
-ocd-division/country:us/state:de/cd:at-large,Delaware's at-large congressional district,,
+ocd-division/country:us/state:de/cd:at-large,Delaware's at-large congressional district,cd-1000,
 ocd-division/country:us/state:fl/cd:10,Florida's 10th congressional district,cd-1210,
 ocd-division/country:us/state:fl/cd:11,Florida's 11th congressional district,cd-1211,
 ocd-division/country:us/state:fl/cd:12,Florida's 12th congressional district,cd-1212,
@@ -247,7 +247,7 @@ ocd-division/country:us/state:nc/cd:6,North Carolina's 6th congressional distric
 ocd-division/country:us/state:nc/cd:7,North Carolina's 7th congressional district,cd-3707,
 ocd-division/country:us/state:nc/cd:8,North Carolina's 8th congressional district,cd-3708,
 ocd-division/country:us/state:nc/cd:9,North Carolina's 9th congressional district,cd-3709,
-ocd-division/country:us/state:nd/cd:at-large,North Dakota's at-large congressional district,,
+ocd-division/country:us/state:nd/cd:at-large,North Dakota's at-large congressional district,cd-3800,
 ocd-division/country:us/state:ne/cd:1,Nebraska's 1st congressional district,cd-3101,
 ocd-division/country:us/state:ne/cd:2,Nebraska's 2nd congressional district,cd-3102,
 ocd-division/country:us/state:ne/cd:3,Nebraska's 3rd congressional district,cd-3103,
@@ -350,7 +350,7 @@ ocd-division/country:us/state:sc/cd:4,South Carolina's 4th congressional distric
 ocd-division/country:us/state:sc/cd:5,South Carolina's 5th congressional district,cd-4505,
 ocd-division/country:us/state:sc/cd:6,South Carolina's 6th congressional district,cd-4506,
 ocd-division/country:us/state:sc/cd:7,South Carolina's 7th congressional district,cd-4507,
-ocd-division/country:us/state:sd/cd:at-large,South Dakota's at-large congressional district,,
+ocd-division/country:us/state:sd/cd:at-large,South Dakota's at-large congressional district,cd-4600,
 ocd-division/country:us/state:tn/cd:1,Tennessee's 1st congressional district,cd-4701,
 ocd-division/country:us/state:tn/cd:2,Tennessee's 2nd congressional district,cd-4702,
 ocd-division/country:us/state:tn/cd:3,Tennessee's 3rd congressional district,cd-4703,
@@ -413,7 +413,7 @@ ocd-division/country:us/state:va/cd:6,Virginia's 6th congressional district,cd-5
 ocd-division/country:us/state:va/cd:7,Virginia's 7th congressional district,cd-5107,
 ocd-division/country:us/state:va/cd:8,Virginia's 8th congressional district,cd-5108,
 ocd-division/country:us/state:va/cd:9,Virginia's 9th congressional district,cd-5109,
-ocd-division/country:us/state:vt/cd:at-large,Vermont's at-large congressional district,,
+ocd-division/country:us/state:vt/cd:at-large,Vermont's at-large congressional district,cd-5000,
 ocd-division/country:us/state:wa/cd:10,Washington's 10th congressional district,cd-5310,
 ocd-division/country:us/state:wa/cd:1,Washington's 1st congressional district,cd-5301,
 ocd-division/country:us/state:wa/cd:2,Washington's 2nd congressional district,cd-5302,
@@ -434,7 +434,7 @@ ocd-division/country:us/state:wi/cd:7,Wisconsin's 7th congressional district,cd-
 ocd-division/country:us/state:wi/cd:8,Wisconsin's 8th congressional district,cd-5508,
 ocd-division/country:us/state:wv/cd:1,West Virginia's 1st congressional district,cd-5401,
 ocd-division/country:us/state:wv/cd:2,West Virginia's 2nd congressional district,cd-5402,
-ocd-division/country:us/state:wy/cd:at-large,Wyoming's at-large congressional district,,
+ocd-division/country:us/state:wy/cd:at-large,Wyoming's at-large congressional district,cd-5400,
 ocd-division/country:us/territory:as/cd:at-large,American Samoa's at-large congressional district,cd-6098,
 ocd-division/country:us/territory:gu/cd:at-large,Guam's at-large congressional district,cd-6698,
 ocd-division/country:us/territory:mp/cd:at-large,Northern Mariana Islands' at-large congressional district,cd-6998,
@@ -454,7 +454,7 @@ ocd-division/country:us/state:oh/cd:18,Ohio's 18th congressional district (obsol
 ocd-division/country:us/state:pa/cd:19,Pennsylvania's 19th congressional district (obsolete as of 2012),cd-4219,2013-01-03
 ocd-division/country:us/state:il/cd:18,Illinois's 18th congressional district (obsolete as of 2022),cd-1718,2023-01-03
 ocd-division/country:us/state:mi/cd:14,Michigan's 14th congressional district (obsolete as of 2022),cd-2614,2023-01-03
-ocd-division/country:us/state:mt/cd:at-large,Montana's at-large congressional district (obsolete as of 2022),,2023-01-03
+ocd-division/country:us/state:mt/cd:at-large,Montana's at-large congressional district (obsolete as of 2022),cd-3000,2023-01-03
 ocd-division/country:us/state:ny/cd:27,New York's 27th congressional district (obsolete as of 2022),cd-3627,2023-01-03
 ocd-division/country:us/state:oh/cd:16,Ohio's 16th congressional district (obsolete as of 2022),cd-3916,2023-01-03
 ocd-division/country:us/state:pa/cd:18,Pennsylvania's 18th congressional district (obsolete as of 2022),cd-4218,2023-01-03
