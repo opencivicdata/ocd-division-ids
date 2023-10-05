@@ -563,16 +563,16 @@ ocd-division/country:us/state:ca/place:sunnyvale/council_district:3,Sunnyvale Ci
 ocd-division/country:us/state:ca/place:sunnyvale/council_district:4,Sunnyvale City Council Member District 4
 ocd-division/country:us/state:ca/place:sunnyvale/council_district:5,Sunnyvale City Council Member District 5
 ocd-division/country:us/state:ca/place:sunnyvale/council_district:6,Sunnyvale City Council Member District 6
-ocd-division/country:us/state:ca/transportation:caltrans,Caltrans
-ocd-division/country:us/state:ca/transportation:caltrans/district:1,Caltrans District 1
-ocd-division/country:us/state:ca/transportation:caltrans/district:2,Caltrans District 2
-ocd-division/country:us/state:ca/transportation:caltrans/district:3,Caltrans District 3
-ocd-division/country:us/state:ca/transportation:caltrans/district:4,Caltrans District 4
-ocd-division/country:us/state:ca/transportation:caltrans/district:5,Caltrans District 5
-ocd-division/country:us/state:ca/transportation:caltrans/district:6,Caltrans District 6
-ocd-division/country:us/state:ca/transportation:caltrans/district:7,Caltrans District 7
-ocd-division/country:us/state:ca/transportation:caltrans/district:8,Caltrans District 8
-ocd-division/country:us/state:ca/transportation:caltrans/district:9,Caltrans District 9
-ocd-division/country:us/state:ca/transportation:caltrans/district:10,Caltrans District 10
-ocd-division/country:us/state:ca/transportation:caltrans/district:11,Caltrans District 11
-ocd-division/country:us/state:ca/transportation:caltrans/district:12,Caltrans District 12
+ocd-division/country:us/state:ca/transit:caltrans,California Department of Transportation
+ocd-division/country:us/state:ca/transit:caltrans/district:1,California Department of Transportation District 1
+ocd-division/country:us/state:ca/transit:caltrans/district:2,California Department of Transportation District 2
+ocd-division/country:us/state:ca/transit:caltrans/district:3,California Department of Transportation District 3
+ocd-division/country:us/state:ca/transit:caltrans/district:4,California Department of Transportation District 4
+ocd-division/country:us/state:ca/transit:caltrans/district:5,California Department of Transportation District 5
+ocd-division/country:us/state:ca/transit:caltrans/district:6,California Department of Transportation District 6
+ocd-division/country:us/state:ca/transit:caltrans/district:7,California Department of Transportation District 7
+ocd-division/country:us/state:ca/transit:caltrans/district:8,California Department of Transportation District 8
+ocd-division/country:us/state:ca/transit:caltrans/district:9,California Department of Transportation District 9
+ocd-division/country:us/state:ca/transit:caltrans/district:10,California Department of Transportation District 10
+ocd-division/country:us/state:ca/transit:caltrans/district:11,California Department of Transportation District 11
+ocd-division/country:us/state:ca/transit:caltrans/district:12,California Department of Transportation District 12
