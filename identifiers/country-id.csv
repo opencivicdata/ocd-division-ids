@@ -1,124 +1,124 @@
-id,name
-ocd-division/country:id,Indonesia
-ocd-division/country:id/capital_district:jk,Jakarta Raya
-ocd-division/country:id/ed:aceh_1,Aceh 1
-ocd-division/country:id/ed:aceh_2,Aceh 2
-ocd-division/country:id/ed:bali,Bali
-ocd-division/country:id/ed:bangka_belitung,Bangka Belitung
-ocd-division/country:id/ed:banten_1,Banten 1
-ocd-division/country:id/ed:banten_2,Banten 2
-ocd-division/country:id/ed:banten_3,Banten 3
-ocd-division/country:id/ed:bengkulu,Bengkulu
-ocd-division/country:id/ed:daerah_istimewa_yogyakarta,Daerah Istimewa Yogyakarta
-ocd-division/country:id/ed:dki_jakarta_1,DKI Jakarta 1
-ocd-division/country:id/ed:dki_jakarta_2,DKI Jakarta 2
-ocd-division/country:id/ed:dki_jakarta_3,DKI Jakarta 3
-ocd-division/country:id/ed:gorontalo,Gorontalo
-ocd-division/country:id/ed:jambi,Jambi
-ocd-division/country:id/ed:jawa_barat_1,Jawa Barat 1
-ocd-division/country:id/ed:jawa_barat_10,Jawa Barat 10
-ocd-division/country:id/ed:jawa_barat_11,Jawa Barat 11
-ocd-division/country:id/ed:jawa_barat_2,Jawa Barat 2
-ocd-division/country:id/ed:jawa_barat_3,Jawa Barat 3
-ocd-division/country:id/ed:jawa_barat_4,Jawa Barat 4
-ocd-division/country:id/ed:jawa_barat_5,Jawa Barat 5
-ocd-division/country:id/ed:jawa_barat_6,Jawa Barat 6
-ocd-division/country:id/ed:jawa_barat_7,Jawa Barat 7
-ocd-division/country:id/ed:jawa_barat_8,Jawa Barat 8
-ocd-division/country:id/ed:jawa_barat_9,Jawa Barat 9
-ocd-division/country:id/ed:jawa_tengah_1,Jawa Tengah 1
-ocd-division/country:id/ed:jawa_tengah_10,Jawa Tengah 10
-ocd-division/country:id/ed:jawa_tengah_2,Jawa Tengah 2
-ocd-division/country:id/ed:jawa_tengah_3,Jawa Tengah 3
-ocd-division/country:id/ed:jawa_tengah_4,Jawa Tengah 4
-ocd-division/country:id/ed:jawa_tengah_5,Jawa Tengah 5
-ocd-division/country:id/ed:jawa_tengah_6,Jawa Tengah 6
-ocd-division/country:id/ed:jawa_tengah_7,Jawa Tengah 7
-ocd-division/country:id/ed:jawa_tengah_8,Jawa Tengah 8
-ocd-division/country:id/ed:jawa_tengah_9,Jawa Tengah 9
-ocd-division/country:id/ed:jawa_timur_1,Jawa Timur 1
-ocd-division/country:id/ed:jawa_timur_10,Jawa Timur 10
-ocd-division/country:id/ed:jawa_timur_11,Jawa Timur 11
-ocd-division/country:id/ed:jawa_timur_2,Jawa Timur 2
-ocd-division/country:id/ed:jawa_timur_3,Jawa Timur 3
-ocd-division/country:id/ed:jawa_timur_4,Jawa Timur 4
-ocd-division/country:id/ed:jawa_timur_5,Jawa Timur 5
-ocd-division/country:id/ed:jawa_timur_6,Jawa Timur 6
-ocd-division/country:id/ed:jawa_timur_7,Jawa Timur 7
-ocd-division/country:id/ed:jawa_timur_8,Jawa Timur 8
-ocd-division/country:id/ed:jawa_timur_9,Jawa Timur 9
-ocd-division/country:id/ed:kalimantan_barat_1,Kalimantan Barat 1
-ocd-division/country:id/ed:kalimantan_barat_2,Kalimantan Barat 2
-ocd-division/country:id/ed:kalimantan_selatan_1,Kalimantan Selatan 1
-ocd-division/country:id/ed:kalimantan_selatan_2,Kalimantan Selatan 2
-ocd-division/country:id/ed:kalimantan_tengah,Kalimantan Tengah
-ocd-division/country:id/ed:kalimantan_timur,Kalimantan Timur
-ocd-division/country:id/ed:kalimantan_utara,Kalimantan Utara
-ocd-division/country:id/ed:kepulauan_riau,Kepulauan Riau
-ocd-division/country:id/ed:lampung_1,Lampung 1
-ocd-division/country:id/ed:lampung_2,Lampung 2
-ocd-division/country:id/ed:maluku,Maluku
-ocd-division/country:id/ed:maluku_utara,Maluku Utara
-ocd-division/country:id/ed:nusa_tenggara_barat_1,Nusa Tenggara Barat 1
-ocd-division/country:id/ed:nusa_tenggara_barat_2,Nusa Tenggara Barat 2
-ocd-division/country:id/ed:nusa_tenggara_timur_1,Nusa Tenggara Timur 1
-ocd-division/country:id/ed:nusa_tenggara_timur_2,Nusa Tenggara Timur 2
-ocd-division/country:id/ed:papua,Papua
-ocd-division/country:id/ed:papua_barat,Papua Barat
-ocd-division/country:id/ed:papua_barat_daya,Papua Barat Daya
-ocd-division/country:id/ed:papua_pegunungan,Papua Pegunungan
-ocd-division/country:id/ed:papua_selatan,Papua Selatan
-ocd-division/country:id/ed:papua_tengah,Papua Tengah
-ocd-division/country:id/ed:riau_1,Riau 1
-ocd-division/country:id/ed:riau_2,Riau 2
-ocd-division/country:id/ed:sulawesi_barat,Sulawesi Barat
-ocd-division/country:id/ed:sulawesi_selatan_1,Sulawesi Selatan 1
-ocd-division/country:id/ed:sulawesi_selatan_2,Sulawesi Selatan 2
-ocd-division/country:id/ed:sulawesi_selatan_3,Sulawesi Selatan 3
-ocd-division/country:id/ed:sulawesi_tengah,Sulawesi Tengah
-ocd-division/country:id/ed:sulawesi_tenggara,Sulawesi Tenggara
-ocd-division/country:id/ed:sulawesi_utara,Sulawesi Utara
-ocd-division/country:id/ed:sumatra_barat_1,Sumatra Barat 1
-ocd-division/country:id/ed:sumatra_barat_2,Sumatra Barat 2
-ocd-division/country:id/ed:sumatra_selatan_1,Sumatra Selatan 1
-ocd-division/country:id/ed:sumatra_selatan_2,Sumatra Selatan 2
-ocd-division/country:id/ed:sumatra_utara_1,Sumatra Utara 1
-ocd-division/country:id/ed:sumatra_utara_2,Sumatra Utara 2
-ocd-division/country:id/ed:sumatra_utara_3,Sumatra Utara 3
-ocd-division/country:id/province:ac,Aceh
-ocd-division/country:id/province:ba,Bali
-ocd-division/country:id/province:bb,Kepulauan Bangka Belitung
-ocd-division/country:id/province:be,Bengkulu
-ocd-division/country:id/province:bt,Banten
-ocd-division/country:id/province:go,Gorontalo
-ocd-division/country:id/province:ja,Jambi
-ocd-division/country:id/province:jb,Jawa Barat
-ocd-division/country:id/province:ji,Jawa Timur
-ocd-division/country:id/province:jt,Jawa Tengah
-ocd-division/country:id/province:kb,Kalimantan Barat
-ocd-division/country:id/province:ki,Kalimantan Timur
-ocd-division/country:id/province:kr,Kepulauan Riau
-ocd-division/country:id/province:ks,Kalimantan Selatan
-ocd-division/country:id/province:kt,Kalimantan Tengah
-ocd-division/country:id/province:ku,Kalimantan Utara
-ocd-division/country:id/province:la,Lampung
-ocd-division/country:id/province:ma,Maluku
-ocd-division/country:id/province:mu,Maluku Utara
-ocd-division/country:id/province:nb,Nusa Tenggara Barat
-ocd-division/country:id/province:nt,Nusa Tenggara Timur
-ocd-division/country:id/province:pa,Papua
-ocd-division/country:id/province:papua_barat_daya,Papua Barat Daya
-ocd-division/country:id/province:pb,Papua Barat
-ocd-division/country:id/province:pe,Papua Pegunungan
-ocd-division/country:id/province:ps,Papua Selatan
-ocd-division/country:id/province:pt,Papua Tengah
-ocd-division/country:id/province:ri,Riau
-ocd-division/country:id/province:sa,Sulawesi Utara
-ocd-division/country:id/province:sb,Sumatera Barat
-ocd-division/country:id/province:sg,Sulawesi Tenggara
-ocd-division/country:id/province:sn,Sulawesi Selatan
-ocd-division/country:id/province:sr,Sulawesi Barat
-ocd-division/country:id/province:ss,Sumatera Selatan
-ocd-division/country:id/province:st,Sulawesi Tengah
-ocd-division/country:id/province:su,Sumatera Utara
-ocd-division/country:id/special_region:yo,Yogyakarta
+id,name,sameAs,sameAsNote
+ocd-division/country:id,Indonesia,,
+ocd-division/country:id/capital_district:jk,Jakarta Raya,,
+ocd-division/country:id/ed:aceh_1,Aceh 1,,
+ocd-division/country:id/ed:aceh_2,Aceh 2,,
+ocd-division/country:id/ed:bali,Bali,,
+ocd-division/country:id/ed:bangka_belitung,Bangka Belitung,,
+ocd-division/country:id/ed:banten_1,Banten 1,,
+ocd-division/country:id/ed:banten_2,Banten 2,,
+ocd-division/country:id/ed:banten_3,Banten 3,,
+ocd-division/country:id/ed:bengkulu,Bengkulu,,
+ocd-division/country:id/ed:daerah_istimewa_yogyakarta,Daerah Istimewa Yogyakarta,,
+ocd-division/country:id/ed:dki_jakarta_1,DKI Jakarta 1,,
+ocd-division/country:id/ed:dki_jakarta_2,DKI Jakarta 2,,
+ocd-division/country:id/ed:dki_jakarta_3,DKI Jakarta 3,,
+ocd-division/country:id/ed:gorontalo,Gorontalo,,
+ocd-division/country:id/ed:jambi,Jambi,,
+ocd-division/country:id/ed:jawa_barat_1,Jawa Barat 1,,
+ocd-division/country:id/ed:jawa_barat_10,Jawa Barat 10,,
+ocd-division/country:id/ed:jawa_barat_11,Jawa Barat 11,,
+ocd-division/country:id/ed:jawa_barat_2,Jawa Barat 2,,
+ocd-division/country:id/ed:jawa_barat_3,Jawa Barat 3,,
+ocd-division/country:id/ed:jawa_barat_4,Jawa Barat 4,,
+ocd-division/country:id/ed:jawa_barat_5,Jawa Barat 5,,
+ocd-division/country:id/ed:jawa_barat_6,Jawa Barat 6,,
+ocd-division/country:id/ed:jawa_barat_7,Jawa Barat 7,,
+ocd-division/country:id/ed:jawa_barat_8,Jawa Barat 8,,
+ocd-division/country:id/ed:jawa_barat_9,Jawa Barat 9,,
+ocd-division/country:id/ed:jawa_tengah_1,Jawa Tengah 1,,
+ocd-division/country:id/ed:jawa_tengah_10,Jawa Tengah 10,,
+ocd-division/country:id/ed:jawa_tengah_2,Jawa Tengah 2,,
+ocd-division/country:id/ed:jawa_tengah_3,Jawa Tengah 3,,
+ocd-division/country:id/ed:jawa_tengah_4,Jawa Tengah 4,,
+ocd-division/country:id/ed:jawa_tengah_5,Jawa Tengah 5,,
+ocd-division/country:id/ed:jawa_tengah_6,Jawa Tengah 6,,
+ocd-division/country:id/ed:jawa_tengah_7,Jawa Tengah 7,,
+ocd-division/country:id/ed:jawa_tengah_8,Jawa Tengah 8,,
+ocd-division/country:id/ed:jawa_tengah_9,Jawa Tengah 9,,
+ocd-division/country:id/ed:jawa_timur_1,Jawa Timur 1,,
+ocd-division/country:id/ed:jawa_timur_10,Jawa Timur 10,,
+ocd-division/country:id/ed:jawa_timur_11,Jawa Timur 11,,
+ocd-division/country:id/ed:jawa_timur_2,Jawa Timur 2,,
+ocd-division/country:id/ed:jawa_timur_3,Jawa Timur 3,,
+ocd-division/country:id/ed:jawa_timur_4,Jawa Timur 4,,
+ocd-division/country:id/ed:jawa_timur_5,Jawa Timur 5,,
+ocd-division/country:id/ed:jawa_timur_6,Jawa Timur 6,,
+ocd-division/country:id/ed:jawa_timur_7,Jawa Timur 7,,
+ocd-division/country:id/ed:jawa_timur_8,Jawa Timur 8,,
+ocd-division/country:id/ed:jawa_timur_9,Jawa Timur 9,,
+ocd-division/country:id/ed:kalimantan_barat_1,Kalimantan Barat 1,,
+ocd-division/country:id/ed:kalimantan_barat_2,Kalimantan Barat 2,,
+ocd-division/country:id/ed:kalimantan_selatan_1,Kalimantan Selatan 1,,
+ocd-division/country:id/ed:kalimantan_selatan_2,Kalimantan Selatan 2,,
+ocd-division/country:id/ed:kalimantan_tengah,Kalimantan Tengah,,
+ocd-division/country:id/ed:kalimantan_timur,Kalimantan Timur,,
+ocd-division/country:id/ed:kalimantan_utara,Kalimantan Utara,,
+ocd-division/country:id/ed:kepulauan_riau,Kepulauan Riau,,
+ocd-division/country:id/ed:lampung_1,Lampung 1,,
+ocd-division/country:id/ed:lampung_2,Lampung 2,,
+ocd-division/country:id/ed:maluku,Maluku,,
+ocd-division/country:id/ed:maluku_utara,Maluku Utara,,
+ocd-division/country:id/ed:nusa_tenggara_barat_1,Nusa Tenggara Barat 1,,
+ocd-division/country:id/ed:nusa_tenggara_barat_2,Nusa Tenggara Barat 2,,
+ocd-division/country:id/ed:nusa_tenggara_timur_1,Nusa Tenggara Timur 1,,
+ocd-division/country:id/ed:nusa_tenggara_timur_2,Nusa Tenggara Timur 2,,
+ocd-division/country:id/ed:papua,Papua,,
+ocd-division/country:id/ed:papua_barat,Papua Barat,,
+ocd-division/country:id/ed:papua_barat_daya,Papua Barat Daya,,
+ocd-division/country:id/ed:papua_pegunungan,Papua Pegunungan,ocd-division/country:id/ed:papua_pegunungan,Papua Pengunungan renamed to Papua Pegunungan 
+ocd-division/country:id/ed:papua_selatan,Papua Selatan,,
+ocd-division/country:id/ed:papua_tengah,Papua Tengah,,
+ocd-division/country:id/ed:riau_1,Riau 1,,
+ocd-division/country:id/ed:riau_2,Riau 2,,
+ocd-division/country:id/ed:sulawesi_barat,Sulawesi Barat,,
+ocd-division/country:id/ed:sulawesi_selatan_1,Sulawesi Selatan 1,,
+ocd-division/country:id/ed:sulawesi_selatan_2,Sulawesi Selatan 2,,
+ocd-division/country:id/ed:sulawesi_selatan_3,Sulawesi Selatan 3,,
+ocd-division/country:id/ed:sulawesi_tengah,Sulawesi Tengah,,
+ocd-division/country:id/ed:sulawesi_tenggara,Sulawesi Tenggara,,
+ocd-division/country:id/ed:sulawesi_utara,Sulawesi Utara,,
+ocd-division/country:id/ed:sumatra_barat_1,Sumatra Barat 1,,
+ocd-division/country:id/ed:sumatra_barat_2,Sumatra Barat 2,,
+ocd-division/country:id/ed:sumatra_selatan_1,Sumatra Selatan 1,,
+ocd-division/country:id/ed:sumatra_selatan_2,Sumatra Selatan 2,,
+ocd-division/country:id/ed:sumatra_utara_1,Sumatra Utara 1,,
+ocd-division/country:id/ed:sumatra_utara_2,Sumatra Utara 2,,
+ocd-division/country:id/ed:sumatra_utara_3,Sumatra Utara 3,,
+ocd-division/country:id/province:ac,Aceh,,
+ocd-division/country:id/province:ba,Bali,,
+ocd-division/country:id/province:bb,Kepulauan Bangka Belitung,,
+ocd-division/country:id/province:be,Bengkulu,,
+ocd-division/country:id/province:bt,Banten,,
+ocd-division/country:id/province:go,Gorontalo,,
+ocd-division/country:id/province:ja,Jambi,,
+ocd-division/country:id/province:jb,Jawa Barat,,
+ocd-division/country:id/province:ji,Jawa Timur,,
+ocd-division/country:id/province:jt,Jawa Tengah,,
+ocd-division/country:id/province:kb,Kalimantan Barat,,
+ocd-division/country:id/province:ki,Kalimantan Timur,,
+ocd-division/country:id/province:kr,Kepulauan Riau,,
+ocd-division/country:id/province:ks,Kalimantan Selatan,,
+ocd-division/country:id/province:kt,Kalimantan Tengah,,
+ocd-division/country:id/province:ku,Kalimantan Utara,,
+ocd-division/country:id/province:la,Lampung,,
+ocd-division/country:id/province:ma,Maluku,,
+ocd-division/country:id/province:mu,Maluku Utara,,
+ocd-division/country:id/province:nb,Nusa Tenggara Barat,,
+ocd-division/country:id/province:nt,Nusa Tenggara Timur,,
+ocd-division/country:id/province:pa,Papua,,
+ocd-division/country:id/province:papua_barat_daya,Papua Barat Daya,,
+ocd-division/country:id/province:pb,Papua Barat,,
+ocd-division/country:id/province:pe,Papua Pegunungan,,Papua Pengunungan renamed to Papua Pegunungan
+ocd-division/country:id/province:ps,Papua Selatan,,
+ocd-division/country:id/province:pt,Papua Tengah,,
+ocd-division/country:id/province:ri,Riau,,
+ocd-division/country:id/province:sa,Sulawesi Utara,,
+ocd-division/country:id/province:sb,Sumatera Barat,,
+ocd-division/country:id/province:sg,Sulawesi Tenggara,,
+ocd-division/country:id/province:sn,Sulawesi Selatan,,
+ocd-division/country:id/province:sr,Sulawesi Barat,,
+ocd-division/country:id/province:ss,Sumatera Selatan,,
+ocd-division/country:id/province:st,Sulawesi Tengah,,
+ocd-division/country:id/province:su,Sumatera Utara,,
+ocd-division/country:id/special_region:yo,Yogyakarta,,
