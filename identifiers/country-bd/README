@@ -1,9 +1,6 @@
 File contents in `country-bd` directory:
-
-* Jatiya_Sangsad_electorates.csv:contains the list of electoral districts for the House of the Nation (Jatiya Sangsad) of Bangladesh
-
+* Jatiya_Sangsad_electorates.csv: contains the list of electoral districts for the House of the Nation (Jatiya Sangsad) of Bangladesh
 * top_level.csv: contains country level OCD-ID
 
 OCD ID Types used:
-
 * ed: represents the electoral districts
