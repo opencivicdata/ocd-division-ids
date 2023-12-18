@@ -1,10 +1,11 @@
 id,name,sameAs,sameAsNote
 ocd-division/country:id,Indonesia,,
-ocd-division/country:id/capital_district:jk,Jakarta Raya,,
+ocd-division/country:id/capital_district:jk,DKI Jakarta,,
+ocd-division/country:id/daerah_istimewa:yo,Daerah Istimewa Yogyakarta,,
 ocd-division/country:id/ed:aceh_1,Aceh 1,,
 ocd-division/country:id/ed:aceh_2,Aceh 2,,
 ocd-division/country:id/ed:bali,Bali,,
-ocd-division/country:id/ed:bangka_belitung,Bangka Belitung,,
+ocd-division/country:id/ed:bangka_belitung,Kepulauan Bangka Belitung,ocd-division/country:id/ed:kepulauan_bangka_belitung,Bangka Belitung renamed to Kepulauan Bangka Belitung
 ocd-division/country:id/ed:banten_1,Banten 1,,
 ocd-division/country:id/ed:banten_2,Banten 2,,
 ocd-division/country:id/ed:banten_3,Banten 3,,
@@ -54,6 +55,7 @@ ocd-division/country:id/ed:kalimantan_selatan_2,Kalimantan Selatan 2,,
 ocd-division/country:id/ed:kalimantan_tengah,Kalimantan Tengah,,
 ocd-division/country:id/ed:kalimantan_timur,Kalimantan Timur,,
 ocd-division/country:id/ed:kalimantan_utara,Kalimantan Utara,,
+ocd-division/country:id/ed:kepulauan_bangka_belitung,Kepulauan Bangka Belitung,,
 ocd-division/country:id/ed:kepulauan_riau,Kepulauan Riau,,
 ocd-division/country:id/ed:lampung_1,Lampung 1,,
 ocd-division/country:id/ed:lampung_2,Lampung 2,,
@@ -79,13 +81,20 @@ ocd-division/country:id/ed:sulawesi_selatan_3,Sulawesi Selatan 3,,
 ocd-division/country:id/ed:sulawesi_tengah,Sulawesi Tengah,,
 ocd-division/country:id/ed:sulawesi_tenggara,Sulawesi Tenggara,,
 ocd-division/country:id/ed:sulawesi_utara,Sulawesi Utara,,
-ocd-division/country:id/ed:sumatra_barat_1,Sumatra Barat 1,,
-ocd-division/country:id/ed:sumatra_barat_2,Sumatra Barat 2,,
-ocd-division/country:id/ed:sumatra_selatan_1,Sumatra Selatan 1,,
-ocd-division/country:id/ed:sumatra_selatan_2,Sumatra Selatan 2,,
-ocd-division/country:id/ed:sumatra_utara_1,Sumatra Utara 1,,
-ocd-division/country:id/ed:sumatra_utara_2,Sumatra Utara 2,,
-ocd-division/country:id/ed:sumatra_utara_3,Sumatra Utara 3,,
+ocd-division/country:id/ed:sumatera_barat_1,Sumatera Barat 1,,
+ocd-division/country:id/ed:sumatera_barat_2,Sumatera Barat 2,,
+ocd-division/country:id/ed:sumatera_selatan_1,Sumatera Selatan 1,,
+ocd-division/country:id/ed:sumatera_selatan_2,Sumatera Selatan 2,,
+ocd-division/country:id/ed:sumatera_utara_1,Sumatera Utara 1,,
+ocd-division/country:id/ed:sumatera_utara_2,Sumatera Utara 2,,
+ocd-division/country:id/ed:sumatera_utara_3,Sumatera Utara 3,,
+ocd-division/country:id/ed:sumatra_barat_1,Sumatera Barat 1,ocd-division/country:id/ed:sumatera_barat_1,Sumatra Barat 1 renamed to Sumatera Barat 1
+ocd-division/country:id/ed:sumatra_barat_2,Sumatera Barat 2,ocd-division/country:id/ed:sumatera_barat_2,Sumatra Barat 2 renamed to Sumatera Barat 2
+ocd-division/country:id/ed:sumatra_selatan_1,Sumatera Selatan 1,ocd-division/country:id/ed:sumatera_selatan_1,Sumatra Selatan 1 renamed to Sumatera Selatan 1
+ocd-division/country:id/ed:sumatra_selatan_2,Sumatera Selatan 2,ocd-division/country:id/ed:sumatera_selatan_2,Sumatra Selatan 2 renamed to Sumatera Selatan 2
+ocd-division/country:id/ed:sumatra_utara_1,Sumatera Utara 1,ocd-division/country:id/ed:sumatera_utara_1,Sumatra Utara 1 renamed to Sumatera Utara 1
+ocd-division/country:id/ed:sumatra_utara_2,Sumatera Utara 2,ocd-division/country:id/ed:sumatera_utara_2,Sumatra Utara 2 renamed to Sumatera Utara 2
+ocd-division/country:id/ed:sumatra_utara_3,Sumatera Utara 3,ocd-division/country:id/ed:sumatera_utara_3,Sumatra Utara 3 renamed to Sumatera Utara 3
 ocd-division/country:id/province:ac,Aceh,,
 ocd-division/country:id/province:ba,Bali,,
 ocd-division/country:id/province:bb,Kepulauan Bangka Belitung,,
@@ -122,4 +131,4 @@ ocd-division/country:id/province:sr,Sulawesi Barat,,
 ocd-division/country:id/province:ss,Sumatera Selatan,,
 ocd-division/country:id/province:st,Sulawesi Tengah,,
 ocd-division/country:id/province:su,Sumatera Utara,,
-ocd-division/country:id/special_region:yo,Yogyakarta,,
+ocd-division/country:id/special_region:yo,Daerah Istimewa Yogyakarta,ocd-division/country:id/daerah_istimewa:yo,Yogyakarta renamed to Daerah Istimewa Yogyakarta
