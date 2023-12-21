@@ -9,4 +9,4 @@ This folder list the following administrative divisions of the European Union:
 
 * `region`: Region
 * `country`: Country
-* `ed`: electoral district
+* `eup`: electoral district
