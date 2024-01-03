@@ -1,4 +1,4 @@
-id,name,sameAs,sameAsNote,ValidFrom,ValidTo
+id,name,sameAs,sameAsNote,validFrom,validThrough
 ocd-division/country:de,Deutschland,,,,
 ocd-division/country:de/ed:1,Flensburg – Schleswig,,,,
 ocd-division/country:de/ed:10,Herzogtum Lauenburg – Stormarn-Süd,,,,

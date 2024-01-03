@@ -1,4 +1,4 @@
-id,name,sameAs,sameAsNote,validFrom,validTo
+id,name,sameAs,sameAsNote,validFrom,validThrough
 ocd-division/country:my,Malaysia,,,,
 ocd-division/country:my/state:01,Johor,,,,
 ocd-division/country:my/state:01/ed:ayer_hitam,Ayer Hitam,,,,

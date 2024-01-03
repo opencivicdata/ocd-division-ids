@@ -1,4 +1,4 @@
-id,name,validFrom,validTo
+id,name,validFrom,validThrough
 ocd-division/country:nz,New Zealand,,
 ocd-division/country:nz/general_electorate:auckland_central,Auckland Central,,
 ocd-division/country:nz/general_electorate:banks_peninsula,Banks Peninsula,2020-10-17,
