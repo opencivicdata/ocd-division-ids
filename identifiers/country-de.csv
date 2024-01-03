@@ -1,4 +1,4 @@
-id,name,sameAs,sameAsNote,validFrom,validThrough
+id,name,sameAs,sameAsNote,validThrough,validFrom
 ocd-division/country:de,Deutschland,,,,
 ocd-division/country:de/ed:1,Flensburg – Schleswig,,,,
 ocd-division/country:de/ed:10,Herzogtum Lauenburg – Stormarn-Süd,,,,
@@ -508,8 +508,8 @@ ocd-division/country:de/land:nw/wahlkreis:heinsberg,Heinsberg,ocd-division/count
 ocd-division/country:de/land:nw/wahlkreis:herford_~_minden-lübbecke_ii,Herford – Minden-Lübbecke II,ocd-division/country:de/ed:133,Added for backwards compatibility with land/wahlkreis identifiers,,
 ocd-division/country:de/land:nw/wahlkreis:herne_~_bochum_ii,Herne – Bochum II,ocd-division/country:de/ed:141,Added for backwards compatibility with land/wahlkreis identifiers,,
 ocd-division/country:de/land:nw/wahlkreis:hochsauerlandkreis,Hochsauerlandkreis,ocd-division/country:de/ed:147,Added for backwards compatibility with land/wahlkreis identifiers,,
-ocd-division/country:de/land:nw/wahlkreis:höxter_~_gütersloh_iii_~_lippe_ii,Höxter – Gütersloh III – Lippe II,ocd-division/country:de/ed:136,Added for backwards compatibility with land/wahlkreis identifiers,2021-09-26,
-ocd-division/country:de/land:nw/wahlkreis:höxter_~_lippe_ii,Höxter – Gütersloh III – Lippe II,ocd-division/country:de/ed:136,Added for backwards compatibility with land/wahlkreis identifiers,,2021-09-25
+ocd-division/country:de/land:nw/wahlkreis:höxter_~_gütersloh_iii_~_lippe_ii,Höxter – Gütersloh III – Lippe II,ocd-division/country:de/ed:136,Added for backwards compatibility with land/wahlkreis identifiers,,2021-09-26
+ocd-division/country:de/land:nw/wahlkreis:höxter_~_lippe_ii,Höxter – Gütersloh III – Lippe II,ocd-division/country:de/ed:136,Added for backwards compatibility with land/wahlkreis identifiers,2021-09-25,
 ocd-division/country:de/land:nw/wahlkreis:kleve,Kleve,ocd-division/country:de/ed:112,Added for backwards compatibility with land/wahlkreis identifiers,,
 ocd-division/country:de/land:nw/wahlkreis:krefeld_i_~_neuss_ii,Krefeld I – Neuss II,ocd-division/country:de/ed:110,Added for backwards compatibility with land/wahlkreis identifiers,,
 ocd-division/country:de/land:nw/wahlkreis:krefeld_ii_~_wesel_ii,Krefeld II – Wesel II,ocd-division/country:de/ed:114,Added for backwards compatibility with land/wahlkreis identifiers,,
@@ -529,8 +529,8 @@ ocd-division/country:de/land:nw/wahlkreis:neuss_i,Neuss I,ocd-division/country:d
 ocd-division/country:de/land:nw/wahlkreis:oberbergischer_kreis,Oberbergischer Kreis,ocd-division/country:de/ed:99,Added for backwards compatibility with land/wahlkreis identifiers,,
 ocd-division/country:de/land:nw/wahlkreis:oberhausen_~_wesel_iii,Oberhausen – Wesel III,ocd-division/country:de/ed:117,Added for backwards compatibility with land/wahlkreis identifiers,,
 ocd-division/country:de/land:nw/wahlkreis:olpe_~_märkischer_kreis_i,Olpe – Märkischer Kreis I,ocd-division/country:de/ed:149,Added for backwards compatibility with land/wahlkreis identifiers,,
-ocd-division/country:de/land:nw/wahlkreis:paderborn,Paderborn,ocd-division/country:de/ed:137,Added for backwards compatibility with land/wahlkreis identifiers,2021-09-26,
-ocd-division/country:de/land:nw/wahlkreis:paderborn_~_gütersloh_iii,Paderborn,ocd-division/country:de/ed:137,Added for backwards compatibility with land/wahlkreis identifiers,,2021-09-25
+ocd-division/country:de/land:nw/wahlkreis:paderborn,Paderborn,ocd-division/country:de/ed:137,Added for backwards compatibility with land/wahlkreis identifiers,,2021-09-26
+ocd-division/country:de/land:nw/wahlkreis:paderborn_~_gütersloh_iii,Paderborn,ocd-division/country:de/ed:137,Added for backwards compatibility with land/wahlkreis identifiers,2021-09-25,
 ocd-division/country:de/land:nw/wahlkreis:recklinghausen_i,Recklinghausen I,ocd-division/country:de/ed:121,Added for backwards compatibility with land/wahlkreis identifiers,,
 ocd-division/country:de/land:nw/wahlkreis:recklinghausen_ii,Recklinghausen II,ocd-division/country:de/ed:122,Added for backwards compatibility with land/wahlkreis identifiers,,
 ocd-division/country:de/land:nw/wahlkreis:rhein-erft-kreis_i,Rhein-Erft-Kreis I,ocd-division/country:de/ed:91,Added for backwards compatibility with land/wahlkreis identifiers,,
