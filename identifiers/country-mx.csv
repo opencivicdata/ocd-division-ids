@@ -1,4 +1,4 @@
-id,name,validFrom,validTo
+id,name,validFrom,validThrough
 ocd-division/country:mx,Mexico
 ocd-division/country:mx/region:1,Primera
 ocd-division/country:mx/region:2,Segunda
