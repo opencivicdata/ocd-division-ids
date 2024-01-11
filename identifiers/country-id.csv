@@ -1,7 +1,7 @@
 id,name,sameAs,sameAsNote
 ocd-division/country:id,Indonesia,,
-ocd-division/country:id/capital_district:dkijk,DKI Jakarta,,
-ocd-division/country:id/capital_district:jk,DKI Jakarta,ocd-division/country:id/capital_district:dkijk,Jakarta Raya renamed to DKI Jakarta
+ocd-division/country:id/capital_district:dki,DKI Jakarta,,
+ocd-division/country:id/capital_district:jk,DKI Jakarta,ocd-division/country:id/capital_district:dki,Jakarta Raya renamed to DKI Jakarta
 ocd-division/country:id/ed:aceh_1,Aceh 1,,
 ocd-division/country:id/ed:aceh_2,Aceh 2,,
 ocd-division/country:id/ed:bali,Bali,,
@@ -131,5 +131,5 @@ ocd-division/country:id/province:sr,Sulawesi Barat,,
 ocd-division/country:id/province:ss,Sumatera Selatan,,
 ocd-division/country:id/province:st,Sulawesi Tengah,,
 ocd-division/country:id/province:su,Sumatera Utara,,
-ocd-division/country:id/special_region:diyo,Daerah Istimewa Yogyakarta,,
-ocd-division/country:id/special_region:yo,Daerah Istimewa Yogyakarta,ocd-division/country:id/special_region:diyo,Yogyakarta renamed to Daerah Istimewa Yogyakarta
+ocd-division/country:id/special_region:diy,Daerah Istimewa Yogyakarta,,
+ocd-division/country:id/special_region:yo,Daerah Istimewa Yogyakarta,ocd-division/country:id/special_region:diy,Yogyakarta renamed to Daerah Istimewa Yogyakarta
