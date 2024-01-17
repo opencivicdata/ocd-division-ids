@@ -53,7 +53,7 @@ def make_slug(name):
 
 
 def make_id(prefix, name):
-    return 'ocd-division/country:uk/{prefix}:{slug}'.format(
+    return 'ocd-division/country:gb/{prefix}:{slug}'.format(
         prefix=prefix,
         slug=make_slug(name)
     )
@@ -73,7 +73,7 @@ def make_csv_for_area_type(url, gss_column, name_column, prefix, filename, exclu
         out_rows.append(out_row)
 
     directory = os.path.abspath(
-        os.path.join(os.path.dirname(__file__), '../../identifiers/country-uk')
+        os.path.join(os.path.dirname(__file__), '../../identifiers/country-gb')
     )
     if not os.path.exists(directory):
         os.makedirs(directory)
