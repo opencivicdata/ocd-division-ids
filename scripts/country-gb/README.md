@@ -1,19 +1,16 @@
-# Open Civic Data Divisions: UK
+# Open Civic Data Divisions: United Kingdon of Great Britain and Northern Ireland
 
 ## Build
 
 ```
-./scripts/country-uk/build.py
-./scripts/compile.py uk
+./scripts/country-gb/build.py
+./scripts/compile.py gb
 ```
 
 ## Division Types
 
-* `pcon`: UK Parliament Consitituencies
-* `spc`: Scottish Parliament Consitituencies
-* `spr`: Scottish Parliament Regions
-* `nawc`: National Assembly for Wales Consitituencies
-* `nawr`: National Assembly for Wales Regions
+* `con`: UK Parliament/Scottish Parliament/National Assembly for Wales Constituencies
+* `reg`: Scottish Parliament Regions/National Assembly for Wales
 * `cauth`: Combined Authorities
 * `pfa`: Police Force Areas
 
