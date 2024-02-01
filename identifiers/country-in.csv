@@ -1,4 +1,4 @@
-id,name,sameAs,sameAsNote,validFrom,validTo
+id,name,sameAs,sameAsNote,validThrough,validFrom
 ocd-division/country:in,India,,,,
 ocd-division/country:in/cd:anglo-indian_reserved_seats_1,Nominated Lok Sabha constituency Anglo-Indian reserved seat 1,,,,
 ocd-division/country:in/cd:anglo-indian_reserved_seats_2,Nominated Lok Sabha constituency Anglo-Indian reserved seat 2,,,,
@@ -361,27 +361,27 @@ ocd-division/country:in/state:ar/district:ws/cd:rumgong,Rumgong (ST),,,,
 ocd-division/country:in/state:ar/lok_sabha:arunachal_east,Arunachal Pradesh Lok Sabha constituency Arunachal East,ocd-division/country:in/state:ar/cd:arunachal_east,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:ar/lok_sabha:arunachal_west,Arunachal Pradesh Lok Sabha constituency Arunachal West,ocd-division/country:in/state:ar/cd:arunachal_west,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:as,Assam,,,,
-ocd-division/country:in/state:as/cd:autonomous_district,Assam Lok Sabha constituency Diphu (ST),ocd-division/country:in/state:as/cd:diphu,Autonomous District renamed to Diphu (ST),,
+ocd-division/country:in/state:as/cd:autonomous_district,Assam Lok Sabha constituency Autonomous District (ST),,,2024,
 ocd-division/country:in/state:as/cd:barpeta,Assam Lok Sabha constituency Barpeta,,,,
-ocd-division/country:in/state:as/cd:darrang_udalguri,Assam Lok Sabha constituency Darrang-Udalgiri,,,,
+ocd-division/country:in/state:as/cd:darrang_udalguri,Assam Lok Sabha constituency Darrang-Udalgiri,,,,2024
 ocd-division/country:in/state:as/cd:dhubri,Assam Lok Sabha constituency Dhubri,,,,
 ocd-division/country:in/state:as/cd:dibrugarh,Assam Lok Sabha constituency Dibrugarh,,,,
-ocd-division/country:in/state:as/cd:diphu,Assam Lok Sabha constituency Diphu (ST),,,,
-ocd-division/country:in/state:as/cd:gauhati,Assam Lok Sabha constituency Guwahati,ocd-division/country:in/state:as/cd:guwahati,Gauhati renamed to Guwahati,,
+ocd-division/country:in/state:as/cd:diphu,Assam Lok Sabha constituency Diphu (ST),,,,2024
+ocd-division/country:in/state:as/cd:gauhati,Assam Lok Sabha constituency Gauhati,,,,
 ocd-division/country:in/state:as/cd:guwahati,Assam Lok Sabha constituency Guwahati,,,,
 ocd-division/country:in/state:as/cd:jorhat,Assam Lok Sabha constituency Jorhat,,,,
-ocd-division/country:in/state:as/cd:kaliabor,Assam Lok Sabha constituency Kaliabor,,,,2024
+ocd-division/country:in/state:as/cd:kaliabor,Assam Lok Sabha constituency Kaliabor,,,2024,
 ocd-division/country:in/state:as/cd:karimganj,Assam Lok Sabha constituency Karimganj,,,,
-ocd-division/country:in/state:as/cd:kaziranga,Assam Lok Sabha constituency Kaziranga,,,2024,
+ocd-division/country:in/state:as/cd:kaziranga,Assam Lok Sabha constituency Kaziranga,,,,2024
 ocd-division/country:in/state:as/cd:kokrajhar,Assam Lok Sabha constituency Kokrajhar (ST),,,,
 ocd-division/country:in/state:as/cd:lakhimpur,Assam Lok Sabha constituency Lakhimpur,,,,
-ocd-division/country:in/state:as/cd:mangaldoi,Assam Lok Sabha constituency Darrang-Udalgiri,ocd-division/country:in/state:as/cd:darrang_udalguri,Mangaldoi renamed to Darrang-Udalgiri,,
+ocd-division/country:in/state:as/cd:mangaldoi,Assam Lok Sabha constituency Mangaldoi,,,2024,
 ocd-division/country:in/state:as/cd:nagaon,Assam Lok Sabha constituency Nagaon,,,,
-ocd-division/country:in/state:as/cd:nowgong,Assam Lok Sabha constituency Nagaon,ocd-division/country:in/state:as/cd:nagaon,Nowgong renamed to Nagaon,,
-ocd-division/country:in/state:as/cd:silchar,Assam Lok Sabha constituency Silchar (SC),ocd-division/country:in/state:as/cd:silchar_sc,Silchar renamed to Silchar (SC),,
+ocd-division/country:in/state:as/cd:nowgong,Assam Lok Sabha constituency Nowgong,,,,
+ocd-division/country:in/state:as/cd:silchar,Assam Lok Sabha constituency Silchar,,,,
 ocd-division/country:in/state:as/cd:silchar_sc,Assam Lok Sabha constituency Silchar (SC),,,,
-ocd-division/country:in/state:as/cd:sonitpur,Assam Lok Sabha constituency Sonitpur,,,2024,
-ocd-division/country:in/state:as/cd:tezpur,Assam Lok Sabha constituency Tezpur,,,,2024
+ocd-division/country:in/state:as/cd:sonitpur,Assam Lok Sabha constituency Sonitpur,,,,2024
+ocd-division/country:in/state:as/cd:tezpur,Assam Lok Sabha constituency Tezpur,,,2024,
 ocd-division/country:in/state:as/district:ba,Baksa,,,,
 ocd-division/country:in/state:as/district:ba/cd:barama,Barama (ST),,,,
 ocd-division/country:in/state:as/district:ba/cd:chapaguri,Chapaguri (ST),,,,
@@ -541,19 +541,19 @@ ocd-division/country:in/state:as/district:ud/cd:panery,Panery,,,,
 ocd-division/country:in/state:as/district:ud/cd:udalguri,Udalguri (ST),,,,
 ocd-division/country:in/state:as/district:wk,West Karbi Anglong,,,,
 ocd-division/country:in/state:as/district:wk/cd:baithalangso,Baithalangso (ST),,,,
-ocd-division/country:in/state:as/lok_sabha:autonomous_district,Assam Lok Sabha constituency Diphu (ST),ocd-division/country:in/state:as/cd:diphu,Added for backwards compatibility with lok_sabha identifiers,,
+ocd-division/country:in/state:as/lok_sabha:autonomous_district,Assam Lok Sabha constituency Autonomous District (ST),ocd-division/country:in/state:as/cd:autonomous_district,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:as/lok_sabha:barpeta,Assam Lok Sabha constituency Barpeta,ocd-division/country:in/state:as/cd:barpeta,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:as/lok_sabha:dhubri,Assam Lok Sabha constituency Dhubri,ocd-division/country:in/state:as/cd:dhubri,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:as/lok_sabha:dibrugarh,Assam Lok Sabha constituency Dibrugarh,ocd-division/country:in/state:as/cd:dibrugarh,Added for backwards compatibility with lok_sabha identifiers,,
-ocd-division/country:in/state:as/lok_sabha:gauhati,Assam Lok Sabha constituency Guwahati,ocd-division/country:in/state:as/cd:guwahati,Added for backwards compatibility with lok_sabha identifiers,,
+ocd-division/country:in/state:as/lok_sabha:gauhati,Assam Lok Sabha constituency Guwahati,ocd-division/country:in/state:as/cd:guwahati,"Added for backwards compatibility with lok_sabha identifiers, Gauhati renamed to Guwahati",,
 ocd-division/country:in/state:as/lok_sabha:jorhat,Assam Lok Sabha constituency Jorhat,ocd-division/country:in/state:as/cd:jorhat,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:as/lok_sabha:kaliabor,Assam Lok Sabha constituency Kaliabor,ocd-division/country:in/state:as/cd:kaliabor,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:as/lok_sabha:karimganj,Assam Lok Sabha constituency Karimganj,ocd-division/country:in/state:as/cd:karimganj,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:as/lok_sabha:kokrajhar,Assam Lok Sabha constituency Kokrajhar (ST),ocd-division/country:in/state:as/cd:kokrajhar,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:as/lok_sabha:lakhimpur,Assam Lok Sabha constituency Lakhimpur,ocd-division/country:in/state:as/cd:lakhimpur,Added for backwards compatibility with lok_sabha identifiers,,
-ocd-division/country:in/state:as/lok_sabha:mangaldoi,Assam Lok Sabha constituency Darrang-Udalgiri,ocd-division/country:in/state:as/cd:darrang_udalguri,Added for backwards compatibility with lok_sabha identifiers,,
-ocd-division/country:in/state:as/lok_sabha:nowgong,Assam Lok Sabha constituency Nagaon,ocd-division/country:in/state:as/cd:nagaon,Added for backwards compatibility with lok_sabha identifiers,,
-ocd-division/country:in/state:as/lok_sabha:silchar,Assam Lok Sabha constituency Silchar (SC),ocd-division/country:in/state:as/cd:silchar_sc,Added for backwards compatibility with lok_sabha identifiers,,
+ocd-division/country:in/state:as/lok_sabha:mangaldoi,Assam Lok Sabha constituency Mangaldoi,ocd-division/country:in/state:as/cd:mangaldoi,Added for backwards compatibility with lok_sabha identifiers,,
+ocd-division/country:in/state:as/lok_sabha:nowgong,Assam Lok Sabha constituency Nagaon,ocd-division/country:in/state:as/cd:nagaon,"Added for backwards compatibility with lok_sabha identifiers, Nowgong renamed to Nagaon",,
+ocd-division/country:in/state:as/lok_sabha:silchar,Assam Lok Sabha constituency Silchar (SC),ocd-division/country:in/state:as/cd:silchar_sc,"Added for backwards compatibility with lok_sabha identifiers, Silchar renamed to Silchar (SC)",,
 ocd-division/country:in/state:as/lok_sabha:tezpur,Assam Lok Sabha constituency Tezpur,ocd-division/country:in/state:as/cd:tezpur,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:br,Bihar,,,,
 ocd-division/country:in/state:br/cd:araria,Bihar Lok Sabha constituency Araria,,,,
@@ -1767,13 +1767,13 @@ ocd-division/country:in/state:jh/lok_sabha:palamau,Jharkhand Lok Sabha constitue
 ocd-division/country:in/state:jh/lok_sabha:rajmahal,Jharkhand Lok Sabha constituency Rajmahal (ST),ocd-division/country:in/state:jh/cd:rajmahal,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:jh/lok_sabha:ranchi,Jharkhand Lok Sabha constituency Ranchi,ocd-division/country:in/state:jh/cd:ranchi,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:jh/lok_sabha:singhbhum,Jharkhand Lok Sabha constituency Singhbhum (ST),ocd-division/country:in/state:jh/cd:singhbhum,Added for backwards compatibility with lok_sabha identifiers,,
-ocd-division/country:in/state:jk,Jammu and Kashmir,,,,2019-10-30
-ocd-division/country:in/state:jk/cd:anantnag,Jammu and Kashmir Lok Sabha constituency Anantnag,,,,2019-10-30
-ocd-division/country:in/state:jk/cd:baramulla,Jammu and Kashmir Lok Sabha constituency Baramulla,,,,2019-10-30
-ocd-division/country:in/state:jk/cd:jammu,Jammu and Kashmir Lok Sabha constituency Jammu,,,,2019-10-30
-ocd-division/country:in/state:jk/cd:ladakh,Jammu and Kashmir Lok Sabha constituency Ladakh,,,,2019-10-30
-ocd-division/country:in/state:jk/cd:srinagar,Jammu and Kashmir Lok Sabha constituency Srinagar,,,,2019-10-30
-ocd-division/country:in/state:jk/cd:udhampur,Jammu and Kashmir Lok Sabha constituency Udhampur,,,,2019-10-30
+ocd-division/country:in/state:jk,Jammu and Kashmir,,,2019-10-30,
+ocd-division/country:in/state:jk/cd:anantnag,Jammu and Kashmir Lok Sabha constituency Anantnag,,,2019-10-30,
+ocd-division/country:in/state:jk/cd:baramulla,Jammu and Kashmir Lok Sabha constituency Baramulla,,,2019-10-30,
+ocd-division/country:in/state:jk/cd:jammu,Jammu and Kashmir Lok Sabha constituency Jammu,,,2019-10-30,
+ocd-division/country:in/state:jk/cd:ladakh,Jammu and Kashmir Lok Sabha constituency Ladakh,,,2019-10-30,
+ocd-division/country:in/state:jk/cd:srinagar,Jammu and Kashmir Lok Sabha constituency Srinagar,,,2019-10-30,
+ocd-division/country:in/state:jk/cd:udhampur,Jammu and Kashmir Lok Sabha constituency Udhampur,,,2019-10-30,
 ocd-division/country:in/state:jk/lok_sabha:anantnag,Jammu and Kashmir Lok Sabha constituency Anantnag,ocd-division/country:in/state:jk/cd:anantnag,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:jk/lok_sabha:baramulla,Jammu and Kashmir Lok Sabha constituency Baramulla,ocd-division/country:in/state:jk/cd:baramulla,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/state:jk/lok_sabha:jammu,Jammu and Kashmir Lok Sabha constituency Jammu,ocd-division/country:in/state:jk/cd:jammu,Added for backwards compatibility with lok_sabha identifiers,,
@@ -5944,12 +5944,12 @@ ocd-division/country:in/territory:an/lok_sabha:andaman_and_nicobar_islands,Andam
 ocd-division/country:in/territory:ch,Chandigarh,,,,
 ocd-division/country:in/territory:ch/cd:chandigarh,Chandigarh Lok Sabha constituency Chandigarh,,,,
 ocd-division/country:in/territory:ch/lok_sabha:chandigarh,Chandigarh Lok Sabha constituency Chandigarh,ocd-division/country:in/territory:ch/cd:chandigarh,Added for backwards compatibility with lok_sabha identifiers,,
-ocd-division/country:in/territory:dd,Daman and Diu,,,,2020-01-25
-ocd-division/country:in/territory:dd/cd:daman_and_diu,Daman and Diu Lok Sabha constituency Daman and Diu,,,,2020-01-25
+ocd-division/country:in/territory:dd,Daman and Diu,,,2020-01-25,
+ocd-division/country:in/territory:dd/cd:daman_and_diu,Daman and Diu Lok Sabha constituency Daman and Diu,,,2020-01-25,
 ocd-division/country:in/territory:dd/lok_sabha:daman_and_diu,Dadra and Nagar Haveli and Daman and Diu Lok Sabha constituency Daman and Diu,ocd-division/country:in/territory:dh/cd:daman_and_diu,Updated as per Bill No. 366 of 2019 for Merger of Union Territories,,
-ocd-division/country:in/territory:dh,Dadra and Nagar Haveli and Daman and Diu,,,2020-01-26,
-ocd-division/country:in/territory:dh/cd:dadra_and_nagar_haveli,Dadra and Nagar Haveli and Daman and Diu Lok Sabha constituency Nagar Haveli,,,2020-01-26,
-ocd-division/country:in/territory:dh/cd:daman_and_diu,Dadra and Nagar Haveli and Daman and Diu Lok Sabha constituency Daman and Diu,,,2020-01-26,
+ocd-division/country:in/territory:dh,Dadra and Nagar Haveli and Daman and Diu,,,,2020-01-26
+ocd-division/country:in/territory:dh/cd:dadra_and_nagar_haveli,Dadra and Nagar Haveli and Daman and Diu Lok Sabha constituency Nagar Haveli,,,,2020-01-26
+ocd-division/country:in/territory:dh/cd:daman_and_diu,Dadra and Nagar Haveli and Daman and Diu Lok Sabha constituency Daman and Diu,,,,2020-01-26
 ocd-division/country:in/territory:dl,Delhi,,,,
 ocd-division/country:in/territory:dl/cd:chandni_chowk,Delhi Lok Sabha constituency Chandni Chowk,,,,
 ocd-division/country:in/territory:dl/cd:east_delhi,Delhi Lok Sabha constituency East Delhi,,,,
@@ -6046,16 +6046,16 @@ ocd-division/country:in/territory:dl/lok_sabha:north_east_delhi,Delhi Lok Sabha 
 ocd-division/country:in/territory:dl/lok_sabha:north_west_delhi,Delhi Lok Sabha constituency North West Delhi (SC),ocd-division/country:in/territory:dl/cd:north_west_delhi,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/territory:dl/lok_sabha:south_delhi,Delhi Lok Sabha constituency South Delhi,ocd-division/country:in/territory:dl/cd:south_delhi,Added for backwards compatibility with lok_sabha identifiers,,
 ocd-division/country:in/territory:dl/lok_sabha:west_delhi,Delhi Lok Sabha constituency West Delhi,ocd-division/country:in/territory:dl/cd:west_delhi,Added for backwards compatibility with lok_sabha identifiers,,
-ocd-division/country:in/territory:dn,Dadra and Nagar Haveli,,,,2020-01-25
-ocd-division/country:in/territory:dn/cd:dadra_and_nagar_haveli,Dadra and Nagar Haveli Lok Sabha constituency Dadra and Nagar Haveli (ST),,,,2020-01-25
+ocd-division/country:in/territory:dn,Dadra and Nagar Haveli,,,2020-01-25,
+ocd-division/country:in/territory:dn/cd:dadra_and_nagar_haveli,Dadra and Nagar Haveli Lok Sabha constituency Dadra and Nagar Haveli (ST),,,2020-01-25,
 ocd-division/country:in/territory:dn/lok_sabha:dadra_and_nagar_haveli,Dadra and Nagar Haveli and Daman and Diu Lok Sabha constituency Nagar Haveli,ocd-division/country:in/territory:dh/cd:dadra_and_nagar_haveli,Updated as per Bill No. 366 of 2019 for Merger of Union Territories,,
-ocd-division/country:in/territory:jk,Jammu and Kashmir,,,2019-10-31,
-ocd-division/country:in/territory:jk/cd:anantnag,Jammu and Kashmir Lok Sabha constituency Anantnag,,,2019-10-31,
-ocd-division/country:in/territory:jk/cd:baramulla,Jammu and Kashmir Lok Sabha constituency Baramulla,,,2019-10-31,
-ocd-division/country:in/territory:jk/cd:jammu,Jammu and Kashmir Lok Sabha constituency Jammu,,,2019-10-31,
-ocd-division/country:in/territory:jk/cd:ladakh,Jammu and Kashmir Lok Sabha constituency Ladakh,,,2019-10-31,
-ocd-division/country:in/territory:jk/cd:srinagar,Jammu and Kashmir Lok Sabha constituency Srinagar,,,2019-10-31,
-ocd-division/country:in/territory:jk/cd:udhampur,Jammu and Kashmir Lok Sabha constituency Udhampur,,,2019-10-31,
+ocd-division/country:in/territory:jk,Jammu and Kashmir,,,,2019-10-31
+ocd-division/country:in/territory:jk/cd:anantnag,Jammu and Kashmir Lok Sabha constituency Anantnag,,,,2019-10-31
+ocd-division/country:in/territory:jk/cd:baramulla,Jammu and Kashmir Lok Sabha constituency Baramulla,,,,2019-10-31
+ocd-division/country:in/territory:jk/cd:jammu,Jammu and Kashmir Lok Sabha constituency Jammu,,,,2019-10-31
+ocd-division/country:in/territory:jk/cd:ladakh,Jammu and Kashmir Lok Sabha constituency Ladakh,,,,2019-10-31
+ocd-division/country:in/territory:jk/cd:srinagar,Jammu and Kashmir Lok Sabha constituency Srinagar,,,,2019-10-31
+ocd-division/country:in/territory:jk/cd:udhampur,Jammu and Kashmir Lok Sabha constituency Udhampur,,,,2019-10-31
 ocd-division/country:in/territory:jk/district:an,Anantnag,,,,
 ocd-division/country:in/territory:jk/district:an/cd:anantnag,Anantnag,,,,
 ocd-division/country:in/territory:jk/district:an/cd:anantnag_west,Anantnag West,,,,
@@ -6166,7 +6166,7 @@ ocd-division/country:in/territory:jk/district:ud/cd:chenani,Chenani,,,,
 ocd-division/country:in/territory:jk/district:ud/cd:ramnagar,Ramnagar (SC),,,,
 ocd-division/country:in/territory:jk/district:ud/cd:udhampur_east,Udhampur East,,,,
 ocd-division/country:in/territory:jk/district:ud/cd:udhampur_west,Udhampur West,,,,
-ocd-division/country:in/territory:la,Ladakh,,,2019-10-31,
+ocd-division/country:in/territory:la,Ladakh,,,,2019-10-31
 ocd-division/country:in/territory:ld,Lakshadweep,,,,
 ocd-division/country:in/territory:ld/cd:lakshadweep,Lakshadweep Lok Sabha constituency Lakshadweep (ST),,,,
 ocd-division/country:in/territory:ld/lok_sabha:lakshadweep,Lakshadweep Lok Sabha constituency Lakshadweep (ST),ocd-division/country:in/territory:ld/cd:lakshadweep,Added for backwards compatibility with lok_sabha identifiers,,
