@@ -28,19 +28,19 @@ ocd-division/country:in/state:ap/lok_sabha:visakhapatnam,ocd-division/country:in
 ocd-division/country:in/state:ap/lok_sabha:vizianagaram,ocd-division/country:in/state:ap/cd:vizianagaram,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:ar/lok_sabha:arunachal_east,ocd-division/country:in/state:ar/cd:arunachal_east,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:ar/lok_sabha:arunachal_west,ocd-division/country:in/state:ar/cd:arunachal_west,Added for backwards compatibility with lok_sabha identifiers
-ocd-division/country:in/state:as/lok_sabha:autonomous_district,ocd-division/country:in/state:as/cd:diphu,Added for backwards compatibility with lok_sabha identifiers
+ocd-division/country:in/state:as/lok_sabha:autonomous_district,ocd-division/country:in/state:as/cd:autonomous_district,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:as/lok_sabha:barpeta,ocd-division/country:in/state:as/cd:barpeta,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:as/lok_sabha:dhubri,ocd-division/country:in/state:as/cd:dhubri,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:as/lok_sabha:dibrugarh,ocd-division/country:in/state:as/cd:dibrugarh,Added for backwards compatibility with lok_sabha identifiers
-ocd-division/country:in/state:as/lok_sabha:gauhati,ocd-division/country:in/state:as/cd:guwahati,Added for backwards compatibility with lok_sabha identifiers
+ocd-division/country:in/state:as/lok_sabha:gauhati,ocd-division/country:in/state:as/cd:guwahati,"Added for backwards compatibility with lok_sabha identifiers, Gauhati renamed to Guwahati"
 ocd-division/country:in/state:as/lok_sabha:jorhat,ocd-division/country:in/state:as/cd:jorhat,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:as/lok_sabha:kaliabor,ocd-division/country:in/state:as/cd:kaliabor,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:as/lok_sabha:karimganj,ocd-division/country:in/state:as/cd:karimganj,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:as/lok_sabha:kokrajhar,ocd-division/country:in/state:as/cd:kokrajhar,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:as/lok_sabha:lakhimpur,ocd-division/country:in/state:as/cd:lakhimpur,Added for backwards compatibility with lok_sabha identifiers
-ocd-division/country:in/state:as/lok_sabha:mangaldoi,ocd-division/country:in/state:as/cd:darrang_udalguri,Added for backwards compatibility with lok_sabha identifiers
-ocd-division/country:in/state:as/lok_sabha:nowgong,ocd-division/country:in/state:as/cd:nagaon,Added for backwards compatibility with lok_sabha identifiers
-ocd-division/country:in/state:as/lok_sabha:silchar,ocd-division/country:in/state:as/cd:silchar_sc,Added for backwards compatibility with lok_sabha identifiers
+ocd-division/country:in/state:as/lok_sabha:mangaldoi,ocd-division/country:in/state:as/cd:mangaldoi,Added for backwards compatibility with lok_sabha identifiers
+ocd-division/country:in/state:as/lok_sabha:nowgong,ocd-division/country:in/state:as/cd:nagaon,"Added for backwards compatibility with lok_sabha identifiers, Nowgong renamed to Nagaon"
+ocd-division/country:in/state:as/lok_sabha:silchar,ocd-division/country:in/state:as/cd:silchar_sc,"Added for backwards compatibility with lok_sabha identifiers, Silchar renamed to Silchar (SC)"
 ocd-division/country:in/state:as/lok_sabha:tezpur,ocd-division/country:in/state:as/cd:tezpur,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:br/lok_sabha:araria,ocd-division/country:in/state:br/cd:araria,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:br/lok_sabha:arrah,ocd-division/country:in/state:br/cd:arrah,Added for backwards compatibility with lok_sabha identifiers
@@ -547,8 +547,3 @@ ocd-division/country:in/territory:dl/lok_sabha:west_delhi,ocd-division/country:i
 ocd-division/country:in/territory:dn/lok_sabha:dadra_and_nagar_haveli,ocd-division/country:in/territory:dh/cd:dadra_and_nagar_haveli,Updated as per Bill No. 366 of 2019 for Merger of Union Territories
 ocd-division/country:in/territory:ld/lok_sabha:lakshadweep,ocd-division/country:in/territory:ld/cd:lakshadweep,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/territory:py/lok_sabha:puducherry,ocd-division/country:in/territory:py/cd:puducherry,Added for backwards compatibility with lok_sabha identifiers
-ocd-division/country:in/state:as/cd:mangaldoi,ocd-division/country:in/state:as/cd:darrang_udalguri,Mangaldoi renamed to Darrang-Udalgiri
-ocd-division/country:in/state:as/cd:gauhati,ocd-division/country:in/state:as/cd:guwahati,Gauhati renamed to Guwahati
-ocd-division/country:in/state:as/cd:autonomous_district,ocd-division/country:in/state:as/cd:diphu,Autonomous District renamed to Diphu (ST)
-ocd-division/country:in/state:as/cd:silchar,ocd-division/country:in/state:as/cd:silchar_sc,Silchar renamed to Silchar (SC)
-ocd-division/country:in/state:as/cd:nowgong,ocd-division/country:in/state:as/cd:nagaon,Nowgong renamed to Nagaon
