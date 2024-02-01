@@ -1,4 +1,4 @@
-id,name,validFrom,validTo
+id,name,validFrom,validThrough
 ocd-division/country:in/cd:anglo-indian_reserved_seats_1,Nominated Lok Sabha constituency Anglo-Indian reserved seat 1,,
 ocd-division/country:in/cd:anglo-indian_reserved_seats_2,Nominated Lok Sabha constituency Anglo-Indian reserved seat 2,,
 ocd-division/country:in/state:ap/cd:amalapuram,Andhra Pradesh Lok Sabha constituency Amalapuram (SC),,
@@ -28,11 +28,13 @@ ocd-division/country:in/state:ap/cd:visakhapatnam,Andhra Pradesh Lok Sabha const
 ocd-division/country:in/state:ap/cd:vizianagaram,Andhra Pradesh Lok Sabha constituency Vizianagaram,,
 ocd-division/country:in/state:ar/cd:arunachal_east,Arunachal Pradesh Lok Sabha constituency Arunachal East,,
 ocd-division/country:in/state:ar/cd:arunachal_west,Arunachal Pradesh Lok Sabha constituency Arunachal West,,
+ocd-division/country:in/state:as/cd:autonomous_district,Assam Lok Sabha constituency Autonomous District (ST),,2024
 ocd-division/country:in/state:as/cd:barpeta,Assam Lok Sabha constituency Barpeta,,
-ocd-division/country:in/state:as/cd:darrang_udalguri,Assam Lok Sabha constituency Darrang-Udalgiri,,
+ocd-division/country:in/state:as/cd:darrang_udalguri,Assam Lok Sabha constituency Darrang-Udalgiri,2024,
 ocd-division/country:in/state:as/cd:dhubri,Assam Lok Sabha constituency Dhubri,,
 ocd-division/country:in/state:as/cd:dibrugarh,Assam Lok Sabha constituency Dibrugarh,,
-ocd-division/country:in/state:as/cd:diphu,Assam Lok Sabha constituency Diphu (ST),,
+ocd-division/country:in/state:as/cd:diphu,Assam Lok Sabha constituency Diphu (ST),2024,
+ocd-division/country:in/state:as/cd:gauhati,Assam Lok Sabha constituency Gauhati,,
 ocd-division/country:in/state:as/cd:guwahati,Assam Lok Sabha constituency Guwahati,,
 ocd-division/country:in/state:as/cd:jorhat,Assam Lok Sabha constituency Jorhat,,
 ocd-division/country:in/state:as/cd:kaliabor,Assam Lok Sabha constituency Kaliabor,,2024
@@ -40,7 +42,10 @@ ocd-division/country:in/state:as/cd:karimganj,Assam Lok Sabha constituency Karim
 ocd-division/country:in/state:as/cd:kaziranga,Assam Lok Sabha constituency Kaziranga,2024,
 ocd-division/country:in/state:as/cd:kokrajhar,Assam Lok Sabha constituency Kokrajhar (ST),,
 ocd-division/country:in/state:as/cd:lakhimpur,Assam Lok Sabha constituency Lakhimpur,,
+ocd-division/country:in/state:as/cd:mangaldoi,Assam Lok Sabha constituency Mangaldoi,,2024
 ocd-division/country:in/state:as/cd:nagaon,Assam Lok Sabha constituency Nagaon,,
+ocd-division/country:in/state:as/cd:nowgong,Assam Lok Sabha constituency Nowgong,,
+ocd-division/country:in/state:as/cd:silchar,Assam Lok Sabha constituency Silchar,,
 ocd-division/country:in/state:as/cd:silchar_sc,Assam Lok Sabha constituency Silchar (SC),,
 ocd-division/country:in/state:as/cd:sonitpur,Assam Lok Sabha constituency Sonitpur,2024,
 ocd-division/country:in/state:as/cd:tezpur,Assam Lok Sabha constituency Tezpur,,2024
