@@ -1,0 +1,291 @@
+id,name
+ocd-division/country:ke/county:01/ed:baringo_central,Baringo Central
+ocd-division/country:ke/county:01/ed:baringo_north,Baringo North
+ocd-division/country:ke/county:01/ed:baringo_south,Baringo South
+ocd-division/country:ke/county:01/ed:eldama_ravine,Eldama Ravine
+ocd-division/country:ke/county:01/ed:mogotio,Mogotio
+ocd-division/country:ke/county:01/ed:tiaty,Tiaty
+ocd-division/country:ke/county:02/ed:bomet_central,Bomet Central
+ocd-division/country:ke/county:02/ed:bomet_east,Bomet East
+ocd-division/country:ke/county:02/ed:chepalungu,Chepalungu
+ocd-division/country:ke/county:02/ed:konoin,Konoin
+ocd-division/country:ke/county:02/ed:sotik,Sotik
+ocd-division/country:ke/county:03/ed:bumula,Bumula
+ocd-division/country:ke/county:03/ed:kabuchai,Kabuchai
+ocd-division/country:ke/county:03/ed:kanduyi,Kanduyi
+ocd-division/country:ke/county:03/ed:kimilili,Kimilili
+ocd-division/country:ke/county:03/ed:mount_elgon,Mount Elgon
+ocd-division/country:ke/county:03/ed:sirisia,Sirisia
+ocd-division/country:ke/county:03/ed:tongaren,Tongaren
+ocd-division/country:ke/county:03/ed:webuye_east,Webuye East
+ocd-division/country:ke/county:03/ed:webuye_west,Webuye West
+ocd-division/country:ke/county:04/ed:budalangi,Budalangi
+ocd-division/country:ke/county:04/ed:butula,Butula
+ocd-division/country:ke/county:04/ed:funyula,Funyula
+ocd-division/country:ke/county:04/ed:matayos,Matayos
+ocd-division/country:ke/county:04/ed:nambale,Nambale
+ocd-division/country:ke/county:04/ed:teso_north,Teso North
+ocd-division/country:ke/county:04/ed:teso_south,Teso South
+ocd-division/country:ke/county:05/ed:keiyo_north,Keiyo North
+ocd-division/country:ke/county:05/ed:keiyo_south,Keiyo South
+ocd-division/country:ke/county:05/ed:marakwet_east,Marakwet East
+ocd-division/country:ke/county:05/ed:marakwet_west,Marakwet West
+ocd-division/country:ke/county:06/ed:manyatta,Manyatta
+ocd-division/country:ke/county:06/ed:mbeere_north,Mbeere North
+ocd-division/country:ke/county:06/ed:mbeere_south,Mbeere South
+ocd-division/country:ke/county:06/ed:runyenjes,Runyenjes
+ocd-division/country:ke/county:07/ed:balambala,Balambala
+ocd-division/country:ke/county:07/ed:dadaab,Dadaab
+ocd-division/country:ke/county:07/ed:fafi,Fafi
+ocd-division/country:ke/county:07/ed:garissa_tonwship,Garissa Township
+ocd-division/country:ke/county:07/ed:ijara,Ijara
+ocd-division/country:ke/county:07/ed:lagdera,Lagdera
+ocd-division/country:ke/county:08/ed:homa_bay_town,Homa Bay Town
+ocd-division/country:ke/county:08/ed:kabondo_kasipul,Kabondo Kasipul
+ocd-division/country:ke/county:08/ed:karachuonyo,Karachuonyo
+ocd-division/country:ke/county:08/ed:kasipul,Kasipul
+ocd-division/country:ke/county:08/ed:mbita,Mbita
+ocd-division/country:ke/county:08/ed:ndhiwa,Ndhiwa
+ocd-division/country:ke/county:08/ed:rangwe,Rangwe
+ocd-division/country:ke/county:08/ed:suba,Suba
+ocd-division/country:ke/county:09/ed:isiolo_north,Isiolo North
+ocd-division/country:ke/county:09/ed:isiolo_south,Isiolo South
+ocd-division/country:ke/county:10/ed:kajiado_central,Kajiado Central
+ocd-division/country:ke/county:10/ed:kajiado_east,Kajiado East
+ocd-division/country:ke/county:10/ed:kajiado_north,Kajiado North
+ocd-division/country:ke/county:10/ed:kajiado_south,Kajiado South
+ocd-division/country:ke/county:10/ed:kajiado_west,Kajiado West
+ocd-division/country:ke/county:11/ed:butere,Butere
+ocd-division/country:ke/county:11/ed:ikolomani,Ikolomani
+ocd-division/country:ke/county:11/ed:khwisero,Khwisero
+ocd-division/country:ke/county:11/ed:likuyani,Likuyani
+ocd-division/country:ke/county:11/ed:lugari,Lugari
+ocd-division/country:ke/county:11/ed:lurambi,Lurambi
+ocd-division/country:ke/county:11/ed:malava,Malava
+ocd-division/country:ke/county:11/ed:matungu,Matungu
+ocd-division/country:ke/county:11/ed:mumias_east,Mumias East
+ocd-division/country:ke/county:11/ed:mumias_west,Mumias West
+ocd-division/country:ke/county:11/ed:navakholo,Navakholo
+ocd-division/country:ke/county:11/ed:shinyalu,Shinyalu
+ocd-division/country:ke/county:12/ed:ainamoi,Ainamoi
+ocd-division/country:ke/county:12/ed:belgut,Belgut
+ocd-division/country:ke/county:12/ed:bureti,Bureti
+ocd-division/country:ke/county:12/ed:kipkelion_east,Kipkelion East
+ocd-division/country:ke/county:12/ed:kipkelion_west,Kpkelion West
+ocd-division/country:ke/county:12/ed:sigowet_soin,Sigowet-Soin
+ocd-division/country:ke/county:13/ed:gatundu_north,Gatundu North
+ocd-division/country:ke/county:13/ed:gatundu_south,Gatundu South
+ocd-division/country:ke/county:13/ed:githunguri,Githunguri
+ocd-division/country:ke/county:13/ed:juja,Juja
+ocd-division/country:ke/county:13/ed:kabete,Kabete
+ocd-division/country:ke/county:13/ed:kiambaa,Kiambaa
+ocd-division/country:ke/county:13/ed:kiambu,Kiambu
+ocd-division/country:ke/county:13/ed:kikuyu,Kikuyu
+ocd-division/country:ke/county:13/ed:lari,Lari
+ocd-division/country:ke/county:13/ed:limuru,Limuru
+ocd-division/country:ke/county:13/ed:ruiru,Ruiru
+ocd-division/country:ke/county:13/ed:thika_town,Thika Town
+ocd-division/country:ke/county:14/ed:ganze,Ganze
+ocd-division/country:ke/county:14/ed:kaloleni,Kaloleni
+ocd-division/country:ke/county:14/ed:kilifi_north,Kilifi North
+ocd-division/country:ke/county:14/ed:kilifi_south,Kilifi South
+ocd-division/country:ke/county:14/ed:magarini,Magarini
+ocd-division/country:ke/county:14/ed:malindi,Malindi
+ocd-division/country:ke/county:14/ed:rabai,Rabai
+ocd-division/country:ke/county:15/ed:gichugu,Gichugu
+ocd-division/country:ke/county:15/ed:kirinyaga_central,Kirinyaga Central
+ocd-division/country:ke/county:15/ed:mwea,Mwea
+ocd-division/country:ke/county:15/ed:ndia,Ndia
+ocd-division/country:ke/county:16/ed:bobasi,Bobasi
+ocd-division/country:ke/county:16/ed:bomachoge_borabu,Bomachoge Borabu
+ocd-division/country:ke/county:16/ed:bomachoge_chache,Bomachoge Chache
+ocd-division/country:ke/county:16/ed:bonchari,Bonchari
+ocd-division/country:ke/county:16/ed:kitutu_chache_north,Kitutu Chache North
+ocd-division/country:ke/county:16/ed:kitutu_chache_south,Kitutu Chache South
+ocd-division/country:ke/county:16/ed:nyaribari_chache,Nyaribari Chache
+ocd-division/country:ke/county:16/ed:nyaribari_masaba,Nyaribari Masaba
+ocd-division/country:ke/county:16/ed:south_mugirango,South Mugirango
+ocd-division/country:ke/county:17/ed:kisumu_central,Kisumu Central
+ocd-division/country:ke/county:17/ed:kisumu_east,Kisumu East
+ocd-division/country:ke/county:17/ed:kisumu_west,Kisumu West
+ocd-division/country:ke/county:17/ed:muhoroni,Muhoroni
+ocd-division/country:ke/county:17/ed:nyakach,Nyakach
+ocd-division/country:ke/county:17/ed:nyando,Nyando
+ocd-division/country:ke/county:17/ed:seme,Seme
+ocd-division/country:ke/county:18/ed:kitui_central,Kitui Central
+ocd-division/country:ke/county:18/ed:kitui_east,Kitui East
+ocd-division/country:ke/county:18/ed:kitui_rural,Kitui Rural
+ocd-division/country:ke/county:18/ed:kitui_south,Kitui South
+ocd-division/country:ke/county:18/ed:kitui_west,Kitui West
+ocd-division/country:ke/county:18/ed:mwingi_central,Mwingi Central
+ocd-division/country:ke/county:18/ed:mwingi_north,Mwingi North
+ocd-division/country:ke/county:18/ed:mwingi_west,Mwingi West
+ocd-division/country:ke/county:19/ed:kinango,Kinango
+ocd-division/country:ke/county:19/ed:lunga_lunga,Lunga Lunga
+ocd-division/country:ke/county:19/ed:matuga,Matuga
+ocd-division/country:ke/county:19/ed:msambweni,Msambweni
+ocd-division/country:ke/county:20/ed:laikipia_east,Laikipia East
+ocd-division/country:ke/county:20/ed:laikipia_north,Laikipia North
+ocd-division/country:ke/county:20/ed:laikipia_west,Laikipia West
+ocd-division/country:ke/county:21/ed:lamu_east,Lamu East
+ocd-division/country:ke/county:21/ed:lamu_west,Lamu West
+ocd-division/country:ke/county:22/ed:kangundo,Kangundo
+ocd-division/country:ke/county:22/ed:kathiani,Kathiani
+ocd-division/country:ke/county:22/ed:machakos_town,Machakos Town
+ocd-division/country:ke/county:22/ed:masinga,Masinga
+ocd-division/country:ke/county:22/ed:matungulu,Matungulu
+ocd-division/country:ke/county:22/ed:mavoko,Mavoko
+ocd-division/country:ke/county:22/ed:mwala,Mwala
+ocd-division/country:ke/county:22/ed:yatta,Yatta
+ocd-division/country:ke/county:23/ed:kaiti,Kaiti
+ocd-division/country:ke/county:23/ed:kibwezi_east,Kibwezi East
+ocd-division/country:ke/county:23/ed:kibwezi_west,Kibwezi West
+ocd-division/country:ke/county:23/ed:kilome,Kilome
+ocd-division/country:ke/county:23/ed:makueni,Makueni
+ocd-division/country:ke/county:23/ed:mbooni,Mbooni
+ocd-division/country:ke/county:24/ed:banissa,Banissa
+ocd-division/country:ke/county:24/ed:lafey,Lafey
+ocd-division/country:ke/county:24/ed:mandera_east,Mandera East
+ocd-division/country:ke/county:24/ed:mandera_north,Mandera North
+ocd-division/country:ke/county:24/ed:mandera_south,Mandera South
+ocd-division/country:ke/county:24/ed:mandera_west,Mandera West
+ocd-division/country:ke/county:25/ed:laisamis,Laisamis
+ocd-division/country:ke/county:25/ed:moyale,Moyale
+ocd-division/country:ke/county:25/ed:north_horr,North Horr
+ocd-division/country:ke/county:25/ed:saku,Saku
+ocd-division/country:ke/county:26/ed:buuri,Buuri
+ocd-division/country:ke/county:26/ed:central_imenti,Central Imenti
+ocd-division/country:ke/county:26/ed:igembe_central,Igembe Central
+ocd-division/country:ke/county:26/ed:igembe_north,Igembe North
+ocd-division/country:ke/county:26/ed:igembe_south,Igembe South
+ocd-division/country:ke/county:26/ed:north_imenti,North Imenti
+ocd-division/country:ke/county:26/ed:south_imenti,South Imenti
+ocd-division/country:ke/county:26/ed:tigania_east,Tigania East
+ocd-division/country:ke/county:26/ed:tigania_west,Tigania West
+ocd-division/country:ke/county:27/ed:awendo,Awendo
+ocd-division/country:ke/county:27/ed:kuria_east,Kuria East
+ocd-division/country:ke/county:27/ed:kuria_west,Kuria West
+ocd-division/country:ke/county:27/ed:nyatike,Nyatike
+ocd-division/country:ke/county:27/ed:rongo,Rongo
+ocd-division/country:ke/county:27/ed:suna_east,Suna East
+ocd-division/country:ke/county:27/ed:suna_west,Suna West
+ocd-division/country:ke/county:27/ed:uriri,Uriri
+ocd-division/country:ke/county:28/ed:changamwe,Changamwe
+ocd-division/country:ke/county:28/ed:jomvu,Jomvu
+ocd-division/country:ke/county:28/ed:kisauni,Kisauni
+ocd-division/country:ke/county:28/ed:likoni,Likoni
+ocd-division/country:ke/county:28/ed:mvita,Mvita
+ocd-division/country:ke/county:28/ed:nyali,Nyali
+ocd-division/country:ke/county:29/ed:gatanga,Gatanga
+ocd-division/country:ke/county:29/ed:kandara,Kandara
+ocd-division/country:ke/county:29/ed:kangema,Kangema
+ocd-division/country:ke/county:29/ed:kigumo,Kigumo
+ocd-division/country:ke/county:29/ed:kiharu,Kiharu
+ocd-division/country:ke/county:29/ed:maragwa,Maragwa
+ocd-division/country:ke/county:29/ed:mathioya,Mathioya
+ocd-division/country:ke/county:30/ed:dagoretti_north,Dagoretti North
+ocd-division/country:ke/county:30/ed:dagoretti_south,Dagoretti South
+ocd-division/country:ke/county:30/ed:embasaki_central,Embasaki Central
+ocd-division/country:ke/county:30/ed:embasaki_east,Embasaki East
+ocd-division/country:ke/county:30/ed:embasaki_north,Embasaki North
+ocd-division/country:ke/county:30/ed:embasaki_south,Embasaki South
+ocd-division/country:ke/county:30/ed:embasaki_west,Embasaki West
+ocd-division/country:ke/county:30/ed:kamukunji,Kamukunji
+ocd-division/country:ke/county:30/ed:kasarani,Kasarani
+ocd-division/country:ke/county:30/ed:kibra,Kibra
+ocd-division/country:ke/county:30/ed:langata,Lang'ata
+ocd-division/country:ke/county:30/ed:makadara,Makadara
+ocd-division/country:ke/county:30/ed:mathare,Mathare
+ocd-division/country:ke/county:30/ed:roysambu,Roysambu
+ocd-division/country:ke/county:30/ed:ruaraka,Ruaraka
+ocd-division/country:ke/county:30/ed:starehe,Starehe
+ocd-division/country:ke/county:30/ed:westlands,Westlands
+ocd-division/country:ke/county:31/ed:bahati,Bahati
+ocd-division/country:ke/county:31/ed:gilgil,Gilgil
+ocd-division/country:ke/county:31/ed:kuresoi_north,Kuresoi North
+ocd-division/country:ke/county:31/ed:kuresoi_south,Kuresoi South
+ocd-division/country:ke/county:31/ed:molo,Molo
+ocd-division/country:ke/county:31/ed:naivasha,Naivasha
+ocd-division/country:ke/county:31/ed:nakuru_town_east,Nakuru Town East
+ocd-division/country:ke/county:31/ed:nakuru_town_west,Nakuru Town West
+ocd-division/country:ke/county:31/ed:njoro,Njoro
+ocd-division/country:ke/county:31/ed:rongai,Rongai
+ocd-division/country:ke/county:31/ed:subukia,Subukia
+ocd-division/country:ke/county:32/ed:aldai,Aldai
+ocd-division/country:ke/county:32/ed:chesumei,Chesumei
+ocd-division/country:ke/county:32/ed:emgwen,Emgwen
+ocd-division/country:ke/county:32/ed:mosop,Mosop
+ocd-division/country:ke/county:32/ed:nandi_hills,Nandi Hills
+ocd-division/country:ke/county:32/ed:tinderet,Tinderet
+ocd-division/country:ke/county:33/ed:emurua_dikirr,Emurua Dikirr
+ocd-division/country:ke/county:33/ed:kilgoris,Kilgoris
+ocd-division/country:ke/county:33/ed:narok_east,Narok East
+ocd-division/country:ke/county:33/ed:narok_north,Narok North
+ocd-division/country:ke/county:33/ed:narok_south,Narok South
+ocd-division/country:ke/county:33/ed:narok_west,Narok West
+ocd-division/country:ke/county:34/ed:borabu,Borabu
+ocd-division/country:ke/county:34/ed:kitutu_masaba,Kitutu Masaba
+ocd-division/country:ke/county:34/ed:north_mugirango,North Mugirango
+ocd-division/country:ke/county:34/ed:west_mugirango,West Mugirango
+ocd-division/country:ke/county:35/ed:kinangop,Kinangop
+ocd-division/country:ke/county:35/ed:kipipiri,Kipipiri
+ocd-division/country:ke/county:35/ed:ndaragwa,Ndaragwa
+ocd-division/country:ke/county:35/ed:ol_jorok,Ol Jorok
+ocd-division/country:ke/county:35/ed:ol_kalou,Ol Kalou
+ocd-division/country:ke/county:36/ed:kieni,Kieni
+ocd-division/country:ke/county:36/ed:mathira,Mathira
+ocd-division/country:ke/county:36/ed:mukurweini,Mukurweini
+ocd-division/country:ke/county:36/ed:nyeri_town,Nyeri Town
+ocd-division/country:ke/county:36/ed:othaya,Othaya
+ocd-division/country:ke/county:36/ed:tetu,Tetu
+ocd-division/country:ke/county:37/ed:samburu_east,Samburu East
+ocd-division/country:ke/county:37/ed:samburu_north,Samburu North
+ocd-division/country:ke/county:37/ed:samburu_west,Samburu West
+ocd-division/country:ke/county:38/ed:alego_usango,Alego Usonga
+ocd-division/country:ke/county:38/ed:bondo,Bondo
+ocd-division/country:ke/county:38/ed:gem,Gem
+ocd-division/country:ke/county:38/ed:rarieda,Rarieda
+ocd-division/country:ke/county:38/ed:ugenya,Ugenya
+ocd-division/country:ke/county:38/ed:ugunja,Ugunja
+ocd-division/country:ke/county:39/ed:mwatate,Mwatate
+ocd-division/country:ke/county:39/ed:taveta,Taveta
+ocd-division/country:ke/county:39/ed:voi,Voi
+ocd-division/country:ke/county:39/ed:wundanyi,Wundanyi
+ocd-division/country:ke/county:40/ed:bura,Bura
+ocd-division/country:ke/county:40/ed:galole,Galole
+ocd-division/country:ke/county:40/ed:garsen,Garsen
+ocd-division/country:ke/county:41/ed:chuka,Chuka/Igambang'ombe
+ocd-division/country:ke/county:41/ed:maara,Maara
+ocd-division/country:ke/county:41/ed:tharaka,Tharaka
+ocd-division/country:ke/county:42/ed:cherangany,Cherangany
+ocd-division/country:ke/county:42/ed:endebess,Endebess
+ocd-division/country:ke/county:42/ed:kiminini,Kiminini
+ocd-division/country:ke/county:42/ed:kwanza,Kwanza
+ocd-division/country:ke/county:42/ed:saboti,Saboti
+ocd-division/country:ke/county:43/ed:loima,Loima
+ocd-division/country:ke/county:43/ed:turkana_central,Turkana Central
+ocd-division/country:ke/county:43/ed:turkana_east,Turkana East
+ocd-division/country:ke/county:43/ed:turkana_north,Turkana North
+ocd-division/country:ke/county:43/ed:turkana_south,Turkana South
+ocd-division/country:ke/county:43/ed:turkana_west,Turkana West
+ocd-division/country:ke/county:44/ed:ainabkoi,Ainabkoi
+ocd-division/country:ke/county:44/ed:kapseret,Kapseret
+ocd-division/country:ke/county:44/ed:kesses,Kesses
+ocd-division/country:ke/county:44/ed:moiben,Moiben
+ocd-division/country:ke/county:44/ed:soy,Soy
+ocd-division/country:ke/county:44/ed:turbo,Turbo
+ocd-division/country:ke/county:45/ed:emuhaya,Emuhaya
+ocd-division/country:ke/county:45/ed:hamisi,Hamisi
+ocd-division/country:ke/county:45/ed:luanda,Luanda
+ocd-division/country:ke/county:45/ed:sabatia,Sabatia
+ocd-division/country:ke/county:45/ed:vihiga,Vihiga
+ocd-division/country:ke/county:46/ed:eldas,Eldas
+ocd-division/country:ke/county:46/ed:tarbaj,Tarbaj
+ocd-division/country:ke/county:46/ed:wajir_east,Wajir East
+ocd-division/country:ke/county:46/ed:wajir_north,Wajir North
+ocd-division/country:ke/county:46/ed:wajir_south,Wajir South
+ocd-division/country:ke/county:46/ed:wajir_west,Wajir West
+ocd-division/country:ke/county:47/ed:kacheliba,Kacheliba
+ocd-division/country:ke/county:47/ed:kapenguria,Kapenguria
+ocd-division/country:ke/county:47/ed:pokot_south,Pokot South
+ocd-division/country:ke/county:47/ed:sigor,Sigor

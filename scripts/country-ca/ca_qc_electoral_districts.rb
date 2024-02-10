@@ -27,7 +27,7 @@ class QC < Runner
 
   def names_2017
     ShapefileParser.new(
-      "https://www.electionsquebec.qc.ca/documents/zip/circonscriptions_electorales_2017_shapefile.zip",
+      "https://www.dgeq.org/circonscriptions_electorales_2022_shapefile.zip",
       "province:qc/ed:", {
         :id => lambda{|record| "#{record.attributes["CO_CEP"]}-2017"},
         :name => "NM_CEP",

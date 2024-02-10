@@ -1,5 +1,5 @@
 id,name
-ocd-division/country:id/capital_district:jk,Jakarta Raya
+ocd-division/country:id/capital_district:jk,DKI Jakarta
 ocd-division/country:id/province:ac,Aceh
 ocd-division/country:id/province:ba,Bali
 ocd-division/country:id/province:bb,Kepulauan Bangka Belitung
@@ -22,7 +22,11 @@ ocd-division/country:id/province:mu,Maluku Utara
 ocd-division/country:id/province:nb,Nusa Tenggara Barat
 ocd-division/country:id/province:nt,Nusa Tenggara Timur
 ocd-division/country:id/province:pa,Papua
+ocd-division/country:id/province:papua_barat_daya,Papua Barat Daya
 ocd-division/country:id/province:pb,Papua Barat
+ocd-division/country:id/province:pe,Papua Pegunungan
+ocd-division/country:id/province:ps,Papua Selatan
+ocd-division/country:id/province:pt,Papua Tengah
 ocd-division/country:id/province:ri,Riau
 ocd-division/country:id/province:sa,Sulawesi Utara
 ocd-division/country:id/province:sb,Sumatera Barat
@@ -32,4 +36,4 @@ ocd-division/country:id/province:sr,Sulawesi Barat
 ocd-division/country:id/province:ss,Sumatera Selatan
 ocd-division/country:id/province:st,Sulawesi Tengah
 ocd-division/country:id/province:su,Sumatera Utara
-ocd-division/country:id/special_region:yo,Yogyakarta
+ocd-division/country:id/special_region:yo,Daerah Istimewa Yogyakarta

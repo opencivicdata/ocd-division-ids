@@ -1,4 +1,4 @@
-id,name,validFrom,validTo
+id,name,validThrough,validFrom
 ocd-division/country:ph,Philippines,,
 ocd-division/country:ph/cd:abra,Abra's at-large,,
 ocd-division/country:ph/cd:agusan_del_norte_1st,Agusan del Norte's 1st,,
@@ -224,7 +224,7 @@ ocd-division/country:ph/cd:sorsogon_1st,Sorsogon's 1st,,
 ocd-division/country:ph/cd:sorsogon_2nd,Sorsogon's 2nd,,
 ocd-division/country:ph/cd:south_cotabato_1st,South Cotabato's 1st,,
 ocd-division/country:ph/cd:south_cotabato_2nd,South Cotabato's 2nd,,
-ocd-division/country:ph/cd:southern_leyte,Southern Leyte's at-large,,2022-06-30
+ocd-division/country:ph/cd:southern_leyte,Southern Leyte's at-large,2022-06-30,
 ocd-division/country:ph/cd:southern_leyte_1st,Southern Leyte's 1st,,
 ocd-division/country:ph/cd:southern_leyte_2nd,Southern Leyte's 2nd,,
 ocd-division/country:ph/cd:sultan_kudarat_1st,Sultan Kudarat's 1st,,
