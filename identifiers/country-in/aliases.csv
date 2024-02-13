@@ -30,7 +30,6 @@ ocd-division/country:in/state:ar/lok_sabha:arunachal_east,ocd-division/country:i
 ocd-division/country:in/state:ar/lok_sabha:arunachal_west,ocd-division/country:in/state:ar/cd:arunachal_west,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:as/cd:gauhati,ocd-division/country:in/state:as/cd:guwahati,Gauhati renamed to Guwahati
 ocd-division/country:in/state:as/cd:nowgong,ocd-division/country:in/state:as/cd:nagaon,Nowgong renamed to Nagaon
-ocd-division/country:in/state:as/cd:silchar,ocd-division/country:in/state:as/cd:silchar_sc,Silchar renamed to Silchar (SC)
 ocd-division/country:in/state:as/lok_sabha:autonomous_district,ocd-division/country:in/state:as/cd:autonomous_district,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:as/lok_sabha:barpeta,ocd-division/country:in/state:as/cd:barpeta,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:as/lok_sabha:dhubri,ocd-division/country:in/state:as/cd:dhubri,Added for backwards compatibility with lok_sabha identifiers
@@ -43,7 +42,7 @@ ocd-division/country:in/state:as/lok_sabha:kokrajhar,ocd-division/country:in/sta
 ocd-division/country:in/state:as/lok_sabha:lakhimpur,ocd-division/country:in/state:as/cd:lakhimpur,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:as/lok_sabha:mangaldoi,ocd-division/country:in/state:as/cd:mangaldoi,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:as/lok_sabha:nowgong,ocd-division/country:in/state:as/cd:nagaon,Added for backwards compatibility with lok_sabha identifiers
-ocd-division/country:in/state:as/lok_sabha:silchar,ocd-division/country:in/state:as/cd:silchar_sc,Added for backwards compatibility with lok_sabha identifiers
+ocd-division/country:in/state:as/lok_sabha:silchar,ocd-division/country:in/state:as/cd:silchar,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:as/lok_sabha:tezpur,ocd-division/country:in/state:as/cd:tezpur,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:br/lok_sabha:araria,ocd-division/country:in/state:br/cd:araria,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/state:br/lok_sabha:arrah,ocd-division/country:in/state:br/cd:arrah,Added for backwards compatibility with lok_sabha identifiers
