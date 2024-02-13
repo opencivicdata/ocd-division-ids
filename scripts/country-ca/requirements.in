@@ -1,0 +1,6 @@
+openpyxl
+pandas
+
+# Development
+black
+pip-tools
