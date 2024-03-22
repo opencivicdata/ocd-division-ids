@@ -1,5 +1,8 @@
 # OCD Division Identifier
 
-This folder list the following provinces of Belgium: 
-* Provinces of Belgium
- [ref](https://en.wikipedia.org/wiki/Provinces_of_Belgium) as **province**.
+Belgium has 11 electoral districts. 10 of the match the provinces of Belgium. The 11th district is the Brussels-Capital Region.
+
+This folder list the following electoral districts of Belgium: 
+* [Constituencies in Belgium](https://en.wikipedia.org/wiki/Constituencies_of_Belgium)
+  * 11 constituencies in total;
+  * Constituencies listed as **ed**.
