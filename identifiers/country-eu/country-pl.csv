@@ -1,14 +1,14 @@
 id,name
-ocd-division/country:pl/eup:gdańsk,No. 1 - Gdańsk
-ocd-division/country:pl/eup:bydgoszcz,No. 2 - Bydgoszcz
-ocd-division/country:pl/eup:olsztyn,No. 3 - Olsztyn
-ocd-division/country:pl/eup:warszawaw_i,No. 4 - Warszawa
-ocd-division/country:pl/eup:warszawaw_ii,No. 5 - Warszawa
-ocd-division/country:pl/eup:łodz,No. 6 - Łódź
-ocd-division/country:pl/eup:poznań,No. 7 - Poznań
-ocd-division/country:pl/eup:lublin,No. 8 - Lublin
-ocd-division/country:pl/eup:rzeszów,No. 9 - Rzeszów
-ocd-division/country:pl/eup:kraków,No. 10 - Kraków
-ocd-division/country:pl/eup:katowice,No. 11 - Katowice
-ocd-division/country:pl/eup:wrocław,No. 12 - Wrocław
-ocd-division/country:pl/eup:gorzów_wielkopolski,No. 13 - Gorzów Wielkopolski
+ocd-division/country:pl/eup:województwo_pomorskie,Nr 1: województwo pomorskie
+ocd-division/country:pl/eup:województwo_kujawsko-pomorskie,Nr 2: województwo kujawsko-pomorskie
+ocd-division/country:pl/eup:województwo_podlaskie_i_warmińsko-mazurskie,Nr 3: województwo podlaskie i warmińsko-mazurskie
+ocd-division/country:pl/eup:warszawa_z_8_powiatami_województwa_mazowieckiego,Nr 4: Warszawa z 8 powiatami województwa mazowieckiego
+ocd-division/country:pl/eup:4_miasta_na_prawach_powiatu_i_29_powiatów_województwa_mazowieckiego,Nr 5: 4 miasta na prawach powiatu i 29 powiatów województwa mazowieckiego
+ocd-division/country:pl/eup:województwo_łódzkie,Nr 6: województwo łódzkie
+ocd-division/country:pl/eup:województwo_wielkopolskie,Nr 7: województwo wielkopolskie
+ocd-division/country:pl/eup:województwo_lubelskie,Nr 8: województwo lubelskie
+ocd-division/country:pl/eup:województwo_podkarpackie,Nr 9: województwo podkarpackie
+ocd-division/country:pl/eup:województwo_małopolskie_i_świętokrzyskie,Nr 10: województwo małopolskie i świętokrzyskie
+ocd-division/country:pl/eup:województwo_śląskie,Nr 11: województwo śląskie
+ocd-division/country:pl/eup:województwo_dolnośląskie_i_opolskie,Nr 12: województwo dolnośląskie i opolskie
+ocd-division/country:pl/eup:województwo_lubuskie_i_zachodniopomorskie,Nr 13: województwo lubuskie i zachodniopomorskie
