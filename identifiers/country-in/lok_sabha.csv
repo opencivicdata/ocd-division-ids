@@ -207,6 +207,7 @@ ocd-division/country:in/state:kl/cd:thiruvananthapuram,Kerala Lok Sabha constitu
 ocd-division/country:in/state:kl/cd:thrissur,Kerala Lok Sabha constituency Thrissur,,
 ocd-division/country:in/state:kl/cd:vatakara,Kerala Lok Sabha constituency Vatakara,,
 ocd-division/country:in/state:kl/cd:wayanad,Kerala Lok Sabha constituency Wayanad,,
+ocd-division/country:in/territory:la/cd:ladakh,ladakh Lok Sabha constituency ladakh,2019-10-31,
 ocd-division/country:in/state:mh/cd:ahmednagar,Maharashtra Lok Sabha constituency Ahmednagar,,
 ocd-division/country:in/state:mh/cd:akola,Maharashtra Lok Sabha constituency Akola,,
 ocd-division/country:in/state:mh/cd:amravati,Maharashtra Lok Sabha constituency Amravati (SC),,
@@ -556,4 +557,4 @@ ocd-division/country:in/territory:jk/cd:srinagar,Jammu and Kashmir Lok Sabha con
 ocd-division/country:in/territory:jk/cd:udhampur,Jammu and Kashmir Lok Sabha constituency Udhampur,2019-10-31,
 ocd-division/country:in/territory:ld/cd:lakshadweep,Lakshadweep Lok Sabha constituency Lakshadweep (ST),,
 ocd-division/country:in/territory:py/cd:puducherry,Puducherry Lok Sabha constituency Puducherry,,
-ocd-division/country:in/territory:la/cd:ladakh,ladakh Lok Sabha constituency ladakh,2019-10-31,
+
