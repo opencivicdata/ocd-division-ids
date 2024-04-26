@@ -6049,10 +6049,11 @@ ocd-division/country:in/territory:dn,Dadra and Nagar Haveli,,,2020-01-25,
 ocd-division/country:in/territory:dn/cd:dadra_and_nagar_haveli,Dadra and Nagar Haveli Lok Sabha constituency Dadra and Nagar Haveli (ST),,,2020-01-25,
 ocd-division/country:in/territory:dn/lok_sabha:dadra_and_nagar_haveli,Dadra and Nagar Haveli and Daman and Diu Lok Sabha constituency Nagar Haveli,ocd-division/country:in/territory:dh/cd:dadra_and_nagar_haveli,Updated as per Bill No. 366 of 2019 for Merger of Union Territories,,
 ocd-division/country:in/territory:jk,Jammu and Kashmir,,,,2019-10-31
-ocd-division/country:in/territory:jk/cd:anantnag,Jammu and Kashmir Lok Sabha constituency Anantnag,,,,2019-10-31
+ocd-division/country:in/territory:jk/cd:anantnag,Jammu and Kashmir Lok Sabha constituency Anantnag,,,2022-05-04,2019-10-31
+ocd-division/country:in/territory:jk/cd:anantnag-rajouri,Jammu and Kashmir Lok Sabha constituency Anantnag-Rajouri,,,,2022-05-05
 ocd-division/country:in/territory:jk/cd:baramulla,Jammu and Kashmir Lok Sabha constituency Baramulla,,,,2019-10-31
 ocd-division/country:in/territory:jk/cd:jammu,Jammu and Kashmir Lok Sabha constituency Jammu,,,,2019-10-31
-ocd-division/country:in/territory:jk/cd:ladakh,Jammu and Kashmir Lok Sabha constituency Ladakh,,,,2019-10-31
+ocd-division/country:in/territory:jk/cd:ladakh,Jammu and Kashmir Lok Sabha constituency Ladakh,,,2019-10-30,
 ocd-division/country:in/territory:jk/cd:srinagar,Jammu and Kashmir Lok Sabha constituency Srinagar,,,,2019-10-31
 ocd-division/country:in/territory:jk/cd:udhampur,Jammu and Kashmir Lok Sabha constituency Udhampur,,,,2019-10-31
 ocd-division/country:in/territory:jk/district:an,Anantnag,,,,
@@ -6166,6 +6167,7 @@ ocd-division/country:in/territory:jk/district:ud/cd:ramnagar,Ramnagar (SC),,,,
 ocd-division/country:in/territory:jk/district:ud/cd:udhampur_east,Udhampur East,,,,
 ocd-division/country:in/territory:jk/district:ud/cd:udhampur_west,Udhampur West,,,,
 ocd-division/country:in/territory:la,Ladakh,,,,2019-10-31
+ocd-division/country:in/territory:la/cd:ladakh,Ladakh Lok Sabha constituency Ladakh,,,,2019-10-31
 ocd-division/country:in/territory:ld,Lakshadweep,,,,
 ocd-division/country:in/territory:ld/cd:lakshadweep,Lakshadweep Lok Sabha constituency Lakshadweep (ST),,,,
 ocd-division/country:in/territory:ld/lok_sabha:lakshadweep,Lakshadweep Lok Sabha constituency Lakshadweep (ST),ocd-division/country:in/territory:ld/cd:lakshadweep,Added for backwards compatibility with lok_sabha identifiers,,
