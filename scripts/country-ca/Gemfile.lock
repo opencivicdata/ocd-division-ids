@@ -34,11 +34,11 @@ GEM
     net-http-digest_auth (1.4.1)
     net-http-persistent (4.0.2)
       connection_pool (~> 2.2)
-    nokogiri (1.15.6-arm64-darwin)
+    nokogiri (1.13.10-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.15.6-x86_64-darwin)
+    nokogiri (1.13.10-x86_64-darwin)
       racc (~> 1.4)
-    nokogiri (1.15.6-x86_64-linux)
+    nokogiri (1.13.10-x86_64-linux)
       racc (~> 1.4)
     public_suffix (5.0.1)
     racc (1.7.3)
@@ -57,6 +57,7 @@ GEM
 
 PLATFORMS
   universal-darwin-22
+  universal-darwin-23
   x86_64-linux
 
 DEPENDENCIES

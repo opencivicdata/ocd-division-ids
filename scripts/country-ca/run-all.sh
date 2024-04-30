@@ -23,10 +23,12 @@ $DIR/ca_bc_electoral_districts.rb      names > $DIR/../../identifiers/country-ca
 # $DIR/ca_mb_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-mb-electoral_districts.csv
 echo 'ca_nb_electoral_districts'
 $DIR/ca_nb_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-nb-electoral_districts.csv
-echo 'ca_ns_electoral_districts'
-$DIR/ca_ns_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-ns-electoral_districts.csv
 echo 'ca_nl_electoral_districts'
 $DIR/ca_nl_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-nl-electoral_districts.csv
+echo 'ca_ns_electoral_districts'
+$DIR/ca_ns_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-ns-electoral_districts.csv
+echo 'ca_nt_electoral_districts'
+$DIR/ca_nt_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-nt-electoral_districts.csv
 echo 'ca_on_electoral_districts'
 $DIR/ca_on_electoral_districts.rb      names > $DIR/../../identifiers/country-ca/province-on-electoral_districts.csv
 echo 'ca_pe_electoral_districts'
