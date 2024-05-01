@@ -12171,41 +12171,41 @@ ocd-division/country:ca/region:4,Prairies,,,,,,,Prairies,,,,,,,
 ocd-division/country:ca/region:5,British Columbia,,,,,,,Colombie-Britannique,,,,,,,
 ocd-division/country:ca/region:6,Territories,,,,,,,Territoires,,,,,,,
 ocd-division/country:ca/territory:nt,Northwest Territories,,,N.W.T.,T.N.-O.,,,Territoires du Nord-Ouest,,,,,61,,
-ocd-division/country:ca/territory:nt/ed:1,Nunakput,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:10,Thebacha,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:11,Weledeh,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:12,Hay River South,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:13,Hay River North,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:14,Range Lake,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:15,Yellowknife South,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:16,Kam Lake,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:17,Frame Lake,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:18,Yellowknife Centre,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:19,Great Slave,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:2,Inuvik Boot Lake,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:3,Inuvik Twin Lakes,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:4,Mackenzie-Delta,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:5,Sahtu,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:6,Nahendeh,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:7,Monfwi,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:8,Tu Nedhe,,,,,,,,,,,,,,
-ocd-division/country:ca/territory:nt/ed:9,Deh Cho,,,,,,,,,,,,,,
 ocd-division/country:ca/territory:nt/ed:alberta_provisional_district,Alberta (Provisional District),,1908-09-16,,,,,,,,,,,,1886-06-02
 ocd-division/country:ca/territory:nt/ed:assiniboia_east,Assiniboia East,,1908-09-16,,,,,,,,,,,,1886-06-02
 ocd-division/country:ca/territory:nt/ed:assiniboia_west,Assiniboia West,,1908-09-16,,,,,,,,,,,,1886-06-02
 ocd-division/country:ca/territory:nt/ed:calgary,Calgary,,1908-09-16,,,,,,,,,,,,1904-09-20
+ocd-division/country:ca/territory:nt/ed:dehcho,Dehcho,,,,,,,,,,,,,,
 ocd-division/country:ca/territory:nt/ed:edmonton,Edmonton,,1908-09-16,,,,,,,,,,,,1904-09-20
+ocd-division/country:ca/territory:nt/ed:frame_lake,Frame Lake,,,,,,,,,,,,,,
+ocd-division/country:ca/territory:nt/ed:great_slave,Great Slave,,,,,,,,,,,,,,
+ocd-division/country:ca/territory:nt/ed:hay_river_north,Hay River North,,,,,,,,,,,,,,
+ocd-division/country:ca/territory:nt/ed:hay_river_south,Hay River South,,,,,,,,,,,,,,
 ocd-division/country:ca/territory:nt/ed:humboldt,Humboldt,,1908-09-16,,,,,,,,,,,,1904-09-20
+ocd-division/country:ca/territory:nt/ed:inuvik_boot_lake,Inuvik Boot Lake,,,,,,,,,,,,,,
+ocd-division/country:ca/territory:nt/ed:inuvik_twin_lakes,Inuvik Twin Lakes,,,,,,,,,,,,,,
+ocd-division/country:ca/territory:nt/ed:kam_lake,Kam Lake,,,,,,,,,,,,,,
 ocd-division/country:ca/territory:nt/ed:mackenzie,Mackenzie,,1908-09-16,,,,,,,,,,,,1904-09-20
+ocd-division/country:ca/territory:nt/ed:mackenzie_delta,Mackenzie Delta,,,,,,,,,,,,,,
 ocd-division/country:ca/territory:nt/ed:mackenzie_river,Mackenzie River,,1962-04-07,,,,,,,,,,,,1953-06-13
+ocd-division/country:ca/territory:nt/ed:monfwi,Monfwi,,,,,,,,,,,,,,
+ocd-division/country:ca/territory:nt/ed:nahendeh,Nahendeh,,,,,,,,,,,,,,
 ocd-division/country:ca/territory:nt/ed:northwest_territories,Northwest Territories,,1979-03-25,,,,,,,,,,,,1962-03-23
 ocd-division/country:ca/territory:nt/ed:northwest_territories-2015,Northwest Territories,,,,,,,,,,,,,,2015-08-02
+ocd-division/country:ca/territory:nt/ed:nunakput,Nunakput,,,,,,,,,,,,,,
 ocd-division/country:ca/territory:nt/ed:nunatsiaq,Nunatsiaq,,1997-04-26,,,,,,,,,,,,1979-03-26
 ocd-division/country:ca/territory:nt/ed:nunavut,Nunavut,,1999-03-30,,,,,,,,,,,,1997-04-27
 ocd-division/country:ca/territory:nt/ed:qu~appelle,Qu'Appelle,,1908-09-16,,,,,,,,,,,,1904-09-20
+ocd-division/country:ca/territory:nt/ed:range_lake,Range Lake,,,,,,,,,,,,,,
+ocd-division/country:ca/territory:nt/ed:sahtu,Sahtu,,,,,,,,,,,,,,
 ocd-division/country:ca/territory:nt/ed:saskatchewan_provisional_district,Saskatchewan (Provisional District),,1908-09-16,,,,,,,,,,,,1886-06-02
 ocd-division/country:ca/territory:nt/ed:strathcona,Strathcona,,1908-09-16,,,,,,,,,,,,1904-09-20
+ocd-division/country:ca/territory:nt/ed:thebacha,Thebacha,,,,,,,,,,,,,,
+ocd-division/country:ca/territory:nt/ed:tu_nedhé-wiilideh,Tu Nedhé-Wiilideh,,,,,,,,,,,,,,
 ocd-division/country:ca/territory:nt/ed:western_arctic,Western Arctic,,2015-08-01,,,,,,,,,,,,1979-03-26
+ocd-division/country:ca/territory:nt/ed:yellowknife_centre,Yellowknife Centre,,,,,,,,,,,,,,
+ocd-division/country:ca/territory:nt/ed:yellowknife_north,Yellowknife North,,,,,,,,,,,,,,
+ocd-division/country:ca/territory:nt/ed:yellowknife_south,Yellowknife South,,,,,,,,,,,,,,
 ocd-division/country:ca/territory:nt/ed:yukon-mackenzie_river,Yukon—Mackenzie River,,1953-06-12,,,,,,,,,,,,1949-04-30
 ocd-division/country:ca/territory:nu,Nunavut,,,Nvt.,Nt,,,Nunavut,,,,,62,,
 ocd-division/country:ca/territory:nu/ed:aggu,Aggu,,,,,,,,,,,,,,
