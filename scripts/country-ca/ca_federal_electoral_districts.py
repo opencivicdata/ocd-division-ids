@@ -28,20 +28,20 @@ renamed = {
     "Terrebonne": "Terrebonne—Blainville",
 }
 alias_corrections = {
-    "Argenteuil": "ocd-division/country:ca/province:qc/ed:argenteuil-deux-montagnes",
-    "Beauharnois": "ocd-division/country:ca/province:qc/ed:beauharnois-salaberry",
-    "Charlesbourg": "ocd-division/country:ca/province:qc/ed:charlesbourg-haute-saint-charles",
-    "Chicoutimi": "ocd-division/country:ca/province:qc/ed:chicoutimi-le_fjord",
-    "Gloucester—Carleton": "ocd-division/country:ca/province:on/ed:orléans",
-    "Huron": "ocd-division/country:ca/province:on/ed:huron-bruce",
-    "Longueuil": "ocd-division/country:ca/province:qc/ed:longueuil-saint-hubert",
-    "Maisonneuve": "ocd-division/country:ca/province:qc/ed:maisonneuve-rosemont",
-    "Missisquoi": "ocd-division/country:ca/province:qc/ed:brome-missisquoi",
-    "North Okanagan—Shuswap": "ocd-division/country:ca/province:bc/ed:okanagan-shuswap",
-    "Richelieu": "ocd-division/country:ca/province:qc/ed:bas-richelieu-nicolet-bécancour",
-    "Rimouski": "ocd-division/country:ca/province:qc/ed:rimouski-mitis",
-    "Sarnia": "ocd-division/country:ca/province:on/ed:sarnia-lambton",
-    "Témiscouata": "ocd-division/country:ca/province:qc/ed:rivière-du-loup-témiscouata"
+    "Argenteuil": "ocd-division/country:ca/province:qc/fed:argenteuil-deux-montagnes",
+    "Beauharnois": "ocd-division/country:ca/province:qc/fed:beauharnois-salaberry",
+    "Charlesbourg": "ocd-division/country:ca/province:qc/fed:charlesbourg-haute-saint-charles",
+    "Chicoutimi": "ocd-division/country:ca/province:qc/fed:chicoutimi-le_fjord",
+    "Gloucester—Carleton": "ocd-division/country:ca/province:on/fed:orléans",
+    "Huron": "ocd-division/country:ca/province:on/fed:huron-bruce",
+    "Longueuil": "ocd-division/country:ca/province:qc/fed:longueuil-saint-hubert",
+    "Maisonneuve": "ocd-division/country:ca/province:qc/fed:maisonneuve-rosemont",
+    "Missisquoi": "ocd-division/country:ca/province:qc/fed:brome-missisquoi",
+    "North Okanagan—Shuswap": "ocd-division/country:ca/province:bc/fed:okanagan-shuswap",
+    "Richelieu": "ocd-division/country:ca/province:qc/fed:bas-richelieu-nicolet-bécancour",
+    "Rimouski": "ocd-division/country:ca/province:qc/fed:rimouski-mitis",
+    "Sarnia": "ocd-division/country:ca/province:on/fed:sarnia-lambton",
+    "Témiscouata": "ocd-division/country:ca/province:qc/fed:rivière-du-loup-témiscouata"
 }
 
 pd.set_option("display.max_columns", None)
@@ -157,7 +157,7 @@ df["id"] = (
             "Yukon": "yt",
         }
     )
-    + "/ed:"
+    + "/fed:"
     # - Assiniboia West
     # - "Uppercase characters must be converted to lowercase."
     # - "Spaces must be converted to underscores."

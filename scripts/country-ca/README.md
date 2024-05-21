@@ -24,6 +24,7 @@ For specific files:
 
 * `province`: province
 * `territory`: territory
+* `fed`: federal electoral district
 * `ed`: electoral district
 * `cd`: census division
 * `csd`: census subdivision
