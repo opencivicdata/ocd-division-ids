@@ -85,7 +85,7 @@ class MunicipalSubdivision < Runner
 
     type_re = / (borough|district|division|quartier|ward)s(?: \(\d{4}\))?\z/
 
-    puts CSV.generate_line(%w(id name))
+    puts CSV.generate_line(%w(id name validFrom))
     items.sort_by{|geographic_code,boundary_set|
       ocd_type = boundary_set["name"].match(type_re)[1]
       "#{geographic_code}-#{ocd_type}"
@@ -107,7 +107,10 @@ class MunicipalSubdivision < Runner
       }.each{|boundary|
         output("#{geographic_code.size == 4 ? "cd" : "csd"}:#{geographic_code}/#{ocd_type}:",
           identifier(boundary, boundary_set),
-          boundary["name"])
+          boundary["name"],
+          # https://www.edmonton.ca/city_government/city_organization/indigenous-ward-naming-knowledge-committee#accordion-52565
+          geographic_code == "4811061" ? "2020-12-07" : nil,
+        )
       }
     end
   end

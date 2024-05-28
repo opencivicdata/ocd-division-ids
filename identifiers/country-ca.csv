@@ -7412,18 +7412,30 @@ ocd-division/country:ca/csd:4811052/ward:8,Ward 8,,,,,,,,,,,,,,
 ocd-division/country:ca/csd:4811056,Fort Saskatchewan,,,,,CY,N,Fort Saskatchewan,,City of Fort Saskatchewan,,,,,
 ocd-division/country:ca/csd:4811059,Sturgeon County,,,,,MD,Y,Sturgeon County,,Municipality of Sturgeon County,,,,,
 ocd-division/country:ca/csd:4811061,Edmonton,,,,,CY,Y,Edmonton,,City of Edmonton,,,,,
-ocd-division/country:ca/csd:4811061/ward:1,Ward 1,,,,,,,,,,,,,,
-ocd-division/country:ca/csd:4811061/ward:10,Ward 10,,,,,,,,,,,,,,
-ocd-division/country:ca/csd:4811061/ward:11,Ward 11,,,,,,,,,,,,,,
-ocd-division/country:ca/csd:4811061/ward:12,Ward 12,,,,,,,,,,,,,,
-ocd-division/country:ca/csd:4811061/ward:2,Ward 2,,,,,,,,,,,,,,
-ocd-division/country:ca/csd:4811061/ward:3,Ward 3,,,,,,,,,,,,,,
-ocd-division/country:ca/csd:4811061/ward:4,Ward 4,,,,,,,,,,,,,,
-ocd-division/country:ca/csd:4811061/ward:5,Ward 5,,,,,,,,,,,,,,
-ocd-division/country:ca/csd:4811061/ward:6,Ward 6,,,,,,,,,,,,,,
-ocd-division/country:ca/csd:4811061/ward:7,Ward 7,,,,,,,,,,,,,,
-ocd-division/country:ca/csd:4811061/ward:8,Ward 8,,,,,,,,,,,,,,
-ocd-division/country:ca/csd:4811061/ward:9,Ward 9,,,,,,,,,,,,,,
+ocd-division/country:ca/csd:4811061/ward:1,Ward 1,,2020-12-06,,,,,,,,,,,,
+ocd-division/country:ca/csd:4811061/ward:10,Ward 10,,2020-12-06,,,,,,,,,,,,
+ocd-division/country:ca/csd:4811061/ward:11,Ward 11,,2020-12-06,,,,,,,,,,,,
+ocd-division/country:ca/csd:4811061/ward:12,Ward 12,,2020-12-06,,,,,,,,,,,,
+ocd-division/country:ca/csd:4811061/ward:2,Ward 2,,2020-12-06,,,,,,,,,,,,
+ocd-division/country:ca/csd:4811061/ward:3,Ward 3,,2020-12-06,,,,,,,,,,,,
+ocd-division/country:ca/csd:4811061/ward:4,Ward 4,,2020-12-06,,,,,,,,,,,,
+ocd-division/country:ca/csd:4811061/ward:5,Ward 5,,2020-12-06,,,,,,,,,,,,
+ocd-division/country:ca/csd:4811061/ward:6,Ward 6,,2020-12-06,,,,,,,,,,,,
+ocd-division/country:ca/csd:4811061/ward:7,Ward 7,,2020-12-06,,,,,,,,,,,,
+ocd-division/country:ca/csd:4811061/ward:8,Ward 8,,2020-12-06,,,,,,,,,,,,
+ocd-division/country:ca/csd:4811061/ward:9,Ward 9,,2020-12-06,,,,,,,,,,,,
+ocd-division/country:ca/csd:4811061/ward:anirniq,Anirniq,,,,,,,,,,,,,,2020-12-07
+ocd-division/country:ca/csd:4811061/ward:dene,Dene,,,,,,,,,,,,,,2020-12-07
+ocd-division/country:ca/csd:4811061/ward:ipiihkoohkanipiaohtsi,Ipiihkoohkanipiaohtsi,,,,,,,,,,,,,,2020-12-07
+ocd-division/country:ca/csd:4811061/ward:karhiio,Karhiio,,,,,,,,,,,,,,2020-12-07
+ocd-division/country:ca/csd:4811061/ward:metis,Métis,,,,,,,,,,,,,,2020-12-07
+ocd-division/country:ca/csd:4811061/ward:nakota_isga,Nakota Isga,,,,,,,,,,,,,,2020-12-07
+ocd-division/country:ca/csd:4811061/ward:o~day~min,O-day'min,,,,,,,,,,,,,,2020-12-07
+ocd-division/country:ca/csd:4811061/ward:papastew,papastew,,,,,,,,,,,,,,2020-12-07
+ocd-division/country:ca/csd:4811061/ward:pihesiwin,pihêsiwin,,,,,,,,,,,,,,2020-12-07
+ocd-division/country:ca/csd:4811061/ward:sipiwiyiniwak,sipiwiyiniwak,,,,,,,,,,,,,,2020-12-07
+ocd-division/country:ca/csd:4811061/ward:sspomitapi,Sspomitapi,,,,,,,,,,,,,,2020-12-07
+ocd-division/country:ca/csd:4811061/ward:tastawiyiniwak,tastawiyiniwak,,,,,,,,,,,,,,2020-12-07
 ocd-division/country:ca/csd:4811062,St. Albert,,,,,CY,N,St. Albert,,City of St. Albert,,,,,
 ocd-division/country:ca/csd:4811064,Gibbons,,,,,T,N,Gibbons,,Town of Gibbons,,,,,
 ocd-division/country:ca/csd:4811065,Redwater,,,,,T,N,Redwater,,Town of Redwater,,,,,
