@@ -1,5 +1,5 @@
 id,name,sameAs,sameAsNote,validThrough,validFrom
-ocd-division/country:gb/part:eng/region:ukc/ed:berwick-upon-tweed,Berwick-upon-Tweed,ocd-division/country:gb/part:eng/region:ukc/ed:north_northumberland,"2024-07-04: The boundaries of Berwick-upon-Tweed will change, and it will be renamed North Northumberland.",,
+ocd-division/country:gb/part:eng/region:ukc/ed:berwick-upon-tweed,Berwick-upon-Tweed,ocd-division/country:gb/part:eng/region:ukc/ed:north_northumberland,"2024-07-04: The boundaries of Berwick-upon-Tweed will change, and it will be renamed North Northumberland.",,2024-07-04
 ocd-division/country:gb/part:eng/region:ukc/ed:bishop_auckland,Bishop Auckland,,,,
 ocd-division/country:gb/part:eng/region:ukc/ed:blaydon,Blaydon,,,2024-07-04,
 ocd-division/country:gb/part:eng/region:ukc/ed:blaydon_and_consett,Blaydon and Consett,,,,2024-07-04
@@ -27,7 +27,7 @@ ocd-division/country:gb/part:eng/region:ukc/ed:newcastle_upon_tyne_north,Newcast
 ocd-division/country:gb/part:eng/region:ukc/ed:newcastle_upon_tyne_north_2023,Newcastle upon Tyne North,,,,
 ocd-division/country:gb/part:eng/region:ukc/ed:newton_aycliffe_and_spennymoor,Newton Aycliffe and Spennymoor,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:ukc/ed:north_durham,North Durham,,,,
-ocd-division/country:gb/part:eng/region:ukc/ed:north_northumberland,North Northumberland,,,,
+ocd-division/country:gb/part:eng/region:ukc/ed:north_northumberland,North Northumberland,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:ukc/ed:north_tyneside,North Tyneside,,,2024-07-04,
 ocd-division/country:gb/part:eng/region:ukc/ed:north_west_durham,North West Durham,,,2024-07-04,
 ocd-division/country:gb/part:eng/region:ukc/ed:redcar,Redcar,,,,
