@@ -1,5 +1,5 @@
 id,name,sameAs,sameAsNote,validThrough,validFrom
-ocd-division/country:gb/part:eng/region:ukc/ed:berwick-upon-tweed,Berwick-upon-Tweed,ocd-division/country:gb/part:eng/region:ukc/ed:north_northumberland,"2024-07-04: The boundaries of Berwick-upon-Tweed will change, and it will be renamed North Northumberland.",,2024-07-04
+ocd-division/country:gb/part:eng/region:ukc/ed:berwick-upon-tweed,Berwick-upon-Tweed,ocd-division/country:gb/part:eng/region:ukc/ed:north_northumberland,"2024-07-04: The boundaries of Berwick-upon-Tweed will change, and it will be renamed North Northumberland.",,
 ocd-division/country:gb/part:eng/region:ukc/ed:bishop_auckland,Bishop Auckland,,,,
 ocd-division/country:gb/part:eng/region:ukc/ed:blaydon,Blaydon,,,2024-07-03,
 ocd-division/country:gb/part:eng/region:ukc/ed:blaydon_and_consett,Blaydon and Consett,,,,2024-07-04
@@ -23,8 +23,7 @@ ocd-division/country:gb/part:eng/region:ukc/ed:newcastle_upon_tyne_central,Newca
 ocd-division/country:gb/part:eng/region:ukc/ed:newcastle_upon_tyne_central_and_west,Newcastle upon Tyne Central and West,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:ukc/ed:newcastle_upon_tyne_east,Newcastle upon Tyne East,,,2024-07-03,
 ocd-division/country:gb/part:eng/region:ukc/ed:newcastle_upon_tyne_east_and_wallsend,Newcastle upon Tyne East and Wallsend,,,,2024-07-04
-ocd-division/country:gb/part:eng/region:ukc/ed:newcastle_upon_tyne_north,Newcastle upon Tyne North,,,2024-07-03,
-ocd-division/country:gb/part:eng/region:ukc/ed:newcastle_upon_tyne_north_2023,Newcastle upon Tyne North,,,,
+ocd-division/country:gb/part:eng/region:ukc/ed:newcastle_upon_tyne_north,Newcastle upon Tyne North,,,,
 ocd-division/country:gb/part:eng/region:ukc/ed:newton_aycliffe_and_spennymoor,Newton Aycliffe and Spennymoor,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:ukc/ed:north_durham,North Durham,,,,
 ocd-division/country:gb/part:eng/region:ukc/ed:north_northumberland,North Northumberland,,,,2024-07-04
@@ -95,12 +94,12 @@ ocd-division/country:gb/part:eng/region:ukd/ed:makerfield,Makerfield,,,,
 ocd-division/country:gb/part:eng/region:ukd/ed:manchester_central,Manchester Central,,,,
 ocd-division/country:gb/part:eng/region:ukd/ed:manchester_gorton,Manchester Gorton,,,2024-07-03,
 ocd-division/country:gb/part:eng/region:ukd/ed:manchester_rusholme,Manchester Rusholme,,,,2024-07-04
-ocd-division/country:gb/part:eng/region:ukd/ed:manchester_withington,Manchester Withington,,,,
+ocd-division/country:gb/part:eng/region:ukd/ed:manchester_withington,"Manchester, Withington",,,,
 ocd-division/country:gb/part:eng/region:ukd/ed:mid_cheshire,Mid Cheshire,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:ukd/ed:morecambe_and_lunesdale,Morecambe and Lunesdale,,,,
 ocd-division/country:gb/part:eng/region:ukd/ed:oldham_east_and_saddleworth,Oldham East and Saddleworth,,,,
 ocd-division/country:gb/part:eng/region:ukd/ed:oldham_west_and_royton,Oldham West and Royton,ocd-division/country:gb/part:eng/region:ukd/ed:oldham_west_chadderton_and_royton,"2024-07-04: Oldham West and Royton will have unchanged boundaries but be renamed Oldham West, Chadderton and Royton.",,
-ocd-division/country:gb/part:eng/region:ukd/ed:oldham_west_chadderton_and_royton,Oldham West Chadderton and Royton,,,,
+ocd-division/country:gb/part:eng/region:ukd/ed:oldham_west_chadderton_and_royton,"Oldham West, Chadderton and Royton",,,,
 ocd-division/country:gb/part:eng/region:ukd/ed:pendle,Pendle,,,2024-07-03,
 ocd-division/country:gb/part:eng/region:ukd/ed:pendle_and_clitheroe,Pendle and Clitheroe,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:ukd/ed:penrith_and_solway,Penrith and Solway,,,,2024-07-04
@@ -189,7 +188,7 @@ ocd-division/country:gb/part:eng/region:uke/ed:normanton_and_hemsworth,Normanton
 ocd-division/country:gb/part:eng/region:uke/ed:normanton_pontefract_and_castleford,Normanton Pontefract and Castleford,ocd-division/country:gb/part:eng/region:uke/ed:pontefract_castleford_and_knottingley,"2024-07-04: Normanton, Pontefract and Castleford will have its area reduced and be renamed Pontefract, Castleford and Knottingley.",,
 ocd-division/country:gb/part:eng/region:uke/ed:ossett_and_denby_dale,Ossett and Denby Dale,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:uke/ed:penistone_and_stocksbridge,Penistone and Stocksbridge,,,,
-ocd-division/country:gb/part:eng/region:uke/ed:pontefract_castleford_and_knottingley,Pontefract Castleford and Knottingley,,,,
+ocd-division/country:gb/part:eng/region:uke/ed:pontefract_castleford_and_knottingley,"Pontefract, Castleford and Knottingley",,,,
 ocd-division/country:gb/part:eng/region:uke/ed:pudsey,Pudsey,,,2024-07-03,
 ocd-division/country:gb/part:eng/region:uke/ed:rawmarsh_and_conisbrough,Rawmarsh and Conisbrough,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:uke/ed:richmond_and_northallerton,Richmond and Northallerton,,,,
@@ -200,9 +199,9 @@ ocd-division/country:gb/part:eng/region:uke/ed:scarborough_and_whitby,Scarboroug
 ocd-division/country:gb/part:eng/region:uke/ed:scunthorpe,Scunthorpe,,,,
 ocd-division/country:gb/part:eng/region:uke/ed:selby,Selby,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:uke/ed:selby_and_ainsty,Selby and Ainsty,,,2024-07-03,
-ocd-division/country:gb/part:eng/region:uke/ed:sheffield_brightside_and_hillsborough,Sheffield Brightside and Hillsborough,,,,
+ocd-division/country:gb/part:eng/region:uke/ed:sheffield_brightside_and_hillsborough,"Sheffield, Brightside and Hillsborough",,,,
 ocd-division/country:gb/part:eng/region:uke/ed:sheffield_central,Sheffield Central,,,,
-ocd-division/country:gb/part:eng/region:uke/ed:sheffield_hallam,Sheffield Hallam,,,,
+ocd-division/country:gb/part:eng/region:uke/ed:sheffield_hallam,"Sheffield Hallam",,,,
 ocd-division/country:gb/part:eng/region:uke/ed:sheffield_heeley,Sheffield Heeley,,,,
 ocd-division/country:gb/part:eng/region:uke/ed:sheffield_south_east,Sheffield South East,,,,
 ocd-division/country:gb/part:eng/region:uke/ed:shipley,Shipley,,,,
@@ -236,7 +235,7 @@ ocd-division/country:gb/part:eng/region:ukf/ed:gedling,Gedling,,,,
 ocd-division/country:gb/part:eng/region:ukf/ed:grantham_and_bourne,Grantham and Bourne,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:ukf/ed:grantham_and_stamford,Grantham and Stamford,,,2024-07-03,
 ocd-division/country:gb/part:eng/region:ukf/ed:harborough,Harborough,ocd-division/country:gb/part:eng/region:ukf/ed:harborough_oadby_and_wigston,"2024-07-04: The boundaries of Harborough will change, and it will be renamed Harborough, Oadby and Wigston.",,
-ocd-division/country:gb/part:eng/region:ukf/ed:harborough_oadby_and_wigston,Harborough Oadby and Wigston,,,,
+ocd-division/country:gb/part:eng/region:ukf/ed:harborough_oadby_and_wigston,"Harborough, Oadby and Wigston",,,,
 ocd-division/country:gb/part:eng/region:ukf/ed:high_peak,High Peak,,,,
 ocd-division/country:gb/part:eng/region:ukf/ed:hinckley_and_bosworth,Hinckley and Bosworth,,,,
 ocd-division/country:gb/part:eng/region:ukf/ed:kettering,Kettering,,,,
@@ -272,16 +271,16 @@ ocd-division/country:gb/part:eng/region:ukf/ed:south_northamptonshire,South Nort
 ocd-division/country:gb/part:eng/region:ukf/ed:wellingborough,Wellingborough,ocd-division/country:gb/part:eng/region:ukf/ed:wellingborough_and_rushden,"2024-07-04: The boundaries of Wellingborough will change, and it will be renamed Wellingborough and Rushden.",,
 ocd-division/country:gb/part:eng/region:ukf/ed:wellingborough_and_rushden,Wellingborough and Rushden,,,,
 ocd-division/country:gb/part:eng/region:ukg/ed:aldridge-brownhills,Aldridge-Brownhills,,,,
-ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_edgbaston,Birmingham Edgbaston,,,,
-ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_erdington,Birmingham Erdington,,,,
+ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_edgbaston,"Birmingham, Edgbaston",,,,
+ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_erdington,"Birmingham, Erdington",,,,
 ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_hall_green,Birmingham Hall Green,ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_hall_green_and_moseley,"2024-07-04: The boundaries of Birmingham, Hall Green will change, and it will be renamed Birmingham Hall Green and Moseley.",,
 ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_hall_green_and_moseley,Birmingham Hall Green and Moseley,,,,
 ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_hodge_hill,Birmingham Hodge Hill,,,2024-07-03,
 ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_hodge_hill_and_solihull_north,Birmingham Hodge Hill and Solihull North,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_ladywood,Birmingham Ladywood,,,,
-ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_northfield,Birmingham Northfield,,,,
+ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_northfield,"Birmingham, Northfield",,,,
 ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_perry_barr,Birmingham Perry Barr,,,,
-ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_selly_oak,Birmingham Selly Oak,,,,
+ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_selly_oak,"Birmingham, Selly Oak",,,,
 ocd-division/country:gb/part:eng/region:ukg/ed:birmingham_yardley,Birmingham Yardley,,,,
 ocd-division/country:gb/part:eng/region:ukg/ed:bromsgrove,Bromsgrove,,,,
 ocd-division/country:gb/part:eng/region:ukg/ed:burton,Burton,ocd-division/country:gb/part:eng/region:ukg/ed:burton_and_uttoxeter,2024-07-04: Burton will have unchanged boundaries but be renamed Burton and Uttoxeter.,,
@@ -326,7 +325,7 @@ ocd-division/country:gb/part:eng/region:ukg/ed:stoke-on-trent_central,Stoke-on-T
 ocd-division/country:gb/part:eng/region:ukg/ed:stoke-on-trent_north,Stoke-on-Trent North,,,,
 ocd-division/country:gb/part:eng/region:ukg/ed:stoke-on-trent_south,Stoke-on-Trent South,,,,
 ocd-division/country:gb/part:eng/region:ukg/ed:stone,Stone,,,2024-07-03,
-ocd-division/country:gb/part:eng/region:ukg/ed:stone_great_wyrley_and_penkridge,Stone Great Wyrley and Penkridge,,,,2024-07-04
+ocd-division/country:gb/part:eng/region:ukg/ed:stone_great_wyrley_and_penkridge,"Stone, Great Wyrley and Penkridge",,,,2024-07-04
 ocd-division/country:gb/part:eng/region:ukg/ed:stourbridge,Stourbridge,,,,
 ocd-division/country:gb/part:eng/region:ukg/ed:stratford-on-avon,Stratford-on-Avon,,,,
 ocd-division/country:gb/part:eng/region:ukg/ed:sutton_coldfield,Sutton Coldfield,,,,
@@ -452,7 +451,7 @@ ocd-division/country:gb/part:eng/region:uki/ed:dagenham_and_rainham,Dagenham and
 ocd-division/country:gb/part:eng/region:uki/ed:dulwich_and_west_norwood,Dulwich and West Norwood,,,,
 ocd-division/country:gb/part:eng/region:uki/ed:ealing_central_and_acton,Ealing Central and Acton,,,,
 ocd-division/country:gb/part:eng/region:uki/ed:ealing_north,Ealing North,,,,
-ocd-division/country:gb/part:eng/region:uki/ed:ealing_southall,Ealing Southall,,,,
+ocd-division/country:gb/part:eng/region:uki/ed:ealing_southall,"Ealing, Southall",,,,
 ocd-division/country:gb/part:eng/region:uki/ed:east_ham,East Ham,,,,
 ocd-division/country:gb/part:eng/region:uki/ed:edmonton,Edmonton,,,2024-07-03,
 ocd-division/country:gb/part:eng/region:uki/ed:edmonton_and_winchmore_hill,Edmonton and Winchmore Hill,,,,2024-07-04
@@ -500,7 +499,7 @@ ocd-division/country:gb/part:eng/region:uki/ed:putney,Putney,,,,
 ocd-division/country:gb/part:eng/region:uki/ed:queen~s_park_and_maida_vale,Queen's Park and Maida Vale,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:uki/ed:richmond_park,Richmond Park,,,,
 ocd-division/country:gb/part:eng/region:uki/ed:romford,Romford,,,,
-ocd-division/country:gb/part:eng/region:uki/ed:ruislip_northwood_and_pinner,Ruislip Northwood and Pinner,,,,
+ocd-division/country:gb/part:eng/region:uki/ed:ruislip_northwood_and_pinner,"Ruislip, Northwood and Pinner",,,,
 ocd-division/country:gb/part:eng/region:uki/ed:southgate_and_wood_green,Southgate and Wood Green,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:uki/ed:stratford_and_bow,Stratford and Bow,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:uki/ed:streatham,Streatham,,,2024-07-03,
@@ -530,7 +529,7 @@ ocd-division/country:gb/part:eng/region:ukj/ed:bognor_regis_and_littlehampton,Bo
 ocd-division/country:gb/part:eng/region:ukj/ed:bracknell,Bracknell,,,,
 ocd-division/country:gb/part:eng/region:ukj/ed:brighton_kemptown,Brighton Kemptown,ocd-division/country:gb/part:eng/region:ukj/ed:brighton_kemptown_and_peacehaven,"2024-07-04: Brighton, Kemptown will have a small change to its boundaries.",,
 ocd-division/country:gb/part:eng/region:ukj/ed:brighton_kemptown_and_peacehaven,Brighton Kemptown and Peacehaven,,,,
-ocd-division/country:gb/part:eng/region:ukj/ed:brighton_pavilion,Brighton Pavilion,,,,
+ocd-division/country:gb/part:eng/region:ukj/ed:brighton_pavilion,"Brighton, Pavilion",,,,
 ocd-division/country:gb/part:eng/region:ukj/ed:buckingham,Buckingham,,,2024-07-03,
 ocd-division/country:gb/part:eng/region:ukj/ed:buckingham_and_bletchley,Buckingham and Bletchley,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:ukj/ed:canterbury,Canterbury,,,,
@@ -609,8 +608,8 @@ ocd-division/country:gb/part:eng/region:ukj/ed:sittingbourne_and_sheppey,Sitting
 ocd-division/country:gb/part:eng/region:ukj/ed:slough,Slough,,,,
 ocd-division/country:gb/part:eng/region:ukj/ed:south_thanet,South Thanet,,,2024-07-03,
 ocd-division/country:gb/part:eng/region:ukj/ed:south_west_surrey,South West Surrey,,,2024-07-03,
-ocd-division/country:gb/part:eng/region:ukj/ed:southampton_itchen,Southampton Itchen,,,,
-ocd-division/country:gb/part:eng/region:ukj/ed:southampton_test,Southampton Test,,,,
+ocd-division/country:gb/part:eng/region:ukj/ed:southampton_itchen,"Southampton, Itchen",,,,
+ocd-division/country:gb/part:eng/region:ukj/ed:southampton_test,"Southampton, Test",,,,
 ocd-division/country:gb/part:eng/region:ukj/ed:spelthorne,Spelthorne,,,,
 ocd-division/country:gb/part:eng/region:ukj/ed:surrey_heath,Surrey Heath,,,,
 ocd-division/country:gb/part:eng/region:ukj/ed:sussex_weald,Sussex Weald,,,,2024-07-04
@@ -667,8 +666,8 @@ ocd-division/country:gb/part:eng/region:ukk/ed:north_east_somerset_and_hanham,No
 ocd-division/country:gb/part:eng/region:ukk/ed:north_somerset,North Somerset,,,,
 ocd-division/country:gb/part:eng/region:ukk/ed:north_swindon,North Swindon,ocd-division/country:gb/part:eng/region:ukk/ed:swindon_north,2024-07-04: North Swindon will have its area reduced and be renamed Swindon North.,,
 ocd-division/country:gb/part:eng/region:ukk/ed:north_wiltshire,North Wiltshire,,,2024-07-03,
-ocd-division/country:gb/part:eng/region:ukk/ed:plymouth_moor_view,Plymouth Moor View,,,,
-ocd-division/country:gb/part:eng/region:ukk/ed:plymouth_sutton_and_devonport,Plymouth Sutton and Devonport,,,,
+ocd-division/country:gb/part:eng/region:ukk/ed:plymouth_moor_view,"Plymouth, Moor View",,,,
+ocd-division/country:gb/part:eng/region:ukk/ed:plymouth_sutton_and_devonport,"Plymouth, Sutton and Devonport",,,,
 ocd-division/country:gb/part:eng/region:ukk/ed:poole,Poole,,,,
 ocd-division/country:gb/part:eng/region:ukk/ed:salisbury,Salisbury,,,,
 ocd-division/country:gb/part:eng/region:ukk/ed:somerton_and_frome,Somerton and Frome,,,2024-07-03,
@@ -699,7 +698,7 @@ ocd-division/country:gb/part:eng/region:ukk/ed:truro_and_falmouth,Truro and Falm
 ocd-division/country:gb/part:eng/region:ukk/ed:wells,Wells,,,2024-07-03,
 ocd-division/country:gb/part:eng/region:ukk/ed:wells_and_mendip_hills,Wells and Mendip Hills,,,,2024-07-04
 ocd-division/country:gb/part:eng/region:ukk/ed:west_dorset,West Dorset,,,,
-ocd-division/country:gb/part:eng/region:ukk/ed:weston-super-mare,Weston-super-Mare,,,,
+ocd-division/country:gb/part:eng/region:ukk/ed:weston-super-mare,Weston-Super-Mare,,,,
 ocd-division/country:gb/part:eng/region:ukk/ed:yeovil,Yeovil,,,,
 ocd-division/country:gb/part:nir/ed:belfast_east,Belfast East,,,,
 ocd-division/country:gb/part:nir/ed:belfast_north,Belfast North,,,,
@@ -729,12 +728,12 @@ ocd-division/country:gb/part:sct/ed:angus,Angus,,,2024-07-03,
 ocd-division/country:gb/part:sct/ed:angus_and_perthshire_glens,Angus and Perthshire Glens,,,,2024-07-04
 ocd-division/country:gb/part:sct/ed:arbroath_and_broughty_ferry,Arbroath and Broughty Ferry,,,,2024-07-04
 ocd-division/country:gb/part:sct/ed:argyll_and_bute,Argyll and Bute,ocd-division/country:gb/part:sct/ed:argyll_bute_and_south_lochaber,"2024-07-04: Argyll and Bute will have its area enlarged and be renamed Argyll, Bute and South Lochaber.",,
-ocd-division/country:gb/part:sct/ed:argyll_bute_and_south_lochaber,Argyll Bute and South Lochaber,,,,
-ocd-division/country:gb/part:sct/ed:ayr_carrick_and_cumnock,Ayr Carrick and Cumnock,,,,
+ocd-division/country:gb/part:sct/ed:argyll_bute_and_south_lochaber,"Argyll, Bute and South Lochaber",,,,
+ocd-division/country:gb/part:sct/ed:ayr_carrick_and_cumnock,"Ayr, Carrick and Cumnock",,,,
 ocd-division/country:gb/part:sct/ed:banff_and_buchan,Banff and Buchan,,,2024-07-03,
 ocd-division/country:gb/part:sct/ed:bathgate_and_linlithgow,Bathgate and Linlithgow,,,,2024-07-04
-ocd-division/country:gb/part:sct/ed:berwickshire_roxburgh_and_selkirk,Berwickshire Roxburgh and Selkirk,,,,
-ocd-division/country:gb/part:sct/ed:caithness_sutherland_and_easter_ross,Caithness Sutherland and Easter Ross,,,,
+ocd-division/country:gb/part:sct/ed:berwickshire_roxburgh_and_selkirk,"Berwickshire, Roxburgh and Selkirk",,,,
+ocd-division/country:gb/part:sct/ed:caithness_sutherland_and_easter_ross,"Caithness, Sutherland and Easter Ross",,,,
 ocd-division/country:gb/part:sct/ed:central_ayrshire,Central Ayrshire,,,,
 ocd-division/country:gb/part:sct/ed:coatbridge_and_bellshill,Coatbridge and Bellshill,,,,2024-07-04
 ocd-division/country:gb/part:sct/ed:coatbridge_chryston_and_bellshill,Coatbridge Chryston and Bellshill,,,2024-07-03,
@@ -742,7 +741,7 @@ ocd-division/country:gb/part:sct/ed:cowdenbeath_and_kirkcaldy,Cowdenbeath and Ki
 ocd-division/country:gb/part:sct/ed:cumbernauld_and_kirkintilloch,Cumbernauld and Kirkintilloch,,,,2024-07-04
 ocd-division/country:gb/part:sct/ed:cumbernauld_kilsyth_and_kirkintilloch_east,Cumbernauld Kilsyth and Kirkintilloch East,,,2024-07-03,
 ocd-division/country:gb/part:sct/ed:dumfries_and_galloway,Dumfries and Galloway,,,,
-ocd-division/country:gb/part:sct/ed:dumfriesshire_clydesdale_and_tweeddale,Dumfriesshire Clydesdale and Tweeddale,,,,
+ocd-division/country:gb/part:sct/ed:dumfriesshire_clydesdale_and_tweeddale,"Dumfriesshire, Clydesdale and Tweeddale",,,,
 ocd-division/country:gb/part:sct/ed:dundee_central,Dundee Central,,,,2024-07-04
 ocd-division/country:gb/part:sct/ed:dundee_east,Dundee East,,,2024-07-03,
 ocd-division/country:gb/part:sct/ed:dundee_west,Dundee West,,,2024-07-03,
@@ -776,7 +775,7 @@ ocd-division/country:gb/part:sct/ed:hamilton_and_clyde_valley,Hamilton and Clyde
 ocd-division/country:gb/part:sct/ed:inverclyde,Inverclyde,ocd-division/country:gb/part:sct/ed:inverclyde_and_renfrewshire_west,2024-07-04: Inverclyde will have its area enlarged and be renamed Inverclyde and Renfrewshire West,,
 ocd-division/country:gb/part:sct/ed:inverclyde_and_renfrewshire_west,Inverclyde and Renfrewshire West,,,,
 ocd-division/country:gb/part:sct/ed:inverness_nairn_badenoch_and_strathspey,Inverness Nairn Badenoch and Strathspey,,,2024-07-03,
-ocd-division/country:gb/part:sct/ed:inverness_skye_and_west_ross-shire,Inverness Skye and West Ross-shire,,,,2024-07-04
+ocd-division/country:gb/part:sct/ed:inverness_skye_and_west_ross-shire,"Inverness, Skye and West Ross-shire",,,,2024-07-04
 ocd-division/country:gb/part:sct/ed:kilmarnock_and_loudoun,Kilmarnock and Loudoun,,,,
 ocd-division/country:gb/part:sct/ed:kirkcaldy_and_cowdenbeath,Kirkcaldy and Cowdenbeath,,,2024-07-03,
 ocd-division/country:gb/part:sct/ed:lanark_and_hamilton_east,Lanark and Hamilton East,,,2024-07-03,
@@ -786,9 +785,9 @@ ocd-division/country:gb/part:sct/ed:lothian_east,Lothian East,,,,
 ocd-division/country:gb/part:sct/ed:mid_dunbartonshire,Mid Dunbartonshire,,,,
 ocd-division/country:gb/part:sct/ed:midlothian,Midlothian,,,,
 ocd-division/country:gb/part:sct/ed:moray,Moray,,,2024-07-03,
-ocd-division/country:gb/part:sct/ed:moray_west_nairn_and_strathspey,Moray West Nairn and Strathspey,,,,2024-07-04
+ocd-division/country:gb/part:sct/ed:moray_west_nairn_and_strathspey,"Moray West, Nairn and Strathspey",,,,2024-07-04
 ocd-division/country:gb/part:sct/ed:motherwell_and_wishaw,Motherwell and Wishaw,,,2024-07-03,
-ocd-division/country:gb/part:sct/ed:motherwell_wishaw_and_carluke,Motherwell Wishaw and Carluke,,,,2024-07-04
+ocd-division/country:gb/part:sct/ed:motherwell_wishaw_and_carluke,"Motherwell, Wishaw and Carluke",,,,2024-07-04
 ocd-division/country:gb/part:sct/ed:na_h-eileanan_an_iar,Na h-Eileanan an Iar,,,,
 ocd-division/country:gb/part:sct/ed:north_ayrshire_and_arran,North Ayrshire and Arran,,,,
 ocd-division/country:gb/part:sct/ed:north_east_fife,North East Fife,,,,
@@ -814,7 +813,7 @@ ocd-division/country:gb/part:wls/ed:bangor_aberconwy,Bangor Aberconwy,,,,
 ocd-division/country:gb/part:wls/ed:blaenau_gwent,Blaenau Gwent,ocd-division/country:gb/part:wls/ed:blaenau_gwent_and_rhymney,2024-07-04: Blaenau Gwent will have its area enlarged and be renamed Blaenau Gwent and Rhymney,,
 ocd-division/country:gb/part:wls/ed:blaenau_gwent_and_rhymney,Blaenau Gwent and Rhymney,,,,
 ocd-division/country:gb/part:wls/ed:brecon_and_radnorshire,Brecon and Radnorshire,ocd-division/country:gb/part:wls/ed:brecon_radnor_and_cwm_tawe,"2024-07-04: Brecon and Radnorshire will have its area enlarged and renamed Brecon, Radnor and Cwm Tawe.",,
-ocd-division/country:gb/part:wls/ed:brecon_radnor_and_cwm_tawe,Brecon Radnor and Cwm Tawe,,,,
+ocd-division/country:gb/part:wls/ed:brecon_radnor_and_cwm_tawe,"Brecon, Radnor and Cwm Tawe",,,,
 ocd-division/country:gb/part:wls/ed:bridgend,Bridgend,,,,
 ocd-division/country:gb/part:wls/ed:caerfyrddin,Caerfyrddin,,,,2024-07-04
 ocd-division/country:gb/part:wls/ed:caerphilly,Caerphilly,,,,
@@ -842,7 +841,7 @@ ocd-division/country:gb/part:wls/ed:merthyr_tydfil_and_rhymney,Merthyr Tydfil an
 ocd-division/country:gb/part:wls/ed:mid_and_south_pembrokeshire,Mid and South Pembrokeshire,,,,2024-07-04
 ocd-division/country:gb/part:wls/ed:monmouth,Monmouth,ocd-division/country:gb/part:wls/ed:monmouthshire,"2024-07-04: The boundaries of Monmouth will change, and it will be renamed Monmouthshire.",,
 ocd-division/country:gb/part:wls/ed:monmouthshire,Monmouthshire,,,,
-ocd-division/country:gb/part:wls/ed:montgomeryshire,Montgomeryshire,,,,
+ocd-division/country:gb/part:wls/ed:montgomeryshire,Montgomeryshire,ocd-division/country:gb/part:wls/ed:montgomeryshire_and_glyndwr,"2024-07-04: Montgomeryshire will have its area enlarged and be renamed Montgomeryshire and Glyndwr",,
 ocd-division/country:gb/part:wls/ed:montgomeryshire_and_glyndwr,Montgomeryshire and Glyndwr,,,,2024-07-04
 ocd-division/country:gb/part:wls/ed:neath,Neath,,,2024-07-03,
 ocd-division/country:gb/part:wls/ed:neath_and_swansea_east,Neath and Swansea East,,,,2024-07-04
