@@ -1,0 +1,125 @@
+id,name
+ocd-division/country:it/senato:abruzzo,Circoscrizione Abruzzo
+ocd-division/country:it/senato:basilicata,Circoscrizione Basilicata
+ocd-division/country:it/senato:calabria,Circoscrizione Calabria
+ocd-division/country:it/senato:campania,Circoscrizione Campania
+ocd-division/country:it/senato:emilia-romagna,Circoscrizione Emilia-Romagna
+ocd-division/country:it/senato:friuli-venezia_giulia,Circoscrizione Friuli-Venezia Giulia
+ocd-division/country:it/senato:lazio,Circoscrizione Lazio
+ocd-division/country:it/senato:liguria,Circoscrizione Liguria
+ocd-division/country:it/senato:lombardia,Circoscrizione Lombardia
+ocd-division/country:it/senato:marche,Circoscrizione Marche
+ocd-division/country:it/senato:molise,Circoscrizione Molise
+ocd-division/country:it/senato:piemonte,Circoscrizione Piemonte
+ocd-division/country:it/senato:puglia,Circoscrizione Puglia
+ocd-division/country:it/senato:sardegna,Circoscrizione Sardegna
+ocd-division/country:it/senato:sicilia,Circoscrizione Sicilia
+ocd-division/country:it/senato:toscana,Circoscrizione Toscana
+ocd-division/country:it/senato:trentino-alto_adige,Circoscrizione Trentino-Alto Adige
+ocd-division/country:it/senato:umbria,Circoscrizione Umbria
+ocd-division/country:it/senato:valle_d_aosta,Circoscrizione Valle D'Aosta
+ocd-division/country:it/senato:veneto,Circoscrizione Veneto
+ocd-division/country:it/senato:diaspora-_europa,Abroad - Europe
+ocd-division/country:it/senato:diaspora-_america_settentrionale_e_centrale,Abroad - North and Central America
+ocd-division/country:it/senato:diaspora-_america_meridionale,Abroad - South America
+ocd-division/country:it/senato:diaspora-_africa_asia_oceania_e_antartide,Abroad - Africa Asia Oceania and Antarctica
+ocd-division/country:it/senato:abruzzo/cp:1,Collegio plurinominale Abruzzo - 01
+ocd-division/country:it/senato:basilicata/cp:1,Collegio plurinominale Basilicata - 01
+ocd-division/country:it/senato:calabria/cp:1,Collegio plurinominale Calabria - 01
+ocd-division/country:it/senato:campania/cp:1,Collegio plurinominale Campania - 01
+ocd-division/country:it/senato:campania/cp:2,Collegio plurinominale Campania - 02
+ocd-division/country:it/senato:emilia-romagna/cp:1,Collegio plurinominale Emilia-Romagna - 01
+ocd-division/country:it/senato:emilia-romagna/cp:2,Collegio plurinominale Emilia-Romagna - 02
+ocd-division/country:it/senato:friuli-venezia_giulia/cp:1,Collegio plurinominale Friuli-Venezia Giulia - 01
+ocd-division/country:it/senato:lazio/cp:1,Collegio plurinominale Lazio - 01
+ocd-division/country:it/senato:lazio/cp:2,Collegio plurinominale Lazio - 02
+ocd-division/country:it/senato:liguria/cp:1,Collegio plurinominale Liguria - 01
+ocd-division/country:it/senato:lombardia/cp:1,Collegio plurinominale Lombardia - 01
+ocd-division/country:it/senato:lombardia/cp:2,Collegio plurinominale Lombardia - 02
+ocd-division/country:it/senato:lombardia/cp:3,Collegio plurinominale Lombardia - 03
+ocd-division/country:it/senato:marche/cp:1,Collegio plurinominale Marche - 01
+ocd-division/country:it/senato:molise/cp:1,Collegio plurinominale Molise - 01
+ocd-division/country:it/senato:piemonte/cp:1,Collegio plurinominale Piemonte - 01
+ocd-division/country:it/senato:piemonte/cp:2,Collegio plurinominale Piemonte - 02
+ocd-division/country:it/senato:puglia/cp:1,Collegio plurinominale Puglia - 01
+ocd-division/country:it/senato:sardegna/cp:1,Collegio plurinominale Sardegna - 01
+ocd-division/country:it/senato:sicilia/cp:1,Collegio plurinominale Sicilia - 01
+ocd-division/country:it/senato:sicilia/cp:2,Collegio plurinominale Sicilia - 02
+ocd-division/country:it/senato:toscana/cp:1,Collegio plurinominale Toscana - 01
+ocd-division/country:it/senato:umbria/cp:1,Collegio plurinominale Umbria - 01
+ocd-division/country:it/senato:veneto/cp:1,Collegio plurinominale Veneto - 01
+ocd-division/country:it/senato:veneto/cp:2,Collegio plurinominale Veneto - 02
+ocd-division/country:it/senato:abruzzo/cu:1,Collegio uninominale Abruzzo - 01
+ocd-division/country:it/senato:basilicata/cu:1,Collegio uninominale Basilicata - 01
+ocd-division/country:it/senato:calabria/cu:1,Collegio uninominale Calabria - 01
+ocd-division/country:it/senato:calabria/cu:2,Collegio uninominale Calabria - 02
+ocd-division/country:it/senato:campania/cu:1,Collegio uninominale Campania - 01
+ocd-division/country:it/senato:campania/cu:2,Collegio uninominale Campania - 02
+ocd-division/country:it/senato:campania/cu:3,Collegio uninominale Campania - 03
+ocd-division/country:it/senato:campania/cu:4,Collegio uninominale Campania - 04
+ocd-division/country:it/senato:campania/cu:5,Collegio uninominale Campania - 05
+ocd-division/country:it/senato:campania/cu:6,Collegio uninominale Campania - 06
+ocd-division/country:it/senato:campania/cu:7,Collegio uninominale Campania - 07
+ocd-division/country:it/senato:emilia-romagna/cu:1,Collegio uninominale Emilia-Romagna - 01
+ocd-division/country:it/senato:emilia-romagna/cu:2,Collegio uninominale Emilia-Romagna - 02
+ocd-division/country:it/senato:emilia-romagna/cu:3,Collegio uninominale Emilia-Romagna - 03
+ocd-division/country:it/senato:emilia-romagna/cu:4,Collegio uninominale Emilia-Romagna - 04
+ocd-division/country:it/senato:emilia-romagna/cu:5,Collegio uninominale Emilia-Romagna - 05
+ocd-division/country:it/senato:friuli-venezia_giulia/cu:1,Collegio uninominale Friuli-Venezia Giulia - 01
+ocd-division/country:it/senato:lazio/cu:1,Collegio uninominale Lazio - 01
+ocd-division/country:it/senato:lazio/cu:2,Collegio uninominale Lazio - 02
+ocd-division/country:it/senato:lazio/cu:3,Collegio uninominale Lazio - 03
+ocd-division/country:it/senato:lazio/cu:4,Collegio uninominale Lazio - 04
+ocd-division/country:it/senato:lazio/cu:5,Collegio uninominale Lazio - 05
+ocd-division/country:it/senato:lazio/cu:6,Collegio uninominale Lazio - 06
+ocd-division/country:it/senato:liguria/cu:1,Collegio uninominale Liguria - 01
+ocd-division/country:it/senato:liguria/cu:2,Collegio uninominale Liguria - 02
+ocd-division/country:it/senato:lombardia/cu:1,Collegio uninominale Lombardia - 01
+ocd-division/country:it/senato:lombardia/cu:2,Collegio uninominale Lombardia - 02
+ocd-division/country:it/senato:lombardia/cu:3,Collegio uninominale Lombardia - 03
+ocd-division/country:it/senato:lombardia/cu:4,Collegio uninominale Lombardia - 04
+ocd-division/country:it/senato:lombardia/cu:5,Collegio uninominale Lombardia - 05
+ocd-division/country:it/senato:lombardia/cu:6,Collegio uninominale Lombardia - 06
+ocd-division/country:it/senato:lombardia/cu:7,Collegio uninominale Lombardia - 07
+ocd-division/country:it/senato:lombardia/cu:8,Collegio uninominale Lombardia - 08
+ocd-division/country:it/senato:lombardia/cu:9,Collegio uninominale Lombardia - 09
+ocd-division/country:it/senato:lombardia/cu:10,Collegio uninominale Lombardia - 10
+ocd-division/country:it/senato:lombardia/cu:11,Collegio uninominale Lombardia - 11
+ocd-division/country:it/senato:marche/cu:1,Collegio uninominale Marche - 01
+ocd-division/country:it/senato:marche/cu:2,Collegio uninominale Marche - 02
+ocd-division/country:it/senato:molise/cu:1,Collegio uninominale Molise - 01
+ocd-division/country:it/senato:piemonte/cu:1,Collegio uninominale Piemonte - 01
+ocd-division/country:it/senato:piemonte/cu:2,Collegio uninominale Piemonte - 02
+ocd-division/country:it/senato:piemonte/cu:3,Collegio uninominale Piemonte - 03
+ocd-division/country:it/senato:piemonte/cu:4,Collegio uninominale Piemonte - 04
+ocd-division/country:it/senato:piemonte/cu:5,Collegio uninominale Piemonte - 05
+ocd-division/country:it/senato:puglia/cu:1,Collegio uninominale Puglia - 01
+ocd-division/country:it/senato:puglia/cu:2,Collegio uninominale Puglia - 02
+ocd-division/country:it/senato:puglia/cu:3,Collegio uninominale Puglia - 03
+ocd-division/country:it/senato:puglia/cu:4,Collegio uninominale Puglia - 04
+ocd-division/country:it/senato:puglia/cu:5,Collegio uninominale Puglia - 05
+ocd-division/country:it/senato:sardegna/cu:1,Collegio uninominale Sardegna - 01
+ocd-division/country:it/senato:sardegna/cu:2,Collegio uninominale Sardegna - 02
+ocd-division/country:it/senato:sicilia/cu:1,Collegio uninominale Sicilia - 01
+ocd-division/country:it/senato:sicilia/cu:2,Collegio uninominale Sicilia - 02
+ocd-division/country:it/senato:sicilia/cu:3,Collegio uninominale Sicilia - 03
+ocd-division/country:it/senato:sicilia/cu:4,Collegio uninominale Sicilia - 04
+ocd-division/country:it/senato:sicilia/cu:5,Collegio uninominale Sicilia - 05
+ocd-division/country:it/senato:sicilia/cu:6,Collegio uninominale Sicilia - 06
+ocd-division/country:it/senato:toscana/cu:1,Collegio uninominale Toscana - 01
+ocd-division/country:it/senato:toscana/cu:2,Collegio uninominale Toscana - 02
+ocd-division/country:it/senato:toscana/cu:3,Collegio uninominale Toscana - 03
+ocd-division/country:it/senato:toscana/cu:4,Collegio uninominale Toscana - 04
+ocd-division/country:it/senato:trentino-alto_adige/cu:1,Collegio uninominale Trentino-Alto Adige - 01
+ocd-division/country:it/senato:trentino-alto_adige/cu:2,Collegio uninominale Trentino-Alto Adige - 02
+ocd-division/country:it/senato:trentino-alto_adige/cu:3,Collegio uninominale Trentino-Alto Adige - 03
+ocd-division/country:it/senato:trentino-alto_adige/cu:4,Collegio uninominale Trentino-Alto Adige - 04
+ocd-division/country:it/senato:trentino-alto_adige/cu:5,Collegio uninominale Trentino-Alto Adige - 05
+ocd-division/country:it/senato:trentino-alto_adige/cu:6,Collegio uninominale Trentino-Alto Adige - 06
+ocd-division/country:it/senato:umbria/cu:1,Collegio uninominale Umbria - 01
+ocd-division/country:it/senato:valle_d_aosta/cu:1,Collegio uninominale Valle D'Aosta - 01
+ocd-division/country:it/senato:veneto/cu:1,Collegio uninominale Veneto - 01
+ocd-division/country:it/senato:veneto/cu:2,Collegio uninominale Veneto - 02
+ocd-division/country:it/senato:veneto/cu:3,Collegio uninominale Veneto - 03
+ocd-division/country:it/senato:veneto/cu:4,Collegio uninominale Veneto - 04
+ocd-division/country:it/senato:veneto/cu:5,Collegio uninominale Veneto - 05
