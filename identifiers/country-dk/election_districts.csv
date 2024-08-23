@@ -1,0 +1,106 @@
+id,name,validFrom
+ocd-division/country:dk/election_province:hovedstaden,A. Hovedstaden,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark,B. Sjælland-Syddanmark,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland,C. Midtjylland-Nordjylland,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_storkreds,1. Københavns Storkreds,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_omegns_storkreds,2. Københavns Omegns Storkreds,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:nordsjaellands_storkreds,3. Nordsjællands storkreds,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:bornholms_storkreds,4. Bornholms Storkreds,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sjaellands_storkreds,5. Sjællands Storkreds,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:fyns_storkreds,6. Fyns Storkreds,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds,7. Sydjyllands Storkreds,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:oestjyllands_storkreds,8. Østjyllands Storkreds,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:vestjyllands_storkreds,9. Vestjyllands Storkreds,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:nordjyllands_storkreds,10. Nordjyllands Storkreds,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_storkreds/nomination_district:oesterbrokredsen,1. Østerbrokredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_storkreds/nomination_district:sundbyvesterkredsen,2. Sundbyvesterkredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_storkreds/nomination_district:indre_bykredsen,3. Indre Bykredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_storkreds/nomination_district:sundbyoesterkredsen,4. Sundbyøsterkredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_storkreds/nomination_district:noerrebrokredsen,5. Nørrebrokredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_storkreds/nomination_district:bispebjergkredsen,6. Bispebjergkredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_storkreds/nomination_district:broenshoejkredsen,7. Brønshøjkredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_storkreds/nomination_district:valbykredsen,8. Valbykredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_storkreds/nomination_district:vesterbrokredsen,9. Vesterbrokredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_storkreds/nomination_district:falkonerkredsen,10. Falkonerkredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_storkreds/nomination_district:slotskredsen,11. Slotskredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_storkreds/nomination_district:taarnbykredsen,12. Tårnbykredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_omegns_storkreds/nomination_district:gentoftekredsen,1. Gentoftekredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_omegns_storkreds/nomination_district:lyngbykredsen,2. Lyngbykredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_omegns_storkreds/nomination_district:gladsaxekredsen,3. Gladsaxekredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_omegns_storkreds/nomination_district:roedovrekredsen,4. Rødovrekredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_omegns_storkreds/nomination_district:hvidovrekredsen,5. Hvidovrekredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_omegns_storkreds/nomination_district:broendbykredsen,6. Brøndbykredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_omegns_storkreds/nomination_district:taastrupkredsen,7. Taastrupkredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:koebenhavns_omegns_storkreds/nomination_district:ballerupkredsen,8. Ballerupkredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:nordsjaellands_storkreds/nomination_district:helsingoerkredsen,1. Helsingørkredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:nordsjaellands_storkreds/nomination_district:fredensborgkredsen,2. Fredensborgkredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:nordsjaellands_storkreds/nomination_district:hilleroedkredsen,3. Hillerødkredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:nordsjaellands_storkreds/nomination_district:frederikssundkredsen,4. Frederikssundkredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:nordsjaellands_storkreds/nomination_district:egedalkredsen,5. Egedalkredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:nordsjaellands_storkreds/nomination_district:rudersdalkredsen,6. Rudersdalkredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:bornholms_storkreds/nomination_district:roennekredsen,1. Rønnekredsen,2007-01-01
+ocd-division/country:dk/election_province:hovedstaden/ed:bornholms_storkreds/nomination_district:aakirkebykredsen,2. Aakirkebykredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sjaellands_storkreds/nomination_district:lollandkredsen,1. Lollandkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sjaellands_storkreds/nomination_district:guldborgsundkredsen,2. Guldborgsundkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sjaellands_storkreds/nomination_district:vordingborgkredsen,3. Vordingborgkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sjaellands_storkreds/nomination_district:naestvedkredsen,4. Næstvedkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sjaellands_storkreds/nomination_district:faxekredsen,5. Faxekredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sjaellands_storkreds/nomination_district:koegekredsen,6. Køgekredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sjaellands_storkreds/nomination_district:grevekredsen,7. Grevekredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sjaellands_storkreds/nomination_district:roskildekredsen,8. Roskildekredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sjaellands_storkreds/nomination_district:holbaekkredsen,9. Holbækkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sjaellands_storkreds/nomination_district:kalundborgkredsen,10. Kalundborgkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sjaellands_storkreds/nomination_district:ringstedkredsen,11. Ringstedkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sjaellands_storkreds/nomination_district:slagelsekredsen,12. Slagelsekredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:fyns_storkreds/nomination_district:odense_oestkredsen,1. Odense Østkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:fyns_storkreds/nomination_district:odense_vestkredsen,2. Odense Vestkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:fyns_storkreds/nomination_district:odense_sydkredsen,3. Odense Sydkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:fyns_storkreds/nomination_district:assenskredsen,4. Assenskredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:fyns_storkreds/nomination_district:middelfartkredsen,5. Middelfartkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:fyns_storkreds/nomination_district:nyborgkredsen,6. Nyborgkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:fyns_storkreds/nomination_district:svendborgkredsen,7. Svendborgkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:fyns_storkreds/nomination_district:faaborgkredsen,8. Faaborgkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds/nomination_district:soenderborgkredsen,1. Sønderborgkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds/nomination_district:aabenraakredsen,2. Aabenraakredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds/nomination_district:toenderkredsen,3. Tønderkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds/nomination_district:esbjerg_bykredsen,4. Esbjerg Bykredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds/nomination_district:esbjerg_omegnskredsen,5. Esbjerg Omegnskredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds/nomination_district:vardekredsen,6. Vardekredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds/nomination_district:vejenkredsen,7. Vejenkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds/nomination_district:vejle_nordkredsen,8. Vejle Nordkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds/nomination_district:vejle_sydkredsen,9. Vejle Sydkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds/nomination_district:fredericiakredsen,10. Fredericiakredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds/nomination_district:kolding_nordkredsen,11. Kolding Nordkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds/nomination_district:kolding_sydkredsen,12. Kolding Sydkredsen,2007-01-01
+ocd-division/country:dk/election_province:sjaelland-syddanmark/ed:sydjyllands_storkreds/nomination_district:haderslevkredsen,13. Haderslevkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:oestjyllands_storkreds/nomination_district:aarhus_sydkredsen,1. Aarhus Sydkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:oestjyllands_storkreds/nomination_district:aarhus_vestkredsen,2. Aarhus Vestkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:oestjyllands_storkreds/nomination_district:aarhus_nordkredsen,3. Aarhus Nordkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:oestjyllands_storkreds/nomination_district:aarhus_oestkredsen,4. Aarhus Østkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:oestjyllands_storkreds/nomination_district:djurskredsen,5. Djurskredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:oestjyllands_storkreds/nomination_district:randers_nordkredsen,6. Randers Nordkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:oestjyllands_storkreds/nomination_district:randers_sydkredsen,7. Randers Sydkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:oestjyllands_storkreds/nomination_district:favrskovkredsen,8. Favrskovkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:oestjyllands_storkreds/nomination_district:skanderborgkredsen,9. Skanderborgkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:oestjyllands_storkreds/nomination_district:horsenskredsen,10. Horsenskredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:oestjyllands_storkreds/nomination_district:hedenstedkredsen,11. Hedenstedkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:vestjyllands_storkreds/nomination_district:struerkredsen,1. Struerkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:vestjyllands_storkreds/nomination_district:skivekredsen,2. Skivekredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:vestjyllands_storkreds/nomination_district:viborg_vestkredsen,3. Viborg Vestkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:vestjyllands_storkreds/nomination_district:viborg_oestkredsen,4. Viborg Østkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:vestjyllands_storkreds/nomination_district:silkeborg_nordkredsen,5. Silkeborg Nordkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:vestjyllands_storkreds/nomination_district:silkeborg_sydkredsen,6. Silkeborg Sydkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:vestjyllands_storkreds/nomination_district:ikastkredsen,7. Ikastkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:vestjyllands_storkreds/nomination_district:herning_sydkredsen,8. Herning Sydkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:vestjyllands_storkreds/nomination_district:herning_nordkredsen,9. Herning Nordkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:vestjyllands_storkreds/nomination_district:holstebrokredsen,10. Holstebrokredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:vestjyllands_storkreds/nomination_district:ringkoebingkredsen,11. Ringkøbingkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:nordjyllands_storkreds/nomination_district:frederikshavnkredsen,1. Frederikshavnkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:nordjyllands_storkreds/nomination_district:hjoerringkredsen,2. Hjørringkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:nordjyllands_storkreds/nomination_district:broenderslevkredsen,3. Brønderslevkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:nordjyllands_storkreds/nomination_district:thistedkredsen,4. Thistedkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:nordjyllands_storkreds/nomination_district:himmerlandkredsen,5. Himmerlandkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:nordjyllands_storkreds/nomination_district:mariagerfjordkredsen,6. Mariagerfjordkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:nordjyllands_storkreds/nomination_district:aalborg_oestkredsen,7. Aalborg Østkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:nordjyllands_storkreds/nomination_district:aalborg_vestkredsen,8. Aalborg Vestkredsen,2007-01-01
+ocd-division/country:dk/election_province:midtjylland-nordjylland/ed:nordjyllands_storkreds/nomination_district:aalborg_nordkredsen,9. Aalborg Nordkredsen,2007-01-01
