@@ -2,15 +2,15 @@
 
 This folder lists the following:
 
-* Collegio plurinominale and Collegio uninominale of the Senate of Italy
+* Collegio plurinominale (Multi-member college) and Collegio uninominale (Single-member constituency) of the Senate of Italy
   - [Regions](https://www.governo.it/it/costituzione-italiana/parte-seconda-ordinamento-della-repubblica/titolo-v-le-regionile-province-e-i#131:~:text=%5B40%5D-,Art.%20131,-%5B41%5D)
   - [Abroad regions](https://www.esteri.it/it/servizi-consolari-e-visti/italiani-all-estero/votoestero/elezionipolitiche/)
   - [senato (senate / upper house)](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/elenco_collegi_senato.php)
-  - Collegio plurinominale as **cp**
-  - Collegio uninominale as **cu**
-* Collegio plurinominale and Collegio uninominale of the Camera of Italy
+  - Collegio plurinominale (Multi-member college) as **cp**
+  - Collegio uninominale (Single-member constituency) as **cu**
+* Collegio plurinominale (Multi-member college) and Collegio uninominale (Single-member constituency) of the Camera of Italy
   - [Regions](https://www.governo.it/it/costituzione-italiana/parte-seconda-ordinamento-della-repubblica/titolo-v-le-regionile-province-e-i#131:~:text=%5B40%5D-,Art.%20131,-%5B41%5D)
   - [Abroad regions](https://www.esteri.it/it/servizi-consolari-e-visti/italiani-all-estero/votoestero/elezionipolitiche/)
   - [camera (parliament /lower house)](https://dait.interno.gov.it/territorio-e-autonomie-locali/sut/elenco_collegi_camera.php)
-  - Collegio plurinominale as **cp**
-  - Collegio uninominale as **cu**
+  - Collegio plurinominale (Multi-member college) as **cp**
+  - Collegio uninominale (Single-member constituency) as **cu**

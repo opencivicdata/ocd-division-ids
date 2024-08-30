@@ -19,10 +19,10 @@ ocd-division/country:it/senato:trentino-alto_adige,Circoscrizione Trentino-Alto 
 ocd-division/country:it/senato:umbria,Circoscrizione Umbria
 ocd-division/country:it/senato:valle_d_aosta,Circoscrizione Valle D'Aosta
 ocd-division/country:it/senato:veneto,Circoscrizione Veneto
-ocd-division/country:it/senato:diaspora-_europa,Abroad - Europe
-ocd-division/country:it/senato:diaspora-_america_settentrionale_e_centrale,Abroad - North and Central America
-ocd-division/country:it/senato:diaspora-_america_meridionale,Abroad - South America
-ocd-division/country:it/senato:diaspora-_africa_asia_oceania_e_antartide,Abroad - Africa Asia Oceania and Antarctica
+ocd-division/country:it/senato:diaspora_europa,Abroad - Europe
+ocd-division/country:it/senato:diaspora_america_settentrionale_e_centrale,Abroad - North and Central America
+ocd-division/country:it/senato:diaspora_america_meridionale,Abroad - South America
+ocd-division/country:it/senato:diaspora_africa_asia_oceania_e_antartide,Abroad - Africa Asia Oceania and Antarctica
 ocd-division/country:it/senato:abruzzo/cp:1,Collegio plurinominale Abruzzo - 01
 ocd-division/country:it/senato:basilicata/cp:1,Collegio plurinominale Basilicata - 01
 ocd-division/country:it/senato:calabria/cp:1,Collegio plurinominale Calabria - 01

@@ -34,10 +34,10 @@ ocd-division/country:it/cameri:campania/cu:2-4,Collegio uninominale Campania 2 -
 ocd-division/country:it/cameri:campania/cu:2-5,Collegio uninominale Campania 2 - 05
 ocd-division/country:it/cameri:campania/cu:2-6,Collegio uninominale Campania 2 - 06
 ocd-division/country:it/cameri:campania/cu:2-7,Collegio uninominale Campania 2 - 07
-ocd-division/country:it/cameri:diaspora-_africa_asia_oceania_e_antartide,Abroad - Africa Asia Oceania and Antarctica
-ocd-division/country:it/cameri:diaspora-_america_meridionale,Abroad - South America
-ocd-division/country:it/cameri:diaspora-_america_settentrionale_e_centrale,Abroad - North and Central America
-ocd-division/country:it/cameri:diaspora-_europa,Abroad - Europe
+ocd-division/country:it/cameri:diaspora_africa_asia_oceania_e_antartide,Abroad - Africa Asia Oceania and Antarctica
+ocd-division/country:it/cameri:diaspora_america_meridionale,Abroad - South America
+ocd-division/country:it/cameri:diaspora_america_settentrionale_e_centrale,Abroad - North and Central America
+ocd-division/country:it/cameri:diaspora_europa,Abroad - Europe
 ocd-division/country:it/cameri:emilia-romagna,Circoscrizione Emilia-Romagna
 ocd-division/country:it/cameri:emilia-romagna/cp:1,Collegio plurinominale Emilia-Romagna - 01
 ocd-division/country:it/cameri:emilia-romagna/cp:2,Collegio plurinominale Emilia-Romagna - 02
@@ -240,10 +240,10 @@ ocd-division/country:it/senato:campania/cu:4,Collegio uninominale Campania - 04
 ocd-division/country:it/senato:campania/cu:5,Collegio uninominale Campania - 05
 ocd-division/country:it/senato:campania/cu:6,Collegio uninominale Campania - 06
 ocd-division/country:it/senato:campania/cu:7,Collegio uninominale Campania - 07
-ocd-division/country:it/senato:diaspora-_africa_asia_oceania_e_antartide,Abroad - Africa Asia Oceania and Antarctica
-ocd-division/country:it/senato:diaspora-_america_meridionale,Abroad - South America
-ocd-division/country:it/senato:diaspora-_america_settentrionale_e_centrale,Abroad - North and Central America
-ocd-division/country:it/senato:diaspora-_europa,Abroad - Europe
+ocd-division/country:it/senato:diaspora_africa_asia_oceania_e_antartide,Abroad - Africa Asia Oceania and Antarctica
+ocd-division/country:it/senato:diaspora_america_meridionale,Abroad - South America
+ocd-division/country:it/senato:diaspora_america_settentrionale_e_centrale,Abroad - North and Central America
+ocd-division/country:it/senato:diaspora_europa,Abroad - Europe
 ocd-division/country:it/senato:emilia-romagna,Circoscrizione Emilia-Romagna
 ocd-division/country:it/senato:emilia-romagna/cp:1,Collegio plurinominale Emilia-Romagna - 01
 ocd-division/country:it/senato:emilia-romagna/cp:2,Collegio plurinominale Emilia-Romagna - 02
