@@ -1,73 +1,77 @@
-id,name
-ocd-division/country:lt,Lithuania
-ocd-division/country:lt/ed:aleksoto-vilijampoles,Aleksoto-Vilijampolės
-ocd-division/country:lt/ed:alytaus,Alytaus
-ocd-division/country:lt/ed:antakalnio,Antakalnio
-ocd-division/country:lt/ed:aukstaitijos,Aukštaitijos
-ocd-division/country:lt/ed:ausros,Aušros
-ocd-division/country:lt/ed:baltijos,Baltijos
-ocd-division/country:lt/ed:centro-zaliakalnio,Centro-Žaliakalnio
-ocd-division/country:lt/ed:dainavos,Dainavos
-ocd-division/country:lt/ed:danes,Danės
-ocd-division/country:lt/ed:deltuvos_pietine,Deltuvos pietinė
-ocd-division/country:lt/ed:deltuvos_siaurine,Deltuvos šiaurinė
-ocd-division/country:lt/ed:dzukijos,Dzūkijos
-ocd-division/country:lt/ed:fabijoniskiu,Fabijoniškių
-ocd-division/country:lt/ed:gargzdu,Gargždų
-ocd-division/country:lt/ed:garliavos,Garliavos
-ocd-division/country:lt/ed:jonavos,Jonavos
-ocd-division/country:lt/ed:jotvingiu,Jotvingių
-ocd-division/country:lt/ed:justiniskiu-virsuliskiu,Justiniškių-Viršuliškių
-ocd-division/country:lt/ed:kaisiadoriu-elektrenu,Kaišiadorių-Elektrėnų
-ocd-division/country:lt/ed:kalnieciu,Kalniečių
-ocd-division/country:lt/ed:karsuvos,Karšuvos
-ocd-division/country:lt/ed:kedainiu,Kėdainių
-ocd-division/country:lt/ed:kelmes-silales,Kelmės-Šilalės
-ocd-division/country:lt/ed:kurso,Kuršo
-ocd-division/country:lt/ed:lazdynu,Lazdynų
-ocd-division/country:lt/ed:marijampoles,Marijampolės
-ocd-division/country:lt/ed:mariu,Marių
-ocd-division/country:lt/ed:mazeikiu,Mažeikių
-ocd-division/country:lt/ed:medininku,Medininkų
-ocd-division/country:lt/ed:meguvos,Mėguvos
-ocd-division/country:lt/ed:moletu-sirvintu,Molėtų-Širvintų
-ocd-division/country:lt/ed:nalsios_pietine,Nalšios pietinė
-ocd-division/country:lt/ed:nalsios_siaurine,Nalšios šiaurinė
-ocd-division/country:lt/ed:naujamiescio-naujininku,Naujamiesčio-Naujininkų
-ocd-division/country:lt/ed:naujosios_vilnios,Naujosios Vilnios
-ocd-division/country:lt/ed:nemencines,Nemenčinės
-ocd-division/country:lt/ed:nevezio,Nevėžio
-ocd-division/country:lt/ed:pajurio,Pajūrio
-ocd-division/country:lt/ed:panemunes,Panemunės
-ocd-division/country:lt/ed:paneriu-grigiskiu,Panerių-Grigiškių
-ocd-division/country:lt/ed:panevezio_vakarine,Panevėžio vakarinė
-ocd-division/country:lt/ed:pasaulio_lietuviu,Pasaulio lietuvių
-ocd-division/country:lt/ed:pasilaiciu,Pašilaičių
-ocd-division/country:lt/ed:petrasiunu-griciupio,Petrašiūnų-Gričiupio
-ocd-division/country:lt/ed:pilaites-karoliniskiu,Pilaitės-Karoliniškių
-ocd-division/country:lt/ed:plunges-rietavo,Plungės-Rietavo
-ocd-division/country:lt/ed:radviliskio-tytuvenu,Radviliškio-Tytuvėnų
-ocd-division/country:lt/ed:raseiniu-kedainiu,Raseinių-Kėdainių
-ocd-division/country:lt/ed:raudondvario,Raudondvario
-ocd-division/country:lt/ed:salcininku-vilniaus,Šalčininkų-Vilniaus
-ocd-division/country:lt/ed:saules,Saulės
-ocd-division/country:lt/ed:savanoriu,Savanorių
-ocd-division/country:lt/ed:selos_rytine,Sėlos rytinė
-ocd-division/country:lt/ed:selos_vakarine,Sėlos vakarinė
-ocd-division/country:lt/ed:senamiescio-zveryno,Senamiesčio-Žvėryno
-ocd-division/country:lt/ed:seskines-snipiskiu,Šeškinės-Šnipiškių
-ocd-division/country:lt/ed:siauliukrasto,Šiaulių krašto
-ocd-division/country:lt/ed:silainiu,Šilainių
-ocd-division/country:lt/ed:silutes,Šilutės
-ocd-division/country:lt/ed:suduvos_pietine,Sūduvos pietinė
-ocd-division/country:lt/ed:suduvos_siaurine,Sūduvos šiaurinė
-ocd-division/country:lt/ed:taurages,Tauragės
-ocd-division/country:lt/ed:telsiu,Telšių
-ocd-division/country:lt/ed:traku-vievio,Trakų-Vievio
-ocd-division/country:lt/ed:utenos,Utenos
-ocd-division/country:lt/ed:verkiu,Verkių
-ocd-division/country:lt/ed:vilkaviskio,Vilkaviškio
-ocd-division/country:lt/ed:zemaitijos_siaurine,Žemaitijos šiaurinė
-ocd-division/country:lt/ed:ziemgalos_rytine,Žiemgalos rytinė
-ocd-division/country:lt/ed:ziemgalos_vakarine,Žiemgalos vakarinė
-ocd-division/country:lt/ed:zirmunu,Žirmūnų
+id,name,validFrom,validThrough
+ocd-division/country:lt,Lithuania,,
+ocd-division/country:lt/ed:aleksoto-vilijampoles,Aleksoto-Vilijampolės,,
+ocd-division/country:lt/ed:alytaus,Alytaus,,
+ocd-division/country:lt/ed:antakalnio,Antakalnio,,
+ocd-division/country:lt/ed:aukstaitijos,Aukštaitijos,,
+ocd-division/country:lt/ed:ausros,Aušros,,
+ocd-division/country:lt/ed:baltijos,Baltijos,,
+ocd-division/country:lt/ed:centro-zaliakalnio,Centro-Žaliakalnio,,
+ocd-division/country:lt/ed:dainavos,Dainavos,,
+ocd-division/country:lt/ed:danes,Danės,,
+ocd-division/country:lt/ed:deltuvos_pietine,Deltuvos pietinė,,
+ocd-division/country:lt/ed:deltuvos_siaurine,Deltuvos šiaurinė,,
+ocd-division/country:lt/ed:dzukijos,Dzūkijos,,
+ocd-division/country:lt/ed:fabijoniskiu,Fabijoniškių,,
+ocd-division/country:lt/ed:gargzdu,Gargždų,,
+ocd-division/country:lt/ed:garliavos,Garliavos,,
+ocd-division/country:lt/ed:jonavos,Jonavos,,
+ocd-division/country:lt/ed:jotvingiu,Jotvingių,,
+ocd-division/country:lt/ed:justiniskiu-virsuliskiu,Justiniškių-Viršuliškių,,
+ocd-division/country:lt/ed:kaisiadoriu-elektrenu,Kaišiadorių-Elektrėnų,,
+ocd-division/country:lt/ed:kalnieciu,Kalniečių,,
+ocd-division/country:lt/ed:karsuvos,Karšuvos,,
+ocd-division/country:lt/ed:kedainiu,Kėdainių,,
+ocd-division/country:lt/ed:kelmes-silales,Kelmės-Šilalės,,
+ocd-division/country:lt/ed:kurso,Kuršo,,
+ocd-division/country:lt/ed:lazdynu,Lazdynų,,
+ocd-division/country:lt/ed:marijampoles,Marijampolės,,
+ocd-division/country:lt/ed:mariu,Marių,,
+ocd-division/country:lt/ed:mazeikiu,Mažeikių,,
+ocd-division/country:lt/ed:medininku,Medininkų,,2023-11-30
+ocd-division/country:lt/ed:meguvos,Mėguvos,,
+ocd-division/country:lt/ed:moletu-sirvintu,Molėtų-Širvintų,,2023-11-30
+ocd-division/country:lt/ed:nalsios_pietine,Nalšios pietinė,,
+ocd-division/country:lt/ed:nalsios_siaurine,Nalšios šiaurinė,,
+ocd-division/country:lt/ed:naujamiescio-naujininku,Naujamiesčio-Naujininkų,,2023-11-30
+ocd-division/country:lt/ed:naujamiescio-vilkpedes,Naujamiesčio-Vilkpėdės,2023-11-30,
+ocd-division/country:lt/ed:naujininku-rasu,Naujininkų-Rasų,2023-11-30,
+ocd-division/country:lt/ed:naujosios_vilnios,Naujosios Vilnios,,
+ocd-division/country:lt/ed:nemencines,Nemenčinės,,
+ocd-division/country:lt/ed:nevezio,Nevėžio,,
+ocd-division/country:lt/ed:pajurio,Pajūrio,,
+ocd-division/country:lt/ed:panemunes,Panemunės,,
+ocd-division/country:lt/ed:paneriu-grigiskiu,Panerių-Grigiškių,,2023-11-30
+ocd-division/country:lt/ed:panevezio_vakarine,Panevėžio vakarinė,,
+ocd-division/country:lt/ed:pasaulio_lietuviu,Pasaulio lietuvių,,
+ocd-division/country:lt/ed:pasilaiciu,Pašilaičių,,
+ocd-division/country:lt/ed:petrasiunu-griciupio,Petrašiūnų-Gričiupio,,
+ocd-division/country:lt/ed:pilaites-karoliniskiu,Pilaitės-Karoliniškių,,
+ocd-division/country:lt/ed:plunges-rietavo,Plungės-Rietavo,,
+ocd-division/country:lt/ed:radviliskio-tytuvenu,Radviliškio-Tytuvėnų,,
+ocd-division/country:lt/ed:raseiniu-kedainiu,Raseinių-Kėdainių,,
+ocd-division/country:lt/ed:raudondvario,Raudondvario,,
+ocd-division/country:lt/ed:rieses,Riešės,2023-11-30,
+ocd-division/country:lt/ed:salcininku-vilniaus,Šalčininkų-Vilniaus,,
+ocd-division/country:lt/ed:saules,Saulės,,
+ocd-division/country:lt/ed:savanoriu,Savanorių,,
+ocd-division/country:lt/ed:selos_rytine,Sėlos rytinė,,
+ocd-division/country:lt/ed:selos_vakarine,Sėlos vakarinė,,
+ocd-division/country:lt/ed:senamiescio-zveryno,Senamiesčio-Žvėryno,,
+ocd-division/country:lt/ed:seskines-snipiskiu,Šeškinės-Šnipiškių,,
+ocd-division/country:lt/ed:siauliukrasto,Šiaulių krašto,,
+ocd-division/country:lt/ed:silainiu,Šilainių,,
+ocd-division/country:lt/ed:silutes,Šilutės,,
+ocd-division/country:lt/ed:suduvos_pietine,Sūduvos pietinė,,
+ocd-division/country:lt/ed:suduvos_siaurine,Sūduvos šiaurinė,,
+ocd-division/country:lt/ed:taurages,Tauragės,,
+ocd-division/country:lt/ed:telsiu,Telšių,,
+ocd-division/country:lt/ed:traku-vievio,Trakų-Vievio,,
+ocd-division/country:lt/ed:utenos,Utenos,,
+ocd-division/country:lt/ed:verkiu,Verkių,,
+ocd-division/country:lt/ed:vilkaviskio,Vilkaviškio,,
+ocd-division/country:lt/ed:vilniaus-pietine,Vilniaus pietinė,2023-11-30,
+ocd-division/country:lt/ed:zemaitijos_siaurine,Žemaitijos šiaurinė,,
+ocd-division/country:lt/ed:ziemgalos_rytine,Žiemgalos rytinė,,
+ocd-division/country:lt/ed:ziemgalos_vakarine,Žiemgalos vakarinė,,
+ocd-division/country:lt/ed:zirmunu,Žirmūnų,,
