@@ -1,221 +1,225 @@
 id,name
-ocd-division/country:it/cameri:abruzzo,Circoscrizione Abruzzo
-ocd-division/country:it/cameri:basilicata,Circoscrizione Basilicata
-ocd-division/country:it/cameri:calabria,Circoscrizione Calabria
-ocd-division/country:it/cameri:campania,Circoscrizione Campania
-ocd-division/country:it/cameri:emilia-romagna,Circoscrizione Emilia-Romagna
-ocd-division/country:it/cameri:friuli-venezia_giulia,Circoscrizione Friuli-Venezia Giulia
-ocd-division/country:it/cameri:lazio,Circoscrizione Lazio
-ocd-division/country:it/cameri:liguria,Circoscrizione Liguria
-ocd-division/country:it/cameri:lombardia,Circoscrizione Lombardia
-ocd-division/country:it/cameri:marche,Circoscrizione Marche
-ocd-division/country:it/cameri:molise,Circoscrizione Molise
-ocd-division/country:it/cameri:piemonte,Circoscrizione Piemonte
-ocd-division/country:it/cameri:puglia,Circoscrizione Puglia
-ocd-division/country:it/cameri:sardegna,Circoscrizione Sardegna
-ocd-division/country:it/cameri:sicilia,Circoscrizione Sicilia
-ocd-division/country:it/cameri:toscana,Circoscrizione Toscana
-ocd-division/country:it/cameri:trentino-alto_adige,Circoscrizione Trentino-Alto Adige
-ocd-division/country:it/cameri:umbria,Circoscrizione Umbria
-ocd-division/country:it/cameri:valle_d_aosta,Circoscrizione Valle D'Aosta
-ocd-division/country:it/cameri:veneto,Circoscrizione Veneto
-ocd-division/country:it/cameri:diaspora_europa,Abroad - Europe
-ocd-division/country:it/cameri:diaspora_america_settentrionale_e_centrale,Abroad - North and Central America
-ocd-division/country:it/cameri:diaspora_america_meridionale,Abroad - South America
-ocd-division/country:it/cameri:diaspora_africa_asia_oceania_e_antartide,Abroad - Africa Asia Oceania and Antarctica
-ocd-division/country:it/cameri:abruzzo/cp:1,Collegio plurinominale Abruzzo - 01
-ocd-division/country:it/cameri:basilicata/cp:1,Collegio plurinominale Basilicata - 01
-ocd-division/country:it/cameri:calabria/cp:1,Collegio plurinominale Calabria - 01
-ocd-division/country:it/cameri:campania/cp:1-1,Collegio plurinominale Campania 1 - 01
-ocd-division/country:it/cameri:campania/cp:1-2,Collegio plurinominale Campania 1 - 02
-ocd-division/country:it/cameri:campania/cp:2-1,Collegio plurinominale Campania 2 - 01
-ocd-division/country:it/cameri:campania/cp:2-2,Collegio plurinominale Campania 2 - 02
-ocd-division/country:it/cameri:emilia-romagna/cp:1,Collegio plurinominale Emilia-Romagna - 01
-ocd-division/country:it/cameri:emilia-romagna/cp:2,Collegio plurinominale Emilia-Romagna - 02
-ocd-division/country:it/cameri:emilia-romagna/cp:3,Collegio plurinominale Emilia-Romagna - 03
-ocd-division/country:it/cameri:friuli-venezia_giulia/cp:1,Collegio plurinominale Friuli-Venezia Giulia - 01
-ocd-division/country:it/cameri:lazio/cp:1-1,Collegio plurinominale Lazio 1 - 01
-ocd-division/country:it/cameri:lazio/cp:1-2,Collegio plurinominale Lazio 1 - 02
-ocd-division/country:it/cameri:lazio/cp:1-3,Collegio plurinominale Lazio 1 - 03
-ocd-division/country:it/cameri:lazio/cp:2-1,Collegio plurinominale Lazio 2 - 01
-ocd-division/country:it/cameri:lazio/cp:2-2,Collegio plurinominale Lazio 2 - 02
-ocd-division/country:it/cameri:liguria/cp:1,Collegio plurinominale Liguria - 01
-ocd-division/country:it/cameri:lombardia/cp:1-1,Collegio plurinominale Lombardia 1 - 01
-ocd-division/country:it/cameri:lombardia/cp:1-2,Collegio plurinominale Lombardia 1 - 02
-ocd-division/country:it/cameri:lombardia/cp:2-1,Collegio plurinominale Lombardia 2 - 01
-ocd-division/country:it/cameri:lombardia/cp:2-2,Collegio plurinominale Lombardia 2 - 02
-ocd-division/country:it/cameri:lombardia/cp:3-1,Collegio plurinominale Lombardia 3 - 01
-ocd-division/country:it/cameri:lombardia/cp:3-2,Collegio plurinominale Lombardia 3 - 02
-ocd-division/country:it/cameri:lombardia/cp:4-1,Collegio plurinominale Lombardia 4 - 01
-ocd-division/country:it/cameri:marche/cp:1,Collegio plurinominale Marche - 01
-ocd-division/country:it/cameri:molise/cp:1,Collegio plurinominale Molise - 01
-ocd-division/country:it/cameri:piemonte/cp:1-1,Collegio plurinominale Piemonte 1 - 01
-ocd-division/country:it/cameri:piemonte/cp:1-2,Collegio plurinominale Piemonte 1 - 02
-ocd-division/country:it/cameri:piemonte/cp:2-1,Collegio plurinominale Piemonte 2 - 01
-ocd-division/country:it/cameri:piemonte/cp:2-2,Collegio plurinominale Piemonte 2 - 02
-ocd-division/country:it/cameri:puglia/cp:1,Collegio plurinominale Puglia - 01
-ocd-division/country:it/cameri:puglia/cp:2,Collegio plurinominale Puglia - 02
-ocd-division/country:it/cameri:puglia/cp:3,Collegio plurinominale Puglia - 03
-ocd-division/country:it/cameri:puglia/cp:4,Collegio plurinominale Puglia - 04
-ocd-division/country:it/cameri:sardegna/cp:1,Collegio plurinominale Sardegna - 01
-ocd-division/country:it/cameri:sicilia/cp:1-1,Collegio plurinominale Sicilia 1 - 01
-ocd-division/country:it/cameri:sicilia/cp:1-2,Collegio plurinominale Sicilia 1 - 02
-ocd-division/country:it/cameri:sicilia/cp:2-1,Collegio plurinominale Sicilia 2 - 01
-ocd-division/country:it/cameri:sicilia/cp:2-2,Collegio plurinominale Sicilia 2 - 02
-ocd-division/country:it/cameri:sicilia/cp:2-3,Collegio plurinominale Sicilia 2 - 03
-ocd-division/country:it/cameri:toscana/cp:1,Collegio plurinominale Toscana - 01
-ocd-division/country:it/cameri:toscana/cp:2,Collegio plurinominale Toscana - 02
-ocd-division/country:it/cameri:toscana/cp:3,Collegio plurinominale Toscana - 03
-ocd-division/country:it/cameri:trentino-alto_adige/cp:1,Collegio plurinominale Trentino-Alto Adige - 01
-ocd-division/country:it/cameri:umbria/cp:1,Collegio plurinominale Umbria - 01
-ocd-division/country:it/cameri:veneto/cp:1-1,Collegio plurinominale Veneto 1 - 01
-ocd-division/country:it/cameri:veneto/cp:2-1,Collegio plurinominale Veneto 2 - 01
-ocd-division/country:it/cameri:veneto/cp:2-2,Collegio plurinominale Veneto 2 - 02
-ocd-division/country:it/cameri:veneto/cp:2-3,Collegio plurinominale Veneto 2 - 03
-ocd-division/country:it/cameri:abruzzo/cu:1,Collegio uninominale Abruzzo - 01
-ocd-division/country:it/cameri:abruzzo/cu:2,Collegio uninominale Abruzzo - 02
-ocd-division/country:it/cameri:abruzzo/cu:3,Collegio uninominale Abruzzo - 03
-ocd-division/country:it/cameri:basilicata/cu:1,Collegio uninominale Basilicata - 01
-ocd-division/country:it/cameri:calabria/cu:1,Collegio uninominale Calabria - 01
-ocd-division/country:it/cameri:calabria/cu:2,Collegio uninominale Calabria - 02
-ocd-division/country:it/cameri:calabria/cu:3,Collegio uninominale Calabria - 03
-ocd-division/country:it/cameri:calabria/cu:4,Collegio uninominale Calabria - 04
-ocd-division/country:it/cameri:calabria/cu:5,Collegio uninominale Calabria - 05
-ocd-division/country:it/cameri:campania/cu:1-1,Collegio uninominale Campania 1 - 01
-ocd-division/country:it/cameri:campania/cu:1-2,Collegio uninominale Campania 1 - 02
-ocd-division/country:it/cameri:campania/cu:1-3,Collegio uninominale Campania 1 - 03
-ocd-division/country:it/cameri:campania/cu:1-4,Collegio uninominale Campania 1 - 04
-ocd-division/country:it/cameri:campania/cu:1-5,Collegio uninominale Campania 1 - 05
-ocd-division/country:it/cameri:campania/cu:1-6,Collegio uninominale Campania 1 - 06
-ocd-division/country:it/cameri:campania/cu:1-7,Collegio uninominale Campania 1 - 07
-ocd-division/country:it/cameri:campania/cu:2-1,Collegio uninominale Campania 2 - 01
-ocd-division/country:it/cameri:campania/cu:2-2,Collegio uninominale Campania 2 - 02
-ocd-division/country:it/cameri:campania/cu:2-3,Collegio uninominale Campania 2 - 03
-ocd-division/country:it/cameri:campania/cu:2-4,Collegio uninominale Campania 2 - 04
-ocd-division/country:it/cameri:campania/cu:2-5,Collegio uninominale Campania 2 - 05
-ocd-division/country:it/cameri:campania/cu:2-6,Collegio uninominale Campania 2 - 06
-ocd-division/country:it/cameri:campania/cu:2-7,Collegio uninominale Campania 2 - 07
-ocd-division/country:it/cameri:emilia-romagna/cu:1,Collegio uninominale Emilia-Romagna - 01
-ocd-division/country:it/cameri:emilia-romagna/cu:2,Collegio uninominale Emilia-Romagna - 02
-ocd-division/country:it/cameri:emilia-romagna/cu:3,Collegio uninominale Emilia-Romagna - 03
-ocd-division/country:it/cameri:emilia-romagna/cu:4,Collegio uninominale Emilia-Romagna - 04
-ocd-division/country:it/cameri:emilia-romagna/cu:5,Collegio uninominale Emilia-Romagna - 05
-ocd-division/country:it/cameri:emilia-romagna/cu:6,Collegio uninominale Emilia-Romagna - 06
-ocd-division/country:it/cameri:emilia-romagna/cu:7,Collegio uninominale Emilia-Romagna - 07
-ocd-division/country:it/cameri:emilia-romagna/cu:8,Collegio uninominale Emilia-Romagna - 08
-ocd-division/country:it/cameri:emilia-romagna/cu:9,Collegio uninominale Emilia-Romagna - 09
-ocd-division/country:it/cameri:emilia-romagna/cu:10,Collegio uninominale Emilia-Romagna - 10
-ocd-division/country:it/cameri:emilia-romagna/cu:11,Collegio uninominale Emilia-Romagna - 11
-ocd-division/country:it/cameri:friuli-venezia_giulia/cu:1,Collegio uninominale Friuli-Venezia Giulia - 01
-ocd-division/country:it/cameri:friuli-venezia_giulia/cu:2,Collegio uninominale Friuli-Venezia Giulia - 02
-ocd-division/country:it/cameri:friuli-venezia_giulia/cu:3,Collegio uninominale Friuli-Venezia Giulia - 03
-ocd-division/country:it/cameri:lazio/cu:1-1,Collegio uninominale Lazio 1 - 01
-ocd-division/country:it/cameri:lazio/cu:1-2,Collegio uninominale Lazio 1 - 02
-ocd-division/country:it/cameri:lazio/cu:1-3,Collegio uninominale Lazio 1 - 03
-ocd-division/country:it/cameri:lazio/cu:1-4,Collegio uninominale Lazio 1 - 04
-ocd-division/country:it/cameri:lazio/cu:1-5,Collegio uninominale Lazio 1 - 05
-ocd-division/country:it/cameri:lazio/cu:1-6,Collegio uninominale Lazio 1 - 06
-ocd-division/country:it/cameri:lazio/cu:1-7,Collegio uninominale Lazio 1 - 07
-ocd-division/country:it/cameri:lazio/cu:1-8,Collegio uninominale Lazio 1 - 08
-ocd-division/country:it/cameri:lazio/cu:1-9,Collegio uninominale Lazio 1 - 09
-ocd-division/country:it/cameri:lazio/cu:2-1,Collegio uninominale Lazio 2 - 01
-ocd-division/country:it/cameri:lazio/cu:2-2,Collegio uninominale Lazio 2 - 02
-ocd-division/country:it/cameri:lazio/cu:2-3,Collegio uninominale Lazio 2 - 03
-ocd-division/country:it/cameri:lazio/cu:2-4,Collegio uninominale Lazio 2 - 04
-ocd-division/country:it/cameri:lazio/cu:2-5,Collegio uninominale Lazio 2 - 05
-ocd-division/country:it/cameri:liguria/cu:1,Collegio uninominale Liguria - 01
-ocd-division/country:it/cameri:liguria/cu:2,Collegio uninominale Liguria - 02
-ocd-division/country:it/cameri:liguria/cu:3,Collegio uninominale Liguria - 03
-ocd-division/country:it/cameri:liguria/cu:4,Collegio uninominale Liguria - 04
-ocd-division/country:it/cameri:lombardia/cu:1-1,Collegio uninominale Lombardia 1 - 01
-ocd-division/country:it/cameri:lombardia/cu:1-2,Collegio uninominale Lombardia 1 - 02
-ocd-division/country:it/cameri:lombardia/cu:1-3,Collegio uninominale Lombardia 1 - 03
-ocd-division/country:it/cameri:lombardia/cu:1-4,Collegio uninominale Lombardia 1 - 04
-ocd-division/country:it/cameri:lombardia/cu:1-5,Collegio uninominale Lombardia 1 - 05
-ocd-division/country:it/cameri:lombardia/cu:1-6,Collegio uninominale Lombardia 1 - 06
-ocd-division/country:it/cameri:lombardia/cu:1-7,Collegio uninominale Lombardia 1 - 07
-ocd-division/country:it/cameri:lombardia/cu:1-8,Collegio uninominale Lombardia 1 - 08
-ocd-division/country:it/cameri:lombardia/cu:1-9,Collegio uninominale Lombardia 1 - 09
-ocd-division/country:it/cameri:lombardia/cu:2-1,Collegio uninominale Lombardia 2 - 01
-ocd-division/country:it/cameri:lombardia/cu:2-2,Collegio uninominale Lombardia 2 - 02
-ocd-division/country:it/cameri:lombardia/cu:2-3,Collegio uninominale Lombardia 2 - 03
-ocd-division/country:it/cameri:lombardia/cu:2-4,Collegio uninominale Lombardia 2 - 04
-ocd-division/country:it/cameri:lombardia/cu:2-5,Collegio uninominale Lombardia 2 - 05
-ocd-division/country:it/cameri:lombardia/cu:3-1,Collegio uninominale Lombardia 3 - 01
-ocd-division/country:it/cameri:lombardia/cu:3-2,Collegio uninominale Lombardia 3 - 02
-ocd-division/country:it/cameri:lombardia/cu:3-3,Collegio uninominale Lombardia 3 - 03
-ocd-division/country:it/cameri:lombardia/cu:3-4,Collegio uninominale Lombardia 3 - 04
-ocd-division/country:it/cameri:lombardia/cu:3-5,Collegio uninominale Lombardia 3 - 05
-ocd-division/country:it/cameri:lombardia/cu:4-1,Collegio uninominale Lombardia 4 - 01
-ocd-division/country:it/cameri:lombardia/cu:4-2,Collegio uninominale Lombardia 4 - 02
-ocd-division/country:it/cameri:lombardia/cu:4-3,Collegio uninominale Lombardia 4 - 03
-ocd-division/country:it/cameri:lombardia/cu:4-4,Collegio uninominale Lombardia 4 - 04
-ocd-division/country:it/cameri:marche/cu:1,Collegio uninominale Marche - 01
-ocd-division/country:it/cameri:marche/cu:2,Collegio uninominale Marche - 02
-ocd-division/country:it/cameri:marche/cu:3,Collegio uninominale Marche - 03
-ocd-division/country:it/cameri:marche/cu:4,Collegio uninominale Marche - 04
-ocd-division/country:it/cameri:molise/cu:1,Collegio uninominale Molise - 01
-ocd-division/country:it/cameri:piemonte/cu:1-1,Collegio uninominale Piemonte 1 - 01
-ocd-division/country:it/cameri:piemonte/cu:1-2,Collegio uninominale Piemonte 1 - 02
-ocd-division/country:it/cameri:piemonte/cu:1-3,Collegio uninominale Piemonte 1 - 03
-ocd-division/country:it/cameri:piemonte/cu:1-4,Collegio uninominale Piemonte 1 - 04
-ocd-division/country:it/cameri:piemonte/cu:1-5,Collegio uninominale Piemonte 1 - 05
-ocd-division/country:it/cameri:piemonte/cu:2-1,Collegio uninominale Piemonte 2 - 01
-ocd-division/country:it/cameri:piemonte/cu:2-2,Collegio uninominale Piemonte 2 - 02
-ocd-division/country:it/cameri:piemonte/cu:2-3,Collegio uninominale Piemonte 2 - 03
-ocd-division/country:it/cameri:piemonte/cu:2-4,Collegio uninominale Piemonte 2 - 04
-ocd-division/country:it/cameri:piemonte/cu:2-5,Collegio uninominale Piemonte 2 - 05
-ocd-division/country:it/cameri:puglia/cu:1,Collegio uninominale Puglia - 01
-ocd-division/country:it/cameri:puglia/cu:2,Collegio uninominale Puglia - 02
-ocd-division/country:it/cameri:puglia/cu:3,Collegio uninominale Puglia - 03
-ocd-division/country:it/cameri:puglia/cu:4,Collegio uninominale Puglia - 04
-ocd-division/country:it/cameri:puglia/cu:5,Collegio uninominale Puglia - 05
-ocd-division/country:it/cameri:puglia/cu:6,Collegio uninominale Puglia - 06
-ocd-division/country:it/cameri:puglia/cu:7,Collegio uninominale Puglia - 07
-ocd-division/country:it/cameri:puglia/cu:8,Collegio uninominale Puglia - 08
-ocd-division/country:it/cameri:puglia/cu:9,Collegio uninominale Puglia - 09
-ocd-division/country:it/cameri:puglia/cu:10,Collegio uninominale Puglia - 10
-ocd-division/country:it/cameri:sardegna/cu:1,Collegio uninominale Sardegna - 01
-ocd-division/country:it/cameri:sardegna/cu:2,Collegio uninominale Sardegna - 02
-ocd-division/country:it/cameri:sardegna/cu:3,Collegio uninominale Sardegna - 03
-ocd-division/country:it/cameri:sardegna/cu:4,Collegio uninominale Sardegna - 04
-ocd-division/country:it/cameri:sicilia/cu:1-1,Collegio uninominale Sicilia 1 - 01
-ocd-division/country:it/cameri:sicilia/cu:1-2,Collegio uninominale Sicilia 1 - 02
-ocd-division/country:it/cameri:sicilia/cu:1-3,Collegio uninominale Sicilia 1 - 03
-ocd-division/country:it/cameri:sicilia/cu:1-4,Collegio uninominale Sicilia 1 - 04
-ocd-division/country:it/cameri:sicilia/cu:1-5,Collegio uninominale Sicilia 1 - 05
-ocd-division/country:it/cameri:sicilia/cu:1-6,Collegio uninominale Sicilia 1 - 06
-ocd-division/country:it/cameri:sicilia/cu:2-1,Collegio uninominale Sicilia 2 - 01
-ocd-division/country:it/cameri:sicilia/cu:2-2,Collegio uninominale Sicilia 2 - 02
-ocd-division/country:it/cameri:sicilia/cu:2-3,Collegio uninominale Sicilia 2 - 03
-ocd-division/country:it/cameri:sicilia/cu:2-4,Collegio uninominale Sicilia 2 - 04
-ocd-division/country:it/cameri:sicilia/cu:2-5,Collegio uninominale Sicilia 2 - 05
-ocd-division/country:it/cameri:sicilia/cu:2-6,Collegio uninominale Sicilia 2 - 06
-ocd-division/country:it/cameri:toscana/cu:1,Collegio uninominale Toscana - 01
-ocd-division/country:it/cameri:toscana/cu:2,Collegio uninominale Toscana - 02
-ocd-division/country:it/cameri:toscana/cu:3,Collegio uninominale Toscana - 03
-ocd-division/country:it/cameri:toscana/cu:4,Collegio uninominale Toscana - 04
-ocd-division/country:it/cameri:toscana/cu:5,Collegio uninominale Toscana - 05
-ocd-division/country:it/cameri:toscana/cu:6,Collegio uninominale Toscana - 06
-ocd-division/country:it/cameri:toscana/cu:7,Collegio uninominale Toscana - 07
-ocd-division/country:it/cameri:toscana/cu:8,Collegio uninominale Toscana - 08
-ocd-division/country:it/cameri:toscana/cu:9,Collegio uninominale Toscana - 09
-ocd-division/country:it/cameri:trentino-alto_adige/cu:1,Collegio uninominale Trentino-Alto Adige - 01
-ocd-division/country:it/cameri:trentino-alto_adige/cu:2,Collegio uninominale Trentino-Alto Adige - 02
-ocd-division/country:it/cameri:trentino-alto_adige/cu:3,Collegio uninominale Trentino-Alto Adige - 03
-ocd-division/country:it/cameri:trentino-alto_adige/cu:4,Collegio uninominale Trentino-Alto Adige - 04
-ocd-division/country:it/cameri:umbria/cu:1,Collegio uninominale Umbria - 01
-ocd-division/country:it/cameri:umbria/cu:2,Collegio uninominale Umbria - 02
-ocd-division/country:it/cameri:valle_d_aosta/cu:1,Collegio uninominale Valle D'Aosta - 01
-ocd-division/country:it/cameri:veneto/cu:1-1,Collegio uninominale Veneto 1 - 01
-ocd-division/country:it/cameri:veneto/cu:1-2,Collegio uninominale Veneto 1 - 02
-ocd-division/country:it/cameri:veneto/cu:1-3,Collegio uninominale Veneto 1 - 03
-ocd-division/country:it/cameri:veneto/cu:1-4,Collegio uninominale Veneto 1 - 04
-ocd-division/country:it/cameri:veneto/cu:1-5,Collegio uninominale Veneto 1 - 05
-ocd-division/country:it/cameri:veneto/cu:2-1,Collegio uninominale Veneto 2 - 01
-ocd-division/country:it/cameri:veneto/cu:2-2,Collegio uninominale Veneto 2 - 02
-ocd-division/country:it/cameri:veneto/cu:2-3,Collegio uninominale Veneto 2 - 03
-ocd-division/country:it/cameri:veneto/cu:2-4,Collegio uninominale Veneto 2 - 04
-ocd-division/country:it/cameri:veneto/cu:2-5,Collegio uninominale Veneto 2 - 05
-ocd-division/country:it/cameri:veneto/cu:2-6,Collegio uninominale Veneto 2 - 06
-ocd-division/country:it/cameri:veneto/cu:2-7,Collegio uninominale Veneto 2 - 07
+ocd-division/country:it/region:abruzzo/lower:abruzzo,Circoscrizione Camera Abruzzo
+ocd-division/country:it/region:abruzzo/lower:abruzzo/mmc:1,Abruzzo - P01
+ocd-division/country:it/region:abruzzo/lower:abruzzo/mmc:1/ed:1,Abruzzo - U01 (Chieti)
+ocd-division/country:it/region:abruzzo/lower:abruzzo/mmc:1/ed:2,Abruzzo - U02 (Pescara)
+ocd-division/country:it/region:abruzzo/lower:abruzzo/mmc:1/ed:3,Abruzzo - U03 (L'Aquila)
+ocd-division/country:it/region:basilicata/lower:basilicata,Circoscrizione Camera Basilicata
+ocd-division/country:it/region:basilicata/lower:basilicata/mmc:1,Basilicata - P01
+ocd-division/country:it/region:basilicata/lower:basilicata/mmc:1/ed:1,Basilicata - U01 (Potenza)
+ocd-division/country:it/region:calabria/lower:calabria,Circoscrizione Camera Calabria
+ocd-division/country:it/region:calabria/lower:calabria/mmc:1,Calabria - P01
+ocd-division/country:it/region:calabria/lower:calabria/mmc:1/ed:1,Calabria - U01 (Corigliano-Rossano)
+ocd-division/country:it/region:calabria/lower:calabria/mmc:1/ed:2,Calabria - U02 (Cosenza)
+ocd-division/country:it/region:calabria/lower:calabria/mmc:1/ed:3,Calabria - U03 (Catanzaro)
+ocd-division/country:it/region:calabria/lower:calabria/mmc:1/ed:4,Calabria - U04 (Vibo Valentia)
+ocd-division/country:it/region:calabria/lower:calabria/mmc:1/ed:5,Calabria - U05 (Reggio Di Calabria)
+ocd-division/country:it/region:campania/lower:campania-1,Circoscrizione Camera Campania 1
+ocd-division/country:it/region:campania/lower:campania-1/mmc:1,Campania 1 - P01
+ocd-division/country:it/region:campania/lower:campania-1/mmc:1/ed:1,Campania 1 - U01 (Giugliano in Campania)
+ocd-division/country:it/region:campania/lower:campania-1/mmc:1/ed:2,Campania 1 - U02 (Napoli: Quartiere 19 - Fuorigrotta)
+ocd-division/country:it/region:campania/lower:campania-1/mmc:1/ed:3,Campania 1 - U03 (Napoli: Quartiere 7 - Sab Carlo all'Arena)
+ocd-division/country:it/region:campania/lower:campania-1/mmc:2,Campania 1 - P02
+ocd-division/country:it/region:campania/lower:campania-1/mmc:2/ed:1,Campania 1 - U04 (Casoria)
+ocd-division/country:it/region:campania/lower:campania-1/mmc:2/ed:2,Campania 1 - U05 (Acerra)
+ocd-division/country:it/region:campania/lower:campania-1/mmc:2/ed:3,Campania 1 - U06 (Somma Vesuviana)
+ocd-division/country:it/region:campania/lower:campania-1/mmc:2/ed:4,Campania 1 - U07 (Torre del Greco)
+ocd-division/country:it/region:campania/lower:campania-2,Circoscrizione Camera Campania 2
+ocd-division/country:it/region:campania/lower:campania-2/mmc:1,Campania 2 - P01
+ocd-division/country:it/region:campania/lower:campania-2/mmc:1/ed:1,Campania 2 - U01 (Aversa)
+ocd-division/country:it/region:campania/lower:campania-2/mmc:1/ed:2,Campania 2 - U02 (Caserta)
+ocd-division/country:it/region:campania/lower:campania-2/mmc:1/ed:3,Campania 2 - U03 (Benevento)
+ocd-division/country:it/region:campania/lower:campania-2/mmc:2,Campania 2 - P02
+ocd-division/country:it/region:campania/lower:campania-2/mmc:2/ed:1,Campania 2 - U04 (Avellino)
+ocd-division/country:it/region:campania/lower:campania-2/mmc:2/ed:2,Campania 2 - U05 (Scafati)
+ocd-division/country:it/region:campania/lower:campania-2/mmc:2/ed:3,Campania 2 - U06 (Salerno)
+ocd-division/country:it/region:campania/lower:campania-2/mmc:2/ed:4,Campania 2 - U07 (Eboli)
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna,Circoscrizione Camera Emilia-Romagna
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:1,Emilia-Romagna - P01
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:1/ed:1,Emilia-Romagna - U01 (Piacenza)
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:1/ed:2,Emilia-Romagna - U02 (Parma)
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:1/ed:3,Emilia-Romagna - U03 (Reggio nell'Emilia)
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:2,Emilia-Romagna - P02
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:2/ed:1,Emilia-Romagna - U04 (Modena)
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:2/ed:2,Emilia-Romagna - U05 (Imola)
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:2/ed:3,Emilia-Romagna - U06 (Bologna)
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:2/ed:4,Emilia-Romagna - U07 (Carpi)
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:3,Emilia-Romagna - P03
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:3/ed:1,Emilia-Romagna - U08 (Ravenna)
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:3/ed:2,Emilia-Romagna - U09 (Ferrara)
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:3/ed:3,Emilia-Romagna - U10 (Forlì)
+ocd-division/country:it/region:emilia-romagna/lower:emilia-romagna/mmc:3/ed:4,Emilia-Romagna - U11 (Rimini)
+ocd-division/country:it/region:friuli-venezia_giulia/lower:friuli-venezia_giulia,Circoscrizione Camera Friuli-Venezia Giulia
+ocd-division/country:it/region:friuli-venezia_giulia/lower:friuli-venezia_giulia/mmc:1,Friuli-Venezia Giulia - P01
+ocd-division/country:it/region:friuli-venezia_giulia/lower:friuli-venezia_giulia/mmc:1/ed:1,Friuli-Venezia Giulia - U01 (Pordenone)
+ocd-division/country:it/region:friuli-venezia_giulia/lower:friuli-venezia_giulia/mmc:1/ed:2,Friuli-Venezia Giulia - U02 (Udine)
+ocd-division/country:it/region:friuli-venezia_giulia/lower:friuli-venezia_giulia/mmc:1/ed:3,Friuli-Venezia Giulia - U03 (Trieste)
+ocd-division/country:it/region:lazio/lower:lazio-1,Circoscrizione Camera Lazio 1
+ocd-division/country:it/region:lazio/lower:lazio-1/mmc:1,Lazio 1 - P01
+ocd-division/country:it/region:lazio/lower:lazio-1/mmc:1/ed:1,Lazio 1 - U01 (Roma: Municipio I)
+ocd-division/country:it/region:lazio/lower:lazio-1/mmc:1/ed:2,Lazio 1 - U02 (Roma: Municipio III)
+ocd-division/country:it/region:lazio/lower:lazio-1/mmc:1/ed:3,Lazio 1 - U03 (Roma: Municipio V)
+ocd-division/country:it/region:lazio/lower:lazio-1/mmc:2,Lazio 1 - P02
+ocd-division/country:it/region:lazio/lower:lazio-1/mmc:2/ed:1,Lazio 1 - U04 (Roma: Municipio VII)
+ocd-division/country:it/region:lazio/lower:lazio-1/mmc:2/ed:2,Lazio 1 - U08 (Valletri)
+ocd-division/country:it/region:lazio/lower:lazio-1/mmc:2/ed:3,Lazio 1 - U09 (Guidonia Montecelio)
+ocd-division/country:it/region:lazio/lower:lazio-1/mmc:3,Lazio 1 - P03
+ocd-division/country:it/region:lazio/lower:lazio-1/mmc:3/ed:1,Lazio 1 - U05 (Roma: Municipio X)
+ocd-division/country:it/region:lazio/lower:lazio-1/mmc:3/ed:2,Lazio 1 - U06 (Roma: Municipio XI)
+ocd-division/country:it/region:lazio/lower:lazio-1/mmc:3/ed:3,Lazio 1 - U07 (Roma: Municipio XIV)
+ocd-division/country:it/region:lazio/lower:lazio-2,Circoscrizione Camera Lazio 2
+ocd-division/country:it/region:lazio/lower:lazio-2/mmc:1,Lazio 2 - P01
+ocd-division/country:it/region:lazio/lower:lazio-2/mmc:1/ed:1,Lazio 2 - U01 (Viterbo)
+ocd-division/country:it/region:lazio/lower:lazio-2/mmc:1/ed:2,Lazio 2 - U02 (Rieti)
+ocd-division/country:it/region:lazio/lower:lazio-2/mmc:2,Lazio 2 - P02
+ocd-division/country:it/region:lazio/lower:lazio-2/mmc:2/ed:1,Lazio 2 - U03 (Latina)
+ocd-division/country:it/region:lazio/lower:lazio-2/mmc:2/ed:2,Lazio 2 - U04 (Frosinone)
+ocd-division/country:it/region:lazio/lower:lazio-2/mmc:2/ed:3,Lazio 2 - U05 (Terracina)
+ocd-division/country:it/region:liguria/lower:liguria,Circoscrizione Camera Liguria
+ocd-division/country:it/region:liguria/lower:liguria/mmc:1,Liguria - P01
+ocd-division/country:it/region:liguria/lower:liguria/mmc:1/ed:1,Liguria - U01 (Savona)
+ocd-division/country:it/region:liguria/lower:liguria/mmc:1/ed:2,Liguria - U02 (Genova: Municipio VII - Ponente)
+ocd-division/country:it/region:liguria/lower:liguria/mmc:1/ed:3,Liguria - U03 (Genova: Municipio I - Centro Est)
+ocd-division/country:it/region:liguria/lower:liguria/mmc:1/ed:4,Liguria - U04 (La Spezia)
+ocd-division/country:it/region:lombardia/lower:lombardia-1,Circoscrizione Camera Lombardia 1
+ocd-division/country:it/region:lombardia/lower:lombardia-1/mmc:1,Lombardia 1 - P01
+ocd-division/country:it/region:lombardia/lower:lombardia-1/mmc:1/ed:1,Lombardia 1 - U04 (Rozzano)
+ocd-division/country:it/region:lombardia/lower:lombardia-1/mmc:1/ed:2,Lombardia 1 - U05 (Legnano)
+ocd-division/country:it/region:lombardia/lower:lombardia-1/mmc:1/ed:3,Lombardia 1 - U07 (Milano: Nil 20 - Loreto)
+ocd-division/country:it/region:lombardia/lower:lombardia-1/mmc:1/ed:4,Lombardia 1 - U08 (Milano: Nil 58 - Bande Nere)
+ocd-division/country:it/region:lombardia/lower:lombardia-1/mmc:1/ed:5,Lombardia 1 - U09 (Milano: Nil 21 - Buenos Aires - Venezia)
+ocd-division/country:it/region:lombardia/lower:lombardia-1/mmc:2,Lombardia 1 - P02
+ocd-division/country:it/region:lombardia/lower:lombardia-1/mmc:2/ed:1,Lombardia 1 - U01 (Monza)
+ocd-division/country:it/region:lombardia/lower:lombardia-1/mmc:2/ed:2,Lombardia 1 - U02 (Seregno)
+ocd-division/country:it/region:lombardia/lower:lombardia-1/mmc:2/ed:3,Lombardia 1 - U03 (Cologno Monzese)
+ocd-division/country:it/region:lombardia/lower:lombardia-1/mmc:2/ed:4,Lombardia 1 - U06 (Sesto San Giovanni)
+ocd-division/country:it/region:lombardia/lower:lombardia-2,Circoscrizione Camera Lombardia 2
+ocd-division/country:it/region:lombardia/lower:lombardia-2/mmc:1,Lombardia 2 - P01
+ocd-division/country:it/region:lombardia/lower:lombardia-2/mmc:1/ed:1,Lombardia 2 - U01 (Varese)
+ocd-division/country:it/region:lombardia/lower:lombardia-2/mmc:1/ed:2,Lombardia 2 - U02 (Busto Arsizio)
+ocd-division/country:it/region:lombardia/lower:lombardia-2/mmc:2,Lombardia 2 - P02
+ocd-division/country:it/region:lombardia/lower:lombardia-2/mmc:2/ed:1,Lombardia 2 - U03 (Como)
+ocd-division/country:it/region:lombardia/lower:lombardia-2/mmc:2/ed:2,Lombardia 2 - U04 (Sondrio)
+ocd-division/country:it/region:lombardia/lower:lombardia-2/mmc:2/ed:3,Lombardia 2 - U05 (Lecco)
+ocd-division/country:it/region:lombardia/lower:lombardia-3,Circoscrizione Camera Lombardia 3
+ocd-division/country:it/region:lombardia/lower:lombardia-3/mmc:1,Lombardia 3 - P01
+ocd-division/country:it/region:lombardia/lower:lombardia-3/mmc:1/ed:1,Lombardia 3 - U01 (Treviglio)
+ocd-division/country:it/region:lombardia/lower:lombardia-3/mmc:1/ed:2,Lombardia 3 - U02 (Bergamo)
+ocd-division/country:it/region:lombardia/lower:lombardia-3/mmc:2,Lombardia 3 - P02
+ocd-division/country:it/region:lombardia/lower:lombardia-3/mmc:2/ed:1,Lombardia 3 - U03 (Lumezzane)
+ocd-division/country:it/region:lombardia/lower:lombardia-3/mmc:2/ed:2,Lombardia 3 - U04 (Brescia)
+ocd-division/country:it/region:lombardia/lower:lombardia-3/mmc:2/ed:3,Lombardia 3 - U05 (Descenzano del Garda)
+ocd-division/country:it/region:lombardia/lower:lombardia-4,Circoscrizione Camera Lombardia 4
+ocd-division/country:it/region:lombardia/lower:lombardia-4/mmc:1,Lombardia 4 - P01
+ocd-division/country:it/region:lombardia/lower:lombardia-4/mmc:1/ed:1,Lombardia 4 - U01 (Pavia)
+ocd-division/country:it/region:lombardia/lower:lombardia-4/mmc:1/ed:2,Lombardia 4 - U02 (Lodi)
+ocd-division/country:it/region:lombardia/lower:lombardia-4/mmc:1/ed:3,Lombardia 4 - U03 (Cremona)
+ocd-division/country:it/region:lombardia/lower:lombardia-4/mmc:1/ed:4,Lombardia 4 - U04 (Mantova)
+ocd-division/country:it/region:marche/lower:marche,Circoscrizione Camera Marche
+ocd-division/country:it/region:marche/lower:marche/mmc:1,Marche - P01
+ocd-division/country:it/region:marche/lower:marche/mmc:1/ed:1,Marche - U01 (Ascoli Piceno)
+ocd-division/country:it/region:marche/lower:marche/mmc:1/ed:2,Marche - U02 (Macerata)
+ocd-division/country:it/region:marche/lower:marche/mmc:1/ed:3,Marche - U03 (Ancona)
+ocd-division/country:it/region:marche/lower:marche/mmc:1/ed:4,Marche - U04 (Pesaro)
+ocd-division/country:it/region:molise/lower:molise,Circoscrizione Camera Molise
+ocd-division/country:it/region:molise/lower:molise/mmc:1,Molise - P01
+ocd-division/country:it/region:molise/lower:molise/mmc:1/ed:1,Molise - U01 (Campobasso
+ocd-division/country:it/region:piemonte/lower:piemonte-1,Circoscrizione Camera Piemonte 1
+ocd-division/country:it/region:piemonte/lower:piemonte-1/mmc:1,Piemonte 1 - P01
+ocd-division/country:it/region:piemonte/lower:piemonte-1/mmc:1/ed:1,Piemonte 1 - U01 (Torino: Circoscrizione 2 - Santa Rita - Mirafiori Nord - Mirafiori Sud)
+ocd-division/country:it/region:piemonte/lower:piemonte-1/mmc:1/ed:2,Piemonte 1 - U02 (Torino: Circoscrizione 3 - San Paolo - Cenisia - Pozzo Strada - Citturin- Borgata Lesna)
+ocd-division/country:it/region:piemonte/lower:piemonte-1/mmc:1/ed:3,Piemonte 1 - U03 (Collegno)
+ocd-division/country:it/region:piemonte/lower:piemonte-1/mmc:2,Piemonte 1 - P02
+ocd-division/country:it/region:piemonte/lower:piemonte-1/mmc:2/ed:1,Piemonte 1 - U04 (Chieri)
+ocd-division/country:it/region:piemonte/lower:piemonte-1/mmc:2/ed:2,Piemonte 1 - U05 (Moncalieri)
+ocd-division/country:it/region:piemonte/lower:piemonte-2,Circoscrizione Camera Piemonte 2
+ocd-division/country:it/region:piemonte/lower:piemonte-2/mmc:1,Piemonte 2 - P01
+ocd-division/country:it/region:piemonte/lower:piemonte-2/mmc:1/ed:1,Piemonte 2 - U02 (Novara)
+ocd-division/country:it/region:piemonte/lower:piemonte-2/mmc:1/ed:2,Piemonte 2 - U03 (Vercelli)
+ocd-division/country:it/region:piemonte/lower:piemonte-2/mmc:2,Piemonte 2 - P02
+ocd-division/country:it/region:piemonte/lower:piemonte-2/mmc:2/ed:1,Piemonte 2 - U01 (Alessandria)
+ocd-division/country:it/region:piemonte/lower:piemonte-2/mmc:2/ed:2,Piemonte 2 - U04 (Asti)
+ocd-division/country:it/region:piemonte/lower:piemonte-2/mmc:2/ed:3,Piemonte 2 - U05 (Cuneo)
+ocd-division/country:it/region:puglia/lower:puglia,Circoscrizione Camera Puglia
+ocd-division/country:it/region:puglia/lower:puglia/mmc:1,Puglia - P01
+ocd-division/country:it/region:puglia/lower:puglia/mmc:1/ed:1,Puglia - U01 (Foggia)
+ocd-division/country:it/region:puglia/lower:puglia/mmc:1/ed:2,Puglia - U02 (Cerignola)
+ocd-division/country:it/region:puglia/lower:puglia/mmc:1/ed:3,Puglia - U03 (Andria)
+ocd-division/country:it/region:puglia/lower:puglia/mmc:2,Puglia - P02
+ocd-division/country:it/region:puglia/lower:puglia/mmc:2/ed:1,Puglia - U04 (Molfetta)
+ocd-division/country:it/region:puglia/lower:puglia/mmc:2/ed:2,Puglia - U05 (Bari)
+ocd-division/country:it/region:puglia/lower:puglia/mmc:3,Puglia - P03
+ocd-division/country:it/region:puglia/lower:puglia/mmc:3/ed:1,Puglia - U06 (Altamura)
+ocd-division/country:it/region:puglia/lower:puglia/mmc:3/ed:2,Puglia - U08 (Taranto)
+ocd-division/country:it/region:puglia/lower:puglia/mmc:4,Puglia - P04
+ocd-division/country:it/region:puglia/lower:puglia/mmc:4/ed:1,Puglia - U07 (Brindisi)
+ocd-division/country:it/region:puglia/lower:puglia/mmc:4/ed:2,Puglia - U09 (Lecce)
+ocd-division/country:it/region:puglia/lower:puglia/mmc:4/ed:3,Puglia - U10 (Galatina)
+ocd-division/country:it/region:sardegna/lower:sardegna,Circoscrizione Camera Sardegna
+ocd-division/country:it/region:sardegna/lower:sardegna/mmc:1,Sardegna - P01
+ocd-division/country:it/region:sardegna/lower:sardegna/mmc:1/ed:1,Sardegna - U01 (Cagliari)
+ocd-division/country:it/region:sardegna/lower:sardegna/mmc:1/ed:2,Sardegna - U02 (Carbonia)
+ocd-division/country:it/region:sardegna/lower:sardegna/mmc:1/ed:3,Sardegna - U03 (Nuoro)
+ocd-division/country:it/region:sardegna/lower:sardegna/mmc:1/ed:4,Sardegna - U04 (Sassari)
+ocd-division/country:it/region:sicilia/lower:sicilia-1,Circoscrizione Camera Sicilia 1
+ocd-division/country:it/region:sicilia/lower:sicilia-1/mmc:1,Sicilia 1 - P01
+ocd-division/country:it/region:sicilia/lower:sicilia-1/mmc:1/ed:1,Sicilia 1 - U01 (Palermo: Quartiere 11 - Sette Cannoli)
+ocd-division/country:it/region:sicilia/lower:sicilia-1/mmc:1/ed:2,Sicilia 1 - U02 (Palermo: Quartiere 20 - Resuttana - S.Lorenzo)
+ocd-division/country:it/region:sicilia/lower:sicilia-1/mmc:1/ed:3,Sicilia 1 - U03 (Bagheria)
+ocd-division/country:it/region:sicilia/lower:sicilia-1/mmc:2,Sicilia 1 - P02
+ocd-division/country:it/region:sicilia/lower:sicilia-1/mmc:2/ed:1,Sicilia 1 - U04 (Gela)
+ocd-division/country:it/region:sicilia/lower:sicilia-1/mmc:2/ed:2,Sicilia 1 - U05 (Agrigento)
+ocd-division/country:it/region:sicilia/lower:sicilia-1/mmc:2/ed:3,Sicilia 1 - U06 (Marsala)
+ocd-division/country:it/region:sicilia/lower:sicilia-2,Circoscrizione Camera Sicilia 2
+ocd-division/country:it/region:sicilia/lower:sicilia-2/mmc:1,Sicilia 2 - P01
+ocd-division/country:it/region:sicilia/lower:sicilia-2/mmc:1/ed:1,Sicilia 2 - U05 (Barcellona Pozzo di Gotto)
+ocd-division/country:it/region:sicilia/lower:sicilia-2/mmc:1/ed:2,Sicilia 2 - U06 (Messina)
+ocd-division/country:it/region:sicilia/lower:sicilia-2/mmc:2,Sicilia 2 - P02
+ocd-division/country:it/region:sicilia/lower:sicilia-2/mmc:2/ed:1,Sicilia 2 - U02 (Catania)
+ocd-division/country:it/region:sicilia/lower:sicilia-2/mmc:2/ed:2,Sicilia 2 - U03 (Acireale)
+ocd-division/country:it/region:sicilia/lower:sicilia-2/mmc:3,Sicilia 2 - P03
+ocd-division/country:it/region:sicilia/lower:sicilia-2/mmc:3/ed:1,Sicilia 2 - U01 (Ragusa)
+ocd-division/country:it/region:sicilia/lower:sicilia-2/mmc:3/ed:2,Sicilia 2 - U04 (Siracusa)
+ocd-division/country:it/region:toscana/lower:toscana,Circoscrizione Camera Toscana
+ocd-division/country:it/region:toscana/lower:toscana/mmc:1,Toscana - P01
+ocd-division/country:it/region:toscana/lower:toscana/mmc:1/ed:1,Toscana - U02 (Massa)
+ocd-division/country:it/region:toscana/lower:toscana/mmc:1/ed:2,Toscana - U03 (Lucca)
+ocd-division/country:it/region:toscana/lower:toscana/mmc:1/ed:3,Toscana - U06 (Prato)
+ocd-division/country:it/region:toscana/lower:toscana/mmc:2,Toscana - P02
+ocd-division/country:it/region:toscana/lower:toscana/mmc:2/ed:1,Toscana - U01 (Grosseto)
+ocd-division/country:it/region:toscana/lower:toscana/mmc:2/ed:2,Toscana - U05 (Livorno)
+ocd-division/country:it/region:toscana/lower:toscana/mmc:2/ed:3,Toscana - U09 (Arezzo)
+ocd-division/country:it/region:toscana/lower:toscana/mmc:3,Toscana - P03
+ocd-division/country:it/region:toscana/lower:toscana/mmc:3/ed:1,Toscana - U04 (Pisa)
+ocd-division/country:it/region:toscana/lower:toscana/mmc:3/ed:2,Toscana - U07 (Firenze)
+ocd-division/country:it/region:toscana/lower:toscana/mmc:3/ed:3,Toscana - U08 (Scandicci)
+ocd-division/country:it/region:trentino-alto_adige_sudtirol/lower:trentino-alto_adige_sudtirol,Circoscrizione Camera Trentino-Alto Adige/Südtirol
+ocd-division/country:it/region:trentino-alto_adige_sudtirol/lower:trentino-alto_adige_sudtirol/mmc:1,Trentino-Alto Adige/Südtirol - P01
+ocd-division/country:it/region:trentino-alto_adige_sudtirol/lower:trentino-alto_adige_sudtirol/mmc:1/ed:1,Trentino-Alto Adige/Südtirol - U01 (Trento)
+ocd-division/country:it/region:trentino-alto_adige_sudtirol/lower:trentino-alto_adige_sudtirol/mmc:1/ed:2,Trentino-Alto Adige/Südtirol - U02 (Rovereto)
+ocd-division/country:it/region:trentino-alto_adige_sudtirol/lower:trentino-alto_adige_sudtirol/mmc:1/ed:3,Trentino-Alto Adige/Südtirol - U03 (Bolzano/Bozen)
+ocd-division/country:it/region:trentino-alto_adige_sudtirol/lower:trentino-alto_adige_sudtirol/mmc:1/ed:4,Trentino-Alto Adige/Südtirol - U04 (Bressanone/Brixen)
+ocd-division/country:it/region:umbria/lower:umbria,Circoscrizione Camera Umbria
+ocd-division/country:it/region:umbria/lower:umbria/mmc:1,Umbria - P01
+ocd-division/country:it/region:umbria/lower:umbria/mmc:1/ed:1,Umbria - U01 (Terni)
+ocd-division/country:it/region:umbria/lower:umbria/mmc:1/ed:2,Umbria - U02 (Perugia)
+ocd-division/country:it/region:valle_d_aosta/lower:valle_d_aosta,Circoscrizione Camera Valle D'Aosta
+ocd-division/country:it/region:valle_d_aosta/lower:valle_d_aosta/ed:1,Valle D'Aosta - U01 (Aosta)
+ocd-division/country:it/region:veneto/lower:veneto-1,Circoscrizione Camera Veneto 1
+ocd-division/country:it/region:veneto/lower:veneto-1/mmc:1,Veneto 1 - P01
+ocd-division/country:it/region:veneto/lower:veneto-1/mmc:1/ed:1,Veneto 1 - U01 (Venezia)
+ocd-division/country:it/region:veneto/lower:veneto-1/mmc:1/ed:2,Veneto 1 - U02 (Chioggia)
+ocd-division/country:it/region:veneto/lower:veneto-1/mmc:1/ed:3,Veneto 1 - U03 (Treviso)
+ocd-division/country:it/region:veneto/lower:veneto-1/mmc:1/ed:4,Veneto 1 - U04 (Castelfranco Veneto)
+ocd-division/country:it/region:veneto/lower:veneto-1/mmc:1/ed:5,Veneto 1 - U05 (Belluno)
+ocd-division/country:it/region:veneto/lower:veneto-2,Circoscrizione Camera Veneto 2
+ocd-division/country:it/region:veneto/lower:veneto-2/mmc:1,Veneto 2 - P01
+ocd-division/country:it/region:veneto/lower:veneto-2/mmc:1/ed:1,Veneto 2 - U01 (Rovigo)
+ocd-division/country:it/region:veneto/lower:veneto-2/mmc:1/ed:2,Veneto 2 - U02 (Selvazzano Dentro)
+ocd-division/country:it/region:veneto/lower:veneto-2/mmc:1/ed:3,Veneto 2 - U03 (Padova)
+ocd-division/country:it/region:veneto/lower:veneto-2/mmc:2,Veneto 2 - P02
+ocd-division/country:it/region:veneto/lower:veneto-2/mmc:2/ed:1,Veneto 2 - U04 (Bassano del Grappa)
+ocd-division/country:it/region:veneto/lower:veneto-2/mmc:2/ed:2,Veneto 2 - U05 (Vicenza)
+ocd-division/country:it/region:veneto/lower:veneto-2/mmc:3,Veneto 2 - P03
+ocd-division/country:it/region:veneto/lower:veneto-2/mmc:3/ed:1,Veneto 2 - U06 (Verona)
+ocd-division/country:it/region:veneto/lower:veneto-2/mmc:3/ed:2,Veneto 2 - U07 (Villafranca di Verona)
