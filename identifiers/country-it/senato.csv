@@ -1,121 +1,121 @@
 id,name
-ocd-division/country:it/region:abruzzo/upper:abruzzo,Circoscrizione Senato Abruzzo
-ocd-division/country:it/region:abruzzo/upper:abruzzo/mmc:1,Abruzzo - P01
-ocd-division/country:it/region:abruzzo/upper:abruzzo/mmc:1/ed:1,Abruzzo - U01 (Pescara)
-ocd-division/country:it/region:valle_d_aosta/upper:valle_d_aosta,Circoscrizione Senato Valle D'Aosta
-ocd-division/country:it/region:valle_d_aosta/upper:valle_d_aosta/ed:1,Valle D'Aosta - U01 (Aosta)
-ocd-division/country:it/region:basilicata/upper:basilicata,Circoscrizione Senato Basilicata
-ocd-division/country:it/region:basilicata/upper:basilicata/mmc:1,Basilicata - P01
-ocd-division/country:it/region:basilicata/upper:basilicata/mmc:1/ed:1,Basilicata - U01 (Potenza)
-ocd-division/country:it/region:calabria/upper:calabria,Circoscrizione Senato Calabria
-ocd-division/country:it/region:calabria/upper:calabria/mmc:1,Calabria - P01
-ocd-division/country:it/region:calabria/upper:calabria/mmc:1/ed:1,Calabria - U01 (Corigliano-Rossano)
-ocd-division/country:it/region:calabria/upper:calabria/mmc:1/ed:2,Calabria - U02 (Reggio di Calabria)
-ocd-division/country:it/region:campania/upper:campania,Circoscrizione Senato Campania
-ocd-division/country:it/region:campania/upper:campania/mmc:1,Campania - P01
-ocd-division/country:it/region:campania/upper:campania/mmc:1/ed:1,Campania - U04 (Napoli: Quartiere 19 - Fuorigrotta)
-ocd-division/country:it/region:campania/upper:campania/mmc:1/ed:2,Campania - U05 (Giugliano in Campania)
-ocd-division/country:it/region:campania/upper:campania/mmc:1/ed:3,Campania - U06 (Torre del Greco)
-ocd-division/country:it/region:campania/upper:campania/mmc:1/ed:4,Campania - U07 (Acerra)
-ocd-division/country:it/region:campania/upper:campania/mmc:2,Campania - P02
-ocd-division/country:it/region:campania/upper:campania/mmc:2/ed:1,Campania - U01 (Caserta)
-ocd-division/country:it/region:campania/upper:campania/mmc:2/ed:2,Campania - U02 (Benevento)
-ocd-division/country:it/region:campania/upper:campania/mmc:2/ed:3,Campania - U03 (Salerno)
-ocd-division/country:it/region:emilia-romagna/upper:emilia-romagna,Circoscrizione Senato Emilia-Romagna
-ocd-division/country:it/region:emilia-romagna/upper:emilia-romagna/mmc:1,Emilia-Romagna - P01
-ocd-division/country:it/region:emilia-romagna/upper:emilia-romagna/mmc:1/ed:1,Emilia-Romagna - U01 (Parma)
-ocd-division/country:it/region:emilia-romagna/upper:emilia-romagna/mmc:1/ed:2,Emilia-Romagna - U02 (Modena)
-ocd-division/country:it/region:emilia-romagna/upper:emilia-romagna/mmc:2,Emilia-Romagna - P02
-ocd-division/country:it/region:emilia-romagna/upper:emilia-romagna/mmc:2/ed:3,Emilia-Romagna - U03 (Bologna)
-ocd-division/country:it/region:emilia-romagna/upper:emilia-romagna/mmc:2/ed:4,Emilia-Romagna - U04 (Ravenna)
-ocd-division/country:it/region:emilia-romagna/upper:emilia-romagna/mmc:2/ed:5,Emilia-Romagna - U05 (Rimini)
-ocd-division/country:it/region:friuli-venezia_giulia/upper:friuli-venezia_giulia,Circoscrizione Senato Friuli-Venezia Giulia
-ocd-division/country:it/region:friuli-venezia_giulia/upper:friuli-venezia_giulia/mmc:1,Friuli-Venezia Giulia - P01
-ocd-division/country:it/region:friuli-venezia_giulia/upper:friuli-venezia_giulia/mmc:1/ed:1,Friuli-Venezia Giulia - U01 (Trieste)
-ocd-division/country:it/region:lazio/upper:lazio,Circoscrizione Senato Lazio
-ocd-division/country:it/region:lazio/upper:lazio/mmc:1,Lazio - P01
-ocd-division/country:it/region:lazio/upper:lazio/mmc:1/ed:1,Lazio - U02 (Roma: Municipio XIV)
-ocd-division/country:it/region:lazio/upper:lazio/mmc:1/ed:2,Lazio - U03 (Roma: Municipio V)
-ocd-division/country:it/region:lazio/upper:lazio/mmc:1/ed:3,Lazio - U04 (Roma: Municipio VII)
-ocd-division/country:it/region:lazio/upper:lazio/mmc:2,Lazio - P02
-ocd-division/country:it/region:lazio/upper:lazio/mmc:2/ed:4,Lazio - U01 (Viterbo)
-ocd-division/country:it/region:lazio/upper:lazio/mmc:2/ed:5,Lazio - U05 (Guidonia Montecelio)
-ocd-division/country:it/region:lazio/upper:lazio/mmc:2/ed:6,Lazio - U06 (Latina)
-ocd-division/country:it/region:liguria/upper:liguria,Circoscrizione Senato Liguria
-ocd-division/country:it/region:liguria/upper:liguria/mmc:1,Liguria - P01
-ocd-division/country:it/region:liguria/upper:liguria/mmc:1/ed:1,Liguria - U01 (Genova: Municipio VII - Ponente)
-ocd-division/country:it/region:liguria/upper:liguria/mmc:1/ed:2,Liguria - U02 (La Spezia)
-ocd-division/country:it/region:lombardia/upper:lombardia,Circoscrizione Senato Lombardia
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:1,Lombardia - P01
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:1/ed:1,Lombardia - U01 (Varese)
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:1/ed:2,Lombardia - U02 (Como)
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:1/ed:3,Lombardia - U06 (Monza)
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:2,Lombardia - P02
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:2/ed:4,Lombardia - U03 (Milano: Nil 21 - Buenos Aires - Venezia)
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:2/ed:5,Lombardia - U04 (Sesto San Giovanni)
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:2/ed:6,Lombardia - U05 (Cologno Monzese)
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:2/ed:10,Lombardia - U10 (Pavia)
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:3,Lombardia - P03
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:3/ed:7,Lombardia - U07 (Bergamo)
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:3/ed:8,Lombardia - U08 (Brescia)
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:3/ed:9,Lombardia - U09 (Treviglio)
-ocd-division/country:it/region:lombardia/upper:lombardia/mmc:3/ed:11,Lombardia - U11 (Cremona)
-ocd-division/country:it/region:marche/upper:marche,Circoscrizione Senato Marche
-ocd-division/country:it/region:marche/upper:marche/mmc:1,Marche - P01
-ocd-division/country:it/region:marche/upper:marche/mmc:1/ed:1,Marche - U01 (Ascoli Piceno)
-ocd-division/country:it/region:marche/upper:marche/mmc:1/ed:2,Marche - U02 (Ancona)
-ocd-division/country:it/region:molise/upper:molise,Circoscrizione Senato Molise
-ocd-division/country:it/region:molise/upper:molise/mmc:1,Molise - P01
-ocd-division/country:it/region:molise/upper:molise/mmc:1/ed:1,Molise - U01 (Campobasso)
-ocd-division/country:it/region:piemonte/upper:piemonte,Circoscrizione Senato Piemonte
-ocd-division/country:it/region:piemonte/upper:piemonte/mmc:1,Piemonte - P01
-ocd-division/country:it/region:piemonte/upper:piemonte/mmc:1/ed:1,Piemonte - U01 (Torino: Circoscrizione 2 - Santa Rita - Mirafiori Nord - Mirafiori Sud)
-ocd-division/country:it/region:piemonte/upper:piemonte/mmc:1/ed:2,Piemonte - U02 (Moncalieri)
-ocd-division/country:it/region:piemonte/upper:piemonte/mmc:2,Piemonte - P02
-ocd-division/country:it/region:piemonte/upper:piemonte/mmc:2/ed:3,Piemonte - U03 (Novara)
-ocd-division/country:it/region:piemonte/upper:piemonte/mmc:2/ed:4,Piemonte - U04 (Alessandria)
-ocd-division/country:it/region:piemonte/upper:piemonte/mmc:2/ed:5,Piemonte - U05 (Cuneo)
-ocd-division/country:it/region:puglia/upper:puglia,Circoscrizione Senato Puglia
-ocd-division/country:it/region:puglia/upper:puglia/mmc:1,Puglia - P01
-ocd-division/country:it/region:puglia/upper:puglia/mmc:1/ed:1,Puglia - U01 (Foggia)
-ocd-division/country:it/region:puglia/upper:puglia/mmc:1/ed:2,Puglia - U02 (Andria)
-ocd-division/country:it/region:puglia/upper:puglia/mmc:1/ed:3,Puglia - U03 (Bari)
-ocd-division/country:it/region:puglia/upper:puglia/mmc:1/ed:4,Puglia - U04 (Taranto)
-ocd-division/country:it/region:puglia/upper:puglia/mmc:1/ed:5,Puglia - U05 (Lecce)
-ocd-division/country:it/region:sardegna/upper:sardegna,Circoscrizione Senato Sardegna
-ocd-division/country:it/region:sardegna/upper:sardegna/mmc:1,Sardegna - P01
-ocd-division/country:it/region:sardegna/upper:sardegna/mmc:1/ed:1,Sardegna - U01 (Cagliari)
-ocd-division/country:it/region:sardegna/upper:sardegna/mmc:1/ed:2,Sardegna - U02 (Sassari)
-ocd-division/country:it/region:sicilia/upper:sicilia,Circoscrizione Senato Sicilia
-ocd-division/country:it/region:sicilia/upper:sicilia/mmc:1,Sicilia - P01
-ocd-division/country:it/region:sicilia/upper:sicilia/mmc:1/ed:1,Sicilia - U01 (Palermo: Quartiere 11 - Sette Cannoli)
-ocd-division/country:it/region:sicilia/upper:sicilia/mmc:1/ed:2,Sicilia - U02 (Marsala)
-ocd-division/country:it/region:sicilia/upper:sicilia/mmc:1/ed:3,Sicilia - U03 (Gela)
-ocd-division/country:it/region:sicilia/upper:sicilia/mmc:2,Sicilia - P02
-ocd-division/country:it/region:sicilia/upper:sicilia/mmc:2/ed:4,Sicilia - U04 (Catania)
-ocd-division/country:it/region:sicilia/upper:sicilia/mmc:2/ed:5,Sicilia - U05 (Siracusa)
-ocd-division/country:it/region:sicilia/upper:sicilia/mmc:2/ed:6,Sicilia - U06 (Messina)
-ocd-division/country:it/region:toscana/upper:toscana,Circoscrizione Senato Toscana
-ocd-division/country:it/region:toscana/upper:toscana/mmc:1,Toscana - P01
-ocd-division/country:it/region:toscana/upper:toscana/mmc:1/ed:1,Toscana - U01 (Arezzo)
-ocd-division/country:it/region:toscana/upper:toscana/mmc:1/ed:2,Toscana - U02 (Livorno)
-ocd-division/country:it/region:toscana/upper:toscana/mmc:1/ed:3,Toscana - U03 (Prato)
-ocd-division/country:it/region:toscana/upper:toscana/mmc:1/ed:4,Toscana - U04 (Firenze)
-ocd-division/country:it/region:trentino-alto_adige_sudtirol/upper:trentino-alto_adige_sudtirol,Circoscrizione Senato Trentino-Alto Adige/Südtirol
-ocd-division/country:it/region:trentino-alto_adige_sudtirol/upper:trentino-alto_adige_sudtirol/ed:1,Trentino-Alto Adige/Südtirol - U01 (Trento)
-ocd-division/country:it/region:trentino-alto_adige_sudtirol/upper:trentino-alto_adige_sudtirol/ed:2,Trentino-Alto Adige/Südtirol - U02 (Rovereto)
-ocd-division/country:it/region:trentino-alto_adige_sudtirol/upper:trentino-alto_adige_sudtirol/ed:3,Trentino-Alto Adige/Südtirol - U03 (Pergine Valsugana)
-ocd-division/country:it/region:trentino-alto_adige_sudtirol/upper:trentino-alto_adige_sudtirol/ed:4,Trentino-Alto Adige/Südtirol - U04 (Bolzano/Bozen)
-ocd-division/country:it/region:trentino-alto_adige_sudtirol/upper:trentino-alto_adige_sudtirol/ed:5,Trentino-Alto Adige/Südtirol - U05 (Merano/Meran)
-ocd-division/country:it/region:trentino-alto_adige_sudtirol/upper:trentino-alto_adige_sudtirol/ed:6,Trentino-Alto Adige/Südtirol - U06 (Bressanone/Brixen)
-ocd-division/country:it/region:umbria/upper:umbria,Circoscrizione Senato Umbria
-ocd-division/country:it/region:umbria/upper:umbria/mmc:1,Umbria - P01
-ocd-division/country:it/region:umbria/upper:umbria/mmc:1/ed:1,Umbria - U01 (Perugia)
-ocd-division/country:it/region:veneto/upper:veneto,Circoscrizione Senato Veneto
-ocd-division/country:it/region:veneto/upper:veneto/mmc:1,Veneto - P01
-ocd-division/country:it/region:veneto/upper:veneto/mmc:1/ed:1,Veneto - U01 (Venezia)
-ocd-division/country:it/region:veneto/upper:veneto/mmc:1/ed:2,Veneto - U02 (Treviso)
-ocd-division/country:it/region:veneto/upper:veneto/mmc:2,Veneto - P02
-ocd-division/country:it/region:veneto/upper:veneto/mmc:2/ed:3,Veneto - U03 (Padova)
-ocd-division/country:it/region:veneto/upper:veneto/mmc:2/ed:4,Veneto - U04 (Vicenza)
-ocd-division/country:it/region:veneto/upper:veneto/mmc:2/ed:5,Veneto - U05 (Verona)
+ocd-division/country:it/upper:abruzzo,Circoscrizione Senato Abruzzo
+ocd-division/country:it/upper:abruzzo/mmc:1,Abruzzo - P01
+ocd-division/country:it/upper:abruzzo/mmc:1/ed:1,Abruzzo - U01 (Pescara)
+ocd-division/country:it/upper:valle_d_aosta,Circoscrizione Senato Valle D'Aosta
+ocd-division/country:it/upper:valle_d_aosta/ed:1,Valle D'Aosta - U01 (Aosta)
+ocd-division/country:it/upper:basilicata,Circoscrizione Senato Basilicata
+ocd-division/country:it/upper:basilicata/mmc:1,Basilicata - P01
+ocd-division/country:it/upper:basilicata/mmc:1/ed:1,Basilicata - U01 (Potenza)
+ocd-division/country:it/upper:calabria,Circoscrizione Senato Calabria
+ocd-division/country:it/upper:calabria/mmc:1,Calabria - P01
+ocd-division/country:it/upper:calabria/mmc:1/ed:1,Calabria - U01 (Corigliano-Rossano)
+ocd-division/country:it/upper:calabria/mmc:1/ed:2,Calabria - U02 (Reggio di Calabria)
+ocd-division/country:it/upper:campania,Circoscrizione Senato Campania
+ocd-division/country:it/upper:campania/mmc:1,Campania - P01
+ocd-division/country:it/upper:campania/mmc:1/ed:1,Campania - U04 (Napoli: Quartiere 19 - Fuorigrotta)
+ocd-division/country:it/upper:campania/mmc:1/ed:2,Campania - U05 (Giugliano in Campania)
+ocd-division/country:it/upper:campania/mmc:1/ed:3,Campania - U06 (Torre del Greco)
+ocd-division/country:it/upper:campania/mmc:1/ed:4,Campania - U07 (Acerra)
+ocd-division/country:it/upper:campania/mmc:2,Campania - P02
+ocd-division/country:it/upper:campania/mmc:2/ed:1,Campania - U01 (Caserta)
+ocd-division/country:it/upper:campania/mmc:2/ed:2,Campania - U02 (Benevento)
+ocd-division/country:it/upper:campania/mmc:2/ed:3,Campania - U03 (Salerno)
+ocd-division/country:it/upper:emilia-romagna,Circoscrizione Senato Emilia-Romagna
+ocd-division/country:it/upper:emilia-romagna/mmc:1,Emilia-Romagna - P01
+ocd-division/country:it/upper:emilia-romagna/mmc:1/ed:1,Emilia-Romagna - U01 (Parma)
+ocd-division/country:it/upper:emilia-romagna/mmc:1/ed:2,Emilia-Romagna - U02 (Modena)
+ocd-division/country:it/upper:emilia-romagna/mmc:2,Emilia-Romagna - P02
+ocd-division/country:it/upper:emilia-romagna/mmc:2/ed:3,Emilia-Romagna - U03 (Bologna)
+ocd-division/country:it/upper:emilia-romagna/mmc:2/ed:4,Emilia-Romagna - U04 (Ravenna)
+ocd-division/country:it/upper:emilia-romagna/mmc:2/ed:5,Emilia-Romagna - U05 (Rimini)
+ocd-division/country:it/upper:friuli-venezia_giulia,Circoscrizione Senato Friuli-Venezia Giulia
+ocd-division/country:it/upper:friuli-venezia_giulia/mmc:1,Friuli-Venezia Giulia - P01
+ocd-division/country:it/upper:friuli-venezia_giulia/mmc:1/ed:1,Friuli-Venezia Giulia - U01 (Trieste)
+ocd-division/country:it/upper:lazio,Circoscrizione Senato Lazio
+ocd-division/country:it/upper:lazio/mmc:1,Lazio - P01
+ocd-division/country:it/upper:lazio/mmc:1/ed:1,Lazio - U02 (Roma: Municipio XIV)
+ocd-division/country:it/upper:lazio/mmc:1/ed:2,Lazio - U03 (Roma: Municipio V)
+ocd-division/country:it/upper:lazio/mmc:1/ed:3,Lazio - U04 (Roma: Municipio VII)
+ocd-division/country:it/upper:lazio/mmc:2,Lazio - P02
+ocd-division/country:it/upper:lazio/mmc:2/ed:4,Lazio - U01 (Viterbo)
+ocd-division/country:it/upper:lazio/mmc:2/ed:5,Lazio - U05 (Guidonia Montecelio)
+ocd-division/country:it/upper:lazio/mmc:2/ed:6,Lazio - U06 (Latina)
+ocd-division/country:it/upper:liguria,Circoscrizione Senato Liguria
+ocd-division/country:it/upper:liguria/mmc:1,Liguria - P01
+ocd-division/country:it/upper:liguria/mmc:1/ed:1,Liguria - U01 (Genova: Municipio VII - Ponente)
+ocd-division/country:it/upper:liguria/mmc:1/ed:2,Liguria - U02 (La Spezia)
+ocd-division/country:it/upper:lombardia,Circoscrizione Senato Lombardia
+ocd-division/country:it/upper:lombardia/mmc:1,Lombardia - P01
+ocd-division/country:it/upper:lombardia/mmc:1/ed:1,Lombardia - U01 (Varese)
+ocd-division/country:it/upper:lombardia/mmc:1/ed:2,Lombardia - U02 (Como)
+ocd-division/country:it/upper:lombardia/mmc:1/ed:3,Lombardia - U06 (Monza)
+ocd-division/country:it/upper:lombardia/mmc:2,Lombardia - P02
+ocd-division/country:it/upper:lombardia/mmc:2/ed:4,Lombardia - U03 (Milano: Nil 21 - Buenos Aires - Venezia)
+ocd-division/country:it/upper:lombardia/mmc:2/ed:5,Lombardia - U04 (Sesto San Giovanni)
+ocd-division/country:it/upper:lombardia/mmc:2/ed:6,Lombardia - U05 (Cologno Monzese)
+ocd-division/country:it/upper:lombardia/mmc:2/ed:10,Lombardia - U10 (Pavia)
+ocd-division/country:it/upper:lombardia/mmc:3,Lombardia - P03
+ocd-division/country:it/upper:lombardia/mmc:3/ed:7,Lombardia - U07 (Bergamo)
+ocd-division/country:it/upper:lombardia/mmc:3/ed:8,Lombardia - U08 (Brescia)
+ocd-division/country:it/upper:lombardia/mmc:3/ed:9,Lombardia - U09 (Treviglio)
+ocd-division/country:it/upper:lombardia/mmc:3/ed:11,Lombardia - U11 (Cremona)
+ocd-division/country:it/upper:marche,Circoscrizione Senato Marche
+ocd-division/country:it/upper:marche/mmc:1,Marche - P01
+ocd-division/country:it/upper:marche/mmc:1/ed:1,Marche - U01 (Ascoli Piceno)
+ocd-division/country:it/upper:marche/mmc:1/ed:2,Marche - U02 (Ancona)
+ocd-division/country:it/upper:molise,Circoscrizione Senato Molise
+ocd-division/country:it/upper:molise/mmc:1,Molise - P01
+ocd-division/country:it/upper:molise/mmc:1/ed:1,Molise - U01 (Campobasso)
+ocd-division/country:it/upper:piemonte,Circoscrizione Senato Piemonte
+ocd-division/country:it/upper:piemonte/mmc:1,Piemonte - P01
+ocd-division/country:it/upper:piemonte/mmc:1/ed:1,Piemonte - U01 (Torino: Circoscrizione 2 - Santa Rita - Mirafiori Nord - Mirafiori Sud)
+ocd-division/country:it/upper:piemonte/mmc:1/ed:2,Piemonte - U02 (Moncalieri)
+ocd-division/country:it/upper:piemonte/mmc:2,Piemonte - P02
+ocd-division/country:it/upper:piemonte/mmc:2/ed:3,Piemonte - U03 (Novara)
+ocd-division/country:it/upper:piemonte/mmc:2/ed:4,Piemonte - U04 (Alessandria)
+ocd-division/country:it/upper:piemonte/mmc:2/ed:5,Piemonte - U05 (Cuneo)
+ocd-division/country:it/upper:puglia,Circoscrizione Senato Puglia
+ocd-division/country:it/upper:puglia/mmc:1,Puglia - P01
+ocd-division/country:it/upper:puglia/mmc:1/ed:1,Puglia - U01 (Foggia)
+ocd-division/country:it/upper:puglia/mmc:1/ed:2,Puglia - U02 (Andria)
+ocd-division/country:it/upper:puglia/mmc:1/ed:3,Puglia - U03 (Bari)
+ocd-division/country:it/upper:puglia/mmc:1/ed:4,Puglia - U04 (Taranto)
+ocd-division/country:it/upper:puglia/mmc:1/ed:5,Puglia - U05 (Lecce)
+ocd-division/country:it/upper:sardegna,Circoscrizione Senato Sardegna
+ocd-division/country:it/upper:sardegna/mmc:1,Sardegna - P01
+ocd-division/country:it/upper:sardegna/mmc:1/ed:1,Sardegna - U01 (Cagliari)
+ocd-division/country:it/upper:sardegna/mmc:1/ed:2,Sardegna - U02 (Sassari)
+ocd-division/country:it/upper:sicilia,Circoscrizione Senato Sicilia
+ocd-division/country:it/upper:sicilia/mmc:1,Sicilia - P01
+ocd-division/country:it/upper:sicilia/mmc:1/ed:1,Sicilia - U01 (Palermo: Quartiere 11 - Sette Cannoli)
+ocd-division/country:it/upper:sicilia/mmc:1/ed:2,Sicilia - U02 (Marsala)
+ocd-division/country:it/upper:sicilia/mmc:1/ed:3,Sicilia - U03 (Gela)
+ocd-division/country:it/upper:sicilia/mmc:2,Sicilia - P02
+ocd-division/country:it/upper:sicilia/mmc:2/ed:4,Sicilia - U04 (Catania)
+ocd-division/country:it/upper:sicilia/mmc:2/ed:5,Sicilia - U05 (Siracusa)
+ocd-division/country:it/upper:sicilia/mmc:2/ed:6,Sicilia - U06 (Messina)
+ocd-division/country:it/upper:toscana,Circoscrizione Senato Toscana
+ocd-division/country:it/upper:toscana/mmc:1,Toscana - P01
+ocd-division/country:it/upper:toscana/mmc:1/ed:1,Toscana - U01 (Arezzo)
+ocd-division/country:it/upper:toscana/mmc:1/ed:2,Toscana - U02 (Livorno)
+ocd-division/country:it/upper:toscana/mmc:1/ed:3,Toscana - U03 (Prato)
+ocd-division/country:it/upper:toscana/mmc:1/ed:4,Toscana - U04 (Firenze)
+ocd-division/country:it/upper:trentino-alto_adige_sudtirol,Circoscrizione Senato Trentino-Alto Adige/Südtirol
+ocd-division/country:it/upper:trentino-alto_adige_sudtirol/ed:1,Trentino-Alto Adige/Südtirol - U01 (Trento)
+ocd-division/country:it/upper:trentino-alto_adige_sudtirol/ed:2,Trentino-Alto Adige/Südtirol - U02 (Rovereto)
+ocd-division/country:it/upper:trentino-alto_adige_sudtirol/ed:3,Trentino-Alto Adige/Südtirol - U03 (Pergine Valsugana)
+ocd-division/country:it/upper:trentino-alto_adige_sudtirol/ed:4,Trentino-Alto Adige/Südtirol - U04 (Bolzano/Bozen)
+ocd-division/country:it/upper:trentino-alto_adige_sudtirol/ed:5,Trentino-Alto Adige/Südtirol - U05 (Merano/Meran)
+ocd-division/country:it/upper:trentino-alto_adige_sudtirol/ed:6,Trentino-Alto Adige/Südtirol - U06 (Bressanone/Brixen)
+ocd-division/country:it/upper:umbria,Circoscrizione Senato Umbria
+ocd-division/country:it/upper:umbria/mmc:1,Umbria - P01
+ocd-division/country:it/upper:umbria/mmc:1/ed:1,Umbria - U01 (Perugia)
+ocd-division/country:it/upper:veneto,Circoscrizione Senato Veneto
+ocd-division/country:it/upper:veneto/mmc:1,Veneto - P01
+ocd-division/country:it/upper:veneto/mmc:1/ed:1,Veneto - U01 (Venezia)
+ocd-division/country:it/upper:veneto/mmc:1/ed:2,Veneto - U02 (Treviso)
+ocd-division/country:it/upper:veneto/mmc:2,Veneto - P02
+ocd-division/country:it/upper:veneto/mmc:2/ed:3,Veneto - U03 (Padova)
+ocd-division/country:it/upper:veneto/mmc:2/ed:4,Veneto - U04 (Vicenza)
+ocd-division/country:it/upper:veneto/mmc:2/ed:5,Veneto - U05 (Verona)
