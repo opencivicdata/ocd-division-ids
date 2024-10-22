@@ -1,7 +1,8 @@
 id,name,validFrom,validThrough
 ocd-division/country:ph/cd:abra,Abra's at-large,,
-ocd-division/country:ph/cd:agusan_del_norte_1st,Agusan del Norte's 1st,,
-ocd-division/country:ph/cd:agusan_del_norte_2nd,Agusan del Norte's 2nd,,
+ocd-division/country:ph/cd:agusan_del_norte,Agusan del Norte,2025-05,
+ocd-division/country:ph/cd:agusan_del_norte_1st,Agusan del Norte's 1st,,2025-05
+ocd-division/country:ph/cd:agusan_del_norte_2nd,Agusan del Norte's 2nd,,2025-05
 ocd-division/country:ph/cd:agusan_del_sur_1st,Agusan del Sur's 1st,,
 ocd-division/country:ph/cd:agusan_del_sur_2nd,Agusan del Sur's 2nd,,
 ocd-division/country:ph/cd:aklan_1st,Aklan's 1st,,
@@ -43,6 +44,7 @@ ocd-division/country:ph/cd:bulacan_3rd,Bulacan's 3rd,,
 ocd-division/country:ph/cd:bulacan_4th,Bulacan's 4th,,
 ocd-division/country:ph/cd:bulacan_5th,Bulacan's 5th,,
 ocd-division/country:ph/cd:bulacan_6th,Bulacan's 6th,,
+ocd-division/country:ph/cd:butuan,Butuan,2025-05,
 ocd-division/country:ph/cd:cagayan_1st,Cagayan's 1st,,
 ocd-division/country:ph/cd:cagayan_2nd,Cagayan's 2nd,,
 ocd-division/country:ph/cd:cagayan_3rd,Cagayan's 3rd,,
