@@ -1,300 +1,306 @@
-id,name
-ocd-division/country:de/ed:1,Flensburg – Schleswig
-ocd-division/country:de/ed:10,Herzogtum Lauenburg – Stormarn-Süd
-ocd-division/country:de/ed:100,Rheinisch-Bergischer Kreis
-ocd-division/country:de/ed:101,Leverkusen – Köln IV
-ocd-division/country:de/ed:102,Wuppertal I
-ocd-division/country:de/ed:103,Solingen – Remscheid – Wuppertal II
-ocd-division/country:de/ed:104,Mettmann I
-ocd-division/country:de/ed:105,Mettmann II
-ocd-division/country:de/ed:106,Düsseldorf I
-ocd-division/country:de/ed:107,Düsseldorf II
-ocd-division/country:de/ed:108,Neuss I
-ocd-division/country:de/ed:109,Mönchengladbach
-ocd-division/country:de/ed:11,Lübeck
-ocd-division/country:de/ed:110,Krefeld I – Neuss II
-ocd-division/country:de/ed:111,Viersen
-ocd-division/country:de/ed:112,Kleve
-ocd-division/country:de/ed:113,Wesel I
-ocd-division/country:de/ed:114,Krefeld II – Wesel II
-ocd-division/country:de/ed:115,Duisburg I
-ocd-division/country:de/ed:116,Duisburg II
-ocd-division/country:de/ed:117,Oberhausen – Wesel III
-ocd-division/country:de/ed:118,Mülheim – Essen I
-ocd-division/country:de/ed:119,Essen II
-ocd-division/country:de/ed:12,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I
-ocd-division/country:de/ed:120,Essen III
-ocd-division/country:de/ed:121,Recklinghausen I
-ocd-division/country:de/ed:122,Recklinghausen II
-ocd-division/country:de/ed:123,Gelsenkirchen
-ocd-division/country:de/ed:124,Steinfurt I – Borken I
-ocd-division/country:de/ed:125,Bottrop – Recklinghausen III
-ocd-division/country:de/ed:126,Borken II
-ocd-division/country:de/ed:127,Coesfeld – Steinfurt II
-ocd-division/country:de/ed:128,Steinfurt III
-ocd-division/country:de/ed:129,Münster
-ocd-division/country:de/ed:13,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I
-ocd-division/country:de/ed:130,Warendorf
-ocd-division/country:de/ed:131,Gütersloh I
-ocd-division/country:de/ed:132,Bielefeld – Gütersloh II
-ocd-division/country:de/ed:133,Herford – Minden-Lübbecke II
-ocd-division/country:de/ed:134,Minden-Lübbecke I
-ocd-division/country:de/ed:135,Lippe I
-ocd-division/country:de/ed:136,Höxter – Gütersloh III – Lippe II
-ocd-division/country:de/ed:137,Paderborn
-ocd-division/country:de/ed:138,Hagen – Ennepe-Ruhr-Kreis I
-ocd-division/country:de/ed:139,Ennepe-Ruhr-Kreis II
-ocd-division/country:de/ed:14,Rostock – Landkreis Rostock II
-ocd-division/country:de/ed:140,Bochum I
-ocd-division/country:de/ed:141,Herne – Bochum II
-ocd-division/country:de/ed:142,Dortmund I
-ocd-division/country:de/ed:143,Dortmund II
-ocd-division/country:de/ed:144,Unna I
-ocd-division/country:de/ed:145,Hamm – Unna II
-ocd-division/country:de/ed:146,Soest
-ocd-division/country:de/ed:147,Hochsauerlandkreis
-ocd-division/country:de/ed:148,Siegen-Wittgenstein
-ocd-division/country:de/ed:149,Olpe – Märkischer Kreis I
-ocd-division/country:de/ed:15,Vorpommern-Rügen – Vorpommern-Greifswald I
-ocd-division/country:de/ed:150,Märkischer Kreis II
-ocd-division/country:de/ed:151,Nordsachsen
-ocd-division/country:de/ed:152,Leipzig I
-ocd-division/country:de/ed:153,Leipzig II
-ocd-division/country:de/ed:154,Leipzig-Land
-ocd-division/country:de/ed:155,Meißen
-ocd-division/country:de/ed:156,Bautzen I
-ocd-division/country:de/ed:157,Görlitz
-ocd-division/country:de/ed:158,Sächsische Schweiz-Osterzgebirge
-ocd-division/country:de/ed:159,Dresden I
-ocd-division/country:de/ed:16,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II
-ocd-division/country:de/ed:160,Dresden II – Bautzen II
-ocd-division/country:de/ed:161,Mittelsachsen
-ocd-division/country:de/ed:162,Chemnitz
-ocd-division/country:de/ed:163,Chemnitzer Umland – Erzgebirgskreis II
-ocd-division/country:de/ed:164,Erzgebirgskreis I
-ocd-division/country:de/ed:165,Zwickau
-ocd-division/country:de/ed:166,Vogtlandkreis
-ocd-division/country:de/ed:167,Waldeck
-ocd-division/country:de/ed:168,Kassel
-ocd-division/country:de/ed:169,Werra-Meißner – Hersfeld-Rotenburg
-ocd-division/country:de/ed:17,Mecklenburgische Seenplatte II – Landkreis Rostock III
-ocd-division/country:de/ed:170,Schwalm-Eder
-ocd-division/country:de/ed:171,Marburg
-ocd-division/country:de/ed:172,Lahn-Dill
-ocd-division/country:de/ed:173,Gießen
-ocd-division/country:de/ed:174,Fulda
-ocd-division/country:de/ed:175,Main-Kinzig – Wetterau II – Schotten
-ocd-division/country:de/ed:176,Hochtaunus
-ocd-division/country:de/ed:177,Wetterau I
-ocd-division/country:de/ed:178,Rheingau-Taunus – Limburg
-ocd-division/country:de/ed:179,Wiesbaden
-ocd-division/country:de/ed:18,Hamburg-Mitte
-ocd-division/country:de/ed:180,Hanau
-ocd-division/country:de/ed:181,Main-Taunus
-ocd-division/country:de/ed:182,Frankfurt am Main I
-ocd-division/country:de/ed:183,Frankfurt am Main II
-ocd-division/country:de/ed:184,Groß-Gerau
-ocd-division/country:de/ed:185,Offenbach
-ocd-division/country:de/ed:186,Darmstadt
-ocd-division/country:de/ed:187,Odenwald
-ocd-division/country:de/ed:188,Bergstraße
-ocd-division/country:de/ed:189,Eichsfeld – Nordhausen – Kyffhäuserkreis
-ocd-division/country:de/ed:19,Hamburg-Altona
-ocd-division/country:de/ed:190,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis
-ocd-division/country:de/ed:191,Jena – Sömmerda – Weimarer Land I
-ocd-division/country:de/ed:192,Gotha – Ilm-Kreis
-ocd-division/country:de/ed:193,Erfurt – Weimar – Weimarer Land II
-ocd-division/country:de/ed:194,Gera – Greiz – Altenburger Land
-ocd-division/country:de/ed:195,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis
-ocd-division/country:de/ed:196,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg
-ocd-division/country:de/ed:197,Neuwied
-ocd-division/country:de/ed:198,Ahrweiler
-ocd-division/country:de/ed:199,Koblenz
-ocd-division/country:de/ed:2,Nordfriesland – Dithmarschen Nord
-ocd-division/country:de/ed:20,Hamburg-Eimsbüttel
-ocd-division/country:de/ed:200,Mosel/Rhein-Hunsrück
-ocd-division/country:de/ed:201,Kreuznach
-ocd-division/country:de/ed:202,Bitburg
-ocd-division/country:de/ed:203,Trier
-ocd-division/country:de/ed:204,Montabaur
-ocd-division/country:de/ed:205,Mainz
-ocd-division/country:de/ed:206,Worms
-ocd-division/country:de/ed:207,Ludwigshafen/Frankenthal
-ocd-division/country:de/ed:208,Neustadt – Speyer
-ocd-division/country:de/ed:209,Kaiserslautern
-ocd-division/country:de/ed:21,Hamburg-Nord
-ocd-division/country:de/ed:210,Pirmasens
-ocd-division/country:de/ed:211,Südpfalz
-ocd-division/country:de/ed:212,Altötting
-ocd-division/country:de/ed:213,Erding – Ebersberg
-ocd-division/country:de/ed:214,Freising
-ocd-division/country:de/ed:215,Fürstenfeldbruck
-ocd-division/country:de/ed:216,Ingolstadt
-ocd-division/country:de/ed:217,München-Nord
-ocd-division/country:de/ed:218,München-Ost
-ocd-division/country:de/ed:219,München-Süd
-ocd-division/country:de/ed:22,Hamburg-Wandsbek
-ocd-division/country:de/ed:220,München-West/Mitte
-ocd-division/country:de/ed:221,München-Land
-ocd-division/country:de/ed:222,Rosenheim
-ocd-division/country:de/ed:223,Bad Tölz-Wolfratshausen – Miesbach
-ocd-division/country:de/ed:224,Starnberg – Landsberg am Lech
-ocd-division/country:de/ed:225,Traunstein
-ocd-division/country:de/ed:226,Weilheim
-ocd-division/country:de/ed:227,Deggendorf
-ocd-division/country:de/ed:228,Landshut
-ocd-division/country:de/ed:229,Passau
-ocd-division/country:de/ed:23,Hamburg-Bergedorf – Harburg
-ocd-division/country:de/ed:230,Rottal-Inn
-ocd-division/country:de/ed:231,Straubing
-ocd-division/country:de/ed:232,Amberg
-ocd-division/country:de/ed:233,Regensburg
-ocd-division/country:de/ed:234,Schwandorf
-ocd-division/country:de/ed:235,Weiden
-ocd-division/country:de/ed:236,Bamberg
-ocd-division/country:de/ed:237,Bayreuth
-ocd-division/country:de/ed:238,Coburg
-ocd-division/country:de/ed:239,Hof
-ocd-division/country:de/ed:24,Aurich – Emden
-ocd-division/country:de/ed:240,Kulmbach
-ocd-division/country:de/ed:241,Ansbach
-ocd-division/country:de/ed:242,Erlangen
-ocd-division/country:de/ed:243,Fürth
-ocd-division/country:de/ed:244,Nürnberg-Nord
-ocd-division/country:de/ed:245,Nürnberg-Süd
-ocd-division/country:de/ed:246,Roth
-ocd-division/country:de/ed:247,Aschaffenburg
-ocd-division/country:de/ed:248,Bad Kissingen
-ocd-division/country:de/ed:249,Main-Spessart
-ocd-division/country:de/ed:25,Unterems
-ocd-division/country:de/ed:250,Schweinfurt
-ocd-division/country:de/ed:251,Würzburg
-ocd-division/country:de/ed:252,Augsburg-Stadt
-ocd-division/country:de/ed:253,Augsburg-Land
-ocd-division/country:de/ed:254,Donau-Ries
-ocd-division/country:de/ed:255,Neu-Ulm
-ocd-division/country:de/ed:256,Oberallgäu
-ocd-division/country:de/ed:257,Ostallgäu
-ocd-division/country:de/ed:258,Stuttgart I
-ocd-division/country:de/ed:259,Stuttgart II
-ocd-division/country:de/ed:26,Friesland – Wilhelmshaven – Wittmund
-ocd-division/country:de/ed:260,Böblingen
-ocd-division/country:de/ed:261,Esslingen
-ocd-division/country:de/ed:262,Nürtingen
-ocd-division/country:de/ed:263,Göppingen
-ocd-division/country:de/ed:264,Waiblingen
-ocd-division/country:de/ed:265,Ludwigsburg
-ocd-division/country:de/ed:266,Neckar-Zaber
-ocd-division/country:de/ed:267,Heilbronn
-ocd-division/country:de/ed:268,Schwäbisch Hall – Hohenlohe
-ocd-division/country:de/ed:269,Backnang – Schwäbisch Gmünd
-ocd-division/country:de/ed:27,Oldenburg – Ammerland
-ocd-division/country:de/ed:270,Aalen – Heidenheim
-ocd-division/country:de/ed:271,Karlsruhe-Stadt
-ocd-division/country:de/ed:272,Karlsruhe-Land
-ocd-division/country:de/ed:273,Rastatt
-ocd-division/country:de/ed:274,Heidelberg
-ocd-division/country:de/ed:275,Mannheim
-ocd-division/country:de/ed:276,Odenwald – Tauber
-ocd-division/country:de/ed:277,Rhein-Neckar
-ocd-division/country:de/ed:278,Bruchsal – Schwetzingen
-ocd-division/country:de/ed:279,Pforzheim
-ocd-division/country:de/ed:28,Delmenhorst – Wesermarsch – Oldenburg-Land
-ocd-division/country:de/ed:280,Calw
-ocd-division/country:de/ed:281,Freiburg
-ocd-division/country:de/ed:282,Lörrach – Müllheim
-ocd-division/country:de/ed:283,Emmendingen – Lahr
-ocd-division/country:de/ed:284,Offenburg
-ocd-division/country:de/ed:285,Rottweil – Tuttlingen
-ocd-division/country:de/ed:286,Schwarzwald-Baar
-ocd-division/country:de/ed:287,Konstanz
-ocd-division/country:de/ed:288,Waldshut
-ocd-division/country:de/ed:289,Reutlingen
-ocd-division/country:de/ed:29,Cuxhaven – Stade II
-ocd-division/country:de/ed:290,Tübingen
-ocd-division/country:de/ed:291,Ulm
-ocd-division/country:de/ed:292,Biberach
-ocd-division/country:de/ed:293,Bodensee
-ocd-division/country:de/ed:294,Ravensburg
-ocd-division/country:de/ed:295,Zollernalb – Sigmaringen
-ocd-division/country:de/ed:296,Saarbrücken
-ocd-division/country:de/ed:297,Saarlouis
-ocd-division/country:de/ed:298,St. Wendel
-ocd-division/country:de/ed:299,Homburg
-ocd-division/country:de/ed:3,Steinburg – Dithmarschen Süd
-ocd-division/country:de/ed:30,Stade I – Rotenburg II
-ocd-division/country:de/ed:31,Mittelems
-ocd-division/country:de/ed:32,Cloppenburg – Vechta
-ocd-division/country:de/ed:33,Diepholz – Nienburg I
-ocd-division/country:de/ed:34,Osterholz – Verden
-ocd-division/country:de/ed:35,Rotenburg I – Heidekreis
-ocd-division/country:de/ed:36,Harburg
-ocd-division/country:de/ed:37,Lüchow-Dannenberg – Lüneburg
-ocd-division/country:de/ed:38,Osnabrück-Land
-ocd-division/country:de/ed:39,Stadt Osnabrück
-ocd-division/country:de/ed:4,Rendsburg-Eckernförde
-ocd-division/country:de/ed:40,Nienburg II – Schaumburg
-ocd-division/country:de/ed:41,Stadt Hannover I
-ocd-division/country:de/ed:42,Stadt Hannover II
-ocd-division/country:de/ed:43,Hannover-Land I
-ocd-division/country:de/ed:44,Celle – Uelzen
-ocd-division/country:de/ed:45,Gifhorn – Peine
-ocd-division/country:de/ed:46,Hameln-Pyrmont – Holzminden
-ocd-division/country:de/ed:47,Hannover-Land II
-ocd-division/country:de/ed:48,Hildesheim
-ocd-division/country:de/ed:49,Salzgitter – Wolfenbüttel
-ocd-division/country:de/ed:5,Kiel
-ocd-division/country:de/ed:50,Braunschweig
-ocd-division/country:de/ed:51,Helmstedt – Wolfsburg
-ocd-division/country:de/ed:52,Goslar – Northeim – Osterode
-ocd-division/country:de/ed:53,Göttingen
-ocd-division/country:de/ed:54,Bremen I
-ocd-division/country:de/ed:55,Bremen II – Bremerhaven
-ocd-division/country:de/ed:56,Prignitz – Ostprignitz-Ruppin – Havelland I
-ocd-division/country:de/ed:57,Uckermark – Barnim I
-ocd-division/country:de/ed:58,Oberhavel – Havelland II
-ocd-division/country:de/ed:59,Märkisch-Oderland – Barnim II
-ocd-division/country:de/ed:6,Plön – Neumünster
-ocd-division/country:de/ed:60,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I
-ocd-division/country:de/ed:61,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II
-ocd-division/country:de/ed:62,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I
-ocd-division/country:de/ed:63,Frankfurt (Oder) – Oder-Spree
-ocd-division/country:de/ed:64,Cottbus – Spree-Neiße
-ocd-division/country:de/ed:65,Elbe-Elster – Oberspreewald-Lausitz II
-ocd-division/country:de/ed:66,Altmark
-ocd-division/country:de/ed:67,Börde – Jerichower Land
-ocd-division/country:de/ed:68,Harz
-ocd-division/country:de/ed:69,Magdeburg
-ocd-division/country:de/ed:7,Pinneberg
-ocd-division/country:de/ed:70,Dessau – Wittenberg
-ocd-division/country:de/ed:71,Anhalt
-ocd-division/country:de/ed:72,Halle
-ocd-division/country:de/ed:73,Burgenland – Saalekreis
-ocd-division/country:de/ed:74,Mansfeld
-ocd-division/country:de/ed:75,Berlin-Mitte
-ocd-division/country:de/ed:76,Berlin-Pankow
-ocd-division/country:de/ed:77,Berlin-Reinickendorf
-ocd-division/country:de/ed:78,Berlin-Spandau – Charlottenburg Nord
-ocd-division/country:de/ed:79,Berlin-Steglitz-Zehlendorf
-ocd-division/country:de/ed:8,Segeberg – Stormarn-Mitte
-ocd-division/country:de/ed:80,Berlin-Charlottenburg-Wilmersdorf
-ocd-division/country:de/ed:81,Berlin-Tempelhof-Schöneberg
-ocd-division/country:de/ed:82,Berlin-Neukölln
-ocd-division/country:de/ed:83,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost
-ocd-division/country:de/ed:84,Berlin-Treptow-Köpenick
-ocd-division/country:de/ed:85,Berlin-Marzahn-Hellersdorf
-ocd-division/country:de/ed:86,Berlin-Lichtenberg
-ocd-division/country:de/ed:87,Aachen I
-ocd-division/country:de/ed:88,Aachen II
-ocd-division/country:de/ed:89,Heinsberg
-ocd-division/country:de/ed:9,Ostholstein – Stormarn-Nord
-ocd-division/country:de/ed:90,Düren
-ocd-division/country:de/ed:91,Rhein-Erft-Kreis I
-ocd-division/country:de/ed:92,Euskirchen – Rhein-Erft-Kreis II
-ocd-division/country:de/ed:93,Köln I
-ocd-division/country:de/ed:94,Köln II
-ocd-division/country:de/ed:95,Köln III
-ocd-division/country:de/ed:96,Bonn
-ocd-division/country:de/ed:97,Rhein-Sieg-Kreis I
-ocd-division/country:de/ed:98,Rhein-Sieg-Kreis II
-ocd-division/country:de/ed:99,Oberbergischer Kreis
+id,sameAs,validFrom,validThrough
+ocd-division/country:de/ed:flensburg_-_schleswig,Flensburg – Schleswig,,
+ocd-division/country:de/ed:nordfriesland_-_dithmarschen_nord,Nordfriesland – Dithmarschen Nord,,
+ocd-division/country:de/ed:steinburg_-_dithmarschen_süd,Steinburg – Dithmarschen Süd,,
+ocd-division/country:de/ed:rendsburg-eckernförde,Rendsburg-Eckernförde,,
+ocd-division/country:de/ed:kiel,Kiel,,
+ocd-division/country:de/ed:plön_-_neumünster,Plön – Neumünster,,
+ocd-division/country:de/ed:pinneberg,Pinneberg,,
+ocd-division/country:de/ed:segeberg_-_stormarn-mitte,Segeberg – Stormarn-Mitte,,
+ocd-division/country:de/ed:ostholstein_-_stormarn-nord,Ostholstein – Stormarn-Nord,,
+ocd-division/country:de/ed:herzogtum_lauenburg_-_stormarn-süd,Herzogtum Lauenburg – Stormarn-Süd,,
+ocd-division/country:de/ed:lübeck,Lübeck,,
+ocd-division/country:de/ed:schwerin_-_ludwigslust-parchim_i_-_nordwestmecklenburg_i,Schwerin – Ludwigslust-Parchim I – Nordwestmecklenburg I,,
+ocd-division/country:de/ed:ludwigslust-parchim_ii_-_nordwestmecklenburg_ii_-_landkreis_rostock_i,Ludwigslust-Parchim II – Nordwestmecklenburg II – Landkreis Rostock I,,
+ocd-division/country:de/ed:rostock_-_landkreis_rostock_ii,Rostock – Landkreis Rostock II,,
+ocd-division/country:de/ed:vorpommern-rügen_-_vorpommern-greifswald_i,Vorpommern-Rügen – Vorpommern-Greifswald I,,
+ocd-division/country:de/ed:mecklenburgische_seenplatte_i_-_vorpommern-greifswald_ii,Mecklenburgische Seenplatte I – Vorpommern-Greifswald II,,
+ocd-division/country:de/ed:mecklenburgische_seenplatte_ii_-_landkreis_rostock_iii,Mecklenburgische Seenplatte II – Landkreis Rostock III,,
+ocd-division/country:de/ed:hamburg-mitte,Hamburg-Mitte,,
+ocd-division/country:de/ed:hamburg-altona,Hamburg-Altona,,
+ocd-division/country:de/ed:hamburg-eimsbüttel,Hamburg-Eimsbüttel,,
+ocd-division/country:de/ed:hamburg-nord,Hamburg-Nord,,
+ocd-division/country:de/ed:hamburg-wandsbek,Hamburg-Wandsbek,,
+ocd-division/country:de/ed:hamburg-bergedorf_-_harburg,Hamburg-Bergedorf – Harburg,,
+ocd-division/country:de/ed:aurich_-_emden,Aurich – Emden,,
+ocd-division/country:de/ed:unterems,Unterems,,
+ocd-division/country:de/ed:friesland_-_wilhelmshaven_-_wittmund,Friesland – Wilhelmshaven – Wittmund,,
+ocd-division/country:de/ed:oldenburg_-_ammerland,Oldenburg – Ammerland,,
+ocd-division/country:de/ed:delmenhorst_-_wesermarsch_-_oldenburg-land,Delmenhorst – Wesermarsch – Oldenburg-Land,,
+ocd-division/country:de/ed:cuxhaven_-_stade_ii,Cuxhaven – Stade II,,
+ocd-division/country:de/ed:stade_i_-_rotenburg_ii,Stade I – Rotenburg II,,
+ocd-division/country:de/ed:mittelems,Mittelems,,
+ocd-division/country:de/ed:cloppenburg_-_vechta,Cloppenburg – Vechta,,
+ocd-division/country:de/ed:diepholz_-_nienburg_i,Diepholz – Nienburg I,,
+ocd-division/country:de/ed:osterholz_-_verden,Osterholz – Verden,,
+ocd-division/country:de/ed:rotenburg_i_-_heidekreis,Rotenburg I – Heidekreis,,
+ocd-division/country:de/ed:harburg,Harburg,,
+ocd-division/country:de/ed:lüchow-dannenberg_-_lüneburg,Lüchow-Dannenberg – Lüneburg,,
+ocd-division/country:de/ed:osnabrück-land,Osnabrück-Land,,
+ocd-division/country:de/ed:stadt_osnabrück,Stadt Osnabrück,,
+ocd-division/country:de/ed:nienburg_ii_-_schaumburg,Nienburg II – Schaumburg,,
+ocd-division/country:de/ed:stadt_hannover_i,Stadt Hannover I,,
+ocd-division/country:de/ed:stadt_hannover_ii,Stadt Hannover II,,
+ocd-division/country:de/ed:hannover-land_i,Hannover-Land I,,
+ocd-division/country:de/ed:celle_-_uelzen,Celle – Uelzen,,
+ocd-division/country:de/ed:gifhorn_-_peine,Gifhorn – Peine,,
+ocd-division/country:de/ed:hameln-pyrmont_-_holzminden,Hameln-Pyrmont – Holzminden,,
+ocd-division/country:de/ed:hannover-land_ii,Hannover-Land II,,
+ocd-division/country:de/ed:hildesheim,Hildesheim,,
+ocd-division/country:de/ed:salzgitter_-_wolfenbüttel,Salzgitter – Wolfenbüttel,,
+ocd-division/country:de/ed:braunschweig,Braunschweig,,
+ocd-division/country:de/ed:helmstedt_-_wolfsburg,Helmstedt – Wolfsburg,,
+ocd-division/country:de/ed:goslar_-_northeim_-_osterode,Goslar – Northeim – Osterode,,
+ocd-division/country:de/ed:göttingen,Göttingen,,
+ocd-division/country:de/ed:bremen_i,Bremen I,,
+ocd-division/country:de/ed:bremen_ii_-_bremerhaven,Bremen II – Bremerhaven,,
+ocd-division/country:de/ed:prignitz_-_ostprignitz-ruppin_-_havelland_i,Prignitz – Ostprignitz-Ruppin – Havelland I,,
+ocd-division/country:de/ed:uckermark_-_barnim_i,Uckermark – Barnim I,,
+ocd-division/country:de/ed:oberhavel_-_havelland_ii,Oberhavel – Havelland II,,
+ocd-division/country:de/ed:märkisch-oderland_-_barnim_ii,Märkisch-Oderland – Barnim II,,
+ocd-division/country:de/ed:brandenburg_an_der_havel_-_potsdam-mittelmark_i_-_havelland_iii_-_teltow-fläming_i,Brandenburg an der Havel – Potsdam-Mittelmark I – Havelland III – Teltow-Fläming I,,
+ocd-division/country:de/ed:potsdam_-_potsdam-mittelmark_ii_-_teltow-fläming_ii,Potsdam – Potsdam-Mittelmark II – Teltow-Fläming II,,
+ocd-division/country:de/ed:62,Dahme-Spreewald – Teltow-Fläming III – Oberspreewald-Lausitz I,,2025-02-23
+ocd-division/country:de/ed:dahme-spreewald_-_teltow-fläming_iii,Dahme-Spreewald – Teltow-Fläming III,2025-02-23,
+ocd-division/country:de/ed:frankfurt_~oder~_-_oder-spree,Frankfurt (Oder) – Oder-Spree,,
+ocd-division/country:de/ed:cottbus_-_spree-neiße,Cottbus – Spree-Neiße,,
+ocd-division/country:de/ed:65,Elbe-Elster – Oberspreewald-Lausitz II,,2025-02-23
+ocd-division/country:de/ed:elbe-elster_-_oberspreewald-lausitz,Elbe-Elster – Oberspreewald-Lausitz,2025-02-23,
+ocd-division/country:de/ed:66,Altmark,,2025-02-23
+ocd-division/country:de/ed:altmark_-_jerichower_land,Altmark – Jerichower Land,2025-02-23,
+ocd-division/country:de/ed:67,Börde – Jerichower Land,,2025-02-23
+ocd-division/country:de/ed:börde_-_salzlandkreis,Börde – Salzlandkreis,2025-02-23,
+ocd-division/country:de/ed:harz,Harz,,
+ocd-division/country:de/ed:magdeburg,Magdeburg,,
+ocd-division/country:de/ed:70,Dessau – Wittenberg,,2025-02-23
+ocd-division/country:de/ed:anhalt_-_dessau_-_wittenberg,Anhalt – Dessau – Wittenberg,2025-02-23,
+ocd-division/country:de/ed:71,Anhalt,,2025-02-23
+ocd-division/country:de/ed:halle,Halle,,
+ocd-division/country:de/ed:burgenland_-_saalekreis,Burgenland – Saalekreis,,
+ocd-division/country:de/ed:mansfeld,Mansfeld,,
+ocd-division/country:de/ed:berlin-mitte,Berlin-Mitte,,
+ocd-division/country:de/ed:berlin-pankow,Berlin-Pankow,,
+ocd-division/country:de/ed:berlin-reinickendorf,Berlin-Reinickendorf,,
+ocd-division/country:de/ed:berlin-spandau_-_charlottenburg_nord,Berlin-Spandau – Charlottenburg Nord,,
+ocd-division/country:de/ed:berlin-steglitz-zehlendorf,Berlin-Steglitz-Zehlendorf,,
+ocd-division/country:de/ed:berlin-charlottenburg-wilmersdorf,Berlin-Charlottenburg-Wilmersdorf,,
+ocd-division/country:de/ed:berlin-tempelhof-schöneberg,Berlin-Tempelhof-Schöneberg,,
+ocd-division/country:de/ed:berlin-neukölln,Berlin-Neukölln,,
+ocd-division/country:de/ed:berlin-friedrichshain-kreuzberg_-_prenzlauer_berg_ost,Berlin-Friedrichshain-Kreuzberg – Prenzlauer Berg Ost,,
+ocd-division/country:de/ed:berlin-treptow-köpenick,Berlin-Treptow-Köpenick,,
+ocd-division/country:de/ed:berlin-marzahn-hellersdorf,Berlin-Marzahn-Hellersdorf,,
+ocd-division/country:de/ed:berlin-lichtenberg,Berlin-Lichtenberg,,
+ocd-division/country:de/ed:aachen_i,Aachen I,,
+ocd-division/country:de/ed:aachen_ii,Aachen II,,
+ocd-division/country:de/ed:heinsberg,Heinsberg,,
+ocd-division/country:de/ed:düren,Düren,,
+ocd-division/country:de/ed:rhein-erft-kreis_i,Rhein-Erft-Kreis I,,
+ocd-division/country:de/ed:euskirchen_-_rhein-erft-kreis_ii,Euskirchen – Rhein-Erft-Kreis II,,
+ocd-division/country:de/ed:köln_i,Köln I,,
+ocd-division/country:de/ed:köln_ii,Köln II,,
+ocd-division/country:de/ed:köln_iii,Köln III,,
+ocd-division/country:de/ed:bonn,Bonn,,
+ocd-division/country:de/ed:rhein-sieg-kreis_i,Rhein-Sieg-Kreis I,,
+ocd-division/country:de/ed:rhein-sieg-kreis_ii,Rhein-Sieg-Kreis II,,
+ocd-division/country:de/ed:oberbergischer_kreis,Oberbergischer Kreis,,
+ocd-division/country:de/ed:rheinisch-bergischer_kreis,Rheinisch-Bergischer Kreis,,
+ocd-division/country:de/ed:leverkusen_-_köln_iv,Leverkusen – Köln IV,,
+ocd-division/country:de/ed:wuppertal_i,Wuppertal I,,
+ocd-division/country:de/ed:solingen_-_remscheid_-_wuppertal_ii,Solingen – Remscheid – Wuppertal II,,
+ocd-division/country:de/ed:mettmann_i,Mettmann I,,
+ocd-division/country:de/ed:mettmann_ii,Mettmann II,,
+ocd-division/country:de/ed:düsseldorf_i,Düsseldorf I,,
+ocd-division/country:de/ed:düsseldorf_ii,Düsseldorf II,,
+ocd-division/country:de/ed:neuss_i,Neuss I,,
+ocd-division/country:de/ed:mönchengladbach,Mönchengladbach,,
+ocd-division/country:de/ed:krefeld_i_-_neuss_ii,Krefeld I – Neuss II,,
+ocd-division/country:de/ed:viersen,Viersen,,
+ocd-division/country:de/ed:kleve,Kleve,,
+ocd-division/country:de/ed:wesel_i,Wesel I,,
+ocd-division/country:de/ed:krefeld_ii_-_wesel_ii,Krefeld II – Wesel II,,
+ocd-division/country:de/ed:duisburg_i,Duisburg I,,
+ocd-division/country:de/ed:duisburg_ii,Duisburg II,,
+ocd-division/country:de/ed:oberhausen_-_wesel_iii,Oberhausen – Wesel III,,
+ocd-division/country:de/ed:mülheim_-_essen_i,Mülheim – Essen I,,
+ocd-division/country:de/ed:essen_ii,Essen II,,
+ocd-division/country:de/ed:essen_iii,Essen III,,
+ocd-division/country:de/ed:recklinghausen_i,Recklinghausen I,,
+ocd-division/country:de/ed:recklinghausen_ii,Recklinghausen II,,
+ocd-division/country:de/ed:gelsenkirchen,Gelsenkirchen,,
+ocd-division/country:de/ed:steinfurt_i_-_borken_i,Steinfurt I – Borken I,,
+ocd-division/country:de/ed:bottrop_-_recklinghausen_iii,Bottrop – Recklinghausen III,,
+ocd-division/country:de/ed:borken_ii,Borken II,,
+ocd-division/country:de/ed:coesfeld_-_steinfurt_ii,Coesfeld – Steinfurt II,,
+ocd-division/country:de/ed:steinfurt_iii,Steinfurt III,,
+ocd-division/country:de/ed:münster,Münster,,
+ocd-division/country:de/ed:warendorf,Warendorf,,
+ocd-division/country:de/ed:gütersloh_i,Gütersloh I,,
+ocd-division/country:de/ed:bielefeld_-_gütersloh_ii,Bielefeld – Gütersloh II,,
+ocd-division/country:de/ed:herford_-_minden-lübbecke_ii,Herford – Minden-Lübbecke II,,
+ocd-division/country:de/ed:minden-lübbecke_i,Minden-Lübbecke I,,
+ocd-division/country:de/ed:lippe_i,Lippe I,,
+ocd-division/country:de/ed:höxter_-_gütersloh_iii_-_lippe_ii,Höxter – Gütersloh III – Lippe II,,
+ocd-division/country:de/ed:paderborn,Paderborn,,
+ocd-division/country:de/ed:hagen_-_ennepe-ruhr-kreis_i,Hagen – Ennepe-Ruhr-Kreis I,,
+ocd-division/country:de/ed:ennepe-ruhr-kreis_ii,Ennepe-Ruhr-Kreis II,,
+ocd-division/country:de/ed:bochum_i,Bochum I,,
+ocd-division/country:de/ed:herne_-_bochum_ii,Herne – Bochum II,,
+ocd-division/country:de/ed:dortmund_i,Dortmund I,,
+ocd-division/country:de/ed:dortmund_ii,Dortmund II,,
+ocd-division/country:de/ed:unna_i,Unna I,,
+ocd-division/country:de/ed:hamm_-_unna_ii,Hamm – Unna II,,
+ocd-division/country:de/ed:soest,Soest,,
+ocd-division/country:de/ed:hochsauerlandkreis,Hochsauerlandkreis,,
+ocd-division/country:de/ed:siegen-wittgenstein,Siegen-Wittgenstein,,
+ocd-division/country:de/ed:olpe_-_märkischer_kreis_i,Olpe – Märkischer Kreis I,,
+ocd-division/country:de/ed:märkischer_kreis_ii,Märkischer Kreis II,,
+ocd-division/country:de/ed:nordsachsen,Nordsachsen,,
+ocd-division/country:de/ed:leipzig_i,Leipzig I,,
+ocd-division/country:de/ed:leipzig_ii,Leipzig II,,
+ocd-division/country:de/ed:leipzig-land,Leipzig-Land,,
+ocd-division/country:de/ed:meißen,Meißen,,
+ocd-division/country:de/ed:bautzen_i,Bautzen I,,
+ocd-division/country:de/ed:görlitz,Görlitz,,
+ocd-division/country:de/ed:sächsische_schweiz-osterzgebirge,Sächsische Schweiz-Osterzgebirge,,
+ocd-division/country:de/ed:dresden_i,Dresden I,,
+ocd-division/country:de/ed:dresden_ii_-_bautzen_ii,Dresden II – Bautzen II,,
+ocd-division/country:de/ed:mittelsachsen,Mittelsachsen,,
+ocd-division/country:de/ed:chemnitz,Chemnitz,,
+ocd-division/country:de/ed:chemnitzer_umland_-_erzgebirgskreis_ii,Chemnitzer Umland – Erzgebirgskreis II,,
+ocd-division/country:de/ed:erzgebirgskreis_i,Erzgebirgskreis I,,
+ocd-division/country:de/ed:zwickau,Zwickau,,
+ocd-division/country:de/ed:vogtlandkreis,Vogtlandkreis,,
+ocd-division/country:de/ed:waldeck,Waldeck,,
+ocd-division/country:de/ed:kassel,Kassel,,
+ocd-division/country:de/ed:werra-meißner_-_hersfeld-rotenburg,Werra-Meißner – Hersfeld-Rotenburg,,
+ocd-division/country:de/ed:schwalm-eder,Schwalm-Eder,,
+ocd-division/country:de/ed:marburg,Marburg,,
+ocd-division/country:de/ed:lahn-dill,Lahn-Dill,,
+ocd-division/country:de/ed:gießen,Gießen,,
+ocd-division/country:de/ed:fulda,Fulda,,
+ocd-division/country:de/ed:main-kinzig_-_wetterau_ii_-_schotten,Main-Kinzig – Wetterau II – Schotten,,
+ocd-division/country:de/ed:hochtaunus,Hochtaunus,,
+ocd-division/country:de/ed:wetterau_i,Wetterau I,,
+ocd-division/country:de/ed:rheingau-taunus_-_limburg,Rheingau-Taunus – Limburg,,
+ocd-division/country:de/ed:wiesbaden,Wiesbaden,,
+ocd-division/country:de/ed:hanau,Hanau,,
+ocd-division/country:de/ed:main-taunus,Main-Taunus,,
+ocd-division/country:de/ed:frankfurt_am_main_i,Frankfurt am Main I,,
+ocd-division/country:de/ed:frankfurt_am_main_ii,Frankfurt am Main II,,
+ocd-division/country:de/ed:groß-gerau,Groß-Gerau,,
+ocd-division/country:de/ed:offenbach,Offenbach,,
+ocd-division/country:de/ed:darmstadt,Darmstadt,,
+ocd-division/country:de/ed:odenwald,Odenwald,,
+ocd-division/country:de/ed:bergstraße,Bergstraße,,
+ocd-division/country:de/ed:eichsfeld_-_nordhausen_-_kyffhäuserkreis,Eichsfeld – Nordhausen – Kyffhäuserkreis,,
+ocd-division/country:de/ed:eisenach_-_wartburgkreis_-_unstrut-hainich-kreis,Eisenach – Wartburgkreis – Unstrut-Hainich-Kreis,,
+ocd-division/country:de/ed:jena_-_sömmerda_-_weimarer_land_i,Jena – Sömmerda – Weimarer Land I,,
+ocd-division/country:de/ed:gotha_-_ilm-kreis,Gotha – Ilm-Kreis,,
+ocd-division/country:de/ed:erfurt_-_weimar_-_weimarer_land_ii,Erfurt – Weimar – Weimarer Land II,,
+ocd-division/country:de/ed:gera_-_greiz_-_altenburger_land,Gera – Greiz – Altenburger Land,,
+ocd-division/country:de/ed:saalfeld-rudolstadt_-_saale-holzland-kreis_-_saale-orla-kreis,Saalfeld-Rudolstadt – Saale-Holzland-Kreis – Saale-Orla-Kreis,,
+ocd-division/country:de/ed:suhl_-_schmalkalden-meiningen_-_hildburghausen_-_sonneberg,Suhl – Schmalkalden-Meiningen – Hildburghausen – Sonneberg,,
+ocd-division/country:de/ed:neuwied,Neuwied,,
+ocd-division/country:de/ed:ahrweiler,Ahrweiler,,
+ocd-division/country:de/ed:koblenz,Koblenz,,
+ocd-division/country:de/ed:mosel~rhein-hunsrück,Mosel/Rhein-Hunsrück,,
+ocd-division/country:de/ed:kreuznach,Kreuznach,,
+ocd-division/country:de/ed:bitburg,Bitburg,,
+ocd-division/country:de/ed:trier,Trier,,
+ocd-division/country:de/ed:montabaur,Montabaur,,
+ocd-division/country:de/ed:mainz,Mainz,,
+ocd-division/country:de/ed:worms,Worms,,
+ocd-division/country:de/ed:ludwigshafen~frankenthal,Ludwigshafen/Frankenthal,,
+ocd-division/country:de/ed:neustadt_-_speyer,Neustadt – Speyer,,
+ocd-division/country:de/ed:kaiserslautern,Kaiserslautern,,
+ocd-division/country:de/ed:pirmasens,Pirmasens,,
+ocd-division/country:de/ed:südpfalz,Südpfalz,,
+ocd-division/country:de/ed:altötting,Altötting,,
+ocd-division/country:de/ed:erding_-_ebersberg,Erding – Ebersberg,,
+ocd-division/country:de/ed:freising,Freising,,
+ocd-division/country:de/ed:fürstenfeldbruck,Fürstenfeldbruck,,
+ocd-division/country:de/ed:ingolstadt,Ingolstadt,,
+ocd-division/country:de/ed:münchen-nord,München-Nord,,
+ocd-division/country:de/ed:münchen-ost,München-Ost,,
+ocd-division/country:de/ed:münchen-süd,München-Süd,,
+ocd-division/country:de/ed:münchen-west~mitte,München-West/Mitte,,
+ocd-division/country:de/ed:münchen-land,München-Land,,
+ocd-division/country:de/ed:rosenheim,Rosenheim,,
+ocd-division/country:de/ed:bad_tölz-wolfratshausen_-_miesbach,Bad Tölz-Wolfratshausen – Miesbach,,
+ocd-division/country:de/ed:starnberg_-_landsberg_am_lech,Starnberg – Landsberg am Lech,,
+ocd-division/country:de/ed:traunstein,Traunstein,,
+ocd-division/country:de/ed:weilheim,Weilheim,,
+ocd-division/country:de/ed:deggendorf,Deggendorf,,
+ocd-division/country:de/ed:landshut,Landshut,,
+ocd-division/country:de/ed:passau,Passau,,
+ocd-division/country:de/ed:rottal-inn,Rottal-Inn,,
+ocd-division/country:de/ed:straubing,Straubing,,
+ocd-division/country:de/ed:amberg,Amberg,,
+ocd-division/country:de/ed:regensburg,Regensburg,,
+ocd-division/country:de/ed:schwandorf,Schwandorf,,
+ocd-division/country:de/ed:weiden,Weiden,,
+ocd-division/country:de/ed:bamberg,Bamberg,,
+ocd-division/country:de/ed:bayreuth,Bayreuth,,
+ocd-division/country:de/ed:coburg,Coburg,,
+ocd-division/country:de/ed:hof,Hof,,
+ocd-division/country:de/ed:kulmbach,Kulmbach,,
+ocd-division/country:de/ed:ansbach,Ansbach,,
+ocd-division/country:de/ed:erlangen,Erlangen,,
+ocd-division/country:de/ed:fürth,Fürth,,
+ocd-division/country:de/ed:nürnberg-nord,Nürnberg-Nord,,
+ocd-division/country:de/ed:nürnberg-süd,Nürnberg-Süd,,
+ocd-division/country:de/ed:roth,Roth,,
+ocd-division/country:de/ed:aschaffenburg,Aschaffenburg,,
+ocd-division/country:de/ed:bad_kissingen,Bad Kissingen,,
+ocd-division/country:de/ed:main-spessart,Main-Spessart,,
+ocd-division/country:de/ed:schweinfurt,Schweinfurt,,
+ocd-division/country:de/ed:würzburg,Würzburg,,
+ocd-division/country:de/ed:augsburg-stadt,Augsburg-Stadt,,
+ocd-division/country:de/ed:augsburg-land,Augsburg-Land,,
+ocd-division/country:de/ed:donau-ries,Donau-Ries,,
+ocd-division/country:de/ed:neu-ulm,Neu-Ulm,,
+ocd-division/country:de/ed:memmingen_-_unterallgäu,Memmingen – Unterallgäu,2025-02-23,
+ocd-division/country:de/ed:oberallgäu,Oberallgäu,,
+ocd-division/country:de/ed:ostallgäu,Ostallgäu,,
+ocd-division/country:de/ed:stuttgart_i,Stuttgart I,,
+ocd-division/country:de/ed:stuttgart_ii,Stuttgart II,,
+ocd-division/country:de/ed:böblingen,Böblingen,,
+ocd-division/country:de/ed:esslingen,Esslingen,,
+ocd-division/country:de/ed:nürtingen,Nürtingen,,
+ocd-division/country:de/ed:göppingen,Göppingen,,
+ocd-division/country:de/ed:waiblingen,Waiblingen,,
+ocd-division/country:de/ed:ludwigsburg,Ludwigsburg,,
+ocd-division/country:de/ed:neckar-zaber,Neckar-Zaber,,
+ocd-division/country:de/ed:heilbronn,Heilbronn,,
+ocd-division/country:de/ed:schwäbisch_hall_-_hohenlohe,Schwäbisch Hall – Hohenlohe,,
+ocd-division/country:de/ed:backnang_-_schwäbisch_gmünd,Backnang – Schwäbisch Gmünd,,
+ocd-division/country:de/ed:aalen_-_heidenheim,Aalen – Heidenheim,,
+ocd-division/country:de/ed:karlsruhe-stadt,Karlsruhe-Stadt,,
+ocd-division/country:de/ed:karlsruhe-land,Karlsruhe-Land,,
+ocd-division/country:de/ed:rastatt,Rastatt,,
+ocd-division/country:de/ed:heidelberg,Heidelberg,,
+ocd-division/country:de/ed:mannheim,Mannheim,,
+ocd-division/country:de/ed:odenwald_-_tauber,Odenwald – Tauber,,
+ocd-division/country:de/ed:rhein-neckar,Rhein-Neckar,,
+ocd-division/country:de/ed:bruchsal_-_schwetzingen,Bruchsal – Schwetzingen,,
+ocd-division/country:de/ed:pforzheim,Pforzheim,,
+ocd-division/country:de/ed:calw,Calw,,
+ocd-division/country:de/ed:freiburg,Freiburg,,
+ocd-division/country:de/ed:lörrach_-_müllheim,Lörrach – Müllheim,,
+ocd-division/country:de/ed:emmendingen_-_lahr,Emmendingen – Lahr,,
+ocd-division/country:de/ed:offenburg,Offenburg,,
+ocd-division/country:de/ed:rottweil_-_tuttlingen,Rottweil – Tuttlingen,,
+ocd-division/country:de/ed:schwarzwald-baar,Schwarzwald-Baar,,
+ocd-division/country:de/ed:konstanz,Konstanz,,
+ocd-division/country:de/ed:waldshut,Waldshut,,
+ocd-division/country:de/ed:reutlingen,Reutlingen,,
+ocd-division/country:de/ed:tübingen,Tübingen,,
+ocd-division/country:de/ed:ulm,Ulm,,
+ocd-division/country:de/ed:biberach,Biberach,,
+ocd-division/country:de/ed:bodensee,Bodensee,,
+ocd-division/country:de/ed:ravensburg,Ravensburg,,
+ocd-division/country:de/ed:zollernalb_-_sigmaringen,Zollernalb – Sigmaringen,,
+ocd-division/country:de/ed:saarbrücken,Saarbrücken,,
+ocd-division/country:de/ed:saarlouis,Saarlouis,,
+ocd-division/country:de/ed:st._wendel,St. Wendel,,
+ocd-division/country:de/ed:homburg,Homburg,,
