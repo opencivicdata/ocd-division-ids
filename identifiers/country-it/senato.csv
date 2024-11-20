@@ -119,7 +119,8 @@ ocd-division/country:it/upper:veneto/mmc:2,Veneto - P02
 ocd-division/country:it/upper:veneto/mmc:2/ed:3,Veneto - U03 (Padova)
 ocd-division/country:it/upper:veneto/mmc:2/ed:4,Veneto - U04 (Vicenza)
 ocd-division/country:it/upper:veneto/mmc:2/ed:5,Veneto - U05 (Verona)
-ocd-division/country:it/upper:diaspora_europe,Diaspora Europe
-ocd-division/country:it/upper:diaspora_south_america,Diaspora South America
-ocd-division/country:it/upper:diaspora_north_and_central_america,Diaspora North and Central America
-ocd-division/country:it/upper:diaspora_africa_asia_oceania_antarctica,Diaspora Africa Asia Oceania Antarctica
+ocd-division/country:it/upper:diaspora,Circoscrizione Estera
+ocd-division/country:it/upper:diaspora/ed:europa,"Europa, compresi i territori asiatici della Federazione russa e della Turchia"
+ocd-division/country:it/upper:diaspora/ed:america_meridionale,America meridionale
+ocd-division/country:it/upper:diaspora/ed:america_settentrionale_e_centrale,America settentrionale e centrale
+ocd-division/country:it/upper:diaspora/ed:africa_asia_oceania_antartide,"Africa, Asia, Oceania ed Antartide"

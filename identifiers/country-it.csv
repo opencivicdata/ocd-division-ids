@@ -35,10 +35,11 @@ ocd-division/country:it/lower:campania-2/mmc:2/ed:1,Campania 2 - U04 (Avellino)
 ocd-division/country:it/lower:campania-2/mmc:2/ed:2,Campania 2 - U05 (Scafati)
 ocd-division/country:it/lower:campania-2/mmc:2/ed:3,Campania 2 - U06 (Salerno)
 ocd-division/country:it/lower:campania-2/mmc:2/ed:4,Campania 2 - U07 (Eboli)
-ocd-division/country:it/lower:diaspora_africa_asia_oceania_antarctica,Diaspora Africa Asia Oceania Antarctica
-ocd-division/country:it/lower:diaspora_europe,Diaspora Europe
-ocd-division/country:it/lower:diaspora_north_and_central_america,Diaspora North and Central America
-ocd-division/country:it/lower:diaspora_south_america,Diaspora South America
+ocd-division/country:it/lower:diaspora,Circoscrizione Estera
+ocd-division/country:it/lower:diaspora/ed:africa_asia_oceania_antartide,"Africa, Asia, Oceania ed Antartide"
+ocd-division/country:it/lower:diaspora/ed:america_meridionale,America meridionale
+ocd-division/country:it/lower:diaspora/ed:america_settentrionale_e_centrale,America settentrionale e centrale
+ocd-division/country:it/lower:diaspora/ed:europa,"Europa, compresi i territori asiatici della Federazione russa e della Turchia"
 ocd-division/country:it/lower:emilia-romagna,Circoscrizione Camera Emilia-Romagna
 ocd-division/country:it/lower:emilia-romagna/mmc:1,Emilia-Romagna - P01
 ocd-division/country:it/lower:emilia-romagna/mmc:1/ed:1,Emilia-Romagna - U01 (Piacenza)
@@ -248,10 +249,11 @@ ocd-division/country:it/upper:campania/mmc:2,Campania - P02
 ocd-division/country:it/upper:campania/mmc:2/ed:1,Campania - U01 (Caserta)
 ocd-division/country:it/upper:campania/mmc:2/ed:2,Campania - U02 (Benevento)
 ocd-division/country:it/upper:campania/mmc:2/ed:3,Campania - U03 (Salerno)
-ocd-division/country:it/upper:diaspora_africa_asia_oceania_antarctica,Diaspora Africa Asia Oceania Antarctica
-ocd-division/country:it/upper:diaspora_europe,Diaspora Europe
-ocd-division/country:it/upper:diaspora_north_and_central_america,Diaspora North and Central America
-ocd-division/country:it/upper:diaspora_south_america,Diaspora South America
+ocd-division/country:it/upper:diaspora,Circoscrizione Estera
+ocd-division/country:it/upper:diaspora/ed:africa_asia_oceania_antartide,"Africa, Asia, Oceania ed Antartide"
+ocd-division/country:it/upper:diaspora/ed:america_meridionale,America meridionale
+ocd-division/country:it/upper:diaspora/ed:america_settentrionale_e_centrale,America settentrionale e centrale
+ocd-division/country:it/upper:diaspora/ed:europa,"Europa, compresi i territori asiatici della Federazione russa e della Turchia"
 ocd-division/country:it/upper:emilia-romagna,Circoscrizione Senato Emilia-Romagna
 ocd-division/country:it/upper:emilia-romagna/mmc:1,Emilia-Romagna - P01
 ocd-division/country:it/upper:emilia-romagna/mmc:1/ed:1,Emilia-Romagna - U01 (Parma)
