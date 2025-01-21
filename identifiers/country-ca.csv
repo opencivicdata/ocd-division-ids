@@ -8486,7 +8486,7 @@ ocd-division/country:ca/csd:6208087,Taloyoak,,,,,HAM,,Taloyoak,,,,,,,
 ocd-division/country:ca/csd:6208098,"Kitikmeot, Unorganized",,,,,NO,N,"Kitikmeot, Unorganized",,,,,,,
 ocd-division/country:ca/ed:10001,Avalon,ocd-division/country:ca/province:nl/fed:avalon,,,,,,Avalon,,,,,,,
 ocd-division/country:ca/ed:10001-2013,Avalon,ocd-division/country:ca/province:nl/fed:avalon,2024-04-23,,,,,Avalon,,,,,,,2015-10-19
-ocd-division/country:ca/ed:10001-2023,Avalon,,,,,,,Avalon,,,,,,,2024-04-23
+ocd-division/country:ca/ed:10001-2023,Avalon,ocd-division/country:ca/province:nl/fed:avalon,,,,,,Avalon,,,,,,,2024-04-23
 ocd-division/country:ca/ed:10002,Bonavista—Gander—Grand Falls—Windsor,ocd-division/country:ca/province:nl/fed:bonavista-gander-grand_falls-windsor,,,,,,Bonavista—Gander—Grand Falls—Windsor,,,,,,,
 ocd-division/country:ca/ed:10002-2013,Bonavista—Burin—Trinity,ocd-division/country:ca/province:nl/fed:bonavista-burin-trinity,2024-04-23,,,,,Bonavista—Burin—Trinity,,,,,,,2015-10-19
 ocd-division/country:ca/ed:10002-2023,Cape Spear,,,,,,,Cape Spear,,,,,,,2024-04-23
@@ -8495,28 +8495,28 @@ ocd-division/country:ca/ed:10003-2013,Coast of Bays—Central—Notre Dame,ocd-d
 ocd-division/country:ca/ed:10003-2023,Central Newfoundland,,,,,,,Central Newfoundland,,,,,,,2024-04-23
 ocd-division/country:ca/ed:10004,Labrador,ocd-division/country:ca/province:nl/fed:labrador,,,,,,Labrador,,,,,,,
 ocd-division/country:ca/ed:10004-2013,Labrador,ocd-division/country:ca/province:nl/fed:labrador,2024-04-23,,,,,Labrador,,,,,,,2015-10-19
-ocd-division/country:ca/ed:10004-2023,Labrador,,,,,,,Labrador,,,,,,,2024-04-23
+ocd-division/country:ca/ed:10004-2023,Labrador,ocd-division/country:ca/province:nl/fed:labrador,,,,,,Labrador,,,,,,,2024-04-23
 ocd-division/country:ca/ed:10005,Random—Burin—St. George's,ocd-division/country:ca/province:nl/fed:random-burin-st._george~s,,,,,,Random—Burin—St. George's,,,,,,,
 ocd-division/country:ca/ed:10005-2013,Long Range Mountains,ocd-division/country:ca/province:nl/fed:long_range_mountains,2024-04-23,,,,,Long Range Mountains,,,,,,,2015-10-19
-ocd-division/country:ca/ed:10005-2023,Long Range Mountains,,,,,,,Long Range Mountains,,,,,,,2024-04-23
+ocd-division/country:ca/ed:10005-2023,Long Range Mountains,ocd-division/country:ca/province:nl/fed:long_range_mountains,,,,,,Long Range Mountains,,,,,,,2024-04-23
 ocd-division/country:ca/ed:10006,St. John's East,ocd-division/country:ca/province:nl/fed:st._john~s_east-2004,,,,,,St. John's-Est,,,,,,,
 ocd-division/country:ca/ed:10006-2013,St. John's East,ocd-division/country:ca/province:nl/fed:st._john~s_east-2004,2024-04-23,,,,,St. John's-Est,,,,,,,2015-10-19
-ocd-division/country:ca/ed:10006-2023,St. John's East,,,,,,,St. John's-Est,,,,,,,2024-04-23
+ocd-division/country:ca/ed:10006-2023,St. John's East,ocd-division/country:ca/province:nl/fed:st._john~s_east-2004,,,,,,St. John's-Est,,,,,,,2024-04-23
 ocd-division/country:ca/ed:10007,St. John's South—Mount Pearl,ocd-division/country:ca/province:nl/fed:st._john~s_south-mount_pearl,,,,,,St. John's-Sud—Mount Pearl,,,,,,,
 ocd-division/country:ca/ed:10007-2013,St. John's South—Mount Pearl,ocd-division/country:ca/province:nl/fed:st._john~s_south-mount_pearl,2024-04-23,,,,,St. John's-Sud—Mount Pearl,,,,,,,2015-10-19
 ocd-division/country:ca/ed:10007-2023,Terra Nova—The Peninsulas,,,,,,,Terra Nova—Les Péninsules,,,,,,,2024-04-23
 ocd-division/country:ca/ed:11001,Cardigan,ocd-division/country:ca/province:pe/fed:cardigan,,,,,,Cardigan,,,,,,,
 ocd-division/country:ca/ed:11001-2013,Cardigan,ocd-division/country:ca/province:pe/fed:cardigan,2024-04-23,,,,,Cardigan,,,,,,,2015-10-19
-ocd-division/country:ca/ed:11001-2023,Cardigan,,,,,,,Cardigan,,,,,,,2024-04-23
+ocd-division/country:ca/ed:11001-2023,Cardigan,ocd-division/country:ca/province:pe/fed:cardigan,,,,,,Cardigan,,,,,,,2024-04-23
 ocd-division/country:ca/ed:11002,Charlottetown,ocd-division/country:ca/province:pe/fed:charlottetown,,,,,,Charlottetown,,,,,,,
 ocd-division/country:ca/ed:11002-2013,Charlottetown,ocd-division/country:ca/province:pe/fed:charlottetown,2024-04-23,,,,,Charlottetown,,,,,,,2015-10-19
-ocd-division/country:ca/ed:11002-2023,Charlottetown,,,,,,,Charlottetown,,,,,,,2024-04-23
+ocd-division/country:ca/ed:11002-2023,Charlottetown,ocd-division/country:ca/province:pe/fed:charlottetown,,,,,,Charlottetown,,,,,,,2024-04-23
 ocd-division/country:ca/ed:11003,Egmont,ocd-division/country:ca/province:pe/fed:egmont,,,,,,Egmont,,,,,,,
 ocd-division/country:ca/ed:11003-2013,Egmont,ocd-division/country:ca/province:pe/fed:egmont,2024-04-23,,,,,Egmont,,,,,,,2015-10-19
-ocd-division/country:ca/ed:11003-2023,Egmont,,,,,,,Egmont,,,,,,,2024-04-23
+ocd-division/country:ca/ed:11003-2023,Egmont,ocd-division/country:ca/province:pe/fed:egmont,,,,,,Egmont,,,,,,,2024-04-23
 ocd-division/country:ca/ed:11004,Malpeque,ocd-division/country:ca/province:pe/fed:malpeque,,,,,,Malpeque,,,,,,,
 ocd-division/country:ca/ed:11004-2013,Malpeque,ocd-division/country:ca/province:pe/fed:malpeque,2024-04-23,,,,,Malpeque,,,,,,,2015-10-19
-ocd-division/country:ca/ed:11004-2023,Malpeque,,,,,,,Malpeque,,,,,,,2024-04-23
+ocd-division/country:ca/ed:11004-2023,Malpeque,ocd-division/country:ca/province:pe/fed:malpeque,,,,,,Malpeque,,,,,,,2024-04-23
 ocd-division/country:ca/ed:12001,Cape Breton—Canso,ocd-division/country:ca/province:ns/fed:cape_breton-canso,,,,,,Cape Breton—Canso,,,,,,,
 ocd-division/country:ca/ed:12001-2013,Cape Breton—Canso,ocd-division/country:ca/province:ns/fed:cape_breton-canso,2024-04-23,,,,,Cape Breton—Canso,,,,,,,2015-10-19
 ocd-division/country:ca/ed:12001-2023,Acadie—Annapolis,,,,,,,Acadie—Annapolis,,,,,,,2024-04-23
@@ -8525,49 +8525,49 @@ ocd-division/country:ca/ed:12002-2013,Central Nova,ocd-division/country:ca/provi
 ocd-division/country:ca/ed:12002-2023,Cape Breton—Canso—Antigonish,,,,,,,Cape Breton—Canso—Antigonish,,,,,,,2024-04-23
 ocd-division/country:ca/ed:12003,Dartmouth—Cole Harbour,ocd-division/country:ca/province:ns/fed:dartmouth-cole_harbour,,,,,,Dartmouth—Cole Harbour,,,,,,,
 ocd-division/country:ca/ed:12003-2013,Cumberland—Colchester,ocd-division/country:ca/province:ns/fed:cumberland-colchester-2015,2024-04-23,,,,,Cumberland—Colchester,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12003-2023,Central Nova,,,,,,,Nova-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:12003-2023,Central Nova,ocd-division/country:ca/province:ns/fed:central_nova-2004,,,,,,Nova-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:12004,Halifax,ocd-division/country:ca/province:ns/fed:halifax,,,,,,Halifax,,,,,,,
 ocd-division/country:ca/ed:12004-2013,Dartmouth—Cole Harbour,ocd-division/country:ca/province:ns/fed:dartmouth-cole_harbour,2024-04-23,,,,,Dartmouth—Cole Harbour,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12004-2023,Cumberland—Colchester,,,,,,,Cumberland—Colchester,,,,,,,2024-04-23
+ocd-division/country:ca/ed:12004-2023,Cumberland—Colchester,ocd-division/country:ca/province:ns/fed:cumberland-colchester-2015,,,,,,Cumberland—Colchester,,,,,,,2024-04-23
 ocd-division/country:ca/ed:12005,Halifax West,ocd-division/country:ca/province:ns/fed:halifax_west,,,,,,Halifax-Ouest,,,,,,,
 ocd-division/country:ca/ed:12005-2013,Halifax,ocd-division/country:ca/province:ns/fed:halifax,2024-04-23,,,,,Halifax,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12005-2023,Dartmouth—Cole Harbour,,,,,,,Dartmouth—Cole Harbour,,,,,,,2024-04-23
+ocd-division/country:ca/ed:12005-2023,Dartmouth—Cole Harbour,ocd-division/country:ca/province:ns/fed:dartmouth-cole_harbour,,,,,,Dartmouth—Cole Harbour,,,,,,,2024-04-23
 ocd-division/country:ca/ed:12006,Kings—Hants,ocd-division/country:ca/province:ns/fed:kings-hants,,,,,,Kings—Hants,,,,,,,
 ocd-division/country:ca/ed:12006-2013,Halifax West,ocd-division/country:ca/province:ns/fed:halifax_west,2024-04-23,,,,,Halifax-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12006-2023,Halifax,,,,,,,Halifax,,,,,,,2024-04-23
+ocd-division/country:ca/ed:12006-2023,Halifax,ocd-division/country:ca/province:ns/fed:halifax,,,,,,Halifax,,,,,,,2024-04-23
 ocd-division/country:ca/ed:12007,Cumberland—Colchester—Musquodoboit Valley,ocd-division/country:ca/province:ns/fed:cumberland-colchester-musquodoboit_valley,,,,,,Cumberland—Colchester—Musquodoboit Valley,,,,,,,
 ocd-division/country:ca/ed:12007-2013,Kings—Hants,ocd-division/country:ca/province:ns/fed:kings-hants,2024-04-23,,,,,Kings—Hants,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12007-2023,Halifax West,,,,,,,Halifax-Ouest,,,,,,,2024-04-23
+ocd-division/country:ca/ed:12007-2023,Halifax West,ocd-division/country:ca/province:ns/fed:halifax_west,,,,,,Halifax-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:12008,Sackville—Eastern Shore,ocd-division/country:ca/province:ns/fed:sackville-eastern_shore,,,,,,Sackville—Eastern Shore,,,,,,,
 ocd-division/country:ca/ed:12008-2013,Sackville—Preston—Chezzetcook,ocd-division/country:ca/province:ns/fed:sackville-preston-chezzetcook,2024-04-23,,,,,Sackville—Preston—Chezzetcook,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12008-2023,Kings—Hants,,,,,,,Kings—Hants,,,,,,,2024-04-23
+ocd-division/country:ca/ed:12008-2023,Kings—Hants,ocd-division/country:ca/province:ns/fed:kings-hants,,,,,,Kings—Hants,,,,,,,2024-04-23
 ocd-division/country:ca/ed:12009,South Shore—St. Margaret's,ocd-division/country:ca/province:ns/fed:south_shore-st._margaret~s,,,,,,South Shore—St. Margaret's,,,,,,,
 ocd-division/country:ca/ed:12009-2013,South Shore—St. Margarets,ocd-division/country:ca/province:ns/fed:south_shore-st._margarets,2024-04-23,,,,,South Shore—St. Margarets,,,,,,,2015-10-19
 ocd-division/country:ca/ed:12009-2023,Sackville—Bedford—Preston,,,,,,,Sackville—Bedford—Preston,,,,,,,2024-04-23
 ocd-division/country:ca/ed:12010,Sydney—Victoria,ocd-division/country:ca/province:ns/fed:sydney-victoria,,,,,,Sydney—Victoria,,,,,,,
 ocd-division/country:ca/ed:12010-2013,Sydney—Victoria,ocd-division/country:ca/province:ns/fed:sydney-victoria,2024-04-23,,,,,Sydney—Victoria,,,,,,,2015-10-19
-ocd-division/country:ca/ed:12010-2023,South Shore—St. Margarets,,,,,,,South Shore—St. Margarets,,,,,,,2024-04-23
+ocd-division/country:ca/ed:12010-2023,South Shore—St. Margarets,ocd-division/country:ca/province:ns/fed:south_shore-st._margarets,,,,,,South Shore—St. Margarets,,,,,,,2024-04-23
 ocd-division/country:ca/ed:12011,West Nova,ocd-division/country:ca/province:ns/fed:west_nova,,,,,,Nova-Ouest,,,,,,,
 ocd-division/country:ca/ed:12011-2013,West Nova,ocd-division/country:ca/province:ns/fed:west_nova,2024-04-23,,,,,Nova-Ouest,,,,,,,2015-10-19
 ocd-division/country:ca/ed:12011-2023,Sydney—Glace Bay,,,,,,,Sydney—Glace Bay,,,,,,,2024-04-23
 ocd-division/country:ca/ed:13001,Acadie—Bathurst,ocd-division/country:ca/province:nb/fed:acadie-bathurst,,,,,,Acadie—Bathurst,,,,,,,
 ocd-division/country:ca/ed:13001-2013,Acadie—Bathurst,ocd-division/country:ca/province:nb/fed:acadie-bathurst,2024-04-23,,,,,Acadie—Bathurst,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13001-2023,Acadie—Bathurst,,,,,,,Acadie—Bathurst,,,,,,,2024-04-23
+ocd-division/country:ca/ed:13001-2023,Acadie—Bathurst,ocd-division/country:ca/province:nb/fed:acadie-bathurst,,,,,,Acadie—Bathurst,,,,,,,2024-04-23
 ocd-division/country:ca/ed:13002,Beauséjour,ocd-division/country:ca/province:nb/fed:beauséjour,,,,,,Beauséjour,,,,,,,
 ocd-division/country:ca/ed:13002-2013,Beauséjour,ocd-division/country:ca/province:nb/fed:beauséjour,2024-04-23,,,,,Beauséjour,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13002-2023,Beauséjour,,,,,,,Beauséjour,,,,,,,2024-04-23
+ocd-division/country:ca/ed:13002-2023,Beauséjour,ocd-division/country:ca/province:nb/fed:beauséjour,,,,,,Beauséjour,,,,,,,2024-04-23
 ocd-division/country:ca/ed:13003,Fredericton,ocd-division/country:ca/province:nb/fed:fredericton,,,,,,Fredericton,,,,,,,
 ocd-division/country:ca/ed:13003-2013,Fredericton,ocd-division/country:ca/province:nb/fed:fredericton,2024-04-23,,,,,Fredericton,,,,,,,2015-10-19
 ocd-division/country:ca/ed:13003-2023,Fredericton—Oromocto,,,,,,,Fredericton—Oromocto,,,,,,,2024-04-23
 ocd-division/country:ca/ed:13004,Fundy Royal,ocd-division/country:ca/province:nb/fed:fundy_royal,,,,,,Fundy Royal,,,,,,,
 ocd-division/country:ca/ed:13004-2013,Fundy Royal,ocd-division/country:ca/province:nb/fed:fundy_royal,2024-04-23,,,,,Fundy Royal,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13004-2023,Fundy Royal,,,,,,,Fundy Royal,,,,,,,2024-04-23
+ocd-division/country:ca/ed:13004-2023,Fundy Royal,ocd-division/country:ca/province:nb/fed:fundy_royal,,,,,,Fundy Royal,,,,,,,2024-04-23
 ocd-division/country:ca/ed:13005,Madawaska—Restigouche,ocd-division/country:ca/province:nb/fed:madawaska-restigouche,,,,,,Madawaska—Restigouche,,,,,,,
 ocd-division/country:ca/ed:13005-2013,Madawaska—Restigouche,ocd-division/country:ca/province:nb/fed:madawaska-restigouche,2024-04-23,,,,,Madawaska—Restigouche,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13005-2023,Madawaska—Restigouche,,,,,,,Madawaska—Restigouche,,,,,,,2024-04-23
+ocd-division/country:ca/ed:13005-2023,Madawaska—Restigouche,ocd-division/country:ca/province:nb/fed:madawaska-restigouche,,,,,,Madawaska—Restigouche,,,,,,,2024-04-23
 ocd-division/country:ca/ed:13006,Miramichi,ocd-division/country:ca/province:nb/fed:miramichi,,,,,,Miramichi,,,,,,,
 ocd-division/country:ca/ed:13006-2013,Miramichi—Grand Lake,ocd-division/country:ca/province:nb/fed:miramichi-grand_lake,2024-04-23,,,,,Miramichi—Grand Lake,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13006-2023,Miramichi—Grand Lake,,,,,,,Miramichi—Grand Lake,,,,,,,2024-04-23
+ocd-division/country:ca/ed:13006-2023,Miramichi—Grand Lake,ocd-division/country:ca/province:nb/fed:miramichi-grand_lake,,,,,,Miramichi—Grand Lake,,,,,,,2024-04-23
 ocd-division/country:ca/ed:13007,Moncton—Riverview—Dieppe,ocd-division/country:ca/province:nb/fed:moncton-riverview-dieppe,,,,,,Moncton—Riverview—Dieppe,,,,,,,
 ocd-division/country:ca/ed:13007-2013,Moncton—Riverview—Dieppe,ocd-division/country:ca/province:nb/fed:moncton-riverview-dieppe,2024-04-23,,,,,Moncton—Riverview—Dieppe,,,,,,,2015-10-19
 ocd-division/country:ca/ed:13007-2023,Moncton—Dieppe,,,,,,,Moncton—Dieppe,,,,,,,2024-04-23
@@ -8579,64 +8579,64 @@ ocd-division/country:ca/ed:13009-2013,Saint John—Rothesay,ocd-division/country
 ocd-division/country:ca/ed:13009-2023,Saint John—St. Croix,,,,,,,Saint John—St. Croix,,,,,,,2024-04-23
 ocd-division/country:ca/ed:13010,Tobique—Mactaquac,ocd-division/country:ca/province:nb/fed:tobique-mactaquac,,,,,,Tobique—Mactaquac,,,,,,,
 ocd-division/country:ca/ed:13010-2013,Tobique—Mactaquac,ocd-division/country:ca/province:nb/fed:tobique-mactaquac,2024-04-23,,,,,Tobique—Mactaquac,,,,,,,2015-10-19
-ocd-division/country:ca/ed:13010-2023,Tobique—Mactaquac,,,,,,,Tobique—Mactaquac,,,,,,,2024-04-23
+ocd-division/country:ca/ed:13010-2023,Tobique—Mactaquac,ocd-division/country:ca/province:nb/fed:tobique-mactaquac,,,,,,Tobique—Mactaquac,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24001,Abitibi—Témiscamingue,ocd-division/country:ca/province:qc/fed:abitibi-témiscamingue,,,,,,Abitibi—Témiscamingue,,,,,,,
 ocd-division/country:ca/ed:24001-2013,Abitibi—Baie-James—Nunavik—Eeyou,ocd-division/country:ca/province:qc/fed:abitibi-baie-james-nunavik-eeyou,2024-04-23,,,,,Abitibi—Baie-James—Nunavik—Eeyou,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24001-2023,Abitibi—Baie-James—Nunavik—Eeyou,,,,,,,Abitibi—Baie-James—Nunavik—Eeyou,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24001-2023,Abitibi—Baie-James—Nunavik—Eeyou,ocd-division/country:ca/province:qc/fed:abitibi-baie-james-nunavik-eeyou,,,,,,Abitibi—Baie-James—Nunavik—Eeyou,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24002,Ahuntsic,ocd-division/country:ca/province:qc/fed:ahuntsic-1988,,,,,,Ahuntsic,,,,,,,
 ocd-division/country:ca/ed:24002-2013,Abitibi—Témiscamingue,ocd-division/country:ca/province:qc/fed:abitibi-témiscamingue,2024-04-23,,,,,Abitibi—Témiscamingue,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24002-2023,Abitibi—Témiscamingue,,,,,,,Abitibi—Témiscamingue,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24002-2023,Abitibi—Témiscamingue,ocd-division/country:ca/province:qc/fed:abitibi-témiscamingue,,,,,,Abitibi—Témiscamingue,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24003,Alfred-Pellan,ocd-division/country:ca/province:qc/fed:alfred-pellan,,,,,,Alfred-Pellan,,,,,,,
 ocd-division/country:ca/ed:24003-2013,Ahuntsic-Cartierville,ocd-division/country:ca/province:qc/fed:ahuntsic-cartierville,2024-04-23,,,,,Ahuntsic-Cartierville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24003-2023,Ahuntsic-Cartierville,,,,,,,Ahuntsic-Cartierville,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24003-2023,Ahuntsic-Cartierville,ocd-division/country:ca/province:qc/fed:ahuntsic-cartierville,,,,,,Ahuntsic-Cartierville,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24004,Argenteuil—Papineau—Mirabel,ocd-division/country:ca/province:qc/fed:argenteuil-papineau-mirabel-2004,,,,,,Argenteuil—Papineau—Mirabel,,,,,,,
 ocd-division/country:ca/ed:24004-2013,Alfred-Pellan,ocd-division/country:ca/province:qc/fed:alfred-pellan,2024-04-23,,,,,Alfred-Pellan,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24004-2023,Alfred-Pellan,,,,,,,Alfred-Pellan,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24004-2023,Alfred-Pellan,ocd-division/country:ca/province:qc/fed:alfred-pellan,,,,,,Alfred-Pellan,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24005,Beauce,ocd-division/country:ca/province:qc/fed:beauce,,,,,,Beauce,,,,,,,
 ocd-division/country:ca/ed:24005-2013,Argenteuil—La Petite-Nation,ocd-division/country:ca/province:qc/fed:argenteuil-la_petite-nation,2024-04-23,,,,,Argenteuil—La Petite-Nation,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24005-2023,Argenteuil—La Petite-Nation,,,,,,,Argenteuil—La Petite-Nation,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24005-2023,Argenteuil—La Petite-Nation,ocd-division/country:ca/province:qc/fed:argenteuil-la_petite-nation,,,,,,Argenteuil—La Petite-Nation,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24006,Beauharnois—Salaberry,ocd-division/country:ca/province:qc/fed:beauharnois-salaberry-1979,,,,,,Beauharnois—Salaberry,,,,,,,
 ocd-division/country:ca/ed:24006-2013,Avignon—La Mitis—Matane—Matapédia,ocd-division/country:ca/province:qc/fed:avignon-la_mitis-matane-matapédia,2024-04-23,,,,,Avignon—La Mitis—Matane—Matapédia,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24006-2023,Beauce,,,,,,,Beauce,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24006-2023,Beauce,ocd-division/country:ca/province:qc/fed:beauce,,,,,,Beauce,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24007,Beauport—Limoilou,ocd-division/country:ca/province:qc/fed:beauport-limoilou,,,,,,Beauport—Limoilou,,,,,,,
 ocd-division/country:ca/ed:24007-2013,Beauce,ocd-division/country:ca/province:qc/fed:beauce,2024-04-23,,,,,Beauce,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24007-2023,Beauharnois—Salaberry—Soulanges—Huntingdon,,,,,,,Beauharnois—Salaberry—Soulanges—Huntingdon,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24008,Berthier—Maskinongé,ocd-division/country:ca/province:qc/fed:berthier-maskinongé-2004,,,,,,Berthier—Maskinongé,,,,,,,
 ocd-division/country:ca/ed:24008-2013,Beauport—Limoilou,ocd-division/country:ca/province:qc/fed:beauport-limoilou,2024-04-23,,,,,Beauport—Limoilou,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24008-2023,Beauport—Limoilou,,,,,,,Beauport—Limoilou,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24008-2023,Beauport—Limoilou,ocd-division/country:ca/province:qc/fed:beauport-limoilou,,,,,,Beauport—Limoilou,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24009,Bourassa,ocd-division/country:ca/province:qc/fed:bourassa,,,,,,Bourassa,,,,,,,
 ocd-division/country:ca/ed:24009-2013,Bécancour—Nicolet—Saurel,ocd-division/country:ca/province:qc/fed:bécancour-nicolet-saurel,2024-04-23,,,,,Bécancour—Nicolet—Saurel,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24009-2023,Bécancour—Nicolet—Saurel—Alnôbak,,,,,,,Bécancour—Nicolet—Saurel—Alnôbak,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24010,Brome—Missisquoi,ocd-division/country:ca/province:qc/fed:brome-missisquoi-1984,,,,,,Brome—Missisquoi,,,,,,,
 ocd-division/country:ca/ed:24010-2013,Bellechasse—Les Etchemins—Lévis,ocd-division/country:ca/province:qc/fed:bellechasse-les_etchemins-lévis,2024-04-23,,,,,Bellechasse—Les Etchemins—Lévis,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24010-2023,Bellechasse—Les Etchemins—Lévis,,,,,,,Bellechasse—Les Etchemins—Lévis,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24010-2023,Bellechasse—Les Etchemins—Lévis,ocd-division/country:ca/province:qc/fed:bellechasse-les_etchemins-lévis,,,,,,Bellechasse—Les Etchemins—Lévis,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24011,Brossard—La Prairie,ocd-division/country:ca/province:qc/fed:brossard-la_prairie,,,,,,Brossard—La Prairie,,,,,,,
 ocd-division/country:ca/ed:24011-2013,Beloeil—Chambly,ocd-division/country:ca/province:qc/fed:beloeil-chambly,2024-04-23,,,,,Beloeil—Chambly,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24011-2023,Beloeil—Chambly,,,,,,,Beloeil—Chambly,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24011-2023,Beloeil—Chambly,ocd-division/country:ca/province:qc/fed:beloeil-chambly,,,,,,Beloeil—Chambly,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24012,Chambly—Borduas,ocd-division/country:ca/province:qc/fed:chambly-borduas,,,,,,Chambly—Borduas,,,,,,,
 ocd-division/country:ca/ed:24012-2013,Berthier—Maskinongé,ocd-division/country:ca/province:qc/fed:berthier-maskinongé-2004,2024-04-23,,,,,Berthier—Maskinongé,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24012-2023,Berthier—Maskinongé,,,,,,,Berthier—Maskinongé,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24012-2023,Berthier—Maskinongé,ocd-division/country:ca/province:qc/fed:berthier-maskinongé-2004,,,,,,Berthier—Maskinongé,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24013,Charlesbourg—Haute-Saint-Charles,ocd-division/country:ca/province:qc/fed:charlesbourg-haute-saint-charles,,,,,,Charlesbourg—Haute-Saint-Charles,,,,,,,
 ocd-division/country:ca/ed:24013-2013,Thérèse-De Blainville,ocd-division/country:ca/province:qc/fed:thérèse-de_blainville,2024-04-23,,,,,Thérèse-De Blainville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24013-2023,Bourassa,,,,,,,Bourassa,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24013-2023,Bourassa,ocd-division/country:ca/province:qc/fed:bourassa,,,,,,Bourassa,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24014,Montmorency—Charlevoix—Haute-Côte-Nord,ocd-division/country:ca/province:qc/fed:montmorency-charlevoix-haute-côte-nord,,,,,,Montmorency—Charlevoix—Haute-Côte-Nord,,,,,,,
 ocd-division/country:ca/ed:24014-2013,Pierre-Boucher—Les Patriotes—Verchères,ocd-division/country:ca/province:qc/fed:pierre-boucher-les_patriotes-verchères,2024-04-23,,,,,Pierre-Boucher—Les Patriotes—Verchères,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24014-2023,Brome—Missisquoi,,,,,,,Brome—Missisquoi,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24014-2023,Brome—Missisquoi,ocd-division/country:ca/province:qc/fed:brome-missisquoi-1984,,,,,,Brome—Missisquoi,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24015,Châteauguay—Saint-Constant,ocd-division/country:ca/province:qc/fed:châteauguay-saint-constant,,,,,,Châteauguay—Saint-Constant,,,,,,,
 ocd-division/country:ca/ed:24015-2013,Bourassa,ocd-division/country:ca/province:qc/fed:bourassa,2024-04-23,,,,,Bourassa,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24015-2023,Brossard—Saint-Lambert,,,,,,,Brossard—Saint-Lambert,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24015-2023,Brossard—Saint-Lambert,ocd-division/country:ca/province:qc/fed:brossard-saint-lambert,,,,,,Brossard—Saint-Lambert,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24016,Chicoutimi—Le Fjord,ocd-division/country:ca/province:qc/fed:chicoutimi-le_fjord,,,,,,Chicoutimi—Le Fjord,,,,,,,
 ocd-division/country:ca/ed:24016-2013,Brome—Missisquoi,ocd-division/country:ca/province:qc/fed:brome-missisquoi-1984,2024-04-23,,,,,Brome—Missisquoi,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24016-2023,Charlesbourg—Haute-Saint-Charles,,,,,,,Charlesbourg—Haute-Saint-Charles,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24016-2023,Charlesbourg—Haute-Saint-Charles,ocd-division/country:ca/province:qc/fed:charlesbourg-haute-saint-charles,,,,,,Charlesbourg—Haute-Saint-Charles,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24017,Compton—Stanstead,ocd-division/country:ca/province:qc/fed:compton-stanstead,,,,,,Compton—Stanstead,,,,,,,
 ocd-division/country:ca/ed:24017-2013,Brossard—Saint-Lambert,ocd-division/country:ca/province:qc/fed:brossard-saint-lambert,2024-04-23,,,,,Brossard—Saint-Lambert,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24017-2023,Châteauguay—Les Jardins-de-Napierville,,,,,,,Châteauguay—Les Jardins-de-Napierville,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24018,Drummond,ocd-division/country:ca/province:qc/fed:drummond,,,,,,Drummond,,,,,,,
 ocd-division/country:ca/ed:24018-2013,Rimouski-Neigette—Témiscouata—Les Basques,ocd-division/country:ca/province:qc/fed:rimouski-neigette-témiscouata-les_basques,2024-04-23,,,,,Rimouski-Neigette—Témiscouata—Les Basques,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24018-2023,Chicoutimi—Le Fjord,,,,,,,Chicoutimi—Le Fjord,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24018-2023,Chicoutimi—Le Fjord,ocd-division/country:ca/province:qc/fed:chicoutimi-le_fjord,,,,,,Chicoutimi—Le Fjord,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24019,Gaspésie—Îles-de-la-Madeleine,ocd-division/country:ca/province:qc/fed:gaspésie-îles-de-la-madeleine,,,,,,Gaspésie—Îles-de-la-Madeleine,,,,,,,
 ocd-division/country:ca/ed:24019-2013,Charlesbourg—Haute-Saint-Charles,ocd-division/country:ca/province:qc/fed:charlesbourg-haute-saint-charles,2024-04-23,,,,,Charlesbourg—Haute-Saint-Charles,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24019-2023,Compton—Stanstead,,,,,,,Compton—Stanstead,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24019-2023,Compton—Stanstead,ocd-division/country:ca/province:qc/fed:compton-stanstead,,,,,,Compton—Stanstead,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24020,Gatineau,ocd-division/country:ca/province:qc/fed:gatineau-1997,,,,,,Gatineau,,,,,,,
 ocd-division/country:ca/ed:24020-2013,Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix,ocd-division/country:ca/province:qc/fed:beauport-côte-de-beaupré-île_d~orléans-charlevoix,2024-04-23,,,,,Beauport—Côte-de-Beaupré—Île d'Orléans—Charlevoix,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24020-2023,Côte-du-Sud—Rivière-du-Loup— Kataskomiq—Témiscouata,,,,,,,Côte-du-Sud—Rivière-du-Loup—Kataskomiq—Témiscouata,,,,,,,2024-04-23
@@ -8645,298 +8645,298 @@ ocd-division/country:ca/ed:24021-2013,Châteauguay—Lacolle,ocd-division/countr
 ocd-division/country:ca/ed:24021-2023,Côte-Nord—Kawawachikamach—Nitassinan,,,,,,,Côte-Nord—Kawawachikamach—Nitassinan,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24022,Honoré-Mercier,ocd-division/country:ca/province:qc/fed:honoré-mercier,,,,,,Honoré-Mercier,,,,,,,
 ocd-division/country:ca/ed:24022-2013,Chicoutimi—Le Fjord,ocd-division/country:ca/province:qc/fed:chicoutimi-le_fjord,2024-04-23,,,,,Chicoutimi—Le Fjord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24022-2023,Dorval—Lachine—LaSalle,,,,,,,Dorval—Lachine—LaSalle,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24022-2023,Dorval—Lachine—LaSalle,ocd-division/country:ca/province:qc/fed:dorval-lachine-lasalle,,,,,,Dorval—Lachine—LaSalle,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24023,Hull—Aylmer,ocd-division/country:ca/province:qc/fed:hull-aylmer,,,,,,Hull—Aylmer,,,,,,,
 ocd-division/country:ca/ed:24023-2013,Compton—Stanstead,ocd-division/country:ca/province:qc/fed:compton-stanstead,2024-04-23,,,,,Compton—Stanstead,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24023-2023,Drummond,,,,,,,Drummond,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24023-2023,Drummond,ocd-division/country:ca/province:qc/fed:drummond,,,,,,Drummond,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24024,Jeanne-Le Ber,ocd-division/country:ca/province:qc/fed:jeanne-le_ber,,,,,,Jeanne-Le Ber,,,,,,,
 ocd-division/country:ca/ed:24024-2013,Dorval—Lachine—LaSalle,ocd-division/country:ca/province:qc/fed:dorval-lachine-lasalle,2024-04-23,,,,,Dorval—Lachine—LaSalle,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24024-2023,Gaspésie—Les Îles-de-la-Madeleine—Listuguj,,,,,,,Gaspésie—Les Îles-de-la-Madeleine—Listuguj,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24025,Joliette,ocd-division/country:ca/province:qc/fed:joliette-1968,,,,,,Joliette,,,,,,,
 ocd-division/country:ca/ed:24025-2013,Drummond,ocd-division/country:ca/province:qc/fed:drummond,2024-04-23,,,,,Drummond,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24025-2023,Gatineau,,,,,,,Gatineau,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24025-2023,Gatineau,ocd-division/country:ca/province:qc/fed:gatineau-1997,,,,,,Gatineau,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24026,Jonquière—Alma,ocd-division/country:ca/province:qc/fed:jonquière-alma,,,,,,Jonquière—Alma,,,,,,,
 ocd-division/country:ca/ed:24026-2013,Gaspésie—Les Îles-de-la-Madeleine,ocd-division/country:ca/province:qc/fed:gaspésie-les_îles-de-la-madeleine,2024-04-23,,,,,Gaspésie—Les Îles-de-la-Madeleine,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24026-2023,Hochelaga—Rosemont-Est,,,,,,,Hochelaga—Rosemont-Est,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24027,Lac-Saint-Louis,ocd-division/country:ca/province:qc/fed:lac-saint-louis,,,,,,Lac-Saint-Louis,,,,,,,
 ocd-division/country:ca/ed:24027-2013,Gatineau,ocd-division/country:ca/province:qc/fed:gatineau-1997,2024-04-23,,,,,Gatineau,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24027-2023,Honoré-Mercier,,,,,,,Honoré-Mercier,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24027-2023,Honoré-Mercier,ocd-division/country:ca/province:qc/fed:honoré-mercier,,,,,,Honoré-Mercier,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24028,La Pointe-de-l'Île,ocd-division/country:ca/province:qc/fed:la_pointe-de-l~île,,,,,,La Pointe-de-l'Île,,,,,,,
 ocd-division/country:ca/ed:24028-2013,Hochelaga,ocd-division/country:ca/province:qc/fed:hochelaga,2024-04-23,,,,,Hochelaga,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24028-2023,Hull—Aylmer,,,,,,,Hull—Aylmer,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24028-2023,Hull—Aylmer,ocd-division/country:ca/province:qc/fed:hull-aylmer,,,,,,Hull—Aylmer,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24029,LaSalle—Émard,ocd-division/country:ca/province:qc/fed:lasalle-émard,,,,,,LaSalle—Émard,,,,,,,
 ocd-division/country:ca/ed:24029-2013,Honoré-Mercier,ocd-division/country:ca/province:qc/fed:honoré-mercier,2024-04-23,,,,,Honoré-Mercier,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24029-2023,Joliette—Manawan,,,,,,,Joliette—Manawan,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24030,Laurentides—Labelle,ocd-division/country:ca/province:qc/fed:laurentides-labelle,,,,,,Laurentides—Labelle,,,,,,,
 ocd-division/country:ca/ed:24030-2013,Hull—Aylmer,ocd-division/country:ca/province:qc/fed:hull-aylmer,2024-04-23,,,,,Hull—Aylmer,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24030-2023,Jonquière,,,,,,,Jonquière,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24030-2023,Jonquière,ocd-division/country:ca/province:qc/fed:jonquière-2015,,,,,,Jonquière,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24031,Laurier—Sainte-Marie,ocd-division/country:ca/province:qc/fed:laurier-sainte-marie-2004,,,,,,Laurier—Sainte-Marie,,,,,,,
 ocd-division/country:ca/ed:24031-2013,Joliette,ocd-division/country:ca/province:qc/fed:joliette-1968,2024-04-23,,,,,Joliette,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24031-2023,La Pointe-de-l'Île,,,,,,,La Pointe-de-l'Île,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24031-2023,La Pointe-de-l'Île,ocd-division/country:ca/province:qc/fed:la_pointe-de-l~île,,,,,,La Pointe-de-l'Île,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24032,Laval,ocd-division/country:ca/province:qc/fed:laval-2004,,,,,,Laval,,,,,,,
 ocd-division/country:ca/ed:24032-2013,Jonquière,ocd-division/country:ca/province:qc/fed:jonquière-2015,2024-04-23,,,,,Jonquière,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24032-2023,La Prairie—Atateken,,,,,,,La Prairie—Atateken,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24033,Laval—Les Îles,ocd-division/country:ca/province:qc/fed:laval-les_îles,,,,,,Laval—Les Îles,,,,,,,
 ocd-division/country:ca/ed:24033-2013,La Pointe-de-l'Île,ocd-division/country:ca/province:qc/fed:la_pointe-de-l~île,2024-04-23,,,,,La Pointe-de-l'Île,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24033-2023,Lac-Saint-Jean,,,,,,,Lac-Saint-Jean,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24033-2023,Lac-Saint-Jean,ocd-division/country:ca/province:qc/fed:lac-saint-jean,,,,,,Lac-Saint-Jean,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24034,Lévis—Bellechasse,ocd-division/country:ca/province:qc/fed:lévis-bellechasse,,,,,,Lévis—Bellechasse,,,,,,,
 ocd-division/country:ca/ed:24034-2013,La Prairie,ocd-division/country:ca/province:qc/fed:la_prairie,2024-04-23,,,,,La Prairie,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24034-2023,Lac-Saint-Louis,,,,,,,Lac-Saint-Louis,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24034-2023,Lac-Saint-Louis,ocd-division/country:ca/province:qc/fed:lac-saint-louis,,,,,,Lac-Saint-Louis,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24035,Longueuil—Pierre-Boucher,ocd-division/country:ca/province:qc/fed:longueuil-pierre-boucher,,,,,,Longueuil—Pierre-Boucher,,,,,,,
 ocd-division/country:ca/ed:24035-2013,Lac-Saint-Jean,ocd-division/country:ca/province:qc/fed:lac-saint-jean,2024-04-23,,,,,Lac-Saint-Jean,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24035-2023,LaSalle—Émard—Verdun,,,,,,,LaSalle—Émard—Verdun,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24035-2023,LaSalle—Émard—Verdun,ocd-division/country:ca/province:qc/fed:lasalle-émard-verdun,,,,,,LaSalle—Émard—Verdun,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24036,Lotbinière—Chutes-de-la-Chaudière,ocd-division/country:ca/province:qc/fed:lotbinière-chutes-de-la-chaudière,,,,,,Lotbinière—Chutes-de-la-Chaudière,,,,,,,
 ocd-division/country:ca/ed:24036-2013,Lac-Saint-Louis,ocd-division/country:ca/province:qc/fed:lac-saint-louis,2024-04-23,,,,,Lac-Saint-Louis,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24036-2023,Laurentides—Labelle,,,,,,,Laurentides—Labelle,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24036-2023,Laurentides—Labelle,ocd-division/country:ca/province:qc/fed:laurentides-labelle,,,,,,Laurentides—Labelle,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24037,Louis-Hébert,ocd-division/country:ca/province:qc/fed:louis-hébert,,,,,,Louis-Hébert,,,,,,,
 ocd-division/country:ca/ed:24037-2013,LaSalle—Émard—Verdun,ocd-division/country:ca/province:qc/fed:lasalle-émard-verdun,2024-04-23,,,,,LaSalle—Émard—Verdun,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24037-2023,Laurier—Sainte-Marie,,,,,,,Laurier—Sainte-Marie,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24037-2023,Laurier—Sainte-Marie,ocd-division/country:ca/province:qc/fed:laurier-sainte-marie-2004,,,,,,Laurier—Sainte-Marie,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24038,Louis-Saint-Laurent,ocd-division/country:ca/province:qc/fed:louis-saint-laurent,,,,,,Louis-Saint-Laurent,,,,,,,
 ocd-division/country:ca/ed:24038-2013,Laurentides—Labelle,ocd-division/country:ca/province:qc/fed:laurentides-labelle,2024-04-23,,,,,Laurentides—Labelle,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24038-2023,Laval—Les Îles,,,,,,,Laval—Les Îles,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24038-2023,Laval—Les Îles,ocd-division/country:ca/province:qc/fed:laval-les_îles,,,,,,Laval—Les Îles,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24039,Manicouagan,ocd-division/country:ca/province:qc/fed:manicouagan,,,,,,Manicouagan,,,,,,,
 ocd-division/country:ca/ed:24039-2013,Laurier—Sainte-Marie,ocd-division/country:ca/province:qc/fed:laurier-sainte-marie-2004,2024-04-23,,,,,Laurier—Sainte-Marie,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24039-2023,Les Pays-d'en-Haut,,,,,,,Les Pays-d'en-Haut,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24040,Marc-Aurèle-Fortin,ocd-division/country:ca/province:qc/fed:marc-aurèle-fortin,,,,,,Marc-Aurèle-Fortin,,,,,,,
 ocd-division/country:ca/ed:24040-2013,Laval—Les Îles,ocd-division/country:ca/province:qc/fed:laval-les_îles,2024-04-23,,,,,Laval—Les Îles,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24040-2023,Lévis—Lotbinière,,,,,,,Lévis—Lotbinière,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24040-2023,Lévis—Lotbinière,ocd-division/country:ca/province:qc/fed:lévis-lotbinière,,,,,,Lévis—Lotbinière,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24041,Haute-Gaspésie—La Mitis—Matane—Matapédia,ocd-division/country:ca/province:qc/fed:haute-gaspésie-la_mitis-matane-matapédia,,,,,,Haute-Gaspésie—La Mitis—Matane—Matapédia,,,,,,,
 ocd-division/country:ca/ed:24041-2013,Longueuil—Charles-LeMoyne,ocd-division/country:ca/province:qc/fed:longueuil-charles-lemoyne,2024-04-23,,,,,Longueuil—Charles-LeMoyne,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24041-2023,Longueuil—Charles-LeMoyne,,,,,,,Longueuil—Charles-LeMoyne,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24041-2023,Longueuil—Charles-LeMoyne,ocd-division/country:ca/province:qc/fed:longueuil-charles-lemoyne,,,,,,Longueuil—Charles-LeMoyne,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24042,Mégantic—L'Érable,ocd-division/country:ca/province:qc/fed:mégantic-l~érable,,,,,,Mégantic—L'Érable,,,,,,,
 ocd-division/country:ca/ed:24042-2013,Lévis—Lotbinière,ocd-division/country:ca/province:qc/fed:lévis-lotbinière,2024-04-23,,,,,Lévis—Lotbinière,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24042-2023,Longueuil—Saint-Hubert,,,,,,,Longueuil—Saint-Hubert,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24042-2023,Longueuil—Saint-Hubert,ocd-division/country:ca/province:qc/fed:longueuil-saint-hubert,,,,,,Longueuil—Saint-Hubert,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24043,Montcalm,ocd-division/country:ca/province:qc/fed:montcalm-2004,,,,,,Montcalm,,,,,,,
 ocd-division/country:ca/ed:24043-2013,Longueuil—Saint-Hubert,ocd-division/country:ca/province:qc/fed:longueuil-saint-hubert,2024-04-23,,,,,Longueuil—Saint-Hubert,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24043-2023,Louis-Hébert,,,,,,,Louis-Hébert,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24043-2023,Louis-Hébert,ocd-division/country:ca/province:qc/fed:louis-hébert,,,,,,Louis-Hébert,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24044,Mount Royal,ocd-division/country:ca/province:qc/fed:mount_royal-2015,,,,,,Mont-Royal,,,,,,,
 ocd-division/country:ca/ed:24044-2013,Louis-Hébert,ocd-division/country:ca/province:qc/fed:louis-hébert,2024-04-23,,,,,Louis-Hébert,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24044-2023,Louis-Saint-Laurent—Akiawenhrahk,,,,,,,Louis-Saint-Laurent—Akiawenhrahk,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24045,Notre-Dame-de-Grâce—Lachine,ocd-division/country:ca/province:qc/fed:notre-dame-de-grâce-lachine,,,,,,Notre-Dame-de-Grâce—Lachine,,,,,,,
 ocd-division/country:ca/ed:24045-2013,Louis-Saint-Laurent,ocd-division/country:ca/province:qc/fed:louis-saint-laurent,2024-04-23,,,,,Louis-Saint-Laurent,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24045-2023,Marc-Aurèle-Fortin,,,,,,,Marc-Aurèle-Fortin,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24045-2023,Marc-Aurèle-Fortin,ocd-division/country:ca/province:qc/fed:marc-aurèle-fortin,,,,,,Marc-Aurèle-Fortin,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24046,Abitibi—Baie-James—Nunavik—Eeyou,ocd-division/country:ca/province:qc/fed:abitibi-baie-james-nunavik-eeyou,,,,,,Abitibi—Baie-James—Nunavik—Eeyou,,,,,,,
 ocd-division/country:ca/ed:24046-2013,Manicouagan,ocd-division/country:ca/province:qc/fed:manicouagan,2024-04-23,,,,,Manicouagan,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24046-2023,Mégantic—L’Érable—Lotbinière,,,,,,,Mégantic—L’Érable—Lotbinière,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24047,Outremont,ocd-division/country:ca/province:qc/fed:outremont-1968,,,,,,Outremont,,,,,,,
 ocd-division/country:ca/ed:24047-2013,Mégantic—L'Érable,ocd-division/country:ca/province:qc/fed:mégantic-l~érable,2024-04-23,,,,,Mégantic—L'Érable,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24047-2023,Mirabel,,,,,,,Mirabel,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24047-2023,Mirabel,ocd-division/country:ca/province:qc/fed:mirabel,,,,,,Mirabel,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24048,Papineau,ocd-division/country:ca/province:qc/fed:papineau-2004,,,,,,Papineau,,,,,,,
 ocd-division/country:ca/ed:24048-2013,Mirabel,ocd-division/country:ca/province:qc/fed:mirabel,2024-04-23,,,,,Mirabel,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24048-2023,Mount Royal,,,,,,,Mount Royal,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24048-2023,Mount Royal,ocd-division/country:ca/province:qc/fed:mount_royal-2015,,,,,,Mount Royal,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24049,Pierrefonds—Dollard,ocd-division/country:ca/province:qc/fed:pierrefonds-dollard,,,,,,Pierrefonds—Dollard,,,,,,,
 ocd-division/country:ca/ed:24049-2013,Montarville,ocd-division/country:ca/province:qc/fed:montarville,2024-04-23,,,,,Montarville,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24049-2023,Mont-Saint-Bruno—L’Acadie,,,,,,,Mont-Saint-Bruno—L’Acadie,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24050,Pontiac,ocd-division/country:ca/province:qc/fed:pontiac-2004,,,,,,Pontiac,,,,,,,
 ocd-division/country:ca/ed:24050-2013,Montcalm,ocd-division/country:ca/province:qc/fed:montcalm-2004,2024-04-23,,,,,Montcalm,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24050-2023,Montcalm,,,,,,,Montcalm,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24050-2023,Montcalm,ocd-division/country:ca/province:qc/fed:montcalm-2004,,,,,,Montcalm,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24051,Portneuf—Jacques-Cartier,ocd-division/country:ca/province:qc/fed:portneuf-jacques-cartier,,,,,,Portneuf—Jacques-Cartier,,,,,,,
 ocd-division/country:ca/ed:24051-2013,Montmagny—L'Islet—Kamouraska—Rivière-du-Loup,ocd-division/country:ca/province:qc/fed:montmagny-l~islet-kamouraska-rivière-du-loup,2024-04-23,,,,,Montmagny—L'Islet—Kamouraska—Rivière-du-Loup,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24051-2023,Montmorency—Charlevoix,,,,,,,Montmorency—Charlevoix,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24052,Québec,ocd-division/country:ca/province:qc/fed:québec,,,,,,Québec,,,,,,,
 ocd-division/country:ca/ed:24052-2013,Mount Royal,ocd-division/country:ca/province:qc/fed:mount_royal-2015,2024-04-23,,,,,Mont-Royal,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24052-2023,Notre-Dame-de-Grâce—Westmount,,,,,,,Notre-Dame-de-Grâce—Westmount,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24052-2023,Notre-Dame-de-Grâce—Westmount,ocd-division/country:ca/province:qc/fed:notre-dame-de-grâce-westmount,,,,,,Notre-Dame-de-Grâce—Westmount,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24053,Repentigny,ocd-division/country:ca/province:qc/fed:repentigny,,,,,,Repentigny,,,,,,,
 ocd-division/country:ca/ed:24053-2013,Notre-Dame-de-Grâce—Westmount,ocd-division/country:ca/province:qc/fed:notre-dame-de-grâce-westmount,2024-04-23,,,,,Notre-Dame-de-Grâce—Westmount,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24053-2023,Outremont,,,,,,,Outremont,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24053-2023,Outremont,ocd-division/country:ca/province:qc/fed:outremont-1968,,,,,,Outremont,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24054,Bas-Richelieu—Nicolet—Bécancour,ocd-division/country:ca/province:qc/fed:bas-richelieu-nicolet-bécancour,,,,,,Bas-Richelieu—Nicolet—Bécancour,,,,,,,
 ocd-division/country:ca/ed:24054-2013,Outremont,ocd-division/country:ca/province:qc/fed:outremont-1968,2024-04-23,,,,,Outremont,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24054-2023,Papineau,,,,,,,Papineau,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24054-2023,Papineau,ocd-division/country:ca/province:qc/fed:papineau-2004,,,,,,Papineau,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24055,Richmond—Arthabaska,ocd-division/country:ca/province:qc/fed:richmond-arthabaska,,,,,,Richmond—Arthabaska,,,,,,,
 ocd-division/country:ca/ed:24055-2013,Papineau,ocd-division/country:ca/province:qc/fed:papineau-2004,2024-04-23,,,,,Papineau,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24055-2023,Pierre-Boucher—Les Patriotes—Verchères,,,,,,,Pierre-Boucher—Les Patriotes—Verchères,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24055-2023,Pierre-Boucher—Les Patriotes—Verchères,ocd-division/country:ca/province:qc/fed:pierre-boucher-les_patriotes-verchères,,,,,,Pierre-Boucher—Les Patriotes—Verchères,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24056,Rimouski-Neigette—Témiscouata—Les Basques,ocd-division/country:ca/province:qc/fed:rimouski-neigette-témiscouata-les_basques,,,,,,Rimouski-Neigette—Témiscouata—Les Basques,,,,,,,
 ocd-division/country:ca/ed:24056-2013,Pierrefonds—Dollard,ocd-division/country:ca/province:qc/fed:pierrefonds-dollard,2024-04-23,,,,,Pierrefonds—Dollard,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24056-2023,Pierrefonds—Dollard,,,,,,,Pierrefonds—Dollard,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24056-2023,Pierrefonds—Dollard,ocd-division/country:ca/province:qc/fed:pierrefonds-dollard,,,,,,Pierrefonds—Dollard,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24057,Rivière-des-Mille-Îles,ocd-division/country:ca/province:qc/fed:rivière-des-mille-îles,,,,,,Rivière-des-Mille-Îles,,,,,,,
 ocd-division/country:ca/ed:24057-2013,Pontiac,ocd-division/country:ca/province:qc/fed:pontiac-2004,2024-04-23,,,,,Pontiac,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24057-2023,Pontiac—Kitigan Zibi,,,,,,,Pontiac—Kitigan Zibi,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24058,Montmagny—L'Islet—Kamouraska—Rivière-du-Loup,ocd-division/country:ca/province:qc/fed:montmagny-l~islet-kamouraska-rivière-du-loup,,,,,,Montmagny—L'Islet—Kamouraska—Rivière-du-Loup,,,,,,,
 ocd-division/country:ca/ed:24058-2013,Portneuf—Jacques-Cartier,ocd-division/country:ca/province:qc/fed:portneuf-jacques-cartier,2024-04-23,,,,,Portneuf—Jacques-Cartier,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24058-2023,Portneuf—Jacques-Cartier,,,,,,,Portneuf—Jacques-Cartier,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24058-2023,Portneuf—Jacques-Cartier,ocd-division/country:ca/province:qc/fed:portneuf-jacques-cartier,,,,,,Portneuf—Jacques-Cartier,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24059,Rivière-du-Nord,ocd-division/country:ca/province:qc/fed:rivière-du-nord,,,,,,Rivière-du-Nord,,,,,,,
 ocd-division/country:ca/ed:24059-2013,Québec,ocd-division/country:ca/province:qc/fed:québec,2024-04-23,,,,,Québec,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24059-2023,Québec Centre,,,,,,,Québec-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24060,Roberval—Lac-Saint-Jean,ocd-division/country:ca/province:qc/fed:roberval-lac-saint-jean,,,,,,Roberval—Lac-Saint-Jean,,,,,,,
 ocd-division/country:ca/ed:24060-2013,Repentigny,ocd-division/country:ca/province:qc/fed:repentigny,2024-04-23,,,,,Repentigny,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24060-2023,Repentigny,,,,,,,Repentigny,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24060-2023,Repentigny,ocd-division/country:ca/province:qc/fed:repentigny,,,,,,Repentigny,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24061,Rosemont—La Petite-Patrie,ocd-division/country:ca/province:qc/fed:rosemont-la_petite-patrie,,,,,,Rosemont—La Petite-Patrie,,,,,,,
 ocd-division/country:ca/ed:24061-2013,Richmond—Arthabaska,ocd-division/country:ca/province:qc/fed:richmond-arthabaska,2024-04-23,,,,,Richmond—Arthabaska,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24061-2023,Richmond—Arthabaska,,,,,,,Richmond—Arthabaska,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24061-2023,Richmond—Arthabaska,ocd-division/country:ca/province:qc/fed:richmond-arthabaska,,,,,,Richmond—Arthabaska,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24062,Saint-Bruno—Saint-Hubert,ocd-division/country:ca/province:qc/fed:saint-bruno-saint-hubert,,,,,,Saint-Bruno—Saint-Hubert,,,,,,,
 ocd-division/country:ca/ed:24062-2013,Rivière-des-Mille-Îles,ocd-division/country:ca/province:qc/fed:rivière-des-mille-îles,2024-04-23,,,,,Rivière-des-Mille-Îles,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24062-2023,Rimouski—La Matapédia,,,,,,,Rimouski—La Matapédia,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24063,Saint-Hyacinthe—Bagot,ocd-division/country:ca/province:qc/fed:saint-hyacinthe-bagot-1981,,,,,,Saint-Hyacinthe—Bagot,,,,,,,
 ocd-division/country:ca/ed:24063-2013,Rivière-du-Nord,ocd-division/country:ca/province:qc/fed:rivière-du-nord,2024-04-23,,,,,Rivière-du-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24063-2023,Rivière-des-Mille-Îles,,,,,,,Rivière-des-Mille-Îles,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24063-2023,Rivière-des-Mille-Îles,ocd-division/country:ca/province:qc/fed:rivière-des-mille-îles,,,,,,Rivière-des-Mille-Îles,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24064,Saint-Jean,ocd-division/country:ca/province:qc/fed:saint-jean,,,,,,Saint-Jean,,,,,,,
 ocd-division/country:ca/ed:24064-2013,Rosemont—La Petite-Patrie,ocd-division/country:ca/province:qc/fed:rosemont-la_petite-patrie,2024-04-23,,,,,Rosemont—La Petite-Patrie,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24064-2023,Rivière-du-Nord,,,,,,,Rivière-du-Nord,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24064-2023,Rivière-du-Nord,ocd-division/country:ca/province:qc/fed:rivière-du-nord,,,,,,Rivière-du-Nord,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24065,Saint-Lambert,ocd-division/country:ca/province:qc/fed:saint-lambert,,,,,,Saint-Lambert,,,,,,,
 ocd-division/country:ca/ed:24065-2013,Marc-Aurèle-Fortin,ocd-division/country:ca/province:qc/fed:marc-aurèle-fortin,2024-04-23,,,,,Marc-Aurèle-Fortin,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24065-2023,Rosemont—La Petite-Patrie,,,,,,,Rosemont—La Petite-Patrie,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24065-2023,Rosemont—La Petite-Patrie,ocd-division/country:ca/province:qc/fed:rosemont-la_petite-patrie,,,,,,Rosemont—La Petite-Patrie,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24066,Saint-Laurent—Cartierville,ocd-division/country:ca/province:qc/fed:saint-laurent-cartierville,,,,,,Saint-Laurent—Cartierville,,,,,,,
 ocd-division/country:ca/ed:24066-2013,Saint-Hyacinthe—Bagot,ocd-division/country:ca/province:qc/fed:saint-hyacinthe-bagot-1981,2024-04-23,,,,,Saint-Hyacinthe—Bagot,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24066-2023,Saint-Hyacinthe—Bagot—Acton,,,,,,,Saint-Hyacinthe—Bagot—Acton,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24067,Saint-Léonard—Saint-Michel,ocd-division/country:ca/province:qc/fed:saint-léonard-saint-michel,,,,,,Saint-Léonard—Saint-Michel,,,,,,,
 ocd-division/country:ca/ed:24067-2013,Saint-Jean,ocd-division/country:ca/province:qc/fed:saint-jean,2024-04-23,,,,,Saint-Jean,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24067-2023,Saint-Jean,,,,,,,Saint-Jean,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24067-2023,Saint-Jean,ocd-division/country:ca/province:qc/fed:saint-jean,,,,,,Saint-Jean,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24068,Saint-Maurice—Champlain,ocd-division/country:ca/province:qc/fed:saint-maurice-champlain,,,,,,Saint-Maurice—Champlain,,,,,,,
 ocd-division/country:ca/ed:24068-2013,Saint-Laurent,ocd-division/country:ca/province:qc/fed:saint-laurent,2024-04-23,,,,,Saint-Laurent,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24068-2023,Saint-Laurent,,,,,,,Saint-Laurent,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24068-2023,Saint-Laurent,ocd-division/country:ca/province:qc/fed:saint-laurent,,,,,,Saint-Laurent,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24069,Shefford,ocd-division/country:ca/province:qc/fed:shefford,,,,,,Shefford,,,,,,,
 ocd-division/country:ca/ed:24069-2013,Saint-Léonard—Saint-Michel,ocd-division/country:ca/province:qc/fed:saint-léonard-saint-michel,2024-04-23,,,,,Saint-Léonard—Saint-Michel,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24069-2023,Saint-Léonard—Saint-Michel,,,,,,,Saint-Léonard—Saint-Michel,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24069-2023,Saint-Léonard—Saint-Michel,ocd-division/country:ca/province:qc/fed:saint-léonard-saint-michel,,,,,,Saint-Léonard—Saint-Michel,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24070,Sherbrooke,ocd-division/country:ca/province:qc/fed:sherbrooke,,,,,,Sherbrooke,,,,,,,
 ocd-division/country:ca/ed:24070-2013,Saint-Maurice—Champlain,ocd-division/country:ca/province:qc/fed:saint-maurice-champlain,2024-04-23,,,,,Saint-Maurice—Champlain,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24070-2023,Saint-Maurice—Champlain,,,,,,,Saint-Maurice—Champlain,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24070-2023,Saint-Maurice—Champlain,ocd-division/country:ca/province:qc/fed:saint-maurice-champlain,,,,,,Saint-Maurice—Champlain,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24071,Terrebonne—Blainville,ocd-division/country:ca/province:qc/fed:terrebonne-blainville,,,,,,Terrebonne—Blainville,,,,,,,
 ocd-division/country:ca/ed:24071-2013,Salaberry—Suroît,ocd-division/country:ca/province:qc/fed:salaberry-suroît,2024-04-23,,,,,Salaberry—Suroît,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24071-2023,Shefford,,,,,,,Shefford,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24071-2023,Shefford,ocd-division/country:ca/province:qc/fed:shefford,,,,,,Shefford,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24072,Trois-Rivières,ocd-division/country:ca/province:qc/fed:trois-rivières,,,,,,Trois-Rivières,,,,,,,
 ocd-division/country:ca/ed:24072-2013,Shefford,ocd-division/country:ca/province:qc/fed:shefford,2024-04-23,,,,,Shefford,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24072-2023,Sherbrooke,,,,,,,Sherbrooke,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24072-2023,Sherbrooke,ocd-division/country:ca/province:qc/fed:sherbrooke,,,,,,Sherbrooke,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24073,Vaudreuil-Soulanges,ocd-division/country:ca/province:qc/fed:vaudreuil-soulanges-2015,,,,,,Vaudreuil-Soulanges,,,,,,,
 ocd-division/country:ca/ed:24073-2013,Sherbrooke,ocd-division/country:ca/province:qc/fed:sherbrooke,2024-04-23,,,,,Sherbrooke,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24073-2023,Terrebonne,,,,,,,Terrebonne,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24073-2023,Terrebonne,ocd-division/country:ca/province:qc/fed:terrebonne,,,,,,Terrebonne,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24074,Verchères—Les Patriotes,ocd-division/country:ca/province:qc/fed:verchères-les_patriotes,,,,,,Verchères—Les Patriotes,,,,,,,
 ocd-division/country:ca/ed:24074-2013,Vaudreuil—Soulanges,ocd-division/country:ca/province:qc/fed:vaudreuil-soulanges-2015,2024-04-23,,,,,Vaudreuil—Soulanges,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24074-2023,Thérèse-De Blainville,,,,,,,Thérèse-De Blainville,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24074-2023,Thérèse-De Blainville,ocd-division/country:ca/province:qc/fed:thérèse-de_blainville,,,,,,Thérèse-De Blainville,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24075,Westmount—Ville-Marie,ocd-division/country:ca/province:qc/fed:westmount-ville-marie,,,,,,Westmount—Ville-Marie,,,,,,,
 ocd-division/country:ca/ed:24075-2013,Terrebonne,ocd-division/country:ca/province:qc/fed:terrebonne,2024-04-23,,,,,Terrebonne,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24075-2023,Trois-Rivières,,,,,,,Trois-Rivières,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24075-2023,Trois-Rivières,ocd-division/country:ca/province:qc/fed:trois-rivières,,,,,,Trois-Rivières,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24076-2013,Trois-Rivières,ocd-division/country:ca/province:qc/fed:trois-rivières,2024-04-23,,,,,Trois-Rivières,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24076-2023,Vaudreuil,,,,,,,Vaudreuil,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24077-2013,Ville-Marie—Le Sud-Ouest—Île-des-Soeurs,ocd-division/country:ca/province:qc/fed:ville-marie-le_sud-ouest-île-des-soeurs,2024-04-23,,,,,Ville-Marie—Le Sud-Ouest—Île-des-Soeurs,,,,,,,2015-10-19
 ocd-division/country:ca/ed:24077-2023,Ville-Marie—Le Sud-Ouest—Île-des-Sœurs,,,,,,,Ville-Marie—Le Sud-Ouest—Île-des-Sœurs,,,,,,,2024-04-23
 ocd-division/country:ca/ed:24078-2013,Vimy,ocd-division/country:ca/province:qc/fed:vimy,2024-04-23,,,,,Vimy,,,,,,,2015-10-19
-ocd-division/country:ca/ed:24078-2023,Vimy,,,,,,,Vimy,,,,,,,2024-04-23
+ocd-division/country:ca/ed:24078-2023,Vimy,ocd-division/country:ca/province:qc/fed:vimy,,,,,,Vimy,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35001,Ajax—Pickering,ocd-division/country:ca/province:on/fed:ajax-pickering,,,,,,Ajax—Pickering,,,,,,,
 ocd-division/country:ca/ed:35001-2013,Ajax,ocd-division/country:ca/province:on/fed:ajax,2024-04-23,,,,,Ajax,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35001-2023,Ajax,,,,,,,Ajax,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35001-2023,Ajax,ocd-division/country:ca/province:on/fed:ajax,,,,,,Ajax,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35002,Algoma—Manitoulin—Kapuskasing,ocd-division/country:ca/province:on/fed:algoma-manitoulin-kapuskasing,,,,,,Algoma—Manitoulin—Kapuskasing,,,,,,,
 ocd-division/country:ca/ed:35002-2013,Algoma—Manitoulin—Kapuskasing,ocd-division/country:ca/province:on/fed:algoma-manitoulin-kapuskasing,2024-04-23,,,,,Algoma—Manitoulin—Kapuskasing,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35002-2023,Algonquin—Renfrew—Pembroke,,,,,,,Algonquin—Renfrew—Pembroke,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35003,Ancaster—Dundas—Flamborough—Westdale,ocd-division/country:ca/province:on/fed:ancaster-dundas-flamborough-westdale,,,,,,Ancaster—Dundas—Flamborough—Westdale,,,,,,,
 ocd-division/country:ca/ed:35003-2013,Aurora—Oak Ridges—Richmond Hill,ocd-division/country:ca/province:on/fed:aurora-oak_ridges-richmond_hill,2024-04-23,,,,,Aurora—Oak Ridges—Richmond Hill,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35003-2023,Aurora—Oak Ridges—Richmond Hill,,,,,,,Aurora—Oak Ridges—Richmond Hill,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35003-2023,Aurora—Oak Ridges—Richmond Hill,ocd-division/country:ca/province:on/fed:aurora-oak_ridges-richmond_hill,,,,,,Aurora—Oak Ridges—Richmond Hill,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35004,Barrie,ocd-division/country:ca/province:on/fed:barrie,,,,,,Barrie,,,,,,,
 ocd-division/country:ca/ed:35004-2013,Barrie—Innisfil,ocd-division/country:ca/province:on/fed:barrie-innisfil,2024-04-23,,,,,Barrie—Innisfil,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35004-2023,Barrie South—Innisfil,,,,,,,Barrie-Sud—Innisfil,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35005,Beaches—East York,ocd-division/country:ca/province:on/fed:beaches-east_york,,,,,,Beaches—East York,,,,,,,
 ocd-division/country:ca/ed:35005-2013,Barrie—Springwater—Oro-Medonte,ocd-division/country:ca/province:on/fed:barrie-springwater-oro-medonte,2024-04-23,,,,,Barrie—Springwater—Oro-Medonte,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35005-2023,Barrie—Springwater—Oro-Medonte,,,,,,,Barrie—Springwater—Oro-Medonte,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35005-2023,Barrie—Springwater—Oro-Medonte,ocd-division/country:ca/province:on/fed:barrie-springwater-oro-medonte,,,,,,Barrie—Springwater—Oro-Medonte,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35006,Bramalea—Gore—Malton,ocd-division/country:ca/province:on/fed:bramalea-gore-malton,,,,,,Bramalea—Gore—Malton,,,,,,,
 ocd-division/country:ca/ed:35006-2013,Bay of Quinte,ocd-division/country:ca/province:on/fed:bay_of_quinte,2024-04-23,,,,,Baie de Quinte,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35006-2023,Bay of Quinte,,,,,,,Bay of Quinte,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35006-2023,Bay of Quinte,ocd-division/country:ca/province:on/fed:bay_of_quinte,,,,,,Bay of Quinte,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35007,Brampton—Springdale,ocd-division/country:ca/province:on/fed:brampton-springdale,,,,,,Brampton—Springdale,,,,,,,
 ocd-division/country:ca/ed:35007-2013,Beaches—East York,ocd-division/country:ca/province:on/fed:beaches-east_york,2024-04-23,,,,,Beaches—East York,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35007-2023,Beaches—East York,,,,,,,Beaches—East York,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35007-2023,Beaches—East York,ocd-division/country:ca/province:on/fed:beaches-east_york,,,,,,Beaches—East York,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35008,Brampton West,ocd-division/country:ca/province:on/fed:brampton_west,,,,,,Brampton-Ouest,,,,,,,
 ocd-division/country:ca/ed:35008-2013,Brampton Centre,ocd-division/country:ca/province:on/fed:brampton_centre-2015,2024-04-23,,,,,Brampton-Centre,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35008-2023,Bowmanville—Oshawa North,,,,,,,Bowmanville—Oshawa-Nord,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35009,Brant,ocd-division/country:ca/province:on/fed:brant,,,,,,Brant,,,,,,,
 ocd-division/country:ca/ed:35009-2013,Brampton East,ocd-division/country:ca/province:on/fed:brampton_east,2024-04-23,,,,,Brampton-Est,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35009-2023,Brampton Centre,,,,,,,Brampton-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35009-2023,Brampton Centre,ocd-division/country:ca/province:on/fed:brampton_centre-2015,,,,,,Brampton-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35010,Burlington,ocd-division/country:ca/province:on/fed:burlington,,,,,,Burlington,,,,,,,
 ocd-division/country:ca/ed:35010-2013,Brampton North,ocd-division/country:ca/province:on/fed:brampton_north,2024-04-23,,,,,Brampton-Nord,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35010-2023,Brampton—Chinguacousy Park,,,,,,,Brampton—Chinguacousy Park,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35011,Cambridge,ocd-division/country:ca/province:on/fed:cambridge,,,,,,Cambridge,,,,,,,
 ocd-division/country:ca/ed:35011-2013,Brampton South,ocd-division/country:ca/province:on/fed:brampton_south,2024-04-23,,,,,Brampton-Sud,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35011-2023,Brampton East,,,,,,,Brampton-Est,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35011-2023,Brampton East,ocd-division/country:ca/province:on/fed:brampton_east,,,,,,Brampton-Est,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35012,Carleton—Mississippi Mills,ocd-division/country:ca/province:on/fed:carleton-mississippi_mills,,,,,,Carleton—Mississippi Mills,,,,,,,
 ocd-division/country:ca/ed:35012-2013,Brampton West,ocd-division/country:ca/province:on/fed:brampton_west,2024-04-23,,,,,Brampton-Ouest,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35012-2023,Brampton North—Caledon,,,,,,,Brampton-Nord—Caledon,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35013,Chatham-Kent—Essex,ocd-division/country:ca/province:on/fed:chatham-kent-essex,,,,,,Chatham-Kent—Essex,,,,,,,
 ocd-division/country:ca/ed:35013-2013,Brantford—Brant,ocd-division/country:ca/province:on/fed:brantford-brant,2024-04-23,,,,,Brantford—Brant,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35013-2023,Brampton South,,,,,,,Brampton-Sud,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35013-2023,Brampton South,ocd-division/country:ca/province:on/fed:brampton_south,,,,,,Brampton-Sud,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35014,Durham,ocd-division/country:ca/province:on/fed:durham-2004,,,,,,Durham,,,,,,,
 ocd-division/country:ca/ed:35014-2013,Bruce—Grey—Owen Sound,ocd-division/country:ca/province:on/fed:bruce-grey-owen_sound,2024-04-23,,,,,Bruce—Grey—Owen Sound,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35014-2023,Brampton West,,,,,,,Brampton-Ouest,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35014-2023,Brampton West,ocd-division/country:ca/province:on/fed:brampton_west,,,,,,Brampton-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35015,Davenport,ocd-division/country:ca/province:on/fed:davenport,,,,,,Davenport,,,,,,,
 ocd-division/country:ca/ed:35015-2013,Burlington,ocd-division/country:ca/province:on/fed:burlington,2024-04-23,,,,,Burlington,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35015-2023,Brantford—Brant South—Six Nations,,,,,,,Brantford—Brant-Sud—Six Nations,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35016,Don Valley East,ocd-division/country:ca/province:on/fed:don_valley_east,,,,,,Don Valley-Est,,,,,,,
 ocd-division/country:ca/ed:35016-2013,Cambridge,ocd-division/country:ca/province:on/fed:cambridge,2024-04-23,,,,,Cambridge,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35016-2023,Bruce—Grey—Owen Sound,,,,,,,Bruce—Grey—Owen Sound,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35016-2023,Bruce—Grey—Owen Sound,ocd-division/country:ca/province:on/fed:bruce-grey-owen_sound,,,,,,Bruce—Grey—Owen Sound,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35017,Don Valley West,ocd-division/country:ca/province:on/fed:don_valley_west,,,,,,Don Valley-Ouest,,,,,,,
 ocd-division/country:ca/ed:35017-2013,Chatham-Kent—Leamington,ocd-division/country:ca/province:on/fed:chatham-kent-leamington,2024-04-23,,,,,Chatham-Kent—Leamington,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35017-2023,Burlington,,,,,,,Burlington,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35017-2023,Burlington,ocd-division/country:ca/province:on/fed:burlington,,,,,,Burlington,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35018,Dufferin—Caledon,ocd-division/country:ca/province:on/fed:dufferin-caledon,,,,,,Dufferin—Caledon,,,,,,,
 ocd-division/country:ca/ed:35018-2013,Davenport,ocd-division/country:ca/province:on/fed:davenport,2024-04-23,,,,,Davenport,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35018-2023,Burlington North—Milton West,,,,,,,Burlington-Nord—Milton-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35019,Eglinton—Lawrence,ocd-division/country:ca/province:on/fed:eglinton-lawrence,,,,,,Eglinton—Lawrence,,,,,,,
 ocd-division/country:ca/ed:35019-2013,Don Valley East,ocd-division/country:ca/province:on/fed:don_valley_east,2024-04-23,,,,,Don Valley-Est,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35019-2023,Cambridge,,,,,,,Cambridge,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35019-2023,Cambridge,ocd-division/country:ca/province:on/fed:cambridge,,,,,,Cambridge,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35020,Elgin—Middlesex—London,ocd-division/country:ca/province:on/fed:elgin-middlesex-london,,,,,,Elgin—Middlesex—London,,,,,,,
 ocd-division/country:ca/ed:35020-2013,Don Valley North,ocd-division/country:ca/province:on/fed:don_valley_north-2015,2024-04-23,,,,,Don Valley-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35020-2023,Carleton,,,,,,,Carleton,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35020-2023,Carleton,ocd-division/country:ca/province:on/fed:carleton-2015,,,,,,Carleton,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35021,Essex,ocd-division/country:ca/province:on/fed:essex-1997,,,,,,Essex,,,,,,,
 ocd-division/country:ca/ed:35021-2013,Don Valley West,ocd-division/country:ca/province:on/fed:don_valley_west,2024-04-23,,,,,Don Valley-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35021-2023,Chatham-Kent—Leamington,,,,,,,Chatham-Kent—Leamington,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35021-2023,Chatham-Kent—Leamington,ocd-division/country:ca/province:on/fed:chatham-kent-leamington,,,,,,Chatham-Kent—Leamington,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35022,Etobicoke Centre,ocd-division/country:ca/province:on/fed:etobicoke_centre,,,,,,Etobicoke-Centre,,,,,,,
 ocd-division/country:ca/ed:35022-2013,Dufferin—Caledon,ocd-division/country:ca/province:on/fed:dufferin-caledon,2024-04-23,,,,,Dufferin—Caledon,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35022-2023,Davenport,,,,,,,Davenport,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35022-2023,Davenport,ocd-division/country:ca/province:on/fed:davenport,,,,,,Davenport,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35023,Etobicoke—Lakeshore,ocd-division/country:ca/province:on/fed:etobicoke-lakeshore,,,,,,Etobicoke—Lakeshore,,,,,,,
 ocd-division/country:ca/ed:35023-2013,Durham,ocd-division/country:ca/province:on/fed:durham-2004,2024-04-23,,,,,Durham,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35023-2023,Don Valley North,,,,,,,Don Valley-Nord,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35023-2023,Don Valley North,ocd-division/country:ca/province:on/fed:don_valley_north-2015,,,,,,Don Valley-Nord,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35024,Etobicoke North,ocd-division/country:ca/province:on/fed:etobicoke_north,,,,,,Etobicoke-Nord,,,,,,,
 ocd-division/country:ca/ed:35024-2013,Eglinton—Lawrence,ocd-division/country:ca/province:on/fed:eglinton-lawrence,2024-04-23,,,,,Eglinton—Lawrence,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35024-2023,Don Valley West,,,,,,,Don Valley-Ouest,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35024-2023,Don Valley West,ocd-division/country:ca/province:on/fed:don_valley_west,,,,,,Don Valley-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35025,Glengarry—Prescott—Russell,ocd-division/country:ca/province:on/fed:glengarry-prescott-russell,,,,,,Glengarry—Prescott—Russell,,,,,,,
 ocd-division/country:ca/ed:35025-2013,Elgin—Middlesex—London,ocd-division/country:ca/province:on/fed:elgin-middlesex-london,2024-04-23,,,,,Elgin—Middlesex—London,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35025-2023,Dufferin—Caledon,,,,,,,Dufferin—Caledon,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35025-2023,Dufferin—Caledon,ocd-division/country:ca/province:on/fed:dufferin-caledon,,,,,,Dufferin—Caledon,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35026,Bruce—Grey—Owen Sound,ocd-division/country:ca/province:on/fed:bruce-grey-owen_sound,,,,,,Bruce—Grey—Owen Sound,,,,,,,
 ocd-division/country:ca/ed:35026-2013,Essex,ocd-division/country:ca/province:on/fed:essex-1997,2024-04-23,,,,,Essex,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35026-2023,Eglinton—Lawrence,,,,,,,Eglinton—Lawrence,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35026-2023,Eglinton—Lawrence,ocd-division/country:ca/province:on/fed:eglinton-lawrence,,,,,,Eglinton—Lawrence,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35027,Guelph,ocd-division/country:ca/province:on/fed:guelph-2004,,,,,,Guelph,,,,,,,
 ocd-division/country:ca/ed:35027-2013,Etobicoke Centre,ocd-division/country:ca/province:on/fed:etobicoke_centre,2024-04-23,,,,,Etobicoke-Centre,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35027-2023,Elgin—St. Thomas—London South,,,,,,,Elgin—St. Thomas—London-Sud,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35028,Haldimand—Norfolk,ocd-division/country:ca/province:on/fed:haldimand-norfolk-2004,,,,,,Haldimand—Norfolk,,,,,,,
 ocd-division/country:ca/ed:35028-2013,Etobicoke—Lakeshore,ocd-division/country:ca/province:on/fed:etobicoke-lakeshore,2024-04-23,,,,,Etobicoke—Lakeshore,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35028-2023,Essex,,,,,,,Essex,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35028-2023,Essex,ocd-division/country:ca/province:on/fed:essex-1997,,,,,,Essex,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35029,Haliburton—Kawartha Lakes—Brock,ocd-division/country:ca/province:on/fed:haliburton-kawartha_lakes-brock,,,,,,Haliburton—Kawartha Lakes—Brock,,,,,,,
 ocd-division/country:ca/ed:35029-2013,Etobicoke North,ocd-division/country:ca/province:on/fed:etobicoke_north,2024-04-23,,,,,Etobicoke-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35029-2023,Etobicoke Centre,,,,,,,Etobicoke-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35029-2023,Etobicoke Centre,ocd-division/country:ca/province:on/fed:etobicoke_centre,,,,,,Etobicoke-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35030,Halton,ocd-division/country:ca/province:on/fed:halton-1997,,,,,,Halton,,,,,,,
 ocd-division/country:ca/ed:35030-2013,Flamborough—Glanbrook,ocd-division/country:ca/province:on/fed:flamborough-glanbrook,2024-04-23,,,,,Flamborough—Glanbrook,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35030-2023,Etobicoke—Lakeshore,,,,,,,Etobicoke—Lakeshore,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35030-2023,Etobicoke—Lakeshore,ocd-division/country:ca/province:on/fed:etobicoke-lakeshore,,,,,,Etobicoke—Lakeshore,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35031,Hamilton Centre,ocd-division/country:ca/province:on/fed:hamilton_centre,,,,,,Hamilton-Centre,,,,,,,
 ocd-division/country:ca/ed:35031-2013,Glengarry—Prescott—Russell,ocd-division/country:ca/province:on/fed:glengarry-prescott-russell,2024-04-23,,,,,Glengarry—Prescott—Russell,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35031-2023,Etobicoke North,,,,,,,Etobicoke-Nord,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35031-2023,Etobicoke North,ocd-division/country:ca/province:on/fed:etobicoke_north,,,,,,Etobicoke-Nord,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35032,Hamilton East—Stoney Creek,ocd-division/country:ca/province:on/fed:hamilton_east-stoney_creek,,,,,,Hamilton-Est—Stoney Creek,,,,,,,
 ocd-division/country:ca/ed:35032-2013,Guelph,ocd-division/country:ca/province:on/fed:guelph-2004,2024-04-23,,,,,Guelph,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35032-2023,Flamborough—Glanbrook—Brant North,,,,,,,Flamborough—Glanbrook—Brant-Nord,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35033,Hamilton Mountain,ocd-division/country:ca/province:on/fed:hamilton_mountain,,,,,,Hamilton Mountain,,,,,,,
 ocd-division/country:ca/ed:35033-2013,Haldimand—Norfolk,ocd-division/country:ca/province:on/fed:haldimand-norfolk-2004,2024-04-23,,,,,Haldimand—Norfolk,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35033-2023,Guelph,,,,,,,Guelph,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35033-2023,Guelph,ocd-division/country:ca/province:on/fed:guelph-2004,,,,,,Guelph,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35034,Huron—Bruce,ocd-division/country:ca/province:on/fed:huron-bruce,,,,,,Huron—Bruce,,,,,,,
 ocd-division/country:ca/ed:35034-2013,Haliburton—Kawartha Lakes—Brock,ocd-division/country:ca/province:on/fed:haliburton-kawartha_lakes-brock,2024-04-23,,,,,Haliburton—Kawartha Lakes—Brock,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35034-2023,Haldimand—Norfolk,,,,,,,Haldimand—Norfolk,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35034-2023,Haldimand—Norfolk,ocd-division/country:ca/province:on/fed:haldimand-norfolk-2004,,,,,,Haldimand—Norfolk,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35035,Kenora,ocd-division/country:ca/province:on/fed:kenora,,,,,,Kenora,,,,,,,
 ocd-division/country:ca/ed:35035-2013,Hamilton Centre,ocd-division/country:ca/province:on/fed:hamilton_centre,2024-04-23,,,,,Hamilton-Centre,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35035-2023,Haliburton—Kawartha Lakes,,,,,,,Haliburton—Kawartha Lakes,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35036,Kingston and the Islands,ocd-division/country:ca/province:on/fed:kingston_and_the_islands,,,,,,Kingston et les Îles,,,,,,,
 ocd-division/country:ca/ed:35036-2013,Hamilton East—Stoney Creek,ocd-division/country:ca/province:on/fed:hamilton_east-stoney_creek,2024-04-23,,,,,Hamilton-Est—Stoney Creek,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35036-2023,Hamilton Centre,,,,,,,Hamilton-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35036-2023,Hamilton Centre,ocd-division/country:ca/province:on/fed:hamilton_centre,,,,,,Hamilton-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35037,Kitchener Centre,ocd-division/country:ca/province:on/fed:kitchener_centre,,,,,,Kitchener-Centre,,,,,,,
 ocd-division/country:ca/ed:35037-2013,Hamilton Mountain,ocd-division/country:ca/province:on/fed:hamilton_mountain,2024-04-23,,,,,Hamilton Mountain,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35037-2023,Hamilton East—Stoney Creek,,,,,,,Hamilton-Est—Stoney Creek,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35037-2023,Hamilton East—Stoney Creek,ocd-division/country:ca/province:on/fed:hamilton_east-stoney_creek,,,,,,Hamilton-Est—Stoney Creek,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35038,Kitchener—Conestoga,ocd-division/country:ca/province:on/fed:kitchener-conestoga,,,,,,Kitchener—Conestoga,,,,,,,
 ocd-division/country:ca/ed:35038-2013,Hamilton West—Ancaster—Dundas,ocd-division/country:ca/province:on/fed:hamilton_west-ancaster-dundas,2024-04-23,,,,,Hamilton-Ouest—Ancaster—Dundas,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35038-2023,Hamilton Mountain,,,,,,,Hamilton Mountain,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35038-2023,Hamilton Mountain,ocd-division/country:ca/province:on/fed:hamilton_mountain,,,,,,Hamilton Mountain,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35039,Kitchener—Waterloo,ocd-division/country:ca/province:on/fed:kitchener-waterloo,,,,,,Kitchener—Waterloo,,,,,,,
 ocd-division/country:ca/ed:35039-2013,Hastings—Lennox and Addington,ocd-division/country:ca/province:on/fed:hastings-lennox_and_addington,2024-04-23,,,,,Hastings—Lennox and Addington,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35039-2023,Hamilton West—Ancaster—Dundas,,,,,,,Hamilton-Ouest—Ancaster—Dundas,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35039-2023,Hamilton West—Ancaster—Dundas,ocd-division/country:ca/province:on/fed:hamilton_west-ancaster-dundas,,,,,,Hamilton-Ouest—Ancaster—Dundas,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35040,Lanark—Frontenac—Lennox and Addington,ocd-division/country:ca/province:on/fed:lanark-frontenac-lennox_and_addington,,,,,,Lanark—Frontenac—Lennox and Addington,,,,,,,
 ocd-division/country:ca/ed:35040-2013,Huron—Bruce,ocd-division/country:ca/province:on/fed:huron-bruce,2024-04-23,,,,,Huron—Bruce,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35040-2023,Hastings—Lennox and Addington—Tyendinaga,,,,,,,Hastings—Lennox and Addington—Tyendinaga,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35041,Leeds—Grenville,ocd-division/country:ca/province:on/fed:leeds-grenville-thousand_islands_and_rideau_lakes,,,,,,Leeds—Grenville,,,,,,,
 ocd-division/country:ca/ed:35041-2013,Kanata—Carleton,ocd-division/country:ca/province:on/fed:kanata-carleton,2024-04-23,,,,,Kanata—Carleton,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35041-2023,Humber River—Black Creek,,,,,,,Humber River—Black Creek,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35041-2023,Humber River—Black Creek,ocd-division/country:ca/province:on/fed:humber_river-black_creek,,,,,,Humber River—Black Creek,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35042,London—Fanshawe,ocd-division/country:ca/province:on/fed:london-fanshawe,,,,,,London—Fanshawe,,,,,,,
 ocd-division/country:ca/ed:35042-2013,Kenora,ocd-division/country:ca/province:on/fed:kenora,2024-04-23,,,,,Kenora,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35042-2023,Huron—Bruce,,,,,,,Huron—Bruce,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35042-2023,Huron—Bruce,ocd-division/country:ca/province:on/fed:huron-bruce,,,,,,Huron—Bruce,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35043,London North Centre,ocd-division/country:ca/province:on/fed:london_north_centre,,,,,,London-Centre-Nord,,,,,,,
 ocd-division/country:ca/ed:35043-2013,King—Vaughan,ocd-division/country:ca/province:on/fed:king-vaughan,2024-04-23,,,,,King—Vaughan,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35043-2023,Kanata,,,,,,,Kanata,,,,,,,2024-04-23
@@ -8948,19 +8948,19 @@ ocd-division/country:ca/ed:35045-2013,Kitchener Centre,ocd-division/country:ca/p
 ocd-division/country:ca/ed:35045-2023,Kenora—Kiiwetinoong,,,,,,,Kenora—Kiiwetinoong,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35046,Lambton—Kent—Middlesex,ocd-division/country:ca/province:on/fed:lambton-kent-middlesex,,,,,,Lambton—Kent—Middlesex,,,,,,,
 ocd-division/country:ca/ed:35046-2013,Kitchener—Conestoga,ocd-division/country:ca/province:on/fed:kitchener-conestoga,2024-04-23,,,,,Kitchener—Conestoga,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35046-2023,Kingston and the Islands,,,,,,,Kingston et les Îles,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35046-2023,Kingston and the Islands,ocd-division/country:ca/province:on/fed:kingston_and_the_islands,,,,,,Kingston et les Îles,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35047,Mississauga—Brampton South,ocd-division/country:ca/province:on/fed:mississauga-brampton_south,,,,,,Mississauga—Brampton-Sud,,,,,,,
 ocd-division/country:ca/ed:35047-2013,Kitchener South—Hespeler,ocd-division/country:ca/province:on/fed:kitchener_south-hespeler,2024-04-23,,,,,Kitchener-Sud—Hespeler,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35047-2023,King—Vaughan,,,,,,,King—Vaughan,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35047-2023,King—Vaughan,ocd-division/country:ca/province:on/fed:king-vaughan,,,,,,King—Vaughan,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35048,Mississauga East—Cooksville,ocd-division/country:ca/province:on/fed:mississauga_east-cooksville,,,,,,Mississauga-Est—Cooksville,,,,,,,
 ocd-division/country:ca/ed:35048-2013,Lambton—Kent—Middlesex,ocd-division/country:ca/province:on/fed:lambton-kent-middlesex,2024-04-23,,,,,Lambton—Kent—Middlesex,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35048-2023,Kitchener Centre,,,,,,,Kitchener-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35048-2023,Kitchener Centre,ocd-division/country:ca/province:on/fed:kitchener_centre,,,,,,Kitchener-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35049,Mississauga—Erindale,ocd-division/country:ca/province:on/fed:mississauga-erindale,,,,,,Mississauga—Erindale,,,,,,,
 ocd-division/country:ca/ed:35049-2013,Lanark—Frontenac—Kingston,ocd-division/country:ca/province:on/fed:lanark-frontenac-kingston,2024-04-23,,,,,Lanark—Frontenac—Kingston,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35049-2023,Kitchener—Conestoga,,,,,,,Kitchener—Conestoga,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35049-2023,Kitchener—Conestoga,ocd-division/country:ca/province:on/fed:kitchener-conestoga,,,,,,Kitchener—Conestoga,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35050,Mississauga South,ocd-division/country:ca/province:on/fed:mississauga_south,,,,,,Mississauga-Sud,,,,,,,
 ocd-division/country:ca/ed:35050-2013,Leeds—Grenville—Thousand Islands and Rideau Lakes,ocd-division/country:ca/province:on/fed:leeds-grenville-thousand_islands_and_rideau_lakes,2024-04-23,,,,,Leeds—Grenville—Thousand Islands et Rideau Lakes,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35050-2023,Kitchener South—Hespeler,,,,,,,Kitchener-Sud—Hespeler,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35050-2023,Kitchener South—Hespeler,ocd-division/country:ca/province:on/fed:kitchener_south-hespeler,,,,,,Kitchener-Sud—Hespeler,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35051,Mississauga—Streetsville,ocd-division/country:ca/province:on/fed:mississauga-streetsville,,,,,,Mississauga—Streetsville,,,,,,,
 ocd-division/country:ca/ed:35051-2013,London—Fanshawe,ocd-division/country:ca/province:on/fed:london-fanshawe,2024-04-23,,,,,London—Fanshawe,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35051-2023,Lanark—Frontenac,,,,,,,Lanark—Frontenac,,,,,,,2024-04-23
@@ -8972,19 +8972,19 @@ ocd-division/country:ca/ed:35053-2013,London West,ocd-division/country:ca/provin
 ocd-division/country:ca/ed:35053-2023,London Centre,,,,,,,London-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35054,Niagara Falls,ocd-division/country:ca/province:on/fed:niagara_falls,,,,,,Niagara Falls,,,,,,,
 ocd-division/country:ca/ed:35054-2013,Markham—Stouffville,ocd-division/country:ca/province:on/fed:markham-stouffville,2024-04-23,,,,,Markham—Stouffville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35054-2023,London—Fanshawe,,,,,,,London—Fanshawe,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35054-2023,London—Fanshawe,ocd-division/country:ca/province:on/fed:london-fanshawe,,,,,,London—Fanshawe,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35055,Niagara West—Glanbrook,ocd-division/country:ca/province:on/fed:niagara_west-glanbrook,,,,,,Niagara-Ouest—Glanbrook,,,,,,,
 ocd-division/country:ca/ed:35055-2013,Markham—Thornhill,ocd-division/country:ca/province:on/fed:markham-thornhill,2024-04-23,,,,,Markham—Thornhill,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35055-2023,London West,,,,,,,London-Ouest,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35055-2023,London West,ocd-division/country:ca/province:on/fed:london_west,,,,,,London-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35056,Nickel Belt,ocd-division/country:ca/province:on/fed:nickel_belt,,,,,,Nickel Belt,,,,,,,
 ocd-division/country:ca/ed:35056-2013,Markham—Unionville,ocd-division/country:ca/province:on/fed:markham-unionville,2024-04-23,,,,,Markham—Unionville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35056-2023,Markham—Stouffville,,,,,,,Markham—Stouffville,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35056-2023,Markham—Stouffville,ocd-division/country:ca/province:on/fed:markham-stouffville,,,,,,Markham—Stouffville,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35057,Nipissing—Timiskaming,ocd-division/country:ca/province:on/fed:nipissing-timiskaming,,,,,,Nipissing—Timiskaming,,,,,,,
 ocd-division/country:ca/ed:35057-2013,Milton,ocd-division/country:ca/province:on/fed:milton,2024-04-23,,,,,Milton,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35057-2023,Markham—Thornhill,,,,,,,Markham—Thornhill,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35057-2023,Markham—Thornhill,ocd-division/country:ca/province:on/fed:markham-thornhill,,,,,,Markham—Thornhill,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35058,Northumberland—Quinte West,ocd-division/country:ca/province:on/fed:northumberland-quinte_west,,,,,,Northumberland—Quinte West,,,,,,,
 ocd-division/country:ca/ed:35058-2013,Mississauga Centre,ocd-division/country:ca/province:on/fed:mississauga_centre-2015,2024-04-23,,,,,Mississauga-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35058-2023,Markham—Unionville,,,,,,,Markham—Unionville,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35058-2023,Markham—Unionville,ocd-division/country:ca/province:on/fed:markham-unionville,,,,,,Markham—Unionville,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35059,Oak Ridges—Markham,ocd-division/country:ca/province:on/fed:oak_ridges-markham,,,,,,Oak Ridges—Markham,,,,,,,
 ocd-division/country:ca/ed:35059-2013,Mississauga East—Cooksville,ocd-division/country:ca/province:on/fed:mississauga_east-cooksville,2024-04-23,,,,,Mississauga-Est—Cooksville,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35059-2023,Middlesex—London,,,,,,,Middlesex—London,,,,,,,2024-04-23
@@ -8993,28 +8993,28 @@ ocd-division/country:ca/ed:35060-2013,Mississauga—Erin Mills,ocd-division/coun
 ocd-division/country:ca/ed:35060-2023,Milton East—Halton Hills South,,,,,,,Milton-Est—Halton Hills-Sud,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35061,Oshawa,ocd-division/country:ca/province:on/fed:oshawa,,,,,,Oshawa,,,,,,,
 ocd-division/country:ca/ed:35061-2013,Mississauga—Lakeshore,ocd-division/country:ca/province:on/fed:mississauga-lakeshore,2024-04-23,,,,,Mississauga—Lakeshore,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35061-2023,Mississauga Centre,,,,,,,Mississauga-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35061-2023,Mississauga Centre,ocd-division/country:ca/province:on/fed:mississauga_centre-2015,,,,,,Mississauga-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35062,Ottawa Centre,ocd-division/country:ca/province:on/fed:ottawa_centre,,,,,,Ottawa-Centre,,,,,,,
 ocd-division/country:ca/ed:35062-2013,Mississauga—Malton,ocd-division/country:ca/province:on/fed:mississauga-malton,2024-04-23,,,,,Mississauga—Malton,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35062-2023,Mississauga East—Cooksville,,,,,,,Mississauga-Est—Cooksville,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35062-2023,Mississauga East—Cooksville,ocd-division/country:ca/province:on/fed:mississauga_east-cooksville,,,,,,Mississauga-Est—Cooksville,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35063,Ottawa—Orléans,ocd-division/country:ca/province:on/fed:orléans,,,,,,Ottawa—Orléans,,,,,,,
 ocd-division/country:ca/ed:35063-2013,Mississauga—Streetsville,ocd-division/country:ca/province:on/fed:mississauga-streetsville,2024-04-23,,,,,Mississauga—Streetsville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35063-2023,Mississauga—Erin Mills,,,,,,,Mississauga—Erin Mills,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35063-2023,Mississauga—Erin Mills,ocd-division/country:ca/province:on/fed:mississauga-erin_mills,,,,,,Mississauga—Erin Mills,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35064,Ottawa South,ocd-division/country:ca/province:on/fed:ottawa_south,,,,,,Ottawa-Sud,,,,,,,
 ocd-division/country:ca/ed:35064-2013,Nepean,ocd-division/country:ca/province:on/fed:nepean-2015,2024-04-23,,,,,Nepean,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35064-2023,Mississauga—Lakeshore,,,,,,,Mississauga—Lakeshore,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35064-2023,Mississauga—Lakeshore,ocd-division/country:ca/province:on/fed:mississauga-lakeshore,,,,,,Mississauga—Lakeshore,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35065,Ottawa—Vanier,ocd-division/country:ca/province:on/fed:ottawa-vanier,,,,,,Ottawa—Vanier,,,,,,,
 ocd-division/country:ca/ed:35065-2013,Newmarket—Aurora,ocd-division/country:ca/province:on/fed:newmarket-aurora,2024-04-23,,,,,Newmarket—Aurora,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35065-2023,Mississauga—Malton,,,,,,,Mississauga—Malton,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35065-2023,Mississauga—Malton,ocd-division/country:ca/province:on/fed:mississauga-malton,,,,,,Mississauga—Malton,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35066,Ottawa West—Nepean,ocd-division/country:ca/province:on/fed:ottawa_west-nepean,,,,,,Ottawa-Ouest—Nepean,,,,,,,
 ocd-division/country:ca/ed:35066-2013,Niagara Centre,ocd-division/country:ca/province:on/fed:niagara_centre-2015,2024-04-23,,,,,Niagara-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35066-2023,Mississauga—Streetsville,,,,,,,Mississauga—Streetsville,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35066-2023,Mississauga—Streetsville,ocd-division/country:ca/province:on/fed:mississauga-streetsville,,,,,,Mississauga—Streetsville,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35067,Oxford,ocd-division/country:ca/province:on/fed:oxford,,,,,,Oxford,,,,,,,
 ocd-division/country:ca/ed:35067-2013,Niagara Falls,ocd-division/country:ca/province:on/fed:niagara_falls,2024-04-23,,,,,Niagara Falls,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35067-2023,Nepean,,,,,,,Nepean,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35067-2023,Nepean,ocd-division/country:ca/province:on/fed:nepean-2015,,,,,,Nepean,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35068,Parkdale—High Park,ocd-division/country:ca/province:on/fed:parkdale-high_park,,,,,,Parkdale—High Park,,,,,,,
 ocd-division/country:ca/ed:35068-2013,Niagara West,ocd-division/country:ca/province:on/fed:niagara_west,2024-04-23,,,,,Niagara-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35068-2023,Newmarket—Aurora,,,,,,,Newmarket—Aurora,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35068-2023,Newmarket—Aurora,ocd-division/country:ca/province:on/fed:newmarket-aurora,,,,,,Newmarket—Aurora,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35069,Parry Sound—Muskoka,ocd-division/country:ca/province:on/fed:parry_sound-muskoka,,,,,,Parry Sound—Muskoka,,,,,,,
 ocd-division/country:ca/ed:35069-2013,Nickel Belt,ocd-division/country:ca/province:on/fed:nickel_belt,2024-04-23,,,,,Nickel Belt,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35069-2023,New Tecumseth—Gwillimbury,,,,,,,New Tecumseth—Gwillimbury,,,,,,,2024-04-23
@@ -9026,10 +9026,10 @@ ocd-division/country:ca/ed:35071-2013,Northumberland—Peterborough South,ocd-di
 ocd-division/country:ca/ed:35071-2023,Niagara South,,,,,,,Niagara-Sud,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35072,Pickering—Scarborough East,ocd-division/country:ca/province:on/fed:pickering-scarborough_east,,,,,,Pickering—Scarborough-Est,,,,,,,
 ocd-division/country:ca/ed:35072-2013,Oakville,ocd-division/country:ca/province:on/fed:oakville,2024-04-23,,,,,Oakville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35072-2023,Niagara West,,,,,,,Niagara-Ouest,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35072-2023,Niagara West,ocd-division/country:ca/province:on/fed:niagara_west,,,,,,Niagara-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35073,Prince Edward—Hastings,ocd-division/country:ca/province:on/fed:prince_edward-hastings-1979,,,,,,Prince Edward—Hastings,,,,,,,
 ocd-division/country:ca/ed:35073-2013,Oakville North—Burlington,ocd-division/country:ca/province:on/fed:oakville_north-burlington,2024-04-23,,,,,Oakville-Nord—Burlington,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35073-2023,Nipissing—Timiskaming,,,,,,,Nipissing—Timiskaming,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35073-2023,Nipissing—Timiskaming,ocd-division/country:ca/province:on/fed:nipissing-timiskaming,,,,,,Nipissing—Timiskaming,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35074,Renfrew—Nipissing—Pembroke,ocd-division/country:ca/province:on/fed:renfrew-nipissing-pembroke-1989,,,,,,Renfrew—Nipissing—Pembroke,,,,,,,
 ocd-division/country:ca/ed:35074-2013,Oshawa,ocd-division/country:ca/province:on/fed:oshawa,2024-04-23,,,,,Oshawa,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35074-2023,Northumberland—Clarke,,,,,,,Northumberland—Clarke,,,,,,,2024-04-23
@@ -9041,31 +9041,31 @@ ocd-division/country:ca/ed:35076-2013,Orléans,ocd-division/country:ca/province:
 ocd-division/country:ca/ed:35076-2023,Oakville West,,,,,,,Oakville-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35077,St. Paul's,ocd-division/country:ca/province:on/fed:st._paul~s,,,,,,St. Paul's,,,,,,,
 ocd-division/country:ca/ed:35077-2013,Ottawa South,ocd-division/country:ca/province:on/fed:ottawa_south,2024-04-23,,,,,Ottawa-Sud,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35077-2023,Orléans,,,,,,,Orléans,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35077-2023,Orléans,ocd-division/country:ca/province:on/fed:orléans,,,,,,Orléans,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35078,Sarnia—Lambton,ocd-division/country:ca/province:on/fed:sarnia-lambton-1981,,,,,,Sarnia—Lambton,,,,,,,
 ocd-division/country:ca/ed:35078-2013,Ottawa—Vanier,ocd-division/country:ca/province:on/fed:ottawa-vanier,2024-04-23,,,,,Ottawa—Vanier,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35078-2023,Oshawa,,,,,,,Oshawa,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35078-2023,Oshawa,ocd-division/country:ca/province:on/fed:oshawa,,,,,,Oshawa,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35079,Sault Ste. Marie,ocd-division/country:ca/province:on/fed:sault_ste._marie,,,,,,Sault Ste. Marie,,,,,,,
 ocd-division/country:ca/ed:35079-2013,Ottawa West—Nepean,ocd-division/country:ca/province:on/fed:ottawa_west-nepean,2024-04-23,,,,,Ottawa-Ouest—Nepean,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35079-2023,Ottawa Centre,,,,,,,Ottawa-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35079-2023,Ottawa Centre,ocd-division/country:ca/province:on/fed:ottawa_centre,,,,,,Ottawa-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35080,Scarborough—Agincourt,ocd-division/country:ca/province:on/fed:scarborough-agincourt,,,,,,Scarborough—Agincourt,,,,,,,
 ocd-division/country:ca/ed:35080-2013,Oxford,ocd-division/country:ca/province:on/fed:oxford,2024-04-23,,,,,Oxford,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35080-2023,Ottawa South,,,,,,,Ottawa-Sud,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35080-2023,Ottawa South,ocd-division/country:ca/province:on/fed:ottawa_south,,,,,,Ottawa-Sud,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35081,Scarborough Centre,ocd-division/country:ca/province:on/fed:scarborough_centre,,,,,,Scarborough-Centre,,,,,,,
 ocd-division/country:ca/ed:35081-2013,Parkdale—High Park,ocd-division/country:ca/province:on/fed:parkdale-high_park,2024-04-23,,,,,Parkdale—High Park,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35081-2023,Ottawa—Vanier—Gloucester,,,,,,,Ottawa—Vanier—Gloucester,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35082,Scarborough—Guildwood,ocd-division/country:ca/province:on/fed:scarborough-guildwood,,,,,,Scarborough—Guildwood,,,,,,,
 ocd-division/country:ca/ed:35082-2013,Parry Sound—Muskoka,ocd-division/country:ca/province:on/fed:parry_sound-muskoka,2024-04-23,,,,,Parry Sound—Muskoka,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35082-2023,Ottawa West—Nepean,,,,,,,Ottawa-Ouest—Nepean,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35082-2023,Ottawa West—Nepean,ocd-division/country:ca/province:on/fed:ottawa_west-nepean,,,,,,Ottawa-Ouest—Nepean,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35083,Scarborough—Rouge River,ocd-division/country:ca/province:on/fed:scarborough-rouge_river,,,,,,Scarborough—Rouge River,,,,,,,
 ocd-division/country:ca/ed:35083-2013,Perth—Wellington,ocd-division/country:ca/province:on/fed:perth-wellington,2024-04-23,,,,,Perth—Wellington,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35083-2023,Oxford,,,,,,,Oxford,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35083-2023,Oxford,ocd-division/country:ca/province:on/fed:oxford,,,,,,Oxford,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35084,Scarborough Southwest,ocd-division/country:ca/province:on/fed:scarborough_southwest,,,,,,Scarborough-Sud-Ouest,,,,,,,
 ocd-division/country:ca/ed:35084-2013,Peterborough—Kawartha,ocd-division/country:ca/province:on/fed:peterborough-kawartha,2024-04-23,,,,,Peterborough—Kawartha,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35084-2023,Parry Sound—Muskoka,,,,,,,Parry Sound—Muskoka,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35084-2023,Parry Sound—Muskoka,ocd-division/country:ca/province:on/fed:parry_sound-muskoka,,,,,,Parry Sound—Muskoka,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35085,Simcoe—Grey,ocd-division/country:ca/province:on/fed:simcoe-grey,,,,,,Simcoe—Grey,,,,,,,
 ocd-division/country:ca/ed:35085-2013,Pickering—Uxbridge,ocd-division/country:ca/province:on/fed:pickering-uxbridge,2024-04-23,,,,,Pickering—Uxbridge,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35085-2023,Perth—Wellington,,,,,,,Perth—Wellington,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35085-2023,Perth—Wellington,ocd-division/country:ca/province:on/fed:perth-wellington,,,,,,Perth—Wellington,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35086,Simcoe North,ocd-division/country:ca/province:on/fed:simcoe_north,,,,,,Simcoe-Nord,,,,,,,
 ocd-division/country:ca/ed:35086-2013,Renfrew—Nipissing—Pembroke,ocd-division/country:ca/province:on/fed:renfrew-nipissing-pembroke-1989,2024-04-23,,,,,Renfrew—Nipissing—Pembroke,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35086-2023,Peterborough,,,,,,,Peterborough,,,,,,,2024-04-23
@@ -9086,7 +9086,7 @@ ocd-division/country:ca/ed:35091-2013,Sarnia—Lambton,ocd-division/country:ca/p
 ocd-division/country:ca/ed:35091-2023,Sault Ste. Marie—Algoma,,,,,,,Sault Ste. Marie—Algoma,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35092,Timmins—James Bay,ocd-division/country:ca/province:on/fed:timmins-james_bay,,,,,,Timmins—Baie James,,,,,,,
 ocd-division/country:ca/ed:35092-2013,Sault Ste. Marie,ocd-division/country:ca/province:on/fed:sault_ste._marie,2024-04-23,,,,,Sault Ste. Marie,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35092-2023,Scarborough—Agincourt,,,,,,,Scarborough—Agincourt,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35092-2023,Scarborough—Agincourt,ocd-division/country:ca/province:on/fed:scarborough-agincourt,,,,,,Scarborough—Agincourt,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35093,Toronto Centre,ocd-division/country:ca/province:on/fed:toronto_centre-2004,,,,,,Toronto-Centre,,,,,,,
 ocd-division/country:ca/ed:35093-2013,Scarborough—Agincourt,ocd-division/country:ca/province:on/fed:scarborough-agincourt,2024-04-23,,,,,Scarborough—Agincourt,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35093-2023,Scarborough Centre—Don Valley East,,,,,,,Scarborough-Centre—Don Valley-Est,,,,,,,2024-04-23
@@ -9095,31 +9095,31 @@ ocd-division/country:ca/ed:35094-2013,Scarborough Centre,ocd-division/country:ca
 ocd-division/country:ca/ed:35094-2023,Scarborough—Guildwood—Rouge Park,,,,,,,Scarborough—Guildwood—Rouge Park,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35095,Trinity—Spadina,ocd-division/country:ca/province:on/fed:trinity-spadina,,,,,,Trinity—Spadina,,,,,,,
 ocd-division/country:ca/ed:35095-2013,Scarborough—Guildwood,ocd-division/country:ca/province:on/fed:scarborough-guildwood,2024-04-23,,,,,Scarborough—Guildwood,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35095-2023,Scarborough North,,,,,,,Scarborough-Nord,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35095-2023,Scarborough North,ocd-division/country:ca/province:on/fed:scarborough_north,,,,,,Scarborough-Nord,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35096,Vaughan,ocd-division/country:ca/province:on/fed:vaughan,,,,,,Vaughan,,,,,,,
 ocd-division/country:ca/ed:35096-2013,Scarborough North,ocd-division/country:ca/province:on/fed:scarborough_north,2024-04-23,,,,,Scarborough-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35096-2023,Scarborough Southwest,,,,,,,Scarborough-Sud-Ouest,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35096-2023,Scarborough Southwest,ocd-division/country:ca/province:on/fed:scarborough_southwest,,,,,,Scarborough-Sud-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35097,Welland,ocd-division/country:ca/province:on/fed:welland,,,,,,Welland,,,,,,,
 ocd-division/country:ca/ed:35097-2013,Scarborough—Rouge Park,ocd-division/country:ca/province:on/fed:scarborough-rouge_park,2024-04-23,,,,,Scarborough—Rouge Park,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35097-2023,Scarborough—Woburn,,,,,,,Scarborough—Woburn,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35098,Wellington—Halton Hills,ocd-division/country:ca/province:on/fed:wellington-halton_hills,,,,,,Wellington—Halton Hills,,,,,,,
 ocd-division/country:ca/ed:35098-2013,Scarborough Southwest,ocd-division/country:ca/province:on/fed:scarborough_southwest,2024-04-23,,,,,Scarborough-Sud-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35098-2023,Simcoe—Grey,,,,,,,Simcoe—Grey,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35098-2023,Simcoe—Grey,ocd-division/country:ca/province:on/fed:simcoe-grey,,,,,,Simcoe—Grey,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35099,Whitby—Oshawa,ocd-division/country:ca/province:on/fed:whitby-oshawa,,,,,,Whitby—Oshawa,,,,,,,
 ocd-division/country:ca/ed:35099-2013,Simcoe—Grey,ocd-division/country:ca/province:on/fed:simcoe-grey,2024-04-23,,,,,Simcoe—Grey,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35099-2023,Simcoe North,,,,,,,Simcoe-Nord,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35099-2023,Simcoe North,ocd-division/country:ca/province:on/fed:simcoe_north,,,,,,Simcoe-Nord,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35100,Willowdale,ocd-division/country:ca/province:on/fed:willowdale,,,,,,Willowdale,,,,,,,
 ocd-division/country:ca/ed:35100-2013,Simcoe North,ocd-division/country:ca/province:on/fed:simcoe_north,2024-04-23,,,,,Simcoe-Nord,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35100-2023,Spadina—Harbourfront,,,,,,,Spadina—Harbourfront,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35101,Windsor—Tecumseh,ocd-division/country:ca/province:on/fed:windsor-tecumseh,,,,,,Windsor—Tecumseh,,,,,,,
 ocd-division/country:ca/ed:35101-2013,Spadina—Fort York,ocd-division/country:ca/province:on/fed:spadina-fort_york,2024-04-23,,,,,Spadina—Fort York,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35101-2023,St. Catharines,,,,,,,St. Catharines,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35101-2023,St. Catharines,ocd-division/country:ca/province:on/fed:st._catharines,,,,,,St. Catharines,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35102,Windsor West,ocd-division/country:ca/province:on/fed:windsor_west,,,,,,Windsor-Ouest,,,,,,,
 ocd-division/country:ca/ed:35102-2013,Stormont—Dundas—South Glengarry,ocd-division/country:ca/province:on/fed:stormont-dundas-south_glengarry,2024-04-23,,,,,Stormont—Dundas—South Glengarry,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35102-2023,Stormont—Dundas—Glengarry,,,,,,,Stormont—Dundas—Glengarry,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35103,York Centre,ocd-division/country:ca/province:on/fed:york_centre-1953,,,,,,York-Centre,,,,,,,
 ocd-division/country:ca/ed:35103-2013,Sudbury,ocd-division/country:ca/province:on/fed:sudbury,2024-04-23,,,,,Sudbury,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35103-2023,Sudbury,,,,,,,Sudbury,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35103-2023,Sudbury,ocd-division/country:ca/province:on/fed:sudbury,,,,,,Sudbury,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35104,York—Simcoe,ocd-division/country:ca/province:on/fed:york-simcoe-2004,,,,,,York—Simcoe,,,,,,,
 ocd-division/country:ca/ed:35104-2013,Thornhill,ocd-division/country:ca/province:on/fed:thornhill,2024-04-23,,,,,Thornhill,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35104-2023,Sudbury East—Manitoulin—Nickel Belt,,,,,,,Sudbury-Est—Manitoulin—Nickel Belt,,,,,,,2024-04-23
@@ -9128,56 +9128,56 @@ ocd-division/country:ca/ed:35105-2013,Thunder Bay—Rainy River,ocd-division/cou
 ocd-division/country:ca/ed:35105-2023,Taiaiako'n—Parkdale—High Park,,,,,,,Taiaiako'n—Parkdale—High Park,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35106,York West,ocd-division/country:ca/province:on/fed:york_west,,,,,,York-Ouest,,,,,,,
 ocd-division/country:ca/ed:35106-2013,Thunder Bay—Superior North,ocd-division/country:ca/province:on/fed:thunder_bay-superior_north,2024-04-23,,,,,Thunder Bay—Supérieur-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35106-2023,Thornhill,,,,,,,Thornhill,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35106-2023,Thornhill,ocd-division/country:ca/province:on/fed:thornhill,,,,,,Thornhill,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35107-2013,Timmins—James Bay,ocd-division/country:ca/province:on/fed:timmins-james_bay,2024-04-23,,,,,Timmins—Baie James,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35107-2023,Thunder Bay—Rainy River,,,,,,,Thunder Bay—Rainy River,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35107-2023,Thunder Bay—Rainy River,ocd-division/country:ca/province:on/fed:thunder_bay-rainy_river,,,,,,Thunder Bay—Rainy River,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35108-2013,Toronto Centre,ocd-division/country:ca/province:on/fed:toronto_centre-2004,2024-04-23,,,,,Toronto-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35108-2023,Thunder Bay—Superior North,,,,,,,Thunder Bay—Supérieur-Nord,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35108-2023,Thunder Bay—Superior North,ocd-division/country:ca/province:on/fed:thunder_bay-superior_north,,,,,,Thunder Bay—Supérieur-Nord,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35109-2013,Toronto—Danforth,ocd-division/country:ca/province:on/fed:toronto-danforth,2024-04-23,,,,,Toronto—Danforth,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35109-2023,Toronto Centre,,,,,,,Toronto-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35109-2023,Toronto Centre,ocd-division/country:ca/province:on/fed:toronto_centre-2004,,,,,,Toronto-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35110-2013,University—Rosedale,ocd-division/country:ca/province:on/fed:university-rosedale,2024-04-23,,,,,University—Rosedale,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35110-2023,Toronto—Danforth,,,,,,,Toronto—Danforth,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35110-2023,Toronto—Danforth,ocd-division/country:ca/province:on/fed:toronto-danforth,,,,,,Toronto—Danforth,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35111-2013,Vaughan—Woodbridge,ocd-division/country:ca/province:on/fed:vaughan-woodbridge,2024-04-23,,,,,Vaughan—Woodbridge,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35111-2023,Toronto—St. Paul's,,,,,,,Toronto—St. Paul's,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35111-2023,Toronto—St. Paul's,ocd-division/country:ca/province:on/fed:toronto-st._paul~s,,,,,,Toronto—St. Paul's,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35112-2013,Waterloo,ocd-division/country:ca/province:on/fed:waterloo-2015,2024-04-23,,,,,Waterloo,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35112-2023,University—Rosedale,,,,,,,University—Rosedale,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35112-2023,University—Rosedale,ocd-division/country:ca/province:on/fed:university-rosedale,,,,,,University—Rosedale,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35113-2013,Wellington—Halton Hills,ocd-division/country:ca/province:on/fed:wellington-halton_hills,2024-04-23,,,,,Wellington—Halton Hills,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35113-2023,Vaughan—Woodbridge,,,,,,,Vaughan—Woodbridge,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35113-2023,Vaughan—Woodbridge,ocd-division/country:ca/province:on/fed:vaughan-woodbridge,,,,,,Vaughan—Woodbridge,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35114-2013,Whitby,ocd-division/country:ca/province:on/fed:whitby,2024-04-23,,,,,Whitby,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35114-2023,Waterloo,,,,,,,Waterloo,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35114-2023,Waterloo,ocd-division/country:ca/province:on/fed:waterloo-2015,,,,,,Waterloo,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35115-2013,Willowdale,ocd-division/country:ca/province:on/fed:willowdale,2024-04-23,,,,,Willowdale,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35115-2023,Wellington—Halton Hills North,,,,,,,Wellington—Halton Hills-Nord,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35116-2013,Windsor—Tecumseh,ocd-division/country:ca/province:on/fed:windsor-tecumseh,2024-04-23,,,,,Windsor—Tecumseh,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35116-2023,Whitby,,,,,,,Whitby,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35116-2023,Whitby,ocd-division/country:ca/province:on/fed:whitby,,,,,,Whitby,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35117-2013,Windsor West,ocd-division/country:ca/province:on/fed:windsor_west,2024-04-23,,,,,Windsor-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35117-2023,Willowdale,,,,,,,Willowdale,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35117-2023,Willowdale,ocd-division/country:ca/province:on/fed:willowdale,,,,,,Willowdale,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35118-2013,York Centre,ocd-division/country:ca/province:on/fed:york_centre-1953,2024-04-23,,,,,York-Centre,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35118-2023,Windsor—Tecumseh—Lakeshore,,,,,,,Windsor—Tecumseh—Lakeshore,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35119-2013,York—Simcoe,ocd-division/country:ca/province:on/fed:york-simcoe-2004,2024-04-23,,,,,York—Simcoe,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35119-2023,Windsor West,,,,,,,Windsor-Ouest,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35119-2023,Windsor West,ocd-division/country:ca/province:on/fed:windsor_west,,,,,,Windsor-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35120-2013,York South—Weston,ocd-division/country:ca/province:on/fed:york_south-weston,2024-04-23,,,,,York-Sud—Weston,,,,,,,2015-10-19
-ocd-division/country:ca/ed:35120-2023,York Centre,,,,,,,York-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:35120-2023,York Centre,ocd-division/country:ca/province:on/fed:york_centre-1953,,,,,,York-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35121-2013,Humber River—Black Creek,ocd-division/country:ca/province:on/fed:humber_river-black_creek,2024-04-23,,,,,Humber River—Black Creek,,,,,,,2015-10-19
 ocd-division/country:ca/ed:35121-2023,York—Durham,,,,,,,York—Durham,,,,,,,2024-04-23
 ocd-division/country:ca/ed:35122-2023,York South—Weston—Etobicoke,,,,,,,York-Sud—Weston—Etobicoke,,,,,,,2024-04-23
 ocd-division/country:ca/ed:46001,Brandon—Souris,ocd-division/country:ca/province:mb/fed:brandon-souris,,,,,,Brandon—Souris,,,,,,,
 ocd-division/country:ca/ed:46001-2013,Brandon—Souris,ocd-division/country:ca/province:mb/fed:brandon-souris,2024-04-23,,,,,Brandon—Souris,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46001-2023,Brandon—Souris,,,,,,,Brandon—Souris,,,,,,,2024-04-23
+ocd-division/country:ca/ed:46001-2023,Brandon—Souris,ocd-division/country:ca/province:mb/fed:brandon-souris,,,,,,Brandon—Souris,,,,,,,2024-04-23
 ocd-division/country:ca/ed:46002,Charleswood—St. James—Assiniboia,ocd-division/country:ca/province:mb/fed:charleswood-st._james-assiniboia,,,,,,Charleswood—St. James—Assiniboia,,,,,,,
 ocd-division/country:ca/ed:46002-2013,Charleswood—St. James—Assiniboia—Headingley,ocd-division/country:ca/province:mb/fed:charleswood-st._james-assiniboia-headingley,2024-04-23,,,,,Charleswood—St. James—Assiniboia—Headingley,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46002-2023,Churchill—Keewatinook Aski,,,,,,,Churchill—Keewatinook Aski,,,,,,,2024-04-23
+ocd-division/country:ca/ed:46002-2023,Churchill—Keewatinook Aski,ocd-division/country:ca/province:mb/fed:churchill-keewatinook_aski,,,,,,Churchill—Keewatinook Aski,,,,,,,2024-04-23
 ocd-division/country:ca/ed:46003,Churchill,ocd-division/country:ca/province:mb/fed:churchill,,,,,,Churchill,,,,,,,
 ocd-division/country:ca/ed:46003-2013,Churchill—Keewatinook Aski,ocd-division/country:ca/province:mb/fed:churchill-keewatinook_aski,2024-04-23,,,,,Churchill—Keewatinook Aski,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46003-2023,Elmwood—Transcona,,,,,,,Elmwood—Transcona,,,,,,,2024-04-23
+ocd-division/country:ca/ed:46003-2023,Elmwood—Transcona,ocd-division/country:ca/province:mb/fed:elmwood-transcona,,,,,,Elmwood—Transcona,,,,,,,2024-04-23
 ocd-division/country:ca/ed:46004,Dauphin—Swan River—Marquette,ocd-division/country:ca/province:mb/fed:dauphin-swan_river-marquette,,,,,,Dauphin—Swan River—Marquette,,,,,,,
 ocd-division/country:ca/ed:46004-2013,Dauphin—Swan River—Neepawa,ocd-division/country:ca/province:mb/fed:dauphin-swan_river-neepawa,2024-04-23,,,,,Dauphin—Swan River—Neepawa,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46004-2023,Kildonan—St. Paul,,,,,,,Kildonan—St. Paul,,,,,,,2024-04-23
+ocd-division/country:ca/ed:46004-2023,Kildonan—St. Paul,ocd-division/country:ca/province:mb/fed:kildonan-st._paul,,,,,,Kildonan—St. Paul,,,,,,,2024-04-23
 ocd-division/country:ca/ed:46005,Elmwood—Transcona,ocd-division/country:ca/province:mb/fed:elmwood-transcona,,,,,,Elmwood—Transcona,,,,,,,
 ocd-division/country:ca/ed:46005-2013,Elmwood—Transcona,ocd-division/country:ca/province:mb/fed:elmwood-transcona,2024-04-23,,,,,Elmwood—Transcona,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46005-2023,Portage—Lisgar,,,,,,,Portage—Lisgar,,,,,,,2024-04-23
+ocd-division/country:ca/ed:46005-2023,Portage—Lisgar,ocd-division/country:ca/province:mb/fed:portage-lisgar,,,,,,Portage—Lisgar,,,,,,,2024-04-23
 ocd-division/country:ca/ed:46006,Kildonan—St. Paul,ocd-division/country:ca/province:mb/fed:kildonan-st._paul,,,,,,Kildonan—St. Paul,,,,,,,
 ocd-division/country:ca/ed:46006-2013,Kildonan—St. Paul,ocd-division/country:ca/province:mb/fed:kildonan-st._paul,2024-04-23,,,,,Kildonan—St. Paul,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46006-2023,Provencher,,,,,,,Provencher,,,,,,,2024-04-23
+ocd-division/country:ca/ed:46006-2023,Provencher,ocd-division/country:ca/province:mb/fed:provencher,,,,,,Provencher,,,,,,,2024-04-23
 ocd-division/country:ca/ed:46007,Portage—Lisgar,ocd-division/country:ca/province:mb/fed:portage-lisgar,,,,,,Portage—Lisgar,,,,,,,
 ocd-division/country:ca/ed:46007-2013,Portage—Lisgar,ocd-division/country:ca/province:mb/fed:portage-lisgar,2024-04-23,,,,,Portage—Lisgar,,,,,,,2015-10-19
 ocd-division/country:ca/ed:46007-2023,Riding Mountain,,,,,,,Mont-Riding,,,,,,,2024-04-23
@@ -9186,19 +9186,19 @@ ocd-division/country:ca/ed:46008-2013,Provencher,ocd-division/country:ca/provinc
 ocd-division/country:ca/ed:46008-2023,St. Boniface—St. Vital,,,,,,,Saint-Boniface—Saint-Vital,,,,,,,2024-04-23
 ocd-division/country:ca/ed:46009,Saint Boniface,ocd-division/country:ca/province:mb/fed:saint_boniface,,,,,,Saint-Boniface,,,,,,,
 ocd-division/country:ca/ed:46009-2013,Saint Boniface—Saint Vital,ocd-division/country:ca/province:mb/fed:saint_boniface-saint_vital,2024-04-23,,,,,Saint-Boniface—Saint-Vital,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46009-2023,Selkirk—Interlake—Eastman,,,,,,,Selkirk—Interlake—Eastman,,,,,,,2024-04-23
+ocd-division/country:ca/ed:46009-2023,Selkirk—Interlake—Eastman,ocd-division/country:ca/province:mb/fed:selkirk-interlake-eastman,,,,,,Selkirk—Interlake—Eastman,,,,,,,2024-04-23
 ocd-division/country:ca/ed:46010,Selkirk—Interlake,ocd-division/country:ca/province:mb/fed:selkirk-interlake-1997,,,,,,Selkirk—Interlake,,,,,,,
 ocd-division/country:ca/ed:46010-2013,Selkirk—Interlake—Eastman,ocd-division/country:ca/province:mb/fed:selkirk-interlake-eastman,2024-04-23,,,,,Selkirk—Interlake—Eastman,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46010-2023,Winnipeg Centre,,,,,,,Winnipeg-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:46010-2023,Winnipeg Centre,ocd-division/country:ca/province:mb/fed:winnipeg_centre-1997,,,,,,Winnipeg-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:46011,Winnipeg Centre,ocd-division/country:ca/province:mb/fed:winnipeg_centre-1997,,,,,,Winnipeg-Centre,,,,,,,
 ocd-division/country:ca/ed:46011-2013,Winnipeg Centre,ocd-division/country:ca/province:mb/fed:winnipeg_centre-1997,2024-04-23,,,,,Winnipeg-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46011-2023,Winnipeg North,,,,,,,Winnipeg-Nord,,,,,,,2024-04-23
+ocd-division/country:ca/ed:46011-2023,Winnipeg North,ocd-division/country:ca/province:mb/fed:winnipeg_north,,,,,,Winnipeg-Nord,,,,,,,2024-04-23
 ocd-division/country:ca/ed:46012,Winnipeg North,ocd-division/country:ca/province:mb/fed:winnipeg_north,,,,,,Winnipeg-Nord,,,,,,,
 ocd-division/country:ca/ed:46012-2013,Winnipeg North,ocd-division/country:ca/province:mb/fed:winnipeg_north,2024-04-23,,,,,Winnipeg-Nord,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46012-2023,Winnipeg South,,,,,,,Winnipeg-Sud,,,,,,,2024-04-23
+ocd-division/country:ca/ed:46012-2023,Winnipeg South,ocd-division/country:ca/province:mb/fed:winnipeg_south-1988,,,,,,Winnipeg-Sud,,,,,,,2024-04-23
 ocd-division/country:ca/ed:46013,Winnipeg South,ocd-division/country:ca/province:mb/fed:winnipeg_south-1988,,,,,,Winnipeg-Sud,,,,,,,
 ocd-division/country:ca/ed:46013-2013,Winnipeg South,ocd-division/country:ca/province:mb/fed:winnipeg_south-1988,2024-04-23,,,,,Winnipeg-Sud,,,,,,,2015-10-19
-ocd-division/country:ca/ed:46013-2023,Winnipeg South Centre,,,,,,,Winnipeg-Centre-Sud,,,,,,,2024-04-23
+ocd-division/country:ca/ed:46013-2023,Winnipeg South Centre,ocd-division/country:ca/province:mb/fed:winnipeg_south_centre-1988,,,,,,Winnipeg-Centre-Sud,,,,,,,2024-04-23
 ocd-division/country:ca/ed:46014,Winnipeg South Centre,ocd-division/country:ca/province:mb/fed:winnipeg_south_centre-1988,,,,,,Winnipeg-Centre-Sud,,,,,,,
 ocd-division/country:ca/ed:46014-2013,Winnipeg South Centre,ocd-division/country:ca/province:mb/fed:winnipeg_south_centre-1988,2024-04-23,,,,,Winnipeg-Centre-Sud,,,,,,,2015-10-19
 ocd-division/country:ca/ed:46014-2023,Winnipeg West,,,,,,,Winnipeg-Ouest,,,,,,,2024-04-23
@@ -9207,58 +9207,58 @@ ocd-division/country:ca/ed:47001-2013,Battlefords—Lloydminster,ocd-division/co
 ocd-division/country:ca/ed:47001-2023,Battlefords—Lloydminster—Meadow Lake,,,,,,,Battlefords—Lloydminster—Meadow Lake,,,,,,,2024-04-23
 ocd-division/country:ca/ed:47002,Blackstrap,ocd-division/country:ca/province:sk/fed:blackstrap,,,,,,Blackstrap,,,,,,,
 ocd-division/country:ca/ed:47002-2013,Cypress Hills—Grasslands,ocd-division/country:ca/province:sk/fed:cypress_hills-grasslands,2024-04-23,,,,,Cypress Hills—Grasslands,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47002-2023,Carlton Trail—Eagle Creek,,,,,,,Sentier Carlton—Eagle Creek,,,,,,,2024-04-23
+ocd-division/country:ca/ed:47002-2023,Carlton Trail—Eagle Creek,ocd-division/country:ca/province:sk/fed:carlton_trail-eagle_creek,,,,,,Sentier Carlton—Eagle Creek,,,,,,,2024-04-23
 ocd-division/country:ca/ed:47003,Desnethé—Missinippi—Churchill River,ocd-division/country:ca/province:sk/fed:desnethé-missinippi-churchill_river,,,,,,Desnethé—Missinippi—Rivière Churchill,,,,,,,
 ocd-division/country:ca/ed:47003-2013,Desnethé—Missinippi—Churchill River,ocd-division/country:ca/province:sk/fed:desnethé-missinippi-churchill_river,2024-04-23,,,,,Desnethé—Missinippi—Rivière Churchill,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47003-2023,Desnethé—Missinippi—Churchill River,,,,,,,Desnethé—Missinippi—Rivière Churchill,,,,,,,2024-04-23
+ocd-division/country:ca/ed:47003-2023,Desnethé—Missinippi—Churchill River,ocd-division/country:ca/province:sk/fed:desnethé-missinippi-churchill_river,,,,,,Desnethé—Missinippi—Rivière Churchill,,,,,,,2024-04-23
 ocd-division/country:ca/ed:47004,Cypress Hills—Grasslands,ocd-division/country:ca/province:sk/fed:cypress_hills-grasslands,,,,,,Cypress Hills—Grasslands,,,,,,,
 ocd-division/country:ca/ed:47004-2013,Carlton Trail—Eagle Creek,ocd-division/country:ca/province:sk/fed:carlton_trail-eagle_creek,2024-04-23,,,,,Sentier Carlton—Eagle Creek,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47004-2023,Moose Jaw—Lake Centre—Lanigan,,,,,,,Moose Jaw—Lake Centre—Lanigan,,,,,,,2024-04-23
+ocd-division/country:ca/ed:47004-2023,Moose Jaw—Lake Centre—Lanigan,ocd-division/country:ca/province:sk/fed:moose_jaw-lake_centre-lanigan,,,,,,Moose Jaw—Lake Centre—Lanigan,,,,,,,2024-04-23
 ocd-division/country:ca/ed:47005,Palliser,ocd-division/country:ca/province:sk/fed:palliser,,,,,,Palliser,,,,,,,
 ocd-division/country:ca/ed:47005-2013,Moose Jaw—Lake Centre—Lanigan,ocd-division/country:ca/province:sk/fed:moose_jaw-lake_centre-lanigan,2024-04-23,,,,,Moose Jaw—Lake Centre—Lanigan,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47005-2023,Prince Albert,,,,,,,Prince Albert,,,,,,,2024-04-23
+ocd-division/country:ca/ed:47005-2023,Prince Albert,ocd-division/country:ca/province:sk/fed:prince_albert-1997,,,,,,Prince Albert,,,,,,,2024-04-23
 ocd-division/country:ca/ed:47006,Prince Albert,ocd-division/country:ca/province:sk/fed:prince_albert-1997,,,,,,Prince Albert,,,,,,,
 ocd-division/country:ca/ed:47006-2013,Prince Albert,ocd-division/country:ca/province:sk/fed:prince_albert-1997,2024-04-23,,,,,Prince Albert,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47006-2023,Regina—Lewvan,,,,,,,Regina—Lewvan,,,,,,,2024-04-23
+ocd-division/country:ca/ed:47006-2023,Regina—Lewvan,ocd-division/country:ca/province:sk/fed:regina-lewvan,,,,,,Regina—Lewvan,,,,,,,2024-04-23
 ocd-division/country:ca/ed:47007,Regina—Lumsden—Lake Centre,ocd-division/country:ca/province:sk/fed:regina-lumsden-lake_centre,,,,,,Regina—Lumsden—Lake Centre,,,,,,,
 ocd-division/country:ca/ed:47007-2013,Regina—Lewvan,ocd-division/country:ca/province:sk/fed:regina-lewvan,2024-04-23,,,,,Regina—Lewvan,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47007-2023,Regina—Qu'Appelle,,,,,,,Regina—Qu'Appelle,,,,,,,2024-04-23
+ocd-division/country:ca/ed:47007-2023,Regina—Qu'Appelle,ocd-division/country:ca/province:sk/fed:regina-qu~appelle-1998,,,,,,Regina—Qu'Appelle,,,,,,,2024-04-23
 ocd-division/country:ca/ed:47008,Regina—Qu'Appelle,ocd-division/country:ca/province:sk/fed:regina-qu~appelle-1998,,,,,,Regina—Qu'Appelle,,,,,,,
 ocd-division/country:ca/ed:47008-2013,Regina—Qu'Appelle,ocd-division/country:ca/province:sk/fed:regina-qu~appelle-1998,2024-04-23,,,,,Regina—Qu'Appelle,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47008-2023,Regina—Wascana,,,,,,,Regina—Wascana,,,,,,,2024-04-23
+ocd-division/country:ca/ed:47008-2023,Regina—Wascana,ocd-division/country:ca/province:sk/fed:regina-wascana-2015,,,,,,Regina—Wascana,,,,,,,2024-04-23
 ocd-division/country:ca/ed:47009,Saskatoon—Humboldt,ocd-division/country:ca/province:sk/fed:saskatoon-humboldt-1988,,,,,,Saskatoon—Humboldt,,,,,,,
 ocd-division/country:ca/ed:47009-2013,Regina—Wascana,ocd-division/country:ca/province:sk/fed:regina-wascana-2015,2024-04-23,,,,,Regina—Wascana,,,,,,,2015-10-19
 ocd-division/country:ca/ed:47009-2023,Saskatoon South,,,,,,,Saskatoon-Sud,,,,,,,2024-04-23
 ocd-division/country:ca/ed:47010,Saskatoon—Rosetown—Biggar,ocd-division/country:ca/province:sk/fed:saskatoon-rosetown-biggar,,,,,,Saskatoon—Rosetown—Biggar,,,,,,,
 ocd-division/country:ca/ed:47010-2013,Saskatoon—Grasswood,ocd-division/country:ca/province:sk/fed:saskatoon-grasswood,2024-04-23,,,,,Saskatoon—Grasswood,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47010-2023,Saskatoon—University,,,,,,,Saskatoon—University,,,,,,,2024-04-23
+ocd-division/country:ca/ed:47010-2023,Saskatoon—University,ocd-division/country:ca/province:sk/fed:saskatoon-university,,,,,,Saskatoon—University,,,,,,,2024-04-23
 ocd-division/country:ca/ed:47011,Saskatoon—Wanuskewin,ocd-division/country:ca/province:sk/fed:saskatoon-wanuskewin,,,,,,Saskatoon—Wanuskewin,,,,,,,
 ocd-division/country:ca/ed:47011-2013,Saskatoon—University,ocd-division/country:ca/province:sk/fed:saskatoon-university,2024-04-23,,,,,Saskatoon—University,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47011-2023,Saskatoon West,,,,,,,Saskatoon-Ouest,,,,,,,2024-04-23
+ocd-division/country:ca/ed:47011-2023,Saskatoon West,ocd-division/country:ca/province:sk/fed:saskatoon_west-2015,,,,,,Saskatoon-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:47012,Souris—Moose Mountain,ocd-division/country:ca/province:sk/fed:souris-moose_mountain,,,,,,Souris—Moose Mountain,,,,,,,
 ocd-division/country:ca/ed:47012-2013,Saskatoon West,ocd-division/country:ca/province:sk/fed:saskatoon_west-2015,2024-04-23,,,,,Saskatoon-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47012-2023,Souris—Moose Mountain,,,,,,,Souris—Moose Mountain,,,,,,,2024-04-23
+ocd-division/country:ca/ed:47012-2023,Souris—Moose Mountain,ocd-division/country:ca/province:sk/fed:souris-moose_mountain,,,,,,Souris—Moose Mountain,,,,,,,2024-04-23
 ocd-division/country:ca/ed:47013,Wascana,ocd-division/country:ca/province:sk/fed:wascana,,,,,,Wascana,,,,,,,
 ocd-division/country:ca/ed:47013-2013,Souris—Moose Mountain,ocd-division/country:ca/province:sk/fed:souris-moose_mountain,2024-04-23,,,,,Souris—Moose Mountain,,,,,,,2015-10-19
 ocd-division/country:ca/ed:47013-2023,Swift Current—Grasslands—Kindersley,,,,,,,Swift Current—Grasslands—Kindersley,,,,,,,2024-04-23
 ocd-division/country:ca/ed:47014,Yorkton—Melville,ocd-division/country:ca/province:sk/fed:yorkton-melville,,,,,,Yorkton—Melville,,,,,,,
 ocd-division/country:ca/ed:47014-2013,Yorkton—Melville,ocd-division/country:ca/province:sk/fed:yorkton-melville,2024-04-23,,,,,Yorkton—Melville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:47014-2023,Yorkton—Melville,,,,,,,Yorkton—Melville,,,,,,,2024-04-23
+ocd-division/country:ca/ed:47014-2023,Yorkton—Melville,ocd-division/country:ca/province:sk/fed:yorkton-melville,,,,,,Yorkton—Melville,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48001,Fort McMurray—Athabasca,ocd-division/country:ca/province:ab/fed:fort_mcmurray-athabasca,,,,,,Fort McMurray—Athabasca,,,,,,,
 ocd-division/country:ca/ed:48001-2013,Banff—Airdrie,ocd-division/country:ca/province:ab/fed:banff-airdrie,2024-04-23,,,,,Banff—Airdrie,,,,,,,2015-10-19
 ocd-division/country:ca/ed:48001-2023,Airdrie—Cochrane,,,,,,,Airdrie—Cochrane,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48002,Calgary East,ocd-division/country:ca/province:ab/fed:calgary_east-1997,,,,,,Calgary-Est,,,,,,,
 ocd-division/country:ca/ed:48002-2013,Battle River—Crowfoot,ocd-division/country:ca/province:ab/fed:battle_river-crowfoot,2024-04-23,,,,,Battle River—Crowfoot,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48002-2023,Battle River—Crowfoot,,,,,,,Battle River—Crowfoot,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48002-2023,Battle River—Crowfoot,ocd-division/country:ca/province:ab/fed:battle_river-crowfoot,,,,,,Battle River—Crowfoot,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48003,Calgary Centre-North,ocd-division/country:ca/province:ab/fed:calgary_centre-north,,,,,,Calgary-Centre-Nord,,,,,,,
 ocd-division/country:ca/ed:48003-2013,Bow River,ocd-division/country:ca/province:ab/fed:bow_river-2015,2024-04-23,,,,,Bow River,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48003-2023,Bow River,,,,,,,Bow River,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48003-2023,Bow River,ocd-division/country:ca/province:ab/fed:bow_river-2015,,,,,,Bow River,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48004,Calgary Northeast,ocd-division/country:ca/province:ab/fed:calgary_northeast,,,,,,Calgary-Nord-Est,,,,,,,
 ocd-division/country:ca/ed:48004-2013,Calgary Centre,ocd-division/country:ca/province:ab/fed:calgary_centre-2004,2024-04-23,,,,,Calgary-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48004-2023,Calgary Centre,,,,,,,Calgary-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48004-2023,Calgary Centre,ocd-division/country:ca/province:ab/fed:calgary_centre-2004,,,,,,Calgary-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48005,Calgary—Nose Hill,ocd-division/country:ca/province:ab/fed:calgary-nose_hill,,,,,,Calgary—Nose Hill,,,,,,,
 ocd-division/country:ca/ed:48005-2013,Calgary Confederation,ocd-division/country:ca/province:ab/fed:calgary_confederation,2024-04-23,,,,,Calgary Confederation,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48005-2023,Calgary Confederation,,,,,,,Calgary Confederation,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48005-2023,Calgary Confederation,ocd-division/country:ca/province:ab/fed:calgary_confederation,,,,,,Calgary Confederation,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48006,Calgary Centre,ocd-division/country:ca/province:ab/fed:calgary_centre-2004,,,,,,Calgary-Centre,,,,,,,
 ocd-division/country:ca/ed:48006-2013,Calgary Forest Lawn,ocd-division/country:ca/province:ab/fed:calgary_forest_lawn,2024-04-23,,,,,Calgary Forest Lawn,,,,,,,2015-10-19
 ocd-division/country:ca/ed:48006-2023,Calgary Crowfoot,,,,,,,Calgary Crowfoot,,,,,,,2024-04-23
@@ -9267,82 +9267,82 @@ ocd-division/country:ca/ed:48007-2013,Calgary Heritage,ocd-division/country:ca/p
 ocd-division/country:ca/ed:48007-2023,Calgary East,,,,,,,Calgary-Est,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48008,Calgary Southwest,ocd-division/country:ca/province:ab/fed:calgary_southwest,,,,,,Calgary-Sud-Ouest,,,,,,,
 ocd-division/country:ca/ed:48008-2013,Calgary Midnapore,ocd-division/country:ca/province:ab/fed:calgary_midnapore,2024-04-23,,,,,Calgary Midnapore,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48008-2023,Calgary Heritage,,,,,,,Calgary Heritage,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48008-2023,Calgary Heritage,ocd-division/country:ca/province:ab/fed:calgary_heritage,,,,,,Calgary Heritage,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48009,Calgary West,ocd-division/country:ca/province:ab/fed:calgary_west-1979,,,,,,Calgary-Ouest,,,,,,,
 ocd-division/country:ca/ed:48009-2013,Calgary Nose Hill,ocd-division/country:ca/province:ab/fed:calgary_nose_hill,2024-04-23,,,,,Calgary Nose Hill,,,,,,,2015-10-19
 ocd-division/country:ca/ed:48009-2023,Calgary McKnight,,,,,,,Calgary McKnight,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48010,Crowfoot,ocd-division/country:ca/province:ab/fed:crowfoot,,,,,,Crowfoot,,,,,,,
 ocd-division/country:ca/ed:48010-2013,Calgary Rocky Ridge,ocd-division/country:ca/province:ab/fed:calgary_rocky_ridge,2024-04-23,,,,,Calgary Rocky Ridge,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48010-2023,Calgary Midnapore,,,,,,,Calgary Midnapore,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48010-2023,Calgary Midnapore,ocd-division/country:ca/province:ab/fed:calgary_midnapore,,,,,,Calgary Midnapore,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48011,Edmonton—Mill Woods—Beaumont,ocd-division/country:ca/province:ab/fed:edmonton-mill_woods-beaumont,,,,,,Edmonton—Mill Woods—Beaumont,,,,,,,
 ocd-division/country:ca/ed:48011-2013,Calgary Shepard,ocd-division/country:ca/province:ab/fed:calgary_shepard,2024-04-23,,,,,Calgary Shepard,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48011-2023,Calgary Nose Hill,,,,,,,Calgary Nose Hill,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48011-2023,Calgary Nose Hill,ocd-division/country:ca/province:ab/fed:calgary_nose_hill,,,,,,Calgary Nose Hill,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48012,Edmonton Centre,ocd-division/country:ca/province:ab/fed:edmonton_centre-2004,,,,,,Edmonton-Centre,,,,,,,
 ocd-division/country:ca/ed:48012-2013,Calgary Signal Hill,ocd-division/country:ca/province:ab/fed:calgary_signal_hill,2024-04-23,,,,,Calgary Signal Hill,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48012-2023,Calgary Shepard,,,,,,,Calgary Shepard,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48012-2023,Calgary Shepard,ocd-division/country:ca/province:ab/fed:calgary_shepard,,,,,,Calgary Shepard,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48013,Edmonton East,ocd-division/country:ca/province:ab/fed:edmonton_east,,,,,,Edmonton-Est,,,,,,,
 ocd-division/country:ca/ed:48013-2013,Calgary Skyview,ocd-division/country:ca/province:ab/fed:calgary_skyview,2024-04-23,,,,,Calgary Skyview,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48013-2023,Calgary Signal Hill,,,,,,,Calgary Signal Hill,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48013-2023,Calgary Signal Hill,ocd-division/country:ca/province:ab/fed:calgary_signal_hill,,,,,,Calgary Signal Hill,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48014,Edmonton—Leduc,ocd-division/country:ca/province:ab/fed:edmonton-leduc,,,,,,Edmonton—Leduc,,,,,,,
 ocd-division/country:ca/ed:48014-2013,Edmonton Centre,ocd-division/country:ca/province:ab/fed:edmonton_centre-2004,2024-04-23,,,,,Edmonton-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48014-2023,Calgary Skyview,,,,,,,Calgary Skyview,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48014-2023,Calgary Skyview,ocd-division/country:ca/province:ab/fed:calgary_skyview,,,,,,Calgary Skyview,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48015,Edmonton—St. Albert,ocd-division/country:ca/province:ab/fed:edmonton-st._albert,,,,,,Edmonton—St. Albert,,,,,,,
 ocd-division/country:ca/ed:48015-2013,Edmonton Griesbach,ocd-division/country:ca/province:ab/fed:edmonton_griesbach,2024-04-23,,,,,Edmonton Griesbach,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48015-2023,Edmonton Centre,,,,,,,Edmonton-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48015-2023,Edmonton Centre,ocd-division/country:ca/province:ab/fed:edmonton_centre-2004,,,,,,Edmonton-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48016,Edmonton—Sherwood Park,ocd-division/country:ca/province:ab/fed:edmonton-sherwood_park,,,,,,Edmonton—Sherwood Park,,,,,,,
 ocd-division/country:ca/ed:48016-2013,Edmonton Manning,ocd-division/country:ca/province:ab/fed:edmonton_manning,2024-04-23,,,,,Edmonton Manning,,,,,,,2015-10-19
 ocd-division/country:ca/ed:48016-2023,Edmonton Gateway,,,,,,,Edmonton Gateway,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48017,Edmonton—Spruce Grove,ocd-division/country:ca/province:ab/fed:edmonton-spruce_grove,,,,,,Edmonton—Spruce Grove,,,,,,,
 ocd-division/country:ca/ed:48017-2013,Edmonton Mill Woods,ocd-division/country:ca/province:ab/fed:edmonton_mill_woods,2024-04-23,,,,,Edmonton Mill Woods,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48017-2023,Edmonton Griesbach,,,,,,,Edmonton Griesbach,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48017-2023,Edmonton Griesbach,ocd-division/country:ca/province:ab/fed:edmonton_griesbach,,,,,,Edmonton Griesbach,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48018,Edmonton—Strathcona,ocd-division/country:ca/province:ab/fed:edmonton-strathcona,,,,,,Edmonton—Strathcona,,,,,,,
 ocd-division/country:ca/ed:48018-2013,Edmonton Riverbend,ocd-division/country:ca/province:ab/fed:edmonton_riverbend,2024-04-23,,,,,Edmonton Riverbend,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48018-2023,Edmonton Manning,,,,,,,Edmonton Manning,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48018-2023,Edmonton Manning,ocd-division/country:ca/province:ab/fed:edmonton_manning,,,,,,Edmonton Manning,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48019,Lethbridge,ocd-division/country:ca/province:ab/fed:lethbridge,,,,,,Lethbridge,,,,,,,
 ocd-division/country:ca/ed:48019-2013,Edmonton Strathcona,ocd-division/country:ca/province:ab/fed:edmonton_strathcona,2024-04-23,,,,,Edmonton Strathcona,,,,,,,2015-10-19
 ocd-division/country:ca/ed:48019-2023,Edmonton Northwest,,,,,,,Edmonton-Nord-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48020,Macleod,ocd-division/country:ca/province:ab/fed:macleod-1988,,,,,,Macleod,,,,,,,
 ocd-division/country:ca/ed:48020-2013,Edmonton West,ocd-division/country:ca/province:ab/fed:edmonton_west-2015,2024-04-23,,,,,Edmonton-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48020-2023,Edmonton Riverbend,,,,,,,Edmonton Riverbend,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48020-2023,Edmonton Riverbend,ocd-division/country:ca/province:ab/fed:edmonton_riverbend,,,,,,Edmonton Riverbend,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48021,Medicine Hat,ocd-division/country:ca/province:ab/fed:medicine_hat-cardston-warner,,,,,,Medicine Hat,,,,,,,
 ocd-division/country:ca/ed:48021-2013,Edmonton—Wetaskiwin,ocd-division/country:ca/province:ab/fed:edmonton-wetaskiwin,2024-04-23,,,,,Edmonton—Wetaskiwin,,,,,,,2015-10-19
 ocd-division/country:ca/ed:48021-2023,Edmonton Southeast,,,,,,,Edmonton-Sud-Est,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48022,Peace River,ocd-division/country:ca/province:ab/fed:peace_river,,,,,,Peace River,,,,,,,
 ocd-division/country:ca/ed:48022-2013,Foothills,ocd-division/country:ca/province:ab/fed:foothills,2024-04-23,,,,,Foothills,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48022-2023,Edmonton Strathcona,,,,,,,Edmonton Strathcona,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48022-2023,Edmonton Strathcona,ocd-division/country:ca/province:ab/fed:edmonton_strathcona,,,,,,Edmonton Strathcona,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48023,Red Deer,ocd-division/country:ca/province:ab/fed:red_deer,,,,,,Red Deer,,,,,,,
 ocd-division/country:ca/ed:48023-2013,Fort McMurray—Cold Lake,ocd-division/country:ca/province:ab/fed:fort_mcmurray-cold_lake,2024-04-23,,,,,Fort McMurray—Cold Lake,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48023-2023,Edmonton West,,,,,,,Edmonton-Ouest,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48023-2023,Edmonton West,ocd-division/country:ca/province:ab/fed:edmonton_west-2015,,,,,,Edmonton-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48024,Vegreville—Wainwright,ocd-division/country:ca/province:ab/fed:vegreville-wainwright,,,,,,Vegreville—Wainwright,,,,,,,
 ocd-division/country:ca/ed:48024-2013,Grande Prairie—Mackenzie,ocd-division/country:ca/province:ab/fed:grande_prairie-mackenzie,2024-04-23,,,,,Grande Prairie—Mackenzie,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48024-2023,Foothills,,,,,,,Foothills,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48024-2023,Foothills,ocd-division/country:ca/province:ab/fed:foothills,,,,,,Foothills,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48025,Westlock—St. Paul,ocd-division/country:ca/province:ab/fed:westlock-st._paul,,,,,,Westlock—St. Paul,,,,,,,
 ocd-division/country:ca/ed:48025-2013,Lakeland,ocd-division/country:ca/province:ab/fed:lakeland-2015,2024-04-23,,,,,Lakeland,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48025-2023,Fort McMurray—Cold Lake,,,,,,,Fort McMurray—Cold Lake,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48025-2023,Fort McMurray—Cold Lake,ocd-division/country:ca/province:ab/fed:fort_mcmurray-cold_lake,,,,,,Fort McMurray—Cold Lake,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48026,Wetaskiwin,ocd-division/country:ca/province:ab/fed:wetaskiwin,,,,,,Wetaskiwin,,,,,,,
 ocd-division/country:ca/ed:48026-2013,Lethbridge,ocd-division/country:ca/province:ab/fed:lethbridge,2024-04-23,,,,,Lethbridge,,,,,,,2015-10-19
 ocd-division/country:ca/ed:48026-2023,Grande Prairie,,,,,,,Grande Prairie,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48027,Wild Rose,ocd-division/country:ca/province:ab/fed:wild_rose,,,,,,Wild Rose,,,,,,,
 ocd-division/country:ca/ed:48027-2013,Medicine Hat—Cardston—Warner,ocd-division/country:ca/province:ab/fed:medicine_hat-cardston-warner,2024-04-23,,,,,Medicine Hat—Cardston—Warner,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48027-2023,Lakeland,,,,,,,Lakeland,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48027-2023,Lakeland,ocd-division/country:ca/province:ab/fed:lakeland-2015,,,,,,Lakeland,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48028,Yellowhead,ocd-division/country:ca/province:ab/fed:yellowhead,,,,,,Yellowhead,,,,,,,
 ocd-division/country:ca/ed:48028-2013,Peace River—Westlock,ocd-division/country:ca/province:ab/fed:peace_river-westlock,2024-04-23,,,,,Peace River—Westlock,,,,,,,2015-10-19
 ocd-division/country:ca/ed:48028-2023,Leduc—Wetaskiwin,,,,,,,Leduc—Wetaskiwin,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48029-2013,Red Deer—Mountain View,ocd-division/country:ca/province:ab/fed:red_deer-mountain_view,2024-04-23,,,,,Red Deer—Mountain View,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48029-2023,Lethbridge,,,,,,,Lethbridge,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48029-2023,Lethbridge,ocd-division/country:ca/province:ab/fed:lethbridge,,,,,,Lethbridge,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48030-2013,Red Deer—Lacombe,ocd-division/country:ca/province:ab/fed:red_deer-lacombe,2024-04-23,,,,,Red Deer—Lacombe,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48030-2023,Medicine Hat—Cardston—Warner,,,,,,,Medicine Hat—Cardston—Warner,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48030-2023,Medicine Hat—Cardston—Warner,ocd-division/country:ca/province:ab/fed:medicine_hat-cardston-warner,,,,,,Medicine Hat—Cardston—Warner,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48031-2013,St. Albert—Edmonton,ocd-division/country:ca/province:ab/fed:st._albert-edmonton,2024-04-23,,,,,St. Albert—Edmonton,,,,,,,2015-10-19
 ocd-division/country:ca/ed:48031-2023,Parkland,,,,,,,Parkland,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48032-2013,Sherwood Park—Fort Saskatchewan,ocd-division/country:ca/province:ab/fed:sherwood_park-fort_saskatchewan,2024-04-23,,,,,Sherwood Park—Fort Saskatchewan,,,,,,,2015-10-19
-ocd-division/country:ca/ed:48032-2023,Peace River—Westlock,,,,,,,Peace River—Westlock,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48032-2023,Peace River—Westlock,ocd-division/country:ca/province:ab/fed:peace_river-westlock,,,,,,Peace River—Westlock,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48033-2013,Sturgeon River—Parkland,ocd-division/country:ca/province:ab/fed:sturgeon_river-parkland,2024-04-23,,,,,Sturgeon River—Parkland,,,,,,,2015-10-19
 ocd-division/country:ca/ed:48033-2023,Ponoka—Didsbury,,,,,,,Ponoka—Didsbury,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48034-2013,Yellowhead,ocd-division/country:ca/province:ab/fed:yellowhead,2024-04-23,,,,,Yellowhead,,,,,,,2015-10-19
 ocd-division/country:ca/ed:48034-2023,Red Deer,,,,,,,Red Deer,,,,,,,2024-04-23
-ocd-division/country:ca/ed:48035-2023,Sherwood Park—Fort Saskatchewan,,,,,,,Sherwood Park—Fort Saskatchewan,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48035-2023,Sherwood Park—Fort Saskatchewan,ocd-division/country:ca/province:ab/fed:sherwood_park-fort_saskatchewan,,,,,,Sherwood Park—Fort Saskatchewan,,,,,,,2024-04-23
 ocd-division/country:ca/ed:48036-2023,St. Albert—Sturgeon River,,,,,,,St. Albert—Sturgeon River,,,,,,,2024-04-23
-ocd-division/country:ca/ed:48037-2023,Yellowhead,,,,,,,Yellowhead,,,,,,,2024-04-23
+ocd-division/country:ca/ed:48037-2023,Yellowhead,ocd-division/country:ca/province:ab/fed:yellowhead,,,,,,Yellowhead,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59001,Abbotsford,ocd-division/country:ca/province:bc/fed:abbotsford,,,,,,Abbotsford,,,,,,,
 ocd-division/country:ca/ed:59001-2013,Abbotsford,ocd-division/country:ca/province:bc/fed:abbotsford,2024-04-23,,,,,Abbotsford,,,,,,,2015-10-19
 ocd-division/country:ca/ed:59001-2023,Abbotsford—South Langley,,,,,,,Abbotsford—Langley-Sud,,,,,,,2024-04-23
@@ -9351,37 +9351,37 @@ ocd-division/country:ca/ed:59002-2013,Burnaby North—Seymour,ocd-division/count
 ocd-division/country:ca/ed:59002-2023,Burnaby Central,,,,,,,Burnaby Central,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59003,Burnaby—New Westminster,ocd-division/country:ca/province:bc/fed:burnaby-new_westminster,,,,,,Burnaby—New Westminster,,,,,,,
 ocd-division/country:ca/ed:59003-2013,Burnaby South,ocd-division/country:ca/province:bc/fed:burnaby_south,2024-04-23,,,,,Burnaby-Sud,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59003-2023,Burnaby North—Seymour,,,,,,,Burnaby-Nord—Seymour,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59003-2023,Burnaby North—Seymour,ocd-division/country:ca/province:bc/fed:burnaby_north-seymour,,,,,,Burnaby-Nord—Seymour,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59004,Cariboo—Prince George,ocd-division/country:ca/province:bc/fed:cariboo-prince_george,,,,,,Cariboo—Prince George,,,,,,,
 ocd-division/country:ca/ed:59004-2013,Cariboo—Prince George,ocd-division/country:ca/province:bc/fed:cariboo-prince_george,2024-04-23,,,,,Cariboo—Prince George,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59004-2023,Cariboo—Prince George,,,,,,,Cariboo—Prince George,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59004-2023,Cariboo—Prince George,ocd-division/country:ca/province:bc/fed:cariboo-prince_george,,,,,,Cariboo—Prince George,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59005,Chilliwack—Fraser Canyon,ocd-division/country:ca/province:bc/fed:chilliwack-fraser_canyon,,,,,,Chilliwack—Fraser Canyon,,,,,,,
 ocd-division/country:ca/ed:59005-2013,Central Okanagan—Similkameen—Nicola,ocd-division/country:ca/province:bc/fed:central_okanagan-similkameen-nicola,2024-04-23,,,,,Central Okanagan—Similkameen—Nicola,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59005-2023,Chilliwack—Hope,,,,,,,Chilliwack—Hope,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59005-2023,Chilliwack—Hope,ocd-division/country:ca/province:bc/fed:chilliwack-hope,,,,,,Chilliwack—Hope,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59006,Delta—Richmond East,ocd-division/country:ca/province:bc/fed:delta-richmond_east,,,,,,Delta—Richmond-Est,,,,,,,
 ocd-division/country:ca/ed:59006-2013,Chilliwack—Hope,ocd-division/country:ca/province:bc/fed:chilliwack-hope,2024-04-23,,,,,Chilliwack—Hope,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59006-2023,Cloverdale—Langley City,,,,,,,Cloverdale—Langley City,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59006-2023,Cloverdale—Langley City,ocd-division/country:ca/province:bc/fed:cloverdale-langley_city,,,,,,Cloverdale—Langley City,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59007,Pitt Meadows—Maple Ridge—Mission,ocd-division/country:ca/province:bc/fed:pitt_meadows-maple_ridge-mission,,,,,,Pitt Meadows—Maple Ridge—Mission,,,,,,,
 ocd-division/country:ca/ed:59007-2013,Cloverdale—Langley City,ocd-division/country:ca/province:bc/fed:cloverdale-langley_city,2024-04-23,,,,,Cloverdale—Langley City,,,,,,,2015-10-19
 ocd-division/country:ca/ed:59007-2023,Columbia—Kootenay—Southern Rockies,,,,,,,Columbia—Kootenay—Southern Rockies,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59008,Esquimalt—Juan de Fuca,ocd-division/country:ca/province:bc/fed:esquimalt-juan_de_fuca,,,,,,Esquimalt—Juan de Fuca,,,,,,,
 ocd-division/country:ca/ed:59008-2013,Coquitlam—Port Coquitlam,ocd-division/country:ca/province:bc/fed:coquitlam-port_coquitlam,2024-04-23,,,,,Coquitlam—Port Coquitlam,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59008-2023,Coquitlam—Port Coquitlam,,,,,,,Coquitlam—Port Coquitlam,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59008-2023,Coquitlam—Port Coquitlam,ocd-division/country:ca/province:bc/fed:coquitlam-port_coquitlam,,,,,,Coquitlam—Port Coquitlam,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59009,Fleetwood—Port Kells,ocd-division/country:ca/province:bc/fed:fleetwood-port_kells,,,,,,Fleetwood—Port Kells,,,,,,,
 ocd-division/country:ca/ed:59009-2013,Courtenay—Alberni,ocd-division/country:ca/province:bc/fed:courtenay-alberni,2024-04-23,,,,,Courtenay—Alberni,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59009-2023,Courtenay—Alberni,,,,,,,Courtenay—Alberni,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59009-2023,Courtenay—Alberni,ocd-division/country:ca/province:bc/fed:courtenay-alberni,,,,,,Courtenay—Alberni,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59010,Kamloops—Thompson—Cariboo,ocd-division/country:ca/province:bc/fed:kamloops-thompson-cariboo,,,,,,Kamloops—Thompson—Cariboo,,,,,,,
 ocd-division/country:ca/ed:59010-2013,Cowichan—Malahat—Langford,ocd-division/country:ca/province:bc/fed:cowichan-malahat-langford,2024-04-23,,,,,Cowichan—Malahat—Langford,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59010-2023,Cowichan—Malahat—Langford,,,,,,,Cowichan—Malahat—Langford,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59010-2023,Cowichan—Malahat—Langford,ocd-division/country:ca/province:bc/fed:cowichan-malahat-langford,,,,,,Cowichan—Malahat—Langford,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59011,Kelowna—Lake Country,ocd-division/country:ca/province:bc/fed:kelowna-lake_country,,,,,,Kelowna—Lake Country,,,,,,,
 ocd-division/country:ca/ed:59011-2013,Delta,ocd-division/country:ca/province:bc/fed:delta-2015,2024-04-23,,,,,Delta,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59011-2023,Delta,,,,,,,Delta,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59011-2023,Delta,ocd-division/country:ca/province:bc/fed:delta-2015,,,,,,Delta,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59012,Kootenay—Columbia,ocd-division/country:ca/province:bc/fed:kootenay-columbia,,,,,,Kootenay—Columbia,,,,,,,
 ocd-division/country:ca/ed:59012-2013,Fleetwood—Port Kells,ocd-division/country:ca/province:bc/fed:fleetwood-port_kells,2024-04-23,,,,,Fleetwood—Port Kells,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59012-2023,Esquimalt—Saanich—Sooke,,,,,,,Esquimalt—Saanich—Sooke,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59012-2023,Esquimalt—Saanich—Sooke,ocd-division/country:ca/province:bc/fed:esquimalt-saanich-sooke,,,,,,Esquimalt—Saanich—Sooke,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59013,Langley,ocd-division/country:ca/province:bc/fed:langley,,,,,,Langley,,,,,,,
 ocd-division/country:ca/ed:59013-2013,Kamloops—Thompson—Cariboo,ocd-division/country:ca/province:bc/fed:kamloops-thompson-cariboo,2024-04-23,,,,,Kamloops—Thompson—Cariboo,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59013-2023,Fleetwood—Port Kells,,,,,,,Fleetwood—Port Kells,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59013-2023,Fleetwood—Port Kells,ocd-division/country:ca/province:bc/fed:fleetwood-port_kells,,,,,,Fleetwood—Port Kells,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59014,Nanaimo—Alberni,ocd-division/country:ca/province:bc/fed:nanaimo-alberni-1997,,,,,,Nanaimo—Alberni,,,,,,,
 ocd-division/country:ca/ed:59014-2013,Kelowna—Lake Country,ocd-division/country:ca/province:bc/fed:kelowna-lake_country,2024-04-23,,,,,Kelowna—Lake Country,,,,,,,2015-10-19
 ocd-division/country:ca/ed:59014-2023,Kamloops—Shuswap—Central Rockies,,,,,,,Kamloops—Shuswap—Central Rockies,,,,,,,2024-04-23
@@ -9399,13 +9399,13 @@ ocd-division/country:ca/ed:59018-2013,Nanaimo—Ladysmith,ocd-division/country:c
 ocd-division/country:ca/ed:59018-2023,Mission—Matsqui—Abbotsford,,,,,,,Mission—Matsqui—Abbotsford,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59019,North Vancouver,ocd-division/country:ca/province:bc/fed:north_vancouver,,,,,,North Vancouver,,,,,,,
 ocd-division/country:ca/ed:59019-2013,New Westminster—Burnaby,ocd-division/country:ca/province:bc/fed:new_westminster-burnaby-2015,2024-04-23,,,,,New Westminster—Burnaby,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59019-2023,Nanaimo—Ladysmith,,,,,,,Nanaimo—Ladysmith,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59019-2023,Nanaimo—Ladysmith,ocd-division/country:ca/province:bc/fed:nanaimo-ladysmith,,,,,,Nanaimo—Ladysmith,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59020,Okanagan—Coquihalla,ocd-division/country:ca/province:bc/fed:okanagan-coquihalla,,,,,,Okanagan—Coquihalla,,,,,,,
 ocd-division/country:ca/ed:59020-2013,North Okanagan—Shuswap,ocd-division/country:ca/province:bc/fed:north_okanagan-shuswap,2024-04-23,,,,,North Okanagan—Shuswap,,,,,,,2015-10-19
 ocd-division/country:ca/ed:59020-2023,New Westminster—Burnaby—Maillardville,,,,,,,New Westminster—Burnaby—Maillardville,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59021,Port Moody—Westwood—Port Coquitlam,ocd-division/country:ca/province:bc/fed:port_moody-westwood-port_coquitlam,,,,,,Port Moody—Westwood—Port Coquitlam,,,,,,,
 ocd-division/country:ca/ed:59021-2013,North Vancouver,ocd-division/country:ca/province:bc/fed:north_vancouver,2024-04-23,,,,,North Vancouver,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59021-2023,North Island—Powell River,,,,,,,North Island—Powell River,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59021-2023,North Island—Powell River,ocd-division/country:ca/province:bc/fed:north_island-powell_river-2015,,,,,,North Island—Powell River,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59022,Prince George—Peace River,ocd-division/country:ca/province:bc/fed:prince_george-peace_river-1979,,,,,,Prince George—Peace River,,,,,,,
 ocd-division/country:ca/ed:59022-2013,Pitt Meadows—Maple Ridge,ocd-division/country:ca/province:bc/fed:pitt_meadows-maple_ridge,2024-04-23,,,,,Pitt Meadows—Maple Ridge,,,,,,,2015-10-19
 ocd-division/country:ca/ed:59022-2023,North Vancouver—Capilano,,,,,,,North Vancouver—Capilano,,,,,,,2024-04-23
@@ -9414,13 +9414,13 @@ ocd-division/country:ca/ed:59023-2013,Port Moody—Coquitlam,ocd-division/countr
 ocd-division/country:ca/ed:59023-2023,Okanagan Lake West—South Kelowna,,,,,,,Okanagan Lake Ouest—Kelowna-Sud,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59024,Saanich—Gulf Islands,ocd-division/country:ca/province:bc/fed:saanich-gulf_islands,,,,,,Saanich—Gulf Islands,,,,,,,
 ocd-division/country:ca/ed:59024-2013,Prince George—Peace River—Northern Rockies,ocd-division/country:ca/province:bc/fed:prince_george-peace_river-northern_rockies,2024-04-23,,,,,Prince George—Peace River—Northern Rockies,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59024-2023,Pitt Meadows—Maple Ridge,,,,,,,Pitt Meadows—Maple Ridge,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59024-2023,Pitt Meadows—Maple Ridge,ocd-division/country:ca/province:bc/fed:pitt_meadows-maple_ridge,,,,,,Pitt Meadows—Maple Ridge,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59025,Skeena—Bulkley Valley,ocd-division/country:ca/province:bc/fed:skeena-bulkley_valley,,,,,,Skeena—Bulkley Valley,,,,,,,
 ocd-division/country:ca/ed:59025-2013,Richmond Centre,ocd-division/country:ca/province:bc/fed:richmond_centre,2024-04-23,,,,,Richmond-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59025-2023,Port Moody—Coquitlam,,,,,,,Port Moody—Coquitlam,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59025-2023,Port Moody—Coquitlam,ocd-division/country:ca/province:bc/fed:port_moody-coquitlam,,,,,,Port Moody—Coquitlam,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59026,British Columbia Southern Interior,ocd-division/country:ca/province:bc/fed:british_columbia_southern_interior,,,,,,Colombie-Britannique-Southern Interior,,,,,,,
 ocd-division/country:ca/ed:59026-2013,Esquimalt—Saanich—Sooke,ocd-division/country:ca/province:bc/fed:esquimalt-saanich-sooke,2024-04-23,,,,,Esquimalt—Saanich—Sooke,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59026-2023,Prince George—Peace River—Northern Rockies,,,,,,,Prince George—Peace River—Northern Rockies,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59026-2023,Prince George—Peace River—Northern Rockies,ocd-division/country:ca/province:bc/fed:prince_george-peace_river-northern_rockies,,,,,,Prince George—Peace River—Northern Rockies,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59027,South Surrey—White Rock—Cloverdale,ocd-division/country:ca/province:bc/fed:south_surrey-white_rock-cloverdale,,,,,,Surrey-Sud—White Rock—Cloverdale,,,,,,,
 ocd-division/country:ca/ed:59027-2013,Saanich—Gulf Islands,ocd-division/country:ca/province:bc/fed:saanich-gulf_islands,2024-04-23,,,,,Saanich—Gulf Islands,,,,,,,2015-10-19
 ocd-division/country:ca/ed:59027-2023,Richmond Centre—Marpole,,,,,,,Richmond-Centre—Marpole,,,,,,,2024-04-23
@@ -9429,50 +9429,50 @@ ocd-division/country:ca/ed:59028-2013,Skeena—Bulkley Valley,ocd-division/count
 ocd-division/country:ca/ed:59028-2023,Richmond East—Steveston,,,,,,,Richmond-Est—Steveston,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59029,Vancouver Centre,ocd-division/country:ca/province:bc/fed:vancouver_centre,,,,,,Vancouver-Centre,,,,,,,
 ocd-division/country:ca/ed:59029-2013,South Okanagan—West Kootenay,ocd-division/country:ca/province:bc/fed:south_okanagan-west_kootenay,2024-04-23,,,,,Okanagan-Sud—Kootenay-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59029-2023,Saanich—Gulf Islands,,,,,,,Saanich—Gulf Islands,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59029-2023,Saanich—Gulf Islands,ocd-division/country:ca/province:bc/fed:saanich-gulf_islands,,,,,,Saanich—Gulf Islands,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59030,Vancouver East,ocd-division/country:ca/province:bc/fed:vancouver_east,,,,,,Vancouver-Est,,,,,,,
 ocd-division/country:ca/ed:59030-2013,South Surrey—White Rock,ocd-division/country:ca/province:bc/fed:south_surrey-white_rock,2024-04-23,,,,,Surrey-Sud—White Rock,,,,,,,2015-10-19
 ocd-division/country:ca/ed:59030-2023,Similkameen—South Okanagan—West Kootenay,,,,,,,Similkameen—Okanagan-Sud—Kootenay-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59031,Vancouver Island North,ocd-division/country:ca/province:bc/fed:vancouver_island_north,,,,,,Île de Vancouver-Nord,,,,,,,
 ocd-division/country:ca/ed:59031-2013,Steveston—Richmond East,ocd-division/country:ca/province:bc/fed:steveston-richmond_east,2024-04-23,,,,,Steveston—Richmond-Est,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59031-2023,Skeena—Bulkley Valley,,,,,,,Skeena—Bulkley Valley,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59031-2023,Skeena—Bulkley Valley,ocd-division/country:ca/province:bc/fed:skeena-bulkley_valley,,,,,,Skeena—Bulkley Valley,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59032,Vancouver Kingsway,ocd-division/country:ca/province:bc/fed:vancouver_kingsway-1997,,,,,,Vancouver Kingsway,,,,,,,
 ocd-division/country:ca/ed:59032-2013,Surrey Centre,ocd-division/country:ca/province:bc/fed:surrey_centre,2024-04-23,,,,,Surrey-Centre,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59032-2023,South Surrey—White Rock,,,,,,,Surrey-Sud—White Rock,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59032-2023,South Surrey—White Rock,ocd-division/country:ca/province:bc/fed:south_surrey-white_rock,,,,,,Surrey-Sud—White Rock,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59033,Vancouver Quadra,ocd-division/country:ca/province:bc/fed:vancouver_quadra,,,,,,Vancouver Quadra,,,,,,,
 ocd-division/country:ca/ed:59033-2013,Surrey—Newton,ocd-division/country:ca/province:bc/fed:surrey-newton,2024-04-23,,,,,Surrey—Newton,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59033-2023,Surrey Centre,,,,,,,Surrey-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59033-2023,Surrey Centre,ocd-division/country:ca/province:bc/fed:surrey_centre,,,,,,Surrey-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59034,Vancouver South,ocd-division/country:ca/province:bc/fed:vancouver_south-2004,,,,,,Vancouver-Sud,,,,,,,
 ocd-division/country:ca/ed:59034-2013,Vancouver Centre,ocd-division/country:ca/province:bc/fed:vancouver_centre,2024-04-23,,,,,Vancouver-Centre,,,,,,,2015-10-19
 ocd-division/country:ca/ed:59034-2023,Surrey Newton,,,,,,,Surrey Newton,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59035,Victoria,ocd-division/country:ca/province:bc/fed:victoria-1925,,,,,,Victoria,,,,,,,
 ocd-division/country:ca/ed:59035-2013,Vancouver East,ocd-division/country:ca/province:bc/fed:vancouver_east,2024-04-23,,,,,Vancouver-Est,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59035-2023,Vancouver Centre,,,,,,,Vancouver-Centre,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59035-2023,Vancouver Centre,ocd-division/country:ca/province:bc/fed:vancouver_centre,,,,,,Vancouver-Centre,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59036,West Vancouver—Sunshine Coast—Sea to Sky Country,ocd-division/country:ca/province:bc/fed:west_vancouver-sunshine_coast-sea_to_sky_country,,,,,,West Vancouver—Sunshine Coast—Sea to Sky Country,,,,,,,
 ocd-division/country:ca/ed:59036-2013,Vancouver Granville,ocd-division/country:ca/province:bc/fed:vancouver_granville,2024-04-23,,,,,Vancouver Granville,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59036-2023,Vancouver East,,,,,,,Vancouver-Est,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59036-2023,Vancouver East,ocd-division/country:ca/province:bc/fed:vancouver_east,,,,,,Vancouver-Est,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59037-2013,North Island—Powell River,ocd-division/country:ca/province:bc/fed:north_island-powell_river-2015,2024-04-23,,,,,North Island—Powell River,,,,,,,2015-10-19
 ocd-division/country:ca/ed:59037-2023,Vancouver Fraserview—South Burnaby,,,,,,,Vancouver Fraserview—Burnaby-Sud,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59038-2013,Vancouver Kingsway,ocd-division/country:ca/province:bc/fed:vancouver_kingsway-1997,2024-04-23,,,,,Vancouver Kingsway,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59038-2023,Vancouver Granville,,,,,,,Vancouver Granville,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59038-2023,Vancouver Granville,ocd-division/country:ca/province:bc/fed:vancouver_granville,,,,,,Vancouver Granville,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59039-2013,Vancouver Quadra,ocd-division/country:ca/province:bc/fed:vancouver_quadra,2024-04-23,,,,,Vancouver Quadra,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59039-2023,Vancouver Kingsway,,,,,,,Vancouver Kingsway,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59039-2023,Vancouver Kingsway,ocd-division/country:ca/province:bc/fed:vancouver_kingsway-1997,,,,,,Vancouver Kingsway,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59040-2013,Vancouver South,ocd-division/country:ca/province:bc/fed:vancouver_south-2004,2024-04-23,,,,,Vancouver-Sud,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59040-2023,Vancouver Quadra,,,,,,,Vancouver Quadra,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59040-2023,Vancouver Quadra,ocd-division/country:ca/province:bc/fed:vancouver_quadra,,,,,,Vancouver Quadra,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59041-2013,Victoria,ocd-division/country:ca/province:bc/fed:victoria-1925,2024-04-23,,,,,Victoria,,,,,,,2015-10-19
 ocd-division/country:ca/ed:59041-2023,Vernon—Lake Country—Monashee,,,,,,,Vernon—Lake Country—Monashee,,,,,,,2024-04-23
 ocd-division/country:ca/ed:59042-2013,West Vancouver—Sunshine Coast—Sea to Sky Country,ocd-division/country:ca/province:bc/fed:west_vancouver-sunshine_coast-sea_to_sky_country,2024-04-23,,,,,West Vancouver—Sunshine Coast—Sea to Sky Country,,,,,,,2015-10-19
-ocd-division/country:ca/ed:59042-2023,Victoria,,,,,,,Victoria,,,,,,,2024-04-23
-ocd-division/country:ca/ed:59043-2023,West Vancouver—Sunshine Coast—Sea to Sky Country,,,,,,,West Vancouver—Sunshine Coast—Sea to Sky Country,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59042-2023,Victoria,ocd-division/country:ca/province:bc/fed:victoria-1925,,,,,,Victoria,,,,,,,2024-04-23
+ocd-division/country:ca/ed:59043-2023,West Vancouver—Sunshine Coast—Sea to Sky Country,ocd-division/country:ca/province:bc/fed:west_vancouver-sunshine_coast-sea_to_sky_country,,,,,,West Vancouver—Sunshine Coast—Sea to Sky Country,,,,,,,2024-04-23
 ocd-division/country:ca/ed:60001,Yukon,ocd-division/country:ca/territory:yt/fed:yukon-1953,,,,,,Yukon,,,,,,,
 ocd-division/country:ca/ed:60001-2013,Yukon,ocd-division/country:ca/territory:yt/fed:yukon-1953,2024-04-23,,,,,Yukon,,,,,,,2015-10-19
-ocd-division/country:ca/ed:60001-2023,Yukon,,,,,,,Yukon,,,,,,,2024-04-23
+ocd-division/country:ca/ed:60001-2023,Yukon,ocd-division/country:ca/territory:yt/fed:yukon-1953,,,,,,Yukon,,,,,,,2024-04-23
 ocd-division/country:ca/ed:61001,Northwest Territories,ocd-division/country:ca/territory:nt/fed:northwest_territories-2015,,,,,,Territoires du Nord-Ouest,,,,,,,
 ocd-division/country:ca/ed:61001-2013,Northwest Territories,ocd-division/country:ca/territory:nt/fed:northwest_territories-2015,2024-04-23,,,,,Territoires du Nord-Ouest,,,,,,,2015-10-19
-ocd-division/country:ca/ed:61001-2023,Northwest Territories,,,,,,,Territoires du Nord-Ouest,,,,,,,2024-04-23
+ocd-division/country:ca/ed:61001-2023,Northwest Territories,ocd-division/country:ca/territory:nt/fed:northwest_territories-2015,,,,,,Territoires du Nord-Ouest,,,,,,,2024-04-23
 ocd-division/country:ca/ed:62001,Nunavut,ocd-division/country:ca/territory:nu/fed:nunavut,,,,,,Nunavut,,,,,,,
 ocd-division/country:ca/ed:62001-2013,Nunavut,ocd-division/country:ca/territory:nu/fed:nunavut,2024-04-23,,,,,Nunavut,,,,,,,2015-10-19
-ocd-division/country:ca/ed:62001-2023,Nunavut,,,,,,,Nunavut,,,,,,,2024-04-23
+ocd-division/country:ca/ed:62001-2023,Nunavut,ocd-division/country:ca/territory:nu/fed:nunavut,,,,,,Nunavut,,,,,,,2024-04-23
 ocd-division/country:ca/province:ab,Alberta,,,Alta.,Alb.,,,Alberta,,,,,48,,
 ocd-division/country:ca/province:ab/ed:1,Dunvegan-Central Peace-Notley,,,,,,,,,,,,,,
 ocd-division/country:ca/province:ab/ed:1-2017,Calgary-Acadia,,,,,,,,,,,,,,2019-05-31
