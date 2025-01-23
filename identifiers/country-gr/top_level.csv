@@ -1,2 +1,3 @@
-id,name
-ocd-division/country:gr,Greece
+id,sameAs,name
+ocd-division/country:gr,,Greece
+ocd-division/region:eu/member:gr,ocd-division/country:gr,"Greece, European Union member"

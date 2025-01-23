@@ -1,14 +1,15 @@
-id,name
-ocd-division/country:ee,Estonia
-ocd-division/country:ee/ed:1,Tallinn city districts of Haabersti and Põhja-Tallinn and Kristiine
-ocd-division/country:ee/ed:10,The city of Tartu
-ocd-division/country:ee/ed:11,Võru County and Valga County and Põlva County
-ocd-division/country:ee/ed:12,Pärnu County
-ocd-division/country:ee/ed:2,Tallinn city districts of Kesklinn and Lasnamäe and Pirita
-ocd-division/country:ee/ed:3,Tallinn city districts of Mustamäe and Nõmme
-ocd-division/country:ee/ed:4,Harju County (except Tallinn) and Rapla County
-ocd-division/country:ee/ed:5,Hiiu County and Lääne County and Saare County
-ocd-division/country:ee/ed:6,Lääne-Viru County
-ocd-division/country:ee/ed:7,Ida-Viru County
-ocd-division/country:ee/ed:8,Järva County and Viljandi County
-ocd-division/country:ee/ed:9,Jõgeva County and Tartu County (except the city of Tartu)
+id,sameAs,name
+ocd-division/country:ee,,Estonia
+ocd-division/region:eu/member:ee,ocd-division/country:ee,"Estonia, European Union member"
+ocd-division/country:ee/ed:1,,Tallinn city districts of Haabersti and Põhja-Tallinn and Kristiine
+ocd-division/country:ee/ed:10,,The city of Tartu
+ocd-division/country:ee/ed:11,,Võru County and Valga County and Põlva County
+ocd-division/country:ee/ed:12,,Pärnu County
+ocd-division/country:ee/ed:2,,Tallinn city districts of Kesklinn and Lasnamäe and Pirita
+ocd-division/country:ee/ed:3,,Tallinn city districts of Mustamäe and Nõmme
+ocd-division/country:ee/ed:4,,Harju County (except Tallinn) and Rapla County
+ocd-division/country:ee/ed:5,,Hiiu County and Lääne County and Saare County
+ocd-division/country:ee/ed:6,,Lääne-Viru County
+ocd-division/country:ee/ed:7,,Ida-Viru County
+ocd-division/country:ee/ed:8,,Järva County and Viljandi County
+ocd-division/country:ee/ed:9,,Jõgeva County and Tartu County (except the city of Tartu)

@@ -1,4 +1,5 @@
 id,sameAs,sameAsNote,validFrom,validThrough
+ocd-division/region:eu/member:de,ocd-division/country:de,"Germany, European Union member",,
 ocd-division/country:de/land:bb,ocd-division/country:de/state:bb,Added for backwards compatibility with land identifiers,,
 ocd-division/country:de/land:be,ocd-division/country:de/state:be,Added for backwards compatibility with land identifiers,,
 ocd-division/country:de/land:bw,ocd-division/country:de/state:bw,Added for backwards compatibility with land identifiers,,
