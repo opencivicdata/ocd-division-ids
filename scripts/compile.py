@@ -165,6 +165,8 @@ def main():
 
     # data quality: parents
     missing_parents -= set(ids.keys())
+    # Adding exception for the EU as the parent id is defined within the eu directory
+    if 'ocd-division/region:eu' in missing_parents: missing_parents.remove('ocd-division/region:eu')
     if missing_parents:
         msg = '{} unknown parents\n'.format(len(missing_parents))
         for parent in sorted(missing_parents):
