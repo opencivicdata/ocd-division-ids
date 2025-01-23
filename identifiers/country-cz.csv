@@ -1,97 +1,98 @@
-id,name
-ocd-division/country:cz,Czechia
-ocd-division/country:cz/ed:1,Karlovy Vary
-ocd-division/country:cz/ed:10,Český Krumlov
-ocd-division/country:cz/ed:11,Domažlice
-ocd-division/country:cz/ed:12,Strakonice
-ocd-division/country:cz/ed:13,Tábor
-ocd-division/country:cz/ed:14,České Budějovice
-ocd-division/country:cz/ed:15,Pelhřimov
-ocd-division/country:cz/ed:16,Beroun
-ocd-division/country:cz/ed:17,Praha 12
-ocd-division/country:cz/ed:18,Příbram
-ocd-division/country:cz/ed:19,Praha 11
-ocd-division/country:cz/ed:2,Sokolov
-ocd-division/country:cz/ed:20,Praha 4
-ocd-division/country:cz/ed:21,Praha 5
-ocd-division/country:cz/ed:22,Praha 10
-ocd-division/country:cz/ed:23,Praha 8
-ocd-division/country:cz/ed:24,Praha 9
-ocd-division/country:cz/ed:25,Praha 6
-ocd-division/country:cz/ed:26,Praha 2
-ocd-division/country:cz/ed:27,Praha 1
-ocd-division/country:cz/ed:28,Mělník
-ocd-division/country:cz/ed:29,Litoměřice
-ocd-division/country:cz/ed:3,Cheb
-ocd-division/country:cz/ed:30,Kladno
-ocd-division/country:cz/ed:31,Ústí nad Labem
-ocd-division/country:cz/ed:32,Teplice
-ocd-division/country:cz/ed:33,Děčín
-ocd-division/country:cz/ed:34,Liberec
-ocd-division/country:cz/ed:35,Jablonec nad Nisou
-ocd-division/country:cz/ed:36,Česká Lípa
-ocd-division/country:cz/ed:37,Jičín
-ocd-division/country:cz/ed:38,Mladá Boleslav
-ocd-division/country:cz/ed:39,Trutnov
-ocd-division/country:cz/ed:4,Most
-ocd-division/country:cz/ed:40,Kutná Hora
-ocd-division/country:cz/ed:41,Benešov
-ocd-division/country:cz/ed:42,Kolín
-ocd-division/country:cz/ed:43,Pardubice
-ocd-division/country:cz/ed:44,Chrudim
-ocd-division/country:cz/ed:45,Hradec Králové
-ocd-division/country:cz/ed:46,Ústí nad Orlicí
-ocd-division/country:cz/ed:47,Náchod
-ocd-division/country:cz/ed:48,Rychnov nad Kněžnou
-ocd-division/country:cz/ed:49,Blansko
-ocd-division/country:cz/ed:5,Chomutov
-ocd-division/country:cz/ed:50,Svitavy
-ocd-division/country:cz/ed:51,Žďár nad Sázavou
-ocd-division/country:cz/ed:52,Jihlava
-ocd-division/country:cz/ed:53,Třebíč
-ocd-division/country:cz/ed:54,Znojmo
-ocd-division/country:cz/ed:55,Brno-město
-ocd-division/country:cz/ed:56,Břeclav
-ocd-division/country:cz/ed:57,Vyškov
-ocd-division/country:cz/ed:58,Brno-město
-ocd-division/country:cz/ed:59,Brno-město
-ocd-division/country:cz/ed:6,Louny
-ocd-division/country:cz/ed:60,Brno-město
-ocd-division/country:cz/ed:61,Olomouc
-ocd-division/country:cz/ed:62,Prostějov
-ocd-division/country:cz/ed:63,Přerov
-ocd-division/country:cz/ed:64,Bruntál
-ocd-division/country:cz/ed:65,Šumperk
-ocd-division/country:cz/ed:66,Olomouc
-ocd-division/country:cz/ed:67,Nový Jičín
-ocd-division/country:cz/ed:68,Opava
-ocd-division/country:cz/ed:69,Frýdek-Místek
-ocd-division/country:cz/ed:7,Plzeň-město
-ocd-division/country:cz/ed:70,Ostrava-město
-ocd-division/country:cz/ed:71,Ostrava-město
-ocd-division/country:cz/ed:72,Ostrava-město
-ocd-division/country:cz/ed:73,Frýdek-Místek
-ocd-division/country:cz/ed:74,Karviná
-ocd-division/country:cz/ed:75,Karviná
-ocd-division/country:cz/ed:76,Kroměříž
-ocd-division/country:cz/ed:77,Vsetín
-ocd-division/country:cz/ed:78,Zlín 1
-ocd-division/country:cz/ed:79,Hodonín
-ocd-division/country:cz/ed:8,Rokycany
-ocd-division/country:cz/ed:80,Zlín 2
-ocd-division/country:cz/ed:81,Uherské Hradiště
-ocd-division/country:cz/ed:9,Plzeň-město
-ocd-division/country:cz/region:10,Hlavní město Praha
-ocd-division/country:cz/region:20,Středočeský
-ocd-division/country:cz/region:31,Jihočeský
-ocd-division/country:cz/region:32,Plzeňský
-ocd-division/country:cz/region:41,Karlovarský
-ocd-division/country:cz/region:42,Ústecký
-ocd-division/country:cz/region:51,Liberecký
-ocd-division/country:cz/region:52,Královéhradecký
-ocd-division/country:cz/region:53,Pardubický
-ocd-division/country:cz/region:63,Vysočina
-ocd-division/country:cz/region:64,Jihomoravský
-ocd-division/country:cz/region:71,Olomoucký
-ocd-division/country:cz/region:72,Zlínský
-ocd-division/country:cz/region:80,Moravskoslezský
+id,name,sameAs
+ocd-division/country:cz,Czechia,
+ocd-division/country:cz/ed:1,Karlovy Vary,
+ocd-division/country:cz/ed:10,Český Krumlov,
+ocd-division/country:cz/ed:11,Domažlice,
+ocd-division/country:cz/ed:12,Strakonice,
+ocd-division/country:cz/ed:13,Tábor,
+ocd-division/country:cz/ed:14,České Budějovice,
+ocd-division/country:cz/ed:15,Pelhřimov,
+ocd-division/country:cz/ed:16,Beroun,
+ocd-division/country:cz/ed:17,Praha 12,
+ocd-division/country:cz/ed:18,Příbram,
+ocd-division/country:cz/ed:19,Praha 11,
+ocd-division/country:cz/ed:2,Sokolov,
+ocd-division/country:cz/ed:20,Praha 4,
+ocd-division/country:cz/ed:21,Praha 5,
+ocd-division/country:cz/ed:22,Praha 10,
+ocd-division/country:cz/ed:23,Praha 8,
+ocd-division/country:cz/ed:24,Praha 9,
+ocd-division/country:cz/ed:25,Praha 6,
+ocd-division/country:cz/ed:26,Praha 2,
+ocd-division/country:cz/ed:27,Praha 1,
+ocd-division/country:cz/ed:28,Mělník,
+ocd-division/country:cz/ed:29,Litoměřice,
+ocd-division/country:cz/ed:3,Cheb,
+ocd-division/country:cz/ed:30,Kladno,
+ocd-division/country:cz/ed:31,Ústí nad Labem,
+ocd-division/country:cz/ed:32,Teplice,
+ocd-division/country:cz/ed:33,Děčín,
+ocd-division/country:cz/ed:34,Liberec,
+ocd-division/country:cz/ed:35,Jablonec nad Nisou,
+ocd-division/country:cz/ed:36,Česká Lípa,
+ocd-division/country:cz/ed:37,Jičín,
+ocd-division/country:cz/ed:38,Mladá Boleslav,
+ocd-division/country:cz/ed:39,Trutnov,
+ocd-division/country:cz/ed:4,Most,
+ocd-division/country:cz/ed:40,Kutná Hora,
+ocd-division/country:cz/ed:41,Benešov,
+ocd-division/country:cz/ed:42,Kolín,
+ocd-division/country:cz/ed:43,Pardubice,
+ocd-division/country:cz/ed:44,Chrudim,
+ocd-division/country:cz/ed:45,Hradec Králové,
+ocd-division/country:cz/ed:46,Ústí nad Orlicí,
+ocd-division/country:cz/ed:47,Náchod,
+ocd-division/country:cz/ed:48,Rychnov nad Kněžnou,
+ocd-division/country:cz/ed:49,Blansko,
+ocd-division/country:cz/ed:5,Chomutov,
+ocd-division/country:cz/ed:50,Svitavy,
+ocd-division/country:cz/ed:51,Žďár nad Sázavou,
+ocd-division/country:cz/ed:52,Jihlava,
+ocd-division/country:cz/ed:53,Třebíč,
+ocd-division/country:cz/ed:54,Znojmo,
+ocd-division/country:cz/ed:55,Brno-město,
+ocd-division/country:cz/ed:56,Břeclav,
+ocd-division/country:cz/ed:57,Vyškov,
+ocd-division/country:cz/ed:58,Brno-město,
+ocd-division/country:cz/ed:59,Brno-město,
+ocd-division/country:cz/ed:6,Louny,
+ocd-division/country:cz/ed:60,Brno-město,
+ocd-division/country:cz/ed:61,Olomouc,
+ocd-division/country:cz/ed:62,Prostějov,
+ocd-division/country:cz/ed:63,Přerov,
+ocd-division/country:cz/ed:64,Bruntál,
+ocd-division/country:cz/ed:65,Šumperk,
+ocd-division/country:cz/ed:66,Olomouc,
+ocd-division/country:cz/ed:67,Nový Jičín,
+ocd-division/country:cz/ed:68,Opava,
+ocd-division/country:cz/ed:69,Frýdek-Místek,
+ocd-division/country:cz/ed:7,Plzeň-město,
+ocd-division/country:cz/ed:70,Ostrava-město,
+ocd-division/country:cz/ed:71,Ostrava-město,
+ocd-division/country:cz/ed:72,Ostrava-město,
+ocd-division/country:cz/ed:73,Frýdek-Místek,
+ocd-division/country:cz/ed:74,Karviná,
+ocd-division/country:cz/ed:75,Karviná,
+ocd-division/country:cz/ed:76,Kroměříž,
+ocd-division/country:cz/ed:77,Vsetín,
+ocd-division/country:cz/ed:78,Zlín 1,
+ocd-division/country:cz/ed:79,Hodonín,
+ocd-division/country:cz/ed:8,Rokycany,
+ocd-division/country:cz/ed:80,Zlín 2,
+ocd-division/country:cz/ed:81,Uherské Hradiště,
+ocd-division/country:cz/ed:9,Plzeň-město,
+ocd-division/country:cz/region:10,Hlavní město Praha,
+ocd-division/country:cz/region:20,Středočeský,
+ocd-division/country:cz/region:31,Jihočeský,
+ocd-division/country:cz/region:32,Plzeňský,
+ocd-division/country:cz/region:41,Karlovarský,
+ocd-division/country:cz/region:42,Ústecký,
+ocd-division/country:cz/region:51,Liberecký,
+ocd-division/country:cz/region:52,Královéhradecký,
+ocd-division/country:cz/region:53,Pardubický,
+ocd-division/country:cz/region:63,Vysočina,
+ocd-division/country:cz/region:64,Jihomoravský,
+ocd-division/country:cz/region:71,Olomoucký,
+ocd-division/country:cz/region:72,Zlínský,
+ocd-division/country:cz/region:80,Moravskoslezský,
+ocd-division/region:eu/member:cz,"Czechia, European Union member",ocd-division/country:cz

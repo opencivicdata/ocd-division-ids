@@ -1,31 +1,32 @@
-id,name
-ocd-division/country:se,Sweden
-ocd-division/country:se/ed:blekinge,Blekinge county
-ocd-division/country:se/ed:dalarna,Dalarna county
-ocd-division/country:se/ed:gavleborg,Gävleborg county
-ocd-division/country:se/ed:goteborg,Municipality of Gothenburg
-ocd-division/country:se/ed:gotland,Gotland county
-ocd-division/country:se/ed:halland,Halland county
-ocd-division/country:se/ed:jamtland,Jämtland county
-ocd-division/country:se/ed:jonkoping,Jönköping county
-ocd-division/country:se/ed:kalmar,Kalmar county
-ocd-division/country:se/ed:kronoberg,Kronoberg county
-ocd-division/country:se/ed:malmo,Municipality of Malmö
-ocd-division/country:se/ed:norrbotten,Norrbotten county
-ocd-division/country:se/ed:orebro,Örebro county
-ocd-division/country:se/ed:ostergotland,Östergötland county
-ocd-division/country:se/ed:skane_northern_eastern,Skåne county northern and eastern constituency
-ocd-division/country:se/ed:skane_southern,Skåne county southern constituency
-ocd-division/country:se/ed:skane_western,Skåne county western constituency
-ocd-division/country:se/ed:sodermanland,Södermanland county
-ocd-division/country:se/ed:stockholm_county,Stockholm county constituency
-ocd-division/country:se/ed:stockholm_municipality,Municipality of Stockholm
-ocd-division/country:se/ed:uppsala,Uppsala county
-ocd-division/country:se/ed:varmland,Värmland county
-ocd-division/country:se/ed:vasterbotten,Västerbotten county
-ocd-division/country:se/ed:vasternorrland,Västernorrland county
-ocd-division/country:se/ed:vastmanland,Västmanland county
-ocd-division/country:se/ed:vastra_gotaland_eastern,Västra Götaland county eastern constituency
-ocd-division/country:se/ed:vastra_gotaland_northern,Västra Götaland county northern constituency
-ocd-division/country:se/ed:vastra_gotaland_southern,Västra Götaland county southern constituency
-ocd-division/country:se/ed:vastra_gotaland_western,Västra Götaland county western constituency
+id,name,sameAs
+ocd-division/country:se,Sweden,
+ocd-division/country:se/ed:blekinge,Blekinge county,
+ocd-division/country:se/ed:dalarna,Dalarna county,
+ocd-division/country:se/ed:gavleborg,Gävleborg county,
+ocd-division/country:se/ed:goteborg,Municipality of Gothenburg,
+ocd-division/country:se/ed:gotland,Gotland county,
+ocd-division/country:se/ed:halland,Halland county,
+ocd-division/country:se/ed:jamtland,Jämtland county,
+ocd-division/country:se/ed:jonkoping,Jönköping county,
+ocd-division/country:se/ed:kalmar,Kalmar county,
+ocd-division/country:se/ed:kronoberg,Kronoberg county,
+ocd-division/country:se/ed:malmo,Municipality of Malmö,
+ocd-division/country:se/ed:norrbotten,Norrbotten county,
+ocd-division/country:se/ed:orebro,Örebro county,
+ocd-division/country:se/ed:ostergotland,Östergötland county,
+ocd-division/country:se/ed:skane_northern_eastern,Skåne county northern and eastern constituency,
+ocd-division/country:se/ed:skane_southern,Skåne county southern constituency,
+ocd-division/country:se/ed:skane_western,Skåne county western constituency,
+ocd-division/country:se/ed:sodermanland,Södermanland county,
+ocd-division/country:se/ed:stockholm_county,Stockholm county constituency,
+ocd-division/country:se/ed:stockholm_municipality,Municipality of Stockholm,
+ocd-division/country:se/ed:uppsala,Uppsala county,
+ocd-division/country:se/ed:varmland,Värmland county,
+ocd-division/country:se/ed:vasterbotten,Västerbotten county,
+ocd-division/country:se/ed:vasternorrland,Västernorrland county,
+ocd-division/country:se/ed:vastmanland,Västmanland county,
+ocd-division/country:se/ed:vastra_gotaland_eastern,Västra Götaland county eastern constituency,
+ocd-division/country:se/ed:vastra_gotaland_northern,Västra Götaland county northern constituency,
+ocd-division/country:se/ed:vastra_gotaland_southern,Västra Götaland county southern constituency,
+ocd-division/country:se/ed:vastra_gotaland_western,Västra Götaland county western constituency,
+ocd-division/region:eu/member:se,"Sweden, European Union member",ocd-division/country:se

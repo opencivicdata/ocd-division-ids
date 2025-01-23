@@ -1,6 +1,7 @@
-id,name
-ocd-division/country:lu,Luxembourg
-ocd-division/country:lu/ed:centre,Centre
-ocd-division/country:lu/ed:east,East
-ocd-division/country:lu/ed:north,North
-ocd-division/country:lu/ed:south,South
+id,name,sameAs
+ocd-division/country:lu,Luxembourg,
+ocd-division/country:lu/ed:centre,Centre,
+ocd-division/country:lu/ed:east,East,
+ocd-division/country:lu/ed:north,North,
+ocd-division/country:lu/ed:south,South,
+ocd-division/region:eu/member:lu,"Luxembourg, European Union member",ocd-division/country:lu
