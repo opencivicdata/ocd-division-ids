@@ -11,4 +11,7 @@ ocd-division/country:be/ed:luxembourg,Luxembourg,
 ocd-division/country:be/ed:namur,Namur,
 ocd-division/country:be/ed:walloon-brabant,Walloon Brabant,
 ocd-division/country:be/ed:west-flanders,West Flanders,
+ocd-division/country:be/eup:dutch_electoral_college,Dutch Electoral College,
+ocd-division/country:be/eup:french_electoral_college,French Electoral College,
+ocd-division/country:be/eup:german_electoral_college,German Electoral College,
 ocd-division/region:eu/member:be,"Belgium, European Union member",ocd-division/country:be

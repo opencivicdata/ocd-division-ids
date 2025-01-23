@@ -46,4 +46,7 @@ ocd-division/country:ie/ed:waterford,Waterford,,,
 ocd-division/country:ie/ed:wexford,Wexford,,,
 ocd-division/country:ie/ed:wicklow,Wicklow,,,
 ocd-division/country:ie/ed:wicklow-wexford,Wicklow-Wexford,,,2025-03-22
+ocd-division/country:ie/eup:dublin,Dublin,,,
+ocd-division/country:ie/eup:midlands-north-west,Midlands-North-West,,,
+ocd-division/country:ie/eup:south,South,,,
 ocd-division/region:eu/member:ie,"Ireland, European Union member",ocd-division/country:ie,,
