@@ -1,2 +1,3 @@
-id,name
-ocd-division/country:dk,Denmark
+id,name,sameAs
+ocd-division/country:dk,Denmark,
+ocd-division/region:eu/member:dk,"Denmark, European Union member",ocd-division/country:dk

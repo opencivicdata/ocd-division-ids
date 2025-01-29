@@ -1,2 +1,3 @@
-id,name
-ocd-division/country:hu,Hungary
+id,sameAs,name
+ocd-division/country:hu,,Hungary
+ocd-division/region:eu/member:hu,ocd-division/country:hu,"Hungary, European Union member"

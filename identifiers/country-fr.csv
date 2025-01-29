@@ -1275,3 +1275,4 @@ ocd-division/country:fr/special:diaspora/ed:9,9ème circonscription des Françai
 ocd-division/country:fr/sui_generis_collectivity:nc,Nouvelle-Calédonie,,
 ocd-division/country:fr/sui_generis_collectivity:nc/ed:1,1ère circonscription de Nouvelle-Calédonie,ocd-division/country:fr/ed:nc_1,National Assembly districts hang off of country level
 ocd-division/country:fr/sui_generis_collectivity:nc/ed:2,2ème circonscription de Nouvelle-Calédonie,ocd-division/country:fr/ed:nc_2,National Assembly districts hang off of country level
+ocd-division/region:eu/member:fr,France,ocd-division/country:fr,"France, European Union member"

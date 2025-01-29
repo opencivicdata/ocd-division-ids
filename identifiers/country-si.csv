@@ -1,2 +1,3 @@
-id,name
-ocd-division/country:si,Slovenia
+id,name,sameAs
+ocd-division/country:si,Slovenia,
+ocd-division/region:eu/member:si,"Slovenia, European Union member",ocd-division/country:si

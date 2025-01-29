@@ -1,2 +1,3 @@
-id,name
-ocd-division/country:cz,Czechia
+id,sameAs,name
+ocd-division/country:cz,,Czechia
+ocd-division/region:eu/member:cz,ocd-division/country:cz,"Czechia, European Union member"

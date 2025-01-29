@@ -1,2 +1,3 @@
-id,name
-ocd-division/country:ie,Ireland
+id,sameAs,name
+ocd-division/country:ie,,Ireland
+ocd-division/region:eu/member:ie,ocd-division/country:ie,"Ireland, European Union member"

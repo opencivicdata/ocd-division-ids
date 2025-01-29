@@ -1,2 +1,3 @@
-id,name
-ocd-division/country:nl,Nederland
+id,sameAs,name
+ocd-division/country:nl,,Nederland
+ocd-division/region:eu/member:nl,ocd-division/country:nl,"Nederland, European Union member"

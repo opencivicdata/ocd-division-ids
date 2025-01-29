@@ -1,2 +1,3 @@
-id,name
-ocd-division/country:lv,Latvia
+id,sameAs,name
+ocd-division/country:lv,,Latvia
+ocd-division/region:eu/member:lv,ocd-division/country:lv,"Latvia, European Union member"
