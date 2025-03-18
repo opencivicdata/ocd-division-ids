@@ -9756,176 +9756,269 @@ ocd-division/country:ca/province:ab/fed:yellowhead,Yellowhead,,,,,,,,,,,,,,1979-
 ocd-division/country:ca/province:bc,British Columbia,,,B.C.,C.-B.,,,Colombie-Britannique,,,,,59,,
 ocd-division/country:ca/province:bc/ed:abm,Abbotsford-Mission,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:abm-2015,Abbotsford-Mission,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:abm-2023,Abbotsford-Mission,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:abs,Abbotsford South,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:abs-2015,Abbotsford South,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:abs-2023,Abbotsford South,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:abw,Abbotsford West,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:abw-2015,Abbotsford West,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:abw-2023,Abbotsford West,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:apr,Alberni-Pacific Rim,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:bds,Boundary-Similkameen,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:bds-2015,Boundary-Similkameen,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:bds-2023,Boundary-Similkameen,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:bls-2023,Bulkley Valley-Stikine,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:bnc-2023,Burnaby Centre,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:bnd,Burnaby-Deer Lake,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:bnd-2015,Burnaby-Deer Lake,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:bne,Burnaby-Edmonds,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:bne-2015,Burnaby-Edmonds,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:bne-2023,Burnaby East,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:bnl,Burnaby-Lougheed,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:bnl-2015,Burnaby-Lougheed,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:bnn,Burnaby North,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:bnn-2015,Burnaby North,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:bnn-2023,Burnaby-New Westminster,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:bno-2023,Burnaby North,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:bns-2023,Burnaby South-Metrotown,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:cbc,Cariboo-Chilcotin,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:cbc-2015,Cariboo-Chilcotin,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:cbc-2023,Cariboo-Chilcotin,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:cbn,Cariboo North,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:cbn-2015,Cariboo North,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:chc,Chilliwack,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:chc-2015,Chilliwack,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:chc-2023,Chilliwack-Cultus Lake,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:chh,Chilliwack-Hope,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:chk-2015,Chilliwack-Kent,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:chn-2023,Chilliwack North,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:clr,Columbia River-Revelstoke,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:clr-2015,Columbia River-Revelstoke,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:clr-2023,Columbia River-Revelstoke,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:cmx,Comox Valley,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:cqb,Coquitlam-Burke Mountain,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:cqb-2015,Coquitlam-Burke Mountain,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:cqb-2023,Coquitlam-Burke Mountain,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:cqm,Coquitlam-Maillardville,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:cqm-2015,Coquitlam-Maillardville,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:cqm-2023,Coquitlam-Maillardville,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:crc-2015,Courtenay-Comox,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:crc-2023,Courtenay-Comox,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:cwv,Cowichan Valley,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:cwv-2015,Cowichan Valley,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:cwv-2023,Cowichan Valley,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:dln,Delta North,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:dln-2015,Delta North,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:dln-2023,Delta North,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:dls,Delta South,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:dls-2015,Delta South,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:dls-2023,Delta South,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:esc-2023,Esquimalt-Colwood,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:esm-2015,Esquimalt-Metchosin,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:esr,Esquimalt-Royal Roads,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:fla,Fort Langley-Aldergrove,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:frn,Fraser-Nicola,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:frn-2015,Fraser-Nicola,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:frn-2023,Fraser-Nicola,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:jdf,Juan de Fuca,,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:jfm-2023,Juan de Fuca-Malahat,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:kac-2023,Kamloops Centre,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:kan,Kamloops-North Thompson,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:kan-2015,Kamloops-North Thompson,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:kan-2023,Kamloops-North Thompson,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:kas,Kamloops-South Thompson,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:kas-2015,Kamloops-South Thompson,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:kec-2023,Kelowna Centre,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:kla,Kelowna-Lake Country,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:kla-2015,Kelowna-Lake Country,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:klc-2023,Kelowna-Lake Country-Coldstream,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:klm-2015,Kelowna-Mission,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:klm-2023,Kelowna-Mission,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:klw-2015,Kelowna West,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:kmi,Kelowna-Mission,,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:koc-2023,Kootenay Central,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:koe,Kootenay East,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:koe-2015,Kootenay East,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:kom-2023,Kootenay-Monashee,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:kor-2023,Kootenay-Rockies,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:kow,Kootenay West,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:kow-2015,Kootenay West,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:lao-2023,Ladysmith-Oceanside,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:lfh-2023,Langford-Highlands,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:ljf-2015,Langford-Juan de Fuca,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:lla-2023,Langley-Abbotsford,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:lly,Langley,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:lly-2015,Langley,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:lwg-2023,Langley-Walnut Grove,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:lwi-2023,Langley-Willowbrook,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:lye-2015,Langley East,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:mae-2023,Maple Ridge East,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:mam-2015,Maple Ridge-Mission,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:map-2015,Maple Ridge-Pitt Meadows,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:map-2023,Maple Ridge-Pitt Meadows,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:mpr-2015,Mid Island-Pacific Rim,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:mpr-2023,Mid Island-Pacific Rim,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:mrm,Maple Ridge-Mission,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:mrp,Maple Ridge-Pitt Meadows,,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:nai-2023,Nanaimo-Gabriola Island,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:nal-2023,Nanaimo-Lantzville,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:nan,Nanaimo,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:nan-2015,Nanaimo,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:ncw,Nanaimo-North Cowichan,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:ncw-2015,Nanaimo-North Cowichan,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:nec,Nechako Lakes,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:nec-2015,Nechako Lakes,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:nec-2023,Nechako Lakes,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:nel,Nelson-Creston,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:nel-2015,Nelson-Creston,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:new,New Westminster,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:new-2015,New Westminster,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:nmc-2023,New Westminster-Coquitlam,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:noc,North Coast,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:noc-2015,North Coast,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:noh-2023,North Coast-Haida Gwaii,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:noi,North Island,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:noi-2015,North Island,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:noi-2023,North Island,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:nvl,North Vancouver-Lonsdale,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:nvl-2015,North Vancouver-Lonsdale,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:nvl-2023,North Vancouver-Lonsdale,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:nvs,North Vancouver-Seymour,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:nvs-2015,North Vancouver-Seymour,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:nvs-2023,North Vancouver-Seymour,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:obg,Oak Bay-Gordon Head,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:obg-2015,Oak Bay-Gordon Head,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:obg-2023,Oak Bay-Gordon Head,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:paq,Parksville-Qualicum,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:paq-2015,Parksville-Qualicum,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:pcn,Peace River North,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:pcn-2015,Peace River North,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:pcn-2023,Peace River North,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:pcs,Peace River South,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:pcs-2015,Peace River South,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:pcs-2023,Peace River South,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:pen,Penticton,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:pen-2015,Penticton,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:pes-2023,Penticton-Summerland,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:poc,Port Coquitlam,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:poc-2015,Port Coquitlam,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:poc-2023,Port Coquitlam,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:pom,Port Moody-Coquitlam,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:pom-2015,Port Moody-Coquitlam,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:pom-2023,Port Moody-Burquitlam,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:por,Powell River-Sunshine Coast,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:por-2015,Powell River-Sunshine Coast,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:por-2023,Powell River-Sunshine Coast,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:prm,Prince George-Mackenzie,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:prm-2015,Prince George-Mackenzie,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:prm-2023,Prince George-Mackenzie,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:pro-2023,Prince George-North Cariboo,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:prv,Prince George-Valemount,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:prv-2015,Prince George-Valemount,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:prv-2023,Prince George-Valemount,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:rcb-2023,Richmond-Bridgeport,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:rcc,Richmond Centre,,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:rcc-2023,Richmond Centre,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:rce,Richmond East,,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:rcq-2023,Richmond-Queensborough,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:rcs,Richmond-Steveston,,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:rcs-2023,Richmond-Steveston,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:rnc-2015,Richmond North Centre,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:rqe-2015,Richmond-Queensborough,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:rsc-2015,Richmond South Centre,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:rst-2015,Richmond-Steveston,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:san,Saanich North and the Islands,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:san-2015,Saanich North and the Islands,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:san-2023,Saanich North and the Islands,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:sas,Saanich South,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:sas-2015,Saanich South,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:sas-2023,Saanich South,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:shu,Shuswap,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:shu-2015,Shuswap,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:shu-2023,Salmon Arm-Shuswap,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:ske,Skeena,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:ske-2015,Skeena,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:ske-2023,Skeena,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:skn,Stikine,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:skn-2015,Stikine,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:src,Surrey-Cloverdale,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:src-2015,Surrey-Cloverdale,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:src-2023,Surrey City Centre,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:srd-2023,Surrey-Cloverdale,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:srf,Surrey-Fleetwood,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:srf-2015,Surrey-Fleetwood,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:srf-2023,Surrey-Fleetwood,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:srg,Surrey-Green Timbers,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:srg-2015,Surrey-Green Timbers,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:srg-2023,Surrey-Guildford,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:srn,Surrey-Newton,,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:srn-2023,Surrey-Newton,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:srp,Surrey-Panorama,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:srt,Surrey-Tynehead,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:sug-2015,Surrey-Guildford,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:sun-2015,Surrey-Newton,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:sun-2023,Surrey North,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:sup-2015,Surrey-Panorama,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:sup-2023,Surrey-Panorama,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:sur-2023,Surrey-Serpentine River,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:sus-2015,Surrey South,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:sus-2023,Surrey South,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:swh,Surrey-Whalley,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:swh-2015,Surrey-Whalley,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:swr,Surrey-White Rock,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:swr-2015,Surrey-White Rock,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:swr-2023,Surrey-White Rock,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:vfa,Vancouver-Fairview,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vfa-2015,Vancouver-Fairview,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:vfc,Vancouver-False Creek,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vfc-2015,Vancouver-False Creek,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:vfv,Vancouver-Fraserview,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vfv-2015,Vancouver-Fraserview,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vfv-2023,Vancouver-Fraserview,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:vha,Vancouver-Hastings,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vha-2015,Vancouver-Hastings,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vha-2023,Vancouver-Hastings,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:vke,Vancouver-Kensington,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vke-2015,Vancouver-Kensington,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vke-2023,Vancouver-Kensington,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:vki,Vancouver-Kingsway,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vki-2015,Vancouver-Kingsway,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:vla,Vancouver-Langara,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vla-2015,Vancouver-Langara,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vla-2023,Vancouver-Langara,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:vlm-2023,Vancouver-Little Mountain,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:vmp,Vancouver-Mount Pleasant,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vmp-2015,Vancouver-Mount Pleasant,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:vnp,Vancouver-Point Grey,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vnp-2015,Vancouver-Point Grey,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vnp-2023,Vancouver-Point Grey,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:vnq,Vancouver-Quilchena,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vnq-2015,Vancouver-Quilchena,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vnq-2023,Vancouver-Quilchena,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:vnr-2023,Vancouver-Renfrew,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:vns-2023,Vancouver-South Granville,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:vnt-2023,Vancouver-Strathcona,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:vnw,Vancouver-West End,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vnw-2015,Vancouver-West End,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vnw-2023,Vancouver-West End,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:vny-2023,Vancouver-Yaletown,,,,,,,,,,,,,,2024-10-19
+ocd-division/country:ca/province:bc/ed:vrl-2023,Vernon-Lumby,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:vrm,Vernon-Monashee,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vrm-2015,Vernon-Monashee,,,,,,,,,,,,,,2017-05-09
 ocd-division/country:ca/province:bc/ed:vtb,Victoria-Beacon Hill,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vtb-2015,Victoria-Beacon Hill,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vtb-2023,Victoria-Beacon Hill,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:vts,Victoria-Swan Lake,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:vts-2015,Victoria-Swan Lake,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:vts-2023,Victoria-Swan Lake,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:wca,West Vancouver-Capilano,,,,,,,,,,,,,,
+ocd-division/country:ca/province:bc/ed:wkp-2023,West Kelowna-Peachland,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:wss,West Vancouver-Sea to Sky,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:wtk,Westside-Kelowna,,,,,,,,,,,,,,
 ocd-division/country:ca/province:bc/ed:wvc-2015,West Vancouver-Capilano,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:wvc-2023,West Vancouver-Capilano,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/ed:wvs-2015,West Vancouver-Sea to Sky,,,,,,,,,,,,,,2017-05-09
+ocd-division/country:ca/province:bc/ed:wvs-2023,West Vancouver-Sea to Sky,,,,,,,,,,,,,,2024-10-19
 ocd-division/country:ca/province:bc/fed:abbotsford,Abbotsford,,,,,,,,,,,,,,2004-05-23
 ocd-division/country:ca/province:bc/fed:british_columbia_southern_interior,British Columbia Southern Interior,,2015-08-01,,,,,,,,,,,,2004-09-01
 ocd-division/country:ca/province:bc/fed:burnaby,Burnaby,,1988-09-30,,,,,,,,,,,,1979-03-26
