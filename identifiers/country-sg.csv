@@ -1,33 +1,44 @@
-id,name
-ocd-division/country:sg,Singapore
-ocd-division/country:sg/ed:aljunied,Aljunied GRC
-ocd-division/country:sg/ed:ang_mo_kio,Ang Mo Kio GRC
-ocd-division/country:sg/ed:bishan-toa_payoh,Bishan-Toa Payoh GRC
-ocd-division/country:sg/ed:bukit_batok,Bukit Batok SMC
-ocd-division/country:sg/ed:bukit_panjang,Bukit Panjang SMC
-ocd-division/country:sg/ed:chua_chu_kang,Chua Chu Kang GRC
-ocd-division/country:sg/ed:east_coast,East Coast GRC
-ocd-division/country:sg/ed:holland-bukit_timah,Holland-Bukit Timah GRC
-ocd-division/country:sg/ed:hong_kah_north,Hong Kah North SMC
-ocd-division/country:sg/ed:hougang,Hougang SMC
-ocd-division/country:sg/ed:jalan_besar,Jalan Besar GRC
-ocd-division/country:sg/ed:jurong,Jurong GRC
-ocd-division/country:sg/ed:kebun_baru,Kebun Baru SMC
-ocd-division/country:sg/ed:macpherson,MacPherson SMC
-ocd-division/country:sg/ed:marine_parade,Marine Parade GRC
-ocd-division/country:sg/ed:marsiling-yew_tee,Marsiling-Yew Tee GRC
-ocd-division/country:sg/ed:marymount,Marymount SMC
-ocd-division/country:sg/ed:mountbatten,Mountbatten SMC
-ocd-division/country:sg/ed:nee_soon,Nee Soon GRC
-ocd-division/country:sg/ed:pasir_ris-punggol,Pasir Ris-Punggol GRC
-ocd-division/country:sg/ed:pioneer,Pioneer SMC
-ocd-division/country:sg/ed:potong_pasir,Potong Pasir SMC
-ocd-division/country:sg/ed:punggol_west,Punggol West SMC
-ocd-division/country:sg/ed:radin_mas,Radin Mas SMC
-ocd-division/country:sg/ed:sembawang,Sembawang GRC
-ocd-division/country:sg/ed:sengkang,Sengkang GRC
-ocd-division/country:sg/ed:tampines,Tampines GRC
-ocd-division/country:sg/ed:tanjong_pagar,Tanjong Pagar GRC
-ocd-division/country:sg/ed:west_coast,West Coast GRC
-ocd-division/country:sg/ed:yio_chu_kang,Yio Chu Kang SMC
-ocd-division/country:sg/ed:yuhua,Yuhua SMC
+id,name,sameAs,sameAsNote,validThrough,validFrom
+ocd-division/country:sg,Singapore,,,,
+ocd-division/country:sg/ed:aljunied,Aljunied GRC,,,,
+ocd-division/country:sg/ed:ang_mo_kio,Ang Mo Kio GRC,,,,
+ocd-division/country:sg/ed:bishan-toa_payoh,Bishan-Toa Payoh GRC,,,,
+ocd-division/country:sg/ed:bukit_batok,Bukit Batok SMC,,,2025-11,
+ocd-division/country:sg/ed:bukit_gombak,Bukit Gombak SMC,,,,2025-11
+ocd-division/country:sg/ed:bukit_panjang,Bukit Panjang SMC,,,,
+ocd-division/country:sg/ed:chua_chu_kang,Chua Chu Kang GRC,,,,
+ocd-division/country:sg/ed:east_coast,East Coast GRC,,,,
+ocd-division/country:sg/ed:holland-bukit_timah,Holland-Bukit Timah GRC,,,,
+ocd-division/country:sg/ed:hong_kah_north,Hong Kah North SMC,,,2025-11,
+ocd-division/country:sg/ed:hougang,Hougang SMC,,,,
+ocd-division/country:sg/ed:jalan_besar,Jalan Besar GRC,,,,
+ocd-division/country:sg/ed:jalan_kayu,Jalan Kayu SMC,,,,2025-11
+ocd-division/country:sg/ed:jurong,Jurong GRC,,,,
+ocd-division/country:sg/ed:jurong_central,Jurong Central SMC,,,,2025-11
+ocd-division/country:sg/ed:jurong_east-bukit_batok,Jurong East-Bukit Batok GRC,,,,2025-11
+ocd-division/country:sg/ed:kebun_baru,Kebun Baru SMC,,,,
+ocd-division/country:sg/ed:macpherson,MacPherson SMC,,,2025-11,
+ocd-division/country:sg/ed:marine_parade,Marine Parade GRC,ocd-division/country:sg/ed:marine_parade-braddell_heights,Marine Parade GRC renamed to Marine Parade-Braddell Heights ,2025-11,
+ocd-division/country:sg/ed:marine_parade-braddell_heights,Marine Parade-Braddell Heights GRC,,,,2025-11
+ocd-division/country:sg/ed:marsiling-yew_tee,Marsiling-Yew Tee GRC,,,,
+ocd-division/country:sg/ed:marymount,Marymount SMC,,,,
+ocd-division/country:sg/ed:mountbatten,Mountbatten SMC,,,,
+ocd-division/country:sg/ed:nee_soon,Nee Soon GRC,,,,
+ocd-division/country:sg/ed:pasir_ris-changi,Pasir Ris-Changi GRC,,,,2025-11
+ocd-division/country:sg/ed:pasir_ris-punggol,Pasir Ris-Punggol GRC,,,,
+ocd-division/country:sg/ed:pioneer,Pioneer SMC,,,,
+ocd-division/country:sg/ed:potong_pasir,Potong Pasir SMC,,,,
+ocd-division/country:sg/ed:punggol,Punggol GRC,,,,2025-11
+ocd-division/country:sg/ed:punggol_west,Punggol West SMC,,,2025-11,
+ocd-division/country:sg/ed:queenstown,Queenstown SMC,,,,2025-11
+ocd-division/country:sg/ed:radin_mas,Radin Mas SMC,,,,
+ocd-division/country:sg/ed:sembawang,Sembawang GRC,,,,
+ocd-division/country:sg/ed:sembawang_west,Sembawang West SMC,,,,2025-11
+ocd-division/country:sg/ed:sengkang,Sengkang GRC,,,,
+ocd-division/country:sg/ed:tampines,Tampines GRC,,,,
+ocd-division/country:sg/ed:tampines_changkat,Tampines Changkat SMC,,,,2025-11
+ocd-division/country:sg/ed:tanjong_pagar,Tanjong Pagar GRC,,,,
+ocd-division/country:sg/ed:west_coast,West Coast GRC,ocd-division/country:sg/ed:west_coast-jurong_west,West Coast GRC renamed to West Coast-Jurong West ,2025-11,
+ocd-division/country:sg/ed:west_coast-jurong_west,West Coast-Jurong West GRC,,,,2025-11
+ocd-division/country:sg/ed:yio_chu_kang,Yio Chu Kang SMC,,,,
+ocd-division/country:sg/ed:yuhua,Yuhua SMC,,,2025-11,
