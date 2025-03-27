@@ -13,19 +13,19 @@ ocd-division/country:sg/ed:hong_kah_north,Hong Kah North SMC,,2025-11
 ocd-division/country:sg/ed:hougang,Hougang SMC,,
 ocd-division/country:sg/ed:jalan_besar,Jalan Besar GRC,,
 ocd-division/country:sg/ed:jalan_kayu,Jalan Kayu SMC,2025-11,
-ocd-division/country:sg/ed:jurong,Jurong GRC,,
+ocd-division/country:sg/ed:jurong,Jurong GRC,,2025-11
 ocd-division/country:sg/ed:jurong_central,Jurong Central SMC,2025-11,
 ocd-division/country:sg/ed:jurong_east-bukit_batok,Jurong East-Bukit Batok GRC,2025-11,
 ocd-division/country:sg/ed:kebun_baru,Kebun Baru SMC,,
 ocd-division/country:sg/ed:macpherson,MacPherson SMC,,2025-11
-ocd-division/country:sg/ed:marine_parade,Marine Parade GRC,,2025-11
-ocd-division/country:sg/ed:marine_parade-braddell_heights,Marine Parade-Braddell Heights GRC,2025-11,
+ocd-division/country:sg/ed:marine_parade,Marine Parade GRC,,
+ocd-division/country:sg/ed:marine_parade-braddell_heights,Marine Parade-Braddell Heights GRC,,
 ocd-division/country:sg/ed:marsiling-yew_tee,Marsiling-Yew Tee GRC,,
 ocd-division/country:sg/ed:marymount,Marymount SMC,,
 ocd-division/country:sg/ed:mountbatten,Mountbatten SMC,,
 ocd-division/country:sg/ed:nee_soon,Nee Soon GRC,,
 ocd-division/country:sg/ed:pasir_ris-changi,Pasir Ris-Changi GRC,2025-11,
-ocd-division/country:sg/ed:pasir_ris-punggol,Pasir Ris-Punggol GRC,,
+ocd-division/country:sg/ed:pasir_ris-punggol,Pasir Ris-Punggol GRC,,2025-11
 ocd-division/country:sg/ed:pioneer,Pioneer SMC,,
 ocd-division/country:sg/ed:potong_pasir,Potong Pasir SMC,,
 ocd-division/country:sg/ed:punggol,Punggol GRC,2025-11,
@@ -38,7 +38,7 @@ ocd-division/country:sg/ed:sengkang,Sengkang GRC,,
 ocd-division/country:sg/ed:tampines,Tampines GRC,,
 ocd-division/country:sg/ed:tampines_changkat,Tampines Changkat SMC,2025-11,
 ocd-division/country:sg/ed:tanjong_pagar,Tanjong Pagar GRC,,
-ocd-division/country:sg/ed:west_coast,West Coast GRC,,2025-11
-ocd-division/country:sg/ed:west_coast-jurong_west,West Coast-Jurong West GRC,2025-11,
+ocd-division/country:sg/ed:west_coast,West Coast GRC,,
+ocd-division/country:sg/ed:west_coast-jurong_west,West Coast-Jurong West GRC,,
 ocd-division/country:sg/ed:yio_chu_kang,Yio Chu Kang SMC,,
 ocd-division/country:sg/ed:yuhua,Yuhua SMC,,2025-11
