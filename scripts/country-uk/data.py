@@ -51,10 +51,10 @@ nawr = {
 
 # Combined Authorities have a directly elected regional Mayor
 cauth = {
-    # data from: http://geoportal.statistics.gov.uk/datasets/combined-authorities-march-2017-full-extent-boundaries-in-england
-    'url': 'https://opendata.arcgis.com/datasets/89f12fc184d045a1a7ca9dd14fb4df3e_1.csv',
-    'gss_column': 'cauth17cd',
-    'name_column': 'cauth17nm',
+    # data from: https://geoportal.statistics.gov.uk/datasets/combined-authorities-december-2018-names-and-codes-in-england-v2
+    'url': 'https://opendata.arcgis.com/datasets/f64d954dc95744689194625dece0c643_0.csv',
+    'gss_column': 'CAUTH18CD',
+    'name_column': 'CAUTH18NM',
     'prefix': 'cauth',
     'filename': 'combined_authorities.csv'
 }
