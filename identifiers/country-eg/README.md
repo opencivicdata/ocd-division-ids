@@ -8,4 +8,4 @@ This folder list the following administrative divisions of Egypt :
 
 2025 updates:
 
-* Law No. 85 of 2025 [ref](http://www.alamiria.com/Sec/TashTxt?id=raGPzNh0Pio=): Amending Some Provisions of the House of Representatives Law. It takes effect the day after its publication in the Official Gazette, which is on 2025-06-10 [ref](https://www.almasdar.com/156868).
+* Law No. 85 of 2025 [ref](https://www.almasdar.com/156868): Amending Some Provisions of the House of Representatives Law. It takes effect the day after its publication in the Official Gazette, which is on 2025-06-10.
