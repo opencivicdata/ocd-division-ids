@@ -1,10 +1,5 @@
 id,name,sameAs,validFrom,validThrough
 ocd-division/country:us/territory:gu/place:hagåtña,Hagåtña,,,
 ocd-division/country:us/territory:mp/county:saipan,Saipan,,,
-ocd-division/country:us/territory:mp/municipality:saipan,Saipan,,,
 ocd-division/country:us/territory:mp/municipality:rota,Rota,,,
-ocd-division/country:us/territory:mp/municipality:tinian,Tinian,,,
-ocd-division/country:us/territory:vi/board_of_education:st_croix,U.S. Virgin Islands Board of Education St. Croix District
-ocd-division/country:us/territory:vi/board_of_education:st_thomas,U.S. Virgin Islands Board of Education St. Thomas District
-ocd-division/country:us/territory:vi/board_of_elections:st_croix,U.S. Virgin Islands Board of Elections St. Croix District
-ocd-division/country:us/territory:vi/board_of_elections:st_thomas-st_john,U.S. Virgin Islands Board of Elections St. Thomas-St. John District
+ocd-division/country:us/territory:mp/municipality:tinian,Tinian
