@@ -1,0 +1,230 @@
+id,name
+ocd-division/country:it/lower:abruzzo,Circoscrizione Camera Abruzzo
+ocd-division/country:it/lower:abruzzo/mmc:1,Abruzzo - P01
+ocd-division/country:it/lower:abruzzo/mmc:1/ed:1,Abruzzo - U01 (Chieti)
+ocd-division/country:it/lower:abruzzo/mmc:1/ed:2,Abruzzo - U02 (Pescara)
+ocd-division/country:it/lower:abruzzo/mmc:1/ed:3,Abruzzo - U03 (L'Aquila)
+ocd-division/country:it/lower:basilicata,Circoscrizione Camera Basilicata
+ocd-division/country:it/lower:basilicata/mmc:1,Basilicata - P01
+ocd-division/country:it/lower:basilicata/mmc:1/ed:1,Basilicata - U01 (Potenza)
+ocd-division/country:it/lower:calabria,Circoscrizione Camera Calabria
+ocd-division/country:it/lower:calabria/mmc:1,Calabria - P01
+ocd-division/country:it/lower:calabria/mmc:1/ed:1,Calabria - U01 (Corigliano-Rossano)
+ocd-division/country:it/lower:calabria/mmc:1/ed:2,Calabria - U02 (Cosenza)
+ocd-division/country:it/lower:calabria/mmc:1/ed:3,Calabria - U03 (Catanzaro)
+ocd-division/country:it/lower:calabria/mmc:1/ed:4,Calabria - U04 (Vibo Valentia)
+ocd-division/country:it/lower:calabria/mmc:1/ed:5,Calabria - U05 (Reggio Di Calabria)
+ocd-division/country:it/lower:campania-1,Circoscrizione Camera Campania 1
+ocd-division/country:it/lower:campania-1/mmc:1,Campania 1 - P01
+ocd-division/country:it/lower:campania-1/mmc:1/ed:1,Campania 1 - U01 (Giugliano in Campania)
+ocd-division/country:it/lower:campania-1/mmc:1/ed:2,Campania 1 - U02 (Napoli: Quartiere 19 - Fuorigrotta)
+ocd-division/country:it/lower:campania-1/mmc:1/ed:3,Campania 1 - U03 (Napoli: Quartiere 7 - Sab Carlo all'Arena)
+ocd-division/country:it/lower:campania-1/mmc:2,Campania 1 - P02
+ocd-division/country:it/lower:campania-1/mmc:2/ed:1,Campania 1 - U04 (Casoria)
+ocd-division/country:it/lower:campania-1/mmc:2/ed:2,Campania 1 - U05 (Acerra)
+ocd-division/country:it/lower:campania-1/mmc:2/ed:3,Campania 1 - U06 (Somma Vesuviana)
+ocd-division/country:it/lower:campania-1/mmc:2/ed:4,Campania 1 - U07 (Torre del Greco)
+ocd-division/country:it/lower:campania-2,Circoscrizione Camera Campania 2
+ocd-division/country:it/lower:campania-2/mmc:1,Campania 2 - P01
+ocd-division/country:it/lower:campania-2/mmc:1/ed:1,Campania 2 - U01 (Aversa)
+ocd-division/country:it/lower:campania-2/mmc:1/ed:2,Campania 2 - U02 (Caserta)
+ocd-division/country:it/lower:campania-2/mmc:1/ed:3,Campania 2 - U03 (Benevento)
+ocd-division/country:it/lower:campania-2/mmc:2,Campania 2 - P02
+ocd-division/country:it/lower:campania-2/mmc:2/ed:1,Campania 2 - U04 (Avellino)
+ocd-division/country:it/lower:campania-2/mmc:2/ed:2,Campania 2 - U05 (Scafati)
+ocd-division/country:it/lower:campania-2/mmc:2/ed:3,Campania 2 - U06 (Salerno)
+ocd-division/country:it/lower:campania-2/mmc:2/ed:4,Campania 2 - U07 (Eboli)
+ocd-division/country:it/lower:emilia-romagna,Circoscrizione Camera Emilia-Romagna
+ocd-division/country:it/lower:emilia-romagna/mmc:1,Emilia-Romagna - P01
+ocd-division/country:it/lower:emilia-romagna/mmc:1/ed:1,Emilia-Romagna - U01 (Piacenza)
+ocd-division/country:it/lower:emilia-romagna/mmc:1/ed:2,Emilia-Romagna - U02 (Parma)
+ocd-division/country:it/lower:emilia-romagna/mmc:1/ed:3,Emilia-Romagna - U03 (Reggio nell'Emilia)
+ocd-division/country:it/lower:emilia-romagna/mmc:2,Emilia-Romagna - P02
+ocd-division/country:it/lower:emilia-romagna/mmc:2/ed:1,Emilia-Romagna - U04 (Modena)
+ocd-division/country:it/lower:emilia-romagna/mmc:2/ed:2,Emilia-Romagna - U05 (Imola)
+ocd-division/country:it/lower:emilia-romagna/mmc:2/ed:3,Emilia-Romagna - U06 (Bologna)
+ocd-division/country:it/lower:emilia-romagna/mmc:2/ed:4,Emilia-Romagna - U07 (Carpi)
+ocd-division/country:it/lower:emilia-romagna/mmc:3,Emilia-Romagna - P03
+ocd-division/country:it/lower:emilia-romagna/mmc:3/ed:1,Emilia-Romagna - U08 (Ravenna)
+ocd-division/country:it/lower:emilia-romagna/mmc:3/ed:2,Emilia-Romagna - U09 (Ferrara)
+ocd-division/country:it/lower:emilia-romagna/mmc:3/ed:3,Emilia-Romagna - U10 (Forlì)
+ocd-division/country:it/lower:emilia-romagna/mmc:3/ed:4,Emilia-Romagna - U11 (Rimini)
+ocd-division/country:it/lower:friuli-venezia_giulia,Circoscrizione Camera Friuli-Venezia Giulia
+ocd-division/country:it/lower:friuli-venezia_giulia/mmc:1,Friuli-Venezia Giulia - P01
+ocd-division/country:it/lower:friuli-venezia_giulia/mmc:1/ed:1,Friuli-Venezia Giulia - U01 (Pordenone)
+ocd-division/country:it/lower:friuli-venezia_giulia/mmc:1/ed:2,Friuli-Venezia Giulia - U02 (Udine)
+ocd-division/country:it/lower:friuli-venezia_giulia/mmc:1/ed:3,Friuli-Venezia Giulia - U03 (Trieste)
+ocd-division/country:it/lower:lazio-1,Circoscrizione Camera Lazio 1
+ocd-division/country:it/lower:lazio-1/mmc:1,Lazio 1 - P01
+ocd-division/country:it/lower:lazio-1/mmc:1/ed:1,Lazio 1 - U01 (Roma: Municipio I)
+ocd-division/country:it/lower:lazio-1/mmc:1/ed:2,Lazio 1 - U02 (Roma: Municipio III)
+ocd-division/country:it/lower:lazio-1/mmc:1/ed:3,Lazio 1 - U03 (Roma: Municipio V)
+ocd-division/country:it/lower:lazio-1/mmc:2,Lazio 1 - P02
+ocd-division/country:it/lower:lazio-1/mmc:2/ed:1,Lazio 1 - U04 (Roma: Municipio VII)
+ocd-division/country:it/lower:lazio-1/mmc:2/ed:2,Lazio 1 - U08 (Velletri)
+ocd-division/country:it/lower:lazio-1/mmc:2/ed:3,Lazio 1 - U09 (Guidonia Montecelio)
+ocd-division/country:it/lower:lazio-1/mmc:3,Lazio 1 - P03
+ocd-division/country:it/lower:lazio-1/mmc:3/ed:1,Lazio 1 - U05 (Roma: Municipio X)
+ocd-division/country:it/lower:lazio-1/mmc:3/ed:2,Lazio 1 - U06 (Roma: Municipio XI)
+ocd-division/country:it/lower:lazio-1/mmc:3/ed:3,Lazio 1 - U07 (Roma: Municipio XIV)
+ocd-division/country:it/lower:lazio-2,Circoscrizione Camera Lazio 2
+ocd-division/country:it/lower:lazio-2/mmc:1,Lazio 2 - P01
+ocd-division/country:it/lower:lazio-2/mmc:1/ed:1,Lazio 2 - U01 (Viterbo)
+ocd-division/country:it/lower:lazio-2/mmc:1/ed:2,Lazio 2 - U02 (Rieti)
+ocd-division/country:it/lower:lazio-2/mmc:2,Lazio 2 - P02
+ocd-division/country:it/lower:lazio-2/mmc:2/ed:1,Lazio 2 - U03 (Latina)
+ocd-division/country:it/lower:lazio-2/mmc:2/ed:2,Lazio 2 - U04 (Frosinone)
+ocd-division/country:it/lower:lazio-2/mmc:2/ed:3,Lazio 2 - U05 (Terracina)
+ocd-division/country:it/lower:liguria,Circoscrizione Camera Liguria
+ocd-division/country:it/lower:liguria/mmc:1,Liguria - P01
+ocd-division/country:it/lower:liguria/mmc:1/ed:1,Liguria - U01 (Savona)
+ocd-division/country:it/lower:liguria/mmc:1/ed:2,Liguria - U02 (Genova: Municipio VII - Ponente)
+ocd-division/country:it/lower:liguria/mmc:1/ed:3,Liguria - U03 (Genova: Municipio I - Centro Est)
+ocd-division/country:it/lower:liguria/mmc:1/ed:4,Liguria - U04 (La Spezia)
+ocd-division/country:it/lower:lombardia-1,Circoscrizione Camera Lombardia 1
+ocd-division/country:it/lower:lombardia-1/mmc:1,Lombardia 1 - P01
+ocd-division/country:it/lower:lombardia-1/mmc:1/ed:1,Lombardia 1 - U04 (Rozzano)
+ocd-division/country:it/lower:lombardia-1/mmc:1/ed:2,Lombardia 1 - U05 (Legnano)
+ocd-division/country:it/lower:lombardia-1/mmc:1/ed:3,Lombardia 1 - U07 (Milano: Nil 20 - Loreto)
+ocd-division/country:it/lower:lombardia-1/mmc:1/ed:4,Lombardia 1 - U08 (Milano: Nil 58 - Bande Nere)
+ocd-division/country:it/lower:lombardia-1/mmc:1/ed:5,Lombardia 1 - U09 (Milano: Nil 21 - Buenos Aires - Venezia)
+ocd-division/country:it/lower:lombardia-1/mmc:2,Lombardia 1 - P02
+ocd-division/country:it/lower:lombardia-1/mmc:2/ed:1,Lombardia 1 - U01 (Monza)
+ocd-division/country:it/lower:lombardia-1/mmc:2/ed:2,Lombardia 1 - U02 (Seregno)
+ocd-division/country:it/lower:lombardia-1/mmc:2/ed:3,Lombardia 1 - U03 (Cologno Monzese)
+ocd-division/country:it/lower:lombardia-1/mmc:2/ed:4,Lombardia 1 - U06 (Sesto San Giovanni)
+ocd-division/country:it/lower:lombardia-2,Circoscrizione Camera Lombardia 2
+ocd-division/country:it/lower:lombardia-2/mmc:1,Lombardia 2 - P01
+ocd-division/country:it/lower:lombardia-2/mmc:1/ed:1,Lombardia 2 - U01 (Varese)
+ocd-division/country:it/lower:lombardia-2/mmc:1/ed:2,Lombardia 2 - U02 (Busto Arsizio)
+ocd-division/country:it/lower:lombardia-2/mmc:2,Lombardia 2 - P02
+ocd-division/country:it/lower:lombardia-2/mmc:2/ed:1,Lombardia 2 - U03 (Como)
+ocd-division/country:it/lower:lombardia-2/mmc:2/ed:2,Lombardia 2 - U04 (Sondrio)
+ocd-division/country:it/lower:lombardia-2/mmc:2/ed:3,Lombardia 2 - U05 (Lecco)
+ocd-division/country:it/lower:lombardia-3,Circoscrizione Camera Lombardia 3
+ocd-division/country:it/lower:lombardia-3/mmc:1,Lombardia 3 - P01
+ocd-division/country:it/lower:lombardia-3/mmc:1/ed:1,Lombardia 3 - U01 (Treviglio)
+ocd-division/country:it/lower:lombardia-3/mmc:1/ed:2,Lombardia 3 - U02 (Bergamo)
+ocd-division/country:it/lower:lombardia-3/mmc:2,Lombardia 3 - P02
+ocd-division/country:it/lower:lombardia-3/mmc:2/ed:1,Lombardia 3 - U03 (Lumezzane)
+ocd-division/country:it/lower:lombardia-3/mmc:2/ed:2,Lombardia 3 - U04 (Brescia)
+ocd-division/country:it/lower:lombardia-3/mmc:2/ed:3,Lombardia 3 - U05 (Descenzano del Garda)
+ocd-division/country:it/lower:lombardia-4,Circoscrizione Camera Lombardia 4
+ocd-division/country:it/lower:lombardia-4/mmc:1,Lombardia 4 - P01
+ocd-division/country:it/lower:lombardia-4/mmc:1/ed:1,Lombardia 4 - U01 (Pavia)
+ocd-division/country:it/lower:lombardia-4/mmc:1/ed:2,Lombardia 4 - U02 (Lodi)
+ocd-division/country:it/lower:lombardia-4/mmc:1/ed:3,Lombardia 4 - U03 (Cremona)
+ocd-division/country:it/lower:lombardia-4/mmc:1/ed:4,Lombardia 4 - U04 (Mantova)
+ocd-division/country:it/lower:marche,Circoscrizione Camera Marche
+ocd-division/country:it/lower:marche/mmc:1,Marche - P01
+ocd-division/country:it/lower:marche/mmc:1/ed:1,Marche - U01 (Ascoli Piceno)
+ocd-division/country:it/lower:marche/mmc:1/ed:2,Marche - U02 (Macerata)
+ocd-division/country:it/lower:marche/mmc:1/ed:3,Marche - U03 (Ancona)
+ocd-division/country:it/lower:marche/mmc:1/ed:4,Marche - U04 (Pesaro)
+ocd-division/country:it/lower:molise,Circoscrizione Camera Molise
+ocd-division/country:it/lower:molise/mmc:1,Molise - P01
+ocd-division/country:it/lower:molise/mmc:1/ed:1,Molise - U01 (Campobasso
+ocd-division/country:it/lower:piemonte-1,Circoscrizione Camera Piemonte 1
+ocd-division/country:it/lower:piemonte-1/mmc:1,Piemonte 1 - P01
+ocd-division/country:it/lower:piemonte-1/mmc:1/ed:1,Piemonte 1 - U01 (Torino: Circoscrizione 2 - Santa Rita - Mirafiori Nord - Mirafiori Sud)
+ocd-division/country:it/lower:piemonte-1/mmc:1/ed:2,Piemonte 1 - U02 (Torino: Circoscrizione 3 - San Paolo - Cenisia - Pozzo Strada - Citturin- Borgata Lesna)
+ocd-division/country:it/lower:piemonte-1/mmc:1/ed:3,Piemonte 1 - U03 (Collegno)
+ocd-division/country:it/lower:piemonte-1/mmc:2,Piemonte 1 - P02
+ocd-division/country:it/lower:piemonte-1/mmc:2/ed:1,Piemonte 1 - U04 (Chieri)
+ocd-division/country:it/lower:piemonte-1/mmc:2/ed:2,Piemonte 1 - U05 (Moncalieri)
+ocd-division/country:it/lower:piemonte-2,Circoscrizione Camera Piemonte 2
+ocd-division/country:it/lower:piemonte-2/mmc:1,Piemonte 2 - P01
+ocd-division/country:it/lower:piemonte-2/mmc:1/ed:1,Piemonte 2 - U02 (Novara)
+ocd-division/country:it/lower:piemonte-2/mmc:1/ed:2,Piemonte 2 - U03 (Vercelli)
+ocd-division/country:it/lower:piemonte-2/mmc:2,Piemonte 2 - P02
+ocd-division/country:it/lower:piemonte-2/mmc:2/ed:1,Piemonte 2 - U01 (Alessandria)
+ocd-division/country:it/lower:piemonte-2/mmc:2/ed:2,Piemonte 2 - U04 (Asti)
+ocd-division/country:it/lower:piemonte-2/mmc:2/ed:3,Piemonte 2 - U05 (Cuneo)
+ocd-division/country:it/lower:puglia,Circoscrizione Camera Puglia
+ocd-division/country:it/lower:puglia/mmc:1,Puglia - P01
+ocd-division/country:it/lower:puglia/mmc:1/ed:1,Puglia - U01 (Foggia)
+ocd-division/country:it/lower:puglia/mmc:1/ed:2,Puglia - U02 (Cerignola)
+ocd-division/country:it/lower:puglia/mmc:1/ed:3,Puglia - U03 (Andria)
+ocd-division/country:it/lower:puglia/mmc:2,Puglia - P02
+ocd-division/country:it/lower:puglia/mmc:2/ed:1,Puglia - U04 (Molfetta)
+ocd-division/country:it/lower:puglia/mmc:2/ed:2,Puglia - U05 (Bari)
+ocd-division/country:it/lower:puglia/mmc:3,Puglia - P03
+ocd-division/country:it/lower:puglia/mmc:3/ed:1,Puglia - U06 (Altamura)
+ocd-division/country:it/lower:puglia/mmc:3/ed:2,Puglia - U08 (Taranto)
+ocd-division/country:it/lower:puglia/mmc:4,Puglia - P04
+ocd-division/country:it/lower:puglia/mmc:4/ed:1,Puglia - U07 (Brindisi)
+ocd-division/country:it/lower:puglia/mmc:4/ed:2,Puglia - U09 (Lecce)
+ocd-division/country:it/lower:puglia/mmc:4/ed:3,Puglia - U10 (Galatina)
+ocd-division/country:it/lower:sardegna,Circoscrizione Camera Sardegna
+ocd-division/country:it/lower:sardegna/mmc:1,Sardegna - P01
+ocd-division/country:it/lower:sardegna/mmc:1/ed:1,Sardegna - U01 (Cagliari)
+ocd-division/country:it/lower:sardegna/mmc:1/ed:2,Sardegna - U02 (Carbonia)
+ocd-division/country:it/lower:sardegna/mmc:1/ed:3,Sardegna - U03 (Nuoro)
+ocd-division/country:it/lower:sardegna/mmc:1/ed:4,Sardegna - U04 (Sassari)
+ocd-division/country:it/lower:sicilia-1,Circoscrizione Camera Sicilia 1
+ocd-division/country:it/lower:sicilia-1/mmc:1,Sicilia 1 - P01
+ocd-division/country:it/lower:sicilia-1/mmc:1/ed:1,Sicilia 1 - U01 (Palermo: Quartiere 11 - Sette Cannoli)
+ocd-division/country:it/lower:sicilia-1/mmc:1/ed:2,Sicilia 1 - U02 (Palermo: Quartiere 20 - Resuttana - S.Lorenzo)
+ocd-division/country:it/lower:sicilia-1/mmc:1/ed:3,Sicilia 1 - U03 (Bagheria)
+ocd-division/country:it/lower:sicilia-1/mmc:2,Sicilia 1 - P02
+ocd-division/country:it/lower:sicilia-1/mmc:2/ed:1,Sicilia 1 - U04 (Gela)
+ocd-division/country:it/lower:sicilia-1/mmc:2/ed:2,Sicilia 1 - U05 (Agrigento)
+ocd-division/country:it/lower:sicilia-1/mmc:2/ed:3,Sicilia 1 - U06 (Marsala)
+ocd-division/country:it/lower:sicilia-2,Circoscrizione Camera Sicilia 2
+ocd-division/country:it/lower:sicilia-2/mmc:1,Sicilia 2 - P01
+ocd-division/country:it/lower:sicilia-2/mmc:1/ed:1,Sicilia 2 - U05 (Barcellona Pozzo di Gotto)
+ocd-division/country:it/lower:sicilia-2/mmc:1/ed:2,Sicilia 2 - U06 (Messina)
+ocd-division/country:it/lower:sicilia-2/mmc:2,Sicilia 2 - P02
+ocd-division/country:it/lower:sicilia-2/mmc:2/ed:1,Sicilia 2 - U02 (Catania)
+ocd-division/country:it/lower:sicilia-2/mmc:2/ed:2,Sicilia 2 - U03 (Acireale)
+ocd-division/country:it/lower:sicilia-2/mmc:3,Sicilia 2 - P03
+ocd-division/country:it/lower:sicilia-2/mmc:3/ed:1,Sicilia 2 - U01 (Ragusa)
+ocd-division/country:it/lower:sicilia-2/mmc:3/ed:2,Sicilia 2 - U04 (Siracusa)
+ocd-division/country:it/lower:toscana,Circoscrizione Camera Toscana
+ocd-division/country:it/lower:toscana/mmc:1,Toscana - P01
+ocd-division/country:it/lower:toscana/mmc:1/ed:1,Toscana - U02 (Massa)
+ocd-division/country:it/lower:toscana/mmc:1/ed:2,Toscana - U03 (Lucca)
+ocd-division/country:it/lower:toscana/mmc:1/ed:3,Toscana - U06 (Prato)
+ocd-division/country:it/lower:toscana/mmc:2,Toscana - P02
+ocd-division/country:it/lower:toscana/mmc:2/ed:1,Toscana - U01 (Grosseto)
+ocd-division/country:it/lower:toscana/mmc:2/ed:2,Toscana - U05 (Livorno)
+ocd-division/country:it/lower:toscana/mmc:2/ed:3,Toscana - U09 (Arezzo)
+ocd-division/country:it/lower:toscana/mmc:3,Toscana - P03
+ocd-division/country:it/lower:toscana/mmc:3/ed:1,Toscana - U04 (Pisa)
+ocd-division/country:it/lower:toscana/mmc:3/ed:2,Toscana - U07 (Firenze)
+ocd-division/country:it/lower:toscana/mmc:3/ed:3,Toscana - U08 (Scandicci)
+ocd-division/country:it/lower:trentino-alto_adige_sudtirol,Circoscrizione Camera Trentino-Alto Adige/Südtirol
+ocd-division/country:it/lower:trentino-alto_adige_sudtirol/mmc:1,Trentino-Alto Adige/Südtirol - P01
+ocd-division/country:it/lower:trentino-alto_adige_sudtirol/mmc:1/ed:1,Trentino-Alto Adige/Südtirol - U01 (Trento)
+ocd-division/country:it/lower:trentino-alto_adige_sudtirol/mmc:1/ed:2,Trentino-Alto Adige/Südtirol - U02 (Rovereto)
+ocd-division/country:it/lower:trentino-alto_adige_sudtirol/mmc:1/ed:3,Trentino-Alto Adige/Südtirol - U03 (Bolzano/Bozen)
+ocd-division/country:it/lower:trentino-alto_adige_sudtirol/mmc:1/ed:4,Trentino-Alto Adige/Südtirol - U04 (Bressanone/Brixen)
+ocd-division/country:it/lower:umbria,Circoscrizione Camera Umbria
+ocd-division/country:it/lower:umbria/mmc:1,Umbria - P01
+ocd-division/country:it/lower:umbria/mmc:1/ed:1,Umbria - U01 (Terni)
+ocd-division/country:it/lower:umbria/mmc:1/ed:2,Umbria - U02 (Perugia)
+ocd-division/country:it/lower:valle_d_aosta,Circoscrizione Camera Valle D'Aosta
+ocd-division/country:it/lower:valle_d_aosta/ed:1,Valle D'Aosta - U01 (Aosta)
+ocd-division/country:it/lower:veneto-1,Circoscrizione Camera Veneto 1
+ocd-division/country:it/lower:veneto-1/mmc:1,Veneto 1 - P01
+ocd-division/country:it/lower:veneto-1/mmc:1/ed:1,Veneto 1 - U01 (Venezia)
+ocd-division/country:it/lower:veneto-1/mmc:1/ed:2,Veneto 1 - U02 (Chioggia)
+ocd-division/country:it/lower:veneto-1/mmc:1/ed:3,Veneto 1 - U03 (Treviso)
+ocd-division/country:it/lower:veneto-1/mmc:1/ed:4,Veneto 1 - U04 (Castelfranco Veneto)
+ocd-division/country:it/lower:veneto-1/mmc:1/ed:5,Veneto 1 - U05 (Belluno)
+ocd-division/country:it/lower:veneto-2,Circoscrizione Camera Veneto 2
+ocd-division/country:it/lower:veneto-2/mmc:1,Veneto 2 - P01
+ocd-division/country:it/lower:veneto-2/mmc:1/ed:1,Veneto 2 - U01 (Rovigo)
+ocd-division/country:it/lower:veneto-2/mmc:1/ed:2,Veneto 2 - U02 (Selvazzano Dentro)
+ocd-division/country:it/lower:veneto-2/mmc:1/ed:3,Veneto 2 - U03 (Padova)
+ocd-division/country:it/lower:veneto-2/mmc:2,Veneto 2 - P02
+ocd-division/country:it/lower:veneto-2/mmc:2/ed:1,Veneto 2 - U04 (Bassano del Grappa)
+ocd-division/country:it/lower:veneto-2/mmc:2/ed:2,Veneto 2 - U05 (Vicenza)
+ocd-division/country:it/lower:veneto-2/mmc:3,Veneto 2 - P03
+ocd-division/country:it/lower:veneto-2/mmc:3/ed:1,Veneto 2 - U06 (Verona)
+ocd-division/country:it/lower:veneto-2/mmc:3/ed:2,Veneto 2 - U07 (Villafranca di Verona)
+ocd-division/country:it/lower:diaspora,Circoscrizione Estera
+ocd-division/country:it/lower:diaspora/ed:europa,"Europa, compresi i territori asiatici della Federazione russa e della Turchia"
+ocd-division/country:it/lower:diaspora/ed:america_meridionale,America meridionale
+ocd-division/country:it/lower:diaspora/ed:america_settentrionale_e_centrale,America settentrionale e centrale
+ocd-division/country:it/lower:diaspora/ed:africa_asia_oceania_antartide,"Africa, Asia, Oceania ed Antartide"

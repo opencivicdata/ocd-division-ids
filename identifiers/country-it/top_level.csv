@@ -1,2 +1,3 @@
-id,name
-ocd-division/country:it,Italy
+id,sameAs,name
+ocd-division/country:it,,Italy
+ocd-division/region:eu/member:it,ocd-division/country:it,"Italy, European Union member"

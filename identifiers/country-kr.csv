@@ -1,272 +1,294 @@
-id,name
-ocd-division/country:kr,South Korea
-ocd-division/country:kr/ed:andong_city_and_yecheon_county,Andong City and Yecheon County
-ocd-division/country:kr/ed:ansan_city_danwon_district_1,Ansan City Danwon District First
-ocd-division/country:kr/ed:ansan_city_danwon_district_2,Ansan City Danwon District Second
-ocd-division/country:kr/ed:ansan_city_sangnok_district_1,Ansan City Sangnok District First
-ocd-division/country:kr/ed:ansan_city_sangnok_district_2,Ansan City Sangnok District Second
-ocd-division/country:kr/ed:anseong_city,Anseong City
-ocd-division/country:kr/ed:anyang_city_dongan_district_1,Anyang City Dongan District First
-ocd-division/country:kr/ed:anyang_city_dongan_district_2,Anyang City Dongan District Second
-ocd-division/country:kr/ed:anyang_city_manan_district,Anyang City Manan District
-ocd-division/country:kr/ed:asan_city_1,Asan City First
-ocd-division/country:kr/ed:asan_city_2,Asan City Second
-ocd-division/country:kr/ed:boeun_county-okcheon_county-yeongdong_county_and_goesan_county,"Boeun County, Okcheon County, Yeongdong County and Goesan County"
-ocd-division/country:kr/ed:boryeong_city_and_seocheon_county,Boryeong City and Seocheon County
-ocd-division/country:kr/ed:bucheon_city_1,Bucheon City First
-ocd-division/country:kr/ed:bucheon_city_2,Bucheon City Second
-ocd-division/country:kr/ed:bucheon_city_3,Bucheon City Third
-ocd-division/country:kr/ed:bucheon_city_fourth,Bucheon City Fourth
-ocd-division/country:kr/ed:bupyeong_district_1,Bupyeong District First
-ocd-division/country:kr/ed:bupyeong_district_2,Bupyeong District Second
-ocd-division/country:kr/ed:busan_buk_district_and_gangseo_district_1,Buk District and Gangseo District First (Busan)
-ocd-division/country:kr/ed:busan_buk_district_and_gangseo_district_2,Buk District and Gangseo District Second (Busan)
-ocd-division/country:kr/ed:busan_nam_district_1,Nam District First (Busan)
-ocd-division/country:kr/ed:busan_nam_district_2,Nam District Second (Busan)
-ocd-division/country:kr/ed:busanjin_district_1,Busanjin District First
-ocd-division/country:kr/ed:busanjin_district_2,Busanjin District Second
-ocd-division/country:kr/ed:central_district_and_yeong_island,Central District and Yeong Island
-ocd-division/country:kr/ed:changwon_city_jinhae_district,Changwon City Jinhae District
-ocd-division/country:kr/ed:changwon_city_masanhappo_district,Changwon City Masanhappo District
-ocd-division/country:kr/ed:changwon_city_masanhoewon_district,Changwon City Masanhoewon District
-ocd-division/country:kr/ed:changwon_city_seongsan_district,Changwon City Seongsan District
-ocd-division/country:kr/ed:changwon_city_uichang_district,Changwon City Uichang District
-ocd-division/country:kr/ed:cheonan_city_1,Cheonan City First
-ocd-division/country:kr/ed:cheonan_city_2,Cheonan City Second
-ocd-division/country:kr/ed:cheonan_city_3,Cheonan City Third
-ocd-division/country:kr/ed:cheongju_city_cheongwon_district,Cheongju City Cheongwon District
-ocd-division/country:kr/ed:cheongju_city_heungdeok_district,Cheongju City Heungdeok District
-ocd-division/country:kr/ed:cheongju_city_sangdang_district,Cheongju City Sangdang District
-ocd-division/country:kr/ed:cheongju_city_seowon_district,Cheongju City Seowon District
-ocd-division/country:kr/ed:chuncheon_city-cherwon_county-hwacheon_county_and_yanggu_county_1,"Chuncheon City, Cherwon County, Hwacheon County and Yanggu County First"
-ocd-division/country:kr/ed:chuncheon_city-cherwon_county-hwacheon_county_and_yangu_county_2,"Chuncheon City, Cherwon County, Hwacheon County and Yangu County Second"
-ocd-division/country:kr/ed:chungju_city,Chungju City
-ocd-division/country:kr/ed:daedeok_district,Daedeok District
-ocd-division/country:kr/ed:daegu_buk_district_1,Buk District First (Daegu)
-ocd-division/country:kr/ed:daegu_buk_district_2,Buk District Second (Daegu)
-ocd-division/country:kr/ed:daegu_dong_district_1,Dong District First (Daegu)
-ocd-division/country:kr/ed:daegu_dong_district_2,Dong District Second (Daegu)
-ocd-division/country:kr/ed:daegu_seo_district,Seo District (Daegu)
-ocd-division/country:kr/ed:daejeon_dong_district,Dong District (Daejeon)
-ocd-division/country:kr/ed:daejeon_jung_district,Jung District (Daejeon)
-ocd-division/country:kr/ed:daejeon_seo_district_1,Seo District First (Daejeon)
-ocd-division/country:kr/ed:daejeon_seo_district_2,Seo District Second (Daejeon)
-ocd-division/country:kr/ed:dalseo_district_1,Dalseo District First
-ocd-division/country:kr/ed:dalseo_district_2,Dalseo District Second
-ocd-division/country:kr/ed:dalseo_district_3,Dalseo District Third
-ocd-division/country:kr/ed:dalseong_district,Dalseong District
-ocd-division/country:kr/ed:damyang_county-hampyeong_county-yeonggwang_county_and_jangseong_county,"Damyang County, Hampyeong County, Yeonggwang County and Jangseong County"
-ocd-division/country:kr/ed:dangjin_city,Dangjin City
-ocd-division/country:kr/ed:dobong_1,Dobong First
-ocd-division/country:kr/ed:dobong_2,Dobong Second
-ocd-division/country:kr/ed:dongdaemun_1,Dongdaemun First
-ocd-division/country:kr/ed:dongdaemun_2,Dongdaemun Second
-ocd-division/country:kr/ed:dongducheon_city_and_yeoncheon_county,Dongducheon City and Yeoncheon County
-ocd-division/country:kr/ed:donghae_city-taebaek_city-samcheok_city_and_jeongseon_county,"Donghae City, Taebaek City, Samcheok City and Jeongseon County"
-ocd-division/country:kr/ed:dongjak_1,Dongjak First
-ocd-division/country:kr/ed:dongjak_2,Dongjak Second
-ocd-division/country:kr/ed:dongnae_district,Dongnae District
-ocd-division/country:kr/ed:eunpyeong_1,Eunpyeong First
-ocd-division/country:kr/ed:eunpyeong_2,Eunpyeong Second
-ocd-division/country:kr/ed:gangbuk_1,Gangbuk First
-ocd-division/country:kr/ed:gangbuk_2,Gangbuk Second
-ocd-division/country:kr/ed:gangdong_1,Gangdong First
-ocd-division/country:kr/ed:gangdong_2,Gangdong Second
-ocd-division/country:kr/ed:gangnam_1,Gangnam First
-ocd-division/country:kr/ed:gangnam_2,Gangnam Second
-ocd-division/country:kr/ed:gangnam_3,Gangnam Third
-ocd-division/country:kr/ed:gangneung_city,Gangneung City
-ocd-division/country:kr/ed:gangseo_1,Gangseo First
-ocd-division/country:kr/ed:gangseo_2,Gangseo Second
-ocd-division/country:kr/ed:gangseo_3,Gangseo Third
-ocd-division/country:kr/ed:geoje_city,Geoje City
-ocd-division/country:kr/ed:geumcheon,Geumcheon
-ocd-division/country:kr/ed:geumjeong_district,Geumjeong District
-ocd-division/country:kr/ed:gijang_county,Gijang County
-ocd-division/country:kr/ed:gimcheon_city,Gimcheon City
-ocd-division/country:kr/ed:gimhae_city_1,Gimhae City First
-ocd-division/country:kr/ed:gimhae_city_2,Gimhae City Second
-ocd-division/country:kr/ed:gimje_city_and_buan_county,Gimje City and Buan County
-ocd-division/country:kr/ed:gimpo_city_1,Gimpo City First
-ocd-division/country:kr/ed:gimpo_city_2,Gimpo City Second
-ocd-division/country:kr/ed:goheung_county-boseong_county-jangheung_county_and_gangjin_county,"Goheung County, Boseong County, Jangheung County and Gangjin County"
-ocd-division/country:kr/ed:gongju_city-buyeo_county_and_cheongyang_county,"Gongju City, Buyeo County and Cheongyang County"
-ocd-division/country:kr/ed:goryeong_county-seongju_county_and_chilgok_county,"Goryeong County, Seongju County and Chilgok County"
-ocd-division/country:kr/ed:goyang_city_1,Goyang City First
-ocd-division/country:kr/ed:goyang_city_2,Goyang City Second
-ocd-division/country:kr/ed:goyang_city_3,Goyang City Third
-ocd-division/country:kr/ed:goyang_city_fourth,Goyang City Fourth
-ocd-division/country:kr/ed:gumi_city_1,Gumi City First
-ocd-division/country:kr/ed:gumi_city_2,Gumi City Second
-ocd-division/country:kr/ed:gunpo_city,Gunpo City
-ocd-division/country:kr/ed:gunsan_city,Gunsan City
-ocd-division/country:kr/ed:gunwi_county-uiseong_county-cheongsong_county_and_yeongdeok_county,"Gunwi County, Uiseong County, Cheongsong County and Yeongdeok County"
-ocd-division/country:kr/ed:guri_city,Guri City
-ocd-division/country:kr/ed:guro_1,Guro First
-ocd-division/country:kr/ed:guro_2,Guro Second
-ocd-division/country:kr/ed:gwanak_1,Gwanak First
-ocd-division/country:kr/ed:gwanak_2,Gwanak Second
-ocd-division/country:kr/ed:gwangjin_1,Gwangjin First
-ocd-division/country:kr/ed:gwangjin_2,Gwangjin Second
-ocd-division/country:kr/ed:gwangju_buk_district_1,Buk District First (Gwangju)
-ocd-division/country:kr/ed:gwangju_buk_district_2,Buk District Second (Gwangju)
-ocd-division/country:kr/ed:gwangju_city_1,Gwangju City First (Gyeonggi)
-ocd-division/country:kr/ed:gwangju_city_2,Gwangju City Second (Gyeonggi)
-ocd-division/country:kr/ed:gwangju_dong_district_and_nam_district_1,Dong District and Nam District First (Gwangju)
-ocd-division/country:kr/ed:gwangju_dong_district_and_nam_district_2,Dong District and Nam District Second (Gwangju)
-ocd-division/country:kr/ed:gwangju_seo_district_1,Seo District First (Gwangju)
-ocd-division/country:kr/ed:gwangju_seo_district_2,Seo District Second (Gwangju)
-ocd-division/country:kr/ed:gwangmyeong_city_1,Gwangmyeong City First
-ocd-division/country:kr/ed:gwangmyeong_city_2,Gwangmyeong City Second
-ocd-division/country:kr/ed:gwangsan_district_1,Gwangsan District First
-ocd-division/country:kr/ed:gwangsan_district_2,Gwangsan District Second
-ocd-division/country:kr/ed:gyeongju_city,Gyeongju City
-ocd-division/country:kr/ed:gyeongsan_city,Gyeongsan City
-ocd-division/country:kr/ed:gyeyang_district_1,Gyeyang District First
-ocd-division/country:kr/ed:gyeyang_district_2,Gyeyang District Second
-ocd-division/country:kr/ed:haenam_county-wando_islands_and_jindo_islands,"Haenam County, Wando Islands and Jindo Islands"
-ocd-division/country:kr/ed:haeundae_district_1,Haeundae District First
-ocd-division/country:kr/ed:haeundae_district_2,Haeundae District Second
-ocd-division/country:kr/ed:hanam_city,Hanam City
-ocd-division/country:kr/ed:hongcheon_county-hoengseong_county-yeongwol_county_and_pyeongchang_county,"Hongcheon County, Hoengseong County, Yeongwol County and Pyeongchang County"
-ocd-division/country:kr/ed:hongseong_county_and_yesan_county,Hongseong County and Yesan County
-ocd-division/country:kr/ed:hwaseong_city_1,Hwaseong City First
-ocd-division/country:kr/ed:hwaseong_city_2,Hwaseong City Second
-ocd-division/country:kr/ed:hwaseong_city_3,Hwaseong City Third
-ocd-division/country:kr/ed:icheon_city,Icheon City
-ocd-division/country:kr/ed:iksan_city_1,Iksan City First
-ocd-division/country:kr/ed:iksan_city_2,Iksan City Second
-ocd-division/country:kr/ed:incheon_dong_district_and_michuhol_district_1,Dong District and Michuhol District First (Incheon)
-ocd-division/country:kr/ed:incheon_dong_district_and_michuhol_district_2,Dong District and Michuhol District Second (Incheon)
-ocd-division/country:kr/ed:incheon_seo_district_1,Seo District First (Incheon)
-ocd-division/country:kr/ed:incheon_seo_district_2,Seo District Second (Incheon)
-ocd-division/country:kr/ed:jecheon_city_and_danyang_county,Jecheon City and Danyang County
-ocd-division/country:kr/ed:jeju_city_1,Jeju City First
-ocd-division/country:kr/ed:jeju_city_2,Jeju City Second
-ocd-division/country:kr/ed:jeongeup_city_and_gochang_county,Jeongeup City and Gochang County
-ocd-division/country:kr/ed:jeonju_city_1,Jeonju City First
-ocd-division/country:kr/ed:jeonju_city_2,Jeonju City Second
-ocd-division/country:kr/ed:jeonju_city_3,Jeonju City Third
-ocd-division/country:kr/ed:jeungpyeong_county-jincheon_county_and_eumseong_county,"Jeungpyeong County, Jincheon County and Eumseong County"
-ocd-division/country:kr/ed:jinju_city_1,Jinju City First
-ocd-division/country:kr/ed:jinju_city_2,Jinju City Second
-ocd-division/country:kr/ed:jongno,Jongno
-ocd-division/country:kr/ed:jung_and_seongdong_1,Jung and Seongdong First
-ocd-division/country:kr/ed:jung_and_seongdong_2,Jung and Seongdong Second
-ocd-division/country:kr/ed:jung_district-ganghwa_district_and_ongjin_county,"Jung District, Ganghwa District and Ongjin County"
-ocd-division/country:kr/ed:jung_district_and_nam_district,Jung District and Nam District
-ocd-division/country:kr/ed:jungnang_1,Jungnang First
-ocd-division/country:kr/ed:jungnang_2,Jungnang Second
-ocd-division/country:kr/ed:mapo_1,Mapo First
-ocd-division/country:kr/ed:mapo_2,Mapo Second
-ocd-division/country:kr/ed:milyang_city-uiryeong_county-haman_county_and_changnyeong_county,"Milyang City, Uiryeong County, Haman County and Changnyeong County"
-ocd-division/country:kr/ed:mokpo_city,Mokpo City
-ocd-division/country:kr/ed:naju_city_and_hwasun_county,Naju City and Hwasun County
-ocd-division/country:kr/ed:namdong_district_1,Namdong District First
-ocd-division/country:kr/ed:namdong_district_2,Namdong District Second
-ocd-division/country:kr/ed:namwon_city-imsil_county_and_sunchang_county,"Namwon City, Imsil County and Sunchang County"
-ocd-division/country:kr/ed:namyangju_city_1,Namyangju City First
-ocd-division/country:kr/ed:namyangju_city_2,Namyangju City Second
-ocd-division/country:kr/ed:namyangju_city_3,Namyangju City Third
-ocd-division/country:kr/ed:nonsan_city-gyeryong_city_and_guemsan_county,"Nonsan City, Gyeryong City and Guemsan County"
-ocd-division/country:kr/ed:nowon_1,Nowon First
-ocd-division/country:kr/ed:nowon_2,Nowon Second
-ocd-division/country:kr/ed:nowon_3,Nowon Third
-ocd-division/country:kr/ed:osan_city,Osan City
-ocd-division/country:kr/ed:paju_city_1,Paju City First
-ocd-division/country:kr/ed:paju_city_2,Paju City Second
-ocd-division/country:kr/ed:pocheon_city_and_gapyeong_county,Pocheon City and Gapyeong County
-ocd-division/country:kr/ed:pohang_city_north_district,Pohang City North District
-ocd-division/country:kr/ed:pohang_city_south_district_and_ulleung_islands,Pohang City South District and Ulleung Islands
-ocd-division/country:kr/ed:pyeongtaek_city_1,Pyeongtaek City First
-ocd-division/country:kr/ed:pyeongtaek_city_2,Pyeongtaek City Second
-ocd-division/country:kr/ed:sacheon_city-south_sea_county_and_hadong_county,"Sacheon City, South Sea County and Hadong County"
-ocd-division/country:kr/ed:saha_district_1,Saha District First
-ocd-division/country:kr/ed:saha_district_2,Saha District Second
-ocd-division/country:kr/ed:sancheong_county-hamyang_county-geochang_county_and_hapcheon_county,"Sancheong County, Hamyang County, Geochang County and Hapcheon County"
-ocd-division/country:kr/ed:sangju_city_and_mungyeong_city,Sangju City and Mungyeong City
-ocd-division/country:kr/ed:sasang_district,Sasang District
-ocd-division/country:kr/ed:sejong_city_1,Sejong City First
-ocd-division/country:kr/ed:sejong_city_2,Sejong City Second
-ocd-division/country:kr/ed:seocho_1,Seocho First
-ocd-division/country:kr/ed:seocho_2,Seocho Second
-ocd-division/country:kr/ed:seodaemun_1,Seodaemun First
-ocd-division/country:kr/ed:seodaemun_2,Seodaemun Second
-ocd-division/country:kr/ed:seogwipo_city,Seogwipo City
-ocd-division/country:kr/ed:seongbuk_1,Seongbuk First
-ocd-division/country:kr/ed:seongbuk_2,Seongbuk Second
-ocd-division/country:kr/ed:seongnam_bundang_district_1,Seongnam Bundang District First
-ocd-division/country:kr/ed:seongnam_bundang_district_2,Seongnam Bundang District Second
-ocd-division/country:kr/ed:seongnam_jungwon_district,Seongnam Jungwon District
-ocd-division/country:kr/ed:seongnam_sujeong_district,Seongnam Sujeong District
-ocd-division/country:kr/ed:seosan_city_and_taean_county,Seosan City and Taean County
-ocd-division/country:kr/ed:siheung_city_1,Siheung City First
-ocd-division/country:kr/ed:siheung_city_2,Siheung City Second
-ocd-division/country:kr/ed:sokcho_city-inje_county-goseong_county_and_yangyang_county,"Sokcho City, Inje County, Goseong County and Yangyang County"
-ocd-division/country:kr/ed:songpa_1,Songpa First
-ocd-division/country:kr/ed:songpa_2,Songpa Second
-ocd-division/country:kr/ed:songpa_3,Songpa Third
-ocd-division/country:kr/ed:suncheon_city-gwangyang_city-gokseong_county_and_gurye_county_1,"Suncheon City, Gwangyang City, Gokseong County and Gurye County First"
-ocd-division/country:kr/ed:suncheon_city-gwangyang_city-gokseong_county_and_gurye_county_2,"Suncheon City, Gwangyang City, Gokseong County and Gurye County Second"
-ocd-division/country:kr/ed:suseong_district_1,Suseong District First
-ocd-division/country:kr/ed:suseong_district_2,Suseong District Second
-ocd-division/country:kr/ed:suwon_1,Suwon First
-ocd-division/country:kr/ed:suwon_2,Suwon Second
-ocd-division/country:kr/ed:suwon_3,Suwon Third
-ocd-division/country:kr/ed:suwon_fifth,Suwon Fifth
-ocd-division/country:kr/ed:suwon_fourth,Suwon Fourth
-ocd-division/country:kr/ed:suyeong_district,Suyeong District
-ocd-division/country:kr/ed:tongyeong_city_and_goseong_county,Tongyeong City and Goseong County
-ocd-division/country:kr/ed:uijeongbu_city_1,Uijeongbu City First
-ocd-division/country:kr/ed:uijeongbu_city_2,Uijeongbu City Second
-ocd-division/country:kr/ed:uiwang_city_and_gwacheon_city,Uiwang City and Gwacheon City
-ocd-division/country:kr/ed:ulju_county,Ulju County
-ocd-division/country:kr/ed:ulsan_buk_district,Buk District (Ulsan)
-ocd-division/country:kr/ed:ulsan_dong_district,Dong District (Ulsan)
-ocd-division/country:kr/ed:ulsan_jung_district,Jung District (Ulsan)
-ocd-division/country:kr/ed:ulsan_nam_district_1,Nam District First (Ulsan)
-ocd-division/country:kr/ed:ulsan_nam_district_2,Nam District Second (Ulsan)
-ocd-division/country:kr/ed:wanju_county-jinan_county-muju_county_and_jangsu_county,"Wanju County, Jinan County, Muju County and Jangsu County"
-ocd-division/country:kr/ed:west_district_and_east_district,West District and East District
-ocd-division/country:kr/ed:wonju_city_1,Wonju City First
-ocd-division/country:kr/ed:wonju_city_2,Wonju City Second
-ocd-division/country:kr/ed:yangcheon_1,Yangcheon First
-ocd-division/country:kr/ed:yangcheon_2,Yangcheon Second
-ocd-division/country:kr/ed:yangju_city,Yangju City
-ocd-division/country:kr/ed:yangsan_city_1,Yangsan City First
-ocd-division/country:kr/ed:yangsan_city_2,Yangsan City Second
-ocd-division/country:kr/ed:yeoju_city_and_yangpyeong_county,Yeoju City and Yangpyeong County
-ocd-division/country:kr/ed:yeongam_county-muan_county_and_sinan_islands,"Yeongam County, Muan County and Sinan Islands"
-ocd-division/country:kr/ed:yeongcheon_city_and_cheongdo_county,Yeongcheon City and Cheongdo County
-ocd-division/country:kr/ed:yeongdeungpo_1,Yeongdeungpo First
-ocd-division/country:kr/ed:yeongdeungpo_2,Yeongdeungpo Second
-ocd-division/country:kr/ed:yeongju_city-yeongyang_county-bonghwa_county_and_uljin_county,"Yeongju City, Yeongyang County, Bonghwa County and Uljin County"
-ocd-division/country:kr/ed:yeonje_district,Yeonje District
-ocd-division/country:kr/ed:yeonsu_district_1,Yeonsu District First
-ocd-division/country:kr/ed:yeonsu_district_2,Yeonsu District Second
-ocd-division/country:kr/ed:yeosu_city_1,Yeosu City First
-ocd-division/country:kr/ed:yeosu_city_2,Yeosu City Second
-ocd-division/country:kr/ed:yongin_city_1,Yongin City First
-ocd-division/country:kr/ed:yongin_city_2,Yongin City Second
-ocd-division/country:kr/ed:yongin_city_3,Yongin City Third
-ocd-division/country:kr/ed:yongin_city_four,Yongin City Four
-ocd-division/country:kr/ed:yongsan,Yongsan
-ocd-division/country:kr/ed:yuseong_district_1,Yuseong District First
-ocd-division/country:kr/ed:yuseong_district_2,Yuseong District Second
-ocd-division/country:kr/metropolitan_city:26,Busan
-ocd-division/country:kr/metropolitan_city:27,Daegu
-ocd-division/country:kr/metropolitan_city:28,Incheon
-ocd-division/country:kr/metropolitan_city:29,Gwangju
-ocd-division/country:kr/metropolitan_city:30,Daejeon
-ocd-division/country:kr/metropolitan_city:31,Ulsan
-ocd-division/country:kr/province:41,Gyeonggi-do
-ocd-division/country:kr/province:42,Gangwon-do
-ocd-division/country:kr/province:43,Chungcheongbuk-do
-ocd-division/country:kr/province:44,Chungcheongnam-do
-ocd-division/country:kr/province:45,Jeollabuk-do
-ocd-division/country:kr/province:46,Jeollanam-do
-ocd-division/country:kr/province:47,Gyeongsangbuk-do
-ocd-division/country:kr/province:48,Gyeongsangnam-do
-ocd-division/country:kr/province:49,Jeju Special Self-governing Province
-ocd-division/country:kr/special_city:11,Seoul
-ocd-division/country:kr/special_self_governing_city:50,Sejong
+id,name,validThrough,validFrom
+ocd-division/country:kr,South Korea,,
+ocd-division/country:kr/ed:andong_city_and_yecheon_county,Andong City and Yecheon County,,
+ocd-division/country:kr/ed:ansan_city_1,Ansan City First,,2024-04-10
+ocd-division/country:kr/ed:ansan_city_2,Ansan City Second,,2024-04-10
+ocd-division/country:kr/ed:ansan_city_3,Ansan City Third,,2024-04-10
+ocd-division/country:kr/ed:ansan_city_danwon_district_1,Ansan City Danwon District First,2024-04-09,
+ocd-division/country:kr/ed:ansan_city_danwon_district_2,Ansan City Danwon District Second,2024-04-09,
+ocd-division/country:kr/ed:ansan_city_sangnok_district_1,Ansan City Sangnok District First,2024-04-09,
+ocd-division/country:kr/ed:ansan_city_sangnok_district_2,Ansan City Sangnok District Second,2024-04-09,
+ocd-division/country:kr/ed:anseong_city,Anseong City,,
+ocd-division/country:kr/ed:anyang_city_dongan_district_1,Anyang City Dongan District First,,
+ocd-division/country:kr/ed:anyang_city_dongan_district_2,Anyang City Dongan District Second,,
+ocd-division/country:kr/ed:anyang_city_manan_district,Anyang City Manan District,,
+ocd-division/country:kr/ed:asan_city_1,Asan City First,,
+ocd-division/country:kr/ed:asan_city_2,Asan City Second,,
+ocd-division/country:kr/ed:boeun_county-okcheon_county-yeongdong_county_and_goesan_county,"Boeun County, Okcheon County, Yeongdong County and Goesan County",,
+ocd-division/country:kr/ed:boryeong_city_and_seocheon_county,Boryeong City and Seocheon County,,
+ocd-division/country:kr/ed:bucheon_city_1,Bucheon City First,,
+ocd-division/country:kr/ed:bucheon_city_2,Bucheon City Second,,
+ocd-division/country:kr/ed:bucheon_city_3,Bucheon City Third,,
+ocd-division/country:kr/ed:bucheon_city_fourth,Bucheon City Fourth,2024-04-09,
+ocd-division/country:kr/ed:buk_district_1,Buk District First,,2024-04-10
+ocd-division/country:kr/ed:buk_district_2,Buk District Second,,2024-04-10
+ocd-division/country:kr/ed:bupyeong_district_1,Bupyeong District First,,
+ocd-division/country:kr/ed:bupyeong_district_2,Bupyeong District Second,,
+ocd-division/country:kr/ed:busan_buk_district_and_gangseo_district_1,Buk District and Gangseo District First (Busan),2024-04-09,
+ocd-division/country:kr/ed:busan_buk_district_and_gangseo_district_2,Buk District and Gangseo District Second (Busan),2024-04-09,
+ocd-division/country:kr/ed:busan_nam_district,Nam District First (Busan),,2024-04-10
+ocd-division/country:kr/ed:busan_nam_district_1,Nam District First (Busan),2024-04-09,
+ocd-division/country:kr/ed:busan_nam_district_2,Nam District Second (Busan),2024-04-09,
+ocd-division/country:kr/ed:busanjin_district_1,Busanjin District First,,
+ocd-division/country:kr/ed:busanjin_district_2,Busanjin District Second,,
+ocd-division/country:kr/ed:central_district_and_yeong_island,Central District and Yeong Island,,
+ocd-division/country:kr/ed:changwon_city_jinhae_district,Changwon City Jinhae District,,
+ocd-division/country:kr/ed:changwon_city_masanhappo_district,Changwon City Masanhappo District,,
+ocd-division/country:kr/ed:changwon_city_masanhoewon_district,Changwon City Masanhoewon District,,
+ocd-division/country:kr/ed:changwon_city_seongsan_district,Changwon City Seongsan District,,
+ocd-division/country:kr/ed:changwon_city_uichang_district,Changwon City Uichang District,,
+ocd-division/country:kr/ed:cheonan_city_1,Cheonan City First,,
+ocd-division/country:kr/ed:cheonan_city_2,Cheonan City Second,,
+ocd-division/country:kr/ed:cheonan_city_3,Cheonan City Third,,
+ocd-division/country:kr/ed:cheongju_city_cheongwon_district,Cheongju City Cheongwon District,,
+ocd-division/country:kr/ed:cheongju_city_heungdeok_district,Cheongju City Heungdeok District,,
+ocd-division/country:kr/ed:cheongju_city_sangdang_district,Cheongju City Sangdang District,,
+ocd-division/country:kr/ed:cheongju_city_seowon_district,Cheongju City Seowon District,,
+ocd-division/country:kr/ed:chuncheon_city-cherwon_county-hwacheon_county_and_yanggu_county_1,"Chuncheon City, Cherwon County, Hwacheon County and Yanggu County First",,
+ocd-division/country:kr/ed:chuncheon_city-cherwon_county-hwacheon_county_and_yangu_county_2,"Chuncheon City, Cherwon County, Hwacheon County and Yangu County Second",,
+ocd-division/country:kr/ed:chungju_city,Chungju City,,
+ocd-division/country:kr/ed:daedeok_district,Daedeok District,,
+ocd-division/country:kr/ed:daegu_buk_district_1,Buk District First (Daegu),,
+ocd-division/country:kr/ed:daegu_buk_district_2,Buk District Second (Daegu),,
+ocd-division/country:kr/ed:daegu_dong_district_1,Dong District First (Daegu),2024-04-09,
+ocd-division/country:kr/ed:daegu_dong_district_2,Dong District Second (Daegu),2024-04-09,
+ocd-division/country:kr/ed:daegu_seo_district,Seo District (Daegu),,
+ocd-division/country:kr/ed:daejeon_dong_district,Dong District (Daejeon),,
+ocd-division/country:kr/ed:daejeon_jung_district,Jung District (Daejeon),,
+ocd-division/country:kr/ed:daejeon_seo_district_1,Seo District First (Daejeon),,
+ocd-division/country:kr/ed:daejeon_seo_district_2,Seo District Second (Daejeon),,
+ocd-division/country:kr/ed:dalseo_district_1,Dalseo District First,,
+ocd-division/country:kr/ed:dalseo_district_2,Dalseo District Second,,
+ocd-division/country:kr/ed:dalseo_district_3,Dalseo District Third,,
+ocd-division/country:kr/ed:dalseong_district,Dalseong District,,
+ocd-division/country:kr/ed:damyang_county-hampyeong_county-yeonggwang_county_and_jangseong_county,"Damyang County, Hampyeong County, Yeonggwang County and Jangseong County",,
+ocd-division/country:kr/ed:dangjin_city,Dangjin City,,
+ocd-division/country:kr/ed:dobong_1,Dobong First,,
+ocd-division/country:kr/ed:dobong_2,Dobong Second,,
+ocd-division/country:kr/ed:dongdaemun_1,Dongdaemun First,,
+ocd-division/country:kr/ed:dongdaemun_2,Dongdaemun Second,,
+ocd-division/country:kr/ed:dongducheon_city-yangju_city-yeoncheon_county_1,"Dongducheon City, Yangju City and Yeoncheon County First",,2024-04-10
+ocd-division/country:kr/ed:dongducheon_city-yangju_city-yeoncheon_county_2,"Dongducheon City, Yangju City and Yeoncheon County Second",,2024-04-10
+ocd-division/country:kr/ed:dongducheon_city_and_yeoncheon_county,Dongducheon City and Yeoncheon County,2024-04-09,
+ocd-division/country:kr/ed:donggun_district_1,Dong District and Gunwi County First,,2024-04-10
+ocd-division/country:kr/ed:donggun_district_2,Dong District and Gunwi County Second,,2024-04-10
+ocd-division/country:kr/ed:donghae_city-taebaek_city-samcheok_city_and_jeongseon_county,"Donghae City, Taebaek City, Samcheok City and Jeongseon County",,
+ocd-division/country:kr/ed:dongjak_1,Dongjak First,,
+ocd-division/country:kr/ed:dongjak_2,Dongjak Second,,
+ocd-division/country:kr/ed:dongnae_district,Dongnae District,,
+ocd-division/country:kr/ed:eunpyeong_1,Eunpyeong First,,
+ocd-division/country:kr/ed:eunpyeong_2,Eunpyeong Second,,
+ocd-division/country:kr/ed:gangbuk_1,Gangbuk First,,
+ocd-division/country:kr/ed:gangbuk_2,Gangbuk Second,,
+ocd-division/country:kr/ed:gangdong_1,Gangdong First,,
+ocd-division/country:kr/ed:gangdong_2,Gangdong Second,,
+ocd-division/country:kr/ed:gangnam_1,Gangnam First,,
+ocd-division/country:kr/ed:gangnam_2,Gangnam Second,,
+ocd-division/country:kr/ed:gangnam_3,Gangnam Third,,
+ocd-division/country:kr/ed:gangneung_city,Gangneung City,,
+ocd-division/country:kr/ed:gangseo_1,Gangseo First,,
+ocd-division/country:kr/ed:gangseo_2,Gangseo Second,,
+ocd-division/country:kr/ed:gangseo_3,Gangseo Third,,
+ocd-division/country:kr/ed:gangseo_district,Gangseo District,,2024-04-10
+ocd-division/country:kr/ed:geoje_city,Geoje City,,
+ocd-division/country:kr/ed:geumcheon,Geumcheon,,
+ocd-division/country:kr/ed:geumjeong_district,Geumjeong District,,
+ocd-division/country:kr/ed:gijang_county,Gijang County,,
+ocd-division/country:kr/ed:gimcheon_city,Gimcheon City,,
+ocd-division/country:kr/ed:gimhae_city_1,Gimhae City First,,
+ocd-division/country:kr/ed:gimhae_city_2,Gimhae City Second,,
+ocd-division/country:kr/ed:gimje_city_and_buan_county,Gimje City and Buan County,2024-04-09,
+ocd-division/country:kr/ed:gimpo_city_1,Gimpo City First,,
+ocd-division/country:kr/ed:gimpo_city_2,Gimpo City Second,,
+ocd-division/country:kr/ed:goheung_county-boseong_county-jangheung_county_and_gangjin_county,"Goheung County, Boseong County, Jangheung County and Gangjin County",,
+ocd-division/country:kr/ed:gongju_city-buyeo_county_and_cheongyang_county,"Gongju City, Buyeo County and Cheongyang County",,
+ocd-division/country:kr/ed:goryeong_county-seongju_county_and_chilgok_county,"Goryeong County, Seongju County and Chilgok County",,
+ocd-division/country:kr/ed:goyang_city_1,Goyang City First,,
+ocd-division/country:kr/ed:goyang_city_2,Goyang City Second,,
+ocd-division/country:kr/ed:goyang_city_3,Goyang City Third,,
+ocd-division/country:kr/ed:goyang_city_fourth,Goyang City Fourth,,
+ocd-division/country:kr/ed:gumi_city_1,Gumi City First,,
+ocd-division/country:kr/ed:gumi_city_2,Gumi City Second,,
+ocd-division/country:kr/ed:gunpo_city,Gunpo City,,
+ocd-division/country:kr/ed:gunsan_city,Gunsan City,2024-04-09,
+ocd-division/country:kr/ed:gunsan_city-gimje_city-buan_county_1,"Gunsan City, Gimje City and Buan County First",,2024-04-10
+ocd-division/country:kr/ed:gunsan_city-gimje_city-buan_county_2,"Gunsan City, Gimje City and Buan County Second",,2024-04-10
+ocd-division/country:kr/ed:gunwi_county-uiseong_county-cheongsong_county_and_yeongdeok_county,"Gunwi County, Uiseong County, Cheongsong County and Yeongdeok County",2024-04-09,
+ocd-division/country:kr/ed:guri_city,Guri City,,
+ocd-division/country:kr/ed:guro_1,Guro First,,
+ocd-division/country:kr/ed:guro_2,Guro Second,,
+ocd-division/country:kr/ed:gwanak_1,Gwanak First,,
+ocd-division/country:kr/ed:gwanak_2,Gwanak Second,,
+ocd-division/country:kr/ed:gwangjin_1,Gwangjin First,,
+ocd-division/country:kr/ed:gwangjin_2,Gwangjin Second,,
+ocd-division/country:kr/ed:gwangju_buk_district_1,Buk District First (Gwangju),,
+ocd-division/country:kr/ed:gwangju_buk_district_2,Buk District Second (Gwangju),,
+ocd-division/country:kr/ed:gwangju_city_1,Gwangju City First (Gyeonggi),,
+ocd-division/country:kr/ed:gwangju_city_2,Gwangju City Second (Gyeonggi),,
+ocd-division/country:kr/ed:gwangju_dong_district_and_nam_district_1,Dong District and Nam District First (Gwangju),,
+ocd-division/country:kr/ed:gwangju_dong_district_and_nam_district_2,Dong District and Nam District Second (Gwangju),,
+ocd-division/country:kr/ed:gwangju_seo_district_1,Seo District First (Gwangju),,
+ocd-division/country:kr/ed:gwangju_seo_district_2,Seo District Second (Gwangju),,
+ocd-division/country:kr/ed:gwangmyeong_city_1,Gwangmyeong City First,,
+ocd-division/country:kr/ed:gwangmyeong_city_2,Gwangmyeong City Second,,
+ocd-division/country:kr/ed:gwangsan_district_1,Gwangsan District First,,
+ocd-division/country:kr/ed:gwangsan_district_2,Gwangsan District Second,,
+ocd-division/country:kr/ed:gyeongju_city,Gyeongju City,,
+ocd-division/country:kr/ed:gyeongsan_city,Gyeongsan City,,
+ocd-division/country:kr/ed:gyeyang_district_1,Gyeyang District First,,
+ocd-division/country:kr/ed:gyeyang_district_2,Gyeyang District Second,,
+ocd-division/country:kr/ed:haenam_county-wando_islands_and_jindo_islands,"Haenam County, Wando Islands and Jindo Islands",,
+ocd-division/country:kr/ed:haeundae_district_1,Haeundae District First,,
+ocd-division/country:kr/ed:haeundae_district_2,Haeundae District Second,,
+ocd-division/country:kr/ed:hanam_city,Hanam City,2024-04-09,
+ocd-division/country:kr/ed:hanam_city_1,Hanam City First,,2024-04-10
+ocd-division/country:kr/ed:hanam_city_2,Hanam City Second,,2024-04-10
+ocd-division/country:kr/ed:hongcheon_county-hoengseong_county-yeongwol_county_and_pyeongchang_county,"Hongcheon County, Hoengseong County, Yeongwol County and Pyeongchang County",,
+ocd-division/country:kr/ed:hongseong_county_and_yesan_county,Hongseong County and Yesan County,,
+ocd-division/country:kr/ed:hwaseong_city_1,Hwaseong City First,,
+ocd-division/country:kr/ed:hwaseong_city_2,Hwaseong City Second,,
+ocd-division/country:kr/ed:hwaseong_city_3,Hwaseong City Third,,
+ocd-division/country:kr/ed:hwaseong_city_4,Hwaseong City Fourth,,2024-04-10
+ocd-division/country:kr/ed:icheon_city,Icheon City,,
+ocd-division/country:kr/ed:iksan_city_1,Iksan City First,,
+ocd-division/country:kr/ed:iksan_city_2,Iksan City Second,,
+ocd-division/country:kr/ed:incheon_dong_district_and_michuhol_district_1,Dong District and Michuhol District First (Incheon),,
+ocd-division/country:kr/ed:incheon_dong_district_and_michuhol_district_2,Dong District and Michuhol District Second (Incheon),,
+ocd-division/country:kr/ed:incheon_seo_district_1,Seo District First (Incheon),,
+ocd-division/country:kr/ed:incheon_seo_district_2,Seo District Second (Incheon),,
+ocd-division/country:kr/ed:jecheon_city_and_danyang_county,Jecheon City and Danyang County,,
+ocd-division/country:kr/ed:jeju_city_1,Jeju City First,,
+ocd-division/country:kr/ed:jeju_city_2,Jeju City Second,,
+ocd-division/country:kr/ed:jeongeup_city_and_gochang_county,Jeongeup City and Gochang County,,
+ocd-division/country:kr/ed:jeonju_city_1,Jeonju City First,,
+ocd-division/country:kr/ed:jeonju_city_2,Jeonju City Second,,
+ocd-division/country:kr/ed:jeonju_city_3,Jeonju City Third,,
+ocd-division/country:kr/ed:jeungpyeong_county-jincheon_county_and_eumseong_county,"Jeungpyeong County, Jincheon County and Eumseong County",,
+ocd-division/country:kr/ed:jinju_city_1,Jinju City First,,
+ocd-division/country:kr/ed:jinju_city_2,Jinju City Second,,
+ocd-division/country:kr/ed:jongno,Jongno,,
+ocd-division/country:kr/ed:jung_and_seongdong_1,Jung and Seongdong First,,
+ocd-division/country:kr/ed:jung_and_seongdong_2,Jung and Seongdong Second,,
+ocd-division/country:kr/ed:jung_district-ganghwa_district_and_ongjin_county,"Jung District, Ganghwa District and Ongjin County",,
+ocd-division/country:kr/ed:jung_district_and_nam_district,Jung District and Nam District,,
+ocd-division/country:kr/ed:jungnang_1,Jungnang First,,
+ocd-division/country:kr/ed:jungnang_2,Jungnang Second,,
+ocd-division/country:kr/ed:mapo_1,Mapo First,,
+ocd-division/country:kr/ed:mapo_2,Mapo Second,,
+ocd-division/country:kr/ed:milyang_city-uiryeong_county-haman_county_and_changnyeong_county,"Milyang City, Uiryeong County, Haman County and Changnyeong County",,
+ocd-division/country:kr/ed:mokpo_city,Mokpo City,,
+ocd-division/country:kr/ed:naju_city_and_hwasun_county,Naju City and Hwasun County,,
+ocd-division/country:kr/ed:namdong_district_1,Namdong District First,,
+ocd-division/country:kr/ed:namdong_district_2,Namdong District Second,,
+ocd-division/country:kr/ed:namwon_city-imsil_county_and_sunchang_county,"Namwon City, Imsil County and Sunchang County",2024-04-09,
+ocd-division/country:kr/ed:namwon_city-jangsu_county-imsil_county-sunchang_county,"Namwon City, Jangsu County, Imsil County and Sunchang County",,2024-04-10
+ocd-division/country:kr/ed:namyangju_city_1,Namyangju City First,,
+ocd-division/country:kr/ed:namyangju_city_2,Namyangju City Second,,
+ocd-division/country:kr/ed:namyangju_city_3,Namyangju City Third,,
+ocd-division/country:kr/ed:nonsan_city-gyeryong_city_and_guemsan_county,"Nonsan City, Gyeryong City and Guemsan County",,
+ocd-division/country:kr/ed:nowon_1,Nowon First,,
+ocd-division/country:kr/ed:nowon_2,Nowon Second,,
+ocd-division/country:kr/ed:nowon_3,Nowon Third,2024-04-09,
+ocd-division/country:kr/ed:osan_city,Osan City,,
+ocd-division/country:kr/ed:paju_city_1,Paju City First,,
+ocd-division/country:kr/ed:paju_city_2,Paju City Second,,
+ocd-division/country:kr/ed:pocheon_city_and_gapyeong_county,Pocheon City and Gapyeong County,,
+ocd-division/country:kr/ed:pohang_city_north_district,Pohang City North District,,
+ocd-division/country:kr/ed:pohang_city_south_district_and_ulleung_islands,Pohang City South District and Ulleung Islands,,
+ocd-division/country:kr/ed:pyeongtaek_city_1,Pyeongtaek City First,,
+ocd-division/country:kr/ed:pyeongtaek_city_2,Pyeongtaek City Second,,
+ocd-division/country:kr/ed:pyeongtaek_city_3,Pyeongtaek City Third,,2024-04-10
+ocd-division/country:kr/ed:sacheon_city-south_sea_county_and_hadong_county,"Sacheon City, South Sea County and Hadong County",,
+ocd-division/country:kr/ed:saha_district_1,Saha District First,,
+ocd-division/country:kr/ed:saha_district_2,Saha District Second,,
+ocd-division/country:kr/ed:sancheong_county-hamyang_county-geochang_county_and_hapcheon_county,"Sancheong County, Hamyang County, Geochang County and Hapcheon County",,
+ocd-division/country:kr/ed:sangju_city_and_mungyeong_city,Sangju City and Mungyeong City,,
+ocd-division/country:kr/ed:sasang_district,Sasang District,,
+ocd-division/country:kr/ed:sejong_city_1,Sejong City First,,
+ocd-division/country:kr/ed:sejong_city_2,Sejong City Second,,
+ocd-division/country:kr/ed:seo_district_3,Seo District Third,,2024-04-10
+ocd-division/country:kr/ed:seocho_1,Seocho First,,
+ocd-division/country:kr/ed:seocho_2,Seocho Second,,
+ocd-division/country:kr/ed:seodaemun_1,Seodaemun First,,
+ocd-division/country:kr/ed:seodaemun_2,Seodaemun Second,,
+ocd-division/country:kr/ed:seogwipo_city,Seogwipo City,,
+ocd-division/country:kr/ed:seongbuk_1,Seongbuk First,,
+ocd-division/country:kr/ed:seongbuk_2,Seongbuk Second,,
+ocd-division/country:kr/ed:seongnam_bundang_district_1,Seongnam Bundang District First,,
+ocd-division/country:kr/ed:seongnam_bundang_district_2,Seongnam Bundang District Second,,
+ocd-division/country:kr/ed:seongnam_jungwon_district,Seongnam Jungwon District,,
+ocd-division/country:kr/ed:seongnam_sujeong_district,Seongnam Sujeong District,,
+ocd-division/country:kr/ed:seosan_city_and_taean_county,Seosan City and Taean County,,
+ocd-division/country:kr/ed:siheung_city_1,Siheung City First,,
+ocd-division/country:kr/ed:siheung_city_2,Siheung City Second,,
+ocd-division/country:kr/ed:sokcho_city-inje_county-goseong_county_and_yangyang_county,"Sokcho City, Inje County, Goseong County and Yangyang County",,
+ocd-division/country:kr/ed:songpa_1,Songpa First,,
+ocd-division/country:kr/ed:songpa_2,Songpa Second,,
+ocd-division/country:kr/ed:songpa_3,Songpa Third,,
+ocd-division/country:kr/ed:suncheon_city-gwangyang_city-gokseong_county_and_gurye_county_1,"Suncheon City, Gwangyang City, Gokseong County and Gurye County First",,
+ocd-division/country:kr/ed:suncheon_city-gwangyang_city-gokseong_county_and_gurye_county_2,"Suncheon City, Gwangyang City, Gokseong County and Gurye County Second",,
+ocd-division/country:kr/ed:suseong_district_1,Suseong District First,,
+ocd-division/country:kr/ed:suseong_district_2,Suseong District Second,,
+ocd-division/country:kr/ed:suwon_1,Suwon First,,
+ocd-division/country:kr/ed:suwon_2,Suwon Second,,
+ocd-division/country:kr/ed:suwon_3,Suwon Third,,
+ocd-division/country:kr/ed:suwon_fifth,Suwon Fifth,,
+ocd-division/country:kr/ed:suwon_fourth,Suwon Fourth,,
+ocd-division/country:kr/ed:suyeong_district,Suyeong District,,
+ocd-division/country:kr/ed:tongyeong_city_and_goseong_county,Tongyeong City and Goseong County,,
+ocd-division/country:kr/ed:uijeongbu_city_1,Uijeongbu City First,,
+ocd-division/country:kr/ed:uijeongbu_city_2,Uijeongbu City Second,,
+ocd-division/country:kr/ed:uiseong_county-cheongsong_county-yeongdeok_county-uljin_county,"Uiseong County, Cheongsong County, Yeongdeok County, Uljin County",,2024-04-10
+ocd-division/country:kr/ed:uiwang_city_and_gwacheon_city,Uiwang City and Gwacheon City,,
+ocd-division/country:kr/ed:ulju_county,Ulju County,,
+ocd-division/country:kr/ed:ulsan_buk_district,Buk District (Ulsan),,
+ocd-division/country:kr/ed:ulsan_dong_district,Dong District (Ulsan),,
+ocd-division/country:kr/ed:ulsan_jung_district,Jung District (Ulsan),,
+ocd-division/country:kr/ed:ulsan_nam_district_1,Nam District First (Ulsan),,
+ocd-division/country:kr/ed:ulsan_nam_district_2,Nam District Second (Ulsan),,
+ocd-division/country:kr/ed:wanju_county-jinan_county-muju_county,"Wanju County, Jinan County and Muju County",,2024-04-10
+ocd-division/country:kr/ed:wanju_county-jinan_county-muju_county_and_jangsu_county,"Wanju County, Jinan County, Muju County and Jangsu County",2024-04-09,
+ocd-division/country:kr/ed:west_district_and_east_district,West District and East District,,
+ocd-division/country:kr/ed:wonju_city_1,Wonju City First,,
+ocd-division/country:kr/ed:wonju_city_2,Wonju City Second,,
+ocd-division/country:kr/ed:yangcheon_1,Yangcheon First,,
+ocd-division/country:kr/ed:yangcheon_2,Yangcheon Second,,
+ocd-division/country:kr/ed:yangju_city,Yangju City,2024-04-09,
+ocd-division/country:kr/ed:yangsan_city_1,Yangsan City First,,
+ocd-division/country:kr/ed:yangsan_city_2,Yangsan City Second,,
+ocd-division/country:kr/ed:yeoju_city_and_yangpyeong_county,Yeoju City and Yangpyeong County,,
+ocd-division/country:kr/ed:yeongam_county-muan_county_and_sinan_islands,"Yeongam County, Muan County and Sinan Islands",,
+ocd-division/country:kr/ed:yeongcheon_city_and_cheongdo_county,Yeongcheon City and Cheongdo County,,
+ocd-division/country:kr/ed:yeongdeungpo_1,Yeongdeungpo First,,
+ocd-division/country:kr/ed:yeongdeungpo_2,Yeongdeungpo Second,,
+ocd-division/country:kr/ed:yeongju_city-yeongyang_county-bonghwa_county,"Yeongju City, Yeongyang County and Bonghwa County",,2024-04-10
+ocd-division/country:kr/ed:yeongju_city-yeongyang_county-bonghwa_county_and_uljin_county,"Yeongju City, Yeongyang County, Bonghwa County and Uljin County",2024-04-09,
+ocd-division/country:kr/ed:yeonje_district,Yeonje District,,
+ocd-division/country:kr/ed:yeonsu_district_1,Yeonsu District First,,
+ocd-division/country:kr/ed:yeonsu_district_2,Yeonsu District Second,,
+ocd-division/country:kr/ed:yeosu_city_1,Yeosu City First,,
+ocd-division/country:kr/ed:yeosu_city_2,Yeosu City Second,,
+ocd-division/country:kr/ed:yongin_city_1,Yongin City First,,
+ocd-division/country:kr/ed:yongin_city_2,Yongin City Second,,
+ocd-division/country:kr/ed:yongin_city_3,Yongin City Third,,
+ocd-division/country:kr/ed:yongin_city_four,Yongin City Four,,
+ocd-division/country:kr/ed:yongsan,Yongsan,,
+ocd-division/country:kr/ed:yuseong_district_1,Yuseong District First,,
+ocd-division/country:kr/ed:yuseong_district_2,Yuseong District Second,,
+ocd-division/country:kr/metropolitan_city:26,Busan,,
+ocd-division/country:kr/metropolitan_city:27,Daegu,,
+ocd-division/country:kr/metropolitan_city:28,Incheon,,
+ocd-division/country:kr/metropolitan_city:29,Gwangju,,
+ocd-division/country:kr/metropolitan_city:30,Daejeon,,
+ocd-division/country:kr/metropolitan_city:31,Ulsan,,
+ocd-division/country:kr/province:41,Gyeonggi-do,,
+ocd-division/country:kr/province:42,Gangwon-do,,
+ocd-division/country:kr/province:43,Chungcheongbuk-do,,
+ocd-division/country:kr/province:44,Chungcheongnam-do,,
+ocd-division/country:kr/province:45,Jeollabuk-do,,
+ocd-division/country:kr/province:46,Jeollanam-do,,
+ocd-division/country:kr/province:47,Gyeongsangbuk-do,,
+ocd-division/country:kr/province:48,Gyeongsangnam-do,,
+ocd-division/country:kr/province:49,Jeju Special Self-governing Province,,
+ocd-division/country:kr/special_city:11,Seoul,,
+ocd-division/country:kr/special_self_governing_city:50,Sejong,,

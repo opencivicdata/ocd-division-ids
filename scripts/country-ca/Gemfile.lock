@@ -34,12 +34,14 @@ GEM
     net-http-digest_auth (1.4.1)
     net-http-persistent (4.0.2)
       connection_pool (~> 2.2)
-    nokogiri (1.13.10-arm64-darwin)
+    nokogiri (1.18.9-arm64-darwin)
       racc (~> 1.4)
-    nokogiri (1.13.10-x86_64-darwin)
+    nokogiri (1.18.9-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.18.9-x86_64-linux-gnu)
       racc (~> 1.4)
     public_suffix (5.0.1)
-    racc (1.6.2)
+    racc (1.8.1)
     ruby-ole (1.2.12.2)
     ruby2_keywords (0.0.5)
     rubyntlm (0.6.3)
@@ -50,11 +52,14 @@ GEM
       unf_ext
     unf_ext (0.0.8.2)
     unicode_utils (1.4.0)
-    webrick (1.8.1)
+    webrick (1.8.2)
     webrobots (0.1.2)
 
 PLATFORMS
+  arm64-darwin-24
   universal-darwin-22
+  universal-darwin-23
+  x86_64-linux
 
 DEPENDENCIES
   dbf (~> 2.0.3)
@@ -68,4 +73,4 @@ DEPENDENCIES
   unicode_utils (~> 1.4.0)
 
 BUNDLED WITH
-   2.3.12
+   2.5.18

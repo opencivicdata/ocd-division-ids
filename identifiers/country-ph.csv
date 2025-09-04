@@ -1,8 +1,9 @@
-id,name,validFrom,validTo
+id,name,validThrough,validFrom
 ocd-division/country:ph,Philippines,,
 ocd-division/country:ph/cd:abra,Abra's at-large,,
-ocd-division/country:ph/cd:agusan_del_norte_1st,Agusan del Norte's 1st,,
-ocd-division/country:ph/cd:agusan_del_norte_2nd,Agusan del Norte's 2nd,,
+ocd-division/country:ph/cd:agusan_del_norte,Agusan del Norte,,2025-05
+ocd-division/country:ph/cd:agusan_del_norte_1st,Agusan del Norte's 1st,2025-05,
+ocd-division/country:ph/cd:agusan_del_norte_2nd,Agusan del Norte's 2nd,2025-05,
 ocd-division/country:ph/cd:agusan_del_sur_1st,Agusan del Sur's 1st,,
 ocd-division/country:ph/cd:agusan_del_sur_2nd,Agusan del Sur's 2nd,,
 ocd-division/country:ph/cd:aklan_1st,Aklan's 1st,,
@@ -44,6 +45,7 @@ ocd-division/country:ph/cd:bulacan_3rd,Bulacan's 3rd,,
 ocd-division/country:ph/cd:bulacan_4th,Bulacan's 4th,,
 ocd-division/country:ph/cd:bulacan_5th,Bulacan's 5th,,
 ocd-division/country:ph/cd:bulacan_6th,Bulacan's 6th,,
+ocd-division/country:ph/cd:butuan,Butuan,,2025-05
 ocd-division/country:ph/cd:cagayan_1st,Cagayan's 1st,,
 ocd-division/country:ph/cd:cagayan_2nd,Cagayan's 2nd,,
 ocd-division/country:ph/cd:cagayan_3rd,Cagayan's 3rd,,
@@ -135,8 +137,10 @@ ocd-division/country:ph/cd:leyte_2nd,Leyte's 2nd,,
 ocd-division/country:ph/cd:leyte_3rd,Leyte's 3rd,,
 ocd-division/country:ph/cd:leyte_4th,Leyte's 4th,,
 ocd-division/country:ph/cd:leyte_5th,Leyte's 5th,,
-ocd-division/country:ph/cd:maguindanao_1st,Maguindanao's 1st,,
-ocd-division/country:ph/cd:maguindanao_2nd,Maguindanao's 2nd,,
+ocd-division/country:ph/cd:maguindanao_1st,Maguindanao's 1st,2022-09-18,
+ocd-division/country:ph/cd:maguindanao_2nd,Maguindanao's 2nd,2022-09-18,
+ocd-division/country:ph/cd:maguindanao_del_norte,Maguindanao del Norte,,2022-09-18
+ocd-division/country:ph/cd:maguindanao_del_sur,Maguindanao del Sur,,2022-09-18
 ocd-division/country:ph/cd:makati_1st,Makati's 1st,,
 ocd-division/country:ph/cd:makati_2nd,Makati's 2nd,,
 ocd-division/country:ph/cd:malabon,Malabon's at-large,,
@@ -224,7 +228,8 @@ ocd-division/country:ph/cd:sorsogon_1st,Sorsogon's 1st,,
 ocd-division/country:ph/cd:sorsogon_2nd,Sorsogon's 2nd,,
 ocd-division/country:ph/cd:south_cotabato_1st,South Cotabato's 1st,,
 ocd-division/country:ph/cd:south_cotabato_2nd,South Cotabato's 2nd,,
-ocd-division/country:ph/cd:southern_leyte,Southern Leyte's at-large,,2022-06-30
+ocd-division/country:ph/cd:south_cotabato_3rd,South Cotabato's 3rd,,2025-05
+ocd-division/country:ph/cd:southern_leyte,Southern Leyte's at-large,2022-06-30,
 ocd-division/country:ph/cd:southern_leyte_1st,Southern Leyte's 1st,,
 ocd-division/country:ph/cd:southern_leyte_2nd,Southern Leyte's 2nd,,
 ocd-division/country:ph/cd:sultan_kudarat_1st,Sultan Kudarat's 1st,,

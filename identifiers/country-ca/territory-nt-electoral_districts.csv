@@ -1,20 +1,20 @@
 id,name
-ocd-division/country:ca/territory:nt/ed:1,Nunakput
-ocd-division/country:ca/territory:nt/ed:2,Inuvik Boot Lake
-ocd-division/country:ca/territory:nt/ed:3,Inuvik Twin Lakes
-ocd-division/country:ca/territory:nt/ed:4,Mackenzie-Delta
-ocd-division/country:ca/territory:nt/ed:5,Sahtu
-ocd-division/country:ca/territory:nt/ed:6,Nahendeh
-ocd-division/country:ca/territory:nt/ed:7,Monfwi
-ocd-division/country:ca/territory:nt/ed:8,Tu Nedhe
-ocd-division/country:ca/territory:nt/ed:9,Deh Cho
-ocd-division/country:ca/territory:nt/ed:10,Thebacha
-ocd-division/country:ca/territory:nt/ed:11,Weledeh
-ocd-division/country:ca/territory:nt/ed:12,Hay River South
-ocd-division/country:ca/territory:nt/ed:13,Hay River North
-ocd-division/country:ca/territory:nt/ed:14,Range Lake
-ocd-division/country:ca/territory:nt/ed:15,Yellowknife South
-ocd-division/country:ca/territory:nt/ed:16,Kam Lake
-ocd-division/country:ca/territory:nt/ed:17,Frame Lake
-ocd-division/country:ca/territory:nt/ed:18,Yellowknife Centre
-ocd-division/country:ca/territory:nt/ed:19,Great Slave
+ocd-division/country:ca/territory:nt/ed:dehcho,Dehcho
+ocd-division/country:ca/territory:nt/ed:frame_lake,Frame Lake
+ocd-division/country:ca/territory:nt/ed:great_slave,Great Slave
+ocd-division/country:ca/territory:nt/ed:hay_river_north,Hay River North
+ocd-division/country:ca/territory:nt/ed:hay_river_south,Hay River South
+ocd-division/country:ca/territory:nt/ed:inuvik_boot_lake,Inuvik Boot Lake
+ocd-division/country:ca/territory:nt/ed:inuvik_twin_lakes,Inuvik Twin Lakes
+ocd-division/country:ca/territory:nt/ed:kam_lake,Kam Lake
+ocd-division/country:ca/territory:nt/ed:mackenzie_delta,Mackenzie Delta
+ocd-division/country:ca/territory:nt/ed:monfwi,Monfwi
+ocd-division/country:ca/territory:nt/ed:nahendeh,Nahendeh
+ocd-division/country:ca/territory:nt/ed:nunakput,Nunakput
+ocd-division/country:ca/territory:nt/ed:range_lake,Range Lake
+ocd-division/country:ca/territory:nt/ed:sahtu,Sahtu
+ocd-division/country:ca/territory:nt/ed:thebacha,Thebacha
+ocd-division/country:ca/territory:nt/ed:tu_nedhé-wiilideh,Tu Nedhé-Wiilideh
+ocd-division/country:ca/territory:nt/ed:yellowknife_centre,Yellowknife Centre
+ocd-division/country:ca/territory:nt/ed:yellowknife_north,Yellowknife North
+ocd-division/country:ca/territory:nt/ed:yellowknife_south,Yellowknife South

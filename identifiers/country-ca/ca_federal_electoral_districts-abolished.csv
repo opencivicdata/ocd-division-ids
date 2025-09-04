@@ -1,0 +1,977 @@
+id,name,validFrom,validThrough
+ocd-division/country:ca/province:ab/fed:acadia,Acadia,1925-09-05,1968-04-22
+ocd-division/country:ca/province:ab/fed:athabaska,Athabaska,1925-09-05,1968-04-22
+ocd-division/country:ca/province:ab/fed:battle_river,Battle River,1917-10-06,1953-06-12
+ocd-division/country:ca/province:ab/fed:battle_river-1968,Battle River,1968-04-23,1979-03-25
+ocd-division/country:ca/province:ab/fed:battle_river-camrose,Battle River—Camrose,1953-06-13,1968-04-22
+ocd-division/country:ca/province:ab/fed:beaver_river,Beaver River,1988-10-01,1997-04-26
+ocd-division/country:ca/province:ab/fed:bow_river,Bow River,1917-10-06,1968-04-22
+ocd-division/country:ca/province:ab/fed:bow_river-1979,Bow River,1979-03-26,1988-09-30
+ocd-division/country:ca/province:ab/fed:calgary-nose_hill,Calgary—Nose Hill,1997-04-27,2015-08-01
+ocd-division/country:ca/province:ab/fed:calgary_centre,Calgary Centre,1968-04-23,2004-05-22
+ocd-division/country:ca/province:ab/fed:calgary_centre-north,Calgary Centre-North,2004-09-01,2015-08-01
+ocd-division/country:ca/province:ab/fed:calgary_east,Calgary East,1925-09-05,1953-06-12
+ocd-division/country:ca/province:ab/fed:calgary_east-1979,Calgary East,1979-03-26,1988-09-30
+ocd-division/country:ca/province:ab/fed:calgary_east-1997,Calgary East,1997-04-27,2015-08-01
+ocd-division/country:ca/province:ab/fed:calgary_north,Calgary North,1953-06-13,1997-04-26
+ocd-division/country:ca/province:ab/fed:calgary_northeast,Calgary Northeast,1988-10-01,2015-08-01
+ocd-division/country:ca/province:ab/fed:calgary_south,Calgary South,1953-06-13,1988-09-30
+ocd-division/country:ca/province:ab/fed:calgary_southeast,Calgary Southeast,1988-10-01,2015-08-01
+ocd-division/country:ca/province:ab/fed:calgary_southwest,Calgary Southwest,1988-10-01,2015-08-01
+ocd-division/country:ca/province:ab/fed:calgary_west,Calgary West,1917-10-06,1953-06-12
+ocd-division/country:ca/province:ab/fed:calgary_west-1979,Calgary West,1979-03-26,2015-08-01
+ocd-division/country:ca/province:ab/fed:camrose,Camrose,1925-09-05,1953-06-12
+ocd-division/country:ca/province:ab/fed:crowfoot,Crowfoot,1968-04-23,2015-08-01
+ocd-division/country:ca/province:ab/fed:edmonton,Edmonton,1908-09-17,1917-10-05
+ocd-division/country:ca/province:ab/fed:edmonton-leduc,Edmonton—Leduc,2004-05-23,2015-08-01
+ocd-division/country:ca/province:ab/fed:edmonton-mill_woods-beaumont,Edmonton—Mill Woods—Beaumont,2004-09-01,2015-08-01
+ocd-division/country:ca/province:ab/fed:edmonton-sherwood_park,Edmonton—Sherwood Park,2004-05-23,2015-08-01
+ocd-division/country:ca/province:ab/fed:edmonton-spruce_grove,Edmonton—Spruce Grove,2004-05-23,2015-08-01
+ocd-division/country:ca/province:ab/fed:edmonton-st._albert,Edmonton—St. Albert,2004-05-23,2015-08-01
+ocd-division/country:ca/province:ab/fed:edmonton-strathcona,Edmonton—Strathcona,1953-06-13,2015-08-01
+ocd-division/country:ca/province:ab/fed:edmonton_centre,Edmonton Centre,1968-04-23,1979-03-25
+ocd-division/country:ca/province:ab/fed:edmonton_centre-east,Edmonton Centre-East,2000-06-29,2004-05-22
+ocd-division/country:ca/province:ab/fed:edmonton_east,Edmonton East,2004-05-23,2015-08-01
+ocd-division/country:ca/province:ab/fed:edmonton_north,Edmonton North,1979-03-26,2004-05-22
+ocd-division/country:ca/province:ab/fed:edmonton_northwest,Edmonton Northwest,1988-10-01,1997-04-26
+ocd-division/country:ca/province:ab/fed:edmonton_south,Edmonton South,1979-03-26,1988-09-30
+ocd-division/country:ca/province:ab/fed:edmonton_southeast,Edmonton Southeast,1988-10-01,2004-05-22
+ocd-division/country:ca/province:ab/fed:edmonton_southwest,Edmonton Southwest,1988-10-01,2004-05-22
+ocd-division/country:ca/province:ab/fed:edmonton_west,Edmonton West,1917-10-06,1988-09-30
+ocd-division/country:ca/province:ab/fed:edmonton_west-1997,Edmonton West,1997-04-27,2004-05-22
+ocd-division/country:ca/province:ab/fed:elk_island,Elk Island,1988-10-01,2004-05-22
+ocd-division/country:ca/province:ab/fed:fort_mcmurray-athabasca,Fort McMurray—Athabasca,2004-09-01,2015-08-01
+ocd-division/country:ca/province:ab/fed:jasper-edson,Jasper—Edson,1935-08-14,1968-04-22
+ocd-division/country:ca/province:ab/fed:lakeland,Lakeland,1997-04-27,2004-05-22
+ocd-division/country:ca/province:ab/fed:lethbridge-foothills,Lethbridge—Foothills,1979-03-26,1988-09-30
+ocd-division/country:ca/province:ab/fed:macleod,Macleod,1908-09-17,1968-04-22
+ocd-division/country:ca/province:ab/fed:macleod-1988,Macleod,1988-10-01,2015-08-01
+ocd-division/country:ca/province:ab/fed:palliser,Palliser,1968-04-23,1979-03-25
+ocd-division/country:ca/province:ab/fed:peace_river,Peace River,1925-09-05,2015-08-01
+ocd-division/country:ca/province:ab/fed:pembina,Pembina,1968-04-23,1988-09-30
+ocd-division/country:ca/province:ab/fed:red_deer,Red Deer,1908-09-17,2015-08-01
+ocd-division/country:ca/province:ab/fed:rocky_mountain,Rocky Mountain,1968-04-23,1979-03-25
+ocd-division/country:ca/province:ab/fed:st._albert,St. Albert,1988-10-01,2004-05-22
+ocd-division/country:ca/province:ab/fed:strathcona,Strathcona,1908-09-17,1925-09-04
+ocd-division/country:ca/province:ab/fed:vegreville,Vegreville,1925-09-05,1997-04-26
+ocd-division/country:ca/province:ab/fed:vegreville-wainwright,Vegreville—Wainwright,2004-05-23,2015-08-01
+ocd-division/country:ca/province:ab/fed:victoria,Victoria,1908-09-17,1925-09-04
+ocd-division/country:ca/province:ab/fed:westlock-st._paul,Westlock—St. Paul,2005-02-24,2015-08-01
+ocd-division/country:ca/province:ab/fed:wetaskiwin,Wetaskiwin,1925-09-05,2015-08-01
+ocd-division/country:ca/province:ab/fed:wild_rose,Wild Rose,1988-10-01,2015-08-01
+ocd-division/country:ca/province:bc/fed:british_columbia_southern_interior,British Columbia Southern Interior,2004-09-01,2015-08-01
+ocd-division/country:ca/province:bc/fed:burnaby,Burnaby,1979-03-26,1988-09-30
+ocd-division/country:ca/province:bc/fed:burnaby-coquitlam,Burnaby—Coquitlam,1953-06-13,1968-04-22
+ocd-division/country:ca/province:bc/fed:burnaby-douglas,Burnaby—Douglas,1997-04-27,2015-08-01
+ocd-division/country:ca/province:bc/fed:burnaby-kingsway,Burnaby—Kingsway,1988-10-01,1997-04-26
+ocd-division/country:ca/province:bc/fed:burnaby-new_westminster,Burnaby—New Westminster,2004-05-23,2015-08-01
+ocd-division/country:ca/province:bc/fed:burnaby-richmond-delta,Burnaby—Richmond—Delta,1970-06-26,1979-03-25
+ocd-division/country:ca/province:bc/fed:burnaby-seymour,Burnaby—Seymour,1968-04-23,1979-03-25
+ocd-division/country:ca/province:bc/fed:burrard,Burrard,1896-04-24,1904-09-19
+ocd-division/country:ca/province:bc/fed:burrard-1917,Burrard,1917-10-06,1925-09-04
+ocd-division/country:ca/province:bc/fed:capilano,Capilano,1968-04-23,1988-09-30
+ocd-division/country:ca/province:bc/fed:capilano-howe_sound,Capilano—Howe Sound,1988-10-01,1997-04-26
+ocd-division/country:ca/province:bc/fed:cariboo,Cariboo,1872-07-08,1896-04-23
+ocd-division/country:ca/province:bc/fed:cariboo-1917,Cariboo,1917-10-06,1968-04-22
+ocd-division/country:ca/province:bc/fed:cariboo-chilcotin,Cariboo—Chilcotin,1979-03-26,2004-05-22
+ocd-division/country:ca/province:bc/fed:chilliwack-fraser_canyon,Chilliwack—Fraser Canyon,2004-05-23,2015-08-01
+ocd-division/country:ca/province:bc/fed:coast-capilano,Coast-Capilano,1949-04-30,1968-04-22
+ocd-division/country:ca/province:bc/fed:coast_chilcotin,Coast Chilcotin,1968-04-23,1979-03-25
+ocd-division/country:ca/province:bc/fed:comox-alberni,Comox—Alberni,1917-10-06,1979-03-25
+ocd-division/country:ca/province:bc/fed:comox-alberni-1988,Comox—Alberni,1988-10-01,1997-04-26
+ocd-division/country:ca/province:bc/fed:comox-atlin,Comox—Atlin,1904-09-20,1917-10-05
+ocd-division/country:ca/province:bc/fed:comox-powell_river,Comox—Powell River,1979-03-26,1988-09-30
+ocd-division/country:ca/province:bc/fed:cowichan-malahat-the_islands,Cowichan—Malahat—The Islands,1979-03-26,1988-09-30
+ocd-division/country:ca/province:bc/fed:delta,Delta,1988-10-01,1997-04-26
+ocd-division/country:ca/province:bc/fed:delta-richmond_east,Delta—Richmond East,2004-05-23,2015-08-01
+ocd-division/country:ca/province:bc/fed:delta-south_richmond,Delta—South Richmond,1997-04-27,2004-05-22
+ocd-division/country:ca/province:bc/fed:esquimalt-juan_de_fuca,Esquimalt—Juan de Fuca,1988-10-01,2015-08-01
+ocd-division/country:ca/province:bc/fed:esquimalt-saanich,Esquimalt—Saanich,1953-06-13,1988-09-30
+ocd-division/country:ca/province:bc/fed:fraser_valley,Fraser Valley,1919-04-03,1968-04-22
+ocd-division/country:ca/province:bc/fed:fraser_valley-1997,Fraser Valley,1997-04-27,2004-05-22
+ocd-division/country:ca/province:bc/fed:fraser_valley_east,Fraser Valley East,1968-04-23,1997-04-26
+ocd-division/country:ca/province:bc/fed:fraser_valley_west,Fraser Valley West,1968-04-23,1997-04-26
+ocd-division/country:ca/province:bc/fed:kamloops,Kamloops,1935-08-14,1968-04-22
+ocd-division/country:ca/province:bc/fed:kamloops-cariboo,Kamloops—Cariboo,1968-04-23,1979-03-25
+ocd-division/country:ca/province:bc/fed:kamloops-shuswap,Kamloops—Shuswap,1979-03-26,1988-09-30
+ocd-division/country:ca/province:bc/fed:kamloops_thompson_and_highland_valleys,"Kamloops, Thompson and Highland Valleys",1998-06-18,2004-05-22
+ocd-division/country:ca/province:bc/fed:kootenay,Kootenay,1904-09-20,1917-10-05
+ocd-division/country:ca/province:bc/fed:kootenay-boundary-okanagan,Kootenay—Boundary—Okanagan,1998-06-18,2004-05-22
+ocd-division/country:ca/province:bc/fed:kootenay_east,Kootenay East,1917-10-06,1968-04-22
+ocd-division/country:ca/province:bc/fed:kootenay_east-1988,Kootenay East,1988-10-01,1997-04-26
+ocd-division/country:ca/province:bc/fed:kootenay_east-revelstoke,Kootenay East—Revelstoke,1979-03-26,1988-09-30
+ocd-division/country:ca/province:bc/fed:kootenay_west,Kootenay West,1917-10-06,1988-09-30
+ocd-division/country:ca/province:bc/fed:kootenay_west-revelstoke,Kootenay West—Revelstoke,1988-10-01,1997-04-26
+ocd-division/country:ca/province:bc/fed:langley,Langley,2004-05-23,2015-08-01
+ocd-division/country:ca/province:bc/fed:langley-abbotsford,Langley—Abbotsford,1997-04-27,2004-05-22
+ocd-division/country:ca/province:bc/fed:mission-coquitlam,Mission—Coquitlam,1988-10-01,1997-04-26
+ocd-division/country:ca/province:bc/fed:mission-port_moody,Mission—Port Moody,1979-03-26,1988-09-30
+ocd-division/country:ca/province:bc/fed:nanaimo-alberni,Nanaimo—Alberni,1979-03-26,1988-09-30
+ocd-division/country:ca/province:bc/fed:nanaimo-alberni-1997,Nanaimo—Alberni,1997-04-27,2015-08-01
+ocd-division/country:ca/province:bc/fed:nanaimo-cowichan,Nanaimo—Cowichan,1988-10-01,2015-08-01
+ocd-division/country:ca/province:bc/fed:nanaimo-cowichan-the_islands,Nanaimo—Cowichan—The Islands,1962-04-18,1979-03-25
+ocd-division/country:ca/province:bc/fed:new_westminster,New Westminster,1872-07-08,1979-03-25
+ocd-division/country:ca/province:bc/fed:new_westminster-burnaby,New Westminster—Burnaby,1988-10-01,1997-04-26
+ocd-division/country:ca/province:bc/fed:new_westminster-coquitlam,New Westminster—Coquitlam,1979-03-26,1988-09-30
+ocd-division/country:ca/province:bc/fed:new_westminster-coquitlam-2004,New Westminster—Coquitlam,2004-05-23,2015-08-01
+ocd-division/country:ca/province:bc/fed:new_westminster-coquitlam-burnaby,New Westminster—Coquitlam—Burnaby,1997-04-27,2004-05-22
+ocd-division/country:ca/province:bc/fed:new_westminster_district,New Westminster District,1871-05-16,1872-07-07
+ocd-division/country:ca/province:bc/fed:newton-north_delta,Newton—North Delta,2004-05-23,2015-08-01
+ocd-division/country:ca/province:bc/fed:north_island-powell_river,North Island—Powell River,1988-10-01,1997-04-26
+ocd-division/country:ca/province:bc/fed:north_vancouver-burnaby,North Vancouver—Burnaby,1979-03-26,1988-09-30
+ocd-division/country:ca/province:bc/fed:okanagan-coquihalla,Okanagan—Coquihalla,1997-04-27,2015-08-01
+ocd-division/country:ca/province:bc/fed:okanagan-kootenay,Okanagan—Kootenay,1968-04-23,1979-03-25
+ocd-division/country:ca/province:bc/fed:okanagan-revelstoke,Okanagan—Revelstoke,1953-06-13,1968-04-22
+ocd-division/country:ca/province:bc/fed:okanagan-shuswap,Okanagan—Shuswap,1988-10-01,1997-04-26
+ocd-division/country:ca/province:bc/fed:okanagan-shuswap-1997,Okanagan—Shuswap,1997-04-27,2004-05-22
+ocd-division/country:ca/province:bc/fed:okanagan-shuswap-2004,Okanagan—Shuswap,2004-09-01,2015-08-01
+ocd-division/country:ca/province:bc/fed:okanagan-similkameen,Okanagan—Similkameen,1979-03-26,1988-09-30
+ocd-division/country:ca/province:bc/fed:okanagan-similkameen-merritt,Okanagan—Similkameen—Merritt,1988-10-01,1997-04-26
+ocd-division/country:ca/province:bc/fed:okanagan_boundary,Okanagan Boundary,1953-06-13,1979-03-25
+ocd-division/country:ca/province:bc/fed:okanagan_centre,Okanagan Centre,1988-10-01,1997-04-26
+ocd-division/country:ca/province:bc/fed:okanagan_north,Okanagan North,1979-03-26,1988-09-30
+ocd-division/country:ca/province:bc/fed:pitt_meadows-maple_ridge-mission,Pitt Meadows—Maple Ridge—Mission,2004-09-01,2015-08-01
+ocd-division/country:ca/province:bc/fed:port_moody-coquitlam-port_coquitlam,Port Moody—Coquitlam—Port Coquitlam,1998-06-18,2004-05-22
+ocd-division/country:ca/province:bc/fed:port_moody-westwood-port_coquitlam,Port Moody—Westwood—Port Coquitlam,2004-05-23,2015-08-01
+ocd-division/country:ca/province:bc/fed:prince_george-bulkley_valley,Prince George—Bulkley Valley,1979-03-26,2004-05-22
+ocd-division/country:ca/province:bc/fed:prince_george-peace_river,Prince George—Peace River,1968-04-23,1979-03-25
+ocd-division/country:ca/province:bc/fed:prince_george-peace_river-1979,Prince George—Peace River,1979-03-26,2015-08-01
+ocd-division/country:ca/province:bc/fed:richmond,Richmond,1988-10-01,2015-08-01
+ocd-division/country:ca/province:bc/fed:richmond-south_delta,Richmond—South Delta,1979-03-26,1988-09-30
+ocd-division/country:ca/province:bc/fed:skeena,Skeena,1917-10-06,2004-05-22
+ocd-division/country:ca/province:bc/fed:south_surrey-white_rock-cloverdale,South Surrey—White Rock—Cloverdale,2004-05-23,2015-08-01
+ocd-division/country:ca/province:bc/fed:south_surrey-white_rock-langley,South Surrey—White Rock—Langley,1997-04-27,2004-05-22
+ocd-division/country:ca/province:bc/fed:surrey-white_rock,Surrey—White Rock,1971-03-11,1979-03-25
+ocd-division/country:ca/province:bc/fed:surrey-white_rock-north_delta,Surrey—White Rock—North Delta,1979-03-26,1988-09-30
+ocd-division/country:ca/province:bc/fed:surrey-white_rock-south_langley,Surrey—White Rock—South Langley,1990-12-19,1997-04-26
+ocd-division/country:ca/province:bc/fed:surrey_central,Surrey Central,1997-04-27,2004-05-22
+ocd-division/country:ca/province:bc/fed:surrey_north,Surrey North,1988-10-01,2015-08-01
+ocd-division/country:ca/province:bc/fed:vancouver,Vancouver,1872-07-08,1904-09-19
+ocd-division/country:ca/province:bc/fed:vancouver-burrard,Vancouver—Burrard,1925-09-05,1968-04-22
+ocd-division/country:ca/province:bc/fed:vancouver_city,Vancouver City,1904-09-20,1917-10-05
+ocd-division/country:ca/province:bc/fed:vancouver_island,Vancouver Island,1871-05-16,1872-07-07
+ocd-division/country:ca/province:bc/fed:vancouver_island_north,Vancouver Island North,1997-04-27,2015-08-01
+ocd-division/country:ca/province:bc/fed:vancouver_kingsway,Vancouver Kingsway,1953-06-13,1988-09-30
+ocd-division/country:ca/province:bc/fed:vancouver_north,Vancouver North,1925-09-05,1949-04-29
+ocd-division/country:ca/province:bc/fed:vancouver_south,Vancouver South,1917-10-06,1997-04-26
+ocd-division/country:ca/province:bc/fed:vancouver_south-burnaby,Vancouver South—Burnaby,1997-04-27,2004-05-22
+ocd-division/country:ca/province:bc/fed:victoria,Victoria,1872-07-08,1904-09-19
+ocd-division/country:ca/province:bc/fed:victoria_city,Victoria City,1904-09-20,1925-09-04
+ocd-division/country:ca/province:bc/fed:yale,Yale,1872-07-08,1896-04-23
+ocd-division/country:ca/province:bc/fed:yale-1917,Yale,1917-10-06,1953-06-12
+ocd-division/country:ca/province:bc/fed:yale-cariboo,Yale—Cariboo,1896-04-24,1917-10-05
+ocd-division/country:ca/province:mb/fed:brandon,Brandon,1896-04-24,1953-06-12
+ocd-division/country:ca/province:mb/fed:charleswood-st._james-assiniboia,Charleswood—St. James—Assiniboia,2004-09-01,2015-08-01
+ocd-division/country:ca/province:mb/fed:charleswood_st._james-assiniboia,Charleswood St. James—Assiniboia,1998-06-18,2004-05-22
+ocd-division/country:ca/province:mb/fed:churchill,Churchill,1935-08-14,2015-08-01
+ocd-division/country:ca/province:mb/fed:dauphin-swan_river-marquette,Dauphin—Swan River—Marquette,2004-09-01,2015-08-01
+ocd-division/country:ca/province:mb/fed:lisgar,Lisgar,1871-05-01,1988-09-30
+ocd-division/country:ca/province:mb/fed:lisgar-marquette,Lisgar—Marquette,1988-10-01,1997-04-26
+ocd-division/country:ca/province:mb/fed:macdonald,Macdonald,1896-04-24,1949-04-29
+ocd-division/country:ca/province:mb/fed:marquette,Marquette,1871-05-01,1979-03-25
+ocd-division/country:ca/province:mb/fed:neepawa,Neepawa,1917-10-06,1949-04-29
+ocd-division/country:ca/province:mb/fed:nelson,Nelson,1917-10-06,1935-08-13
+ocd-division/country:ca/province:mb/fed:norquay,Norquay,1949-04-30,1953-06-12
+ocd-division/country:ca/province:mb/fed:portage,Portage,1968-04-23,1979-03-25
+ocd-division/country:ca/province:mb/fed:portage-interlake,Portage—Interlake,1988-10-01,1997-04-26
+ocd-division/country:ca/province:mb/fed:portage-marquette,Portage—Marquette,1979-03-26,1988-09-30
+ocd-division/country:ca/province:mb/fed:portage-neepawa,Portage—Neepawa,1949-04-30,1968-04-22
+ocd-division/country:ca/province:mb/fed:portage_la_prairie,Portage la Prairie,1904-09-20,1949-04-29
+ocd-division/country:ca/province:mb/fed:saint_boniface,Saint Boniface,1997-04-27,2015-08-01
+ocd-division/country:ca/province:mb/fed:selkirk,Selkirk,1871-05-01,1979-03-25
+ocd-division/country:ca/province:mb/fed:selkirk-interlake,Selkirk—Interlake,1979-03-26,1988-09-30
+ocd-division/country:ca/province:mb/fed:selkirk-interlake-1997,Selkirk—Interlake,1997-04-27,2015-08-01
+ocd-division/country:ca/province:mb/fed:selkirk-red_river,Selkirk—Red River,1990-12-19,1997-04-26
+ocd-division/country:ca/province:mb/fed:souris,Souris,1904-09-20,1953-06-12
+ocd-division/country:ca/province:mb/fed:springfield,Springfield,1917-10-06,1968-04-22
+ocd-division/country:ca/province:mb/fed:winnipeg,Winnipeg,1882-05-17,1917-10-05
+ocd-division/country:ca/province:mb/fed:winnipeg-assiniboine,Winnipeg—Assiniboine,1979-03-26,1988-09-30
+ocd-division/country:ca/province:mb/fed:winnipeg-birds_hill,Winnipeg—Birds Hill,1979-03-26,1988-09-30
+ocd-division/country:ca/province:mb/fed:winnipeg-fort_garry,Winnipeg—Fort Garry,1979-03-26,1988-09-30
+ocd-division/country:ca/province:mb/fed:winnipeg-st._james,Winnipeg—St. James,1979-03-26,1997-04-26
+ocd-division/country:ca/province:mb/fed:winnipeg-transcona,Winnipeg—Transcona,1997-04-27,2004-05-22
+ocd-division/country:ca/province:mb/fed:winnipeg_centre,Winnipeg Centre,1917-10-06,1925-09-04
+ocd-division/country:ca/province:mb/fed:winnipeg_north-st._paul,Winnipeg North—St. Paul,1997-04-27,2004-05-22
+ocd-division/country:ca/province:mb/fed:winnipeg_north_centre,Winnipeg North Centre,1925-09-05,2004-05-22
+ocd-division/country:ca/province:mb/fed:winnipeg_south,Winnipeg South,1917-10-06,1979-03-25
+ocd-division/country:ca/province:mb/fed:winnipeg_south_centre,Winnipeg South Centre,1925-09-05,1979-03-25
+ocd-division/country:ca/province:mb/fed:winnipeg_transcona,Winnipeg Transcona,1988-10-01,1997-04-26
+ocd-division/country:ca/province:nb/fed:albert,Albert,1867-08-06,1904-09-19
+ocd-division/country:ca/province:nb/fed:beauséjour-petitcodiac,Beauséjour—Petitcodiac,1997-04-27,2004-05-22
+ocd-division/country:ca/province:nb/fed:carleton,Carleton,1867-08-06,1917-10-05
+ocd-division/country:ca/province:nb/fed:carleton-charlotte,Carleton—Charlotte,1968-04-23,1997-04-26
+ocd-division/country:ca/province:nb/fed:charlotte,Charlotte,1867-08-06,1968-04-22
+ocd-division/country:ca/province:nb/fed:fredericton-york-sunbury,Fredericton—York—Sunbury,1989-12-29,1997-04-26
+ocd-division/country:ca/province:nb/fed:fundy-royal,Fundy—Royal,1968-04-23,2004-05-22
+ocd-division/country:ca/province:nb/fed:kent,Kent,1867-08-06,1968-04-22
+ocd-division/country:ca/province:nb/fed:king~s,King's,1867-08-06,1904-09-19
+ocd-division/country:ca/province:nb/fed:king~s_and_albert,King's and Albert,1904-09-20,1917-10-05
+ocd-division/country:ca/province:nb/fed:madawaska-victoria,Madawaska—Victoria,1968-04-23,1997-04-26
+ocd-division/country:ca/province:nb/fed:miramichi,Miramichi,1988-10-01,2015-08-01
+ocd-division/country:ca/province:nb/fed:new_brunswick_southwest,New Brunswick Southwest,1998-06-18,2004-05-22
+ocd-division/country:ca/province:nb/fed:northumberland-miramichi,Northumberland—Miramichi,1955-03-24,1988-09-30
+ocd-division/country:ca/province:nb/fed:queen~s,Queen's,1867-08-06,1896-04-23
+ocd-division/country:ca/province:nb/fed:restigouche,Restigouche,1867-08-06,1917-10-05
+ocd-division/country:ca/province:nb/fed:restigouche-chaleur,Restigouche—Chaleur,1989-12-29,1997-04-26
+ocd-division/country:ca/province:nb/fed:restigouche-madawaska,Restigouche—Madawaska,1917-10-06,1968-04-22
+ocd-division/country:ca/province:nb/fed:royal,Royal,1917-10-06,1968-04-22
+ocd-division/country:ca/province:nb/fed:saint_john,Saint John,1979-03-26,2015-08-01
+ocd-division/country:ca/province:nb/fed:saint_john-lancaster,Saint John—Lancaster,1968-04-23,1979-03-25
+ocd-division/country:ca/province:nb/fed:st._john-albert,St. John—Albert,1917-10-06,1968-04-22
+ocd-division/country:ca/province:nb/fed:st._john_city_and_county_of,St. John (City and County of),1867-08-06,1917-10-05
+ocd-division/country:ca/province:nb/fed:st._john_city_of_,St. John (City of ),1867-08-06,1917-10-05
+ocd-division/country:ca/province:nb/fed:sunbury,Sunbury,1867-08-06,1896-04-23
+ocd-division/country:ca/province:nb/fed:sunbury-queen~s,Sunbury—Queen's,1896-04-24,1917-10-05
+ocd-division/country:ca/province:nb/fed:victoria,Victoria,1867-08-06,1917-10-05
+ocd-division/country:ca/province:nb/fed:victoria-carleton,Victoria—Carleton,1917-10-06,1968-04-22
+ocd-division/country:ca/province:nb/fed:westmorland,Westmorland,1867-08-06,1968-04-22
+ocd-division/country:ca/province:nb/fed:westmorland-kent,Westmorland—Kent,1968-04-23,1988-09-30
+ocd-division/country:ca/province:nb/fed:york,York,1867-08-06,1917-10-05
+ocd-division/country:ca/province:nb/fed:york-sunbury,York—Sunbury,1917-10-06,1988-09-30
+ocd-division/country:ca/province:nl/fed:bonavista-gander-grand_falls-windsor,Bonavista—Gander—Grand Falls—Windsor,2004-09-01,2015-08-01
+ocd-division/country:ca/province:nl/fed:bonavista-trinity-conception,Bonavista—Trinity—Conception,1968-04-23,2004-05-22
+ocd-division/country:ca/province:nl/fed:bonavista-twillingate,Bonavista—Twillingate,1949-04-30,1968-04-22
+ocd-division/country:ca/province:nl/fed:burin-burgeo,Burin—Burgeo,1949-04-30,1979-03-25
+ocd-division/country:ca/province:nl/fed:burin-st._george~s,Burin—St. George's,1979-03-26,2004-05-22
+ocd-division/country:ca/province:nl/fed:gander-grand_falls,Gander—Grand Falls,1988-10-01,2004-05-22
+ocd-division/country:ca/province:nl/fed:gander-twillingate,Gander—Twillingate,1968-04-23,1988-09-30
+ocd-division/country:ca/province:nl/fed:grand_falls-white_bay,Grand Falls—White Bay,1949-04-30,1953-06-12
+ocd-division/country:ca/province:nl/fed:grand_falls-white_bay-labrador,Grand Falls—White Bay—Labrador,1953-06-13,1988-09-30
+ocd-division/country:ca/province:nl/fed:humber-port_au_port-st._barbe,Humber—Port au Port—St. Barbe,1979-03-26,1988-09-30
+ocd-division/country:ca/province:nl/fed:humber-st._barbe-baie_verte,Humber—St. Barbe—Baie Verte,1988-10-01,2015-08-01
+ocd-division/country:ca/province:nl/fed:humber-st._george~s,Humber—St. George's,1949-04-30,1968-04-22
+ocd-division/country:ca/province:nl/fed:humber-st._george~s-st._barbe,Humber—St. George's—St. Barbe,1968-04-23,1979-03-25
+ocd-division/country:ca/province:nl/fed:random-burin-st._george~s,Random—Burin—St. George's,2004-05-23,2015-08-01
+ocd-division/country:ca/province:nl/fed:st._john~s_east,St. John's East,1949-04-30,2004-05-22
+ocd-division/country:ca/province:nl/fed:st._john~s_west,St. John's West,1949-04-30,2004-05-22
+ocd-division/country:ca/province:nl/fed:trinity-conception,Trinity—Conception,1949-04-30,1968-04-22
+ocd-division/country:ca/province:ns/fed:annapolis,Annapolis,1867-08-06,1917-10-05
+ocd-division/country:ca/province:ns/fed:annapolis-kings,Annapolis—Kings,1949-04-30,1953-06-12
+ocd-division/country:ca/province:ns/fed:annapolis_valley,Annapolis Valley,1968-04-23,1979-03-25
+ocd-division/country:ca/province:ns/fed:antigonish,Antigonish,1867-08-06,1917-10-05
+ocd-division/country:ca/province:ns/fed:antigonish-guysborough,Antigonish—Guysborough,1917-10-06,1968-04-22
+ocd-division/country:ca/province:ns/fed:bras_d~or-cape_breton,Bras d'Or—Cape Breton,1998-06-18,2004-05-22
+ocd-division/country:ca/province:ns/fed:cape_breton,Cape Breton,1867-08-06,1904-09-19
+ocd-division/country:ca/province:ns/fed:cape_breton-east_richmond,Cape Breton—East Richmond,1968-04-23,1997-04-26
+ocd-division/country:ca/province:ns/fed:cape_breton-the_sydneys,Cape Breton—The Sydneys,1968-04-23,1997-04-26
+ocd-division/country:ca/province:ns/fed:cape_breton_highlands-canso,Cape Breton Highlands—Canso,1968-04-23,1997-04-26
+ocd-division/country:ca/province:ns/fed:cape_breton_north_and_victoria,Cape Breton North and Victoria,1935-08-14,1968-04-22
+ocd-division/country:ca/province:ns/fed:cape_breton_south,Cape Breton South,1904-09-20,1917-10-05
+ocd-division/country:ca/province:ns/fed:cape_breton_south-1925,Cape Breton South,1925-09-05,1968-04-22
+ocd-division/country:ca/province:ns/fed:cape_breton_south_and_richmond,Cape Breton South and Richmond,1917-10-06,1925-09-04
+ocd-division/country:ca/province:ns/fed:central_nova,Central Nova,1968-04-23,1997-04-26
+ocd-division/country:ca/province:ns/fed:colchester,Colchester,1867-08-06,1935-08-13
+ocd-division/country:ca/province:ns/fed:colchester-hants,Colchester—Hants,1935-08-14,1968-04-22
+ocd-division/country:ca/province:ns/fed:cumberland,Cumberland,1867-08-06,1968-04-22
+ocd-division/country:ca/province:ns/fed:cumberland-colchester,Cumberland—Colchester,1979-03-26,2004-05-22
+ocd-division/country:ca/province:ns/fed:cumberland-colchester-musquodoboit_valley,Cumberland—Colchester—Musquodoboit Valley,2004-09-01,2015-08-01
+ocd-division/country:ca/province:ns/fed:cumberland-colchester_north,Cumberland—Colchester North,1968-04-23,1979-03-25
+ocd-division/country:ca/province:ns/fed:dartmouth,Dartmouth,1988-10-01,2004-05-22
+ocd-division/country:ca/province:ns/fed:dartmouth-halifax_east,Dartmouth—Halifax East,1968-04-23,1988-09-30
+ocd-division/country:ca/province:ns/fed:digby,Digby,1867-08-06,1917-10-05
+ocd-division/country:ca/province:ns/fed:digby-annapolis,Digby—Annapolis,1925-09-05,1935-08-13
+ocd-division/country:ca/province:ns/fed:digby-annapolis-kings,Digby—Annapolis—Kings,1935-08-14,1949-04-29
+ocd-division/country:ca/province:ns/fed:digby-annapolis-kings-1953,Digby—Annapolis—Kings,1953-06-13,1968-04-22
+ocd-division/country:ca/province:ns/fed:digby-yarmouth,Digby—Yarmouth,1949-04-30,1953-06-12
+ocd-division/country:ca/province:ns/fed:guysborough,Guysborough,1867-08-06,1917-10-05
+ocd-division/country:ca/province:ns/fed:halifax-east_hants,Halifax—East Hants,1968-04-23,1979-03-25
+ocd-division/country:ca/province:ns/fed:hants,Hants,1867-08-06,1925-09-04
+ocd-division/country:ca/province:ns/fed:hants-kings,Hants—Kings,1925-09-05,1935-08-13
+ocd-division/country:ca/province:ns/fed:inverness,Inverness,1867-08-06,1935-08-13
+ocd-division/country:ca/province:ns/fed:inverness-richmond,Inverness—Richmond,1935-08-14,1968-04-22
+ocd-division/country:ca/province:ns/fed:kings,Kings,1867-08-06,1925-09-04
+ocd-division/country:ca/province:ns/fed:lunenburg,Lunenburg,1867-08-06,1925-09-04
+ocd-division/country:ca/province:ns/fed:lunenburg-1949,Lunenburg,1949-04-30,1953-06-12
+ocd-division/country:ca/province:ns/fed:pictou,Pictou,1867-08-06,1968-04-22
+ocd-division/country:ca/province:ns/fed:pictou-antigonish-guysborough,Pictou—Antigonish—Guysborough,1997-04-27,2004-05-22
+ocd-division/country:ca/province:ns/fed:queens,Queens,1867-08-06,1896-04-23
+ocd-division/country:ca/province:ns/fed:queens-lunenburg,Queens—Lunenburg,1925-09-05,1949-04-29
+ocd-division/country:ca/province:ns/fed:queens-lunenburg-1953,Queens—Lunenburg,1953-06-13,1968-04-22
+ocd-division/country:ca/province:ns/fed:queens-shelburne,Queens—Shelburne,1949-04-30,1953-06-12
+ocd-division/country:ca/province:ns/fed:richmond,Richmond,1867-08-06,1917-10-05
+ocd-division/country:ca/province:ns/fed:richmond-west_cape_breton,Richmond—West Cape Breton,1925-09-05,1935-08-13
+ocd-division/country:ca/province:ns/fed:sackville-eastern_shore,Sackville—Eastern Shore,2004-05-23,2015-08-01
+ocd-division/country:ca/province:ns/fed:sackville-musquodoboit_valley-eastern_shore,Sackville—Musquodoboit Valley—Eastern Shore,1999-03-11,2004-05-22
+ocd-division/country:ca/province:ns/fed:shelburne,Shelburne,1867-08-06,1896-04-23
+ocd-division/country:ca/province:ns/fed:shelburne-yarmouth,Shelburne—Yarmouth,1925-09-05,1935-08-13
+ocd-division/country:ca/province:ns/fed:shelburne-yarmouth-clare,Shelburne—Yarmouth—Clare,1935-08-14,1949-04-29
+ocd-division/country:ca/province:ns/fed:shelburne-yarmouth-clare-1953,Shelburne—Yarmouth—Clare,1953-06-13,1968-04-22
+ocd-division/country:ca/province:ns/fed:shelburne_and_queen~s,Shelburne and Queen's,1896-04-24,1925-09-04
+ocd-division/country:ca/province:ns/fed:south_shore,South Shore,1968-04-23,2004-05-22
+ocd-division/country:ca/province:ns/fed:south_shore-st._margaret~s,South Shore—St. Margaret's,2004-05-23,2015-08-01
+ocd-division/country:ca/province:ns/fed:south_west_nova,South West Nova,1979-03-26,1997-04-26
+ocd-division/country:ca/province:ns/fed:south_western_nova,South Western Nova,1968-04-23,1979-03-25
+ocd-division/country:ca/province:ns/fed:victoria,Victoria,1867-08-06,1904-09-19
+ocd-division/country:ca/province:ns/fed:yarmouth,Yarmouth,1867-08-06,1917-10-05
+ocd-division/country:ca/province:ns/fed:yarmouth_and_clare,Yarmouth and Clare,1917-10-06,1925-09-04
+ocd-division/country:ca/province:on/fed:addington,Addington,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:ajax-pickering,Ajax—Pickering,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:algoma,Algoma,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:algoma-manitoulin,Algoma—Manitoulin,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:algoma_east,Algoma East,1904-09-20,1968-04-22
+ocd-division/country:ca/province:on/fed:algoma_west,Algoma West,1904-09-20,1968-04-22
+ocd-division/country:ca/province:on/fed:ancaster-dundas-flamborough-aldershot,Ancaster—Dundas—Flamborough—Aldershot,2000-06-29,2004-05-22
+ocd-division/country:ca/province:on/fed:ancaster-dundas-flamborough-westdale,Ancaster—Dundas—Flamborough—Westdale,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:barrie,Barrie,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:barrie-simcoe-bradford,Barrie—Simcoe—Bradford,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:beaches,Beaches,1979-03-26,1988-09-30
+ocd-division/country:ca/province:on/fed:bothwell,Bothwell,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:bramalea-gore-malton,Bramalea—Gore—Malton,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:bramalea-gore-malton-springdale,Bramalea—Gore—Malton—Springdale,1998-06-18,2004-05-22
+ocd-division/country:ca/province:on/fed:brampton,Brampton,1988-10-01,1997-04-26
+ocd-division/country:ca/province:on/fed:brampton-georgetown,Brampton—Georgetown,1979-03-26,1988-09-30
+ocd-division/country:ca/province:on/fed:brampton-springdale,Brampton—Springdale,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:brampton_centre,Brampton Centre,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:brampton_west-mississauga,Brampton West—Mississauga,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:brant,Brant,1904-09-20,1949-04-29
+ocd-division/country:ca/province:on/fed:brant-haldimand,Brant—Haldimand,1953-06-13,1968-04-22
+ocd-division/country:ca/province:on/fed:brant-wentworth,Brant—Wentworth,1949-04-30,1953-06-12
+ocd-division/country:ca/province:on/fed:brant_north,Brant North,1867-08-06,1896-04-23
+ocd-division/country:ca/province:on/fed:brant_south,Brant South,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:brantford,Brantford,1904-09-20,1925-09-04
+ocd-division/country:ca/province:on/fed:brantford-1949,Brantford,1949-04-30,1968-04-22
+ocd-division/country:ca/province:on/fed:brantford_city,Brantford City,1925-09-05,1949-04-29
+ocd-division/country:ca/province:on/fed:broadview,Broadview,1935-08-14,1979-03-25
+ocd-division/country:ca/province:on/fed:brockville,Brockville,1867-08-06,1917-10-05
+ocd-division/country:ca/province:on/fed:bruce_east,Bruce East,1882-05-17,1904-09-19
+ocd-division/country:ca/province:on/fed:bruce_north,Bruce North,1867-08-06,1935-08-13
+ocd-division/country:ca/province:on/fed:bruce_south,Bruce South,1867-08-06,1882-05-16
+ocd-division/country:ca/province:on/fed:bruce_south-1904,Bruce South,1904-09-20,1935-08-13
+ocd-division/country:ca/province:on/fed:bruce_west,Bruce West,1882-05-17,1904-09-19
+ocd-division/country:ca/province:on/fed:cardwell,Cardwell,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:carleton,Carleton,1867-08-06,1968-04-22
+ocd-division/country:ca/province:on/fed:carleton-mississippi_mills,Carleton—Mississippi Mills,2004-09-01,2015-08-01
+ocd-division/country:ca/province:on/fed:chatham-kent-essex,Chatham-Kent—Essex,1998-06-18,2015-08-01
+ocd-division/country:ca/province:on/fed:cochrane,Cochrane,1935-08-14,1979-03-25
+ocd-division/country:ca/province:on/fed:cochrane-superior,Cochrane—Superior,1981-01-17,1997-04-26
+ocd-division/country:ca/province:on/fed:cornwall,Cornwall,1867-08-06,1882-05-16
+ocd-division/country:ca/province:on/fed:cornwall_and_stormont,Cornwall and Stormont,1882-05-17,1904-09-19
+ocd-division/country:ca/province:on/fed:danforth,Danforth,1935-08-14,1968-04-22
+ocd-division/country:ca/province:on/fed:don_valley,Don Valley,1968-04-23,1979-03-25
+ocd-division/country:ca/province:on/fed:don_valley_north,Don Valley North,1988-10-01,1997-04-26
+ocd-division/country:ca/province:on/fed:dufferin,Dufferin,1904-09-20,1925-09-04
+ocd-division/country:ca/province:on/fed:dufferin-peel-wellington-grey,Dufferin—Peel—Wellington—Grey,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:dufferin-simcoe,Dufferin—Simcoe,1925-09-05,1968-04-22
+ocd-division/country:ca/province:on/fed:dundas,Dundas,1867-08-06,1925-09-04
+ocd-division/country:ca/province:on/fed:durham,Durham,1904-09-20,1968-04-22
+ocd-division/country:ca/province:on/fed:durham-1988,Durham,1988-10-01,2004-05-22
+ocd-division/country:ca/province:on/fed:durham-northumberland,Durham—Northumberland,1979-03-26,1988-09-30
+ocd-division/country:ca/province:on/fed:durham_east,Durham East,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:durham_west,Durham West,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:eglinton,Eglinton,1935-08-14,1979-03-25
+ocd-division/country:ca/province:on/fed:elgin-norfolk,Elgin—Norfolk,1990-12-19,1997-04-26
+ocd-division/country:ca/province:on/fed:elgin_east,Elgin East,1867-08-06,1925-09-04
+ocd-division/country:ca/province:on/fed:elgin_west,Elgin West,1867-08-06,1935-08-13
+ocd-division/country:ca/province:on/fed:erie,Erie,1979-03-26,1997-04-26
+ocd-division/country:ca/province:on/fed:erie-lincoln,Erie—Lincoln,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:essex,Essex,1867-08-06,1882-05-16
+ocd-division/country:ca/province:on/fed:essex-windsor,Essex—Windsor,1972-03-29,1997-04-26
+ocd-division/country:ca/province:on/fed:essex_east,Essex East,1925-09-05,1968-04-22
+ocd-division/country:ca/province:on/fed:essex_north,Essex North,1882-05-17,1925-09-04
+ocd-division/country:ca/province:on/fed:essex_south,Essex South,1882-05-17,1968-04-22
+ocd-division/country:ca/province:on/fed:essex_west,Essex West,1925-09-05,1968-04-22
+ocd-division/country:ca/province:on/fed:etobicoke,Etobicoke,1968-04-23,1979-03-25
+ocd-division/country:ca/province:on/fed:fort_william,Fort William,1925-09-05,1979-03-25
+ocd-division/country:ca/province:on/fed:fort_william_and_rainy_river,Fort William and Rainy River,1917-10-06,1925-09-04
+ocd-division/country:ca/province:on/fed:frontenac,Frontenac,1867-08-06,1925-09-04
+ocd-division/country:ca/province:on/fed:frontenac-addington,Frontenac—Addington,1925-09-05,1953-06-12
+ocd-division/country:ca/province:on/fed:frontenac-lennox_and_addington,Frontenac—Lennox and Addington,1968-04-23,1979-03-25
+ocd-division/country:ca/province:on/fed:glengarry,Glengarry,1867-08-06,1917-10-05
+ocd-division/country:ca/province:on/fed:glengarry-1925,Glengarry,1925-09-05,1953-06-12
+ocd-division/country:ca/province:on/fed:glengarry_and_stormont,Glengarry and Stormont,1917-10-06,1925-09-04
+ocd-division/country:ca/province:on/fed:greenwood,Greenwood,1935-08-14,1979-03-25
+ocd-division/country:ca/province:on/fed:grenville,Grenville,1904-09-20,1925-09-04
+ocd-division/country:ca/province:on/fed:grenville-carleton,Grenville—Carleton,1968-04-23,1979-03-25
+ocd-division/country:ca/province:on/fed:grenville-dundas,Grenville—Dundas,1925-09-05,1968-04-22
+ocd-division/country:ca/province:on/fed:grenville_south,Grenville South,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:grey-bruce,Grey—Bruce,1935-08-14,1968-04-22
+ocd-division/country:ca/province:on/fed:grey-simcoe,Grey—Simcoe,1968-04-23,1988-09-30
+ocd-division/country:ca/province:on/fed:grey_east,Grey East,1872-07-08,1917-10-05
+ocd-division/country:ca/province:on/fed:grey_north,Grey North,1867-08-06,1968-04-22
+ocd-division/country:ca/province:on/fed:grey_south,Grey South,1867-08-06,1917-10-05
+ocd-division/country:ca/province:on/fed:grey_southeast,Grey Southeast,1917-10-06,1935-08-13
+ocd-division/country:ca/province:on/fed:guelph,Guelph,1979-03-26,1988-09-30
+ocd-division/country:ca/province:on/fed:guelph-wellington,Guelph—Wellington,1988-10-01,2004-05-22
+ocd-division/country:ca/province:on/fed:haldimand,Haldimand,1867-08-06,1896-04-26
+ocd-division/country:ca/province:on/fed:haldimand-1904,Haldimand,1904-09-20,1953-06-12
+ocd-division/country:ca/province:on/fed:haldimand-norfolk,Haldimand—Norfolk,1979-03-26,1997-04-26
+ocd-division/country:ca/province:on/fed:haldimand-norfolk-brant,Haldimand—Norfolk—Brant,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:haldimand_and_monck,Haldimand and Monck,1896-04-24,1904-09-19
+ocd-division/country:ca/province:on/fed:haliburton-victoria-brock,Haliburton—Victoria—Brock,1998-06-18,2004-05-22
+ocd-division/country:ca/province:on/fed:halton,Halton,1867-08-06,1988-09-30
+ocd-division/country:ca/province:on/fed:halton-1997,Halton,1997-04-27,2015-08-01
+ocd-division/country:ca/province:on/fed:halton-peel,Halton—Peel,1988-10-01,1997-04-26
+ocd-division/country:ca/province:on/fed:halton-wentworth,Halton—Wentworth,1968-04-23,1979-03-25
+ocd-division/country:ca/province:on/fed:hamilton,Hamilton,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:hamilton_east,Hamilton East,1904-09-20,2004-05-22
+ocd-division/country:ca/province:on/fed:hamilton_south,Hamilton South,1953-06-13,1968-04-22
+ocd-division/country:ca/province:on/fed:hamilton_west,Hamilton West,1904-09-20,2004-05-22
+ocd-division/country:ca/province:on/fed:hastings,Hastings,1968-04-23,1979-03-25
+ocd-division/country:ca/province:on/fed:hastings-frontenac,Hastings—Frontenac,1953-06-13,1968-04-22
+ocd-division/country:ca/province:on/fed:hastings-frontenac-lennox_and_addington,Hastings—Frontenac—Lennox and Addington,1981-01-17,2004-05-22
+ocd-division/country:ca/province:on/fed:hastings-peterborough,Hastings—Peterborough,1925-09-05,1953-06-12
+ocd-division/country:ca/province:on/fed:hastings_east,Hastings East,1867-08-06,1925-09-04
+ocd-division/country:ca/province:on/fed:hastings_north,Hastings North,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:hastings_south,Hastings South,1925-09-05,1968-04-22
+ocd-division/country:ca/province:on/fed:hastings_west,Hastings West,1867-08-06,1925-09-04
+ocd-division/country:ca/province:on/fed:high_park-humber_valley,High Park—Humber Valley,1972-03-29,1979-03-25
+ocd-division/country:ca/province:on/fed:huron-middlesex,Huron—Middlesex,1974-05-07,1979-03-25
+ocd-division/country:ca/province:on/fed:huron-perth,Huron—Perth,1935-08-14,1953-06-12
+ocd-division/country:ca/province:on/fed:huron_centre,Huron Centre,1872-07-08,1882-05-16
+ocd-division/country:ca/province:on/fed:huron_east,Huron East,1882-05-17,1917-10-05
+ocd-division/country:ca/province:on/fed:huron_north,Huron North,1867-08-06,1882-05-16
+ocd-division/country:ca/province:on/fed:huron_north-1917,Huron North,1917-10-06,1953-06-12
+ocd-division/country:ca/province:on/fed:huron_south,Huron South,1867-08-06,1935-08-13
+ocd-division/country:ca/province:on/fed:huron_west,Huron West,1882-05-17,1917-10-05
+ocd-division/country:ca/province:on/fed:kenora-rainy_river,Kenora—Rainy River,1925-09-05,2004-05-22
+ocd-division/country:ca/province:on/fed:kent,Kent,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:kent-1917,Kent,1917-10-06,1968-04-22
+ocd-division/country:ca/province:on/fed:kent-essex,Kent—Essex,1968-04-23,1979-03-25
+ocd-division/country:ca/province:on/fed:kent_east,Kent East,1904-09-20,1917-10-05
+ocd-division/country:ca/province:on/fed:kent_west,Kent West,1904-09-20,1917-10-05
+ocd-division/country:ca/province:on/fed:kingston,Kingston,1867-08-06,1925-09-04
+ocd-division/country:ca/province:on/fed:kingston-1953,Kingston,1953-06-13,1968-04-22
+ocd-division/country:ca/province:on/fed:kingston_city,Kingston City,1925-09-05,1953-06-12
+ocd-division/country:ca/province:on/fed:kitchener,Kitchener,1968-04-23,1997-04-26
+ocd-division/country:ca/province:on/fed:kitchener-waterloo,Kitchener—Waterloo,1997-04-27,2015-08-01
+ocd-division/country:ca/province:on/fed:lambton,Lambton,1867-08-06,1882-05-16
+ocd-division/country:ca/province:on/fed:lambton-kent,Lambton—Kent,1935-08-14,1979-03-25
+ocd-division/country:ca/province:on/fed:lambton-middlesex,Lambton—Middlesex,1979-03-26,1997-04-26
+ocd-division/country:ca/province:on/fed:lambton_east,Lambton East,1882-05-17,1935-08-13
+ocd-division/country:ca/province:on/fed:lambton_west,Lambton West,1882-05-17,1968-04-22
+ocd-division/country:ca/province:on/fed:lanark,Lanark,1917-10-06,1968-04-22
+ocd-division/country:ca/province:on/fed:lanark-renfrew-carleton,Lanark—Renfrew—Carleton,1970-06-26,1988-09-30
+ocd-division/country:ca/province:on/fed:lanark_north,Lanark North,1867-08-06,1917-10-05
+ocd-division/country:ca/province:on/fed:lanark_south,Lanark South,1867-08-06,1917-10-05
+ocd-division/country:ca/province:on/fed:leeds,Leeds,1904-09-20,1979-03-25
+ocd-division/country:ca/province:on/fed:leeds_north_and_grenville_north,Leeds North and Grenville North,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:leeds_south,Leeds South,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:lennox,Lennox,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:lennox_and_addington,Lennox and Addington,1904-09-20,1925-09-04
+ocd-division/country:ca/province:on/fed:lincoln,Lincoln,1867-08-06,1882-05-16
+ocd-division/country:ca/province:on/fed:lincoln-1904,Lincoln,1904-09-20,1997-04-26
+ocd-division/country:ca/province:on/fed:lincoln_and_niagara,Lincoln and Niagara,1882-05-17,1904-09-19
+ocd-division/country:ca/province:on/fed:london,London,1867-08-06,1968-04-22
+ocd-division/country:ca/province:on/fed:london-middlesex,London—Middlesex,1979-03-26,1997-04-26
+ocd-division/country:ca/province:on/fed:london_east,London East,1968-04-23,1997-04-26
+ocd-division/country:ca/province:on/fed:markham,Markham,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:middlesex-london-lambton,Middlesex—London—Lambton,1974-05-07,1979-03-25
+ocd-division/country:ca/province:on/fed:middlesex_east,Middlesex East,1867-08-06,1968-04-22
+ocd-division/country:ca/province:on/fed:middlesex_north,Middlesex North,1867-08-06,1917-10-05
+ocd-division/country:ca/province:on/fed:middlesex_south,Middlesex South,1882-05-17,1904-09-19
+ocd-division/country:ca/province:on/fed:middlesex_west,Middlesex West,1867-08-06,1968-04-22
+ocd-division/country:ca/province:on/fed:mississauga,Mississauga,1973-12-05,1979-03-25
+ocd-division/country:ca/province:on/fed:mississauga-brampton_south,Mississauga—Brampton South,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:mississauga_centre,Mississauga Centre,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:mississauga_east,Mississauga East,1988-10-01,2004-05-22
+ocd-division/country:ca/province:on/fed:mississauga_north,Mississauga North,1979-03-26,1988-09-30
+ocd-division/country:ca/province:on/fed:mississauga_south,Mississauga South,1979-03-26,2015-08-01
+ocd-division/country:ca/province:on/fed:mississauga_west,Mississauga West,1988-10-01,2004-05-22
+ocd-division/country:ca/province:on/fed:monck,Monck,1867-08-06,1898-04-23
+ocd-division/country:ca/province:on/fed:muskoka,Muskoka,1872-07-08,1882-05-16
+ocd-division/country:ca/province:on/fed:muskoka-1904,Muskoka,1904-09-20,1925-09-04
+ocd-division/country:ca/province:on/fed:muskoka-ontario,Muskoka—Ontario,1925-09-05,1949-04-29
+ocd-division/country:ca/province:on/fed:muskoka_and_parry_sound,Muskoka and Parry Sound,1882-05-17,1904-09-19
+ocd-division/country:ca/province:on/fed:nepean,Nepean,1988-10-01,1997-04-26
+ocd-division/country:ca/province:on/fed:nepean-carleton,Nepean—Carleton,1979-03-26,1988-09-30
+ocd-division/country:ca/province:on/fed:nepean-carleton-1997,Nepean—Carleton,1997-04-27,2015-08-01
+ocd-division/country:ca/province:on/fed:niagara,Niagara,1867-08-06,1882-05-16
+ocd-division/country:ca/province:on/fed:niagara_centre,Niagara Centre,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:niagara_west-glanbrook,Niagara West—Glanbrook,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:nipissing,Nipissing,1896-04-24,2004-05-22
+ocd-division/country:ca/province:on/fed:norfolk,Norfolk,1904-09-20,1925-09-04
+ocd-division/country:ca/province:on/fed:norfolk-1935,Norfolk,1935-08-14,1968-04-22
+ocd-division/country:ca/province:on/fed:norfolk-elgin,Norfolk—Elgin,1925-09-05,1935-08-13
+ocd-division/country:ca/province:on/fed:norfolk-haldimand,Norfolk—Haldimand,1968-04-23,1979-03-25
+ocd-division/country:ca/province:on/fed:norfolk_north,Norfolk North,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:norfolk_south,Norfolk South,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:northumberland,Northumberland,1917-10-06,1968-04-22
+ocd-division/country:ca/province:on/fed:northumberland-1979,Northumberland,1979-03-26,2004-05-22
+ocd-division/country:ca/province:on/fed:northumberland-durham,Northumberland—Durham,1968-04-23,1979-03-25
+ocd-division/country:ca/province:on/fed:northumberland-quinte_west,Northumberland—Quinte West,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:northumberland_east,Northumberland East,1867-08-06,1917-10-05
+ocd-division/country:ca/province:on/fed:northumberland_west,Northumberland West,1867-08-06,1917-10-05
+ocd-division/country:ca/province:on/fed:oak_ridges,Oak Ridges,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:oak_ridges-markham,Oak Ridges—Markham,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:oakville-milton,Oakville—Milton,1988-10-01,1997-04-26
+ocd-division/country:ca/province:on/fed:ontario,Ontario,1925-09-05,1997-04-26
+ocd-division/country:ca/province:on/fed:ontario_north,Ontario North,1867-08-06,1925-09-04
+ocd-division/country:ca/province:on/fed:ontario_south,Ontario South,1867-08-06,1925-09-04
+ocd-division/country:ca/province:on/fed:ontario_west,Ontario West,1882-05-17,1904-09-19
+ocd-division/country:ca/province:on/fed:oshawa-whitby,Oshawa—Whitby,1967-11-06,1979-03-25
+ocd-division/country:ca/province:on/fed:ottawa-carleton,Ottawa—Carleton,1968-04-23,1988-09-30
+ocd-division/country:ca/province:on/fed:ottawa_city_of,Ottawa (City of),1867-08-06,1935-08-13
+ocd-division/country:ca/province:on/fed:ottawa_west,Ottawa West,1935-08-14,1997-04-26
+ocd-division/country:ca/province:on/fed:oxford_north,Oxford North,1867-08-06,1935-08-13
+ocd-division/country:ca/province:on/fed:oxford_south,Oxford South,1867-08-06,1935-08-13
+ocd-division/country:ca/province:on/fed:parkdale,Parkdale,1917-10-06,1979-03-25
+ocd-division/country:ca/province:on/fed:parry_sound,Parry Sound,1904-09-20,1949-04-29
+ocd-division/country:ca/province:on/fed:peel,Peel,1867-08-06,1968-04-22
+ocd-division/country:ca/province:on/fed:peel-dufferin-simcoe,Peel—Dufferin—Simcoe,1967-11-06,1979-03-25
+ocd-division/country:ca/province:on/fed:perth,Perth,1979-03-26,1988-09-30
+ocd-division/country:ca/province:on/fed:perth-middlesex,Perth—Middlesex,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:perth-wellington-waterloo,Perth—Wellington—Waterloo,1988-10-01,1997-04-26
+ocd-division/country:ca/province:on/fed:perth-wilmot,Perth—Wilmot,1970-06-26,1979-03-25
+ocd-division/country:ca/province:on/fed:perth_north,Perth North,1867-08-06,1935-08-13
+ocd-division/country:ca/province:on/fed:perth_south,Perth South,1867-08-06,1935-08-13
+ocd-division/country:ca/province:on/fed:peterborough_east,Peterborough East,1867-08-06,1925-09-04
+ocd-division/country:ca/province:on/fed:peterborough_west,Peterborough West,1867-08-06,1953-06-12
+ocd-division/country:ca/province:on/fed:pickering-ajax-uxbridge,Pickering—Ajax—Uxbridge,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:port_arthur,Port Arthur,1935-08-14,1979-03-25
+ocd-division/country:ca/province:on/fed:port_arthur-thunder_bay,Port Arthur—Thunder Bay,1925-09-05,1935-08-13
+ocd-division/country:ca/province:on/fed:port_arthur_and_kenora,Port Arthur and Kenora,1917-10-06,1925-09-04
+ocd-division/country:ca/province:on/fed:prescott,Prescott,1867-08-06,1953-06-12
+ocd-division/country:ca/province:on/fed:prince_edward,Prince Edward,1867-08-06,1925-09-04
+ocd-division/country:ca/province:on/fed:prince_edward-hastings,Prince Edward—Hastings,1968-04-23,1979-03-25
+ocd-division/country:ca/province:on/fed:prince_edward-hastings-1979,Prince Edward—Hastings,1979-03-26,2015-08-01
+ocd-division/country:ca/province:on/fed:prince_edward-lennox,Prince Edward—Lennox,1925-09-05,1968-04-22
+ocd-division/country:ca/province:on/fed:renfrew-nipissing-pembroke,Renfrew—Nipissing—Pembroke,1979-03-26,1988-09-30
+ocd-division/country:ca/province:on/fed:renfrew_north-nipissing_east,Renfrew North—Nipissing East,1972-03-29,1979-03-25
+ocd-division/country:ca/province:on/fed:renfrew_south,Renfrew South,1867-08-06,1968-04-22
+ocd-division/country:ca/province:on/fed:rosedale,Rosedale,1935-08-14,1997-04-26
+ocd-division/country:ca/province:on/fed:russell,Russell,1867-08-06,1968-04-22
+ocd-division/country:ca/province:on/fed:sarnia-lambton,Sarnia—Lambton,1970-06-26,1979-03-25
+ocd-division/country:ca/province:on/fed:scarborough-rouge_river,Scarborough—Rouge River,1988-10-01,2015-08-01
+ocd-division/country:ca/province:on/fed:scarborough_east,Scarborough East,1968-04-23,2004-05-22
+ocd-division/country:ca/province:on/fed:scarborough_west,Scarborough West,1968-04-23,1997-04-26
+ocd-division/country:ca/province:on/fed:simcoe_centre,Simcoe Centre,1988-10-01,1997-04-26
+ocd-division/country:ca/province:on/fed:simcoe_east,Simcoe East,1882-05-17,1968-04-22
+ocd-division/country:ca/province:on/fed:simcoe_south,Simcoe South,1867-08-06,1925-09-04
+ocd-division/country:ca/province:on/fed:simcoe_south-1979,Simcoe South,1979-03-26,1988-09-30
+ocd-division/country:ca/province:on/fed:spadina,Spadina,1935-08-14,1988-09-30
+ocd-division/country:ca/province:on/fed:stoney_creek,Stoney Creek,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:stormont,Stormont,1867-08-06,1882-05-16
+ocd-division/country:ca/province:on/fed:stormont-1904,Stormont,1904-09-20,1917-10-05
+ocd-division/country:ca/province:on/fed:stormont-1925,Stormont,1925-09-05,1968-04-22
+ocd-division/country:ca/province:on/fed:stormont-dundas-charlottenburgh,Stormont—Dundas—Charlottenburgh,1999-03-11,2004-05-22
+ocd-division/country:ca/province:on/fed:thunder_bay,Thunder Bay,1968-04-23,1979-03-25
+ocd-division/country:ca/province:on/fed:thunder_bay-atikokan,Thunder Bay—Atikokan,1979-03-26,2004-05-22
+ocd-division/country:ca/province:on/fed:thunder_bay_and_rainy_river,Thunder Bay and Rainy River,1904-09-20,1917-10-05
+ocd-division/country:ca/province:on/fed:timiskaming,Timiskaming,1917-10-06,1925-09-04
+ocd-division/country:ca/province:on/fed:timiskaming-cochrane,Timiskaming—Cochrane,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:timiskaming-french_river,Timiskaming—French River,1990-12-19,1997-04-26
+ocd-division/country:ca/province:on/fed:timiskaming_north,Timiskaming North,1925-09-05,1935-08-13
+ocd-division/country:ca/province:on/fed:timiskaming_south,Timiskaming South,1925-09-05,1935-08-13
+ocd-division/country:ca/province:on/fed:timmins,Timmins,1949-04-30,1979-03-25
+ocd-division/country:ca/province:on/fed:timmins-chapleau,Timmins—Chapleau,1979-03-26,1997-04-26
+ocd-division/country:ca/province:on/fed:toronto-high_park,Toronto—High Park,1925-09-05,1935-08-13
+ocd-division/country:ca/province:on/fed:toronto-lakeshore,Toronto—Lakeshore,1971-03-11,1979-03-25
+ocd-division/country:ca/province:on/fed:toronto-scarborough,Toronto—Scarborough,1925-09-05,1935-08-13
+ocd-division/country:ca/province:on/fed:toronto_centre,Toronto Centre,1872-07-08,1925-09-04
+ocd-division/country:ca/province:on/fed:toronto_centre-rosedale,Toronto Centre—Rosedale,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:toronto_east,Toronto East,1867-08-06,1935-08-13
+ocd-division/country:ca/province:on/fed:toronto_east_centre,Toronto East Centre,1925-09-05,1935-08-13
+ocd-division/country:ca/province:on/fed:toronto_north,Toronto North,1904-09-20,1925-09-04
+ocd-division/country:ca/province:on/fed:toronto_northeast,Toronto Northeast,1925-09-05,1935-08-13
+ocd-division/country:ca/province:on/fed:toronto_northwest,Toronto Northwest,1925-09-05,1935-08-13
+ocd-division/country:ca/province:on/fed:toronto_south,Toronto South,1904-09-20,1935-08-13
+ocd-division/country:ca/province:on/fed:toronto_west,Toronto West,1904-09-20,1925-09-04
+ocd-division/country:ca/province:on/fed:toronto_west_centre,Toronto West Centre,1925-09-05,1935-08-13
+ocd-division/country:ca/province:on/fed:trinity,Trinity,1935-08-14,1988-09-30
+ocd-division/country:ca/province:on/fed:trinity-spadina,Trinity—Spadina,1988-10-01,2015-08-01
+ocd-division/country:ca/province:on/fed:vaughan,Vaughan,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:vaughan-king-aurora,Vaughan—King—Aurora,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:victoria,Victoria,1904-09-20,1968-04-22
+ocd-division/country:ca/province:on/fed:victoria_north,Victoria North,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:victoria_south,Victoria South,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:waterloo,Waterloo,1979-03-26,1997-04-26
+ocd-division/country:ca/province:on/fed:waterloo-cambridge,Waterloo—Cambridge,1973-03-29,1979-03-25
+ocd-division/country:ca/province:on/fed:waterloo-wellington,Waterloo—Wellington,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:waterloo_north,Waterloo North,1867-08-06,1968-04-22
+ocd-division/country:ca/province:on/fed:waterloo_south,Waterloo South,1867-08-06,1968-04-22
+ocd-division/country:ca/province:on/fed:welland,Welland,1867-08-06,1988-09-30
+ocd-division/country:ca/province:on/fed:welland-st._catharines-thorold,Welland—St. Catharines—Thorold,1988-10-01,1997-04-26
+ocd-division/country:ca/province:on/fed:wellington,Wellington,1968-04-23,1979-03-25
+ocd-division/country:ca/province:on/fed:wellington-dufferin-simcoe,Wellington—Dufferin—Simcoe,1979-03-26,1988-09-30
+ocd-division/country:ca/province:on/fed:wellington-grey-dufferin-simcoe,Wellington—Grey—Dufferin—Simcoe,1988-10-01,1997-04-26
+ocd-division/country:ca/province:on/fed:wellington-grey-dufferin-waterloo,Wellington—Grey—Dufferin—Waterloo,1970-06-26,1979-03-25
+ocd-division/country:ca/province:on/fed:wellington-huron,Wellington—Huron,1953-06-13,1968-04-22
+ocd-division/country:ca/province:on/fed:wellington_centre,Wellington Centre,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:wellington_north,Wellington North,1867-08-06,1953-06-12
+ocd-division/country:ca/province:on/fed:wellington_south,Wellington South,1867-08-06,1968-04-22
+ocd-division/country:ca/province:on/fed:wentworth,Wentworth,1904-09-20,1968-04-22
+ocd-division/country:ca/province:on/fed:wentworth_north,Wentworth North,1867-08-06,1896-04-23
+ocd-division/country:ca/province:on/fed:wentworth_north_and_brant,Wentworth North and Brant,1896-04-24,1904-09-19
+ocd-division/country:ca/province:on/fed:wentworth_south,Wentworth South,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:whitby-ajax,Whitby—Ajax,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:whitby-oshawa,Whitby—Oshawa,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:windsor-st._clair,Windsor—St. Clair,1989-12-29,2004-05-22
+ocd-division/country:ca/province:on/fed:windsor-walkerville,Windsor—Walkerville,1968-04-23,1988-09-30
+ocd-division/country:ca/province:on/fed:york-humber,York—Humber,1953-06-13,1968-04-22
+ocd-division/country:ca/province:on/fed:york-peel,York—Peel,1979-03-26,1988-09-30
+ocd-division/country:ca/province:on/fed:york-scarborough,York—Scarborough,1953-06-13,1988-09-30
+ocd-division/country:ca/province:on/fed:york-simcoe,York—Simcoe,1968-04-23,1979-03-25
+ocd-division/country:ca/province:on/fed:york-simcoe-1988,York—Simcoe,1988-10-01,1997-04-26
+ocd-division/country:ca/province:on/fed:york_centre,York Centre,1904-09-20,1917-10-05
+ocd-division/country:ca/province:on/fed:york_east,York East,1867-08-06,1904-09-19
+ocd-division/country:ca/province:on/fed:york_east-1917,York East,1917-10-06,1925-09-04
+ocd-division/country:ca/province:on/fed:york_east-1935,York East,1935-08-14,1988-09-30
+ocd-division/country:ca/province:on/fed:york_north,York North,1867-08-06,2004-05-22
+ocd-division/country:ca/province:on/fed:york_south,York South,1904-09-20,1979-03-25
+ocd-division/country:ca/province:on/fed:york_west,York West,1867-08-06,1904-09-19
+ocd-division/country:ca/province:pe/fed:east_prince,East Prince,1896-04-24,1904-09-19
+ocd-division/country:ca/province:pe/fed:east_queen~s,East Queen's,1896-04-24,1904-09-19
+ocd-division/country:ca/province:pe/fed:hillsborough,Hillsborough,1968-04-23,2004-05-22
+ocd-division/country:ca/province:pe/fed:king~s,King's,1896-04-24,1968-04-22
+ocd-division/country:ca/province:pe/fed:king~s_county,King's County,1873-06-26,1896-04-23
+ocd-division/country:ca/province:pe/fed:prince,Prince,1904-09-20,1968-04-22
+ocd-division/country:ca/province:pe/fed:prince_county,Prince County,1873-06-26,1896-04-23
+ocd-division/country:ca/province:pe/fed:queen~s,Queen's,1904-09-20,1968-04-22
+ocd-division/country:ca/province:pe/fed:queen~s_county,Queen's County,1873-06-26,1896-04-23
+ocd-division/country:ca/province:pe/fed:west_prince,West Prince,1896-04-24,1904-09-19
+ocd-division/country:ca/province:pe/fed:west_queen~s,West Queen's,1896-04-24,1904-09-19
+ocd-division/country:ca/province:qc/fed:abitibi-baie-james-nunavik,Abitibi—Baie-James—Nunavik,1998-06-18,2004-05-22
+ocd-division/country:ca/province:qc/fed:ahuntsic,Ahuntsic,1968-04-23,1979-03-25
+ocd-division/country:ca/province:qc/fed:ahuntsic-1988,Ahuntsic,1988-10-01,2015-08-01
+ocd-division/country:ca/province:qc/fed:anjou-rivière-des-prairies,Anjou—Rivière-des-Prairies,1988-10-01,2004-05-22
+ocd-division/country:ca/province:qc/fed:argenteuil,Argenteuil,1867-08-06,1949-04-29
+ocd-division/country:ca/province:qc/fed:argenteuil-deux-montagnes,Argenteuil—Deux-Montagnes,1949-04-30,1968-04-22
+ocd-division/country:ca/province:qc/fed:argenteuil-deux-montagnes-1970,Argenteuil—Deux-Montagnes,1970-06-26,1979-03-25
+ocd-division/country:ca/province:qc/fed:argenteuil-papineau-mirabel,Argenteuil—Papineau—Mirabel,1999-03-11,2004-05-22
+ocd-division/country:ca/province:qc/fed:argenteuil-papineau-mirabel-2004,Argenteuil—Papineau—Mirabel,2004-09-01,2015-08-01
+ocd-division/country:ca/province:qc/fed:bagot,Bagot,1867-08-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:bas-richelieu-nicolet-bécancour,Bas-Richelieu—Nicolet—Bécancour,1998-06-18,2004-05-22
+ocd-division/country:ca/province:qc/fed:beauharnois,Beauharnois,1867-08-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:beauharnois-1949,Beauharnois,1949-04-30,1953-06-12
+ocd-division/country:ca/province:qc/fed:beauharnois-laprairie,Beauharnois—Laprairie,1935-08-14,1949-04-29
+ocd-division/country:ca/province:qc/fed:beauharnois-salaberry,Beauharnois—Salaberry,1953-06-13,1968-04-22
+ocd-division/country:ca/province:qc/fed:beauharnois-salaberry-1971,Beauharnois—Salaberry,1971-03-11,1979-03-25
+ocd-division/country:ca/province:qc/fed:beauharnois-salaberry-1979,Beauharnois—Salaberry,1979-03-26,2015-08-01
+ocd-division/country:ca/province:qc/fed:beauport-montmorency-côte-de-beaupré-île-d~orléans,Beauport—Montmorency—Côte-de-Beaupré—Île-d'Orléans,1998-06-18,2004-05-22
+ocd-division/country:ca/province:qc/fed:bellechasse,Bellechasse,1867-08-06,1997-04-26
+ocd-division/country:ca/province:qc/fed:bellechasse-etchemins-montmagny-l~islet,Bellechasse—Etchemins—Montmagny—L'Islet,1997-04-27,2004-05-22
+ocd-division/country:ca/province:qc/fed:berthier,Berthier,1867-08-06,1925-09-04
+ocd-division/country:ca/province:qc/fed:berthier-maskinongé,Berthier—Maskinongé,1925-09-05,1953-06-12
+ocd-division/country:ca/province:qc/fed:berthier-maskinongé-de_lanaudière,Berthier—Maskinongé—de Lanaudière,1953-06-13,1968-04-22
+ocd-division/country:ca/province:qc/fed:berthier-maskinongé-lanaudière,Berthier—Maskinongé—Lanaudière,1981-01-17,1988-09-30
+ocd-division/country:ca/province:qc/fed:berthier-montcalm,Berthier—Montcalm,1988-10-01,2004-05-22
+ocd-division/country:ca/province:qc/fed:blainville-deux-montagnes,Blainville—Deux-Montagnes,1979-03-26,1997-04-26
+ocd-division/country:ca/province:qc/fed:bonaventure-gaspé-îles-de-la-madeleine-pabok,Bonaventure—Gaspé—Îles-de-la-Madeleine—Pabok,1997-04-27,2004-05-22
+ocd-division/country:ca/province:qc/fed:bonaventure-îles-de-la-madeleine,Bonaventure—Îles-de-la-Madeleine,1971-03-11,1997-04-26
+ocd-division/country:ca/province:qc/fed:brome,Brome,1867-08-06,1925-09-04
+ocd-division/country:ca/province:qc/fed:brome-missisquoi,Brome—Missisquoi,1925-09-05,1968-04-22
+ocd-division/country:ca/province:qc/fed:brome-missisquoi-1970,Brome—Missisquoi,1970-06-26,1979-03-25
+ocd-division/country:ca/province:qc/fed:brossard-la_prairie,Brossard—La Prairie,1997-04-27,2015-08-01
+ocd-division/country:ca/province:qc/fed:cartier,Cartier,1925-09-05,1968-04-22
+ocd-division/country:ca/province:qc/fed:chambly,Chambly,1968-04-23,2004-05-22
+ocd-division/country:ca/province:qc/fed:chambly-borduas,Chambly—Borduas,2004-05-23,2015-08-01
+ocd-division/country:ca/province:qc/fed:chambly-rouville,Chambly—Rouville,1935-08-14,1968-04-22
+ocd-division/country:ca/province:qc/fed:chambly-verchères,Chambly—Verchères,1893-04-01,1935-08-13
+ocd-division/country:ca/province:qc/fed:champlain,Champlain,1867-08-06,2004-05-22
+ocd-division/country:ca/province:qc/fed:chapleau,Chapleau,1935-08-14,1968-04-22
+ocd-division/country:ca/province:qc/fed:charlesbourg-jacques-cartier,Charlesbourg—Jacques-Cartier,2000-06-29,2004-05-22
+ocd-division/country:ca/province:qc/fed:charlevoix,Charlevoix,1867-08-06,1917-10-05
+ocd-division/country:ca/province:qc/fed:charlevoix-1949,Charlevoix,1949-04-30,2004-05-22
+ocd-division/country:ca/province:qc/fed:charlevoix-montmorency,Charlevoix—Montmorency,1917-10-06,1925-09-04
+ocd-division/country:ca/province:qc/fed:charlevoix-saguenay,Charlevoix—Saguenay,1925-09-05,1949-04-29
+ocd-division/country:ca/province:qc/fed:chicoutimi-saguenay,Chicoutimi—Saguenay,1867-08-06,1925-09-04
+ocd-division/country:ca/province:qc/fed:châteauguay,Châteauguay,1867-08-06,1917-10-05
+ocd-division/country:ca/province:qc/fed:châteauguay-1979,Châteauguay,1979-03-26,2004-05-22
+ocd-division/country:ca/province:qc/fed:châteauguay-huntingdon,Châteauguay—Huntingdon,1917-10-06,1949-04-29
+ocd-division/country:ca/province:qc/fed:châteauguay-huntingdon-laprairie,Châteauguay—Huntingdon—Laprairie,1949-04-30,1968-04-22
+ocd-division/country:ca/province:qc/fed:châteauguay-saint-constant,Châteauguay—Saint-Constant,2004-05-23,2015-08-01
+ocd-division/country:ca/province:qc/fed:compton,Compton,1867-08-06,1949-04-29
+ocd-division/country:ca/province:qc/fed:compton-frontenac,Compton—Frontenac,1949-04-30,1968-04-22
+ocd-division/country:ca/province:qc/fed:dollard,Dollard,1953-06-13,1988-09-30
+ocd-division/country:ca/province:qc/fed:dorchester,Dorchester,1867-08-06,1968-04-22
+ocd-division/country:ca/province:qc/fed:drummond-arthabaska,Drummond—Arthabaska,1867-08-06,1968-04-22
+ocd-division/country:ca/province:qc/fed:frontenac,Frontenac,1968-04-23,1997-04-26
+ocd-division/country:ca/province:qc/fed:frontenac-mégantic,Frontenac—Mégantic,1997-04-27,2004-05-22
+ocd-division/country:ca/province:qc/fed:gamelin,Gamelin,1968-04-23,1988-09-30
+ocd-division/country:ca/province:qc/fed:gaspé,Gaspé,1867-08-06,1997-04-26
+ocd-division/country:ca/province:qc/fed:gaspésie-îles-de-la-madeleine,Gaspésie—Îles-de-la-Madeleine,2004-05-23,2015-08-01
+ocd-division/country:ca/province:qc/fed:gatineau,Gatineau,1949-04-30,1988-09-30
+ocd-division/country:ca/province:qc/fed:gatineau-la_lièvre,Gatineau—La Lièvre,1988-10-01,1997-04-26
+ocd-division/country:ca/province:qc/fed:george-étienne_cartier,George-Étienne Cartier,1917-10-06,1925-09-04
+ocd-division/country:ca/province:qc/fed:haute-gaspésie-la_mitis-matane-matapédia,Haute-Gaspésie—La Mitis—Matane—Matapédia,2004-09-01,2015-08-01
+ocd-division/country:ca/province:qc/fed:hochelaga-maisonneuve,Hochelaga—Maisonneuve,1979-03-26,2004-05-22
+ocd-division/country:ca/province:qc/fed:huntingdon,Huntingdon,1867-08-06,1917-10-05
+ocd-division/country:ca/province:qc/fed:iberville,Iberville,1867-08-06,1896-04-23
+ocd-division/country:ca/province:qc/fed:jacques-cartier-lasalle,Jacques-Cartier—Lasalle,1953-06-13,1968-04-22
+ocd-division/country:ca/province:qc/fed:jacques_cartier,Jacques Cartier,1867-08-06,1953-06-12
+ocd-division/country:ca/province:qc/fed:jeanne-le_ber,Jeanne-Le Ber,2004-05-23,2015-08-01
+ocd-division/country:ca/province:qc/fed:joliette,Joliette,1867-08-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:joliette-l~assomption-montcalm,Joliette—l'Assomption—Montcalm,1935-08-14,1968-04-22
+ocd-division/country:ca/province:qc/fed:jonquière,Jonquière,1979-03-26,2004-05-22
+ocd-division/country:ca/province:qc/fed:jonquière-alma,Jonquière—Alma,2004-05-23,2015-08-01
+ocd-division/country:ca/province:qc/fed:kamouraska,Kamouraska,1867-08-06,1979-03-25
+ocd-division/country:ca/province:qc/fed:kamouraska-rivière-du-loup,Kamouraska—Rivière-du-Loup,1979-03-26,1997-04-26
+ocd-division/country:ca/province:qc/fed:kamouraska-rivière-du-loup-témiscouata-les_basques,Kamouraska—Rivière-du-Loup—Témiscouata—Les Basques,1997-04-27,2004-05-22
+ocd-division/country:ca/province:qc/fed:labelle,Labelle,1896-04-24,1988-09-30
+ocd-division/country:ca/province:qc/fed:lac-saint-jean-saguenay,Lac-Saint-Jean—Saguenay,2000-06-29,2004-05-22
+ocd-division/country:ca/province:qc/fed:lachine,Lachine,1979-03-26,1988-09-30
+ocd-division/country:ca/province:qc/fed:lachine-lac-saint-louis,Lachine—Lac-Saint-Louis,1988-10-01,1997-04-26
+ocd-division/country:ca/province:qc/fed:lachine-lakeshore,Lachine—Lakeshore,1973-03-29,1979-03-25
+ocd-division/country:ca/province:qc/fed:lafontaine-rosemont,Lafontaine—Rosemont,1975-03-13,1979-03-25
+ocd-division/country:ca/province:qc/fed:lake_st-john-roberval,Lake St-John—Roberval,1935-08-14,1949-04-29
+ocd-division/country:ca/province:qc/fed:lake_st._john,Lake St. John,1925-09-05,1935-08-13
+ocd-division/country:ca/province:qc/fed:lapointe,Lapointe,1949-04-30,1979-03-25
+ocd-division/country:ca/province:qc/fed:laprairie,Laprairie,1867-08-06,1896-04-23
+ocd-division/country:ca/province:qc/fed:laprairie-napierville,Laprairie—Napierville,1896-04-24,1935-08-13
+ocd-division/country:ca/province:qc/fed:lasalle,Lasalle,1979-03-26,1988-09-30
+ocd-division/country:ca/province:qc/fed:lasalle-émard,LaSalle—Émard,1988-10-01,2015-08-01
+ocd-division/country:ca/province:qc/fed:lasalle-émard-côte_saint-paul,Lasalle—Émard—Côte Saint-Paul,1973-12-12,1979-03-25
+ocd-division/country:ca/province:qc/fed:laurentides,Laurentides,1988-10-01,2004-05-22
+ocd-division/country:ca/province:qc/fed:laurier,Laurier,1935-08-14,1988-09-30
+ocd-division/country:ca/province:qc/fed:laurier-outremont,Laurier—Outremont,1917-10-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:laurier-sainte-marie,Laurier—Sainte-Marie,1988-10-01,2004-05-22
+ocd-division/country:ca/province:qc/fed:laval,Laval,1867-08-06,1917-10-05
+ocd-division/country:ca/province:qc/fed:laval-1949,Laval,1949-04-30,1979-03-25
+ocd-division/country:ca/province:qc/fed:laval-2004,Laval,2004-05-23,2015-08-01
+ocd-division/country:ca/province:qc/fed:laval-two_mountains,Laval—Two Mountains,1917-10-06,1949-04-29
+ocd-division/country:ca/province:qc/fed:laval_centre,Laval Centre,1990-12-19,2004-05-22
+ocd-division/country:ca/province:qc/fed:laval_east,Laval East,1990-12-19,2004-05-22
+ocd-division/country:ca/province:qc/fed:laval_west,Laval West,1990-12-19,2004-05-22
+ocd-division/country:ca/province:qc/fed:longueuil-pierre-boucher,Longueuil—Pierre-Boucher,2004-09-01,2015-08-01
+ocd-division/country:ca/province:qc/fed:lotbinière-chutes-de-la-chaudière,Lotbinière—Chutes-de-la-Chaudière,2004-05-23,2015-08-01
+ocd-division/country:ca/province:qc/fed:lotbinière-l~érable,Lotbinière—L'Érable,2000-06-29,2004-05-22
+ocd-division/country:ca/province:qc/fed:l~assomption,L'Assomption,1867-08-06,1917-10-05
+ocd-division/country:ca/province:qc/fed:l~assomption-montcalm,L'Assomption—Montcalm,1917-10-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:l~islet,L'Islet,1867-08-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:lévis-et-chutes-de-la-chaudière,Lévis-et-Chutes-de-la-Chaudière,1998-06-18,2004-05-22
+ocd-division/country:ca/province:qc/fed:maisonneuve,Maisonneuve,1896-04-24,1935-08-13
+ocd-division/country:ca/province:qc/fed:maisonneuve-rosemont,Maisonneuve—Rosemont,1935-08-14,1968-04-22
+ocd-division/country:ca/province:qc/fed:maisonneuve-rosemont-1970,Maisonneuve—Rosemont,1970-06-26,1979-03-25
+ocd-division/country:ca/province:qc/fed:maskinongé,Maskinongé,1867-08-06,1925-09-04
+ocd-division/country:ca/province:qc/fed:matane,Matane,1917-10-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:matane-1968,Matane,1968-04-23,1979-03-25
+ocd-division/country:ca/province:qc/fed:matapédia-matane,Matapédia—Matane,1935-08-14,1968-04-22
+ocd-division/country:ca/province:qc/fed:mercier,Mercier,1988-10-01,2004-05-22
+ocd-division/country:ca/province:qc/fed:missisquoi,Missisquoi,1867-08-06,1925-09-04
+ocd-division/country:ca/province:qc/fed:montcalm,Montcalm,1867-08-06,1917-10-05
+ocd-division/country:ca/province:qc/fed:montmagny,Montmagny,1867-08-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:montmagny-l~islet,Montmagny—l'Islet,1935-08-14,1968-04-22
+ocd-division/country:ca/province:qc/fed:montmorency,Montmorency,1867-08-06,1917-10-05
+ocd-division/country:ca/province:qc/fed:montreal-bourassa,Montreal—Bourassa,1971-03-11,1979-03-25
+ocd-division/country:ca/province:qc/fed:montreal-mercier,Montreal—Mercier,1981-01-17,1988-09-30
+ocd-division/country:ca/province:qc/fed:montreal-sainte_marie,Montreal—Sainte Marie,1981-01-17,1988-09-30
+ocd-division/country:ca/province:qc/fed:montreal_centre,Montreal Centre,1867-08-06,1896-04-23
+ocd-division/country:ca/province:qc/fed:montreal_east,Montreal East,1867-08-06,1896-04-23
+ocd-division/country:ca/province:qc/fed:montreal_west,Montreal West,1867-08-06,1896-04-23
+ocd-division/country:ca/province:qc/fed:mount_royal,Mount Royal,1925-09-05,1968-04-22
+ocd-division/country:ca/province:qc/fed:mount_royal-1968,Mount Royal,1968-04-23,1988-09-30
+ocd-division/country:ca/province:qc/fed:mégantic,Mégantic,1867-08-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:mégantic-1949,Mégantic,1949-04-30,1968-04-22
+ocd-division/country:ca/province:qc/fed:mégantic-compton-stanstead,Mégantic—Compton—Stanstead,1979-03-26,1997-04-26
+ocd-division/country:ca/province:qc/fed:mégantic-frontenac,Mégantic—Frontenac,1935-08-14,1949-04-29
+ocd-division/country:ca/province:qc/fed:napierville,Napierville,1867-08-06,1896-04-23
+ocd-division/country:ca/province:qc/fed:nicolet,Nicolet,1867-08-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:nicolet-yamaska,Nicolet—Yamaska,1935-08-14,1968-04-22
+ocd-division/country:ca/province:qc/fed:notre-dame-de-grâce,Notre-Dame-de-Grâce,1988-10-01,1997-04-26
+ocd-division/country:ca/province:qc/fed:notre-dame-de-grâce-lachine,Notre-Dame-de-Grâce—Lachine,1997-04-27,2015-08-01
+ocd-division/country:ca/province:qc/fed:notre-dame-de-grâce-lachine_east,Notre-Dame-de-Grâce—Lachine East,1981-01-17,1988-09-30
+ocd-division/country:ca/province:qc/fed:ottawa_county_of,Ottawa (County of),1867-08-06,1896-04-23
+ocd-division/country:ca/province:qc/fed:outremont,Outremont,1935-08-14,1949-04-29
+ocd-division/country:ca/province:qc/fed:outremont-st-jean,Outremont—St-Jean,1949-04-30,1968-04-22
+ocd-division/country:ca/province:qc/fed:papineau,Papineau,1949-04-30,1988-09-30
+ocd-division/country:ca/province:qc/fed:papineau-saint-denis,Papineau—Saint-Denis,1997-04-27,2004-05-22
+ocd-division/country:ca/province:qc/fed:papineau-saint-michel,Papineau—Saint-Michel,1988-10-01,1997-04-26
+ocd-division/country:ca/province:qc/fed:pontiac,Pontiac,1867-08-06,1949-04-29
+ocd-division/country:ca/province:qc/fed:pontiac-gatineau-labelle,Pontiac—Gatineau—Labelle,1979-03-26,2004-05-22
+ocd-division/country:ca/province:qc/fed:pontiac-témiscamingue,Pontiac—Témiscamingue,1949-04-30,1968-04-22
+ocd-division/country:ca/province:qc/fed:quebec-centre,Quebec-Centre,1867-08-06,1917-10-05
+ocd-division/country:ca/province:qc/fed:quebec_county,Quebec County,1867-08-06,1925-09-04
+ocd-division/country:ca/province:qc/fed:quebec_south,Quebec South,1917-10-06,1968-04-22
+ocd-division/country:ca/province:qc/fed:quebec_west,Quebec West,1867-08-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:quebec_west-1949,Quebec West,1949-04-30,1968-04-22
+ocd-division/country:ca/province:qc/fed:quebec_west_and_south,Quebec West and South,1935-08-14,1949-04-29
+ocd-division/country:ca/province:qc/fed:québec-montmorency,Québec—Montmorency,1925-09-05,1968-04-22
+ocd-division/country:ca/province:qc/fed:québec_east,Québec East,1997-04-27,2004-05-22
+ocd-division/country:ca/province:qc/fed:richelieu,Richelieu,1867-08-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:richelieu-verchères,Richelieu—Verchères,1935-08-14,1968-04-22
+ocd-division/country:ca/province:qc/fed:richmond-wolfe,Richmond—Wolfe,1867-08-06,1968-04-22
+ocd-division/country:ca/province:qc/fed:richmond-wolfe-1981,Richmond—Wolfe,1981-01-17,1997-04-26
+ocd-division/country:ca/province:qc/fed:rimouski-neigette-et-la_mitis,Rimouski-Neigette-et-La Mitis,2000-06-29,2004-05-22
+ocd-division/country:ca/province:qc/fed:rivière-du-loup-témiscouata,Rivière-du-Loup—Témiscouata,1959-06-04,1968-04-22
+ocd-division/country:ca/province:qc/fed:rivière-du-loup-témiscouata-1972,Rivière-du-Loup—Témiscouata,1972-03-29,1979-03-25
+ocd-division/country:ca/province:qc/fed:roberval-lac-saint-jean,Roberval—Lac-Saint-Jean,2004-09-01,2015-08-01
+ocd-division/country:ca/province:qc/fed:rouville,Rouville,1867-08-06,1917-10-05
+ocd-division/country:ca/province:qc/fed:saguenay,Saguenay,1949-04-30,1968-04-22
+ocd-division/country:ca/province:qc/fed:saint-antoine-westmount,Saint-Antoine—Westmount,1953-06-13,1968-04-22
+ocd-division/country:ca/province:qc/fed:saint-bruno-saint-hubert,Saint-Bruno—Saint-Hubert,1997-04-27,2015-08-01
+ocd-division/country:ca/province:qc/fed:saint-hyacinthe-bagot,Saint-Hyacinthe—Bagot,1949-04-30,1968-04-22
+ocd-division/country:ca/province:qc/fed:saint-jacques,Saint-Jacques,1953-06-13,1979-03-25
+ocd-division/country:ca/province:qc/fed:saint-jacques-1979,Saint-Jacques,1979-03-26,1988-09-30
+ocd-division/country:ca/province:qc/fed:saint-jean-iberville-napierville,Saint-Jean—Iberville—Napierville,1949-04-30,1968-04-22
+ocd-division/country:ca/province:qc/fed:saint-lambert,Saint-Lambert,1997-04-27,2015-08-01
+ocd-division/country:ca/province:qc/fed:saint-laurent-cartierville,Saint-Laurent—Cartierville,1989-12-29,2015-08-01
+ocd-division/country:ca/province:qc/fed:saint-léonard-anjou,Saint-Léonard—Anjou,1979-03-26,1988-09-30
+ocd-division/country:ca/province:qc/fed:saint-maurice,Saint-Maurice,1968-04-23,2004-05-22
+ocd-division/country:ca/province:qc/fed:saint-maurice-laflèche,Saint-Maurice—Laflèche,1949-04-30,1968-04-22
+ocd-division/country:ca/province:qc/fed:saint-michel-ahuntsic,Saint-Michel—Ahuntsic,1984-07-09,1988-09-30
+ocd-division/country:ca/province:qc/fed:saint_maurice,Saint Maurice,1867-08-06,1896-04-23
+ocd-division/country:ca/province:qc/fed:sainte-marie,Sainte-Marie,1953-06-13,1979-03-25
+ocd-division/country:ca/province:qc/fed:sherbrooke_town_of,Sherbrooke (Town of),1867-08-06,1925-09-04
+ocd-division/country:ca/province:qc/fed:soulanges,Soulanges,1867-08-06,1917-10-05
+ocd-division/country:ca/province:qc/fed:st-denis,St-Denis,1949-04-30,1953-06-12
+ocd-division/country:ca/province:qc/fed:st-henri,St-Henri,1949-04-30,1953-06-12
+ocd-division/country:ca/province:qc/fed:st._ann,St. Ann,1917-10-06,1968-04-22
+ocd-division/country:ca/province:qc/fed:st._antoine,St. Antoine,1896-04-24,1935-08-13
+ocd-division/country:ca/province:qc/fed:st._antoine-westmount,St. Antoine—Westmount,1935-08-14,1949-04-29
+ocd-division/country:ca/province:qc/fed:st._antoine-westmount-1949,St. Antoine—Westmount,1949-04-30,1953-06-12
+ocd-division/country:ca/province:qc/fed:st._denis,St. Denis,1917-10-06,1949-04-29
+ocd-division/country:ca/province:qc/fed:st._henry,St. Henry,1935-08-14,1949-04-29
+ocd-division/country:ca/province:qc/fed:st._hyacinthe,St. Hyacinthe,1867-08-06,1917-10-05
+ocd-division/country:ca/province:qc/fed:st._hyacinthe-rouville,St. Hyacinthe—Rouville,1917-10-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:st._james,St. James,1896-04-24,1949-04-29
+ocd-division/country:ca/province:qc/fed:st._james-1949,St. James,1949-04-30,1953-06-12
+ocd-division/country:ca/province:qc/fed:st._johns-iberville,St. Johns—Iberville,1896-04-24,1935-08-13
+ocd-division/country:ca/province:qc/fed:st._johns-iberville-napierville,St. Johns—Iberville—Napierville,1935-08-14,1949-04-29
+ocd-division/country:ca/province:qc/fed:st._john~s,St. John's,1867-08-06,1896-04-23
+ocd-division/country:ca/province:qc/fed:st._lawrence,St. Lawrence,1896-04-24,1917-10-05
+ocd-division/country:ca/province:qc/fed:st._lawrence-st._george,St. Lawrence—St. George,1917-10-06,1949-04-29
+ocd-division/country:ca/province:qc/fed:st._lawrence-st._george-1949,St. Lawrence—St. George,1949-04-30,1953-06-12
+ocd-division/country:ca/province:qc/fed:st._lawrence-st._george-1953,St. Lawrence—St. George,1953-06-13,1968-04-22
+ocd-division/country:ca/province:qc/fed:st._mary,St. Mary,1896-04-24,1949-04-29
+ocd-division/country:ca/province:qc/fed:st._mary-1949,St. Mary,1949-04-30,1953-06-12
+ocd-division/country:ca/province:qc/fed:stanstead,Stanstead,1867-08-06,1968-04-22
+ocd-division/country:ca/province:qc/fed:terrebonne-blainville,Terrebonne—Blainville,1997-04-27,2015-08-01
+ocd-division/country:ca/province:qc/fed:three_rivers,Three Rivers,1935-08-14,1949-04-29
+ocd-division/country:ca/province:qc/fed:three_rivers-st._maurice,Three Rivers—St. Maurice,1925-09-05,1935-08-13
+ocd-division/country:ca/province:qc/fed:trois-rivières_métropolitain,Trois-Rivières Métropolitain,1972-03-29,1979-03-25
+ocd-division/country:ca/province:qc/fed:two_mountains,Two Mountains,1867-08-06,1917-10-05
+ocd-division/country:ca/province:qc/fed:témiscamingue,Témiscamingue,1968-04-23,1997-04-26
+ocd-division/country:ca/province:qc/fed:vaudreuil,Vaudreuil,1867-08-06,1917-10-05
+ocd-division/country:ca/province:qc/fed:vaudreuil-soulanges,Vaudreuil—Soulanges,1917-10-06,1968-04-22
+ocd-division/country:ca/province:qc/fed:vaudreuil-soulanges-1997,Vaudreuil—Soulanges,1997-04-27,2015-08-01
+ocd-division/country:ca/province:qc/fed:verchères,Verchères,1867-08-06,1896-04-23
+ocd-division/country:ca/province:qc/fed:verchères-les_patriotes,Verchères—Les Patriotes,1998-06-18,2015-08-01
+ocd-division/country:ca/province:qc/fed:verdun,Verdun,1935-08-14,1949-04-29
+ocd-division/country:ca/province:qc/fed:verdun-la_salle,Verdun—La Salle,1949-04-30,1953-06-12
+ocd-division/country:ca/province:qc/fed:verdun-saint-henri-saint-paul-pointe_saint-charles,Verdun—Saint-Henri—Saint-Paul—Pointe Saint-Charles,2000-06-29,2004-05-22
+ocd-division/country:ca/province:qc/fed:villeneuve,Villeneuve,1949-04-30,1979-03-25
+ocd-division/country:ca/province:qc/fed:westmount-st._henri,Westmount—St. Henri,1917-10-06,1925-09-04
+ocd-division/country:ca/province:qc/fed:westmount-ville-marie,Westmount—Ville-Marie,1997-04-27,2015-08-01
+ocd-division/country:ca/province:qc/fed:wright,Wright,1896-04-24,1949-04-29
+ocd-division/country:ca/province:qc/fed:yamaska,Yamaska,1867-08-06,1935-08-13
+ocd-division/country:ca/province:qc/fed:îles-de-la-madeleine,Îles-de-la-Madeleine,1949-04-30,1968-04-22
+ocd-division/country:ca/province:sk/fed:assiniboia,Assiniboia,1908-09-17,1988-09-30
+ocd-division/country:ca/province:sk/fed:battleford,Battleford,1908-09-17,1925-09-04
+ocd-division/country:ca/province:sk/fed:battleford-kindersley,Battleford—Kindersley,1968-04-23,1979-03-25
+ocd-division/country:ca/province:sk/fed:blackstrap,Blackstrap,1997-04-27,2015-08-01
+ocd-division/country:ca/province:sk/fed:humboldt,Humboldt,1908-09-17,1953-06-12
+ocd-division/country:ca/province:sk/fed:humboldt-lake_centre,Humboldt—Lake Centre,1979-03-26,1988-09-30
+ocd-division/country:ca/province:sk/fed:humboldt-melfort-tisdale,Humboldt—Melfort—Tisdale,1961-06-01,1968-04-22
+ocd-division/country:ca/province:sk/fed:kindersley,Kindersley,1917-10-06,1968-04-22
+ocd-division/country:ca/province:sk/fed:kindersley-lloydminster,Kindersley—Lloydminster,1979-03-26,1997-04-26
+ocd-division/country:ca/province:sk/fed:lake_centre,Lake Centre,1935-08-14,1953-06-12
+ocd-division/country:ca/province:sk/fed:last_mountain,Last Mountain,1917-10-06,1935-08-13
+ocd-division/country:ca/province:sk/fed:long_lake,Long Lake,1925-09-05,1935-08-13
+ocd-division/country:ca/province:sk/fed:mackenzie,Mackenzie,1908-09-17,1997-04-26
+ocd-division/country:ca/province:sk/fed:maple_creek,Maple Creek,1917-10-06,1953-06-12
+ocd-division/country:ca/province:sk/fed:meadow_lake,Meadow Lake,1949-04-30,1979-03-25
+ocd-division/country:ca/province:sk/fed:melfort,Melfort,1925-09-05,1953-06-12
+ocd-division/country:ca/province:sk/fed:melville,Melville,1925-09-05,1968-04-22
+ocd-division/country:ca/province:sk/fed:moose_jaw,Moose Jaw,1908-09-17,1953-06-12
+ocd-division/country:ca/province:sk/fed:moose_jaw-1968,Moose Jaw,1968-04-23,1988-09-30
+ocd-division/country:ca/province:sk/fed:moose_jaw-lake_centre,Moose Jaw—Lake Centre,1953-06-13,1968-04-22
+ocd-division/country:ca/province:sk/fed:moose_jaw-lake_centre-1988,Moose Jaw—Lake Centre,1988-10-01,1997-04-26
+ocd-division/country:ca/province:sk/fed:moose_mountain,Moose Mountain,1949-04-30,1968-04-22
+ocd-division/country:ca/province:sk/fed:north_battleford,North Battleford,1917-10-06,1949-04-29
+ocd-division/country:ca/province:sk/fed:palliser,Palliser,1997-04-27,2015-08-01
+ocd-division/country:ca/province:sk/fed:prince_albert,Prince Albert,1908-09-17,1988-09-30
+ocd-division/country:ca/province:sk/fed:prince_albert-churchill_river,Prince Albert—Churchill River,1988-10-01,1997-04-26
+ocd-division/country:ca/province:sk/fed:qu~appelle,Qu'Appelle,1908-09-17,1968-04-22
+ocd-division/country:ca/province:sk/fed:qu~appelle-moose_mountain,Qu'Appelle—Moose Mountain,1968-04-23,1988-09-30
+ocd-division/country:ca/province:sk/fed:regina,Regina,1908-09-17,1935-08-13
+ocd-division/country:ca/province:sk/fed:regina-lake_centre,Regina—Lake Centre,1968-04-23,1979-03-25
+ocd-division/country:ca/province:sk/fed:regina-lumsden,Regina—Lumsden,1988-10-01,1997-04-26
+ocd-division/country:ca/province:sk/fed:regina-lumsden-lake_centre,Regina—Lumsden—Lake Centre,1997-04-27,2015-08-01
+ocd-division/country:ca/province:sk/fed:regina-qu~appelle,Regina—Qu'Appelle,1988-10-01,1997-04-26
+ocd-division/country:ca/province:sk/fed:regina-wascana,Regina—Wascana,1988-10-01,1997-04-26
+ocd-division/country:ca/province:sk/fed:regina_city,Regina City,1935-08-14,1968-04-22
+ocd-division/country:ca/province:sk/fed:regina_east,Regina East,1968-04-23,1988-09-30
+ocd-division/country:ca/province:sk/fed:regina_west,Regina West,1979-03-26,1988-09-30
+ocd-division/country:ca/province:sk/fed:rosetown,Rosetown,1925-09-05,1935-08-13
+ocd-division/country:ca/province:sk/fed:rosetown-biggar,Rosetown—Biggar,1935-08-14,1968-04-22
+ocd-division/country:ca/province:sk/fed:rosthern,Rosthern,1935-08-14,1968-04-22
+ocd-division/country:ca/province:sk/fed:saltcoats,Saltcoats,1908-09-17,1925-09-04
+ocd-division/country:ca/province:sk/fed:saskatchewan,Saskatchewan,1905,1907
+ocd-division/country:ca/province:sk/fed:saskatoon,Saskatoon,1908-09-17,1935-08-13
+ocd-division/country:ca/province:sk/fed:saskatoon-1949,Saskatoon,1949-04-30,1968-04-22
+ocd-division/country:ca/province:sk/fed:saskatoon-biggar,Saskatoon—Biggar,1968-04-23,1979-03-25
+ocd-division/country:ca/province:sk/fed:saskatoon-clark~s_crossing,Saskatoon—Clark's Crossing,1988-10-01,1997-04-26
+ocd-division/country:ca/province:sk/fed:saskatoon-dundurn,Saskatoon—Dundurn,1988-10-01,1997-04-26
+ocd-division/country:ca/province:sk/fed:saskatoon-humboldt,Saskatoon—Humboldt,1968-04-23,1979-03-25
+ocd-division/country:ca/province:sk/fed:saskatoon-humboldt-1988,Saskatoon—Humboldt,1988-10-01,2015-08-01
+ocd-division/country:ca/province:sk/fed:saskatoon-rosetown-biggar,Saskatoon—Rosetown—Biggar,1997-04-27,2015-08-01
+ocd-division/country:ca/province:sk/fed:saskatoon-wanuskewin,Saskatoon—Wanuskewin,2000-06-29,2015-08-01
+ocd-division/country:ca/province:sk/fed:saskatoon_city,Saskatoon City,1935-08-14,1949-04-29
+ocd-division/country:ca/province:sk/fed:saskatoon_east,Saskatoon East,1979-03-26,1988-09-30
+ocd-division/country:ca/province:sk/fed:saskatoon_west,Saskatoon West,1979-03-26,1988-09-30
+ocd-division/country:ca/province:sk/fed:south_battleford,South Battleford,1925-09-05,1935-08-13
+ocd-division/country:ca/province:sk/fed:swift_current-maple_creek,Swift Current—Maple Creek,1953-02-11,1988-09-30
+ocd-division/country:ca/province:sk/fed:swift_current-maple_creek-assiniboia,Swift Current—Maple Creek—Assiniboia,1988-10-01,1997-04-26
+ocd-division/country:ca/province:sk/fed:the_battlefords,The Battlefords,1935-08-14,1968-04-22
+ocd-division/country:ca/province:sk/fed:the_battlefords-meadow_lake,The Battlefords—Meadow Lake,1979-03-26,1997-04-26
+ocd-division/country:ca/province:sk/fed:wascana,Wascana,1997-04-27,2015-08-01
+ocd-division/country:ca/province:sk/fed:weyburn,Weyburn,1917-10-06,1949-04-29
+ocd-division/country:ca/province:sk/fed:willow_bunch,Willow Bunch,1925-09-05,1935-08-13
+ocd-division/country:ca/province:sk/fed:wood_mountain,Wood Mountain,1935-08-14,1949-04-29
+ocd-division/country:ca/province:sk/fed:yorkton,Yorkton,1925-09-05,1968-04-22
+ocd-division/country:ca/territory:nt/fed:alberta_provisional_district,Alberta (Provisional District),1886-06-02,1908-09-16
+ocd-division/country:ca/territory:nt/fed:assiniboia_east,Assiniboia East,1886-06-02,1908-09-16
+ocd-division/country:ca/territory:nt/fed:assiniboia_west,Assiniboia West,1886-06-02,1908-09-16
+ocd-division/country:ca/territory:nt/fed:calgary,Calgary,1904-09-20,1908-09-16
+ocd-division/country:ca/territory:nt/fed:edmonton,Edmonton,1904-09-20,1908-09-16
+ocd-division/country:ca/territory:nt/fed:humboldt,Humboldt,1904-09-20,1908-09-16
+ocd-division/country:ca/territory:nt/fed:mackenzie,Mackenzie,1904-09-20,1908-09-16
+ocd-division/country:ca/territory:nt/fed:mackenzie_river,Mackenzie River,1953-06-13,1962-04-07
+ocd-division/country:ca/territory:nt/fed:northwest_territories,Northwest Territories,1962-03-23,1979-03-25
+ocd-division/country:ca/territory:nt/fed:nunatsiaq,Nunatsiaq,1979-03-26,1997-04-26
+ocd-division/country:ca/territory:nt/fed:qu~appelle,Qu'Appelle,1904-09-20,1908-09-16
+ocd-division/country:ca/territory:nt/fed:saskatchewan_provisional_district,Saskatchewan (Provisional District),1886-06-02,1908-09-16
+ocd-division/country:ca/territory:nt/fed:strathcona,Strathcona,1904-09-20,1908-09-16
+ocd-division/country:ca/territory:nt/fed:western_arctic,Western Arctic,1979-03-26,2015-08-01
+ocd-division/country:ca/territory:nt/fed:yukon-mackenzie_river,Yukon—Mackenzie River,1949-04-30,1953-06-12
+ocd-division/country:ca/territory:yt/fed:yukon,Yukon,1902-01-01,1949-04-29
+ocd-division/country:ca/province:ab/fed:calgary,Calgary,1908-09-17,1917-10-05
+ocd-division/country:ca/province:ab/fed:east_calgary,East Calgary,1917-10-06,1925-09-04
+ocd-division/country:ca/province:bc/fed:cariboo_district,Cariboo District,1871-05-16,1872-07-07
+ocd-division/country:ca/province:bc/fed:victoria_district,Victoria District,1871-05-16,1872-07-07
+ocd-division/country:ca/province:bc/fed:westminster_district,Westminster District,1917-10-06,1919-04-02
+ocd-division/country:ca/province:bc/fed:yale_district,Yale District,1871-05-16,1872-07-07
+ocd-division/country:ca/province:mb/fed:st._boniface,St. Boniface,1925-09-05,1997-04-26
+ocd-division/country:ca/province:nl/fed:st._john~s_north,St. John's North,2004-05-23,2004-08-31
+ocd-division/country:ca/province:nl/fed:st._john~s_south,St. John's South,2004-05-23,2004-08-31
+ocd-division/country:ca/province:ns/fed:annapolis_valley-hants,Annapolis Valley—Hants,1979-03-26,1997-04-26
+ocd-division/country:ca/province:ns/fed:cape_breton_north-victoria,Cape Breton North—Victoria,1925-09-05,1935-08-13
+ocd-division/country:ca/province:ns/fed:digby_and_annapolis,Digby and Annapolis,1917-10-06,1925-09-04
+ocd-division/country:ca/province:ns/fed:north_cape_breton_and_victoria,North Cape Breton and Victoria,1904-09-20,1925-09-04
+ocd-division/country:ca/province:on/fed:bruce-grey-owen_sound-2000,Bruce—Grey—Owen Sound,2000-06-29,2004-05-22
+ocd-division/country:ca/province:on/fed:essex-kent,Essex—Kent,1979-03-26,1997-04-26
+ocd-division/country:ca/province:on/fed:hamilton-wentworth,Hamilton—Wentworth,1968-04-23,1997-04-26
+ocd-division/country:ca/province:on/fed:lambton-kent-middlesex-1997,Lambton—Kent—Middlesex,1997-04-27,2004-05-22
+ocd-division/country:ca/province:on/fed:lanark-carleton,Lanark—Carleton,1988-10-01,2004-05-22
+ocd-division/country:ca/province:on/fed:lanark-frontenac-lennox_and_addington,Lanark—Frontenac—Lennox and Addington,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:markham-whitchurch-stouffville,Markham—Whitchurch—Stouffville,1989-12-29,1997-04-26
+ocd-division/country:ca/province:on/fed:mississauga-erindale,Mississauga—Erindale,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:mississauga_east-cooksville-2004,Mississauga East—Cooksville,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:pickering-scarborough_east,Pickering—Scarborough East,2004-05-23,2015-08-01
+ocd-division/country:ca/province:on/fed:st._paul~s,St. Paul's,1935-08-14,2015-08-01
+ocd-division/country:ca/province:on/fed:windsor-lake_st._clair,Windsor—Lake St. Clair,1988-10-01,1989-12-28
+ocd-division/country:ca/province:qc/fed:chicoutimi-le_fjord-2000,Chicoutimi—Le Fjord,2000-06-29,2015-08-01
+ocd-division/country:ca/province:qc/fed:hochelaga-1867,Hochelaga,1867-08-06,1979-03-25
+ocd-division/country:ca/province:qc/fed:la_prairie-1981,La Prairie,1981-01-17,1997-04-26
+ocd-division/country:ca/province:qc/fed:lévis-bellechasse,Lévis—Bellechasse,2004-05-23,2015-08-01
+ocd-division/country:ca/province:qc/fed:marc-aurèle-fortin-2004,Marc-Aurèle-Fortin,2004-05-23,2015-08-01
+ocd-division/country:ca/province:qc/fed:montmorency-charlevoix-haute-côte-nord,Montmorency—Charlevoix—Haute-Côte-Nord,2004-09-01,2015-08-01
+ocd-division/country:ca/province:qc/fed:quebec_east,Quebec East,1867-08-06,1968-04-22
+ocd-division/country:ca/province:qc/fed:québec-est,Québec-Est,1968-04-23,1997-04-26
+ocd-division/country:ca/province:qc/fed:rimouski-neigette-témiscouata-les_basques-2004,Rimouski-Neigette—Témiscouata—Les Basques,2004-09-01,2015-08-01
+ocd-division/country:ca/province:qc/fed:rivière-du-loup-montmagny,Rivière-du-Loup—Montmagny,2004-05-23,2004-08-31
+ocd-division/country:ca/province:qc/fed:rosemont-petite-patrie,Rosemont—Petite-Patrie,2000-06-29,2004-05-22
+ocd-division/country:ca/province:qc/fed:saint-denis,Saint-Denis,1953-06-13,1997-04-26
+ocd-division/country:ca/province:qc/fed:saint-henri,Saint-Henri,1953-06-13,1979-03-25
+ocd-division/country:ca/province:qc/fed:saint-henri-westmount,Saint-Henri—Westmount,1979-03-26,1997-04-26
+ocd-division/country:ca/province:qc/fed:saint-léonard,Saint-Léonard,1988-10-01,1997-04-26
+ocd-division/country:ca/province:qc/fed:st-maurice-laflèche,St-Maurice—Laflèche,1935-08-14,1949-04-29
+ocd-division/country:ca/province:qc/fed:st._anne,St. Anne,1896-04-24,1917-10-05
+ocd-division/country:ca/province:qc/fed:st._henri,St. Henri,1925-09-05,1935-08-13
+ocd-division/country:ca/province:qc/fed:st._hyacinthe-bagot,St. Hyacinthe—Bagot,1935-08-14,1949-04-29
+ocd-division/country:ca/province:qc/fed:terrebonne-1867,Terrebonne,1867-08-06,1997-04-26
+ocd-division/country:ca/province:qc/fed:three_rivers_and_st._maurice,Three Rivers and St. Maurice,1896-04-24,1925-09-04
+ocd-division/country:ca/province:qc/fed:verdun-saint-paul,Verdun—Saint-Paul,1981-01-17,1997-04-26
+ocd-division/country:ca/province:sk/fed:humboldt-melfort,Humboldt—Melfort,1953-06-13,1961-05-31
+ocd-division/country:ca/province:sk/fed:swift_current,Swift Current,1917-10-06,1953-02-10
+ocd-division/country:ca/territory:nt/fed:nunavut,Nunavut,1997-04-27,1999-03-30
