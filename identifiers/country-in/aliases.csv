@@ -549,3 +549,25 @@ ocd-division/country:in/territory:dl/lok_sabha:west_delhi,ocd-division/country:i
 ocd-division/country:in/territory:dn/lok_sabha:dadra_and_nagar_haveli,ocd-division/country:in/territory:dh/cd:dadra_and_nagar_haveli,Updated as per Bill No. 366 of 2019 for Merger of Union Territories
 ocd-division/country:in/territory:ld/lok_sabha:lakshadweep,ocd-division/country:in/territory:ld/cd:lakshadweep,Added for backwards compatibility with lok_sabha identifiers
 ocd-division/country:in/territory:py/lok_sabha:puducherry,ocd-division/country:in/territory:py/cd:puducherry,Added for backwards compatibility with lok_sabha identifiers
+ocd-division/country:in/state:as/district:br/cd:bhabanipur,ocd-division/country:in/state:as/district:br/cd:bhowanipur_sorbhog,Bhabanipur renamed to Bhowanipur-Sorbhog
+ocd-division/country:in/state:as/district:db/cd:chabua,ocd-division/country:in/state:as/district:db/cd:chabua_lahowal,Chabua renamed to Chabua-Lahowal
+ocd-division/country:in/state:as/district:db/cd:moran,ocd-division/country:in/state:as/district:db/cd:khowang,Moran renamed to Khowang
+ocd-division/country:in/state:as/district:dm/cd:halflong,ocd-division/country:in/state:as/district:dm/cd:haflong,Halflong (ST) renamed to Haflong (ST)
+ocd-division/country:in/state:as/district:ha/cd:algapur,ocd-division/country:in/state:as/district:ha/cd:algapur_katlicherra,Algapur renamed to Algapur-Katlicherra
+ocd-division/country:in/state:as/district:ka/cd:boko,ocd-division/country:in/state:as/district:ka/cd:boko_chaygaon,Boko (SC) renamed to Boko-Chaygaon (ST)
+ocd-division/country:in/state:as/district:ka/cd:hajo,ocd-division/country:in/state:as/district:ka/cd:hajo_sualkuchi,Hajo renamed to Hajo-Sualkuchi (SC)
+ocd-division/country:in/state:as/district:kr/cd:ratabari,ocd-division/country:in/state:as/district:kr/cd:ram_krishna_nagar,Ratabari (SC) renamed to Ram Krishna Nagar (SC)
+ocd-division/country:in/state:as/district:na/cd:batadraba,ocd-division/country:in/state:as/district:na/cd:dhing,Batadraba renamed to Dhing
+ocd-division/country:in/state:as/district:na/cd:nowgong,ocd-division/country:in/state:as/district:na/cd:nagaon_batadraba,Nowgong renamed to Nagaon-Batadraba
+ocd-division/country:in/state:as/district:so/cd:sootea,ocd-division/country:in/state:as/district:so/cd:nadaur,Sootea renamed to Nadaur
+ocd-division/country:in/state:as/district:bs/cd:bihali,ocd-division/country:in/state:as/district:so/cd:behali,Bihali renamed to Behali (SC)
+ocd-division/country:in/state:as/district:jo/cd:dergaon,ocd-division/country:in/state:as/district:gl/cd:dergaon,Dergaon (SC) renamed to Dergaon
+ocd-division/country:in/state:as/district:bs/cd:gahpur,ocd-division/country:in/state:as/district:so/cd:gohpur,Gahpur renamed to Gohpur
+ocd-division/country:in/state:as/district:cr/cd:mahmara,ocd-division/country:in/state:as/district:cr/cd:mahmora,Mahmara renamed to Mahmora
+ocd-division/country:in/state:as/district:go/cd:dudhnoi,ocd-division/country:in/state:as/district:go/cd:dudhnai,Dudhnoi (ST) renamed to Dudhnai (ST)
+ocd-division/country:in/state:as/district:jo/cd:moriani,ocd-division/country:in/state:as/district:jo/cd:mariani,Moriani renamed to Mariani
+ocd-division/country:in/state:as/district:kb/cd:howraghat,ocd-division/country:in/state:as/district:kb/cd:howarghat,Howraghat (ST) renamed to Howarghat (ST)
+ocd-division/country:in/state:as/district:so/cd:borchalla,ocd-division/country:in/state:as/district:so/cd:barchalla,Borchalla renamed to Barchalla
+ocd-division/country:in/state:as/district:db/cd:dibrugarh,ocd-division/country:in/state:as/district:db/cd:dibrugrah,Dibrugarh renamed to Dibrugrah
+ocd-division/country:in/state:as/district:da/cd:mangaldoi,ocd-division/country:in/state:as/district:da/cd:mangaldai,Mangaldoi (SC) renamed to Mangaldai
+ocd-division/country:in/state:as/district:la/cd:naobaicha,ocd-division/country:in/state:as/district:la/cd:nowboicha,Naobaicha renamed to Nowboicha (SC)
