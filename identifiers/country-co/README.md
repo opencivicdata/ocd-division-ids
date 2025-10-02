@@ -1,5 +1,3 @@
-<img width="1083" height="573" alt="image" src="https://github.com/user-attachments/assets/672c5dce-1282-4f92-92ed-ea88248abb20" /># OCD Division Identifier
-
 This folder list the following administrative divisions of Colombia : 
 * Departments of Colombia
   [ref](https://en.wikipedia.org/wiki/Departments_of_Colombia) as **department**.
