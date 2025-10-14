@@ -9,51 +9,53 @@ This folder list the following administrative divisions of Colombia :
 The OCD identifiers are created based on the HASC code (Used sources [CO department](http://www.statoids.com/uco.html))
 
 
-New OCDIds for Colombia:
-* Sur de Tolima, Urabá Antioquia, Raizal Community, and Foreign do not fall under Foreign (Colombian citizens residing abroad). They are separate contests. In particular Foreign falls under Deputies, as a Scope Special.
-* We are providing a summary that contrasts the previous division with our proposed one. Our main goal in making these adjustments is to enhance accuracy in the contests and ensure consistency with information from formal sources.
+SPECIAL DISTRICTS — COLOMBIA (CHAMBER OF REPRESENTATIVES)
+=========================================================
 
+This repository maintains mappings for OCD-IDs. In Colombia, the Chamber of Representatives includes several special districts ("circunscripciones especiales") in addition to the regular territorial contests. Below is how we model these districts and where they belong in the contest hierarchy.
 
-* Sur de Tolima
+WHAT COUNTS AS A "SPECIAL DISTRICT"
+-----------------------------------
+- Peace Districts: Seats created for regions affected by the armed conflict.
+  Modeling rule: Each peace seat is its own special-scope contest within the Chamber of Representatives.
+  Examples used in this project: Sur de Tolima, Urabá Antioquia.
 
-  Before: It was within the Deputies contest, all 16 Peace seats where together with National Scope
-  
-  After:  We would like to keep this within the Deputies contest, but adjust the scope to “Special Scope” 
-        and list each of the peace seats separately.
-  
-  Source: [INSCRIPCION-DE-CANDIDATOS-2026-1.pdf](https://moe.org.co/wp-content/uploads/2025/03/INSCRIPCION-DE-CANDIDATOS-2026-1.pdf)
-  
-  Link:   https://centralpdet.renovacionterritorio.gov.co/micrositio-uraba-antioqueno/
+- Raizal Community: Distinct community-based district for the Archipelago of San Andrés, Providencia and Santa Catalina.
+  Modeling rule: Separate special-scope contest (not merged with Indigenous).
 
+- Indigenous Communities: Community-based district.
+  Modeling rule: Its own special-scope contest, separate from Raizal.
 
+- Foreign ("Colombian citizens resident abroad"): International district for Colombians residing outside the country.
+  Modeling rule: Special-scope contest under the Chamber of Representatives.
 
-* Urabá Antioquia
+HOW WE REPRESENT SPECIFIC CASES
+-------------------------------
+- Sur de Tolima
+  Contest (Body): Chamber of Representatives
+  Scope: Special
+  Notes: One of the 16 Peace districts; modeled as its own contest.
 
-  Before: It was within the Deputies contest, all 16 Peace seats where together with National Scope
+- Urabá Antioquia
+  Contest (Body): Chamber of Representatives
+  Scope: Special
+  Notes: One of the 16 Peace districts; modeled as its own contest.
 
-  After:  We would like to keep this within the Deputies contest, but adjust the scope to “Special Scope” 
-        and list each of the peace seats separately.
-        
-  Source: [INSCRIPCION-DE-CANDIDATOS-2026-1.pdf](https://moe.org.co/wp-content/uploads/2025/03/INSCRIPCION-DE-CANDIDATOS-2026-1.pdf)
+- Raizal Community
+  Contest (Body): Chamber of Representatives
+  Scope: Special
+  Notes: Separate from Indigenous; each has its own contest.
 
-  Link:   https://centralpdet.renovacionterritorio.gov.co/micrositio-uraba-antioqueno/
+- Foreign ("Colombian citizens resident abroad")
+  Contest (Body): Chamber of Representatives
+  Scope: Special
+  Notes: International district under the Chamber; modeled as its own contest.
 
+SOURCE
+------
+All definitions above are based on Colombia’s official guidance:
 
+PDF: [docs/INSCRIPCION-DE-CANDIDATOS-2026-1.pdf](https://moe.org.co/wp-content/uploads/2025/03/INSCRIPCION-DE-CANDIDATOS-2026-1.pdf)
 
-* Raizal community
-
-  Before: It was within the Deputies contest. Indigenous and Raizal were both a single contest with Special Scope
-  
-  After:  We want to keep it within the Deputies contest, but alter to divide one Raizal and one Indigenous contest, 
-        both with Special Scope
-  
-  Source: [INSCRIPCION-DE-CANDIDATOS-2026-1.pdf](https://moe.org.co/wp-content/uploads/2025/03/INSCRIPCION-DE-CANDIDATOS-2026-1.pdf)
-
-
-* Foreign
-
-  Before: It was within the Deputies contest with Special Scope
-  
-  After:  We want to keep it as it is, no changes here
-  
-  Source: [INSCRIPCION-DE-CANDIDATOS-2026-1.pdf](https://moe.org.co/wp-content/uploads/2025/03/INSCRIPCION-DE-CANDIDATOS-2026-1.pdf)
+Reference site:
+https://centralpdet.renovacionterritorio.gov.co/micrositio-uraba-antioqueno/
