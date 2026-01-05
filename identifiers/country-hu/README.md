@@ -10,6 +10,7 @@ This folder list the following [administrative divisions of Hungary](https://vtr
 
 Based on [Act LXXIX of 2024](https://www.venice.coe.int/webforms/documents/default.aspx?pdffile=CDL-REF(2025)016-e), Hungary’s single-member constituencies will change starting with the next parliamentary election, which is likely to take place on 2026-04-12.
 
+[Official gazette amendment](https://njt.hu/jogszabaly/2024-79-00-00.0)
+
 * Budapest: The number of constituencies is reduced from 18 to 16.
 * Pest County: The number of constituencies increases from 12 to 14.
-* Fejér County and Csongrád-Csanád County: The total number of constituencies remains unchanged (5 in Fejér and 4 in Csongrád-Csanád), but all constituency boundaries have been modified.
