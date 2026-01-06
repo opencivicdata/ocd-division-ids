@@ -1,107 +1,109 @@
-id,name
-ocd-division/country:hu/city:bu/ed:1,Budapest 1. OEVK
-ocd-division/country:hu/city:bu/ed:10,Budapest 10. OEVK
-ocd-division/country:hu/city:bu/ed:11,Budapest 11. OEVK
-ocd-division/country:hu/city:bu/ed:12,Budapest 12. OEVK
-ocd-division/country:hu/city:bu/ed:13,Budapest 13. OEVK
-ocd-division/country:hu/city:bu/ed:14,Budapest 14. OEVK
-ocd-division/country:hu/city:bu/ed:15,Budapest 15. OEVK
-ocd-division/country:hu/city:bu/ed:16,Budapest 16. OEVK
-ocd-division/country:hu/city:bu/ed:17,Budapest 17. OEVK
-ocd-division/country:hu/city:bu/ed:18,Budapest 18. OEVK
-ocd-division/country:hu/city:bu/ed:2,Budapest 2. OEVK
-ocd-division/country:hu/city:bu/ed:3,Budapest 3. OEVK
-ocd-division/country:hu/city:bu/ed:4,Budapest 4. OEVK
-ocd-division/country:hu/city:bu/ed:5,Budapest 5. OEVK
-ocd-division/country:hu/city:bu/ed:6,Budapest 6. OEVK
-ocd-division/country:hu/city:bu/ed:7,Budapest 7. OEVK
-ocd-division/country:hu/city:bu/ed:8,Budapest 8. OEVK
-ocd-division/country:hu/city:bu/ed:9,Budapest 9. OEVK
-ocd-division/country:hu/county:ba/ed:1,Baranya 1. OEVK
-ocd-division/country:hu/county:ba/ed:2,Baranya 2. OEVK
-ocd-division/country:hu/county:ba/ed:3,Baranya 3. OEVK
-ocd-division/country:hu/county:ba/ed:4,Baranya 4. OEVK
-ocd-division/country:hu/county:be/ed:1,Békés 1. OEVK
-ocd-division/country:hu/county:be/ed:2,Békés 2. OEVK
-ocd-division/country:hu/county:be/ed:3,Békés 3. OEVK
-ocd-division/country:hu/county:be/ed:4,Békés 4. OEVK
-ocd-division/country:hu/county:bk/ed:1,Bács-Kiskun 1. OEVK
-ocd-division/country:hu/county:bk/ed:2,Bács-Kiskun 2. OEVK
-ocd-division/country:hu/county:bk/ed:3,Bács-Kiskun 3. OEVK
-ocd-division/country:hu/county:bk/ed:4,Bács-Kiskun 4. OEVK
-ocd-division/country:hu/county:bk/ed:5,Bács-Kiskun 5. OEVK
-ocd-division/country:hu/county:bk/ed:6,Bács-Kiskun 6. OEVK
-ocd-division/country:hu/county:bz/ed:1,Borsod-Abaúj-Zemplén 1. OEVK
-ocd-division/country:hu/county:bz/ed:2,Borsod-Abaúj-Zemplén 2. OEVK
-ocd-division/country:hu/county:bz/ed:3,Borsod-Abaúj-Zemplén 3. OEVK
-ocd-division/country:hu/county:bz/ed:4,Borsod-Abaúj-Zemplén 4. OEVK
-ocd-division/country:hu/county:bz/ed:5,Borsod-Abaúj-Zemplén 5. OEVK
-ocd-division/country:hu/county:bz/ed:6,Borsod-Abaúj-Zemplén 6. OEVK
-ocd-division/country:hu/county:bz/ed:7,Borsod-Abaúj-Zemplén 7. OEVK
-ocd-division/country:hu/county:cs/ed:1,Csongrád-Csanád 1. OEVK
-ocd-division/country:hu/county:cs/ed:2,Csongrád-Csanád 2. OEVK
-ocd-division/country:hu/county:cs/ed:3,Csongrád-Csanád 3. OEVK
-ocd-division/country:hu/county:cs/ed:4,Csongrád-Csanád 4. OEVK
-ocd-division/country:hu/county:fe/ed:1,Fejér 1. OEVK
-ocd-division/country:hu/county:fe/ed:2,Fejér 2. OEVK
-ocd-division/country:hu/county:fe/ed:3,Fejér 3. OEVK
-ocd-division/country:hu/county:fe/ed:4,Fejér 4. OEVK
-ocd-division/country:hu/county:fe/ed:5,Fejér 5. OEVK
-ocd-division/country:hu/county:gs/ed:1,Győr-Moson-Sopron 1. OEVK
-ocd-division/country:hu/county:gs/ed:2,Győr-Moson-Sopron 2. OEVK
-ocd-division/country:hu/county:gs/ed:3,Győr-Moson-Sopron 3. OEVK
-ocd-division/country:hu/county:gs/ed:4,Győr-Moson-Sopron 4. OEVK
-ocd-division/country:hu/county:gs/ed:5,Győr-Moson-Sopron 5. OEVK
-ocd-division/country:hu/county:hb/ed:1,Hajdú-Bihar 1. OEVK
-ocd-division/country:hu/county:hb/ed:2,Hajdú-Bihar 2. OEVK
-ocd-division/country:hu/county:hb/ed:3,Hajdú-Bihar 3. OEVK
-ocd-division/country:hu/county:hb/ed:4,Hajdú-Bihar 4. OEVK
-ocd-division/country:hu/county:hb/ed:5,Hajdú-Bihar 5. OEVK
-ocd-division/country:hu/county:hb/ed:6,Hajdú-Bihar 6. OEVK
-ocd-division/country:hu/county:he/ed:1,Heves 1. OEVK
-ocd-division/country:hu/county:he/ed:2,Heves 2. OEVK
-ocd-division/country:hu/county:he/ed:3,Heves 3. OEVK
-ocd-division/country:hu/county:jn/ed:1,Jász-Nagykun-Szolnok 1. OEVK
-ocd-division/country:hu/county:jn/ed:2,Jász-Nagykun-Szolnok 2. OEVK
-ocd-division/country:hu/county:jn/ed:3,Jász-Nagykun-Szolnok 3. OEVK
-ocd-division/country:hu/county:jn/ed:4,Jász-Nagykun-Szolnok 4. OEVK
-ocd-division/country:hu/county:ke/ed:1,Komárom-Esztergom 1. OEVK
-ocd-division/country:hu/county:ke/ed:2,Komárom-Esztergom 2. OEVK
-ocd-division/country:hu/county:ke/ed:3,Komárom-Esztergom 3. OEVK
-ocd-division/country:hu/county:no/ed:1,Nógrád 1. OEVK
-ocd-division/country:hu/county:no/ed:2,Nógrád 2. OEVK
-ocd-division/country:hu/county:pe/ed:1,Pest 1. OEVK
-ocd-division/country:hu/county:pe/ed:10,Pest 10. OEVK
-ocd-division/country:hu/county:pe/ed:11,Pest 11. OEVK
-ocd-division/country:hu/county:pe/ed:12,Pest 12. OEVK
-ocd-division/country:hu/county:pe/ed:2,Pest 2. OEVK
-ocd-division/country:hu/county:pe/ed:3,Pest 3. OEVK
-ocd-division/country:hu/county:pe/ed:4,Pest 4. OEVK
-ocd-division/country:hu/county:pe/ed:5,Pest 5. OEVK
-ocd-division/country:hu/county:pe/ed:6,Pest 6. OEVK
-ocd-division/country:hu/county:pe/ed:7,Pest 7. OEVK
-ocd-division/country:hu/county:pe/ed:8,Pest 8. OEVK
-ocd-division/country:hu/county:pe/ed:9,Pest 9. OEVK
-ocd-division/country:hu/county:so/ed:1,Somogy 1. OEVK
-ocd-division/country:hu/county:so/ed:2,Somogy 2. OEVK
-ocd-division/country:hu/county:so/ed:3,Somogy 3. OEVK
-ocd-division/country:hu/county:so/ed:4,Somogy 4. OEVK
-ocd-division/country:hu/county:sz/ed:1,Szabolcs-Szatmár-Bereg 1. OEVK
-ocd-division/country:hu/county:sz/ed:2,Szabolcs-Szatmár-Bereg 2. OEVK
-ocd-division/country:hu/county:sz/ed:3,Szabolcs-Szatmár-Bereg 3. OEVK
-ocd-division/country:hu/county:sz/ed:4,Szabolcs-Szatmár-Bereg 4. OEVK
-ocd-division/country:hu/county:sz/ed:5,Szabolcs-Szatmár-Bereg 5. OEVK
-ocd-division/country:hu/county:sz/ed:6,Szabolcs-Szatmár-Bereg 6. OEVK
-ocd-division/country:hu/county:to/ed:1,Tolna 1. OEVK
-ocd-division/country:hu/county:to/ed:2,Tolna 2. OEVK
-ocd-division/country:hu/county:to/ed:3,Tolna 3. OEVK
-ocd-division/country:hu/county:va/ed:1,Vas 1. OEVK
-ocd-division/country:hu/county:va/ed:2,Vas 2. OEVK
-ocd-division/country:hu/county:va/ed:3,Vas 3. OEVK
-ocd-division/country:hu/county:ve/ed:1,Veszprém 1. OEVK
-ocd-division/country:hu/county:ve/ed:2,Veszprém 2. OEVK
-ocd-division/country:hu/county:ve/ed:3,Veszprém 3. OEVK
-ocd-division/country:hu/county:ve/ed:4,Veszprém 4. OEVK
-ocd-division/country:hu/county:za/ed:1,Zala 1. OEVK
-ocd-division/country:hu/county:za/ed:2,Zala 2. OEVK
-ocd-division/country:hu/county:za/ed:3,Zala 3. OEVK
+id,name,valiFrom,validThrough
+ocd-division/country:hu/city:bu/ed:1,Budapest főváros 01. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:10,Budapest főváros 10. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:11,Budapest főváros 11. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:12,Budapest főváros 12. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:13,Budapest főváros 13. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:14,Budapest főváros 14. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:15,Budapest főváros 15. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:16,Budapest főváros 16. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:17,Budapest 17. OEVK,,2026-04-12
+ocd-division/country:hu/city:bu/ed:18,Budapest 18. OEVK,,2026-04-12
+ocd-division/country:hu/city:bu/ed:2,Budapest főváros 02. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:3,Budapest főváros 03. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:4,Budapest főváros 04. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:5,Budapest főváros 05. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:6,Budapest főváros 06. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:7,Budapest főváros 07. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:8,Budapest főváros 08. számú OEVK,,
+ocd-division/country:hu/city:bu/ed:9,Budapest főváros 09. számú OEVK,,
+ocd-division/country:hu/county:ba/ed:1,Baranya 1. OEVK,,
+ocd-division/country:hu/county:ba/ed:2,Baranya 2. OEVK,,
+ocd-division/country:hu/county:ba/ed:3,Baranya 3. OEVK,,
+ocd-division/country:hu/county:ba/ed:4,Baranya 4. OEVK,,
+ocd-division/country:hu/county:be/ed:1,Békés 1. OEVK,,
+ocd-division/country:hu/county:be/ed:2,Békés 2. OEVK,,
+ocd-division/country:hu/county:be/ed:3,Békés 3. OEVK,,
+ocd-division/country:hu/county:be/ed:4,Békés 4. OEVK,,
+ocd-division/country:hu/county:bk/ed:1,Bács-Kiskun 1. OEVK,,
+ocd-division/country:hu/county:bk/ed:2,Bács-Kiskun 2. OEVK,,
+ocd-division/country:hu/county:bk/ed:3,Bács-Kiskun 3. OEVK,,
+ocd-division/country:hu/county:bk/ed:4,Bács-Kiskun 4. OEVK,,
+ocd-division/country:hu/county:bk/ed:5,Bács-Kiskun 5. OEVK,,
+ocd-division/country:hu/county:bk/ed:6,Bács-Kiskun 6. OEVK,,
+ocd-division/country:hu/county:bz/ed:1,Borsod-Abaúj-Zemplén 1. OEVK,,
+ocd-division/country:hu/county:bz/ed:2,Borsod-Abaúj-Zemplén 2. OEVK,,
+ocd-division/country:hu/county:bz/ed:3,Borsod-Abaúj-Zemplén 3. OEVK,,
+ocd-division/country:hu/county:bz/ed:4,Borsod-Abaúj-Zemplén 4. OEVK,,
+ocd-division/country:hu/county:bz/ed:5,Borsod-Abaúj-Zemplén 5. OEVK,,
+ocd-division/country:hu/county:bz/ed:6,Borsod-Abaúj-Zemplén 6. OEVK,,
+ocd-division/country:hu/county:bz/ed:7,Borsod-Abaúj-Zemplén 7. OEVK,,
+ocd-division/country:hu/county:cs/ed:1,Csongrád-Csanád vármegye 01. számú OEVK,,
+ocd-division/country:hu/county:cs/ed:2,Csongrád-Csanád vármegye 02. számú OEVK,,
+ocd-division/country:hu/county:cs/ed:3,Csongrád-Csanád vármegye 03. számú OEVK,,
+ocd-division/country:hu/county:cs/ed:4,Csongrád-Csanád vármegye 04. számú OEVK,,
+ocd-division/country:hu/county:fe/ed:1,Fejér vármegye 01. számú OEVK,,
+ocd-division/country:hu/county:fe/ed:2,Fejér vármegye 02. számú OEVK,,
+ocd-division/country:hu/county:fe/ed:3,Fejér vármegye 03. számú OEVK,,
+ocd-division/country:hu/county:fe/ed:4,Fejér vármegye 04. számú OEVK,,
+ocd-division/country:hu/county:fe/ed:5,Fejér vármegye 05. számú OEVK,,
+ocd-division/country:hu/county:gs/ed:1,Győr-Moson-Sopron 1. OEVK,,
+ocd-division/country:hu/county:gs/ed:2,Győr-Moson-Sopron 2. OEVK,,
+ocd-division/country:hu/county:gs/ed:3,Győr-Moson-Sopron 3. OEVK,,
+ocd-division/country:hu/county:gs/ed:4,Győr-Moson-Sopron 4. OEVK,,
+ocd-division/country:hu/county:gs/ed:5,Győr-Moson-Sopron 5. OEVK,,
+ocd-division/country:hu/county:hb/ed:1,Hajdú-Bihar 1. OEVK,,
+ocd-division/country:hu/county:hb/ed:2,Hajdú-Bihar 2. OEVK,,
+ocd-division/country:hu/county:hb/ed:3,Hajdú-Bihar 3. OEVK,,
+ocd-division/country:hu/county:hb/ed:4,Hajdú-Bihar 4. OEVK,,
+ocd-division/country:hu/county:hb/ed:5,Hajdú-Bihar 5. OEVK,,
+ocd-division/country:hu/county:hb/ed:6,Hajdú-Bihar 6. OEVK,,
+ocd-division/country:hu/county:he/ed:1,Heves 1. OEVK,,
+ocd-division/country:hu/county:he/ed:2,Heves 2. OEVK,,
+ocd-division/country:hu/county:he/ed:3,Heves 3. OEVK,,
+ocd-division/country:hu/county:jn/ed:1,Jász-Nagykun-Szolnok 1. OEVK,,
+ocd-division/country:hu/county:jn/ed:2,Jász-Nagykun-Szolnok 2. OEVK,,
+ocd-division/country:hu/county:jn/ed:3,Jász-Nagykun-Szolnok 3. OEVK,,
+ocd-division/country:hu/county:jn/ed:4,Jász-Nagykun-Szolnok 4. OEVK,,
+ocd-division/country:hu/county:ke/ed:1,Komárom-Esztergom 1. OEVK,,
+ocd-division/country:hu/county:ke/ed:2,Komárom-Esztergom 2. OEVK,,
+ocd-division/country:hu/county:ke/ed:3,Komárom-Esztergom 3. OEVK,,
+ocd-division/country:hu/county:no/ed:1,Nógrád 1. OEVK,,
+ocd-division/country:hu/county:no/ed:2,Nógrád 2. OEVK,,
+ocd-division/country:hu/county:pe/ed:1,Pest vármegye 01. számú OEVK,,
+ocd-division/country:hu/county:pe/ed:10,Pest vármegye 10. számú OEVK,,
+ocd-division/country:hu/county:pe/ed:11,Pest vármegye 11. számú OEVK,,
+ocd-division/country:hu/county:pe/ed:12,Pest vármegye 12. számú OEVK,,
+ocd-division/country:hu/county:pe/ed:13,Pest vármegye 13. számú OEVK,2026-04-12,
+ocd-division/country:hu/county:pe/ed:14,Pest vármegye 14. számú OEVK,2026-04-12,
+ocd-division/country:hu/county:pe/ed:2,Pest vármegye 02. számú OEVK,,
+ocd-division/country:hu/county:pe/ed:3,Pest vármegye 03. számú OEVK,,
+ocd-division/country:hu/county:pe/ed:4,Pest vármegye 04. számú OEVK,,
+ocd-division/country:hu/county:pe/ed:5,Pest vármegye 05. számú OEVK,,
+ocd-division/country:hu/county:pe/ed:6,Pest vármegye 06. számú OEVK,,
+ocd-division/country:hu/county:pe/ed:7,Pest vármegye 07. számú OEVK,,
+ocd-division/country:hu/county:pe/ed:8,Pest vármegye 08. számú OEVK,,
+ocd-division/country:hu/county:pe/ed:9,Pest vármegye 09. számú OEVK,,
+ocd-division/country:hu/county:so/ed:1,Somogy 1. OEVK,,
+ocd-division/country:hu/county:so/ed:2,Somogy 2. OEVK,,
+ocd-division/country:hu/county:so/ed:3,Somogy 3. OEVK,,
+ocd-division/country:hu/county:so/ed:4,Somogy 4. OEVK,,
+ocd-division/country:hu/county:sz/ed:1,Szabolcs-Szatmár-Bereg 1. OEVK,,
+ocd-division/country:hu/county:sz/ed:2,Szabolcs-Szatmár-Bereg 2. OEVK,,
+ocd-division/country:hu/county:sz/ed:3,Szabolcs-Szatmár-Bereg 3. OEVK,,
+ocd-division/country:hu/county:sz/ed:4,Szabolcs-Szatmár-Bereg 4. OEVK,,
+ocd-division/country:hu/county:sz/ed:5,Szabolcs-Szatmár-Bereg 5. OEVK,,
+ocd-division/country:hu/county:sz/ed:6,Szabolcs-Szatmár-Bereg 6. OEVK,,
+ocd-division/country:hu/county:to/ed:1,Tolna 1. OEVK,,
+ocd-division/country:hu/county:to/ed:2,Tolna 2. OEVK,,
+ocd-division/country:hu/county:to/ed:3,Tolna 3. OEVK,,
+ocd-division/country:hu/county:va/ed:1,Vas 1. OEVK,,
+ocd-division/country:hu/county:va/ed:2,Vas 2. OEVK,,
+ocd-division/country:hu/county:va/ed:3,Vas 3. OEVK,,
+ocd-division/country:hu/county:ve/ed:1,Veszprém 1. OEVK,,
+ocd-division/country:hu/county:ve/ed:2,Veszprém 2. OEVK,,
+ocd-division/country:hu/county:ve/ed:3,Veszprém 3. OEVK,,
+ocd-division/country:hu/county:ve/ed:4,Veszprém 4. OEVK,,
+ocd-division/country:hu/county:za/ed:1,Zala 1. OEVK,,
+ocd-division/country:hu/county:za/ed:2,Zala 2. OEVK,,
+ocd-division/country:hu/county:za/ed:3,Zala 3. OEVK,,
