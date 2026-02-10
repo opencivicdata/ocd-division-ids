@@ -1,0 +1,99 @@
+id,name
+ocd-division/country:si/lower:i,Constituency I
+ocd-division/country:si/lower:i/ed:jesenice,Jesenice
+ocd-division/country:si/lower:i/ed:kamnik,Kamnik
+ocd-division/country:si/lower:i/ed:idrija,Idrija
+ocd-division/country:si/lower:i/ed:radovljica_i,Radovljica I
+ocd-division/country:si/lower:i/ed:radovljica_ii,Radovljica II
+ocd-division/country:si/lower:i/ed:kranj_i,Kranj I
+ocd-division/country:si/lower:i/ed:kranj_ii,Kranj II
+ocd-division/country:si/lower:i/ed:kranj_iii,Kranj III
+ocd-division/country:si/lower:i/ed:tržič,Tržič
+ocd-division/country:si/lower:i/ed:škofja_loka_i,Škofja Loka I
+ocd-division/country:si/lower:i/ed:škofja_loka_ii,Škofja Loka II
+ocd-division/country:si/lower:ii,Constituency II
+ocd-division/country:si/lower:ii/ed:tolmin,Tolmin
+ocd-division/country:si/lower:ii/ed:nova_gorica_ii,Nova Gorica II
+ocd-division/country:si/lower:ii/ed:ajdovščina,Ajdovščina
+ocd-division/country:si/lower:ii/ed:piran,Piran
+ocd-division/country:si/lower:ii/ed:izola,Izola
+ocd-division/country:si/lower:ii/ed:koper_i,Koper I
+ocd-division/country:si/lower:ii/ed:koper_ii,Koper II
+ocd-division/country:si/lower:ii/ed:sežana,Sežana
+ocd-division/country:si/lower:ii/ed:ilirska_bistrica,Ilirska Bistrica
+ocd-division/country:si/lower:ii/ed:postojna,Postojna
+ocd-division/country:si/lower:ii/ed:nova_gorica_i,Nova Gorica I
+ocd-division/country:si/lower:iii,Constituency III
+ocd-division/country:si/lower:iii/ed:logatec,Logatec
+ocd-division/country:si/lower:iii/ed:ljubljana_šiška_iii,Ljubljana Šiška III
+ocd-division/country:si/lower:iii/ed:ljubljana_šiška_iv,Ljubljana Šiška IV
+ocd-division/country:si/lower:iii/ed:vrhnika,Vrhnika
+ocd-division/country:si/lower:iii/ed:ljubljana_vič-rudnik_i,Ljubljana Vič-Rudnik I
+ocd-division/country:si/lower:iii/ed:ljubljana_vič-rudnik_ii,Ljubljana Vič-Rudnik II
+ocd-division/country:si/lower:iii/ed:ljubljana_vič-rudnik_iii,Ljubljana Vič-Rudnik III
+ocd-division/country:si/lower:iii/ed:ljubljana_vič-rudnik_iv,Ljubljana Vič-Rudnik IV
+ocd-division/country:si/lower:iii/ed:ljubljana_center,Ljubljana Center
+ocd-division/country:si/lower:iii/ed:ljubljana_šiška_i,Ljubljana Šiška I
+ocd-division/country:si/lower:iii/ed:ljubljana_šiška_ii,Ljubljana Šiška II
+ocd-division/country:si/lower:iv,Constituency IV
+ocd-division/country:si/lower:iv/ed:kočevje,Kočevje
+ocd-division/country:si/lower:iv/ed:domžale_i,Domžale I
+ocd-division/country:si/lower:iv/ed:domžale_ii,Domžale II
+ocd-division/country:si/lower:iv/ed:ribnica-dobrepolje,Ribnica-Dobrepolje
+ocd-division/country:si/lower:iv/ed:grosuplje,Grosuplje
+ocd-division/country:si/lower:iv/ed:ivančna_gorica,Ivančna Gorica
+ocd-division/country:si/lower:iv/ed:ljubljana_moste-polje_i,Ljubljana Moste-Polje I
+ocd-division/country:si/lower:iv/ed:ljubljana_moste-polje_ii,Ljubljana Moste-Polje II
+ocd-division/country:si/lower:iv/ed:ljubljana_moste-polje_iii,Ljubljana Moste-Polje III
+ocd-division/country:si/lower:iv/ed:ljubljana_bežigrad_i,Ljubljana Bežigrad I
+ocd-division/country:si/lower:iv/ed:ljubljana_bežigrad_ii,Ljubljana Bežigrad II
+ocd-division/country:si/lower:v,Constituency V
+ocd-division/country:si/lower:v/ed:šentjur_pri_celju,Šentjur pri Celju
+ocd-division/country:si/lower:v/ed:ravne_na_koroškem,Ravne na Koroškem
+ocd-division/country:si/lower:v/ed:radlje_ob_dravi,Radlje ob Dravi
+ocd-division/country:si/lower:v/ed:celje_i,Celje I
+ocd-division/country:si/lower:v/ed:celje_ii,Celje II
+ocd-division/country:si/lower:v/ed:žalec_i,Žalec I
+ocd-division/country:si/lower:v/ed:žalec_ii,Žalec II
+ocd-division/country:si/lower:v/ed:mozirje,Mozirje
+ocd-division/country:si/lower:v/ed:velenje_i,Velenje I
+ocd-division/country:si/lower:v/ed:velenje_ii,Velenje II
+ocd-division/country:si/lower:v/ed:slovenj_gradec,Slovenj Gradec
+ocd-division/country:si/lower:vi,Constituency VI
+ocd-division/country:si/lower:vi/ed:črnomelj,Črnomelj
+ocd-division/country:si/lower:vi/ed:hrastnik,Hrastnik
+ocd-division/country:si/lower:vi/ed:trbovlje,Trbovlje
+ocd-division/country:si/lower:vi/ed:novo_mesto_i,Novo mesto I
+ocd-division/country:si/lower:vi/ed:novo_mesto_ii,Novo mesto II
+ocd-division/country:si/lower:vi/ed:trebnje,Trebnje
+ocd-division/country:si/lower:vi/ed:brežice,Brežice
+ocd-division/country:si/lower:vi/ed:krško,Krško
+ocd-division/country:si/lower:vi/ed:sevnica,Sevnica
+ocd-division/country:si/lower:vi/ed:laško,Laško
+ocd-division/country:si/lower:vi/ed:litija,Litija
+ocd-division/country:si/lower:vii,Constituency VII
+ocd-division/country:si/lower:vii/ed:šmarje_pri_jelšah,Šmarje pri Jelšah
+ocd-division/country:si/lower:vii/ed:maribor_vi,Maribor VI
+ocd-division/country:si/lower:vii/ed:maribor_vii,Maribor VII
+ocd-division/country:si/lower:vii/ed:slovenska_bistrica,Slovenska Bistrica
+ocd-division/country:si/lower:vii/ed:slovenske_konjice,Slovenske Konjice
+ocd-division/country:si/lower:vii/ed:ruše,Ruše
+ocd-division/country:si/lower:vii/ed:maribor_i,Maribor I
+ocd-division/country:si/lower:vii/ed:maribor_ii,Maribor II
+ocd-division/country:si/lower:vii/ed:maribor_iii,Maribor III
+ocd-division/country:si/lower:vii/ed:maribor_iv,Maribor IV
+ocd-division/country:si/lower:vii/ed:maribor_v,Maribor V
+ocd-division/country:si/lower:viii,Constituency VIII
+ocd-division/country:si/lower:viii/ed:lendava,Lendava
+ocd-division/country:si/lower:viii/ed:ptuj_ii,Ptuj II
+ocd-division/country:si/lower:viii/ed:ptuj_iii,Ptuj III
+ocd-division/country:si/lower:viii/ed:ormož,Ormož
+ocd-division/country:si/lower:viii/ed:ljutomer,Ljutomer
+ocd-division/country:si/lower:viii/ed:murska_sobota_i,Murska Sobota I
+ocd-division/country:si/lower:viii/ed:murska_sobota_ii,Murska Sobota II
+ocd-division/country:si/lower:viii/ed:gornja_radgona,Gornja Radgona
+ocd-division/country:si/lower:viii/ed:lenart,Lenart
+ocd-division/country:si/lower:viii/ed:pesnica,Pesnica
+ocd-division/country:si/lower:viii/ed:ptuj_i,Ptuj I
+ocd-division/country:si/lower:ix,Constituency IX
+ocd-division/country:si/lower:x,Constituency X
