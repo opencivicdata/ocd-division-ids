@@ -18,7 +18,7 @@ GEM
     htmlentities (4.3.4)
     http-cookie (1.0.5)
       domain_name (~> 0.5)
-    json (2.18.1)
+    json (2.19.2)
     logger (1.7.0)
     lycopodium (0.0.3)
     mechanize (2.9.1)
