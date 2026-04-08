@@ -1,8 +1,8 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    addressable (2.8.4)
-      public_suffix (>= 2.0.2, < 6.0)
+    addressable (2.9.0)
+      public_suffix (>= 2.0.2, < 8.0)
     connection_pool (2.4.0)
     dbf (2.0.13)
       fastercsv (~> 1.5)
@@ -46,7 +46,7 @@ GEM
       racc (~> 1.4)
     nokogiri (1.19.1-x86_64-linux-gnu)
       racc (~> 1.4)
-    public_suffix (5.0.1)
+    public_suffix (7.0.5)
     racc (1.8.1)
     ruby-ole (1.2.12.2)
     rubyntlm (0.6.3)
