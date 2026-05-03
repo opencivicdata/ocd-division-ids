@@ -16,7 +16,7 @@ NI Assembly constituencies share boundaries with NI Westminster constituencies p
 
 | Type | Path | Notes |
 |---|---|---|
-| `part` | `country:gb/part:<eng|sct|wls|nir>` | The four parts of the UK. |
+| `part` | `country:gb/part:<eng\|sct\|wls\|nir>` | The four parts of the UK. |
 | `region` | `country:gb/part:eng/region:<nuts1>` | NUTS1 regions of England. |
 | `ed` | `country:gb/part:.../ed:<slug>` | Westminster (UK Parliament) constituencies. |
 | `spc` | `country:gb/part:sct/spc:<slug>` | Scottish Parliament constituencies. |
@@ -28,12 +28,18 @@ NI Assembly constituencies share boundaries with NI Westminster constituencies p
 
 Wards and county electoral divisions key on the canonical [GSS code](https://en.wikipedia.org/wiki/ONS_coding_system) instead of a name slug because UK ward names are not nationally unique (e.g. there are 21 wards named "Castle"). Constituencies and regions, by contrast, have unique names within each type.
 
-The `senc` and `senr` prefixes follow the body's current name (Senedd / Welsh Parliament, post-2020). The earlier (never-merged) `country-uk` script used `nawc` / `nawr` from when the body was the National Assembly for Wales.
+The `senc` and `senr` prefixes follow the body's current name (Senedd / Welsh Parliament, post-2020) and match the modern ONS column codes (`senc22cd`, `senr22cd`). The earlier (never-merged) `country-uk` script and the stalled migration in #186 used `nawc` / `nawr` from when the body was the National Assembly for Wales.
+
+A `gss_code` extra column is carried on every row that maps to a single ONS GSS code, mirroring the older `country-uk` files and #186, so consumers can crosswalk OCD-IDs ↔ GSS codes without a separate lookup.
+
+## Open conventions debate
+
+The hierarchy used here (`country:gb/part:<nation>/<type>:<slug>`) matches the current merged state of `constituencies.csv` (most recently extended in #385). It is not the only proposed convention -- see #170, #184, and the stalled #186, which proposed a flat scheme (`country:gb/<type>:<slug>`) on the grounds that nesting a UK-wide Westminster constituency under `part:eng` etc. implies geographic scope it doesn't have. The objection in #184 specifically targets Westminster's hierarchy; for sub-national bodies like the Scottish Parliament and the Senedd, the geographic nesting is truthful. This PR keeps the hierarchy for consistency with `constituencies.csv`, but reviewers should redirect to a flat scheme if that's the preferred direction; the typed prefixes (`spc`, `senc`, etc.) carry the disambiguation either way.
 
 ## Sources
 
 * Westminster, Scottish Parliament, Senedd, ward, and CED boundaries: ONS [Open Geography Portal](https://geoportal.statistics.gov.uk/) -- Open Government Licence v3.0.
-* Senedd post-May-2026 constituencies: [DataMapWales](https://datamap.gov.wales/layers/geonode:senedd_final_2026) (Welsh Government, OGL v3.0). The 16 constituencies use placeholder GSS codes of the form `W92000001`-`W92000016` until ONS publishes canonical codes; if those change, the `<gss>`-keyed identifiers in this folder will need a `sameAs` row.
+* Senedd post-May-2026 constituencies: [DataMapWales](https://datamap.gov.wales/layers/geonode:senedd_final_2026) (Welsh Government, OGL v3.0). The 16 constituencies use placeholder GSS codes of the form `W92000001`-`W92000016` until ONS publishes canonical codes; if those change, the rows in this folder will need a `sameAs` plus a refreshed `gss_code`.
 
 ## Updates
 
