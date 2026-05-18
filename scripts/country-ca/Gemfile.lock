@@ -8,7 +8,7 @@ GEM
       fastercsv (~> 1.5)
     domain_name (0.5.20190701)
       unf (>= 0.0.5, < 1.0.0)
-    faraday (2.14.1)
+    faraday (2.14.2)
       faraday-net_http (>= 2.0, < 3.5)
       json
       logger
@@ -18,7 +18,7 @@ GEM
     htmlentities (4.3.4)
     http-cookie (1.0.5)
       domain_name (~> 0.5)
-    json (2.19.2)
+    json (2.19.5)
     logger (1.7.0)
     lycopodium (0.0.3)
     mechanize (2.9.1)
