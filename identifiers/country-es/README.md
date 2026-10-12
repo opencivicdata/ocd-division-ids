@@ -18,4 +18,5 @@
 **electoral_districts.csv:**
 * 10 electoral districts in total
 * Electoral districts listed as **ed**
+* Update for 2026-11-29: Replaces the combined Ibiza–Formentera Senate constituency with separate Ibiza and Formentera constituencies, adding new OCD division IDs and setting an end date for the existing combined entry. The validFrom date for the new constituencies and the validThrough date for the combined constituency are both set to the upcoming election date, 2026-11-29. This reflects the amendment to [Article 69(3) of the Spanish Constitution](https://www.boe.es/buscar/doc.php?id=BOE-A-2026-10881); Congress of Deputies constituencies remain unchanged.
 
