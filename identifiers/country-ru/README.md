@@ -6,4 +6,6 @@ This folder list the following administrative divisions of Russia :
 
 [ISO_3166-2](https://en.wikipedia.org/wiki/ISO_3166-2:RU) was used to define identifiers.
 
+Updated electoral districts by Federal Law of the Russian Federation from 2025-05-23
 
+* [Federal Law from 2025-05-23](http://pravo.gov.ru/proxy/ips/?docbody=&nd=608613206) ([or on Garant](https://www.garant.ru/products/ipo/prime/doc/411959256))as **ed**
