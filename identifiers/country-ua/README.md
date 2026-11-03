@@ -10,4 +10,4 @@ This folder list the following administrative divisions of Ukraine:
 
 ## Update 2026-11-03
 
-* Official source of electoral districts: [Central Election Commission of Ukraine](https://www.cvk.gov.ua/pls/vnd2014/WP001)
+* List of constituencies for the election of 2019: [Central Election Commission of Ukraine](https://www.cvk.gov.ua/pls/vnd2014/WP001)
