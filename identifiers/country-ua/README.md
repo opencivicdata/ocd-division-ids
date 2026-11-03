@@ -7,3 +7,7 @@ This folder list the following administrative divisions of Ukraine:
 
     * The list exclude districts not under governoment control. 
     * According to the [law - Article 18](https://www.legislationline.org/download/id/4195/file/Ukraine_Parliamentary_Election_Law_2011_English.pdf), the single mandate districts are defined by the Central Election Commission. So, the single-member constituencies are attached directly to the country level OCD ID.
+
+## Update 2026-11-03
+
+* Official source of electoral districts: [Central Election Commission of Ukraine](https://www.cvk.gov.ua/pls/vnd2014/WP001)
