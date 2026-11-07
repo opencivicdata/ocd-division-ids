@@ -105,10 +105,10 @@ ocd-division/country:us/state:ca/county:los_angeles/school_board_district:4,Los 
 ocd-division/country:us/state:ca/county:los_angeles/school_board_district:5,Los Angeles CA Unified School Board district 5
 ocd-division/country:us/state:ca/county:los_angeles/school_board_district:6,Los Angeles CA Unified School Board district 6
 ocd-division/country:us/state:ca/county:los_angeles/school_board_district:7,Los Angeles CA Unified School Board district 7
-ocd-division/country:us/state:ca/county:los_angeles/la_metro_sector:san_gabriel_valley,Los Angeles CA county supervisor San Gabriel Valley
-ocd-division/country:us/state:ca/county:los_angeles/la_metro_sector:southeast_long_beach,Los Angeles CA county supervisor Southeast Long Beach
-ocd-division/country:us/state:ca/county:los_angeles/la_metro_sector:southwest_corridor,Los Angeles CA county supervisor Southwest Corridor
-ocd-division/country:us/state:ca/county:los_angeles/la_metro_sector:north_county_san_fernando_valley,Los Angeles CA county supervisor North County/San Fernando Valley
+ocd-division/country:us/state:ca/county:los_angeles/transit:san_gabriel_valley,Los Angeles CA county supervisor San Gabriel Valley
+ocd-division/country:us/state:ca/county:los_angeles/transit:southeast_long_beach,Los Angeles CA county supervisor Southeast Long Beach
+ocd-division/country:us/state:ca/county:los_angeles/transit:southwest_corridor,Los Angeles CA county supervisor Southwest Corridor
+ocd-division/country:us/state:ca/county:los_angeles/transit:north_county_san_fernando_valley,Los Angeles CA county supervisor North County/San Fernando Valley
 ocd-division/country:us/state:ca/county:madera/council_district:1,Madera County Supervisor District 1
 ocd-division/country:us/state:ca/county:madera/council_district:2,Madera County Supervisor District 2
 ocd-division/country:us/state:ca/county:madera/council_district:3,Madera County Supervisor District 3
