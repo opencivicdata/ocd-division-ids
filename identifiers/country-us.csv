@@ -179401,8 +179401,7 @@ ocd-division/country:us/state:vt/sldu:chittenden-southeast,Vermont Chittenden So
 ocd-division/country:us/state:vt/sldu:essex,Vermont Essex State Senate district,,,,,,,,,,,2023-01-04
 ocd-division/country:us/state:vt/sldu:essex-orleans,Vermont Essex-Orleans State Senate district,,,2023-01-03,,sldu-50E-O,sldu-50E-O,vt-upper-essex-orleans,,,,
 ocd-division/country:us/state:vt/sldu:franklin,Vermont Franklin State Senate district,,,,,sldu-50FRA,sldu-50FRA,vt-upper-franklin,,,,
-ocd-division/country:us/state:vt/sldu:grand_isle,Vermont Grand Isle State Senate district (obsolete),,,,,sldu-50CGI,,,,,,
-ocd-division/country:us/state:vt/sldu:grand_isle-chittenden,Vermont Grand-Isle-Chittenden State Senate district,,,,,,sldu-50CGI,vt-upper-grand-isle-chittenden,,,,
+ocd-division/country:us/state:vt/sldu:grand_isle,Vermont Grand Isle State Senate district,,,,,sldu-50CGI,sldu-50CGI,vt-upper-grand-isle,,,,
 ocd-division/country:us/state:vt/sldu:lamoille,Vermont Lamoille State Senate district,,,,,sldu-50LAM,sldu-50LAM,vt-upper-lamoille,,,,
 ocd-division/country:us/state:vt/sldu:orange,Vermont Orange State Senate district,,,,,sldu-50ORA,sldu-50ORA,vt-upper-orange,,,,
 ocd-division/country:us/state:vt/sldu:orleans,Vermont Orleans State Senate district,,,,,,,,,,,2023-01-04
