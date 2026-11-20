@@ -57,3 +57,16 @@ ocd-division/country:pl/province:wp/cd:poznań,ocd-division/country:pl/state:wp/
 ocd-division/country:pl/province:zp,ocd-division/country:pl/state:zp,The territory of Poland is divided into voivodeships (provinces)
 ocd-division/country:pl/province:zp/cd:koszalin,ocd-division/country:pl/state:zp/cd:koszalin,The territory of Poland is divided into voivodeships (provinces)
 ocd-division/country:pl/province:zp/cd:szczecin,ocd-division/country:pl/state:zp/cd:szczecin,The territory of Poland is divided into voivodeships (provinces)
+ocd-division/region:eu/member:pl/eup:1,ocd-division/country:pl/eup:1,"Nr 1: województwo pomorskie"
+ocd-division/region:eu/member:pl/eup:2,ocd-division/country:pl/eup:2,"Nr 2: województwo kujawsko-pomorskie"
+ocd-division/region:eu/member:pl/eup:3,ocd-division/country:pl/eup:3,"Nr 3: województwo podlaskie i warmińsko-mazurskie"
+ocd-division/region:eu/member:pl/eup:4,ocd-division/country:pl/eup:4,"Nr 4: Warszawa z 8 powiatami województwa mazowieckiego"
+ocd-division/region:eu/member:pl/eup:5,ocd-division/country:pl/eup:5,"Nr 5: 4 miasta na prawach powiatu i 29 powiatów województwa mazowieckiego"
+ocd-division/region:eu/member:pl/eup:6,ocd-division/country:pl/eup:6,"Nr 6: województwo łódzkie"
+ocd-division/region:eu/member:pl/eup:7,ocd-division/country:pl/eup:7,"Nr 7: województwo wielkopolskie"
+ocd-division/region:eu/member:pl/eup:8,ocd-division/country:pl/eup:8,"Nr 8: województwo lubelskie"
+ocd-division/region:eu/member:pl/eup:9,ocd-division/country:pl/eup:9,"Nr 9: województwo podkarpackie"
+ocd-division/region:eu/member:pl/eup:10,ocd-division/country:pl/eup:10,"Nr 10: województwo małopolskie i świętokrzyskie"
+ocd-division/region:eu/member:pl/eup:11,ocd-division/country:pl/eup:11,"Nr 11: województwo śląskie"
+ocd-division/region:eu/member:pl/eup:12,ocd-division/country:pl/eup:12,"Nr 12: województwo dolnośląskie i opolskie"
+ocd-division/region:eu/member:pl/eup:13,ocd-division/country:pl/eup:13,"Nr 13: województwo lubuskie i zachodniopomorskie"
